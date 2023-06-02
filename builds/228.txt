@@ -1,0 +1,4998 @@
+fill ~1 ~0 ~1 ~2 ~0 ~1 stone 0  
+fill ~1 ~0 ~2 ~1 ~0 ~1 stone 0 
+setblock ~11 ~0 ~31 stonebrick 0 
+setblock ~12 ~0 ~30 stonebrick 0 
+setblock ~12 ~0 ~31 diamond_block 0 
+setblock ~12 ~0 ~32 stonebrick 0  
+fill ~13 ~0 ~29 ~14 ~0 ~29 stonebrick 0  
+fill ~13 ~0 ~30 ~14 ~0 ~30 diamond_block 0  
+fill ~13 ~0 ~31 ~14 ~0 ~31 stonebrick 0  
+fill ~13 ~0 ~32 ~14 ~0 ~32 diamond_block 0  
+fill ~13 ~0 ~33 ~14 ~0 ~33 stonebrick 0 
+setblock ~15 ~0 ~28 stonebrick 0  
+fill ~15 ~0 ~29 ~16 ~0 ~29 diamond_block 0 
+setblock ~15 ~0 ~30 stonebrick 0 
+setblock ~15 ~0 ~31 gold_block 0 
+setblock ~15 ~0 ~32 stonebrick 0  
+fill ~15 ~0 ~33 ~16 ~0 ~33 diamond_block 0 
+setblock ~15 ~0 ~34 stonebrick 0 
+setblock ~16 ~0 ~28 stonebrick 1 
+setblock ~16 ~0 ~30 gold_block 0 
+setblock ~16 ~0 ~31 stonebrick 1 
+setblock ~16 ~0 ~32 gold_block 0 
+setblock ~16 ~0 ~34 stonebrick 1  
+fill ~17 ~0 ~27 ~18 ~0 ~27 stonebrick 1  
+fill ~17 ~0 ~28 ~18 ~0 ~28 diamond_block 0 
+setblock ~17 ~0 ~29 gold_block 0 
+setblock ~17 ~0 ~30 stonebrick 1 
+setblock ~17 ~0 ~31 stonebrick 0  
+fill ~17 ~0 ~32 ~18 ~0 ~32 stonebrick 2 
+setblock ~17 ~0 ~33 gold_block 0  
+fill ~17 ~0 ~34 ~18 ~0 ~34 diamond_block 0 
+setblock ~17 ~0 ~35 stonebrick 0  
+fill ~18 ~0 ~29 ~19 ~0 ~29 stonebrick 2 
+setblock ~18 ~0 ~30 stonebrick 0  
+fill ~18 ~0 ~31 ~19 ~0 ~31 stonebrick 1 
+setblock ~18 ~0 ~33 stonebrick 2 
+setblock ~18 ~0 ~35 stonebrick 2 
+setblock ~19 ~0 ~26 stonebrick 2  
+fill ~19 ~0 ~27 ~20 ~0 ~27 diamond_block 0 
+setblock ~19 ~0 ~28 stonebrick 2 
+setblock ~19 ~0 ~30 stonebrick 2  
+fill ~19 ~0 ~32 ~21 ~0 ~32 stonebrick 1  
+fill ~19 ~0 ~33 ~19 ~0 ~34 stonebrick 0  
+fill ~19 ~0 ~35 ~20 ~0 ~35 diamond_block 0 
+setblock ~19 ~0 ~36 stonebrick 1 
+setblock ~20 ~0 ~25 stonebrick 1 
+setblock ~20 ~0 ~26 gold_block 0 
+setblock ~20 ~0 ~28 stonebrick 1  
+fill ~20 ~0 ~29 ~20 ~0 ~30 stonebrick 0 
+setblock ~20 ~0 ~31 stonebrick 2  
+fill ~20 ~0 ~33 ~21 ~0 ~33 stonebrick 2  
+fill ~20 ~0 ~34 ~20 ~0 ~33 stonebrick 2 
+setblock ~20 ~0 ~36 gold_block 0 
+setblock ~20 ~0 ~37 stonebrick 0 
+setblock ~21 ~0 ~24 stonebrick 2 
+setblock ~21 ~0 ~25 gold_block 0  
+fill ~21 ~0 ~26 ~22 ~0 ~26 diamond_block 0  
+fill ~21 ~0 ~27 ~22 ~0 ~27 stonebrick 1  
+fill ~21 ~0 ~28 ~22 ~0 ~28 stonebrick 2  
+fill ~21 ~0 ~29 ~21 ~0 ~28 stonebrick 2  
+fill ~21 ~0 ~30 ~23 ~0 ~30 stonebrick 1 
+setblock ~21 ~0 ~31 stonebrick 0 
+setblock ~21 ~0 ~34 stonebrick 0 
+setblock ~21 ~0 ~35 stonebrick 2  
+fill ~21 ~0 ~36 ~22 ~0 ~36 diamond_block 0 
+setblock ~21 ~0 ~37 gold_block 0 
+setblock ~21 ~0 ~38 stonebrick 0 
+setblock ~22 ~0 ~24 stonebrick 0 
+setblock ~22 ~0 ~25 stonebrick 2  
+fill ~22 ~0 ~29 ~23 ~0 ~29 stonebrick 1 
+setblock ~22 ~0 ~31 stonebrick 2  
+fill ~22 ~0 ~32 ~22 ~0 ~33 stonebrick 0 
+setblock ~22 ~0 ~34 stonebrick 1 
+setblock ~22 ~0 ~35 stonebrick 0  
+fill ~22 ~0 ~37 ~26 ~0 ~37 stonebrick 1  
+fill ~22 ~0 ~38 ~22 ~0 ~37 stonebrick 1 
+setblock ~23 ~0 ~23 stonebrick 1  
+fill ~23 ~0 ~24 ~24 ~0 ~24 stonebrick 2  
+fill ~23 ~0 ~25 ~23 ~0 ~26 stonebrick 0 
+setblock ~23 ~0 ~27 stonebrick 2 
+setblock ~23 ~0 ~28 stonebrick 0 
+setblock ~23 ~0 ~31 diamond_block 0 
+setblock ~23 ~0 ~32 stonebrick 1 
+setblock ~23 ~0 ~33 stonebrick 0 
+setblock ~23 ~0 ~34 stonebrick 2  
+fill ~23 ~0 ~35 ~24 ~0 ~35 stonebrick 1  
+fill ~23 ~0 ~36 ~24 ~0 ~36 stonebrick 0 
+setblock ~23 ~0 ~38 stonebrick 2 
+setblock ~23 ~0 ~39 stonebrick 0  
+fill ~24 ~0 ~21 ~24 ~0 ~22 stonebrick 1 
+setblock ~24 ~0 ~23 stonebrick 0  
+fill ~24 ~0 ~25 ~26 ~0 ~25 stonebrick 1  
+fill ~24 ~0 ~26 ~24 ~0 ~27 stonebrick 0  
+fill ~24 ~0 ~28 ~24 ~0 ~29 stonebrick 2 
+setblock ~24 ~0 ~30 diamond_block 0 
+setblock ~24 ~0 ~31 stonebrick 1 
+setblock ~24 ~0 ~32 diamond_block 0  
+fill ~24 ~0 ~33 ~24 ~0 ~35 stonebrick 1  
+fill ~24 ~0 ~38 ~25 ~0 ~38 stonebrick 1 
+setblock ~24 ~0 ~39 stonebrick 2  
+fill ~24 ~0 ~40 ~25 ~0 ~40 stonebrick 1 
+setblock ~24 ~0 ~41 stonebrick 0 
+setblock ~25 ~0 ~20 stonebrick 0 
+setblock ~25 ~0 ~21 gold_block 0 
+setblock ~25 ~0 ~22 stonebrick 2  
+fill ~25 ~0 ~23 ~25 ~0 ~25 stonebrick 1  
+fill ~25 ~0 ~26 ~26 ~0 ~26 stonebrick 2  
+fill ~25 ~0 ~27 ~26 ~0 ~27 stonebrick 2  
+fill ~25 ~0 ~28 ~26 ~0 ~28 stonebrick 0  
+fill ~25 ~0 ~29 ~25 ~0 ~30 stonebrick 0  
+fill ~25 ~0 ~31 ~26 ~0 ~31 gold_block 0  
+fill ~25 ~0 ~32 ~25 ~0 ~33 stonebrick 0  
+fill ~25 ~0 ~34 ~25 ~0 ~36 stonebrick 2 
+setblock ~25 ~0 ~39 stonebrick 0 
+setblock ~25 ~0 ~41 gold_block 0 
+setblock ~25 ~0 ~42 stonebrick 1 
+setblock ~26 ~0 ~19 stonebrick 0 
+setblock ~26 ~0 ~20 gold_block 0  
+fill ~26 ~0 ~21 ~26 ~0 ~22 diamond_block 0  
+fill ~26 ~0 ~23 ~27 ~0 ~23 stonebrick 2 
+setblock ~26 ~0 ~24 stonebrick 1 
+setblock ~26 ~0 ~29 stonebrick 2 
+setblock ~26 ~0 ~30 stonebrick 0 
+setblock ~26 ~0 ~32 stonebrick 1  
+fill ~26 ~0 ~33 ~27 ~0 ~33 stonebrick 2  
+fill ~26 ~0 ~34 ~27 ~0 ~34 stonebrick 0 
+setblock ~26 ~0 ~35 stonebrick 1  
+fill ~26 ~0 ~36 ~29 ~0 ~36 stonebrick 0 
+setblock ~26 ~0 ~38 stonebrick 2  
+fill ~26 ~0 ~39 ~27 ~0 ~39 stonebrick 1  
+fill ~26 ~0 ~40 ~26 ~0 ~41 diamond_block 0 
+setblock ~26 ~0 ~42 gold_block 0 
+setblock ~26 ~0 ~43 stonebrick 2 
+setblock ~27 ~0 ~17 stonebrick 2 
+setblock ~27 ~0 ~18 stonebrick 1  
+fill ~27 ~0 ~19 ~27 ~0 ~20 diamond_block 0 
+setblock ~27 ~0 ~21 stonebrick 0  
+fill ~27 ~0 ~22 ~29 ~0 ~22 stonebrick 2  
+fill ~27 ~0 ~24 ~29 ~0 ~24 stonebrick 0  
+fill ~27 ~0 ~25 ~27 ~0 ~24 stonebrick 0  
+fill ~27 ~0 ~26 ~28 ~0 ~26 stonebrick 1 
+setblock ~27 ~0 ~27 stonebrick 0  
+fill ~27 ~0 ~28 ~28 ~0 ~28 stonebrick 2 
+setblock ~27 ~0 ~29 stonebrick 1  
+fill ~27 ~0 ~30 ~29 ~0 ~30 stonebrick 2  
+fill ~27 ~0 ~31 ~28 ~0 ~31 stonebrick 0 
+setblock ~27 ~0 ~32 stonebrick 2 
+setblock ~27 ~0 ~35 stonebrick 2 
+setblock ~27 ~0 ~37 stonebrick 2 
+setblock ~27 ~0 ~38 stonebrick 1  
+fill ~27 ~0 ~40 ~28 ~0 ~40 stonebrick 2 
+setblock ~27 ~0 ~41 stonebrick 0  
+fill ~27 ~0 ~42 ~27 ~0 ~43 diamond_block 0 
+setblock ~27 ~0 ~44 stonebrick 1 
+setblock ~27 ~0 ~45 stonebrick 0 
+setblock ~28 ~0 ~15 stonebrick 0 
+setblock ~28 ~0 ~16 stonebrick 2  
+fill ~28 ~0 ~17 ~28 ~0 ~18 diamond_block 0  
+fill ~28 ~0 ~19 ~28 ~0 ~20 stonebrick 1  
+fill ~28 ~0 ~21 ~30 ~0 ~21 stonebrick 2  
+fill ~28 ~0 ~23 ~30 ~0 ~23 stonebrick 0 
+setblock ~28 ~0 ~25 stonebrick 1 
+setblock ~28 ~0 ~27 stonebrick 1 
+setblock ~28 ~0 ~29 stonebrick 0 
+setblock ~28 ~0 ~32 stonebrick 1  
+fill ~28 ~0 ~33 ~29 ~0 ~33 stonebrick 0 
+setblock ~28 ~0 ~34 stonebrick 2 
+setblock ~28 ~0 ~35 stonebrick 1 
+setblock ~28 ~0 ~37 stonebrick 1  
+fill ~28 ~0 ~38 ~28 ~0 ~39 stonebrick 0  
+fill ~28 ~0 ~41 ~29 ~0 ~41 stonebrick 2  
+fill ~28 ~0 ~42 ~30 ~0 ~42 stonebrick 2  
+fill ~28 ~0 ~43 ~29 ~0 ~43 stonebrick 0  
+fill ~28 ~0 ~44 ~28 ~0 ~45 diamond_block 0 
+setblock ~28 ~0 ~46 stonebrick 2 
+setblock ~28 ~0 ~47 stonebrick 0  
+fill ~29 ~0 ~13 ~29 ~0 ~14 stonebrick 0  
+fill ~29 ~0 ~15 ~29 ~0 ~16 diamond_block 0 
+setblock ~29 ~0 ~17 gold_block 0  
+fill ~29 ~0 ~18 ~29 ~0 ~22 stonebrick 2 
+setblock ~29 ~0 ~25 stonebrick 0  
+fill ~29 ~0 ~26 ~29 ~0 ~27 stonebrick 2 
+setblock ~29 ~0 ~28 stonebrick 0 
+setblock ~29 ~0 ~29 stonebrick 1  
+fill ~29 ~0 ~31 ~30 ~0 ~31 stonebrick 1 
+setblock ~29 ~0 ~32 stonebrick 0 
+setblock ~29 ~0 ~34 stonebrick 1 
+setblock ~29 ~0 ~35 stonebrick 0  
+fill ~29 ~0 ~37 ~29 ~0 ~38 stonebrick 2  
+fill ~29 ~0 ~39 ~30 ~0 ~39 stonebrick 1  
+fill ~29 ~0 ~40 ~30 ~0 ~40 stonebrick 1  
+fill ~29 ~0 ~44 ~30 ~0 ~44 stonebrick 2 
+setblock ~29 ~0 ~45 gold_block 0  
+fill ~29 ~0 ~46 ~29 ~0 ~47 diamond_block 0  
+fill ~29 ~0 ~48 ~29 ~0 ~49 stonebrick 0 
+setblock ~30 ~0 ~12 stonebrick 0  
+fill ~30 ~0 ~13 ~30 ~0 ~14 diamond_block 0 
+setblock ~30 ~0 ~15 stonebrick 0 
+setblock ~30 ~0 ~16 gold_block 0 
+setblock ~30 ~0 ~17 stonebrick 2 
+setblock ~30 ~0 ~18 stonebrick 1  
+fill ~30 ~0 ~19 ~30 ~0 ~21 stonebrick 2  
+fill ~30 ~0 ~22 ~32 ~0 ~22 stonebrick 1 
+setblock ~30 ~0 ~24 diamond_block 0 
+setblock ~30 ~0 ~25 stonebrick 2 
+setblock ~30 ~0 ~26 stonebrick 1  
+fill ~30 ~0 ~27 ~35 ~0 ~27 stonebrick 0  
+fill ~30 ~0 ~28 ~32 ~0 ~28 stonebrick 1  
+fill ~30 ~0 ~29 ~32 ~0 ~29 stonebrick 2 
+setblock ~30 ~0 ~30 stonebrick 1 
+setblock ~30 ~0 ~32 stonebrick 1  
+fill ~30 ~0 ~33 ~31 ~0 ~33 stonebrick 2  
+fill ~30 ~0 ~34 ~31 ~0 ~34 stonebrick 0  
+fill ~30 ~0 ~35 ~30 ~0 ~36 stonebrick 2 
+setblock ~30 ~0 ~37 stonebrick 0 
+setblock ~30 ~0 ~38 diamond_block 0 
+setblock ~30 ~0 ~41 stonebrick 1 
+setblock ~30 ~0 ~43 stonebrick 2  
+fill ~30 ~0 ~45 ~31 ~0 ~45 stonebrick 2 
+setblock ~30 ~0 ~46 gold_block 0 
+setblock ~30 ~0 ~47 stonebrick 1  
+fill ~30 ~0 ~48 ~30 ~0 ~49 diamond_block 0 
+setblock ~30 ~0 ~50 stonebrick 0 
+setblock ~31 ~0 ~11 stonebrick 0 
+setblock ~31 ~0 ~12 diamond_block 0  
+fill ~31 ~0 ~13 ~31 ~0 ~14 stonebrick 0 
+setblock ~31 ~0 ~15 gold_block 0 
+setblock ~31 ~0 ~16 stonebrick 1  
+fill ~31 ~0 ~17 ~31 ~0 ~19 stonebrick 0  
+fill ~31 ~0 ~20 ~31 ~0 ~22 stonebrick 1 
+setblock ~31 ~0 ~23 diamond_block 0 
+setblock ~31 ~0 ~24 stonebrick 2  
+fill ~31 ~0 ~25 ~31 ~0 ~26 gold_block 0  
+fill ~31 ~0 ~30 ~32 ~0 ~30 stonebrick 2  
+fill ~31 ~0 ~31 ~31 ~0 ~32 stonebrick 0 
+setblock ~31 ~0 ~35 stonebrick 0  
+fill ~31 ~0 ~36 ~31 ~0 ~37 gold_block 0 
+setblock ~31 ~0 ~38 stonebrick 1 
+setblock ~31 ~0 ~39 diamond_block 0  
+fill ~31 ~0 ~40 ~31 ~0 ~41 stonebrick 2 
+setblock ~31 ~0 ~42 stonebrick 1  
+fill ~31 ~0 ~43 ~33 ~0 ~43 stonebrick 0 
+setblock ~31 ~0 ~44 stonebrick 1 
+setblock ~31 ~0 ~46 stonebrick 0 
+setblock ~31 ~0 ~47 gold_block 0  
+fill ~31 ~0 ~48 ~31 ~0 ~49 stonebrick 0 
+setblock ~31 ~0 ~50 diamond_block 0 
+setblock ~31 ~0 ~51 stonebrick 0 
+setblock ~32 ~0 ~12 stonebrick 0  
+fill ~32 ~0 ~13 ~32 ~0 ~14 diamond_block 0 
+setblock ~32 ~0 ~15 stonebrick 0 
+setblock ~32 ~0 ~16 gold_block 0 
+setblock ~32 ~0 ~17 stonebrick 2 
+setblock ~32 ~0 ~18 stonebrick 0 
+setblock ~32 ~0 ~19 stonebrick 1  
+fill ~32 ~0 ~20 ~32 ~0 ~21 stonebrick 0 
+setblock ~32 ~0 ~23 stonebrick 1 
+setblock ~32 ~0 ~24 diamond_block 0 
+setblock ~32 ~0 ~25 stonebrick 0 
+setblock ~32 ~0 ~26 stonebrick 1  
+fill ~32 ~0 ~31 ~35 ~0 ~31 stonebrick 2  
+fill ~32 ~0 ~32 ~32 ~0 ~29 stonebrick 2 
+setblock ~32 ~0 ~33 stonebrick 1  
+fill ~32 ~0 ~34 ~32 ~1 ~34 stonebrick 2  
+fill ~32 ~0 ~35 ~33 ~0 ~35 stonebrick 1  
+fill ~32 ~0 ~36 ~32 ~0 ~35 stonebrick 1 
+setblock ~32 ~0 ~37 stonebrick 2 
+setblock ~32 ~0 ~38 diamond_block 0 
+setblock ~32 ~0 ~39 stonebrick 2 
+setblock ~32 ~0 ~40 stonebrick 1  
+fill ~32 ~0 ~41 ~32 ~0 ~43 stonebrick 0 
+setblock ~32 ~0 ~44 stonebrick 2 
+setblock ~32 ~0 ~45 stonebrick 1 
+setblock ~32 ~0 ~46 gold_block 0 
+setblock ~32 ~0 ~47 stonebrick 1  
+fill ~32 ~0 ~48 ~32 ~0 ~49 diamond_block 0 
+setblock ~32 ~0 ~50 stonebrick 0  
+fill ~33 ~0 ~13 ~33 ~0 ~14 stonebrick 0  
+fill ~33 ~0 ~15 ~33 ~0 ~16 diamond_block 0 
+setblock ~33 ~0 ~17 gold_block 0 
+setblock ~33 ~0 ~18 stonebrick 1 
+setblock ~33 ~0 ~19 stonebrick 0 
+setblock ~33 ~0 ~20 stonebrick 2 
+setblock ~33 ~0 ~21 stonebrick 0  
+fill ~33 ~0 ~22 ~34 ~0 ~22 stonebrick 2 
+setblock ~33 ~0 ~23 stonebrick 0  
+fill ~33 ~0 ~24 ~34 ~0 ~24 stonebrick 1  
+fill ~33 ~0 ~25 ~33 ~0 ~24 stonebrick 1 
+setblock ~33 ~0 ~26 stonebrick 2 
+setblock ~33 ~0 ~28 stonebrick 2 
+setblock ~33 ~0 ~29 stonebrick 0 
+setblock ~33 ~0 ~30 stonebrick 1 
+setblock ~33 ~0 ~32 stonebrick 1 
+setblock ~33 ~0 ~33 stonebrick 2  
+fill ~33 ~0 ~34 ~34 ~0 ~34 stonebrick 1  
+fill ~33 ~0 ~36 ~34 ~0 ~36 stonebrick 0  
+fill ~33 ~0 ~37 ~33 ~0 ~38 stonebrick 1 
+setblock ~33 ~0 ~39 stonebrick 0 
+setblock ~33 ~0 ~40 stonebrick 2  
+fill ~33 ~0 ~41 ~34 ~0 ~41 stonebrick 1  
+fill ~33 ~0 ~42 ~34 ~0 ~42 stonebrick 0 
+setblock ~33 ~0 ~44 stonebrick 0 
+setblock ~33 ~0 ~45 gold_block 0  
+fill ~33 ~0 ~46 ~33 ~0 ~47 diamond_block 0  
+fill ~33 ~0 ~48 ~33 ~0 ~49 stonebrick 0  
+fill ~34 ~0 ~15 ~34 ~0 ~16 stonebrick 0  
+fill ~34 ~0 ~17 ~34 ~0 ~18 diamond_block 0  
+fill ~34 ~0 ~19 ~34 ~0 ~20 stonebrick 1 
+setblock ~34 ~0 ~21 stonebrick 2 
+setblock ~34 ~0 ~23 stonebrick 2  
+fill ~34 ~0 ~25 ~35 ~0 ~25 stonebrick 0 
+setblock ~34 ~0 ~26 stonebrick 1 
+setblock ~34 ~0 ~28 stonebrick 1  
+fill ~34 ~0 ~29 ~35 ~0 ~29 stonebrick 2 
+setblock ~34 ~0 ~30 stonebrick 0  
+fill ~34 ~0 ~32 ~34 ~0 ~33 stonebrick 0 
+setblock ~34 ~0 ~35 stonebrick 2 
+setblock ~34 ~0 ~37 stonebrick 2 
+setblock ~34 ~0 ~38 stonebrick 0  
+fill ~34 ~0 ~39 ~35 ~0 ~39 stonebrick 1  
+fill ~34 ~0 ~40 ~34 ~0 ~39 stonebrick 1 
+setblock ~34 ~0 ~43 stonebrick 2  
+fill ~34 ~0 ~44 ~34 ~0 ~45 diamond_block 0  
+fill ~34 ~0 ~46 ~34 ~0 ~47 stonebrick 2 
+setblock ~35 ~0 ~17 stonebrick 2 
+setblock ~35 ~0 ~18 stonebrick 0  
+fill ~35 ~0 ~19 ~35 ~0 ~20 diamond_block 0 
+setblock ~35 ~0 ~21 stonebrick 1  
+fill ~35 ~0 ~22 ~35 ~0 ~23 stonebrick 0 
+setblock ~35 ~0 ~24 stonebrick 2 
+setblock ~35 ~0 ~26 stonebrick 2  
+fill ~35 ~0 ~28 ~36 ~0 ~28 stonebrick 0 
+setblock ~35 ~0 ~30 stonebrick 2  
+fill ~35 ~0 ~32 ~35 ~0 ~33 stonebrick 2  
+fill ~35 ~0 ~34 ~36 ~0 ~34 stonebrick 0  
+fill ~35 ~0 ~35 ~35 ~0 ~34 stonebrick 0  
+fill ~35 ~0 ~36 ~39 ~0 ~36 stonebrick 2  
+fill ~35 ~0 ~37 ~36 ~0 ~37 stonebrick 1  
+fill ~35 ~0 ~38 ~36 ~0 ~38 stonebrick 1 
+setblock ~35 ~0 ~40 stonebrick 2 
+setblock ~35 ~0 ~41 stonebrick 0  
+fill ~35 ~0 ~42 ~35 ~0 ~43 diamond_block 0 
+setblock ~35 ~0 ~44 stonebrick 1 
+setblock ~35 ~0 ~45 stonebrick 2 
+setblock ~36 ~0 ~19 stonebrick 0 
+setblock ~36 ~0 ~20 gold_block 0  
+fill ~36 ~0 ~21 ~36 ~0 ~22 diamond_block 0  
+fill ~36 ~0 ~23 ~38 ~0 ~23 stonebrick 1 
+setblock ~36 ~0 ~24 stonebrick 0 
+setblock ~36 ~0 ~25 stonebrick 1 
+setblock ~36 ~0 ~26 stonebrick 0 
+setblock ~36 ~0 ~27 stonebrick 1  
+fill ~36 ~0 ~29 ~36 ~0 ~30 stonebrick 0  
+fill ~36 ~0 ~31 ~37 ~0 ~31 gold_block 0  
+fill ~36 ~0 ~32 ~36 ~0 ~34 stonebrick 0 
+setblock ~36 ~0 ~35 stonebrick 2 
+setblock ~36 ~0 ~39 stonebrick 0  
+fill ~36 ~0 ~40 ~36 ~0 ~41 diamond_block 0 
+setblock ~36 ~0 ~42 gold_block 0 
+setblock ~36 ~0 ~43 stonebrick 1 
+setblock ~37 ~0 ~20 stonebrick 1 
+setblock ~37 ~0 ~21 gold_block 0 
+setblock ~37 ~0 ~22 stonebrick 1 
+setblock ~37 ~0 ~24 stonebrick 1 
+setblock ~37 ~0 ~25 stonebrick 0  
+fill ~37 ~0 ~26 ~37 ~0 ~28 stonebrick 2  
+fill ~37 ~0 ~29 ~39 ~0 ~29 stonebrick 1 
+setblock ~37 ~0 ~30 stonebrick 2 
+setblock ~37 ~0 ~32 stonebrick 2  
+fill ~37 ~0 ~33 ~39 ~0 ~33 stonebrick 0  
+fill ~37 ~0 ~34 ~41 ~0 ~34 stonebrick 1 
+setblock ~37 ~0 ~35 stonebrick 0  
+fill ~37 ~0 ~37 ~40 ~0 ~37 stonebrick 0  
+fill ~37 ~0 ~38 ~38 ~0 ~38 stonebrick 0  
+fill ~37 ~0 ~39 ~38 ~0 ~39 stonebrick 2 
+setblock ~37 ~0 ~40 stonebrick 0 
+setblock ~37 ~0 ~41 gold_block 0 
+setblock ~37 ~0 ~42 stonebrick 1  
+fill ~38 ~0 ~21 ~38 ~0 ~22 stonebrick 2 
+setblock ~38 ~0 ~24 stonebrick 0 
+setblock ~38 ~0 ~25 stonebrick 2  
+fill ~38 ~0 ~26 ~39 ~0 ~26 stonebrick 0  
+fill ~38 ~0 ~27 ~38 ~0 ~28 stonebrick 2 
+setblock ~38 ~0 ~30 diamond_block 0 
+setblock ~38 ~0 ~31 stonebrick 1 
+setblock ~38 ~0 ~32 diamond_block 0  
+fill ~38 ~0 ~35 ~39 ~0 ~35 stonebrick 2 
+setblock ~38 ~0 ~40 stonebrick 2 
+setblock ~38 ~0 ~41 stonebrick 0 
+setblock ~39 ~0 ~23 stonebrick 0  
+fill ~39 ~0 ~24 ~41 ~0 ~24 stonebrick 1  
+fill ~39 ~0 ~25 ~40 ~0 ~25 stonebrick 1 
+setblock ~39 ~0 ~27 stonebrick 0 
+setblock ~39 ~0 ~28 stonebrick 2 
+setblock ~39 ~0 ~30 stonebrick 2 
+setblock ~39 ~0 ~31 diamond_block 0 
+setblock ~39 ~0 ~32 stonebrick 1 
+setblock ~39 ~0 ~38 stonebrick 2 
+setblock ~39 ~0 ~39 stonebrick 1  
+fill ~40 ~0 ~26 ~41 ~0 ~26 diamond_block 0 
+setblock ~40 ~0 ~27 stonebrick 2 
+setblock ~40 ~0 ~28 stonebrick 1  
+fill ~40 ~0 ~29 ~40 ~0 ~30 stonebrick 0  
+fill ~40 ~0 ~31 ~41 ~0 ~31 stonebrick 1  
+fill ~40 ~0 ~32 ~40 ~0 ~33 stonebrick 2  
+fill ~40 ~0 ~35 ~41 ~0 ~35 stonebrick 1  
+fill ~40 ~0 ~36 ~41 ~0 ~36 diamond_block 0  
+fill ~40 ~0 ~38 ~41 ~0 ~38 stonebrick 1 
+setblock ~41 ~0 ~25 gold_block 0 
+setblock ~41 ~0 ~27 stonebrick 0  
+fill ~41 ~0 ~28 ~42 ~0 ~28 stonebrick 2  
+fill ~41 ~0 ~29 ~42 ~0 ~29 stonebrick 1  
+fill ~41 ~0 ~30 ~41 ~0 ~29 stonebrick 1 
+setblock ~41 ~0 ~32 stonebrick 0 
+setblock ~41 ~0 ~33 stonebrick 2 
+setblock ~41 ~0 ~37 gold_block 0 
+setblock ~42 ~0 ~25 stonebrick 2 
+setblock ~42 ~0 ~26 gold_block 0  
+fill ~42 ~0 ~27 ~43 ~0 ~27 diamond_block 0  
+fill ~42 ~0 ~30 ~42 ~0 ~31 stonebrick 0  
+fill ~42 ~0 ~32 ~42 ~0 ~33 stonebrick 1 
+setblock ~42 ~0 ~34 stonebrick 2  
+fill ~42 ~0 ~35 ~43 ~0 ~35 diamond_block 0 
+setblock ~42 ~0 ~36 gold_block 0 
+setblock ~42 ~0 ~37 stonebrick 2 
+setblock ~43 ~0 ~26 stonebrick 2 
+setblock ~43 ~0 ~28 stonebrick 1 
+setblock ~43 ~0 ~29 stonebrick 2  
+fill ~43 ~0 ~30 ~43 ~0 ~31 stonebrick 1 
+setblock ~43 ~0 ~32 stonebrick 0 
+setblock ~43 ~0 ~33 stonebrick 2 
+setblock ~43 ~0 ~34 stonebrick 0 
+setblock ~43 ~0 ~36 stonebrick 0 
+setblock ~44 ~0 ~27 stonebrick 0  
+fill ~44 ~0 ~28 ~45 ~0 ~28 diamond_block 0 
+setblock ~44 ~0 ~29 stonebrick 1  
+fill ~44 ~0 ~30 ~45 ~0 ~30 stonebrick 0 
+setblock ~44 ~0 ~31 stonebrick 2 
+setblock ~44 ~0 ~32 stonebrick 1 
+setblock ~44 ~0 ~33 stonebrick 0  
+fill ~44 ~0 ~34 ~45 ~0 ~34 diamond_block 0 
+setblock ~44 ~0 ~35 stonebrick 2 
+setblock ~45 ~0 ~27 stonebrick 1 
+setblock ~45 ~0 ~29 gold_block 0  
+fill ~45 ~0 ~31 ~45 ~0 ~32 stonebrick 0 
+setblock ~45 ~0 ~33 gold_block 0 
+setblock ~45 ~0 ~35 stonebrick 0  
+fill ~46 ~0 ~28 ~47 ~0 ~28 stonebrick 0  
+fill ~46 ~0 ~29 ~47 ~0 ~29 diamond_block 0 
+setblock ~46 ~0 ~30 gold_block 0 
+setblock ~46 ~0 ~31 stonebrick 1 
+setblock ~46 ~0 ~32 gold_block 0  
+fill ~46 ~0 ~33 ~47 ~0 ~33 diamond_block 0 
+setblock ~46 ~0 ~34 stonebrick 1 
+setblock ~47 ~0 ~30 stonebrick 0 
+setblock ~47 ~0 ~31 gold_block 0 
+setblock ~47 ~0 ~32 stonebrick 0 
+setblock ~47 ~0 ~34 stonebrick 0  
+fill ~48 ~0 ~29 ~49 ~0 ~29 stonebrick 0  
+fill ~48 ~0 ~30 ~49 ~0 ~30 diamond_block 0  
+fill ~48 ~0 ~31 ~49 ~0 ~31 stonebrick 0  
+fill ~48 ~0 ~32 ~49 ~0 ~32 diamond_block 0  
+fill ~48 ~0 ~33 ~49 ~0 ~33 stonebrick 0 
+setblock ~50 ~0 ~30 stonebrick 0 
+setblock ~50 ~0 ~31 diamond_block 0 
+setblock ~50 ~0 ~32 stonebrick 0 
+setblock ~51 ~0 ~31 stonebrick 0  
+fill ~1 ~1 ~28 ~1 ~32 ~28 vine 8 
+setblock ~6 ~1 ~32 yellow_flower 0  
+fill ~8 ~1 ~37 ~9 ~1 ~37 yellow_flower 0 
+setblock ~9 ~1 ~40 yellow_flower 0 
+setblock ~10 ~1 ~29 red_flower 0 
+setblock ~10 ~1 ~30 stonebrick 1  
+fill ~10 ~1 ~31 ~10 ~2 ~31 glowstone 0 
+setblock ~10 ~1 ~32 stonebrick 1 
+setblock ~10 ~1 ~34 red_flower 0  
+fill ~11 ~1 ~28 ~11 ~1 ~29 stonebrick 0 
+setblock ~11 ~1 ~30 vine 4  
+fill ~11 ~1 ~33 ~11 ~2 ~33 stonebrick 0  
+fill ~11 ~1 ~34 ~11 ~2 ~34 stonebrick 0  
+fill ~12 ~1 ~26 ~12 ~2 ~26 stonebrick 0 
+setblock ~12 ~1 ~27 stonebrick 2  
+fill ~12 ~1 ~28 ~12 ~2 ~28 vine 6  
+fill ~12 ~1 ~29 ~12 ~2 ~29 vine 2  
+fill ~12 ~1 ~34 ~12 ~2 ~34 vine 3  
+fill ~12 ~1 ~35 ~12 ~1 ~36 stonebrick 1  
+fill ~13 ~1 ~25 ~13 ~2 ~25 diamond_block 0  
+fill ~13 ~1 ~27 ~13 ~2 ~27 vine 2  
+fill ~13 ~1 ~35 ~13 ~2 ~35 vine 2  
+fill ~13 ~1 ~36 ~13 ~2 ~36 vine 2  
+fill ~13 ~1 ~37 ~13 ~2 ~37 diamond_block 0 
+setblock ~13 ~1 ~48 yellow_flower 0 
+setblock ~15 ~1 ~39 yellow_flower 0 
+setblock ~15 ~1 ~42 yellow_flower 0  
+fill ~19 ~1 ~38 ~20 ~1 ~38 yellow_flower 0  
+fill ~19 ~1 ~39 ~19 ~1 ~38 yellow_flower 0 
+setblock ~20 ~1 ~6 yellow_flower 0 
+setblock ~20 ~1 ~45 yellow_flower 0  
+fill ~20 ~1 ~48 ~20 ~1 ~49 red_flower 0 
+setblock ~20 ~1 ~51 yellow_flower 0 
+setblock ~21 ~1 ~40 red_flower 0 
+setblock ~21 ~1 ~41 yellow_flower 0  
+fill ~24 ~1 ~10 ~24 ~5 ~10 vine 8  
+fill ~24 ~1 ~54 ~24 ~10 ~54 vine 8  
+fill ~24 ~1 ~56 ~24 ~15 ~56 vine 8  
+fill ~25 ~1 ~13 ~25 ~2 ~13 diamond_block 0  
+fill ~25 ~1 ~49 ~25 ~2 ~49 diamond_block 0 
+setblock ~26 ~1 ~7 yellow_flower 0 
+setblock ~26 ~1 ~12 stonebrick 2 
+setblock ~26 ~1 ~17 red_flower 0  
+fill ~26 ~1 ~27 ~26 ~1 ~28 stone_brick_stairs 0  
+fill ~26 ~1 ~34 ~26 ~1 ~35 stone_brick_stairs 0 
+setblock ~26 ~1 ~48 red_flower 0  
+fill ~26 ~1 ~50 ~26 ~2 ~50 stonebrick 2 
+setblock ~26 ~1 ~53 yellow_flower 0  
+fill ~26 ~1 ~58 ~26 ~15 ~58 vine 4 
+setblock ~27 ~1 ~7 red_flower 0 
+setblock ~27 ~1 ~12 stonebrick 0  
+fill ~27 ~1 ~27 ~30 ~1 ~27 stone_slab 5  
+fill ~27 ~1 ~28 ~28 ~1 ~28 glowstone 0  
+fill ~27 ~1 ~34 ~28 ~1 ~34 glowstone 0  
+fill ~27 ~1 ~35 ~30 ~1 ~35 stone_slab 5  
+fill ~27 ~1 ~50 ~27 ~2 ~50 stonebrick 0 
+setblock ~27 ~1 ~58 yellow_flower 0  
+fill ~28 ~1 ~5 ~28 ~10 ~5 vine 1  
+fill ~28 ~1 ~11 ~29 ~1 ~11 stonebrick 0  
+fill ~28 ~1 ~12 ~28 ~2 ~12 vine 6  
+fill ~28 ~1 ~51 ~28 ~2 ~51 stonebrick 2  
+fill ~28 ~1 ~58 ~28 ~12 ~58 vine 4 
+setblock ~29 ~1 ~9 yellow_flower 0  
+fill ~29 ~1 ~12 ~29 ~53 ~12 vine 4  
+fill ~29 ~1 ~28 ~29 ~4 ~28 diamond_block 0  
+fill ~29 ~1 ~29 ~29 ~4 ~29 fence 0  
+fill ~29 ~1 ~30 ~29 ~5 ~30 fence 0  
+fill ~29 ~1 ~31 ~29 ~5 ~31 fence 0  
+fill ~29 ~1 ~32 ~29 ~5 ~32 fence 0  
+fill ~29 ~1 ~33 ~29 ~4 ~33 fence 0  
+fill ~29 ~1 ~34 ~29 ~4 ~34 diamond_block 0 
+setblock ~29 ~1 ~51 stonebrick 0  
+fill ~29 ~1 ~58 ~29 ~12 ~58 vine 12 
+setblock ~30 ~1 ~10 stonebrick 1  
+fill ~30 ~1 ~28 ~30 ~4 ~28 stonebrick 0  
+fill ~30 ~1 ~29 ~30 ~3 ~29 vine 4  
+fill ~30 ~1 ~33 ~30 ~3 ~33 vine 1  
+fill ~30 ~1 ~34 ~30 ~4 ~34 stonebrick 0  
+fill ~30 ~1 ~51 ~32 ~1 ~51 vine 1  
+fill ~30 ~1 ~52 ~30 ~2 ~52 stonebrick 0  
+fill ~30 ~1 ~55 ~31 ~1 ~55 yellow_flower 0  
+fill ~30 ~1 ~60 ~31 ~1 ~60 vine 4  
+fill ~31 ~1 ~10 ~31 ~2 ~10 glowstone 0 
+setblock ~31 ~1 ~27 stone_brick_stairs 2  
+fill ~31 ~1 ~28 ~31 ~4 ~28 gold_block 0  
+fill ~31 ~1 ~29 ~31 ~4 ~29 portal 0  
+fill ~31 ~1 ~30 ~31 ~5 ~30 portal 0  
+fill ~31 ~1 ~31 ~31 ~5 ~31 portal 0  
+fill ~31 ~1 ~32 ~31 ~5 ~32 portal 0  
+fill ~31 ~1 ~33 ~31 ~4 ~33 portal 0  
+fill ~31 ~1 ~34 ~31 ~4 ~34 gold_block 0 
+setblock ~31 ~1 ~35 stone_brick_stairs 3  
+fill ~31 ~1 ~52 ~31 ~2 ~52 glowstone 0  
+fill ~31 ~1 ~62 ~32 ~1 ~62 vine 4  
+fill ~32 ~1 ~10 ~32 ~2 ~10 stonebrick 1  
+fill ~32 ~1 ~27 ~35 ~1 ~27 stone_slab 5  
+fill ~32 ~1 ~28 ~32 ~4 ~28 stonebrick 0  
+fill ~32 ~1 ~29 ~32 ~4 ~29 vine 4  
+fill ~32 ~1 ~35 ~35 ~1 ~35 stone_slab 5 
+setblock ~32 ~1 ~52 stonebrick 1 
+setblock ~33 ~1 ~11 stonebrick 1  
+fill ~33 ~1 ~28 ~33 ~4 ~28 diamond_block 0  
+fill ~33 ~1 ~29 ~33 ~4 ~29 fence 0  
+fill ~33 ~1 ~30 ~33 ~5 ~30 fence 0  
+fill ~33 ~1 ~31 ~33 ~5 ~31 fence 0  
+fill ~33 ~1 ~32 ~33 ~5 ~32 fence 0  
+fill ~33 ~1 ~33 ~33 ~4 ~33 fence 0  
+fill ~33 ~1 ~34 ~33 ~4 ~34 diamond_block 0  
+fill ~33 ~1 ~50 ~33 ~2 ~50 vine 1 
+setblock ~33 ~1 ~51 stonebrick 1 
+setblock ~33 ~1 ~57 yellow_flower 0 
+setblock ~34 ~1 ~6 yellow_flower 0 
+setblock ~34 ~1 ~10 yellow_flower 0 
+setblock ~34 ~1 ~11 stonebrick 0  
+fill ~34 ~1 ~28 ~35 ~1 ~28 glowstone 0  
+fill ~34 ~1 ~34 ~35 ~1 ~34 glowstone 0 
+setblock ~34 ~1 ~51 stonebrick 0 
+setblock ~34 ~1 ~58 yellow_flower 0 
+setblock ~35 ~1 ~5 yellow_flower 0 
+setblock ~35 ~1 ~12 stonebrick 2 
+setblock ~35 ~1 ~46 yellow_flower 0  
+fill ~35 ~1 ~49 ~35 ~2 ~49 vine 1  
+fill ~35 ~1 ~50 ~35 ~2 ~50 stonebrick 0 
+setblock ~35 ~1 ~52 yellow_flower 0  
+fill ~36 ~1 ~2 ~36 ~30 ~2 vine 1 
+setblock ~36 ~1 ~12 stonebrick 1  
+fill ~36 ~1 ~27 ~36 ~1 ~28 stone_brick_stairs 1  
+fill ~36 ~1 ~34 ~36 ~1 ~35 stone_brick_stairs 1  
+fill ~36 ~1 ~50 ~36 ~2 ~50 stonebrick 1  
+fill ~37 ~1 ~9 ~37 ~5 ~9 vine 3  
+fill ~37 ~1 ~13 ~37 ~2 ~13 diamond_block 0  
+fill ~37 ~1 ~49 ~37 ~2 ~49 diamond_block 0  
+fill ~37 ~1 ~59 ~37 ~26 ~59 vine 4 
+setblock ~38 ~1 ~15 red_flower 0 
+setblock ~39 ~1 ~15 yellow_flower 0 
+setblock ~39 ~1 ~49 red_flower 0 
+setblock ~40 ~1 ~8 red_flower 0 
+setblock ~40 ~1 ~11 yellow_flower 0 
+setblock ~40 ~1 ~42 red_flower 0 
+setblock ~41 ~1 ~7 yellow_flower 0 
+setblock ~41 ~1 ~16 yellow_flower 0 
+setblock ~41 ~1 ~18 yellow_flower 0 
+setblock ~41 ~1 ~44 yellow_flower 0 
+setblock ~42 ~1 ~6 yellow_flower 0 
+setblock ~42 ~1 ~13 yellow_flower 0 
+setblock ~42 ~1 ~42 yellow_flower 0 
+setblock ~43 ~1 ~50 yellow_flower 0  
+fill ~44 ~1 ~11 ~45 ~1 ~11 yellow_flower 0 
+setblock ~45 ~1 ~24 red_flower 0  
+fill ~46 ~1 ~17 ~46 ~1 ~18 yellow_flower 0 
+setblock ~46 ~1 ~27 red_flower 0 
+setblock ~46 ~1 ~39 yellow_flower 0 
+setblock ~47 ~1 ~20 yellow_flower 0 
+setblock ~47 ~1 ~53 red_flower 0 
+setblock ~48 ~1 ~21 red_flower 0 
+setblock ~48 ~1 ~46 yellow_flower 0 
+setblock ~48 ~1 ~47 red_flower 0  
+fill ~49 ~1 ~25 ~49 ~2 ~25 diamond_block 0  
+fill ~49 ~1 ~37 ~49 ~2 ~37 diamond_block 0 
+setblock ~49 ~1 ~45 yellow_flower 0 
+setblock ~50 ~1 ~26 stonebrick 1  
+fill ~50 ~1 ~27 ~50 ~2 ~27 stonebrick 0  
+fill ~50 ~1 ~29 ~50 ~2 ~29 vine 8  
+fill ~50 ~1 ~35 ~50 ~2 ~35 stonebrick 0 
+setblock ~50 ~1 ~36 stonebrick 2 
+setblock ~50 ~1 ~39 yellow_flower 0  
+fill ~51 ~1 ~28 ~51 ~1 ~29 stonebrick 1  
+fill ~51 ~1 ~33 ~51 ~1 ~34 stonebrick 0 
+setblock ~52 ~1 ~27 yellow_flower 0  
+fill ~52 ~1 ~30 ~52 ~2 ~30 stonebrick 0  
+fill ~52 ~1 ~31 ~52 ~2 ~31 glowstone 0 
+setblock ~52 ~1 ~32 stonebrick 0 
+setblock ~52 ~1 ~36 yellow_flower 0 
+setblock ~53 ~1 ~24 yellow_flower 0  
+fill ~54 ~1 ~26 ~54 ~6 ~26 vine 2 
+setblock ~54 ~1 ~31 yellow_flower 0  
+fill ~54 ~1 ~38 ~54 ~10 ~38 vine 4  
+fill ~55 ~1 ~37 ~55 ~10 ~37 vine 4  
+fill ~56 ~1 ~36 ~56 ~10 ~36 vine 2  
+fill ~57 ~1 ~38 ~57 ~19 ~38 vine 4  
+fill ~58 ~1 ~27 ~58 ~14 ~27 vine 2  
+fill ~58 ~1 ~31 ~58 ~10 ~31 vine 2  
+fill ~5 ~2 ~29 ~5 ~10 ~29 vine 1  
+fill ~6 ~2 ~31 ~6 ~6 ~31 vine 8 
+setblock ~10 ~2 ~30 stonebrick 0 
+setblock ~10 ~2 ~32 stonebrick 2 
+setblock ~11 ~2 ~28 stonebrick 1 
+setblock ~11 ~2 ~29 stonebrick 0 
+setblock ~12 ~2 ~27 stonebrick 0  
+fill ~12 ~2 ~35 ~12 ~2 ~36 stonebrick 2 
+setblock ~13 ~2 ~24 vine 1  
+fill ~24 ~2 ~52 ~24 ~5 ~52 vine 8  
+fill ~26 ~2 ~12 ~27 ~2 ~12 stonebrick 1  
+fill ~27 ~2 ~8 ~27 ~6 ~8 vine 8  
+fill ~27 ~2 ~27 ~27 ~2 ~28 stone_brick_stairs 0  
+fill ~27 ~2 ~34 ~27 ~2 ~35 stone_brick_stairs 0  
+fill ~28 ~2 ~11 ~29 ~2 ~11 stonebrick 0  
+fill ~28 ~2 ~27 ~30 ~2 ~27 stone_slab 5 
+setblock ~28 ~2 ~28 glowstone 0 
+setblock ~28 ~2 ~34 glowstone 0  
+fill ~28 ~2 ~35 ~30 ~2 ~35 stone_slab 5  
+fill ~29 ~2 ~7 ~29 ~6 ~7 vine 8 
+setblock ~29 ~2 ~51 stonebrick 2 
+setblock ~30 ~2 ~10 stonebrick 2  
+fill ~30 ~2 ~51 ~32 ~2 ~51 vine 1  
+fill ~30 ~2 ~57 ~30 ~8 ~57 vine 4  
+fill ~30 ~2 ~60 ~31 ~2 ~60 vine 4  
+fill ~31 ~2 ~4 ~32 ~2 ~4 vine 1  
+fill ~31 ~2 ~6 ~31 ~6 ~6 vine 1 
+setblock ~31 ~2 ~27 stone_brick_stairs 6 
+setblock ~31 ~2 ~35 stone_brick_stairs 7  
+fill ~31 ~2 ~56 ~31 ~6 ~56 vine 4  
+fill ~31 ~2 ~58 ~31 ~10 ~58 vine 4  
+fill ~31 ~2 ~62 ~32 ~2 ~62 vine 4  
+fill ~32 ~2 ~27 ~34 ~2 ~27 stone_slab 5 
+setblock ~32 ~2 ~34 stonebrick 0  
+fill ~32 ~2 ~35 ~34 ~2 ~35 stone_slab 5 
+setblock ~32 ~2 ~52 stonebrick 0  
+fill ~32 ~2 ~57 ~33 ~2 ~57 vine 4 
+setblock ~33 ~2 ~11 stonebrick 0 
+setblock ~33 ~2 ~51 stonebrick 2 
+setblock ~34 ~2 ~11 stonebrick 2  
+fill ~34 ~2 ~28 ~34 ~1 ~28 glowstone 0  
+fill ~34 ~2 ~34 ~34 ~1 ~34 glowstone 0 
+setblock ~34 ~2 ~51 stonebrick 1  
+fill ~35 ~2 ~7 ~35 ~8 ~7 vine 1 
+setblock ~35 ~2 ~12 stonebrick 0  
+fill ~35 ~2 ~27 ~35 ~2 ~28 stone_brick_stairs 1  
+fill ~35 ~2 ~34 ~35 ~2 ~35 stone_brick_stairs 1  
+fill ~35 ~2 ~57 ~35 ~11 ~57 vine 2  
+fill ~36 ~2 ~8 ~36 ~5 ~8 vine 1 
+setblock ~36 ~2 ~12 stonebrick 2  
+fill ~36 ~2 ~57 ~36 ~11 ~57 vine 4  
+fill ~37 ~2 ~55 ~37 ~9 ~55 vine 2  
+fill ~38 ~2 ~54 ~38 ~10 ~54 vine 2 
+setblock ~50 ~2 ~26 stonebrick 0 
+setblock ~50 ~2 ~36 stonebrick 1 
+setblock ~51 ~2 ~28 stonebrick 0 
+setblock ~51 ~2 ~29 stonebrick 2 
+setblock ~51 ~2 ~33 stonebrick 2 
+setblock ~51 ~2 ~34 stonebrick 0  
+fill ~52 ~2 ~24 ~52 ~6 ~24 vine 1 
+setblock ~52 ~2 ~32 stonebrick 2  
+fill ~2 ~3 ~32 ~2 ~16 ~32 vine 8 
+setblock ~9 ~3 ~30 stonebrick 2 
+setblock ~9 ~3 ~31 glowstone 0 
+setblock ~9 ~3 ~32 stonebrick 0 
+setblock ~10 ~3 ~28 stonebrick 2 
+setblock ~10 ~3 ~29 stonebrick 1 
+setblock ~10 ~3 ~33 stonebrick 0 
+setblock ~10 ~3 ~34 stonebrick 1  
+fill ~11 ~3 ~26 ~11 ~3 ~27 stonebrick 0  
+fill ~11 ~3 ~35 ~11 ~3 ~36 stonebrick 2 
+setblock ~12 ~3 ~25 diamond_block 0 
+setblock ~12 ~3 ~26 vine 6 
+setblock ~12 ~3 ~27 vine 2 
+setblock ~12 ~3 ~37 diamond_block 0 
+setblock ~25 ~3 ~12 diamond_block 0 
+setblock ~25 ~3 ~50 diamond_block 0 
+setblock ~26 ~3 ~11 stonebrick 1 
+setblock ~26 ~3 ~51 stonebrick 2 
+setblock ~27 ~3 ~11 stonebrick 0 
+setblock ~27 ~3 ~51 stonebrick 0  
+fill ~28 ~3 ~10 ~29 ~3 ~10 stonebrick 2  
+fill ~28 ~3 ~27 ~28 ~3 ~28 stone_brick_stairs 0  
+fill ~28 ~3 ~34 ~28 ~3 ~35 stone_brick_stairs 0  
+fill ~28 ~3 ~52 ~29 ~3 ~52 stonebrick 1  
+fill ~29 ~3 ~27 ~30 ~3 ~27 stone_slab 5  
+fill ~29 ~3 ~35 ~30 ~3 ~35 stone_slab 5 
+setblock ~29 ~3 ~51 vine 1 
+setblock ~30 ~3 ~9 stonebrick 1 
+setblock ~30 ~3 ~53 stonebrick 0  
+fill ~30 ~3 ~60 ~31 ~3 ~60 vine 4  
+fill ~31 ~3 ~4 ~32 ~3 ~4 vine 1 
+setblock ~31 ~3 ~9 glowstone 0 
+setblock ~31 ~3 ~27 stone_brick_stairs 2 
+setblock ~31 ~3 ~35 stone_brick_stairs 3 
+setblock ~31 ~3 ~53 glowstone 0  
+fill ~31 ~3 ~62 ~32 ~3 ~62 vine 4 
+setblock ~32 ~3 ~9 stonebrick 1  
+fill ~32 ~3 ~27 ~33 ~3 ~27 stone_slab 5 
+setblock ~32 ~3 ~34 stonebrick 1  
+fill ~32 ~3 ~35 ~33 ~3 ~35 stone_slab 5 
+setblock ~32 ~3 ~53 stonebrick 0  
+fill ~32 ~3 ~57 ~33 ~3 ~57 vine 4 
+setblock ~33 ~3 ~10 stonebrick 1  
+fill ~33 ~3 ~52 ~34 ~3 ~52 stonebrick 0 
+setblock ~34 ~3 ~10 stonebrick 0  
+fill ~34 ~3 ~27 ~34 ~3 ~28 stone_brick_stairs 1  
+fill ~34 ~3 ~34 ~34 ~3 ~35 stone_brick_stairs 1 
+setblock ~34 ~3 ~51 vine 8  
+fill ~35 ~3 ~11 ~36 ~3 ~11 stonebrick 0 
+setblock ~35 ~3 ~50 vine 1  
+fill ~35 ~3 ~51 ~36 ~3 ~51 stonebrick 2 
+setblock ~37 ~3 ~12 diamond_block 0 
+setblock ~37 ~3 ~50 diamond_block 0 
+setblock ~50 ~3 ~25 diamond_block 0 
+setblock ~50 ~3 ~37 diamond_block 0 
+setblock ~51 ~3 ~26 stonebrick 0 
+setblock ~51 ~3 ~27 stonebrick 1 
+setblock ~51 ~3 ~28 vine 8 
+setblock ~51 ~3 ~35 stonebrick 1 
+setblock ~51 ~3 ~36 stonebrick 2 
+setblock ~52 ~3 ~28 stonebrick 2 
+setblock ~52 ~3 ~29 stonebrick 1 
+setblock ~52 ~3 ~33 stonebrick 0 
+setblock ~52 ~3 ~34 stonebrick 1 
+setblock ~53 ~3 ~30 stonebrick 2 
+setblock ~53 ~3 ~31 glowstone 0 
+setblock ~53 ~3 ~32 stonebrick 2  
+fill ~59 ~3 ~37 ~59 ~28 ~37 vine 6 
+setblock ~8 ~4 ~30 stonebrick 0 
+setblock ~8 ~4 ~31 glowstone 0 
+setblock ~8 ~4 ~32 stonebrick 2 
+setblock ~9 ~4 ~28 stonebrick 0 
+setblock ~9 ~4 ~29 stonebrick 2  
+fill ~9 ~4 ~33 ~9 ~4 ~34 stonebrick 0  
+fill ~10 ~4 ~26 ~10 ~4 ~27 stonebrick 2 
+setblock ~10 ~4 ~35 stonebrick 1 
+setblock ~10 ~4 ~36 stonebrick 0 
+setblock ~11 ~4 ~25 diamond_block 0 
+setblock ~11 ~4 ~37 diamond_block 0 
+setblock ~25 ~4 ~11 diamond_block 0 
+setblock ~25 ~4 ~51 diamond_block 0 
+setblock ~26 ~4 ~10 stonebrick 1 
+setblock ~26 ~4 ~52 stonebrick 0  
+fill ~27 ~4 ~6 ~27 ~10 ~6 vine 9 
+setblock ~27 ~4 ~10 stonebrick 0 
+setblock ~27 ~4 ~52 stonebrick 2  
+fill ~28 ~4 ~9 ~29 ~4 ~9 stonebrick 1 
+setblock ~28 ~4 ~28 stone_slab 13 
+setblock ~28 ~4 ~34 stone_slab 13 
+setblock ~28 ~4 ~53 stonebrick 0 
+setblock ~29 ~4 ~10 vine 4 
+setblock ~29 ~4 ~27 stone_brick_stairs 0 
+setblock ~29 ~4 ~35 stone_brick_stairs 0 
+setblock ~29 ~4 ~53 stonebrick 2 
+setblock ~30 ~4 ~8 stonebrick 0 
+setblock ~30 ~4 ~9 vine 6 
+setblock ~30 ~4 ~27 stone_slab 5 
+setblock ~30 ~4 ~35 stone_slab 5 
+setblock ~30 ~4 ~54 stonebrick 2  
+fill ~30 ~4 ~60 ~31 ~4 ~60 vine 4  
+fill ~31 ~4 ~4 ~32 ~4 ~4 vine 1 
+setblock ~31 ~4 ~8 glowstone 0 
+setblock ~31 ~4 ~27 stone_brick_stairs 6 
+setblock ~31 ~4 ~35 stone_brick_stairs 7 
+setblock ~31 ~4 ~54 glowstone 0  
+fill ~31 ~4 ~62 ~32 ~4 ~62 vine 4 
+setblock ~32 ~4 ~8 stonebrick 1  
+fill ~32 ~4 ~27 ~32 ~1 ~27 stone_slab 5 
+setblock ~32 ~4 ~34 stonebrick 0  
+fill ~32 ~4 ~35 ~32 ~1 ~35 stone_slab 5 
+setblock ~32 ~4 ~53 vine 8 
+setblock ~32 ~4 ~54 stonebrick 0  
+fill ~32 ~4 ~57 ~33 ~4 ~57 vine 4 
+setblock ~33 ~4 ~9 stonebrick 1 
+setblock ~33 ~4 ~27 stone_brick_stairs 1 
+setblock ~33 ~4 ~35 stone_brick_stairs 1 
+setblock ~33 ~4 ~53 stonebrick 0 
+setblock ~34 ~4 ~9 stonebrick 0 
+setblock ~34 ~4 ~28 stone_slab 13 
+setblock ~34 ~4 ~34 stone_slab 13 
+setblock ~34 ~4 ~53 stonebrick 1 
+setblock ~35 ~4 ~10 stonebrick 2  
+fill ~35 ~4 ~52 ~36 ~4 ~52 stonebrick 0 
+setblock ~36 ~4 ~10 stonebrick 1 
+setblock ~37 ~4 ~11 diamond_block 0 
+setblock ~37 ~4 ~51 diamond_block 0 
+setblock ~51 ~4 ~25 diamond_block 0 
+setblock ~51 ~4 ~37 diamond_block 0 
+setblock ~52 ~4 ~26 stonebrick 0 
+setblock ~52 ~4 ~27 stonebrick 1  
+fill ~52 ~4 ~35 ~52 ~4 ~36 stonebrick 2 
+setblock ~53 ~4 ~28 stonebrick 1 
+setblock ~53 ~4 ~29 stonebrick 0 
+setblock ~53 ~4 ~33 stonebrick 2 
+setblock ~53 ~4 ~34 stonebrick 1 
+setblock ~54 ~4 ~30 stonebrick 1 
+setblock ~54 ~4 ~31 glowstone 0   
+
+KittysCommands:  
+setblock ~54 ~4 ~32 stonebrick 1 
+setblock ~7 ~5 ~30 stonebrick 0  
+fill ~7 ~5 ~31 ~7 ~6 ~31 glowstone 0 
+setblock ~7 ~5 ~32 stonebrick 1  
+fill ~8 ~5 ~28 ~8 ~6 ~28 stonebrick 0  
+fill ~8 ~5 ~29 ~8 ~6 ~29 stonebrick 0 
+setblock ~8 ~5 ~33 stonebrick 1  
+fill ~8 ~5 ~34 ~8 ~6 ~34 stonebrick 0  
+fill ~9 ~5 ~26 ~9 ~5 ~27 stonebrick 1  
+fill ~9 ~5 ~35 ~9 ~6 ~35 stonebrick 0  
+fill ~9 ~5 ~36 ~9 ~6 ~36 stonebrick 0  
+fill ~10 ~5 ~25 ~10 ~6 ~25 diamond_block 0  
+fill ~10 ~5 ~37 ~10 ~6 ~37 diamond_block 0 
+setblock ~25 ~5 ~9 vine 1  
+fill ~25 ~5 ~10 ~25 ~6 ~10 diamond_block 0  
+fill ~25 ~5 ~52 ~25 ~6 ~52 diamond_block 0 
+setblock ~25 ~5 ~53 vine 12  
+fill ~26 ~5 ~3 ~26 ~18 ~3 vine 1  
+fill ~26 ~5 ~6 ~26 ~9 ~6 vine 1 
+setblock ~26 ~5 ~9 stonebrick 2  
+fill ~26 ~5 ~53 ~26 ~6 ~53 stonebrick 2  
+fill ~27 ~5 ~9 ~27 ~6 ~9 stonebrick 0 
+setblock ~27 ~5 ~10 vine 4  
+fill ~27 ~5 ~53 ~27 ~6 ~53 stonebrick 0  
+fill ~28 ~5 ~8 ~28 ~6 ~8 stonebrick 0  
+fill ~28 ~5 ~9 ~28 ~6 ~9 vine 2 
+setblock ~28 ~5 ~29 stone_slab 13 
+setblock ~28 ~5 ~33 stone_slab 13  
+fill ~28 ~5 ~53 ~28 ~6 ~53 vine 1 
+setblock ~28 ~5 ~54 stonebrick 1 
+setblock ~29 ~5 ~8 stonebrick 1 
+setblock ~29 ~5 ~28 stone_slab 13 
+setblock ~29 ~5 ~29 diamond_block 0 
+setblock ~29 ~5 ~33 diamond_block 0 
+setblock ~29 ~5 ~34 stone_slab 13  
+fill ~29 ~5 ~54 ~29 ~6 ~54 stonebrick 2  
+fill ~30 ~5 ~2 ~31 ~5 ~2 vine 1 
+setblock ~30 ~5 ~7 stonebrick 0  
+fill ~30 ~5 ~8 ~31 ~5 ~8 vine 4 
+setblock ~30 ~5 ~28 stone_brick_stairs 2 
+setblock ~30 ~5 ~29 stonebrick 0 
+setblock ~30 ~5 ~32 vine 1 
+setblock ~30 ~5 ~33 stonebrick 0 
+setblock ~30 ~5 ~34 stone_brick_stairs 3  
+fill ~30 ~5 ~54 ~30 ~6 ~54 vine 1 
+setblock ~30 ~5 ~55 stonebrick 2  
+fill ~30 ~5 ~60 ~31 ~5 ~60 vine 4  
+fill ~31 ~5 ~4 ~32 ~5 ~4 vine 1  
+fill ~31 ~5 ~7 ~31 ~6 ~7 glowstone 0 
+setblock ~31 ~5 ~28 stone_slab 13 
+setblock ~31 ~5 ~29 gold_block 0 
+setblock ~31 ~5 ~33 gold_block 0 
+setblock ~31 ~5 ~34 stone_slab 13  
+fill ~31 ~5 ~55 ~31 ~6 ~55 glowstone 0  
+fill ~31 ~5 ~62 ~32 ~5 ~62 vine 4 
+setblock ~32 ~5 ~7 stonebrick 0 
+setblock ~32 ~5 ~28 stone_brick_stairs 2 
+setblock ~32 ~5 ~29 stonebrick 0 
+setblock ~32 ~5 ~33 stonebrick 1 
+setblock ~32 ~5 ~34 stone_brick_stairs 3 
+setblock ~32 ~5 ~55 stonebrick 2  
+fill ~32 ~5 ~57 ~33 ~5 ~57 vine 4 
+setblock ~33 ~5 ~8 stonebrick 1 
+setblock ~33 ~5 ~28 stone_slab 13 
+setblock ~33 ~5 ~29 diamond_block 0 
+setblock ~33 ~5 ~33 diamond_block 0 
+setblock ~33 ~5 ~34 stone_slab 13  
+fill ~33 ~5 ~54 ~34 ~5 ~54 stonebrick 0  
+fill ~34 ~5 ~8 ~34 ~6 ~8 stonebrick 0 
+setblock ~34 ~5 ~29 stone_slab 13 
+setblock ~34 ~5 ~33 stone_slab 13 
+setblock ~35 ~5 ~9 stonebrick 0  
+fill ~35 ~5 ~53 ~36 ~5 ~53 stonebrick 2 
+setblock ~36 ~5 ~9 stonebrick 1  
+fill ~36 ~5 ~10 ~36 ~6 ~10 vine 4  
+fill ~37 ~5 ~10 ~37 ~6 ~10 diamond_block 0  
+fill ~37 ~5 ~52 ~37 ~6 ~52 diamond_block 0  
+fill ~52 ~5 ~25 ~52 ~6 ~25 diamond_block 0  
+fill ~52 ~5 ~27 ~52 ~6 ~27 vine 8  
+fill ~52 ~5 ~37 ~52 ~6 ~37 diamond_block 0  
+fill ~53 ~5 ~25 ~53 ~6 ~25 vine 3  
+fill ~53 ~5 ~26 ~53 ~5 ~27 stonebrick 0 
+setblock ~53 ~5 ~35 stonebrick 1 
+setblock ~53 ~5 ~36 stonebrick 0  
+fill ~54 ~5 ~28 ~54 ~6 ~28 stonebrick 0  
+fill ~54 ~5 ~29 ~54 ~5 ~28 stonebrick 0  
+fill ~54 ~5 ~33 ~54 ~6 ~33 stonebrick 2  
+fill ~54 ~5 ~34 ~54 ~6 ~34 stonebrick 0 
+setblock ~55 ~5 ~30 stonebrick 0  
+fill ~55 ~5 ~31 ~55 ~6 ~31 glowstone 0  
+fill ~55 ~5 ~32 ~55 ~6 ~32 stonebrick 2  
+fill ~56 ~5 ~31 ~56 ~6 ~31 vine 2  
+fill ~56 ~5 ~32 ~56 ~6 ~32 vine 2 
+setblock ~7 ~6 ~30 stonebrick 1 
+setblock ~7 ~6 ~32 stonebrick 0 
+setblock ~8 ~6 ~33 stonebrick 0  
+fill ~9 ~6 ~26 ~9 ~6 ~27 stonebrick 0  
+fill ~25 ~6 ~8 ~25 ~7 ~8 vine 8 
+setblock ~25 ~6 ~53 vine 8  
+fill ~25 ~6 ~55 ~25 ~10 ~55 vine 8 
+setblock ~26 ~6 ~9 stonebrick 0 
+setblock ~28 ~6 ~30 stone_slab 13 
+setblock ~28 ~6 ~31 fence 0 
+setblock ~28 ~6 ~32 stone_slab 13 
+setblock ~28 ~6 ~54 stonebrick 0 
+setblock ~29 ~6 ~8 stonebrick 2 
+setblock ~29 ~6 ~29 stone_slab 13  
+fill ~29 ~6 ~30 ~29 ~6 ~32 diamond_block 0 
+setblock ~29 ~6 ~33 stone_slab 13  
+fill ~30 ~6 ~2 ~31 ~6 ~2 vine 1 
+setblock ~30 ~6 ~7 stonebrick 1  
+fill ~30 ~6 ~8 ~31 ~6 ~8 vine 4 
+setblock ~30 ~6 ~29 stone_brick_stairs 2 
+setblock ~30 ~6 ~30 stonebrick 0 
+setblock ~30 ~6 ~31 stonebrick 2 
+setblock ~30 ~6 ~32 stonebrick 0 
+setblock ~30 ~6 ~33 stone_brick_stairs 3 
+setblock ~30 ~6 ~55 stonebrick 0  
+fill ~30 ~6 ~60 ~31 ~6 ~60 vine 4  
+fill ~31 ~6 ~4 ~32 ~6 ~4 vine 1 
+setblock ~31 ~6 ~29 stone_slab 13  
+fill ~31 ~6 ~30 ~31 ~6 ~32 gold_block 0 
+setblock ~31 ~6 ~33 stone_slab 13  
+fill ~31 ~6 ~62 ~32 ~6 ~62 vine 4 
+setblock ~32 ~6 ~7 stonebrick 2 
+setblock ~32 ~6 ~29 stone_brick_stairs 2  
+fill ~32 ~6 ~30 ~32 ~6 ~32 stonebrick 0 
+setblock ~32 ~6 ~33 stone_brick_stairs 3 
+setblock ~32 ~6 ~55 stonebrick 0  
+fill ~32 ~6 ~57 ~33 ~6 ~57 vine 4  
+fill ~33 ~6 ~6 ~33 ~7 ~6 vine 2 
+setblock ~33 ~6 ~8 stonebrick 0 
+setblock ~33 ~6 ~29 stone_slab 13  
+fill ~33 ~6 ~30 ~33 ~6 ~32 diamond_block 0 
+setblock ~33 ~6 ~33 stone_slab 13  
+fill ~33 ~6 ~54 ~34 ~6 ~54 stonebrick 1 
+setblock ~34 ~6 ~30 stone_slab 13 
+setblock ~34 ~6 ~31 fence 0 
+setblock ~34 ~6 ~32 stone_slab 13 
+setblock ~35 ~6 ~9 stonebrick 2  
+fill ~35 ~6 ~53 ~36 ~6 ~53 stonebrick 0 
+setblock ~36 ~6 ~9 stonebrick 0 
+setblock ~53 ~6 ~26 stonebrick 1 
+setblock ~53 ~6 ~27 stonebrick 2 
+setblock ~53 ~6 ~35 stonebrick 0 
+setblock ~53 ~6 ~36 stonebrick 2 
+setblock ~54 ~6 ~29 stonebrick 1 
+setblock ~55 ~6 ~30 stonebrick 2  
+fill ~55 ~6 ~36 ~55 ~8 ~36 vine 2 
+setblock ~6 ~7 ~30 stonebrick 0  
+fill ~6 ~7 ~31 ~6 ~8 ~31 glowstone 0  
+fill ~6 ~7 ~32 ~6 ~8 ~32 stonebrick 1  
+fill ~7 ~7 ~28 ~7 ~7 ~29 stonebrick 0 
+setblock ~7 ~7 ~33 stonebrick 2 
+setblock ~7 ~7 ~34 stonebrick 0  
+fill ~8 ~7 ~26 ~8 ~8 ~26 stonebrick 0  
+fill ~8 ~7 ~27 ~8 ~7 ~26 stonebrick 0  
+fill ~8 ~7 ~35 ~8 ~7 ~36 stonebrick 1  
+fill ~9 ~7 ~25 ~9 ~8 ~25 diamond_block 0  
+fill ~9 ~7 ~37 ~9 ~8 ~37 diamond_block 0  
+fill ~25 ~7 ~9 ~25 ~8 ~9 diamond_block 0  
+fill ~25 ~7 ~53 ~25 ~8 ~53 diamond_block 0 
+setblock ~25 ~7 ~54 vine 8 
+setblock ~26 ~7 ~8 stonebrick 1  
+fill ~26 ~7 ~9 ~27 ~7 ~9 vine 4  
+fill ~26 ~7 ~53 ~26 ~8 ~53 vine 3  
+fill ~26 ~7 ~54 ~27 ~7 ~54 stonebrick 0 
+setblock ~27 ~7 ~8 stonebrick 0  
+fill ~28 ~7 ~7 ~29 ~7 ~7 stonebrick 1 
+setblock ~28 ~7 ~8 vine 2 
+setblock ~28 ~7 ~31 stone_slab 5 
+setblock ~28 ~7 ~55 stonebrick 0  
+fill ~29 ~7 ~30 ~33 ~7 ~30 stone_slab 5 
+setblock ~29 ~7 ~31 stone_brick_stairs 0  
+fill ~29 ~7 ~32 ~33 ~7 ~32 stone_slab 5 
+setblock ~29 ~7 ~55 stonebrick 1  
+fill ~30 ~7 ~2 ~31 ~7 ~2 vine 1 
+setblock ~30 ~7 ~6 stonebrick 2  
+fill ~30 ~7 ~31 ~32 ~7 ~31 glowstone 0  
+fill ~30 ~7 ~56 ~30 ~8 ~56 stonebrick 1  
+fill ~30 ~7 ~60 ~31 ~7 ~60 vine 4  
+fill ~31 ~7 ~4 ~32 ~7 ~4 vine 1  
+fill ~31 ~7 ~6 ~31 ~8 ~6 glowstone 0  
+fill ~31 ~7 ~8 ~31 ~49 ~8 vine 4  
+fill ~31 ~7 ~56 ~31 ~8 ~56 glowstone 0  
+fill ~31 ~7 ~62 ~32 ~7 ~62 vine 4 
+setblock ~32 ~7 ~6 stonebrick 1  
+fill ~32 ~7 ~55 ~32 ~8 ~55 vine 1 
+setblock ~32 ~7 ~56 stonebrick 0  
+fill ~32 ~7 ~57 ~33 ~7 ~57 vine 4  
+fill ~33 ~7 ~7 ~33 ~8 ~7 stonebrick 0  
+fill ~33 ~7 ~8 ~33 ~8 ~8 vine 4 
+setblock ~33 ~7 ~31 stone_brick_stairs 1  
+fill ~33 ~7 ~55 ~34 ~7 ~55 stonebrick 0 
+setblock ~34 ~7 ~7 stonebrick 1 
+setblock ~34 ~7 ~8 vine 8 
+setblock ~34 ~7 ~31 stone_slab 5 
+setblock ~35 ~7 ~8 stonebrick 2  
+fill ~35 ~7 ~54 ~36 ~7 ~54 stonebrick 2 
+setblock ~36 ~7 ~8 stonebrick 0  
+fill ~37 ~7 ~8 ~37 ~8 ~8 vine 2  
+fill ~37 ~7 ~9 ~37 ~8 ~9 diamond_block 0  
+fill ~37 ~7 ~53 ~37 ~8 ~53 diamond_block 0  
+fill ~53 ~7 ~24 ~53 ~8 ~24 vine 1  
+fill ~53 ~7 ~25 ~53 ~8 ~25 diamond_block 0  
+fill ~53 ~7 ~37 ~53 ~8 ~37 diamond_block 0  
+fill ~54 ~7 ~26 ~54 ~8 ~26 stonebrick 0  
+fill ~54 ~7 ~27 ~54 ~8 ~27 stonebrick 2 
+setblock ~54 ~7 ~35 stonebrick 0 
+setblock ~54 ~7 ~36 stonebrick 2 
+setblock ~55 ~7 ~28 stonebrick 2  
+fill ~55 ~7 ~29 ~55 ~8 ~29 stonebrick 0 
+setblock ~55 ~7 ~33 stonebrick 0 
+setblock ~55 ~7 ~34 stonebrick 1 
+setblock ~55 ~7 ~35 vine 2  
+fill ~56 ~7 ~30 ~56 ~8 ~30 stonebrick 0  
+fill ~56 ~7 ~31 ~56 ~8 ~31 glowstone 0 
+setblock ~56 ~7 ~32 stonebrick 0 
+setblock ~6 ~8 ~30 stonebrick 1  
+fill ~7 ~8 ~28 ~7 ~8 ~29 stonebrick 1  
+fill ~7 ~8 ~33 ~7 ~8 ~34 stonebrick 1 
+setblock ~8 ~8 ~27 stonebrick 1 
+setblock ~8 ~8 ~35 stonebrick 0 
+setblock ~8 ~8 ~36 stonebrick 1  
+fill ~26 ~8 ~8 ~27 ~8 ~8 stonebrick 2  
+fill ~26 ~8 ~9 ~26 ~7 ~9 vine 4  
+fill ~26 ~8 ~54 ~26 ~7 ~54 stonebrick 0 
+setblock ~27 ~8 ~54 stonebrick 2  
+fill ~28 ~8 ~7 ~28 ~7 ~7 stonebrick 1 
+setblock ~28 ~8 ~55 stonebrick 1 
+setblock ~29 ~8 ~7 stonebrick 2 
+setblock ~29 ~8 ~55 stonebrick 0  
+fill ~30 ~8 ~2 ~31 ~8 ~2 vine 1 
+setblock ~30 ~8 ~6 stonebrick 0  
+fill ~30 ~8 ~31 ~32 ~8 ~31 stone_slab 5  
+fill ~30 ~8 ~60 ~31 ~8 ~60 vine 4  
+fill ~31 ~8 ~4 ~32 ~8 ~4 vine 1  
+fill ~31 ~8 ~62 ~32 ~8 ~62 vine 4 
+setblock ~32 ~8 ~6 stonebrick 2 
+setblock ~32 ~8 ~56 stonebrick 2  
+fill ~32 ~8 ~57 ~33 ~8 ~57 vine 4  
+fill ~33 ~8 ~5 ~33 ~10 ~5 vine 2  
+fill ~33 ~8 ~55 ~33 ~7 ~55 stonebrick 0 
+setblock ~34 ~8 ~7 stonebrick 0 
+setblock ~34 ~8 ~55 stonebrick 2 
+setblock ~35 ~8 ~8 stonebrick 0  
+fill ~35 ~8 ~54 ~35 ~7 ~54 stonebrick 2 
+setblock ~36 ~8 ~8 stonebrick 2 
+setblock ~36 ~8 ~54 stonebrick 0 
+setblock ~54 ~8 ~35 stonebrick 2 
+setblock ~54 ~8 ~36 stonebrick 1 
+setblock ~55 ~8 ~28 stonebrick 0 
+setblock ~55 ~8 ~33 stonebrick 1 
+setblock ~55 ~8 ~34 stonebrick 2  
+fill ~56 ~8 ~27 ~56 ~10 ~27 vine 2 
+setblock ~56 ~8 ~32 stonebrick 2  
+fill ~4 ~9 ~30 ~4 ~10 ~30 vine 8  
+fill ~4 ~9 ~31 ~4 ~10 ~31 vine 8 
+setblock ~5 ~9 ~30 stonebrick 2  
+fill ~5 ~9 ~31 ~5 ~10 ~31 glowstone 0 
+setblock ~5 ~9 ~32 stonebrick 0 
+setblock ~6 ~9 ~28 stonebrick 0 
+setblock ~6 ~9 ~29 stonebrick 1  
+fill ~6 ~9 ~33 ~6 ~10 ~33 stonebrick 1  
+fill ~6 ~9 ~34 ~6 ~10 ~34 stonebrick 1  
+fill ~7 ~9 ~26 ~7 ~9 ~27 stonebrick 2 
+setblock ~7 ~9 ~35 stonebrick 2 
+setblock ~7 ~9 ~36 stonebrick 0  
+fill ~8 ~9 ~25 ~8 ~10 ~25 diamond_block 0  
+fill ~8 ~9 ~37 ~8 ~10 ~37 diamond_block 0  
+fill ~25 ~9 ~8 ~25 ~10 ~8 diamond_block 0  
+fill ~25 ~9 ~53 ~25 ~10 ~53 vine 1  
+fill ~25 ~9 ~54 ~25 ~10 ~54 diamond_block 0  
+fill ~26 ~9 ~7 ~27 ~9 ~7 stonebrick 1 
+setblock ~26 ~9 ~55 stonebrick 0 
+setblock ~27 ~9 ~55 stonebrick 2  
+fill ~28 ~9 ~6 ~28 ~10 ~6 stonebrick 1  
+fill ~28 ~9 ~7 ~28 ~10 ~7 vine 6  
+fill ~28 ~9 ~56 ~29 ~9 ~56 stonebrick 0  
+fill ~29 ~9 ~6 ~29 ~10 ~6 stonebrick 0  
+fill ~29 ~9 ~55 ~29 ~10 ~55 vine 1  
+fill ~30 ~9 ~2 ~31 ~9 ~2 vine 1  
+fill ~30 ~9 ~5 ~30 ~10 ~5 stonebrick 0  
+fill ~30 ~9 ~6 ~31 ~9 ~6 vine 4  
+fill ~30 ~9 ~56 ~30 ~10 ~56 vine 2 
+setblock ~30 ~9 ~57 stonebrick 0  
+fill ~30 ~9 ~60 ~31 ~9 ~60 vine 4  
+fill ~31 ~9 ~4 ~32 ~9 ~4 vine 1  
+fill ~31 ~9 ~5 ~31 ~10 ~5 glowstone 0  
+fill ~31 ~9 ~57 ~31 ~10 ~57 glowstone 0  
+fill ~31 ~9 ~62 ~32 ~9 ~62 vine 4 
+setblock ~32 ~9 ~5 stonebrick 2  
+fill ~32 ~9 ~57 ~32 ~10 ~57 stonebrick 1  
+fill ~33 ~9 ~6 ~34 ~9 ~6 stonebrick 0 
+setblock ~33 ~9 ~55 vine 1  
+fill ~33 ~9 ~56 ~33 ~10 ~56 stonebrick 2 
+setblock ~33 ~9 ~57 vine 4 
+setblock ~34 ~9 ~56 stonebrick 0 
+setblock ~35 ~9 ~7 stonebrick 1 
+setblock ~35 ~9 ~55 stonebrick 0  
+fill ~36 ~9 ~7 ~36 ~10 ~7 stonebrick 0  
+fill ~36 ~9 ~55 ~36 ~10 ~55 stonebrick 2 
+setblock ~37 ~9 ~7 vine 2  
+fill ~37 ~9 ~8 ~37 ~10 ~8 diamond_block 0  
+fill ~37 ~9 ~53 ~37 ~10 ~53 vine 1  
+fill ~37 ~9 ~54 ~37 ~10 ~54 diamond_block 0 
+setblock ~53 ~9 ~25 vine 8  
+fill ~54 ~9 ~25 ~54 ~10 ~25 diamond_block 0 
+setblock ~54 ~9 ~27 vine 8  
+fill ~54 ~9 ~37 ~54 ~10 ~37 diamond_block 0 
+setblock ~55 ~9 ~26 stonebrick 1 
+setblock ~55 ~9 ~27 stonebrick 0  
+fill ~55 ~9 ~29 ~55 ~10 ~29 vine 8  
+fill ~55 ~9 ~35 ~55 ~10 ~35 stonebrick 2  
+fill ~55 ~9 ~36 ~55 ~10 ~36 stonebrick 1  
+fill ~56 ~9 ~26 ~56 ~10 ~26 vine 2  
+fill ~56 ~9 ~28 ~56 ~9 ~29 stonebrick 0  
+fill ~56 ~9 ~33 ~56 ~10 ~33 stonebrick 0 
+setblock ~56 ~9 ~34 stonebrick 2 
+setblock ~57 ~9 ~30 stonebrick 2  
+fill ~57 ~9 ~31 ~57 ~10 ~31 glowstone 0  
+fill ~57 ~9 ~32 ~57 ~10 ~32 stonebrick 2 
+setblock ~5 ~10 ~30 stonebrick 0 
+setblock ~5 ~10 ~32 stonebrick 1 
+setblock ~6 ~10 ~28 stonebrick 2 
+setblock ~6 ~10 ~29 stonebrick 0  
+fill ~7 ~10 ~26 ~7 ~10 ~27 stonebrick 1  
+fill ~7 ~10 ~35 ~7 ~10 ~36 stonebrick 1 
+setblock ~26 ~10 ~7 stonebrick 0 
+setblock ~26 ~10 ~55 stonebrick 2 
+setblock ~27 ~10 ~7 stonebrick 1 
+setblock ~27 ~10 ~55 stonebrick 0  
+fill ~28 ~10 ~56 ~29 ~10 ~56 stonebrick 2  
+fill ~30 ~10 ~2 ~31 ~10 ~2 vine 1  
+fill ~30 ~10 ~6 ~31 ~10 ~6 vine 4 
+setblock ~30 ~10 ~57 stonebrick 1  
+fill ~30 ~10 ~60 ~31 ~10 ~60 vine 4  
+fill ~31 ~10 ~4 ~32 ~10 ~4 vine 1  
+fill ~31 ~10 ~62 ~32 ~10 ~62 vine 4 
+setblock ~32 ~10 ~5 stonebrick 0 
+setblock ~33 ~10 ~6 stonebrick 2 
+setblock ~34 ~10 ~6 stonebrick 0 
+setblock ~34 ~10 ~56 stonebrick 2 
+setblock ~35 ~10 ~7 stonebrick 2 
+setblock ~35 ~10 ~55 stonebrick 1  
+fill ~35 ~10 ~60 ~35 ~31 ~60 vine 6 
+setblock ~55 ~10 ~26 stonebrick 0 
+setblock ~55 ~10 ~27 stonebrick 2 
+setblock ~56 ~10 ~28 stonebrick 2 
+setblock ~56 ~10 ~29 stonebrick 0 
+setblock ~56 ~10 ~34 stonebrick 0 
+setblock ~57 ~10 ~30 stonebrick 0  
+fill ~2 ~11 ~27 ~2 ~28 ~27 vine 9  
+fill ~4 ~11 ~30 ~4 ~12 ~30 stonebrick 0  
+fill ~4 ~11 ~31 ~4 ~12 ~31 glowstone 0 
+setblock ~4 ~11 ~32 stonebrick 1  
+fill ~4 ~11 ~38 ~4 ~31 ~38 vine 4  
+fill ~5 ~11 ~28 ~5 ~12 ~28 stonebrick 0 
+setblock ~5 ~11 ~29 stonebrick 2  
+fill ~5 ~11 ~33 ~5 ~12 ~33 stonebrick 2  
+fill ~5 ~11 ~34 ~5 ~12 ~34 stonebrick 2 
+setblock ~6 ~11 ~26 stonebrick 0 
+setblock ~6 ~11 ~27 stonebrick 1  
+fill ~6 ~11 ~35 ~6 ~12 ~35 stonebrick 1 
+setblock ~6 ~11 ~36 stonebrick 0  
+fill ~7 ~11 ~25 ~7 ~12 ~25 diamond_block 0  
+fill ~7 ~11 ~37 ~7 ~12 ~37 diamond_block 0  
+fill ~24 ~11 ~4 ~24 ~27 ~4 vine 8  
+fill ~25 ~11 ~7 ~25 ~12 ~7 diamond_block 0  
+fill ~25 ~11 ~55 ~25 ~12 ~55 diamond_block 0  
+fill ~26 ~11 ~6 ~27 ~11 ~6 stonebrick 1 
+setblock ~26 ~11 ~56 stonebrick 2  
+fill ~27 ~11 ~7 ~27 ~12 ~7 vine 4 
+setblock ~27 ~11 ~56 stonebrick 0  
+fill ~28 ~11 ~5 ~28 ~12 ~5 stonebrick 2 
+setblock ~28 ~11 ~57 stonebrick 2  
+fill ~29 ~11 ~1 ~29 ~32 ~1 vine 1 
+setblock ~29 ~11 ~5 stonebrick 1  
+fill ~29 ~11 ~57 ~29 ~12 ~57 stonebrick 0  
+fill ~30 ~11 ~2 ~31 ~11 ~2 vine 1 
+setblock ~30 ~11 ~58 stonebrick 1  
+fill ~30 ~11 ~60 ~32 ~11 ~60 vine 4  
+fill ~30 ~11 ~62 ~32 ~11 ~62 vine 4  
+fill ~31 ~11 ~4 ~31 ~12 ~4 glowstone 0  
+fill ~31 ~11 ~58 ~31 ~12 ~58 glowstone 0  
+fill ~32 ~11 ~4 ~32 ~12 ~4 stonebrick 2  
+fill ~32 ~11 ~5 ~32 ~42 ~5 vine 8  
+fill ~32 ~11 ~57 ~32 ~12 ~57 vine 8 
+setblock ~32 ~11 ~58 stonebrick 0 
+setblock ~32 ~11 ~59 vine 4 
+setblock ~33 ~11 ~5 stonebrick 0  
+fill ~33 ~11 ~6 ~33 ~42 ~6 vine 4  
+fill ~33 ~11 ~56 ~33 ~12 ~56 vine 1 
+setblock ~33 ~11 ~57 stonebrick 0 
+setblock ~34 ~11 ~5 stonebrick 2  
+fill ~34 ~11 ~57 ~34 ~12 ~57 stonebrick 1  
+fill ~35 ~11 ~6 ~36 ~11 ~6 stonebrick 0  
+fill ~35 ~11 ~56 ~35 ~12 ~56 stonebrick 2  
+fill ~36 ~11 ~56 ~36 ~12 ~56 stonebrick 0  
+fill ~37 ~11 ~7 ~37 ~12 ~7 diamond_block 0  
+fill ~37 ~11 ~55 ~37 ~12 ~55 diamond_block 0  
+fill ~55 ~11 ~25 ~55 ~12 ~25 diamond_block 0  
+fill ~55 ~11 ~37 ~55 ~12 ~37 diamond_block 0 
+setblock ~56 ~11 ~26 stonebrick 0  
+fill ~56 ~11 ~27 ~56 ~12 ~27 stonebrick 1 
+setblock ~56 ~11 ~28 vine 8  
+fill ~56 ~11 ~35 ~56 ~11 ~36 stonebrick 2  
+fill ~57 ~11 ~28 ~57 ~11 ~29 stonebrick 1  
+fill ~57 ~11 ~33 ~57 ~11 ~34 stonebrick 0  
+fill ~58 ~11 ~30 ~58 ~12 ~30 stonebrick 2  
+fill ~58 ~11 ~31 ~58 ~12 ~31 glowstone 0 
+setblock ~58 ~11 ~32 stonebrick 0  
+fill ~3 ~12 ~25 ~3 ~31 ~25 vine 1  
+fill ~3 ~12 ~27 ~3 ~19 ~27 vine 1  
+fill ~3 ~12 ~33 ~3 ~15 ~33 vine 4  
+fill ~3 ~12 ~37 ~3 ~28 ~37 vine 8  
+fill ~4 ~12 ~24 ~4 ~24 ~24 vine 1 
+setblock ~4 ~12 ~32 stonebrick 0 
+setblock ~5 ~12 ~29 stonebrick 0 
+setblock ~6 ~12 ~26 stonebrick 2 
+setblock ~6 ~12 ~27 stonebrick 0 
+setblock ~6 ~12 ~36 stonebrick 2  
+fill ~26 ~12 ~6 ~27 ~12 ~6 stonebrick 0 
+setblock ~26 ~12 ~56 stonebrick 0  
+fill ~26 ~12 ~60 ~27 ~12 ~60 vine 4  
+fill ~27 ~12 ~3 ~27 ~17 ~3 vine 9 
+setblock ~27 ~12 ~56 stonebrick 1 
+setblock ~28 ~12 ~57 stonebrick 0 
+setblock ~29 ~12 ~5 stonebrick 0  
+fill ~29 ~12 ~61 ~29 ~30 ~61 vine 12  
+fill ~30 ~12 ~2 ~31 ~12 ~2 vine 1 
+setblock ~30 ~12 ~4 stonebrick 2 
+setblock ~30 ~12 ~5 vine 4 
+setblock ~30 ~12 ~58 stonebrick 0  
+fill ~30 ~12 ~60 ~32 ~12 ~60 vine 4  
+fill ~30 ~12 ~62 ~32 ~12 ~62 vine 4  
+fill ~32 ~12 ~1 ~33 ~12 ~1 vine 1 
+setblock ~32 ~12 ~58 stonebrick 2 
+setblock ~33 ~12 ~5 stonebrick 1 
+setblock ~33 ~12 ~57 stonebrick 1  
+fill ~33 ~12 ~61 ~33 ~27 ~61 vine 6 
+setblock ~34 ~12 ~5 stonebrick 0  
+fill ~35 ~12 ~6 ~35 ~11 ~6 stonebrick 0 
+setblock ~36 ~12 ~6 stonebrick 2  
+fill ~38 ~12 ~58 ~38 ~29 ~58 vine 2 
+setblock ~56 ~12 ~26 stonebrick 1 
+setblock ~56 ~12 ~35 stonebrick 0 
+setblock ~56 ~12 ~36 stonebrick 2 
+setblock ~57 ~12 ~28 stonebrick 2 
+setblock ~57 ~12 ~29 stonebrick 1 
+setblock ~57 ~12 ~33 stonebrick 1 
+setblock ~57 ~12 ~34 stonebrick 0 
+setblock ~58 ~12 ~32 stonebrick 2  
+fill ~58 ~12 ~38 ~58 ~23 ~38 vine 4  
+fill ~60 ~12 ~32 ~60 ~15 ~32 vine 2 
+setblock ~3 ~13 ~30 stonebrick 1  
+fill ~3 ~13 ~31 ~3 ~16 ~31 glowstone 0 
+setblock ~3 ~13 ~32 stonebrick 1  
+fill ~4 ~13 ~28 ~4 ~16 ~28 stonebrick 0  
+fill ~4 ~13 ~29 ~4 ~13 ~28 stonebrick 0 
+setblock ~4 ~13 ~33 stonebrick 0 
+setblock ~4 ~13 ~34 stonebrick 1 
+setblock ~5 ~13 ~26 stonebrick 1  
+fill ~5 ~13 ~27 ~5 ~15 ~27 stonebrick 2 
+setblock ~5 ~13 ~35 stonebrick 2 
+setblock ~5 ~13 ~36 stonebrick 1  
+fill ~6 ~13 ~25 ~6 ~16 ~25 diamond_block 0  
+fill ~6 ~13 ~37 ~6 ~16 ~37 diamond_block 0  
+fill ~25 ~13 ~6 ~25 ~16 ~6 diamond_block 0  
+fill ~25 ~13 ~56 ~25 ~16 ~56 diamond_block 0  
+fill ~25 ~13 ~57 ~25 ~15 ~57 vine 12  
+fill ~26 ~13 ~5 ~27 ~13 ~5 stonebrick 0  
+fill ~26 ~13 ~6 ~27 ~13 ~6 vine 4  
+fill ~26 ~13 ~57 ~27 ~13 ~57 stonebrick 0  
+fill ~26 ~13 ~60 ~27 ~13 ~60 vine 4 
+setblock ~28 ~13 ~4 stonebrick 0  
+fill ~28 ~13 ~5 ~29 ~13 ~5 vine 4  
+fill ~28 ~13 ~57 ~28 ~16 ~57 vine 3 
+setblock ~28 ~13 ~58 stonebrick 0 
+setblock ~29 ~13 ~4 stonebrick 1 
+setblock ~29 ~13 ~58 stonebrick 1  
+fill ~30 ~13 ~2 ~31 ~13 ~2 vine 1 
+setblock ~30 ~13 ~3 stonebrick 0  
+fill ~30 ~13 ~4 ~30 ~14 ~4 vine 2  
+fill ~30 ~13 ~58 ~30 ~16 ~58 vine 2 
+setblock ~30 ~13 ~59 stonebrick 0  
+fill ~30 ~13 ~60 ~32 ~13 ~60 vine 4  
+fill ~30 ~13 ~62 ~32 ~13 ~62 vine 4  
+fill ~31 ~13 ~3 ~31 ~16 ~3 glowstone 0  
+fill ~31 ~13 ~59 ~31 ~16 ~59 glowstone 0  
+fill ~32 ~13 ~1 ~33 ~13 ~1 vine 1 
+setblock ~32 ~13 ~3 stonebrick 1  
+fill ~32 ~13 ~58 ~32 ~16 ~58 vine 1 
+setblock ~32 ~13 ~59 stonebrick 2  
+fill ~33 ~13 ~4 ~34 ~13 ~4 stonebrick 0  
+fill ~33 ~13 ~5 ~33 ~16 ~5 vine 4  
+fill ~33 ~13 ~57 ~33 ~16 ~57 vine 1  
+fill ~33 ~13 ~58 ~34 ~13 ~58 stonebrick 1  
+fill ~34 ~13 ~5 ~34 ~15 ~5 vine 12 
+setblock ~35 ~13 ~5 stonebrick 2  
+fill ~35 ~13 ~6 ~35 ~40 ~6 vine 4  
+fill ~35 ~13 ~56 ~35 ~16 ~56 vine 1 
+setblock ~35 ~13 ~57 stonebrick 1 
+setblock ~36 ~13 ~5 stonebrick 0  
+fill ~36 ~13 ~57 ~36 ~14 ~57 stonebrick 2  
+fill ~37 ~13 ~6 ~37 ~16 ~6 diamond_block 0  
+fill ~37 ~13 ~56 ~37 ~16 ~56 diamond_block 0  
+fill ~56 ~13 ~25 ~56 ~16 ~25 diamond_block 0  
+fill ~56 ~13 ~26 ~56 ~16 ~26 vine 12  
+fill ~56 ~13 ~27 ~56 ~16 ~27 vine 8  
+fill ~56 ~13 ~37 ~56 ~16 ~37 diamond_block 0  
+fill ~57 ~13 ~26 ~57 ~14 ~26 stonebrick 0 
+setblock ~57 ~13 ~27 stonebrick 1  
+fill ~57 ~13 ~28 ~57 ~16 ~28 vine 4  
+fill ~57 ~13 ~35 ~57 ~13 ~36 stonebrick 0  
+fill ~58 ~13 ~26 ~58 ~15 ~26 vine 2  
+fill ~58 ~13 ~28 ~58 ~13 ~29 stonebrick 0  
+fill ~58 ~13 ~30 ~58 ~16 ~30 vine 4  
+fill ~58 ~13 ~33 ~58 ~13 ~34 stonebrick 0  
+fill ~59 ~13 ~28 ~59 ~14 ~28 vine 2  
+fill ~59 ~13 ~29 ~59 ~16 ~29 vine 2 
+setblock ~59 ~13 ~30 stonebrick 1  
+fill ~59 ~13 ~31 ~59 ~16 ~31 glowstone 0 
+setblock ~59 ~13 ~32 stonebrick 0  
+fill ~60 ~13 ~29 ~60 ~17 ~29 vine 1  
+fill ~60 ~13 ~31 ~60 ~15 ~31 vine 2 
+setblock ~3 ~14 ~30 stonebrick 0 
+setblock ~3 ~14 ~32 stonebrick 2 
+setblock ~4 ~14 ~29 stonebrick 1 
+setblock ~4 ~14 ~33 stonebrick 1 
+setblock ~4 ~14 ~34 stonebrick 0 
+setblock ~5 ~14 ~26 stonebrick 0 
+setblock ~5 ~14 ~35 stonebrick 1 
+setblock ~5 ~14 ~36 stonebrick 0  
+fill ~26 ~14 ~5 ~26 ~15 ~5 stonebrick 2  
+fill ~26 ~14 ~6 ~27 ~14 ~6 vine 4  
+fill ~26 ~14 ~57 ~27 ~14 ~57 stonebrick 1  
+fill ~26 ~14 ~60 ~27 ~14 ~60 vine 4 
+setblock ~27 ~14 ~5 stonebrick 0 
+setblock ~28 ~14 ~4 stonebrick 1  
+fill ~28 ~14 ~5 ~29 ~14 ~5 vine 4  
+fill ~28 ~14 ~58 ~29 ~14 ~58 stonebrick 2  
+fill ~29 ~14 ~4 ~29 ~15 ~4 stonebrick 0  
+fill ~30 ~14 ~2 ~31 ~14 ~2 vine 1 
+setblock ~30 ~14 ~3 stonebrick 1 
+setblock ~30 ~14 ~59 stonebrick 1  
+fill ~30 ~14 ~60 ~32 ~14 ~60 vine 4  
+fill ~30 ~14 ~62 ~32 ~14 ~62 vine 4  
+fill ~32 ~14 ~1 ~33 ~14 ~1 vine 1 
+setblock ~32 ~14 ~3 stonebrick 2  
+fill ~32 ~14 ~59 ~32 ~15 ~59 stonebrick 0  
+fill ~33 ~14 ~4 ~33 ~15 ~4 stonebrick 0  
+fill ~33 ~14 ~58 ~33 ~15 ~58 stonebrick 2  
+fill ~34 ~14 ~4 ~34 ~16 ~4 stonebrick 2 
+setblock ~34 ~14 ~58 stonebrick 1 
+setblock ~35 ~14 ~5 stonebrick 1 
+setblock ~35 ~14 ~57 stonebrick 0 
+setblock ~36 ~14 ~5 stonebrick 2 
+setblock ~57 ~14 ~27 stonebrick 0 
+setblock ~57 ~14 ~35 stonebrick 1 
+setblock ~57 ~14 ~36 stonebrick 2  
+fill ~58 ~14 ~28 ~58 ~15 ~28 stonebrick 2  
+fill ~58 ~14 ~29 ~58 ~15 ~29 stonebrick 1 
+setblock ~58 ~14 ~33 stonebrick 1  
+fill ~58 ~14 ~34 ~58 ~15 ~34 stonebrick 2  
+fill ~59 ~14 ~25 ~59 ~26 ~25 vine 3  
+fill ~59 ~14 ~30 ~59 ~15 ~30 stonebrick 0  
+fill ~59 ~14 ~32 ~59 ~15 ~32 stonebrick 2  
+fill ~59 ~14 ~35 ~59 ~18 ~35 vine 4  
+fill ~62 ~14 ~32 ~62 ~32 ~32 vine 2  
+fill ~3 ~15 ~30 ~3 ~16 ~30 stonebrick 1  
+fill ~3 ~15 ~32 ~3 ~16 ~32 stonebrick 0 
+setblock ~4 ~15 ~29 stonebrick 2  
+fill ~4 ~15 ~33 ~4 ~16 ~33 stonebrick 0 
+setblock ~4 ~15 ~34 stonebrick 2  
+fill ~5 ~15 ~26 ~5 ~16 ~26 stonebrick 1  
+fill ~5 ~15 ~35 ~5 ~16 ~35 stonebrick 0  
+fill ~5 ~15 ~36 ~5 ~16 ~36 stonebrick 1  
+fill ~25 ~15 ~4 ~25 ~18 ~4 vine 8  
+fill ~26 ~15 ~6 ~27 ~15 ~6 vine 4 
+setblock ~26 ~15 ~57 stonebrick 0  
+fill ~26 ~15 ~60 ~27 ~15 ~60 vine 4 
+setblock ~27 ~15 ~5 stonebrick 2 
+setblock ~27 ~15 ~57 stonebrick 1 
+setblock ~28 ~15 ~4 stonebrick 0  
+fill ~28 ~15 ~5 ~29 ~15 ~5 vine 4  
+fill ~28 ~15 ~58 ~28 ~16 ~58 stonebrick 0 
+setblock ~29 ~15 ~58 stonebrick 1  
+fill ~30 ~15 ~2 ~31 ~15 ~2 vine 1  
+fill ~30 ~15 ~3 ~30 ~16 ~3 stonebrick 0  
+fill ~30 ~15 ~59 ~30 ~16 ~59 stonebrick 0  
+fill ~30 ~15 ~60 ~32 ~15 ~60 vine 4  
+fill ~30 ~15 ~62 ~32 ~15 ~62 vine 4  
+fill ~32 ~15 ~1 ~33 ~15 ~1 vine 1 
+setblock ~32 ~15 ~3 stonebrick 0  
+fill ~34 ~15 ~58 ~34 ~16 ~58 stonebrick 0  
+fill ~35 ~15 ~5 ~35 ~16 ~5 stonebrick 0 
+setblock ~35 ~15 ~57 stonebrick 1 
+setblock ~36 ~15 ~5 stonebrick 1 
+setblock ~36 ~15 ~57 stonebrick 0  
+fill ~57 ~15 ~26 ~57 ~15 ~27 stonebrick 2  
+fill ~57 ~15 ~35 ~57 ~16 ~35 stonebrick 2 
+setblock ~57 ~15 ~36 stonebrick 0  
+fill ~58 ~15 ~25 ~58 ~17 ~25 vine 2  
+fill ~58 ~15 ~33 ~58 ~16 ~33 stonebrick 0 
+setblock ~2 ~16 ~31 vine 0 
+setblock ~4 ~16 ~29 stonebrick 1 
+setblock ~4 ~16 ~34 stonebrick 0 
+setblock ~5 ~16 ~27 stonebrick 0 
+setblock ~25 ~16 ~57 vine 8  
+fill ~25 ~16 ~59 ~25 ~25 ~59 vine 12 
+setblock ~26 ~16 ~5 stonebrick 0  
+fill ~26 ~16 ~6 ~27 ~16 ~6 vine 4  
+fill ~26 ~16 ~57 ~27 ~16 ~57 stonebrick 2  
+fill ~26 ~16 ~60 ~27 ~16 ~60 vine 4 
+setblock ~27 ~16 ~5 stonebrick 1  
+fill ~28 ~16 ~2 ~28 ~17 ~2 vine 1  
+fill ~28 ~16 ~4 ~29 ~16 ~4 stonebrick 2  
+fill ~28 ~16 ~5 ~29 ~16 ~5 vine 4 
+setblock ~29 ~16 ~58 stonebrick 0  
+fill ~30 ~16 ~62 ~32 ~16 ~62 vine 4  
+fill ~31 ~16 ~60 ~32 ~16 ~60 vine 4  
+fill ~32 ~16 ~1 ~33 ~16 ~1 vine 1 
+setblock ~32 ~16 ~3 stonebrick 1 
+setblock ~32 ~16 ~59 stonebrick 1 
+setblock ~33 ~16 ~4 stonebrick 1 
+setblock ~33 ~16 ~58 stonebrick 0  
+fill ~34 ~16 ~2 ~34 ~17 ~2 vine 1 
+setblock ~34 ~16 ~5 vine 8 
+setblock ~35 ~16 ~57 stonebrick 0 
+setblock ~36 ~16 ~5 stonebrick 2 
+setblock ~36 ~16 ~57 stonebrick 1  
+fill ~38 ~16 ~5 ~38 ~17 ~5 vine 2 
+setblock ~57 ~16 ~26 stonebrick 1 
+setblock ~57 ~16 ~27 stonebrick 0 
+setblock ~57 ~16 ~36 stonebrick 2 
+setblock ~58 ~16 ~28 stonebrick 1 
+setblock ~58 ~16 ~29 stonebrick 2 
+setblock ~58 ~16 ~34 stonebrick 0 
+setblock ~59 ~16 ~30 stonebrick 1 
+setblock ~59 ~16 ~32 stonebrick 0  
+fill ~60 ~16 ~33 ~60 ~18 ~33 vine 6  
+fill ~61 ~16 ~32 ~61 ~20 ~32 vine 2  
+fill ~2 ~17 ~30 ~2 ~20 ~30 stonebrick 0  
+fill ~2 ~17 ~31 ~2 ~20 ~31 glowstone 0  
+fill ~2 ~17 ~32 ~2 ~20 ~32 stonebrick 0 
+setblock ~3 ~17 ~28 stonebrick 0 
+setblock ~3 ~17 ~29 stonebrick 2 
+setblock ~3 ~17 ~33 stonebrick 0 
+setblock ~3 ~17 ~34 stonebrick 1  
+fill ~4 ~17 ~26 ~4 ~18 ~26 stonebrick 1  
+fill ~4 ~17 ~27 ~4 ~18 ~27 stonebrick 0 
+setblock ~4 ~17 ~35 stonebrick 1 
+setblock ~4 ~17 ~36 stonebrick 2  
+fill ~5 ~17 ~25 ~5 ~20 ~25 diamond_block 0  
+fill ~5 ~17 ~37 ~5 ~20 ~37 diamond_block 0  
+fill ~25 ~17 ~5 ~25 ~20 ~5 diamond_block 0  
+fill ~25 ~17 ~57 ~25 ~20 ~57 diamond_block 0  
+fill ~25 ~17 ~58 ~25 ~19 ~58 vine 8 
+setblock ~26 ~17 ~4 stonebrick 0  
+fill ~26 ~17 ~58 ~27 ~17 ~58 stonebrick 0  
+fill ~26 ~17 ~60 ~27 ~17 ~60 vine 4  
+fill ~27 ~17 ~4 ~27 ~18 ~4 stonebrick 1  
+fill ~28 ~17 ~3 ~29 ~17 ~3 stonebrick 2  
+fill ~28 ~17 ~5 ~29 ~17 ~5 vine 4  
+fill ~28 ~17 ~58 ~28 ~20 ~58 vine 1 
+setblock ~28 ~17 ~59 stonebrick 2 
+setblock ~29 ~17 ~59 stonebrick 0 
+setblock ~30 ~17 ~2 stonebrick 0  
+fill ~30 ~17 ~60 ~30 ~18 ~60 stonebrick 0  
+fill ~30 ~17 ~62 ~32 ~17 ~62 vine 4  
+fill ~31 ~17 ~2 ~31 ~20 ~2 glowstone 0  
+fill ~31 ~17 ~59 ~32 ~17 ~59 vine 1  
+fill ~31 ~17 ~60 ~31 ~20 ~60 glowstone 0  
+fill ~32 ~17 ~1 ~33 ~17 ~1 vine 1 
+setblock ~32 ~17 ~2 stonebrick 1 
+setblock ~32 ~17 ~60 stonebrick 0  
+fill ~33 ~17 ~3 ~33 ~18 ~3 stonebrick 2  
+fill ~33 ~17 ~58 ~33 ~20 ~58 vine 1 
+setblock ~33 ~17 ~59 stonebrick 1  
+fill ~34 ~17 ~3 ~34 ~18 ~3 stonebrick 0  
+fill ~34 ~17 ~4 ~34 ~20 ~4 vine 8  
+fill ~34 ~17 ~58 ~34 ~20 ~58 vine 8 
+setblock ~34 ~17 ~59 stonebrick 0  
+fill ~34 ~17 ~60 ~34 ~18 ~60 vine 4  
+fill ~34 ~17 ~61 ~34 ~28 ~61 vine 4  
+fill ~35 ~17 ~3 ~35 ~18 ~3 vine 2  
+fill ~35 ~17 ~4 ~35 ~20 ~4 stonebrick 0  
+fill ~35 ~17 ~57 ~35 ~20 ~57 vine 1  
+fill ~35 ~17 ~58 ~35 ~20 ~58 stonebrick 0 
+setblock ~36 ~17 ~4 stonebrick 1  
+fill ~36 ~17 ~5 ~36 ~18 ~5 vine 4 
+setblock ~36 ~17 ~58 stonebrick 1  
+fill ~37 ~17 ~4 ~38 ~17 ~4 vine 2  
+fill ~37 ~17 ~5 ~37 ~20 ~5 diamond_block 0  
+fill ~37 ~17 ~57 ~37 ~20 ~57 diamond_block 0  
+fill ~56 ~17 ~37 ~56 ~18 ~37 vine 8  
+fill ~57 ~17 ~25 ~57 ~20 ~25 diamond_block 0 
+setblock ~57 ~17 ~26 vine 4  
+fill ~57 ~17 ~27 ~57 ~18 ~27 vine 8 
+setblock ~57 ~17 ~35 vine 8  
+fill ~57 ~17 ~37 ~57 ~20 ~37 diamond_block 0  
+fill ~58 ~17 ~26 ~58 ~20 ~26 stonebrick 0  
+fill ~58 ~17 ~27 ~58 ~17 ~26 stonebrick 0  
+fill ~58 ~17 ~28 ~58 ~18 ~28 vine 12  
+fill ~58 ~17 ~29 ~58 ~20 ~29 vine 8  
+fill ~58 ~17 ~34 ~58 ~20 ~34 vine 8  
+fill ~58 ~17 ~35 ~58 ~18 ~35 stonebrick 1  
+fill ~58 ~17 ~36 ~58 ~19 ~36 stonebrick 0  
+fill ~59 ~17 ~28 ~59 ~17 ~29 stonebrick 2  
+fill ~59 ~17 ~30 ~59 ~37 ~30 vine 4  
+fill ~59 ~17 ~33 ~59 ~17 ~34 stonebrick 2  
+fill ~60 ~17 ~30 ~60 ~20 ~30 stonebrick 0  
+fill ~60 ~17 ~31 ~60 ~20 ~31 glowstone 0  
+fill ~60 ~17 ~32 ~60 ~18 ~32 stonebrick 0  
+fill ~60 ~17 ~34 ~60 ~20 ~34 vine 2  
+fill ~61 ~17 ~33 ~61 ~26 ~33 vine 6  
+fill ~3 ~18 ~28 ~3 ~20 ~28 stonebrick 2  
+fill ~3 ~18 ~29 ~3 ~20 ~29 stonebrick 0 
+setblock ~3 ~18 ~33 stonebrick 1  
+fill ~3 ~18 ~34 ~3 ~19 ~34 stonebrick 0 
+setblock ~4 ~18 ~35 stonebrick 2  
+fill ~4 ~18 ~36 ~4 ~19 ~36 stonebrick 1  
+fill ~13 ~18 ~29 ~13 ~54 ~29 vine 2  
+fill ~26 ~18 ~4 ~26 ~19 ~4 stonebrick 1  
+fill ~26 ~18 ~58 ~27 ~18 ~58 stonebrick 0  
+fill ~26 ~18 ~60 ~27 ~18 ~60 vine 4 
+setblock ~27 ~18 ~3 vine 1  
+fill ~28 ~18 ~1 ~28 ~32 ~1 vine 1  
+fill ~28 ~18 ~3 ~29 ~18 ~3 stonebrick 0  
+fill ~28 ~18 ~5 ~29 ~18 ~5 vine 4 
+setblock ~28 ~18 ~59 stonebrick 1  
+fill ~29 ~18 ~59 ~29 ~19 ~59 stonebrick 2 
+setblock ~30 ~18 ~2 stonebrick 1  
+fill ~30 ~18 ~62 ~32 ~18 ~62 vine 4  
+fill ~31 ~18 ~6 ~31 ~45 ~6 vine 4  
+fill ~31 ~18 ~59 ~32 ~18 ~59 vine 1  
+fill ~32 ~18 ~1 ~34 ~18 ~1 vine 1 
+setblock ~32 ~18 ~2 stonebrick 2 
+setblock ~32 ~18 ~60 stonebrick 2  
+fill ~33 ~18 ~59 ~34 ~18 ~59 stonebrick 2 
+setblock ~36 ~18 ~4 stonebrick 0 
+setblock ~36 ~18 ~58 stonebrick 2  
+fill ~37 ~18 ~3 ~37 ~30 ~3 vine 3  
+fill ~38 ~18 ~4 ~38 ~32 ~4 vine 2 
+setblock ~58 ~18 ~27 stonebrick 2  
+fill ~59 ~18 ~28 ~59 ~18 ~29 stonebrick 0 
+setblock ~59 ~18 ~33 stonebrick 1 
+setblock ~59 ~18 ~34 stonebrick 2 
+setblock ~3 ~19 ~33 stonebrick 2 
+setblock ~4 ~19 ~26 stonebrick 2 
+setblock ~4 ~19 ~27 stonebrick 1 
+setblock ~4 ~19 ~35 stonebrick 1  
+fill ~12 ~19 ~28 ~12 ~52 ~28 vine 2  
+fill ~13 ~19 ~24 ~13 ~52 ~24 vine 1  
+fill ~25 ~19 ~3 ~25 ~22 ~3 vine 9 
+setblock ~26 ~19 ~58 stonebrick 2  
+fill ~26 ~19 ~60 ~27 ~19 ~60 vine 4  
+fill ~27 ~19 ~4 ~27 ~20 ~4 stonebrick 2 
+setblock ~27 ~19 ~58 stonebrick 0 
+setblock ~28 ~19 ~3 stonebrick 2  
+fill ~28 ~19 ~5 ~29 ~19 ~5 vine 4  
+fill ~28 ~19 ~59 ~28 ~20 ~59 stonebrick 0  
+fill ~29 ~19 ~3 ~29 ~20 ~3 stonebrick 0 
+setblock ~30 ~19 ~2 stonebrick 2 
+setblock ~30 ~19 ~60 stonebrick 2  
+fill ~30 ~19 ~62 ~32 ~19 ~62 vine 4  
+fill ~31 ~19 ~59 ~32 ~19 ~59 vine 1 
+setblock ~32 ~19 ~2 stonebrick 0  
+fill ~32 ~19 ~51 ~32 ~52 ~51 vine 1  
+fill ~32 ~19 ~60 ~32 ~20 ~60 stonebrick 1  
+fill ~33 ~19 ~1 ~34 ~19 ~1 vine 1 
+setblock ~33 ~19 ~3 stonebrick 1  
+fill ~33 ~19 ~59 ~33 ~18 ~59 stonebrick 2 
+setblock ~34 ~19 ~3 stonebrick 2  
+fill ~34 ~19 ~59 ~34 ~20 ~59 stonebrick 0  
+fill ~35 ~19 ~2 ~35 ~32 ~2 vine 1  
+fill ~36 ~19 ~4 ~36 ~20 ~4 stonebrick 1  
+fill ~36 ~19 ~58 ~36 ~20 ~58 stonebrick 0  
+fill ~58 ~19 ~27 ~58 ~20 ~27 stonebrick 0  
+fill ~58 ~19 ~28 ~58 ~20 ~28 vine 8 
+setblock ~58 ~19 ~35 stonebrick 0 
+setblock ~59 ~19 ~28 stonebrick 1 
+setblock ~59 ~19 ~29 stonebrick 0 
+setblock ~59 ~19 ~33 stonebrick 0 
+setblock ~59 ~19 ~34 stonebrick 1 
+setblock ~60 ~19 ~32 stonebrick 2  
+fill ~60 ~19 ~33 ~60 ~20 ~33 vine 2 
+setblock ~3 ~20 ~33 stonebrick 0 
+setblock ~3 ~20 ~34 stonebrick 1 
+setblock ~4 ~20 ~26 stonebrick 1 
+setblock ~4 ~20 ~27 stonebrick 0 
+setblock ~4 ~20 ~35 stonebrick 2 
+setblock ~4 ~20 ~36 stonebrick 0 
+setblock ~26 ~20 ~4 stonebrick 0 
+setblock ~26 ~20 ~58 stonebrick 0  
+fill ~26 ~20 ~60 ~27 ~20 ~60 vine 4 
+setblock ~27 ~20 ~58 stonebrick 1 
+setblock ~28 ~20 ~3 stonebrick 0  
+fill ~28 ~20 ~5 ~29 ~20 ~5 vine 4  
+fill ~28 ~20 ~7 ~28 ~45 ~7 vine 6  
+fill ~29 ~20 ~10 ~29 ~50 ~10 vine 4 
+setblock ~29 ~20 ~59 stonebrick 1 
+setblock ~30 ~20 ~2 stonebrick 1 
+setblock ~30 ~20 ~60 stonebrick 0  
+fill ~30 ~20 ~62 ~32 ~20 ~62 vine 4  
+fill ~31 ~20 ~12 ~31 ~54 ~12 vine 4  
+fill ~31 ~20 ~59 ~32 ~20 ~59 vine 1 
+setblock ~32 ~20 ~2 stonebrick 1  
+fill ~33 ~20 ~1 ~34 ~20 ~1 vine 1  
+fill ~33 ~20 ~3 ~34 ~20 ~3 stonebrick 0 
+setblock ~33 ~20 ~59 stonebrick 0  
+fill ~58 ~20 ~35 ~58 ~20 ~36 stonebrick 1 
+setblock ~59 ~20 ~28 stonebrick 0 
+setblock ~59 ~20 ~29 stonebrick 1 
+setblock ~59 ~20 ~33 stonebrick 2 
+setblock ~59 ~20 ~34 stonebrick 0 
+setblock ~60 ~20 ~32 stonebrick 0  
+fill ~60 ~20 ~35 ~60 ~25 ~35 vine 2  
+fill ~61 ~20 ~28 ~61 ~30 ~28 vine 2  
+fill ~62 ~20 ~31 ~62 ~30 ~31 vine 2  
+fill ~1 ~21 ~30 ~1 ~33 ~30 stonebrick 0  
+fill ~1 ~21 ~31 ~1 ~33 ~31 glowstone 0  
+fill ~1 ~21 ~32 ~1 ~33 ~32 stonebrick 0  
+fill ~1 ~21 ~33 ~1 ~25 ~33 vine 12  
+fill ~1 ~21 ~34 ~1 ~30 ~34 vine 8  
+fill ~2 ~21 ~28 ~2 ~33 ~28 stonebrick 0  
+fill ~2 ~21 ~29 ~2 ~33 ~29 stonebrick 0  
+fill ~2 ~21 ~30 ~2 ~28 ~30 vine 6  
+fill ~2 ~21 ~31 ~2 ~32 ~31 vine 2  
+fill ~2 ~21 ~32 ~2 ~33 ~32 vine 3  
+fill ~2 ~21 ~33 ~2 ~33 ~33 stonebrick 0  
+fill ~2 ~21 ~34 ~2 ~33 ~34 stonebrick 0  
+fill ~2 ~21 ~35 ~2 ~31 ~35 vine 8  
+fill ~2 ~21 ~36 ~2 ~30 ~36 vine 8  
+fill ~3 ~21 ~26 ~3 ~25 ~26 stonebrick 0 
+setblock ~3 ~21 ~27 stonebrick 2  
+fill ~3 ~21 ~28 ~3 ~28 ~28 vine 4  
+fill ~3 ~21 ~33 ~3 ~33 ~33 vine 2  
+fill ~3 ~21 ~35 ~3 ~22 ~35 stonebrick 0 
+setblock ~3 ~21 ~36 stonebrick 2  
+fill ~4 ~21 ~25 ~4 ~33 ~25 diamond_block 0  
+fill ~4 ~21 ~26 ~4 ~30 ~26 vine 6  
+fill ~4 ~21 ~27 ~4 ~30 ~27 vine 2  
+fill ~4 ~21 ~36 ~4 ~27 ~36 vine 3  
+fill ~4 ~21 ~37 ~4 ~33 ~37 diamond_block 0  
+fill ~5 ~21 ~25 ~5 ~30 ~25 vine 2  
+fill ~25 ~21 ~4 ~25 ~33 ~4 diamond_block 0  
+fill ~25 ~21 ~57 ~25 ~29 ~57 vine 1   
+fill ~25 ~21 ~58 ~25 ~33 ~58 diamond_block 0 
+setblock ~26 ~21 ~3 stonebrick 2  
+fill ~26 ~21 ~4 ~27 ~21 ~4 vine 4  
+fill ~26 ~21 ~58 ~26 ~29 ~58 vine 2 
+setblock ~26 ~21 ~59 stonebrick 1  
+fill ~26 ~21 ~60 ~27 ~21 ~60 vine 4  
+fill ~27 ~21 ~3 ~27 ~22 ~3 stonebrick 0  
+fill ~27 ~21 ~58 ~27 ~26 ~58 vine 1  
+fill ~27 ~21 ~59 ~27 ~23 ~59 stonebrick 0  
+fill ~28 ~21 ~2 ~28 ~25 ~2 stonebrick 0  
+fill ~28 ~21 ~3 ~28 ~30 ~3 vine 6  
+fill ~28 ~21 ~5 ~29 ~21 ~5 vine 4  
+fill ~28 ~21 ~60 ~29 ~21 ~60 stonebrick 0 
+setblock ~29 ~21 ~2 stonebrick 2  
+fill ~29 ~21 ~3 ~29 ~26 ~3 vine 4 
+setblock ~30 ~21 ~1 stonebrick 2  
+fill ~30 ~21 ~2 ~30 ~23 ~2 vine 6  
+fill ~30 ~21 ~60 ~30 ~23 ~60 vine 1 
+setblock ~30 ~21 ~61 stonebrick 1  
+fill ~30 ~21 ~62 ~32 ~21 ~62 vine 4  
+fill ~31 ~21 ~1 ~31 ~33 ~1 glowstone 0  
+fill ~31 ~21 ~2 ~31 ~23 ~2 vine 4  
+fill ~31 ~21 ~59 ~31 ~37 ~59 vine 1  
+fill ~31 ~21 ~61 ~31 ~33 ~61 glowstone 0 
+setblock ~32 ~21 ~1 stonebrick 1  
+fill ~32 ~21 ~2 ~32 ~23 ~2 vine 12  
+fill ~32 ~21 ~60 ~32 ~29 ~60 vine 1 
+setblock ~32 ~21 ~61 stonebrick 2  
+fill ~33 ~21 ~1 ~34 ~21 ~1 vine 1  
+fill ~33 ~21 ~2 ~34 ~21 ~2 stonebrick 0  
+fill ~33 ~21 ~3 ~33 ~29 ~3 vine 4  
+fill ~33 ~21 ~59 ~33 ~26 ~59 vine 1 
+setblock ~33 ~21 ~60 stonebrick 1  
+fill ~34 ~21 ~3 ~34 ~29 ~3 vine 12  
+fill ~34 ~21 ~59 ~34 ~27 ~59 vine 9  
+fill ~34 ~21 ~60 ~34 ~23 ~60 stonebrick 0  
+fill ~35 ~21 ~3 ~36 ~21 ~3 stonebrick 0  
+fill ~35 ~21 ~4 ~35 ~29 ~4 vine 4  
+fill ~35 ~21 ~58 ~36 ~21 ~58 vine 1  
+fill ~35 ~21 ~59 ~36 ~21 ~59 stonebrick 2  
+fill ~36 ~21 ~4 ~36 ~25 ~4 vine 12  
+fill ~37 ~21 ~4 ~37 ~33 ~4 diamond_block 0  
+fill ~37 ~21 ~5 ~37 ~25 ~5 vine 4  
+fill ~37 ~21 ~57 ~37 ~29 ~57 vine 1  
+fill ~37 ~21 ~58 ~37 ~33 ~58 diamond_block 0  
+fill ~57 ~21 ~25 ~57 ~27 ~25 vine 8  
+fill ~58 ~21 ~25 ~58 ~33 ~25 diamond_block 0  
+fill ~58 ~21 ~26 ~58 ~25 ~26 vine 12  
+fill ~58 ~21 ~27 ~58 ~30 ~27 vine 8  
+fill ~58 ~21 ~35 ~58 ~33 ~35 vine 8  
+fill ~58 ~21 ~36 ~58 ~31 ~36 vine 8  
+fill ~58 ~21 ~37 ~58 ~33 ~37 diamond_block 0  
+fill ~59 ~21 ~26 ~59 ~22 ~26 stonebrick 2  
+fill ~59 ~21 ~27 ~59 ~22 ~27 stonebrick 0  
+fill ~59 ~21 ~29 ~59 ~27 ~29 vine 8  
+fill ~59 ~21 ~34 ~59 ~33 ~34 vine 9  
+fill ~59 ~21 ~35 ~59 ~21 ~36 stonebrick 2  
+fill ~60 ~21 ~26 ~60 ~33 ~26 vine 2  
+fill ~60 ~21 ~27 ~60 ~26 ~27 vine 3  
+fill ~60 ~21 ~28 ~60 ~25 ~28 stonebrick 0  
+fill ~60 ~21 ~29 ~60 ~21 ~28 stonebrick 0  
+fill ~60 ~21 ~30 ~60 ~28 ~30 vine 8  
+fill ~60 ~21 ~33 ~60 ~21 ~34 stonebrick 0  
+fill ~60 ~21 ~36 ~60 ~28 ~36 vine 2  
+fill ~61 ~21 ~29 ~61 ~25 ~29 vine 1 
+setblock ~61 ~21 ~30 stonebrick 1  
+fill ~61 ~21 ~31 ~61 ~33 ~31 glowstone 0 
+setblock ~61 ~21 ~32 stonebrick 1  
+fill ~62 ~21 ~30 ~62 ~25 ~30 vine 2 
+setblock ~3 ~22 ~27 stonebrick 1 
+setblock ~3 ~22 ~36 stonebrick 0 
+setblock ~26 ~22 ~3 stonebrick 1  
+fill ~26 ~22 ~4 ~27 ~22 ~4 vine 4  
+fill ~26 ~22 ~59 ~26 ~23 ~59 stonebrick 2  
+fill ~26 ~22 ~60 ~27 ~22 ~60 vine 4  
+fill ~28 ~22 ~5 ~29 ~22 ~5 vine 4  
+fill ~28 ~22 ~60 ~28 ~23 ~60 stonebrick 2  
+fill ~29 ~22 ~2 ~29 ~23 ~2 stonebrick 0 
+setblock ~29 ~22 ~60 stonebrick 1  
+fill ~30 ~22 ~1 ~30 ~23 ~1 stonebrick 0  
+fill ~30 ~22 ~61 ~30 ~23 ~61 stonebrick 2  
+fill ~30 ~22 ~62 ~32 ~22 ~62 vine 4 
+setblock ~32 ~22 ~1 stonebrick 0  
+fill ~32 ~22 ~61 ~32 ~23 ~61 stonebrick 0  
+fill ~33 ~22 ~1 ~34 ~22 ~1 vine 1  
+fill ~33 ~22 ~2 ~33 ~25 ~2 stonebrick 0 
+setblock ~33 ~22 ~60 stonebrick 2  
+fill ~34 ~22 ~2 ~34 ~26 ~2 stonebrick 1 
+setblock ~35 ~22 ~3 stonebrick 2  
+fill ~35 ~22 ~58 ~36 ~22 ~58 vine 1  
+fill ~35 ~22 ~59 ~35 ~21 ~59 stonebrick 2 
+setblock ~36 ~22 ~3 stonebrick 1 
+setblock ~36 ~22 ~59 stonebrick 1  
+fill ~59 ~22 ~35 ~59 ~23 ~35 stonebrick 0 
+setblock ~59 ~22 ~36 stonebrick 1 
+setblock ~60 ~22 ~29 stonebrick 1 
+setblock ~60 ~22 ~33 stonebrick 2 
+setblock ~60 ~22 ~34 stonebrick 1 
+setblock ~61 ~22 ~30 stonebrick 2 
+setblock ~61 ~22 ~32 stonebrick 0 
+setblock ~3 ~23 ~27 stonebrick 2 
+setblock ~3 ~23 ~35 stonebrick 1 
+setblock ~3 ~23 ~36 stonebrick 2  
+fill ~25 ~23 ~3 ~25 ~27 ~3 vine 1  
+fill ~26 ~23 ~3 ~27 ~23 ~3 stonebrick 2  
+fill ~26 ~23 ~4 ~27 ~23 ~4 vine 4  
+fill ~26 ~23 ~60 ~27 ~23 ~60 vine 4  
+fill ~28 ~23 ~5 ~29 ~23 ~5 vine 4 
+setblock ~29 ~23 ~60 stonebrick 2  
+fill ~30 ~23 ~62 ~32 ~23 ~62 vine 4 
+setblock ~32 ~23 ~1 stonebrick 2  
+fill ~33 ~23 ~1 ~34 ~23 ~1 vine 1 
+setblock ~33 ~23 ~60 stonebrick 0  
+fill ~35 ~23 ~3 ~35 ~27 ~3 stonebrick 0  
+fill ~35 ~23 ~58 ~36 ~23 ~58 vine 1  
+fill ~35 ~23 ~59 ~36 ~23 ~59 stonebrick 0 
+setblock ~36 ~23 ~3 stonebrick 2  
+fill ~59 ~23 ~26 ~59 ~23 ~27 stonebrick 1  
+fill ~59 ~23 ~36 ~59 ~24 ~36 stonebrick 0 
+setblock ~60 ~23 ~29 stonebrick 2 
+setblock ~60 ~23 ~33 stonebrick 1 
+setblock ~60 ~23 ~34 stonebrick 2  
+fill ~61 ~23 ~30 ~61 ~24 ~30 stonebrick 0 
+setblock ~61 ~23 ~32 stonebrick 1 
+setblock ~3 ~24 ~27 stonebrick 0  
+fill ~3 ~24 ~35 ~3 ~26 ~35 stonebrick 0 
+setblock ~3 ~24 ~36 stonebrick 1  
+fill ~26 ~24 ~3 ~27 ~24 ~3 stonebrick 0  
+fill ~26 ~24 ~4 ~27 ~24 ~4 vine 4 
+setblock ~26 ~24 ~59 stonebrick 0  
+fill ~26 ~24 ~60 ~27 ~24 ~60 vine 4 
+setblock ~27 ~24 ~59 stonebrick 1  
+fill ~28 ~24 ~5 ~29 ~24 ~5 vine 4  
+fill ~28 ~24 ~60 ~29 ~24 ~60 stonebrick 0 
+setblock ~29 ~24 ~2 stonebrick 2  
+fill ~29 ~24 ~55 ~29 ~44 ~55 vine 1  
+fill ~30 ~24 ~1 ~30 ~25 ~1 stonebrick 2  
+fill ~30 ~24 ~2 ~30 ~25 ~2 vine 4 
+setblock ~30 ~24 ~61 stonebrick 0  
+fill ~30 ~24 ~62 ~32 ~24 ~62 vine 4  
+fill ~32 ~24 ~1 ~32 ~26 ~1 stonebrick 0  
+fill ~32 ~24 ~2 ~32 ~27 ~2 vine 8 
+setblock ~32 ~24 ~61 stonebrick 1  
+fill ~33 ~24 ~1 ~34 ~24 ~1 vine 1 
+setblock ~33 ~24 ~60 stonebrick 2  
+fill ~34 ~24 ~60 ~34 ~27 ~60 stonebrick 1  
+fill ~35 ~24 ~58 ~36 ~24 ~58 vine 1  
+fill ~35 ~24 ~59 ~36 ~24 ~59 stonebrick 0 
+setblock ~36 ~24 ~3 stonebrick 1  
+fill ~59 ~24 ~26 ~59 ~24 ~27 stonebrick 2 
+setblock ~59 ~24 ~35 stonebrick 1 
+setblock ~60 ~24 ~29 stonebrick 1  
+fill ~60 ~24 ~33 ~60 ~25 ~33 stonebrick 0  
+fill ~60 ~24 ~34 ~60 ~25 ~34 stonebrick 0  
+fill ~61 ~24 ~32 ~61 ~25 ~32 stonebrick 2 
+setblock ~3 ~25 ~27 stonebrick 2 
+setblock ~3 ~25 ~36 stonebrick 2  
+fill ~26 ~25 ~3 ~26 ~26 ~3 stonebrick 2  
+fill ~26 ~25 ~4 ~27 ~25 ~4 vine 4  
+fill ~26 ~25 ~59 ~27 ~25 ~59 stonebrick 2  
+fill ~26 ~25 ~60 ~27 ~25 ~60 vine 4  
+fill ~27 ~25 ~3 ~27 ~26 ~3 stonebrick 1  
+fill ~28 ~25 ~5 ~29 ~25 ~5 vine 4 
+setblock ~28 ~25 ~60 stonebrick 2  
+fill ~29 ~25 ~2 ~29 ~27 ~2 stonebrick 0  
+fill ~29 ~25 ~60 ~29 ~27 ~60 stonebrick 0  
+fill ~30 ~25 ~54 ~30 ~48 ~54 vine 1  
+fill ~30 ~25 ~61 ~30 ~26 ~61 stonebrick 1  
+fill ~30 ~25 ~62 ~32 ~25 ~62 vine 4  
+fill ~32 ~25 ~61 ~32 ~26 ~61 stonebrick 0  
+fill ~33 ~25 ~1 ~34 ~25 ~1 vine 1  
+fill ~33 ~25 ~60 ~33 ~26 ~60 stonebrick 1  
+fill ~35 ~25 ~58 ~36 ~25 ~58 vine 1  
+fill ~35 ~25 ~59 ~36 ~25 ~59 stonebrick 0 
+setblock ~36 ~25 ~3 stonebrick 0  
+fill ~59 ~25 ~26 ~59 ~25 ~27 stonebrick 0 
+setblock ~59 ~25 ~35 stonebrick 2 
+setblock ~59 ~25 ~36 stonebrick 1  
+fill ~60 ~25 ~29 ~60 ~30 ~29 stonebrick 0  
+fill ~61 ~25 ~30 ~61 ~26 ~30 stonebrick 1  
+fill ~1 ~26 ~33 ~1 ~32 ~33 vine 8  
+fill ~3 ~26 ~26 ~3 ~27 ~26 stonebrick 2 
+setblock ~3 ~26 ~27 stonebrick 0 
+setblock ~3 ~26 ~36 stonebrick 1  
+fill ~25 ~26 ~59 ~25 ~31 ~59 vine 4  
+fill ~26 ~26 ~4 ~27 ~26 ~4 vine 4  
+fill ~26 ~26 ~59 ~27 ~26 ~59 stonebrick 0  
+fill ~26 ~26 ~60 ~27 ~26 ~60 vine 4 
+setblock ~28 ~26 ~2 stonebrick 2  
+fill ~28 ~26 ~5 ~29 ~26 ~5 vine 4  
+fill ~28 ~26 ~60 ~28 ~29 ~60 stonebrick 0 
+setblock ~30 ~26 ~1 stonebrick 0  
+fill ~30 ~26 ~62 ~32 ~26 ~62 vine 4  
+fill ~33 ~26 ~1 ~34 ~26 ~1 vine 1 
+setblock ~33 ~26 ~2 stonebrick 1  
+fill ~33 ~26 ~58 ~33 ~35 ~58 vine 1  
+fill ~35 ~26 ~58 ~36 ~26 ~58 vine 1  
+fill ~35 ~26 ~59 ~36 ~26 ~59 stonebrick 0 
+setblock ~36 ~26 ~3 stonebrick 2  
+fill ~36 ~26 ~4 ~36 ~29 ~4 vine 4  
+fill ~58 ~26 ~26 ~58 ~28 ~26 vine 8 
+setblock ~59 ~26 ~26 stonebrick 2 
+setblock ~59 ~26 ~27 stonebrick 1  
+fill ~59 ~26 ~35 ~59 ~27 ~35 stonebrick 0  
+fill ~59 ~26 ~36 ~59 ~27 ~36 stonebrick 2 
+setblock ~60 ~26 ~28 stonebrick 1 
+setblock ~60 ~26 ~33 stonebrick 1 
+setblock ~60 ~26 ~34 stonebrick 2 
+setblock ~61 ~26 ~32 stonebrick 0 
+setblock ~3 ~27 ~27 stonebrick 1 
+setblock ~3 ~27 ~35 stonebrick 1  
+fill ~3 ~27 ~36 ~3 ~28 ~36 stonebrick 0  
+fill ~26 ~27 ~3 ~27 ~27 ~3 stonebrick 0  
+fill ~26 ~27 ~4 ~27 ~27 ~4 vine 4 
+setblock ~26 ~27 ~59 stonebrick 1  
+fill ~26 ~27 ~60 ~27 ~27 ~60 vine 4  
+fill ~27 ~27 ~59 ~27 ~29 ~59 stonebrick 0 
+setblock ~28 ~27 ~2 stonebrick 0  
+fill ~28 ~27 ~5 ~29 ~27 ~5 vine 4 
+setblock ~30 ~27 ~1 stonebrick 1  
+fill ~30 ~27 ~58 ~30 ~39 ~58 vine 2  
+fill ~30 ~27 ~61 ~30 ~28 ~61 stonebrick 0  
+fill ~30 ~27 ~62 ~31 ~27 ~62 vine 4  
+fill ~32 ~27 ~1 ~32 ~28 ~1 stonebrick 1 
+setblock ~32 ~27 ~61 stonebrick 1  
+fill ~33 ~27 ~1 ~34 ~27 ~1 vine 1  
+fill ~33 ~27 ~2 ~34 ~27 ~2 stonebrick 0  
+fill ~33 ~27 ~60 ~33 ~29 ~60 stonebrick 2  
+fill ~35 ~27 ~58 ~35 ~29 ~58 vine 1  
+fill ~35 ~27 ~59 ~35 ~28 ~59 stonebrick 2 
+setblock ~36 ~27 ~3 stonebrick 1 
+setblock ~36 ~27 ~59 stonebrick 1  
+fill ~50 ~27 ~30 ~50 ~54 ~30 vine 8  
+fill ~59 ~27 ~25 ~59 ~31 ~25 vine 2 
+setblock ~59 ~27 ~26 stonebrick 1  
+fill ~59 ~27 ~27 ~59 ~29 ~27 stonebrick 2  
+fill ~60 ~27 ~27 ~60 ~32 ~27 vine 2 
+setblock ~60 ~27 ~28 stonebrick 0  
+fill ~60 ~27 ~33 ~60 ~31 ~33 stonebrick 0 
+setblock ~60 ~27 ~34 stonebrick 1 
+setblock ~61 ~27 ~30 stonebrick 0 
+setblock ~61 ~27 ~32 stonebrick 1  
+fill ~61 ~27 ~33 ~61 ~32 ~33 vine 4  
+fill ~3 ~28 ~26 ~3 ~28 ~27 stonebrick 0  
+fill ~3 ~28 ~35 ~3 ~31 ~35 stonebrick 0  
+fill ~4 ~28 ~36 ~4 ~31 ~36 vine 1  
+fill ~26 ~28 ~3 ~27 ~28 ~3 stonebrick 1  
+fill ~26 ~28 ~4 ~27 ~28 ~4 vine 4  
+fill ~26 ~28 ~59 ~26 ~30 ~59 stonebrick 2  
+fill ~26 ~28 ~60 ~27 ~28 ~60 vine 4 
+setblock ~28 ~28 ~2 stonebrick 1  
+fill ~28 ~28 ~5 ~29 ~28 ~5 vine 4 
+setblock ~29 ~28 ~2 stonebrick 2 
+setblock ~29 ~28 ~60 stonebrick 2 
+setblock ~30 ~28 ~1 stonebrick 2  
+fill ~30 ~28 ~62 ~31 ~28 ~62 vine 4 
+setblock ~32 ~28 ~61 stonebrick 0  
+fill ~33 ~28 ~1 ~34 ~28 ~1 vine 1  
+fill ~33 ~28 ~2 ~34 ~28 ~2 stonebrick 1  
+fill ~33 ~28 ~61 ~33 ~31 ~61 vine 2  
+fill ~34 ~28 ~59 ~34 ~32 ~59 vine 8 
+setblock ~34 ~28 ~60 stonebrick 0 
+setblock ~35 ~28 ~3 stonebrick 1 
+setblock ~36 ~28 ~3 stonebrick 2 
+setblock ~36 ~28 ~59 stonebrick 2 
+setblock ~59 ~28 ~26 stonebrick 0  
+fill ~59 ~28 ~35 ~59 ~28 ~36 stonebrick 1 
+setblock ~60 ~28 ~28 stonebrick 1 
+setblock ~60 ~28 ~34 stonebrick 0  
+fill ~61 ~28 ~30 ~61 ~29 ~30 stonebrick 1  
+fill ~61 ~28 ~32 ~61 ~29 ~32 stonebrick 0  
+fill ~2 ~29 ~27 ~2 ~31 ~27 vine 8  
+fill ~2 ~29 ~30 ~2 ~30 ~30 vine 4  
+fill ~3 ~29 ~26 ~3 ~32 ~26 stonebrick 1 
+setblock ~3 ~29 ~27 stonebrick 0 
+setblock ~3 ~29 ~36 stonebrick 2 
+setblock ~26 ~29 ~3 stonebrick 0  
+fill ~26 ~29 ~4 ~27 ~29 ~4 vine 4  
+fill ~27 ~29 ~3 ~27 ~30 ~3 stonebrick 1  
+fill ~27 ~29 ~60 ~27 ~31 ~60 vine 4 
+setblock ~28 ~29 ~2 stonebrick 2  
+fill ~28 ~29 ~5 ~29 ~29 ~5 vine 4 
+setblock ~29 ~29 ~2 stonebrick 0 
+setblock ~29 ~29 ~60 stonebrick 1  
+fill ~30 ~29 ~1 ~30 ~30 ~1 stonebrick 0  
+fill ~30 ~29 ~56 ~30 ~45 ~56 vine 2 
+setblock ~30 ~29 ~61 stonebrick 1  
+fill ~30 ~29 ~62 ~31 ~29 ~62 vine 4  
+fill ~32 ~29 ~1 ~32 ~33 ~1 stonebrick 0  
+fill ~32 ~29 ~61 ~32 ~31 ~61 stonebrick 1 
+setblock ~33 ~29 ~2 stonebrick 0  
+fill ~34 ~29 ~1 ~34 ~31 ~1 vine 1 
+setblock ~34 ~29 ~2 stonebrick 2 
+setblock ~34 ~29 ~60 stonebrick 2  
+fill ~35 ~29 ~3 ~36 ~29 ~3 stonebrick 0  
+fill ~35 ~29 ~59 ~36 ~29 ~59 stonebrick 0 
+setblock ~59 ~29 ~26 stonebrick 2  
+fill ~59 ~29 ~35 ~59 ~32 ~35 stonebrick 0 
+setblock ~59 ~29 ~36 stonebrick 1  
+fill ~59 ~29 ~37 ~59 ~32 ~37 vine 2 
+setblock ~60 ~29 ~28 stonebrick 0  
+fill ~60 ~29 ~34 ~60 ~30 ~34 stonebrick 2 
+setblock ~3 ~30 ~27 stonebrick 2 
+setblock ~3 ~30 ~36 stonebrick 1 
+setblock ~26 ~30 ~3 stonebrick 1  
+fill ~26 ~30 ~4 ~27 ~30 ~4 vine 4 
+setblock ~27 ~30 ~59 stonebrick 1  
+fill ~28 ~30 ~2 ~28 ~31 ~2 stonebrick 0  
+fill ~28 ~30 ~5 ~29 ~30 ~5 vine 4 
+setblock ~28 ~30 ~60 stonebrick 1 
+setblock ~29 ~30 ~2 stonebrick 2 
+setblock ~29 ~30 ~60 stonebrick 2  
+fill ~30 ~30 ~61 ~30 ~31 ~61 stonebrick 0  
+fill ~30 ~30 ~62 ~31 ~30 ~62 vine 4  
+fill ~32 ~30 ~59 ~32 ~34 ~59 vine 1  
+fill ~33 ~30 ~2 ~33 ~31 ~2 stonebrick 2  
+fill ~33 ~30 ~60 ~34 ~30 ~60 stonebrick 0  
+fill ~34 ~30 ~2 ~34 ~31 ~2 stonebrick 0 
+setblock ~34 ~30 ~3 vine 8  
+fill ~35 ~30 ~3 ~36 ~30 ~3 stonebrick 0  
+fill ~35 ~30 ~59 ~36 ~30 ~59 stonebrick 0  
+fill ~51 ~30 ~28 ~51 ~51 ~28 vine 8 
+setblock ~59 ~30 ~26 stonebrick 1  
+fill ~59 ~30 ~27 ~59 ~32 ~27 stonebrick 0 
+setblock ~59 ~30 ~36 stonebrick 0  
+fill ~60 ~30 ~28 ~60 ~31 ~28 stonebrick 2 
+setblock ~61 ~30 ~30 stonebrick 2 
+setblock ~61 ~30 ~32 stonebrick 2 
+setblock ~3 ~31 ~27 stonebrick 0 
+setblock ~3 ~31 ~36 stonebrick 0  
+fill ~26 ~31 ~3 ~26 ~32 ~3 stonebrick 2  
+fill ~26 ~31 ~59 ~26 ~32 ~59 stonebrick 0 
+setblock ~27 ~31 ~3 stonebrick 0 
+setblock ~27 ~31 ~59 stonebrick 2  
+fill ~28 ~31 ~5 ~29 ~31 ~5 vine 4  
+fill ~28 ~31 ~60 ~29 ~31 ~60 stonebrick 0 
+setblock ~29 ~31 ~2 stonebrick 0 
+setblock ~29 ~31 ~61 vine 4 
+setblock ~30 ~31 ~1 stonebrick 2 
+setblock ~31 ~31 ~62 vine 4  
+fill ~33 ~31 ~60 ~33 ~32 ~60 stonebrick 2 
+setblock ~34 ~31 ~60 stonebrick 1  
+fill ~35 ~31 ~3 ~36 ~31 ~3 stonebrick 0  
+fill ~35 ~31 ~59 ~35 ~32 ~59 stonebrick 1  
+fill ~36 ~31 ~59 ~36 ~33 ~59 stonebrick 0  
+fill ~37 ~31 ~3 ~37 ~32 ~3 vine 1  
+fill ~52 ~31 ~24 ~53 ~31 ~24 vine 1  
+fill ~57 ~31 ~28 ~57 ~41 ~28 vine 4  
+fill ~59 ~31 ~26 ~59 ~33 ~26 stonebrick 0  
+fill ~59 ~31 ~36 ~59 ~32 ~36 stonebrick 2 
+setblock ~60 ~31 ~29 stonebrick 2  
+fill ~60 ~31 ~34 ~60 ~32 ~34 stonebrick 0 
+setblock ~61 ~31 ~30 stonebrick 1 
+setblock ~61 ~31 ~32 stonebrick 1 
+setblock ~3 ~32 ~27 stonebrick 2  
+fill ~3 ~32 ~35 ~3 ~33 ~35 stonebrick 2  
+fill ~3 ~32 ~36 ~3 ~33 ~36 stonebrick 1 
+setblock ~27 ~32 ~3 stonebrick 2  
+fill ~27 ~32 ~59 ~27 ~33 ~59 stonebrick 0 
+setblock ~28 ~32 ~2 stonebrick 1  
+fill ~28 ~32 ~5 ~29 ~32 ~5 vine 4  
+fill ~28 ~32 ~60 ~29 ~32 ~60 stonebrick 0 
+setblock ~29 ~32 ~2 stonebrick 2 
+setblock ~30 ~32 ~1 stonebrick 0 
+setblock ~30 ~32 ~61 stonebrick 1  
+fill ~32 ~32 ~61 ~32 ~33 ~61 stonebrick 2 
+setblock ~33 ~32 ~2 stonebrick 0 
+setblock ~34 ~32 ~2 stonebrick 1  
+fill ~34 ~32 ~60 ~34 ~33 ~60 stonebrick 0  
+fill ~35 ~32 ~3 ~36 ~32 ~3 stonebrick 0 
+setblock ~35 ~32 ~60 vine 2  
+fill ~52 ~32 ~24 ~53 ~32 ~24 vine 1  
+fill ~52 ~32 ~27 ~52 ~49 ~27 vine 8  
+fill ~60 ~32 ~28 ~60 ~32 ~29 stonebrick 0  
+fill ~60 ~32 ~33 ~60 ~33 ~33 stonebrick 2 
+setblock ~61 ~32 ~30 stonebrick 0  
+fill ~61 ~32 ~32 ~61 ~33 ~32 stonebrick 0 
+setblock ~3 ~33 ~26 stonebrick 2 
+setblock ~3 ~33 ~27 stonebrick 0 
+setblock ~26 ~33 ~3 stonebrick 1 
+setblock ~26 ~33 ~59 stonebrick 1 
+setblock ~27 ~33 ~3 stonebrick 0 
+setblock ~28 ~33 ~2 stonebrick 2  
+fill ~28 ~33 ~5 ~29 ~33 ~5 vine 4 
+setblock ~28 ~33 ~60 stonebrick 1 
+setblock ~29 ~33 ~2 stonebrick 0 
+setblock ~29 ~33 ~60 stonebrick 2 
+setblock ~30 ~33 ~1 stonebrick 2 
+setblock ~30 ~33 ~61 stonebrick 0 
+setblock ~33 ~33 ~2 stonebrick 2 
+setblock ~33 ~33 ~60 stonebrick 1 
+setblock ~34 ~33 ~2 stonebrick 0  
+fill ~34 ~33 ~58 ~34 ~34 ~58 vine 8  
+fill ~35 ~33 ~3 ~36 ~33 ~3 stonebrick 2 
+setblock ~35 ~33 ~59 stonebrick 0  
+fill ~52 ~33 ~24 ~53 ~33 ~24 vine 1  
+fill ~58 ~33 ~29 ~58 ~37 ~29 vine 8 
+setblock ~59 ~33 ~27 stonebrick 2 
+setblock ~59 ~33 ~33 vine 0 
+setblock ~59 ~33 ~35 stonebrick 1 
+setblock ~59 ~33 ~36 stonebrick 0  
+fill ~60 ~33 ~28 ~60 ~33 ~29 stonebrick 2 
+setblock ~60 ~33 ~34 stonebrick 2 
+setblock ~61 ~33 ~30 stonebrick 1  
+fill ~2 ~34 ~30 ~2 ~37 ~30 stonebrick 0  
+fill ~2 ~34 ~31 ~2 ~37 ~31 glowstone 0  
+fill ~2 ~34 ~32 ~2 ~37 ~32 stonebrick 0 
+setblock ~3 ~34 ~28 stonebrick 2 
+setblock ~3 ~34 ~29 stonebrick 1  
+fill ~3 ~34 ~33 ~3 ~34 ~34 stonebrick 1 
+setblock ~4 ~34 ~26 stonebrick 0 
+setblock ~4 ~34 ~27 stonebrick 1 
+setblock ~4 ~34 ~35 stonebrick 0 
+setblock ~4 ~34 ~36 stonebrick 1  
+fill ~5 ~34 ~25 ~5 ~37 ~25 diamond_block 0  
+fill ~5 ~34 ~37 ~5 ~37 ~37 diamond_block 0  
+fill ~25 ~34 ~5 ~25 ~37 ~5 diamond_block 0  
+fill ~25 ~34 ~57 ~25 ~37 ~57 diamond_block 0 
+setblock ~26 ~34 ~4 stonebrick 0  
+fill ~26 ~34 ~58 ~27 ~34 ~58 stonebrick 1 
+setblock ~27 ~34 ~4 stonebrick 2 
+setblock ~28 ~34 ~3 stonebrick 2  
+fill ~28 ~34 ~5 ~29 ~34 ~5 vine 4  
+fill ~28 ~34 ~58 ~28 ~36 ~58 vine 1 
+setblock ~28 ~34 ~59 stonebrick 2 
+setblock ~29 ~34 ~3 stonebrick 0  
+fill ~29 ~34 ~59 ~29 ~37 ~59 stonebrick 0  
+fill ~30 ~34 ~2 ~30 ~35 ~2 stonebrick 0 
+setblock ~30 ~34 ~60 stonebrick 0  
+fill ~31 ~34 ~2 ~31 ~37 ~2 glowstone 0  
+fill ~31 ~34 ~60 ~31 ~37 ~60 glowstone 0 
+setblock ~32 ~34 ~2 stonebrick 2 
+setblock ~32 ~34 ~60 stonebrick 0  
+fill ~32 ~34 ~61 ~32 ~36 ~61 vine 4  
+fill ~33 ~34 ~3 ~34 ~34 ~3 stonebrick 0 
+setblock ~33 ~34 ~59 stonebrick 0  
+fill ~33 ~34 ~60 ~33 ~35 ~60 vine 2  
+fill ~34 ~34 ~4 ~34 ~35 ~4 vine 8  
+fill ~34 ~34 ~5 ~34 ~40 ~5 vine 8 
+setblock ~34 ~34 ~59 stonebrick 2  
+fill ~35 ~34 ~4 ~35 ~36 ~4 stonebrick 0  
+fill ~35 ~34 ~56 ~35 ~40 ~56 vine 1  
+fill ~35 ~34 ~57 ~35 ~35 ~57 vine 1  
+fill ~35 ~34 ~58 ~36 ~34 ~58 stonebrick 0  
+fill ~35 ~34 ~59 ~35 ~37 ~59 vine 2 
+setblock ~36 ~34 ~4 stonebrick 2  
+fill ~37 ~34 ~5 ~37 ~37 ~5 diamond_block 0  
+fill ~37 ~34 ~57 ~37 ~37 ~57 diamond_block 0  
+fill ~52 ~34 ~24 ~53 ~34 ~24 vine 1  
+fill ~57 ~34 ~25 ~57 ~37 ~25 diamond_block 0  
+fill ~57 ~34 ~37 ~57 ~37 ~37 diamond_block 0 
+setblock ~58 ~34 ~26 stonebrick 2 
+setblock ~58 ~34 ~27 stonebrick 0  
+fill ~58 ~34 ~28 ~58 ~36 ~28 vine 8  
+fill ~58 ~34 ~35 ~58 ~34 ~36 stonebrick 2  
+fill ~59 ~34 ~28 ~59 ~34 ~29 stonebrick 0  
+fill ~59 ~34 ~33 ~59 ~35 ~33 stonebrick 0 
+setblock ~59 ~34 ~34 stonebrick 1  
+fill ~60 ~34 ~30 ~60 ~36 ~30 stonebrick 0  
+fill ~60 ~34 ~31 ~60 ~37 ~31 glowstone 0 
+setblock ~60 ~34 ~32 stonebrick 0  
+fill ~3 ~35 ~28 ~3 ~36 ~28 stonebrick 0 
+setblock ~3 ~35 ~29 stonebrick 2  
+fill ~3 ~35 ~33 ~3 ~35 ~34 stonebrick 0 
+setblock ~4 ~35 ~26 stonebrick 2 
+setblock ~4 ~35 ~27 stonebrick 0 
+setblock ~4 ~35 ~35 stonebrick 1  
+fill ~4 ~35 ~36 ~4 ~37 ~36 stonebrick 0 
+setblock ~26 ~35 ~4 stonebrick 2  
+fill ~26 ~35 ~58 ~27 ~35 ~58 stonebrick 0  
+fill ~27 ~35 ~4 ~27 ~37 ~4 stonebrick 0 
+setblock ~28 ~35 ~3 stonebrick 0  
+fill ~28 ~35 ~5 ~29 ~35 ~5 vine 4  
+fill ~28 ~35 ~59 ~28 ~36 ~59 stonebrick 1 
+setblock ~29 ~35 ~3 stonebrick 2 
+setblock ~30 ~35 ~60 stonebrick 2  
+fill ~32 ~35 ~2 ~32 ~37 ~2 stonebrick 0 
+setblock ~32 ~35 ~60 stonebrick 1 
+setblock ~33 ~35 ~3 stonebrick 2  
+fill ~33 ~35 ~59 ~34 ~35 ~59 stonebrick 1 
+setblock ~34 ~35 ~3 stonebrick 0 
+setblock ~35 ~35 ~58 stonebrick 1  
+fill ~36 ~35 ~4 ~36 ~36 ~4 stonebrick 0 
+setblock ~36 ~35 ~58 stonebrick 2  
+fill ~52 ~35 ~24 ~53 ~35 ~24 vine 1 
+setblock ~58 ~35 ~26 stonebrick 1 
+setblock ~58 ~35 ~27 stonebrick 2  
+fill ~58 ~35 ~35 ~58 ~37 ~35 stonebrick 0  
+fill ~58 ~35 ~36 ~58 ~35 ~35 stonebrick 0 
+setblock ~59 ~35 ~28 stonebrick 2  
+fill ~59 ~35 ~29 ~59 ~37 ~29 stonebrick 0  
+fill ~59 ~35 ~34 ~59 ~37 ~34 stonebrick 0 
+setblock ~60 ~35 ~32 stonebrick 1  
+fill ~3 ~36 ~29 ~3 ~37 ~29 stonebrick 0 
+setblock ~3 ~36 ~33 stonebrick 1 
+setblock ~3 ~36 ~34 stonebrick 0  
+fill ~4 ~36 ~26 ~4 ~37 ~26 stonebrick 0 
+setblock ~4 ~36 ~27 stonebrick 2 
+setblock ~4 ~36 ~35 stonebrick 0 
+setblock ~26 ~36 ~4 stonebrick 0  
+fill ~26 ~36 ~58 ~26 ~37 ~58 stonebrick 1  
+fill ~27 ~36 ~58 ~27 ~37 ~58 stonebrick 0 
+setblock ~28 ~36 ~3 stonebrick 2  
+fill ~28 ~36 ~5 ~29 ~36 ~5 vine 4  
+fill ~28 ~36 ~57 ~28 ~39 ~57 vine 3 
+setblock ~29 ~36 ~3 stonebrick 0  
+fill ~30 ~36 ~2 ~30 ~37 ~2 stonebrick 1  
+fill ~30 ~36 ~60 ~30 ~37 ~60 stonebrick 0 
+setblock ~32 ~36 ~60 stonebrick 0  
+fill ~33 ~36 ~3 ~33 ~37 ~3 stonebrick 0  
+fill ~33 ~36 ~59 ~33 ~37 ~59 stonebrick 0  
+fill ~34 ~36 ~3 ~34 ~37 ~3 stonebrick 1  
+fill ~34 ~36 ~59 ~34 ~37 ~59 stonebrick 2  
+fill ~35 ~36 ~58 ~36 ~36 ~58 stonebrick 0  
+fill ~52 ~36 ~24 ~53 ~36 ~24 vine 1  
+fill ~58 ~36 ~26 ~58 ~37 ~26 stonebrick 0  
+fill ~58 ~36 ~27 ~58 ~36 ~26 stonebrick 0 
+setblock ~58 ~36 ~36 stonebrick 2 
+setblock ~59 ~36 ~28 stonebrick 0 
+setblock ~59 ~36 ~33 stonebrick 1 
+setblock ~60 ~36 ~32 stonebrick 2 
+setblock ~3 ~37 ~28 stonebrick 2 
+setblock ~3 ~37 ~33 stonebrick 0 
+setblock ~3 ~37 ~34 stonebrick 2 
+setblock ~4 ~37 ~27 stonebrick 0 
+setblock ~4 ~37 ~35 stonebrick 1 
+setblock ~26 ~37 ~4 stonebrick 1 
+setblock ~28 ~37 ~3 stonebrick 0  
+fill ~28 ~37 ~5 ~29 ~37 ~5 vine 4 
+setblock ~28 ~37 ~59 stonebrick 0 
+setblock ~29 ~37 ~3 stonebrick 1  
+fill ~32 ~37 ~58 ~32 ~40 ~58 vine 1 
+setblock ~32 ~37 ~60 stonebrick 1  
+fill ~35 ~37 ~4 ~36 ~37 ~4 stonebrick 2 
+setblock ~35 ~37 ~58 stonebrick 1 
+setblock ~36 ~37 ~58 stonebrick 0  
+fill ~52 ~37 ~24 ~53 ~37 ~24 vine 1  
+fill ~56 ~37 ~26 ~56 ~41 ~26 vine 12 
+setblock ~58 ~37 ~27 stonebrick 2 
+setblock ~58 ~37 ~36 stonebrick 1 
+setblock ~59 ~37 ~28 stonebrick 1 
+setblock ~59 ~37 ~33 stonebrick 2 
+setblock ~60 ~37 ~30 stonebrick 2 
+setblock ~60 ~37 ~32 stonebrick 0  
+fill ~3 ~38 ~30 ~3 ~40 ~30 stonebrick 0  
+fill ~3 ~38 ~31 ~3 ~41 ~31 glowstone 0 
+setblock ~3 ~38 ~32 stonebrick 1 
+setblock ~4 ~38 ~28 stonebrick 1 
+setblock ~4 ~38 ~29 stonebrick 0  
+fill ~4 ~38 ~33 ~4 ~38 ~34 stonebrick 0  
+fill ~5 ~38 ~26 ~5 ~41 ~26 stonebrick 0  
+fill ~5 ~38 ~27 ~5 ~39 ~27 stonebrick 2 
+setblock ~5 ~38 ~35 stonebrick 2 
+setblock ~5 ~38 ~36 stonebrick 0  
+fill ~6 ~38 ~25 ~6 ~41 ~25 diamond_block 0  
+fill ~6 ~38 ~37 ~6 ~41 ~37 diamond_block 0  
+fill ~25 ~38 ~6 ~25 ~41 ~6 diamond_block 0  
+fill ~25 ~38 ~56 ~25 ~41 ~56 diamond_block 0 
+setblock ~26 ~38 ~5 stonebrick 1  
+fill ~26 ~38 ~57 ~26 ~39 ~57 stonebrick 0  
+fill ~27 ~38 ~5 ~27 ~41 ~5 stonebrick 0  
+fill ~27 ~38 ~6 ~27 ~41 ~6 vine 4  
+fill ~27 ~38 ~7 ~27 ~42 ~7 vine 4  
+fill ~27 ~38 ~57 ~27 ~39 ~57 stonebrick 1  
+fill ~27 ~38 ~58 ~27 ~40 ~58 vine 8 
+setblock ~28 ~38 ~4 stonebrick 0  
+fill ~28 ~38 ~5 ~29 ~38 ~5 vine 4 
+setblock ~28 ~38 ~58 stonebrick 1  
+fill ~29 ~38 ~4 ~29 ~40 ~4 stonebrick 1  
+fill ~29 ~38 ~58 ~29 ~40 ~58 stonebrick 0  
+fill ~29 ~38 ~59 ~29 ~39 ~59 vine 4 
+setblock ~30 ~38 ~3 stonebrick 2  
+fill ~30 ~38 ~59 ~30 ~40 ~59 stonebrick 0  
+fill ~30 ~38 ~60 ~31 ~38 ~60 vine 4  
+fill ~31 ~38 ~3 ~31 ~41 ~3 glowstone 0  
+fill ~31 ~38 ~59 ~31 ~41 ~59 glowstone 0  
+fill ~32 ~38 ~3 ~32 ~39 ~3 stonebrick 1  
+fill ~32 ~38 ~59 ~32 ~39 ~59 stonebrick 0 
+setblock ~33 ~38 ~4 stonebrick 2  
+fill ~33 ~38 ~57 ~33 ~39 ~57 vine 1  
+fill ~33 ~38 ~58 ~33 ~39 ~58 stonebrick 0 
+setblock ~33 ~38 ~59 vine 2 
+setblock ~34 ~38 ~4 stonebrick 0 
+setblock ~34 ~38 ~58 stonebrick 2  
+fill ~34 ~38 ~59 ~34 ~39 ~59 vine 4  
+fill ~35 ~38 ~5 ~35 ~41 ~5 stonebrick 0  
+fill ~35 ~38 ~57 ~36 ~38 ~57 stonebrick 0  
+fill ~36 ~38 ~5 ~36 ~40 ~5 stonebrick 1  
+fill ~37 ~38 ~6 ~37 ~41 ~6 diamond_block 0  
+fill ~37 ~38 ~56 ~37 ~41 ~56 diamond_block 0  
+fill ~52 ~38 ~24 ~53 ~38 ~24 vine 1  
+fill ~56 ~38 ~25 ~56 ~41 ~25 diamond_block 0  
+fill ~56 ~38 ~27 ~56 ~41 ~27 vine 8  
+fill ~56 ~38 ~37 ~56 ~41 ~37 diamond_block 0  
+fill ~57 ~38 ~26 ~57 ~41 ~26 stonebrick 0  
+fill ~57 ~38 ~27 ~57 ~38 ~26 stonebrick 0  
+fill ~57 ~38 ~35 ~57 ~39 ~35 stonebrick 2 
+setblock ~57 ~38 ~36 stonebrick 0 
+setblock ~58 ~38 ~28 stonebrick 0 
+setblock ~58 ~38 ~29 stonebrick 2 
+setblock ~58 ~38 ~33 stonebrick 2 
+setblock ~58 ~38 ~34 stonebrick 1  
+fill ~59 ~38 ~30 ~59 ~39 ~30 stonebrick 2  
+fill ~59 ~38 ~31 ~59 ~41 ~31 glowstone 0 
+setblock ~59 ~38 ~32 stonebrick 0 
+setblock ~3 ~39 ~32 stonebrick 0  
+fill ~4 ~39 ~28 ~4 ~40 ~28 stonebrick 0 
+setblock ~4 ~39 ~29 stonebrick 1  
+fill ~4 ~39 ~33 ~4 ~40 ~33 stonebrick 1 
+setblock ~4 ~39 ~34 stonebrick 0  
+fill ~5 ~39 ~35 ~5 ~41 ~35 stonebrick 0 
+setblock ~5 ~39 ~36 stonebrick 1 
+setblock ~26 ~39 ~5 stonebrick 0  
+fill ~28 ~39 ~4 ~28 ~41 ~4 stonebrick 1  
+fill ~28 ~39 ~5 ~29 ~39 ~5 vine 4 
+setblock ~28 ~39 ~58 stonebrick 0 
+setblock ~30 ~39 ~3 stonebrick 1  
+fill ~30 ~39 ~60 ~31 ~39 ~60 vine 4 
+setblock ~33 ~39 ~4 stonebrick 1 
+setblock ~34 ~39 ~4 stonebrick 2 
+setblock ~34 ~39 ~58 stonebrick 0  
+fill ~35 ~39 ~57 ~35 ~38 ~57 stonebrick 0 
+setblock ~36 ~39 ~57 stonebrick 1  
+fill ~52 ~39 ~24 ~53 ~39 ~24 vine 1 
+setblock ~57 ~39 ~27 stonebrick 2 
+setblock ~57 ~39 ~36 stonebrick 2 
+setblock ~58 ~39 ~28 stonebrick 1  
+fill ~58 ~39 ~29 ~58 ~41 ~29 stonebrick 0  
+fill ~58 ~39 ~33 ~58 ~41 ~33 stonebrick 1  
+fill ~58 ~39 ~34 ~58 ~40 ~34 stonebrick 0 
+setblock ~59 ~39 ~32 stonebrick 2  
+fill ~3 ~40 ~32 ~3 ~41 ~32 stonebrick 1 
+setblock ~4 ~40 ~29 stonebrick 0  
+fill ~4 ~40 ~34 ~4 ~41 ~34 stonebrick 1 
+setblock ~5 ~40 ~27 stonebrick 0 
+setblock ~5 ~40 ~36 stonebrick 2 
+setblock ~26 ~40 ~5 stonebrick 2  
+fill ~26 ~40 ~57 ~27 ~40 ~57 stonebrick 2  
+fill ~28 ~40 ~5 ~29 ~40 ~5 vine 4 
+setblock ~28 ~40 ~57 vine 1 
+setblock ~28 ~40 ~58 stonebrick 2  
+fill ~30 ~40 ~3 ~30 ~41 ~3 stonebrick 0  
+fill ~30 ~40 ~60 ~31 ~40 ~60 vine 4 
+setblock ~32 ~40 ~3 stonebrick 2 
+setblock ~32 ~40 ~59 stonebrick 1  
+fill ~33 ~40 ~4 ~33 ~41 ~4 stonebrick 0  
+fill ~33 ~40 ~56 ~33 ~43 ~56 vine 1 
+setblock ~33 ~40 ~58 stonebrick 1 
+setblock ~34 ~40 ~4 stonebrick 1 
+setblock ~34 ~40 ~58 stonebrick 2 
+setblock ~35 ~40 ~57 stonebrick 2  
+fill ~36 ~40 ~57 ~36 ~41 ~57 stonebrick 0  
+fill ~52 ~40 ~24 ~53 ~40 ~24 vine 1 
+setblock ~57 ~40 ~27 stonebrick 1  
+fill ~57 ~40 ~35 ~57 ~41 ~35 stonebrick 0  
+fill ~57 ~40 ~36 ~57 ~41 ~36 stonebrick 0 
+setblock ~58 ~40 ~28 stonebrick 2  
+fill ~59 ~40 ~30 ~59 ~41 ~30 stonebrick 0 
+setblock ~59 ~40 ~32 stonebrick 1 
+setblock ~3 ~41 ~30 stonebrick 1  
+fill ~4 ~41 ~28 ~4 ~41 ~29 stonebrick 1 
+setblock ~4 ~41 ~33 stonebrick 0 
+setblock ~5 ~41 ~27 stonebrick 1 
+setblock ~5 ~41 ~36 stonebrick 1 
+setblock ~26 ~41 ~5 stonebrick 1 
+setblock ~26 ~41 ~57 stonebrick 1 
+setblock ~27 ~41 ~57 stonebrick 2  
+fill ~28 ~41 ~5 ~28 ~13 ~5 vine 4 
+setblock ~28 ~41 ~58 stonebrick 0 
+setblock ~29 ~41 ~4 stonebrick 0 
+setblock ~29 ~41 ~58 stonebrick 1  
+fill ~30 ~41 ~6 ~30 ~44 ~6 vine 4 
+setblock ~30 ~41 ~59 stonebrick 2  
+fill ~30 ~41 ~60 ~30 ~38 ~60 vine 4 
+setblock ~32 ~41 ~3 stonebrick 0  
+fill ~32 ~41 ~57 ~32 ~43 ~57 vine 8 
+setblock ~32 ~41 ~59 stonebrick 0 
+setblock ~33 ~41 ~58 stonebrick 0 
+setblock ~34 ~41 ~4 stonebrick 0 
+setblock ~34 ~41 ~58 stonebrick 1 
+setblock ~35 ~41 ~57 stonebrick 0 
+setblock ~36 ~41 ~5 stonebrick 0  
+fill ~52 ~41 ~24 ~53 ~41 ~24 vine 1 
+setblock ~57 ~41 ~27 stonebrick 0 
+setblock ~58 ~41 ~28 stonebrick 0 
+setblock ~58 ~41 ~34 stonebrick 2 
+setblock ~59 ~41 ~32 stonebrick 0 
+setblock ~4 ~42 ~30 stonebrick 1  
+fill ~4 ~42 ~31 ~4 ~43 ~31 glowstone 0 
+setblock ~4 ~42 ~32 stonebrick 0  
+fill ~5 ~42 ~28 ~5 ~43 ~28 stonebrick 0  
+fill ~5 ~42 ~29 ~5 ~42 ~28 stonebrick 0  
+fill ~5 ~42 ~33 ~5 ~43 ~33 stonebrick 0  
+fill ~5 ~42 ~34 ~5 ~43 ~34 stonebrick 0  
+fill ~6 ~42 ~26 ~6 ~43 ~26 stonebrick 0 
+setblock ~6 ~42 ~27 stonebrick 1  
+fill ~6 ~42 ~35 ~6 ~42 ~36 stonebrick 0  
+fill ~7 ~42 ~25 ~7 ~43 ~25 diamond_block 0  
+fill ~7 ~42 ~37 ~7 ~43 ~37 diamond_block 0  
+fill ~25 ~42 ~7 ~25 ~43 ~7 diamond_block 0  
+fill ~25 ~42 ~55 ~25 ~43 ~55 diamond_block 0 
+setblock ~25 ~42 ~56 vine 12  
+fill ~26 ~42 ~6 ~27 ~42 ~6 stonebrick 0  
+fill ~26 ~42 ~56 ~27 ~42 ~56 stonebrick 1 
+setblock ~26 ~42 ~57 vine 4 
+setblock ~27 ~42 ~57 vine 12 
+setblock ~28 ~42 ~5 stonebrick 2  
+fill ~28 ~42 ~57 ~28 ~43 ~57 stonebrick 0 
+setblock ~29 ~42 ~5 stonebrick 0 
+setblock ~29 ~42 ~57 stonebrick 1 
+setblock ~30 ~42 ~4 stonebrick 0 
+setblock ~30 ~42 ~5 vine 4  
+fill ~30 ~42 ~58 ~30 ~43 ~58 stonebrick 1  
+fill ~31 ~42 ~4 ~31 ~43 ~4 glowstone 0  
+fill ~31 ~42 ~58 ~31 ~43 ~58 glowstone 0  
+fill ~32 ~42 ~4 ~32 ~43 ~4 stonebrick 1  
+fill ~32 ~42 ~53 ~32 ~50 ~53 vine 8 
+setblock ~32 ~42 ~58 stonebrick 1 
+setblock ~33 ~42 ~5 stonebrick 0  
+fill ~33 ~42 ~57 ~33 ~43 ~57 stonebrick 2 
+setblock ~34 ~42 ~5 stonebrick 2  
+fill ~34 ~42 ~57 ~34 ~43 ~57 stonebrick 0 
+setblock ~35 ~42 ~6 stonebrick 1  
+fill ~35 ~42 ~56 ~36 ~42 ~56 stonebrick 0 
+setblock ~36 ~42 ~6 stonebrick 2  
+fill ~37 ~42 ~7 ~37 ~43 ~7 diamond_block 0  
+fill ~37 ~42 ~55 ~37 ~43 ~55 diamond_block 0  
+fill ~52 ~42 ~24 ~53 ~42 ~24 vine 1  
+fill ~55 ~42 ~25 ~55 ~43 ~25 diamond_block 0  
+fill ~55 ~42 ~37 ~55 ~43 ~37 diamond_block 0 
+setblock ~56 ~42 ~26 stonebrick 0 
+setblock ~56 ~42 ~27 stonebrick 2 
+setblock ~56 ~42 ~35 stonebrick 0 
+setblock ~56 ~42 ~36 stonebrick 2  
+fill ~57 ~42 ~28 ~57 ~42 ~29 stonebrick 0 
+setblock ~57 ~42 ~33 stonebrick 2 
+setblock ~57 ~42 ~34 stonebrick 0  
+fill ~58 ~42 ~30 ~58 ~43 ~30 stonebrick 0  
+fill ~58 ~42 ~31 ~58 ~43 ~31 glowstone 0 
+setblock ~58 ~42 ~32 stonebrick 1 
+setblock ~4 ~43 ~30 stonebrick 2 
+setblock ~4 ~43 ~32 stonebrick 2 
+setblock ~5 ~43 ~29 stonebrick 2 
+setblock ~6 ~43 ~27 stonebrick 0 
+setblock ~6 ~43 ~35 stonebrick 2 
+setblock ~6 ~43 ~36 stonebrick 0 
+setblock ~25 ~43 ~56 vine 8 
+setblock ~26 ~43 ~6 stonebrick 2  
+fill ~26 ~43 ~56 ~27 ~43 ~56 stonebrick 0 
+setblock ~27 ~43 ~6 stonebrick 1 
+setblock ~27 ~43 ~57 vine 8 
+setblock ~28 ~43 ~5 stonebrick 0 
+setblock ~29 ~43 ~5 stonebrick 2  
+fill ~29 ~43 ~51 ~29 ~51 ~51 vine 1 
+setblock ~29 ~43 ~57 stonebrick 2 
+setblock ~30 ~43 ~4 stonebrick 2  
+fill ~31 ~43 ~31 ~31 ~45 ~31 gold_block 0 
+setblock ~32 ~43 ~58 stonebrick 0 
+setblock ~33 ~43 ~5 stonebrick 1 
+setblock ~34 ~43 ~5 stonebrick 0  
+fill ~34 ~43 ~51 ~34 ~51 ~51 vine 8  
+fill ~35 ~43 ~6 ~36 ~43 ~6 stonebrick 0  
+fill ~35 ~43 ~56 ~35 ~42 ~56 stonebrick 0 
+setblock ~36 ~43 ~56 stonebrick 2  
+fill ~52 ~43 ~24 ~53 ~43 ~24 vine 1 
+setblock ~56 ~43 ~26 stonebrick 2 
+setblock ~56 ~43 ~27 stonebrick 1 
+setblock ~56 ~43 ~35 stonebrick 2 
+setblock ~56 ~43 ~36 stonebrick 1 
+setblock ~57 ~43 ~28 stonebrick 2 
+setblock ~57 ~43 ~29 stonebrick 0  
+fill ~57 ~43 ~33 ~57 ~43 ~34 stonebrick 1 
+setblock ~58 ~43 ~32 stonebrick 0 
+setblock ~5 ~44 ~30 stonebrick 0  
+fill ~5 ~44 ~31 ~5 ~45 ~31 glowstone 0 
+setblock ~5 ~44 ~32 stonebrick 1  
+fill ~6 ~44 ~28 ~6 ~44 ~29 stonebrick 1  
+fill ~6 ~44 ~33 ~6 ~44 ~34 stonebrick 1  
+fill ~7 ~44 ~26 ~7 ~45 ~26 stonebrick 2 
+setblock ~7 ~44 ~27 stonebrick 0 
+setblock ~7 ~44 ~35 stonebrick 2 
+setblock ~7 ~44 ~36 stonebrick 1  
+fill ~8 ~44 ~25 ~8 ~45 ~25 diamond_block 0  
+fill ~8 ~44 ~37 ~8 ~45 ~37 diamond_block 0  
+fill ~25 ~44 ~8 ~25 ~45 ~8 diamond_block 0  
+fill ~25 ~44 ~54 ~25 ~45 ~54 diamond_block 0  
+fill ~25 ~44 ~55 ~25 ~45 ~55 vine 8  
+fill ~26 ~44 ~7 ~27 ~44 ~7 stonebrick 2  
+fill ~26 ~44 ~55 ~27 ~44 ~55 stonebrick 0 
+setblock ~26 ~44 ~56 vine 4 
+setblock ~28 ~44 ~6 stonebrick 2  
+fill ~28 ~44 ~35 ~28 ~65 ~35 vine 8  
+fill ~28 ~44 ~53 ~28 ~49 ~53 vine 1  
+fill ~28 ~44 ~56 ~28 ~45 ~56 stonebrick 1  
+fill ~29 ~44 ~6 ~29 ~45 ~6 stonebrick 0  
+fill ~29 ~44 ~28 ~29 ~57 ~28 vine 8 
+setblock ~29 ~44 ~56 stonebrick 0 
+setblock ~30 ~44 ~5 stonebrick 0  
+fill ~30 ~44 ~51 ~30 ~53 ~51 vine 1  
+fill ~30 ~44 ~57 ~30 ~45 ~57 stonebrick 0  
+fill ~31 ~44 ~5 ~31 ~45 ~5 glowstone 0  
+fill ~31 ~44 ~23 ~31 ~87 ~23 vine 4  
+fill ~31 ~44 ~27 ~31 ~59 ~27 vine 1  
+fill ~31 ~44 ~57 ~31 ~45 ~57 glowstone 0 
+setblock ~32 ~44 ~5 stonebrick 0 
+setblock ~32 ~44 ~57 stonebrick 0  
+fill ~33 ~44 ~6 ~33 ~45 ~6 stonebrick 1  
+fill ~33 ~44 ~50 ~33 ~53 ~50 vine 1  
+fill ~33 ~44 ~56 ~34 ~44 ~56 stonebrick 0 
+setblock ~34 ~44 ~6 stonebrick 0  
+fill ~35 ~44 ~7 ~35 ~45 ~7 stonebrick 0 
+setblock ~35 ~44 ~55 stonebrick 0 
+setblock ~36 ~44 ~7 stonebrick 1 
+setblock ~36 ~44 ~55 stonebrick 1  
+fill ~37 ~44 ~8 ~37 ~45 ~8 diamond_block 0  
+fill ~37 ~44 ~54 ~37 ~45 ~54 diamond_block 0  
+fill ~52 ~44 ~24 ~53 ~44 ~24 vine 1  
+fill ~54 ~44 ~25 ~54 ~45 ~25 diamond_block 0  
+fill ~54 ~44 ~37 ~54 ~45 ~37 diamond_block 0  
+fill ~55 ~44 ~26 ~55 ~45 ~26 stonebrick 2  
+fill ~55 ~44 ~27 ~55 ~44 ~26 stonebrick 2  
+fill ~55 ~44 ~35 ~55 ~44 ~36 stonebrick 1  
+fill ~56 ~44 ~28 ~56 ~45 ~28 stonebrick 2 
+setblock ~56 ~44 ~29 stonebrick 1  
+fill ~56 ~44 ~33 ~56 ~45 ~33 stonebrick 0  
+fill ~56 ~44 ~34 ~56 ~44 ~33 stonebrick 0 
+setblock ~57 ~44 ~30 stonebrick 2  
+fill ~57 ~44 ~31 ~57 ~45 ~31 glowstone 0  
+fill ~57 ~44 ~32 ~57 ~45 ~32 stonebrick 0 
+setblock ~5 ~45 ~30 stonebrick 1 
+setblock ~5 ~45 ~32 stonebrick 0 
+setblock ~6 ~45 ~28 stonebrick 2 
+setblock ~6 ~45 ~29 stonebrick 1   
+fill ~6 ~45 ~33 ~6 ~45 ~34 stonebrick 2 
+setblock ~7 ~45 ~27 stonebrick 1  
+fill ~7 ~45 ~35 ~7 ~45 ~36 stonebrick 0  
+fill ~26 ~45 ~7 ~27 ~45 ~7 stonebrick 0  
+fill ~26 ~45 ~34 ~26 ~66 ~34 vine 8  
+fill ~26 ~45 ~55 ~26 ~44 ~55 stonebrick 0 
+setblock ~27 ~45 ~55 stonebrick 2 
+setblock ~28 ~45 ~6 stonebrick 1  
+fill ~28 ~45 ~29 ~28 ~59 ~29 vine 9 
+setblock ~29 ~45 ~56 stonebrick 2 
+setblock ~30 ~45 ~5 stonebrick 1  
+fill ~30 ~45 ~27 ~30 ~60 ~27 vine 1 
+setblock ~32 ~45 ~5 stonebrick 1 
+setblock ~32 ~45 ~57 stonebrick 2  
+fill ~33 ~45 ~56 ~33 ~44 ~56 stonebrick 0 
+setblock ~34 ~45 ~6 stonebrick 1 
+setblock ~34 ~45 ~56 stonebrick 1 
+setblock ~35 ~45 ~55 stonebrick 1 
+setblock ~36 ~45 ~7 stonebrick 0  
+fill ~36 ~45 ~24 ~36 ~79 ~24 vine 4 
+setblock ~36 ~45 ~55 stonebrick 0  
+fill ~52 ~45 ~24 ~53 ~45 ~24 vine 1 
+setblock ~55 ~45 ~27 stonebrick 0  
+fill ~55 ~45 ~35 ~55 ~45 ~36 stonebrick 0 
+setblock ~56 ~45 ~29 stonebrick 2 
+setblock ~56 ~45 ~34 stonebrick 2 
+setblock ~57 ~45 ~30 stonebrick 0 
+setblock ~6 ~46 ~30 stonebrick 2  
+fill ~6 ~46 ~31 ~6 ~47 ~31 glowstone 0  
+fill ~6 ~46 ~32 ~6 ~47 ~32 stonebrick 0  
+fill ~7 ~46 ~28 ~7 ~47 ~28 stonebrick 2  
+fill ~7 ~46 ~29 ~7 ~46 ~28 stonebrick 2  
+fill ~7 ~46 ~33 ~7 ~47 ~33 stonebrick 0 
+setblock ~7 ~46 ~34 stonebrick 1  
+fill ~8 ~46 ~26 ~8 ~47 ~26 stonebrick 0  
+fill ~8 ~46 ~27 ~8 ~47 ~27 stonebrick 0  
+fill ~8 ~46 ~35 ~8 ~47 ~35 stonebrick 1  
+fill ~8 ~46 ~36 ~8 ~46 ~35 stonebrick 1  
+fill ~9 ~46 ~25 ~9 ~47 ~25 diamond_block 0  
+fill ~9 ~46 ~37 ~9 ~47 ~37 diamond_block 0  
+fill ~21 ~46 ~32 ~21 ~76 ~32 vine 2  
+fill ~25 ~46 ~9 ~25 ~47 ~9 diamond_block 0  
+fill ~25 ~46 ~53 ~25 ~47 ~53 diamond_block 0  
+fill ~26 ~46 ~8 ~27 ~46 ~8 stonebrick 1  
+fill ~26 ~46 ~29 ~26 ~65 ~29 vine 1  
+fill ~26 ~46 ~32 ~26 ~64 ~32 vine 8  
+fill ~26 ~46 ~54 ~26 ~47 ~54 stonebrick 0  
+fill ~27 ~46 ~27 ~27 ~68 ~27 vine 8  
+fill ~27 ~46 ~33 ~27 ~64 ~33 vine 8  
+fill ~27 ~46 ~35 ~27 ~67 ~35 vine 8 
+setblock ~27 ~46 ~54 stonebrick 2 
+setblock ~28 ~46 ~7 stonebrick 1  
+fill ~28 ~46 ~26 ~28 ~68 ~26 vine 1  
+fill ~28 ~46 ~55 ~29 ~46 ~55 stonebrick 2  
+fill ~29 ~46 ~7 ~29 ~47 ~7 stonebrick 0  
+fill ~30 ~46 ~6 ~30 ~47 ~6 stonebrick 0  
+fill ~30 ~46 ~31 ~30 ~52 ~31 gold_block 0  
+fill ~30 ~46 ~32 ~30 ~47 ~32 vine 8  
+fill ~30 ~46 ~33 ~32 ~46 ~33 vine 4  
+fill ~30 ~46 ~37 ~30 ~68 ~37 vine 4  
+fill ~30 ~46 ~56 ~30 ~47 ~56 stonebrick 0  
+fill ~31 ~46 ~6 ~31 ~47 ~6 glowstone 0  
+fill ~31 ~46 ~30 ~31 ~52 ~30 gold_block 0  
+fill ~31 ~46 ~31 ~31 ~72 ~31 glowstone 0  
+fill ~31 ~46 ~32 ~31 ~52 ~32 gold_block 0  
+fill ~31 ~46 ~34 ~31 ~55 ~34 vine 4  
+fill ~31 ~46 ~56 ~31 ~47 ~56 glowstone 0 
+setblock ~32 ~46 ~6 stonebrick 1  
+fill ~32 ~46 ~31 ~32 ~52 ~31 gold_block 0 
+setblock ~32 ~46 ~56 stonebrick 0  
+fill ~33 ~46 ~7 ~34 ~46 ~7 stonebrick 0  
+fill ~33 ~46 ~28 ~33 ~57 ~28 vine 1  
+fill ~33 ~46 ~55 ~34 ~46 ~55 stonebrick 2  
+fill ~34 ~46 ~49 ~34 ~54 ~49 vine 1  
+fill ~35 ~46 ~8 ~36 ~46 ~8 stonebrick 0  
+fill ~35 ~46 ~30 ~35 ~60 ~30 vine 2 
+setblock ~35 ~46 ~54 stonebrick 2  
+fill ~36 ~46 ~34 ~36 ~68 ~34 vine 4 
+setblock ~36 ~46 ~54 stonebrick 0  
+fill ~37 ~46 ~9 ~37 ~47 ~9 diamond_block 0  
+fill ~37 ~46 ~33 ~37 ~69 ~33 vine 2  
+fill ~37 ~46 ~53 ~37 ~47 ~53 diamond_block 0  
+fill ~43 ~46 ~30 ~43 ~65 ~30 vine 8  
+fill ~52 ~46 ~24 ~53 ~46 ~24 vine 1  
+fill ~53 ~46 ~25 ~53 ~47 ~25 diamond_block 0  
+fill ~53 ~46 ~37 ~53 ~47 ~37 diamond_block 0 
+setblock ~54 ~46 ~25 vine 2  
+fill ~54 ~46 ~26 ~54 ~46 ~27 stonebrick 0 
+setblock ~54 ~46 ~35 stonebrick 0  
+fill ~54 ~46 ~36 ~54 ~47 ~36 stonebrick 1 
+setblock ~55 ~46 ~28 stonebrick 2 
+setblock ~55 ~46 ~29 stonebrick 1  
+fill ~55 ~46 ~33 ~55 ~47 ~33 stonebrick 1 
+setblock ~55 ~46 ~34 stonebrick 0  
+fill ~56 ~46 ~30 ~56 ~47 ~30 stonebrick 0  
+fill ~56 ~46 ~31 ~56 ~47 ~31 glowstone 0  
+fill ~56 ~46 ~32 ~56 ~47 ~32 stonebrick 0 
+setblock ~6 ~47 ~30 stonebrick 0 
+setblock ~7 ~47 ~29 stonebrick 0 
+setblock ~7 ~47 ~34 stonebrick 0 
+setblock ~8 ~47 ~36 stonebrick 0  
+fill ~13 ~47 ~27 ~13 ~53 ~27 vine 2 
+setblock ~26 ~47 ~8 stonebrick 0 
+setblock ~27 ~47 ~8 stonebrick 2 
+setblock ~27 ~47 ~54 stonebrick 0 
+setblock ~28 ~47 ~7 stonebrick 2  
+fill ~28 ~47 ~55 ~29 ~47 ~55 stonebrick 0  
+fill ~30 ~47 ~33 ~32 ~47 ~33 vine 4 
+setblock ~32 ~47 ~6 stonebrick 2 
+setblock ~32 ~47 ~56 stonebrick 1  
+fill ~33 ~47 ~7 ~34 ~47 ~7 stonebrick 0  
+fill ~33 ~47 ~55 ~34 ~47 ~55 stonebrick 0  
+fill ~35 ~47 ~8 ~36 ~47 ~8 stonebrick 0 
+setblock ~35 ~47 ~54 stonebrick 0 
+setblock ~36 ~47 ~54 stonebrick 1  
+fill ~52 ~47 ~24 ~53 ~47 ~24 vine 1 
+setblock ~54 ~47 ~26 stonebrick 2 
+setblock ~54 ~47 ~27 stonebrick 0 
+setblock ~54 ~47 ~35 stonebrick 2 
+setblock ~55 ~47 ~28 stonebrick 0 
+setblock ~55 ~47 ~29 stonebrick 2 
+setblock ~55 ~47 ~34 stonebrick 1 
+setblock ~7 ~48 ~30 stonebrick 1  
+fill ~7 ~48 ~31 ~7 ~49 ~31 glowstone 0 
+setblock ~7 ~48 ~32 stonebrick 1 
+setblock ~8 ~48 ~28 stonebrick 2 
+setblock ~8 ~48 ~29 stonebrick 1  
+fill ~8 ~48 ~33 ~8 ~48 ~34 stonebrick 1 
+setblock ~9 ~48 ~26 stonebrick 1 
+setblock ~9 ~48 ~27 stonebrick 0  
+fill ~9 ~48 ~35 ~9 ~49 ~35 stonebrick 0  
+fill ~9 ~48 ~36 ~9 ~48 ~35 stonebrick 0  
+fill ~10 ~48 ~25 ~10 ~49 ~25 diamond_block 0  
+fill ~10 ~48 ~37 ~10 ~49 ~37 diamond_block 0  
+fill ~25 ~48 ~10 ~25 ~49 ~10 diamond_block 0  
+fill ~25 ~48 ~52 ~25 ~49 ~52 diamond_block 0 
+setblock ~26 ~48 ~9 stonebrick 0  
+fill ~26 ~48 ~53 ~27 ~48 ~53 stonebrick 2 
+setblock ~27 ~48 ~9 stonebrick 2 
+setblock ~28 ~48 ~8 stonebrick 2 
+setblock ~28 ~48 ~54 stonebrick 0 
+setblock ~29 ~48 ~8 stonebrick 0  
+fill ~29 ~48 ~54 ~29 ~49 ~54 stonebrick 1 
+setblock ~30 ~48 ~7 stonebrick 2  
+fill ~30 ~48 ~8 ~30 ~49 ~8 vine 4  
+fill ~30 ~48 ~9 ~30 ~50 ~9 vine 6  
+fill ~30 ~48 ~33 ~32 ~48 ~33 vine 4  
+fill ~30 ~48 ~55 ~30 ~49 ~55 stonebrick 0  
+fill ~31 ~48 ~7 ~31 ~49 ~7 glowstone 0  
+fill ~31 ~48 ~55 ~31 ~49 ~55 glowstone 0  
+fill ~32 ~48 ~7 ~32 ~49 ~7 stonebrick 2  
+fill ~32 ~48 ~55 ~32 ~49 ~55 stonebrick 0  
+fill ~33 ~48 ~8 ~34 ~48 ~8 stonebrick 0  
+fill ~33 ~48 ~32 ~33 ~51 ~32 vine 2 
+setblock ~33 ~48 ~54 stonebrick 2  
+fill ~34 ~48 ~54 ~34 ~49 ~54 stonebrick 0 
+setblock ~35 ~48 ~9 stonebrick 2  
+fill ~35 ~48 ~53 ~36 ~48 ~53 stonebrick 0  
+fill ~36 ~48 ~9 ~36 ~49 ~9 stonebrick 0  
+fill ~36 ~48 ~36 ~36 ~95 ~36 vine 4  
+fill ~37 ~48 ~10 ~37 ~49 ~10 diamond_block 0  
+fill ~37 ~48 ~52 ~37 ~49 ~52 diamond_block 0  
+fill ~41 ~48 ~29 ~41 ~69 ~29 vine 8  
+fill ~52 ~48 ~24 ~52 ~49 ~24 vine 1  
+fill ~52 ~48 ~25 ~52 ~49 ~25 diamond_block 0  
+fill ~52 ~48 ~37 ~52 ~49 ~37 diamond_block 0 
+setblock ~53 ~48 ~25 vine 3 
+setblock ~53 ~48 ~26 stonebrick 2  
+fill ~53 ~48 ~27 ~53 ~49 ~27 stonebrick 0  
+fill ~53 ~48 ~35 ~53 ~48 ~36 stonebrick 0  
+fill ~54 ~48 ~26 ~54 ~49 ~26 vine 2  
+fill ~54 ~48 ~28 ~54 ~48 ~29 stonebrick 2 
+setblock ~54 ~48 ~33 stonebrick 1 
+setblock ~54 ~48 ~34 stonebrick 2 
+setblock ~55 ~48 ~30 stonebrick 1  
+fill ~55 ~48 ~31 ~55 ~49 ~31 glowstone 0 
+setblock ~55 ~48 ~32 stonebrick 0 
+setblock ~7 ~49 ~30 stonebrick 2 
+setblock ~7 ~49 ~32 stonebrick 0 
+setblock ~8 ~49 ~28 stonebrick 0 
+setblock ~8 ~49 ~29 stonebrick 2  
+fill ~8 ~49 ~33 ~8 ~49 ~34 stonebrick 0 
+setblock ~9 ~49 ~26 stonebrick 0 
+setblock ~9 ~49 ~27 stonebrick 2 
+setblock ~9 ~49 ~36 stonebrick 1 
+setblock ~26 ~49 ~9 stonebrick 2 
+setblock ~26 ~49 ~53 stonebrick 0 
+setblock ~27 ~49 ~9 stonebrick 0 
+setblock ~27 ~49 ~53 stonebrick 2  
+fill ~28 ~49 ~8 ~29 ~49 ~8 stonebrick 1 
+setblock ~28 ~49 ~54 stonebrick 1 
+setblock ~30 ~49 ~7 stonebrick 1  
+fill ~30 ~49 ~30 ~30 ~52 ~30 gold_block 0  
+fill ~30 ~49 ~32 ~30 ~52 ~32 gold_block 0  
+fill ~30 ~49 ~33 ~32 ~49 ~33 vine 4  
+fill ~32 ~49 ~30 ~32 ~52 ~30 gold_block 0  
+fill ~32 ~49 ~32 ~32 ~52 ~32 gold_block 0  
+fill ~33 ~49 ~8 ~34 ~49 ~8 stonebrick 0  
+fill ~33 ~49 ~33 ~33 ~55 ~33 vine 2 
+setblock ~33 ~49 ~54 stonebrick 0 
+setblock ~35 ~49 ~9 stonebrick 0  
+fill ~35 ~49 ~53 ~35 ~48 ~53 stonebrick 0 
+setblock ~36 ~49 ~53 stonebrick 2 
+setblock ~53 ~49 ~25 vine 1 
+setblock ~53 ~49 ~26 stonebrick 1  
+fill ~53 ~49 ~35 ~53 ~49 ~36 stonebrick 2  
+fill ~54 ~49 ~28 ~54 ~49 ~29 stonebrick 0  
+fill ~54 ~49 ~33 ~54 ~49 ~34 stonebrick 0 
+setblock ~55 ~49 ~30 stonebrick 0 
+setblock ~55 ~49 ~32 stonebrick 1  
+fill ~7 ~50 ~31 ~7 ~50 ~32 vine 8 
+setblock ~8 ~50 ~30 stonebrick 2 
+setblock ~8 ~50 ~31 glowstone 0 
+setblock ~8 ~50 ~32 stonebrick 0 
+setblock ~8 ~50 ~33 vine 12 
+setblock ~8 ~50 ~34 vine 8 
+setblock ~9 ~50 ~28 stonebrick 2 
+setblock ~9 ~50 ~29 stonebrick 0  
+fill ~9 ~50 ~33 ~9 ~50 ~34 stonebrick 0 
+setblock ~9 ~50 ~35 vine 4  
+fill ~10 ~50 ~26 ~10 ~50 ~27 stonebrick 0 
+setblock ~10 ~50 ~35 stonebrick 0 
+setblock ~10 ~50 ~36 stonebrick 2 
+setblock ~11 ~50 ~25 diamond_block 0 
+setblock ~11 ~50 ~37 diamond_block 0 
+setblock ~25 ~50 ~11 diamond_block 0 
+setblock ~25 ~50 ~51 diamond_block 0 
+setblock ~26 ~50 ~10 stonebrick 1 
+setblock ~26 ~50 ~52 stonebrick 1 
+setblock ~27 ~50 ~10 stonebrick 0 
+setblock ~27 ~50 ~52 stonebrick 0 
+setblock ~28 ~50 ~9 stonebrick 2  
+fill ~28 ~50 ~53 ~29 ~50 ~53 stonebrick 1 
+setblock ~29 ~50 ~9 stonebrick 1 
+setblock ~30 ~50 ~8 stonebrick 1  
+fill ~30 ~50 ~33 ~30 ~51 ~33 vine 4 
+setblock ~30 ~50 ~54 stonebrick 0 
+setblock ~31 ~50 ~8 glowstone 0 
+setblock ~31 ~50 ~54 glowstone 0 
+setblock ~32 ~50 ~8 stonebrick 0  
+fill ~32 ~50 ~12 ~32 ~54 ~12 vine 8 
+setblock ~32 ~50 ~33 vine 4 
+setblock ~32 ~50 ~54 stonebrick 0 
+setblock ~33 ~50 ~9 stonebrick 1  
+fill ~33 ~50 ~53 ~34 ~50 ~53 stonebrick 0 
+setblock ~34 ~50 ~9 stonebrick 2 
+setblock ~35 ~50 ~10 stonebrick 1  
+fill ~35 ~50 ~50 ~35 ~51 ~50 vine 1 
+setblock ~35 ~50 ~52 stonebrick 2 
+setblock ~36 ~50 ~10 stonebrick 0 
+setblock ~36 ~50 ~52 stonebrick 1 
+setblock ~37 ~50 ~11 diamond_block 0 
+setblock ~37 ~50 ~51 diamond_block 0 
+setblock ~51 ~50 ~25 diamond_block 0 
+setblock ~51 ~50 ~37 diamond_block 0 
+setblock ~52 ~50 ~26 stonebrick 1 
+setblock ~52 ~50 ~27 stonebrick 2 
+setblock ~52 ~50 ~35 stonebrick 0 
+setblock ~52 ~50 ~36 stonebrick 1 
+setblock ~53 ~50 ~27 vine 1 
+setblock ~53 ~50 ~28 stonebrick 0 
+setblock ~53 ~50 ~29 stonebrick 2 
+setblock ~53 ~50 ~33 stonebrick 2 
+setblock ~53 ~50 ~34 stonebrick 1  
+fill ~54 ~50 ~28 ~54 ~50 ~29 vine 2 
+setblock ~54 ~50 ~30 stonebrick 0 
+setblock ~54 ~50 ~31 glowstone 0 
+setblock ~54 ~50 ~32 stonebrick 2 
+setblock ~9 ~51 ~28 vine 8 
+setblock ~9 ~51 ~30 stonebrick 1 
+setblock ~9 ~51 ~31 glowstone 0 
+setblock ~9 ~51 ~32 stonebrick 2 
+setblock ~10 ~51 ~27 vine 8 
+setblock ~10 ~51 ~28 stonebrick 2 
+setblock ~10 ~51 ~29 stonebrick 1 
+setblock ~10 ~51 ~33 stonebrick 0 
+setblock ~10 ~51 ~34 stonebrick 2  
+fill ~11 ~51 ~26 ~11 ~51 ~27 stonebrick 2  
+fill ~11 ~51 ~35 ~11 ~51 ~36 stonebrick 1 
+setblock ~12 ~51 ~25 diamond_block 0 
+setblock ~12 ~51 ~37 diamond_block 0  
+fill ~23 ~51 ~29 ~23 ~81 ~29 vine 2  
+fill ~24 ~51 ~34 ~24 ~86 ~34 vine 3 
+setblock ~25 ~51 ~12 diamond_block 0 
+setblock ~25 ~51 ~50 diamond_block 0 
+setblock ~26 ~51 ~11 stonebrick 1 
+setblock ~26 ~51 ~51 stonebrick 0 
+setblock ~27 ~51 ~11 stonebrick 2 
+setblock ~27 ~51 ~51 stonebrick 1 
+setblock ~28 ~51 ~10 stonebrick 0  
+fill ~28 ~51 ~12 ~28 ~52 ~12 vine 6  
+fill ~28 ~51 ~42 ~28 ~65 ~42 vine 3 
+setblock ~28 ~51 ~52 stonebrick 1 
+setblock ~29 ~51 ~10 stonebrick 2 
+setblock ~29 ~51 ~52 stonebrick 2 
+setblock ~30 ~51 ~9 stonebrick 1 
+setblock ~30 ~51 ~53 stonebrick 0 
+setblock ~31 ~51 ~9 glowstone 0 
+setblock ~31 ~51 ~53 glowstone 0 
+setblock ~32 ~51 ~9 stonebrick 0  
+fill ~32 ~51 ~14 ~32 ~56 ~14 vine 12 
+setblock ~32 ~51 ~53 stonebrick 1 
+setblock ~33 ~51 ~10 stonebrick 0 
+setblock ~33 ~51 ~52 stonebrick 1 
+setblock ~34 ~51 ~10 stonebrick 1 
+setblock ~34 ~51 ~52 stonebrick 2 
+setblock ~35 ~51 ~11 stonebrick 0  
+fill ~35 ~51 ~51 ~36 ~51 ~51 stonebrick 0 
+setblock ~36 ~51 ~11 stonebrick 2 
+setblock ~37 ~51 ~12 diamond_block 0 
+setblock ~37 ~51 ~50 diamond_block 0 
+setblock ~50 ~51 ~25 diamond_block 0 
+setblock ~50 ~51 ~37 diamond_block 0 
+setblock ~51 ~51 ~26 stonebrick 2 
+setblock ~51 ~51 ~27 stonebrick 0 
+setblock ~51 ~51 ~35 stonebrick 2 
+setblock ~51 ~51 ~36 stonebrick 0 
+setblock ~52 ~51 ~28 stonebrick 0 
+setblock ~52 ~51 ~29 stonebrick 2  
+fill ~52 ~51 ~33 ~52 ~51 ~34 stonebrick 1 
+setblock ~53 ~51 ~30 stonebrick 0 
+setblock ~53 ~51 ~31 glowstone 0 
+setblock ~53 ~51 ~32 stonebrick 1  
+fill ~9 ~52 ~30 ~9 ~53 ~30 vine 8 
+setblock ~9 ~52 ~32 vine 8 
+setblock ~10 ~52 ~30 stonebrick 0  
+fill ~10 ~52 ~31 ~10 ~53 ~31 glowstone 0  
+fill ~10 ~52 ~32 ~10 ~53 ~32 stonebrick 0 
+setblock ~10 ~52 ~34 vine 8  
+fill ~11 ~52 ~26 ~11 ~53 ~26 vine 8 
+setblock ~11 ~52 ~28 stonebrick 2  
+fill ~11 ~52 ~29 ~11 ~53 ~29 stonebrick 0  
+fill ~11 ~52 ~33 ~11 ~52 ~34 stonebrick 0 
+setblock ~11 ~52 ~35 vine 4  
+fill ~12 ~52 ~25 ~12 ~53 ~25 vine 8 
+setblock ~12 ~52 ~26 stonebrick 0 
+setblock ~12 ~52 ~27 stonebrick 2  
+fill ~12 ~52 ~35 ~12 ~53 ~35 stonebrick 0  
+fill ~12 ~52 ~36 ~12 ~52 ~35 stonebrick 0  
+fill ~12 ~52 ~37 ~12 ~53 ~37 vine 8  
+fill ~13 ~52 ~25 ~13 ~53 ~25 diamond_block 0  
+fill ~13 ~52 ~35 ~13 ~53 ~35 vine 2  
+fill ~13 ~52 ~36 ~13 ~53 ~36 vine 2  
+fill ~13 ~52 ~37 ~13 ~53 ~37 diamond_block 0  
+fill ~22 ~52 ~30 ~22 ~82 ~30 vine 6  
+fill ~23 ~52 ~31 ~23 ~91 ~31 vine 2  
+fill ~24 ~52 ~28 ~24 ~87 ~28 vine 4  
+fill ~25 ~52 ~13 ~25 ~53 ~13 diamond_block 0  
+fill ~25 ~52 ~49 ~25 ~53 ~49 diamond_block 0  
+fill ~26 ~52 ~12 ~27 ~52 ~12 stonebrick 0 
+setblock ~26 ~52 ~50 stonebrick 1 
+setblock ~27 ~52 ~50 stonebrick 0 
+setblock ~28 ~52 ~11 stonebrick 1  
+fill ~28 ~52 ~32 ~28 ~56 ~32 vine 8  
+fill ~28 ~52 ~46 ~28 ~57 ~46 vine 1  
+fill ~28 ~52 ~51 ~28 ~53 ~51 stonebrick 1  
+fill ~29 ~52 ~11 ~29 ~53 ~11 stonebrick 2  
+fill ~29 ~52 ~51 ~29 ~53 ~51 stonebrick 0  
+fill ~30 ~52 ~10 ~30 ~53 ~10 stonebrick 1  
+fill ~30 ~52 ~23 ~30 ~88 ~23 vine 2  
+fill ~30 ~52 ~52 ~30 ~53 ~52 stonebrick 0  
+fill ~31 ~52 ~10 ~31 ~53 ~10 glowstone 0  
+fill ~31 ~52 ~52 ~31 ~53 ~52 glowstone 0  
+fill ~32 ~52 ~10 ~32 ~53 ~10 stonebrick 0  
+fill ~32 ~52 ~52 ~32 ~53 ~52 stonebrick 2  
+fill ~33 ~52 ~11 ~34 ~52 ~11 stonebrick 1 
+setblock ~33 ~52 ~51 stonebrick 2  
+fill ~34 ~52 ~15 ~34 ~56 ~15 vine 4  
+fill ~34 ~52 ~30 ~34 ~55 ~30 vine 2 
+setblock ~34 ~52 ~51 stonebrick 0  
+fill ~35 ~52 ~12 ~36 ~52 ~12 stonebrick 0  
+fill ~35 ~52 ~20 ~35 ~62 ~20 vine 4 
+setblock ~35 ~52 ~49 vine 1 
+setblock ~35 ~52 ~50 stonebrick 2  
+fill ~36 ~52 ~50 ~36 ~53 ~50 stonebrick 0  
+fill ~37 ~52 ~13 ~37 ~53 ~13 diamond_block 0  
+fill ~37 ~52 ~49 ~37 ~53 ~49 diamond_block 0  
+fill ~44 ~52 ~30 ~44 ~62 ~30 vine 12  
+fill ~49 ~52 ~25 ~49 ~53 ~25 diamond_block 0  
+fill ~49 ~52 ~37 ~49 ~53 ~37 diamond_block 0  
+fill ~50 ~52 ~26 ~50 ~53 ~26 stonebrick 2 
+setblock ~50 ~52 ~27 stonebrick 1 
+setblock ~50 ~52 ~35 stonebrick 1  
+fill ~50 ~52 ~36 ~50 ~53 ~36 stonebrick 0  
+fill ~51 ~52 ~28 ~51 ~53 ~28 stonebrick 0  
+fill ~51 ~52 ~29 ~51 ~52 ~28 stonebrick 0 
+setblock ~51 ~52 ~33 stonebrick 1 
+setblock ~51 ~52 ~34 stonebrick 0 
+setblock ~52 ~52 ~30 stonebrick 0  
+fill ~52 ~52 ~31 ~52 ~53 ~31 glowstone 0 
+setblock ~52 ~52 ~32 stonebrick 1 
+setblock ~52 ~52 ~33 vine 4  
+fill ~53 ~52 ~30 ~53 ~53 ~30 vine 2  
+fill ~53 ~52 ~31 ~53 ~52 ~32 vine 2 
+setblock ~10 ~53 ~30 stonebrick 2 
+setblock ~11 ~53 ~28 stonebrick 0 
+setblock ~11 ~53 ~33 stonebrick 1 
+setblock ~11 ~53 ~34 stonebrick 0 
+setblock ~12 ~53 ~26 stonebrick 2 
+setblock ~12 ~53 ~27 stonebrick 1 
+setblock ~12 ~53 ~36 stonebrick 1  
+fill ~22 ~53 ~34 ~22 ~73 ~34 vine 2  
+fill ~26 ~53 ~12 ~26 ~52 ~12 stonebrick 0 
+setblock ~26 ~53 ~50 stonebrick 0 
+setblock ~27 ~53 ~12 stonebrick 1  
+fill ~27 ~53 ~41 ~27 ~65 ~41 vine 1 
+setblock ~27 ~53 ~50 stonebrick 2 
+setblock ~28 ~53 ~11 stonebrick 0 
+setblock ~28 ~53 ~12 vine 2 
+setblock ~28 ~53 ~31 vine 8  
+fill ~28 ~53 ~39 ~28 ~83 ~39 vine 2  
+fill ~29 ~53 ~30 ~29 ~56 ~30 gold_block 0  
+fill ~29 ~53 ~31 ~29 ~56 ~31 gold_block 0  
+fill ~29 ~53 ~32 ~29 ~56 ~32 gold_block 0  
+fill ~29 ~53 ~33 ~29 ~54 ~33 vine 8  
+fill ~29 ~53 ~34 ~29 ~60 ~34 vine 8  
+fill ~29 ~53 ~46 ~29 ~57 ~46 vine 1  
+fill ~30 ~53 ~29 ~32 ~53 ~29 gold_block 0  
+fill ~30 ~53 ~33 ~32 ~53 ~33 gold_block 0  
+fill ~30 ~53 ~40 ~30 ~80 ~40 vine 1  
+fill ~30 ~53 ~42 ~30 ~69 ~42 vine 1  
+fill ~30 ~53 ~47 ~30 ~57 ~47 vine 2  
+fill ~33 ~53 ~11 ~34 ~53 ~11 stonebrick 0  
+fill ~33 ~53 ~30 ~33 ~56 ~30 gold_block 0  
+fill ~33 ~53 ~31 ~33 ~56 ~31 gold_block 0  
+fill ~33 ~53 ~32 ~33 ~56 ~32 gold_block 0 
+setblock ~33 ~53 ~51 stonebrick 0 
+setblock ~34 ~53 ~51 stonebrick 2  
+fill ~35 ~53 ~12 ~36 ~53 ~12 stonebrick 0 
+setblock ~35 ~53 ~50 stonebrick 0  
+fill ~46 ~53 ~33 ~46 ~57 ~33 vine 8 
+setblock ~50 ~53 ~27 stonebrick 0 
+setblock ~50 ~53 ~35 stonebrick 0 
+setblock ~51 ~53 ~29 stonebrick 2 
+setblock ~51 ~53 ~33 stonebrick 0 
+setblock ~51 ~53 ~34 stonebrick 2 
+setblock ~52 ~53 ~30 stonebrick 1 
+setblock ~52 ~53 ~32 stonebrick 0 
+setblock ~53 ~53 ~32 vine 2 
+setblock ~11 ~54 ~30 stonebrick 2 
+setblock ~11 ~54 ~31 glowstone 0 
+setblock ~11 ~54 ~32 stonebrick 1 
+setblock ~12 ~54 ~26 vine 8  
+fill ~12 ~54 ~28 ~12 ~54 ~29 stonebrick 0 
+setblock ~12 ~54 ~33 stonebrick 0 
+setblock ~12 ~54 ~34 stonebrick 2 
+setblock ~13 ~54 ~26 stonebrick 2 
+setblock ~13 ~54 ~27 stonebrick 1  
+fill ~13 ~54 ~35 ~13 ~54 ~36 stonebrick 0 
+setblock ~14 ~54 ~25 diamond_block 0 
+setblock ~14 ~54 ~37 diamond_block 0 
+setblock ~25 ~54 ~14 diamond_block 0 
+setblock ~25 ~54 ~48 diamond_block 0 
+setblock ~26 ~54 ~13 stonebrick 0 
+setblock ~26 ~54 ~49 stonebrick 0 
+setblock ~27 ~54 ~13 stonebrick 1 
+setblock ~27 ~54 ~49 stonebrick 1 
+setblock ~28 ~54 ~12 stonebrick 2  
+fill ~28 ~54 ~50 ~29 ~54 ~50 stonebrick 0 
+setblock ~29 ~54 ~12 stonebrick 0 
+setblock ~30 ~54 ~11 stonebrick 0  
+fill ~30 ~54 ~29 ~32 ~54 ~29 gold_block 0  
+fill ~30 ~54 ~33 ~32 ~54 ~33 gold_block 0 
+setblock ~30 ~54 ~51 stonebrick 2 
+setblock ~31 ~54 ~11 glowstone 0 
+setblock ~31 ~54 ~51 glowstone 0 
+setblock ~32 ~54 ~11 stonebrick 0 
+setblock ~32 ~54 ~51 stonebrick 0  
+fill ~33 ~54 ~12 ~34 ~54 ~12 stonebrick 0 
+setblock ~33 ~54 ~13 vine 4  
+fill ~33 ~54 ~15 ~33 ~56 ~15 vine 4 
+setblock ~33 ~54 ~50 stonebrick 0 
+setblock ~34 ~54 ~50 stonebrick 2 
+setblock ~35 ~54 ~13 stonebrick 0  
+fill ~35 ~54 ~49 ~36 ~54 ~49 stonebrick 1 
+setblock ~36 ~54 ~13 stonebrick 1 
+setblock ~37 ~54 ~14 diamond_block 0 
+setblock ~37 ~54 ~48 diamond_block 0  
+fill ~47 ~54 ~32 ~47 ~57 ~32 vine 1 
+setblock ~48 ~54 ~25 diamond_block 0  
+fill ~48 ~54 ~32 ~48 ~56 ~32 vine 9 
+setblock ~48 ~54 ~37 diamond_block 0 
+setblock ~49 ~54 ~26 stonebrick 0 
+setblock ~49 ~54 ~27 stonebrick 2  
+fill ~49 ~54 ~35 ~49 ~54 ~36 stonebrick 0  
+fill ~50 ~54 ~28 ~50 ~54 ~29 stonebrick 0  
+fill ~50 ~54 ~33 ~50 ~54 ~34 stonebrick 2 
+setblock ~51 ~54 ~28 vine 2 
+setblock ~51 ~54 ~29 vine 3 
+setblock ~51 ~54 ~30 stonebrick 2 
+setblock ~51 ~54 ~31 glowstone 0 
+setblock ~51 ~54 ~32 stonebrick 2 
+setblock ~52 ~54 ~30 vine 2 
+setblock ~12 ~55 ~30 stonebrick 1 
+setblock ~12 ~55 ~31 glowstone 0 
+setblock ~12 ~55 ~32 stonebrick 1  
+fill ~13 ~55 ~28 ~13 ~55 ~29 stonebrick 1 
+setblock ~13 ~55 ~33 stonebrick 1 
+setblock ~13 ~55 ~34 stonebrick 2  
+fill ~14 ~55 ~26 ~14 ~55 ~27 stonebrick 0 
+setblock ~14 ~55 ~35 stonebrick 1 
+setblock ~14 ~55 ~36 stonebrick 2 
+setblock ~15 ~55 ~25 diamond_block 0 
+setblock ~15 ~55 ~37 diamond_block 0 
+setblock ~25 ~55 ~15 diamond_block 0 
+setblock ~25 ~55 ~47 diamond_block 0 
+setblock ~26 ~55 ~14 stonebrick 2 
+setblock ~26 ~55 ~48 stonebrick 0 
+setblock ~27 ~55 ~14 stonebrick 1 
+setblock ~27 ~55 ~48 stonebrick 1 
+setblock ~28 ~55 ~13 stonebrick 2 
+setblock ~28 ~55 ~49 stonebrick 1 
+setblock ~29 ~55 ~13 stonebrick 0 
+setblock ~29 ~55 ~49 stonebrick 0 
+setblock ~30 ~55 ~12 stonebrick 1  
+fill ~30 ~55 ~29 ~32 ~55 ~29 gold_block 0  
+fill ~30 ~55 ~33 ~32 ~55 ~33 gold_block 0 
+setblock ~30 ~55 ~50 stonebrick 0 
+setblock ~31 ~55 ~12 glowstone 0 
+setblock ~31 ~55 ~50 glowstone 0 
+setblock ~32 ~55 ~12 stonebrick 0 
+setblock ~32 ~55 ~50 stonebrick 0 
+setblock ~33 ~55 ~13 stonebrick 0 
+setblock ~33 ~55 ~14 vine 4  
+fill ~33 ~55 ~49 ~34 ~55 ~49 stonebrick 0 
+setblock ~34 ~55 ~13 stonebrick 2  
+fill ~35 ~55 ~14 ~36 ~55 ~14 stonebrick 0 
+setblock ~35 ~55 ~48 stonebrick 0 
+setblock ~36 ~55 ~48 stonebrick 1 
+setblock ~37 ~55 ~15 diamond_block 0 
+setblock ~37 ~55 ~47 diamond_block 0 
+setblock ~47 ~55 ~25 diamond_block 0 
+setblock ~47 ~55 ~37 diamond_block 0 
+setblock ~48 ~55 ~26 stonebrick 1 
+setblock ~48 ~55 ~27 stonebrick 0  
+fill ~48 ~55 ~35 ~48 ~55 ~36 stonebrick 2  
+fill ~49 ~55 ~28 ~49 ~55 ~29 stonebrick 0 
+setblock ~49 ~55 ~33 stonebrick 2 
+setblock ~49 ~55 ~34 stonebrick 0 
+setblock ~50 ~55 ~30 stonebrick 1 
+setblock ~50 ~55 ~31 glowstone 0 
+setblock ~50 ~55 ~32 stonebrick 0 
+setblock ~13 ~56 ~30 stonebrick 1 
+setblock ~13 ~56 ~31 glowstone 0 
+setblock ~13 ~56 ~32 stonebrick 0  
+fill ~14 ~56 ~28 ~14 ~56 ~29 stonebrick 0 
+setblock ~14 ~56 ~33 stonebrick 0 
+setblock ~14 ~56 ~34 stonebrick 2  
+fill ~15 ~56 ~26 ~15 ~56 ~27 stonebrick 2  
+fill ~15 ~56 ~35 ~15 ~56 ~36 stonebrick 0 
+setblock ~16 ~56 ~25 diamond_block 0 
+setblock ~16 ~56 ~37 diamond_block 0 
+setblock ~25 ~56 ~16 diamond_block 0 
+setblock ~25 ~56 ~46 diamond_block 0 
+setblock ~26 ~56 ~15 stonebrick 2  
+fill ~26 ~56 ~47 ~27 ~56 ~47 stonebrick 0 
+setblock ~27 ~56 ~15 stonebrick 0 
+setblock ~28 ~56 ~14 stonebrick 0 
+setblock ~28 ~56 ~48 stonebrick 0 
+setblock ~29 ~56 ~14 stonebrick 2 
+setblock ~29 ~56 ~48 stonebrick 2 
+setblock ~30 ~56 ~13 stonebrick 1  
+fill ~30 ~56 ~29 ~32 ~56 ~29 gold_block 0  
+fill ~30 ~56 ~33 ~32 ~56 ~33 gold_block 0 
+setblock ~30 ~56 ~49 stonebrick 2 
+setblock ~31 ~56 ~13 glowstone 0 
+setblock ~31 ~56 ~49 glowstone 0 
+setblock ~32 ~56 ~13 stonebrick 2 
+setblock ~32 ~56 ~49 stonebrick 2 
+setblock ~33 ~56 ~14 stonebrick 1  
+fill ~33 ~56 ~48 ~34 ~56 ~48 stonebrick 0 
+setblock ~34 ~56 ~14 stonebrick 0  
+fill ~34 ~56 ~29 ~34 ~57 ~29 vine 3  
+fill ~35 ~56 ~15 ~36 ~56 ~15 stonebrick 0 
+setblock ~35 ~56 ~47 stonebrick 2 
+setblock ~36 ~56 ~47 stonebrick 0 
+setblock ~37 ~56 ~16 diamond_block 0 
+setblock ~37 ~56 ~46 diamond_block 0 
+setblock ~46 ~56 ~25 diamond_block 0 
+setblock ~46 ~56 ~37 diamond_block 0 
+setblock ~47 ~56 ~26 stonebrick 1 
+setblock ~47 ~56 ~27 stonebrick 0 
+setblock ~47 ~56 ~35 stonebrick 1 
+setblock ~47 ~56 ~36 stonebrick 0  
+fill ~48 ~56 ~28 ~48 ~56 ~29 stonebrick 1  
+fill ~48 ~56 ~33 ~48 ~56 ~34 stonebrick 0 
+setblock ~49 ~56 ~30 stonebrick 0 
+setblock ~49 ~56 ~31 glowstone 0 
+setblock ~49 ~56 ~32 stonebrick 2 
+setblock ~14 ~57 ~30 stonebrick 0 
+setblock ~14 ~57 ~31 glowstone 0 
+setblock ~14 ~57 ~32 stonebrick 0 
+setblock ~15 ~57 ~28 stonebrick 2 
+setblock ~15 ~57 ~29 stonebrick 0 
+setblock ~15 ~57 ~33 stonebrick 2 
+setblock ~15 ~57 ~34 stonebrick 0  
+fill ~16 ~57 ~26 ~16 ~57 ~27 stonebrick 0 
+setblock ~16 ~57 ~35 stonebrick 2 
+setblock ~16 ~57 ~36 stonebrick 1 
+setblock ~17 ~57 ~25 diamond_block 0 
+setblock ~17 ~57 ~37 diamond_block 0 
+setblock ~25 ~57 ~17 diamond_block 0 
+setblock ~25 ~57 ~45 diamond_block 0 
+setblock ~26 ~57 ~16 stonebrick 1 
+setblock ~26 ~57 ~46 stonebrick 0 
+setblock ~27 ~57 ~16 stonebrick 2  
+fill ~27 ~57 ~29 ~27 ~64 ~29 vine 8  
+fill ~27 ~57 ~30 ~27 ~57 ~29 vine 8 
+setblock ~27 ~57 ~46 stonebrick 2 
+setblock ~28 ~57 ~15 stonebrick 2  
+fill ~28 ~57 ~30 ~28 ~60 ~30 gold_block 0  
+fill ~28 ~57 ~31 ~28 ~60 ~31 gold_block 0  
+fill ~28 ~57 ~32 ~28 ~60 ~32 gold_block 0 
+setblock ~28 ~57 ~47 stonebrick 0 
+setblock ~29 ~57 ~15 stonebrick 0  
+fill ~29 ~57 ~29 ~29 ~60 ~29 gold_block 0  
+fill ~29 ~57 ~33 ~29 ~60 ~33 gold_block 0 
+setblock ~29 ~57 ~47 stonebrick 2 
+setblock ~30 ~57 ~14 stonebrick 1  
+fill ~30 ~57 ~28 ~32 ~57 ~28 gold_block 0  
+fill ~30 ~57 ~34 ~32 ~57 ~34 gold_block 0 
+setblock ~30 ~57 ~48 stonebrick 0 
+setblock ~31 ~57 ~14 glowstone 0 
+setblock ~31 ~57 ~48 glowstone 0 
+setblock ~32 ~57 ~14 stonebrick 0 
+setblock ~32 ~57 ~48 stonebrick 1 
+setblock ~33 ~57 ~15 stonebrick 1  
+fill ~33 ~57 ~29 ~33 ~60 ~29 gold_block 0  
+fill ~33 ~57 ~33 ~33 ~60 ~33 gold_block 0 
+setblock ~33 ~57 ~47 stonebrick 2 
+setblock ~34 ~57 ~15 stonebrick 0  
+fill ~34 ~57 ~30 ~34 ~60 ~30 gold_block 0  
+fill ~34 ~57 ~31 ~34 ~60 ~31 gold_block 0  
+fill ~34 ~57 ~32 ~34 ~60 ~32 gold_block 0 
+setblock ~34 ~57 ~47 stonebrick 0 
+setblock ~35 ~57 ~16 stonebrick 2 
+setblock ~35 ~57 ~46 stonebrick 0 
+setblock ~36 ~57 ~16 stonebrick 0 
+setblock ~36 ~57 ~46 stonebrick 2 
+setblock ~37 ~57 ~17 diamond_block 0 
+setblock ~37 ~57 ~45 diamond_block 0 
+setblock ~45 ~57 ~25 diamond_block 0 
+setblock ~45 ~57 ~37 diamond_block 0 
+setblock ~46 ~57 ~26 stonebrick 1 
+setblock ~46 ~57 ~27 stonebrick 0  
+fill ~46 ~57 ~35 ~46 ~57 ~36 stonebrick 1 
+setblock ~47 ~57 ~28 stonebrick 0 
+setblock ~47 ~57 ~29 stonebrick 1 
+setblock ~47 ~57 ~33 stonebrick 0 
+setblock ~47 ~57 ~34 stonebrick 1 
+setblock ~48 ~57 ~30 stonebrick 0 
+setblock ~48 ~57 ~31 glowstone 0 
+setblock ~48 ~57 ~32 stonebrick 2 
+setblock ~15 ~58 ~30 stonebrick 0  
+fill ~15 ~58 ~31 ~15 ~59 ~31 glowstone 0 
+setblock ~15 ~58 ~32 stonebrick 2  
+fill ~16 ~58 ~28 ~16 ~59 ~28 stonebrick 2 
+setblock ~16 ~58 ~29 stonebrick 0 
+setblock ~16 ~58 ~33 stonebrick 0 
+setblock ~16 ~58 ~34 stonebrick 1  
+fill ~17 ~58 ~26 ~17 ~59 ~26 stonebrick 0  
+fill ~17 ~58 ~27 ~17 ~59 ~27 stonebrick 0  
+fill ~17 ~58 ~35 ~17 ~58 ~36 stonebrick 0  
+fill ~18 ~58 ~25 ~18 ~59 ~25 diamond_block 0  
+fill ~18 ~58 ~37 ~18 ~59 ~37 diamond_block 0  
+fill ~25 ~58 ~18 ~25 ~59 ~18 diamond_block 0  
+fill ~25 ~58 ~44 ~25 ~59 ~44 diamond_block 0 
+setblock ~26 ~58 ~17 stonebrick 0  
+fill ~26 ~58 ~45 ~27 ~58 ~45 stonebrick 0 
+setblock ~27 ~58 ~17 stonebrick 1 
+setblock ~28 ~58 ~16 stonebrick 2  
+fill ~28 ~58 ~46 ~28 ~59 ~46 stonebrick 0  
+fill ~29 ~58 ~16 ~29 ~59 ~16 stonebrick 0 
+setblock ~29 ~58 ~46 stonebrick 1 
+setblock ~30 ~58 ~15 stonebrick 2  
+fill ~30 ~58 ~28 ~32 ~58 ~28 gold_block 0  
+fill ~30 ~58 ~34 ~32 ~58 ~34 gold_block 0 
+setblock ~30 ~58 ~47 stonebrick 0  
+fill ~31 ~58 ~15 ~31 ~59 ~15 glowstone 0  
+fill ~31 ~58 ~47 ~31 ~59 ~47 glowstone 0 
+setblock ~32 ~58 ~15 stonebrick 1  
+fill ~32 ~58 ~47 ~32 ~59 ~47 stonebrick 2 
+setblock ~33 ~58 ~16 stonebrick 2 
+setblock ~33 ~58 ~46 stonebrick 0 
+setblock ~34 ~58 ~16 stonebrick 1  
+fill ~34 ~58 ~29 ~34 ~59 ~29 vine 1 
+setblock ~34 ~58 ~46 stonebrick 2 
+setblock ~35 ~58 ~17 stonebrick 0  
+fill ~35 ~58 ~45 ~36 ~58 ~45 stonebrick 0  
+fill ~36 ~58 ~17 ~36 ~59 ~17 stonebrick 2  
+fill ~37 ~58 ~18 ~37 ~59 ~18 diamond_block 0  
+fill ~37 ~58 ~44 ~37 ~59 ~44 diamond_block 0  
+fill ~40 ~58 ~32 ~40 ~81 ~32 vine 8  
+fill ~44 ~58 ~25 ~44 ~59 ~25 diamond_block 0  
+fill ~44 ~58 ~37 ~44 ~59 ~37 diamond_block 0  
+fill ~45 ~58 ~26 ~45 ~59 ~26 stonebrick 0  
+fill ~45 ~58 ~27 ~45 ~59 ~27 stonebrick 2  
+fill ~45 ~58 ~35 ~45 ~58 ~36 stonebrick 2  
+fill ~46 ~58 ~28 ~46 ~59 ~28 stonebrick 2  
+fill ~46 ~58 ~29 ~46 ~59 ~29 stonebrick 0 
+setblock ~46 ~58 ~31 vine 8 
+setblock ~46 ~58 ~32 vine 9 
+setblock ~46 ~58 ~33 stonebrick 2  
+fill ~46 ~58 ~34 ~46 ~59 ~34 stonebrick 0  
+fill ~47 ~58 ~30 ~47 ~59 ~30 stonebrick 0  
+fill ~47 ~58 ~31 ~47 ~59 ~31 glowstone 0  
+fill ~47 ~58 ~32 ~47 ~59 ~32 stonebrick 0 
+setblock ~15 ~59 ~30 stonebrick 1 
+setblock ~15 ~59 ~32 stonebrick 0 
+setblock ~16 ~59 ~29 stonebrick 2  
+fill ~16 ~59 ~33 ~16 ~59 ~34 stonebrick 2 
+setblock ~17 ~59 ~35 stonebrick 1 
+setblock ~17 ~59 ~36 stonebrick 0 
+setblock ~26 ~59 ~17 stonebrick 1  
+fill ~26 ~59 ~45 ~27 ~59 ~45 stonebrick 2 
+setblock ~27 ~59 ~17 stonebrick 0 
+setblock ~28 ~59 ~16 stonebrick 1 
+setblock ~29 ~59 ~46 stonebrick 0 
+setblock ~30 ~59 ~15 stonebrick 1  
+fill ~30 ~59 ~28 ~32 ~59 ~28 gold_block 0  
+fill ~30 ~59 ~34 ~32 ~59 ~34 gold_block 0 
+setblock ~30 ~59 ~47 stonebrick 2  
+fill ~31 ~59 ~25 ~31 ~70 ~25 vine 1 
+setblock ~32 ~59 ~15 stonebrick 0 
+setblock ~33 ~59 ~16 stonebrick 0  
+fill ~33 ~59 ~25 ~33 ~66 ~25 vine 1 
+setblock ~33 ~59 ~46 stonebrick 2 
+setblock ~34 ~59 ~16 stonebrick 2 
+setblock ~34 ~59 ~46 stonebrick 0 
+setblock ~35 ~59 ~17 stonebrick 2  
+fill ~35 ~59 ~28 ~35 ~62 ~28 vine 2  
+fill ~35 ~59 ~45 ~36 ~59 ~45 stonebrick 0  
+fill ~45 ~59 ~31 ~45 ~60 ~31 vine 8 
+setblock ~45 ~59 ~35 stonebrick 1 
+setblock ~45 ~59 ~36 stonebrick 0 
+setblock ~46 ~59 ~32 vine 8 
+setblock ~46 ~59 ~33 stonebrick 1  
+fill ~16 ~60 ~30 ~16 ~61 ~30 stonebrick 0  
+fill ~16 ~60 ~31 ~16 ~61 ~31 glowstone 0 
+setblock ~16 ~60 ~32 stonebrick 1  
+fill ~17 ~60 ~28 ~17 ~60 ~29 stonebrick 1  
+fill ~17 ~60 ~33 ~17 ~61 ~33 stonebrick 1 
+setblock ~17 ~60 ~34 stonebrick 0 
+setblock ~18 ~60 ~26 stonebrick 0  
+fill ~18 ~60 ~27 ~18 ~61 ~27 stonebrick 1 
+setblock ~18 ~60 ~35 stonebrick 0  
+fill ~18 ~60 ~36 ~18 ~61 ~36 stonebrick 2  
+fill ~19 ~60 ~25 ~19 ~61 ~25 diamond_block 0  
+fill ~19 ~60 ~37 ~19 ~61 ~37 diamond_block 0  
+fill ~25 ~60 ~19 ~25 ~61 ~19 diamond_block 0  
+fill ~25 ~60 ~43 ~25 ~61 ~43 diamond_block 0  
+fill ~26 ~60 ~18 ~27 ~60 ~18 stonebrick 0  
+fill ~26 ~60 ~44 ~26 ~61 ~44 stonebrick 0 
+setblock ~27 ~60 ~44 stonebrick 1 
+setblock ~28 ~60 ~17 stonebrick 2 
+setblock ~28 ~60 ~29 vine 8  
+fill ~28 ~60 ~45 ~29 ~60 ~45 stonebrick 2 
+setblock ~29 ~60 ~17 stonebrick 0  
+fill ~30 ~60 ~16 ~30 ~61 ~16 stonebrick 0  
+fill ~30 ~60 ~28 ~32 ~60 ~28 gold_block 0  
+fill ~30 ~60 ~34 ~32 ~60 ~34 gold_block 0 
+setblock ~30 ~60 ~46 stonebrick 0  
+fill ~31 ~60 ~16 ~31 ~61 ~16 glowstone 0  
+fill ~31 ~60 ~46 ~31 ~61 ~46 glowstone 0 
+setblock ~32 ~60 ~16 stonebrick 2  
+fill ~32 ~60 ~40 ~32 ~77 ~40 vine 9  
+fill ~32 ~60 ~46 ~32 ~61 ~46 stonebrick 0  
+fill ~33 ~60 ~17 ~33 ~61 ~17 stonebrick 0 
+setblock ~33 ~60 ~45 stonebrick 2  
+fill ~34 ~60 ~17 ~34 ~61 ~17 stonebrick 2  
+fill ~34 ~60 ~27 ~34 ~62 ~27 vine 1  
+fill ~34 ~60 ~35 ~34 ~64 ~35 vine 4  
+fill ~34 ~60 ~42 ~34 ~66 ~42 vine 1 
+setblock ~34 ~60 ~45 stonebrick 1  
+fill ~35 ~60 ~18 ~36 ~60 ~18 stonebrick 2  
+fill ~35 ~60 ~29 ~35 ~62 ~29 vine 2  
+fill ~35 ~60 ~34 ~35 ~65 ~34 vine 2 
+setblock ~35 ~60 ~44 stonebrick 0  
+fill ~36 ~60 ~31 ~36 ~64 ~31 vine 2  
+fill ~36 ~60 ~44 ~36 ~61 ~44 stonebrick 2  
+fill ~37 ~60 ~19 ~37 ~61 ~19 diamond_block 0  
+fill ~37 ~60 ~28 ~37 ~95 ~28 vine 2  
+fill ~37 ~60 ~37 ~37 ~83 ~37 vine 1  
+fill ~37 ~60 ~43 ~37 ~61 ~43 diamond_block 0  
+fill ~43 ~60 ~25 ~43 ~61 ~25 diamond_block 0  
+fill ~43 ~60 ~37 ~43 ~61 ~37 diamond_block 0  
+fill ~44 ~60 ~26 ~44 ~61 ~26 stonebrick 0  
+fill ~44 ~60 ~27 ~44 ~61 ~27 stonebrick 0  
+fill ~44 ~60 ~35 ~44 ~60 ~36 stonebrick 1 
+setblock ~45 ~60 ~28 stonebrick 1 
+setblock ~45 ~60 ~29 stonebrick 2 
+setblock ~45 ~60 ~30 vine 8  
+fill ~45 ~60 ~33 ~45 ~60 ~34 stonebrick 0 
+setblock ~46 ~60 ~30 stonebrick 0  
+fill ~46 ~60 ~31 ~46 ~61 ~31 glowstone 0 
+setblock ~46 ~60 ~32 stonebrick 2 
+setblock ~16 ~61 ~32 stonebrick 2  
+fill ~17 ~61 ~28 ~17 ~61 ~29 stonebrick 0 
+setblock ~17 ~61 ~34 stonebrick 1 
+setblock ~18 ~61 ~26 stonebrick 1 
+setblock ~18 ~61 ~35 stonebrick 2  
+fill ~24 ~61 ~26 ~24 ~78 ~26 vine 4  
+fill ~26 ~61 ~18 ~27 ~61 ~18 stonebrick 0  
+fill ~27 ~61 ~30 ~27 ~65 ~30 gold_block 0  
+fill ~27 ~61 ~31 ~27 ~65 ~31 gold_block 0  
+fill ~27 ~61 ~32 ~27 ~65 ~32 gold_block 0 
+setblock ~27 ~61 ~44 stonebrick 2  
+fill ~28 ~61 ~17 ~29 ~61 ~17 stonebrick 1  
+fill ~28 ~61 ~28 ~29 ~61 ~28 gold_block 0  
+fill ~28 ~61 ~29 ~28 ~65 ~29 gold_block 0  
+fill ~28 ~61 ~33 ~28 ~65 ~33 gold_block 0  
+fill ~28 ~61 ~34 ~29 ~61 ~34 gold_block 0  
+fill ~28 ~61 ~45 ~28 ~60 ~45 stonebrick 2 
+setblock ~29 ~61 ~45 stonebrick 0  
+fill ~30 ~61 ~27 ~32 ~61 ~27 gold_block 0  
+fill ~30 ~61 ~35 ~32 ~61 ~35 gold_block 0 
+setblock ~30 ~61 ~46 stonebrick 2 
+setblock ~32 ~61 ~16 stonebrick 1  
+fill ~33 ~61 ~28 ~34 ~61 ~28 gold_block 0  
+fill ~33 ~61 ~34 ~34 ~61 ~34 gold_block 0  
+fill ~33 ~61 ~45 ~34 ~61 ~45 stonebrick 0  
+fill ~34 ~61 ~29 ~34 ~65 ~29 gold_block 0  
+fill ~34 ~61 ~33 ~34 ~65 ~33 gold_block 0  
+fill ~34 ~61 ~36 ~34 ~91 ~36 vine 4  
+fill ~35 ~61 ~18 ~36 ~61 ~18 stonebrick 1  
+fill ~35 ~61 ~30 ~35 ~65 ~30 gold_block 0  
+fill ~35 ~61 ~31 ~35 ~65 ~31 gold_block 0  
+fill ~35 ~61 ~32 ~35 ~65 ~32 gold_block 0  
+fill ~35 ~61 ~35 ~35 ~70 ~35 vine 2 
+setblock ~35 ~61 ~44 stonebrick 2  
+fill ~36 ~61 ~32 ~36 ~64 ~32 vine 2  
+fill ~40 ~61 ~28 ~40 ~73 ~28 vine 12   
+fill ~44 ~61 ~35 ~44 ~61 ~36 stonebrick 0  
+fill ~45 ~61 ~28 ~45 ~61 ~29 stonebrick 0 
+setblock ~45 ~61 ~33 stonebrick 2 
+setblock ~45 ~61 ~34 stonebrick 0 
+setblock ~46 ~61 ~30 stonebrick 1 
+setblock ~46 ~61 ~32 stonebrick 0  
+fill ~16 ~62 ~30 ~16 ~64 ~30 vine 8  
+fill ~16 ~62 ~31 ~16 ~64 ~31 vine 8  
+fill ~16 ~62 ~32 ~16 ~62 ~30 vine 8 
+setblock ~17 ~62 ~30 stonebrick 2  
+fill ~17 ~62 ~31 ~17 ~64 ~31 glowstone 0  
+fill ~17 ~62 ~32 ~17 ~64 ~32 stonebrick 0  
+fill ~18 ~62 ~28 ~18 ~63 ~28 stonebrick 0  
+fill ~18 ~62 ~29 ~18 ~62 ~28 stonebrick 0 
+setblock ~18 ~62 ~33 stonebrick 1 
+setblock ~18 ~62 ~34 stonebrick 0  
+fill ~19 ~62 ~26 ~19 ~62 ~27 stonebrick 2  
+fill ~19 ~62 ~35 ~19 ~63 ~35 stonebrick 0 
+setblock ~19 ~62 ~36 stonebrick 1  
+fill ~20 ~62 ~25 ~20 ~64 ~25 diamond_block 0  
+fill ~20 ~62 ~37 ~20 ~64 ~37 diamond_block 0  
+fill ~25 ~62 ~20 ~25 ~64 ~20 diamond_block 0  
+fill ~25 ~62 ~42 ~25 ~64 ~42 diamond_block 0 
+setblock ~26 ~62 ~19 stonebrick 2  
+fill ~26 ~62 ~43 ~26 ~63 ~43 stonebrick 0  
+fill ~27 ~62 ~19 ~27 ~63 ~19 stonebrick 0 
+setblock ~27 ~62 ~43 stonebrick 1  
+fill ~28 ~62 ~18 ~29 ~62 ~18 stonebrick 0  
+fill ~28 ~62 ~28 ~29 ~62 ~28 gold_block 0  
+fill ~28 ~62 ~34 ~29 ~62 ~34 gold_block 0  
+fill ~28 ~62 ~44 ~28 ~63 ~44 stonebrick 2 
+setblock ~29 ~62 ~44 stonebrick 0  
+fill ~30 ~62 ~17 ~30 ~63 ~17 stonebrick 2  
+fill ~30 ~62 ~27 ~32 ~62 ~27 gold_block 0  
+fill ~30 ~62 ~35 ~32 ~62 ~35 gold_block 0 
+setblock ~30 ~62 ~45 stonebrick 0  
+fill ~31 ~62 ~16 ~32 ~62 ~16 vine 1  
+fill ~31 ~62 ~17 ~31 ~64 ~17 glowstone 0  
+fill ~31 ~62 ~45 ~31 ~64 ~45 glowstone 0  
+fill ~31 ~62 ~46 ~31 ~64 ~46 vine 4 
+setblock ~32 ~62 ~17 stonebrick 2  
+fill ~32 ~62 ~45 ~32 ~63 ~45 stonebrick 1  
+fill ~33 ~62 ~17 ~33 ~63 ~17 vine 3  
+fill ~33 ~62 ~18 ~34 ~62 ~18 stonebrick 2  
+fill ~33 ~62 ~28 ~34 ~62 ~28 gold_block 0  
+fill ~33 ~62 ~34 ~34 ~62 ~34 gold_block 0 
+setblock ~33 ~62 ~44 stonebrick 0 
+setblock ~34 ~62 ~44 stonebrick 2  
+fill ~35 ~62 ~19 ~36 ~62 ~19 stonebrick 0  
+fill ~35 ~62 ~43 ~35 ~64 ~43 stonebrick 0  
+fill ~36 ~62 ~43 ~36 ~63 ~43 stonebrick 1  
+fill ~37 ~62 ~20 ~37 ~64 ~20 diamond_block 0  
+fill ~37 ~62 ~42 ~37 ~64 ~42 diamond_block 0  
+fill ~42 ~62 ~25 ~42 ~64 ~25 diamond_block 0  
+fill ~42 ~62 ~37 ~42 ~64 ~37 diamond_block 0  
+fill ~43 ~62 ~26 ~43 ~63 ~26 stonebrick 0  
+fill ~43 ~62 ~27 ~43 ~63 ~27 stonebrick 0 
+setblock ~43 ~62 ~35 stonebrick 0 
+setblock ~43 ~62 ~36 stonebrick 2  
+fill ~44 ~62 ~28 ~44 ~64 ~28 stonebrick 1  
+fill ~44 ~62 ~29 ~44 ~63 ~29 stonebrick 2 
+setblock ~44 ~62 ~33 stonebrick 0  
+fill ~44 ~62 ~34 ~44 ~63 ~34 stonebrick 1  
+fill ~45 ~62 ~30 ~45 ~63 ~30 stonebrick 0  
+fill ~45 ~62 ~31 ~45 ~64 ~31 glowstone 0  
+fill ~45 ~62 ~32 ~45 ~64 ~32 stonebrick 0  
+fill ~45 ~62 ~33 ~45 ~63 ~33 vine 4  
+fill ~46 ~62 ~30 ~46 ~63 ~30 vine 2  
+fill ~46 ~62 ~31 ~46 ~64 ~31 vine 2  
+fill ~46 ~62 ~32 ~46 ~63 ~32 vine 2 
+setblock ~17 ~63 ~30 stonebrick 0 
+setblock ~18 ~63 ~29 stonebrick 1 
+setblock ~18 ~63 ~33 stonebrick 0 
+setblock ~18 ~63 ~34 stonebrick 1  
+fill ~19 ~63 ~26 ~19 ~63 ~27 stonebrick 1  
+fill ~19 ~63 ~36 ~19 ~64 ~36 stonebrick 0 
+setblock ~26 ~63 ~19 stonebrick 0 
+setblock ~27 ~63 ~43 stonebrick 0  
+fill ~28 ~63 ~18 ~29 ~63 ~18 stonebrick 0  
+fill ~28 ~63 ~28 ~29 ~63 ~28 gold_block 0  
+fill ~28 ~63 ~34 ~29 ~63 ~34 gold_block 0  
+fill ~29 ~63 ~44 ~29 ~64 ~44 stonebrick 1  
+fill ~30 ~63 ~27 ~32 ~63 ~27 gold_block 0  
+fill ~30 ~63 ~35 ~32 ~63 ~35 gold_block 0 
+setblock ~30 ~63 ~45 stonebrick 1  
+fill ~31 ~63 ~16 ~32 ~63 ~16 vine 1 
+setblock ~32 ~63 ~17 stonebrick 0  
+fill ~33 ~63 ~18 ~34 ~63 ~18 stonebrick 0  
+fill ~33 ~63 ~28 ~34 ~63 ~28 gold_block 0  
+fill ~33 ~63 ~34 ~34 ~63 ~34 gold_block 0  
+fill ~33 ~63 ~44 ~34 ~63 ~44 stonebrick 1  
+fill ~35 ~63 ~19 ~35 ~64 ~19 stonebrick 0 
+setblock ~36 ~63 ~19 stonebrick 2 
+setblock ~43 ~63 ~35 stonebrick 1  
+fill ~43 ~63 ~36 ~43 ~64 ~36 stonebrick 0 
+setblock ~44 ~63 ~30 vine 4 
+setblock ~44 ~63 ~33 stonebrick 1 
+setblock ~17 ~64 ~30 stonebrick 2 
+setblock ~18 ~64 ~28 stonebrick 1 
+setblock ~18 ~64 ~29 stonebrick 0  
+fill ~18 ~64 ~33 ~18 ~64 ~34 stonebrick 2  
+fill ~19 ~64 ~26 ~19 ~64 ~27 stonebrick 2 
+setblock ~19 ~64 ~35 stonebrick 2 
+setblock ~26 ~64 ~19 stonebrick 2  
+fill ~26 ~64 ~43 ~27 ~64 ~43 stonebrick 2 
+setblock ~27 ~64 ~19 stonebrick 1  
+fill ~28 ~64 ~18 ~29 ~64 ~18 stonebrick 0  
+fill ~28 ~64 ~28 ~29 ~64 ~28 gold_block 0  
+fill ~28 ~64 ~34 ~29 ~64 ~34 gold_block 0 
+setblock ~28 ~64 ~44 stonebrick 1 
+setblock ~30 ~64 ~17 stonebrick 0  
+fill ~30 ~64 ~27 ~32 ~64 ~27 gold_block 0  
+fill ~30 ~64 ~35 ~32 ~64 ~35 gold_block 0 
+setblock ~30 ~64 ~45 stonebrick 2  
+fill ~31 ~64 ~16 ~32 ~64 ~16 vine 1 
+setblock ~32 ~64 ~17 stonebrick 1 
+setblock ~32 ~64 ~45 stonebrick 0 
+setblock ~33 ~64 ~18 stonebrick 1  
+fill ~33 ~64 ~28 ~34 ~64 ~28 gold_block 0  
+fill ~33 ~64 ~34 ~34 ~64 ~34 gold_block 0  
+fill ~33 ~64 ~36 ~33 ~65 ~36 vine 4  
+fill ~33 ~64 ~44 ~33 ~63 ~44 stonebrick 1 
+setblock ~34 ~64 ~18 stonebrick 2 
+setblock ~34 ~64 ~44 stonebrick 0 
+setblock ~36 ~64 ~19 stonebrick 0 
+setblock ~36 ~64 ~43 stonebrick 2  
+fill ~37 ~64 ~30 ~37 ~70 ~30 vine 2  
+fill ~43 ~64 ~26 ~43 ~64 ~27 stonebrick 1 
+setblock ~43 ~64 ~35 stonebrick 2 
+setblock ~44 ~64 ~29 stonebrick 1 
+setblock ~44 ~64 ~33 stonebrick 2 
+setblock ~44 ~64 ~34 stonebrick 0 
+setblock ~45 ~64 ~30 stonebrick 1  
+fill ~17 ~65 ~30 ~17 ~67 ~30 vine 8  
+fill ~17 ~65 ~31 ~17 ~67 ~31 vine 8  
+fill ~17 ~65 ~32 ~17 ~67 ~32 vine 8  
+fill ~18 ~65 ~30 ~18 ~66 ~30 stonebrick 1  
+fill ~18 ~65 ~31 ~18 ~67 ~31 glowstone 0 
+setblock ~18 ~65 ~32 stonebrick 2  
+fill ~18 ~65 ~33 ~18 ~67 ~33 vine 4 
+setblock ~19 ~65 ~28 stonebrick 2 
+setblock ~19 ~65 ~29 stonebrick 0 
+setblock ~19 ~65 ~33 stonebrick 2 
+setblock ~19 ~65 ~34 stonebrick 0  
+fill ~20 ~65 ~26 ~20 ~65 ~27 stonebrick 0  
+fill ~20 ~65 ~35 ~20 ~67 ~35 stonebrick 0  
+fill ~20 ~65 ~36 ~20 ~66 ~36 stonebrick 0  
+fill ~21 ~65 ~25 ~21 ~67 ~25 diamond_block 0  
+fill ~21 ~65 ~37 ~21 ~67 ~37 diamond_block 0  
+fill ~25 ~65 ~21 ~25 ~67 ~21 diamond_block 0  
+fill ~25 ~65 ~29 ~25 ~68 ~29 vine 8  
+fill ~25 ~65 ~30 ~25 ~70 ~30 vine 8  
+fill ~25 ~65 ~31 ~25 ~70 ~31 vine 8  
+fill ~25 ~65 ~32 ~25 ~70 ~32 vine 8  
+fill ~25 ~65 ~41 ~25 ~67 ~41 diamond_block 0 
+setblock ~26 ~65 ~20 stonebrick 2  
+fill ~26 ~65 ~30 ~26 ~70 ~30 gold_block 0  
+fill ~26 ~65 ~31 ~26 ~70 ~31 gold_block 0  
+fill ~26 ~65 ~32 ~26 ~70 ~32 gold_block 0  
+fill ~26 ~65 ~42 ~26 ~66 ~42 stonebrick 2 
+setblock ~27 ~65 ~20 stonebrick 0 
+setblock ~27 ~65 ~29 gold_block 0 
+setblock ~27 ~65 ~33 gold_block 0 
+setblock ~27 ~65 ~42 stonebrick 0  
+fill ~28 ~65 ~19 ~29 ~65 ~19 stonebrick 2  
+fill ~28 ~65 ~28 ~29 ~65 ~28 gold_block 0  
+fill ~28 ~65 ~34 ~29 ~65 ~34 gold_block 0  
+fill ~28 ~65 ~43 ~29 ~65 ~43 stonebrick 0  
+fill ~29 ~65 ~27 ~33 ~65 ~27 gold_block 0  
+fill ~29 ~65 ~35 ~33 ~65 ~35 gold_block 0  
+fill ~30 ~65 ~17 ~32 ~65 ~17 vine 1  
+fill ~30 ~65 ~18 ~30 ~67 ~18 stonebrick 0  
+fill ~30 ~65 ~26 ~32 ~65 ~26 gold_block 0  
+fill ~30 ~65 ~36 ~32 ~65 ~36 gold_block 0 
+setblock ~30 ~65 ~44 stonebrick 1  
+fill ~31 ~65 ~18 ~31 ~67 ~18 glowstone 0  
+fill ~31 ~65 ~37 ~32 ~65 ~37 vine 4  
+fill ~31 ~65 ~44 ~31 ~67 ~44 glowstone 0  
+fill ~31 ~65 ~45 ~31 ~67 ~45 vine 4 
+setblock ~32 ~65 ~18 stonebrick 0  
+fill ~32 ~65 ~25 ~32 ~68 ~25 vine 1  
+fill ~32 ~65 ~42 ~32 ~72 ~42 vine 9 
+setblock ~32 ~65 ~43 vine 8 
+setblock ~32 ~65 ~44 stonebrick 2  
+fill ~33 ~65 ~18 ~33 ~67 ~18 vine 2  
+fill ~33 ~65 ~19 ~33 ~67 ~19 stonebrick 2  
+fill ~33 ~65 ~28 ~34 ~65 ~28 gold_block 0  
+fill ~33 ~65 ~34 ~34 ~65 ~34 gold_block 0  
+fill ~33 ~65 ~42 ~33 ~67 ~42 vine 1  
+fill ~33 ~65 ~43 ~34 ~65 ~43 stonebrick 1 
+setblock ~34 ~65 ~19 stonebrick 1  
+fill ~35 ~65 ~20 ~35 ~66 ~20 stonebrick 0 
+setblock ~35 ~65 ~29 gold_block 0 
+setblock ~35 ~65 ~33 gold_block 0 
+setblock ~35 ~65 ~42 stonebrick 0 
+setblock ~36 ~65 ~20 stonebrick 2  
+fill ~36 ~65 ~30 ~36 ~70 ~30 gold_block 0  
+fill ~36 ~65 ~31 ~36 ~70 ~31 gold_block 0  
+fill ~36 ~65 ~32 ~36 ~70 ~32 gold_block 0 
+setblock ~36 ~65 ~42 stonebrick 2  
+fill ~37 ~65 ~21 ~37 ~67 ~21 diamond_block 0  
+fill ~37 ~65 ~31 ~37 ~70 ~31 vine 2  
+fill ~37 ~65 ~41 ~37 ~67 ~41 diamond_block 0  
+fill ~41 ~65 ~25 ~41 ~67 ~25 diamond_block 0  
+fill ~41 ~65 ~37 ~41 ~67 ~37 diamond_block 0  
+fill ~42 ~65 ~26 ~42 ~66 ~26 stonebrick 0  
+fill ~42 ~65 ~27 ~42 ~66 ~27 stonebrick 0  
+fill ~42 ~65 ~35 ~42 ~65 ~36 stonebrick 1  
+fill ~43 ~65 ~28 ~43 ~67 ~28 stonebrick 0 
+setblock ~43 ~65 ~29 stonebrick 2  
+fill ~43 ~65 ~33 ~43 ~66 ~33 stonebrick 0 
+setblock ~43 ~65 ~34 stonebrick 1  
+fill ~43 ~65 ~35 ~43 ~66 ~35 vine 6  
+fill ~43 ~65 ~36 ~43 ~67 ~36 vine 2 
+setblock ~44 ~65 ~30 stonebrick 0  
+fill ~44 ~65 ~31 ~44 ~67 ~31 glowstone 0 
+setblock ~44 ~65 ~32 stonebrick 0  
+fill ~44 ~65 ~34 ~44 ~66 ~34 vine 2  
+fill ~45 ~65 ~31 ~45 ~67 ~31 vine 2 
+setblock ~18 ~66 ~32 stonebrick 0 
+setblock ~19 ~66 ~28 stonebrick 0 
+setblock ~19 ~66 ~29 stonebrick 2 
+setblock ~19 ~66 ~33 stonebrick 1 
+setblock ~19 ~66 ~34 stonebrick 2 
+setblock ~20 ~66 ~26 stonebrick 1  
+fill ~20 ~66 ~27 ~20 ~67 ~27 stonebrick 0  
+fill ~26 ~66 ~20 ~26 ~67 ~20 stonebrick 1  
+fill ~26 ~66 ~29 ~26 ~69 ~29 gold_block 0  
+fill ~26 ~66 ~33 ~26 ~69 ~33 gold_block 0  
+fill ~27 ~66 ~20 ~27 ~67 ~20 stonebrick 2  
+fill ~27 ~66 ~28 ~27 ~70 ~28 gold_block 0  
+fill ~27 ~66 ~34 ~27 ~70 ~34 gold_block 0 
+setblock ~27 ~66 ~42 stonebrick 1  
+fill ~28 ~66 ~19 ~29 ~66 ~19 stonebrick 0  
+fill ~28 ~66 ~27 ~28 ~70 ~27 gold_block 0  
+fill ~28 ~66 ~35 ~28 ~70 ~35 gold_block 0  
+fill ~28 ~66 ~42 ~28 ~67 ~42 vine 2 
+setblock ~28 ~66 ~43 stonebrick 1  
+fill ~29 ~66 ~25 ~29 ~69 ~25 vine 1  
+fill ~29 ~66 ~26 ~33 ~66 ~26 gold_block 0  
+fill ~29 ~66 ~36 ~33 ~66 ~36 gold_block 0 
+setblock ~29 ~66 ~43 stonebrick 2 
+setblock ~30 ~66 ~44 stonebrick 2  
+fill ~31 ~66 ~17 ~32 ~66 ~17 vine 1  
+fill ~31 ~66 ~37 ~33 ~66 ~37 vine 4 
+setblock ~32 ~66 ~18 stonebrick 2 
+setblock ~32 ~66 ~44 stonebrick 1  
+fill ~33 ~66 ~43 ~34 ~66 ~43 stonebrick 0  
+fill ~34 ~66 ~19 ~34 ~67 ~19 stonebrick 0  
+fill ~34 ~66 ~27 ~34 ~70 ~27 gold_block 0  
+fill ~34 ~66 ~35 ~34 ~70 ~35 gold_block 0  
+fill ~35 ~66 ~28 ~35 ~70 ~28 gold_block 0  
+fill ~35 ~66 ~34 ~35 ~70 ~34 gold_block 0 
+setblock ~35 ~66 ~42 stonebrick 1  
+fill ~36 ~66 ~20 ~36 ~67 ~20 stonebrick 0  
+fill ~36 ~66 ~29 ~36 ~69 ~29 gold_block 0  
+fill ~36 ~66 ~33 ~36 ~69 ~33 gold_block 0 
+setblock ~36 ~66 ~42 stonebrick 0  
+fill ~42 ~66 ~30 ~42 ~69 ~30 vine 12  
+fill ~42 ~66 ~35 ~42 ~67 ~35 stonebrick 0  
+fill ~42 ~66 ~36 ~42 ~66 ~35 stonebrick 0  
+fill ~43 ~66 ~29 ~43 ~67 ~29 stonebrick 0  
+fill ~43 ~66 ~34 ~43 ~67 ~34 stonebrick 0 
+setblock ~44 ~66 ~30 stonebrick 1 
+setblock ~44 ~66 ~32 stonebrick 1 
+setblock ~18 ~67 ~30 stonebrick 0 
+setblock ~18 ~67 ~32 stonebrick 1  
+fill ~19 ~67 ~28 ~19 ~67 ~29 stonebrick 1  
+fill ~19 ~67 ~33 ~19 ~67 ~34 stonebrick 0 
+setblock ~20 ~67 ~26 stonebrick 0 
+setblock ~20 ~67 ~36 stonebrick 1 
+setblock ~26 ~67 ~42 stonebrick 0 
+setblock ~27 ~67 ~42 stonebrick 2 
+setblock ~28 ~67 ~19 stonebrick 1  
+fill ~28 ~67 ~43 ~29 ~67 ~43 stonebrick 0 
+setblock ~29 ~67 ~19 stonebrick 0  
+fill ~29 ~67 ~26 ~33 ~67 ~26 gold_block 0  
+fill ~29 ~67 ~36 ~33 ~67 ~36 gold_block 0 
+setblock ~30 ~67 ~44 stonebrick 1  
+fill ~31 ~67 ~17 ~32 ~67 ~17 vine 1  
+fill ~31 ~67 ~37 ~32 ~67 ~37 vine 4 
+setblock ~32 ~67 ~18 stonebrick 0 
+setblock ~32 ~67 ~44 stonebrick 2  
+fill ~33 ~67 ~21 ~33 ~69 ~21 vine 4 
+setblock ~33 ~67 ~43 stonebrick 1 
+setblock ~34 ~67 ~43 stonebrick 2 
+setblock ~35 ~67 ~20 stonebrick 1 
+setblock ~35 ~67 ~42 stonebrick 2 
+setblock ~36 ~67 ~42 stonebrick 1  
+fill ~42 ~67 ~26 ~42 ~67 ~27 stonebrick 1 
+setblock ~42 ~67 ~36 stonebrick 2 
+setblock ~43 ~67 ~33 stonebrick 1 
+setblock ~43 ~67 ~35 vine 2 
+setblock ~44 ~67 ~30 stonebrick 2 
+setblock ~44 ~67 ~32 stonebrick 0  
+fill ~19 ~68 ~30 ~19 ~69 ~30 stonebrick 0  
+fill ~19 ~68 ~31 ~19 ~72 ~31 glowstone 0 
+setblock ~19 ~68 ~32 stonebrick 1  
+fill ~20 ~68 ~28 ~20 ~68 ~29 stonebrick 2  
+fill ~20 ~68 ~33 ~20 ~69 ~33 stonebrick 1 
+setblock ~20 ~68 ~34 stonebrick 2  
+fill ~21 ~68 ~26 ~21 ~70 ~26 stonebrick 0  
+fill ~21 ~68 ~27 ~21 ~68 ~26 stonebrick 0  
+fill ~21 ~68 ~35 ~21 ~69 ~35 stonebrick 2  
+fill ~21 ~68 ~36 ~21 ~68 ~35 stonebrick 2  
+fill ~22 ~68 ~25 ~22 ~72 ~25 diamond_block 0  
+fill ~22 ~68 ~37 ~22 ~72 ~37 diamond_block 0  
+fill ~25 ~68 ~21 ~25 ~71 ~21 vine 8  
+fill ~25 ~68 ~22 ~25 ~72 ~22 diamond_block 0  
+fill ~25 ~68 ~40 ~25 ~72 ~40 diamond_block 0  
+fill ~26 ~68 ~20 ~27 ~68 ~20 vine 1  
+fill ~26 ~68 ~21 ~27 ~68 ~21 stonebrick 0  
+fill ~26 ~68 ~41 ~27 ~68 ~41 stonebrick 2  
+fill ~28 ~68 ~20 ~29 ~68 ~20 stonebrick 0  
+fill ~28 ~68 ~42 ~29 ~68 ~42 stonebrick 0  
+fill ~29 ~68 ~19 ~29 ~69 ~19 vine 1  
+fill ~29 ~68 ~26 ~33 ~68 ~26 gold_block 0  
+fill ~29 ~68 ~36 ~33 ~68 ~36 gold_block 0 
+setblock ~30 ~68 ~18 vine 1  
+fill ~30 ~68 ~19 ~30 ~69 ~19 stonebrick 0  
+fill ~30 ~68 ~43 ~30 ~70 ~43 stonebrick 0  
+fill ~31 ~68 ~19 ~31 ~72 ~19 glowstone 0  
+fill ~31 ~68 ~37 ~32 ~68 ~37 vine 4  
+fill ~31 ~68 ~43 ~31 ~72 ~43 glowstone 0  
+fill ~32 ~68 ~19 ~32 ~70 ~19 stonebrick 0 
+setblock ~32 ~68 ~43 stonebrick 0  
+fill ~33 ~68 ~19 ~33 ~69 ~19 vine 2  
+fill ~33 ~68 ~20 ~34 ~68 ~20 stonebrick 0  
+fill ~33 ~68 ~41 ~33 ~71 ~41 vine 1 
+setblock ~33 ~68 ~42 stonebrick 0  
+fill ~34 ~68 ~19 ~34 ~69 ~19 vine 1  
+fill ~34 ~68 ~42 ~34 ~69 ~42 stonebrick 2  
+fill ~35 ~68 ~20 ~35 ~69 ~20 vine 3 
+setblock ~35 ~68 ~21 stonebrick 2  
+fill ~35 ~68 ~41 ~35 ~70 ~41 stonebrick 1  
+fill ~36 ~68 ~20 ~36 ~69 ~20 vine 1 
+setblock ~36 ~68 ~21 stonebrick 0 
+setblock ~36 ~68 ~41 stonebrick 0  
+fill ~37 ~68 ~22 ~37 ~72 ~22 diamond_block 0  
+fill ~37 ~68 ~40 ~37 ~72 ~40 diamond_block 0  
+fill ~40 ~68 ~25 ~40 ~72 ~25 diamond_block 0  
+fill ~40 ~68 ~37 ~40 ~72 ~37 diamond_block 0 
+setblock ~41 ~68 ~26 stonebrick 0 
+setblock ~41 ~68 ~27 stonebrick 2 
+setblock ~41 ~68 ~35 stonebrick 1  
+fill ~41 ~68 ~36 ~41 ~70 ~36 stonebrick 0  
+fill ~42 ~68 ~28 ~42 ~69 ~28 stonebrick 0  
+fill ~42 ~68 ~29 ~42 ~69 ~29 stonebrick 2  
+fill ~42 ~68 ~31 ~42 ~70 ~31 vine 8  
+fill ~42 ~68 ~33 ~42 ~70 ~33 stonebrick 0  
+fill ~42 ~68 ~34 ~42 ~69 ~34 stonebrick 0 
+setblock ~43 ~68 ~30 stonebrick 0  
+fill ~43 ~68 ~31 ~43 ~72 ~31 glowstone 0  
+fill ~43 ~68 ~32 ~43 ~70 ~32 stonebrick 2 
+setblock ~19 ~69 ~32 stonebrick 2 
+setblock ~20 ~69 ~28 stonebrick 0 
+setblock ~20 ~69 ~29 stonebrick 2 
+setblock ~20 ~69 ~34 stonebrick 0 
+setblock ~21 ~69 ~27 stonebrick 2 
+setblock ~21 ~69 ~36 stonebrick 0  
+fill ~26 ~69 ~20 ~27 ~69 ~20 vine 1  
+fill ~26 ~69 ~21 ~26 ~68 ~21 stonebrick 0  
+fill ~26 ~69 ~41 ~26 ~70 ~41 stonebrick 2 
+setblock ~27 ~69 ~21 stonebrick 2  
+fill ~27 ~69 ~41 ~27 ~70 ~41 stonebrick 0 
+setblock ~28 ~69 ~20 stonebrick 1  
+fill ~28 ~69 ~42 ~28 ~70 ~42 stonebrick 1 
+setblock ~29 ~69 ~20 stonebrick 0  
+fill ~29 ~69 ~26 ~33 ~69 ~26 gold_block 0  
+fill ~29 ~69 ~36 ~33 ~69 ~36 gold_block 0 
+setblock ~29 ~69 ~42 stonebrick 0  
+fill ~31 ~69 ~37 ~32 ~69 ~37 vine 4 
+setblock ~32 ~69 ~43 stonebrick 2  
+fill ~33 ~69 ~20 ~33 ~68 ~20 stonebrick 0 
+setblock ~33 ~69 ~42 stonebrick 1 
+setblock ~34 ~69 ~20 stonebrick 1  
+fill ~35 ~69 ~21 ~35 ~72 ~21 stonebrick 0 
+setblock ~36 ~69 ~21 stonebrick 2 
+setblock ~36 ~69 ~41 stonebrick 2 
+setblock ~41 ~69 ~26 stonebrick 2  
+fill ~41 ~69 ~27 ~41 ~70 ~27 stonebrick 0 
+setblock ~41 ~69 ~35 stonebrick 0 
+setblock ~43 ~69 ~30 stonebrick 1 
+setblock ~19 ~70 ~30 stonebrick 1  
+fill ~19 ~70 ~32 ~19 ~71 ~32 stonebrick 1 
+setblock ~20 ~70 ~28 stonebrick 2 
+setblock ~20 ~70 ~29 stonebrick 0 
+setblock ~20 ~70 ~33 stonebrick 0  
+fill ~20 ~70 ~34 ~20 ~71 ~34 stonebrick 2 
+setblock ~21 ~70 ~27 stonebrick 1  
+fill ~21 ~70 ~35 ~21 ~70 ~36 stonebrick 1  
+fill ~26 ~70 ~20 ~27 ~70 ~20 vine 1 
+setblock ~26 ~70 ~21 stonebrick 1 
+setblock ~27 ~70 ~21 stonebrick 0  
+fill ~27 ~70 ~29 ~27 ~71 ~29 gold_block 0  
+fill ~27 ~70 ~33 ~27 ~71 ~33 gold_block 0 
+setblock ~28 ~70 ~20 stonebrick 0  
+fill ~29 ~70 ~20 ~29 ~71 ~20 stonebrick 1  
+fill ~29 ~70 ~27 ~29 ~71 ~27 gold_block 0  
+fill ~29 ~70 ~35 ~29 ~71 ~35 gold_block 0 
+setblock ~29 ~70 ~42 stonebrick 2 
+setblock ~30 ~70 ~19 stonebrick 1  
+fill ~30 ~70 ~26 ~32 ~70 ~26 gold_block 0  
+fill ~30 ~70 ~36 ~32 ~70 ~36 gold_block 0  
+fill ~31 ~70 ~37 ~32 ~70 ~37 vine 4 
+setblock ~32 ~70 ~43 stonebrick 0  
+fill ~33 ~70 ~20 ~34 ~70 ~20 stonebrick 2  
+fill ~33 ~70 ~27 ~33 ~71 ~27 gold_block 0  
+fill ~33 ~70 ~35 ~33 ~71 ~35 gold_block 0  
+fill ~33 ~70 ~36 ~33 ~71 ~36 vine 6  
+fill ~33 ~70 ~42 ~34 ~70 ~42 stonebrick 0  
+fill ~35 ~70 ~29 ~35 ~71 ~29 gold_block 0  
+fill ~35 ~70 ~33 ~35 ~71 ~33 gold_block 0 
+setblock ~36 ~70 ~21 stonebrick 1 
+setblock ~36 ~70 ~29 vine 1  
+fill ~36 ~70 ~41 ~36 ~71 ~41 stonebrick 0  
+fill ~41 ~70 ~26 ~41 ~72 ~26 stonebrick 0 
+setblock ~41 ~70 ~35 stonebrick 2  
+fill ~42 ~70 ~28 ~42 ~71 ~28 stonebrick 1  
+fill ~42 ~70 ~29 ~42 ~70 ~28 stonebrick 1  
+fill ~42 ~70 ~34 ~42 ~71 ~34 stonebrick 1  
+fill ~43 ~70 ~30 ~43 ~72 ~30 stonebrick 0  
+fill ~19 ~71 ~30 ~19 ~72 ~30 stonebrick 0  
+fill ~20 ~71 ~28 ~20 ~72 ~28 stonebrick 1  
+fill ~20 ~71 ~29 ~20 ~71 ~28 stonebrick 1 
+setblock ~20 ~71 ~33 stonebrick 1 
+setblock ~21 ~71 ~26 stonebrick 1 
+setblock ~21 ~71 ~27 stonebrick 0  
+fill ~21 ~71 ~35 ~21 ~72 ~35 stonebrick 0 
+setblock ~21 ~71 ~36 stonebrick 1  
+fill ~25 ~71 ~36 ~25 ~90 ~36 vine 1  
+fill ~26 ~71 ~20 ~26 ~68 ~20 vine 1 
+setblock ~26 ~71 ~21 stonebrick 0  
+fill ~26 ~71 ~30 ~26 ~88 ~30 vine 8  
+fill ~26 ~71 ~41 ~26 ~72 ~41 stonebrick 0  
+fill ~27 ~71 ~21 ~27 ~72 ~21 stonebrick 2  
+fill ~27 ~71 ~30 ~27 ~71 ~33 gold_block 0 
+setblock ~27 ~71 ~41 stonebrick 2  
+fill ~28 ~71 ~20 ~28 ~72 ~20 stonebrick 1  
+fill ~28 ~71 ~22 ~28 ~75 ~22 vine 6 
+setblock ~28 ~71 ~28 gold_block 0 
+setblock ~28 ~71 ~34 gold_block 0 
+setblock ~28 ~71 ~42 stonebrick 2  
+fill ~29 ~71 ~42 ~29 ~72 ~42 stonebrick 0 
+setblock ~30 ~71 ~19 stonebrick 2  
+fill ~30 ~71 ~27 ~33 ~71 ~27 gold_block 0  
+fill ~30 ~71 ~35 ~33 ~71 ~35 gold_block 0 
+setblock ~30 ~71 ~43 stonebrick 1 
+setblock ~32 ~71 ~19 stonebrick 1 
+setblock ~32 ~71 ~26 vine 1 
+setblock ~32 ~71 ~43 stonebrick 2  
+fill ~33 ~71 ~20 ~34 ~71 ~20 stonebrick 0  
+fill ~33 ~71 ~42 ~33 ~72 ~42 stonebrick 0 
+setblock ~34 ~71 ~27 vine 1 
+setblock ~34 ~71 ~28 gold_block 0 
+setblock ~34 ~71 ~34 gold_block 0  
+fill ~34 ~71 ~42 ~34 ~72 ~42 stonebrick 2  
+fill ~35 ~71 ~30 ~35 ~71 ~33 gold_block 0 
+setblock ~35 ~71 ~34 vine 2 
+setblock ~35 ~71 ~41 stonebrick 0  
+fill ~36 ~71 ~21 ~36 ~72 ~21 stonebrick 2 
+setblock ~41 ~71 ~27 stonebrick 1  
+fill ~41 ~71 ~35 ~41 ~72 ~35 stonebrick 0 
+setblock ~41 ~71 ~36 stonebrick 2 
+setblock ~42 ~71 ~29 stonebrick 0 
+setblock ~42 ~71 ~33 stonebrick 2 
+setblock ~43 ~71 ~32 stonebrick 0 
+setblock ~19 ~72 ~32 stonebrick 2 
+setblock ~20 ~72 ~29 stonebrick 0 
+setblock ~20 ~72 ~33 stonebrick 2 
+setblock ~20 ~72 ~34 stonebrick 0  
+fill ~21 ~72 ~26 ~21 ~72 ~27 stonebrick 2 
+setblock ~21 ~72 ~36 stonebrick 0  
+fill ~22 ~72 ~33 ~22 ~76 ~33 vine 2 
+setblock ~26 ~72 ~21 stonebrick 2  
+fill ~27 ~72 ~30 ~27 ~87 ~30 vine 8  
+fill ~27 ~72 ~31 ~27 ~72 ~32 vine 8 
+setblock ~27 ~72 ~41 stonebrick 1  
+fill ~28 ~72 ~23 ~28 ~77 ~23 vine 6 
+setblock ~28 ~72 ~28 vine 1  
+fill ~28 ~72 ~29 ~29 ~72 ~29 gold_block 0  
+fill ~28 ~72 ~30 ~28 ~72 ~33 gold_block 0 
+setblock ~28 ~72 ~42 stonebrick 1 
+setblock ~29 ~72 ~20 stonebrick 0  
+fill ~29 ~72 ~28 ~33 ~72 ~28 gold_block 0  
+fill ~29 ~72 ~33 ~29 ~72 ~34 gold_block 0 
+setblock ~30 ~72 ~19 stonebrick 0  
+fill ~30 ~72 ~34 ~33 ~72 ~34 gold_block 0 
+setblock ~30 ~72 ~43 stonebrick 0 
+setblock ~32 ~72 ~19 stonebrick 0 
+setblock ~32 ~72 ~43 stonebrick 0 
+setblock ~33 ~72 ~20 stonebrick 2 
+setblock ~33 ~72 ~27 vine 1  
+fill ~33 ~72 ~29 ~34 ~72 ~29 gold_block 0  
+fill ~33 ~72 ~33 ~34 ~72 ~33 gold_block 0  
+fill ~33 ~72 ~36 ~33 ~90 ~36 vine 2 
+setblock ~34 ~72 ~20 stonebrick 0  
+fill ~34 ~72 ~22 ~34 ~76 ~22 vine 4  
+fill ~34 ~72 ~30 ~34 ~72 ~33 gold_block 0  
+fill ~34 ~72 ~34 ~34 ~88 ~34 vine 4  
+fill ~35 ~72 ~30 ~35 ~72 ~33 vine 2 
+setblock ~35 ~72 ~41 stonebrick 1 
+setblock ~36 ~72 ~41 stonebrick 2  
+fill ~39 ~72 ~35 ~39 ~75 ~35 vine 8 
+setblock ~41 ~72 ~27 stonebrick 0 
+setblock ~41 ~72 ~36 stonebrick 1 
+setblock ~42 ~72 ~28 stonebrick 0 
+setblock ~42 ~72 ~29 stonebrick 1  
+fill ~42 ~72 ~33 ~42 ~72 ~34 stonebrick 0 
+setblock ~43 ~72 ~32 stonebrick 2 
+setblock ~20 ~73 ~30 stonebrick 1  
+fill ~20 ~73 ~31 ~20 ~76 ~31 glowstone 0 
+setblock ~20 ~73 ~32 stonebrick 0  
+fill ~21 ~73 ~28 ~21 ~73 ~29 stonebrick 0  
+fill ~21 ~73 ~33 ~21 ~75 ~33 stonebrick 0  
+fill ~21 ~73 ~34 ~21 ~73 ~33 stonebrick 0  
+fill ~22 ~73 ~26 ~22 ~73 ~27 stonebrick 0 
+setblock ~22 ~73 ~35 stonebrick 2 
+setblock ~22 ~73 ~36 stonebrick 1  
+fill ~23 ~73 ~25 ~23 ~76 ~25 diamond_block 0  
+fill ~23 ~73 ~37 ~23 ~76 ~37 diamond_block 0  
+fill ~25 ~73 ~23 ~25 ~76 ~23 diamond_block 0  
+fill ~25 ~73 ~39 ~25 ~76 ~39 diamond_block 0 
+setblock ~26 ~73 ~22 stonebrick 1 
+setblock ~26 ~73 ~40 stonebrick 1  
+fill ~27 ~73 ~21 ~27 ~76 ~21 vine 8  
+fill ~27 ~73 ~22 ~27 ~74 ~22 stonebrick 0  
+fill ~27 ~73 ~23 ~27 ~75 ~23 vine 4 
+setblock ~27 ~73 ~40 stonebrick 2 
+setblock ~28 ~73 ~21 stonebrick 2  
+fill ~28 ~73 ~30 ~28 ~86 ~30 vine 8 
+setblock ~28 ~73 ~32 vine 8 
+setblock ~28 ~73 ~41 stonebrick 2  
+fill ~29 ~73 ~20 ~29 ~74 ~20 vine 8  
+fill ~29 ~73 ~21 ~29 ~74 ~21 stonebrick 1  
+fill ~29 ~73 ~22 ~29 ~75 ~22 vine 4 
+setblock ~29 ~73 ~29 vine 1  
+fill ~29 ~73 ~30 ~33 ~73 ~30 gold_block 0  
+fill ~29 ~73 ~31 ~33 ~73 ~31 gold_block 0  
+fill ~29 ~73 ~32 ~33 ~73 ~32 gold_block 0  
+fill ~29 ~73 ~41 ~29 ~76 ~41 stonebrick 1  
+fill ~30 ~73 ~19 ~30 ~76 ~19 vine 1 
+setblock ~30 ~73 ~20 stonebrick 0  
+fill ~30 ~73 ~29 ~32 ~73 ~29 gold_block 0  
+fill ~30 ~73 ~33 ~32 ~73 ~33 gold_block 0 
+setblock ~30 ~73 ~42 stonebrick 0  
+fill ~31 ~73 ~20 ~31 ~76 ~20 glowstone 0 
+setblock ~31 ~73 ~28 vine 1  
+fill ~31 ~73 ~42 ~31 ~76 ~42 glowstone 0  
+fill ~32 ~73 ~19 ~32 ~75 ~19 vine 1 
+setblock ~32 ~73 ~20 stonebrick 2  
+fill ~32 ~73 ~42 ~32 ~74 ~42 stonebrick 0 
+setblock ~33 ~73 ~21 stonebrick 0  
+fill ~33 ~73 ~22 ~33 ~73 ~23 vine 4 
+setblock ~33 ~73 ~41 stonebrick 0  
+fill ~34 ~73 ~20 ~34 ~76 ~20 vine 1  
+fill ~34 ~73 ~21 ~34 ~75 ~21 stonebrick 2  
+fill ~34 ~73 ~30 ~34 ~86 ~30 vine 2 
+setblock ~34 ~73 ~41 stonebrick 2  
+fill ~35 ~73 ~21 ~35 ~76 ~21 vine 3 
+setblock ~35 ~73 ~22 stonebrick 0 
+setblock ~35 ~73 ~40 stonebrick 0  
+fill ~36 ~73 ~21 ~36 ~76 ~21 vine 1 
+setblock ~36 ~73 ~22 stonebrick 2  
+fill ~36 ~73 ~40 ~36 ~76 ~40 stonebrick 2  
+fill ~37 ~73 ~23 ~37 ~76 ~23 diamond_block 0  
+fill ~37 ~73 ~39 ~37 ~76 ~39 diamond_block 0  
+fill ~39 ~73 ~25 ~39 ~76 ~25 diamond_block 0  
+fill ~39 ~73 ~36 ~39 ~75 ~36 vine 8  
+fill ~39 ~73 ~37 ~39 ~76 ~37 diamond_block 0 
+setblock ~40 ~73 ~26 stonebrick 0 
+setblock ~40 ~73 ~27 stonebrick 1 
+setblock ~40 ~73 ~35 stonebrick 2 
+setblock ~40 ~73 ~36 stonebrick 0 
+setblock ~41 ~73 ~28 stonebrick 2 
+setblock ~41 ~73 ~29 stonebrick 1  
+fill ~41 ~73 ~33 ~41 ~74 ~33 stonebrick 2  
+fill ~41 ~73 ~34 ~41 ~74 ~34 stonebrick 0 
+setblock ~42 ~73 ~30 stonebrick 0  
+fill ~42 ~73 ~31 ~42 ~76 ~31 glowstone 0 
+setblock ~42 ~73 ~32 stonebrick 2  
+fill ~20 ~74 ~30 ~20 ~75 ~30 stonebrick 2 
+setblock ~20 ~74 ~32 stonebrick 2  
+fill ~21 ~74 ~28 ~21 ~75 ~28 stonebrick 1  
+fill ~21 ~74 ~29 ~21 ~74 ~28 stonebrick 1 
+setblock ~21 ~74 ~34 stonebrick 2 
+setblock ~22 ~74 ~26 stonebrick 1 
+setblock ~22 ~74 ~27 stonebrick 0 
+setblock ~22 ~74 ~35 stonebrick 1  
+fill ~22 ~74 ~36 ~22 ~76 ~36 stonebrick 0 
+setblock ~26 ~74 ~22 stonebrick 0  
+fill ~26 ~74 ~40 ~27 ~74 ~40 stonebrick 0  
+fill ~28 ~74 ~21 ~28 ~75 ~21 stonebrick 1  
+fill ~28 ~74 ~41 ~28 ~75 ~41 stonebrick 0 
+setblock ~29 ~74 ~31 vine 8 
+setblock ~30 ~74 ~20 stonebrick 2 
+setblock ~30 ~74 ~31 stonebrick 2  
+fill ~30 ~74 ~42 ~30 ~76 ~42 stonebrick 1  
+fill ~31 ~74 ~29 ~32 ~74 ~29 vine 1  
+fill ~31 ~74 ~33 ~31 ~77 ~33 vine 4  
+fill ~32 ~74 ~20 ~32 ~76 ~20 stonebrick 0 
+setblock ~32 ~74 ~31 stonebrick 0 
+setblock ~33 ~74 ~21 stonebrick 1  
+fill ~33 ~74 ~23 ~33 ~80 ~23 vine 4  
+fill ~33 ~74 ~30 ~33 ~85 ~30 vine 2 
+setblock ~33 ~74 ~41 stonebrick 1  
+fill ~34 ~74 ~41 ~34 ~76 ~41 stonebrick 0 
+setblock ~35 ~74 ~22 stonebrick 1 
+setblock ~35 ~74 ~40 stonebrick 2 
+setblock ~36 ~74 ~22 stonebrick 0  
+fill ~40 ~74 ~26 ~40 ~76 ~26 stonebrick 1  
+fill ~40 ~74 ~27 ~40 ~75 ~27 stonebrick 0  
+fill ~40 ~74 ~28 ~40 ~75 ~28 vine 8 
+setblock ~40 ~74 ~35 stonebrick 0  
+fill ~40 ~74 ~36 ~40 ~75 ~36 stonebrick 1 
+setblock ~41 ~74 ~28 stonebrick 1 
+setblock ~41 ~74 ~29 stonebrick 2 
+setblock ~42 ~74 ~30 stonebrick 2 
+setblock ~42 ~74 ~32 stonebrick 0 
+setblock ~20 ~75 ~32 stonebrick 0 
+setblock ~21 ~75 ~29 stonebrick 2 
+setblock ~21 ~75 ~34 stonebrick 1 
+setblock ~22 ~75 ~26 stonebrick 0 
+setblock ~22 ~75 ~27 stonebrick 2  
+fill ~22 ~75 ~35 ~22 ~76 ~35 stonebrick 0  
+fill ~26 ~75 ~22 ~27 ~75 ~22 stonebrick 1  
+fill ~26 ~75 ~40 ~27 ~75 ~40 stonebrick 2 
+setblock ~29 ~75 ~21 stonebrick 2 
+setblock ~30 ~75 ~20 stonebrick 0 
+setblock ~30 ~75 ~31 stone_brick_stairs 0  
+fill ~31 ~75 ~29 ~32 ~75 ~29 vine 1 
+setblock ~31 ~75 ~31 stone_slab 13 
+setblock ~32 ~75 ~31 stone_brick_stairs 1 
+setblock ~32 ~75 ~42 stonebrick 1  
+fill ~33 ~75 ~21 ~33 ~76 ~21 stonebrick 2  
+fill ~33 ~75 ~41 ~33 ~76 ~41 stonebrick 0  
+fill ~35 ~75 ~22 ~35 ~76 ~22 stonebrick 2 
+setblock ~35 ~75 ~40 stonebrick 0 
+setblock ~36 ~75 ~22 stonebrick 1 
+setblock ~40 ~75 ~35 stonebrick 2 
+setblock ~41 ~75 ~28 stonebrick 2  
+fill ~41 ~75 ~29 ~41 ~76 ~29 stonebrick 0  
+fill ~41 ~75 ~33 ~41 ~76 ~33 stonebrick 0  
+fill ~41 ~75 ~34 ~41 ~76 ~34 stonebrick 1  
+fill ~42 ~75 ~30 ~42 ~76 ~30 stonebrick 0  
+fill ~42 ~75 ~32 ~42 ~76 ~32 stonebrick 1 
+setblock ~20 ~76 ~30 stonebrick 0 
+setblock ~20 ~76 ~32 stonebrick 2  
+fill ~21 ~76 ~28 ~21 ~76 ~29 stonebrick 0 
+setblock ~21 ~76 ~33 stonebrick 1 
+setblock ~21 ~76 ~34 stonebrick 0  
+fill ~22 ~76 ~26 ~22 ~76 ~27 stonebrick 1  
+fill ~22 ~76 ~32 ~22 ~78 ~32 vine 3  
+fill ~23 ~76 ~33 ~23 ~85 ~33 vine 2  
+fill ~26 ~76 ~22 ~27 ~76 ~22 stonebrick 0 
+setblock ~26 ~76 ~40 stonebrick 0  
+fill ~27 ~76 ~24 ~27 ~80 ~24 vine 4 
+setblock ~27 ~76 ~40 stonebrick 1  
+fill ~28 ~76 ~21 ~29 ~76 ~21 stonebrick 0 
+setblock ~28 ~76 ~41 stonebrick 2 
+setblock ~30 ~76 ~20 stonebrick 2  
+fill ~31 ~76 ~29 ~32 ~76 ~29 vine 1 
+setblock ~31 ~76 ~30 stone_brick_stairs 6 
+setblock ~31 ~76 ~31 stone_slab 5 
+setblock ~31 ~76 ~32 stone_brick_stairs 7  
+fill ~32 ~76 ~22 ~32 ~81 ~22 vine 4 
+setblock ~32 ~76 ~42 stonebrick 0  
+fill ~33 ~76 ~39 ~33 ~77 ~39 vine 1 
+setblock ~34 ~76 ~21 stonebrick 1 
+setblock ~35 ~76 ~40 stonebrick 2 
+setblock ~36 ~76 ~22 stonebrick 0  
+fill ~39 ~76 ~29 ~39 ~82 ~29 vine 8  
+fill ~39 ~76 ~34 ~39 ~83 ~34 vine 9 
+setblock ~40 ~76 ~27 stonebrick 2  
+fill ~40 ~76 ~35 ~40 ~76 ~36 stonebrick 0 
+setblock ~41 ~76 ~28 stonebrick 0 
+setblock ~21 ~77 ~30 stonebrick 2  
+fill ~21 ~77 ~31 ~21 ~85 ~31 glowstone 0  
+fill ~21 ~77 ~32 ~21 ~79 ~32 stonebrick 2  
+fill ~22 ~77 ~28 ~22 ~77 ~29 stonebrick 2 
+setblock ~22 ~77 ~33 stonebrick 2 
+setblock ~22 ~77 ~34 stonebrick 0  
+fill ~23 ~77 ~25 ~23 ~82 ~25 vine 1 
+setblock ~23 ~77 ~26 stonebrick 0 
+setblock ~23 ~77 ~27 stonebrick 2  
+fill ~23 ~77 ~34 ~23 ~85 ~34 vine 2  
+fill ~23 ~77 ~35 ~23 ~78 ~35 stonebrick 2  
+fill ~23 ~77 ~36 ~23 ~78 ~36 stonebrick 0  
+fill ~23 ~77 ~37 ~23 ~82 ~37 vine 1  
+fill ~24 ~77 ~25 ~24 ~85 ~25 diamond_block 0  
+fill ~24 ~77 ~37 ~24 ~85 ~37 diamond_block 0  
+fill ~25 ~77 ~23 ~25 ~82 ~23 vine 2  
+fill ~25 ~77 ~24 ~25 ~85 ~24 diamond_block 0  
+fill ~25 ~77 ~38 ~25 ~85 ~38 diamond_block 0  
+fill ~25 ~77 ~39 ~25 ~82 ~39 vine 8  
+fill ~26 ~77 ~22 ~26 ~81 ~22 vine 1  
+fill ~26 ~77 ~23 ~27 ~77 ~23 stonebrick 0 
+setblock ~26 ~77 ~39 stonebrick 0  
+fill ~26 ~77 ~40 ~26 ~82 ~40 vine 4  
+fill ~27 ~77 ~25 ~27 ~86 ~25 vine 4 
+setblock ~27 ~77 ~39 stonebrick 1  
+fill ~28 ~77 ~22 ~29 ~77 ~22 stonebrick 0 
+setblock ~28 ~77 ~40 stonebrick 2 
+setblock ~29 ~77 ~23 vine 4  
+fill ~29 ~77 ~24 ~29 ~88 ~24 vine 5  
+fill ~29 ~77 ~39 ~29 ~78 ~39 vine 1 
+setblock ~29 ~77 ~40 stonebrick 1 
+setblock ~30 ~77 ~21 stonebrick 1 
+setblock ~30 ~77 ~41 stonebrick 2  
+fill ~31 ~77 ~21 ~31 ~85 ~21 glowstone 0  
+fill ~31 ~77 ~29 ~32 ~77 ~29 vine 1 
+setblock ~31 ~77 ~30 stonebrick 0 
+setblock ~31 ~77 ~32 stonebrick 1  
+fill ~31 ~77 ~41 ~31 ~85 ~41 glowstone 0 
+setblock ~32 ~77 ~21 stonebrick 2 
+setblock ~32 ~77 ~41 stonebrick 1  
+fill ~33 ~77 ~22 ~34 ~77 ~22 stonebrick 1 
+setblock ~33 ~77 ~40 stonebrick 1  
+fill ~34 ~77 ~21 ~34 ~85 ~21 vine 1  
+fill ~34 ~77 ~23 ~34 ~80 ~23 vine 8  
+fill ~34 ~77 ~40 ~34 ~79 ~40 stonebrick 0  
+fill ~35 ~77 ~22 ~35 ~84 ~22 vine 3  
+fill ~35 ~77 ~23 ~35 ~78 ~23 stonebrick 2  
+fill ~35 ~77 ~38 ~35 ~81 ~38 vine 1  
+fill ~35 ~77 ~39 ~35 ~79 ~39 stonebrick 2  
+fill ~36 ~77 ~22 ~36 ~84 ~22 vine 1 
+setblock ~36 ~77 ~23 stonebrick 0  
+fill ~36 ~77 ~39 ~36 ~78 ~39 stonebrick 0  
+fill ~37 ~77 ~23 ~37 ~82 ~23 vine 2  
+fill ~37 ~77 ~24 ~37 ~85 ~24 diamond_block 0  
+fill ~37 ~77 ~38 ~37 ~85 ~38 diamond_block 0  
+fill ~37 ~77 ~39 ~37 ~82 ~39 vine 8  
+fill ~38 ~77 ~25 ~38 ~85 ~25 diamond_block 0  
+fill ~38 ~77 ~27 ~38 ~85 ~27 vine 8  
+fill ~38 ~77 ~35 ~38 ~85 ~35 vine 8  
+fill ~38 ~77 ~36 ~38 ~85 ~36 vine 8  
+fill ~38 ~77 ~37 ~38 ~85 ~37 diamond_block 0  
+fill ~39 ~77 ~25 ~39 ~82 ~25 vine 4 
+setblock ~39 ~77 ~26 stonebrick 0 
+setblock ~39 ~77 ~27 stonebrick 1  
+fill ~39 ~77 ~28 ~39 ~85 ~28 vine 4  
+fill ~39 ~77 ~33 ~39 ~79 ~33 vine 8  
+fill ~39 ~77 ~35 ~39 ~78 ~35 stonebrick 1 
+setblock ~39 ~77 ~36 stonebrick 2  
+fill ~39 ~77 ~37 ~39 ~82 ~37 vine 4  
+fill ~40 ~77 ~28 ~40 ~79 ~28 stonebrick 0  
+fill ~40 ~77 ~29 ~40 ~78 ~29 stonebrick 1  
+fill ~40 ~77 ~30 ~40 ~81 ~30 vine 8  
+fill ~40 ~77 ~31 ~40 ~77 ~30 vine 8  
+fill ~40 ~77 ~33 ~40 ~78 ~33 stonebrick 2 
+setblock ~40 ~77 ~34 stonebrick 0 
+setblock ~41 ~77 ~30 stonebrick 1  
+fill ~41 ~77 ~31 ~41 ~85 ~31 glowstone 0 
+setblock ~41 ~77 ~32 stonebrick 2 
+setblock ~21 ~78 ~30 stonebrick 1  
+fill ~22 ~78 ~28 ~22 ~81 ~28 stonebrick 0  
+fill ~22 ~78 ~29 ~22 ~80 ~29 stonebrick 0 
+setblock ~22 ~78 ~33 stonebrick 0 
+setblock ~22 ~78 ~34 stonebrick 1 
+setblock ~23 ~78 ~26 stonebrick 2  
+fill ~23 ~78 ~27 ~23 ~80 ~27 stonebrick 0  
+fill ~26 ~78 ~23 ~26 ~79 ~23 stonebrick 2  
+fill ~26 ~78 ~39 ~26 ~79 ~39 stonebrick 1 
+setblock ~27 ~78 ~23 stonebrick 1  
+fill ~27 ~78 ~39 ~27 ~79 ~39 stonebrick 0 
+setblock ~28 ~78 ~22 stonebrick 2  
+fill ~28 ~78 ~23 ~28 ~80 ~23 vine 4  
+fill ~28 ~78 ~40 ~29 ~78 ~40 stonebrick 0 
+setblock ~29 ~78 ~22 stonebrick 1 
+setblock ~30 ~78 ~21 stonebrick 2  
+fill ~30 ~78 ~41 ~30 ~82 ~41 stonebrick 0  
+fill ~31 ~78 ~29 ~32 ~78 ~29 vine 1 
+setblock ~31 ~78 ~30 stone_brick_stairs 2 
+setblock ~31 ~78 ~31 stone_slab 13 
+setblock ~31 ~78 ~32 stone_brick_stairs 3  
+fill ~32 ~78 ~21 ~32 ~79 ~21 stonebrick 0 
+setblock ~32 ~78 ~41 stonebrick 2  
+fill ~33 ~78 ~22 ~33 ~77 ~22 stonebrick 1  
+fill ~33 ~78 ~38 ~33 ~96 ~38 vine 4 
+setblock ~33 ~78 ~40 stonebrick 0 
+setblock ~34 ~78 ~22 stonebrick 0  
+fill ~36 ~78 ~23 ~36 ~80 ~23 stonebrick 1  
+fill ~39 ~78 ~26 ~39 ~78 ~27 stonebrick 2 
+setblock ~39 ~78 ~36 stonebrick 0  
+fill ~40 ~78 ~34 ~40 ~79 ~34 stonebrick 1 
+setblock ~41 ~78 ~30 stonebrick 0 
+setblock ~41 ~78 ~32 stonebrick 1  
+fill ~21 ~79 ~30 ~21 ~80 ~30 stonebrick 0  
+fill ~22 ~79 ~32 ~22 ~84 ~32 vine 1 
+setblock ~22 ~79 ~33 stonebrick 2  
+fill ~22 ~79 ~34 ~22 ~80 ~34 stonebrick 0 
+setblock ~23 ~79 ~26 stonebrick 1 
+setblock ~23 ~79 ~35 stonebrick 0 
+setblock ~23 ~79 ~36 stonebrick 1 
+setblock ~27 ~79 ~23 stonebrick 0 
+setblock ~28 ~79 ~22 stonebrick 0  
+fill ~28 ~79 ~40 ~28 ~78 ~40 stonebrick 0 
+setblock ~29 ~79 ~22 stonebrick 2  
+fill ~29 ~79 ~31 ~29 ~80 ~31 vine 8  
+fill ~29 ~79 ~38 ~29 ~90 ~38 vine 1  
+fill ~29 ~79 ~40 ~29 ~81 ~40 stonebrick 1 
+setblock ~30 ~79 ~21 stonebrick 1 
+setblock ~30 ~79 ~31 stone_brick_stairs 4  
+fill ~31 ~79 ~29 ~32 ~79 ~29 vine 1 
+setblock ~31 ~79 ~31 stone_slab 5 
+setblock ~32 ~79 ~31 stone_brick_stairs 5 
+setblock ~32 ~79 ~41 stonebrick 1   
+fill ~33 ~79 ~22 ~33 ~83 ~22 stonebrick 0 
+setblock ~33 ~79 ~40 stonebrick 1 
+setblock ~34 ~79 ~22 stonebrick 1  
+fill ~35 ~79 ~23 ~35 ~80 ~23 stonebrick 0 
+setblock ~36 ~79 ~39 stonebrick 2  
+fill ~39 ~79 ~26 ~39 ~82 ~26 stonebrick 0  
+fill ~39 ~79 ~27 ~39 ~79 ~26 stonebrick 0  
+fill ~39 ~79 ~35 ~39 ~80 ~35 stonebrick 0 
+setblock ~39 ~79 ~36 stonebrick 2 
+setblock ~40 ~79 ~29 stonebrick 2 
+setblock ~40 ~79 ~33 stonebrick 1 
+setblock ~41 ~79 ~30 stonebrick 1 
+setblock ~41 ~79 ~32 stonebrick 0 
+setblock ~21 ~80 ~32 stonebrick 0 
+setblock ~22 ~80 ~33 stonebrick 0 
+setblock ~23 ~80 ~26 stonebrick 2  
+fill ~23 ~80 ~35 ~23 ~80 ~36 stonebrick 2 
+setblock ~26 ~80 ~23 stonebrick 0 
+setblock ~26 ~80 ~39 stonebrick 2 
+setblock ~27 ~80 ~23 stonebrick 1 
+setblock ~27 ~80 ~39 stonebrick 1  
+fill ~28 ~80 ~22 ~29 ~80 ~22 stonebrick 1 
+setblock ~28 ~80 ~40 stonebrick 2  
+fill ~30 ~80 ~21 ~30 ~85 ~21 stonebrick 0 
+setblock ~30 ~80 ~31 stonebrick 1  
+fill ~31 ~80 ~29 ~32 ~80 ~29 vine 1  
+fill ~32 ~80 ~21 ~32 ~81 ~21 stonebrick 2 
+setblock ~32 ~80 ~31 stonebrick 2 
+setblock ~32 ~80 ~41 stonebrick 0 
+setblock ~33 ~80 ~40 stonebrick 0 
+setblock ~34 ~80 ~22 stonebrick 0 
+setblock ~34 ~80 ~40 stonebrick 2  
+fill ~35 ~80 ~39 ~36 ~80 ~39 stonebrick 0  
+fill ~39 ~80 ~27 ~39 ~81 ~27 stonebrick 1  
+fill ~39 ~80 ~36 ~39 ~81 ~36 stonebrick 0 
+setblock ~40 ~80 ~28 stonebrick 2 
+setblock ~40 ~80 ~29 stonebrick 1 
+setblock ~40 ~80 ~33 stonebrick 2  
+fill ~40 ~80 ~34 ~40 ~81 ~34 stonebrick 0 
+setblock ~41 ~80 ~30 stonebrick 2  
+fill ~41 ~80 ~32 ~41 ~81 ~32 stonebrick 1 
+setblock ~21 ~81 ~30 stonebrick 1  
+fill ~21 ~81 ~32 ~21 ~82 ~32 stonebrick 2 
+setblock ~22 ~81 ~29 stonebrick 1  
+fill ~22 ~81 ~33 ~22 ~82 ~33 stonebrick 1 
+setblock ~22 ~81 ~34 stonebrick 2 
+setblock ~23 ~81 ~26 stonebrick 1 
+setblock ~23 ~81 ~27 stonebrick 2 
+setblock ~23 ~81 ~35 stonebrick 0  
+fill ~23 ~81 ~36 ~23 ~82 ~36 stonebrick 2 
+setblock ~26 ~81 ~23 stonebrick 1  
+fill ~26 ~81 ~39 ~27 ~81 ~39 stonebrick 0 
+setblock ~27 ~81 ~23 stonebrick 2 
+setblock ~28 ~81 ~22 stonebrick 0  
+fill ~28 ~81 ~40 ~28 ~83 ~40 stonebrick 0 
+setblock ~29 ~81 ~22 stonebrick 2 
+setblock ~30 ~81 ~31 stone_brick_stairs 0  
+fill ~31 ~81 ~29 ~32 ~81 ~29 vine 1 
+setblock ~31 ~81 ~31 stone_slab 13 
+setblock ~32 ~81 ~31 stone_brick_stairs 1 
+setblock ~32 ~81 ~41 stonebrick 1  
+fill ~33 ~81 ~40 ~33 ~83 ~40 stonebrick 1 
+setblock ~34 ~81 ~22 stonebrick 1  
+fill ~34 ~81 ~40 ~34 ~82 ~40 stonebrick 0  
+fill ~35 ~81 ~23 ~35 ~83 ~23 stonebrick 1  
+fill ~35 ~81 ~39 ~35 ~80 ~39 stonebrick 0  
+fill ~36 ~81 ~23 ~36 ~82 ~23 stonebrick 0 
+setblock ~36 ~81 ~39 stonebrick 2 
+setblock ~39 ~81 ~35 stonebrick 1  
+fill ~40 ~81 ~28 ~40 ~82 ~28 stonebrick 0 
+setblock ~40 ~81 ~29 stonebrick 2 
+setblock ~40 ~81 ~33 stonebrick 0 
+setblock ~41 ~81 ~30 stonebrick 1 
+setblock ~21 ~82 ~30 stonebrick 2 
+setblock ~22 ~82 ~28 stonebrick 1 
+setblock ~22 ~82 ~29 stonebrick 0 
+setblock ~22 ~82 ~34 stonebrick 1 
+setblock ~23 ~82 ~26 stonebrick 2  
+fill ~23 ~82 ~27 ~23 ~85 ~27 stonebrick 0 
+setblock ~23 ~82 ~35 stonebrick 1 
+setblock ~26 ~82 ~23 stonebrick 0  
+fill ~26 ~82 ~39 ~27 ~82 ~39 stonebrick 2 
+setblock ~27 ~82 ~23 stonebrick 1 
+setblock ~28 ~82 ~22 stonebrick 2 
+setblock ~29 ~82 ~22 stonebrick 1  
+fill ~29 ~82 ~40 ~29 ~84 ~40 stonebrick 0  
+fill ~31 ~82 ~29 ~32 ~82 ~29 vine 1 
+setblock ~31 ~82 ~30 stone_brick_stairs 6 
+setblock ~31 ~82 ~31 stone_slab 5 
+setblock ~31 ~82 ~32 stone_brick_stairs 7 
+setblock ~32 ~82 ~21 stonebrick 0  
+fill ~32 ~82 ~41 ~32 ~85 ~41 stonebrick 0 
+setblock ~34 ~82 ~22 stonebrick 0  
+fill ~35 ~82 ~37 ~35 ~94 ~37 vine 4 
+setblock ~35 ~82 ~39 stonebrick 1 
+setblock ~36 ~82 ~39 stonebrick 0 
+setblock ~39 ~82 ~27 stonebrick 2 
+setblock ~39 ~82 ~35 stonebrick 0 
+setblock ~39 ~82 ~36 stonebrick 1  
+fill ~40 ~82 ~29 ~40 ~84 ~29 stonebrick 1  
+fill ~40 ~82 ~33 ~40 ~83 ~33 stonebrick 2  
+fill ~40 ~82 ~34 ~40 ~82 ~33 stonebrick 2 
+setblock ~41 ~82 ~30 stonebrick 0 
+setblock ~41 ~82 ~32 stonebrick 2  
+fill ~21 ~83 ~30 ~21 ~84 ~30 stonebrick 0 
+setblock ~21 ~83 ~32 stonebrick 1 
+setblock ~22 ~83 ~28 stonebrick 0  
+fill ~22 ~83 ~29 ~22 ~84 ~29 stonebrick 2 
+setblock ~22 ~83 ~30 vine 2  
+fill ~22 ~83 ~33 ~22 ~83 ~34 stonebrick 0  
+fill ~23 ~83 ~26 ~23 ~85 ~26 stonebrick 0 
+setblock ~23 ~83 ~35 stonebrick 2  
+fill ~23 ~83 ~36 ~23 ~84 ~36 stonebrick 0 
+setblock ~26 ~83 ~23 stonebrick 1  
+fill ~26 ~83 ~39 ~27 ~83 ~39 stonebrick 2 
+setblock ~27 ~83 ~23 stonebrick 0  
+fill ~28 ~83 ~22 ~28 ~84 ~22 stonebrick 0 
+setblock ~29 ~83 ~22 stonebrick 2  
+fill ~29 ~83 ~31 ~29 ~85 ~31 vine 8 
+setblock ~30 ~83 ~41 stonebrick 1  
+fill ~31 ~83 ~29 ~32 ~83 ~29 vine 1 
+setblock ~31 ~83 ~30 stonebrick 1 
+setblock ~31 ~83 ~32 stonebrick 1 
+setblock ~32 ~83 ~21 stonebrick 1  
+fill ~34 ~83 ~22 ~34 ~85 ~22 stonebrick 2 
+setblock ~34 ~83 ~40 stonebrick 2 
+setblock ~35 ~83 ~39 stonebrick 2 
+setblock ~36 ~83 ~23 stonebrick 1 
+setblock ~36 ~83 ~39 stonebrick 1 
+setblock ~39 ~83 ~26 stonebrick 2  
+fill ~39 ~83 ~27 ~39 ~85 ~27 stonebrick 0 
+setblock ~39 ~83 ~35 stonebrick 2  
+fill ~39 ~83 ~36 ~39 ~84 ~36 stonebrick 0 
+setblock ~40 ~83 ~28 stonebrick 1 
+setblock ~40 ~83 ~34 stonebrick 0 
+setblock ~41 ~83 ~30 stonebrick 2 
+setblock ~41 ~83 ~32 stonebrick 1  
+fill ~21 ~84 ~32 ~21 ~85 ~32 stonebrick 0 
+setblock ~22 ~84 ~28 stonebrick 1  
+fill ~22 ~84 ~33 ~22 ~84 ~34 stonebrick 2 
+setblock ~23 ~84 ~35 stonebrick 0  
+fill ~26 ~84 ~23 ~27 ~84 ~23 stonebrick 2  
+fill ~26 ~84 ~39 ~27 ~84 ~39 stonebrick 2 
+setblock ~28 ~84 ~40 stonebrick 2 
+setblock ~29 ~84 ~22 stonebrick 0  
+fill ~29 ~84 ~30 ~29 ~85 ~30 vine 8  
+fill ~30 ~84 ~31 ~32 ~84 ~31 glowstone 0 
+setblock ~30 ~84 ~41 stonebrick 2  
+fill ~31 ~84 ~29 ~32 ~84 ~29 vine 1  
+fill ~31 ~84 ~30 ~31 ~88 ~30 glowstone 0  
+fill ~31 ~84 ~32 ~31 ~88 ~32 glowstone 0  
+fill ~32 ~84 ~21 ~32 ~85 ~21 stonebrick 0 
+setblock ~33 ~84 ~22 stonebrick 1 
+setblock ~33 ~84 ~40 stonebrick 2 
+setblock ~34 ~84 ~40 stonebrick 1  
+fill ~35 ~84 ~23 ~35 ~85 ~23 stonebrick 2 
+setblock ~35 ~84 ~39 stonebrick 0 
+setblock ~36 ~84 ~23 stonebrick 0 
+setblock ~36 ~84 ~39 stonebrick 2  
+fill ~37 ~84 ~26 ~37 ~89 ~26 vine 12 
+setblock ~39 ~84 ~26 stonebrick 0 
+setblock ~39 ~84 ~34 vine 1 
+setblock ~39 ~84 ~35 stonebrick 0 
+setblock ~40 ~84 ~28 stonebrick 0 
+setblock ~40 ~84 ~33 stonebrick 0 
+setblock ~40 ~84 ~34 stonebrick 2 
+setblock ~41 ~84 ~30 stonebrick 0  
+fill ~41 ~84 ~32 ~41 ~85 ~32 stonebrick 0 
+setblock ~21 ~85 ~30 stonebrick 2 
+setblock ~22 ~85 ~28 stonebrick 0 
+setblock ~22 ~85 ~29 stonebrick 1  
+fill ~22 ~85 ~33 ~22 ~85 ~34 stonebrick 1 
+setblock ~23 ~85 ~35 stonebrick 1 
+setblock ~23 ~85 ~36 stonebrick 2  
+fill ~24 ~85 ~33 ~24 ~89 ~33 vine 2  
+fill ~25 ~85 ~35 ~25 ~90 ~35 vine 2 
+setblock ~26 ~85 ~23 stonebrick 1  
+fill ~26 ~85 ~39 ~27 ~85 ~39 stonebrick 0 
+setblock ~27 ~85 ~23 stonebrick 2  
+fill ~28 ~85 ~22 ~29 ~85 ~22 stonebrick 2  
+fill ~28 ~85 ~38 ~28 ~87 ~38 vine 3 
+setblock ~28 ~85 ~40 stonebrick 0 
+setblock ~29 ~85 ~40 stonebrick 1  
+fill ~30 ~85 ~30 ~30 ~88 ~30 glowstone 0  
+fill ~30 ~85 ~31 ~30 ~88 ~31 glowstone 0  
+fill ~30 ~85 ~32 ~30 ~88 ~32 glowstone 0 
+setblock ~30 ~85 ~41 stonebrick 0 
+setblock ~32 ~85 ~29 vine 1  
+fill ~32 ~85 ~30 ~32 ~88 ~30 glowstone 0  
+fill ~32 ~85 ~31 ~32 ~88 ~31 glowstone 0  
+fill ~32 ~85 ~32 ~32 ~88 ~32 glowstone 0 
+setblock ~33 ~85 ~22 stonebrick 0 
+setblock ~33 ~85 ~40 stonebrick 0  
+fill ~34 ~85 ~24 ~34 ~86 ~24 vine 8  
+fill ~34 ~85 ~25 ~34 ~95 ~25 vine 2 
+setblock ~34 ~85 ~40 stonebrick 2 
+setblock ~35 ~85 ~22 vine 2  
+fill ~35 ~85 ~39 ~36 ~85 ~39 stonebrick 1 
+setblock ~36 ~85 ~23 stonebrick 2  
+fill ~37 ~85 ~27 ~37 ~89 ~27 vine 8 
+setblock ~39 ~85 ~26 stonebrick 1 
+setblock ~39 ~85 ~29 vine 0 
+setblock ~39 ~85 ~35 stonebrick 1 
+setblock ~39 ~85 ~36 stonebrick 2 
+setblock ~40 ~85 ~28 stonebrick 1 
+setblock ~40 ~85 ~29 stonebrick 0 
+setblock ~40 ~85 ~33 stonebrick 2 
+setblock ~40 ~85 ~34 stonebrick 0 
+setblock ~41 ~85 ~30 stonebrick 2  
+fill ~22 ~86 ~28 ~22 ~93 ~28 vine 8 
+setblock ~22 ~86 ~30 stonebrick 2  
+fill ~22 ~86 ~31 ~22 ~94 ~31 glowstone 0 
+setblock ~22 ~86 ~32 stonebrick 2  
+fill ~23 ~86 ~26 ~23 ~93 ~26 vine 8  
+fill ~23 ~86 ~27 ~23 ~89 ~27 vine 8 
+setblock ~23 ~86 ~28 stonebrick 0  
+fill ~23 ~86 ~29 ~23 ~88 ~29 stonebrick 2  
+fill ~23 ~86 ~33 ~23 ~86 ~34 stonebrick 0  
+fill ~24 ~86 ~26 ~24 ~90 ~26 stonebrick 0  
+fill ~24 ~86 ~27 ~24 ~86 ~26 stonebrick 0 
+setblock ~24 ~86 ~35 stonebrick 2  
+fill ~24 ~86 ~36 ~24 ~87 ~36 stonebrick 0  
+fill ~25 ~86 ~25 ~25 ~94 ~25 diamond_block 0  
+fill ~25 ~86 ~37 ~25 ~94 ~37 diamond_block 0  
+fill ~26 ~86 ~23 ~27 ~86 ~23 vine 1 
+setblock ~26 ~86 ~24 stonebrick 1  
+fill ~26 ~86 ~25 ~26 ~87 ~25 vine 4  
+fill ~26 ~86 ~26 ~26 ~95 ~26 vine 1  
+fill ~26 ~86 ~38 ~27 ~86 ~38 stonebrick 0 
+setblock ~27 ~86 ~24 stonebrick 0  
+fill ~28 ~86 ~23 ~28 ~87 ~23 stonebrick 1  
+fill ~28 ~86 ~39 ~29 ~86 ~39 stonebrick 0  
+fill ~29 ~86 ~22 ~29 ~93 ~22 vine 1  
+fill ~29 ~86 ~23 ~29 ~87 ~23 stonebrick 0  
+fill ~29 ~86 ~30 ~29 ~88 ~30 glowstone 0  
+fill ~29 ~86 ~31 ~29 ~88 ~31 glowstone 0  
+fill ~29 ~86 ~32 ~29 ~88 ~32 glowstone 0  
+fill ~30 ~86 ~21 ~30 ~92 ~21 vine 1 
+setblock ~30 ~86 ~22 stonebrick 0  
+fill ~30 ~86 ~29 ~32 ~86 ~29 glowstone 0  
+fill ~30 ~86 ~33 ~32 ~86 ~33 glowstone 0 
+setblock ~30 ~86 ~40 stonebrick 0  
+fill ~31 ~86 ~22 ~31 ~94 ~22 glowstone 0  
+fill ~31 ~86 ~40 ~31 ~94 ~40 glowstone 0  
+fill ~32 ~86 ~21 ~32 ~92 ~21 vine 1 
+setblock ~32 ~86 ~22 stonebrick 2 
+setblock ~32 ~86 ~23 vine 4  
+fill ~32 ~86 ~24 ~32 ~94 ~24 vine 1 
+setblock ~32 ~86 ~40 stonebrick 1  
+fill ~33 ~86 ~22 ~33 ~92 ~22 vine 2 
+setblock ~33 ~86 ~23 stonebrick 0  
+fill ~33 ~86 ~30 ~33 ~88 ~30 glowstone 0  
+fill ~33 ~86 ~31 ~33 ~88 ~31 glowstone 0  
+fill ~33 ~86 ~32 ~33 ~88 ~32 glowstone 0  
+fill ~33 ~86 ~39 ~34 ~86 ~39 stonebrick 2  
+fill ~34 ~86 ~23 ~34 ~87 ~23 stonebrick 1  
+fill ~35 ~86 ~24 ~36 ~86 ~24 stonebrick 0  
+fill ~35 ~86 ~32 ~35 ~87 ~32 vine 2  
+fill ~35 ~86 ~38 ~35 ~87 ~38 stonebrick 2  
+fill ~36 ~86 ~23 ~36 ~93 ~23 vine 1 
+setblock ~36 ~86 ~38 stonebrick 1  
+fill ~37 ~86 ~25 ~37 ~94 ~25 diamond_block 0  
+fill ~37 ~86 ~37 ~37 ~94 ~37 diamond_block 0  
+fill ~38 ~86 ~25 ~38 ~88 ~25 vine 2 
+setblock ~38 ~86 ~26 stonebrick 1 
+setblock ~38 ~86 ~27 stonebrick 2  
+fill ~38 ~86 ~28 ~38 ~94 ~28 vine 8  
+fill ~38 ~86 ~35 ~38 ~86 ~36 stonebrick 1  
+fill ~39 ~86 ~26 ~39 ~91 ~26 vine 2  
+fill ~39 ~86 ~27 ~39 ~91 ~27 vine 3  
+fill ~39 ~86 ~28 ~39 ~86 ~29 stonebrick 0 
+setblock ~39 ~86 ~33 stonebrick 2 
+setblock ~39 ~86 ~34 stonebrick 0 
+setblock ~40 ~86 ~30 stonebrick 0  
+fill ~40 ~86 ~31 ~40 ~94 ~31 glowstone 0  
+fill ~40 ~86 ~32 ~40 ~89 ~32 stonebrick 0 
+setblock ~22 ~87 ~30 stonebrick 0  
+fill ~22 ~87 ~32 ~22 ~88 ~32 stonebrick 0 
+setblock ~23 ~87 ~28 stonebrick 1  
+fill ~23 ~87 ~33 ~23 ~87 ~34 stonebrick 2 
+setblock ~24 ~87 ~27 stonebrick 1  
+fill ~24 ~87 ~34 ~24 ~89 ~34 vine 1  
+fill ~24 ~87 ~35 ~24 ~92 ~35 stonebrick 0  
+fill ~26 ~87 ~23 ~27 ~87 ~23 vine 1  
+fill ~26 ~87 ~24 ~26 ~89 ~24 stonebrick 0  
+fill ~26 ~87 ~38 ~27 ~87 ~38 stonebrick 0 
+setblock ~27 ~87 ~24 stonebrick 2  
+fill ~28 ~87 ~30 ~28 ~89 ~30 glowstone 0  
+fill ~28 ~87 ~31 ~28 ~89 ~31 glowstone 0  
+fill ~28 ~87 ~32 ~28 ~89 ~32 glowstone 0  
+fill ~28 ~87 ~39 ~28 ~88 ~39 stonebrick 0  
+fill ~29 ~87 ~29 ~33 ~87 ~29 glowstone 0  
+fill ~29 ~87 ~33 ~33 ~87 ~33 glowstone 0  
+fill ~29 ~87 ~39 ~29 ~88 ~39 stonebrick 2 
+setblock ~30 ~87 ~22 stonebrick 2  
+fill ~30 ~87 ~28 ~32 ~87 ~28 glowstone 0  
+fill ~30 ~87 ~34 ~32 ~87 ~34 glowstone 0  
+fill ~30 ~87 ~40 ~30 ~88 ~40 stonebrick 1 
+setblock ~32 ~87 ~22 stonebrick 1 
+setblock ~32 ~87 ~40 stonebrick 2  
+fill ~33 ~87 ~23 ~33 ~89 ~23 stonebrick 1  
+fill ~33 ~87 ~39 ~34 ~87 ~39 stonebrick 0  
+fill ~34 ~87 ~30 ~34 ~89 ~30 glowstone 0  
+fill ~34 ~87 ~31 ~34 ~89 ~31 glowstone 0  
+fill ~34 ~87 ~32 ~34 ~89 ~32 glowstone 0 
+setblock ~35 ~87 ~24 stonebrick 2 
+setblock ~35 ~87 ~31 vine 2 
+setblock ~36 ~87 ~24 stonebrick 0 
+setblock ~36 ~87 ~38 stonebrick 0 
+setblock ~38 ~87 ~26 stonebrick 2  
+fill ~38 ~87 ~27 ~38 ~88 ~27 stonebrick 0 
+setblock ~38 ~87 ~35 stonebrick 2 
+setblock ~38 ~87 ~36 stonebrick 1 
+setblock ~39 ~87 ~28 stonebrick 2  
+fill ~39 ~87 ~29 ~39 ~89 ~29 stonebrick 0  
+fill ~39 ~87 ~33 ~39 ~89 ~33 stonebrick 0 
+setblock ~39 ~87 ~34 stonebrick 1 
+setblock ~40 ~87 ~30 stonebrick 2 
+setblock ~22 ~88 ~30 stonebrick 1 
+setblock ~23 ~88 ~28 stonebrick 2  
+fill ~23 ~88 ~33 ~23 ~90 ~33 stonebrick 0  
+fill ~23 ~88 ~34 ~23 ~89 ~34 stonebrick 0 
+setblock ~24 ~88 ~27 stonebrick 0 
+setblock ~24 ~88 ~36 stonebrick 1  
+fill ~26 ~88 ~23 ~27 ~88 ~23 vine 1 
+setblock ~26 ~88 ~38 stonebrick 1 
+setblock ~27 ~88 ~24 stonebrick 0  
+fill ~27 ~88 ~30 ~27 ~89 ~30 glowstone 0  
+fill ~27 ~88 ~31 ~27 ~89 ~31 glowstone 0  
+fill ~27 ~88 ~32 ~27 ~89 ~32 glowstone 0 
+setblock ~27 ~88 ~38 stonebrick 0 
+setblock ~28 ~88 ~23 stonebrick 2  
+fill ~28 ~88 ~29 ~34 ~88 ~29 glowstone 0  
+fill ~28 ~88 ~33 ~34 ~88 ~33 glowstone 0  
+fill ~28 ~88 ~38 ~28 ~89 ~38 vine 1 
+setblock ~29 ~88 ~23 stonebrick 1  
+fill ~29 ~88 ~28 ~33 ~88 ~28 glowstone 0  
+fill ~29 ~88 ~34 ~33 ~88 ~34 glowstone 0 
+setblock ~30 ~88 ~22 stonebrick 1  
+fill ~30 ~88 ~27 ~32 ~88 ~27 glowstone 0  
+fill ~30 ~88 ~35 ~32 ~88 ~35 glowstone 0  
+fill ~32 ~88 ~22 ~32 ~89 ~22 stonebrick 0  
+fill ~32 ~88 ~38 ~32 ~96 ~38 vine 4  
+fill ~32 ~88 ~40 ~32 ~92 ~40 stonebrick 0  
+fill ~33 ~88 ~39 ~34 ~88 ~39 stonebrick 0 
+setblock ~34 ~88 ~23 stonebrick 0 
+setblock ~35 ~88 ~24 stonebrick 0  
+fill ~35 ~88 ~30 ~35 ~89 ~30 glowstone 0  
+fill ~35 ~88 ~31 ~35 ~89 ~31 glowstone 0  
+fill ~35 ~88 ~32 ~35 ~89 ~32 glowstone 0 
+setblock ~35 ~88 ~33 vine 2  
+fill ~35 ~88 ~35 ~35 ~90 ~35 vine 2  
+fill ~35 ~88 ~38 ~35 ~89 ~38 stonebrick 0 
+setblock ~36 ~88 ~24 stonebrick 2 
+setblock ~36 ~88 ~38 stonebrick 1 
+setblock ~38 ~88 ~26 stonebrick 0  
+fill ~38 ~88 ~35 ~38 ~90 ~35 stonebrick 0  
+fill ~38 ~88 ~36 ~38 ~88 ~35 stonebrick 0 
+setblock ~39 ~88 ~28 stonebrick 0 
+setblock ~39 ~88 ~34 stonebrick 0  
+fill ~40 ~88 ~28 ~40 ~93 ~28 vine 2  
+fill ~40 ~88 ~30 ~40 ~92 ~30 stonebrick 0  
+fill ~22 ~89 ~30 ~22 ~91 ~30 stonebrick 0  
+fill ~22 ~89 ~32 ~22 ~91 ~32 stonebrick 2  
+fill ~23 ~89 ~28 ~23 ~91 ~28 stonebrick 0  
+fill ~23 ~89 ~29 ~23 ~92 ~29 stonebrick 0 
+setblock ~24 ~89 ~27 stonebrick 1 
+setblock ~24 ~89 ~36 stonebrick 0  
+fill ~25 ~89 ~30 ~25 ~89 ~32 vine 8  
+fill ~26 ~89 ~23 ~27 ~89 ~23 vine 1  
+fill ~26 ~89 ~30 ~26 ~91 ~30 glowstone 0  
+fill ~26 ~89 ~31 ~26 ~91 ~31 glowstone 0  
+fill ~26 ~89 ~32 ~26 ~91 ~32 glowstone 0  
+fill ~26 ~89 ~38 ~26 ~94 ~38 stonebrick 0 
+setblock ~27 ~89 ~24 stonebrick 1  
+fill ~27 ~89 ~29 ~29 ~89 ~29 glowstone 0  
+fill ~27 ~89 ~33 ~29 ~89 ~33 glowstone 0 
+setblock ~27 ~89 ~38 stonebrick 2  
+fill ~28 ~89 ~23 ~29 ~89 ~23 stonebrick 0  
+fill ~28 ~89 ~28 ~34 ~89 ~28 glowstone 0  
+fill ~28 ~89 ~34 ~34 ~89 ~34 glowstone 0  
+fill ~28 ~89 ~39 ~29 ~89 ~39 stonebrick 1  
+fill ~29 ~89 ~24 ~29 ~95 ~24 vine 1  
+fill ~29 ~89 ~27 ~33 ~89 ~27 glowstone 0  
+fill ~29 ~89 ~35 ~33 ~89 ~35 glowstone 0  
+fill ~30 ~89 ~22 ~30 ~91 ~22 stonebrick 0  
+fill ~30 ~89 ~26 ~32 ~89 ~26 glowstone 0  
+fill ~30 ~89 ~36 ~32 ~89 ~36 glowstone 0 
+setblock ~30 ~89 ~40 stonebrick 2  
+fill ~31 ~89 ~37 ~32 ~89 ~37 vine 4  
+fill ~31 ~89 ~38 ~31 ~96 ~38 vine 4  
+fill ~33 ~89 ~29 ~35 ~89 ~29 glowstone 0  
+fill ~33 ~89 ~33 ~35 ~89 ~33 glowstone 0  
+fill ~33 ~89 ~39 ~33 ~91 ~39 stonebrick 2 
+setblock ~34 ~89 ~23 stonebrick 2 
+setblock ~34 ~89 ~39 stonebrick 0  
+fill ~35 ~89 ~24 ~35 ~90 ~24 stonebrick 2 
+setblock ~35 ~89 ~34 vine 2 
+setblock ~36 ~89 ~24 stonebrick 0  
+fill ~36 ~89 ~30 ~36 ~91 ~30 glowstone 0  
+fill ~36 ~89 ~31 ~36 ~91 ~31 glowstone 0  
+fill ~36 ~89 ~32 ~36 ~91 ~32 glowstone 0  
+fill ~36 ~89 ~38 ~36 ~90 ~38 stonebrick 0 
+setblock ~38 ~89 ~26 stonebrick 1 
+setblock ~38 ~89 ~27 stonebrick 2 
+setblock ~38 ~89 ~36 stonebrick 1  
+fill ~39 ~89 ~28 ~39 ~91 ~28 stonebrick 2  
+fill ~39 ~89 ~34 ~39 ~90 ~34 stonebrick 2 
+setblock ~23 ~90 ~34 stonebrick 2 
+setblock ~24 ~90 ~27 stonebrick 2  
+fill ~24 ~90 ~30 ~24 ~95 ~30 vine 8 
+setblock ~24 ~90 ~36 stonebrick 1 
+setblock ~25 ~90 ~32 vine 8  
+fill ~26 ~90 ~23 ~27 ~90 ~23 vine 1  
+fill ~26 ~90 ~24 ~27 ~90 ~24 stonebrick 2  
+fill ~26 ~90 ~29 ~27 ~90 ~29 glowstone 0  
+fill ~27 ~90 ~28 ~28 ~90 ~28 glowstone 0  
+fill ~27 ~90 ~33 ~27 ~89 ~33 glowstone 0  
+fill ~27 ~90 ~34 ~28 ~90 ~34 glowstone 0  
+fill ~27 ~90 ~38 ~27 ~93 ~38 stonebrick 1  
+fill ~28 ~90 ~23 ~29 ~90 ~23 stonebrick 0  
+fill ~28 ~90 ~27 ~29 ~90 ~27 glowstone 0  
+fill ~28 ~90 ~35 ~29 ~90 ~35 glowstone 0  
+fill ~28 ~90 ~37 ~28 ~95 ~37 vine 8  
+fill ~28 ~90 ~39 ~28 ~91 ~39 stonebrick 2  
+fill ~29 ~90 ~26 ~32 ~90 ~26 glowstone 0  
+fill ~29 ~90 ~31 ~31 ~90 ~31 glowstone 0 
+setblock ~29 ~90 ~39 stonebrick 0  
+fill ~30 ~90 ~30 ~32 ~90 ~30 glowstone 0  
+fill ~30 ~90 ~32 ~32 ~90 ~32 glowstone 0  
+fill ~30 ~90 ~36 ~32 ~90 ~36 glowstone 0  
+fill ~30 ~90 ~40 ~30 ~91 ~40 stonebrick 1 
+setblock ~31 ~90 ~29 glowstone 0 
+setblock ~31 ~90 ~33 glowstone 0  
+fill ~31 ~90 ~37 ~32 ~90 ~37 vine 4 
+setblock ~32 ~90 ~22 stonebrick 2 
+setblock ~33 ~90 ~23 stonebrick 0  
+fill ~33 ~90 ~27 ~34 ~90 ~27 glowstone 0 
+setblock ~33 ~90 ~31 glowstone 0  
+fill ~33 ~90 ~35 ~34 ~90 ~35 glowstone 0 
+setblock ~34 ~90 ~23 stonebrick 1  
+fill ~34 ~90 ~28 ~35 ~90 ~28 glowstone 0  
+fill ~34 ~90 ~34 ~35 ~90 ~34 glowstone 0 
+setblock ~34 ~90 ~39 stonebrick 1 
+setblock ~35 ~90 ~29 glowstone 0 
+setblock ~35 ~90 ~33 glowstone 0  
+fill ~35 ~90 ~38 ~35 ~91 ~38 stonebrick 2 
+setblock ~36 ~90 ~24 stonebrick 1 
+setblock ~37 ~90 ~26 vine 8  
+fill ~38 ~90 ~26 ~38 ~90 ~27 stonebrick 0  
+fill ~38 ~90 ~30 ~38 ~95 ~30 vine 2  
+fill ~38 ~90 ~36 ~38 ~92 ~36 stonebrick 2 
+setblock ~39 ~90 ~29 stonebrick 1 
+setblock ~39 ~90 ~33 stonebrick 2  
+fill ~40 ~90 ~32 ~40 ~92 ~32 stonebrick 2 
+setblock ~23 ~91 ~33 stonebrick 1 
+setblock ~23 ~91 ~34 stonebrick 0 
+setblock ~24 ~91 ~26 stonebrick 2  
+fill ~24 ~91 ~27 ~24 ~94 ~27 stonebrick 0  
+fill ~24 ~91 ~31 ~24 ~95 ~31 vine 8  
+fill ~24 ~91 ~32 ~24 ~96 ~32 vine 8  
+fill ~24 ~91 ~33 ~24 ~96 ~33 vine 8  
+fill ~24 ~91 ~36 ~24 ~93 ~36 stonebrick 2  
+fill ~25 ~91 ~30 ~25 ~97 ~30 glowstone 0  
+fill ~25 ~91 ~31 ~25 ~97 ~31 glowstone 0  
+fill ~25 ~91 ~32 ~25 ~97 ~32 glowstone 0 
+setblock ~25 ~91 ~33 vine 4  
+fill ~26 ~91 ~23 ~27 ~91 ~23 vine 1 
+setblock ~26 ~91 ~24 stonebrick 0  
+fill ~26 ~91 ~29 ~26 ~92 ~29 glowstone 0  
+fill ~26 ~91 ~33 ~26 ~92 ~33 glowstone 0  
+fill ~27 ~91 ~24 ~27 ~92 ~24 stonebrick 2  
+fill ~27 ~91 ~27 ~28 ~91 ~27 glowstone 0  
+fill ~27 ~91 ~28 ~27 ~90 ~28 glowstone 0  
+fill ~27 ~91 ~34 ~27 ~90 ~34 glowstone 0  
+fill ~27 ~91 ~35 ~28 ~91 ~35 glowstone 0 
+setblock ~28 ~91 ~23 stonebrick 2  
+fill ~28 ~91 ~30 ~29 ~91 ~30 glowstone 0  
+fill ~28 ~91 ~31 ~28 ~91 ~32 glowstone 0 
+setblock ~29 ~91 ~23 stonebrick 0  
+fill ~29 ~91 ~26 ~33 ~91 ~26 glowstone 0  
+fill ~29 ~91 ~29 ~30 ~91 ~29 glowstone 0  
+fill ~29 ~91 ~32 ~29 ~91 ~33 glowstone 0  
+fill ~29 ~91 ~36 ~33 ~91 ~36 glowstone 0 
+setblock ~29 ~91 ~39 stonebrick 2  
+fill ~30 ~91 ~25 ~32 ~91 ~25 glowstone 0  
+fill ~30 ~91 ~28 ~32 ~91 ~28 glowstone 0  
+fill ~30 ~91 ~33 ~30 ~91 ~34 glowstone 0  
+fill ~30 ~91 ~37 ~32 ~91 ~37 glowstone 0 
+setblock ~31 ~91 ~31 daylight_detector 0  
+fill ~31 ~91 ~34 ~32 ~91 ~34 glowstone 0  
+fill ~32 ~91 ~22 ~32 ~92 ~22 stonebrick 0  
+fill ~32 ~91 ~29 ~33 ~91 ~29 glowstone 0 
+setblock ~32 ~91 ~31 unpowered_repeater 1  
+fill ~32 ~91 ~33 ~33 ~91 ~33 glowstone 0 
+setblock ~33 ~91 ~23 stonebrick 2  
+fill ~33 ~91 ~30 ~34 ~91 ~30 glowstone 0  
+fill ~33 ~91 ~32 ~34 ~91 ~32 glowstone 0 
+setblock ~34 ~91 ~23 stonebrick 0  
+fill ~34 ~91 ~27 ~35 ~91 ~27 glowstone 0 
+setblock ~34 ~91 ~31 glowstone 0  
+fill ~34 ~91 ~35 ~35 ~91 ~35 glowstone 0  
+fill ~34 ~91 ~39 ~34 ~93 ~39 stonebrick 0  
+fill ~35 ~91 ~24 ~36 ~91 ~24 stonebrick 0 
+setblock ~35 ~91 ~28 glowstone 0 
+setblock ~35 ~91 ~34 glowstone 0  
+fill ~36 ~91 ~29 ~36 ~92 ~29 glowstone 0  
+fill ~36 ~91 ~33 ~36 ~92 ~33 glowstone 0 
+setblock ~36 ~91 ~38 stonebrick 2  
+fill ~37 ~91 ~30 ~37 ~97 ~30 glowstone 0  
+fill ~37 ~91 ~31 ~37 ~97 ~31 glowstone 0  
+fill ~37 ~91 ~32 ~37 ~97 ~32 glowstone 0  
+fill ~38 ~91 ~26 ~38 ~92 ~26 stonebrick 1  
+fill ~38 ~91 ~27 ~38 ~92 ~27 stonebrick 0  
+fill ~38 ~91 ~31 ~38 ~96 ~31 vine 2  
+fill ~38 ~91 ~32 ~38 ~96 ~32 vine 2  
+fill ~38 ~91 ~35 ~38 ~92 ~35 stonebrick 1  
+fill ~39 ~91 ~29 ~39 ~94 ~29 stonebrick 0  
+fill ~39 ~91 ~33 ~39 ~93 ~33 stonebrick 0 
+setblock ~39 ~91 ~34 stonebrick 1  
+fill ~22 ~92 ~30 ~22 ~94 ~30 stonebrick 1 
+setblock ~22 ~92 ~32 stonebrick 1 
+setblock ~23 ~92 ~28 stonebrick 2 
+setblock ~23 ~92 ~33 stonebrick 0 
+setblock ~23 ~92 ~34 stonebrick 2 
+setblock ~24 ~92 ~26 stonebrick 0  
+fill ~25 ~92 ~29 ~25 ~96 ~29 glowstone 0  
+fill ~25 ~92 ~33 ~25 ~96 ~33 glowstone 0  
+fill ~25 ~92 ~34 ~25 ~94 ~34 vine 8  
+fill ~25 ~92 ~35 ~25 ~93 ~35 vine 8  
+fill ~26 ~92 ~23 ~27 ~92 ~23 vine 1 
+setblock ~26 ~92 ~24 stonebrick 1  
+fill ~26 ~92 ~28 ~26 ~96 ~28 glowstone 0  
+fill ~26 ~92 ~34 ~26 ~96 ~34 glowstone 0  
+fill ~27 ~92 ~27 ~27 ~91 ~27 glowstone 0  
+fill ~27 ~92 ~31 ~27 ~96 ~31 glowstone 0  
+fill ~27 ~92 ~35 ~27 ~91 ~35 glowstone 0  
+fill ~28 ~92 ~23 ~29 ~92 ~23 stonebrick 1  
+fill ~28 ~92 ~26 ~29 ~92 ~26 glowstone 0  
+fill ~28 ~92 ~29 ~28 ~93 ~29 glowstone 0  
+fill ~28 ~92 ~30 ~28 ~91 ~30 glowstone 0  
+fill ~28 ~92 ~32 ~28 ~92 ~33 glowstone 0  
+fill ~28 ~92 ~36 ~29 ~92 ~36 glowstone 0 
+setblock ~28 ~92 ~39 stonebrick 1  
+fill ~29 ~92 ~25 ~33 ~92 ~25 glowstone 0  
+fill ~29 ~92 ~28 ~30 ~92 ~28 glowstone 0  
+fill ~29 ~92 ~34 ~30 ~92 ~34 glowstone 0  
+fill ~29 ~92 ~37 ~33 ~92 ~37 glowstone 0  
+fill ~29 ~92 ~39 ~29 ~94 ~39 stonebrick 0  
+fill ~30 ~92 ~22 ~30 ~94 ~22 stonebrick 2 
+setblock ~30 ~92 ~40 stonebrick 0  
+fill ~31 ~92 ~27 ~31 ~96 ~27 glowstone 0  
+fill ~31 ~92 ~35 ~31 ~96 ~35 glowstone 0  
+fill ~32 ~92 ~28 ~33 ~92 ~28 glowstone 0  
+fill ~32 ~92 ~34 ~33 ~92 ~34 glowstone 0 
+setblock ~33 ~92 ~23 stonebrick 0  
+fill ~33 ~92 ~26 ~34 ~92 ~26 glowstone 0 
+setblock ~33 ~92 ~31 redstone_torch 5 
+setblock ~33 ~92 ~32 command_block 1  
+fill ~33 ~92 ~36 ~34 ~92 ~36 glowstone 0 
+setblock ~33 ~92 ~39 stonebrick 0 
+setblock ~34 ~92 ~23 stonebrick 1  
+fill ~34 ~92 ~29 ~34 ~93 ~29 glowstone 0  
+fill ~34 ~92 ~30 ~34 ~92 ~29 glowstone 0  
+fill ~34 ~92 ~32 ~34 ~92 ~33 glowstone 0 
+setblock ~35 ~92 ~24 stonebrick 2 
+setblock ~35 ~92 ~27 glowstone 0  
+fill ~35 ~92 ~31 ~35 ~96 ~31 glowstone 0 
+setblock ~35 ~92 ~35 glowstone 0  
+fill ~35 ~92 ~38 ~36 ~92 ~38 stonebrick 1  
+fill ~36 ~92 ~24 ~36 ~93 ~24 stonebrick 0  
+fill ~36 ~92 ~28 ~36 ~96 ~28 glowstone 0  
+fill ~36 ~92 ~34 ~36 ~96 ~34 glowstone 0  
+fill ~37 ~92 ~29 ~37 ~96 ~29 glowstone 0  
+fill ~37 ~92 ~33 ~37 ~96 ~33 glowstone 0  
+fill ~38 ~92 ~29 ~38 ~95 ~29 vine 2  
+fill ~39 ~92 ~27 ~39 ~94 ~27 vine 1  
+fill ~39 ~92 ~28 ~39 ~93 ~28 stonebrick 0 
+setblock ~39 ~92 ~34 stonebrick 0 
+setblock ~22 ~93 ~32 stonebrick 0  
+fill ~23 ~93 ~28 ~23 ~93 ~29 stonebrick 1  
+fill ~23 ~93 ~33 ~23 ~94 ~33 stonebrick 2  
+fill ~23 ~93 ~34 ~23 ~94 ~34 stonebrick 1 
+setblock ~24 ~93 ~26 stonebrick 1 
+setblock ~24 ~93 ~35 stonebrick 1  
+fill ~26 ~93 ~23 ~26 ~94 ~23 vine 1  
+fill ~26 ~93 ~24 ~27 ~93 ~24 stonebrick 0  
+fill ~26 ~93 ~27 ~26 ~95 ~27 glowstone 0  
+fill ~26 ~93 ~35 ~26 ~95 ~35 glowstone 0  
+fill ~27 ~93 ~26 ~28 ~93 ~26 glowstone 0  
+fill ~27 ~93 ~30 ~27 ~95 ~30 glowstone 0  
+fill ~27 ~93 ~32 ~27 ~95 ~32 glowstone 0  
+fill ~27 ~93 ~36 ~28 ~93 ~36 glowstone 0  
+fill ~28 ~93 ~23 ~28 ~92 ~23 stonebrick 1  
+fill ~28 ~93 ~28 ~29 ~93 ~28 glowstone 0  
+fill ~28 ~93 ~33 ~28 ~93 ~34 glowstone 0 
+setblock ~28 ~93 ~39 stonebrick 0 
+setblock ~29 ~93 ~23 stonebrick 2  
+fill ~29 ~93 ~25 ~33 ~93 ~25 glowstone 0  
+fill ~29 ~93 ~34 ~29 ~92 ~34 glowstone 0  
+fill ~29 ~93 ~37 ~33 ~93 ~37 glowstone 0  
+fill ~30 ~93 ~27 ~30 ~95 ~27 glowstone 0  
+fill ~30 ~93 ~35 ~30 ~95 ~35 glowstone 0 
+setblock ~30 ~93 ~40 stonebrick 2 
+setblock ~32 ~93 ~22 stonebrick 1  
+fill ~32 ~93 ~27 ~32 ~95 ~27 glowstone 0  
+fill ~32 ~93 ~35 ~32 ~95 ~35 glowstone 0  
+fill ~32 ~93 ~40 ~32 ~94 ~40 stonebrick 1 
+setblock ~33 ~93 ~23 stonebrick 1  
+fill ~33 ~93 ~28 ~34 ~93 ~28 glowstone 0  
+fill ~33 ~93 ~34 ~34 ~93 ~34 glowstone 0 
+setblock ~33 ~93 ~39 stonebrick 1  
+fill ~34 ~93 ~23 ~34 ~94 ~23 stonebrick 2  
+fill ~34 ~93 ~26 ~35 ~93 ~26 glowstone 0 
+setblock ~34 ~93 ~33 glowstone 0  
+fill ~34 ~93 ~36 ~35 ~93 ~36 glowstone 0 
+setblock ~35 ~93 ~24 stonebrick 0  
+fill ~35 ~93 ~30 ~35 ~95 ~30 glowstone 0  
+fill ~35 ~93 ~32 ~35 ~95 ~32 glowstone 0  
+fill ~35 ~93 ~38 ~36 ~93 ~38 stonebrick 0  
+fill ~36 ~93 ~27 ~36 ~95 ~27 glowstone 0  
+fill ~36 ~93 ~35 ~36 ~95 ~35 glowstone 0  
+fill ~38 ~93 ~26 ~38 ~94 ~26 stonebrick 2  
+fill ~38 ~93 ~27 ~38 ~94 ~27 stonebrick 1  
+fill ~38 ~93 ~35 ~38 ~94 ~35 stonebrick 0  
+fill ~38 ~93 ~36 ~38 ~94 ~36 stonebrick 0 
+setblock ~39 ~93 ~34 stonebrick 2 
+setblock ~40 ~93 ~30 stonebrick 2  
+fill ~40 ~93 ~32 ~40 ~94 ~32 stonebrick 1 
+setblock ~22 ~94 ~32 stonebrick 1 
+setblock ~23 ~94 ~28 stonebrick 0 
+setblock ~23 ~94 ~29 stonebrick 1 
+setblock ~24 ~94 ~26 stonebrick 0  
+fill ~24 ~94 ~35 ~24 ~94 ~36 stonebrick 0  
+fill ~26 ~94 ~24 ~27 ~94 ~24 stonebrick 2  
+fill ~27 ~94 ~26 ~28 ~94 ~26 glowstone 0 
+setblock ~27 ~94 ~29 glowstone 0 
+setblock ~27 ~94 ~33 glowstone 0  
+fill ~27 ~94 ~36 ~28 ~94 ~36 glowstone 0 
+setblock ~27 ~94 ~38 stonebrick 0 
+setblock ~28 ~94 ~23 stonebrick 0  
+fill ~28 ~94 ~28 ~28 ~95 ~28 glowstone 0  
+fill ~28 ~94 ~34 ~28 ~95 ~34 glowstone 0 
+setblock ~28 ~94 ~39 stonebrick 2 
+setblock ~29 ~94 ~23 stonebrick 1  
+fill ~29 ~94 ~25 ~33 ~94 ~25 glowstone 0 
+setblock ~29 ~94 ~27 glowstone 0 
+setblock ~29 ~94 ~35 glowstone 0  
+fill ~29 ~94 ~37 ~33 ~94 ~37 glowstone 0 
+setblock ~30 ~94 ~40 stonebrick 1 
+setblock ~32 ~94 ~22 stonebrick 0 
+setblock ~33 ~94 ~23 stonebrick 2 
+setblock ~33 ~94 ~27 glowstone 0 
+setblock ~33 ~94 ~35 glowstone 0  
+fill ~33 ~94 ~39 ~34 ~94 ~39 stonebrick 2  
+fill ~34 ~94 ~26 ~35 ~94 ~26 glowstone 0  
+fill ~34 ~94 ~28 ~34 ~95 ~28 glowstone 0  
+fill ~34 ~94 ~34 ~34 ~95 ~34 glowstone 0  
+fill ~34 ~94 ~36 ~35 ~94 ~36 glowstone 0  
+fill ~35 ~94 ~24 ~36 ~94 ~24 stonebrick 1 
+setblock ~35 ~94 ~29 glowstone 0 
+setblock ~35 ~94 ~33 glowstone 0  
+fill ~35 ~94 ~38 ~36 ~94 ~38 stonebrick 0 
+setblock ~39 ~94 ~28 stonebrick 2  
+fill ~39 ~94 ~33 ~39 ~94 ~34 stonebrick 1 
+setblock ~40 ~94 ~30 stonebrick 0  
+fill ~22 ~95 ~30 ~22 ~95 ~32 gold_block 0  
+fill ~23 ~95 ~28 ~23 ~95 ~29 gold_block 0  
+fill ~23 ~95 ~33 ~23 ~95 ~34 gold_block 0  
+fill ~24 ~95 ~26 ~24 ~95 ~27 gold_block 0  
+fill ~24 ~95 ~35 ~24 ~95 ~36 gold_block 0 
+setblock ~25 ~95 ~25 gold_block 0 
+setblock ~25 ~95 ~37 gold_block 0  
+fill ~26 ~95 ~24 ~27 ~95 ~24 gold_block 0  
+fill ~26 ~95 ~38 ~27 ~95 ~38 gold_block 0  
+fill ~27 ~95 ~26 ~28 ~95 ~26 glowstone 0  
+fill ~27 ~95 ~36 ~28 ~95 ~36 glowstone 0  
+fill ~28 ~95 ~23 ~29 ~95 ~23 gold_block 0  
+fill ~28 ~95 ~29 ~28 ~96 ~29 glowstone 0  
+fill ~28 ~95 ~33 ~28 ~96 ~33 glowstone 0  
+fill ~28 ~95 ~39 ~29 ~95 ~39 gold_block 0  
+fill ~29 ~95 ~25 ~33 ~95 ~25 glowstone 0  
+fill ~29 ~95 ~28 ~29 ~96 ~28 glowstone 0  
+fill ~29 ~95 ~34 ~29 ~96 ~34 glowstone 0  
+fill ~29 ~95 ~37 ~33 ~95 ~37 glowstone 0  
+fill ~30 ~95 ~22 ~32 ~95 ~22 gold_block 0  
+fill ~30 ~95 ~40 ~32 ~95 ~40 gold_block 0  
+fill ~33 ~95 ~23 ~34 ~95 ~23 gold_block 0  
+fill ~33 ~95 ~28 ~33 ~96 ~28 glowstone 0  
+fill ~33 ~95 ~34 ~33 ~96 ~34 glowstone 0  
+fill ~33 ~95 ~39 ~34 ~95 ~39 gold_block 0  
+fill ~34 ~95 ~26 ~35 ~95 ~26 glowstone 0  
+fill ~34 ~95 ~29 ~34 ~96 ~29 glowstone 0  
+fill ~34 ~95 ~33 ~34 ~96 ~33 glowstone 0  
+fill ~34 ~95 ~36 ~35 ~95 ~36 glowstone 0  
+fill ~35 ~95 ~24 ~36 ~95 ~24 gold_block 0  
+fill ~35 ~95 ~38 ~36 ~95 ~38 gold_block 0 
+setblock ~37 ~95 ~25 gold_block 0 
+setblock ~37 ~95 ~37 gold_block 0  
+fill ~38 ~95 ~26 ~38 ~95 ~27 gold_block 0  
+fill ~38 ~95 ~35 ~38 ~95 ~36 gold_block 0  
+fill ~39 ~95 ~28 ~39 ~95 ~29 gold_block 0  
+fill ~39 ~95 ~33 ~39 ~95 ~34 gold_block 0  
+fill ~40 ~95 ~30 ~40 ~95 ~32 gold_block 0  
+fill ~26 ~96 ~29 ~26 ~97 ~29 glowstone 0  
+fill ~26 ~96 ~33 ~26 ~97 ~33 glowstone 0  
+fill ~27 ~96 ~27 ~27 ~97 ~27 glowstone 0  
+fill ~27 ~96 ~35 ~27 ~97 ~35 glowstone 0 
+setblock ~27 ~96 ~36 vine 8  
+fill ~28 ~96 ~26 ~29 ~96 ~26 glowstone 0 
+setblock ~28 ~96 ~30 glowstone 0 
+setblock ~28 ~96 ~32 glowstone 0  
+fill ~28 ~96 ~36 ~29 ~96 ~36 glowstone 0  
+fill ~29 ~96 ~25 ~33 ~96 ~25 glowstone 0  
+fill ~29 ~96 ~37 ~33 ~96 ~37 glowstone 0 
+setblock ~30 ~96 ~28 glowstone 0 
+setblock ~30 ~96 ~34 glowstone 0 
+setblock ~32 ~96 ~28 glowstone 0 
+setblock ~32 ~96 ~34 glowstone 0  
+fill ~33 ~96 ~26 ~34 ~96 ~26 glowstone 0  
+fill ~33 ~96 ~36 ~34 ~96 ~36 glowstone 0 
+setblock ~34 ~96 ~30 glowstone 0 
+setblock ~34 ~96 ~32 glowstone 0  
+fill ~35 ~96 ~27 ~35 ~97 ~27 glowstone 0  
+fill ~35 ~96 ~35 ~35 ~97 ~35 glowstone 0  
+fill ~36 ~96 ~29 ~36 ~97 ~29 glowstone 0  
+fill ~36 ~96 ~33 ~36 ~97 ~33 glowstone 0 
+setblock ~36 ~96 ~35 vine 4 
+setblock ~26 ~97 ~28 vine 8  
+fill ~26 ~97 ~30 ~26 ~99 ~30 glowstone 0  
+fill ~26 ~97 ~31 ~26 ~99 ~31 glowstone 0  
+fill ~26 ~97 ~32 ~26 ~99 ~32 glowstone 0  
+fill ~27 ~97 ~28 ~27 ~98 ~28 glowstone 0  
+fill ~27 ~97 ~34 ~27 ~98 ~34 glowstone 0 
+setblock ~28 ~97 ~26 vine 8  
+fill ~28 ~97 ~27 ~28 ~98 ~27 glowstone 0  
+fill ~28 ~97 ~35 ~28 ~98 ~35 glowstone 0 
+setblock ~29 ~97 ~25 vine 1  
+fill ~29 ~97 ~26 ~33 ~97 ~26 glowstone 0  
+fill ~29 ~97 ~36 ~33 ~97 ~36 glowstone 0  
+fill ~30 ~97 ~25 ~32 ~97 ~25 glowstone 0  
+fill ~30 ~97 ~37 ~32 ~97 ~37 glowstone 0  
+fill ~34 ~97 ~26 ~34 ~98 ~26 vine 1  
+fill ~34 ~97 ~27 ~34 ~98 ~27 glowstone 0  
+fill ~34 ~97 ~35 ~34 ~98 ~35 glowstone 0  
+fill ~35 ~97 ~28 ~35 ~98 ~28 glowstone 0  
+fill ~35 ~97 ~34 ~35 ~98 ~34 glowstone 0 
+setblock ~36 ~97 ~28 vine 1  
+fill ~36 ~97 ~30 ~36 ~99 ~30 glowstone 0  
+fill ~36 ~97 ~31 ~36 ~99 ~31 glowstone 0  
+fill ~36 ~97 ~32 ~36 ~99 ~32 glowstone 0  
+fill ~26 ~98 ~29 ~26 ~99 ~29 vine 1  
+fill ~27 ~98 ~29 ~27 ~99 ~29 glowstone 0  
+fill ~27 ~98 ~33 ~27 ~99 ~33 glowstone 0  
+fill ~28 ~98 ~28 ~28 ~99 ~28 glowstone 0  
+fill ~28 ~98 ~34 ~28 ~99 ~34 glowstone 0 
+setblock ~29 ~98 ~26 vine 9  
+fill ~29 ~98 ~27 ~29 ~99 ~27 glowstone 0  
+fill ~29 ~98 ~35 ~29 ~99 ~35 glowstone 0  
+fill ~30 ~98 ~26 ~32 ~98 ~26 glowstone 0  
+fill ~30 ~98 ~36 ~32 ~98 ~36 glowstone 0  
+fill ~31 ~98 ~25 ~31 ~99 ~25 vine 1 
+setblock ~33 ~98 ~26 vine 1  
+fill ~33 ~98 ~27 ~33 ~99 ~27 glowstone 0  
+fill ~33 ~98 ~35 ~33 ~99 ~35 glowstone 0  
+fill ~34 ~98 ~28 ~34 ~99 ~28 glowstone 0  
+fill ~34 ~98 ~34 ~34 ~99 ~34 glowstone 0  
+fill ~35 ~98 ~29 ~35 ~99 ~29 glowstone 0  
+fill ~35 ~98 ~33 ~35 ~99 ~33 glowstone 0 
+setblock ~36 ~98 ~29 vine 2  
+fill ~36 ~98 ~33 ~36 ~99 ~33 vine 4  
+fill ~37 ~98 ~31 ~37 ~99 ~31 vine 2  
+fill ~37 ~98 ~32 ~37 ~99 ~32 vine 2  
+fill ~27 ~99 ~30 ~28 ~99 ~30 glowstone 0  
+fill ~27 ~99 ~31 ~28 ~99 ~31 glowstone 0  
+fill ~27 ~99 ~32 ~28 ~99 ~32 glowstone 0  
+fill ~28 ~99 ~29 ~29 ~99 ~29 glowstone 0  
+fill ~28 ~99 ~33 ~29 ~99 ~33 glowstone 0 
+setblock ~29 ~99 ~26 vine 8  
+fill ~29 ~99 ~28 ~34 ~99 ~28 glowstone 0  
+fill ~29 ~99 ~34 ~34 ~99 ~34 glowstone 0  
+fill ~30 ~99 ~26 ~32 ~99 ~26 glowstone 0  
+fill ~30 ~99 ~27 ~33 ~99 ~27 glowstone 0  
+fill ~30 ~99 ~35 ~33 ~99 ~35 glowstone 0  
+fill ~30 ~99 ~36 ~32 ~99 ~36 glowstone 0  
+fill ~33 ~99 ~29 ~35 ~99 ~29 glowstone 0  
+fill ~33 ~99 ~33 ~35 ~99 ~33 glowstone 0  
+fill ~34 ~99 ~30 ~36 ~99 ~30 glowstone 0  
+fill ~34 ~99 ~31 ~36 ~99 ~31 glowstone 0  
+fill ~34 ~99 ~32 ~36 ~99 ~32 glowstone 0  
+fill ~26 ~100 ~30 ~26 ~100 ~32 vine 8  
+fill ~27 ~100 ~30 ~35 ~100 ~30 glowstone 0  
+fill ~27 ~100 ~31 ~30 ~100 ~31 glowstone 0  
+fill ~27 ~100 ~32 ~35 ~100 ~32 glowstone 0 
+setblock ~27 ~100 ~33 vine 4  
+fill ~28 ~100 ~29 ~34 ~100 ~29 glowstone 0  
+fill ~28 ~100 ~33 ~34 ~100 ~33 glowstone 0  
+fill ~29 ~100 ~28 ~33 ~100 ~28 glowstone 0  
+fill ~29 ~100 ~34 ~33 ~100 ~34 glowstone 0  
+fill ~30 ~100 ~26 ~32 ~100 ~26 vine 1  
+fill ~30 ~100 ~27 ~32 ~100 ~27 glowstone 0   
+fill ~30 ~100 ~35 ~32 ~100 ~35 glowstone 0  
+fill ~32 ~100 ~31 ~35 ~100 ~31 glowstone 0  
+fill ~28 ~101 ~30 ~34 ~101 ~30 glowstone 0  
+fill ~28 ~101 ~31 ~30 ~101 ~31 glowstone 0  
+fill ~28 ~101 ~32 ~34 ~101 ~32 glowstone 0  
+fill ~29 ~101 ~29 ~33 ~101 ~29 glowstone 0  
+fill ~29 ~101 ~33 ~33 ~101 ~33 glowstone 0  
+fill ~30 ~101 ~28 ~32 ~101 ~28 glowstone 0  
+fill ~30 ~101 ~34 ~32 ~101 ~34 glowstone 0  
+fill ~32 ~101 ~31 ~34 ~101 ~31 glowstone 0  
+fill ~35 ~101 ~31 ~35 ~101 ~32 vine 2  
+fill ~29 ~102 ~30 ~33 ~102 ~30 glowstone 0  
+fill ~29 ~102 ~31 ~30 ~102 ~31 glowstone 0  
+fill ~29 ~102 ~32 ~33 ~102 ~32 glowstone 0  
+fill ~30 ~102 ~29 ~32 ~102 ~29 glowstone 0  
+fill ~30 ~102 ~33 ~32 ~102 ~33 glowstone 0  
+fill ~30 ~102 ~34 ~31 ~102 ~34 vine 4  
+fill ~32 ~102 ~31 ~33 ~102 ~31 glowstone 0  
+fill ~34 ~102 ~31 ~34 ~102 ~32 vine 2  
+fill ~30 ~103 ~30 ~32 ~103 ~30 glowstone 0  
+fill ~30 ~103 ~31 ~30 ~104 ~31 glowstone 0  
+fill ~30 ~103 ~32 ~32 ~103 ~32 glowstone 0  
+fill ~31 ~103 ~33 ~32 ~103 ~33 vine 4  
+fill ~32 ~103 ~31 ~32 ~104 ~31 glowstone 0 
+setblock ~33 ~103 ~32 vine 2  
+fill ~31 ~104 ~30 ~31 ~104 ~32 glowstone 0 
+setblock ~31 ~105 ~31 glowstone 0    

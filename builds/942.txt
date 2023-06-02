@@ -1,0 +1,2695 @@
+fill ~ ~21 ~-56 ~ ~21 ~-61 minecraft:stained_hardened_clay 4
+fill ~ ~22 ~-55 ~ ~23 ~-55 minecraft:stained_hardened_clay 4
+fill ~ ~22 ~-56 ~ ~23 ~-56 minecraft:log 6
+fill ~ ~22 ~-57 ~ ~23 ~-60 minecraft:planks 2
+setblock ~ ~22 ~-61 minecraft:orange_glazed_terracotta
+fill ~ ~22 ~-62 ~ ~22 ~-63 minecraft:stained_hardened_clay 4
+setblock ~ ~23 ~-61 minecraft:planks 2
+setblock ~ ~23 ~-62 minecraft:log 6
+setblock ~ ~23 ~-63 minecraft:stained_hardened_clay 4
+fill ~ ~23 ~-81 ~ ~24 ~-82 minecraft:stained_hardened_clay 4
+setblock ~ ~23 ~-83 minecraft:stained_hardened_clay 4
+setblock ~ ~23 ~-84 minecraft:log 6
+fill ~ ~23 ~-85 ~ ~25 ~-85 minecraft:planks 2
+setblock ~ ~23 ~-86 minecraft:log 6
+fill ~ ~23 ~-87 ~ ~24 ~-87 minecraft:planks 2
+fill ~ ~23 ~-88 ~ ~23 ~-89 minecraft:log 6
+setblock ~ ~23 ~-90 minecraft:sponge
+setblock ~ ~24 ~-57 minecraft:log 6
+fill ~ ~24 ~-58 ~ ~54 ~-58 minecraft:planks 2
+fill ~ ~24 ~-59 ~ ~37 ~-59 minecraft:planks 2
+setblock ~ ~24 ~-60 minecraft:planks 2
+setblock ~ ~24 ~-61 minecraft:log 6
+setblock ~ ~24 ~-80 minecraft:stained_hardened_clay 4
+fill ~ ~24 ~-83 ~ ~34 ~-84 minecraft:planks 2
+fill ~ ~24 ~-86 ~ ~25 ~-86 minecraft:planks 2
+fill ~ ~24 ~-88 ~ ~24 ~-89 minecraft:planks 2
+fill ~ ~25 ~-55 ~ ~25 ~-56 minecraft:stained_hardened_clay 4
+fill ~ ~25 ~-57 ~ ~58 ~-57 minecraft:planks 2
+setblock ~ ~25 ~-60 minecraft:sponge
+fill ~ ~25 ~-81 ~ ~27 ~-81 minecraft:sponge
+fill ~ ~25 ~-82 ~ ~32 ~-82 minecraft:planks 2
+setblock ~ ~26 ~-55 minecraft:orange_glazed_terracotta
+fill ~ ~26 ~-56 ~ ~59 ~-56 minecraft:planks 2
+fill ~ ~26 ~-60 ~ ~37 ~-60 minecraft:planks 2
+setblock ~ ~26 ~-85 minecraft:stained_hardened_clay 4
+fill ~ ~27 ~-54 ~ ~28 ~-54 minecraft:orange_glazed_terracotta
+fill ~ ~27 ~-55 ~ ~31 ~-55 minecraft:planks 2
+setblock ~ ~27 ~-61 minecraft:stained_hardened_clay 4
+fill ~ ~27 ~-85 ~ ~60 ~-85 minecraft:planks 2
+setblock ~ ~27 ~-86 minecraft:stained_hardened_clay 4
+fill ~ ~28 ~-61 ~ ~29 ~-61 minecraft:sponge
+setblock ~ ~28 ~-80 minecraft:orange_glazed_terracotta
+fill ~ ~28 ~-81 ~ ~36 ~-81 minecraft:planks 2
+setblock ~ ~28 ~-86 minecraft:log 6
+setblock ~ ~28 ~-87 minecraft:orange_glazed_terracotta
+setblock ~ ~29 ~-53 minecraft:stained_hardened_clay 4
+fill ~ ~29 ~-54 ~ ~30 ~-54 minecraft:sponge
+setblock ~ ~29 ~-80 minecraft:stained_hardened_clay 4
+fill ~ ~29 ~-86 ~ ~32 ~-86 minecraft:planks 2
+fill ~ ~29 ~-87 ~ ~30 ~-87 minecraft:sponge
+setblock ~ ~30 ~-53 minecraft:orange_glazed_terracotta
+fill ~ ~30 ~-61 ~ ~37 ~-61 minecraft:planks 2
+fill ~ ~30 ~-80 ~ ~31 ~-80 minecraft:orange_glazed_terracotta
+setblock ~ ~30 ~-88 minecraft:stained_hardened_clay 4
+fill ~ ~31 ~-53 ~ ~32 ~-53 minecraft:sponge
+fill ~ ~31 ~-54 ~ ~33 ~-54 minecraft:planks 2
+fill ~ ~31 ~-62 ~ ~32 ~-62 minecraft:sponge
+fill ~ ~31 ~-87 ~ ~32 ~-87 minecraft:planks 2
+setblock ~ ~31 ~-88 minecraft:sponge
+setblock ~ ~32 ~-52 minecraft:sponge
+fill ~ ~32 ~-55 ~ ~33 ~-55 minecraft:stained_hardened_clay
+fill ~ ~32 ~-80 ~ ~33 ~-80 minecraft:sponge
+fill ~ ~32 ~-88 ~ ~37 ~-88 minecraft:planks 2
+setblock ~ ~32 ~-89 minecraft:orange_glazed_terracotta
+setblock ~ ~33 ~-52 minecraft:orange_glazed_terracotta
+fill ~ ~33 ~-53 ~ ~36 ~-53 minecraft:planks 2
+fill ~ ~33 ~-62 ~ ~34 ~-62 minecraft:planks 2
+setblock ~ ~33 ~-82 minecraft:sandstone 1
+setblock ~ ~33 ~-86 minecraft:stained_hardened_clay
+setblock ~ ~33 ~-87 minecraft:sandstone 1
+setblock ~ ~33 ~-89 minecraft:sponge
+setblock ~ ~33 ~-90 minecraft:stained_hardened_clay 4
+setblock ~ ~34 ~-52 minecraft:sponge
+setblock ~ ~34 ~-54 minecraft:stained_hardened_clay
+setblock ~ ~34 ~-55 minecraft:planks 2
+setblock ~ ~34 ~-63 minecraft:planks 2
+setblock ~ ~34 ~-80 minecraft:log 6
+fill ~ ~34 ~-82 ~ ~39 ~-82 minecraft:planks 2
+fill ~ ~34 ~-86 ~ ~64 ~-86 minecraft:planks 2
+fill ~ ~34 ~-87 ~ ~37 ~-87 minecraft:planks 2
+fill ~ ~34 ~-89 ~ ~36 ~-89 minecraft:planks 2
+setblock ~ ~34 ~-90 minecraft:sponge
+setblock ~ ~35 ~-51 minecraft:orange_glazed_terracotta
+fill ~ ~35 ~-52 ~ ~36 ~-52 minecraft:planks 2
+setblock ~ ~35 ~-54 minecraft:sandstone 1
+setblock ~ ~35 ~-55 minecraft:stained_hardened_clay
+fill ~ ~35 ~-62 ~ ~38 ~-62 minecraft:sponge
+fill ~ ~35 ~-63 ~ ~37 ~-63 minecraft:sponge
+setblock ~ ~35 ~-80 minecraft:planks 2
+setblock ~ ~35 ~-83 minecraft:stained_hardened_clay
+fill ~ ~35 ~-84 ~ ~38 ~-84 minecraft:planks 2
+setblock ~ ~35 ~-90 minecraft:log 6
+fill ~ ~35 ~-91 ~ ~36 ~-91 minecraft:planks 2
+setblock ~ ~36 ~-51 minecraft:sponge
+fill ~ ~36 ~-54 ~ ~36 ~-55 minecraft:planks 2
+fill ~ ~36 ~-80 ~ ~38 ~-80 minecraft:sponge
+fill ~ ~36 ~-83 ~ ~38 ~-83 minecraft:planks 2
+fill ~ ~36 ~-90 ~ ~40 ~-90 minecraft:sponge
+setblock ~ ~36 ~-92 minecraft:planks 2
+setblock ~ ~36 ~-105 minecraft:log 6
+fill ~ ~36 ~-106 ~ ~38 ~-106 minecraft:planks 2
+fill ~ ~36 ~-107 ~ ~37 ~-107 minecraft:stained_hardened_clay
+setblock ~ ~36 ~-108 minecraft:planks 2
+fill ~ ~37 ~-30 ~ ~39 ~-30 minecraft:sandstone 1
+fill ~ ~37 ~-31 ~ ~37 ~-34 minecraft:planks 2
+setblock ~ ~37 ~-35 minecraft:stained_hardened_clay
+fill ~ ~37 ~-50 ~ ~37 ~-51 minecraft:planks 2
+fill ~ ~37 ~-52 ~ ~38 ~-52 minecraft:sponge
+setblock ~ ~37 ~-53 minecraft:log 6
+setblock ~ ~37 ~-54 minecraft:orange_glazed_terracotta
+setblock ~ ~37 ~-55 minecraft:log 6
+fill ~ ~37 ~-81 ~ ~41 ~-81 minecraft:sponge
+setblock ~ ~37 ~-89 minecraft:sponge
+fill ~ ~37 ~-91 ~ ~41 ~-91 minecraft:sponge
+setblock ~ ~37 ~-92 minecraft:log 6
+setblock ~ ~37 ~-101 minecraft:orange_glazed_terracotta
+fill ~ ~37 ~-102 ~ ~38 ~-102 minecraft:log 6
+fill ~ ~37 ~-104 ~ ~38 ~-105 minecraft:planks 2
+fill ~ ~37 ~-108 ~ ~38 ~-110 minecraft:sandstone 1
+setblock ~ ~38 ~-25 minecraft:orange_glazed_terracotta
+setblock ~ ~38 ~-26 minecraft:log 4
+setblock ~ ~38 ~-28 minecraft:planks 2
+fill ~ ~38 ~-29 ~ ~41 ~-29 minecraft:sandstone 1
+fill ~ ~38 ~-31 ~ ~38 ~-33 minecraft:sandstone 1
+fill ~ ~38 ~-34 ~ ~38 ~-35 minecraft:planks 2
+fill ~ ~38 ~-38 ~ ~39 ~-38 minecraft:orange_glazed_terracotta
+fill ~ ~38 ~-50 ~ ~38 ~-51 minecraft:sponge
+fill ~ ~38 ~-53 ~ ~39 ~-53 minecraft:stained_hardened_clay 4
+setblock ~ ~38 ~-54 minecraft:stained_hardened_clay 4
+fill ~ ~38 ~-55 ~ ~55 ~-55 minecraft:planks 2
+setblock ~ ~38 ~-59 minecraft:sponge
+fill ~ ~38 ~-60 ~ ~38 ~-61 minecraft:log 6
+fill ~ ~38 ~-63 ~ ~39 ~-63 minecraft:planks 2
+fill ~ ~38 ~-87 ~ ~38 ~-89 minecraft:log 6
+fill ~ ~38 ~-92 ~ ~39 ~-92 minecraft:sponge
+fill ~ ~38 ~-100 ~ ~39 ~-101 minecraft:log 6
+fill ~ ~38 ~-103 ~ ~41 ~-103 minecraft:planks 2
+setblock ~ ~38 ~-107 minecraft:sandstone 1
+setblock ~ ~38 ~-111 minecraft:stained_hardened_clay
+setblock ~ ~38 ~-112 minecraft:log 6
+setblock ~ ~38 ~-113 minecraft:planks
+setblock ~ ~39 ~-24 minecraft:planks 2
+setblock ~ ~39 ~-25 minecraft:log 6
+setblock ~ ~39 ~-26 minecraft:orange_glazed_terracotta
+fill ~ ~39 ~-27 ~ ~40 ~-27 minecraft:sandstone 1
+setblock ~ ~39 ~-28 minecraft:stained_hardened_clay
+setblock ~ ~39 ~-31 minecraft:stained_hardened_clay
+setblock ~ ~39 ~-32 minecraft:sandstone 1
+setblock ~ ~39 ~-33 minecraft:planks 2
+setblock ~ ~39 ~-34 minecraft:log 6
+fill ~ ~39 ~-35 ~ ~39 ~-36 minecraft:planks 2
+fill ~ ~39 ~-37 ~ ~40 ~-37 minecraft:log 6
+fill ~ ~39 ~-39 ~ ~42 ~-39 minecraft:log 6
+setblock ~ ~39 ~-50 minecraft:planks 2
+setblock ~ ~39 ~-51 minecraft:sponge
+fill ~ ~39 ~-52 ~ ~40 ~-52 minecraft:stained_hardened_clay 4
+fill ~ ~39 ~-54 ~ ~61 ~-54 minecraft:planks 2
+fill ~ ~39 ~-59 ~ ~55 ~-59 minecraft:planks 2
+fill ~ ~39 ~-60 ~ ~54 ~-60 minecraft:planks 2
+fill ~ ~39 ~-61 ~ ~39 ~-62 minecraft:stained_hardened_clay 4
+setblock ~ ~39 ~-80 minecraft:planks 2
+setblock ~ ~39 ~-83 minecraft:sponge
+setblock ~ ~39 ~-84 minecraft:orange_glazed_terracotta
+fill ~ ~39 ~-87 ~ ~62 ~-87 minecraft:planks 2
+setblock ~ ~39 ~-88 minecraft:stained_hardened_clay 4
+setblock ~ ~39 ~-89 minecraft:orange_glazed_terracotta
+setblock ~ ~39 ~-102 minecraft:planks 2
+setblock ~ ~39 ~-104 minecraft:sandstone 1
+setblock ~ ~39 ~-105 minecraft:stained_hardened_clay
+setblock ~ ~39 ~-106 minecraft:log 6
+setblock ~ ~39 ~-107 minecraft:planks
+setblock ~ ~39 ~-108 minecraft:planks 2
+setblock ~ ~39 ~-109 minecraft:stained_hardened_clay
+fill ~ ~39 ~-110 ~ ~45 ~-112 minecraft:sandstone 1
+setblock ~ ~39 ~-113 minecraft:log 7
+setblock ~ ~39 ~-114 minecraft:orange_glazed_terracotta
+setblock ~ ~40 ~-24 minecraft:sandstone 1
+fill ~ ~40 ~-25 ~ ~41 ~-25 minecraft:planks 2
+setblock ~ ~40 ~-26 minecraft:planks 2
+setblock ~ ~40 ~-28 minecraft:sandstone
+fill ~ ~40 ~-30 ~ ~42 ~-30 minecraft:planks 2
+setblock ~ ~40 ~-31 minecraft:planks 2
+fill ~ ~40 ~-32 ~ ~40 ~-33 minecraft:orange_glazed_terracotta
+setblock ~ ~40 ~-34 minecraft:planks 2
+fill ~ ~40 ~-35 ~ ~41 ~-35 minecraft:sandstone 1
+fill ~ ~40 ~-36 ~ ~41 ~-36 minecraft:stained_hardened_clay
+setblock ~ ~40 ~-38 minecraft:log 6
+fill ~ ~40 ~-50 ~ ~41 ~-50 minecraft:sponge
+fill ~ ~40 ~-51 ~ ~41 ~-51 minecraft:stained_hardened_clay 4
+fill ~ ~40 ~-53 ~ ~45 ~-53 minecraft:planks 2
+fill ~ ~40 ~-61 ~ ~63 ~-61 minecraft:planks 2
+setblock ~ ~40 ~-62 minecraft:sponge
+setblock ~ ~40 ~-63 minecraft:stained_hardened_clay 4
+setblock ~ ~40 ~-64 minecraft:orange_glazed_terracotta
+setblock ~ ~40 ~-82 minecraft:sponge
+setblock ~ ~40 ~-83 minecraft:stained_hardened_clay 4
+setblock ~ ~40 ~-84 minecraft:sponge
+setblock ~ ~40 ~-88 minecraft:sponge
+setblock ~ ~40 ~-89 minecraft:stained_hardened_clay 4
+setblock ~ ~40 ~-92 minecraft:log 6
+fill ~ ~40 ~-100 ~ ~41 ~-100 minecraft:orange_glazed_terracotta
+fill ~ ~40 ~-101 ~ ~41 ~-101 minecraft:planks 2
+setblock ~ ~40 ~-102 minecraft:stained_hardened_clay
+fill ~ ~40 ~-104 ~ ~41 ~-104 minecraft:planks 2
+fill ~ ~40 ~-105 ~ ~47 ~-105 minecraft:sandstone 1
+fill ~ ~40 ~-106 ~ ~44 ~-106 minecraft:sandstone 1
+setblock ~ ~40 ~-107 minecraft:planks 2
+setblock ~ ~40 ~-108 minecraft:log 6
+setblock ~ ~40 ~-109 minecraft:planks 2
+fill ~ ~40 ~-113 ~ ~40 ~-114 minecraft:planks 2
+fill ~ ~40 ~-115 ~ ~45 ~-115 minecraft:sandstone 1
+fill ~ ~41 ~-22 ~ ~41 ~-23 minecraft:sandstone 1
+setblock ~ ~41 ~-24 minecraft:planks 2
+fill ~ ~41 ~-26 ~ ~43 ~-26 minecraft:sandstone 1
+setblock ~ ~41 ~-27 minecraft:sandstone 2
+fill ~ ~41 ~-28 ~ ~43 ~-28 minecraft:sandstone 1
+setblock ~ ~41 ~-31 minecraft:log 6
+fill ~ ~41 ~-32 ~ ~43 ~-32 minecraft:planks 2
+setblock ~ ~41 ~-33 minecraft:sandstone 1
+setblock ~ ~41 ~-34 minecraft:stained_hardened_clay
+fill ~ ~41 ~-37 ~ ~42 ~-38 minecraft:planks 2
+setblock ~ ~41 ~-52 minecraft:sponge
+fill ~ ~41 ~-62 ~ ~61 ~-62 minecraft:planks 2
+setblock ~ ~41 ~-63 minecraft:sponge
+setblock ~ ~41 ~-64 minecraft:stained_hardened_clay 4
+fill ~ ~41 ~-82 ~ ~42 ~-82 minecraft:stained_hardened_clay 4
+setblock ~ ~41 ~-83 minecraft:orange_glazed_terracotta
+fill ~ ~41 ~-84 ~ ~59 ~-84 minecraft:planks 2
+fill ~ ~41 ~-88 ~ ~60 ~-88 minecraft:planks 2
+setblock ~ ~41 ~-89 minecraft:orange_glazed_terracotta
+fill ~ ~41 ~-90 ~ ~42 ~-90 minecraft:stained_hardened_clay 4
+setblock ~ ~41 ~-99 minecraft:orange_glazed_terracotta
+setblock ~ ~41 ~-102 minecraft:planks 2
+fill ~ ~41 ~-107 ~ ~47 ~-107 minecraft:sandstone 1
+setblock ~ ~41 ~-108 minecraft:planks 2
+setblock ~ ~41 ~-109 minecraft:log 6
+fill ~ ~41 ~-113 ~ ~46 ~-113 minecraft:sandstone 1
+setblock ~ ~41 ~-114 minecraft:log 6
+setblock ~ ~41 ~-116 minecraft:sandstone
+fill ~ ~42 ~-21 ~ ~48 ~-21 minecraft:sandstone 1
+setblock ~ ~42 ~-22 minecraft:sandstone
+fill ~ ~42 ~-23 ~ ~44 ~-23 minecraft:sandstone 1
+fill ~ ~42 ~-24 ~ ~42 ~-25 minecraft:stained_hardened_clay
+fill ~ ~42 ~-27 ~ ~45 ~-27 minecraft:sandstone 1
+setblock ~ ~42 ~-29 minecraft:stained_hardened_clay
+setblock ~ ~42 ~-31 minecraft:planks 2
+setblock ~ ~42 ~-33 minecraft:stained_hardened_clay
+fill ~ ~42 ~-34 ~ ~43 ~-34 minecraft:sandstone 1
+fill ~ ~42 ~-35 ~ ~43 ~-35 minecraft:planks 2
+setblock ~ ~42 ~-36 minecraft:planks 2
+setblock ~ ~42 ~-50 minecraft:orange_glazed_terracotta
+fill ~ ~42 ~-51 ~ ~44 ~-51 minecraft:sponge
+fill ~ ~42 ~-52 ~ ~47 ~-52 minecraft:planks 2
+fill ~ ~42 ~-63 ~ ~60 ~-63 minecraft:planks 2
+setblock ~ ~42 ~-64 minecraft:sponge
+setblock ~ ~42 ~-65 minecraft:stained_hardened_clay 4
+setblock ~ ~42 ~-81 minecraft:orange_glazed_terracotta
+fill ~ ~42 ~-83 ~ ~49 ~-83 minecraft:planks 2
+fill ~ ~42 ~-89 ~ ~61 ~-89 minecraft:planks 2
+setblock ~ ~42 ~-91 minecraft:orange_glazed_terracotta
+fill ~ ~42 ~-97 ~ ~43 ~-97 minecraft:dirt
+setblock ~ ~42 ~-98 minecraft:crafting_table
+setblock ~ ~42 ~-99 minecraft:log 7
+fill ~ ~42 ~-100 ~ ~43 ~-100 minecraft:dirt
+setblock ~ ~42 ~-101 minecraft:orange_glazed_terracotta
+fill ~ ~42 ~-102 ~ ~43 ~-102 minecraft:log 6
+setblock ~ ~42 ~-103 minecraft:log 6
+setblock ~ ~42 ~-104 minecraft:stained_hardened_clay
+fill ~ ~42 ~-108 ~ ~45 ~-108 minecraft:sandstone 1
+setblock ~ ~42 ~-109 minecraft:sandstone 2
+fill ~ ~42 ~-114 ~ ~46 ~-114 minecraft:sandstone 1
+fill ~ ~42 ~-116 ~ ~46 ~-116 minecraft:sandstone 1
+setblock ~ ~42 ~-117 minecraft:planks 2
+fill ~ ~43 ~-22 ~ ~44 ~-22 minecraft:sandstone 1
+fill ~ ~43 ~-24 ~ ~44 ~-24 minecraft:sandstone 1
+setblock ~ ~43 ~-25 minecraft:sandstone 1
+fill ~ ~43 ~-29 ~ ~43 ~-31 minecraft:sandstone 1
+fill ~ ~43 ~-33 ~ ~44 ~-33 minecraft:sandstone 1
+fill ~ ~43 ~-36 ~ ~43 ~-38 minecraft:log 6
+setblock ~ ~43 ~-39 minecraft:orange_glazed_terracotta
+setblock ~ ~43 ~-40 minecraft:planks
+setblock ~ ~43 ~-49 minecraft:orange_glazed_terracotta
+setblock ~ ~43 ~-50 minecraft:stained_hardened_clay 4
+setblock ~ ~43 ~-64 minecraft:log 6
+fill ~ ~43 ~-65 ~ ~43 ~-66 minecraft:sponge
+fill ~ ~43 ~-81 ~ ~46 ~-81 minecraft:stained_hardened_clay 4
+setblock ~ ~43 ~-82 minecraft:sponge
+setblock ~ ~43 ~-90 minecraft:sponge
+fill ~ ~43 ~-91 ~ ~44 ~-91 minecraft:stained_hardened_clay 4
+setblock ~ ~43 ~-98 minecraft:log 7
+setblock ~ ~43 ~-99 minecraft:planks
+setblock ~ ~43 ~-101 minecraft:dirt
+fill ~ ~43 ~-103 ~ ~44 ~-103 minecraft:planks 2
+setblock ~ ~43 ~-104 minecraft:sandstone 1
+fill ~ ~43 ~-109 ~ ~46 ~-109 minecraft:sandstone 1
+setblock ~ ~43 ~-117 minecraft:sandstone 1
+fill ~ ~44 ~-20 ~ ~45 ~-20 minecraft:sandstone
+fill ~ ~44 ~-25 ~ ~45 ~-26 minecraft:stained_hardened_clay
+setblock ~ ~44 ~-28 minecraft:sandstone 2
+setblock ~ ~44 ~-29 minecraft:sandstone
+fill ~ ~44 ~-30 ~ ~45 ~-32 minecraft:sandstone 1
+fill ~ ~44 ~-34 ~ ~44 ~-35 minecraft:stained_hardened_clay
+fill ~ ~44 ~-36 ~ ~45 ~-36 minecraft:planks 2
+setblock ~ ~44 ~-37 minecraft:log 6
+setblock ~ ~44 ~-38 minecraft:orange_glazed_terracotta
+setblock ~ ~44 ~-39 minecraft:dirt
+fill ~ ~44 ~-40 ~ ~45 ~-41 minecraft:log 7
+fill ~ ~44 ~-42 ~ ~45 ~-42 minecraft:dirt
+setblock ~ ~44 ~-49 minecraft:stained_hardened_clay 4
+fill ~ ~44 ~-50 ~ ~45 ~-50 minecraft:sponge
+fill ~ ~44 ~-64 ~ ~60 ~-64 minecraft:planks 2
+fill ~ ~44 ~-65 ~ ~45 ~-65 minecraft:planks 2
+setblock ~ ~44 ~-66 minecraft:sponge
+setblock ~ ~44 ~-67 minecraft:log 6
+fill ~ ~44 ~-82 ~ ~46 ~-82 minecraft:planks 2
+setblock ~ ~44 ~-90 minecraft:log 6
+setblock ~ ~44 ~-92 minecraft:orange_glazed_terracotta
+fill ~ ~44 ~-98 ~ ~44 ~-99 minecraft:orange_glazed_terracotta
+setblock ~ ~44 ~-100 minecraft:log 6
+setblock ~ ~44 ~-101 minecraft:orange_glazed_terracotta
+setblock ~ ~44 ~-102 minecraft:log 4
+fill ~ ~44 ~-104 ~ ~46 ~-104 minecraft:planks 2
+setblock ~ ~44 ~-117 minecraft:stained_hardened_clay
+fill ~ ~45 ~-22 ~ ~48 ~-22 minecraft:stained_hardened_clay
+fill ~ ~45 ~-23 ~ ~45 ~-24 minecraft:stained_hardened_clay
+fill ~ ~45 ~-28 ~ ~45 ~-29 minecraft:sandstone 1
+fill ~ ~45 ~-33 ~ ~47 ~-33 minecraft:stained_hardened_clay
+setblock ~ ~45 ~-34 minecraft:sandstone 1
+setblock ~ ~45 ~-35 minecraft:stained_hardened_clay
+setblock ~ ~45 ~-37 minecraft:orange_glazed_terracotta
+setblock ~ ~45 ~-38 minecraft:crafting_table
+setblock ~ ~45 ~-39 minecraft:log 7
+setblock ~ ~45 ~-48 minecraft:orange_glazed_terracotta
+fill ~ ~45 ~-49 ~ ~46 ~-49 minecraft:sponge
+fill ~ ~45 ~-51 ~ ~47 ~-51 minecraft:planks 2
+setblock ~ ~45 ~-66 minecraft:planks 2
+setblock ~ ~45 ~-67 minecraft:sponge
+setblock ~ ~45 ~-68 minecraft:orange_glazed_terracotta
+fill ~ ~45 ~-90 ~ ~48 ~-90 minecraft:planks 2
+fill ~ ~45 ~-91 ~ ~46 ~-91 minecraft:sponge
+fill ~ ~45 ~-92 ~ ~46 ~-92 minecraft:stained_hardened_clay 4
+fill ~ ~45 ~-97 ~ ~45 ~-98 minecraft:planks
+fill ~ ~45 ~-99 ~ ~46 ~-99 minecraft:log 6
+fill ~ ~45 ~-100 ~ ~46 ~-101 minecraft:planks 2
+fill ~ ~45 ~-102 ~ ~45 ~-103 minecraft:orange_glazed_terracotta
+setblock ~ ~45 ~-106 minecraft:planks 2
+fill ~ ~45 ~-117 ~ ~49 ~-117 minecraft:sandstone 1
+fill ~ ~45 ~-118 ~ ~46 ~-118 minecraft:planks 2
+fill ~ ~46 ~-19 ~ ~52 ~-19 minecraft:sandstone 1
+fill ~ ~46 ~-20 ~ ~47 ~-20 minecraft:sandstone 1
+fill ~ ~46 ~-23 ~ ~46 ~-24 minecraft:planks 2
+setblock ~ ~46 ~-25 minecraft:sandstone 1
+fill ~ ~46 ~-26 ~ ~47 ~-26 minecraft:stained_hardened_clay
+fill ~ ~46 ~-27 ~ ~46 ~-29 minecraft:stained_hardened_clay
+setblock ~ ~46 ~-30 minecraft:planks 2
+setblock ~ ~46 ~-31 minecraft:sandstone 1
+setblock ~ ~46 ~-32 minecraft:planks 2
+setblock ~ ~46 ~-34 minecraft:stained_hardened_clay
+setblock ~ ~46 ~-35 minecraft:planks 2
+fill ~ ~46 ~-36 ~ ~47 ~-36 minecraft:orange_glazed_terracotta
+setblock ~ ~46 ~-37 minecraft:planks
+fill ~ ~46 ~-38 ~ ~46 ~-39 minecraft:log 6
+setblock ~ ~46 ~-40 minecraft:planks
+fill ~ ~46 ~-41 ~ ~47 ~-41 minecraft:log 7
+fill ~ ~46 ~-48 ~ ~48 ~-48 minecraft:sponge
+fill ~ ~46 ~-50 ~ ~48 ~-50 minecraft:planks 2
+setblock ~ ~46 ~-53 minecraft:stained_hardened_clay
+setblock ~ ~46 ~-65 minecraft:sandstone 1
+setblock ~ ~46 ~-66 minecraft:stained_hardened_clay
+fill ~ ~46 ~-67 ~ ~59 ~-67 minecraft:planks 2
+setblock ~ ~46 ~-68 minecraft:sponge
+fill ~ ~46 ~-80 ~ ~48 ~-80 minecraft:orange_glazed_terracotta
+fill ~ ~46 ~-97 ~ ~47 ~-97 minecraft:log 4
+fill ~ ~46 ~-98 ~ ~47 ~-98 minecraft:orange_glazed_terracotta
+fill ~ ~46 ~-102 ~ ~46 ~-103 minecraft:stained_hardened_clay
+fill ~ ~46 ~-106 ~ ~47 ~-106 minecraft:sandstone 1
+fill ~ ~46 ~-108 ~ ~48 ~-108 minecraft:stained_hardened_clay
+setblock ~ ~46 ~-110 minecraft:stained_hardened_clay
+setblock ~ ~46 ~-111 minecraft:sandstone 1
+setblock ~ ~46 ~-112 minecraft:planks 2
+setblock ~ ~46 ~-115 minecraft:planks 2
+fill ~ ~46 ~-119 ~ ~48 ~-119 minecraft:planks 2
+fill ~ ~47 ~-18 ~ ~51 ~-18 minecraft:sandstone 1
+setblock ~ ~47 ~-23 minecraft:sandstone 1
+setblock ~ ~47 ~-24 minecraft:stained_hardened_clay
+setblock ~ ~47 ~-25 minecraft:planks 2
+fill ~ ~47 ~-27 ~ ~49 ~-27 minecraft:sandstone 1
+fill ~ ~47 ~-28 ~ ~48 ~-28 minecraft:sandstone 1
+fill ~ ~47 ~-29 ~ ~47 ~-32 minecraft:stained_hardened_clay
+setblock ~ ~47 ~-34 minecraft:planks 2
+setblock ~ ~47 ~-35 minecraft:log 6
+setblock ~ ~47 ~-37 minecraft:orange_glazed_terracotta
+fill ~ ~47 ~-38 ~ ~48 ~-39 minecraft:planks 2
+fill ~ ~47 ~-40 ~ ~49 ~-40 minecraft:orange_glazed_terracotta
+setblock ~ ~47 ~-49 minecraft:log 6
+fill ~ ~47 ~-53 ~ ~56 ~-53 minecraft:planks 2
+setblock ~ ~47 ~-65 minecraft:stained_hardened_clay
+fill ~ ~47 ~-66 ~ ~62 ~-66 minecraft:planks 2
+fill ~ ~47 ~-68 ~ ~59 ~-68 minecraft:planks 2
+setblock ~ ~47 ~-69 minecraft:sponge
+setblock ~ ~47 ~-81 minecraft:orange_glazed_terracotta
+setblock ~ ~47 ~-82 minecraft:log 6
+fill ~ ~47 ~-91 ~ ~50 ~-91 minecraft:planks 2
+fill ~ ~47 ~-92 ~ ~48 ~-93 minecraft:sponge
+fill ~ ~47 ~-99 ~ ~49 ~-99 minecraft:orange_glazed_terracotta
+setblock ~ ~47 ~-100 minecraft:log 6
+fill ~ ~47 ~-101 ~ ~48 ~-102 minecraft:planks 2
+fill ~ ~47 ~-103 ~ ~47 ~-104 minecraft:sandstone 1
+setblock ~ ~47 ~-109 minecraft:stained_hardened_clay
+setblock ~ ~47 ~-110 minecraft:sandstone 1
+fill ~ ~47 ~-111 ~ ~48 ~-111 minecraft:stained_hardened_clay
+setblock ~ ~47 ~-112 minecraft:stained_hardened_clay
+fill ~ ~47 ~-113 ~ ~49 ~-113 minecraft:planks 2
+setblock ~ ~47 ~-114 minecraft:planks 2
+fill ~ ~47 ~-115 ~ ~48 ~-115 minecraft:sandstone 1
+setblock ~ ~47 ~-116 minecraft:stained_hardened_clay
+fill ~ ~47 ~-118 ~ ~52 ~-118 minecraft:sandstone 1
+fill ~ ~48 ~-17 ~ ~52 ~-17 minecraft:sandstone 1
+setblock ~ ~48 ~-20 minecraft:stained_hardened_clay
+fill ~ ~48 ~-23 ~ ~49 ~-23 minecraft:stained_hardened_clay
+fill ~ ~48 ~-24 ~ ~48 ~-25 minecraft:sandstone 1
+fill ~ ~48 ~-26 ~ ~52 ~-26 minecraft:planks 2
+setblock ~ ~48 ~-29 minecraft:sandstone 1
+setblock ~ ~48 ~-30 minecraft:stained_hardened_clay
+fill ~ ~48 ~-31 ~ ~58 ~-31 minecraft:planks 2
+setblock ~ ~48 ~-32 minecraft:planks 2
+fill ~ ~48 ~-33 ~ ~49 ~-33 minecraft:sandstone 1
+fill ~ ~48 ~-34 ~ ~49 ~-34 minecraft:stained_hardened_clay
+fill ~ ~48 ~-35 ~ ~52 ~-35 minecraft:planks 2
+fill ~ ~48 ~-36 ~ ~48 ~-37 minecraft:planks 2
+setblock ~ ~48 ~-41 minecraft:planks
+fill ~ ~48 ~-47 ~ ~50 ~-47 minecraft:sponge
+fill ~ ~48 ~-49 ~ ~56 ~-49 minecraft:planks 2
+setblock ~ ~48 ~-51 minecraft:sandstone 1
+setblock ~ ~48 ~-52 minecraft:stained_hardened_clay
+fill ~ ~48 ~-65 ~ ~60 ~-65 minecraft:planks 2
+fill ~ ~48 ~-69 ~ ~48 ~-70 minecraft:planks 2
+setblock ~ ~48 ~-81 minecraft:sponge
+fill ~ ~48 ~-82 ~ ~50 ~-82 minecraft:planks 2
+setblock ~ ~48 ~-97 minecraft:log 7
+setblock ~ ~48 ~-98 minecraft:planks
+fill ~ ~48 ~-100 ~ ~54 ~-100 minecraft:orange_glazed_terracotta
+fill ~ ~48 ~-103 ~ ~50 ~-103 minecraft:planks 2
+fill ~ ~48 ~-104 ~ ~48 ~-105 minecraft:stained_hardened_clay
+fill ~ ~48 ~-106 ~ ~54 ~-106 minecraft:planks 2
+setblock ~ ~48 ~-107 minecraft:stained_hardened_clay
+setblock ~ ~48 ~-109 minecraft:sandstone 1
+fill ~ ~48 ~-110 ~ ~49 ~-110 minecraft:stained_hardened_clay
+setblock ~ ~48 ~-112 minecraft:sandstone 1
+setblock ~ ~48 ~-114 minecraft:sandstone 1
+setblock ~ ~48 ~-116 minecraft:sandstone 1
+setblock ~ ~49 ~-20 minecraft:sandstone 1
+setblock ~ ~49 ~-21 minecraft:stained_hardened_clay
+setblock ~ ~49 ~-22 minecraft:planks 2
+fill ~ ~49 ~-24 ~ ~51 ~-25 minecraft:planks 2
+fill ~ ~49 ~-28 ~ ~49 ~-29 minecraft:stained_hardened_clay
+fill ~ ~49 ~-30 ~ ~52 ~-30 minecraft:planks 2
+setblock ~ ~49 ~-32 minecraft:stained_hardened_clay
+setblock ~ ~49 ~-36 minecraft:stained_hardened_clay
+fill ~ ~49 ~-37 ~ ~50 ~-37 minecraft:planks 2
+fill ~ ~49 ~-38 ~ ~49 ~-39 minecraft:log 6
+fill ~ ~49 ~-41 ~ ~50 ~-41 minecraft:log 7
+fill ~ ~49 ~-48 ~ ~51 ~-48 minecraft:planks 2
+setblock ~ ~49 ~-50 minecraft:stained_hardened_clay
+fill ~ ~49 ~-51 ~ ~56 ~-52 minecraft:planks 2
+setblock ~ ~49 ~-69 minecraft:log 6
+fill ~ ~49 ~-70 ~ ~50 ~-70 minecraft:sponge
+setblock ~ ~49 ~-71 minecraft:planks 2
+setblock ~ ~49 ~-80 minecraft:stained_hardened_clay 4
+setblock ~ ~49 ~-81 minecraft:log 6
+fill ~ ~49 ~-90 ~ ~51 ~-90 minecraft:stained_hardened_clay
+fill ~ ~49 ~-92 ~ ~53 ~-92 minecraft:planks 2
+fill ~ ~49 ~-93 ~ ~50 ~-93 minecraft:sponge
+fill ~ ~49 ~-97 ~ ~49 ~-98 minecraft:log 4
+setblock ~ ~49 ~-101 minecraft:log 6
+setblock ~ ~49 ~-102 minecraft:planks 2
+fill ~ ~49 ~-104 ~ ~49 ~-105 minecraft:planks 2
+fill ~ ~49 ~-107 ~ ~49 ~-108 minecraft:planks 2
+setblock ~ ~49 ~-109 minecraft:stained_hardened_clay
+fill ~ ~49 ~-111 ~ ~49 ~-112 minecraft:planks 2
+fill ~ ~49 ~-114 ~ ~50 ~-114 minecraft:planks 2
+setblock ~ ~49 ~-115 minecraft:planks 2
+fill ~ ~49 ~-116 ~ ~51 ~-116 minecraft:stained_hardened_clay
+setblock ~ ~49 ~-119 minecraft:stained_hardened_clay
+fill ~ ~49 ~-120 ~ ~50 ~-120 minecraft:planks 2
+fill ~ ~50 ~-16 ~ ~53 ~-16 minecraft:sandstone 1
+fill ~ ~50 ~-20 ~ ~50 ~-21 minecraft:planks 2
+fill ~ ~50 ~-22 ~ ~51 ~-22 minecraft:stained_hardened_clay
+setblock ~ ~50 ~-23 minecraft:planks 2
+fill ~ ~50 ~-27 ~ ~52 ~-28 minecraft:planks 2
+setblock ~ ~50 ~-29 minecraft:stained_hardened_clay
+fill ~ ~50 ~-32 ~ ~56 ~-32 minecraft:planks 2
+fill ~ ~50 ~-33 ~ ~55 ~-33 minecraft:planks 2
+fill ~ ~50 ~-34 ~ ~51 ~-34 minecraft:planks 2
+fill ~ ~50 ~-36 ~ ~51 ~-36 minecraft:planks 2
+fill ~ ~50 ~-38 ~ ~51 ~-39 minecraft:orange_glazed_terracotta
+setblock ~ ~50 ~-40 minecraft:planks
+setblock ~ ~50 ~-46 minecraft:sponge
+fill ~ ~50 ~-50 ~ ~56 ~-50 minecraft:planks 2
+fill ~ ~50 ~-69 ~ ~59 ~-69 minecraft:planks 2
+fill ~ ~50 ~-71 ~ ~52 ~-72 minecraft:sponge
+fill ~ ~50 ~-80 ~ ~52 ~-80 minecraft:sponge
+fill ~ ~50 ~-81 ~ ~54 ~-81 minecraft:planks 2
+fill ~ ~50 ~-83 ~ ~51 ~-83 minecraft:stained_hardened_clay
+setblock ~ ~50 ~-94 minecraft:log 6
+setblock ~ ~50 ~-98 minecraft:log 7
+fill ~ ~50 ~-99 ~ ~51 ~-99 minecraft:planks
+fill ~ ~50 ~-101 ~ ~53 ~-101 minecraft:orange_glazed_terracotta
+fill ~ ~50 ~-102 ~ ~51 ~-102 minecraft:log 6
+setblock ~ ~50 ~-104 minecraft:log 6
+fill ~ ~50 ~-105 ~ ~53 ~-105 minecraft:planks 2
+fill ~ ~50 ~-107 ~ ~50 ~-108 minecraft:stained_hardened_clay
+fill ~ ~50 ~-109 ~ ~50 ~-110 minecraft:planks 2
+fill ~ ~50 ~-111 ~ ~52 ~-111 minecraft:stained_hardened_clay
+setblock ~ ~50 ~-112 minecraft:planks 2
+setblock ~ ~50 ~-113 minecraft:stained_hardened_clay
+fill ~ ~50 ~-115 ~ ~51 ~-115 minecraft:stained_hardened_clay
+setblock ~ ~50 ~-117 minecraft:stained_hardened_clay
+fill ~ ~50 ~-119 ~ ~53 ~-119 minecraft:sandstone 1
+fill ~ ~51 ~-20 ~ ~52 ~-20 minecraft:sandstone 1
+setblock ~ ~51 ~-21 minecraft:sandstone 1
+setblock ~ ~51 ~-23 minecraft:stained_hardened_clay
+fill ~ ~51 ~-29 ~ ~61 ~-29 minecraft:planks 2
+setblock ~ ~51 ~-37 minecraft:log 6
+setblock ~ ~51 ~-40 minecraft:log 7
+setblock ~ ~51 ~-46 minecraft:planks 2
+fill ~ ~51 ~-47 ~ ~52 ~-47 minecraft:log 6
+setblock ~ ~51 ~-70 minecraft:log 6
+setblock ~ ~51 ~-79 minecraft:log 6
+setblock ~ ~51 ~-82 minecraft:stained_hardened_clay
+fill ~ ~51 ~-91 ~ ~52 ~-91 minecraft:stained_hardened_clay
+fill ~ ~51 ~-93 ~ ~52 ~-93 minecraft:planks 2
+fill ~ ~51 ~-94 ~ ~59 ~-94 minecraft:sponge
+fill ~ ~51 ~-98 ~ ~52 ~-98 minecraft:orange_glazed_terracotta
+fill ~ ~51 ~-103 ~ ~52 ~-103 minecraft:log 6
+fill ~ ~51 ~-104 ~ ~52 ~-104 minecraft:planks 2
+fill ~ ~51 ~-107 ~ ~57 ~-107 minecraft:planks 2
+setblock ~ ~51 ~-108 minecraft:sandstone 1
+fill ~ ~51 ~-109 ~ ~53 ~-109 minecraft:stained_hardened_clay
+setblock ~ ~51 ~-110 minecraft:stained_hardened_clay
+setblock ~ ~51 ~-112 minecraft:stained_hardened_clay
+setblock ~ ~51 ~-113 minecraft:planks 2
+setblock ~ ~51 ~-114 minecraft:sandstone 1
+fill ~ ~51 ~-117 ~ ~52 ~-117 minecraft:sandstone 1
+fill ~ ~51 ~-120 ~ ~54 ~-120 minecraft:sandstone 1
+setblock ~ ~52 ~-15 minecraft:sandstone 1
+fill ~ ~52 ~-18 ~ ~53 ~-18 minecraft:stained_hardened_clay
+setblock ~ ~52 ~-21 minecraft:stained_hardened_clay
+fill ~ ~52 ~-22 ~ ~52 ~-23 minecraft:planks 2
+setblock ~ ~52 ~-24 minecraft:stained_hardened_clay
+setblock ~ ~52 ~-25 minecraft:planks 2
+setblock ~ ~52 ~-34 minecraft:log 6
+setblock ~ ~52 ~-36 minecraft:log 6
+fill ~ ~52 ~-37 ~ ~53 ~-37 minecraft:orange_glazed_terracotta
+fill ~ ~52 ~-38 ~ ~54 ~-38 minecraft:planks
+setblock ~ ~52 ~-39 minecraft:planks
+setblock ~ ~52 ~-40 minecraft:log 4
+fill ~ ~52 ~-45 ~ ~53 ~-45 minecraft:planks 2
+setblock ~ ~52 ~-46 minecraft:log 6
+setblock ~ ~52 ~-48 minecraft:log 6
+fill ~ ~52 ~-70 ~ ~58 ~-70 minecraft:planks 2
+fill ~ ~52 ~-73 ~ ~54 ~-73 minecraft:sponge
+setblock ~ ~52 ~-79 minecraft:sponge
+fill ~ ~52 ~-82 ~ ~52 ~-83 minecraft:planks 2
+fill ~ ~52 ~-90 ~ ~65 ~-90 minecraft:planks 2
+setblock ~ ~52 ~-99 minecraft:orange_glazed_terracotta
+fill ~ ~52 ~-102 ~ ~54 ~-102 minecraft:orange_glazed_terracotta
+setblock ~ ~52 ~-108 minecraft:planks 2
+fill ~ ~52 ~-110 ~ ~53 ~-110 minecraft:sandstone 1
+setblock ~ ~52 ~-112 minecraft:planks 2
+fill ~ ~52 ~-113 ~ ~52 ~-114 minecraft:stained_hardened_clay
+setblock ~ ~52 ~-115 minecraft:planks 2
+fill ~ ~52 ~-116 ~ ~53 ~-116 minecraft:sandstone 1
+setblock ~ ~52 ~-121 minecraft:planks 2
+fill ~ ~53 ~-15 ~ ~110 ~-15 minecraft:planks 2
+setblock ~ ~53 ~-17 minecraft:stained_hardened_clay
+fill ~ ~53 ~-19 ~ ~53 ~-20 minecraft:stained_hardened_clay
+fill ~ ~53 ~-21 ~ ~113 ~-21 minecraft:planks 2
+setblock ~ ~53 ~-22 minecraft:sandstone 1
+fill ~ ~53 ~-23 ~ ~87 ~-23 minecraft:planks 2
+fill ~ ~53 ~-24 ~ ~86 ~-24 minecraft:planks 2
+fill ~ ~53 ~-25 ~ ~53 ~-27 minecraft:stained_hardened_clay
+setblock ~ ~53 ~-28 minecraft:planks 2
+setblock ~ ~53 ~-30 minecraft:stained_hardened_clay
+fill ~ ~53 ~-34 ~ ~54 ~-34 minecraft:planks 2
+fill ~ ~53 ~-35 ~ ~54 ~-35 minecraft:log 6
+fill ~ ~53 ~-36 ~ ~54 ~-36 minecraft:orange_glazed_terracotta
+fill ~ ~53 ~-39 ~ ~54 ~-39 minecraft:log 7
+fill ~ ~53 ~-46 ~ ~62 ~-46 minecraft:sponge
+fill ~ ~53 ~-47 ~ ~59 ~-47 minecraft:sponge
+fill ~ ~53 ~-48 ~ ~55 ~-48 minecraft:planks 2
+setblock ~ ~53 ~-71 minecraft:log 6
+setblock ~ ~53 ~-72 minecraft:sponge
+setblock ~ ~53 ~-74 minecraft:planks 2
+fill ~ ~53 ~-79 ~ ~54 ~-79 minecraft:planks 2
+setblock ~ ~53 ~-80 minecraft:planks 2
+setblock ~ ~53 ~-82 minecraft:stained_hardened_clay
+fill ~ ~53 ~-83 ~ ~57 ~-83 minecraft:planks 2
+fill ~ ~53 ~-91 ~ ~58 ~-91 minecraft:planks 2
+setblock ~ ~53 ~-93 minecraft:log 6
+fill ~ ~53 ~-95 ~ ~54 ~-95 minecraft:planks 2
+fill ~ ~53 ~-103 ~ ~54 ~-103 minecraft:orange_glazed_terracotta
+setblock ~ ~53 ~-104 minecraft:log 6
+setblock ~ ~53 ~-108 minecraft:stained_hardened_clay
+fill ~ ~53 ~-111 ~ ~53 ~-113 minecraft:sandstone 1
+setblock ~ ~53 ~-114 minecraft:stained_hardened_clay
+setblock ~ ~53 ~-115 minecraft:sandstone 1
+setblock ~ ~53 ~-117 minecraft:stained_hardened_clay
+fill ~ ~53 ~-118 ~ ~58 ~-118 minecraft:planks 2
+fill ~ ~53 ~-121 ~ ~54 ~-121 minecraft:sandstone 1
+setblock ~ ~53 ~-122 minecraft:sponge
+setblock ~ ~54 ~-13 minecraft:stained_hardened_clay 4
+setblock ~ ~54 ~-14 minecraft:sponge
+fill ~ ~54 ~-16 ~ ~72 ~-16 minecraft:planks 2
+fill ~ ~54 ~-17 ~ ~69 ~-18 minecraft:planks 2
+fill ~ ~54 ~-19 ~ ~65 ~-20 minecraft:planks 2
+setblock ~ ~54 ~-22 minecraft:planks 2
+fill ~ ~54 ~-25 ~ ~54 ~-26 minecraft:planks 2
+setblock ~ ~54 ~-27 minecraft:sandstone 1
+fill ~ ~54 ~-28 ~ ~55 ~-28 minecraft:stained_hardened_clay
+setblock ~ ~54 ~-30 minecraft:planks 2
+fill ~ ~54 ~-37 ~ ~56 ~-37 minecraft:planks
+fill ~ ~54 ~-45 ~ ~58 ~-45 minecraft:sponge
+fill ~ ~54 ~-71 ~ ~55 ~-71 minecraft:planks 2
+fill ~ ~54 ~-72 ~ ~55 ~-72 minecraft:log 6
+setblock ~ ~54 ~-74 minecraft:sponge
+setblock ~ ~54 ~-75 minecraft:planks 2
+setblock ~ ~54 ~-78 minecraft:planks 2
+fill ~ ~54 ~-80 ~ ~55 ~-80 minecraft:log 6
+fill ~ ~54 ~-82 ~ ~56 ~-82 minecraft:planks 2
+setblock ~ ~54 ~-92 minecraft:log 6
+fill ~ ~54 ~-93 ~ ~58 ~-93 minecraft:sponge
+setblock ~ ~54 ~-101 minecraft:log 6
+setblock ~ ~54 ~-104 minecraft:orange_glazed_terracotta
+fill ~ ~54 ~-105 ~ ~59 ~-105 minecraft:log 6
+fill ~ ~54 ~-108 ~ ~65 ~-108 minecraft:planks 2
+setblock ~ ~54 ~-109 minecraft:sandstone 1
+setblock ~ ~54 ~-110 minecraft:stained_hardened_clay
+fill ~ ~54 ~-111 ~ ~59 ~-111 minecraft:planks 2
+setblock ~ ~54 ~-112 minecraft:planks 2
+setblock ~ ~54 ~-113 minecraft:stained_hardened_clay
+fill ~ ~54 ~-114 ~ ~54 ~-117 minecraft:planks 2
+fill ~ ~54 ~-119 ~ ~104 ~-119 minecraft:planks 2
+fill ~ ~54 ~-122 ~ ~55 ~-122 minecraft:planks 2
+setblock ~ ~54 ~-123 minecraft:sponge
+setblock ~ ~55 ~-13 minecraft:sponge
+fill ~ ~55 ~-14 ~ ~59 ~-14 minecraft:planks 2
+setblock ~ ~55 ~-22 minecraft:sandstone 1
+setblock ~ ~55 ~-25 minecraft:stained_hardened_clay
+fill ~ ~55 ~-26 ~ ~63 ~-26 minecraft:planks 2
+setblock ~ ~55 ~-27 minecraft:stained_hardened_clay
+setblock ~ ~55 ~-30 minecraft:stained_hardened_clay
+fill ~ ~55 ~-34 ~ ~56 ~-34 minecraft:log 6
+setblock ~ ~55 ~-35 minecraft:orange_glazed_terracotta
+fill ~ ~55 ~-36 ~ ~57 ~-36 minecraft:planks
+setblock ~ ~55 ~-58 minecraft:log 6
+setblock ~ ~55 ~-60 minecraft:log 6
+fill ~ ~55 ~-73 ~ ~56 ~-74 minecraft:orange_glazed_terracotta
+setblock ~ ~55 ~-75 minecraft:sponge
+fill ~ ~55 ~-76 ~ ~56 ~-77 minecraft:orange_glazed_terracotta
+setblock ~ ~55 ~-78 minecraft:log 6
+setblock ~ ~55 ~-79 minecraft:sponge
+setblock ~ ~55 ~-81 minecraft:log 6
+fill ~ ~55 ~-92 ~ ~57 ~-92 minecraft:planks 2
+fill ~ ~55 ~-95 ~ ~57 ~-95 minecraft:sponge
+fill ~ ~55 ~-102 ~ ~55 ~-104 minecraft:log 6
+fill ~ ~55 ~-106 ~ ~60 ~-106 minecraft:log 6
+fill ~ ~55 ~-109 ~ ~58 ~-110 minecraft:planks 2
+setblock ~ ~55 ~-112 minecraft:stained_hardened_clay
+fill ~ ~55 ~-113 ~ ~55 ~-114 minecraft:sandstone 1
+fill ~ ~55 ~-115 ~ ~83 ~-115 minecraft:planks 2
+fill ~ ~55 ~-116 ~ ~73 ~-117 minecraft:planks 2
+fill ~ ~55 ~-120 ~ ~58 ~-120 minecraft:planks 2
+setblock ~ ~55 ~-121 minecraft:planks 2
+fill ~ ~55 ~-123 ~ ~57 ~-123 minecraft:planks 2
+fill ~ ~56 ~-12 ~ ~57 ~-12 minecraft:sponge
+fill ~ ~56 ~-13 ~ ~58 ~-13 minecraft:planks 2
+fill ~ ~56 ~-22 ~ ~76 ~-22 minecraft:planks 2
+fill ~ ~56 ~-25 ~ ~86 ~-25 minecraft:planks 2
+fill ~ ~56 ~-27 ~ ~59 ~-28 minecraft:planks 2
+fill ~ ~56 ~-30 ~ ~61 ~-30 minecraft:planks 2
+fill ~ ~56 ~-33 ~ ~58 ~-33 minecraft:log 6
+fill ~ ~56 ~-35 ~ ~57 ~-35 minecraft:planks
+fill ~ ~56 ~-44 ~ ~57 ~-44 minecraft:planks 2
+fill ~ ~56 ~-48 ~ ~57 ~-48 minecraft:log 6
+setblock ~ ~56 ~-55 minecraft:log 6
+fill ~ ~56 ~-58 ~ ~65 ~-58 minecraft:planks 2
+setblock ~ ~56 ~-59 minecraft:log 6
+fill ~ ~56 ~-60 ~ ~64 ~-60 minecraft:planks 2
+setblock ~ ~56 ~-71 minecraft:log 6
+setblock ~ ~56 ~-72 minecraft:orange_glazed_terracotta
+setblock ~ ~56 ~-75 minecraft:orange_glazed_terracotta
+fill ~ ~56 ~-78 ~ ~56 ~-80 minecraft:orange_glazed_terracotta
+setblock ~ ~56 ~-81 minecraft:sponge
+fill ~ ~56 ~-103 ~ ~56 ~-104 minecraft:log 6
+fill ~ ~56 ~-112 ~ ~59 ~-112 minecraft:planks 2
+setblock ~ ~56 ~-113 minecraft:stained_hardened_clay
+fill ~ ~56 ~-114 ~ ~82 ~-114 minecraft:planks 2
+setblock ~ ~56 ~-121 minecraft:stained_hardened_clay
+setblock ~ ~56 ~-122 minecraft:sandstone 1
+setblock ~ ~56 ~-124 minecraft:log 6
+setblock ~ ~57 ~-11 minecraft:planks
+fill ~ ~57 ~-32 ~ ~61 ~-32 minecraft:log 6
+fill ~ ~57 ~-34 ~ ~59 ~-34 minecraft:orange_glazed_terracotta
+fill ~ ~57 ~-49 ~ ~59 ~-52 minecraft:sponge
+setblock ~ ~57 ~-53 minecraft:log 6
+fill ~ ~57 ~-55 ~ ~58 ~-55 minecraft:planks 2
+fill ~ ~57 ~-59 ~ ~64 ~-59 minecraft:planks 2
+fill ~ ~57 ~-71 ~ ~58 ~-71 minecraft:planks 2
+fill ~ ~57 ~-72 ~ ~58 ~-72 minecraft:log 6
+fill ~ ~57 ~-73 ~ ~59 ~-73 minecraft:planks 2
+fill ~ ~57 ~-74 ~ ~58 ~-75 minecraft:planks 2
+setblock ~ ~57 ~-76 minecraft:log 6
+fill ~ ~57 ~-77 ~ ~59 ~-79 minecraft:planks 2
+fill ~ ~57 ~-80 ~ ~57 ~-82 minecraft:log 6
+fill ~ ~57 ~-96 ~ ~60 ~-96 minecraft:planks 2
+fill ~ ~57 ~-104 ~ ~58 ~-104 minecraft:log 6
+fill ~ ~57 ~-113 ~ ~81 ~-113 minecraft:planks 2
+fill ~ ~57 ~-121 ~ ~67 ~-122 minecraft:planks 2
+fill ~ ~57 ~-124 ~ ~109 ~-124 minecraft:planks 2
+setblock ~ ~58 ~-11 minecraft:sponge
+setblock ~ ~58 ~-12 minecraft:planks 2
+setblock ~ ~58 ~-35 minecraft:orange_glazed_terracotta
+fill ~ ~58 ~-48 ~ ~61 ~-48 minecraft:sponge
+fill ~ ~58 ~-53 ~ ~61 ~-53 minecraft:planks 2
+setblock ~ ~58 ~-76 minecraft:planks 2
+fill ~ ~58 ~-80 ~ ~59 ~-81 minecraft:planks 2
+fill ~ ~58 ~-82 ~ ~59 ~-83 minecraft:log 6
+setblock ~ ~58 ~-92 minecraft:log 6
+fill ~ ~58 ~-95 ~ ~60 ~-95 minecraft:planks 2
+fill ~ ~58 ~-107 ~ ~59 ~-107 minecraft:log 6
+setblock ~ ~58 ~-123 minecraft:stained_hardened_clay
+fill ~ ~58 ~-125 ~ ~60 ~-125 minecraft:sponge
+setblock ~ ~59 ~-10 minecraft:sponge
+fill ~ ~59 ~-11 ~ ~61 ~-11 minecraft:planks 2
+fill ~ ~59 ~-12 ~ ~60 ~-12 minecraft:sandstone 1
+fill ~ ~59 ~-13 ~ ~60 ~-13 minecraft:stained_hardened_clay
+fill ~ ~59 ~-31 ~ ~62 ~-31 minecraft:log 6
+fill ~ ~59 ~-33 ~ ~61 ~-33 minecraft:orange_glazed_terracotta
+setblock ~ ~59 ~-45 minecraft:planks 2
+fill ~ ~59 ~-55 ~ ~60 ~-55 minecraft:stained_hardened_clay
+setblock ~ ~59 ~-57 minecraft:stained_hardened_clay
+fill ~ ~59 ~-70 ~ ~59 ~-71 minecraft:log 6
+setblock ~ ~59 ~-72 minecraft:planks 2
+setblock ~ ~59 ~-74 minecraft:log 6
+setblock ~ ~59 ~-75 minecraft:planks 2
+fill ~ ~59 ~-76 ~ ~60 ~-76 minecraft:log 6
+fill ~ ~59 ~-91 ~ ~59 ~-92 minecraft:sponge
+fill ~ ~59 ~-93 ~ ~60 ~-93 minecraft:log 6
+fill ~ ~59 ~-109 ~ ~59 ~-110 minecraft:stained_hardened_clay
+setblock ~ ~59 ~-118 minecraft:log 6
+setblock ~ ~59 ~-120 minecraft:log 6
+fill ~ ~59 ~-123 ~ ~108 ~-123 minecraft:planks 2
+setblock ~ ~59 ~-126 minecraft:planks 2
+setblock ~ ~60 ~-10 minecraft:log 6
+setblock ~ ~60 ~-14 minecraft:stained_hardened_clay
+setblock ~ ~60 ~-27 minecraft:stained_hardened_clay
+fill ~ ~60 ~-28 ~ ~84 ~-28 minecraft:planks 2
+setblock ~ ~60 ~-34 minecraft:planks
+setblock ~ ~60 ~-47 minecraft:stained_hardened_clay 4
+setblock ~ ~60 ~-49 minecraft:orange_glazed_terracotta
+setblock ~ ~60 ~-50 minecraft:log 6
+fill ~ ~60 ~-51 ~ ~61 ~-52 minecraft:planks 2
+setblock ~ ~60 ~-56 minecraft:stained_hardened_clay
+fill ~ ~60 ~-57 ~ ~64 ~-57 minecraft:planks 2
+setblock ~ ~60 ~-67 minecraft:log 6
+fill ~ ~60 ~-68 ~ ~62 ~-68 minecraft:sponge
+fill ~ ~60 ~-69 ~ ~61 ~-74 minecraft:sponge
+setblock ~ ~60 ~-75 minecraft:sponge
+setblock ~ ~60 ~-77 minecraft:log 6
+fill ~ ~60 ~-78 ~ ~62 ~-79 minecraft:planks 2
+setblock ~ ~60 ~-80 minecraft:sponge
+fill ~ ~60 ~-81 ~ ~62 ~-82 minecraft:planks 2
+fill ~ ~60 ~-83 ~ ~60 ~-84 minecraft:log 6
+fill ~ ~60 ~-91 ~ ~76 ~-91 minecraft:planks 2
+setblock ~ ~60 ~-92 minecraft:log 6
+setblock ~ ~60 ~-94 minecraft:planks 2
+fill ~ ~60 ~-105 ~ ~63 ~-105 minecraft:sponge
+fill ~ ~60 ~-107 ~ ~69 ~-107 minecraft:planks 2
+fill ~ ~60 ~-109 ~ ~78 ~-110 minecraft:planks 2
+fill ~ ~60 ~-111 ~ ~60 ~-112 minecraft:stained_hardened_clay
+fill ~ ~60 ~-118 ~ ~106 ~-118 minecraft:planks 2
+fill ~ ~60 ~-120 ~ ~101 ~-120 minecraft:planks 2
+fill ~ ~60 ~-126 ~ ~64 ~-126 minecraft:sponge
+setblock ~ ~61 ~-9 minecraft:log 6
+fill ~ ~61 ~-10 ~ ~86 ~-10 minecraft:planks 2
+setblock ~ ~61 ~-12 minecraft:stained_hardened_clay
+fill ~ ~61 ~-13 ~ ~114 ~-14 minecraft:planks 2
+fill ~ ~61 ~-27 ~ ~63 ~-27 minecraft:planks 2
+fill ~ ~61 ~-45 ~ ~63 ~-45 minecraft:planks 2
+setblock ~ ~61 ~-47 minecraft:orange_glazed_terracotta
+setblock ~ ~61 ~-49 minecraft:log 6
+setblock ~ ~61 ~-50 minecraft:planks 2
+fill ~ ~61 ~-55 ~ ~61 ~-56 minecraft:planks 2
+setblock ~ ~61 ~-63 minecraft:stained_hardened_clay
+setblock ~ ~61 ~-64 minecraft:sandstone 1
+fill ~ ~61 ~-65 ~ ~62 ~-65 minecraft:stained_hardened_clay
+fill ~ ~61 ~-67 ~ ~62 ~-67 minecraft:sponge
+fill ~ ~61 ~-75 ~ ~63 ~-77 minecraft:planks 2
+fill ~ ~61 ~-80 ~ ~62 ~-80 minecraft:log 6
+fill ~ ~61 ~-83 ~ ~67 ~-84 minecraft:planks 2
+setblock ~ ~61 ~-85 minecraft:log 6
+setblock ~ ~61 ~-88 minecraft:stained_hardened_clay
+setblock ~ ~61 ~-92 minecraft:planks 2
+fill ~ ~61 ~-93 ~ ~62 ~-96 minecraft:sponge
+fill ~ ~61 ~-104 ~ ~67 ~-104 minecraft:sponge
+setblock ~ ~61 ~-106 minecraft:sponge
+fill ~ ~61 ~-111 ~ ~79 ~-112 minecraft:planks 2
+setblock ~ ~61 ~-125 minecraft:log 6
+setblock ~ ~62 ~-8 minecraft:sponge
+fill ~ ~62 ~-9 ~ ~63 ~-9 minecraft:planks 2
+setblock ~ ~62 ~-11 minecraft:sandstone 1
+fill ~ ~62 ~-12 ~ ~101 ~-12 minecraft:planks 2
+setblock ~ ~62 ~-29 minecraft:sandstone 1
+fill ~ ~62 ~-30 ~ ~63 ~-30 minecraft:stained_hardened_clay
+setblock ~ ~62 ~-32 minecraft:orange_glazed_terracotta
+fill ~ ~62 ~-33 ~ ~63 ~-33 minecraft:log 6
+setblock ~ ~62 ~-47 minecraft:sponge
+fill ~ ~62 ~-48 ~ ~62 ~-49 minecraft:planks 2
+setblock ~ ~62 ~-50 minecraft:log 6
+fill ~ ~62 ~-51 ~ ~64 ~-54 minecraft:sponge
+fill ~ ~62 ~-55 ~ ~62 ~-56 minecraft:sponge
+fill ~ ~62 ~-62 ~ ~62 ~-63 minecraft:sandstone 1
+setblock ~ ~62 ~-64 minecraft:stained_hardened_clay
+setblock ~ ~62 ~-69 minecraft:log 6
+fill ~ ~62 ~-70 ~ ~63 ~-72 minecraft:planks 2
+fill ~ ~62 ~-73 ~ ~62 ~-74 minecraft:planks 2
+fill ~ ~62 ~-85 ~ ~63 ~-85 minecraft:planks 2
+fill ~ ~62 ~-88 ~ ~63 ~-88 minecraft:planks 2
+setblock ~ ~62 ~-89 minecraft:stained_hardened_clay
+fill ~ ~62 ~-92 ~ ~63 ~-92 minecraft:log 6
+fill ~ ~62 ~-97 ~ ~64 ~-97 minecraft:sponge
+fill ~ ~62 ~-98 ~ ~63 ~-98 minecraft:planks 2
+setblock ~ ~62 ~-106 minecraft:planks 2
+fill ~ ~62 ~-125 ~ ~83 ~-125 minecraft:planks 2
+setblock ~ ~63 ~-8 minecraft:log 6
+fill ~ ~63 ~-11 ~ ~87 ~-11 minecraft:planks 2
+fill ~ ~63 ~-29 ~ ~83 ~-29 minecraft:planks 2
+fill ~ ~63 ~-31 ~ ~80 ~-31 minecraft:planks 2
+setblock ~ ~63 ~-32 minecraft:planks 2
+setblock ~ ~63 ~-34 minecraft:planks 2
+fill ~ ~63 ~-46 ~ ~64 ~-47 minecraft:log 6
+setblock ~ ~63 ~-48 minecraft:log 6
+setblock ~ ~63 ~-49 minecraft:planks 2
+setblock ~ ~63 ~-50 minecraft:sponge
+fill ~ ~63 ~-55 ~ ~66 ~-56 minecraft:planks 2
+fill ~ ~63 ~-62 ~ ~64 ~-62 minecraft:stained_hardened_clay
+fill ~ ~63 ~-63 ~ ~63 ~-64 minecraft:sandstone 1
+fill ~ ~63 ~-65 ~ ~64 ~-65 minecraft:planks 2
+fill ~ ~63 ~-66 ~ ~63 ~-67 minecraft:log 6
+fill ~ ~63 ~-68 ~ ~63 ~-69 minecraft:planks 2
+setblock ~ ~63 ~-73 minecraft:log 6
+setblock ~ ~63 ~-74 minecraft:planks 2
+fill ~ ~63 ~-78 ~ ~64 ~-78 minecraft:stained_hardened_clay
+fill ~ ~63 ~-79 ~ ~65 ~-79 minecraft:planks 2
+fill ~ ~63 ~-80 ~ ~79 ~-80 minecraft:sponge
+fill ~ ~63 ~-81 ~ ~69 ~-81 minecraft:sponge
+fill ~ ~63 ~-82 ~ ~64 ~-82 minecraft:log 6
+setblock ~ ~63 ~-87 minecraft:log 6
+fill ~ ~63 ~-89 ~ ~64 ~-89 minecraft:planks 2
+setblock ~ ~63 ~-93 minecraft:log 6
+fill ~ ~63 ~-94 ~ ~63 ~-96 minecraft:sponge
+fill ~ ~63 ~-103 ~ ~66 ~-103 minecraft:sponge
+setblock ~ ~63 ~-106 minecraft:log 6
+setblock ~ ~63 ~-127 minecraft:planks 2
+setblock ~ ~64 ~-7 minecraft:log 6
+fill ~ ~64 ~-8 ~ ~65 ~-8 minecraft:sponge
+setblock ~ ~64 ~-9 minecraft:log 6
+fill ~ ~64 ~-26 ~ ~64 ~-27 minecraft:stained_hardened_clay
+fill ~ ~64 ~-30 ~ ~83 ~-30 minecraft:planks 2
+fill ~ ~64 ~-32 ~ ~65 ~-34 minecraft:sponge
+setblock ~ ~64 ~-35 minecraft:planks 2
+setblock ~ ~64 ~-45 minecraft:log 6
+fill ~ ~64 ~-48 ~ ~64 ~-49 minecraft:sponge
+setblock ~ ~64 ~-50 minecraft:orange_glazed_terracotta
+setblock ~ ~64 ~-61 minecraft:sandstone 1
+fill ~ ~64 ~-63 ~ ~64 ~-64 minecraft:planks 2
+fill ~ ~64 ~-66 ~ ~71 ~-66 minecraft:sponge
+fill ~ ~64 ~-67 ~ ~66 ~-68 minecraft:sponge
+fill ~ ~64 ~-69 ~ ~65 ~-70 minecraft:sponge
+fill ~ ~64 ~-71 ~ ~64 ~-74 minecraft:sponge
+fill ~ ~64 ~-75 ~ ~65 ~-75 minecraft:log 6
+fill ~ ~64 ~-76 ~ ~64 ~-77 minecraft:planks 2
+setblock ~ ~64 ~-85 minecraft:sandstone 1
+setblock ~ ~64 ~-87 minecraft:sponge
+setblock ~ ~64 ~-88 minecraft:log 6
+fill ~ ~64 ~-92 ~ ~84 ~-92 minecraft:planks 2
+fill ~ ~64 ~-93 ~ ~68 ~-93 minecraft:planks 2
+setblock ~ ~64 ~-94 minecraft:log 6
+fill ~ ~64 ~-95 ~ ~64 ~-96 minecraft:sponge
+setblock ~ ~64 ~-98 minecraft:sponge
+setblock ~ ~64 ~-99 minecraft:planks 2
+fill ~ ~64 ~-105 ~ ~66 ~-105 minecraft:log 6
+fill ~ ~64 ~-106 ~ ~66 ~-106 minecraft:planks 2
+fill ~ ~64 ~-127 ~ ~65 ~-127 minecraft:sponge
+fill ~ ~65 ~-7 ~ ~70 ~-7 minecraft:sponge
+fill ~ ~65 ~-9 ~ ~84 ~-9 minecraft:planks 2
+fill ~ ~65 ~-26 ~ ~85 ~-26 minecraft:planks 2
+fill ~ ~65 ~-27 ~ ~73 ~-27 minecraft:planks 2
+fill ~ ~65 ~-35 ~ ~71 ~-35 minecraft:sponge
+setblock ~ ~65 ~-45 minecraft:sponge
+fill ~ ~65 ~-46 ~ ~67 ~-46 minecraft:planks 2
+setblock ~ ~65 ~-47 minecraft:log 6
+fill ~ ~65 ~-48 ~ ~65 ~-49 minecraft:orange_glazed_terracotta
+fill ~ ~65 ~-50 ~ ~72 ~-50 minecraft:sponge
+fill ~ ~65 ~-51 ~ ~66 ~-51 minecraft:log 6
+fill ~ ~65 ~-52 ~ ~65 ~-53 minecraft:planks 2
+setblock ~ ~65 ~-54 minecraft:log 6
+setblock ~ ~65 ~-57 minecraft:stained_hardened_clay
+fill ~ ~65 ~-59 ~ ~65 ~-61 minecraft:stained_hardened_clay
+fill ~ ~65 ~-62 ~ ~65 ~-63 minecraft:sandstone 1
+setblock ~ ~65 ~-64 minecraft:planks 2
+fill ~ ~65 ~-65 ~ ~71 ~-65 minecraft:sponge
+fill ~ ~65 ~-71 ~ ~65 ~-74 minecraft:log 6
+setblock ~ ~65 ~-76 minecraft:log 6
+fill ~ ~65 ~-77 ~ ~66 ~-78 minecraft:planks 2
+fill ~ ~65 ~-82 ~ ~66 ~-82 minecraft:planks 2
+fill ~ ~65 ~-85 ~ ~67 ~-85 minecraft:planks 2
+setblock ~ ~65 ~-86 minecraft:sandstone 1
+setblock ~ ~65 ~-87 minecraft:planks 2
+setblock ~ ~65 ~-88 minecraft:sponge
+setblock ~ ~65 ~-89 minecraft:log 6
+fill ~ ~65 ~-94 ~ ~66 ~-94 minecraft:planks 2
+setblock ~ ~65 ~-95 minecraft:log 6
+setblock ~ ~65 ~-96 minecraft:sponge
+fill ~ ~65 ~-97 ~ ~66 ~-97 minecraft:orange_glazed_terracotta
+setblock ~ ~65 ~-98 minecraft:stained_hardened_clay 4
+fill ~ ~65 ~-99 ~ ~66 ~-99 minecraft:sponge
+fill ~ ~65 ~-126 ~ ~67 ~-126 minecraft:log 6
+fill ~ ~66 ~-6 ~ ~71 ~-6 minecraft:sponge
+fill ~ ~66 ~-8 ~ ~67 ~-8 minecraft:log 6
+setblock ~ ~66 ~-19 minecraft:log 6
+fill ~ ~66 ~-20 ~ ~108 ~-20 minecraft:planks 2
+setblock ~ ~66 ~-32 minecraft:log 6
+fill ~ ~66 ~-33 ~ ~66 ~-34 minecraft:sponge
+setblock ~ ~66 ~-36 minecraft:planks 2
+fill ~ ~66 ~-45 ~ ~67 ~-45 minecraft:log 6
+fill ~ ~66 ~-47 ~ ~68 ~-47 minecraft:sponge
+fill ~ ~66 ~-48 ~ ~66 ~-49 minecraft:sponge
+setblock ~ ~66 ~-52 minecraft:log 6
+fill ~ ~66 ~-53 ~ ~66 ~-54 minecraft:planks 2
+fill ~ ~66 ~-57 ~ ~70 ~-57 minecraft:planks 2
+setblock ~ ~66 ~-58 minecraft:stained_hardened_clay
+fill ~ ~66 ~-59 ~ ~70 ~-59 minecraft:planks 2
+fill ~ ~66 ~-60 ~ ~66 ~-62 minecraft:stained_hardened_clay
+fill ~ ~66 ~-63 ~ ~68 ~-63 minecraft:planks 2
+fill ~ ~66 ~-64 ~ ~72 ~-64 minecraft:sponge
+fill ~ ~66 ~-69 ~ ~68 ~-75 minecraft:planks 2
+setblock ~ ~66 ~-76 minecraft:planks 2
+fill ~ ~66 ~-79 ~ ~68 ~-79 minecraft:sponge
+fill ~ ~66 ~-86 ~ ~68 ~-86 minecraft:planks 2
+setblock ~ ~66 ~-87 minecraft:sandstone 1
+fill ~ ~66 ~-88 ~ ~68 ~-89 minecraft:planks 2
+setblock ~ ~66 ~-90 minecraft:log 6
+fill ~ ~66 ~-95 ~ ~67 ~-95 minecraft:planks 2
+setblock ~ ~66 ~-96 minecraft:log 6
+fill ~ ~66 ~-98 ~ ~70 ~-98 minecraft:sponge
+setblock ~ ~66 ~-108 minecraft:log 6
+setblock ~ ~66 ~-127 minecraft:orange_glazed_terracotta
+fill ~ ~67 ~-19 ~ ~113 ~-19 minecraft:planks 2
+fill ~ ~67 ~-32 ~ ~73 ~-32 minecraft:planks 2
+fill ~ ~67 ~-33 ~ ~78 ~-33 minecraft:log 6
+fill ~ ~67 ~-34 ~ ~68 ~-34 minecraft:sponge
+fill ~ ~67 ~-36 ~ ~72 ~-36 minecraft:sponge
+setblock ~ ~67 ~-44 minecraft:sponge
+fill ~ ~67 ~-48 ~ ~67 ~-49 minecraft:log 6
+fill ~ ~67 ~-51 ~ ~70 ~-52 minecraft:sponge
+fill ~ ~67 ~-53 ~ ~68 ~-53 minecraft:sponge
+fill ~ ~67 ~-54 ~ ~67 ~-55 minecraft:sponge
+fill ~ ~67 ~-56 ~ ~70 ~-56 minecraft:planks 2
+fill ~ ~67 ~-58 ~ ~71 ~-58 minecraft:planks 2
+fill ~ ~67 ~-60 ~ ~68 ~-62 minecraft:planks 2
+fill ~ ~67 ~-67 ~ ~68 ~-67 minecraft:log 6
+fill ~ ~67 ~-68 ~ ~68 ~-68 minecraft:planks 2
+fill ~ ~67 ~-76 ~ ~68 ~-77 minecraft:stained_hardened_clay
+setblock ~ ~67 ~-78 minecraft:stained_hardened_clay
+fill ~ ~67 ~-82 ~ ~69 ~-82 minecraft:sponge
+setblock ~ ~67 ~-87 minecraft:planks 2
+fill ~ ~67 ~-90 ~ ~72 ~-90 minecraft:planks 2
+fill ~ ~67 ~-94 ~ ~69 ~-94 minecraft:sandstone 1
+fill ~ ~67 ~-96 ~ ~69 ~-96 minecraft:planks 2
+fill ~ ~67 ~-97 ~ ~69 ~-97 minecraft:log 6
+fill ~ ~67 ~-99 ~ ~69 ~-99 minecraft:planks 2
+fill ~ ~67 ~-102 ~ ~68 ~-102 minecraft:sponge
+setblock ~ ~67 ~-103 minecraft:orange_glazed_terracotta
+setblock ~ ~67 ~-105 minecraft:sponge
+fill ~ ~67 ~-106 ~ ~71 ~-106 minecraft:log 6
+fill ~ ~67 ~-108 ~ ~78 ~-108 minecraft:planks 2
+setblock ~ ~67 ~-127 minecraft:stained_hardened_clay 4
+fill ~ ~68 ~-8 ~ ~84 ~-8 minecraft:planks 2
+setblock ~ ~68 ~-44 minecraft:log 6
+fill ~ ~68 ~-45 ~ ~69 ~-45 minecraft:sponge
+setblock ~ ~68 ~-46 minecraft:log 6
+fill ~ ~68 ~-48 ~ ~72 ~-48 minecraft:sponge
+fill ~ ~68 ~-49 ~ ~71 ~-49 minecraft:sponge
+setblock ~ ~68 ~-54 minecraft:log 6
+fill ~ ~68 ~-55 ~ ~70 ~-55 minecraft:planks 2
+setblock ~ ~68 ~-78 minecraft:planks 2
+fill ~ ~68 ~-83 ~ ~68 ~-84 minecraft:sponge
+setblock ~ ~68 ~-85 minecraft:log 6
+setblock ~ ~68 ~-87 minecraft:stained_hardened_clay
+fill ~ ~68 ~-95 ~ ~79 ~-95 minecraft:sandstone 1
+setblock ~ ~68 ~-103 minecraft:stained_hardened_clay 4
+fill ~ ~68 ~-104 ~ ~69 ~-104 minecraft:orange_glazed_terracotta
+setblock ~ ~68 ~-105 minecraft:orange_glazed_terracotta
+setblock ~ ~68 ~-121 minecraft:log 6
+fill ~ ~68 ~-122 ~ ~103 ~-122 minecraft:planks 2
+fill ~ ~68 ~-126 ~ ~80 ~-126 minecraft:planks 2
+fill ~ ~68 ~-127 ~ ~69 ~-127 minecraft:orange_glazed_terracotta
+fill ~ ~69 ~-5 ~ ~70 ~-5 minecraft:planks 2
+setblock ~ ~69 ~-34 minecraft:orange_glazed_terracotta
+fill ~ ~69 ~-44 ~ ~74 ~-44 minecraft:planks 2
+fill ~ ~69 ~-46 ~ ~71 ~-46 minecraft:sponge
+setblock ~ ~69 ~-47 minecraft:stained_hardened_clay 4
+setblock ~ ~69 ~-53 minecraft:log 6
+setblock ~ ~69 ~-54 minecraft:planks 2
+fill ~ ~69 ~-60 ~ ~70 ~-61 minecraft:log 6
+fill ~ ~69 ~-62 ~ ~71 ~-62 minecraft:planks 2
+setblock ~ ~69 ~-63 minecraft:sponge
+fill ~ ~69 ~-67 ~ ~70 ~-70 minecraft:sponge
+fill ~ ~69 ~-71 ~ ~69 ~-74 minecraft:sponge
+fill ~ ~69 ~-75 ~ ~74 ~-75 minecraft:planks 2
+fill ~ ~69 ~-76 ~ ~69 ~-77 minecraft:sandstone 1
+fill ~ ~69 ~-78 ~ ~70 ~-78 minecraft:stained_hardened_clay
+setblock ~ ~69 ~-79 minecraft:planks 2
+fill ~ ~69 ~-83 ~ ~70 ~-83 minecraft:planks 2
+setblock ~ ~69 ~-84 minecraft:log 6
+setblock ~ ~69 ~-85 minecraft:sponge
+setblock ~ ~69 ~-86 minecraft:log 6
+setblock ~ ~69 ~-87 minecraft:sandstone 1
+setblock ~ ~69 ~-88 minecraft:stained_hardened_clay
+fill ~ ~69 ~-89 ~ ~73 ~-89 minecraft:planks 2
+setblock ~ ~69 ~-93 minecraft:stained_hardened_clay
+setblock ~ ~69 ~-102 minecraft:stained_hardened_clay 4
+fill ~ ~69 ~-103 ~ ~70 ~-103 minecraft:orange_glazed_terracotta
+fill ~ ~69 ~-105 ~ ~73 ~-105 minecraft:log 6
+fill ~ ~69 ~-121 ~ ~101 ~-121 minecraft:planks 2
+setblock ~ ~70 ~-17 minecraft:log 6
+fill ~ ~70 ~-18 ~ ~72 ~-18 minecraft:planks 2
+fill ~ ~70 ~-34 ~ ~71 ~-34 minecraft:sponge
+fill ~ ~70 ~-37 ~ ~71 ~-37 minecraft:planks 2
+fill ~ ~70 ~-45 ~ ~71 ~-45 minecraft:planks 2
+fill ~ ~70 ~-47 ~ ~72 ~-47 minecraft:sponge
+fill ~ ~70 ~-53 ~ ~72 ~-53 minecraft:sponge
+setblock ~ ~70 ~-54 minecraft:log 6
+setblock ~ ~70 ~-63 minecraft:planks 2
+fill ~ ~70 ~-71 ~ ~70 ~-72 minecraft:log 6
+setblock ~ ~70 ~-73 minecraft:sponge
+fill ~ ~70 ~-74 ~ ~74 ~-74 minecraft:planks 2
+fill ~ ~70 ~-76 ~ ~73 ~-76 minecraft:planks 2
+setblock ~ ~70 ~-77 minecraft:sandstone 1
+setblock ~ ~70 ~-79 minecraft:log 6
+setblock ~ ~70 ~-81 minecraft:log 6
+fill ~ ~70 ~-82 ~ ~71 ~-82 minecraft:planks 2
+fill ~ ~70 ~-84 ~ ~70 ~-87 minecraft:planks 2
+setblock ~ ~70 ~-88 minecraft:sandstone 1
+setblock ~ ~70 ~-93 minecraft:sandstone 1
+fill ~ ~70 ~-94 ~ ~72 ~-94 minecraft:sandstone
+fill ~ ~70 ~-96 ~ ~77 ~-96 minecraft:sandstone 1
+fill ~ ~70 ~-97 ~ ~79 ~-97 minecraft:planks 2
+fill ~ ~70 ~-104 ~ ~73 ~-104 minecraft:sponge
+setblock ~ ~70 ~-107 minecraft:log 6
+setblock ~ ~70 ~-127 minecraft:sponge
+fill ~ ~71 ~-5 ~ ~76 ~-5 minecraft:sponge
+fill ~ ~71 ~-7 ~ ~76 ~-7 minecraft:log 6
+fill ~ ~71 ~-17 ~ ~105 ~-17 minecraft:planks 2
+setblock ~ ~71 ~-51 minecraft:orange_glazed_terracotta
+fill ~ ~71 ~-52 ~ ~72 ~-52 minecraft:sponge
+fill ~ ~71 ~-54 ~ ~73 ~-54 minecraft:sponge
+fill ~ ~71 ~-55 ~ ~72 ~-55 minecraft:sponge
+fill ~ ~71 ~-56 ~ ~72 ~-56 minecraft:log 6
+setblock ~ ~71 ~-57 minecraft:log 6
+setblock ~ ~71 ~-59 minecraft:log 6
+setblock ~ ~71 ~-60 minecraft:sponge
+fill ~ ~71 ~-61 ~ ~74 ~-61 minecraft:log 6
+fill ~ ~71 ~-63 ~ ~77 ~-63 minecraft:sponge
+setblock ~ ~71 ~-67 minecraft:log 6
+fill ~ ~71 ~-68 ~ ~73 ~-68 minecraft:planks 2
+fill ~ ~71 ~-69 ~ ~72 ~-73 minecraft:planks 2
+fill ~ ~71 ~-77 ~ ~72 ~-78 minecraft:planks 2
+fill ~ ~71 ~-79 ~ ~73 ~-79 minecraft:sponge
+setblock ~ ~71 ~-81 minecraft:planks 2
+setblock ~ ~71 ~-83 minecraft:stained_hardened_clay
+fill ~ ~71 ~-84 ~ ~72 ~-87 minecraft:sandstone 1
+setblock ~ ~71 ~-88 minecraft:planks 2
+fill ~ ~71 ~-93 ~ ~73 ~-93 minecraft:planks 2
+setblock ~ ~71 ~-98 minecraft:planks 2
+fill ~ ~71 ~-103 ~ ~72 ~-103 minecraft:sponge
+fill ~ ~71 ~-107 ~ ~75 ~-107 minecraft:planks 2
+fill ~ ~71 ~-127 ~ ~74 ~-127 minecraft:log 6
+fill ~ ~71 ~-128 ~ ~73 ~-128 minecraft:sponge
+setblock ~ ~72 ~-6 minecraft:orange_glazed_terracotta
+fill ~ ~72 ~-34 ~ ~74 ~-34 minecraft:orange_glazed_terracotta
+fill ~ ~72 ~-35 ~ ~73 ~-35 minecraft:stained_hardened_clay 4
+setblock ~ ~72 ~-37 minecraft:sponge
+setblock ~ ~72 ~-45 minecraft:sponge
+setblock ~ ~72 ~-46 minecraft:planks 2
+setblock ~ ~72 ~-49 minecraft:orange_glazed_terracotta
+setblock ~ ~72 ~-51 minecraft:sponge
+fill ~ ~72 ~-57 ~ ~72 ~-59 minecraft:sponge
+fill ~ ~72 ~-60 ~ ~81 ~-60 minecraft:log 6
+fill ~ ~72 ~-62 ~ ~76 ~-62 minecraft:sponge
+fill ~ ~72 ~-65 ~ ~73 ~-66 minecraft:planks 2
+setblock ~ ~72 ~-67 minecraft:planks 2
+fill ~ ~72 ~-81 ~ ~75 ~-81 minecraft:sponge
+setblock ~ ~72 ~-82 minecraft:log 6
+setblock ~ ~72 ~-83 minecraft:planks 2
+setblock ~ ~72 ~-88 minecraft:stained_hardened_clay
+setblock ~ ~72 ~-98 minecraft:sponge
+setblock ~ ~72 ~-106 minecraft:planks 2
+fill ~ ~73 ~-6 ~ ~75 ~-6 minecraft:sponge
+setblock ~ ~73 ~-16 minecraft:log 6
+setblock ~ ~73 ~-18 minecraft:log 6
+setblock ~ ~73 ~-36 minecraft:stained_hardened_clay 4
+setblock ~ ~73 ~-45 minecraft:planks 2
+setblock ~ ~73 ~-46 minecraft:sponge
+fill ~ ~73 ~-47 ~ ~74 ~-49 minecraft:log 6
+fill ~ ~73 ~-50 ~ ~73 ~-51 minecraft:log 6
+fill ~ ~73 ~-52 ~ ~76 ~-52 minecraft:planks 2
+setblock ~ ~73 ~-53 minecraft:log 6
+fill ~ ~73 ~-55 ~ ~83 ~-55 minecraft:planks 2
+fill ~ ~73 ~-56 ~ ~82 ~-57 minecraft:planks 2
+fill ~ ~73 ~-58 ~ ~73 ~-59 minecraft:sponge
+setblock ~ ~73 ~-64 minecraft:log 6
+setblock ~ ~73 ~-67 minecraft:log 6
+fill ~ ~73 ~-69 ~ ~75 ~-70 minecraft:sponge
+fill ~ ~73 ~-71 ~ ~73 ~-73 minecraft:planks 2
+setblock ~ ~73 ~-77 minecraft:stained_hardened_clay
+fill ~ ~73 ~-78 ~ ~74 ~-78 minecraft:planks 2
+fill ~ ~73 ~-82 ~ ~75 ~-82 minecraft:sponge
+fill ~ ~73 ~-83 ~ ~74 ~-84 minecraft:sponge
+setblock ~ ~73 ~-85 minecraft:sponge
+setblock ~ ~73 ~-86 minecraft:planks 2
+setblock ~ ~73 ~-87 minecraft:stained_hardened_clay
+setblock ~ ~73 ~-88 minecraft:sandstone 1
+setblock ~ ~73 ~-90 minecraft:log 6
+fill ~ ~73 ~-94 ~ ~74 ~-94 minecraft:sandstone 1
+fill ~ ~73 ~-98 ~ ~82 ~-98 minecraft:planks 2
+fill ~ ~73 ~-103 ~ ~74 ~-103 minecraft:planks 2
+fill ~ ~73 ~-106 ~ ~76 ~-106 minecraft:log 6
+fill ~ ~74 ~-16 ~ ~109 ~-16 minecraft:planks 2
+fill ~ ~74 ~-18 ~ ~103 ~-18 minecraft:planks 2
+setblock ~ ~74 ~-27 minecraft:log 6
+setblock ~ ~74 ~-32 minecraft:log 6
+setblock ~ ~74 ~-35 minecraft:orange_glazed_terracotta
+fill ~ ~74 ~-36 ~ ~75 ~-36 minecraft:sponge
+fill ~ ~74 ~-43 ~ ~75 ~-43 minecraft:planks 2
+fill ~ ~74 ~-45 ~ ~75 ~-45 minecraft:log 6
+setblock ~ ~74 ~-46 minecraft:log 6
+fill ~ ~74 ~-50 ~ ~82 ~-51 minecraft:planks 2
+fill ~ ~74 ~-53 ~ ~82 ~-54 minecraft:planks 2
+setblock ~ ~74 ~-58 minecraft:log 6
+setblock ~ ~74 ~-59 minecraft:sponge
+fill ~ ~74 ~-64 ~ ~78 ~-65 minecraft:sponge
+fill ~ ~74 ~-66 ~ ~77 ~-66 minecraft:sponge
+fill ~ ~74 ~-67 ~ ~76 ~-68 minecraft:sponge
+fill ~ ~74 ~-71 ~ ~76 ~-71 minecraft:sponge
+fill ~ ~74 ~-72 ~ ~75 ~-72 minecraft:sponge
+setblock ~ ~74 ~-73 minecraft:log 6
+setblock ~ ~74 ~-76 minecraft:stained_hardened_clay
+fill ~ ~74 ~-77 ~ ~75 ~-77 minecraft:sandstone 1
+fill ~ ~74 ~-79 ~ ~76 ~-79 minecraft:planks 2
+setblock ~ ~74 ~-85 minecraft:log 6
+setblock ~ ~74 ~-86 minecraft:sponge
+setblock ~ ~74 ~-87 minecraft:log 6
+setblock ~ ~74 ~-88 minecraft:planks 2
+setblock ~ ~74 ~-89 minecraft:sandstone 1
+fill ~ ~74 ~-90 ~ ~78 ~-90 minecraft:planks 2
+fill ~ ~74 ~-93 ~ ~78 ~-93 minecraft:sandstone 1
+setblock ~ ~74 ~-104 minecraft:log 6
+setblock ~ ~74 ~-105 minecraft:sponge
+setblock ~ ~74 ~-116 minecraft:log 6
+fill ~ ~74 ~-117 ~ ~112 ~-117 minecraft:planks 2
+setblock ~ ~74 ~-128 minecraft:log 6
+fill ~ ~75 ~-27 ~ ~85 ~-27 minecraft:planks 2
+setblock ~ ~75 ~-32 minecraft:planks 2
+fill ~ ~75 ~-34 ~ ~78 ~-34 minecraft:sponge
+fill ~ ~75 ~-35 ~ ~76 ~-35 minecraft:sponge
+setblock ~ ~75 ~-44 minecraft:log 6
+fill ~ ~75 ~-46 ~ ~84 ~-46 minecraft:planks 2
+fill ~ ~75 ~-47 ~ ~83 ~-49 minecraft:planks 2
+fill ~ ~75 ~-58 ~ ~82 ~-58 minecraft:planks 2
+fill ~ ~75 ~-59 ~ ~77 ~-59 minecraft:log 6
+setblock ~ ~75 ~-61 minecraft:sponge
+fill ~ ~75 ~-73 ~ ~76 ~-75 minecraft:sponge
+setblock ~ ~75 ~-76 minecraft:planks 2
+setblock ~ ~75 ~-78 minecraft:sandstone 1
+setblock ~ ~75 ~-83 minecraft:log 6
+fill ~ ~75 ~-84 ~ ~77 ~-84 minecraft:planks 2
+fill ~ ~75 ~-85 ~ ~76 ~-85 minecraft:planks 2
+fill ~ ~75 ~-86 ~ ~75 ~-87 minecraft:planks 2
+setblock ~ ~75 ~-88 minecraft:log 6
+fill ~ ~75 ~-89 ~ ~76 ~-89 minecraft:planks 2
+fill ~ ~75 ~-94 ~ ~77 ~-94 minecraft:sandstone
+fill ~ ~75 ~-104 ~ ~76 ~-104 minecraft:planks 2
+setblock ~ ~75 ~-105 minecraft:log 6
+setblock ~ ~75 ~-116 minecraft:planks 2
+fill ~ ~75 ~-127 ~ ~78 ~-128 minecraft:planks 2
+fill ~ ~76 ~-6 ~ ~79 ~-6 minecraft:log 6
+fill ~ ~76 ~-32 ~ ~79 ~-32 minecraft:log 6
+setblock ~ ~76 ~-36 minecraft:planks 2
+fill ~ ~76 ~-43 ~ ~77 ~-43 minecraft:sponge
+fill ~ ~76 ~-44 ~ ~85 ~-44 minecraft:planks 2
+fill ~ ~76 ~-45 ~ ~84 ~-45 minecraft:planks 2
+fill ~ ~76 ~-61 ~ ~77 ~-61 minecraft:log 6
+fill ~ ~76 ~-69 ~ ~76 ~-70 minecraft:log 6
+setblock ~ ~76 ~-72 minecraft:log 6
+setblock ~ ~76 ~-76 minecraft:sponge
+fill ~ ~76 ~-77 ~ ~78 ~-78 minecraft:planks 2
+setblock ~ ~76 ~-81 minecraft:log 6
+fill ~ ~76 ~-82 ~ ~76 ~-83 minecraft:planks 2
+fill ~ ~76 ~-86 ~ ~76 ~-87 minecraft:stained_hardened_clay
+setblock ~ ~76 ~-88 minecraft:planks 2
+fill ~ ~76 ~-99 ~ ~87 ~-99 minecraft:planks 2
+fill ~ ~76 ~-105 ~ ~77 ~-105 minecraft:planks 2
+fill ~ ~76 ~-107 ~ ~81 ~-107 minecraft:log 6
+setblock ~ ~76 ~-116 minecraft:log 6
+setblock ~ ~77 ~-5 minecraft:planks 2
+fill ~ ~77 ~-7 ~ ~82 ~-7 minecraft:planks 2
+setblock ~ ~77 ~-22 minecraft:log 6
+fill ~ ~77 ~-35 ~ ~78 ~-35 minecraft:planks 2
+setblock ~ ~77 ~-42 minecraft:planks 2
+setblock ~ ~77 ~-52 minecraft:log 6
+fill ~ ~77 ~-62 ~ ~83 ~-62 minecraft:log 6
+fill ~ ~77 ~-67 ~ ~78 ~-69 minecraft:planks 2
+fill ~ ~77 ~-70 ~ ~77 ~-71 minecraft:log 6
+fill ~ ~77 ~-72 ~ ~79 ~-73 minecraft:planks 2
+fill ~ ~77 ~-74 ~ ~78 ~-76 minecraft:planks 2
+setblock ~ ~77 ~-79 minecraft:sponge
+fill ~ ~77 ~-81 ~ ~79 ~-82 minecraft:sponge
+setblock ~ ~77 ~-83 minecraft:log 6
+fill ~ ~77 ~-85 ~ ~77 ~-88 minecraft:sandstone 1
+fill ~ ~77 ~-89 ~ ~78 ~-89 minecraft:stained_hardened_clay
+setblock ~ ~77 ~-91 minecraft:sponge
+fill ~ ~77 ~-106 ~ ~78 ~-106 minecraft:planks 2
+fill ~ ~77 ~-116 ~ ~95 ~-116 minecraft:planks 2
+fill ~ ~78 ~-22 ~ ~80 ~-22 minecraft:planks 2
+fill ~ ~78 ~-42 ~ ~80 ~-42 minecraft:log 6
+setblock ~ ~78 ~-43 minecraft:log 6
+fill ~ ~78 ~-52 ~ ~82 ~-52 minecraft:planks 2
+fill ~ ~78 ~-59 ~ ~83 ~-59 minecraft:planks 2
+fill ~ ~78 ~-61 ~ ~79 ~-61 minecraft:sponge
+fill ~ ~78 ~-63 ~ ~79 ~-63 minecraft:log 6
+setblock ~ ~78 ~-66 minecraft:log 6
+fill ~ ~78 ~-70 ~ ~78 ~-71 minecraft:planks 2
+fill ~ ~78 ~-79 ~ ~80 ~-79 minecraft:planks 2
+fill ~ ~78 ~-83 ~ ~78 ~-86 minecraft:sponge
+setblock ~ ~78 ~-87 minecraft:log 6
+setblock ~ ~78 ~-88 minecraft:planks 2
+fill ~ ~78 ~-91 ~ ~84 ~-91 minecraft:planks 2
+fill ~ ~78 ~-94 ~ ~84 ~-94 minecraft:sandstone 1
+setblock ~ ~78 ~-96 minecraft:planks 2
+setblock ~ ~79 ~-33 minecraft:sponge
+fill ~ ~79 ~-34 ~ ~80 ~-34 minecraft:planks 2
+fill ~ ~79 ~-41 ~ ~80 ~-41 minecraft:planks 2
+fill ~ ~79 ~-43 ~ ~86 ~-43 minecraft:planks 2
+fill ~ ~79 ~-64 ~ ~81 ~-64 minecraft:log 6
+fill ~ ~79 ~-65 ~ ~79 ~-71 minecraft:sponge
+fill ~ ~79 ~-74 ~ ~79 ~-78 minecraft:sandstone 1
+fill ~ ~79 ~-83 ~ ~81 ~-83 minecraft:planks 2
+setblock ~ ~79 ~-84 minecraft:sponge
+setblock ~ ~79 ~-85 minecraft:log 6
+fill ~ ~79 ~-86 ~ ~79 ~-87 minecraft:sponge
+setblock ~ ~79 ~-88 minecraft:log 6
+setblock ~ ~79 ~-89 minecraft:planks 2
+setblock ~ ~79 ~-90 minecraft:stained_hardened_clay
+setblock ~ ~79 ~-93 minecraft:planks 2
+setblock ~ ~79 ~-96 minecraft:log 6
+fill ~ ~79 ~-100 ~ ~80 ~-100 minecraft:planks 2
+setblock ~ ~79 ~-106 minecraft:log 6
+setblock ~ ~79 ~-108 minecraft:sponge
+setblock ~ ~79 ~-109 minecraft:log 6
+setblock ~ ~79 ~-110 minecraft:planks 2
+setblock ~ ~79 ~-127 minecraft:log 6
+setblock ~ ~80 ~-6 minecraft:planks 2
+setblock ~ ~80 ~-32 minecraft:planks 2
+setblock ~ ~80 ~-33 minecraft:log 6
+fill ~ ~80 ~-61 ~ ~82 ~-61 minecraft:log 6
+setblock ~ ~80 ~-63 minecraft:sponge
+fill ~ ~80 ~-65 ~ ~84 ~-65 minecraft:log 6
+fill ~ ~80 ~-66 ~ ~80 ~-71 minecraft:sponge
+fill ~ ~80 ~-72 ~ ~81 ~-72 minecraft:log 6
+fill ~ ~80 ~-73 ~ ~80 ~-75 minecraft:planks 2
+setblock ~ ~80 ~-76 minecraft:stained_hardened_clay
+setblock ~ ~80 ~-77 minecraft:sandstone 1
+setblock ~ ~80 ~-78 minecraft:sandstone
+fill ~ ~80 ~-80 ~ ~81 ~-80 minecraft:log 6
+fill ~ ~80 ~-81 ~ ~81 ~-82 minecraft:planks 2
+fill ~ ~80 ~-84 ~ ~81 ~-88 minecraft:planks 2
+setblock ~ ~80 ~-89 minecraft:sponge
+fill ~ ~80 ~-90 ~ ~85 ~-90 minecraft:planks 2
+setblock ~ ~80 ~-93 minecraft:log 6
+setblock ~ ~80 ~-95 minecraft:stained_hardened_clay
+fill ~ ~80 ~-96 ~ ~86 ~-96 minecraft:planks 2
+fill ~ ~80 ~-97 ~ ~83 ~-97 minecraft:log 6
+fill ~ ~80 ~-108 ~ ~81 ~-108 minecraft:log 6
+setblock ~ ~80 ~-109 minecraft:sponge
+fill ~ ~80 ~-110 ~ ~82 ~-110 minecraft:log 6
+fill ~ ~80 ~-111 ~ ~81 ~-111 minecraft:log 6
+fill ~ ~80 ~-112 ~ ~81 ~-112 minecraft:planks 2
+fill ~ ~80 ~-127 ~ ~81 ~-127 minecraft:sponge
+setblock ~ ~81 ~-6 minecraft:log 6
+setblock ~ ~81 ~-22 minecraft:log 6
+fill ~ ~81 ~-31 ~ ~83 ~-31 minecraft:log 6
+setblock ~ ~81 ~-32 minecraft:log 6
+fill ~ ~81 ~-33 ~ ~82 ~-33 minecraft:planks 2
+fill ~ ~81 ~-40 ~ ~82 ~-41 minecraft:log 6
+fill ~ ~81 ~-42 ~ ~84 ~-42 minecraft:planks 2
+setblock ~ ~81 ~-63 minecraft:log 6
+fill ~ ~81 ~-66 ~ ~83 ~-66 minecraft:planks 2
+fill ~ ~81 ~-67 ~ ~81 ~-68 minecraft:log 6
+fill ~ ~81 ~-69 ~ ~81 ~-71 minecraft:sponge
+fill ~ ~81 ~-73 ~ ~81 ~-77 minecraft:log 6
+setblock ~ ~81 ~-78 minecraft:planks 2
+setblock ~ ~81 ~-79 minecraft:log 6
+fill ~ ~81 ~-89 ~ ~85 ~-89 minecraft:planks 2
+setblock ~ ~81 ~-93 minecraft:planks 2
+fill ~ ~81 ~-95 ~ ~85 ~-95 minecraft:planks 2
+fill ~ ~81 ~-100 ~ ~81 ~-101 minecraft:stained_hardened_clay
+setblock ~ ~81 ~-106 minecraft:log 6
+fill ~ ~81 ~-109 ~ ~86 ~-109 minecraft:log 6
+fill ~ ~81 ~-126 ~ ~88 ~-126 minecraft:log 6
+setblock ~ ~82 ~-6 minecraft:sponge
+fill ~ ~82 ~-22 ~ ~88 ~-22 minecraft:planks 2
+setblock ~ ~82 ~-32 minecraft:sponge
+fill ~ ~82 ~-39 ~ ~91 ~-39 minecraft:planks 2
+fill ~ ~82 ~-60 ~ ~83 ~-60 minecraft:planks 2
+fill ~ ~82 ~-63 ~ ~83 ~-64 minecraft:planks 2
+fill ~ ~82 ~-67 ~ ~84 ~-67 minecraft:planks 2
+fill ~ ~82 ~-68 ~ ~82 ~-71 minecraft:log 6
+fill ~ ~82 ~-72 ~ ~82 ~-83 minecraft:sponge
+fill ~ ~82 ~-84 ~ ~83 ~-84 minecraft:log 6
+fill ~ ~82 ~-85 ~ ~84 ~-86 minecraft:planks 2
+setblock ~ ~82 ~-87 minecraft:stained_hardened_clay
+fill ~ ~82 ~-88 ~ ~85 ~-88 minecraft:planks 2
+fill ~ ~82 ~-93 ~ ~83 ~-93 minecraft:sandstone 1
+fill ~ ~82 ~-100 ~ ~83 ~-101 minecraft:sandstone 1
+setblock ~ ~82 ~-105 minecraft:log 6
+fill ~ ~82 ~-106 ~ ~89 ~-106 minecraft:sponge
+fill ~ ~82 ~-107 ~ ~87 ~-107 minecraft:sponge
+fill ~ ~82 ~-108 ~ ~84 ~-108 minecraft:sponge
+setblock ~ ~82 ~-111 minecraft:sponge
+fill ~ ~82 ~-112 ~ ~82 ~-113 minecraft:log 6
+fill ~ ~82 ~-127 ~ ~84 ~-127 minecraft:planks 2
+fill ~ ~83 ~-6 ~ ~83 ~-7 minecraft:log 6
+setblock ~ ~83 ~-32 minecraft:planks 2
+fill ~ ~83 ~-40 ~ ~83 ~-41 minecraft:planks 2
+fill ~ ~83 ~-50 ~ ~85 ~-52 minecraft:sponge
+setblock ~ ~83 ~-53 minecraft:log 6
+setblock ~ ~83 ~-54 minecraft:planks 2
+fill ~ ~83 ~-56 ~ ~83 ~-58 minecraft:log 6
+setblock ~ ~83 ~-61 minecraft:planks 2
+fill ~ ~83 ~-68 ~ ~84 ~-70 minecraft:planks 2
+fill ~ ~83 ~-71 ~ ~84 ~-72 minecraft:log 6
+setblock ~ ~83 ~-73 minecraft:log 6
+fill ~ ~83 ~-74 ~ ~83 ~-77 minecraft:sponge
+fill ~ ~83 ~-78 ~ ~83 ~-83 minecraft:log 6
+fill ~ ~83 ~-87 ~ ~85 ~-87 minecraft:planks 2
+fill ~ ~83 ~-98 ~ ~84 ~-98 minecraft:sponge
+setblock ~ ~83 ~-102 minecraft:stained_hardened_clay
+fill ~ ~83 ~-104 ~ ~90 ~-105 minecraft:sponge
+fill ~ ~83 ~-110 ~ ~88 ~-112 minecraft:planks 2
+fill ~ ~83 ~-113 ~ ~84 ~-114 minecraft:log 6
+fill ~ ~83 ~-128 ~ ~86 ~-128 minecraft:planks 2
+fill ~ ~84 ~-7 ~ ~85 ~-7 minecraft:sponge
+setblock ~ ~84 ~-29 minecraft:log 6
+setblock ~ ~84 ~-30 minecraft:sponge
+setblock ~ ~84 ~-31 minecraft:planks 2
+setblock ~ ~84 ~-40 minecraft:log 6
+fill ~ ~84 ~-41 ~ ~88 ~-41 minecraft:planks 2
+setblock ~ ~84 ~-47 minecraft:log 6
+fill ~ ~84 ~-48 ~ ~86 ~-49 minecraft:sponge
+fill ~ ~84 ~-53 ~ ~85 ~-53 minecraft:sponge
+fill ~ ~84 ~-54 ~ ~84 ~-59 minecraft:sponge
+setblock ~ ~84 ~-60 minecraft:orange_glazed_terracotta
+fill ~ ~84 ~-61 ~ ~84 ~-62 minecraft:stained_hardened_clay 4
+fill ~ ~84 ~-63 ~ ~86 ~-63 minecraft:sponge
+fill ~ ~84 ~-64 ~ ~85 ~-64 minecraft:orange_glazed_terracotta
+setblock ~ ~84 ~-66 minecraft:log 6
+fill ~ ~84 ~-73 ~ ~84 ~-74 minecraft:planks 2
+fill ~ ~84 ~-75 ~ ~85 ~-75 minecraft:log 6
+setblock ~ ~84 ~-76 minecraft:planks 2
+fill ~ ~84 ~-77 ~ ~86 ~-77 minecraft:log 6
+setblock ~ ~84 ~-78 minecraft:sponge
+fill ~ ~84 ~-79 ~ ~84 ~-84 minecraft:planks 2
+setblock ~ ~84 ~-93 minecraft:planks 2
+fill ~ ~84 ~-97 ~ ~86 ~-97 minecraft:planks 2
+setblock ~ ~84 ~-100 minecraft:planks 2
+fill ~ ~84 ~-101 ~ ~84 ~-102 minecraft:sandstone 1
+fill ~ ~84 ~-103 ~ ~85 ~-103 minecraft:log 6
+fill ~ ~84 ~-115 ~ ~85 ~-115 minecraft:log 6
+fill ~ ~84 ~-125 ~ ~85 ~-125 minecraft:log 6
+setblock ~ ~85 ~-8 minecraft:sponge
+fill ~ ~85 ~-9 ~ ~88 ~-9 minecraft:log 6
+setblock ~ ~85 ~-28 minecraft:log 6
+setblock ~ ~85 ~-29 minecraft:sponge
+fill ~ ~85 ~-30 ~ ~86 ~-31 minecraft:log 6
+fill ~ ~85 ~-40 ~ ~89 ~-40 minecraft:planks 2
+setblock ~ ~85 ~-42 minecraft:log 6
+fill ~ ~85 ~-45 ~ ~86 ~-47 minecraft:sponge
+fill ~ ~85 ~-54 ~ ~85 ~-55 minecraft:log 6
+fill ~ ~85 ~-56 ~ ~88 ~-57 minecraft:planks 2
+fill ~ ~85 ~-58 ~ ~85 ~-59 minecraft:log 6
+fill ~ ~85 ~-60 ~ ~85 ~-62 minecraft:sponge
+fill ~ ~85 ~-65 ~ ~85 ~-66 minecraft:stained_hardened_clay 4
+fill ~ ~85 ~-67 ~ ~85 ~-68 minecraft:orange_glazed_terracotta
+fill ~ ~85 ~-69 ~ ~86 ~-69 minecraft:sponge
+setblock ~ ~85 ~-70 minecraft:stained_hardened_clay 4
+setblock ~ ~85 ~-71 minecraft:orange_glazed_terracotta
+fill ~ ~85 ~-72 ~ ~85 ~-74 minecraft:log 6
+setblock ~ ~85 ~-76 minecraft:log 6
+fill ~ ~85 ~-78 ~ ~86 ~-80 minecraft:log 6
+fill ~ ~85 ~-81 ~ ~85 ~-84 minecraft:log 6
+fill ~ ~85 ~-85 ~ ~87 ~-85 minecraft:sponge
+setblock ~ ~85 ~-86 minecraft:log 6
+setblock ~ ~85 ~-91 minecraft:log 6
+fill ~ ~85 ~-92 ~ ~89 ~-93 minecraft:sponge
+setblock ~ ~85 ~-94 minecraft:planks 2
+setblock ~ ~85 ~-98 minecraft:log 6
+setblock ~ ~85 ~-100 minecraft:stained_hardened_clay
+fill ~ ~85 ~-101 ~ ~85 ~-102 minecraft:planks 2
+fill ~ ~85 ~-108 ~ ~87 ~-108 minecraft:log 6
+fill ~ ~85 ~-113 ~ ~91 ~-113 minecraft:planks 2
+setblock ~ ~85 ~-114 minecraft:log 6
+fill ~ ~85 ~-127 ~ ~86 ~-127 minecraft:log 6
+fill ~ ~86 ~-7 ~ ~89 ~-7 minecraft:planks 2
+setblock ~ ~86 ~-8 minecraft:log 6
+fill ~ ~86 ~-26 ~ ~87 ~-27 minecraft:log 6
+setblock ~ ~86 ~-28 minecraft:sponge
+fill ~ ~86 ~-29 ~ ~92 ~-29 minecraft:log 6
+fill ~ ~86 ~-37 ~ ~93 ~-37 minecraft:planks 2
+fill ~ ~86 ~-38 ~ ~92 ~-38 minecraft:planks 2
+fill ~ ~86 ~-42 ~ ~87 ~-42 minecraft:planks 2
+fill ~ ~86 ~-44 ~ ~88 ~-44 minecraft:sponge
+fill ~ ~86 ~-50 ~ ~87 ~-51 minecraft:log 6
+setblock ~ ~86 ~-52 minecraft:log 6
+fill ~ ~86 ~-53 ~ ~123 ~-54 minecraft:planks 2
+fill ~ ~86 ~-55 ~ ~116 ~-55 minecraft:planks 2
+fill ~ ~86 ~-58 ~ ~89 ~-58 minecraft:planks 2
+fill ~ ~86 ~-59 ~ ~88 ~-61 minecraft:planks 2
+setblock ~ ~86 ~-62 minecraft:log 6
+fill ~ ~86 ~-64 ~ ~86 ~-68 minecraft:sponge
+fill ~ ~86 ~-70 ~ ~86 ~-75 minecraft:sponge
+setblock ~ ~86 ~-76 minecraft:orange_glazed_terracotta
+fill ~ ~86 ~-81 ~ ~94 ~-81 minecraft:sponge
+setblock ~ ~86 ~-82 minecraft:stained_hardened_clay 4
+fill ~ ~86 ~-83 ~ ~87 ~-84 minecraft:sponge
+fill ~ ~86 ~-86 ~ ~86 ~-91 minecraft:sponge
+fill ~ ~86 ~-94 ~ ~89 ~-94 minecraft:sponge
+setblock ~ ~86 ~-95 minecraft:log 6
+fill ~ ~86 ~-98 ~ ~87 ~-98 minecraft:planks 2
+fill ~ ~86 ~-100 ~ ~87 ~-100 minecraft:planks 2
+setblock ~ ~86 ~-101 minecraft:stained_hardened_clay
+fill ~ ~86 ~-102 ~ ~87 ~-102 minecraft:planks 2
+fill ~ ~86 ~-103 ~ ~88 ~-103 minecraft:sponge
+fill ~ ~86 ~-114 ~ ~125 ~-115 minecraft:planks 2
+fill ~ ~86 ~-125 ~ ~118 ~-125 minecraft:planks 2
+fill ~ ~87 ~-8 ~ ~88 ~-8 minecraft:planks 2
+fill ~ ~87 ~-10 ~ ~89 ~-10 minecraft:log 6
+fill ~ ~87 ~-24 ~ ~89 ~-24 minecraft:log 6
+setblock ~ ~87 ~-25 minecraft:log 6
+setblock ~ ~87 ~-28 minecraft:log 6
+fill ~ ~87 ~-30 ~ ~91 ~-31 minecraft:sponge
+setblock ~ ~87 ~-32 minecraft:log 6
+fill ~ ~87 ~-36 ~ ~94 ~-36 minecraft:planks 2
+fill ~ ~87 ~-43 ~ ~88 ~-43 minecraft:sponge
+fill ~ ~87 ~-45 ~ ~88 ~-45 minecraft:orange_glazed_terracotta
+setblock ~ ~87 ~-46 minecraft:orange_glazed_terracotta
+setblock ~ ~87 ~-47 minecraft:sponge
+fill ~ ~87 ~-48 ~ ~88 ~-48 minecraft:log 6
+setblock ~ ~87 ~-49 minecraft:log 6
+fill ~ ~87 ~-52 ~ ~115 ~-52 minecraft:planks 2
+fill ~ ~87 ~-62 ~ ~88 ~-63 minecraft:planks 2
+setblock ~ ~87 ~-64 minecraft:log 6
+fill ~ ~87 ~-65 ~ ~87 ~-66 minecraft:sponge
+fill ~ ~87 ~-67 ~ ~87 ~-68 minecraft:log 6
+fill ~ ~87 ~-69 ~ ~113 ~-69 minecraft:planks 2
+setblock ~ ~87 ~-70 minecraft:log 6
+fill ~ ~87 ~-71 ~ ~112 ~-72 minecraft:planks 2
+fill ~ ~87 ~-73 ~ ~97 ~-73 minecraft:planks 2
+setblock ~ ~87 ~-74 minecraft:log 6
+fill ~ ~87 ~-75 ~ ~101 ~-75 minecraft:planks 2
+setblock ~ ~87 ~-76 minecraft:sponge
+setblock ~ ~87 ~-77 minecraft:orange_glazed_terracotta
+setblock ~ ~87 ~-78 minecraft:sponge
+setblock ~ ~87 ~-79 minecraft:log 6
+fill ~ ~87 ~-80 ~ ~89 ~-80 minecraft:sponge
+setblock ~ ~87 ~-82 minecraft:sponge
+fill ~ ~87 ~-86 ~ ~88 ~-87 minecraft:log 6
+fill ~ ~87 ~-88 ~ ~87 ~-91 minecraft:sponge
+fill ~ ~87 ~-95 ~ ~89 ~-96 minecraft:sponge
+setblock ~ ~87 ~-97 minecraft:log 6
+fill ~ ~87 ~-101 ~ ~88 ~-101 minecraft:planks 2
+setblock ~ ~87 ~-109 minecraft:planks 2
+fill ~ ~87 ~-127 ~ ~87 ~-128 minecraft:sponge
+fill ~ ~88 ~-11 ~ ~89 ~-11 minecraft:log 6
+fill ~ ~88 ~-23 ~ ~89 ~-23 minecraft:log 6
+setblock ~ ~88 ~-25 minecraft:sponge
+fill ~ ~88 ~-26 ~ ~126 ~-26 minecraft:planks 2
+fill ~ ~88 ~-27 ~ ~125 ~-27 minecraft:planks 2
+fill ~ ~88 ~-28 ~ ~92 ~-28 minecraft:planks 2
+fill ~ ~88 ~-32 ~ ~95 ~-33 minecraft:sponge
+fill ~ ~88 ~-35 ~ ~95 ~-35 minecraft:planks 2
+fill ~ ~88 ~-42 ~ ~89 ~-42 minecraft:sponge
+fill ~ ~88 ~-46 ~ ~89 ~-47 minecraft:log 6
+fill ~ ~88 ~-49 ~ ~104 ~-51 minecraft:planks 2
+fill ~ ~88 ~-64 ~ ~110 ~-64 minecraft:planks 2
+fill ~ ~88 ~-65 ~ ~90 ~-68 minecraft:planks 2
+fill ~ ~88 ~-70 ~ ~113 ~-70 minecraft:planks 2
+fill ~ ~88 ~-74 ~ ~110 ~-74 minecraft:planks 2
+fill ~ ~88 ~-76 ~ ~101 ~-76 minecraft:planks 2
+fill ~ ~88 ~-77 ~ ~89 ~-77 minecraft:sponge
+setblock ~ ~88 ~-78 minecraft:orange_glazed_terracotta
+setblock ~ ~88 ~-79 minecraft:sponge
+fill ~ ~88 ~-82 ~ ~90 ~-82 minecraft:log 6
+fill ~ ~88 ~-83 ~ ~89 ~-84 minecraft:log 6
+setblock ~ ~88 ~-85 minecraft:log 6
+setblock ~ ~88 ~-88 minecraft:log 6
+fill ~ ~88 ~-89 ~ ~89 ~-91 minecraft:sponge
+fill ~ ~88 ~-97 ~ ~90 ~-98 minecraft:sponge
+setblock ~ ~88 ~-99 minecraft:log 6
+fill ~ ~88 ~-100 ~ ~90 ~-100 minecraft:sponge
+setblock ~ ~88 ~-102 minecraft:log 6
+fill ~ ~88 ~-107 ~ ~89 ~-107 minecraft:log 6
+fill ~ ~88 ~-108 ~ ~124 ~-108 minecraft:planks 2
+setblock ~ ~88 ~-109 minecraft:log 6
+setblock ~ ~88 ~-127 minecraft:log 6
+fill ~ ~88 ~-128 ~ ~92 ~-128 minecraft:sponge
+setblock ~ ~89 ~-8 minecraft:log 6
+setblock ~ ~89 ~-9 minecraft:planks 2
+setblock ~ ~89 ~-22 minecraft:log 6
+fill ~ ~89 ~-25 ~ ~103 ~-25 minecraft:planks 2
+fill ~ ~89 ~-34 ~ ~90 ~-34 minecraft:log 6
+setblock ~ ~89 ~-41 minecraft:sponge
+fill ~ ~89 ~-43 ~ ~91 ~-45 minecraft:log 6
+fill ~ ~89 ~-48 ~ ~121 ~-48 minecraft:planks 2
+fill ~ ~89 ~-56 ~ ~90 ~-56 minecraft:stained_hardened_clay
+setblock ~ ~89 ~-57 minecraft:stained_hardened_clay
+fill ~ ~89 ~-59 ~ ~89 ~-62 minecraft:stained_hardened_clay
+fill ~ ~89 ~-63 ~ ~90 ~-63 minecraft:planks 2
+setblock ~ ~89 ~-78 minecraft:stained_hardened_clay 4
+setblock ~ ~89 ~-79 minecraft:orange_glazed_terracotta
+fill ~ ~89 ~-85 ~ ~92 ~-88 minecraft:planks 2
+setblock ~ ~89 ~-99 minecraft:sponge
+setblock ~ ~89 ~-101 minecraft:log 6
+fill ~ ~89 ~-102 ~ ~94 ~-102 minecraft:sponge
+setblock ~ ~89 ~-103 minecraft:log 6
+fill ~ ~89 ~-109 ~ ~114 ~-109 minecraft:planks 2
+setblock ~ ~89 ~-110 minecraft:log 6
+fill ~ ~89 ~-111 ~ ~118 ~-112 minecraft:planks 2
+fill ~ ~89 ~-126 ~ ~91 ~-127 minecraft:sponge
+setblock ~ ~89 ~-129 minecraft:planks 2
+fill ~ ~90 ~-6 ~ ~92 ~-6 minecraft:planks 2
+fill ~ ~90 ~-7 ~ ~96 ~-7 minecraft:sponge
+fill ~ ~90 ~-8 ~ ~94 ~-8 minecraft:sponge
+setblock ~ ~90 ~-9 minecraft:log 6
+fill ~ ~90 ~-10 ~ ~90 ~-11 minecraft:planks 2
+fill ~ ~90 ~-22 ~ ~117 ~-22 minecraft:planks 2
+fill ~ ~90 ~-23 ~ ~112 ~-23 minecraft:planks 2
+fill ~ ~90 ~-24 ~ ~95 ~-24 minecraft:planks 2
+fill ~ ~90 ~-40 ~ ~96 ~-40 minecraft:log 6
+fill ~ ~90 ~-41 ~ ~93 ~-41 minecraft:log 6
+fill ~ ~90 ~-42 ~ ~91 ~-42 minecraft:log 6
+fill ~ ~90 ~-46 ~ ~113 ~-47 minecraft:planks 2
+fill ~ ~90 ~-57 ~ ~112 ~-57 minecraft:planks 2
+setblock ~ ~90 ~-58 minecraft:stained_hardened_clay
+fill ~ ~90 ~-59 ~ ~111 ~-59 minecraft:planks 2
+fill ~ ~90 ~-60 ~ ~90 ~-61 minecraft:stained_hardened_clay
+fill ~ ~90 ~-62 ~ ~103 ~-62 minecraft:planks 2
+fill ~ ~90 ~-77 ~ ~96 ~-77 minecraft:planks 2
+fill ~ ~90 ~-78 ~ ~91 ~-78 minecraft:sponge
+fill ~ ~90 ~-79 ~ ~91 ~-79 minecraft:stained_hardened_clay 4
+setblock ~ ~90 ~-80 minecraft:orange_glazed_terracotta
+fill ~ ~90 ~-83 ~ ~93 ~-84 minecraft:planks 2
+fill ~ ~90 ~-89 ~ ~91 ~-89 minecraft:log 6
+fill ~ ~90 ~-90 ~ ~90 ~-95 minecraft:log 6
+setblock ~ ~90 ~-96 minecraft:sponge
+fill ~ ~90 ~-99 ~ ~91 ~-99 minecraft:stained_hardened_clay 4
+fill ~ ~90 ~-101 ~ ~91 ~-101 minecraft:sponge
+fill ~ ~90 ~-103 ~ ~95 ~-103 minecraft:sponge
+fill ~ ~90 ~-106 ~ ~91 ~-106 minecraft:log 6
+fill ~ ~90 ~-107 ~ ~91 ~-107 minecraft:planks 2
+fill ~ ~90 ~-110 ~ ~116 ~-110 minecraft:planks 2
+fill ~ ~90 ~-129 ~ ~102 ~-129 minecraft:sponge
+fill ~ ~91 ~-9 ~ ~96 ~-9 minecraft:sponge
+setblock ~ ~91 ~-10 minecraft:log 6
+setblock ~ ~91 ~-11 minecraft:planks 2
+fill ~ ~91 ~-34 ~ ~92 ~-34 minecraft:sponge
+fill ~ ~91 ~-56 ~ ~115 ~-56 minecraft:planks 2
+fill ~ ~91 ~-58 ~ ~103 ~-58 minecraft:planks 2
+setblock ~ ~91 ~-60 minecraft:planks 2
+setblock ~ ~91 ~-61 minecraft:stained_hardened_clay
+setblock ~ ~91 ~-63 minecraft:stained_hardened_clay
+setblock ~ ~91 ~-65 minecraft:log 6
+fill ~ ~91 ~-66 ~ ~113 ~-66 minecraft:planks 2
+fill ~ ~91 ~-67 ~ ~94 ~-68 minecraft:planks 2
+fill ~ ~91 ~-80 ~ ~98 ~-80 minecraft:stained_hardened_clay 4
+setblock ~ ~91 ~-82 minecraft:sponge
+fill ~ ~91 ~-90 ~ ~125 ~-90 minecraft:planks 2
+fill ~ ~91 ~-91 ~ ~92 ~-91 minecraft:log 6
+fill ~ ~91 ~-92 ~ ~91 ~-97 minecraft:log 6
+setblock ~ ~91 ~-98 minecraft:sponge
+setblock ~ ~91 ~-100 minecraft:stained_hardened_clay 4
+setblock ~ ~91 ~-104 minecraft:log 6
+setblock ~ ~91 ~-105 minecraft:sponge
+fill ~ ~92 ~-10 ~ ~94 ~-10 minecraft:sponge
+setblock ~ ~92 ~-11 minecraft:log 6
+fill ~ ~92 ~-30 ~ ~93 ~-30 minecraft:log 6
+fill ~ ~92 ~-31 ~ ~93 ~-31 minecraft:sponge
+setblock ~ ~92 ~-39 minecraft:sponge
+fill ~ ~92 ~-42 ~ ~93 ~-45 minecraft:planks 2
+setblock ~ ~92 ~-60 minecraft:stained_hardened_clay
+fill ~ ~92 ~-61 ~ ~103 ~-61 minecraft:planks 2
+fill ~ ~92 ~-63 ~ ~105 ~-63 minecraft:planks 2
+fill ~ ~92 ~-65 ~ ~109 ~-65 minecraft:planks 2
+fill ~ ~92 ~-78 ~ ~93 ~-78 minecraft:planks 2
+fill ~ ~92 ~-79 ~ ~95 ~-79 minecraft:sponge
+setblock ~ ~92 ~-82 minecraft:log 6
+fill ~ ~92 ~-89 ~ ~124 ~-89 minecraft:planks 2
+fill ~ ~92 ~-92 ~ ~98 ~-94 minecraft:planks 2
+fill ~ ~92 ~-95 ~ ~92 ~-98 minecraft:log 6
+fill ~ ~92 ~-99 ~ ~93 ~-101 minecraft:orange_glazed_terracotta
+fill ~ ~92 ~-104 ~ ~97 ~-104 minecraft:sponge
+setblock ~ ~92 ~-105 minecraft:log 6
+fill ~ ~92 ~-106 ~ ~100 ~-106 minecraft:planks 2
+fill ~ ~92 ~-107 ~ ~94 ~-107 minecraft:log 6
+fill ~ ~92 ~-113 ~ ~93 ~-113 minecraft:log 6
+fill ~ ~92 ~-126 ~ ~94 ~-126 minecraft:log 6
+fill ~ ~92 ~-127 ~ ~93 ~-127 minecraft:sponge
+setblock ~ ~93 ~-6 minecraft:sponge
+fill ~ ~93 ~-11 ~ ~94 ~-11 minecraft:sponge
+setblock ~ ~93 ~-28 minecraft:log 6
+fill ~ ~93 ~-29 ~ ~117 ~-29 minecraft:planks 2
+fill ~ ~93 ~-34 ~ ~95 ~-34 minecraft:log 6
+fill ~ ~93 ~-38 ~ ~98 ~-38 minecraft:log 6
+fill ~ ~93 ~-39 ~ ~97 ~-39 minecraft:log 6
+fill ~ ~93 ~-60 ~ ~113 ~-60 minecraft:planks 2
+fill ~ ~93 ~-82 ~ ~97 ~-82 minecraft:sponge
+setblock ~ ~93 ~-85 minecraft:stained_hardened_clay
+fill ~ ~93 ~-86 ~ ~94 ~-88 minecraft:planks 2
+fill ~ ~93 ~-91 ~ ~123 ~-91 minecraft:planks 2
+fill ~ ~93 ~-95 ~ ~101 ~-95 minecraft:planks 2
+fill ~ ~93 ~-96 ~ ~93 ~-98 minecraft:log 6
+fill ~ ~93 ~-105 ~ ~97 ~-105 minecraft:planks 2
+fill ~ ~93 ~-128 ~ ~95 ~-128 minecraft:orange_glazed_terracotta
+fill ~ ~94 ~-6 ~ ~97 ~-6 minecraft:planks 2
+fill ~ ~94 ~-28 ~ ~125 ~-28 minecraft:planks 2
+fill ~ ~94 ~-30 ~ ~96 ~-30 minecraft:planks 2
+fill ~ ~94 ~-31 ~ ~97 ~-31 minecraft:log 6
+setblock ~ ~94 ~-37 minecraft:log 6
+setblock ~ ~94 ~-41 minecraft:planks 2
+setblock ~ ~94 ~-42 minecraft:log 6
+fill ~ ~94 ~-43 ~ ~106 ~-44 minecraft:planks 2
+fill ~ ~94 ~-45 ~ ~100 ~-45 minecraft:planks 2
+fill ~ ~94 ~-78 ~ ~104 ~-78 minecraft:sponge
+fill ~ ~94 ~-83 ~ ~96 ~-83 minecraft:log 6
+fill ~ ~94 ~-84 ~ ~116 ~-84 minecraft:planks 2
+fill ~ ~94 ~-85 ~ ~107 ~-85 minecraft:planks 2
+fill ~ ~94 ~-96 ~ ~124 ~-96 minecraft:planks 2
+fill ~ ~94 ~-97 ~ ~95 ~-97 minecraft:log 6
+fill ~ ~94 ~-98 ~ ~94 ~-99 minecraft:log 6
+setblock ~ ~94 ~-100 minecraft:orange_glazed_terracotta
+setblock ~ ~94 ~-101 minecraft:sponge
+fill ~ ~94 ~-113 ~ ~101 ~-113 minecraft:planks 2
+fill ~ ~94 ~-127 ~ ~99 ~-127 minecraft:log 6
+fill ~ ~94 ~-130 ~ ~98 ~-130 minecraft:sponge
+fill ~ ~95 ~-8 ~ ~98 ~-8 minecraft:orange_glazed_terracotta
+fill ~ ~95 ~-10 ~ ~99 ~-10 minecraft:log 6
+fill ~ ~95 ~-11 ~ ~96 ~-11 minecraft:log 6
+setblock ~ ~95 ~-36 minecraft:log 6
+setblock ~ ~95 ~-37 minecraft:sponge
+setblock ~ ~95 ~-41 minecraft:log 6
+fill ~ ~95 ~-42 ~ ~120 ~-42 minecraft:planks 2
+setblock ~ ~95 ~-67 minecraft:stained_hardened_clay
+fill ~ ~95 ~-68 ~ ~112 ~-68 minecraft:planks 2
+fill ~ ~95 ~-81 ~ ~97 ~-81 minecraft:orange_glazed_terracotta
+setblock ~ ~95 ~-86 minecraft:stained_hardened_clay
+fill ~ ~95 ~-87 ~ ~121 ~-87 minecraft:planks 2
+fill ~ ~95 ~-88 ~ ~109 ~-88 minecraft:planks 2
+fill ~ ~95 ~-98 ~ ~116 ~-98 minecraft:planks 2
+fill ~ ~95 ~-99 ~ ~96 ~-102 minecraft:log 6
+fill ~ ~95 ~-107 ~ ~103 ~-107 minecraft:planks 2
+fill ~ ~95 ~-126 ~ ~99 ~-126 minecraft:planks 2
+fill ~ ~96 ~-24 ~ ~97 ~-24 minecraft:log 6
+fill ~ ~96 ~-32 ~ ~99 ~-32 minecraft:log 6
+fill ~ ~96 ~-33 ~ ~97 ~-33 minecraft:sponge
+setblock ~ ~96 ~-34 minecraft:sponge
+fill ~ ~96 ~-35 ~ ~98 ~-35 minecraft:log 6
+setblock ~ ~96 ~-36 minecraft:sponge
+fill ~ ~96 ~-37 ~ ~101 ~-37 minecraft:log 6
+fill ~ ~96 ~-41 ~ ~102 ~-41 minecraft:planks 2
+fill ~ ~96 ~-67 ~ ~101 ~-67 minecraft:planks 2
+setblock ~ ~96 ~-79 minecraft:stained_hardened_clay 4
+fill ~ ~96 ~-86 ~ ~120 ~-86 minecraft:planks 2
+fill ~ ~96 ~-97 ~ ~110 ~-97 minecraft:planks 2
+fill ~ ~96 ~-103 ~ ~99 ~-103 minecraft:log 6
+setblock ~ ~96 ~-116 minecraft:stained_hardened_clay
+fill ~ ~96 ~-128 ~ ~104 ~-128 minecraft:sponge
+setblock ~ ~97 ~-7 minecraft:orange_glazed_terracotta
+fill ~ ~97 ~-9 ~ ~99 ~-9 minecraft:orange_glazed_terracotta
+fill ~ ~97 ~-11 ~ ~100 ~-11 minecraft:planks 2
+setblock ~ ~97 ~-30 minecraft:log 6
+fill ~ ~97 ~-34 ~ ~100 ~-34 minecraft:log 6
+setblock ~ ~97 ~-36 minecraft:orange_glazed_terracotta
+fill ~ ~97 ~-40 ~ ~124 ~-40 minecraft:planks 2
+setblock ~ ~97 ~-77 minecraft:log 6
+setblock ~ ~97 ~-79 minecraft:orange_glazed_terracotta
+setblock ~ ~97 ~-83 minecraft:planks 2
+fill ~ ~97 ~-99 ~ ~124 ~-99 minecraft:planks 2
+fill ~ ~97 ~-100 ~ ~123 ~-100 minecraft:planks 2
+setblock ~ ~97 ~-101 minecraft:planks 2
+fill ~ ~97 ~-102 ~ ~98 ~-102 minecraft:log 6
+fill ~ ~97 ~-116 ~ ~108 ~-116 minecraft:planks 2
+setblock ~ ~98 ~-6 minecraft:sponge
+setblock ~ ~98 ~-7 minecraft:stained_hardened_clay 4
+fill ~ ~98 ~-24 ~ ~124 ~-24 minecraft:planks 2
+fill ~ ~98 ~-30 ~ ~129 ~-30 minecraft:planks 2
+fill ~ ~98 ~-31 ~ ~123 ~-31 minecraft:planks 2
+fill ~ ~98 ~-33 ~ ~107 ~-33 minecraft:log 6
+fill ~ ~98 ~-36 ~ ~104 ~-36 minecraft:log 6
+fill ~ ~98 ~-39 ~ ~125 ~-39 minecraft:planks 2
+setblock ~ ~98 ~-73 minecraft:stained_hardened_clay
+fill ~ ~98 ~-77 ~ ~108 ~-77 minecraft:planks 2
+setblock ~ ~98 ~-79 minecraft:stained_hardened_clay 4
+fill ~ ~98 ~-81 ~ ~103 ~-81 minecraft:sponge
+fill ~ ~98 ~-82 ~ ~100 ~-82 minecraft:log 6
+setblock ~ ~98 ~-83 minecraft:log 6
+setblock ~ ~98 ~-101 minecraft:log 6
+setblock ~ ~98 ~-104 minecraft:log 6
+setblock ~ ~98 ~-105 minecraft:sponge
+setblock ~ ~99 ~-6 minecraft:planks 2
+fill ~ ~99 ~-7 ~ ~100 ~-8 minecraft:sponge
+fill ~ ~99 ~-35 ~ ~100 ~-35 minecraft:sponge
+fill ~ ~99 ~-38 ~ ~125 ~-38 minecraft:planks 2
+fill ~ ~99 ~-73 ~ ~113 ~-73 minecraft:planks 2
+fill ~ ~99 ~-79 ~ ~107 ~-79 minecraft:sponge
+fill ~ ~99 ~-80 ~ ~100 ~-80 minecraft:sponge
+fill ~ ~99 ~-83 ~ ~103 ~-83 minecraft:planks 2
+setblock ~ ~99 ~-92 minecraft:log 6
+fill ~ ~99 ~-93 ~ ~123 ~-93 minecraft:planks 2
+fill ~ ~99 ~-94 ~ ~108 ~-94 minecraft:planks 2
+fill ~ ~99 ~-101 ~ ~124 ~-101 minecraft:planks 2
+fill ~ ~99 ~-102 ~ ~122 ~-102 minecraft:planks 2
+fill ~ ~99 ~-104 ~ ~110 ~-104 minecraft:planks 2
+fill ~ ~99 ~-105 ~ ~101 ~-105 minecraft:log 6
+fill ~ ~99 ~-130 ~ ~101 ~-130 minecraft:planks 2
+fill ~ ~100 ~-9 ~ ~104 ~-10 minecraft:sponge
+setblock ~ ~100 ~-32 minecraft:planks 2
+fill ~ ~100 ~-92 ~ ~123 ~-92 minecraft:planks 2
+fill ~ ~100 ~-103 ~ ~122 ~-103 minecraft:planks 2
+fill ~ ~100 ~-126 ~ ~101 ~-126 minecraft:log 6
+fill ~ ~100 ~-127 ~ ~109 ~-127 minecraft:sponge
+fill ~ ~101 ~-7 ~ ~102 ~-7 minecraft:planks 2
+fill ~ ~101 ~-8 ~ ~103 ~-8 minecraft:sponge
+setblock ~ ~101 ~-11 minecraft:log 6
+setblock ~ ~101 ~-32 minecraft:log 6
+fill ~ ~101 ~-34 ~ ~102 ~-34 minecraft:sponge
+fill ~ ~101 ~-35 ~ ~106 ~-35 minecraft:log 6
+fill ~ ~101 ~-45 ~ ~102 ~-45 minecraft:log 6
+fill ~ ~101 ~-80 ~ ~103 ~-80 minecraft:orange_glazed_terracotta
+setblock ~ ~101 ~-82 minecraft:sponge
+fill ~ ~101 ~-106 ~ ~104 ~-106 minecraft:log 6
+fill ~ ~102 ~-11 ~ ~108 ~-11 minecraft:sponge
+fill ~ ~102 ~-12 ~ ~104 ~-12 minecraft:log 6
+fill ~ ~102 ~-32 ~ ~104 ~-32 minecraft:planks 2
+fill ~ ~102 ~-37 ~ ~112 ~-37 minecraft:planks 2
+setblock ~ ~102 ~-67 minecraft:log 6
+fill ~ ~102 ~-75 ~ ~103 ~-75 minecraft:stained_hardened_clay
+setblock ~ ~102 ~-76 minecraft:stained_hardened_clay
+fill ~ ~102 ~-82 ~ ~108 ~-82 minecraft:log 6
+setblock ~ ~102 ~-95 minecraft:log 6
+fill ~ ~102 ~-105 ~ ~108 ~-105 minecraft:planks 2
+setblock ~ ~102 ~-113 minecraft:log 6
+fill ~ ~102 ~-120 ~ ~102 ~-121 minecraft:stained_hardened_clay
+fill ~ ~102 ~-126 ~ ~115 ~-126 minecraft:planks 2
+fill ~ ~103 ~-34 ~ ~106 ~-34 minecraft:log 6
+setblock ~ ~103 ~-41 minecraft:log 6
+fill ~ ~103 ~-45 ~ ~105 ~-45 minecraft:planks 2
+fill ~ ~103 ~-67 ~ ~112 ~-67 minecraft:planks 2
+fill ~ ~103 ~-76 ~ ~109 ~-76 minecraft:planks 2
+fill ~ ~103 ~-95 ~ ~124 ~-95 minecraft:planks 2
+fill ~ ~103 ~-113 ~ ~127 ~-113 minecraft:planks 2
+fill ~ ~103 ~-120 ~ ~111 ~-120 minecraft:planks 2
+fill ~ ~103 ~-121 ~ ~104 ~-121 minecraft:stained_hardened_clay
+setblock ~ ~103 ~-129 minecraft:log 6
+fill ~ ~104 ~-18 ~ ~105 ~-18 minecraft:stained_hardened_clay
+fill ~ ~104 ~-25 ~ ~105 ~-25 minecraft:log 6
+fill ~ ~104 ~-41 ~ ~123 ~-41 minecraft:planks 2
+fill ~ ~104 ~-58 ~ ~105 ~-58 minecraft:log 6
+fill ~ ~104 ~-61 ~ ~104 ~-62 minecraft:log 6
+setblock ~ ~104 ~-75 minecraft:planks 2
+fill ~ ~104 ~-80 ~ ~107 ~-80 minecraft:sponge
+fill ~ ~104 ~-81 ~ ~107 ~-81 minecraft:log 6
+setblock ~ ~104 ~-83 minecraft:log 6
+setblock ~ ~104 ~-107 minecraft:log 6
+setblock ~ ~104 ~-122 minecraft:stained_hardened_clay
+setblock ~ ~105 ~-9 minecraft:planks 2
+setblock ~ ~105 ~-10 minecraft:sponge
+fill ~ ~105 ~-12 ~ ~111 ~-12 minecraft:sponge
+fill ~ ~105 ~-32 ~ ~108 ~-32 minecraft:log 6
+fill ~ ~105 ~-36 ~ ~126 ~-36 minecraft:planks 2
+setblock ~ ~105 ~-49 minecraft:log 6
+fill ~ ~105 ~-50 ~ ~114 ~-50 minecraft:planks 2
+fill ~ ~105 ~-51 ~ ~107 ~-51 minecraft:planks 2
+fill ~ ~105 ~-61 ~ ~111 ~-62 minecraft:planks 2
+setblock ~ ~105 ~-75 minecraft:stained_hardened_clay
+setblock ~ ~105 ~-78 minecraft:log 6
+setblock ~ ~105 ~-83 minecraft:planks 2
+fill ~ ~105 ~-106 ~ ~109 ~-106 minecraft:sponge
+fill ~ ~105 ~-107 ~ ~107 ~-107 minecraft:sponge
+setblock ~ ~105 ~-119 minecraft:stained_hardened_clay
+fill ~ ~105 ~-121 ~ ~112 ~-121 minecraft:planks 2
+fill ~ ~105 ~-122 ~ ~106 ~-122 minecraft:planks 2
+setblock ~ ~105 ~-128 minecraft:planks 2
+setblock ~ ~106 ~-10 minecraft:planks 2
+setblock ~ ~106 ~-17 minecraft:stained_hardened_clay
+fill ~ ~106 ~-18 ~ ~113 ~-18 minecraft:planks 2
+fill ~ ~106 ~-25 ~ ~112 ~-25 minecraft:planks 2
+setblock ~ ~106 ~-45 minecraft:log 6
+fill ~ ~106 ~-49 ~ ~116 ~-49 minecraft:planks 2
+fill ~ ~106 ~-58 ~ ~112 ~-58 minecraft:planks 2
+fill ~ ~106 ~-63 ~ ~108 ~-63 minecraft:log 6
+fill ~ ~106 ~-75 ~ ~112 ~-75 minecraft:planks 2
+fill ~ ~106 ~-78 ~ ~112 ~-78 minecraft:sponge
+setblock ~ ~106 ~-83 minecraft:stained_hardened_clay
+fill ~ ~106 ~-119 ~ ~113 ~-119 minecraft:planks 2
+setblock ~ ~106 ~-128 minecraft:log 6
+fill ~ ~107 ~-17 ~ ~110 ~-17 minecraft:planks 2
+fill ~ ~107 ~-34 ~ ~123 ~-35 minecraft:planks 2
+setblock ~ ~107 ~-43 minecraft:log 6
+fill ~ ~107 ~-44 ~ ~120 ~-45 minecraft:planks 2
+fill ~ ~107 ~-83 ~ ~115 ~-83 minecraft:planks 2
+setblock ~ ~107 ~-118 minecraft:stained_hardened_clay
+setblock ~ ~107 ~-122 minecraft:stained_hardened_clay
+setblock ~ ~107 ~-128 minecraft:sponge
+fill ~ ~108 ~-33 ~ ~123 ~-33 minecraft:planks 2
+fill ~ ~108 ~-43 ~ ~125 ~-43 minecraft:planks 2
+setblock ~ ~108 ~-51 minecraft:log 6
+fill ~ ~108 ~-79 ~ ~108 ~-80 minecraft:log 6
+setblock ~ ~108 ~-81 minecraft:orange_glazed_terracotta
+setblock ~ ~108 ~-85 minecraft:log 6
+setblock ~ ~108 ~-107 minecraft:log 6
+fill ~ ~108 ~-118 ~ ~112 ~-118 minecraft:planks 2
+setblock ~ ~108 ~-122 minecraft:planks 2
+fill ~ ~108 ~-128 ~ ~109 ~-128 minecraft:log 6
+fill ~ ~109 ~-11 ~ ~110 ~-11 minecraft:planks 2
+setblock ~ ~109 ~-20 minecraft:stained_hardened_clay
+fill ~ ~109 ~-32 ~ ~123 ~-32 minecraft:planks 2
+fill ~ ~109 ~-51 ~ ~121 ~-51 minecraft:planks 2
+fill ~ ~109 ~-63 ~ ~112 ~-63 minecraft:planks 2
+setblock ~ ~109 ~-77 minecraft:log 6
+setblock ~ ~109 ~-79 minecraft:sponge
+fill ~ ~109 ~-80 ~ ~111 ~-81 minecraft:log 6
+fill ~ ~109 ~-82 ~ ~115 ~-82 minecraft:planks 2
+fill ~ ~109 ~-85 ~ ~117 ~-85 minecraft:planks 2
+fill ~ ~109 ~-94 ~ ~110 ~-94 minecraft:log 6
+fill ~ ~109 ~-105 ~ ~118 ~-105 minecraft:log 6
+fill ~ ~109 ~-107 ~ ~124 ~-107 minecraft:planks 2
+setblock ~ ~109 ~-116 minecraft:stained_hardened_clay
+fill ~ ~109 ~-122 ~ ~110 ~-122 minecraft:stained_hardened_clay
+setblock ~ ~109 ~-123 minecraft:sandstone 1
+setblock ~ ~110 ~-16 minecraft:stained_hardened_clay
+fill ~ ~110 ~-20 ~ ~113 ~-20 minecraft:planks 2
+setblock ~ ~110 ~-65 minecraft:log 6
+setblock ~ ~110 ~-76 minecraft:log 6
+fill ~ ~110 ~-77 ~ ~114 ~-77 minecraft:sponge
+setblock ~ ~110 ~-79 minecraft:log 6
+setblock ~ ~110 ~-88 minecraft:log 6
+fill ~ ~110 ~-106 ~ ~111 ~-106 minecraft:log 6
+fill ~ ~110 ~-116 ~ ~125 ~-116 minecraft:planks 2
+fill ~ ~110 ~-123 ~ ~111 ~-123 minecraft:stained_hardened_clay
+setblock ~ ~110 ~-124 minecraft:sandstone 1
+fill ~ ~110 ~-127 ~ ~112 ~-127 minecraft:log 6
+fill ~ ~110 ~-128 ~ ~111 ~-128 minecraft:planks 2
+setblock ~ ~111 ~-15 minecraft:stained_hardened_clay
+setblock ~ ~111 ~-16 minecraft:sandstone 1
+fill ~ ~111 ~-17 ~ ~112 ~-17 minecraft:stained_hardened_clay
+fill ~ ~111 ~-64 ~ ~113 ~-64 minecraft:log 6
+fill ~ ~111 ~-65 ~ ~114 ~-65 minecraft:planks 2
+setblock ~ ~111 ~-74 minecraft:log 6
+setblock ~ ~111 ~-76 minecraft:planks 2
+fill ~ ~111 ~-79 ~ ~112 ~-79 minecraft:planks 2
+fill ~ ~111 ~-88 ~ ~124 ~-88 minecraft:planks 2
+fill ~ ~111 ~-94 ~ ~123 ~-94 minecraft:planks 2
+setblock ~ ~111 ~-97 minecraft:log 6
+fill ~ ~111 ~-104 ~ ~117 ~-104 minecraft:log 6
+fill ~ ~111 ~-122 ~ ~113 ~-122 minecraft:planks 2
+fill ~ ~111 ~-124 ~ ~112 ~-124 minecraft:stained_hardened_clay
+fill ~ ~112 ~-12 ~ ~115 ~-12 minecraft:planks 2
+fill ~ ~112 ~-15 ~ ~117 ~-15 minecraft:planks 2
+fill ~ ~112 ~-16 ~ ~113 ~-16 minecraft:planks 2
+setblock ~ ~112 ~-59 minecraft:log 6
+fill ~ ~112 ~-61 ~ ~115 ~-61 minecraft:log 6
+setblock ~ ~112 ~-62 minecraft:planks 2
+setblock ~ ~112 ~-74 minecraft:planks 2
+setblock ~ ~112 ~-76 minecraft:log 6
+fill ~ ~112 ~-80 ~ ~113 ~-80 minecraft:sponge
+fill ~ ~112 ~-81 ~ ~115 ~-81 minecraft:log 6
+fill ~ ~112 ~-97 ~ ~124 ~-97 minecraft:planks 2
+setblock ~ ~112 ~-106 minecraft:sponge
+setblock ~ ~112 ~-120 minecraft:stained_hardened_clay
+setblock ~ ~112 ~-123 minecraft:planks 2
+setblock ~ ~113 ~-17 minecraft:planks 2
+fill ~ ~113 ~-23 ~ ~116 ~-23 minecraft:stained_hardened_clay
+setblock ~ ~113 ~-25 minecraft:stained_hardened_clay
+setblock ~ ~113 ~-37 minecraft:log 6
+fill ~ ~113 ~-57 ~ ~113 ~-58 minecraft:log 6
+setblock ~ ~113 ~-59 minecraft:planks 2
+fill ~ ~113 ~-62 ~ ~114 ~-63 minecraft:log 6
+fill ~ ~113 ~-67 ~ ~114 ~-67 minecraft:sponge
+fill ~ ~113 ~-68 ~ ~116 ~-68 minecraft:log 6
+fill ~ ~113 ~-71 ~ ~119 ~-71 minecraft:log 6
+setblock ~ ~113 ~-72 minecraft:planks 2
+fill ~ ~113 ~-74 ~ ~113 ~-75 minecraft:log 6
+fill ~ ~113 ~-76 ~ ~115 ~-76 minecraft:sponge
+fill ~ ~113 ~-78 ~ ~113 ~-79 minecraft:log 6
+fill ~ ~113 ~-106 ~ ~116 ~-106 minecraft:log 6
+fill ~ ~113 ~-117 ~ ~113 ~-118 minecraft:stained_hardened_clay
+setblock ~ ~113 ~-120 minecraft:planks 2
+fill ~ ~113 ~-121 ~ ~116 ~-121 minecraft:stained_hardened_clay
+fill ~ ~113 ~-123 ~ ~117 ~-123 minecraft:stained_hardened_clay
+fill ~ ~113 ~-124 ~ ~119 ~-124 minecraft:planks 2
+fill ~ ~113 ~-127 ~ ~114 ~-127 minecraft:sponge
+fill ~ ~114 ~-16 ~ ~115 ~-18 minecraft:stained_hardened_clay
+fill ~ ~114 ~-19 ~ ~114 ~-21 minecraft:stained_hardened_clay
+fill ~ ~114 ~-25 ~ ~125 ~-25 minecraft:planks 2
+fill ~ ~114 ~-37 ~ ~126 ~-37 minecraft:planks 2
+setblock ~ ~114 ~-46 minecraft:log 6
+fill ~ ~114 ~-47 ~ ~121 ~-47 minecraft:planks 2
+setblock ~ ~114 ~-57 minecraft:planks 2
+fill ~ ~114 ~-58 ~ ~117 ~-58 minecraft:log 6
+fill ~ ~114 ~-59 ~ ~115 ~-60 minecraft:log 6
+setblock ~ ~114 ~-64 minecraft:planks 2
+setblock ~ ~114 ~-66 minecraft:log 6
+fill ~ ~114 ~-69 ~ ~116 ~-70 minecraft:log 6
+fill ~ ~114 ~-72 ~ ~119 ~-72 minecraft:log 6
+fill ~ ~114 ~-73 ~ ~116 ~-73 minecraft:log 6
+fill ~ ~114 ~-74 ~ ~115 ~-75 minecraft:sponge
+fill ~ ~114 ~-78 ~ ~116 ~-78 minecraft:planks 2
+fill ~ ~114 ~-79 ~ ~115 ~-80 minecraft:log 6
+fill ~ ~114 ~-117 ~ ~116 ~-118 minecraft:planks 2
+setblock ~ ~114 ~-119 minecraft:stained_hardened_clay
+fill ~ ~114 ~-120 ~ ~115 ~-120 minecraft:sandstone 1
+setblock ~ ~114 ~-122 minecraft:stained_hardened_clay
+setblock ~ ~115 ~-13 minecraft:log 6
+setblock ~ ~115 ~-14 minecraft:planks 2
+fill ~ ~115 ~-19 ~ ~115 ~-20 minecraft:sandstone 1
+setblock ~ ~115 ~-21 minecraft:stained_hardened_clay
+fill ~ ~115 ~-46 ~ ~121 ~-46 minecraft:planks 2
+setblock ~ ~115 ~-50 minecraft:log 6
+fill ~ ~115 ~-57 ~ ~117 ~-57 minecraft:log 6
+fill ~ ~115 ~-62 ~ ~116 ~-62 minecraft:planks 2
+fill ~ ~115 ~-63 ~ ~120 ~-63 minecraft:log 6
+fill ~ ~115 ~-64 ~ ~116 ~-64 minecraft:log 6
+fill ~ ~115 ~-65 ~ ~117 ~-65 minecraft:sponge
+fill ~ ~115 ~-66 ~ ~115 ~-67 minecraft:orange_glazed_terracotta
+setblock ~ ~115 ~-77 minecraft:log 6
+fill ~ ~115 ~-109 ~ ~117 ~-109 minecraft:stained_hardened_clay
+fill ~ ~115 ~-119 ~ ~118 ~-119 minecraft:planks 2
+setblock ~ ~115 ~-122 minecraft:sandstone 1
+setblock ~ ~115 ~-127 minecraft:log 6
+fill ~ ~116 ~-13 ~ ~118 ~-13 minecraft:planks 2
+setblock ~ ~116 ~-14 minecraft:log 6
+fill ~ ~116 ~-16 ~ ~119 ~-16 minecraft:planks 2
+fill ~ ~116 ~-17 ~ ~117 ~-17 minecraft:stained_hardened_clay
+fill ~ ~116 ~-18 ~ ~116 ~-20 minecraft:stained_hardened_clay
+fill ~ ~116 ~-21 ~ ~119 ~-21 minecraft:planks 2
+fill ~ ~116 ~-50 ~ ~121 ~-50 minecraft:planks 2
+fill ~ ~116 ~-52 ~ ~117 ~-52 minecraft:log 6
+fill ~ ~116 ~-56 ~ ~118 ~-56 minecraft:log 6
+setblock ~ ~116 ~-59 minecraft:planks 2
+fill ~ ~116 ~-60 ~ ~117 ~-60 minecraft:log 6
+setblock ~ ~116 ~-61 minecraft:planks 2
+fill ~ ~116 ~-66 ~ ~117 ~-67 minecraft:sponge
+setblock ~ ~116 ~-74 minecraft:planks 2
+fill ~ ~116 ~-75 ~ ~118 ~-75 minecraft:log 6
+fill ~ ~116 ~-76 ~ ~116 ~-77 minecraft:planks 2
+fill ~ ~116 ~-79 ~ ~125 ~-79 minecraft:planks 2
+setblock ~ ~116 ~-80 minecraft:log 6
+setblock ~ ~116 ~-81 minecraft:sponge
+fill ~ ~116 ~-82 ~ ~116 ~-83 minecraft:log 6
+fill ~ ~116 ~-120 ~ ~117 ~-120 minecraft:stained_hardened_clay
+setblock ~ ~116 ~-122 minecraft:stained_hardened_clay
+fill ~ ~116 ~-126 ~ ~118 ~-126 minecraft:sponge
+setblock ~ ~117 ~-14 minecraft:sponge
+fill ~ ~117 ~-18 ~ ~119 ~-18 minecraft:sandstone 1
+setblock ~ ~117 ~-19 minecraft:sandstone 1
+fill ~ ~117 ~-20 ~ ~118 ~-20 minecraft:stained_hardened_clay
+setblock ~ ~117 ~-23 minecraft:planks 2
+setblock ~ ~117 ~-49 minecraft:log 6
+setblock ~ ~117 ~-55 minecraft:log 6
+setblock ~ ~117 ~-59 minecraft:log 6
+fill ~ ~117 ~-61 ~ ~117 ~-62 minecraft:log 6
+setblock ~ ~117 ~-64 minecraft:sponge
+fill ~ ~117 ~-68 ~ ~118 ~-70 minecraft:planks 2
+setblock ~ ~117 ~-73 minecraft:planks 2
+fill ~ ~117 ~-74 ~ ~118 ~-74 minecraft:log 6
+setblock ~ ~117 ~-76 minecraft:log 6
+fill ~ ~117 ~-77 ~ ~119 ~-77 minecraft:planks 2
+fill ~ ~117 ~-78 ~ ~118 ~-78 minecraft:log 6
+fill ~ ~117 ~-80 ~ ~125 ~-80 minecraft:planks 2
+fill ~ ~117 ~-81 ~ ~118 ~-81 minecraft:log 6
+setblock ~ ~117 ~-82 minecraft:sponge
+fill ~ ~117 ~-83 ~ ~118 ~-84 minecraft:log 6
+setblock ~ ~117 ~-98 minecraft:log 6
+fill ~ ~117 ~-106 ~ ~123 ~-106 minecraft:planks 2
+setblock ~ ~117 ~-110 minecraft:stained_hardened_clay
+fill ~ ~117 ~-117 ~ ~118 ~-117 minecraft:stained_hardened_clay
+setblock ~ ~117 ~-118 minecraft:planks 2
+fill ~ ~117 ~-121 ~ ~117 ~-122 minecraft:sandstone 1
+fill ~ ~118 ~-14 ~ ~120 ~-14 minecraft:planks 2
+fill ~ ~118 ~-15 ~ ~119 ~-15 minecraft:sponge
+fill ~ ~118 ~-17 ~ ~120 ~-17 minecraft:planks 2
+setblock ~ ~118 ~-19 minecraft:stained_hardened_clay
+fill ~ ~118 ~-22 ~ ~118 ~-23 minecraft:stained_hardened_clay
+setblock ~ ~118 ~-29 minecraft:stained_hardened_clay
+fill ~ ~118 ~-49 ~ ~121 ~-49 minecraft:planks 2
+fill ~ ~118 ~-52 ~ ~123 ~-52 minecraft:planks 2
+fill ~ ~118 ~-55 ~ ~125 ~-55 minecraft:planks 2
+fill ~ ~118 ~-57 ~ ~126 ~-61 minecraft:planks 2
+fill ~ ~118 ~-62 ~ ~119 ~-62 minecraft:planks 2
+fill ~ ~118 ~-64 ~ ~118 ~-67 minecraft:log 6
+setblock ~ ~118 ~-73 minecraft:log 6
+fill ~ ~118 ~-76 ~ ~119 ~-76 minecraft:planks 2
+setblock ~ ~118 ~-82 minecraft:log 6
+setblock ~ ~118 ~-85 minecraft:log 6
+fill ~ ~118 ~-98 ~ ~124 ~-98 minecraft:planks 2
+fill ~ ~118 ~-104 ~ ~122 ~-104 minecraft:planks 2
+fill ~ ~118 ~-109 ~ ~124 ~-110 minecraft:planks 2
+fill ~ ~118 ~-118 ~ ~120 ~-118 minecraft:stained_hardened_clay
+setblock ~ ~118 ~-120 minecraft:planks 2
+setblock ~ ~118 ~-121 minecraft:stained_hardened_clay
+setblock ~ ~118 ~-122 minecraft:sandstone 1
+fill ~ ~118 ~-123 ~ ~120 ~-123 minecraft:planks 2
+fill ~ ~119 ~-19 ~ ~122 ~-20 minecraft:planks 2
+fill ~ ~119 ~-22 ~ ~119 ~-23 minecraft:planks 2
+fill ~ ~119 ~-29 ~ ~125 ~-29 minecraft:planks 2
+fill ~ ~119 ~-56 ~ ~126 ~-56 minecraft:planks 2
+fill ~ ~119 ~-64 ~ ~126 ~-64 minecraft:planks 2
+fill ~ ~119 ~-65 ~ ~120 ~-65 minecraft:planks 2
+setblock ~ ~119 ~-66 minecraft:log 6
+setblock ~ ~119 ~-67 minecraft:planks 2
+fill ~ ~119 ~-68 ~ ~119 ~-69 minecraft:log 6
+fill ~ ~119 ~-70 ~ ~141 ~-70 minecraft:planks 2
+fill ~ ~119 ~-73 ~ ~141 ~-73 minecraft:planks 2
+fill ~ ~119 ~-74 ~ ~119 ~-75 minecraft:planks 2
+fill ~ ~119 ~-78 ~ ~126 ~-78 minecraft:planks 2
+fill ~ ~119 ~-81 ~ ~126 ~-83 minecraft:planks 2
+setblock ~ ~119 ~-84 minecraft:sponge
+setblock ~ ~119 ~-85 minecraft:planks 2
+fill ~ ~119 ~-105 ~ ~123 ~-105 minecraft:planks 2
+setblock ~ ~119 ~-111 minecraft:stained_hardened_clay
+fill ~ ~119 ~-112 ~ ~125 ~-112 minecraft:planks 2
+fill ~ ~119 ~-117 ~ ~125 ~-117 minecraft:planks 2
+fill ~ ~119 ~-119 ~ ~119 ~-120 minecraft:stained_hardened_clay
+fill ~ ~119 ~-121 ~ ~122 ~-122 minecraft:planks 2
+setblock ~ ~119 ~-125 minecraft:sponge
+setblock ~ ~120 ~-15 minecraft:log 6
+setblock ~ ~120 ~-16 minecraft:sponge
+fill ~ ~120 ~-18 ~ ~121 ~-18 minecraft:planks 2
+fill ~ ~120 ~-21 ~ ~120 ~-22 minecraft:stained_hardened_clay
+fill ~ ~120 ~-23 ~ ~124 ~-23 minecraft:planks 2
+setblock ~ ~120 ~-62 minecraft:log 6
+fill ~ ~120 ~-66 ~ ~127 ~-66 minecraft:planks 2
+setblock ~ ~120 ~-67 minecraft:log 6
+fill ~ ~120 ~-68 ~ ~126 ~-69 minecraft:planks 2
+fill ~ ~120 ~-71 ~ ~130 ~-72 minecraft:planks 2
+setblock ~ ~120 ~-74 minecraft:log 6
+setblock ~ ~120 ~-75 minecraft:planks 2
+fill ~ ~120 ~-76 ~ ~120 ~-77 minecraft:log 6
+setblock ~ ~120 ~-84 minecraft:log 6
+setblock ~ ~120 ~-85 minecraft:sponge
+fill ~ ~120 ~-111 ~ ~127 ~-111 minecraft:planks 2
+fill ~ ~120 ~-119 ~ ~123 ~-120 minecraft:planks 2
+setblock ~ ~120 ~-124 minecraft:sponge
+setblock ~ ~120 ~-125 minecraft:orange_glazed_terracotta
+setblock ~ ~121 ~-15 minecraft:planks 2
+setblock ~ ~121 ~-16 minecraft:log 6
+fill ~ ~121 ~-17 ~ ~122 ~-17 minecraft:sponge
+fill ~ ~121 ~-21 ~ ~123 ~-22 minecraft:planks 2
+setblock ~ ~121 ~-42 minecraft:stained_hardened_clay
+setblock ~ ~121 ~-44 minecraft:stained_hardened_clay
+fill ~ ~121 ~-45 ~ ~125 ~-45 minecraft:planks 2
+fill ~ ~121 ~-62 ~ ~126 ~-62 minecraft:planks 2
+fill ~ ~121 ~-63 ~ ~125 ~-63 minecraft:planks 2
+setblock ~ ~121 ~-65 minecraft:log 6
+fill ~ ~121 ~-67 ~ ~124 ~-67 minecraft:planks 2
+fill ~ ~121 ~-74 ~ ~128 ~-74 minecraft:planks 2
+setblock ~ ~121 ~-75 minecraft:log 6
+fill ~ ~121 ~-76 ~ ~123 ~-77 minecraft:planks 2
+fill ~ ~121 ~-84 ~ ~141 ~-84 minecraft:planks 2
+setblock ~ ~121 ~-85 minecraft:log 6
+setblock ~ ~121 ~-86 minecraft:sponge
+fill ~ ~121 ~-118 ~ ~124 ~-118 minecraft:planks 2
+fill ~ ~121 ~-123 ~ ~122 ~-123 minecraft:sponge
+setblock ~ ~121 ~-124 minecraft:orange_glazed_terracotta
+setblock ~ ~122 ~-16 minecraft:planks 2
+fill ~ ~122 ~-18 ~ ~123 ~-18 minecraft:sponge
+setblock ~ ~122 ~-42 minecraft:planks 2
+fill ~ ~122 ~-44 ~ ~125 ~-44 minecraft:planks 2
+fill ~ ~122 ~-46 ~ ~123 ~-46 minecraft:sponge
+fill ~ ~122 ~-47 ~ ~122 ~-49 minecraft:sponge
+setblock ~ ~122 ~-50 minecraft:log 6
+setblock ~ ~122 ~-51 minecraft:sponge
+fill ~ ~122 ~-65 ~ ~126 ~-65 minecraft:planks 2
+fill ~ ~122 ~-75 ~ ~125 ~-75 minecraft:planks 2
+fill ~ ~122 ~-85 ~ ~126 ~-85 minecraft:planks 2
+setblock ~ ~122 ~-86 minecraft:log 6
+setblock ~ ~122 ~-87 minecraft:sponge
+setblock ~ ~122 ~-124 minecraft:log 6
+setblock ~ ~123 ~-17 minecraft:planks 2
+fill ~ ~123 ~-19 ~ ~123 ~-20 minecraft:sponge
+setblock ~ ~123 ~-42 minecraft:log 6
+fill ~ ~123 ~-47 ~ ~125 ~-47 minecraft:planks 2
+fill ~ ~123 ~-48 ~ ~124 ~-50 minecraft:planks 2
+setblock ~ ~123 ~-51 minecraft:planks 2
+fill ~ ~123 ~-86 ~ ~125 ~-86 minecraft:planks 2
+setblock ~ ~123 ~-87 minecraft:planks 2
+fill ~ ~123 ~-102 ~ ~124 ~-104 minecraft:log 6
+fill ~ ~123 ~-121 ~ ~124 ~-121 minecraft:sponge
+setblock ~ ~123 ~-122 minecraft:sponge
+setblock ~ ~123 ~-123 minecraft:log 6
+setblock ~ ~124 ~-18 minecraft:planks 2
+setblock ~ ~124 ~-19 minecraft:log 6
+setblock ~ ~124 ~-20 minecraft:orange_glazed_terracotta
+fill ~ ~124 ~-21 ~ ~124 ~-22 minecraft:sponge
+fill ~ ~124 ~-31 ~ ~124 ~-33 minecraft:stained_hardened_clay
+setblock ~ ~124 ~-34 minecraft:sandstone 1
+fill ~ ~124 ~-35 ~ ~126 ~-35 minecraft:planks 2
+setblock ~ ~124 ~-41 minecraft:log 6
+setblock ~ ~124 ~-42 minecraft:planks 2
+fill ~ ~124 ~-46 ~ ~125 ~-46 minecraft:planks 2
+fill ~ ~124 ~-51 ~ ~125 ~-53 minecraft:sponge
+setblock ~ ~124 ~-54 minecraft:planks 2
+setblock ~ ~124 ~-76 minecraft:log 6
+fill ~ ~124 ~-77 ~ ~127 ~-77 minecraft:planks 2
+fill ~ ~124 ~-87 ~ ~127 ~-87 minecraft:sandstone 1
+fill ~ ~124 ~-91 ~ ~124 ~-94 minecraft:log 6
+fill ~ ~124 ~-100 ~ ~125 ~-100 minecraft:log 6
+fill ~ ~124 ~-105 ~ ~127 ~-106 minecraft:log 6
+fill ~ ~124 ~-119 ~ ~125 ~-120 minecraft:sponge
+fill ~ ~124 ~-122 ~ ~125 ~-122 minecraft:planks 2
+setblock ~ ~124 ~-123 minecraft:planks 2
+setblock ~ ~125 ~-19 minecraft:planks 2
+setblock ~ ~125 ~-20 minecraft:log 6
+setblock ~ ~125 ~-21 minecraft:orange_glazed_terracotta
+fill ~ ~125 ~-22 ~ ~126 ~-23 minecraft:sponge
+setblock ~ ~125 ~-24 minecraft:log 6
+fill ~ ~125 ~-31 ~ ~129 ~-31 minecraft:planks 2
+fill ~ ~125 ~-32 ~ ~127 ~-33 minecraft:planks 2
+fill ~ ~125 ~-34 ~ ~126 ~-34 minecraft:planks 2
+setblock ~ ~125 ~-40 minecraft:log 6
+fill ~ ~125 ~-41 ~ ~129 ~-42 minecraft:sponge
+fill ~ ~125 ~-48 ~ ~126 ~-48 minecraft:sponge
+fill ~ ~125 ~-49 ~ ~125 ~-50 minecraft:sponge
+fill ~ ~125 ~-54 ~ ~126 ~-54 minecraft:sponge
+setblock ~ ~125 ~-67 minecraft:sandstone 1
+setblock ~ ~125 ~-76 minecraft:planks 2
+fill ~ ~125 ~-88 ~ ~125 ~-89 minecraft:sponge
+setblock ~ ~125 ~-91 minecraft:planks 2
+fill ~ ~125 ~-92 ~ ~129 ~-92 minecraft:sponge
+fill ~ ~125 ~-93 ~ ~128 ~-94 minecraft:sponge
+fill ~ ~125 ~-95 ~ ~125 ~-99 minecraft:log 6
+fill ~ ~125 ~-101 ~ ~127 ~-102 minecraft:sponge
+fill ~ ~125 ~-103 ~ ~125 ~-104 minecraft:log 6
+fill ~ ~125 ~-107 ~ ~128 ~-108 minecraft:log 6
+fill ~ ~125 ~-109 ~ ~127 ~-109 minecraft:log 6
+setblock ~ ~125 ~-110 minecraft:planks 2
+fill ~ ~125 ~-118 ~ ~126 ~-118 minecraft:sponge
+fill ~ ~125 ~-121 ~ ~126 ~-121 minecraft:planks 2
+setblock ~ ~126 ~-20 minecraft:planks 2
+setblock ~ ~126 ~-21 minecraft:log 6
+fill ~ ~126 ~-24 ~ ~128 ~-24 minecraft:sponge
+setblock ~ ~126 ~-25 minecraft:log 6
+fill ~ ~126 ~-27 ~ ~127 ~-27 minecraft:log 6
+fill ~ ~126 ~-28 ~ ~126 ~-29 minecraft:log 6
+setblock ~ ~126 ~-38 minecraft:log 6
+fill ~ ~126 ~-39 ~ ~129 ~-40 minecraft:sponge
+fill ~ ~126 ~-43 ~ ~128 ~-44 minecraft:sponge
+fill ~ ~126 ~-45 ~ ~126 ~-47 minecraft:sponge
+fill ~ ~126 ~-49 ~ ~127 ~-51 minecraft:planks 2
+fill ~ ~126 ~-52 ~ ~126 ~-53 minecraft:sponge
+setblock ~ ~126 ~-55 minecraft:sponge
+fill ~ ~126 ~-63 ~ ~129 ~-63 minecraft:sandstone 1
+setblock ~ ~126 ~-67 minecraft:planks 2
+fill ~ ~126 ~-75 ~ ~127 ~-75 minecraft:log 6
+setblock ~ ~126 ~-76 minecraft:log 6
+fill ~ ~126 ~-79 ~ ~127 ~-80 minecraft:log 6
+fill ~ ~126 ~-86 ~ ~131 ~-86 minecraft:sandstone 1
+setblock ~ ~126 ~-88 minecraft:planks 2
+fill ~ ~126 ~-89 ~ ~126 ~-91 minecraft:sponge
+fill ~ ~126 ~-95 ~ ~128 ~-95 minecraft:sponge
+fill ~ ~126 ~-96 ~ ~126 ~-100 minecraft:sponge
+fill ~ ~126 ~-103 ~ ~126 ~-104 minecraft:sponge
+fill ~ ~126 ~-110 ~ ~128 ~-110 minecraft:log 6
+setblock ~ ~126 ~-112 minecraft:log 6
+fill ~ ~126 ~-114 ~ ~127 ~-114 minecraft:log 6
+setblock ~ ~126 ~-115 minecraft:planks 2
+fill ~ ~126 ~-116 ~ ~126 ~-117 minecraft:log 6
+setblock ~ ~126 ~-119 minecraft:log 6
+setblock ~ ~126 ~-120 minecraft:planks 2
+setblock ~ ~127 ~-22 minecraft:log 6
+setblock ~ ~127 ~-23 minecraft:sponge
+fill ~ ~127 ~-25 ~ ~128 ~-25 minecraft:sponge
+setblock ~ ~127 ~-26 minecraft:log 6
+setblock ~ ~127 ~-28 minecraft:sponge
+setblock ~ ~127 ~-29 minecraft:log 6
+fill ~ ~127 ~-34 ~ ~128 ~-38 minecraft:sponge
+setblock ~ ~127 ~-45 minecraft:log 6
+fill ~ ~127 ~-46 ~ ~127 ~-48 minecraft:planks 2
+fill ~ ~127 ~-52 ~ ~128 ~-52 minecraft:log 6
+fill ~ ~127 ~-53 ~ ~128 ~-55 minecraft:stained_hardened_clay 4
+fill ~ ~127 ~-56 ~ ~127 ~-58 minecraft:sponge
+fill ~ ~127 ~-59 ~ ~129 ~-59 minecraft:log 6
+fill ~ ~127 ~-60 ~ ~141 ~-60 minecraft:planks 2
+fill ~ ~127 ~-61 ~ ~140 ~-61 minecraft:planks 2
+setblock ~ ~127 ~-62 minecraft:sandstone 1
+fill ~ ~127 ~-64 ~ ~127 ~-65 minecraft:stained_hardened_clay
+fill ~ ~127 ~-67 ~ ~127 ~-68 minecraft:log 6
+fill ~ ~127 ~-69 ~ ~142 ~-69 minecraft:planks 2
+fill ~ ~127 ~-76 ~ ~137 ~-76 minecraft:planks 2
+fill ~ ~127 ~-78 ~ ~129 ~-78 minecraft:log 6
+fill ~ ~127 ~-81 ~ ~129 ~-81 minecraft:log 6
+fill ~ ~127 ~-82 ~ ~130 ~-83 minecraft:planks 2
+setblock ~ ~127 ~-85 minecraft:sandstone 1
+fill ~ ~127 ~-88 ~ ~134 ~-88 minecraft:sandstone 1
+fill ~ ~127 ~-89 ~ ~129 ~-89 minecraft:planks 2
+fill ~ ~127 ~-90 ~ ~127 ~-91 minecraft:sponge
+setblock ~ ~127 ~-96 minecraft:stained_hardened_clay 4
+fill ~ ~127 ~-97 ~ ~128 ~-98 minecraft:sponge
+fill ~ ~127 ~-99 ~ ~128 ~-99 minecraft:stained_hardened_clay 4
+setblock ~ ~127 ~-100 minecraft:orange_glazed_terracotta
+fill ~ ~127 ~-103 ~ ~127 ~-104 minecraft:log 6
+setblock ~ ~127 ~-112 minecraft:planks 2
+fill ~ ~127 ~-115 ~ ~127 ~-116 minecraft:sponge
+fill ~ ~127 ~-117 ~ ~127 ~-118 minecraft:log 6
+setblock ~ ~127 ~-119 minecraft:planks 2
+fill ~ ~128 ~-26 ~ ~128 ~-29 minecraft:planks 2
+fill ~ ~128 ~-32 ~ ~128 ~-33 minecraft:sponge
+setblock ~ ~128 ~-45 minecraft:planks 2
+setblock ~ ~128 ~-46 minecraft:sponge
+setblock ~ ~128 ~-47 minecraft:log 6
+fill ~ ~128 ~-48 ~ ~129 ~-48 minecraft:sponge
+setblock ~ ~128 ~-49 minecraft:log 6
+setblock ~ ~128 ~-50 minecraft:planks 2
+setblock ~ ~128 ~-51 minecraft:log 6
+fill ~ ~128 ~-56 ~ ~129 ~-56 minecraft:stained_hardened_clay 4
+fill ~ ~128 ~-57 ~ ~137 ~-57 minecraft:sponge
+fill ~ ~128 ~-58 ~ ~130 ~-58 minecraft:sponge
+fill ~ ~128 ~-62 ~ ~130 ~-62 minecraft:stained_hardened_clay
+fill ~ ~128 ~-64 ~ ~129 ~-64 minecraft:sandstone 1
+setblock ~ ~128 ~-65 minecraft:sandstone 1
+setblock ~ ~128 ~-66 minecraft:stained_hardened_clay
+fill ~ ~128 ~-67 ~ ~130 ~-68 minecraft:planks 2
+fill ~ ~128 ~-75 ~ ~139 ~-75 minecraft:planks 2
+setblock ~ ~128 ~-77 minecraft:log 6
+fill ~ ~128 ~-79 ~ ~128 ~-80 minecraft:planks 2
+setblock ~ ~128 ~-85 minecraft:stained_hardened_clay
+setblock ~ ~128 ~-87 minecraft:sandstone
+fill ~ ~128 ~-90 ~ ~131 ~-90 minecraft:planks 2
+fill ~ ~128 ~-91 ~ ~129 ~-91 minecraft:sponge
+fill ~ ~128 ~-96 ~ ~130 ~-96 minecraft:sponge
+setblock ~ ~128 ~-100 minecraft:stained_hardened_clay 4
+fill ~ ~128 ~-101 ~ ~128 ~-102 minecraft:orange_glazed_terracotta
+fill ~ ~128 ~-103 ~ ~129 ~-104 minecraft:sponge
+fill ~ ~128 ~-105 ~ ~128 ~-106 minecraft:sponge
+setblock ~ ~128 ~-109 minecraft:sponge
+fill ~ ~128 ~-111 ~ ~129 ~-111 minecraft:log 6
+fill ~ ~128 ~-112 ~ ~128 ~-114 minecraft:sponge
+fill ~ ~128 ~-115 ~ ~128 ~-116 minecraft:log 6
+setblock ~ ~129 ~-26 minecraft:sponge
+fill ~ ~129 ~-27 ~ ~129 ~-29 minecraft:planks 2
+fill ~ ~129 ~-32 ~ ~130 ~-35 minecraft:planks 2
+fill ~ ~129 ~-36 ~ ~129 ~-38 minecraft:sponge
+setblock ~ ~129 ~-43 minecraft:log 6
+setblock ~ ~129 ~-44 minecraft:sponge
+fill ~ ~129 ~-45 ~ ~129 ~-46 minecraft:stained_hardened_clay 4
+setblock ~ ~129 ~-47 minecraft:sponge
+fill ~ ~129 ~-49 ~ ~129 ~-53 minecraft:sponge
+fill ~ ~129 ~-54 ~ ~130 ~-55 minecraft:stained_hardened_clay 4
+setblock ~ ~129 ~-65 minecraft:stained_hardened_clay
+setblock ~ ~129 ~-66 minecraft:planks 2
+setblock ~ ~129 ~-74 minecraft:log 6
+fill ~ ~129 ~-77 ~ ~137 ~-77 minecraft:planks 2
+fill ~ ~129 ~-79 ~ ~132 ~-79 minecraft:log 6
+fill ~ ~129 ~-80 ~ ~131 ~-80 minecraft:log 6
+fill ~ ~129 ~-85 ~ ~141 ~-85 minecraft:planks 2
+fill ~ ~129 ~-87 ~ ~136 ~-87 minecraft:sandstone 1
+fill ~ ~129 ~-93 ~ ~129 ~-95 minecraft:log 6
+setblock ~ ~129 ~-97 minecraft:planks 2
+fill ~ ~129 ~-98 ~ ~129 ~-102 minecraft:sponge
+fill ~ ~129 ~-105 ~ ~129 ~-110 minecraft:planks 2
+fill ~ ~130 ~-36 ~ ~130 ~-39 minecraft:planks 2
+setblock ~ ~130 ~-46 minecraft:sponge
+setblock ~ ~130 ~-47 minecraft:orange_glazed_terracotta
+fill ~ ~130 ~-48 ~ ~130 ~-50 minecraft:stained_hardened_clay 4
+setblock ~ ~130 ~-51 minecraft:orange_glazed_terracotta
+fill ~ ~130 ~-52 ~ ~130 ~-53 minecraft:sponge
+fill ~ ~130 ~-56 ~ ~135 ~-56 minecraft:sponge
+fill ~ ~130 ~-59 ~ ~142 ~-59 minecraft:planks 2
+setblock ~ ~130 ~-63 minecraft:stained_hardened_clay
+fill ~ ~130 ~-64 ~ ~130 ~-65 minecraft:planks 2
+fill ~ ~130 ~-66 ~ ~131 ~-66 minecraft:sandstone 1
+fill ~ ~130 ~-74 ~ ~138 ~-74 minecraft:planks 2
+fill ~ ~130 ~-78 ~ ~131 ~-78 minecraft:planks 2
+setblock ~ ~130 ~-81 minecraft:planks 2
+fill ~ ~130 ~-89 ~ ~132 ~-89 minecraft:sandstone 1
+fill ~ ~130 ~-91 ~ ~132 ~-91 minecraft:log 6
+setblock ~ ~130 ~-92 minecraft:log 6
+fill ~ ~130 ~-93 ~ ~132 ~-93 minecraft:planks 2
+setblock ~ ~130 ~-94 minecraft:log 6
+fill ~ ~130 ~-95 ~ ~132 ~-95 minecraft:sponge
+setblock ~ ~130 ~-97 minecraft:log 6
+setblock ~ ~131 ~-49 minecraft:planks
+fill ~ ~131 ~-50 ~ ~131 ~-52 minecraft:stained_hardened_clay 4
+fill ~ ~131 ~-53 ~ ~131 ~-54 minecraft:sponge
+fill ~ ~131 ~-55 ~ ~133 ~-55 minecraft:stained_hardened_clay 4
+fill ~ ~131 ~-58 ~ ~136 ~-58 minecraft:planks 2
+fill ~ ~131 ~-62 ~ ~133 ~-63 minecraft:sandstone 1
+fill ~ ~131 ~-64 ~ ~132 ~-64 minecraft:sandstone 1
+setblock ~ ~131 ~-65 minecraft:stained_hardened_clay
+setblock ~ ~131 ~-67 minecraft:sandstone 1
+setblock ~ ~131 ~-68 minecraft:stained_hardened_clay
+setblock ~ ~131 ~-71 minecraft:log 6
+fill ~ ~131 ~-72 ~ ~144 ~-72 minecraft:planks 2
+fill ~ ~131 ~-81 ~ ~132 ~-82 minecraft:log 6
+fill ~ ~131 ~-83 ~ ~134 ~-83 minecraft:planks 2
+setblock ~ ~131 ~-92 minecraft:planks 2
+fill ~ ~131 ~-94 ~ ~132 ~-94 minecraft:sponge
+setblock ~ ~131 ~-96 minecraft:log 6
+setblock ~ ~132 ~-52 minecraft:stained_hardened_clay 4
+fill ~ ~132 ~-53 ~ ~132 ~-54 minecraft:orange_glazed_terracotta
+fill ~ ~132 ~-65 ~ ~132 ~-68 minecraft:planks 2
+fill ~ ~132 ~-71 ~ ~149 ~-71 minecraft:planks 2
+setblock ~ ~132 ~-78 minecraft:log 6
+fill ~ ~132 ~-80 ~ ~136 ~-80 minecraft:planks 2
+fill ~ ~132 ~-86 ~ ~141 ~-86 minecraft:planks 2
+fill ~ ~132 ~-90 ~ ~137 ~-90 minecraft:sandstone 1
+setblock ~ ~132 ~-92 minecraft:log 6
+setblock ~ ~133 ~-64 minecraft:planks 2
+fill ~ ~133 ~-65 ~ ~134 ~-65 minecraft:sandstone 1
+fill ~ ~133 ~-66 ~ ~133 ~-68 minecraft:planks 2
+fill ~ ~133 ~-78 ~ ~134 ~-79 minecraft:planks 2
+fill ~ ~133 ~-81 ~ ~136 ~-81 minecraft:planks 2
+fill ~ ~133 ~-82 ~ ~134 ~-82 minecraft:planks 2
+fill ~ ~133 ~-89 ~ ~136 ~-89 minecraft:sandstone 2
+setblock ~ ~133 ~-91 minecraft:sponge
+setblock ~ ~133 ~-92 minecraft:planks 2
+setblock ~ ~133 ~-93 minecraft:sponge
+setblock ~ ~134 ~-55 minecraft:sponge
+fill ~ ~134 ~-62 ~ ~134 ~-63 minecraft:planks 2
+fill ~ ~134 ~-64 ~ ~137 ~-64 minecraft:stained_hardened_clay
+fill ~ ~134 ~-66 ~ ~135 ~-66 minecraft:stained_hardened_clay
+fill ~ ~134 ~-67 ~ ~134 ~-68 minecraft:planks 2
+setblock ~ ~134 ~-91 minecraft:planks 2
+fill ~ ~135 ~-62 ~ ~136 ~-62 minecraft:sandstone 1
+fill ~ ~135 ~-63 ~ ~141 ~-63 minecraft:planks 2
+fill ~ ~135 ~-65 ~ ~137 ~-65 minecraft:stained_hardened_clay
+setblock ~ ~135 ~-67 minecraft:sandstone 1
+setblock ~ ~135 ~-68 minecraft:stained_hardened_clay
+setblock ~ ~135 ~-78 minecraft:log 6
+fill ~ ~135 ~-79 ~ ~136 ~-79 minecraft:planks 2
+fill ~ ~135 ~-82 ~ ~135 ~-83 minecraft:log 6
+setblock ~ ~135 ~-88 minecraft:sandstone
+fill ~ ~136 ~-66 ~ ~145 ~-66 minecraft:planks 2
+setblock ~ ~136 ~-67 minecraft:stained_hardened_clay
+fill ~ ~136 ~-68 ~ ~142 ~-68 minecraft:planks 2
+fill ~ ~136 ~-78 ~ ~138 ~-78 minecraft:planks 2
+fill ~ ~136 ~-82 ~ ~138 ~-83 minecraft:planks 2
+fill ~ ~136 ~-88 ~ ~141 ~-88 minecraft:sandstone 1
+setblock ~ ~137 ~-58 minecraft:sponge
+setblock ~ ~137 ~-62 minecraft:stained_hardened_clay
+fill ~ ~137 ~-67 ~ ~144 ~-67 minecraft:planks 2
+fill ~ ~137 ~-79 ~ ~141 ~-80 minecraft:log 6
+setblock ~ ~137 ~-81 minecraft:log 6
+fill ~ ~137 ~-87 ~ ~138 ~-87 minecraft:planks 2
+fill ~ ~137 ~-89 ~ ~140 ~-89 minecraft:sandstone 1
+setblock ~ ~138 ~-57 minecraft:planks 2
+setblock ~ ~138 ~-58 minecraft:log 6
+fill ~ ~138 ~-62 ~ ~141 ~-62 minecraft:planks 2
+fill ~ ~138 ~-64 ~ ~142 ~-65 minecraft:planks 2
+fill ~ ~138 ~-76 ~ ~138 ~-77 minecraft:log 6
+fill ~ ~138 ~-81 ~ ~139 ~-81 minecraft:planks 2
+setblock ~ ~138 ~-90 minecraft:planks 2
+fill ~ ~139 ~-58 ~ ~140 ~-58 minecraft:planks 2
+setblock ~ ~139 ~-74 minecraft:log 6
+fill ~ ~139 ~-76 ~ ~139 ~-77 minecraft:planks 2
+fill ~ ~139 ~-78 ~ ~141 ~-78 minecraft:log 6
+setblock ~ ~139 ~-82 minecraft:log 6
+fill ~ ~139 ~-83 ~ ~140 ~-83 minecraft:planks 2
+fill ~ ~139 ~-87 ~ ~140 ~-87 minecraft:sandstone 1
+fill ~ ~139 ~-90 ~ ~140 ~-90 minecraft:sandstone 1
+fill ~ ~140 ~-74 ~ ~141 ~-74 minecraft:planks 2
+fill ~ ~140 ~-75 ~ ~140 ~-76 minecraft:stained_hardened_clay
+fill ~ ~140 ~-77 ~ ~146 ~-77 minecraft:planks 2
+fill ~ ~140 ~-81 ~ ~142 ~-81 minecraft:log 6
+fill ~ ~140 ~-82 ~ ~141 ~-82 minecraft:planks 2
+setblock ~ ~141 ~-61 minecraft:log 6
+fill ~ ~141 ~-75 ~ ~146 ~-75 minecraft:planks 2
+setblock ~ ~141 ~-76 minecraft:planks 2
+setblock ~ ~141 ~-83 minecraft:log 6
+setblock ~ ~141 ~-87 minecraft:stained_hardened_clay
+setblock ~ ~141 ~-89 minecraft:sandstone
+fill ~ ~141 ~-90 ~ ~144 ~-90 minecraft:sandstone 2
+setblock ~ ~142 ~-60 minecraft:log 6
+fill ~ ~142 ~-61 ~ ~146 ~-61 minecraft:sponge
+fill ~ ~142 ~-62 ~ ~143 ~-63 minecraft:sponge
+fill ~ ~142 ~-70 ~ ~143 ~-70 minecraft:log 6
+fill ~ ~142 ~-73 ~ ~142 ~-74 minecraft:stained_hardened_clay
+setblock ~ ~142 ~-76 minecraft:log 6
+fill ~ ~142 ~-78 ~ ~146 ~-78 minecraft:planks 2
+fill ~ ~142 ~-79 ~ ~143 ~-79 minecraft:planks 2
+setblock ~ ~142 ~-80 minecraft:planks 2
+fill ~ ~142 ~-82 ~ ~142 ~-84 minecraft:orange_glazed_terracotta
+fill ~ ~142 ~-85 ~ ~142 ~-86 minecraft:brown_mushroom_block
+setblock ~ ~142 ~-87 minecraft:log 6
+setblock ~ ~142 ~-88 minecraft:planks 2
+setblock ~ ~142 ~-89 minecraft:sandstone 2
+setblock ~ ~142 ~-91 minecraft:sandstone 1
+fill ~ ~143 ~-60 ~ ~144 ~-60 minecraft:sponge
+setblock ~ ~143 ~-64 minecraft:log 6
+fill ~ ~143 ~-65 ~ ~144 ~-65 minecraft:planks 2
+fill ~ ~143 ~-68 ~ ~144 ~-68 minecraft:log 6
+fill ~ ~143 ~-69 ~ ~144 ~-69 minecraft:sponge
+fill ~ ~143 ~-73 ~ ~147 ~-74 minecraft:planks 2
+fill ~ ~143 ~-76 ~ ~146 ~-76 minecraft:planks 2
+setblock ~ ~143 ~-80 minecraft:orange_glazed_terracotta
+setblock ~ ~143 ~-81 minecraft:crafting_table
+setblock ~ ~143 ~-82 minecraft:bookshelf
+setblock ~ ~143 ~-83 minecraft:log2 5
+fill ~ ~143 ~-84 ~ ~143 ~-85 minecraft:soul_sand
+setblock ~ ~143 ~-86 minecraft:log2 5
+setblock ~ ~143 ~-87 minecraft:soul_sand
+setblock ~ ~143 ~-88 minecraft:orange_glazed_terracotta
+setblock ~ ~143 ~-89 minecraft:sandstone 1
+fill ~ ~143 ~-91 ~ ~144 ~-91 minecraft:sandstone 2
+fill ~ ~144 ~-62 ~ ~145 ~-62 minecraft:stained_hardened_clay 4
+fill ~ ~144 ~-63 ~ ~144 ~-64 minecraft:sponge
+fill ~ ~144 ~-70 ~ ~149 ~-70 minecraft:planks 2
+setblock ~ ~144 ~-79 minecraft:orange_glazed_terracotta
+setblock ~ ~144 ~-80 minecraft:soul_sand
+setblock ~ ~144 ~-81 minecraft:log2 5
+fill ~ ~144 ~-82 ~ ~145 ~-82 minecraft:log 6
+setblock ~ ~144 ~-83 minecraft:orange_glazed_terracotta
+setblock ~ ~144 ~-84 minecraft:crafting_table
+setblock ~ ~144 ~-85 minecraft:concrete 15
+setblock ~ ~144 ~-86 minecraft:coal_block
+setblock ~ ~144 ~-87 minecraft:stained_hardened_clay 15
+fill ~ ~144 ~-88 ~ ~145 ~-88 minecraft:bookshelf
+setblock ~ ~144 ~-89 minecraft:stained_hardened_clay
+fill ~ ~145 ~-63 ~ ~146 ~-63 minecraft:stained_hardened_clay 4
+setblock ~ ~145 ~-64 minecraft:orange_glazed_terracotta
+setblock ~ ~145 ~-65 minecraft:log 6
+setblock ~ ~145 ~-67 minecraft:log 6
+fill ~ ~145 ~-68 ~ ~149 ~-68 minecraft:sponge
+fill ~ ~145 ~-69 ~ ~152 ~-69 minecraft:planks 2
+setblock ~ ~145 ~-72 minecraft:stained_hardened_clay
+fill ~ ~145 ~-79 ~ ~145 ~-81 minecraft:log 6
+setblock ~ ~145 ~-83 minecraft:log 6
+setblock ~ ~145 ~-84 minecraft:stone 1
+setblock ~ ~145 ~-85 minecraft:bedrock
+setblock ~ ~145 ~-86 minecraft:soul_sand
+setblock ~ ~145 ~-87 minecraft:concrete 7
+setblock ~ ~145 ~-89 minecraft:orange_glazed_terracotta
+fill ~ ~145 ~-90 ~ ~146 ~-90 minecraft:sandstone 1
+setblock ~ ~145 ~-91 minecraft:end_bricks
+fill ~ ~145 ~-92 ~ ~147 ~-92 minecraft:sandstone 1
+fill ~ ~146 ~-62 ~ ~147 ~-62 minecraft:sponge
+fill ~ ~146 ~-64 ~ ~147 ~-64 minecraft:stained_hardened_clay 4
+setblock ~ ~146 ~-65 minecraft:sponge
+setblock ~ ~146 ~-66 minecraft:log 6
+setblock ~ ~146 ~-67 minecraft:sponge
+fill ~ ~146 ~-72 ~ ~148 ~-72 minecraft:planks 2
+fill ~ ~146 ~-79 ~ ~146 ~-80 minecraft:planks 2
+setblock ~ ~146 ~-81 minecraft:log 6
+fill ~ ~146 ~-82 ~ ~146 ~-83 minecraft:planks 2
+setblock ~ ~146 ~-84 minecraft:wool 8
+setblock ~ ~146 ~-85 minecraft:log2
+setblock ~ ~146 ~-86 minecraft:stained_hardened_clay 7
+fill ~ ~146 ~-87 ~ ~147 ~-87 minecraft:nether_brick
+setblock ~ ~146 ~-88 minecraft:soul_sand
+fill ~ ~146 ~-89 ~ ~147 ~-89 minecraft:log 6
+setblock ~ ~146 ~-91 minecraft:sandstone 2
+fill ~ ~147 ~-63 ~ ~148 ~-63 minecraft:sponge
+setblock ~ ~147 ~-65 minecraft:orange_glazed_terracotta
+fill ~ ~147 ~-66 ~ ~153 ~-66 minecraft:sponge
+fill ~ ~147 ~-67 ~ ~149 ~-67 minecraft:stained_hardened_clay 4
+fill ~ ~147 ~-75 ~ ~147 ~-78 minecraft:stained_hardened_clay
+fill ~ ~147 ~-79 ~ ~149 ~-79 minecraft:sandstone 1
+fill ~ ~147 ~-80 ~ ~147 ~-81 minecraft:planks 2
+setblock ~ ~147 ~-82 minecraft:stained_hardened_clay
+setblock ~ ~147 ~-83 minecraft:log 6
+fill ~ ~147 ~-84 ~ ~148 ~-84 minecraft:gold_ore
+fill ~ ~147 ~-85 ~ ~148 ~-85 minecraft:stained_hardened_clay 7
+fill ~ ~147 ~-86 ~ ~148 ~-86 minecraft:coal_block
+setblock ~ ~147 ~-88 minecraft:log2 1
+setblock ~ ~147 ~-90 minecraft:sandstone 2
+setblock ~ ~147 ~-91 minecraft:end_bricks
+setblock ~ ~148 ~-62 minecraft:planks 2
+fill ~ ~148 ~-64 ~ ~150 ~-64 minecraft:sponge
+fill ~ ~148 ~-65 ~ ~149 ~-65 minecraft:stained_hardened_clay 4
+setblock ~ ~148 ~-73 minecraft:stained_hardened_clay
+fill ~ ~148 ~-74 ~ ~151 ~-75 minecraft:sandstone 1
+fill ~ ~148 ~-76 ~ ~149 ~-78 minecraft:sandstone 1
+setblock ~ ~148 ~-80 minecraft:sandstone 1
+fill ~ ~148 ~-81 ~ ~150 ~-81 minecraft:planks 2
+fill ~ ~148 ~-82 ~ ~149 ~-82 minecraft:sandstone 1
+setblock ~ ~148 ~-83 minecraft:stained_hardened_clay
+fill ~ ~148 ~-87 ~ ~148 ~-88 minecraft:coal_block
+setblock ~ ~148 ~-89 minecraft:wool 8
+setblock ~ ~148 ~-90 minecraft:bone_block
+setblock ~ ~148 ~-91 minecraft:sandstone 2
+setblock ~ ~148 ~-92 minecraft:planks 2
+fill ~ ~149 ~-63 ~ ~150 ~-63 minecraft:planks 2
+fill ~ ~149 ~-72 ~ ~150 ~-73 minecraft:sandstone 1
+fill ~ ~149 ~-80 ~ ~150 ~-80 minecraft:planks 2
+setblock ~ ~149 ~-83 minecraft:sandstone 1
+setblock ~ ~149 ~-84 minecraft:planks 2
+setblock ~ ~149 ~-85 minecraft:log2
+setblock ~ ~149 ~-86 minecraft:bedrock
+setblock ~ ~149 ~-87 minecraft:soul_sand
+setblock ~ ~149 ~-88 minecraft:brown_glazed_terracotta
+setblock ~ ~149 ~-89 minecraft:bone_block
+fill ~ ~149 ~-90 ~ ~149 ~-91 minecraft:end_bricks
+fill ~ ~150 ~-65 ~ ~152 ~-65 minecraft:sponge
+fill ~ ~150 ~-67 ~ ~152 ~-67 minecraft:sponge
+fill ~ ~150 ~-68 ~ ~151 ~-68 minecraft:planks 2
+fill ~ ~150 ~-70 ~ ~151 ~-70 minecraft:stained_hardened_clay
+fill ~ ~150 ~-71 ~ ~151 ~-71 minecraft:sandstone 1
+fill ~ ~150 ~-76 ~ ~152 ~-76 minecraft:planks 2
+fill ~ ~150 ~-77 ~ ~150 ~-79 minecraft:planks 2
+fill ~ ~150 ~-82 ~ ~154 ~-82 minecraft:planks 2
+fill ~ ~150 ~-83 ~ ~153 ~-83 minecraft:planks 2
+setblock ~ ~150 ~-84 minecraft:sandstone 1
+fill ~ ~150 ~-85 ~ ~152 ~-85 minecraft:planks 2
+fill ~ ~150 ~-86 ~ ~151 ~-86 minecraft:planks 2
+setblock ~ ~150 ~-87 minecraft:planks 2
+setblock ~ ~150 ~-88 minecraft:sandstone 1
+fill ~ ~150 ~-89 ~ ~151 ~-89 minecraft:end_bricks
+setblock ~ ~150 ~-90 minecraft:bone_block
+setblock ~ ~150 ~-91 minecraft:end_bricks
+fill ~ ~151 ~-64 ~ ~152 ~-64 minecraft:planks 2
+fill ~ ~151 ~-72 ~ ~153 ~-72 minecraft:planks 2
+fill ~ ~151 ~-73 ~ ~152 ~-73 minecraft:stained_hardened_clay
+setblock ~ ~151 ~-77 minecraft:log 6
+fill ~ ~151 ~-78 ~ ~151 ~-80 minecraft:orange_glazed_terracotta
+setblock ~ ~151 ~-81 minecraft:sponge
+fill ~ ~151 ~-84 ~ ~159 ~-84 minecraft:planks 2
+setblock ~ ~151 ~-87 minecraft:sandstone 1
+fill ~ ~151 ~-88 ~ ~152 ~-88 minecraft:planks 2
+setblock ~ ~151 ~-90 minecraft:quartz_block
+setblock ~ ~151 ~-91 minecraft:sandstone 2
+setblock ~ ~152 ~-68 minecraft:sponge
+fill ~ ~152 ~-70 ~ ~152 ~-71 minecraft:planks 2
+setblock ~ ~152 ~-74 minecraft:stained_hardened_clay
+setblock ~ ~152 ~-75 minecraft:planks 2
+setblock ~ ~152 ~-77 minecraft:bookshelf
+setblock ~ ~152 ~-78 minecraft:stained_hardened_clay 7
+setblock ~ ~152 ~-79 minecraft:bedrock
+setblock ~ ~152 ~-80 minecraft:stained_hardened_clay 12
+setblock ~ ~152 ~-81 minecraft:planks
+setblock ~ ~152 ~-86 minecraft:orange_glazed_terracotta
+setblock ~ ~152 ~-87 minecraft:brown_glazed_terracotta
+fill ~ ~152 ~-89 ~ ~153 ~-89 minecraft:bone_block
+setblock ~ ~152 ~-90 minecraft:bone_block
+fill ~ ~152 ~-91 ~ ~153 ~-91 minecraft:sandstone 1
+setblock ~ ~153 ~-65 minecraft:planks 2
+fill ~ ~153 ~-67 ~ ~154 ~-68 minecraft:stained_hardened_clay 4
+fill ~ ~153 ~-69 ~ ~153 ~-70 minecraft:sponge
+setblock ~ ~153 ~-71 minecraft:planks 2
+fill ~ ~153 ~-73 ~ ~156 ~-73 minecraft:planks 2
+setblock ~ ~153 ~-74 minecraft:planks 2
+fill ~ ~153 ~-75 ~ ~158 ~-75 minecraft:sponge
+setblock ~ ~153 ~-76 minecraft:log 7
+setblock ~ ~153 ~-77 minecraft:nether_brick
+setblock ~ ~153 ~-78 minecraft:stained_hardened_clay 15
+setblock ~ ~153 ~-79 minecraft:log2
+setblock ~ ~153 ~-80 minecraft:bookshelf
+setblock ~ ~153 ~-81 minecraft:orange_glazed_terracotta
+setblock ~ ~153 ~-85 minecraft:sponge
+setblock ~ ~153 ~-86 minecraft:log2 5
+setblock ~ ~153 ~-87 minecraft:soul_sand
+setblock ~ ~153 ~-88 minecraft:log 6
+setblock ~ ~153 ~-90 minecraft:end_bricks
+setblock ~ ~154 ~-66 minecraft:planks 2
+fill ~ ~154 ~-69 ~ ~155 ~-69 minecraft:stained_hardened_clay 4
+fill ~ ~154 ~-70 ~ ~155 ~-70 minecraft:sponge
+fill ~ ~154 ~-71 ~ ~154 ~-72 minecraft:sponge
+fill ~ ~154 ~-74 ~ ~158 ~-74 minecraft:sponge
+fill ~ ~154 ~-76 ~ ~156 ~-76 minecraft:stained_hardened_clay 4
+setblock ~ ~154 ~-77 minecraft:dirt
+setblock ~ ~154 ~-78 minecraft:log
+setblock ~ ~154 ~-79 minecraft:brown_mushroom_block
+fill ~ ~154 ~-80 ~ ~156 ~-80 minecraft:planks 2
+fill ~ ~154 ~-81 ~ ~155 ~-81 minecraft:planks 2
+setblock ~ ~154 ~-83 minecraft:sponge
+setblock ~ ~154 ~-85 minecraft:log 6
+setblock ~ ~154 ~-86 minecraft:stained_hardened_clay 7
+setblock ~ ~154 ~-87 minecraft:log2 5
+setblock ~ ~154 ~-88 minecraft:planks 2
+fill ~ ~154 ~-89 ~ ~154 ~-90 minecraft:sandstone 1
+setblock ~ ~154 ~-91 minecraft:planks 2
+setblock ~ ~155 ~-66 minecraft:sandstone 1
+setblock ~ ~155 ~-67 minecraft:sponge
+setblock ~ ~155 ~-68 minecraft:stained_hardened_clay 1
+fill ~ ~155 ~-71 ~ ~155 ~-72 minecraft:planks 2
+setblock ~ ~155 ~-77 minecraft:sponge
+fill ~ ~155 ~-78 ~ ~155 ~-79 minecraft:planks 2
+fill ~ ~155 ~-82 ~ ~158 ~-82 minecraft:stained_hardened_clay 4
+setblock ~ ~155 ~-83 minecraft:stained_hardened_clay 4
+fill ~ ~155 ~-85 ~ ~155 ~-86 minecraft:planks 2
+setblock ~ ~155 ~-87 minecraft:sandstone 1
+fill ~ ~155 ~-88 ~ ~156 ~-89 minecraft:yellow_glazed_terracotta
+setblock ~ ~155 ~-90 minecraft:planks 2
+setblock ~ ~156 ~-67 minecraft:planks 2
+setblock ~ ~156 ~-68 minecraft:stained_hardened_clay 4
+setblock ~ ~156 ~-69 minecraft:planks 4
+fill ~ ~156 ~-70 ~ ~157 ~-70 minecraft:stained_hardened_clay 4
+setblock ~ ~156 ~-71 minecraft:sponge
+setblock ~ ~156 ~-72 minecraft:yellow_glazed_terracotta
+setblock ~ ~156 ~-77 minecraft:orange_glazed_terracotta
+fill ~ ~156 ~-78 ~ ~157 ~-78 minecraft:log 6
+setblock ~ ~156 ~-79 minecraft:planks 2
+setblock ~ ~156 ~-81 minecraft:log 6
+fill ~ ~156 ~-83 ~ ~160 ~-83 minecraft:sponge
+fill ~ ~156 ~-85 ~ ~157 ~-85 minecraft:sandstone 1
+fill ~ ~156 ~-86 ~ ~159 ~-86 minecraft:planks 2
+fill ~ ~156 ~-87 ~ ~157 ~-87 minecraft:yellow_glazed_terracotta
+setblock ~ ~156 ~-90 minecraft:sandstone 1
+setblock ~ ~157 ~-68 minecraft:sponge
+setblock ~ ~157 ~-69 minecraft:dirt
+setblock ~ ~157 ~-71 minecraft:dirt
+setblock ~ ~157 ~-72 minecraft:planks
+setblock ~ ~157 ~-73 minecraft:sponge
+fill ~ ~157 ~-76 ~ ~161 ~-77 minecraft:sponge
+fill ~ ~157 ~-79 ~ ~157 ~-80 minecraft:log 6
+setblock ~ ~157 ~-81 minecraft:sponge
+fill ~ ~157 ~-88 ~ ~157 ~-89 minecraft:planks 2
+setblock ~ ~158 ~-68 minecraft:log 7
+fill ~ ~158 ~-69 ~ ~159 ~-69 minecraft:planks
+setblock ~ ~158 ~-70 minecraft:dirt
+fill ~ ~158 ~-71 ~ ~159 ~-71 minecraft:stained_hardened_clay 12
+setblock ~ ~158 ~-72 minecraft:planks 1
+fill ~ ~158 ~-73 ~ ~161 ~-73 minecraft:planks 4
+fill ~ ~158 ~-78 ~ ~158 ~-79 minecraft:sponge
+fill ~ ~158 ~-80 ~ ~158 ~-81 minecraft:stained_hardened_clay 4
+setblock ~ ~158 ~-85 minecraft:planks 2
+setblock ~ ~158 ~-87 minecraft:planks 2
+setblock ~ ~158 ~-88 minecraft:orange_glazed_terracotta
+setblock ~ ~159 ~-68 minecraft:stained_hardened_clay 4
+setblock ~ ~159 ~-70 minecraft:log 5
+fill ~ ~159 ~-72 ~ ~161 ~-72 minecraft:log 7
+fill ~ ~159 ~-74 ~ ~160 ~-74 minecraft:stained_hardened_clay 1
+fill ~ ~159 ~-75 ~ ~160 ~-75 minecraft:stained_hardened_clay 4
+setblock ~ ~159 ~-78 minecraft:yellow_glazed_terracotta
+fill ~ ~159 ~-79 ~ ~161 ~-80 minecraft:sponge
+setblock ~ ~159 ~-81 minecraft:stained_hardened_clay 4
+fill ~ ~159 ~-82 ~ ~161 ~-82 minecraft:sponge
+setblock ~ ~159 ~-85 minecraft:yellow_glazed_terracotta
+setblock ~ ~160 ~-68 minecraft:planks
+setblock ~ ~160 ~-69 minecraft:log 4
+setblock ~ ~160 ~-70 minecraft:noteblock
+setblock ~ ~160 ~-71 minecraft:wool 12
+fill ~ ~160 ~-78 ~ ~161 ~-78 minecraft:sponge
+fill ~ ~160 ~-81 ~ ~161 ~-81 minecraft:sponge
+setblock ~ ~160 ~-84 minecraft:sponge
+fill ~ ~160 ~-85 ~ ~164 ~-85 minecraft:stained_hardened_clay 4
+setblock ~ ~160 ~-86 minecraft:sponge
+fill ~ ~161 ~-68 ~ ~163 ~-68 minecraft:planks 4
+fill ~ ~161 ~-69 ~ ~162 ~-69 minecraft:log 7
+fill ~ ~161 ~-70 ~ ~161 ~-71 minecraft:crafting_table
+setblock ~ ~161 ~-74 minecraft:stained_hardened_clay 4
+setblock ~ ~161 ~-75 minecraft:planks 2
+fill ~ ~161 ~-83 ~ ~161 ~-84 minecraft:stained_hardened_clay 4
+fill ~ ~161 ~-86 ~ ~165 ~-86 minecraft:planks 2
+setblock ~ ~162 ~-70 minecraft:planks 3
+setblock ~ ~162 ~-71 minecraft:log 7
+fill ~ ~162 ~-72 ~ ~162 ~-73 minecraft:planks
+setblock ~ ~162 ~-74 minecraft:planks 2
+setblock ~ ~162 ~-83 minecraft:sponge
+fill ~ ~162 ~-84 ~ ~163 ~-84 minecraft:stained_hardened_clay 4
+fill ~ ~163 ~-69 ~ ~164 ~-69 minecraft:planks 4
+setblock ~ ~163 ~-70 minecraft:log 4
+setblock ~ ~163 ~-71 minecraft:planks
+setblock ~ ~163 ~-72 minecraft:orange_glazed_terracotta
+setblock ~ ~163 ~-73 minecraft:planks 2
+setblock ~ ~164 ~-68 minecraft:planks 2
+setblock ~ ~164 ~-70 minecraft:planks 4
+setblock ~ ~164 ~-71 minecraft:orange_glazed_terracotta
+setblock ~ ~164 ~-72 minecraft:planks 2
+setblock ~ ~165 ~-69 minecraft:planks
+setblock ~ ~165 ~-70 minecraft:stained_hardened_clay 4
+setblock ~ ~165 ~-71 minecraft:log 6
+setblock ~ ~165 ~-72 minecraft:sandstone 1
+setblock ~ ~165 ~-85 minecraft:sponge

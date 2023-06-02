@@ -1,0 +1,4596 @@
+    
+setblock ~36 ~0 ~55 chest 4  
+setblock ~38 ~0 ~50 chest 4  
+setblock ~36 ~0 ~50 chest 4  
+setblock ~36 ~0 ~56 chest 4  
+setblock ~38 ~0 ~56 chest 4  
+setblock ~36 ~0 ~52 chest 4  
+setblock ~38 ~0 ~49 chest 4  
+setblock ~38 ~0 ~52 chest 4  
+setblock ~36 ~0 ~49 chest 4  
+setblock ~36 ~0 ~53 chest 4  
+setblock ~38 ~0 ~53 chest 4  
+setblock ~38 ~0 ~55 chest 4  
+setblock ~40 ~0 ~55 chest 4  
+setblock ~40 ~0 ~56 chest 4  
+setblock ~40 ~0 ~53 chest 4  
+setblock ~40 ~0 ~52 chest 4  
+setblock ~40 ~0 ~50 chest 4  
+setblock ~40 ~0 ~49 chest 4  
+setblock ~101 ~0 ~111 chest 3  
+setblock ~97 ~0 ~113 chest 2  
+setblock ~96 ~0 ~113 chest 2  
+setblock ~97 ~0 ~116 chest 3  
+setblock ~96 ~0 ~116 chest 3  
+setblock ~99 ~0 ~116 chest 3  
+setblock ~101 ~0 ~116 chest 3  
+setblock ~101 ~0 ~113 chest 2  
+setblock ~99 ~0 ~113 chest 2  
+setblock ~96 ~0 ~118 chest 2  
+setblock ~97 ~0 ~118 chest 2  
+setblock ~96 ~0 ~111 chest 3  
+setblock ~97 ~0 ~111 chest 3  
+setblock ~101 ~0 ~118 chest 2  
+setblock ~99 ~0 ~118 chest 2  
+setblock ~99 ~0 ~111 chest 3  
+setblock ~100 ~4 ~122 hopper 2  
+setblock ~100 ~4 ~135 hopper 3  
+setblock ~104 ~0 ~118 chest 2  
+setblock ~104 ~0 ~113 chest 2  
+setblock ~103 ~0 ~111 chest 3  
+setblock ~103 ~0 ~118 chest 2  
+setblock ~104 ~0 ~111 chest 3  
+setblock ~103 ~0 ~113 chest 2  
+setblock ~103 ~0 ~116 chest 3  
+setblock ~104 ~0 ~116 chest 3 
+setblock ~1 ~-1 ~1 wool 4 
+setblock ~1 ~-1 ~2 wool 15 
+setblock ~1 ~-1 ~3 wool 4 
+setblock ~1 ~-1 ~4 wool 15 
+setblock ~1 ~-1 ~5 wool 4 
+setblock ~1 ~-1 ~6 wool 15 
+setblock ~1 ~-1 ~7 wool 4 
+setblock ~1 ~-1 ~8 wool 15 
+setblock ~1 ~-1 ~9 wool 4 
+setblock ~1 ~-1 ~10 wool 15 
+setblock ~1 ~-1 ~11 wool 4 
+setblock ~1 ~-1 ~12 wool 15 
+setblock ~1 ~-1 ~13 wool 4 
+setblock ~1 ~-1 ~14 wool 15 
+setblock ~1 ~-1 ~15 wool 4 
+setblock ~1 ~-1 ~16 wool 15 
+setblock ~1 ~-1 ~17 wool 4 
+setblock ~1 ~-1 ~18 wool 15 
+setblock ~1 ~-1 ~19 wool 4 
+setblock ~1 ~-1 ~20 wool 15 
+setblock ~1 ~-1 ~21 wool 4 
+setblock ~1 ~-1 ~22 wool 15 
+setblock ~1 ~-1 ~23 wool 4 
+setblock ~1 ~-1 ~24 wool 15 
+setblock ~1 ~-1 ~25 wool 4 
+setblock ~1 ~-1 ~26 wool 15 
+setblock ~1 ~-1 ~27 wool 4 
+setblock ~1 ~-1 ~28 wool 15 
+setblock ~1 ~-1 ~29 wool 4 
+setblock ~1 ~-1 ~30 wool 15 
+setblock ~1 ~-1 ~31 wool 4 
+setblock ~1 ~-1 ~32 wool 15 
+setblock ~1 ~-1 ~33 wool 4 
+setblock ~1 ~-1 ~34 wool 15 
+setblock ~1 ~-1 ~35 wool 4 
+setblock ~1 ~-1 ~36 wool 15 
+setblock ~1 ~-1 ~37 wool 4 
+setblock ~1 ~-1 ~38 wool 15 
+setblock ~1 ~-1 ~39 wool 4 
+setblock ~1 ~-1 ~40 wool 15 
+setblock ~1 ~-1 ~41 wool 4 
+setblock ~1 ~-1 ~42 wool 15 
+setblock ~1 ~-1 ~43 wool 4 
+setblock ~1 ~-1 ~44 wool 15 
+setblock ~1 ~-1 ~45 wool 4 
+setblock ~1 ~-1 ~46 wool 15 
+setblock ~1 ~-1 ~47 wool 4 
+setblock ~1 ~-1 ~48 wool 15 
+setblock ~1 ~-1 ~49 wool 4 
+setblock ~1 ~-1 ~50 wool 15 
+setblock ~1 ~-1 ~51 wool 4 
+setblock ~1 ~-1 ~52 wool 15 
+setblock ~1 ~-1 ~53 wool 4 
+setblock ~1 ~-1 ~54 wool 15 
+setblock ~1 ~-1 ~55 wool 4 
+setblock ~1 ~-1 ~56 wool 15 
+setblock ~1 ~-1 ~57 wool 4 
+setblock ~1 ~-1 ~58 wool 15 
+setblock ~1 ~-1 ~59 wool 4 
+setblock ~1 ~-1 ~60 wool 15 
+setblock ~1 ~-1 ~61 wool 4 
+setblock ~1 ~-1 ~62 wool 15 
+setblock ~1 ~-1 ~63 wool 4 
+setblock ~1 ~-1 ~64 wool 15 
+setblock ~1 ~-1 ~65 wool 4 
+setblock ~1 ~-1 ~66 wool 15 
+setblock ~1 ~-1 ~67 wool 4 
+setblock ~1 ~-1 ~68 wool 15 
+setblock ~1 ~-1 ~69 wool 4 
+setblock ~1 ~-1 ~70 wool 15 
+setblock ~1 ~-1 ~71 wool 4 
+setblock ~1 ~-1 ~72 wool 15 
+setblock ~1 ~-1 ~73 wool 4 
+setblock ~1 ~-1 ~74 wool 15 
+setblock ~1 ~-1 ~75 wool 4 
+setblock ~1 ~-1 ~76 wool 15 
+setblock ~1 ~-1 ~77 wool 4 
+setblock ~1 ~-1 ~78 wool 15 
+setblock ~1 ~-1 ~79 wool 4 
+setblock ~1 ~-1 ~80 wool 15 
+setblock ~1 ~-1 ~81 wool 4 
+setblock ~1 ~-1 ~82 wool 15 
+setblock ~1 ~-1 ~83 wool 4 
+setblock ~1 ~-1 ~84 wool 15 
+setblock ~1 ~-1 ~85 wool 4 
+setblock ~1 ~-1 ~86 wool 15 
+setblock ~1 ~-1 ~87 wool 4 
+setblock ~1 ~-1 ~88 wool 15 
+setblock ~1 ~-1 ~89 wool 4 
+setblock ~1 ~-1 ~90 wool 15 
+setblock ~1 ~-1 ~91 wool 4 
+setblock ~1 ~-1 ~92 wool 15 
+setblock ~1 ~-1 ~93 wool 4 
+setblock ~1 ~-1 ~94 wool 15 
+setblock ~1 ~-1 ~95 wool 4 
+setblock ~1 ~-1 ~96 wool 15 
+setblock ~1 ~-1 ~97 wool 4 
+setblock ~1 ~-1 ~98 wool 15 
+setblock ~1 ~-1 ~99 wool 4 
+setblock ~1 ~-1 ~100 wool 15 
+setblock ~1 ~-1 ~101 wool 4 
+setblock ~1 ~-1 ~102 wool 15 
+setblock ~1 ~-1 ~103 wool 4 
+setblock ~1 ~-1 ~104 wool 15 
+setblock ~1 ~-1 ~105 wool 4 
+setblock ~1 ~-1 ~106 wool 15 
+setblock ~1 ~-1 ~107 wool 4 
+setblock ~1 ~-1 ~108 wool 15 
+setblock ~1 ~-1 ~109 wool 4 
+setblock ~1 ~-1 ~110 wool 15 
+setblock ~1 ~-1 ~111 wool 4 
+setblock ~1 ~-1 ~112 wool 15 
+setblock ~1 ~-1 ~113 wool 4 
+setblock ~1 ~-1 ~114 wool 15 
+setblock ~1 ~-1 ~115 wool 4 
+setblock ~1 ~-1 ~116 wool 15 
+setblock ~1 ~-1 ~117 wool 4 
+setblock ~1 ~-1 ~118 wool 15 
+setblock ~1 ~-1 ~119 wool 4 
+setblock ~1 ~-1 ~120 wool 15 
+setblock ~1 ~-1 ~121 wool 4 
+setblock ~1 ~-1 ~122 wool 15 
+setblock ~1 ~-1 ~123 wool 4 
+setblock ~1 ~-1 ~124 wool 15 
+setblock ~1 ~-1 ~125 wool 4 
+setblock ~1 ~-1 ~126 wool 15 
+setblock ~1 ~-1 ~127 wool 4 
+setblock ~1 ~-1 ~128 wool 15 
+setblock ~1 ~-1 ~129 wool 4 
+setblock ~1 ~-1 ~130 wool 15 
+setblock ~1 ~-1 ~131 wool 4 
+setblock ~1 ~-1 ~132 wool 15 
+setblock ~1 ~-1 ~133 wool 4 
+setblock ~1 ~-1 ~134 wool 15 
+setblock ~1 ~-1 ~135 wool 4 
+setblock ~1 ~-1 ~136 wool 15 
+setblock ~1 ~-1 ~137 wool 4 
+setblock ~1 ~-1 ~138 wool 15 
+setblock ~1 ~-1 ~139 wool 4 
+setblock ~1 ~-1 ~140 wool 15 
+setblock ~1 ~-1 ~141 wool 4 
+setblock ~1 ~-1 ~142 wool 15 
+setblock ~1 ~-1 ~143 wool 4 
+setblock ~1 ~-1 ~144 wool 15 
+setblock ~1 ~-1 ~145 wool 4 
+setblock ~1 ~-1 ~146 wool 15 
+setblock ~1 ~-1 ~147 wool 4 
+setblock ~1 ~-1 ~148 wool 15 
+setblock ~1 ~-1 ~149 wool 4 
+setblock ~1 ~-1 ~150 wool 15 
+setblock ~1 ~-1 ~151 wool 4 
+setblock ~1 ~-1 ~152 wool 15 
+setblock ~1 ~-1 ~153 wool 4 
+setblock ~1 ~-1 ~154 wool 15 
+setblock ~1 ~-1 ~155 wool 4 
+setblock ~1 ~-1 ~156 wool 15 
+setblock ~1 ~-1 ~157 wool 4 
+setblock ~1 ~-1 ~158 wool 15 
+setblock ~1 ~-1 ~159 wool 4 
+setblock ~1 ~-1 ~160 wool 15 
+setblock ~1 ~-1 ~161 wool 4 
+setblock ~1 ~-1 ~162 wool 15 
+setblock ~1 ~-1 ~163 wool 4 
+setblock ~1 ~-1 ~164 wool 15 
+setblock ~1 ~-1 ~165 wool 4 
+setblock ~1 ~-1 ~166 wool 15 
+setblock ~1 ~-1 ~167 wool 4 
+setblock ~1 ~-1 ~168 wool 15 
+setblock ~1 ~-1 ~169 wool 4 
+setblock ~1 ~-1 ~170 wool 15 
+setblock ~1 ~-1 ~171 wool 4  
+fill ~1 ~-1 ~172 ~18 ~-1 ~172 grass 0  
+fill ~1 ~-1 ~173 ~18 ~-1 ~173 grass 0  
+fill ~1 ~-1 ~174 ~18 ~-1 ~174 grass 0  
+fill ~1 ~-1 ~175 ~18 ~-1 ~175 grass 0  
+fill ~1 ~-1 ~176 ~18 ~-1 ~176 grass 0  
+fill ~1 ~-1 ~177 ~18 ~-1 ~177 grass 0  
+fill ~1 ~-1 ~178 ~18 ~-1 ~178 grass 0  
+fill ~1 ~-1 ~179 ~18 ~-1 ~179 grass 0  
+fill ~1 ~-1 ~180 ~18 ~-1 ~180 grass 0  
+fill ~1 ~-1 ~181 ~18 ~-1 ~181 grass 0  
+fill ~1 ~-1 ~182 ~18 ~-1 ~182 grass 0  
+fill ~1 ~-1 ~183 ~18 ~-1 ~183 grass 0  
+fill ~1 ~-1 ~184 ~18 ~-1 ~184 grass 0  
+fill ~1 ~-1 ~185 ~18 ~-1 ~185 grass 0  
+fill ~1 ~-1 ~186 ~18 ~-1 ~186 grass 0  
+fill ~1 ~-1 ~187 ~18 ~-1 ~187 grass 0  
+fill ~1 ~-1 ~188 ~18 ~-1 ~188 grass 0  
+fill ~1 ~-1 ~189 ~18 ~-1 ~189 grass 0  
+fill ~1 ~-1 ~190 ~18 ~-1 ~190 grass 0  
+fill ~1 ~-1 ~191 ~18 ~-1 ~191 grass 0  
+fill ~1 ~-1 ~192 ~18 ~-1 ~192 grass 0  
+fill ~1 ~-1 ~193 ~18 ~-1 ~193 grass 0  
+fill ~1 ~-1 ~194 ~51 ~-1 ~194 grass 0  
+fill ~1 ~-1 ~195 ~51 ~-1 ~195 grass 0  
+fill ~1 ~-1 ~196 ~51 ~-1 ~196 grass 0  
+fill ~1 ~-1 ~197 ~51 ~-1 ~197 grass 0  
+fill ~1 ~-1 ~198 ~58 ~-1 ~198 grass 0  
+fill ~1 ~-1 ~199 ~59 ~-1 ~199 grass 0  
+fill ~1 ~-1 ~200 ~60 ~-1 ~200 grass 0  
+fill ~1 ~-1 ~201 ~61 ~-1 ~201 grass 0  
+fill ~1 ~-1 ~202 ~62 ~-1 ~202 grass 0 
+setblock ~2 ~-1 ~1 wool 15  
+fill ~2 ~-1 ~2 ~8 ~-1 ~2 wool 7  
+fill ~2 ~-1 ~3 ~8 ~-1 ~3 wool 7  
+fill ~2 ~-1 ~4 ~8 ~-1 ~4 wool 7  
+fill ~2 ~-1 ~5 ~4 ~-1 ~5 wool 7  
+fill ~2 ~-1 ~6 ~3 ~-1 ~6 wool 7  
+fill ~2 ~-1 ~7 ~2 ~-1 ~170 wool 7 
+setblock ~2 ~-1 ~171 wool 15 
+setblock ~3 ~-1 ~1 wool 4 
+setblock ~3 ~-1 ~7 wool 4  
+fill ~3 ~-1 ~8 ~8 ~-1 ~8 wool 7  
+fill ~3 ~-1 ~9 ~4 ~-1 ~9 wool 7  
+fill ~3 ~-1 ~10 ~3 ~-1 ~8 wool 7 
+setblock ~3 ~-1 ~11 wool 4  
+fill ~3 ~-1 ~12 ~8 ~-1 ~12 wool 7  
+fill ~3 ~-1 ~13 ~4 ~-1 ~13 wool 7  
+fill ~3 ~-1 ~14 ~3 ~-1 ~12 wool 7 
+setblock ~3 ~-1 ~15 wool 4  
+fill ~3 ~-1 ~16 ~8 ~-1 ~16 wool 7  
+fill ~3 ~-1 ~17 ~15 ~-1 ~17 wool 7  
+fill ~3 ~-1 ~18 ~15 ~-1 ~18 wool 7  
+fill ~3 ~-1 ~19 ~3 ~-1 ~20 wool 0  
+fill ~3 ~-1 ~21 ~8 ~-1 ~21 wool 7  
+fill ~3 ~-1 ~22 ~8 ~-1 ~22 wool 7  
+fill ~3 ~-1 ~23 ~8 ~-1 ~23 wool 7  
+fill ~3 ~-1 ~24 ~8 ~-1 ~24 wool 7  
+fill ~3 ~-1 ~25 ~8 ~-1 ~25 wool 7  
+fill ~3 ~-1 ~26 ~3 ~-1 ~27 wool 0  
+fill ~3 ~-1 ~28 ~8 ~-1 ~28 wool 7  
+fill ~3 ~-1 ~29 ~8 ~-1 ~29 wool 7  
+fill ~3 ~-1 ~30 ~8 ~-1 ~30 wool 7  
+fill ~3 ~-1 ~31 ~8 ~-1 ~31 wool 7  
+fill ~3 ~-1 ~32 ~8 ~-1 ~32 wool 7  
+fill ~3 ~-1 ~33 ~3 ~-1 ~34 wool 0  
+fill ~3 ~-1 ~35 ~8 ~-1 ~35 wool 7  
+fill ~3 ~-1 ~36 ~8 ~-1 ~36 wool 7  
+fill ~3 ~-1 ~37 ~8 ~-1 ~37 wool 7  
+fill ~3 ~-1 ~38 ~8 ~-1 ~38 wool 7  
+fill ~3 ~-1 ~39 ~8 ~-1 ~39 wool 7  
+fill ~3 ~-1 ~40 ~3 ~-1 ~41 wool 0  
+fill ~3 ~-1 ~42 ~8 ~-1 ~42 wool 7  
+fill ~3 ~-1 ~43 ~8 ~-1 ~43 wool 7  
+fill ~3 ~-1 ~44 ~8 ~-1 ~44 wool 7  
+fill ~3 ~-1 ~45 ~8 ~-1 ~45 wool 7  
+fill ~3 ~-1 ~46 ~8 ~-1 ~46 wool 7  
+fill ~3 ~-1 ~47 ~3 ~-1 ~48 wool 0  
+fill ~3 ~-1 ~49 ~8 ~-1 ~49 wool 7  
+fill ~3 ~-1 ~50 ~8 ~-1 ~50 wool 7  
+fill ~3 ~-1 ~51 ~8 ~-1 ~51 wool 7  
+fill ~3 ~-1 ~52 ~8 ~-1 ~52 wool 7  
+fill ~3 ~-1 ~53 ~8 ~-1 ~53 wool 7  
+fill ~3 ~-1 ~54 ~3 ~-1 ~55 wool 0  
+fill ~3 ~-1 ~56 ~8 ~-1 ~56 wool 7  
+fill ~3 ~-1 ~57 ~8 ~-1 ~57 wool 7  
+fill ~3 ~-1 ~58 ~8 ~-1 ~58 wool 7  
+fill ~3 ~-1 ~59 ~8 ~-1 ~59 wool 7  
+fill ~3 ~-1 ~60 ~8 ~-1 ~60 wool 7  
+fill ~3 ~-1 ~61 ~3 ~-1 ~62 wool 0  
+fill ~3 ~-1 ~63 ~8 ~-1 ~63 wool 7  
+fill ~3 ~-1 ~64 ~8 ~-1 ~64 wool 7  
+fill ~3 ~-1 ~65 ~8 ~-1 ~65 wool 7  
+fill ~3 ~-1 ~66 ~8 ~-1 ~66 wool 7  
+fill ~3 ~-1 ~67 ~8 ~-1 ~67 wool 7  
+fill ~3 ~-1 ~68 ~3 ~-1 ~69 wool 0  
+fill ~3 ~-1 ~70 ~8 ~-1 ~70 wool 7  
+fill ~3 ~-1 ~71 ~8 ~-1 ~71 wool 7  
+fill ~3 ~-1 ~72 ~8 ~-1 ~72 wool 7  
+fill ~3 ~-1 ~73 ~8 ~-1 ~73 wool 7  
+fill ~3 ~-1 ~74 ~8 ~-1 ~74 wool 7  
+fill ~3 ~-1 ~75 ~3 ~-1 ~76 wool 0  
+fill ~3 ~-1 ~77 ~8 ~-1 ~77 wool 7  
+fill ~3 ~-1 ~78 ~8 ~-1 ~78 wool 7  
+fill ~3 ~-1 ~79 ~8 ~-1 ~79 wool 7  
+fill ~3 ~-1 ~80 ~8 ~-1 ~80 wool 7  
+fill ~3 ~-1 ~81 ~8 ~-1 ~81 wool 7  
+fill ~3 ~-1 ~82 ~3 ~-1 ~83 wool 0  
+fill ~3 ~-1 ~84 ~8 ~-1 ~84 wool 7  
+fill ~3 ~-1 ~85 ~18 ~-1 ~85 wool 7  
+fill ~3 ~-1 ~86 ~18 ~-1 ~86 wool 7  
+fill ~3 ~-1 ~87 ~8 ~-1 ~87 wool 7  
+fill ~3 ~-1 ~88 ~8 ~-1 ~88 wool 7  
+fill ~3 ~-1 ~89 ~3 ~-1 ~90 wool 0  
+fill ~3 ~-1 ~91 ~8 ~-1 ~91 wool 7  
+fill ~3 ~-1 ~92 ~8 ~-1 ~92 wool 7  
+fill ~3 ~-1 ~93 ~8 ~-1 ~93 wool 7  
+fill ~3 ~-1 ~94 ~8 ~-1 ~94 wool 7  
+fill ~3 ~-1 ~95 ~8 ~-1 ~95 wool 7  
+fill ~3 ~-1 ~96 ~3 ~-1 ~97 wool 0  
+fill ~3 ~-1 ~98 ~8 ~-1 ~98 wool 7  
+fill ~3 ~-1 ~99 ~8 ~-1 ~99 wool 7  
+fill ~3 ~-1 ~100 ~8 ~-1 ~100 wool 7  
+fill ~3 ~-1 ~101 ~8 ~-1 ~101 wool 7  
+fill ~3 ~-1 ~102 ~8 ~-1 ~102 wool 7  
+fill ~3 ~-1 ~103 ~3 ~-1 ~104 wool 0  
+fill ~3 ~-1 ~105 ~8 ~-1 ~105 wool 7  
+fill ~3 ~-1 ~106 ~8 ~-1 ~106 wool 7  
+fill ~3 ~-1 ~107 ~8 ~-1 ~107 wool 7  
+fill ~3 ~-1 ~108 ~8 ~-1 ~108 wool 7  
+fill ~3 ~-1 ~109 ~8 ~-1 ~109 wool 7  
+fill ~3 ~-1 ~110 ~3 ~-1 ~111 wool 0  
+fill ~3 ~-1 ~112 ~8 ~-1 ~112 wool 7  
+fill ~3 ~-1 ~113 ~8 ~-1 ~113 wool 7  
+fill ~3 ~-1 ~114 ~8 ~-1 ~114 wool 7  
+fill ~3 ~-1 ~115 ~8 ~-1 ~115 wool 7  
+fill ~3 ~-1 ~116 ~8 ~-1 ~116 wool 7  
+fill ~3 ~-1 ~117 ~3 ~-1 ~118 wool 0  
+fill ~3 ~-1 ~119 ~8 ~-1 ~119 wool 7  
+fill ~3 ~-1 ~120 ~8 ~-1 ~120 wool 7  
+fill ~3 ~-1 ~121 ~8 ~-1 ~121 wool 7  
+fill ~3 ~-1 ~122 ~8 ~-1 ~122 wool 7  
+fill ~3 ~-1 ~123 ~8 ~-1 ~123 wool 7  
+fill ~3 ~-1 ~124 ~3 ~-1 ~125 wool 0  
+fill ~3 ~-1 ~126 ~8 ~-1 ~126 wool 7  
+fill ~3 ~-1 ~127 ~8 ~-1 ~127 wool 7  
+fill ~3 ~-1 ~128 ~8 ~-1 ~128 wool 7  
+fill ~3 ~-1 ~129 ~8 ~-1 ~129 wool 7  
+fill ~3 ~-1 ~130 ~8 ~-1 ~130 wool 7  
+fill ~3 ~-1 ~131 ~3 ~-1 ~132 wool 0  
+fill ~3 ~-1 ~133 ~8 ~-1 ~133 wool 7  
+fill ~3 ~-1 ~134 ~8 ~-1 ~134 wool 7  
+fill ~3 ~-1 ~135 ~8 ~-1 ~135 wool 7  
+fill ~3 ~-1 ~136 ~8 ~-1 ~136 wool 7  
+fill ~3 ~-1 ~137 ~8 ~-1 ~137 wool 7  
+fill ~3 ~-1 ~138 ~3 ~-1 ~139 wool 0  
+fill ~3 ~-1 ~140 ~8 ~-1 ~140 wool 7  
+fill ~3 ~-1 ~141 ~8 ~-1 ~141 wool 7  
+fill ~3 ~-1 ~142 ~8 ~-1 ~142 wool 7  
+fill ~3 ~-1 ~143 ~8 ~-1 ~143 wool 7  
+fill ~3 ~-1 ~144 ~8 ~-1 ~144 wool 7  
+fill ~3 ~-1 ~145 ~3 ~-1 ~146 wool 0  
+fill ~3 ~-1 ~147 ~8 ~-1 ~147 wool 7  
+fill ~3 ~-1 ~148 ~8 ~-1 ~148 wool 7  
+fill ~3 ~-1 ~149 ~8 ~-1 ~149 wool 7  
+fill ~3 ~-1 ~150 ~8 ~-1 ~150 wool 7  
+fill ~3 ~-1 ~151 ~8 ~-1 ~151 wool 7  
+fill ~3 ~-1 ~152 ~3 ~-1 ~153 wool 0  
+fill ~3 ~-1 ~154 ~8 ~-1 ~154 wool 7  
+fill ~3 ~-1 ~155 ~8 ~-1 ~155 wool 7  
+fill ~3 ~-1 ~156 ~8 ~-1 ~156 wool 7  
+fill ~3 ~-1 ~157 ~8 ~-1 ~157 wool 7  
+fill ~3 ~-1 ~158 ~8 ~-1 ~158 wool 7  
+fill ~3 ~-1 ~159 ~3 ~-1 ~160 wool 0  
+fill ~3 ~-1 ~161 ~8 ~-1 ~161 wool 7  
+fill ~3 ~-1 ~162 ~4 ~-1 ~162 wool 7  
+fill ~3 ~-1 ~163 ~3 ~-1 ~161 wool 7 
+setblock ~3 ~-1 ~164 wool 4 
+setblock ~3 ~-1 ~165 wool 15 
+setblock ~3 ~-1 ~166 wool 4 
+setblock ~3 ~-1 ~167 wool 15 
+setblock ~3 ~-1 ~168 wool 4 
+setblock ~3 ~-1 ~169 wool 15  
+fill ~3 ~-1 ~170 ~51 ~-1 ~170 wool 7 
+setblock ~3 ~-1 ~171 wool 4 
+setblock ~4 ~-1 ~1 wool 15 
+setblock ~4 ~-1 ~6 wool 4  
+fill ~4 ~-1 ~7 ~6 ~-1 ~7 wool 7 
+setblock ~4 ~-1 ~10 wool 4  
+fill ~4 ~-1 ~11 ~6 ~-1 ~11 wool 7 
+setblock ~4 ~-1 ~14 wool 4  
+fill ~4 ~-1 ~15 ~6 ~-1 ~15 wool 7  
+fill ~4 ~-1 ~19 ~4 ~-1 ~162 wool 7 
+setblock ~4 ~-1 ~163 wool 4 
+setblock ~4 ~-1 ~164 wool 15 
+setblock ~4 ~-1 ~165 wool 4 
+setblock ~4 ~-1 ~166 wool 15 
+setblock ~4 ~-1 ~167 wool 4 
+setblock ~4 ~-1 ~168 wool 15  
+fill ~4 ~-1 ~169 ~6 ~-1 ~169 wool 7 
+setblock ~4 ~-1 ~171 wool 15 
+setblock ~5 ~-1 ~1 wool 4 
+setblock ~5 ~-1 ~5 wool 4 
+setblock ~5 ~-1 ~6 wool 7 
+setblock ~5 ~-1 ~9 wool 4 
+setblock ~5 ~-1 ~10 wool 7 
+setblock ~5 ~-1 ~13 wool 4 
+setblock ~5 ~-1 ~14 wool 7  
+fill ~5 ~-1 ~19 ~5 ~-1 ~20 wool 0  
+fill ~5 ~-1 ~26 ~5 ~-1 ~27 wool 0  
+fill ~5 ~-1 ~33 ~5 ~-1 ~34 wool 0  
+fill ~5 ~-1 ~40 ~5 ~-1 ~41 wool 0  
+fill ~5 ~-1 ~47 ~5 ~-1 ~48 wool 0  
+fill ~5 ~-1 ~54 ~5 ~-1 ~55 wool 0  
+fill ~5 ~-1 ~61 ~5 ~-1 ~62 wool 0  
+fill ~5 ~-1 ~68 ~5 ~-1 ~69 wool 0  
+fill ~5 ~-1 ~75 ~5 ~-1 ~76 wool 0  
+fill ~5 ~-1 ~82 ~5 ~-1 ~83 wool 0  
+fill ~5 ~-1 ~89 ~5 ~-1 ~90 wool 0  
+fill ~5 ~-1 ~96 ~5 ~-1 ~97 wool 0  
+fill ~5 ~-1 ~103 ~5 ~-1 ~104 wool 0  
+fill ~5 ~-1 ~110 ~5 ~-1 ~111 wool 0  
+fill ~5 ~-1 ~117 ~5 ~-1 ~118 wool 0  
+fill ~5 ~-1 ~124 ~5 ~-1 ~125 wool 0  
+fill ~5 ~-1 ~131 ~5 ~-1 ~132 wool 0  
+fill ~5 ~-1 ~138 ~5 ~-1 ~139 wool 0  
+fill ~5 ~-1 ~145 ~5 ~-1 ~146 wool 0  
+fill ~5 ~-1 ~152 ~5 ~-1 ~153 wool 0  
+fill ~5 ~-1 ~159 ~5 ~-1 ~160 wool 0 
+setblock ~5 ~-1 ~162 wool 4 
+setblock ~5 ~-1 ~163 wool 15 
+setblock ~5 ~-1 ~164 wool 4 
+setblock ~5 ~-1 ~165 wool 15 
+setblock ~5 ~-1 ~166 wool 4 
+setblock ~5 ~-1 ~167 wool 15 
+setblock ~5 ~-1 ~168 wool 7 
+setblock ~5 ~-1 ~171 wool 4 
+setblock ~6 ~-1 ~1 wool 15  
+fill ~6 ~-1 ~5 ~8 ~-1 ~5 wool 7 
+setblock ~6 ~-1 ~6 wool 4  
+fill ~6 ~-1 ~9 ~8 ~-1 ~9 wool 7 
+setblock ~6 ~-1 ~10 wool 4  
+fill ~6 ~-1 ~13 ~8 ~-1 ~13 wool 7 
+setblock ~6 ~-1 ~14 wool 4  
+fill ~6 ~-1 ~19 ~6 ~-1 ~162 wool 7 
+setblock ~6 ~-1 ~163 wool 4 
+setblock ~6 ~-1 ~164 wool 15 
+setblock ~6 ~-1 ~165 wool 4 
+setblock ~6 ~-1 ~166 wool 15 
+setblock ~6 ~-1 ~167 wool 4 
+setblock ~6 ~-1 ~168 wool 15 
+setblock ~6 ~-1 ~171 wool 15 
+setblock ~7 ~-1 ~1 wool 4  
+fill ~7 ~-1 ~6 ~8 ~-1 ~6 wool 7 
+setblock ~7 ~-1 ~7 wool 4  
+fill ~7 ~-1 ~10 ~8 ~-1 ~10 wool 7 
+setblock ~7 ~-1 ~11 wool 4  
+fill ~7 ~-1 ~14 ~18 ~-1 ~14 wool 7 
+setblock ~7 ~-1 ~15 wool 4  
+fill ~7 ~-1 ~19 ~7 ~-1 ~20 wool 0  
+fill ~7 ~-1 ~26 ~7 ~-1 ~27 wool 0  
+fill ~7 ~-1 ~33 ~7 ~-1 ~34 wool 0  
+fill ~7 ~-1 ~40 ~7 ~-1 ~41 wool 0  
+fill ~7 ~-1 ~47 ~7 ~-1 ~48 wool 0  
+fill ~7 ~-1 ~54 ~7 ~-1 ~55 wool 0  
+fill ~7 ~-1 ~61 ~7 ~-1 ~62 wool 0  
+fill ~7 ~-1 ~68 ~7 ~-1 ~69 wool 0  
+fill ~7 ~-1 ~75 ~7 ~-1 ~76 wool 0  
+fill ~7 ~-1 ~82 ~7 ~-1 ~83 wool 0  
+fill ~7 ~-1 ~89 ~7 ~-1 ~90 wool 0  
+fill ~7 ~-1 ~96 ~7 ~-1 ~97 wool 0  
+fill ~7 ~-1 ~103 ~7 ~-1 ~104 wool 0  
+fill ~7 ~-1 ~110 ~7 ~-1 ~111 wool 0  
+fill ~7 ~-1 ~117 ~7 ~-1 ~118 wool 0  
+fill ~7 ~-1 ~124 ~7 ~-1 ~125 wool 0  
+fill ~7 ~-1 ~131 ~7 ~-1 ~132 wool 0  
+fill ~7 ~-1 ~138 ~7 ~-1 ~139 wool 0  
+fill ~7 ~-1 ~145 ~7 ~-1 ~146 wool 0  
+fill ~7 ~-1 ~152 ~7 ~-1 ~153 wool 0  
+fill ~7 ~-1 ~159 ~7 ~-1 ~160 wool 0  
+fill ~7 ~-1 ~162 ~66 ~-1 ~162 wool 7  
+fill ~7 ~-1 ~163 ~78 ~-1 ~163 wool 7 
+setblock ~7 ~-1 ~164 wool 4 
+setblock ~7 ~-1 ~165 wool 15 
+setblock ~7 ~-1 ~166 wool 4 
+setblock ~7 ~-1 ~167 wool 15 
+setblock ~7 ~-1 ~168 wool 4 
+setblock ~7 ~-1 ~169 wool 15 
+setblock ~7 ~-1 ~171 wool 4 
+setblock ~8 ~-1 ~1 wool 15 
+setblock ~8 ~-1 ~7 wool 7 
+setblock ~8 ~-1 ~11 wool 7  
+fill ~8 ~-1 ~15 ~18 ~-1 ~15 wool 7  
+fill ~8 ~-1 ~19 ~8 ~-1 ~170 wool 7 
+setblock ~8 ~-1 ~171 wool 15 
+setblock ~9 ~-1 ~1 wool 4 
+setblock ~9 ~-1 ~2 wool 15 
+setblock ~9 ~-1 ~3 wool 4 
+setblock ~9 ~-1 ~4 wool 15 
+setblock ~9 ~-1 ~5 wool 4 
+setblock ~9 ~-1 ~6 wool 15 
+setblock ~9 ~-1 ~7 wool 4 
+setblock ~9 ~-1 ~8 wool 15 
+setblock ~9 ~-1 ~9 wool 4 
+setblock ~9 ~-1 ~10 wool 15 
+setblock ~9 ~-1 ~11 wool 4 
+setblock ~9 ~-1 ~12 wool 15 
+setblock ~9 ~-1 ~13 wool 4  
+fill ~9 ~-1 ~16 ~16 ~-1 ~16 wool 4 
+setblock ~9 ~-1 ~19 wool 4 
+setblock ~9 ~-1 ~20 wool 15 
+setblock ~9 ~-1 ~21 wool 4 
+setblock ~9 ~-1 ~22 wool 15 
+setblock ~9 ~-1 ~23 wool 4 
+setblock ~9 ~-1 ~24 wool 15 
+setblock ~9 ~-1 ~25 wool 4 
+setblock ~9 ~-1 ~26 wool 15 
+setblock ~9 ~-1 ~27 wool 4 
+setblock ~9 ~-1 ~28 wool 15 
+setblock ~9 ~-1 ~29 wool 4 
+setblock ~9 ~-1 ~30 wool 15 
+setblock ~9 ~-1 ~31 wool 4 
+setblock ~9 ~-1 ~32 wool 15 
+setblock ~9 ~-1 ~33 wool 4 
+setblock ~9 ~-1 ~34 wool 15 
+setblock ~9 ~-1 ~35 wool 4 
+setblock ~9 ~-1 ~36 wool 15 
+setblock ~9 ~-1 ~37 wool 4 
+setblock ~9 ~-1 ~38 wool 15 
+setblock ~9 ~-1 ~39 wool 4 
+setblock ~9 ~-1 ~40 wool 15 
+setblock ~9 ~-1 ~41 wool 4 
+setblock ~9 ~-1 ~42 wool 15 
+setblock ~9 ~-1 ~43 wool 4 
+setblock ~9 ~-1 ~44 wool 15 
+setblock ~9 ~-1 ~45 wool 4 
+setblock ~9 ~-1 ~46 wool 15 
+setblock ~9 ~-1 ~47 wool 4 
+setblock ~9 ~-1 ~48 wool 15 
+setblock ~9 ~-1 ~49 wool 4 
+setblock ~9 ~-1 ~50 wool 15 
+setblock ~9 ~-1 ~51 wool 4 
+setblock ~9 ~-1 ~52 wool 15 
+setblock ~9 ~-1 ~53 wool 4 
+setblock ~9 ~-1 ~54 wool 15 
+setblock ~9 ~-1 ~55 wool 4 
+setblock ~9 ~-1 ~56 wool 15 
+setblock ~9 ~-1 ~57 wool 4 
+setblock ~9 ~-1 ~58 wool 15 
+setblock ~9 ~-1 ~59 wool 4 
+setblock ~9 ~-1 ~60 wool 15 
+setblock ~9 ~-1 ~61 wool 4 
+setblock ~9 ~-1 ~62 wool 15 
+setblock ~9 ~-1 ~63 wool 4 
+setblock ~9 ~-1 ~64 wool 15 
+setblock ~9 ~-1 ~65 wool 4 
+setblock ~9 ~-1 ~66 wool 15 
+setblock ~9 ~-1 ~67 wool 4 
+setblock ~9 ~-1 ~68 wool 15 
+setblock ~9 ~-1 ~69 wool 4 
+setblock ~9 ~-1 ~70 wool 15 
+setblock ~9 ~-1 ~71 wool 4 
+setblock ~9 ~-1 ~72 wool 15 
+setblock ~9 ~-1 ~73 wool 4 
+setblock ~9 ~-1 ~74 wool 15 
+setblock ~9 ~-1 ~75 wool 4 
+setblock ~9 ~-1 ~76 wool 15 
+setblock ~9 ~-1 ~77 wool 4 
+setblock ~9 ~-1 ~78 wool 15 
+setblock ~9 ~-1 ~79 wool 4 
+setblock ~9 ~-1 ~80 wool 15 
+setblock ~9 ~-1 ~81 wool 4  
+fill ~9 ~-1 ~82 ~15 ~-1 ~82 wool 7  
+fill ~9 ~-1 ~83 ~15 ~-1 ~83 wool 7  
+fill ~9 ~-1 ~84 ~16 ~-1 ~84 wool 4 
+setblock ~9 ~-1 ~87 wool 4 
+setblock ~9 ~-1 ~88 wool 15 
+setblock ~9 ~-1 ~89 wool 4 
+setblock ~9 ~-1 ~90 wool 15 
+setblock ~9 ~-1 ~91 wool 4 
+setblock ~9 ~-1 ~92 wool 15 
+setblock ~9 ~-1 ~93 wool 4 
+setblock ~9 ~-1 ~94 wool 15 
+setblock ~9 ~-1 ~95 wool 4 
+setblock ~9 ~-1 ~96 wool 15 
+setblock ~9 ~-1 ~97 wool 4 
+setblock ~9 ~-1 ~98 wool 15 
+setblock ~9 ~-1 ~99 wool 4 
+setblock ~9 ~-1 ~100 wool 15 
+setblock ~9 ~-1 ~101 wool 4 
+setblock ~9 ~-1 ~102 wool 15 
+setblock ~9 ~-1 ~103 wool 4 
+setblock ~9 ~-1 ~104 wool 15 
+setblock ~9 ~-1 ~105 wool 4 
+setblock ~9 ~-1 ~106 wool 15 
+setblock ~9 ~-1 ~107 wool 4 
+setblock ~9 ~-1 ~108 wool 15 
+setblock ~9 ~-1 ~109 wool 4 
+setblock ~9 ~-1 ~110 wool 15 
+setblock ~9 ~-1 ~111 wool 4 
+setblock ~9 ~-1 ~112 wool 15 
+setblock ~9 ~-1 ~113 wool 4 
+setblock ~9 ~-1 ~114 wool 15 
+setblock ~9 ~-1 ~115 wool 4 
+setblock ~9 ~-1 ~116 wool 15 
+setblock ~9 ~-1 ~117 wool 4 
+setblock ~9 ~-1 ~118 wool 15 
+setblock ~9 ~-1 ~119 wool 4 
+setblock ~9 ~-1 ~120 wool 15 
+setblock ~9 ~-1 ~121 wool 4 
+setblock ~9 ~-1 ~122 wool 15 
+setblock ~9 ~-1 ~123 wool 4 
+setblock ~9 ~-1 ~124 wool 15 
+setblock ~9 ~-1 ~125 wool 4 
+setblock ~9 ~-1 ~126 wool 15 
+setblock ~9 ~-1 ~127 wool 4 
+setblock ~9 ~-1 ~128 wool 15 
+setblock ~9 ~-1 ~129 wool 4 
+setblock ~9 ~-1 ~130 wool 15 
+setblock ~9 ~-1 ~131 wool 4 
+setblock ~9 ~-1 ~132 wool 15 
+setblock ~9 ~-1 ~133 wool 4 
+setblock ~9 ~-1 ~134 wool 15 
+setblock ~9 ~-1 ~135 wool 4 
+setblock ~9 ~-1 ~136 wool 15 
+setblock ~9 ~-1 ~137 wool 4 
+setblock ~9 ~-1 ~138 wool 15 
+setblock ~9 ~-1 ~139 wool 4 
+setblock ~9 ~-1 ~140 wool 15 
+setblock ~9 ~-1 ~141 wool 4 
+setblock ~9 ~-1 ~142 wool 15 
+setblock ~9 ~-1 ~143 wool 4 
+setblock ~9 ~-1 ~144 wool 15 
+setblock ~9 ~-1 ~145 wool 4 
+setblock ~9 ~-1 ~146 wool 15 
+setblock ~9 ~-1 ~147 wool 4 
+setblock ~9 ~-1 ~148 wool 15 
+setblock ~9 ~-1 ~149 wool 4 
+setblock ~9 ~-1 ~150 wool 15 
+setblock ~9 ~-1 ~151 wool 4 
+setblock ~9 ~-1 ~152 wool 15 
+setblock ~9 ~-1 ~153 wool 4 
+setblock ~9 ~-1 ~154 wool 15 
+setblock ~9 ~-1 ~155 wool 4 
+setblock ~9 ~-1 ~156 wool 15 
+setblock ~9 ~-1 ~157 wool 4 
+setblock ~9 ~-1 ~158 wool 15 
+setblock ~9 ~-1 ~159 wool 4 
+setblock ~9 ~-1 ~160 wool 15 
+setblock ~9 ~-1 ~161 wool 4  
+fill ~9 ~-1 ~164 ~78 ~-1 ~164 wool 7  
+fill ~9 ~-1 ~165 ~66 ~-1 ~165 wool 7  
+fill ~9 ~-1 ~166 ~51 ~-1 ~166 wool 7  
+fill ~9 ~-1 ~167 ~51 ~-1 ~167 wool 7  
+fill ~9 ~-1 ~168 ~51 ~-1 ~168 wool 7  
+fill ~9 ~-1 ~169 ~51 ~-1 ~169 wool 7 
+setblock ~9 ~-1 ~171 wool 4  
+fill ~10 ~-1 ~1 ~110 ~-1 ~1 grass 0  
+fill ~10 ~-1 ~2 ~110 ~-1 ~2 grass 0  
+fill ~10 ~-1 ~3 ~110 ~-1 ~3 grass 0  
+fill ~10 ~-1 ~4 ~110 ~-1 ~4 grass 0  
+fill ~10 ~-1 ~5 ~110 ~-1 ~5 grass 0  
+fill ~10 ~-1 ~6 ~110 ~-1 ~6 grass 0  
+fill ~10 ~-1 ~7 ~110 ~-1 ~7 grass 0  
+fill ~10 ~-1 ~8 ~110 ~-1 ~8 grass 0  
+fill ~10 ~-1 ~9 ~110 ~-1 ~9 grass 0  
+fill ~10 ~-1 ~10 ~110 ~-1 ~10 grass 0  
+fill ~10 ~-1 ~11 ~110 ~-1 ~11 grass 0  
+fill ~10 ~-1 ~12 ~110 ~-1 ~12 grass 0 
+setblock ~10 ~-1 ~13 wool 15 
+setblock ~10 ~-1 ~19 wool 15  
+fill ~10 ~-1 ~20 ~12 ~-1 ~20 sand 0  
+fill ~10 ~-1 ~21 ~10 ~-1 ~80 sand 0 
+setblock ~10 ~-1 ~81 wool 15 
+setblock ~10 ~-1 ~87 wool 15  
+fill ~10 ~-1 ~88 ~18 ~-1 ~88 sand 0  
+fill ~10 ~-1 ~89 ~10 ~-1 ~160 sand 0 
+setblock ~10 ~-1 ~161 wool 15 
+setblock ~10 ~-1 ~171 wool 15 
+setblock ~11 ~-1 ~13 wool 4 
+setblock ~11 ~-1 ~19 wool 4  
+fill ~11 ~-1 ~21 ~11 ~-1 ~79 grass 0  
+fill ~11 ~-1 ~80 ~12 ~-1 ~80 sand 0 
+setblock ~11 ~-1 ~81 wool 4 
+setblock ~11 ~-1 ~87 wool 4  
+fill ~11 ~-1 ~89 ~17 ~-1 ~89 grass 0  
+fill ~11 ~-1 ~90 ~17 ~-1 ~90 grass 0  
+fill ~11 ~-1 ~91 ~17 ~-1 ~91 grass 0  
+fill ~11 ~-1 ~92 ~17 ~-1 ~92 grass 0  
+fill ~11 ~-1 ~93 ~17 ~-1 ~93 grass 0  
+fill ~11 ~-1 ~94 ~17 ~-1 ~94 grass 0  
+fill ~11 ~-1 ~95 ~17 ~-1 ~95 grass 0  
+fill ~11 ~-1 ~96 ~17 ~-1 ~96 grass 0  
+fill ~11 ~-1 ~97 ~17 ~-1 ~97 grass 0  
+fill ~11 ~-1 ~98 ~17 ~-1 ~98 grass 0  
+fill ~11 ~-1 ~99 ~17 ~-1 ~99 grass 0  
+fill ~11 ~-1 ~100 ~17 ~-1 ~100 grass 0  
+fill ~11 ~-1 ~101 ~17 ~-1 ~101 grass 0  
+fill ~11 ~-1 ~102 ~17 ~-1 ~102 grass 0  
+fill ~11 ~-1 ~103 ~17 ~-1 ~103 grass 0  
+fill ~11 ~-1 ~104 ~17 ~-1 ~104 grass 0  
+fill ~11 ~-1 ~105 ~17 ~-1 ~105 grass 0  
+fill ~11 ~-1 ~106 ~17 ~-1 ~106 grass 0  
+fill ~11 ~-1 ~107 ~17 ~-1 ~107 grass 0  
+fill ~11 ~-1 ~108 ~17 ~-1 ~108 grass 0  
+fill ~11 ~-1 ~109 ~17 ~-1 ~109 grass 0  
+fill ~11 ~-1 ~110 ~17 ~-1 ~110 grass 0  
+fill ~11 ~-1 ~111 ~17 ~-1 ~111 grass 0  
+fill ~11 ~-1 ~112 ~17 ~-1 ~112 grass 0  
+fill ~11 ~-1 ~113 ~17 ~-1 ~113 grass 0  
+fill ~11 ~-1 ~114 ~17 ~-1 ~114 grass 0  
+fill ~11 ~-1 ~115 ~17 ~-1 ~115 grass 0  
+fill ~11 ~-1 ~116 ~17 ~-1 ~116 grass 0  
+fill ~11 ~-1 ~117 ~17 ~-1 ~117 grass 0  
+fill ~11 ~-1 ~118 ~17 ~-1 ~118 grass 0  
+fill ~11 ~-1 ~119 ~17 ~-1 ~119 grass 0  
+fill ~11 ~-1 ~120 ~17 ~-1 ~120 grass 0  
+fill ~11 ~-1 ~121 ~17 ~-1 ~121 grass 0  
+fill ~11 ~-1 ~122 ~17 ~-1 ~122 grass 0  
+fill ~11 ~-1 ~123 ~17 ~-1 ~123 grass 0  
+fill ~11 ~-1 ~124 ~17 ~-1 ~124 grass 0  
+fill ~11 ~-1 ~125 ~17 ~-1 ~125 grass 0  
+fill ~11 ~-1 ~126 ~17 ~-1 ~126 grass 0  
+fill ~11 ~-1 ~127 ~17 ~-1 ~127 grass 0  
+fill ~11 ~-1 ~128 ~17 ~-1 ~128 grass 0  
+fill ~11 ~-1 ~129 ~17 ~-1 ~129 grass 0  
+fill ~11 ~-1 ~130 ~17 ~-1 ~130 grass 0  
+fill ~11 ~-1 ~131 ~17 ~-1 ~131 grass 0  
+fill ~11 ~-1 ~132 ~17 ~-1 ~132 grass 0  
+fill ~11 ~-1 ~133 ~17 ~-1 ~133 grass 0  
+fill ~11 ~-1 ~134 ~17 ~-1 ~134 grass 0  
+fill ~11 ~-1 ~135 ~17 ~-1 ~135 grass 0  
+fill ~11 ~-1 ~136 ~17 ~-1 ~136 grass 0  
+fill ~11 ~-1 ~137 ~17 ~-1 ~137 grass 0  
+fill ~11 ~-1 ~138 ~17 ~-1 ~138 grass 0  
+fill ~11 ~-1 ~139 ~17 ~-1 ~139 grass 0  
+fill ~11 ~-1 ~140 ~17 ~-1 ~140 grass 0  
+fill ~11 ~-1 ~141 ~17 ~-1 ~141 grass 0  
+fill ~11 ~-1 ~142 ~17 ~-1 ~142 grass 0  
+fill ~11 ~-1 ~143 ~17 ~-1 ~143 grass 0  
+fill ~11 ~-1 ~144 ~17 ~-1 ~144 grass 0  
+fill ~11 ~-1 ~145 ~17 ~-1 ~145 grass 0  
+fill ~11 ~-1 ~146 ~17 ~-1 ~146 grass 0  
+fill ~11 ~-1 ~147 ~17 ~-1 ~147 grass 0  
+fill ~11 ~-1 ~148 ~17 ~-1 ~148 grass 0  
+fill ~11 ~-1 ~149 ~17 ~-1 ~149 grass 0  
+fill ~11 ~-1 ~150 ~17 ~-1 ~150 grass 0  
+fill ~11 ~-1 ~151 ~17 ~-1 ~151 grass 0  
+fill ~11 ~-1 ~152 ~17 ~-1 ~152 grass 0  
+fill ~11 ~-1 ~153 ~17 ~-1 ~153 grass 0  
+fill ~11 ~-1 ~154 ~17 ~-1 ~154 grass 0  
+fill ~11 ~-1 ~155 ~17 ~-1 ~155 grass 0  
+fill ~11 ~-1 ~156 ~17 ~-1 ~156 grass 0  
+fill ~11 ~-1 ~157 ~17 ~-1 ~157 grass 0  
+fill ~11 ~-1 ~158 ~17 ~-1 ~158 grass 0  
+fill ~11 ~-1 ~159 ~17 ~-1 ~159 grass 0  
+fill ~11 ~-1 ~160 ~18 ~-1 ~160 sand 0 
+setblock ~11 ~-1 ~161 wool 4 
+setblock ~11 ~-1 ~171 wool 4 
+setblock ~12 ~-1 ~13 wool 15 
+setblock ~12 ~-1 ~19 wool 15  
+fill ~12 ~-1 ~21 ~12 ~-1 ~80 sand 0 
+setblock ~12 ~-1 ~81 wool 15 
+setblock ~12 ~-1 ~87 wool 15 
+setblock ~12 ~-1 ~161 wool 15 
+setblock ~12 ~-1 ~171 wool 15 
+setblock ~13 ~-1 ~13 wool 4 
+setblock ~13 ~-1 ~19 wool 4 
+setblock ~13 ~-1 ~20 wool 15 
+setblock ~13 ~-1 ~21 wool 4 
+setblock ~13 ~-1 ~22 wool 15 
+setblock ~13 ~-1 ~23 wool 4 
+setblock ~13 ~-1 ~24 wool 15 
+setblock ~13 ~-1 ~25 wool 4 
+setblock ~13 ~-1 ~26 wool 15 
+setblock ~13 ~-1 ~27 wool 4 
+setblock ~13 ~-1 ~28 wool 15 
+setblock ~13 ~-1 ~29 wool 4 
+setblock ~13 ~-1 ~30 wool 15 
+setblock ~13 ~-1 ~31 wool 4 
+setblock ~13 ~-1 ~32 wool 15 
+setblock ~13 ~-1 ~33 wool 4 
+setblock ~13 ~-1 ~34 wool 15 
+setblock ~13 ~-1 ~35 wool 4 
+setblock ~13 ~-1 ~36 wool 15 
+setblock ~13 ~-1 ~37 wool 4 
+setblock ~13 ~-1 ~38 wool 15 
+setblock ~13 ~-1 ~39 wool 4 
+setblock ~13 ~-1 ~40 wool 15 
+setblock ~13 ~-1 ~41 wool 4 
+setblock ~13 ~-1 ~42 wool 15 
+setblock ~13 ~-1 ~43 wool 4 
+setblock ~13 ~-1 ~44 wool 15 
+setblock ~13 ~-1 ~45 wool 4 
+setblock ~13 ~-1 ~46 wool 15 
+setblock ~13 ~-1 ~47 wool 4 
+setblock ~13 ~-1 ~48 wool 15 
+setblock ~13 ~-1 ~49 wool 4 
+setblock ~13 ~-1 ~50 wool 15 
+setblock ~13 ~-1 ~51 wool 4 
+setblock ~13 ~-1 ~52 wool 15 
+setblock ~13 ~-1 ~53 wool 4 
+setblock ~13 ~-1 ~54 wool 15 
+setblock ~13 ~-1 ~55 wool 4 
+setblock ~13 ~-1 ~56 wool 15 
+setblock ~13 ~-1 ~57 wool 4 
+setblock ~13 ~-1 ~58 wool 15 
+setblock ~13 ~-1 ~59 wool 4 
+setblock ~13 ~-1 ~60 wool 15 
+setblock ~13 ~-1 ~61 wool 4 
+setblock ~13 ~-1 ~62 wool 15 
+setblock ~13 ~-1 ~63 wool 4 
+setblock ~13 ~-1 ~64 wool 15 
+setblock ~13 ~-1 ~65 wool 4 
+setblock ~13 ~-1 ~66 wool 15 
+setblock ~13 ~-1 ~67 wool 4 
+setblock ~13 ~-1 ~68 wool 15 
+setblock ~13 ~-1 ~69 wool 4 
+setblock ~13 ~-1 ~70 wool 15 
+setblock ~13 ~-1 ~71 wool 4 
+setblock ~13 ~-1 ~72 wool 15 
+setblock ~13 ~-1 ~73 wool 4 
+setblock ~13 ~-1 ~74 wool 15 
+setblock ~13 ~-1 ~75 wool 4 
+setblock ~13 ~-1 ~76 wool 15 
+setblock ~13 ~-1 ~77 wool 4 
+setblock ~13 ~-1 ~78 wool 15 
+setblock ~13 ~-1 ~79 wool 4 
+setblock ~13 ~-1 ~80 wool 15 
+setblock ~13 ~-1 ~81 wool 4 
+setblock ~13 ~-1 ~87 wool 4 
+setblock ~13 ~-1 ~161 wool 4 
+setblock ~13 ~-1 ~171 wool 4 
+setblock ~14 ~-1 ~13 wool 15  
+fill ~14 ~-1 ~19 ~15 ~-1 ~19 wool 7  
+fill ~14 ~-1 ~20 ~15 ~-1 ~20 wool 7  
+fill ~14 ~-1 ~21 ~15 ~-1 ~21 wool 7  
+fill ~14 ~-1 ~22 ~15 ~-1 ~22 wool 7  
+fill ~14 ~-1 ~23 ~15 ~-1 ~23 wool 7  
+fill ~14 ~-1 ~24 ~15 ~-1 ~24 wool 7  
+fill ~14 ~-1 ~25 ~15 ~-1 ~25 wool 7  
+fill ~14 ~-1 ~26 ~15 ~-1 ~26 wool 7  
+fill ~14 ~-1 ~27 ~15 ~-1 ~27 wool 7  
+fill ~14 ~-1 ~28 ~15 ~-1 ~28 wool 7  
+fill ~14 ~-1 ~29 ~15 ~-1 ~29 wool 7  
+fill ~14 ~-1 ~30 ~15 ~-1 ~30 wool 7  
+fill ~14 ~-1 ~31 ~15 ~-1 ~31 wool 7  
+fill ~14 ~-1 ~32 ~15 ~-1 ~32 wool 7  
+fill ~14 ~-1 ~33 ~15 ~-1 ~33 wool 7  
+fill ~14 ~-1 ~34 ~15 ~-1 ~34 wool 7  
+fill ~14 ~-1 ~35 ~15 ~-1 ~35 wool 7  
+fill ~14 ~-1 ~36 ~15 ~-1 ~36 wool 7  
+fill ~14 ~-1 ~37 ~15 ~-1 ~37 wool 7  
+fill ~14 ~-1 ~38 ~15 ~-1 ~38 wool 7  
+fill ~14 ~-1 ~39 ~15 ~-1 ~39 wool 7  
+fill ~14 ~-1 ~40 ~15 ~-1 ~40 wool 7  
+fill ~14 ~-1 ~41 ~15 ~-1 ~41 wool 7  
+fill ~14 ~-1 ~42 ~15 ~-1 ~42 wool 7  
+fill ~14 ~-1 ~43 ~15 ~-1 ~43 wool 7  
+fill ~14 ~-1 ~44 ~15 ~-1 ~44 wool 7  
+fill ~14 ~-1 ~45 ~15 ~-1 ~45 wool 7  
+fill ~14 ~-1 ~46 ~15 ~-1 ~46 wool 7  
+fill ~14 ~-1 ~47 ~15 ~-1 ~47 wool 7  
+fill ~14 ~-1 ~48 ~15 ~-1 ~48 wool 7  
+fill ~14 ~-1 ~49 ~15 ~-1 ~49 wool 7  
+fill ~14 ~-1 ~50 ~15 ~-1 ~50 wool 7  
+fill ~14 ~-1 ~51 ~15 ~-1 ~51 wool 7  
+fill ~14 ~-1 ~52 ~15 ~-1 ~52 wool 7  
+fill ~14 ~-1 ~53 ~15 ~-1 ~53 wool 7  
+fill ~14 ~-1 ~54 ~15 ~-1 ~54 wool 7  
+fill ~14 ~-1 ~55 ~15 ~-1 ~55 wool 7  
+fill ~14 ~-1 ~56 ~15 ~-1 ~56 wool 7  
+fill ~14 ~-1 ~57 ~15 ~-1 ~57 wool 7  
+fill ~14 ~-1 ~58 ~15 ~-1 ~58 wool 7  
+fill ~14 ~-1 ~59 ~15 ~-1 ~59 wool 7  
+fill ~14 ~-1 ~60 ~15 ~-1 ~60 wool 7  
+fill ~14 ~-1 ~61 ~15 ~-1 ~61 wool 7  
+fill ~14 ~-1 ~62 ~15 ~-1 ~62 wool 7  
+fill ~14 ~-1 ~63 ~15 ~-1 ~63 wool 7  
+fill ~14 ~-1 ~64 ~15 ~-1 ~64 wool 7  
+fill ~14 ~-1 ~65 ~15 ~-1 ~65 wool 7  
+fill ~14 ~-1 ~66 ~15 ~-1 ~66 wool 7  
+fill ~14 ~-1 ~67 ~15 ~-1 ~67 wool 7  
+fill ~14 ~-1 ~68 ~15 ~-1 ~68 wool 7  
+fill ~14 ~-1 ~69 ~15 ~-1 ~69 wool 7  
+fill ~14 ~-1 ~70 ~15 ~-1 ~70 wool 7  
+fill ~14 ~-1 ~71 ~15 ~-1 ~71 wool 7  
+fill ~14 ~-1 ~72 ~15 ~-1 ~72 wool 7  
+fill ~14 ~-1 ~73 ~15 ~-1 ~73 wool 7  
+fill ~14 ~-1 ~74 ~15 ~-1 ~74 wool 7  
+fill ~14 ~-1 ~75 ~15 ~-1 ~75 wool 7  
+fill ~14 ~-1 ~76 ~15 ~-1 ~76 wool 7  
+fill ~14 ~-1 ~77 ~15 ~-1 ~77 wool 7  
+fill ~14 ~-1 ~78 ~15 ~-1 ~78 wool 7  
+fill ~14 ~-1 ~79 ~15 ~-1 ~79 wool 7  
+fill ~14 ~-1 ~80 ~15 ~-1 ~80 wool 7  
+fill ~14 ~-1 ~81 ~15 ~-1 ~81 wool 7 
+setblock ~14 ~-1 ~87 wool 15 
+setblock ~14 ~-1 ~161 wool 15 
+setblock ~14 ~-1 ~171 wool 15 
+setblock ~15 ~-1 ~13 wool 4 
+setblock ~15 ~-1 ~87 wool 4 
+setblock ~15 ~-1 ~161 wool 4 
+setblock ~15 ~-1 ~171 wool 4 
+setblock ~16 ~-1 ~13 wool 15  
+fill ~16 ~-1 ~17 ~16 ~-1 ~84 wool 4 
+setblock ~16 ~-1 ~87 wool 15 
+setblock ~16 ~-1 ~161 wool 15 
+setblock ~16 ~-1 ~171 wool 15 
+setblock ~17 ~-1 ~13 wool 4  
+fill ~17 ~-1 ~16 ~18 ~-1 ~16 wool 7  
+fill ~17 ~-1 ~17 ~18 ~-1 ~17 wool 7  
+fill ~17 ~-1 ~18 ~18 ~-1 ~18 wool 7  
+fill ~17 ~-1 ~19 ~18 ~-1 ~19 wool 7  
+fill ~17 ~-1 ~20 ~18 ~-1 ~20 wool 7  
+fill ~17 ~-1 ~21 ~18 ~-1 ~21 wool 7  
+fill ~17 ~-1 ~22 ~18 ~-1 ~22 wool 7  
+fill ~17 ~-1 ~23 ~18 ~-1 ~23 wool 7  
+fill ~17 ~-1 ~24 ~18 ~-1 ~24 wool 7  
+fill ~17 ~-1 ~25 ~18 ~-1 ~25 wool 7  
+fill ~17 ~-1 ~26 ~18 ~-1 ~26 wool 7  
+fill ~17 ~-1 ~27 ~18 ~-1 ~27 wool 7  
+fill ~17 ~-1 ~28 ~18 ~-1 ~28 wool 7  
+fill ~17 ~-1 ~29 ~18 ~-1 ~29 wool 7  
+fill ~17 ~-1 ~30 ~18 ~-1 ~30 wool 7  
+fill ~17 ~-1 ~31 ~18 ~-1 ~31 wool 7  
+fill ~17 ~-1 ~32 ~18 ~-1 ~32 wool 7  
+fill ~17 ~-1 ~33 ~18 ~-1 ~33 wool 7  
+fill ~17 ~-1 ~34 ~18 ~-1 ~34 wool 7  
+fill ~17 ~-1 ~35 ~18 ~-1 ~35 wool 7  
+fill ~17 ~-1 ~36 ~18 ~-1 ~36 wool 7  
+fill ~17 ~-1 ~37 ~18 ~-1 ~37 wool 7  
+fill ~17 ~-1 ~38 ~18 ~-1 ~38 wool 7  
+fill ~17 ~-1 ~39 ~18 ~-1 ~39 wool 7  
+fill ~17 ~-1 ~40 ~18 ~-1 ~40 wool 7  
+fill ~17 ~-1 ~41 ~18 ~-1 ~41 wool 7  
+fill ~17 ~-1 ~42 ~18 ~-1 ~42 wool 7  
+fill ~17 ~-1 ~43 ~18 ~-1 ~43 wool 7  
+fill ~17 ~-1 ~44 ~18 ~-1 ~44 wool 7  
+fill ~17 ~-1 ~45 ~18 ~-1 ~45 wool 7  
+fill ~17 ~-1 ~46 ~18 ~-1 ~46 wool 7  
+fill ~17 ~-1 ~47 ~18 ~-1 ~47 wool 7  
+fill ~17 ~-1 ~48 ~18 ~-1 ~48 wool 7  
+fill ~17 ~-1 ~49 ~18 ~-1 ~49 wool 7  
+fill ~17 ~-1 ~50 ~18 ~-1 ~50 wool 7  
+summon Slime ~21.9210830268 ~0.0 ~43.6219478793 
+summon Slime ~24.0364772334 ~0.0 ~44.7636608878 
+summon Creeper ~37.5 ~0.0 ~180.5 
+summon Zombie ~37.5 ~0.0 ~180.5 
+summon Skeleton ~36.5 ~0.0 ~180.5 
+summon Slime ~52.8486924453 ~0.0 ~37.9623707658 
+summon Creeper ~49.3000000119 ~1.0 ~63.3000000119 
+summon Zombie ~49.150000006 ~1.0 ~64.849999994 
+summon Zombie ~51.3295641392 ~1.0 ~64.5 
+summon Skeleton ~51.5 ~1.0 ~63.5 
+summon Skeleton ~53.5 ~1.0 ~63.5 
+summon Creeper ~49.3000000119 ~1.0 ~63.9869363467 
+summon Item ~49.8039240737 ~0.0 ~80.1194405647 
+summon Slime ~51.6597078987 ~1.24918707874 ~74.6662999926 
+summon Pig ~68.8927512409 ~0.0 ~27.8400935719 
+summon Zombie ~55.5 ~1.0 ~64.5 
+summon Spider ~67.6999999881 ~5.10000002384 ~72.8257544853 
+summon Creeper ~70.6999999881 ~0.0 ~72.3000000119 
+summon Skeleton ~67.3000000119 ~0.0 ~72.3000000119 
+summon Bat ~67.25 ~5.10000002384 ~72.25 
+summon Enderman ~70.0889026815 ~0.0 ~72.3000000119 
+summon Zombie ~55.6999999881 ~1.0 ~63.3000000119 
+summon Skeleton ~70.6999999881 ~0.0 ~72.9850521518 
+summon Spider ~68.3550860343 ~0.0 ~72.8387340728 
+summon Creeper ~69.3900650372 ~0.0 ~72.3000000119 
+summon Chicken ~66.2836987411 ~0.0 ~77.1498287858 
+summon Item ~68.4104062922 ~0.0 ~79.010094412 
+summon Bat ~69.4892569858 ~5.10000002384 ~79.75 
+summon Bat ~70.3620058832 ~5.10000002384 ~79.75 
+summon Bat ~70.693070353 ~5.10000002384 ~79.75 
+summon Bat ~65.25 ~5.10000002384 ~77.4618430888 
+summon Skeleton ~69.3720182713 ~0.0 ~79.6999999881 
+summon Creeper ~66.7547015835 ~0.0 ~77.9670045486 
+summon Creeper ~68.5858507892 ~0.0 ~78.7630007571 
+summon Zombie ~70.6999999881 ~0.0 ~79.6999999881 
+summon Zombie ~66.3000000119 ~0.0 ~78.6999999881 
+summon Zombie ~69.9655737526 ~0.0 ~79.049285786 
+summon Spider ~68.8230717079 ~0.0 ~76.5196572051 
+summon Creeper ~69.3594542984 ~0.0 ~75.2758521944 
+summon Skeleton ~68.0280953075 ~0.0 ~79.4190983849 
+summon Skeleton ~67.6383418444 ~0.0 ~76.2569306313 
+summon Skeleton ~66.3000000119 ~0.0 ~73.3000000119 
+summon Skeleton ~65.3000000119 ~0.0 ~76.9404174874 
+summon Skeleton ~67.0366817919 ~0.0 ~75.4253839192 
+summon Creeper ~70.1855967135 ~0.0 ~76.5245405813 
+summon Creeper ~66.8680189832 ~0.0 ~77.0776635612 
+summon Skeleton ~67.6574158693 ~0.0 ~77.5453631461 
+summon Skeleton ~67.8476397073 ~0.0 ~75.4484044886 
+summon Skeleton ~69.3463057322 ~0.0 ~79.0784920777 
+summon Creeper ~66.4804429357 ~0.0 ~76.2227899892 
+summon Skeleton ~69.5658121494 ~0.0 ~78.3781375493 
+summon Spider ~67.2589755614 ~0.0 ~74.3839142787 
+summon Skeleton ~65.9076810022 ~0.0 ~75.516284162 
+summon Creeper ~65.8748613791 ~0.0 ~76.3050505052 
+summon Creeper ~70.5913544713 ~0.0 ~75.5219832596 
+summon Skeleton ~69.7152713521 ~0.0 ~73.1697161744 
+summon Witch ~67.6572442728 ~0.0 ~78.6316776799 
+summon Witch ~68.5582925133 ~0.0 ~74.7421171166 
+summon Skeleton ~66.0612658751 ~0.0 ~74.9151830695 
+summon Skeleton ~68.6612408604 ~0.0 ~75.5 
+summon Skeleton ~65.9806287867 ~0.0 ~77.6999999881 
+summon Skeleton ~65.3000000119 ~0.0 ~74.3524409784 
+summon Skeleton ~67.5024771198 ~0.0 ~76.8896906842 
+summon Zombie ~67.5 ~2.0 ~127.5 
+summon Bat ~71.75 ~5.10000002384 ~73.5096428696 
+summon Bat ~72.75 ~5.10000002384 ~77.75 
+summon Creeper ~72.6999999881 ~0.0 ~76.295028892 
+summon Witch ~72.6999999881 ~0.0 ~74.9426039485 
+summon Creeper ~72.6999999881 ~0.0 ~74.3000000119 
+summon Skeleton ~72.0174879153 ~0.0 ~74.3000000119 
+summon Skeleton ~72.6999999881 ~0.0 ~75.5572809589 
+summon Spider ~72.3000000119 ~0.0 ~77.3000000119 
+summon Witch ~71.6999999881 ~0.0 ~78.6999999881 
+summon Bat ~71.3065442666 ~0.957124199731 ~77.8909500032 
+summon Bat ~72.75 ~4.10614785355 ~74.4121393959 
+summon Slime ~72.7938144502 ~0.0 ~122.653057706 
+summon Pig ~110.226805842 ~0.0 ~123.414845852  
+fill ~17 ~-1 ~51 ~18 ~-1 ~51 wool 7  
+fill ~17 ~-1 ~52 ~18 ~-1 ~52 wool 7  
+fill ~17 ~-1 ~53 ~18 ~-1 ~53 wool 7  
+fill ~17 ~-1 ~54 ~18 ~-1 ~54 wool 7  
+fill ~17 ~-1 ~55 ~18 ~-1 ~55 wool 7  
+fill ~17 ~-1 ~56 ~18 ~-1 ~56 wool 7  
+fill ~17 ~-1 ~57 ~18 ~-1 ~57 wool 7  
+fill ~17 ~-1 ~58 ~18 ~-1 ~58 wool 7  
+fill ~17 ~-1 ~59 ~18 ~-1 ~59 wool 7  
+fill ~17 ~-1 ~60 ~18 ~-1 ~60 wool 7  
+fill ~17 ~-1 ~61 ~18 ~-1 ~61 wool 7  
+fill ~17 ~-1 ~62 ~18 ~-1 ~62 wool 7  
+fill ~17 ~-1 ~63 ~18 ~-1 ~63 wool 7  
+fill ~17 ~-1 ~64 ~18 ~-1 ~64 wool 7  
+fill ~17 ~-1 ~65 ~18 ~-1 ~65 wool 7  
+fill ~17 ~-1 ~66 ~18 ~-1 ~66 wool 7  
+fill ~17 ~-1 ~67 ~18 ~-1 ~67 wool 7  
+fill ~17 ~-1 ~68 ~18 ~-1 ~68 wool 7  
+fill ~17 ~-1 ~69 ~18 ~-1 ~69 wool 7  
+fill ~17 ~-1 ~70 ~18 ~-1 ~70 wool 7  
+fill ~17 ~-1 ~71 ~18 ~-1 ~71 wool 7  
+fill ~17 ~-1 ~72 ~18 ~-1 ~72 wool 7  
+fill ~17 ~-1 ~73 ~18 ~-1 ~73 wool 7  
+fill ~17 ~-1 ~74 ~18 ~-1 ~74 wool 7  
+fill ~17 ~-1 ~75 ~18 ~-1 ~75 wool 7  
+fill ~17 ~-1 ~76 ~18 ~-1 ~76 wool 7  
+fill ~17 ~-1 ~77 ~18 ~-1 ~77 wool 7  
+fill ~17 ~-1 ~78 ~18 ~-1 ~78 wool 7  
+fill ~17 ~-1 ~79 ~18 ~-1 ~79 wool 7  
+fill ~17 ~-1 ~80 ~18 ~-1 ~80 wool 7  
+fill ~17 ~-1 ~81 ~18 ~-1 ~81 wool 7  
+fill ~17 ~-1 ~82 ~18 ~-1 ~82 wool 7  
+fill ~17 ~-1 ~83 ~18 ~-1 ~83 wool 7  
+fill ~17 ~-1 ~84 ~18 ~-1 ~84 wool 7 
+setblock ~17 ~-1 ~87 wool 4 
+setblock ~17 ~-1 ~161 wool 4 
+setblock ~17 ~-1 ~171 wool 4 
+setblock ~18 ~-1 ~13 wool 15 
+setblock ~18 ~-1 ~87 wool 15  
+fill ~18 ~-1 ~89 ~18 ~-1 ~160 sand 0 
+setblock ~18 ~-1 ~161 wool 15 
+setblock ~18 ~-1 ~171 wool 15 
+setblock ~19 ~-1 ~13 wool 4 
+setblock ~19 ~-1 ~14 wool 15 
+setblock ~19 ~-1 ~15 wool 4 
+setblock ~19 ~-1 ~16 wool 15 
+setblock ~19 ~-1 ~17 wool 4 
+setblock ~19 ~-1 ~18 wool 15 
+setblock ~19 ~-1 ~19 wool 4 
+setblock ~19 ~-1 ~20 wool 15 
+setblock ~19 ~-1 ~21 wool 4 
+setblock ~19 ~-1 ~22 wool 15 
+setblock ~19 ~-1 ~23 wool 4 
+setblock ~19 ~-1 ~24 wool 15 
+setblock ~19 ~-1 ~25 wool 4 
+setblock ~19 ~-1 ~26 wool 15 
+setblock ~19 ~-1 ~27 wool 4 
+setblock ~19 ~-1 ~28 wool 15 
+setblock ~19 ~-1 ~29 wool 4 
+setblock ~19 ~-1 ~30 wool 15 
+setblock ~19 ~-1 ~31 wool 4 
+setblock ~19 ~-1 ~32 wool 15 
+setblock ~19 ~-1 ~33 wool 4 
+setblock ~19 ~-1 ~34 wool 15 
+setblock ~19 ~-1 ~35 wool 4  
+fill ~19 ~-1 ~36 ~19 ~-1 ~36 wool 15 
+setblock ~19 ~-1 ~37 wool 4 
+setblock ~19 ~-1 ~38 wool 15 
+setblock ~19 ~-1 ~39 wool 4 
+setblock ~19 ~-1 ~40 wool 15 
+setblock ~19 ~-1 ~41 wool 4 
+setblock ~19 ~-1 ~42 wool 15 
+setblock ~19 ~-1 ~43 wool 4 
+setblock ~19 ~-1 ~44 wool 15 
+setblock ~19 ~-1 ~45 wool 4 
+setblock ~19 ~-1 ~46 wool 15 
+setblock ~19 ~-1 ~47 wool 4 
+setblock ~19 ~-1 ~48 wool 15 
+setblock ~19 ~-1 ~49 wool 4 
+setblock ~19 ~-1 ~50 wool 15 
+setblock ~19 ~-1 ~51 wool 4 
+setblock ~19 ~-1 ~52 wool 15 
+setblock ~19 ~-1 ~53 wool 4 
+setblock ~19 ~-1 ~54 wool 15 
+setblock ~19 ~-1 ~55 wool 4 
+setblock ~19 ~-1 ~56 wool 15 
+setblock ~19 ~-1 ~57 wool 4 
+setblock ~19 ~-1 ~58 wool 15 
+setblock ~19 ~-1 ~59 wool 4 
+setblock ~19 ~-1 ~60 wool 15 
+setblock ~19 ~-1 ~61 wool 4 
+setblock ~19 ~-1 ~62 wool 15 
+setblock ~19 ~-1 ~63 wool 4 
+setblock ~19 ~-1 ~64 wool 15 
+setblock ~19 ~-1 ~65 wool 4 
+setblock ~19 ~-1 ~66 wool 15 
+setblock ~19 ~-1 ~67 wool 4 
+setblock ~19 ~-1 ~68 wool 15 
+setblock ~19 ~-1 ~69 wool 4 
+setblock ~19 ~-1 ~70 wool 15 
+setblock ~19 ~-1 ~71 wool 4 
+setblock ~19 ~-1 ~72 wool 15 
+setblock ~19 ~-1 ~73 wool 4 
+setblock ~19 ~-1 ~74 wool 15 
+setblock ~19 ~-1 ~75 wool 4 
+setblock ~19 ~-1 ~76 wool 15 
+setblock ~19 ~-1 ~77 wool 4 
+setblock ~19 ~-1 ~78 wool 15 
+setblock ~19 ~-1 ~79 wool 4 
+setblock ~19 ~-1 ~80 wool 15 
+setblock ~19 ~-1 ~81 wool 4 
+setblock ~19 ~-1 ~82 wool 15 
+setblock ~19 ~-1 ~83 wool 4 
+setblock ~19 ~-1 ~84 wool 15 
+setblock ~19 ~-1 ~85 wool 4 
+setblock ~19 ~-1 ~86 wool 15 
+setblock ~19 ~-1 ~87 wool 4 
+setblock ~19 ~-1 ~88 wool 15 
+setblock ~19 ~-1 ~89 wool 4 
+setblock ~19 ~-1 ~90 wool 15 
+setblock ~19 ~-1 ~91 wool 4 
+setblock ~19 ~-1 ~92 wool 15 
+setblock ~19 ~-1 ~93 wool 4 
+setblock ~19 ~-1 ~94 wool 15 
+setblock ~19 ~-1 ~95 wool 4 
+setblock ~19 ~-1 ~96 wool 15 
+setblock ~19 ~-1 ~97 wool 4 
+setblock ~19 ~-1 ~98 wool 15 
+setblock ~19 ~-1 ~99 wool 4 
+setblock ~19 ~-1 ~100 wool 15 
+setblock ~19 ~-1 ~101 wool 4 
+setblock ~19 ~-1 ~102 wool 15 
+setblock ~19 ~-1 ~103 wool 4 
+setblock ~19 ~-1 ~104 wool 15 
+setblock ~19 ~-1 ~105 wool 4 
+setblock ~19 ~-1 ~106 wool 15 
+setblock ~19 ~-1 ~107 wool 4 
+setblock ~19 ~-1 ~108 wool 15 
+setblock ~19 ~-1 ~109 wool 4 
+setblock ~19 ~-1 ~110 wool 15 
+setblock ~19 ~-1 ~111 wool 4 
+setblock ~19 ~-1 ~112 wool 15 
+setblock ~19 ~-1 ~113 wool 4 
+setblock ~19 ~-1 ~114 wool 15 
+setblock ~19 ~-1 ~115 wool 4 
+setblock ~19 ~-1 ~116 wool 15 
+setblock ~19 ~-1 ~117 wool 4 
+setblock ~19 ~-1 ~118 wool 15 
+setblock ~19 ~-1 ~119 wool 4 
+setblock ~19 ~-1 ~120 wool 15 
+setblock ~19 ~-1 ~121 wool 4 
+setblock ~19 ~-1 ~122 wool 15 
+setblock ~19 ~-1 ~123 wool 4 
+setblock ~19 ~-1 ~124 wool 15 
+setblock ~19 ~-1 ~125 wool 4 
+setblock ~19 ~-1 ~126 wool 15 
+setblock ~19 ~-1 ~127 wool 4 
+setblock ~19 ~-1 ~128 wool 15 
+setblock ~19 ~-1 ~129 wool 4 
+setblock ~19 ~-1 ~130 wool 15 
+setblock ~19 ~-1 ~131 wool 4 
+setblock ~19 ~-1 ~132 wool 15 
+setblock ~19 ~-1 ~133 wool 4 
+setblock ~19 ~-1 ~134 wool 15 
+setblock ~19 ~-1 ~135 wool 4 
+setblock ~19 ~-1 ~136 wool 15 
+setblock ~19 ~-1 ~137 wool 4 
+setblock ~19 ~-1 ~138 wool 15 
+setblock ~19 ~-1 ~139 wool 4 
+setblock ~19 ~-1 ~140 wool 15 
+setblock ~19 ~-1 ~141 wool 4 
+setblock ~19 ~-1 ~142 wool 15 
+setblock ~19 ~-1 ~143 wool 4 
+setblock ~19 ~-1 ~144 wool 15 
+setblock ~19 ~-1 ~145 wool 4 
+setblock ~19 ~-1 ~146 wool 15 
+setblock ~19 ~-1 ~147 wool 4 
+setblock ~19 ~-1 ~148 wool 15 
+setblock ~19 ~-1 ~149 wool 4 
+setblock ~19 ~-1 ~150 wool 15 
+setblock ~19 ~-1 ~151 wool 4 
+setblock ~19 ~-1 ~152 wool 15 
+setblock ~19 ~-1 ~153 wool 4 
+setblock ~19 ~-1 ~154 wool 15 
+setblock ~19 ~-1 ~155 wool 4 
+setblock ~19 ~-1 ~156 wool 15 
+setblock ~19 ~-1 ~157 wool 4 
+setblock ~19 ~-1 ~158 wool 15 
+setblock ~19 ~-1 ~159 wool 4 
+setblock ~19 ~-1 ~160 wool 15 
+setblock ~19 ~-1 ~161 wool 4 
+setblock ~19 ~-1 ~171 wool 4  
+fill ~19 ~-1 ~172 ~19 ~-1 ~193 double_stone_slab 0  
+fill ~20 ~-1 ~13 ~110 ~-1 ~13 grass 0  
+fill ~20 ~-1 ~14 ~110 ~-1 ~14 grass 0  
+fill ~20 ~-1 ~15 ~110 ~-1 ~15 grass 0  
+fill ~20 ~-1 ~16 ~110 ~-1 ~16 grass 0  
+fill ~20 ~-1 ~17 ~110 ~-1 ~17 grass 0  
+fill ~20 ~-1 ~18 ~110 ~-1 ~18 grass 0  
+fill ~20 ~-1 ~19 ~110 ~-1 ~19 grass 0  
+fill ~20 ~-1 ~20 ~110 ~-1 ~20 grass 0  
+fill ~20 ~-1 ~21 ~110 ~-1 ~21 grass 0  
+fill ~20 ~-1 ~22 ~62 ~-1 ~22 double_stone_slab 0  
+fill ~20 ~-1 ~23 ~62 ~-1 ~23 wool 7  
+fill ~20 ~-1 ~24 ~63 ~-1 ~24 wool 7  
+fill ~20 ~-1 ~25 ~64 ~-1 ~25 wool 7  
+fill ~20 ~-1 ~26 ~62 ~-1 ~26 double_stone_slab 0  
+fill ~20 ~-1 ~27 ~62 ~-1 ~27 grass 0  
+fill ~20 ~-1 ~28 ~63 ~-1 ~28 grass 0  
+fill ~20 ~-1 ~29 ~64 ~-1 ~29 grass 0  
+fill ~20 ~-1 ~30 ~65 ~-1 ~30 grass 0  
+fill ~20 ~-1 ~31 ~66 ~-1 ~31 grass 0  
+fill ~20 ~-1 ~32 ~67 ~-1 ~32 grass 0  
+fill ~20 ~-1 ~33 ~68 ~-1 ~33 grass 0  
+fill ~20 ~-1 ~34 ~69 ~-1 ~34 grass 0  
+fill ~20 ~-1 ~35 ~70 ~-1 ~35 grass 0  
+fill ~20 ~-1 ~36 ~52 ~-1 ~36 grass 0  
+fill ~20 ~-1 ~37 ~52 ~-1 ~37 grass 0  
+fill ~20 ~-1 ~38 ~52 ~-1 ~38 grass 0  
+fill ~20 ~-1 ~39 ~52 ~-1 ~39 grass 0  
+fill ~20 ~-1 ~40 ~52 ~-1 ~40 grass 0  
+fill ~20 ~-1 ~41 ~52 ~-1 ~41 grass 0  
+fill ~20 ~-1 ~42 ~52 ~-1 ~42 grass 0  
+fill ~20 ~-1 ~43 ~52 ~-1 ~43 grass 0  
+fill ~20 ~-1 ~44 ~52 ~-1 ~44 grass 0  
+fill ~20 ~-1 ~45 ~52 ~-1 ~45 grass 0  
+fill ~20 ~-1 ~46 ~52 ~-1 ~46 grass 0  
+fill ~20 ~-1 ~47 ~52 ~-1 ~47 grass 0  
+fill ~20 ~-1 ~48 ~53 ~-1 ~48 double_stone_slab 0  
+fill ~20 ~-1 ~49 ~20 ~-1 ~66 double_stone_slab 0  
+fill ~20 ~-1 ~67 ~74 ~-1 ~67 wool 7  
+fill ~20 ~-1 ~68 ~74 ~-1 ~68 wool 7  
+fill ~20 ~-1 ~69 ~74 ~-1 ~69 wool 7  
+fill ~20 ~-1 ~70 ~27 ~-1 ~70 double_stone_slab 0  
+fill ~20 ~-1 ~71 ~26 ~-1 ~71 wool 7  
+fill ~20 ~-1 ~72 ~26 ~-1 ~72 wool 7  
+fill ~20 ~-1 ~73 ~26 ~-1 ~73 wool 7  
+fill ~20 ~-1 ~74 ~26 ~-1 ~74 wool 7  
+fill ~20 ~-1 ~75 ~26 ~-1 ~75 wool 7  
+fill ~20 ~-1 ~76 ~26 ~-1 ~76 wool 7  
+fill ~20 ~-1 ~77 ~26 ~-1 ~77 wool 7  
+fill ~20 ~-1 ~78 ~26 ~-1 ~78 wool 7  
+fill ~20 ~-1 ~79 ~26 ~-1 ~79 wool 7  
+fill ~20 ~-1 ~80 ~26 ~-1 ~80 wool 7  
+fill ~20 ~-1 ~81 ~26 ~-1 ~81 wool 7  
+fill ~20 ~-1 ~82 ~56 ~-1 ~82 wool 7  
+fill ~20 ~-1 ~83 ~56 ~-1 ~83 wool 7  
+fill ~20 ~-1 ~84 ~56 ~-1 ~84 wool 7  
+fill ~20 ~-1 ~85 ~56 ~-1 ~85 wool 7  
+fill ~20 ~-1 ~86 ~35 ~-1 ~86 wool 7  
+fill ~20 ~-1 ~87 ~35 ~-1 ~87 wool 7  
+fill ~20 ~-1 ~88 ~35 ~-1 ~88 wool 7  
+fill ~20 ~-1 ~89 ~35 ~-1 ~89 wool 7  
+fill ~20 ~-1 ~90 ~35 ~-1 ~90 wool 7  
+fill ~20 ~-1 ~91 ~35 ~-1 ~91 wool 7  
+fill ~20 ~-1 ~92 ~35 ~-1 ~92 wool 7  
+fill ~20 ~-1 ~93 ~35 ~-1 ~93 wool 7  
+fill ~20 ~-1 ~94 ~35 ~-1 ~94 wool 7  
+fill ~20 ~-1 ~95 ~35 ~-1 ~95 wool 7  
+fill ~20 ~-1 ~96 ~58 ~-1 ~96 wool 7  
+fill ~20 ~-1 ~97 ~35 ~-1 ~97 wool 7  
+fill ~20 ~-1 ~98 ~35 ~-1 ~98 wool 7  
+fill ~20 ~-1 ~99 ~35 ~-1 ~99 wool 7  
+fill ~20 ~-1 ~100 ~35 ~-1 ~100 wool 7  
+fill ~20 ~-1 ~101 ~35 ~-1 ~101 wool 7  
+fill ~20 ~-1 ~102 ~35 ~-1 ~102 wool 7  
+fill ~20 ~-1 ~103 ~35 ~-1 ~103 wool 7  
+fill ~20 ~-1 ~104 ~35 ~-1 ~104 wool 7  
+fill ~20 ~-1 ~105 ~35 ~-1 ~105 wool 7  
+fill ~20 ~-1 ~106 ~35 ~-1 ~106 wool 7  
+fill ~20 ~-1 ~107 ~83 ~-1 ~107 wool 7  
+fill ~20 ~-1 ~108 ~35 ~-1 ~108 wool 7  
+fill ~20 ~-1 ~109 ~35 ~-1 ~109 wool 7  
+fill ~20 ~-1 ~110 ~35 ~-1 ~110 wool 7  
+fill ~20 ~-1 ~111 ~35 ~-1 ~111 wool 7  
+fill ~20 ~-1 ~112 ~35 ~-1 ~112 wool 7  
+fill ~20 ~-1 ~113 ~35 ~-1 ~113 wool 7  
+fill ~20 ~-1 ~114 ~35 ~-1 ~114 wool 7  
+fill ~20 ~-1 ~115 ~35 ~-1 ~115 wool 7  
+fill ~20 ~-1 ~116 ~35 ~-1 ~116 wool 7  
+fill ~20 ~-1 ~117 ~35 ~-1 ~117 wool 7  
+fill ~20 ~-1 ~118 ~56 ~-1 ~118 wool 7  
+fill ~20 ~-1 ~119 ~35 ~-1 ~119 wool 7  
+fill ~20 ~-1 ~120 ~35 ~-1 ~120 wool 7  
+fill ~20 ~-1 ~121 ~35 ~-1 ~121 wool 7  
+fill ~20 ~-1 ~122 ~35 ~-1 ~122 wool 7  
+fill ~20 ~-1 ~123 ~35 ~-1 ~123 wool 7  
+fill ~20 ~-1 ~124 ~35 ~-1 ~124 wool 7  
+fill ~20 ~-1 ~125 ~35 ~-1 ~125 wool 7  
+fill ~20 ~-1 ~126 ~35 ~-1 ~126 wool 7  
+fill ~20 ~-1 ~127 ~35 ~-1 ~127 wool 7  
+fill ~20 ~-1 ~128 ~35 ~-1 ~128 wool 7  
+fill ~20 ~-1 ~129 ~58 ~-1 ~129 wool 7  
+fill ~20 ~-1 ~130 ~35 ~-1 ~130 wool 7  
+fill ~20 ~-1 ~131 ~35 ~-1 ~131 wool 7  
+fill ~20 ~-1 ~132 ~35 ~-1 ~132 wool 7  
+fill ~20 ~-1 ~133 ~35 ~-1 ~133 wool 7  
+fill ~20 ~-1 ~134 ~35 ~-1 ~134 wool 7  
+fill ~20 ~-1 ~135 ~35 ~-1 ~135 wool 7  
+fill ~20 ~-1 ~136 ~35 ~-1 ~136 wool 7  
+fill ~20 ~-1 ~137 ~35 ~-1 ~137 wool 7  
+fill ~20 ~-1 ~138 ~35 ~-1 ~138 wool 7  
+fill ~20 ~-1 ~139 ~35 ~-1 ~139 wool 7  
+fill ~20 ~-1 ~140 ~83 ~-1 ~140 wool 7  
+fill ~20 ~-1 ~141 ~83 ~-1 ~141 wool 7  
+fill ~20 ~-1 ~142 ~56 ~-1 ~142 wool 7  
+fill ~20 ~-1 ~143 ~56 ~-1 ~143 wool 7  
+fill ~20 ~-1 ~144 ~56 ~-1 ~144 wool 7  
+fill ~20 ~-1 ~145 ~56 ~-1 ~145 wool 7  
+fill ~20 ~-1 ~146 ~56 ~-1 ~146 wool 7  
+fill ~20 ~-1 ~147 ~66 ~-1 ~147 wool 7  
+fill ~20 ~-1 ~148 ~78 ~-1 ~148 wool 7  
+fill ~20 ~-1 ~149 ~78 ~-1 ~149 wool 7  
+fill ~20 ~-1 ~150 ~66 ~-1 ~150 wool 7  
+fill ~20 ~-1 ~151 ~66 ~-1 ~151 wool 7  
+fill ~20 ~-1 ~152 ~78 ~-1 ~152 wool 7  
+fill ~20 ~-1 ~153 ~78 ~-1 ~153 wool 7  
+fill ~20 ~-1 ~154 ~66 ~-1 ~154 wool 7  
+fill ~20 ~-1 ~155 ~83 ~-1 ~155 wool 7  
+fill ~20 ~-1 ~156 ~83 ~-1 ~156 wool 7  
+fill ~20 ~-1 ~157 ~83 ~-1 ~157 wool 7  
+fill ~20 ~-1 ~158 ~66 ~-1 ~158 wool 7  
+fill ~20 ~-1 ~159 ~78 ~-1 ~159 wool 7  
+fill ~20 ~-1 ~160 ~78 ~-1 ~160 wool 7  
+fill ~20 ~-1 ~161 ~66 ~-1 ~161 wool 7  
+fill ~20 ~-1 ~171 ~51 ~-1 ~171 wool 7  
+fill ~20 ~-1 ~172 ~22 ~-1 ~172 wool 7  
+fill ~20 ~-1 ~173 ~22 ~-1 ~173 wool 7  
+fill ~20 ~-1 ~174 ~22 ~-1 ~174 wool 7  
+fill ~20 ~-1 ~175 ~22 ~-1 ~175 wool 7  
+fill ~20 ~-1 ~176 ~22 ~-1 ~176 wool 7  
+fill ~20 ~-1 ~177 ~22 ~-1 ~177 wool 7  
+fill ~20 ~-1 ~178 ~22 ~-1 ~178 wool 7  
+fill ~20 ~-1 ~179 ~22 ~-1 ~179 wool 7  
+fill ~20 ~-1 ~180 ~22 ~-1 ~180 wool 7  
+fill ~20 ~-1 ~181 ~22 ~-1 ~181 wool 7  
+fill ~20 ~-1 ~182 ~22 ~-1 ~182 wool 7  
+fill ~20 ~-1 ~183 ~22 ~-1 ~183 wool 7  
+fill ~20 ~-1 ~184 ~22 ~-1 ~184 wool 7  
+fill ~20 ~-1 ~185 ~22 ~-1 ~185 wool 7  
+fill ~20 ~-1 ~186 ~22 ~-1 ~186 wool 7  
+fill ~20 ~-1 ~187 ~22 ~-1 ~187 wool 7  
+fill ~20 ~-1 ~188 ~22 ~-1 ~188 wool 7  
+fill ~20 ~-1 ~189 ~22 ~-1 ~189 wool 7  
+fill ~20 ~-1 ~190 ~55 ~-1 ~190 wool 7  
+fill ~20 ~-1 ~191 ~55 ~-1 ~191 wool 7  
+fill ~20 ~-1 ~192 ~55 ~-1 ~192 wool 7  
+fill ~20 ~-1 ~193 ~52 ~-1 ~193 double_stone_slab 0  
+fill ~21 ~-1 ~49 ~40 ~-1 ~49 wool 7  
+fill ~21 ~-1 ~50 ~40 ~-1 ~50 wool 7  
+fill ~21 ~-1 ~51 ~40 ~-1 ~51 wool 7  
+fill ~21 ~-1 ~52 ~40 ~-1 ~52 wool 7  
+fill ~21 ~-1 ~53 ~40 ~-1 ~53 wool 7  
+fill ~21 ~-1 ~54 ~40 ~-1 ~54 wool 7  
+fill ~21 ~-1 ~55 ~40 ~-1 ~55 wool 7  
+fill ~21 ~-1 ~56 ~40 ~-1 ~56 wool 7  
+fill ~21 ~-1 ~57 ~30 ~-1 ~57 wool 7  
+fill ~21 ~-1 ~58 ~30 ~-1 ~58 wool 7  
+fill ~21 ~-1 ~59 ~41 ~-1 ~59 wool 7  
+fill ~21 ~-1 ~60 ~41 ~-1 ~60 wool 7  
+fill ~21 ~-1 ~61 ~31 ~-1 ~61 wool 7  
+fill ~21 ~-1 ~62 ~31 ~-1 ~62 wool 7  
+fill ~21 ~-1 ~63 ~41 ~-1 ~63 wool 7  
+fill ~21 ~-1 ~64 ~41 ~-1 ~64 wool 7  
+fill ~21 ~-1 ~65 ~30 ~-1 ~65 wool 7  
+fill ~21 ~-1 ~66 ~71 ~-1 ~66 double_stone_slab 0  
+fill ~23 ~-1 ~172 ~23 ~-1 ~189 double_stone_slab 0  
+fill ~24 ~-1 ~172 ~29 ~-1 ~172 wool 7  
+fill ~24 ~-1 ~173 ~29 ~-1 ~173 wool 7  
+fill ~24 ~-1 ~174 ~29 ~-1 ~174 wool 7  
+fill ~24 ~-1 ~175 ~25 ~-1 ~175 dirt 0  
+fill ~24 ~-1 ~176 ~24 ~-1 ~176 dirt 0  
+fill ~24 ~-1 ~177 ~24 ~-1 ~177 dirt 0  
+fill ~24 ~-1 ~178 ~24 ~-1 ~178 dirt 0  
+fill ~24 ~-1 ~179 ~24 ~-1 ~179 dirt 0  
+fill ~24 ~-1 ~180 ~24 ~-1 ~180 dirt 0  
+fill ~24 ~-1 ~181 ~24 ~-1 ~181 dirt 0  
+fill ~24 ~-1 ~182 ~24 ~-1 ~182 dirt 0  
+fill ~24 ~-1 ~183 ~24 ~-1 ~183 dirt 0  
+fill ~24 ~-1 ~184 ~24 ~-1 ~184 dirt 0  
+fill ~24 ~-1 ~185 ~30 ~-1 ~185 dirt 0  
+fill ~24 ~-1 ~186 ~29 ~-1 ~186 sand 0  
+fill ~24 ~-1 ~187 ~24 ~-1 ~188 sand 0  
+fill ~24 ~-1 ~189 ~52 ~-1 ~189 double_stone_slab 0  
+fill ~25 ~-1 ~176 ~31 ~-1 ~176 wool 7  
+fill ~25 ~-1 ~177 ~25 ~-1 ~184 wool 7  
+fill ~25 ~-1 ~187 ~28 ~-1 ~187 grass 0  
+fill ~25 ~-1 ~188 ~29 ~-1 ~188 sand 0  
+fill ~26 ~-1 ~177 ~27 ~-1 ~177 wool 0  
+fill ~26 ~-1 ~178 ~26 ~-1 ~177 wool 0  
+fill ~26 ~-1 ~179 ~36 ~-1 ~179 wool 7  
+fill ~26 ~-1 ~180 ~50 ~-1 ~180 wool 7  
+fill ~26 ~-1 ~181 ~36 ~-1 ~181 wool 7  
+fill ~26 ~-1 ~182 ~26 ~-1 ~183 wool 0  
+fill ~26 ~-1 ~184 ~31 ~-1 ~184 wool 7  
+fill ~27 ~-1 ~71 ~27 ~-1 ~81 double_stone_slab 0  
+fill ~27 ~-1 ~175 ~30 ~-1 ~175 dirt 0  
+fill ~27 ~-1 ~178 ~48 ~-1 ~178 wool 7  
+fill ~27 ~-1 ~182 ~48 ~-1 ~182 wool 7 
+setblock ~27 ~-1 ~183 wool 0  
+fill ~28 ~-1 ~70 ~30 ~-1 ~70 wool 7  
+fill ~28 ~-1 ~71 ~30 ~-1 ~71 wool 7  
+fill ~28 ~-1 ~72 ~30 ~-1 ~72 wool 7  
+fill ~28 ~-1 ~73 ~30 ~-1 ~73 wool 7  
+fill ~28 ~-1 ~74 ~30 ~-1 ~74 wool 7  
+fill ~28 ~-1 ~75 ~30 ~-1 ~75 wool 7  
+fill ~28 ~-1 ~76 ~30 ~-1 ~76 wool 7  
+fill ~28 ~-1 ~77 ~30 ~-1 ~77 wool 7  
+fill ~28 ~-1 ~78 ~30 ~-1 ~78 wool 7  
+fill ~28 ~-1 ~79 ~30 ~-1 ~79 wool 7  
+fill ~28 ~-1 ~80 ~30 ~-1 ~80 wool 7  
+fill ~28 ~-1 ~81 ~30 ~-1 ~81 wool 7  
+fill ~28 ~-1 ~177 ~31 ~-1 ~177 wool 7  
+fill ~28 ~-1 ~183 ~36 ~-1 ~183 wool 7 
+setblock ~29 ~-1 ~187 sand 0  
+fill ~30 ~-1 ~172 ~30 ~-1 ~172 dirt 0  
+fill ~30 ~-1 ~173 ~30 ~-1 ~173 dirt 0  
+fill ~30 ~-1 ~174 ~30 ~-1 ~174 dirt 0  
+fill ~30 ~-1 ~186 ~30 ~-1 ~186 dirt 0  
+fill ~30 ~-1 ~187 ~30 ~-1 ~187 dirt 0  
+fill ~30 ~-1 ~188 ~45 ~-1 ~188 dirt 0  
+fill ~31 ~-1 ~57 ~57 ~-1 ~57 double_stone_slab 0  
+fill ~31 ~-1 ~58 ~42 ~-1 ~58 dirt 0  
+fill ~31 ~-1 ~65 ~42 ~-1 ~65 dirt 0  
+fill ~31 ~-1 ~70 ~57 ~-1 ~70 double_stone_slab 0  
+fill ~31 ~-1 ~71 ~31 ~-1 ~81 double_stone_slab 0  
+fill ~31 ~-1 ~172 ~44 ~-1 ~172 wool 7  
+fill ~31 ~-1 ~173 ~36 ~-1 ~173 wool 7  
+fill ~31 ~-1 ~174 ~44 ~-1 ~174 wool 7  
+fill ~31 ~-1 ~175 ~31 ~-1 ~82 wool 7  
+fill ~31 ~-1 ~185 ~31 ~-1 ~187 wool 7  
+fill ~32 ~-1 ~61 ~32 ~-1 ~62 wool 0  
+fill ~32 ~-1 ~71 ~56 ~-1 ~71 wool 7  
+fill ~32 ~-1 ~72 ~56 ~-1 ~72 wool 7  
+fill ~32 ~-1 ~73 ~56 ~-1 ~73 wool 7  
+fill ~32 ~-1 ~74 ~56 ~-1 ~74 wool 7  
+fill ~32 ~-1 ~75 ~56 ~-1 ~75 wool 7  
+fill ~32 ~-1 ~76 ~56 ~-1 ~76 wool 7  
+fill ~32 ~-1 ~77 ~56 ~-1 ~77 wool 7  
+fill ~32 ~-1 ~78 ~56 ~-1 ~78 wool 7  
+fill ~32 ~-1 ~79 ~56 ~-1 ~79 wool 7  
+fill ~32 ~-1 ~80 ~56 ~-1 ~80 wool 7  
+fill ~32 ~-1 ~81 ~56 ~-1 ~81 wool 7  
+fill ~32 ~-1 ~175 ~32 ~-1 ~177 glowstone 0 
+setblock ~32 ~-1 ~184 glowstone 0  
+fill ~32 ~-1 ~185 ~32 ~-1 ~186 wool 0  
+fill ~32 ~-1 ~187 ~44 ~-1 ~187 wool 7  
+fill ~33 ~-1 ~61 ~33 ~-1 ~64 wool 7  
+fill ~33 ~-1 ~175 ~33 ~-1 ~177 wool 0  
+fill ~33 ~-1 ~184 ~42 ~-1 ~184 wool 7 
+setblock ~33 ~-1 ~185 glowstone 0 
+setblock ~33 ~-1 ~186 wool 0  
+fill ~34 ~-1 ~61 ~34 ~-1 ~62 wool 0  
+fill ~34 ~-1 ~175 ~36 ~-1 ~175 wool 7  
+fill ~34 ~-1 ~176 ~41 ~-1 ~176 wool 7  
+fill ~34 ~-1 ~177 ~36 ~-1 ~177 wool 7  
+fill ~34 ~-1 ~185 ~36 ~-1 ~185 wool 7 
+setblock ~34 ~-1 ~186 glowstone 0  
+fill ~35 ~-1 ~61 ~35 ~-1 ~64 wool 7  
+fill ~35 ~-1 ~186 ~40 ~-1 ~186 wool 7  
+fill ~36 ~-1 ~61 ~36 ~-1 ~62 wool 0  
+fill ~36 ~-1 ~86 ~45 ~-1 ~86 wool 15  
+fill ~36 ~-1 ~87 ~36 ~-1 ~95 wool 15  
+fill ~36 ~-1 ~97 ~45 ~-1 ~97 wool 15  
+fill ~36 ~-1 ~98 ~36 ~-1 ~106 wool 15  
+fill ~36 ~-1 ~108 ~45 ~-1 ~108 wool 15  
+fill ~36 ~-1 ~109 ~36 ~-1 ~117 wool 15  
+fill ~36 ~-1 ~119 ~45 ~-1 ~119 wool 15  
+fill ~36 ~-1 ~120 ~36 ~-1 ~128 wool 15  
+fill ~36 ~-1 ~130 ~45 ~-1 ~130 wool 15  
+fill ~36 ~-1 ~131 ~36 ~-1 ~139 wool 15  
+fill ~37 ~-1 ~61 ~37 ~-1 ~64 wool 7  
+fill ~37 ~-1 ~87 ~44 ~-1 ~87 wool 7  
+fill ~37 ~-1 ~88 ~44 ~-1 ~88 wool 7  
+fill ~37 ~-1 ~89 ~44 ~-1 ~89 wool 7  
+fill ~37 ~-1 ~90 ~44 ~-1 ~90 wool 7  
+fill ~37 ~-1 ~91 ~44 ~-1 ~91 wool 7  
+fill ~37 ~-1 ~92 ~44 ~-1 ~92 wool 7  
+fill ~37 ~-1 ~93 ~44 ~-1 ~93 wool 7  
+fill ~37 ~-1 ~94 ~44 ~-1 ~94 wool 7  
+fill ~37 ~-1 ~95 ~45 ~-1 ~95 wool 15  
+fill ~37 ~-1 ~98 ~44 ~-1 ~98 wool 7  
+fill ~37 ~-1 ~99 ~44 ~-1 ~99 wool 7  
+fill ~37 ~-1 ~100 ~44 ~-1 ~100 wool 7  
+fill ~37 ~-1 ~101 ~44 ~-1 ~101 wool 7  
+fill ~37 ~-1 ~102 ~44 ~-1 ~102 wool 7  
+fill ~37 ~-1 ~103 ~44 ~-1 ~103 wool 7  
+fill ~37 ~-1 ~104 ~44 ~-1 ~104 wool 7  
+fill ~37 ~-1 ~105 ~44 ~-1 ~105 wool 7  
+fill ~37 ~-1 ~106 ~45 ~-1 ~106 wool 15  
+fill ~37 ~-1 ~109 ~44 ~-1 ~109 wool 7  
+fill ~37 ~-1 ~110 ~44 ~-1 ~110 wool 7  
+fill ~37 ~-1 ~111 ~44 ~-1 ~111 wool 7  
+fill ~37 ~-1 ~112 ~44 ~-1 ~112 wool 7  
+fill ~37 ~-1 ~113 ~44 ~-1 ~113 wool 7  
+fill ~37 ~-1 ~114 ~44 ~-1 ~114 wool 7  
+fill ~37 ~-1 ~115 ~44 ~-1 ~115 wool 7  
+fill ~37 ~-1 ~116 ~44 ~-1 ~116 wool 7  
+fill ~37 ~-1 ~117 ~45 ~-1 ~117 wool 15  
+fill ~37 ~-1 ~120 ~44 ~-1 ~120 wool 7  
+fill ~37 ~-1 ~121 ~44 ~-1 ~121 wool 7  
+fill ~37 ~-1 ~122 ~44 ~-1 ~122 wool 7  
+fill ~37 ~-1 ~123 ~44 ~-1 ~123 wool 7  
+fill ~37 ~-1 ~124 ~44 ~-1 ~124 wool 7  
+fill ~37 ~-1 ~125 ~44 ~-1 ~125 wool 7  
+fill ~37 ~-1 ~126 ~44 ~-1 ~126 wool 7  
+fill ~37 ~-1 ~127 ~44 ~-1 ~127 wool 7  
+fill ~37 ~-1 ~128 ~45 ~-1 ~128 wool 15  
+fill ~37 ~-1 ~131 ~44 ~-1 ~131 wool 7  
+fill ~37 ~-1 ~132 ~44 ~-1 ~132 wool 7  
+fill ~37 ~-1 ~133 ~44 ~-1 ~133 wool 7  
+fill ~37 ~-1 ~134 ~44 ~-1 ~134 wool 7  
+fill ~37 ~-1 ~135 ~44 ~-1 ~135 wool 7  
+fill ~37 ~-1 ~136 ~44 ~-1 ~136 wool 7  
+fill ~37 ~-1 ~137 ~44 ~-1 ~137 wool 7  
+fill ~37 ~-1 ~138 ~44 ~-1 ~138 wool 7  
+fill ~37 ~-1 ~139 ~45 ~-1 ~139 wool 15  
+fill ~37 ~-1 ~173 ~38 ~-1 ~173 wool 0  
+fill ~37 ~-1 ~175 ~38 ~-1 ~175 wool 0  
+fill ~37 ~-1 ~177 ~38 ~-1 ~177 wool 0  
+fill ~37 ~-1 ~179 ~38 ~-1 ~179 wool 0  
+fill ~37 ~-1 ~181 ~38 ~-1 ~181 wool 0  
+fill ~37 ~-1 ~183 ~38 ~-1 ~183 wool 0  
+fill ~37 ~-1 ~185 ~38 ~-1 ~185 wool 0  
+fill ~38 ~-1 ~61 ~38 ~-1 ~62 wool 0  
+fill ~39 ~-1 ~61 ~39 ~-1 ~64 wool 7  
+fill ~39 ~-1 ~173 ~44 ~-1 ~173 wool 7  
+fill ~39 ~-1 ~175 ~41 ~-1 ~175 wool 7  
+fill ~39 ~-1 ~177 ~41 ~-1 ~177 wool 7  
+fill ~39 ~-1 ~179 ~50 ~-1 ~179 wool 7  
+fill ~39 ~-1 ~181 ~50 ~-1 ~181 wool 7  
+fill ~39 ~-1 ~183 ~47 ~-1 ~183 wool 7  
+fill ~39 ~-1 ~185 ~41 ~-1 ~185 wool 7  
+fill ~40 ~-1 ~61 ~40 ~-1 ~62 wool 0  
+fill ~41 ~-1 ~49 ~41 ~-1 ~57 double_stone_slab 0  
+fill ~41 ~-1 ~61 ~41 ~-1 ~64 wool 7 
+setblock ~41 ~-1 ~186 glowstone 0  
+fill ~42 ~-1 ~49 ~43 ~-1 ~49 dirt 0  
+fill ~42 ~-1 ~50 ~43 ~-1 ~50 dirt 0  
+fill ~42 ~-1 ~51 ~52 ~-1 ~51 wool 7  
+fill ~42 ~-1 ~52 ~43 ~-1 ~52 dirt 0  
+fill ~42 ~-1 ~53 ~43 ~-1 ~53 dirt 0  
+fill ~42 ~-1 ~54 ~52 ~-1 ~54 wool 7  
+fill ~42 ~-1 ~55 ~43 ~-1 ~55 dirt 0  
+fill ~42 ~-1 ~56 ~43 ~-1 ~56 dirt 0  
+fill ~42 ~-1 ~59 ~42 ~-1 ~59 dirt 0  
+fill ~42 ~-1 ~60 ~42 ~-1 ~60 dirt 0  
+fill ~42 ~-1 ~61 ~42 ~-1 ~61 dirt 0  
+fill ~42 ~-1 ~62 ~42 ~-1 ~62 dirt 0  
+fill ~42 ~-1 ~63 ~42 ~-1 ~63 dirt 0  
+fill ~42 ~-1 ~64 ~42 ~-1 ~64 dirt 0  
+fill ~42 ~-1 ~175 ~42 ~-1 ~177 wool 0 
+setblock ~42 ~-1 ~185 glowstone 0  
+fill ~42 ~-1 ~186 ~43 ~-1 ~186 wool 0  
+fill ~43 ~-1 ~58 ~43 ~-1 ~66 double_stone_slab 0  
+fill ~43 ~-1 ~175 ~43 ~-1 ~177 glowstone 0 
+setblock ~43 ~-1 ~184 glowstone 0 
+setblock ~43 ~-1 ~185 wool 0  
+fill ~44 ~-1 ~49 ~44 ~-1 ~56 wool 7  
+fill ~44 ~-1 ~58 ~56 ~-1 ~58 sand 0  
+fill ~44 ~-1 ~59 ~44 ~-1 ~65 sand 0  
+fill ~44 ~-1 ~175 ~44 ~-1 ~187 wool 7  
+fill ~45 ~-1 ~49 ~46 ~-1 ~49 dirt 0  
+fill ~45 ~-1 ~50 ~46 ~-1 ~50 dirt 0  
+fill ~45 ~-1 ~52 ~46 ~-1 ~52 dirt 0  
+fill ~45 ~-1 ~53 ~46 ~-1 ~53 dirt 0  
+fill ~45 ~-1 ~55 ~46 ~-1 ~55 dirt 0  
+fill ~45 ~-1 ~56 ~46 ~-1 ~56 dirt 0  
+fill ~45 ~-1 ~59 ~55 ~-1 ~59 grass 0  
+fill ~45 ~-1 ~60 ~45 ~-1 ~64 grass 0  
+fill ~45 ~-1 ~65 ~46 ~-1 ~65 sand 0  
+fill ~45 ~-1 ~87 ~45 ~-1 ~95 wool 15  
+fill ~45 ~-1 ~98 ~45 ~-1 ~106 wool 15  
+fill ~45 ~-1 ~109 ~45 ~-1 ~117 wool 15  
+fill ~45 ~-1 ~120 ~45 ~-1 ~128 wool 15  
+fill ~45 ~-1 ~131 ~45 ~-1 ~139 wool 15  
+fill ~45 ~-1 ~172 ~45 ~-1 ~172 dirt 0  
+fill ~45 ~-1 ~173 ~45 ~-1 ~173 dirt 0  
+fill ~45 ~-1 ~174 ~45 ~-1 ~174 dirt 0  
+fill ~45 ~-1 ~175 ~50 ~-1 ~175 dirt 0  
+fill ~45 ~-1 ~176 ~50 ~-1 ~176 wool 7  
+fill ~45 ~-1 ~177 ~47 ~-1 ~177 wool 7  
+fill ~45 ~-1 ~184 ~50 ~-1 ~184 wool 7  
+fill ~45 ~-1 ~185 ~46 ~-1 ~185 wool 7  
+fill ~45 ~-1 ~186 ~45 ~-1 ~186 dirt 0  
+fill ~45 ~-1 ~187 ~45 ~-1 ~187 dirt 0  
+fill ~46 ~-1 ~60 ~56 ~-1 ~60 sand 0  
+fill ~46 ~-1 ~61 ~46 ~-1 ~65 sand 0  
+fill ~46 ~-1 ~86 ~56 ~-1 ~86 wool 7  
+fill ~46 ~-1 ~87 ~56 ~-1 ~87 wool 7  
+fill ~46 ~-1 ~88 ~56 ~-1 ~88 wool 7  
+fill ~46 ~-1 ~89 ~56 ~-1 ~89 wool 7  
+fill ~46 ~-1 ~90 ~56 ~-1 ~90 wool 7  
+fill ~46 ~-1 ~91 ~56 ~-1 ~91 wool 7  
+fill ~46 ~-1 ~92 ~56 ~-1 ~92 wool 7  
+fill ~46 ~-1 ~93 ~78 ~-1 ~93 wool 7  
+fill ~46 ~-1 ~94 ~58 ~-1 ~94 wool 7  
+fill ~46 ~-1 ~95 ~78 ~-1 ~95 wool 7  
+fill ~46 ~-1 ~97 ~78 ~-1 ~97 wool 7  
+fill ~46 ~-1 ~98 ~56 ~-1 ~98 wool 7  
+fill ~46 ~-1 ~99 ~56 ~-1 ~99 wool 7  
+fill ~46 ~-1 ~100 ~56 ~-1 ~100 wool 7  
+fill ~46 ~-1 ~101 ~56 ~-1 ~101 wool 7  
+fill ~46 ~-1 ~102 ~56 ~-1 ~102 wool 7  
+fill ~46 ~-1 ~103 ~56 ~-1 ~103 wool 7  
+fill ~46 ~-1 ~104 ~56 ~-1 ~104 wool 7  
+fill ~46 ~-1 ~105 ~56 ~-1 ~105 wool 7  
+fill ~46 ~-1 ~106 ~83 ~-1 ~106 wool 7  
+fill ~46 ~-1 ~108 ~83 ~-1 ~108 wool 7  
+fill ~46 ~-1 ~109 ~56 ~-1 ~109 wool 7  
+fill ~46 ~-1 ~110 ~56 ~-1 ~110 wool 7  
+fill ~46 ~-1 ~111 ~56 ~-1 ~111 wool 7  
+fill ~46 ~-1 ~112 ~56 ~-1 ~112 wool 7  
+fill ~46 ~-1 ~113 ~56 ~-1 ~113 wool 7  
+fill ~46 ~-1 ~114 ~56 ~-1 ~114 wool 7  
+fill ~46 ~-1 ~115 ~83 ~-1 ~115 wool 7  
+fill ~46 ~-1 ~116 ~83 ~-1 ~116 wool 7  
+fill ~46 ~-1 ~117 ~83 ~-1 ~117 wool 7  
+fill ~46 ~-1 ~119 ~56 ~-1 ~119 wool 7  
+fill ~46 ~-1 ~120 ~56 ~-1 ~120 wool 7  
+fill ~46 ~-1 ~121 ~56 ~-1 ~121 wool 7  
+fill ~46 ~-1 ~122 ~56 ~-1 ~122 wool 7  
+fill ~46 ~-1 ~123 ~56 ~-1 ~123 wool 7  
+fill ~46 ~-1 ~124 ~56 ~-1 ~124 wool 7  
+fill ~46 ~-1 ~125 ~56 ~-1 ~125 wool 7  
+fill ~46 ~-1 ~126 ~78 ~-1 ~126 wool 7  
+fill ~46 ~-1 ~127 ~58 ~-1 ~127 wool 7  
+fill ~46 ~-1 ~128 ~78 ~-1 ~128 wool 7  
+fill ~46 ~-1 ~130 ~78 ~-1 ~130 wool 7  
+fill ~46 ~-1 ~131 ~56 ~-1 ~131 wool 7  
+fill ~46 ~-1 ~132 ~56 ~-1 ~132 wool 7  
+fill ~46 ~-1 ~133 ~56 ~-1 ~133 wool 7  
+fill ~46 ~-1 ~134 ~56 ~-1 ~134 wool 7  
+fill ~46 ~-1 ~135 ~56 ~-1 ~135 wool 7  
+fill ~46 ~-1 ~136 ~56 ~-1 ~136 wool 7  
+fill ~46 ~-1 ~137 ~56 ~-1 ~137 wool 7  
+fill ~46 ~-1 ~138 ~56 ~-1 ~138 wool 7  
+fill ~46 ~-1 ~139 ~83 ~-1 ~139 wool 7  
+fill ~46 ~-1 ~172 ~51 ~-1 ~172 wool 7  
+fill ~46 ~-1 ~173 ~51 ~-1 ~173 wool 7  
+fill ~46 ~-1 ~174 ~51 ~-1 ~174 wool 7  
+fill ~46 ~-1 ~186 ~51 ~-1 ~186 sand 0  
+fill ~46 ~-1 ~187 ~46 ~-1 ~188 sand 0  
+fill ~47 ~-1 ~49 ~47 ~-1 ~56 wool 7  
+fill ~47 ~-1 ~61 ~57 ~-1 ~61 double_stone_slab 0  
+fill ~47 ~-1 ~62 ~47 ~-1 ~66 double_stone_slab 0  
+fill ~47 ~-1 ~185 ~51 ~-1 ~185 dirt 0  
+fill ~47 ~-1 ~187 ~50 ~-1 ~187 grass 0  
+fill ~47 ~-1 ~188 ~51 ~-1 ~188 sand 0  
+fill ~48 ~-1 ~49 ~49 ~-1 ~49 dirt 0  
+fill ~48 ~-1 ~50 ~49 ~-1 ~50 dirt 0  
+fill ~48 ~-1 ~52 ~49 ~-1 ~52 dirt 0  
+fill ~48 ~-1 ~53 ~49 ~-1 ~53 dirt 0  
+fill ~48 ~-1 ~55 ~49 ~-1 ~55 dirt 0  
+fill ~48 ~-1 ~56 ~49 ~-1 ~56 dirt 0  
+fill ~48 ~-1 ~62 ~56 ~-1 ~62 wool 7  
+fill ~48 ~-1 ~63 ~48 ~-1 ~65 wool 7  
+fill ~48 ~-1 ~177 ~49 ~-1 ~177 wool 0  
+fill ~48 ~-1 ~183 ~49 ~-1 ~183 wool 0  
+fill ~49 ~-1 ~63 ~55 ~-1 ~63 dirt 0  
+fill ~49 ~-1 ~64 ~55 ~-1 ~64 dirt 0  
+fill ~49 ~-1 ~65 ~56 ~-1 ~65 wool 7 
+setblock ~49 ~-1 ~178 wool 0 
+setblock ~49 ~-1 ~182 wool 0  
+fill ~50 ~-1 ~49 ~50 ~-1 ~56 wool 7  
+fill ~50 ~-1 ~177 ~50 ~-1 ~184 wool 7  
+fill ~51 ~-1 ~49 ~52 ~-1 ~49 dirt 0  
+fill ~51 ~-1 ~50 ~52 ~-1 ~50 dirt 0  
+fill ~51 ~-1 ~52 ~52 ~-1 ~52 dirt 0  
+fill ~51 ~-1 ~53 ~52 ~-1 ~53 dirt 0  
+fill ~51 ~-1 ~55 ~52 ~-1 ~55 dirt 0  
+fill ~51 ~-1 ~56 ~52 ~-1 ~56 dirt 0  
+fill ~51 ~-1 ~175 ~51 ~4 ~175 wool 8  
+fill ~51 ~-1 ~176 ~51 ~4 ~176 wool 8  
+fill ~51 ~-1 ~177 ~51 ~4 ~177 wool 8  
+fill ~51 ~-1 ~178 ~51 ~-1 ~178 dirt 0  
+fill ~51 ~-1 ~179 ~51 ~-1 ~179 dirt 0  
+fill ~51 ~-1 ~180 ~51 ~-1 ~180 dirt 0  
+fill ~51 ~-1 ~181 ~51 ~-1 ~181 dirt 0  
+fill ~51 ~-1 ~182 ~51 ~-1 ~182 dirt 0  
+fill ~51 ~-1 ~183 ~51 ~-1 ~183 dirt 0  
+fill ~51 ~-1 ~184 ~51 ~-1 ~184 dirt 0 
+setblock ~51 ~-1 ~187 sand 0  
+fill ~52 ~-1 ~166 ~52 ~-1 ~189 double_stone_slab 0  
+fill ~52 ~-1 ~194 ~52 ~-1 ~197 double_stone_slab 0  
+fill ~53 ~-1 ~36 ~71 ~-1 ~36 double_stone_slab 0  
+fill ~53 ~-1 ~37 ~53 ~-1 ~57 double_stone_slab 0  
+fill ~53 ~-1 ~166 ~55 ~-1 ~166 wool 7  
+fill ~53 ~-1 ~167 ~55 ~-1 ~167 wool 7  
+fill ~53 ~-1 ~168 ~55 ~-1 ~168 wool 7  
+fill ~53 ~-1 ~169 ~55 ~-1 ~169 wool 7  
+fill ~53 ~-1 ~170 ~55 ~-1 ~170 wool 7  
+fill ~53 ~-1 ~171 ~55 ~-1 ~171 wool 7  
+fill ~53 ~-1 ~172 ~55 ~-1 ~172 wool 7  
+fill ~53 ~-1 ~173 ~55 ~-1 ~173 wool 7  
+fill ~53 ~-1 ~174 ~55 ~-1 ~174 wool 7  
+fill ~53 ~-1 ~175 ~55 ~-1 ~175 wool 7  
+fill ~53 ~-1 ~176 ~55 ~-1 ~176 wool 7  
+fill ~53 ~-1 ~177 ~55 ~-1 ~177 wool 7  
+fill ~53 ~-1 ~178 ~55 ~-1 ~178 wool 7  
+fill ~53 ~-1 ~179 ~55 ~-1 ~179 wool 7  
+fill ~53 ~-1 ~180 ~55 ~-1 ~180 wool 7  
+fill ~53 ~-1 ~181 ~55 ~-1 ~181 wool 7  
+fill ~53 ~-1 ~182 ~55 ~-1 ~182 wool 7  
+fill ~53 ~-1 ~183 ~55 ~-1 ~183 wool 7  
+fill ~53 ~-1 ~184 ~55 ~-1 ~184 wool 7  
+fill ~53 ~-1 ~185 ~55 ~-1 ~185 wool 7  
+fill ~53 ~-1 ~186 ~55 ~-1 ~186 wool 7  
+fill ~53 ~-1 ~187 ~55 ~-1 ~187 wool 7  
+fill ~53 ~-1 ~188 ~55 ~-1 ~188 wool 7  
+fill ~53 ~-1 ~189 ~55 ~-1 ~189 wool 7  
+fill ~53 ~-1 ~193 ~55 ~-1 ~193 wool 7  
+fill ~53 ~-1 ~194 ~55 ~-1 ~194 wool 7  
+fill ~53 ~-1 ~195 ~55 ~-1 ~195 wool 7  
+fill ~53 ~-1 ~196 ~55 ~-1 ~196 wool 7  
+fill ~53 ~-1 ~197 ~55 ~-1 ~197 wool 7  
+fill ~54 ~-1 ~37 ~56 ~-1 ~37 sand 0  
+fill ~54 ~-1 ~38 ~54 ~-1 ~40 sand 0  
+fill ~54 ~-1 ~41 ~57 ~-1 ~41 double_stone_slab 0  
+fill ~54 ~-1 ~42 ~56 ~-1 ~42 gold_block 0 
+setblock ~54 ~-1 ~43 wool 7  
+fill ~54 ~-1 ~44 ~56 ~-1 ~44 gold_block 0  
+fill ~54 ~-1 ~45 ~57 ~-1 ~45 double_stone_slab 0  
+fill ~54 ~-1 ~46 ~56 ~-1 ~46 gold_block 0 
+setblock ~54 ~-1 ~47 wool 7  
+fill ~54 ~-1 ~48 ~56 ~-1 ~48 gold_block 0  
+fill ~54 ~-1 ~49 ~57 ~-1 ~49 double_stone_slab 0  
+fill ~54 ~-1 ~50 ~56 ~-1 ~50 gold_block 0 
+setblock ~54 ~-1 ~51 wool 7  
+fill ~54 ~-1 ~52 ~56 ~-1 ~52 gold_block 0  
+fill ~54 ~-1 ~53 ~57 ~-1 ~53 double_stone_slab 0  
+fill ~54 ~-1 ~54 ~56 ~-1 ~54 gold_block 0 
+setblock ~54 ~-1 ~55 wool 7  
+fill ~54 ~-1 ~56 ~56 ~-1 ~56 gold_block 0  
+fill ~55 ~-1 ~38 ~55 ~-1 ~39 grass 0  
+fill ~55 ~-1 ~40 ~56 ~-1 ~40 sand 0 
+setblock ~55 ~-1 ~43 gold_block 0 
+setblock ~55 ~-1 ~47 gold_block 0 
+setblock ~55 ~-1 ~51 gold_block 0 
+setblock ~55 ~-1 ~55 gold_block 0  
+fill ~56 ~-1 ~38 ~56 ~-1 ~40 sand 0 
+setblock ~56 ~-1 ~43 wool 7 
+setblock ~56 ~-1 ~47 wool 7 
+setblock ~56 ~-1 ~51 wool 7 
+setblock ~56 ~-1 ~55 wool 7 
+setblock ~56 ~-1 ~59 sand 0  
+fill ~56 ~-1 ~63 ~56 ~-1 ~65 wool 7  
+fill ~56 ~-1 ~166 ~84 ~-1 ~166 double_stone_slab 0  
+fill ~56 ~-1 ~167 ~56 ~-1 ~197 double_stone_slab 0  
+fill ~57 ~-1 ~37 ~57 ~-1 ~66 double_stone_slab 0  
+fill ~57 ~-1 ~71 ~57 ~-1 ~86 double_stone_slab 0  
+fill ~57 ~-1 ~87 ~57 ~-1 ~87 dirt 0  
+fill ~57 ~-1 ~88 ~57 ~-1 ~88 dirt 0  
+fill ~57 ~-1 ~89 ~57 ~-1 ~89 dirt 0  
+fill ~57 ~-1 ~90 ~57 ~-1 ~90 dirt 0  
+fill ~57 ~-1 ~91 ~57 ~-1 ~91 dirt 0  
+fill ~57 ~-1 ~92 ~57 ~-1 ~92 dirt 0  
+fill ~57 ~-1 ~98 ~57 ~-1 ~98 dirt 0  
+fill ~57 ~-1 ~99 ~57 ~-1 ~99 dirt 0  
+fill ~57 ~-1 ~100 ~57 ~-1 ~100 dirt 0  
+fill ~57 ~-1 ~101 ~57 ~-1 ~101 dirt 0  
+fill ~57 ~-1 ~102 ~57 ~-1 ~102 dirt 0  
+fill ~57 ~-1 ~103 ~57 ~-1 ~103 dirt 0  
+fill ~57 ~-1 ~104 ~79 ~-1 ~104 dirt 0  
+fill ~57 ~-1 ~105 ~80 ~-1 ~105 double_stone_slab 0  
+fill ~57 ~-1 ~109 ~80 ~-1 ~109 double_stone_slab 0  
+fill ~57 ~-1 ~110 ~79 ~-1 ~110 sand 0  
+fill ~57 ~-1 ~111 ~57 ~-1 ~113 sand 0  
+fill ~57 ~-1 ~114 ~80 ~-1 ~114 double_stone_slab 0  
+fill ~57 ~-1 ~118 ~80 ~-1 ~118 double_stone_slab 0  
+fill ~57 ~-1 ~119 ~79 ~-1 ~119 dirt 0  
+fill ~57 ~-1 ~120 ~57 ~-1 ~120 dirt 0  
+fill ~57 ~-1 ~121 ~57 ~-1 ~121 dirt 0  
+fill ~57 ~-1 ~122 ~57 ~-1 ~122 dirt 0  
+fill ~57 ~-1 ~123 ~57 ~-1 ~123 dirt 0  
+fill ~57 ~-1 ~124 ~57 ~-1 ~124 dirt 0  
+fill ~57 ~-1 ~125 ~57 ~-1 ~125 dirt 0  
+fill ~57 ~-1 ~131 ~57 ~-1 ~131 dirt 0  
+fill ~57 ~-1 ~132 ~57 ~-1 ~132 dirt 0  
+fill ~57 ~-1 ~133 ~57 ~-1 ~133 dirt 0  
+fill ~57 ~-1 ~134 ~57 ~-1 ~134 dirt 0  
+fill ~57 ~-1 ~135 ~57 ~-1 ~135 dirt 0  
+fill ~57 ~-1 ~136 ~57 ~-1 ~136 dirt 0  
+fill ~57 ~-1 ~137 ~79 ~-1 ~137 dirt 0  
+fill ~57 ~-1 ~138 ~80 ~-1 ~138 double_stone_slab 0  
+fill ~57 ~-1 ~142 ~57 ~-1 ~146 double_stone_slab 0  
+fill ~57 ~-1 ~167 ~85 ~-1 ~167 sand 0  
+fill ~57 ~-1 ~168 ~57 ~-1 ~169 sand 0  
+fill ~57 ~-1 ~170 ~79 ~-1 ~170 dirt 0  
+fill ~57 ~-1 ~171 ~57 ~-1 ~171 dirt 0  
+fill ~57 ~-1 ~172 ~57 ~-1 ~172 dirt 0  
+fill ~57 ~-1 ~173 ~57 ~-1 ~173 dirt 0  
+fill ~57 ~-1 ~174 ~57 ~-1 ~174 dirt 0  
+fill ~57 ~-1 ~175 ~57 ~-1 ~175 dirt 0  
+fill ~57 ~-1 ~176 ~57 ~-1 ~176 dirt 0  
+fill ~57 ~-1 ~177 ~57 ~-1 ~177 dirt 0  
+fill ~57 ~-1 ~178 ~57 ~-1 ~178 dirt 0  
+fill ~57 ~-1 ~179 ~57 ~-1 ~179 dirt 0  
+fill ~57 ~-1 ~180 ~57 ~-1 ~180 dirt 0  
+fill ~57 ~-1 ~181 ~57 ~-1 ~181 dirt 0  
+fill ~57 ~-1 ~182 ~57 ~-1 ~182 dirt 0  
+fill ~57 ~-1 ~183 ~64 ~-1 ~183 dirt 0  
+fill ~57 ~-1 ~184 ~69 ~-1 ~184 wool 7  
+fill ~57 ~-1 ~185 ~68 ~-1 ~185 wool 7  
+fill ~57 ~-1 ~186 ~67 ~-1 ~186 wool 7  
+fill ~57 ~-1 ~187 ~66 ~-1 ~187 wool 7  
+fill ~57 ~-1 ~188 ~65 ~-1 ~188 wool 7  
+fill ~57 ~-1 ~189 ~64 ~-1 ~189 wool 7  
+fill ~57 ~-1 ~190 ~63 ~-1 ~190 wool 7  
+fill ~57 ~-1 ~191 ~62 ~-1 ~191 wool 7  
+fill ~57 ~-1 ~192 ~61 ~-1 ~192 wool 7  
+fill ~57 ~-1 ~193 ~60 ~-1 ~193 wool 7  
+fill ~57 ~-1 ~194 ~59 ~-1 ~194 wool 7  
+fill ~57 ~-1 ~195 ~58 ~-1 ~195 wool 7  
+fill ~57 ~-1 ~196 ~57 ~-1 ~184 wool 7  
+fill ~57 ~-1 ~197 ~58 ~-1 ~197 double_stone_slab 0  
+fill ~58 ~-1 ~37 ~62 ~-1 ~37 wool 4  
+fill ~58 ~-1 ~38 ~70 ~-1 ~38 wool 7  
+fill ~58 ~-1 ~39 ~70 ~-1 ~39 wool 7  
+fill ~58 ~-1 ~40 ~70 ~-1 ~40 wool 7  
+fill ~58 ~-1 ~41 ~62 ~-1 ~41 wool 4  
+fill ~58 ~-1 ~42 ~70 ~-1 ~42 wool 7  
+fill ~58 ~-1 ~43 ~70 ~-1 ~43 wool 7  
+fill ~58 ~-1 ~44 ~70 ~-1 ~44 wool 7  
+fill ~58 ~-1 ~45 ~62 ~-1 ~45 wool 4  
+fill ~58 ~-1 ~46 ~70 ~-1 ~46 wool 7  
+fill ~58 ~-1 ~47 ~70 ~-1 ~47 wool 7  
+fill ~58 ~-1 ~48 ~70 ~-1 ~48 wool 7  
+fill ~58 ~-1 ~49 ~62 ~-1 ~49 wool 4  
+fill ~58 ~-1 ~50 ~70 ~-1 ~50 wool 7  
+fill ~58 ~-1 ~51 ~70 ~-1 ~51 wool 7  
+fill ~58 ~-1 ~52 ~70 ~-1 ~52 wool 7  
+fill ~58 ~-1 ~53 ~62 ~-1 ~53 wool 4  
+fill ~58 ~-1 ~54 ~70 ~-1 ~54 wool 7  
+fill ~58 ~-1 ~55 ~70 ~-1 ~55 wool 7  
+fill ~58 ~-1 ~56 ~70 ~-1 ~56 wool 7  
+fill ~58 ~-1 ~57 ~62 ~-1 ~57 wool 4  
+fill ~58 ~-1 ~58 ~70 ~-1 ~58 wool 7   
+fill ~58 ~-1 ~59 ~70 ~-1 ~59 wool 7  
+fill ~58 ~-1 ~60 ~70 ~-1 ~60 wool 7  
+fill ~58 ~-1 ~61 ~62 ~-1 ~61 wool 4  
+fill ~58 ~-1 ~62 ~70 ~-1 ~62 wool 7  
+fill ~58 ~-1 ~63 ~70 ~-1 ~63 wool 7  
+fill ~58 ~-1 ~64 ~70 ~-1 ~64 wool 7  
+fill ~58 ~-1 ~65 ~62 ~-1 ~65 wool 4  
+fill ~58 ~-1 ~70 ~60 ~-1 ~70 wool 7  
+fill ~58 ~-1 ~71 ~60 ~-1 ~71 wool 7  
+fill ~58 ~-1 ~72 ~60 ~-1 ~72 wool 7  
+fill ~58 ~-1 ~73 ~60 ~-1 ~73 wool 7  
+fill ~58 ~-1 ~74 ~60 ~-1 ~74 wool 7  
+fill ~58 ~-1 ~75 ~60 ~-1 ~75 wool 7  
+fill ~58 ~-1 ~76 ~60 ~-1 ~76 wool 7  
+fill ~58 ~-1 ~77 ~60 ~-1 ~77 wool 7  
+fill ~58 ~-1 ~78 ~60 ~-1 ~78 wool 7  
+fill ~58 ~-1 ~79 ~60 ~-1 ~79 wool 7  
+fill ~58 ~-1 ~80 ~60 ~-1 ~80 wool 7  
+fill ~58 ~-1 ~81 ~60 ~-1 ~81 wool 7  
+fill ~58 ~-1 ~82 ~83 ~-1 ~82 wool 7  
+fill ~58 ~-1 ~83 ~83 ~-1 ~83 wool 7  
+fill ~58 ~-1 ~84 ~83 ~-1 ~84 wool 7  
+fill ~58 ~-1 ~85 ~80 ~-1 ~85 stone_slab 8  
+fill ~58 ~-1 ~86 ~80 ~-1 ~86 double_stone_slab 0  
+fill ~58 ~-1 ~87 ~78 ~-1 ~87 wool 7  
+fill ~58 ~-1 ~88 ~58 ~-1 ~103 wool 7  
+fill ~58 ~-1 ~111 ~78 ~-1 ~111 grass 0  
+fill ~58 ~-1 ~112 ~78 ~-1 ~112 grass 0  
+fill ~58 ~-1 ~113 ~79 ~-1 ~113 sand 0  
+fill ~58 ~-1 ~120 ~78 ~-1 ~120 wool 7  
+fill ~58 ~-1 ~121 ~58 ~-1 ~136 wool 7  
+fill ~58 ~-1 ~142 ~60 ~-1 ~142 wool 7  
+fill ~58 ~-1 ~143 ~60 ~-1 ~143 wool 7  
+fill ~58 ~-1 ~144 ~60 ~-1 ~144 wool 7  
+fill ~58 ~-1 ~145 ~60 ~-1 ~145 wool 7  
+fill ~58 ~-1 ~146 ~60 ~-1 ~146 wool 7  
+fill ~58 ~-1 ~168 ~88 ~-1 ~168 grass 0  
+fill ~58 ~-1 ~169 ~89 ~-1 ~169 sand 0  
+fill ~58 ~-1 ~171 ~78 ~-1 ~171 planks 1  
+fill ~58 ~-1 ~172 ~78 ~-1 ~172 planks 1  
+fill ~58 ~-1 ~173 ~78 ~-1 ~173 planks 1  
+fill ~58 ~-1 ~174 ~78 ~-1 ~174 planks 1  
+fill ~58 ~-1 ~175 ~78 ~-1 ~175 planks 1  
+fill ~58 ~-1 ~176 ~78 ~-1 ~176 planks 1  
+fill ~58 ~-1 ~177 ~63 ~-1 ~177 planks 1  
+fill ~58 ~-1 ~178 ~63 ~-1 ~178 planks 1  
+fill ~58 ~-1 ~179 ~63 ~-1 ~179 planks 1  
+fill ~58 ~-1 ~180 ~63 ~-1 ~180 planks 1  
+fill ~58 ~-1 ~181 ~63 ~-1 ~181 planks 1  
+fill ~58 ~-1 ~182 ~63 ~-1 ~182 planks 1  
+fill ~58 ~-1 ~196 ~58 ~-1 ~196 dirt 0  
+fill ~59 ~-1 ~88 ~60 ~-1 ~88 glowstone 0  
+fill ~59 ~-1 ~89 ~59 ~-1 ~88 glowstone 0  
+fill ~59 ~-1 ~90 ~78 ~-1 ~90 wool 7  
+fill ~59 ~-1 ~91 ~78 ~-1 ~91 wool 7  
+fill ~59 ~-1 ~92 ~60 ~-1 ~92 glowstone 0  
+fill ~59 ~-1 ~94 ~60 ~-1 ~94 wool 0  
+fill ~59 ~-1 ~96 ~60 ~-1 ~96 wool 0  
+fill ~59 ~-1 ~98 ~60 ~-1 ~98 glowstone 0  
+fill ~59 ~-1 ~99 ~78 ~-1 ~99 wool 7  
+fill ~59 ~-1 ~100 ~78 ~-1 ~100 wool 7  
+fill ~59 ~-1 ~101 ~59 ~-1 ~102 glowstone 0  
+fill ~59 ~-1 ~103 ~78 ~-1 ~103 wool 7  
+fill ~59 ~-1 ~121 ~60 ~-1 ~121 glowstone 0  
+fill ~59 ~-1 ~122 ~59 ~-1 ~121 glowstone 0  
+fill ~59 ~-1 ~123 ~78 ~-1 ~123 wool 7  
+fill ~59 ~-1 ~124 ~78 ~-1 ~124 wool 7  
+fill ~59 ~-1 ~125 ~60 ~-1 ~125 glowstone 0  
+fill ~59 ~-1 ~127 ~60 ~-1 ~127 wool 0  
+fill ~59 ~-1 ~129 ~60 ~-1 ~129 wool 0  
+fill ~59 ~-1 ~131 ~60 ~-1 ~131 glowstone 0  
+fill ~59 ~-1 ~132 ~78 ~-1 ~132 wool 7  
+fill ~59 ~-1 ~133 ~78 ~-1 ~133 wool 7  
+fill ~59 ~-1 ~134 ~59 ~-1 ~135 glowstone 0  
+fill ~59 ~-1 ~136 ~78 ~-1 ~136 wool 7  
+fill ~59 ~-1 ~195 ~59 ~-1 ~195 dirt 0  
+fill ~59 ~-1 ~196 ~67 ~-1 ~196 planks 1  
+fill ~59 ~-1 ~197 ~59 ~-1 ~197 dirt 0 
+setblock ~59 ~-1 ~198 double_stone_slab 0  
+fill ~60 ~-1 ~89 ~76 ~-1 ~89 wool 7  
+fill ~60 ~-1 ~101 ~76 ~-1 ~101 wool 7 
+setblock ~60 ~-1 ~102 glowstone 0  
+fill ~60 ~-1 ~122 ~76 ~-1 ~122 wool 7  
+fill ~60 ~-1 ~134 ~76 ~-1 ~134 wool 7 
+setblock ~60 ~-1 ~135 glowstone 0  
+fill ~60 ~-1 ~194 ~60 ~-1 ~194 dirt 0  
+fill ~60 ~-1 ~195 ~68 ~-1 ~195 planks 1  
+fill ~60 ~-1 ~197 ~66 ~-1 ~197 planks 1  
+fill ~60 ~-1 ~198 ~60 ~-1 ~198 dirt 0 
+setblock ~60 ~-1 ~199 double_stone_slab 0  
+fill ~61 ~-1 ~70 ~70 ~-1 ~70 double_stone_slab 0  
+fill ~61 ~-1 ~71 ~61 ~-1 ~81 double_stone_slab 0  
+fill ~61 ~-1 ~88 ~75 ~-1 ~88 wool 7  
+fill ~61 ~-1 ~92 ~66 ~-1 ~92 wool 7  
+fill ~61 ~-1 ~94 ~62 ~-1 ~94 wool 7  
+fill ~61 ~-1 ~96 ~62 ~-1 ~96 wool 7  
+fill ~61 ~-1 ~98 ~66 ~-1 ~98 wool 7  
+fill ~61 ~-1 ~102 ~75 ~-1 ~102 wool 7  
+fill ~61 ~-1 ~121 ~75 ~-1 ~121 wool 7  
+fill ~61 ~-1 ~125 ~67 ~-1 ~125 wool 7  
+fill ~61 ~-1 ~127 ~62 ~-1 ~127 wool 7  
+fill ~61 ~-1 ~129 ~62 ~-1 ~129 wool 7  
+fill ~61 ~-1 ~131 ~66 ~-1 ~131 wool 7  
+fill ~61 ~-1 ~135 ~75 ~-1 ~135 wool 7  
+fill ~61 ~-1 ~142 ~84 ~-1 ~142 double_stone_slab 0  
+fill ~61 ~-1 ~143 ~61 ~-1 ~146 double_stone_slab 0  
+fill ~61 ~-1 ~193 ~61 ~-1 ~193 dirt 0  
+fill ~61 ~-1 ~194 ~69 ~-1 ~194 planks 1  
+fill ~61 ~-1 ~198 ~65 ~-1 ~198 planks 1  
+fill ~61 ~-1 ~199 ~61 ~-1 ~199 dirt 0 
+setblock ~61 ~-1 ~200 double_stone_slab 0  
+fill ~62 ~-1 ~71 ~66 ~-1 ~71 grass 0  
+fill ~62 ~-1 ~72 ~65 ~-1 ~72 grass 0  
+fill ~62 ~-1 ~73 ~64 ~-1 ~73 grass 0  
+fill ~62 ~-1 ~74 ~63 ~-1 ~74 grass 0  
+fill ~62 ~-1 ~75 ~63 ~-1 ~75 grass 0  
+fill ~62 ~-1 ~76 ~63 ~-1 ~76 grass 0  
+fill ~62 ~-1 ~77 ~63 ~-1 ~77 grass 0  
+fill ~62 ~-1 ~78 ~64 ~-1 ~78 grass 0  
+fill ~62 ~-1 ~79 ~65 ~-1 ~79 grass 0  
+fill ~62 ~-1 ~80 ~66 ~-1 ~80 grass 0  
+fill ~62 ~-1 ~81 ~80 ~-1 ~81 double_stone_slab 0  
+fill ~62 ~-1 ~143 ~85 ~-1 ~143 sand 0  
+fill ~62 ~-1 ~144 ~62 ~-1 ~145 sand 0  
+fill ~62 ~-1 ~146 ~84 ~-1 ~146 double_stone_slab 0  
+fill ~62 ~-1 ~192 ~62 ~-1 ~192 dirt 0  
+fill ~62 ~-1 ~193 ~70 ~-1 ~193 planks 1  
+fill ~62 ~-1 ~199 ~64 ~-1 ~199 planks 1  
+fill ~62 ~-1 ~200 ~62 ~-1 ~200 dirt 0 
+setblock ~62 ~-1 ~201 double_stone_slab 0  
+fill ~63 ~-1 ~22 ~110 ~-1 ~22 grass 0 
+setblock ~63 ~-1 ~23 double_stone_slab 0  
+fill ~63 ~-1 ~26 ~65 ~-1 ~26 wool 7 
+setblock ~63 ~-1 ~27 double_stone_slab 0  
+fill ~63 ~-1 ~37 ~65 ~-1 ~37 wool 7  
+fill ~63 ~-1 ~41 ~65 ~-1 ~41 wool 7  
+fill ~63 ~-1 ~45 ~65 ~-1 ~45 wool 7  
+fill ~63 ~-1 ~49 ~65 ~-1 ~49 wool 7  
+fill ~63 ~-1 ~53 ~65 ~-1 ~53 wool 7  
+fill ~63 ~-1 ~57 ~65 ~-1 ~57 wool 7  
+fill ~63 ~-1 ~61 ~65 ~-1 ~61 wool 7  
+fill ~63 ~-1 ~65 ~65 ~-1 ~65 wool 7  
+fill ~63 ~-1 ~94 ~64 ~-1 ~94 wool 0  
+fill ~63 ~-1 ~96 ~64 ~-1 ~96 wool 0  
+fill ~63 ~-1 ~127 ~64 ~-1 ~127 wool 0  
+fill ~63 ~-1 ~129 ~64 ~-1 ~129 wool 0  
+fill ~63 ~-1 ~144 ~88 ~-1 ~144 grass 0  
+fill ~63 ~-1 ~145 ~85 ~-1 ~145 sand 0  
+fill ~63 ~-1 ~191 ~63 ~-1 ~191 dirt 0  
+fill ~63 ~-1 ~192 ~71 ~-1 ~192 planks 1 
+setblock ~63 ~-1 ~200 planks 1  
+fill ~63 ~-1 ~201 ~63 ~-1 ~201 dirt 0 
+setblock ~63 ~-1 ~202 double_stone_slab 0  
+fill ~64 ~-1 ~23 ~110 ~-1 ~23 grass 0 
+setblock ~64 ~-1 ~24 double_stone_slab 0  
+fill ~64 ~-1 ~27 ~66 ~-1 ~27 wool 7 
+setblock ~64 ~-1 ~28 double_stone_slab 0  
+fill ~64 ~-1 ~74 ~64 ~-1 ~74 dirt 0  
+fill ~64 ~-1 ~75 ~64 ~-1 ~75 dirt 0  
+fill ~64 ~-1 ~76 ~64 ~-1 ~76 dirt 0  
+fill ~64 ~-1 ~77 ~64 ~-1 ~77 dirt 0  
+fill ~64 ~-1 ~177 ~79 ~-1 ~177 dirt 0  
+fill ~64 ~-1 ~178 ~64 ~-1 ~178 dirt 0  
+fill ~64 ~-1 ~179 ~64 ~-1 ~179 dirt 0  
+fill ~64 ~-1 ~180 ~64 ~-1 ~180 dirt 0  
+fill ~64 ~-1 ~181 ~64 ~-1 ~181 dirt 0  
+fill ~64 ~-1 ~182 ~64 ~-1 ~182 dirt 0  
+fill ~64 ~-1 ~190 ~64 ~-1 ~190 dirt 0  
+fill ~64 ~-1 ~191 ~73 ~-1 ~191 planks 1  
+fill ~64 ~-1 ~200 ~64 ~-1 ~200 dirt 0 
+setblock ~64 ~-1 ~201 double_stone_slab 0  
+fill ~64 ~-1 ~202 ~110 ~-1 ~202 grass 0  
+fill ~65 ~-1 ~24 ~110 ~-1 ~24 grass 0 
+setblock ~65 ~-1 ~25 double_stone_slab 0  
+fill ~65 ~-1 ~28 ~67 ~-1 ~28 wool 7 
+setblock ~65 ~-1 ~29 double_stone_slab 0  
+fill ~65 ~-1 ~73 ~65 ~-1 ~73 dirt 0  
+fill ~65 ~-1 ~74 ~72 ~-1 ~74 grass 0  
+fill ~65 ~-1 ~75 ~72 ~-1 ~75 grass 0  
+fill ~65 ~-1 ~76 ~72 ~-1 ~76 grass 0  
+fill ~65 ~-1 ~77 ~72 ~-1 ~77 grass 0  
+fill ~65 ~-1 ~78 ~65 ~-1 ~78 dirt 0  
+fill ~65 ~-1 ~94 ~66 ~-1 ~94 wool 7  
+fill ~65 ~-1 ~96 ~66 ~-1 ~96 wool 7  
+fill ~65 ~-1 ~127 ~66 ~-1 ~127 wool 7  
+fill ~65 ~-1 ~129 ~66 ~-1 ~129 wool 7  
+fill ~65 ~-1 ~178 ~86 ~-1 ~178 wool 7  
+fill ~65 ~-1 ~179 ~85 ~-1 ~179 wool 7  
+fill ~65 ~-1 ~180 ~84 ~-1 ~180 wool 7  
+fill ~65 ~-1 ~181 ~83 ~-1 ~181 wool 7  
+fill ~65 ~-1 ~182 ~82 ~-1 ~182 wool 7  
+fill ~65 ~-1 ~183 ~81 ~-1 ~183 wool 7  
+fill ~65 ~-1 ~189 ~65 ~-1 ~189 dirt 0  
+fill ~65 ~-1 ~190 ~73 ~-1 ~190 planks 1  
+fill ~65 ~-1 ~199 ~65 ~-1 ~199 dirt 0 
+setblock ~65 ~-1 ~200 double_stone_slab 0  
+fill ~65 ~-1 ~201 ~110 ~-1 ~201 grass 0  
+fill ~66 ~-1 ~25 ~110 ~-1 ~25 grass 0 
+setblock ~66 ~-1 ~26 double_stone_slab 0  
+fill ~66 ~-1 ~29 ~68 ~-1 ~29 wool 7 
+setblock ~66 ~-1 ~30 double_stone_slab 0  
+fill ~66 ~-1 ~37 ~70 ~-1 ~37 wool 4  
+fill ~66 ~-1 ~41 ~70 ~-1 ~41 wool 4  
+fill ~66 ~-1 ~45 ~70 ~-1 ~45 wool 4  
+fill ~66 ~-1 ~49 ~70 ~-1 ~49 wool 4  
+fill ~66 ~-1 ~53 ~70 ~-1 ~53 wool 4  
+fill ~66 ~-1 ~57 ~70 ~-1 ~57 wool 4  
+fill ~66 ~-1 ~61 ~70 ~-1 ~61 wool 4  
+fill ~66 ~-1 ~65 ~70 ~-1 ~65 wool 4  
+fill ~66 ~-1 ~72 ~66 ~-1 ~72 dirt 0  
+fill ~66 ~-1 ~73 ~71 ~-1 ~73 grass 0  
+fill ~66 ~-1 ~78 ~71 ~-1 ~78 grass 0  
+fill ~66 ~-1 ~79 ~66 ~-1 ~79 dirt 0  
+fill ~66 ~-1 ~188 ~66 ~-1 ~188 dirt 0  
+fill ~66 ~-1 ~189 ~74 ~-1 ~189 planks 1  
+fill ~66 ~-1 ~198 ~66 ~-1 ~198 dirt 0 
+setblock ~66 ~-1 ~199 double_stone_slab 0  
+fill ~66 ~-1 ~200 ~110 ~-1 ~200 grass 0  
+fill ~67 ~-1 ~26 ~110 ~-1 ~26 grass 0 
+setblock ~67 ~-1 ~27 double_stone_slab 0  
+fill ~67 ~-1 ~30 ~69 ~-1 ~30 wool 7 
+setblock ~67 ~-1 ~31 double_stone_slab 0  
+fill ~67 ~-1 ~71 ~70 ~-1 ~71 dirt 0  
+fill ~67 ~-1 ~72 ~70 ~-1 ~72 grass 0  
+fill ~67 ~-1 ~79 ~70 ~-1 ~79 grass 0  
+fill ~67 ~-1 ~80 ~70 ~-1 ~80 dirt 0  
+fill ~67 ~-1 ~92 ~68 ~-1 ~92 glowstone 0  
+fill ~67 ~-1 ~94 ~68 ~-1 ~94 wool 0  
+fill ~67 ~-1 ~96 ~68 ~-1 ~96 wool 0  
+fill ~67 ~-1 ~98 ~68 ~-1 ~98 glowstone 0  
+fill ~67 ~-1 ~127 ~68 ~-1 ~127 wool 0  
+fill ~67 ~-1 ~129 ~68 ~-1 ~129 wool 0  
+fill ~67 ~-1 ~131 ~68 ~-1 ~131 glowstone 0  
+fill ~67 ~-1 ~147 ~79 ~-1 ~147 dirt 0  
+fill ~67 ~-1 ~150 ~67 ~-1 ~151 wool 0  
+fill ~67 ~-1 ~154 ~79 ~-1 ~154 dirt 0  
+fill ~67 ~-1 ~158 ~79 ~-1 ~158 dirt 0  
+fill ~67 ~-1 ~161 ~67 ~-1 ~162 wool 0  
+fill ~67 ~-1 ~165 ~79 ~-1 ~165 dirt 0  
+fill ~67 ~-1 ~187 ~67 ~-1 ~187 dirt 0  
+fill ~67 ~-1 ~188 ~73 ~-1 ~188 planks 1  
+fill ~67 ~-1 ~197 ~67 ~-1 ~197 dirt 0 
+setblock ~67 ~-1 ~198 double_stone_slab 0  
+fill ~67 ~-1 ~199 ~110 ~-1 ~199 grass 0  
+fill ~68 ~-1 ~27 ~110 ~-1 ~27 grass 0 
+setblock ~68 ~-1 ~28 double_stone_slab 0  
+fill ~68 ~-1 ~31 ~70 ~-1 ~31 wool 7 
+setblock ~68 ~-1 ~32 double_stone_slab 0 
+setblock ~68 ~-1 ~125 glowstone 0  
+fill ~68 ~-1 ~150 ~69 ~-1 ~150 wool 7  
+fill ~68 ~-1 ~151 ~69 ~-1 ~151 wool 7  
+fill ~68 ~-1 ~161 ~69 ~-1 ~161 wool 7  
+fill ~68 ~-1 ~162 ~69 ~-1 ~162 wool 7  
+fill ~68 ~-1 ~186 ~68 ~-1 ~186 dirt 0  
+fill ~68 ~-1 ~187 ~72 ~-1 ~187 planks 1  
+fill ~68 ~-1 ~196 ~68 ~-1 ~196 dirt 0 
+setblock ~68 ~-1 ~197 double_stone_slab 0  
+fill ~68 ~-1 ~198 ~110 ~-1 ~198 grass 0  
+fill ~69 ~-1 ~28 ~110 ~-1 ~28 grass 0 
+setblock ~69 ~-1 ~29 double_stone_slab 0  
+fill ~69 ~-1 ~32 ~71 ~-1 ~32 wool 7 
+setblock ~69 ~-1 ~33 double_stone_slab 0  
+fill ~69 ~-1 ~92 ~74 ~-1 ~92 wool 7  
+fill ~69 ~-1 ~94 ~70 ~-1 ~94 wool 7  
+fill ~69 ~-1 ~96 ~70 ~-1 ~96 wool 7  
+fill ~69 ~-1 ~98 ~74 ~-1 ~98 wool 7  
+fill ~69 ~-1 ~125 ~74 ~-1 ~125 wool 7  
+fill ~69 ~-1 ~127 ~70 ~-1 ~127 wool 7  
+fill ~69 ~-1 ~129 ~70 ~-1 ~129 wool 7  
+fill ~69 ~-1 ~131 ~74 ~-1 ~131 wool 7  
+fill ~69 ~-1 ~185 ~69 ~-1 ~185 dirt 0  
+fill ~69 ~-1 ~186 ~71 ~-1 ~186 planks 1  
+fill ~69 ~-1 ~195 ~69 ~-1 ~195 dirt 0 
+setblock ~69 ~-1 ~196 double_stone_slab 0  
+fill ~69 ~-1 ~197 ~110 ~-1 ~197 grass 0  
+fill ~70 ~-1 ~29 ~110 ~-1 ~29 grass 0 
+setblock ~70 ~-1 ~30 double_stone_slab 0  
+fill ~70 ~-1 ~33 ~74 ~-1 ~33 wool 7 
+setblock ~70 ~-1 ~34 double_stone_slab 0  
+fill ~70 ~-1 ~150 ~70 ~-1 ~151 wool 0  
+fill ~70 ~-1 ~161 ~70 ~-1 ~162 wool 0  
+fill ~70 ~-1 ~184 ~70 ~-1 ~184 dirt 0 
+setblock ~70 ~-1 ~185 planks 1  
+fill ~70 ~-1 ~194 ~70 ~-1 ~194 dirt 0 
+setblock ~70 ~-1 ~195 double_stone_slab 0  
+fill ~70 ~-1 ~196 ~110 ~-1 ~196 grass 0  
+fill ~71 ~-1 ~30 ~110 ~-1 ~30 grass 0 
+setblock ~71 ~-1 ~31 double_stone_slab 0  
+fill ~71 ~-1 ~34 ~74 ~-1 ~34 wool 7 
+setblock ~71 ~-1 ~35 double_stone_slab 0  
+fill ~71 ~-1 ~37 ~71 ~-1 ~66 double_stone_slab 0  
+fill ~71 ~-1 ~70 ~74 ~-1 ~70 wool 7 
+setblock ~71 ~-1 ~71 double_stone_slab 0  
+fill ~71 ~-1 ~72 ~71 ~-1 ~72 dirt 0  
+fill ~71 ~-1 ~79 ~71 ~-1 ~79 dirt 0  
+fill ~71 ~-1 ~80 ~79 ~-1 ~80 grass 0  
+fill ~71 ~-1 ~94 ~72 ~-1 ~94 wool 0  
+fill ~71 ~-1 ~96 ~72 ~-1 ~96 wool 0  
+fill ~71 ~-1 ~127 ~72 ~-1 ~127 wool 0  
+fill ~71 ~-1 ~129 ~72 ~-1 ~129 wool 0  
+fill ~71 ~-1 ~150 ~72 ~-1 ~150 wool 7  
+fill ~71 ~-1 ~151 ~72 ~-1 ~151 wool 7  
+fill ~71 ~-1 ~161 ~72 ~-1 ~161 wool 7  
+fill ~71 ~-1 ~162 ~72 ~-1 ~162 wool 7  
+fill ~71 ~-1 ~184 ~80 ~-1 ~184 wool 7  
+fill ~71 ~-1 ~185 ~71 ~-1 ~185 dirt 0  
+fill ~71 ~-1 ~193 ~71 ~-1 ~193 dirt 0 
+setblock ~71 ~-1 ~194 double_stone_slab 0  
+fill ~71 ~-1 ~195 ~110 ~-1 ~195 grass 0  
+fill ~72 ~-1 ~31 ~110 ~-1 ~31 grass 0  
+fill ~72 ~-1 ~32 ~75 ~-1 ~32 double_stone_slab 0  
+fill ~72 ~-1 ~35 ~74 ~-1 ~35 wool 7  
+fill ~72 ~-1 ~36 ~74 ~-1 ~36 wool 7  
+fill ~72 ~-1 ~37 ~74 ~-1 ~37 wool 7  
+fill ~72 ~-1 ~38 ~74 ~-1 ~38 wool 7  
+fill ~72 ~-1 ~39 ~74 ~-1 ~39 wool 7  
+fill ~72 ~-1 ~40 ~74 ~-1 ~40 wool 7  
+fill ~72 ~-1 ~41 ~74 ~-1 ~41 wool 7  
+fill ~72 ~-1 ~42 ~74 ~-1 ~42 wool 7  
+fill ~72 ~-1 ~43 ~74 ~-1 ~43 wool 7  
+fill ~72 ~-1 ~44 ~74 ~-1 ~44 wool 7  
+fill ~72 ~-1 ~45 ~74 ~-1 ~45 wool 7  
+fill ~72 ~-1 ~46 ~74 ~-1 ~46 wool 7  
+fill ~72 ~-1 ~47 ~74 ~-1 ~47 wool 7  
+fill ~72 ~-1 ~48 ~74 ~-1 ~48 wool 7  
+fill ~72 ~-1 ~49 ~74 ~-1 ~49 wool 7  
+fill ~72 ~-1 ~50 ~74 ~-1 ~50 wool 7  
+fill ~72 ~-1 ~51 ~74 ~-1 ~51 wool 7  
+fill ~72 ~-1 ~52 ~74 ~-1 ~52 wool 7  
+fill ~72 ~-1 ~53 ~74 ~-1 ~53 wool 7  
+fill ~72 ~-1 ~54 ~74 ~-1 ~54 wool 7  
+fill ~72 ~-1 ~55 ~74 ~-1 ~55 wool 7  
+fill ~72 ~-1 ~56 ~74 ~-1 ~56 wool 7  
+fill ~72 ~-1 ~57 ~74 ~-1 ~57 wool 7  
+fill ~72 ~-1 ~58 ~74 ~-1 ~58 wool 7  
+fill ~72 ~-1 ~59 ~74 ~-1 ~59 wool 7  
+fill ~72 ~-1 ~60 ~74 ~-1 ~60 wool 7  
+fill ~72 ~-1 ~61 ~74 ~-1 ~61 wool 7  
+fill ~72 ~-1 ~62 ~74 ~-1 ~62 wool 7  
+fill ~72 ~-1 ~63 ~74 ~-1 ~63 wool 7  
+fill ~72 ~-1 ~64 ~74 ~-1 ~64 wool 7  
+fill ~72 ~-1 ~65 ~74 ~-1 ~65 wool 7  
+fill ~72 ~-1 ~66 ~74 ~-1 ~66 wool 7  
+fill ~72 ~-1 ~71 ~75 ~-1 ~71 wool 7 
+setblock ~72 ~-1 ~72 double_stone_slab 0  
+fill ~72 ~-1 ~73 ~72 ~-1 ~73 dirt 0  
+fill ~72 ~-1 ~78 ~72 ~-1 ~78 dirt 0  
+fill ~72 ~-1 ~79 ~78 ~-1 ~79 grass 0  
+fill ~72 ~-1 ~185 ~79 ~-1 ~185 wool 7  
+fill ~72 ~-1 ~186 ~72 ~-1 ~186 dirt 0  
+fill ~72 ~-1 ~192 ~72 ~-1 ~192 dirt 0 
+setblock ~72 ~-1 ~193 double_stone_slab 0  
+fill ~72 ~-1 ~194 ~110 ~-1 ~194 grass 0  
+fill ~73 ~-1 ~72 ~76 ~-1 ~72 wool 7 
+setblock ~73 ~-1 ~73 double_stone_slab 0  
+fill ~73 ~-1 ~74 ~73 ~-1 ~74 dirt 0  
+fill ~73 ~-1 ~75 ~73 ~-1 ~75 dirt 0  
+fill ~73 ~-1 ~76 ~73 ~-1 ~76 dirt 0  
+fill ~73 ~-1 ~77 ~73 ~-1 ~77 dirt 0  
+fill ~73 ~-1 ~78 ~77 ~-1 ~78 grass 0  
+fill ~73 ~-1 ~94 ~74 ~-1 ~94 wool 7  
+fill ~73 ~-1 ~96 ~74 ~-1 ~96 wool 7  
+fill ~73 ~-1 ~127 ~74 ~-1 ~127 wool 7  
+fill ~73 ~-1 ~129 ~74 ~-1 ~129 wool 7  
+fill ~73 ~-1 ~150 ~73 ~-1 ~151 wool 0  
+fill ~73 ~-1 ~161 ~73 ~-1 ~162 wool 0  
+fill ~73 ~-1 ~186 ~78 ~-1 ~186 wool 7  
+fill ~73 ~-1 ~187 ~77 ~-1 ~187 wool 7 
+setblock ~73 ~-1 ~192 double_stone_slab 0  
+fill ~73 ~-1 ~193 ~110 ~-1 ~193 grass 0  
+fill ~74 ~-1 ~73 ~77 ~-1 ~73 wool 7 
+setblock ~74 ~-1 ~74 double_stone_slab 0  
+fill ~74 ~-1 ~75 ~74 ~-1 ~80 grass 0  
+fill ~74 ~-1 ~150 ~75 ~-1 ~150 wool 7  
+fill ~74 ~-1 ~151 ~75 ~-1 ~151 wool 7  
+fill ~74 ~-1 ~161 ~75 ~-1 ~161 wool 7  
+fill ~74 ~-1 ~162 ~75 ~-1 ~162 wool 7  
+fill ~74 ~-1 ~188 ~74 ~-1 ~188 dirt 0  
+fill ~74 ~-1 ~190 ~74 ~-1 ~190 dirt 0 
+setblock ~74 ~-1 ~191 double_stone_slab 0  
+fill ~74 ~-1 ~192 ~110 ~-1 ~192 grass 0  
+fill ~75 ~-1 ~33 ~75 ~-1 ~70 double_stone_slab 0  
+fill ~75 ~-1 ~74 ~78 ~-1 ~74 wool 7 
+setblock ~75 ~-1 ~75 double_stone_slab 0  
+fill ~75 ~-1 ~76 ~75 ~-1 ~80 grass 0  
+fill ~75 ~-1 ~92 ~76 ~-1 ~92 glowstone 0  
+fill ~75 ~-1 ~94 ~76 ~-1 ~94 wool 0  
+fill ~75 ~-1 ~96 ~76 ~-1 ~96 wool 0  
+fill ~75 ~-1 ~98 ~76 ~-1 ~98 glowstone 0  
+fill ~75 ~-1 ~125 ~76 ~-1 ~125 glowstone 0  
+fill ~75 ~-1 ~127 ~76 ~-1 ~127 wool 0  
+fill ~75 ~-1 ~129 ~76 ~-1 ~129 wool 0  
+fill ~75 ~-1 ~131 ~76 ~-1 ~131 glowstone 0  
+fill ~75 ~-1 ~188 ~76 ~-1 ~188 wool 7  
+fill ~75 ~-1 ~189 ~75 ~2 ~189 wool 8 
+setblock ~75 ~-1 ~190 double_stone_slab 0  
+fill ~75 ~-1 ~191 ~110 ~-1 ~191 grass 0  
+fill ~76 ~-1 ~32 ~110 ~-1 ~32 grass 0  
+fill ~76 ~-1 ~33 ~110 ~-1 ~33 grass 0  
+fill ~76 ~-1 ~34 ~110 ~-1 ~34 grass 0  
+fill ~76 ~-1 ~35 ~110 ~-1 ~35 grass 0  
+fill ~76 ~-1 ~36 ~110 ~-1 ~36 grass 0  
+fill ~76 ~-1 ~37 ~110 ~-1 ~37 grass 0  
+fill ~76 ~-1 ~38 ~110 ~-1 ~38 grass 0  
+fill ~76 ~-1 ~39 ~110 ~-1 ~39 grass 0  
+fill ~76 ~-1 ~40 ~110 ~-1 ~40 grass 0  
+fill ~76 ~-1 ~41 ~110 ~-1 ~41 grass 0  
+fill ~76 ~-1 ~42 ~110 ~-1 ~42 grass 0  
+fill ~76 ~-1 ~43 ~110 ~-1 ~43 grass 0  
+fill ~76 ~-1 ~44 ~110 ~-1 ~44 grass 0  
+fill ~76 ~-1 ~45 ~110 ~-1 ~45 grass 0  
+fill ~76 ~-1 ~46 ~110 ~-1 ~46 grass 0  
+fill ~76 ~-1 ~47 ~110 ~-1 ~47 grass 0  
+fill ~76 ~-1 ~48 ~110 ~-1 ~48 grass 0  
+fill ~76 ~-1 ~49 ~110 ~-1 ~49 grass 0  
+fill ~76 ~-1 ~50 ~110 ~-1 ~50 grass 0  
+fill ~76 ~-1 ~51 ~110 ~-1 ~51 grass 0  
+fill ~76 ~-1 ~52 ~110 ~-1 ~52 grass 0  
+fill ~76 ~-1 ~53 ~110 ~-1 ~53 grass 0  
+fill ~76 ~-1 ~54 ~110 ~-1 ~54 grass 0  
+fill ~76 ~-1 ~55 ~110 ~-1 ~55 grass 0  
+fill ~76 ~-1 ~56 ~110 ~-1 ~56 grass 0  
+fill ~76 ~-1 ~57 ~110 ~-1 ~57 grass 0  
+fill ~76 ~-1 ~58 ~110 ~-1 ~58 grass 0  
+fill ~76 ~-1 ~59 ~110 ~-1 ~59 grass 0  
+fill ~76 ~-1 ~60 ~110 ~-1 ~60 grass 0  
+fill ~76 ~-1 ~61 ~110 ~-1 ~61 grass 0  
+fill ~76 ~-1 ~62 ~110 ~-1 ~62 grass 0  
+fill ~76 ~-1 ~63 ~110 ~-1 ~63 grass 0  
+fill ~76 ~-1 ~64 ~110 ~-1 ~64 grass 0  
+fill ~76 ~-1 ~65 ~110 ~-1 ~65 grass 0  
+fill ~76 ~-1 ~66 ~110 ~-1 ~66 grass 0  
+fill ~76 ~-1 ~67 ~110 ~-1 ~67 grass 0  
+fill ~76 ~-1 ~68 ~110 ~-1 ~68 grass 0  
+fill ~76 ~-1 ~69 ~110 ~-1 ~69 grass 0  
+fill ~76 ~-1 ~70 ~110 ~-1 ~70 grass 0 
+setblock ~76 ~-1 ~71 double_stone_slab 0  
+fill ~76 ~-1 ~75 ~79 ~-1 ~75 wool 7 
+setblock ~76 ~-1 ~76 double_stone_slab 0 
+setblock ~76 ~-1 ~77 grass 0  
+fill ~76 ~-1 ~88 ~77 ~-1 ~88 glowstone 0  
+fill ~76 ~-1 ~102 ~77 ~-1 ~102 glowstone 0  
+fill ~76 ~-1 ~121 ~77 ~-1 ~121 glowstone 0  
+fill ~76 ~-1 ~135 ~77 ~-1 ~135 glowstone 0  
+fill ~76 ~-1 ~150 ~76 ~-1 ~151 wool 0  
+fill ~76 ~-1 ~161 ~76 ~-1 ~162 wool 0 
+setblock ~76 ~-1 ~189 double_stone_slab 0  
+fill ~76 ~-1 ~190 ~110 ~-1 ~190 grass 0  
+fill ~77 ~-1 ~71 ~110 ~-1 ~71 grass 0 
+setblock ~77 ~-1 ~72 double_stone_slab 0  
+fill ~77 ~-1 ~76 ~80 ~-1 ~76 wool 7 
+setblock ~77 ~-1 ~77 double_stone_slab 0 
+setblock ~77 ~-1 ~89 glowstone 0  
+fill ~77 ~-1 ~92 ~78 ~-1 ~92 wool 7  
+fill ~77 ~-1 ~94 ~78 ~-1 ~94 wool 7  
+fill ~77 ~-1 ~96 ~78 ~-1 ~96 wool 7  
+fill ~77 ~-1 ~98 ~78 ~-1 ~98 wool 7 
+setblock ~77 ~-1 ~101 glowstone 0 
+setblock ~77 ~-1 ~122 glowstone 0  
+fill ~77 ~-1 ~125 ~78 ~-1 ~125 wool 7  
+fill ~77 ~-1 ~127 ~78 ~-1 ~127 wool 7  
+fill ~77 ~-1 ~129 ~78 ~-1 ~129 wool 7  
+fill ~77 ~-1 ~131 ~78 ~-1 ~131 wool 7 
+setblock ~77 ~-1 ~134 glowstone 0  
+fill ~77 ~-1 ~150 ~78 ~-1 ~150 wool 7  
+fill ~77 ~-1 ~151 ~78 ~-1 ~151 wool 7  
+fill ~77 ~-1 ~161 ~78 ~-1 ~161 wool 7  
+fill ~77 ~-1 ~162 ~78 ~-1 ~162 wool 7 
+setblock ~77 ~-1 ~188 double_stone_slab 0  
+fill ~77 ~-1 ~189 ~110 ~-1 ~189 grass 0  
+fill ~78 ~-1 ~72 ~110 ~-1 ~72 grass 0 
+setblock ~78 ~-1 ~73 double_stone_slab 0  
+fill ~78 ~-1 ~77 ~81 ~-1 ~77 wool 7 
+setblock ~78 ~-1 ~78 double_stone_slab 0  
+fill ~78 ~-1 ~88 ~78 ~-1 ~103 wool 7  
+fill ~78 ~-1 ~121 ~78 ~-1 ~136 wool 7 
+setblock ~78 ~-1 ~187 double_stone_slab 0  
+fill ~78 ~-1 ~188 ~110 ~-1 ~188 grass 0  
+fill ~79 ~-1 ~73 ~110 ~-1 ~73 grass 0 
+setblock ~79 ~-1 ~74 double_stone_slab 0  
+fill ~79 ~-1 ~78 ~82 ~-1 ~78 wool 7 
+setblock ~79 ~-1 ~79 double_stone_slab 0  
+fill ~79 ~-1 ~87 ~79 ~-1 ~87 dirt 0  
+fill ~79 ~-1 ~88 ~79 ~-1 ~88 dirt 0  
+fill ~79 ~-1 ~89 ~79 ~-1 ~89 dirt 0  
+fill ~79 ~-1 ~90 ~79 ~-1 ~90 dirt 0  
+fill ~79 ~-1 ~91 ~79 ~-1 ~91 dirt 0  
+fill ~79 ~-1 ~92 ~79 ~-1 ~92 dirt 0  
+fill ~79 ~-1 ~93 ~79 ~-1 ~93 dirt 0  
+fill ~79 ~-1 ~94 ~79 ~-1 ~94 dirt 0  
+fill ~79 ~-1 ~95 ~79 ~-1 ~95 dirt 0  
+fill ~79 ~-1 ~96 ~79 ~-1 ~96 dirt 0  
+fill ~79 ~-1 ~97 ~79 ~-1 ~97 dirt 0  
+fill ~79 ~-1 ~98 ~79 ~-1 ~98 dirt 0  
+fill ~79 ~-1 ~99 ~79 ~-1 ~99 dirt 0  
+fill ~79 ~-1 ~100 ~79 ~-1 ~100 dirt 0  
+fill ~79 ~-1 ~101 ~79 ~-1 ~101 dirt 0  
+fill ~79 ~-1 ~102 ~79 ~-1 ~102 dirt 0  
+fill ~79 ~-1 ~103 ~79 ~-1 ~103 dirt 0  
+fill ~79 ~-1 ~111 ~79 ~-1 ~113 sand 0  
+fill ~79 ~-1 ~120 ~79 ~-1 ~120 dirt 0  
+fill ~79 ~-1 ~121 ~79 ~-1 ~121 dirt 0  
+fill ~79 ~-1 ~122 ~79 ~-1 ~122 dirt 0  
+fill ~79 ~-1 ~123 ~79 ~-1 ~123 dirt 0  
+fill ~79 ~-1 ~124 ~79 ~-1 ~124 dirt 0  
+fill ~79 ~-1 ~125 ~79 ~-1 ~125 dirt 0  
+fill ~79 ~-1 ~126 ~79 ~-1 ~126 dirt 0  
+fill ~79 ~-1 ~127 ~79 ~-1 ~127 dirt 0  
+fill ~79 ~-1 ~128 ~79 ~-1 ~128 dirt 0  
+fill ~79 ~-1 ~129 ~79 ~-1 ~129 dirt 0  
+fill ~79 ~-1 ~130 ~79 ~-1 ~130 dirt 0  
+fill ~79 ~-1 ~131 ~79 ~-1 ~131 dirt 0  
+fill ~79 ~-1 ~132 ~79 ~-1 ~132 dirt 0  
+fill ~79 ~-1 ~133 ~79 ~-1 ~133 dirt 0  
+fill ~79 ~-1 ~134 ~79 ~-1 ~134 dirt 0  
+fill ~79 ~-1 ~135 ~79 ~-1 ~135 dirt 0  
+fill ~79 ~-1 ~136 ~79 ~-1 ~136 dirt 0  
+fill ~79 ~-1 ~148 ~79 ~-1 ~148 dirt 0  
+fill ~79 ~-1 ~149 ~79 ~-1 ~149 dirt 0  
+fill ~79 ~-1 ~150 ~79 ~-1 ~150 dirt 0  
+fill ~79 ~-1 ~151 ~79 ~-1 ~151 dirt 0  
+fill ~79 ~-1 ~152 ~79 ~-1 ~152 dirt 0  
+fill ~79 ~-1 ~153 ~79 ~-1 ~153 dirt 0  
+fill ~79 ~-1 ~159 ~79 ~-1 ~159 dirt 0  
+fill ~79 ~-1 ~160 ~79 ~-1 ~160 dirt 0  
+fill ~79 ~-1 ~161 ~79 ~-1 ~161 dirt 0  
+fill ~79 ~-1 ~162 ~79 ~-1 ~162 dirt 0  
+fill ~79 ~-1 ~163 ~79 ~-1 ~163 dirt 0  
+fill ~79 ~-1 ~164 ~79 ~-1 ~164 dirt 0  
+fill ~79 ~-1 ~171 ~79 ~-1 ~171 dirt 0  
+fill ~79 ~-1 ~172 ~79 ~-1 ~172 dirt 0  
+fill ~79 ~-1 ~173 ~79 ~-1 ~173 dirt 0  
+fill ~79 ~-1 ~174 ~79 ~-1 ~174 dirt 0  
+fill ~79 ~-1 ~175 ~79 ~-1 ~175 dirt 0  
+fill ~79 ~-1 ~176 ~79 ~-1 ~176 dirt 0 
+setblock ~79 ~-1 ~186 double_stone_slab 0  
+fill ~79 ~-1 ~187 ~110 ~-1 ~187 grass 0  
+fill ~80 ~-1 ~74 ~110 ~-1 ~74 grass 0 
+setblock ~80 ~-1 ~75 double_stone_slab 0  
+fill ~80 ~-1 ~79 ~83 ~-1 ~79 wool 7 
+setblock ~80 ~-1 ~80 double_stone_slab 0  
+fill ~80 ~-1 ~87 ~80 ~-1 ~105 double_stone_slab 0  
+fill ~80 ~-1 ~110 ~80 ~-1 ~114 double_stone_slab 0  
+fill ~80 ~-1 ~119 ~80 ~-1 ~138 double_stone_slab 0  
+fill ~80 ~-1 ~147 ~83 ~-1 ~147 wool 7  
+fill ~80 ~-1 ~148 ~83 ~-1 ~148 wool 7  
+fill ~80 ~-1 ~149 ~83 ~-1 ~149 wool 7  
+fill ~80 ~-1 ~150 ~83 ~-1 ~150 wool 7  
+fill ~80 ~-1 ~151 ~83 ~-1 ~151 wool 7  
+fill ~80 ~-1 ~152 ~83 ~-1 ~152 wool 7  
+fill ~80 ~-1 ~153 ~83 ~-1 ~153 wool 7  
+fill ~80 ~-1 ~154 ~83 ~-1 ~154 wool 7  
+fill ~80 ~-1 ~158 ~83 ~-1 ~158 wool 7  
+fill ~80 ~-1 ~159 ~83 ~-1 ~159 wool 7  
+fill ~80 ~-1 ~160 ~83 ~-1 ~160 wool 7  
+fill ~80 ~-1 ~161 ~83 ~-1 ~161 wool 7  
+fill ~80 ~-1 ~162 ~83 ~-1 ~162 wool 7  
+fill ~80 ~-1 ~163 ~83 ~-1 ~163 wool 7  
+fill ~80 ~-1 ~164 ~83 ~-1 ~164 wool 7  
+fill ~80 ~-1 ~165 ~83 ~-1 ~165 wool 7  
+fill ~80 ~-1 ~170 ~90 ~-1 ~170 double_stone_slab 0  
+fill ~80 ~-1 ~171 ~89 ~-1 ~171 wool 7  
+fill ~80 ~-1 ~172 ~89 ~-1 ~172 wool 7  
+fill ~80 ~-1 ~173 ~89 ~-1 ~173 wool 7  
+fill ~80 ~-1 ~174 ~89 ~-1 ~174 wool 7  
+fill ~80 ~-1 ~175 ~89 ~-1 ~175 wool 7  
+fill ~80 ~-1 ~176 ~88 ~-1 ~176 wool 7  
+fill ~80 ~-1 ~177 ~87 ~-1 ~177 wool 7 
+setblock ~80 ~-1 ~185 double_stone_slab 0  
+fill ~80 ~-1 ~186 ~110 ~-1 ~186 grass 0  
+fill ~81 ~-1 ~75 ~110 ~-1 ~75 grass 0 
+setblock ~81 ~-1 ~76 double_stone_slab 0  
+fill ~81 ~-1 ~80 ~83 ~-1 ~80 wool 7  
+fill ~81 ~-1 ~81 ~83 ~-1 ~81 wool 7  
+fill ~81 ~-1 ~85 ~83 ~-1 ~85 wool 7  
+fill ~81 ~-1 ~86 ~83 ~-1 ~86 wool 7  
+fill ~81 ~-1 ~87 ~83 ~-1 ~87 wool 7  
+fill ~81 ~-1 ~88 ~83 ~-1 ~88 wool 7  
+fill ~81 ~-1 ~89 ~83 ~-1 ~89 wool 7  
+fill ~81 ~-1 ~90 ~83 ~-1 ~90 wool 7  
+fill ~81 ~-1 ~91 ~83 ~-1 ~91 wool 7  
+fill ~81 ~-1 ~92 ~83 ~-1 ~92 wool 7  
+fill ~81 ~-1 ~93 ~83 ~-1 ~93 wool 7  
+fill ~81 ~-1 ~94 ~83 ~-1 ~94 wool 7  
+fill ~81 ~-1 ~95 ~83 ~-1 ~95 wool 7  
+fill ~81 ~-1 ~96 ~83 ~-1 ~96 wool 7  
+fill ~81 ~-1 ~97 ~83 ~-1 ~97 wool 7  
+fill ~81 ~-1 ~98 ~83 ~-1 ~98 wool 7  
+fill ~81 ~-1 ~99 ~83 ~-1 ~99 wool 7  
+fill ~81 ~-1 ~100 ~83 ~-1 ~100 wool 7  
+fill ~81 ~-1 ~101 ~83 ~-1 ~101 wool 7  
+fill ~81 ~-1 ~102 ~83 ~-1 ~102 wool 7  
+fill ~81 ~-1 ~103 ~83 ~-1 ~103 wool 7  
+fill ~81 ~-1 ~104 ~83 ~-1 ~104 wool 7  
+fill ~81 ~-1 ~105 ~83 ~-1 ~105 wool 7  
+fill ~81 ~-1 ~109 ~83 ~-1 ~109 wool 7  
+fill ~81 ~-1 ~110 ~83 ~-1 ~110 wool 7  
+fill ~81 ~-1 ~111 ~83 ~-1 ~111 wool 7  
+fill ~81 ~-1 ~112 ~83 ~-1 ~112 wool 7  
+fill ~81 ~-1 ~113 ~83 ~-1 ~113 wool 7  
+fill ~81 ~-1 ~114 ~83 ~-1 ~114 wool 7  
+fill ~81 ~-1 ~118 ~83 ~-1 ~118 wool 7  
+fill ~81 ~-1 ~119 ~83 ~-1 ~119 wool 7  
+fill ~81 ~-1 ~120 ~83 ~-1 ~120 wool 7  
+fill ~81 ~-1 ~121 ~83 ~-1 ~121 wool 7  
+fill ~81 ~-1 ~122 ~83 ~-1 ~122 wool 7  
+fill ~81 ~-1 ~123 ~83 ~-1 ~123 wool 7  
+fill ~81 ~-1 ~124 ~83 ~-1 ~124 wool 7  
+fill ~81 ~-1 ~125 ~83 ~-1 ~125 wool 7  
+fill ~81 ~-1 ~126 ~83 ~-1 ~126 wool 7  
+fill ~81 ~-1 ~127 ~83 ~-1 ~127 wool 7  
+fill ~81 ~-1 ~128 ~83 ~-1 ~128 wool 7  
+fill ~81 ~-1 ~129 ~83 ~-1 ~129 wool 7  
+fill ~81 ~-1 ~130 ~83 ~-1 ~130 wool 7  
+fill ~81 ~-1 ~131 ~83 ~-1 ~131 wool 7  
+fill ~81 ~-1 ~132 ~83 ~-1 ~132 wool 7  
+fill ~81 ~-1 ~133 ~83 ~-1 ~133 wool 7  
+fill ~81 ~-1 ~134 ~83 ~-1 ~134 wool 7  
+fill ~81 ~-1 ~135 ~83 ~-1 ~135 wool 7  
+fill ~81 ~-1 ~136 ~83 ~-1 ~136 wool 7  
+fill ~81 ~-1 ~137 ~83 ~-1 ~137 wool 7  
+fill ~81 ~-1 ~138 ~83 ~-1 ~138 wool 7 
+setblock ~81 ~-1 ~184 double_stone_slab 0  
+fill ~81 ~-1 ~185 ~110 ~-1 ~185 grass 0  
+fill ~82 ~-1 ~76 ~110 ~-1 ~76 grass 0 
+setblock ~82 ~-1 ~77 double_stone_slab 0 
+setblock ~82 ~-1 ~183 double_stone_slab 0  
+fill ~82 ~-1 ~184 ~110 ~-1 ~184 grass 0  
+fill ~83 ~-1 ~77 ~110 ~-1 ~77 grass 0 
+setblock ~83 ~-1 ~78 double_stone_slab 0 
+setblock ~83 ~-1 ~182 double_stone_slab 0  
+fill ~83 ~-1 ~183 ~110 ~-1 ~183 grass 0  
+fill ~84 ~-1 ~78 ~110 ~-1 ~78 grass 0  
+fill ~84 ~-1 ~79 ~84 ~-1 ~142 double_stone_slab 0  
+fill ~84 ~-1 ~147 ~84 ~-1 ~166 double_stone_slab 0 
+setblock ~84 ~-1 ~181 double_stone_slab 0  
+fill ~84 ~-1 ~182 ~110 ~-1 ~182 grass 0  
+fill ~85 ~-1 ~79 ~89 ~-1 ~79 sand 0  
+fill ~85 ~-1 ~80 ~85 ~-1 ~143 sand 0  
+fill ~85 ~-1 ~146 ~85 ~-1 ~167 sand 0 
+setblock ~85 ~-1 ~180 double_stone_slab 0  
+fill ~85 ~-1 ~181 ~110 ~-1 ~181 grass 0  
+fill ~86 ~-1 ~80 ~88 ~-1 ~80 grass 0  
+fill ~86 ~-1 ~81 ~88 ~-1 ~81 grass 0  
+fill ~86 ~-1 ~82 ~88 ~-1 ~82 grass 0  
+fill ~86 ~-1 ~83 ~88 ~-1 ~83 grass 0  
+fill ~86 ~-1 ~84 ~88 ~-1 ~84 grass 0  
+fill ~86 ~-1 ~85 ~88 ~-1 ~85 grass 0  
+fill ~86 ~-1 ~86 ~88 ~-1 ~86 grass 0  
+fill ~86 ~-1 ~87 ~88 ~-1 ~87 grass 0  
+fill ~86 ~-1 ~88 ~88 ~-1 ~88 grass 0  
+fill ~86 ~-1 ~89 ~88 ~-1 ~89 grass 0  
+fill ~86 ~-1 ~90 ~88 ~-1 ~90 grass 0  
+fill ~86 ~-1 ~91 ~88 ~-1 ~91 grass 0  
+fill ~86 ~-1 ~92 ~88 ~-1 ~92 grass 0  
+fill ~86 ~-1 ~93 ~88 ~-1 ~93 grass 0  
+fill ~86 ~-1 ~94 ~88 ~-1 ~94 grass 0  
+fill ~86 ~-1 ~95 ~88 ~-1 ~95 grass 0  
+fill ~86 ~-1 ~96 ~88 ~-1 ~96 grass 0  
+fill ~86 ~-1 ~97 ~88 ~-1 ~97 grass 0  
+fill ~86 ~-1 ~98 ~88 ~-1 ~98 grass 0  
+fill ~86 ~-1 ~99 ~88 ~-1 ~99 grass 0  
+fill ~86 ~-1 ~100 ~88 ~-1 ~100 grass 0  
+fill ~86 ~-1 ~101 ~88 ~-1 ~101 grass 0  
+fill ~86 ~-1 ~102 ~88 ~-1 ~102 grass 0  
+fill ~86 ~-1 ~103 ~88 ~-1 ~103 grass 0  
+fill ~86 ~-1 ~104 ~88 ~-1 ~104 grass 0  
+fill ~86 ~-1 ~105 ~88 ~-1 ~105 grass 0  
+fill ~86 ~-1 ~106 ~88 ~-1 ~106 grass 0  
+fill ~86 ~-1 ~107 ~88 ~-1 ~107 grass 0  
+fill ~86 ~-1 ~108 ~88 ~-1 ~108 grass 0  
+fill ~86 ~-1 ~109 ~88 ~-1 ~109 grass 0  
+fill ~86 ~-1 ~110 ~88 ~-1 ~110 grass 0  
+fill ~86 ~-1 ~111 ~88 ~-1 ~111 grass 0  
+fill ~86 ~-1 ~112 ~88 ~-1 ~112 grass 0  
+fill ~86 ~-1 ~113 ~88 ~-1 ~113 grass 0  
+fill ~86 ~-1 ~114 ~88 ~-1 ~114 grass 0  
+fill ~86 ~-1 ~115 ~88 ~-1 ~115 grass 0  
+fill ~86 ~-1 ~116 ~88 ~-1 ~116 grass 0  
+fill ~86 ~-1 ~117 ~88 ~-1 ~117 grass 0  
+fill ~86 ~-1 ~118 ~88 ~-1 ~118 grass 0  
+fill ~86 ~-1 ~119 ~88 ~-1 ~119 grass 0  
+fill ~86 ~-1 ~120 ~88 ~-1 ~120 grass 0  
+fill ~86 ~-1 ~121 ~88 ~-1 ~121 grass 0  
+fill ~86 ~-1 ~122 ~88 ~-1 ~122 grass 0  
+fill ~86 ~-1 ~123 ~88 ~-1 ~123 grass 0  
+fill ~86 ~-1 ~124 ~88 ~-1 ~124 grass 0  
+fill ~86 ~-1 ~125 ~88 ~-1 ~125 grass 0  
+fill ~86 ~-1 ~126 ~88 ~-1 ~126 grass 0  
+fill ~86 ~-1 ~127 ~88 ~-1 ~127 grass 0  
+fill ~86 ~-1 ~128 ~88 ~-1 ~128 grass 0  
+fill ~86 ~-1 ~129 ~88 ~-1 ~129 grass 0  
+fill ~86 ~-1 ~130 ~88 ~-1 ~130 grass 0  
+fill ~86 ~-1 ~131 ~88 ~-1 ~131 grass 0  
+fill ~86 ~-1 ~132 ~88 ~-1 ~132 grass 0  
+fill ~86 ~-1 ~133 ~88 ~-1 ~133 grass 0  
+fill ~86 ~-1 ~134 ~88 ~-1 ~134 grass 0  
+fill ~86 ~-1 ~135 ~88 ~-1 ~135 grass 0  
+fill ~86 ~-1 ~136 ~88 ~-1 ~136 grass 0  
+fill ~86 ~-1 ~137 ~88 ~-1 ~137 grass 0  
+fill ~86 ~-1 ~138 ~88 ~-1 ~138 grass 0  
+fill ~86 ~-1 ~139 ~88 ~-1 ~139 grass 0  
+fill ~86 ~-1 ~140 ~88 ~-1 ~140 grass 0  
+fill ~86 ~-1 ~141 ~88 ~-1 ~141 grass 0  
+fill ~86 ~-1 ~142 ~88 ~-1 ~142 grass 0  
+fill ~86 ~-1 ~143 ~88 ~-1 ~143 grass 0  
+fill ~86 ~-1 ~145 ~88 ~-1 ~145 grass 0  
+fill ~86 ~-1 ~146 ~88 ~-1 ~146 grass 0  
+fill ~86 ~-1 ~147 ~88 ~-1 ~147 grass 0  
+fill ~86 ~-1 ~148 ~88 ~-1 ~148 grass 0  
+fill ~86 ~-1 ~149 ~88 ~-1 ~149 grass 0  
+fill ~86 ~-1 ~150 ~88 ~-1 ~150 grass 0  
+fill ~86 ~-1 ~151 ~88 ~-1 ~151 grass 0  
+fill ~86 ~-1 ~152 ~88 ~-1 ~152 grass 0  
+fill ~86 ~-1 ~153 ~88 ~-1 ~153 grass 0  
+fill ~86 ~-1 ~154 ~88 ~-1 ~154 grass 0  
+fill ~86 ~-1 ~155 ~88 ~-1 ~155 grass 0  
+fill ~86 ~-1 ~156 ~88 ~-1 ~156 grass 0  
+fill ~86 ~-1 ~157 ~88 ~-1 ~157 grass 0  
+fill ~86 ~-1 ~158 ~88 ~-1 ~158 grass 0  
+fill ~86 ~-1 ~159 ~88 ~-1 ~159 grass 0  
+fill ~86 ~-1 ~160 ~88 ~-1 ~160 grass 0  
+fill ~86 ~-1 ~161 ~88 ~-1 ~161 grass 0  
+fill ~86 ~-1 ~162 ~88 ~-1 ~162 grass 0  
+fill ~86 ~-1 ~163 ~88 ~-1 ~163 grass 0  
+fill ~86 ~-1 ~164 ~88 ~-1 ~164 grass 0  
+fill ~86 ~-1 ~165 ~88 ~-1 ~165 grass 0  
+fill ~86 ~-1 ~166 ~88 ~-1 ~166 grass 0  
+fill ~86 ~-1 ~167 ~88 ~-1 ~167 grass 0 
+setblock ~86 ~-1 ~179 double_stone_slab 0  
+fill ~86 ~-1 ~180 ~110 ~-1 ~180 grass 0 
+setblock ~87 ~-1 ~178 double_stone_slab 0  
+fill ~87 ~-1 ~179 ~110 ~-1 ~179 grass 0 
+setblock ~88 ~-1 ~177 double_stone_slab 0  
+fill ~88 ~-1 ~178 ~110 ~-1 ~178 grass 0  
+fill ~89 ~-1 ~80 ~89 ~-1 ~169 sand 0 
+setblock ~89 ~-1 ~176 double_stone_slab 0  
+fill ~89 ~-1 ~177 ~110 ~-1 ~177 grass 0  
+fill ~90 ~-1 ~79 ~110 ~-1 ~79 grass 0  
+fill ~90 ~-1 ~80 ~110 ~-1 ~80 grass 0  
+fill ~90 ~-1 ~81 ~110 ~-1 ~81 grass 0  
+fill ~90 ~-1 ~82 ~110 ~-1 ~82 grass 0  
+fill ~90 ~-1 ~83 ~110 ~-1 ~83 grass 0  
+fill ~90 ~-1 ~84 ~110 ~-1 ~84 grass 0  
+fill ~90 ~-1 ~85 ~110 ~-1 ~85 grass 0  
+fill ~90 ~-1 ~86 ~110 ~-1 ~86 grass 0  
+fill ~90 ~-1 ~87 ~110 ~-1 ~87 grass 0  
+fill ~90 ~-1 ~88 ~110 ~-1 ~88 grass 0  
+fill ~90 ~-1 ~89 ~110 ~-1 ~89 grass 0  
+fill ~90 ~-1 ~90 ~110 ~-1 ~90 grass 0  
+fill ~90 ~-1 ~91 ~110 ~-1 ~91 grass 0  
+fill ~90 ~-1 ~92 ~110 ~-1 ~92 grass 0  
+fill ~90 ~-1 ~93 ~110 ~-1 ~93 grass 0  
+fill ~90 ~-1 ~94 ~110 ~-1 ~94 grass 0  
+fill ~90 ~-1 ~95 ~110 ~-1 ~95 grass 0  
+fill ~90 ~-1 ~96 ~110 ~-1 ~96 grass 0  
+fill ~90 ~-1 ~97 ~110 ~-1 ~97 grass 0  
+fill ~90 ~-1 ~98 ~110 ~-1 ~98 grass 0  
+fill ~90 ~-1 ~99 ~110 ~-1 ~99 grass 0  
+fill ~90 ~-1 ~100 ~110 ~-1 ~100 grass 0  
+fill ~90 ~-1 ~101 ~98 ~-1 ~101 double_stone_slab 0  
+fill ~90 ~-1 ~102 ~90 ~-1 ~175 double_stone_slab 0  
+fill ~90 ~-1 ~176 ~93 ~-1 ~176 grass 0  
+fill ~91 ~-1 ~102 ~98 ~-1 ~102 wool 7  
+fill ~91 ~-1 ~103 ~101 ~-1 ~103 wool 7  
+fill ~91 ~-1 ~104 ~109 ~-1 ~104 wool 7  
+fill ~91 ~-1 ~105 ~93 ~-1 ~105 wool 7  
+fill ~91 ~-1 ~106 ~93 ~-1 ~106 wool 7  
+fill ~91 ~-1 ~107 ~93 ~-1 ~107 wool 7  
+fill ~91 ~-1 ~108 ~93 ~-1 ~108 wool 7  
+fill ~91 ~-1 ~109 ~93 ~-1 ~109 wool 7  
+fill ~91 ~-1 ~110 ~93 ~-1 ~110 wool 7  
+fill ~91 ~-1 ~111 ~93 ~-1 ~111 wool 7  
+fill ~91 ~-1 ~112 ~93 ~-1 ~112 wool 7  
+fill ~91 ~-1 ~113 ~93 ~-1 ~113 wool 7  
+fill ~91 ~-1 ~114 ~93 ~-1 ~114 wool 7  
+fill ~91 ~-1 ~115 ~93 ~-1 ~115 wool 7  
+fill ~91 ~-1 ~116 ~93 ~-1 ~116 wool 7  
+fill ~91 ~-1 ~117 ~93 ~-1 ~117 wool 7  
+fill ~91 ~-1 ~118 ~93 ~-1 ~118 wool 7  
+fill ~91 ~-1 ~119 ~93 ~-1 ~119 wool 7  
+fill ~91 ~-1 ~120 ~93 ~-1 ~120 wool 7  
+fill ~91 ~-1 ~121 ~93 ~-1 ~121 wool 7  
+fill ~91 ~-1 ~122 ~93 ~-1 ~122 wool 7  
+fill ~91 ~-1 ~123 ~93 ~-1 ~123 wool 7  
+fill ~91 ~-1 ~124 ~93 ~-1 ~124 wool 7  
+fill ~91 ~-1 ~125 ~93 ~-1 ~125 wool 7  
+fill ~91 ~-1 ~126 ~93 ~-1 ~126 wool 7  
+fill ~91 ~-1 ~127 ~93 ~-1 ~127 wool 7   
+fill ~91 ~-1 ~128 ~93 ~-1 ~128 wool 7  
+fill ~91 ~-1 ~129 ~93 ~-1 ~129 wool 7  
+fill ~91 ~-1 ~130 ~93 ~-1 ~130 wool 7  
+fill ~91 ~-1 ~131 ~93 ~-1 ~131 wool 7  
+fill ~91 ~-1 ~132 ~93 ~-1 ~132 wool 7  
+fill ~91 ~-1 ~133 ~93 ~-1 ~133 wool 7  
+fill ~91 ~-1 ~134 ~93 ~-1 ~134 wool 7  
+fill ~91 ~-1 ~135 ~93 ~-1 ~135 wool 7  
+fill ~91 ~-1 ~136 ~93 ~-1 ~136 wool 7  
+fill ~91 ~-1 ~137 ~93 ~-1 ~137 wool 7  
+fill ~91 ~-1 ~138 ~93 ~-1 ~138 wool 7  
+fill ~91 ~-1 ~139 ~109 ~-1 ~139 wool 7  
+fill ~91 ~-1 ~140 ~109 ~-1 ~140 wool 7  
+fill ~91 ~-1 ~141 ~109 ~-1 ~141 wool 7  
+fill ~91 ~-1 ~142 ~93 ~-1 ~142 wool 7  
+fill ~91 ~-1 ~143 ~93 ~-1 ~143 wool 7  
+fill ~91 ~-1 ~144 ~93 ~-1 ~144 wool 7  
+fill ~91 ~-1 ~145 ~93 ~-1 ~145 wool 7  
+fill ~91 ~-1 ~146 ~93 ~-1 ~146 wool 7  
+fill ~91 ~-1 ~147 ~93 ~-1 ~147 wool 7  
+fill ~91 ~-1 ~148 ~93 ~-1 ~148 wool 7  
+fill ~91 ~-1 ~149 ~93 ~-1 ~149 wool 7  
+fill ~91 ~-1 ~150 ~93 ~-1 ~150 wool 7  
+fill ~91 ~-1 ~151 ~93 ~-1 ~151 wool 7  
+fill ~91 ~-1 ~152 ~93 ~-1 ~152 wool 7  
+fill ~91 ~-1 ~153 ~93 ~-1 ~153 wool 7  
+fill ~91 ~-1 ~154 ~93 ~-1 ~154 wool 7  
+fill ~91 ~-1 ~155 ~93 ~-1 ~155 wool 7  
+fill ~91 ~-1 ~156 ~93 ~-1 ~156 wool 7  
+fill ~91 ~-1 ~157 ~93 ~-1 ~157 wool 7  
+fill ~91 ~-1 ~158 ~93 ~-1 ~158 wool 7  
+fill ~91 ~-1 ~159 ~93 ~-1 ~159 wool 7  
+fill ~91 ~-1 ~160 ~93 ~-1 ~160 wool 7  
+fill ~91 ~-1 ~161 ~93 ~-1 ~161 wool 7  
+fill ~91 ~-1 ~162 ~93 ~-1 ~162 wool 7  
+fill ~91 ~-1 ~163 ~93 ~-1 ~163 wool 7  
+fill ~91 ~-1 ~164 ~93 ~-1 ~164 wool 7  
+fill ~91 ~-1 ~165 ~93 ~-1 ~165 wool 7  
+fill ~91 ~-1 ~166 ~93 ~-1 ~166 wool 7  
+fill ~91 ~-1 ~167 ~93 ~-1 ~167 wool 7  
+fill ~91 ~-1 ~168 ~93 ~-1 ~168 wool 7  
+fill ~91 ~-1 ~169 ~93 ~-1 ~169 wool 7  
+fill ~91 ~-1 ~170 ~93 ~-1 ~170 wool 7  
+fill ~91 ~-1 ~171 ~93 ~-1 ~171 wool 7  
+fill ~91 ~-1 ~172 ~93 ~-1 ~172 wool 7  
+fill ~91 ~-1 ~173 ~93 ~-1 ~173 wool 7  
+fill ~91 ~-1 ~174 ~93 ~-1 ~174 wool 7  
+fill ~91 ~-1 ~175 ~93 ~-1 ~175 wool 7  
+fill ~94 ~-1 ~105 ~98 ~-1 ~105 double_stone_slab 0  
+fill ~94 ~-1 ~106 ~94 ~-1 ~138 double_stone_slab 0  
+fill ~94 ~-1 ~142 ~106 ~-1 ~142 double_stone_slab 0  
+fill ~94 ~-1 ~143 ~94 ~-1 ~176 double_stone_slab 0  
+fill ~95 ~-1 ~106 ~98 ~-1 ~106 sand 0  
+fill ~95 ~-1 ~107 ~95 ~-1 ~137 sand 0  
+fill ~95 ~-1 ~138 ~106 ~-1 ~138 double_stone_slab 0  
+fill ~95 ~-1 ~143 ~105 ~-1 ~143 dirt 0  
+fill ~95 ~-1 ~144 ~95 ~-1 ~144 dirt 0  
+fill ~95 ~-1 ~145 ~95 ~-1 ~145 dirt 0  
+fill ~95 ~-1 ~146 ~96 ~-1 ~146 dirt 0  
+fill ~95 ~-1 ~147 ~105 ~-1 ~147 grass 0  
+fill ~95 ~-1 ~148 ~105 ~-1 ~148 dirt 0  
+fill ~95 ~-1 ~149 ~95 ~-1 ~149 dirt 0  
+fill ~95 ~-1 ~150 ~95 ~-1 ~150 dirt 0  
+fill ~95 ~-1 ~151 ~105 ~-1 ~151 dirt 0  
+fill ~95 ~-1 ~152 ~105 ~-1 ~152 grass 0  
+fill ~95 ~-1 ~153 ~105 ~-1 ~153 dirt 0  
+fill ~95 ~-1 ~154 ~95 ~-1 ~154 dirt 0  
+fill ~95 ~-1 ~155 ~95 ~-1 ~155 dirt 0  
+fill ~95 ~-1 ~156 ~105 ~-1 ~156 dirt 0  
+fill ~95 ~-1 ~157 ~105 ~-1 ~157 grass 0  
+fill ~95 ~-1 ~158 ~105 ~-1 ~158 dirt 0  
+fill ~95 ~-1 ~159 ~95 ~-1 ~159 dirt 0  
+fill ~95 ~-1 ~160 ~95 ~-1 ~160 dirt 0  
+fill ~95 ~-1 ~161 ~105 ~-1 ~161 dirt 0  
+fill ~95 ~-1 ~162 ~105 ~-1 ~162 grass 0  
+fill ~95 ~-1 ~163 ~105 ~-1 ~163 dirt 0  
+fill ~95 ~-1 ~164 ~95 ~-1 ~164 dirt 0  
+fill ~95 ~-1 ~165 ~95 ~-1 ~165 dirt 0  
+fill ~95 ~-1 ~166 ~105 ~-1 ~166 dirt 0  
+fill ~95 ~-1 ~167 ~105 ~-1 ~167 grass 0  
+fill ~95 ~-1 ~168 ~97 ~-1 ~168 dirt 0  
+fill ~95 ~-1 ~169 ~95 ~-1 ~169 dirt 0  
+fill ~95 ~-1 ~170 ~95 ~-1 ~170 dirt 0  
+fill ~95 ~-1 ~171 ~105 ~-1 ~171 dirt 0  
+fill ~95 ~-1 ~172 ~110 ~-1 ~172 double_stone_slab 0  
+fill ~95 ~-1 ~173 ~109 ~-1 ~173 sand 0  
+fill ~95 ~-1 ~174 ~95 ~-1 ~175 sand 0  
+fill ~95 ~-1 ~176 ~110 ~-1 ~176 double_stone_slab 0  
+fill ~96 ~-1 ~107 ~98 ~-1 ~107 grass 0  
+fill ~96 ~-1 ~108 ~101 ~-1 ~108 grass 0  
+fill ~96 ~-1 ~109 ~104 ~-1 ~109 grass 0  
+fill ~96 ~-1 ~110 ~104 ~-1 ~110 grass 0  
+fill ~96 ~-1 ~111 ~104 ~-1 ~111 grass 0  
+fill ~96 ~-1 ~112 ~104 ~-1 ~112 grass 0  
+fill ~96 ~-1 ~113 ~104 ~-1 ~113 grass 0  
+fill ~96 ~-1 ~114 ~104 ~-1 ~114 grass 0  
+fill ~96 ~-1 ~115 ~104 ~-1 ~115 grass 0  
+fill ~96 ~-1 ~116 ~104 ~-1 ~116 grass 0  
+fill ~96 ~-1 ~117 ~104 ~-1 ~117 grass 0  
+fill ~96 ~-1 ~118 ~104 ~-1 ~118 grass 0  
+fill ~96 ~-1 ~119 ~104 ~-1 ~119 grass 0  
+fill ~96 ~-1 ~120 ~104 ~-1 ~120 grass 0  
+fill ~96 ~-1 ~121 ~96 ~-1 ~122 wool 0  
+fill ~96 ~-1 ~123 ~96 ~-1 ~134 stone 0  
+fill ~96 ~-1 ~135 ~96 ~-1 ~136 wool 0  
+fill ~96 ~-1 ~137 ~105 ~-1 ~137 sand 0  
+fill ~96 ~-1 ~144 ~104 ~-1 ~144 planks 1  
+fill ~96 ~-1 ~145 ~104 ~-1 ~145 planks 1  
+fill ~96 ~-1 ~149 ~104 ~-1 ~149 planks 1  
+fill ~96 ~-1 ~150 ~104 ~-1 ~150 planks 1  
+fill ~96 ~-1 ~154 ~104 ~-1 ~154 planks 1  
+fill ~96 ~-1 ~155 ~104 ~-1 ~155 planks 1  
+fill ~96 ~-1 ~159 ~104 ~-1 ~159 planks 1  
+fill ~96 ~-1 ~160 ~104 ~-1 ~160 planks 1  
+fill ~96 ~-1 ~164 ~104 ~-1 ~164 planks 1  
+fill ~96 ~-1 ~165 ~104 ~-1 ~165 planks 1  
+fill ~96 ~-1 ~169 ~104 ~-1 ~169 planks 1  
+fill ~96 ~-1 ~170 ~104 ~-1 ~170 planks 1  
+fill ~96 ~-1 ~174 ~108 ~-1 ~174 grass 0  
+fill ~96 ~-1 ~175 ~109 ~-1 ~175 sand 0  
+fill ~97 ~-1 ~121 ~103 ~-1 ~121 stone 0  
+fill ~97 ~-1 ~122 ~103 ~-1 ~122 stone 0 
+setblock ~97 ~-1 ~123 wool 0  
+fill ~97 ~-1 ~124 ~97 ~-1 ~133 stone 0 
+setblock ~97 ~-1 ~134 wool 0  
+fill ~97 ~-1 ~135 ~103 ~-1 ~135 stone 0  
+fill ~97 ~-1 ~136 ~103 ~-1 ~136 stone 0  
+fill ~98 ~-1 ~123 ~102 ~-1 ~123 stone 0  
+fill ~98 ~-1 ~124 ~102 ~-1 ~124 wool 0  
+fill ~98 ~-1 ~125 ~104 ~-1 ~125 stone 0  
+fill ~98 ~-1 ~126 ~104 ~-1 ~126 stone 0  
+fill ~98 ~-1 ~127 ~104 ~-1 ~127 stone 0  
+fill ~98 ~-1 ~128 ~98 ~-1 ~132 stone 0  
+fill ~98 ~-1 ~133 ~102 ~-1 ~133 wool 0  
+fill ~98 ~-1 ~134 ~102 ~-1 ~134 stone 0  
+fill ~98 ~-1 ~146 ~105 ~-1 ~146 dirt 0  
+fill ~99 ~-1 ~101 ~110 ~-1 ~101 grass 0  
+fill ~99 ~-1 ~102 ~101 ~-1 ~102 double_stone_slab 0  
+fill ~99 ~-1 ~105 ~109 ~-1 ~105 wool 7  
+fill ~99 ~-1 ~106 ~101 ~-1 ~106 double_stone_slab 0  
+fill ~99 ~-1 ~107 ~101 ~-1 ~107 sand 0  
+fill ~99 ~-1 ~128 ~101 ~-1 ~128 wool 0  
+fill ~99 ~-1 ~129 ~101 ~-1 ~129 wool 0  
+fill ~99 ~-1 ~130 ~104 ~-1 ~130 stone 0  
+fill ~99 ~-1 ~131 ~104 ~-1 ~131 stone 0  
+fill ~99 ~-1 ~132 ~104 ~-1 ~132 stone 0  
+fill ~99 ~-1 ~168 ~105 ~-1 ~168 dirt 0  
+fill ~102 ~-1 ~102 ~110 ~-1 ~102 grass 0  
+fill ~102 ~-1 ~103 ~110 ~-1 ~103 double_stone_slab 0  
+fill ~102 ~-1 ~106 ~109 ~-1 ~106 wool 7  
+fill ~102 ~-1 ~107 ~106 ~-1 ~107 double_stone_slab 0  
+fill ~102 ~-1 ~108 ~105 ~-1 ~108 sand 0  
+fill ~102 ~-1 ~128 ~104 ~-1 ~128 stone 0  
+fill ~102 ~-1 ~129 ~104 ~-1 ~129 stone 0 
+setblock ~103 ~-1 ~123 wool 0  
+fill ~103 ~-1 ~124 ~104 ~-1 ~124 stone 0  
+fill ~103 ~-1 ~133 ~104 ~-1 ~133 stone 0 
+setblock ~103 ~-1 ~134 wool 0  
+fill ~104 ~-1 ~121 ~104 ~-1 ~122 wool 0 
+setblock ~104 ~-1 ~123 stone 0 
+setblock ~104 ~-1 ~134 stone 0  
+fill ~104 ~-1 ~135 ~104 ~-1 ~136 wool 0  
+fill ~105 ~-1 ~109 ~105 ~-1 ~137 sand 0  
+fill ~105 ~-1 ~144 ~105 ~-1 ~144 dirt 0  
+fill ~105 ~-1 ~145 ~105 ~-1 ~145 dirt 0  
+fill ~105 ~-1 ~149 ~105 ~-1 ~149 dirt 0  
+fill ~105 ~-1 ~150 ~105 ~-1 ~150 dirt 0  
+fill ~105 ~-1 ~154 ~105 ~-1 ~154 dirt 0  
+fill ~105 ~-1 ~155 ~105 ~-1 ~155 dirt 0  
+fill ~105 ~-1 ~159 ~105 ~-1 ~159 dirt 0  
+fill ~105 ~-1 ~160 ~105 ~-1 ~160 dirt 0  
+fill ~105 ~-1 ~164 ~105 ~-1 ~164 dirt 0  
+fill ~105 ~-1 ~165 ~105 ~-1 ~165 dirt 0  
+fill ~105 ~-1 ~169 ~105 ~-1 ~169 dirt 0  
+fill ~105 ~-1 ~170 ~105 ~-1 ~170 dirt 0  
+fill ~106 ~-1 ~108 ~106 ~-1 ~138 double_stone_slab 0  
+fill ~106 ~-1 ~143 ~106 ~-1 ~172 double_stone_slab 0  
+fill ~107 ~-1 ~107 ~109 ~-1 ~107 wool 7  
+fill ~107 ~-1 ~108 ~109 ~-1 ~108 wool 7  
+fill ~107 ~-1 ~109 ~109 ~-1 ~109 wool 7  
+fill ~107 ~-1 ~110 ~109 ~-1 ~110 wool 7  
+fill ~107 ~-1 ~111 ~109 ~-1 ~111 wool 7  
+fill ~107 ~-1 ~112 ~109 ~-1 ~112 wool 7  
+fill ~107 ~-1 ~113 ~109 ~-1 ~113 wool 7  
+fill ~107 ~-1 ~114 ~109 ~-1 ~114 wool 7  
+fill ~107 ~-1 ~115 ~109 ~-1 ~115 wool 7  
+fill ~107 ~-1 ~116 ~109 ~-1 ~116 wool 7  
+fill ~107 ~-1 ~117 ~109 ~-1 ~117 wool 7  
+fill ~107 ~-1 ~118 ~109 ~-1 ~118 wool 7  
+fill ~107 ~-1 ~119 ~109 ~-1 ~119 wool 7  
+fill ~107 ~-1 ~120 ~109 ~-1 ~120 wool 7  
+fill ~107 ~-1 ~121 ~109 ~-1 ~121 wool 7  
+fill ~107 ~-1 ~122 ~109 ~-1 ~122 wool 7  
+fill ~107 ~-1 ~123 ~109 ~-1 ~123 wool 7  
+fill ~107 ~-1 ~124 ~109 ~-1 ~124 wool 7  
+fill ~107 ~-1 ~125 ~109 ~-1 ~125 wool 7  
+fill ~107 ~-1 ~126 ~109 ~-1 ~126 wool 7  
+fill ~107 ~-1 ~127 ~109 ~-1 ~127 wool 7  
+fill ~107 ~-1 ~128 ~109 ~-1 ~128 wool 7  
+fill ~107 ~-1 ~129 ~109 ~-1 ~129 wool 7  
+fill ~107 ~-1 ~130 ~109 ~-1 ~130 wool 7  
+fill ~107 ~-1 ~131 ~109 ~-1 ~131 wool 7  
+fill ~107 ~-1 ~132 ~109 ~-1 ~132 wool 7  
+fill ~107 ~-1 ~133 ~109 ~-1 ~133 wool 7  
+fill ~107 ~-1 ~134 ~109 ~-1 ~134 wool 7  
+fill ~107 ~-1 ~135 ~109 ~-1 ~135 wool 7  
+fill ~107 ~-1 ~136 ~109 ~-1 ~136 wool 7  
+fill ~107 ~-1 ~137 ~109 ~-1 ~137 wool 7  
+fill ~107 ~-1 ~138 ~109 ~-1 ~138 wool 7  
+fill ~107 ~-1 ~142 ~109 ~-1 ~142 wool 7  
+fill ~107 ~-1 ~143 ~109 ~-1 ~143 wool 7  
+fill ~107 ~-1 ~144 ~109 ~-1 ~144 wool 7  
+fill ~107 ~-1 ~145 ~109 ~-1 ~145 wool 7  
+fill ~107 ~-1 ~146 ~109 ~-1 ~146 wool 7  
+fill ~107 ~-1 ~147 ~109 ~-1 ~147 wool 7  
+fill ~107 ~-1 ~148 ~109 ~-1 ~148 wool 7  
+fill ~107 ~-1 ~149 ~109 ~-1 ~149 wool 7  
+fill ~107 ~-1 ~150 ~109 ~-1 ~150 wool 7  
+fill ~107 ~-1 ~151 ~109 ~-1 ~151 wool 7  
+fill ~107 ~-1 ~152 ~109 ~-1 ~152 wool 7  
+fill ~107 ~-1 ~153 ~109 ~-1 ~153 wool 7  
+fill ~107 ~-1 ~154 ~109 ~-1 ~154 wool 7  
+fill ~107 ~-1 ~155 ~109 ~-1 ~155 wool 7  
+fill ~107 ~-1 ~156 ~109 ~-1 ~156 wool 7  
+fill ~107 ~-1 ~157 ~109 ~-1 ~157 wool 7  
+fill ~107 ~-1 ~158 ~109 ~-1 ~158 wool 7  
+fill ~107 ~-1 ~159 ~109 ~-1 ~159 wool 7  
+fill ~107 ~-1 ~160 ~109 ~-1 ~160 wool 7  
+fill ~107 ~-1 ~161 ~109 ~-1 ~161 wool 7  
+fill ~107 ~-1 ~162 ~109 ~-1 ~162 wool 7  
+fill ~107 ~-1 ~163 ~109 ~-1 ~163 wool 7  
+fill ~107 ~-1 ~164 ~109 ~-1 ~164 wool 7  
+fill ~107 ~-1 ~165 ~109 ~-1 ~165 wool 7  
+fill ~107 ~-1 ~166 ~109 ~-1 ~166 wool 7  
+fill ~107 ~-1 ~167 ~109 ~-1 ~167 wool 7  
+fill ~107 ~-1 ~168 ~109 ~-1 ~168 wool 7  
+fill ~107 ~-1 ~169 ~109 ~-1 ~169 wool 7  
+fill ~107 ~-1 ~170 ~109 ~-1 ~170 wool 7  
+fill ~107 ~-1 ~171 ~109 ~-1 ~171 wool 7 
+setblock ~109 ~-1 ~174 sand 0  
+fill ~110 ~-1 ~104 ~110 ~-1 ~176 double_stone_slab 0 
+setblock ~11 ~0 ~21 double_plant 2 
+setblock ~11 ~0 ~22 tallgrass 1 
+setblock ~11 ~0 ~23 double_plant 2 
+setblock ~11 ~0 ~24 yellow_flower 0 
+setblock ~11 ~0 ~25 red_flower 0  
+fill ~11 ~0 ~26 ~11 ~0 ~27 double_plant 2 
+setblock ~11 ~0 ~28 tallgrass 1 
+setblock ~11 ~0 ~29 yellow_flower 0  
+fill ~11 ~0 ~30 ~11 ~0 ~31 double_plant 2 
+setblock ~11 ~0 ~32 tallgrass 1 
+setblock ~11 ~0 ~33 double_plant 2 
+setblock ~11 ~0 ~34 tallgrass 1 
+setblock ~11 ~0 ~35 red_flower 3  
+fill ~11 ~0 ~36 ~11 ~0 ~38 tallgrass 1 
+setblock ~11 ~0 ~39 red_flower 8 
+setblock ~11 ~0 ~40 tallgrass 1 
+setblock ~11 ~0 ~41 red_flower 3 
+setblock ~11 ~0 ~42 tallgrass 1 
+setblock ~11 ~0 ~43 double_plant 2 
+setblock ~11 ~0 ~44 tallgrass 1 
+setblock ~11 ~0 ~45 red_flower 8 
+setblock ~11 ~0 ~46 tallgrass 1 
+setblock ~11 ~0 ~47 double_plant 2  
+fill ~11 ~0 ~48 ~11 ~0 ~53 tallgrass 1 
+setblock ~11 ~0 ~54 double_plant 2 
+setblock ~11 ~0 ~55 tallgrass 1 
+setblock ~11 ~0 ~56 double_plant 2 
+setblock ~11 ~0 ~57 yellow_flower 0  
+fill ~11 ~0 ~58 ~11 ~0 ~59 double_plant 2  
+fill ~11 ~0 ~60 ~11 ~0 ~62 tallgrass 1 
+setblock ~11 ~0 ~63 double_plant 2 
+setblock ~11 ~0 ~64 tallgrass 1 
+setblock ~11 ~0 ~65 double_plant 2 
+setblock ~11 ~0 ~66 tallgrass 1 
+setblock ~11 ~0 ~67 yellow_flower 0 
+setblock ~11 ~0 ~68 double_plant 2 
+setblock ~11 ~0 ~69 yellow_flower 0 
+setblock ~11 ~0 ~70 tallgrass 1 
+setblock ~11 ~0 ~71 double_plant 2 
+setblock ~11 ~0 ~72 red_flower 8 
+setblock ~11 ~0 ~73 tallgrass 1 
+setblock ~11 ~0 ~74 double_plant 2  
+fill ~11 ~0 ~75 ~11 ~0 ~76 tallgrass 1  
+fill ~11 ~0 ~77 ~11 ~0 ~78 double_plant 2 
+setblock ~11 ~0 ~79 tallgrass 1  
+fill ~11 ~0 ~89 ~12 ~0 ~89 tallgrass 1  
+fill ~11 ~0 ~90 ~12 ~0 ~90 tallgrass 1  
+fill ~11 ~0 ~91 ~11 ~0 ~93 tallgrass 1  
+fill ~11 ~0 ~95 ~12 ~0 ~95 tallgrass 1  
+fill ~11 ~0 ~96 ~11 ~0 ~95 tallgrass 1  
+fill ~11 ~0 ~99 ~13 ~0 ~99 tallgrass 1  
+fill ~11 ~0 ~101 ~11 ~0 ~106 tallgrass 1  
+fill ~11 ~0 ~109 ~13 ~0 ~109 tallgrass 1  
+fill ~11 ~0 ~110 ~11 ~0 ~112 tallgrass 1  
+fill ~11 ~0 ~114 ~14 ~0 ~114 tallgrass 1  
+fill ~11 ~0 ~115 ~13 ~0 ~115 tallgrass 1  
+fill ~11 ~0 ~116 ~13 ~0 ~116 tallgrass 1  
+fill ~11 ~0 ~117 ~12 ~0 ~117 tallgrass 1  
+fill ~11 ~0 ~118 ~12 ~0 ~118 tallgrass 1  
+fill ~11 ~0 ~119 ~11 ~0 ~120 tallgrass 1  
+fill ~11 ~0 ~126 ~16 ~0 ~126 tallgrass 1  
+fill ~11 ~0 ~128 ~14 ~0 ~128 tallgrass 1  
+fill ~11 ~0 ~129 ~11 ~0 ~128 tallgrass 1  
+fill ~11 ~0 ~131 ~11 ~0 ~133 tallgrass 1 
+setblock ~11 ~0 ~135 tallgrass 1  
+fill ~11 ~0 ~138 ~16 ~0 ~138 tallgrass 1  
+fill ~11 ~0 ~139 ~14 ~0 ~139 tallgrass 1  
+fill ~11 ~0 ~140 ~17 ~0 ~140 tallgrass 1  
+fill ~11 ~0 ~141 ~11 ~0 ~146 tallgrass 1  
+fill ~11 ~0 ~149 ~15 ~0 ~149 tallgrass 1 
+setblock ~11 ~0 ~150 yellow_flower 0 
+setblock ~11 ~0 ~151 red_flower 3  
+fill ~11 ~0 ~152 ~16 ~0 ~152 tallgrass 1  
+fill ~11 ~0 ~153 ~12 ~0 ~153 double_plant 2  
+fill ~11 ~0 ~154 ~13 ~0 ~154 tallgrass 1  
+fill ~11 ~0 ~155 ~14 ~0 ~155 tallgrass 1  
+fill ~11 ~0 ~156 ~17 ~0 ~156 tallgrass 1  
+fill ~11 ~0 ~157 ~15 ~0 ~157 tallgrass 1  
+fill ~11 ~0 ~158 ~11 ~0 ~159 tallgrass 1 
+setblock ~12 ~0 ~91 yellow_flower 0  
+fill ~12 ~0 ~92 ~13 ~0 ~92 double_plant 2  
+fill ~12 ~0 ~93 ~14 ~0 ~93 tallgrass 1 
+setblock ~12 ~0 ~94 yellow_flower 0  
+fill ~12 ~0 ~97 ~12 ~0 ~98 double_plant 2  
+fill ~12 ~0 ~100 ~16 ~0 ~100 tallgrass 1 
+setblock ~12 ~0 ~101 red_flower 8  
+fill ~12 ~0 ~102 ~17 ~0 ~102 tallgrass 1  
+fill ~12 ~0 ~103 ~12 ~0 ~102 tallgrass 1 
+setblock ~12 ~0 ~104 double_plant 2  
+fill ~12 ~0 ~105 ~17 ~0 ~105 tallgrass 1 
+setblock ~12 ~0 ~106 yellow_flower 0  
+fill ~12 ~0 ~107 ~13 ~0 ~107 tallgrass 1  
+fill ~12 ~0 ~108 ~13 ~0 ~108 tallgrass 1  
+fill ~12 ~0 ~110 ~12 ~0 ~111 double_plant 2  
+fill ~12 ~0 ~112 ~13 ~0 ~112 tallgrass 1  
+fill ~12 ~0 ~113 ~12 ~0 ~112 tallgrass 1 
+setblock ~12 ~0 ~119 red_flower 8  
+fill ~12 ~0 ~120 ~14 ~0 ~120 tallgrass 1  
+fill ~12 ~0 ~121 ~16 ~0 ~121 tallgrass 1  
+fill ~12 ~0 ~122 ~12 ~0 ~124 tallgrass 1  
+fill ~12 ~0 ~125 ~13 ~0 ~125 double_plant 2  
+fill ~12 ~0 ~127 ~13 ~0 ~127 double_plant 2  
+fill ~12 ~0 ~130 ~14 ~0 ~130 tallgrass 1  
+fill ~12 ~0 ~131 ~12 ~0 ~132 double_plant 2  
+fill ~12 ~0 ~133 ~14 ~0 ~133 tallgrass 1  
+fill ~12 ~0 ~137 ~13 ~0 ~137 tallgrass 1 
+setblock ~12 ~0 ~141 double_plant 2  
+fill ~12 ~0 ~142 ~13 ~0 ~142 tallgrass 1 
+setblock ~12 ~0 ~143 red_flower 3 
+setblock ~12 ~0 ~144 double_plant 2  
+fill ~12 ~0 ~145 ~16 ~0 ~145 tallgrass 1  
+fill ~12 ~0 ~146 ~17 ~0 ~146 tallgrass 1  
+fill ~12 ~0 ~147 ~15 ~0 ~147 tallgrass 1  
+fill ~12 ~0 ~148 ~13 ~0 ~148 tallgrass 1  
+fill ~12 ~0 ~150 ~13 ~0 ~150 tallgrass 1  
+fill ~12 ~0 ~151 ~12 ~0 ~145 tallgrass 1 
+setblock ~12 ~0 ~158 double_plant 2  
+fill ~12 ~0 ~159 ~13 ~0 ~159 tallgrass 1  
+fill ~13 ~0 ~89 ~14 ~0 ~89 double_plant 2  
+fill ~13 ~0 ~90 ~13 ~0 ~89 double_plant 2  
+fill ~13 ~0 ~91 ~16 ~0 ~91 tallgrass 1  
+fill ~13 ~0 ~94 ~15 ~0 ~94 tallgrass 1  
+fill ~13 ~0 ~96 ~14 ~0 ~96 double_plant 2  
+fill ~13 ~0 ~97 ~14 ~0 ~97 tallgrass 1  
+fill ~13 ~0 ~98 ~14 ~0 ~98 yellow_flower 0  
+fill ~13 ~0 ~101 ~15 ~0 ~101 tallgrass 1  
+fill ~13 ~0 ~103 ~15 ~0 ~103 double_plant 2  
+fill ~13 ~0 ~104 ~15 ~0 ~104 tallgrass 1  
+fill ~13 ~0 ~106 ~14 ~0 ~106 tallgrass 1 
+setblock ~13 ~0 ~110 tallgrass 1  
+fill ~13 ~0 ~111 ~14 ~0 ~111 double_plant 2  
+fill ~13 ~0 ~113 ~14 ~0 ~113 yellow_flower 0  
+fill ~13 ~0 ~117 ~13 ~0 ~119 double_plant 2  
+fill ~13 ~0 ~123 ~14 ~0 ~123 tallgrass 1  
+fill ~13 ~0 ~124 ~16 ~0 ~124 tallgrass 1 
+setblock ~13 ~0 ~129 tallgrass 1  
+fill ~13 ~0 ~131 ~15 ~0 ~131 tallgrass 1 
+setblock ~13 ~0 ~132 double_plant 2  
+fill ~13 ~0 ~134 ~16 ~0 ~134 tallgrass 1  
+fill ~13 ~0 ~135 ~14 ~0 ~135 tallgrass 1  
+fill ~13 ~0 ~136 ~14 ~0 ~136 tallgrass 1 
+setblock ~13 ~0 ~141 red_flower 0 
+setblock ~13 ~0 ~143 red_flower 0  
+fill ~13 ~0 ~144 ~17 ~0 ~144 tallgrass 1 
+setblock ~13 ~0 ~151 red_flower 8  
+fill ~13 ~0 ~153 ~15 ~0 ~153 tallgrass 1  
+fill ~13 ~0 ~158 ~17 ~0 ~158 tallgrass 1 
+setblock ~14 ~0 ~90 tallgrass 1  
+fill ~14 ~0 ~92 ~16 ~0 ~92 tallgrass 1 
+setblock ~14 ~0 ~95 tallgrass 1 
+setblock ~14 ~0 ~99 double_plant 2  
+fill ~14 ~0 ~107 ~15 ~0 ~107 double_plant 2 
+setblock ~14 ~0 ~108 red_flower 0  
+fill ~14 ~0 ~109 ~14 ~0 ~111 double_plant 2  
+fill ~14 ~0 ~112 ~15 ~0 ~112 red_flower 0 
+setblock ~14 ~0 ~115 red_flower 8 
+setblock ~14 ~0 ~116 double_plant 2 
+setblock ~14 ~0 ~117 tallgrass 1 
+setblock ~14 ~0 ~118 red_flower 3  
+fill ~14 ~0 ~119 ~16 ~0 ~119 tallgrass 1  
+fill ~14 ~0 ~122 ~16 ~0 ~122 tallgrass 1  
+fill ~14 ~0 ~125 ~17 ~0 ~125 tallgrass 1  
+fill ~14 ~0 ~127 ~16 ~0 ~127 tallgrass 1 
+setblock ~14 ~0 ~129 yellow_flower 0  
+fill ~14 ~0 ~132 ~15 ~0 ~132 tallgrass 1 
+setblock ~14 ~0 ~137 double_plant 2  
+fill ~14 ~0 ~141 ~15 ~0 ~141 tallgrass 1 
+setblock ~14 ~0 ~142 yellow_flower 0 
+setblock ~14 ~0 ~143 tallgrass 1 
+setblock ~14 ~0 ~148 red_flower 8 
+setblock ~14 ~0 ~150 double_plant 2  
+fill ~14 ~0 ~151 ~15 ~0 ~151 tallgrass 1 
+setblock ~14 ~0 ~154 double_plant 2 
+setblock ~14 ~0 ~159 double_plant 2 
+setblock ~15 ~0 ~89 red_flower 3 
+setblock ~15 ~0 ~90 double_plant 2 
+setblock ~15 ~0 ~93 yellow_flower 0  
+fill ~15 ~0 ~95 ~16 ~0 ~95 red_flower 3 
+setblock ~15 ~0 ~96 tallgrass 1 
+setblock ~15 ~0 ~97 red_flower 0  
+fill ~15 ~0 ~98 ~15 ~0 ~102 tallgrass 1 
+setblock ~15 ~0 ~106 red_flower 3  
+fill ~15 ~0 ~108 ~16 ~0 ~108 tallgrass 1  
+fill ~15 ~0 ~109 ~17 ~0 ~109 tallgrass 1  
+fill ~15 ~0 ~110 ~17 ~0 ~110 tallgrass 1  
+fill ~15 ~0 ~111 ~17 ~0 ~111 tallgrass 1  
+fill ~15 ~0 ~113 ~17 ~0 ~113 tallgrass 1 
+setblock ~15 ~0 ~114 red_flower 3  
+fill ~15 ~0 ~115 ~15 ~0 ~116 tallgrass 1 
+setblock ~15 ~0 ~117 red_flower 0 
+setblock ~15 ~0 ~118 tallgrass 1 
+setblock ~15 ~0 ~120 double_plant 2 
+setblock ~15 ~0 ~123 double_plant 2  
+fill ~15 ~0 ~128 ~16 ~0 ~128 double_plant 2 
+setblock ~15 ~0 ~129 tallgrass 1 
+setblock ~15 ~0 ~130 double_plant 2  
+fill ~15 ~0 ~133 ~17 ~0 ~133 double_plant 2 
+setblock ~15 ~0 ~135 red_flower 8 
+setblock ~15 ~0 ~136 double_plant 2  
+fill ~15 ~0 ~137 ~16 ~0 ~137 tallgrass 1  
+fill ~15 ~0 ~142 ~17 ~0 ~142 tallgrass 1 
+setblock ~15 ~0 ~143 red_flower 3 
+setblock ~15 ~0 ~148 tallgrass 1 
+setblock ~15 ~0 ~150 red_flower 3  
+fill ~15 ~0 ~154 ~16 ~0 ~154 tallgrass 1 
+setblock ~15 ~0 ~155 double_plant 2 
+setblock ~15 ~0 ~159 yellow_flower 0 
+setblock ~16 ~0 ~89 double_plant 2 
+setblock ~16 ~0 ~90 yellow_flower 0 
+setblock ~16 ~0 ~94 double_plant 2 
+setblock ~16 ~0 ~96 double_plant 2  
+fill ~16 ~0 ~97 ~17 ~0 ~97 tallgrass 1 
+setblock ~16 ~0 ~99 tallgrass 1 
+setblock ~16 ~0 ~101 double_plant 2  
+fill ~16 ~0 ~103 ~17 ~0 ~103 tallgrass 1 
+setblock ~16 ~0 ~104 red_flower 3 
+setblock ~16 ~0 ~106 double_plant 2 
+setblock ~16 ~0 ~107 tallgrass 1 
+setblock ~16 ~0 ~112 double_plant 2 
+setblock ~16 ~0 ~114 tallgrass 1 
+setblock ~16 ~0 ~115 red_flower 8  
+fill ~16 ~0 ~116 ~17 ~0 ~116 tallgrass 1  
+fill ~16 ~0 ~117 ~16 ~0 ~116 tallgrass 1 
+setblock ~16 ~0 ~118 red_flower 0  
+fill ~16 ~0 ~120 ~17 ~0 ~120 tallgrass 1  
+fill ~16 ~0 ~123 ~17 ~0 ~123 tallgrass 1 
+setblock ~16 ~0 ~129 double_plant 2  
+fill ~16 ~0 ~130 ~17 ~0 ~130 tallgrass 1 
+setblock ~16 ~0 ~131 red_flower 0  
+fill ~16 ~0 ~135 ~17 ~0 ~135 tallgrass 1 
+setblock ~16 ~0 ~136 red_flower 0 
+setblock ~16 ~0 ~139 tallgrass 1 
+setblock ~16 ~0 ~141 yellow_flower 0 
+setblock ~16 ~0 ~143 double_plant 2 
+setblock ~16 ~0 ~147 red_flower 3  
+fill ~16 ~0 ~148 ~17 ~0 ~148 double_plant 2 
+setblock ~16 ~0 ~149 red_flower 0 
+setblock ~16 ~0 ~150 tallgrass 1 
+setblock ~16 ~0 ~151 yellow_flower 0 
+setblock ~16 ~0 ~153 red_flower 3  
+fill ~16 ~0 ~155 ~17 ~0 ~155 tallgrass 1 
+setblock ~16 ~0 ~157 double_plant 2  
+fill ~16 ~0 ~159 ~17 ~0 ~159 tallgrass 1  
+fill ~17 ~0 ~89 ~17 ~0 ~90 tallgrass 1  
+fill ~17 ~0 ~93 ~17 ~0 ~98 tallgrass 1 
+setblock ~17 ~0 ~101 tallgrass 1 
+setblock ~17 ~0 ~104 tallgrass 1 
+setblock ~17 ~0 ~112 tallgrass 1 
+setblock ~17 ~0 ~114 yellow_flower 0 
+setblock ~17 ~0 ~115 red_flower 3 
+setblock ~17 ~0 ~118 tallgrass 1  
+fill ~17 ~0 ~121 ~17 ~0 ~122 double_plant 2  
+fill ~17 ~0 ~128 ~17 ~0 ~130 tallgrass 1 
+setblock ~17 ~0 ~131 yellow_flower 0 
+setblock ~17 ~0 ~132 tallgrass 1 
+setblock ~17 ~0 ~134 yellow_flower 0 
+setblock ~17 ~0 ~136 tallgrass 1 
+setblock ~17 ~0 ~143 tallgrass 1 
+setblock ~17 ~0 ~145 double_plant 2 
+setblock ~17 ~0 ~147 tallgrass 1 
+setblock ~17 ~0 ~149 tallgrass 1 
+setblock ~17 ~0 ~150 yellow_flower 0  
+fill ~17 ~0 ~151 ~17 ~0 ~152 double_plant 2 
+setblock ~17 ~0 ~153 yellow_flower 0 
+setblock ~17 ~0 ~157 tallgrass 1  
+fill ~20 ~0 ~71 ~20 ~2 ~71 cobblestone_wall 0  
+fill ~20 ~0 ~80 ~20 ~2 ~80 cobblestone_wall 0  
+fill ~22 ~0 ~51 ~24 ~0 ~51 wool 8  
+fill ~22 ~0 ~53 ~24 ~0 ~53 wool 8  
+fill ~23 ~0 ~52 ~23 ~5 ~52 ladder 4  
+fill ~24 ~0 ~52 ~24 ~5 ~52 wool 8  
+fill ~24 ~0 ~175 ~30 ~0 ~175 wool 8  
+fill ~24 ~0 ~176 ~24 ~4 ~176 wool 8  
+fill ~24 ~0 ~177 ~24 ~4 ~177 wool 8  
+fill ~24 ~0 ~178 ~24 ~4 ~178 wool 8  
+fill ~24 ~0 ~179 ~24 ~4 ~179 wool 8  
+fill ~24 ~0 ~180 ~24 ~4 ~180 wool 8  
+fill ~24 ~0 ~181 ~24 ~4 ~181 wool 8  
+fill ~24 ~0 ~182 ~24 ~4 ~182 wool 8  
+fill ~24 ~0 ~183 ~24 ~4 ~183 wool 8  
+fill ~24 ~0 ~184 ~24 ~4 ~184 wool 8  
+fill ~24 ~0 ~185 ~30 ~0 ~185 wool 8  
+fill ~26 ~0 ~71 ~26 ~2 ~71 cobblestone_wall 0  
+fill ~26 ~0 ~80 ~26 ~2 ~80 cobblestone_wall 0  
+fill ~30 ~0 ~172 ~30 ~6 ~172 wool 8  
+fill ~30 ~0 ~173 ~30 ~6 ~173 wool 8  
+fill ~30 ~0 ~174 ~30 ~6 ~174 wool 8  
+fill ~30 ~0 ~186 ~30 ~6 ~186 wool 8  
+fill ~30 ~0 ~187 ~30 ~6 ~187 wool 8  
+fill ~30 ~0 ~188 ~45 ~0 ~188 wool 8  
+fill ~31 ~0 ~58 ~42 ~0 ~58 wool 8  
+fill ~31 ~0 ~65 ~42 ~0 ~65 wool 8  
+fill ~32 ~0 ~71 ~32 ~2 ~71 cobblestone_wall 0  
+fill ~32 ~0 ~80 ~32 ~2 ~80 cobblestone_wall 0  
+fill ~38 ~0 ~71 ~38 ~2 ~71 cobblestone_wall 0  
+fill ~38 ~0 ~80 ~38 ~2 ~80 cobblestone_wall 0  
+fill ~41 ~0 ~71 ~41 ~2 ~71 cobblestone_wall 0  
+fill ~41 ~0 ~80 ~41 ~2 ~80 cobblestone_wall 0  
+fill ~42 ~0 ~49 ~43 ~0 ~49 crafting_table 0  
+fill ~42 ~0 ~50 ~43 ~0 ~50 crafting_table 0  
+fill ~42 ~0 ~52 ~43 ~0 ~52 crafting_table 0  
+fill ~42 ~0 ~53 ~43 ~0 ~53 crafting_table 0  
+fill ~42 ~0 ~55 ~43 ~0 ~55 crafting_table 0  
+fill ~42 ~0 ~56 ~43 ~0 ~56 crafting_table 0  
+fill ~42 ~0 ~59 ~42 ~3 ~59 wool 8  
+fill ~42 ~0 ~60 ~42 ~3 ~60 wool 8  
+fill ~42 ~0 ~61 ~42 ~3 ~61 wool 8  
+fill ~42 ~0 ~62 ~42 ~3 ~62 wool 8  
+fill ~42 ~0 ~63 ~42 ~3 ~63 wool 8  
+fill ~42 ~0 ~64 ~42 ~3 ~64 wool 8  
+fill ~45 ~0 ~49 ~46 ~0 ~49 crafting_table 0  
+fill ~45 ~0 ~50 ~46 ~0 ~50 crafting_table 0  
+fill ~45 ~0 ~52 ~46 ~0 ~52 crafting_table 0  
+fill ~45 ~0 ~53 ~46 ~0 ~53 crafting_table 0  
+fill ~45 ~0 ~55 ~46 ~0 ~55 crafting_table 0  
+fill ~45 ~0 ~56 ~46 ~0 ~56 crafting_table 0 
+setblock ~45 ~0 ~59 double_plant 2 
+setblock ~45 ~0 ~60 tallgrass 1 
+setblock ~45 ~0 ~61 double_plant 2 
+setblock ~45 ~0 ~62 tallgrass 1 
+setblock ~45 ~0 ~63 double_plant 2 
+setblock ~45 ~0 ~64 tallgrass 1  
+fill ~45 ~0 ~172 ~45 ~6 ~172 wool 8  
+fill ~45 ~0 ~173 ~45 ~6 ~173 wool 8  
+fill ~45 ~0 ~174 ~45 ~6 ~174 wool 8  
+fill ~45 ~0 ~175 ~51 ~0 ~175 wool 8  
+fill ~45 ~0 ~185 ~51 ~0 ~185 wool 8  
+fill ~45 ~0 ~186 ~45 ~6 ~186 wool 8  
+fill ~45 ~0 ~187 ~45 ~6 ~187 wool 8 
+setblock ~46 ~0 ~59 red_flower 8 
+setblock ~47 ~0 ~59 double_plant 2  
+fill ~47 ~0 ~71 ~47 ~2 ~71 cobblestone_wall 0  
+fill ~47 ~0 ~80 ~47 ~2 ~80 cobblestone_wall 0  
+fill ~48 ~0 ~49 ~49 ~0 ~49 crafting_table 0  
+fill ~48 ~0 ~50 ~49 ~0 ~50 crafting_table 0  
+fill ~48 ~0 ~52 ~49 ~0 ~52 crafting_table 0  
+fill ~48 ~0 ~53 ~49 ~0 ~53 crafting_table 0  
+fill ~48 ~0 ~55 ~49 ~0 ~55 crafting_table 0  
+fill ~48 ~0 ~56 ~49 ~0 ~56 crafting_table 0 
+setblock ~48 ~0 ~59 tallgrass 1 
+setblock ~49 ~0 ~59 double_plant 2  
+fill ~49 ~0 ~63 ~55 ~0 ~63 wool 14  
+fill ~49 ~0 ~64 ~55 ~0 ~64 wool 14 
+setblock ~50 ~0 ~59 yellow_flower 0  
+fill ~50 ~0 ~71 ~50 ~2 ~71 cobblestone_wall 0  
+fill ~50 ~0 ~80 ~50 ~2 ~80 cobblestone_wall 0  
+fill ~51 ~0 ~49 ~52 ~0 ~49 crafting_table 0  
+fill ~51 ~0 ~50 ~52 ~0 ~50 crafting_table 0  
+fill ~51 ~0 ~52 ~52 ~0 ~52 crafting_table 0  
+fill ~51 ~0 ~53 ~52 ~0 ~53 crafting_table 0  
+fill ~51 ~0 ~55 ~52 ~0 ~55 crafting_table 0  
+fill ~51 ~0 ~56 ~52 ~0 ~56 crafting_table 0  
+fill ~51 ~0 ~59 ~52 ~0 ~59 double_plant 2  
+fill ~51 ~0 ~178 ~51 ~4 ~178 wool 8  
+fill ~51 ~0 ~179 ~51 ~4 ~179 wool 8  
+fill ~51 ~0 ~180 ~51 ~4 ~180 wool 8  
+fill ~51 ~0 ~181 ~51 ~4 ~181 wool 8  
+fill ~51 ~0 ~182 ~51 ~4 ~182 wool 8  
+fill ~51 ~0 ~183 ~51 ~4 ~183 wool 8  
+fill ~51 ~0 ~184 ~51 ~4 ~184 wool 8 
+setblock ~53 ~0 ~59 red_flower 3 
+setblock ~54 ~0 ~59 tallgrass 1 
+setblock ~55 ~0 ~38 double_plant 2 
+setblock ~55 ~0 ~39 tallgrass 1 
+setblock ~55 ~0 ~59 double_plant 2  
+fill ~56 ~0 ~71 ~56 ~2 ~71 cobblestone_wall 0  
+fill ~56 ~0 ~80 ~56 ~2 ~80 cobblestone_wall 0  
+fill ~57 ~0 ~86 ~79 ~0 ~86 wool 8  
+fill ~57 ~0 ~87 ~57 ~6 ~87 wool 15  
+fill ~57 ~0 ~88 ~57 ~6 ~88 wool 15  
+fill ~57 ~0 ~89 ~57 ~6 ~89 wool 15  
+fill ~57 ~0 ~90 ~57 ~6 ~90 wool 15  
+fill ~57 ~0 ~91 ~57 ~6 ~91 wool 15  
+fill ~57 ~0 ~92 ~57 ~6 ~92 wool 15  
+fill ~57 ~0 ~98 ~57 ~6 ~98 wool 15  
+fill ~57 ~0 ~99 ~57 ~6 ~99 wool 15  
+fill ~57 ~0 ~100 ~57 ~6 ~100 wool 15  
+fill ~57 ~0 ~101 ~57 ~6 ~101 wool 15  
+fill ~57 ~0 ~102 ~57 ~6 ~102 wool 15  
+fill ~57 ~0 ~103 ~57 ~6 ~103 wool 15  
+fill ~57 ~0 ~104 ~79 ~0 ~104 wool 8  
+fill ~57 ~0 ~119 ~79 ~0 ~119 wool 8  
+fill ~57 ~0 ~120 ~57 ~6 ~120 wool 15  
+fill ~57 ~0 ~121 ~57 ~6 ~121 wool 15  
+fill ~57 ~0 ~122 ~57 ~6 ~122 wool 15  
+fill ~57 ~0 ~123 ~57 ~6 ~123 wool 15  
+fill ~57 ~0 ~124 ~57 ~6 ~124 wool 15  
+fill ~57 ~0 ~125 ~57 ~6 ~125 wool 15  
+fill ~57 ~0 ~131 ~57 ~6 ~131 wool 15  
+fill ~57 ~0 ~132 ~57 ~6 ~132 wool 15  
+fill ~57 ~0 ~133 ~57 ~6 ~133 wool 15  
+fill ~57 ~0 ~134 ~57 ~6 ~134 wool 15  
+fill ~57 ~0 ~135 ~57 ~6 ~135 wool 15  
+fill ~57 ~0 ~136 ~57 ~6 ~136 wool 15  
+fill ~57 ~0 ~137 ~79 ~0 ~137 wool 8  
+fill ~57 ~0 ~170 ~79 ~0 ~170 wool 8  
+fill ~57 ~0 ~171 ~57 ~2 ~171 wool 8  
+fill ~57 ~0 ~172 ~57 ~0 ~183 wool 8 
+setblock ~58 ~0 ~111 double_plant 2  
+fill ~58 ~0 ~112 ~64 ~0 ~112 tallgrass 1 
+setblock ~58 ~0 ~168 tallgrass 1  
+fill ~58 ~0 ~183 ~64 ~0 ~183 wool 8  
+fill ~58 ~0 ~196 ~58 ~2 ~196 wool 8  
+fill ~59 ~0 ~111 ~60 ~0 ~111 tallgrass 1 
+setblock ~59 ~0 ~195 wool 8 
+setblock ~59 ~0 ~197 wool 8  
+fill ~60 ~0 ~168 ~61 ~0 ~168 tallgrass 1 
+setblock ~60 ~0 ~194 wool 8 
+setblock ~60 ~0 ~198 wool 8 
+setblock ~61 ~0 ~111 double_plant 2 
+setblock ~61 ~0 ~193 wool 8 
+setblock ~61 ~0 ~199 wool 8  
+fill ~62 ~0 ~71 ~62 ~0 ~72 double_plant 2 
+setblock ~62 ~0 ~74 double_plant 2  
+fill ~62 ~0 ~75 ~63 ~0 ~75 tallgrass 1  
+fill ~62 ~0 ~76 ~62 ~0 ~75 tallgrass 1 
+setblock ~62 ~0 ~77 double_plant 2  
+fill ~62 ~0 ~78 ~64 ~0 ~78 tallgrass 1  
+fill ~62 ~0 ~79 ~62 ~0 ~78 tallgrass 1 
+setblock ~62 ~0 ~80 double_plant 2 
+setblock ~62 ~0 ~111 tallgrass 1 
+setblock ~62 ~0 ~168 double_plant 2  
+fill ~62 ~0 ~192 ~62 ~2 ~192 wool 8 
+setblock ~62 ~0 ~200 wool 8  
+fill ~63 ~0 ~71 ~64 ~0 ~71 tallgrass 1 
+setblock ~63 ~0 ~72 double_plant 2  
+fill ~63 ~0 ~73 ~64 ~0 ~73 tallgrass 1 
+setblock ~63 ~0 ~77 tallgrass 1 
+setblock ~63 ~0 ~79 red_flower 3 
+setblock ~63 ~0 ~80 tallgrass 1 
+setblock ~63 ~0 ~111 double_plant 2 
+setblock ~63 ~0 ~128 wool 15 
+setblock ~63 ~0 ~144 tallgrass 1  
+fill ~63 ~0 ~168 ~64 ~0 ~168 tallgrass 1 
+setblock ~63 ~0 ~191 wool 8  
+fill ~63 ~0 ~201 ~63 ~2 ~201 wool 8  
+fill ~64 ~0 ~72 ~65 ~0 ~72 tallgrass 1  
+fill ~64 ~0 ~74 ~64 ~6 ~74 wool 8  
+fill ~64 ~0 ~75 ~64 ~1 ~75 wool 7  
+fill ~64 ~0 ~76 ~64 ~1 ~76 wool 7  
+fill ~64 ~0 ~77 ~64 ~6 ~77 wool 8 
+setblock ~64 ~0 ~80 double_plant 2  
+fill ~64 ~0 ~111 ~65 ~0 ~111 tallgrass 1 
+setblock ~64 ~0 ~128 iron_bars 0 
+setblock ~64 ~0 ~144 double_plant 2  
+fill ~64 ~0 ~177 ~79 ~0 ~177 wool 8  
+fill ~64 ~0 ~178 ~64 ~2 ~178 wool 8  
+fill ~64 ~0 ~179 ~64 ~0 ~183 wool 8 
+setblock ~64 ~0 ~190 wool 8 
+setblock ~64 ~0 ~200 wool 8 
+setblock ~65 ~0 ~71 double_plant 2  
+fill ~65 ~0 ~73 ~65 ~6 ~73 wool 8 
+setblock ~65 ~0 ~77 tallgrass 1  
+fill ~65 ~0 ~78 ~65 ~6 ~78 wool 8  
+fill ~65 ~0 ~79 ~65 ~0 ~80 tallgrass 1 
+setblock ~65 ~0 ~112 double_plant 2 
+setblock ~65 ~0 ~144 tallgrass 1 
+setblock ~65 ~0 ~168 double_plant 2 
+setblock ~65 ~0 ~189 wool 8 
+setblock ~65 ~0 ~199 wool 8 
+setblock ~66 ~0 ~71 tallgrass 1  
+fill ~66 ~0 ~72 ~66 ~6 ~72 wool 8  
+fill ~66 ~0 ~73 ~67 ~0 ~73 tallgrass 1 
+setblock ~66 ~0 ~76 tallgrass 1 
+setblock ~66 ~0 ~78 tallgrass 1  
+fill ~66 ~0 ~79 ~66 ~6 ~79 wool 8 
+setblock ~66 ~0 ~80 tallgrass 1 
+setblock ~66 ~0 ~111 double_plant 2 
+setblock ~66 ~0 ~112 tallgrass 1 
+setblock ~66 ~0 ~144 double_plant 2  
+fill ~66 ~0 ~168 ~68 ~0 ~168 tallgrass 1  
+fill ~66 ~0 ~188 ~66 ~2 ~188 wool 8 
+setblock ~66 ~0 ~198 wool 8  
+fill ~67 ~0 ~71 ~67 ~6 ~71 wool 8 
+setblock ~67 ~0 ~74 tallgrass 1 
+setblock ~67 ~0 ~79 tallgrass 1  
+fill ~67 ~0 ~80 ~67 ~6 ~80 wool 8 
+setblock ~67 ~0 ~111 tallgrass 1 
+setblock ~67 ~0 ~112 red_flower 0  
+fill ~67 ~0 ~144 ~70 ~0 ~144 tallgrass 1  
+fill ~67 ~0 ~147 ~79 ~0 ~147 wool 8  
+fill ~67 ~0 ~154 ~79 ~0 ~154 wool 8  
+fill ~67 ~0 ~158 ~79 ~0 ~158 wool 8  
+fill ~67 ~0 ~165 ~79 ~0 ~165 wool 8 
+setblock ~67 ~0 ~187 wool 8  
+fill ~67 ~0 ~197 ~67 ~2 ~197 wool 8  
+fill ~68 ~0 ~71 ~69 ~0 ~71 wool 7  
+fill ~68 ~0 ~80 ~69 ~0 ~80 wool 7  
+fill ~68 ~0 ~111 ~69 ~0 ~111 double_plant 2  
+fill ~68 ~0 ~112 ~78 ~0 ~112 tallgrass 1 
+setblock ~68 ~0 ~186 wool 8 
+setblock ~68 ~0 ~196 wool 8 
+setblock ~69 ~0 ~168 yellow_flower 0 
+setblock ~69 ~0 ~185 wool 8 
+setblock ~69 ~0 ~195 wool 8  
+fill ~70 ~0 ~71 ~70 ~6 ~71 wool 8  
+fill ~70 ~0 ~80 ~70 ~6 ~80 wool 8 
+setblock ~70 ~0 ~111 tallgrass 1 
+setblock ~70 ~0 ~168 tallgrass 1  
+fill ~70 ~0 ~184 ~70 ~2 ~184 wool 8 
+setblock ~70 ~0 ~194 wool 8  
+fill ~71 ~0 ~72 ~71 ~6 ~72 wool 8 
+setblock ~71 ~0 ~78 tallgrass 1  
+fill ~71 ~0 ~79 ~71 ~6 ~79 wool 8  
+fill ~71 ~0 ~80 ~72 ~0 ~80 tallgrass 1 
+setblock ~71 ~0 ~111 red_flower 3 
+setblock ~71 ~0 ~144 double_plant 2  
+fill ~71 ~0 ~168 ~73 ~0 ~168 double_plant 2 
+setblock ~71 ~0 ~185 wool 8  
+fill ~71 ~0 ~193 ~71 ~2 ~193 wool 8  
+fill ~72 ~0 ~73 ~72 ~6 ~73 wool 8 
+setblock ~72 ~0 ~76 tallgrass 1  
+fill ~72 ~0 ~78 ~72 ~6 ~78 wool 8  
+fill ~72 ~0 ~79 ~78 ~0 ~79 tallgrass 1 
+setblock ~72 ~0 ~111 double_plant 2 
+setblock ~72 ~0 ~144 red_flower 0 
+setblock ~72 ~0 ~186 wool 8 
+setblock ~72 ~0 ~192 wool 8  
+fill ~73 ~0 ~74 ~73 ~6 ~74 wool 8  
+fill ~73 ~0 ~75 ~73 ~1 ~75 wool 7  
+fill ~73 ~0 ~76 ~73 ~1 ~76 wool 7  
+fill ~73 ~0 ~77 ~73 ~6 ~77 wool 8 
+setblock ~73 ~0 ~78 red_flower 8 
+setblock ~73 ~0 ~80 double_plant 2 
+setblock ~73 ~0 ~111 tallgrass 1 
+setblock ~73 ~0 ~144 double_plant 2 
+setblock ~73 ~0 ~187 wool 8 
+setblock ~73 ~0 ~191 wool 8 
+setblock ~74 ~0 ~78 tallgrass 1  
+fill ~74 ~0 ~80 ~78 ~0 ~80 tallgrass 1 
+setblock ~74 ~0 ~111 red_flower 0 
+setblock ~74 ~0 ~144 tallgrass 1  
+fill ~74 ~0 ~168 ~75 ~0 ~168 tallgrass 1 
+setblock ~74 ~0 ~188 wool 8 
+setblock ~74 ~0 ~190 wool 8  
+fill ~75 ~0 ~77 ~76 ~0 ~77 tallgrass 1 
+setblock ~75 ~0 ~78 double_plant 2 
+setblock ~75 ~0 ~111 double_plant 2 
+setblock ~75 ~0 ~144 red_flower 0  
+fill ~76 ~0 ~78 ~77 ~0 ~78 tallgrass 1 
+setblock ~76 ~0 ~111 tallgrass 1 
+setblock ~76 ~0 ~144 tallgrass 1  
+fill ~76 ~0 ~168 ~77 ~0 ~168 yellow_flower 0 
+setblock ~77 ~0 ~111 double_plant 2 
+setblock ~77 ~0 ~144 red_flower 0 
+setblock ~78 ~0 ~111 yellow_flower 0 
+setblock ~78 ~0 ~144 yellow_flower 0  
+fill ~78 ~0 ~168 ~79 ~0 ~168 tallgrass 1 
+setblock ~79 ~0 ~80 red_flower 8  
+fill ~79 ~0 ~87 ~79 ~7 ~87 wool 8  
+fill ~79 ~0 ~88 ~79 ~7 ~88 wool 8  
+fill ~79 ~0 ~89 ~79 ~8 ~89 wool 8  
+fill ~79 ~0 ~90 ~79 ~8 ~90 wool 8  
+fill ~79 ~0 ~91 ~79 ~9 ~91 wool 8  
+fill ~79 ~0 ~92 ~79 ~9 ~92 wool 8  
+fill ~79 ~0 ~93 ~79 ~10 ~93 wool 8  
+fill ~79 ~0 ~94 ~79 ~10 ~94 wool 8  
+fill ~79 ~0 ~95 ~79 ~10 ~95 wool 8  
+fill ~79 ~0 ~96 ~79 ~10 ~96 wool 8  
+fill ~79 ~0 ~97 ~79 ~10 ~97 wool 8  
+fill ~79 ~0 ~98 ~79 ~9 ~98 wool 8  
+fill ~79 ~0 ~99 ~79 ~9 ~99 wool 8  
+fill ~79 ~0 ~100 ~79 ~8 ~100 wool 8  
+fill ~79 ~0 ~101 ~79 ~8 ~101 wool 8   
+fill ~79 ~0 ~102 ~79 ~7 ~102 wool 8  
+fill ~79 ~0 ~103 ~79 ~7 ~103 wool 8  
+fill ~79 ~0 ~120 ~79 ~7 ~120 wool 8  
+fill ~79 ~0 ~121 ~79 ~7 ~121 wool 8  
+fill ~79 ~0 ~122 ~79 ~8 ~122 wool 8  
+fill ~79 ~0 ~123 ~79 ~8 ~123 wool 8  
+fill ~79 ~0 ~124 ~79 ~9 ~124 wool 8  
+fill ~79 ~0 ~125 ~79 ~9 ~125 wool 8  
+fill ~79 ~0 ~126 ~79 ~10 ~126 wool 8  
+fill ~79 ~0 ~127 ~79 ~10 ~127 wool 8  
+fill ~79 ~0 ~128 ~79 ~10 ~128 wool 8  
+fill ~79 ~0 ~129 ~79 ~10 ~129 wool 8  
+fill ~79 ~0 ~130 ~79 ~10 ~130 wool 8  
+fill ~79 ~0 ~131 ~79 ~9 ~131 wool 8  
+fill ~79 ~0 ~132 ~79 ~9 ~132 wool 8  
+fill ~79 ~0 ~133 ~79 ~8 ~133 wool 8  
+fill ~79 ~0 ~134 ~79 ~8 ~134 wool 8  
+fill ~79 ~0 ~135 ~79 ~7 ~135 wool 8  
+fill ~79 ~0 ~136 ~79 ~7 ~136 wool 8 
+setblock ~79 ~0 ~144 tallgrass 1  
+fill ~79 ~0 ~148 ~79 ~4 ~148 wool 8  
+fill ~79 ~0 ~149 ~79 ~4 ~149 wool 8  
+fill ~79 ~0 ~150 ~79 ~4 ~150 wool 8  
+fill ~79 ~0 ~151 ~79 ~4 ~151 wool 8  
+fill ~79 ~0 ~152 ~79 ~4 ~152 wool 8  
+fill ~79 ~0 ~153 ~79 ~4 ~153 wool 8  
+fill ~79 ~0 ~159 ~79 ~4 ~159 wool 8  
+fill ~79 ~0 ~160 ~79 ~4 ~160 wool 8  
+fill ~79 ~0 ~161 ~79 ~4 ~161 wool 8  
+fill ~79 ~0 ~162 ~79 ~4 ~162 wool 8  
+fill ~79 ~0 ~163 ~79 ~4 ~163 wool 8  
+fill ~79 ~0 ~164 ~79 ~3 ~164 wool 8  
+fill ~79 ~0 ~171 ~79 ~2 ~171 wool 8  
+fill ~79 ~0 ~172 ~79 ~0 ~177 wool 8 
+setblock ~80 ~0 ~144 double_plant 2 
+setblock ~80 ~0 ~168 red_flower 0  
+fill ~81 ~0 ~144 ~82 ~0 ~144 tallgrass 1  
+fill ~81 ~0 ~168 ~82 ~0 ~168 double_plant 2 
+setblock ~83 ~0 ~144 double_plant 2  
+fill ~83 ~0 ~168 ~85 ~0 ~168 tallgrass 1  
+fill ~84 ~0 ~144 ~88 ~0 ~144 tallgrass 1  
+fill ~85 ~0 ~174 ~86 ~0 ~174 double_stone_slab 0  
+fill ~85 ~0 ~175 ~86 ~0 ~175 double_stone_slab 0  
+fill ~86 ~0 ~80 ~88 ~0 ~80 tallgrass 1  
+fill ~86 ~0 ~81 ~87 ~0 ~81 tallgrass 1  
+fill ~86 ~0 ~82 ~86 ~0 ~83 tallgrass 1 
+setblock ~86 ~0 ~84 red_flower 0  
+fill ~86 ~0 ~85 ~86 ~0 ~92 tallgrass 1 
+setblock ~86 ~0 ~93 red_flower 3  
+fill ~86 ~0 ~94 ~87 ~0 ~94 tallgrass 1  
+fill ~86 ~0 ~95 ~88 ~0 ~95 tallgrass 1  
+fill ~86 ~0 ~96 ~86 ~0 ~99 tallgrass 1 
+setblock ~86 ~0 ~100 yellow_flower 0  
+fill ~86 ~0 ~101 ~86 ~0 ~105 tallgrass 1  
+fill ~86 ~0 ~107 ~88 ~0 ~107 tallgrass 1  
+fill ~86 ~0 ~108 ~88 ~0 ~108 tallgrass 1  
+fill ~86 ~0 ~109 ~86 ~0 ~114 tallgrass 1 
+setblock ~86 ~0 ~115 yellow_flower 0  
+fill ~86 ~0 ~116 ~86 ~0 ~139 tallgrass 1 
+setblock ~86 ~0 ~140 red_flower 0  
+fill ~86 ~0 ~141 ~87 ~0 ~141 tallgrass 1  
+fill ~86 ~0 ~142 ~88 ~0 ~142 tallgrass 1  
+fill ~86 ~0 ~143 ~88 ~0 ~143 tallgrass 1 
+setblock ~86 ~0 ~145 red_flower 8  
+fill ~86 ~0 ~146 ~86 ~0 ~161 tallgrass 1  
+fill ~86 ~0 ~164 ~88 ~0 ~164 tallgrass 1  
+fill ~86 ~0 ~165 ~88 ~0 ~165 tallgrass 1  
+fill ~86 ~0 ~166 ~87 ~0 ~166 tallgrass 1  
+fill ~86 ~0 ~167 ~88 ~0 ~167 tallgrass 1  
+fill ~86 ~0 ~168 ~88 ~0 ~168 double_plant 2  
+fill ~87 ~0 ~82 ~87 ~0 ~83 double_plant 2  
+fill ~87 ~0 ~84 ~88 ~0 ~84 tallgrass 1 
+setblock ~87 ~0 ~85 double_plant 2  
+fill ~87 ~0 ~86 ~87 ~0 ~87 tallgrass 1  
+fill ~87 ~0 ~88 ~87 ~0 ~89 double_plant 2  
+fill ~87 ~0 ~90 ~88 ~0 ~90 tallgrass 1  
+fill ~87 ~0 ~91 ~88 ~0 ~91 tallgrass 1  
+fill ~87 ~0 ~92 ~88 ~0 ~92 tallgrass 1 
+setblock ~87 ~0 ~93 double_plant 2  
+fill ~87 ~0 ~96 ~87 ~0 ~97 double_plant 2  
+fill ~87 ~0 ~98 ~88 ~0 ~98 tallgrass 1  
+fill ~87 ~0 ~99 ~88 ~0 ~99 tallgrass 1  
+fill ~87 ~0 ~100 ~87 ~0 ~101 double_plant 2  
+fill ~87 ~0 ~102 ~88 ~0 ~102 tallgrass 1 
+setblock ~87 ~0 ~103 double_plant 2  
+fill ~87 ~0 ~104 ~88 ~0 ~104 tallgrass 1 
+setblock ~87 ~0 ~105 yellow_flower 0 
+setblock ~87 ~0 ~106 double_plant 2 
+setblock ~87 ~0 ~109 double_plant 2 
+setblock ~87 ~0 ~110 red_flower 3 
+setblock ~87 ~0 ~111 double_plant 2 
+setblock ~87 ~0 ~112 red_flower 0  
+fill ~87 ~0 ~113 ~87 ~0 ~114 double_plant 2  
+fill ~87 ~0 ~115 ~88 ~0 ~115 tallgrass 1  
+fill ~87 ~0 ~116 ~87 ~0 ~118 double_plant 2  
+fill ~87 ~0 ~119 ~88 ~0 ~119 tallgrass 1 
+setblock ~87 ~0 ~120 double_plant 2  
+fill ~87 ~0 ~121 ~88 ~0 ~121 tallgrass 1  
+fill ~87 ~0 ~122 ~88 ~0 ~122 tallgrass 1  
+fill ~87 ~0 ~123 ~88 ~0 ~123 tallgrass 1  
+fill ~87 ~0 ~124 ~88 ~0 ~124 tallgrass 1 
+setblock ~87 ~0 ~125 double_plant 2  
+fill ~87 ~0 ~126 ~88 ~0 ~126 tallgrass 1 
+setblock ~87 ~0 ~127 double_plant 2  
+fill ~87 ~0 ~128 ~88 ~0 ~128 tallgrass 1  
+fill ~87 ~0 ~129 ~88 ~0 ~129 tallgrass 1  
+fill ~87 ~0 ~130 ~88 ~0 ~130 tallgrass 1  
+fill ~87 ~0 ~131 ~88 ~0 ~131 tallgrass 1 
+setblock ~87 ~0 ~132 red_flower 0  
+fill ~87 ~0 ~133 ~87 ~0 ~134 double_plant 2  
+fill ~87 ~0 ~135 ~88 ~0 ~135 tallgrass 1  
+fill ~87 ~0 ~136 ~88 ~0 ~136 tallgrass 1 
+setblock ~87 ~0 ~137 double_plant 2  
+fill ~87 ~0 ~138 ~88 ~0 ~138 tallgrass 1 
+setblock ~87 ~0 ~139 double_plant 2 
+setblock ~87 ~0 ~140 tallgrass 1  
+fill ~87 ~0 ~145 ~88 ~0 ~145 tallgrass 1 
+setblock ~87 ~0 ~146 red_flower 8  
+fill ~87 ~0 ~147 ~87 ~0 ~148 double_plant 2  
+fill ~87 ~0 ~149 ~88 ~0 ~149 tallgrass 1  
+fill ~87 ~0 ~150 ~88 ~0 ~150 tallgrass 1  
+fill ~87 ~0 ~151 ~88 ~0 ~151 tallgrass 1  
+fill ~87 ~0 ~152 ~88 ~0 ~152 tallgrass 1 
+setblock ~87 ~0 ~153 double_plant 2  
+fill ~87 ~0 ~154 ~88 ~0 ~154 tallgrass 1 
+setblock ~87 ~0 ~155 double_plant 2  
+fill ~87 ~0 ~156 ~88 ~0 ~156 tallgrass 1 
+setblock ~87 ~0 ~157 double_plant 2  
+fill ~87 ~0 ~158 ~88 ~0 ~158 tallgrass 1  
+fill ~87 ~0 ~159 ~87 ~0 ~158 tallgrass 1 
+setblock ~87 ~0 ~160 red_flower 8  
+fill ~87 ~0 ~161 ~87 ~0 ~163 double_plant 2 
+setblock ~88 ~0 ~81 double_plant 2  
+fill ~88 ~0 ~82 ~88 ~0 ~85 tallgrass 1 
+setblock ~88 ~0 ~86 red_flower 3 
+setblock ~88 ~0 ~87 red_flower 8 
+setblock ~88 ~0 ~89 tallgrass 1 
+setblock ~88 ~0 ~93 red_flower 8 
+setblock ~88 ~0 ~94 double_plant 2  
+fill ~88 ~0 ~96 ~88 ~0 ~99 tallgrass 1 
+setblock ~88 ~0 ~101 tallgrass 1 
+setblock ~88 ~0 ~103 tallgrass 1  
+fill ~88 ~0 ~105 ~88 ~0 ~115 tallgrass 1 
+setblock ~88 ~0 ~118 tallgrass 1 
+setblock ~88 ~0 ~120 tallgrass 1 
+setblock ~88 ~0 ~125 tallgrass 1 
+setblock ~88 ~0 ~127 tallgrass 1  
+fill ~88 ~0 ~132 ~88 ~0 ~133 tallgrass 1 
+setblock ~88 ~0 ~137 tallgrass 1 
+setblock ~88 ~0 ~139 tallgrass 1  
+fill ~88 ~0 ~140 ~88 ~0 ~141 yellow_flower 0  
+fill ~88 ~0 ~146 ~88 ~0 ~156 tallgrass 1 
+setblock ~88 ~0 ~157 red_flower 8 
+setblock ~88 ~0 ~159 red_flower 8 
+setblock ~88 ~0 ~160 yellow_flower 0 
+setblock ~88 ~0 ~161 tallgrass 1 
+setblock ~88 ~0 ~163 tallgrass 1 
+setblock ~88 ~0 ~166 double_plant 2  
+fill ~95 ~0 ~143 ~105 ~0 ~143 wool 8  
+fill ~95 ~0 ~144 ~95 ~2 ~144 wool 8  
+fill ~95 ~0 ~145 ~95 ~2 ~145 wool 8  
+fill ~95 ~0 ~146 ~105 ~0 ~146 wool 8  
+fill ~95 ~0 ~148 ~105 ~0 ~148 wool 8  
+fill ~95 ~0 ~149 ~95 ~2 ~149 wool 8  
+fill ~95 ~0 ~150 ~95 ~2 ~150 wool 8  
+fill ~95 ~0 ~151 ~105 ~0 ~151 wool 8  
+fill ~95 ~0 ~153 ~105 ~0 ~153 wool 8  
+fill ~95 ~0 ~154 ~95 ~2 ~154 wool 8  
+fill ~95 ~0 ~155 ~95 ~2 ~155 wool 8  
+fill ~95 ~0 ~156 ~105 ~0 ~156 wool 8  
+fill ~95 ~0 ~158 ~105 ~0 ~158 wool 8  
+fill ~95 ~0 ~159 ~95 ~2 ~159 wool 8  
+fill ~95 ~0 ~160 ~95 ~2 ~160 wool 8  
+fill ~95 ~0 ~161 ~105 ~0 ~161 wool 8  
+fill ~95 ~0 ~163 ~105 ~0 ~163 wool 8  
+fill ~95 ~0 ~164 ~95 ~2 ~164 wool 8  
+fill ~95 ~0 ~165 ~95 ~2 ~165 wool 8  
+fill ~95 ~0 ~166 ~105 ~0 ~166 wool 8  
+fill ~95 ~0 ~168 ~105 ~0 ~168 wool 8  
+fill ~95 ~0 ~169 ~95 ~2 ~169 wool 8  
+fill ~95 ~0 ~170 ~95 ~2 ~170 wool 8  
+fill ~95 ~0 ~171 ~105 ~0 ~171 wool 8  
+fill ~96 ~0 ~109 ~97 ~0 ~109 double_stone_slab 0  
+fill ~96 ~0 ~110 ~97 ~0 ~110 double_stone_slab 0  
+fill ~96 ~0 ~114 ~97 ~0 ~114 double_stone_slab 0  
+fill ~96 ~0 ~115 ~97 ~0 ~115 double_stone_slab 0  
+fill ~96 ~0 ~119 ~97 ~0 ~119 double_stone_slab 0  
+fill ~96 ~0 ~120 ~97 ~0 ~120 double_stone_slab 0  
+fill ~99 ~0 ~109 ~101 ~0 ~109 double_stone_slab 0  
+fill ~99 ~0 ~110 ~101 ~0 ~110 double_stone_slab 0  
+fill ~99 ~0 ~114 ~101 ~0 ~114 double_stone_slab 0  
+fill ~99 ~0 ~115 ~101 ~0 ~115 double_stone_slab 0  
+fill ~99 ~0 ~119 ~101 ~0 ~119 double_stone_slab 0  
+fill ~99 ~0 ~120 ~101 ~0 ~120 double_stone_slab 0  
+fill ~100 ~0 ~121 ~100 ~3 ~121 cobblestone_wall 0  
+fill ~100 ~0 ~136 ~100 ~3 ~136 cobblestone_wall 0  
+fill ~103 ~0 ~109 ~104 ~0 ~109 double_stone_slab 0  
+fill ~103 ~0 ~110 ~104 ~0 ~110 double_stone_slab 0  
+fill ~103 ~0 ~114 ~104 ~0 ~114 double_stone_slab 0  
+fill ~103 ~0 ~115 ~104 ~0 ~115 double_stone_slab 0  
+fill ~103 ~0 ~119 ~104 ~0 ~119 double_stone_slab 0  
+fill ~103 ~0 ~120 ~104 ~0 ~120 double_stone_slab 0  
+fill ~105 ~0 ~144 ~105 ~2 ~144 wool 8  
+fill ~105 ~0 ~145 ~105 ~2 ~145 wool 8  
+fill ~105 ~0 ~149 ~105 ~2 ~149 wool 8  
+fill ~105 ~0 ~150 ~105 ~2 ~150 wool 8  
+fill ~105 ~0 ~154 ~105 ~2 ~154 wool 8  
+fill ~105 ~0 ~155 ~105 ~2 ~155 wool 8  
+fill ~105 ~0 ~159 ~105 ~2 ~159 wool 8  
+fill ~105 ~0 ~160 ~105 ~2 ~160 wool 8  
+fill ~105 ~0 ~164 ~105 ~2 ~164 wool 8  
+fill ~105 ~0 ~165 ~105 ~2 ~165 wool 8  
+fill ~105 ~0 ~169 ~105 ~2 ~169 wool 8  
+fill ~105 ~0 ~170 ~105 ~2 ~170 wool 8 
+setblock ~11 ~1 ~21 double_plant 8 
+setblock ~11 ~1 ~23 double_plant 8  
+fill ~11 ~1 ~26 ~11 ~1 ~27 double_plant 8  
+fill ~11 ~1 ~30 ~11 ~1 ~31 double_plant 8 
+setblock ~11 ~1 ~33 double_plant 8 
+setblock ~11 ~1 ~43 double_plant 8 
+setblock ~11 ~1 ~47 double_plant 8 
+setblock ~11 ~1 ~54 double_plant 8 
+setblock ~11 ~1 ~56 double_plant 8  
+fill ~11 ~1 ~58 ~11 ~1 ~59 double_plant 8 
+setblock ~11 ~1 ~63 double_plant 8 
+setblock ~11 ~1 ~65 double_plant 8 
+setblock ~11 ~1 ~68 double_plant 8 
+setblock ~11 ~1 ~71 double_plant 8 
+setblock ~11 ~1 ~74 double_plant 8  
+fill ~11 ~1 ~77 ~11 ~1 ~78 double_plant 8  
+fill ~11 ~1 ~153 ~12 ~1 ~153 double_plant 8  
+fill ~12 ~1 ~92 ~13 ~1 ~92 double_plant 8  
+fill ~12 ~1 ~97 ~12 ~1 ~98 double_plant 8 
+setblock ~12 ~1 ~104 double_plant 8  
+fill ~12 ~1 ~110 ~12 ~1 ~111 double_plant 8  
+fill ~12 ~1 ~125 ~13 ~1 ~125 double_plant 8  
+fill ~12 ~1 ~127 ~13 ~1 ~127 double_plant 8  
+fill ~12 ~1 ~131 ~12 ~1 ~132 double_plant 8 
+setblock ~12 ~1 ~141 double_plant 8 
+setblock ~12 ~1 ~144 double_plant 8 
+setblock ~12 ~1 ~158 double_plant 8  
+fill ~13 ~1 ~89 ~14 ~1 ~89 double_plant 8  
+fill ~13 ~1 ~90 ~13 ~1 ~89 double_plant 8  
+fill ~13 ~1 ~96 ~14 ~1 ~96 double_plant 8  
+fill ~13 ~1 ~103 ~15 ~1 ~103 double_plant 8  
+fill ~13 ~1 ~111 ~14 ~1 ~111 double_plant 8  
+fill ~13 ~1 ~117 ~13 ~1 ~119 double_plant 8 
+setblock ~13 ~1 ~132 double_plant 8 
+setblock ~14 ~1 ~99 double_plant 8  
+fill ~14 ~1 ~107 ~15 ~1 ~107 double_plant 8  
+fill ~14 ~1 ~109 ~14 ~1 ~111 double_plant 8 
+setblock ~14 ~1 ~116 double_plant 8 
+setblock ~14 ~1 ~137 double_plant 8 
+setblock ~14 ~1 ~150 double_plant 8 
+setblock ~14 ~1 ~154 double_plant 8 
+setblock ~14 ~1 ~159 double_plant 8 
+setblock ~15 ~1 ~90 double_plant 8 
+setblock ~15 ~1 ~120 double_plant 8 
+setblock ~15 ~1 ~123 double_plant 8  
+fill ~15 ~1 ~128 ~16 ~1 ~128 double_plant 8 
+setblock ~15 ~1 ~130 double_plant 8  
+fill ~15 ~1 ~133 ~17 ~1 ~133 double_plant 8 
+setblock ~15 ~1 ~136 double_plant 8 
+setblock ~15 ~1 ~155 double_plant 8 
+setblock ~16 ~1 ~89 double_plant 8 
+setblock ~16 ~1 ~94 double_plant 8 
+setblock ~16 ~1 ~96 double_plant 8 
+setblock ~16 ~1 ~101 double_plant 8 
+setblock ~16 ~1 ~106 double_plant 8 
+setblock ~16 ~1 ~112 double_plant 8 
+setblock ~16 ~1 ~129 double_plant 8 
+setblock ~16 ~1 ~143 double_plant 8  
+fill ~16 ~1 ~148 ~17 ~1 ~148 double_plant 8 
+setblock ~16 ~1 ~157 double_plant 8  
+fill ~17 ~1 ~121 ~17 ~1 ~122 double_plant 8 
+setblock ~17 ~1 ~145 double_plant 8  
+fill ~17 ~1 ~151 ~17 ~1 ~152 double_plant 8  
+fill ~22 ~1 ~51 ~24 ~1 ~51 wool 8  
+fill ~22 ~1 ~53 ~24 ~1 ~53 wool 8  
+fill ~24 ~1 ~175 ~30 ~1 ~175 wool 8  
+fill ~24 ~1 ~185 ~30 ~1 ~185 wool 8  
+fill ~30 ~1 ~188 ~45 ~1 ~188 wool 8  
+fill ~31 ~1 ~58 ~42 ~1 ~58 wool 8  
+fill ~31 ~1 ~65 ~42 ~1 ~65 wool 8  
+fill ~42 ~1 ~49 ~43 ~1 ~49 crafting_table 0  
+fill ~42 ~1 ~50 ~43 ~1 ~50 crafting_table 0  
+fill ~42 ~1 ~52 ~43 ~1 ~52 crafting_table 0  
+fill ~42 ~1 ~53 ~43 ~1 ~53 crafting_table 0  
+fill ~42 ~1 ~55 ~43 ~1 ~55 crafting_table 0  
+fill ~42 ~1 ~56 ~43 ~1 ~56 crafting_table 0  
+fill ~45 ~1 ~49 ~46 ~1 ~49 crafting_table 0  
+fill ~45 ~1 ~50 ~46 ~1 ~50 crafting_table 0  
+fill ~45 ~1 ~52 ~46 ~1 ~52 crafting_table 0  
+fill ~45 ~1 ~53 ~46 ~1 ~53 crafting_table 0  
+fill ~45 ~1 ~55 ~46 ~1 ~55 crafting_table 0  
+fill ~45 ~1 ~56 ~46 ~1 ~56 crafting_table 0 
+setblock ~45 ~1 ~59 double_plant 8 
+setblock ~45 ~1 ~61 double_plant 8 
+setblock ~45 ~1 ~63 double_plant 8  
+fill ~45 ~1 ~175 ~51 ~1 ~175 wool 8  
+fill ~45 ~1 ~185 ~51 ~1 ~185 wool 8 
+setblock ~47 ~1 ~59 double_plant 8  
+fill ~48 ~1 ~49 ~49 ~1 ~49 crafting_table 0  
+fill ~48 ~1 ~50 ~49 ~1 ~50 crafting_table 0  
+fill ~48 ~1 ~52 ~49 ~1 ~52 crafting_table 0  
+fill ~48 ~1 ~53 ~49 ~1 ~53 crafting_table 0  
+fill ~48 ~1 ~55 ~49 ~1 ~55 crafting_table 0  
+fill ~48 ~1 ~56 ~49 ~1 ~56 crafting_table 0  
+fill ~48 ~1 ~63 ~48 ~2 ~63 wool 14  
+fill ~48 ~1 ~64 ~48 ~2 ~64 wool 14 
+setblock ~49 ~1 ~59 double_plant 8  
+fill ~49 ~1 ~62 ~55 ~1 ~62 wool 14  
+fill ~49 ~1 ~65 ~55 ~1 ~65 wool 14  
+fill ~51 ~1 ~49 ~52 ~1 ~49 crafting_table 0  
+fill ~51 ~1 ~50 ~52 ~1 ~50 crafting_table 0  
+fill ~51 ~1 ~52 ~52 ~1 ~52 crafting_table 0  
+fill ~51 ~1 ~53 ~52 ~1 ~53 crafting_table 0  
+fill ~51 ~1 ~55 ~52 ~1 ~55 crafting_table 0  
+fill ~51 ~1 ~56 ~52 ~1 ~56 crafting_table 0  
+fill ~51 ~1 ~59 ~52 ~1 ~59 double_plant 8 
+setblock ~55 ~1 ~38 double_plant 8 
+setblock ~55 ~1 ~59 double_plant 8  
+fill ~56 ~1 ~63 ~56 ~2 ~63 wool 14  
+fill ~56 ~1 ~64 ~56 ~2 ~64 wool 14  
+fill ~57 ~1 ~86 ~79 ~1 ~86 wool 8  
+fill ~57 ~1 ~104 ~79 ~1 ~104 wool 8  
+fill ~57 ~1 ~119 ~79 ~1 ~119 wool 8  
+fill ~57 ~1 ~137 ~79 ~1 ~137 wool 8  
+fill ~57 ~1 ~170 ~58 ~1 ~170 wool 8  
+fill ~57 ~1 ~172 ~57 ~1 ~174 glass 0  
+fill ~57 ~1 ~175 ~57 ~2 ~175 wool 8  
+fill ~57 ~1 ~176 ~57 ~1 ~177 glass 0  
+fill ~57 ~1 ~178 ~57 ~2 ~178 wool 8  
+fill ~57 ~1 ~179 ~57 ~1 ~181 glass 0  
+fill ~57 ~1 ~182 ~57 ~2 ~182 wool 8  
+fill ~57 ~1 ~183 ~58 ~1 ~183 wool 8 
+setblock ~58 ~1 ~111 double_plant 8  
+fill ~59 ~1 ~170 ~63 ~1 ~170 glass 0  
+fill ~59 ~1 ~183 ~62 ~1 ~183 glass 0 
+setblock ~59 ~1 ~195 glass 0 
+setblock ~59 ~1 ~197 glass 0 
+setblock ~60 ~1 ~194 glass 0 
+setblock ~60 ~1 ~198 glass 0 
+setblock ~61 ~1 ~111 double_plant 8 
+setblock ~61 ~1 ~128 quartz_stairs 0 
+setblock ~61 ~1 ~193 glass 0 
+setblock ~61 ~1 ~199 glass 0  
+fill ~62 ~1 ~71 ~62 ~1 ~72 double_plant 8 
+setblock ~62 ~1 ~74 double_plant 8 
+setblock ~62 ~1 ~77 double_plant 8 
+setblock ~62 ~1 ~80 double_plant 8  
+fill ~62 ~1 ~128 ~69 ~1 ~128 quartz_block 0 
+setblock ~62 ~1 ~168 double_plant 8 
+setblock ~62 ~1 ~200 glass 0 
+setblock ~63 ~1 ~72 double_plant 8 
+setblock ~63 ~1 ~111 double_plant 8  
+fill ~63 ~1 ~183 ~64 ~1 ~183 wool 8 
+setblock ~63 ~1 ~191 glass 0 
+setblock ~64 ~1 ~80 double_plant 8 
+setblock ~64 ~1 ~127 stone_slab 15 
+setblock ~64 ~1 ~129 stone_slab 15 
+setblock ~64 ~1 ~144 double_plant 8  
+fill ~64 ~1 ~170 ~65 ~1 ~170 wool 8  
+fill ~64 ~1 ~177 ~65 ~1 ~177 wool 8  
+fill ~64 ~1 ~179 ~64 ~1 ~181 glass 0  
+fill ~64 ~1 ~182 ~64 ~2 ~182 wool 8 
+setblock ~64 ~1 ~190 glass 0 
+setblock ~64 ~1 ~200 glass 0 
+setblock ~65 ~1 ~71 double_plant 8 
+setblock ~65 ~1 ~112 double_plant 8  
+fill ~65 ~1 ~127 ~70 ~1 ~127 quartz_block 0  
+fill ~65 ~1 ~129 ~70 ~1 ~129 quartz_block 0 
+setblock ~65 ~1 ~168 double_plant 8 
+setblock ~65 ~1 ~189 glass 0 
+setblock ~65 ~1 ~199 glass 0 
+setblock ~66 ~1 ~111 double_plant 8  
+fill ~66 ~1 ~126 ~68 ~1 ~126 stone_slab 7  
+fill ~66 ~1 ~130 ~68 ~1 ~130 stone_slab 7 
+setblock ~66 ~1 ~144 double_plant 8  
+fill ~66 ~1 ~170 ~70 ~1 ~170 glass 0  
+fill ~66 ~1 ~177 ~70 ~1 ~177 glass 0 
+setblock ~66 ~1 ~198 glass 0  
+fill ~67 ~1 ~124 ~68 ~1 ~124 stone_slab 7  
+fill ~67 ~1 ~125 ~68 ~1 ~125 stone_slab 7  
+fill ~67 ~1 ~131 ~68 ~1 ~131 stone_slab 7  
+fill ~67 ~1 ~132 ~68 ~1 ~132 stone_slab 7  
+fill ~67 ~1 ~147 ~79 ~1 ~147 wool 8  
+fill ~67 ~1 ~154 ~79 ~1 ~154 wool 8  
+fill ~67 ~1 ~158 ~79 ~1 ~158 wool 8  
+fill ~67 ~1 ~165 ~79 ~1 ~165 wool 8 
+setblock ~67 ~1 ~187 glass 0  
+fill ~68 ~1 ~71 ~69 ~1 ~71 wool 7  
+fill ~68 ~1 ~80 ~69 ~1 ~80 wool 7  
+fill ~68 ~1 ~111 ~69 ~1 ~111 double_plant 8 
+setblock ~68 ~1 ~186 glass 0 
+setblock ~68 ~1 ~196 glass 0 
+setblock ~69 ~1 ~185 glass 0 
+setblock ~69 ~1 ~195 glass 0  
+fill ~70 ~1 ~126 ~71 ~1 ~126 stone_slab 7 
+setblock ~70 ~1 ~128 wool 15  
+fill ~70 ~1 ~130 ~71 ~1 ~130 stone_slab 7 
+setblock ~70 ~1 ~194 glass 0 
+setblock ~71 ~1 ~127 stone_slab 7 
+setblock ~71 ~1 ~129 stone_slab 7 
+setblock ~71 ~1 ~144 double_plant 8  
+fill ~71 ~1 ~168 ~73 ~1 ~168 double_plant 8  
+fill ~71 ~1 ~170 ~72 ~1 ~170 wool 8  
+fill ~71 ~1 ~177 ~72 ~1 ~177 wool 8 
+setblock ~71 ~1 ~185 glass 0 
+setblock ~72 ~1 ~111 double_plant 8 
+setblock ~72 ~1 ~186 glass 0 
+setblock ~72 ~1 ~192 glass 0 
+setblock ~73 ~1 ~80 double_plant 8 
+setblock ~73 ~1 ~144 double_plant 8  
+fill ~73 ~1 ~170 ~77 ~1 ~170 glass 0  
+fill ~73 ~1 ~177 ~77 ~1 ~177 glass 0 
+setblock ~73 ~1 ~187 glass 0 
+setblock ~73 ~1 ~191 glass 0 
+setblock ~74 ~1 ~188 glass 0 
+setblock ~74 ~1 ~190 glass 0 
+setblock ~75 ~1 ~78 double_plant 8 
+setblock ~75 ~1 ~111 double_plant 8 
+setblock ~77 ~1 ~111 double_plant 8  
+fill ~78 ~1 ~170 ~79 ~1 ~170 wool 8  
+fill ~78 ~1 ~177 ~79 ~1 ~177 wool 8  
+fill ~79 ~1 ~172 ~79 ~1 ~175 glass 0  
+fill ~79 ~1 ~176 ~79 ~2 ~176 wool 8 
+setblock ~80 ~1 ~144 double_plant 8  
+fill ~81 ~1 ~168 ~82 ~1 ~168 double_plant 8 
+setblock ~83 ~1 ~144 double_plant 8  
+fill ~86 ~1 ~168 ~88 ~1 ~168 double_plant 8  
+fill ~87 ~1 ~82 ~87 ~1 ~83 double_plant 8 
+setblock ~87 ~1 ~85 double_plant 8  
+fill ~87 ~1 ~88 ~87 ~1 ~89 double_plant 8 
+setblock ~87 ~1 ~93 double_plant 8  
+fill ~87 ~1 ~96 ~87 ~1 ~97 double_plant 8  
+fill ~87 ~1 ~100 ~87 ~1 ~101 double_plant 8 
+setblock ~87 ~1 ~103 double_plant 8 
+setblock ~87 ~1 ~106 double_plant 8 
+setblock ~87 ~1 ~109 double_plant 8 
+setblock ~87 ~1 ~111 double_plant 8  
+fill ~87 ~1 ~113 ~87 ~1 ~114 double_plant 8  
+fill ~87 ~1 ~116 ~87 ~1 ~118 double_plant 8 
+setblock ~87 ~1 ~120 double_plant 8 
+setblock ~87 ~1 ~125 double_plant 8 
+setblock ~87 ~1 ~127 double_plant 8  
+fill ~87 ~1 ~133 ~87 ~1 ~134 double_plant 8 
+setblock ~87 ~1 ~137 double_plant 8 
+setblock ~87 ~1 ~139 double_plant 8  
+fill ~87 ~1 ~147 ~87 ~1 ~148 double_plant 8 
+setblock ~87 ~1 ~153 double_plant 8 
+setblock ~87 ~1 ~155 double_plant 8 
+setblock ~87 ~1 ~157 double_plant 8  
+fill ~87 ~1 ~161 ~87 ~1 ~163 double_plant 8 
+setblock ~88 ~1 ~81 double_plant 8 
+setblock ~88 ~1 ~94 double_plant 8 
+setblock ~88 ~1 ~166 double_plant 8  
+fill ~95 ~1 ~143 ~96 ~1 ~143 wool 8  
+fill ~95 ~1 ~146 ~96 ~1 ~146 wool 8  
+fill ~95 ~1 ~148 ~96 ~1 ~148 wool 8  
+fill ~95 ~1 ~151 ~96 ~1 ~151 wool 8  
+fill ~95 ~1 ~153 ~96 ~1 ~153 wool 8  
+fill ~95 ~1 ~156 ~96 ~1 ~156 wool 8  
+fill ~95 ~1 ~158 ~96 ~1 ~158 wool 8  
+fill ~95 ~1 ~161 ~96 ~1 ~161 wool 8  
+fill ~95 ~1 ~163 ~96 ~1 ~163 wool 8  
+fill ~95 ~1 ~166 ~96 ~1 ~166 wool 8  
+fill ~95 ~1 ~168 ~96 ~1 ~168 wool 8  
+fill ~95 ~1 ~171 ~96 ~1 ~171 wool 8  
+fill ~97 ~1 ~143 ~98 ~1 ~143 glass 0  
+fill ~97 ~1 ~146 ~98 ~1 ~146 glass 0  
+fill ~97 ~1 ~148 ~98 ~1 ~148 glass 0  
+fill ~97 ~1 ~151 ~98 ~1 ~151 glass 0  
+fill ~97 ~1 ~153 ~98 ~1 ~153 glass 0  
+fill ~97 ~1 ~156 ~98 ~1 ~156 glass 0  
+fill ~97 ~1 ~158 ~98 ~1 ~158 glass 0  
+fill ~97 ~1 ~161 ~98 ~1 ~161 glass 0  
+fill ~97 ~1 ~163 ~98 ~1 ~163 glass 0  
+fill ~97 ~1 ~166 ~98 ~1 ~166 glass 0  
+fill ~97 ~1 ~168 ~98 ~1 ~168 glass 0  
+fill ~97 ~1 ~171 ~98 ~1 ~171 glass 0  
+fill ~99 ~1 ~143 ~101 ~1 ~143 wool 8  
+fill ~99 ~1 ~146 ~101 ~1 ~146 wool 8  
+fill ~99 ~1 ~148 ~101 ~1 ~148 wool 8  
+fill ~99 ~1 ~151 ~101 ~1 ~151 wool 8  
+fill ~99 ~1 ~153 ~101 ~1 ~153 wool 8  
+fill ~99 ~1 ~156 ~101 ~1 ~156 wool 8  
+fill ~99 ~1 ~158 ~101 ~1 ~158 wool 8  
+fill ~99 ~1 ~161 ~101 ~1 ~161 wool 8  
+fill ~99 ~1 ~163 ~101 ~1 ~163 wool 8  
+fill ~99 ~1 ~166 ~101 ~1 ~166 wool 8  
+fill ~99 ~1 ~168 ~101 ~1 ~168 wool 8  
+fill ~99 ~1 ~171 ~101 ~1 ~171 wool 8  
+fill ~102 ~1 ~143 ~103 ~1 ~143 glass 0  
+fill ~102 ~1 ~146 ~103 ~1 ~146 glass 0  
+fill ~102 ~1 ~148 ~103 ~1 ~148 glass 0  
+fill ~102 ~1 ~151 ~103 ~1 ~151 glass 0  
+fill ~102 ~1 ~153 ~103 ~1 ~153 glass 0  
+fill ~102 ~1 ~156 ~103 ~1 ~156 glass 0  
+fill ~102 ~1 ~158 ~103 ~1 ~158 glass 0  
+fill ~102 ~1 ~161 ~103 ~1 ~161 glass 0  
+fill ~102 ~1 ~163 ~103 ~1 ~163 glass 0  
+fill ~102 ~1 ~166 ~103 ~1 ~166 glass 0  
+fill ~102 ~1 ~168 ~103 ~1 ~168 glass 0  
+fill ~102 ~1 ~171 ~103 ~1 ~171 glass 0  
+fill ~104 ~1 ~143 ~105 ~1 ~143 wool 8  
+fill ~104 ~1 ~146 ~105 ~1 ~146 wool 8  
+fill ~104 ~1 ~148 ~105 ~1 ~148 wool 8  
+fill ~104 ~1 ~151 ~105 ~1 ~151 wool 8  
+fill ~104 ~1 ~153 ~105 ~1 ~153 wool 8  
+fill ~104 ~1 ~156 ~105 ~1 ~156 wool 8  
+fill ~104 ~1 ~158 ~105 ~1 ~158 wool 8  
+fill ~104 ~1 ~161 ~105 ~1 ~161 wool 8  
+fill ~104 ~1 ~163 ~105 ~1 ~163 wool 8  
+fill ~104 ~1 ~166 ~105 ~1 ~166 wool 8  
+fill ~104 ~1 ~168 ~105 ~1 ~168 wool 8  
+fill ~104 ~1 ~171 ~105 ~1 ~171 wool 8  
+fill ~22 ~2 ~52 ~22 ~5 ~52 wool 8  
+fill ~23 ~2 ~51 ~23 ~5 ~51 wool 8  
+fill ~23 ~2 ~53 ~23 ~5 ~53 wool 8  
+fill ~24 ~2 ~175 ~30 ~2 ~175 wool 8  
+fill ~24 ~2 ~185 ~30 ~2 ~185 wool 8  
+fill ~30 ~2 ~188 ~45 ~2 ~188 wool 8  
+fill ~31 ~2 ~58 ~42 ~2 ~58 wool 8  
+fill ~31 ~2 ~65 ~42 ~2 ~65 wool 8  
+fill ~45 ~2 ~175 ~51 ~2 ~175 wool 8  
+fill ~45 ~2 ~185 ~51 ~2 ~185 wool 8  
+fill ~49 ~2 ~62 ~55 ~2 ~62 wool 14  
+fill ~49 ~2 ~65 ~55 ~2 ~65 wool 14  
+fill ~57 ~2 ~86 ~79 ~2 ~86 wool 8  
+fill ~57 ~2 ~104 ~79 ~2 ~104 wool 8  
+fill ~57 ~2 ~119 ~79 ~2 ~119 wool 8  
+fill ~57 ~2 ~137 ~79 ~2 ~137 wool 8  
+fill ~57 ~2 ~170 ~79 ~2 ~170 wool 8  
+fill ~57 ~2 ~172 ~57 ~2 ~183 wool 8  
+fill ~58 ~2 ~183 ~64 ~2 ~183 wool 8 
+setblock ~59 ~2 ~195 wool 8 
+setblock ~59 ~2 ~197 wool 8 
+setblock ~60 ~2 ~194 wool 8 
+setblock ~60 ~2 ~198 wool 8 
+setblock ~61 ~2 ~193 wool 8 
+setblock ~61 ~2 ~199 wool 8 
+setblock ~62 ~2 ~200 wool 8  
+fill ~63 ~2 ~128 ~64 ~2 ~128 glass 0 
+setblock ~63 ~2 ~191 wool 8  
+fill ~64 ~2 ~75 ~64 ~6 ~75 wool 8  
+fill ~64 ~2 ~76 ~64 ~6 ~76 wool 8  
+fill ~64 ~2 ~177 ~79 ~2 ~177 wool 8  
+fill ~64 ~2 ~179 ~64 ~2 ~183 wool 8 
+setblock ~64 ~2 ~190 wool 8 
+setblock ~64 ~2 ~200 wool 8 
+setblock ~65 ~2 ~128 quartz_block 0 
+setblock ~65 ~2 ~189 wool 8 
+setblock ~65 ~2 ~199 wool 8 
+setblock ~66 ~2 ~128 quartz_stairs 1 
+setblock ~66 ~2 ~198 wool 8 
+setblock ~67 ~2 ~128 stone_slab 7  
+fill ~67 ~2 ~147 ~79 ~2 ~147 wool 8  
+fill ~67 ~2 ~154 ~79 ~2 ~154 wool 8  
+fill ~67 ~2 ~158 ~79 ~2 ~158 wool 8  
+fill ~67 ~2 ~165 ~79 ~2 ~165 wool 8 
+setblock ~67 ~2 ~187 wool 8  
+fill ~68 ~2 ~71 ~70 ~2 ~71 wool 8  
+fill ~68 ~2 ~80 ~70 ~2 ~80 wool 8 
+setblock ~68 ~2 ~186 wool 8 
+setblock ~68 ~2 ~196 wool 8  
+fill ~69 ~2 ~127 ~70 ~2 ~127 quartz_block 0  
+fill ~69 ~2 ~129 ~70 ~2 ~129 quartz_block 0 
+setblock ~69 ~2 ~185 wool 8 
+setblock ~69 ~2 ~195 wool 8 
+setblock ~70 ~2 ~128 stone_slab 7 
+setblock ~70 ~2 ~194 wool 8 
+setblock ~71 ~2 ~185 wool 8 
+setblock ~72 ~2 ~186 wool 8 
+setblock ~72 ~2 ~192 wool 8  
+fill ~73 ~2 ~75 ~73 ~6 ~75 wool 8  
+fill ~73 ~2 ~76 ~73 ~6 ~76 wool 8 
+setblock ~73 ~2 ~187 wool 8 
+setblock ~73 ~2 ~191 wool 8 
+setblock ~74 ~2 ~188 wool 8 
+setblock ~74 ~2 ~190 wool 8  
+fill ~79 ~2 ~172 ~79 ~2 ~177 wool 8  
+fill ~95 ~2 ~143 ~105 ~2 ~143 wool 8  
+fill ~95 ~2 ~146 ~105 ~2 ~146 wool 8  
+fill ~95 ~2 ~148 ~105 ~2 ~148 wool 8  
+fill ~95 ~2 ~151 ~105 ~2 ~151 wool 8  
+fill ~95 ~2 ~153 ~105 ~2 ~153 wool 8  
+fill ~95 ~2 ~156 ~105 ~2 ~156 wool 8  
+fill ~95 ~2 ~158 ~105 ~2 ~158 wool 8  
+fill ~95 ~2 ~161 ~105 ~2 ~161 wool 8  
+fill ~95 ~2 ~163 ~105 ~2 ~163 wool 8  
+fill ~95 ~2 ~166 ~105 ~2 ~166 wool 8  
+fill ~95 ~2 ~168 ~105 ~2 ~168 wool 8  
+fill ~95 ~2 ~171 ~105 ~2 ~171 wool 8  
+fill ~20 ~3 ~70 ~20 ~3 ~81 double_stone_slab 0  
+fill ~24 ~3 ~175 ~30 ~3 ~175 wool 8  
+fill ~24 ~3 ~185 ~30 ~3 ~185 wool 8  
+fill ~26 ~3 ~70 ~26 ~3 ~81 double_stone_slab 0  
+fill ~30 ~3 ~57 ~43 ~3 ~57 double_stone_slab 0  
+fill ~30 ~3 ~58 ~43 ~3 ~58 double_stone_slab 0  
+fill ~30 ~3 ~65 ~43 ~3 ~65 double_stone_slab 0  
+fill ~30 ~3 ~66 ~43 ~3 ~66 double_stone_slab 0  
+fill ~30 ~3 ~188 ~45 ~3 ~188 wool 8  
+fill ~31 ~3 ~59 ~31 ~3 ~64 wool 8  
+fill ~32 ~3 ~60 ~41 ~3 ~60 stone_slab 8  
+fill ~32 ~3 ~61 ~41 ~3 ~61 glowstone 0  
+fill ~32 ~3 ~62 ~41 ~3 ~62 glowstone 0  
+fill ~32 ~3 ~63 ~41 ~3 ~63 stone_slab 8  
+fill ~32 ~3 ~70 ~32 ~3 ~81 double_stone_slab 0  
+fill ~38 ~3 ~70 ~38 ~3 ~81 double_stone_slab 0  
+fill ~41 ~3 ~70 ~41 ~3 ~81 double_stone_slab 0  
+fill ~45 ~3 ~175 ~51 ~3 ~175 wool 8  
+fill ~45 ~3 ~185 ~51 ~3 ~185 wool 8  
+fill ~47 ~3 ~70 ~47 ~3 ~81 double_stone_slab 0  
+fill ~49 ~3 ~63 ~55 ~3 ~63 wool 14  
+fill ~49 ~3 ~64 ~55 ~3 ~64 wool 14  
+fill ~50 ~3 ~70 ~50 ~3 ~81 double_stone_slab 0  
+fill ~56 ~3 ~70 ~56 ~3 ~81 double_stone_slab 0  
+fill ~56 ~3 ~169 ~80 ~3 ~169 stone_slab 0  
+fill ~56 ~3 ~170 ~56 ~3 ~184 stone_slab 0  
+fill ~57 ~3 ~86 ~79 ~3 ~86 wool 8  
+fill ~57 ~3 ~104 ~79 ~3 ~104 wool 8  
+fill ~57 ~3 ~119 ~79 ~3 ~119 wool 8  
+fill ~57 ~3 ~137 ~79 ~3 ~137 wool 8  
+fill ~57 ~3 ~170 ~79 ~3 ~170 double_stone_slab 0  
+fill ~57 ~3 ~171 ~79 ~3 ~171 double_stone_slab 0  
+fill ~57 ~3 ~172 ~79 ~3 ~172 double_stone_slab 0  
+fill ~57 ~3 ~173 ~79 ~3 ~173 double_stone_slab 0  
+fill ~57 ~3 ~174 ~79 ~3 ~174 double_stone_slab 0  
+fill ~57 ~3 ~175 ~79 ~3 ~175 double_stone_slab 0  
+fill ~57 ~3 ~176 ~79 ~3 ~176 double_stone_slab 0  
+fill ~57 ~3 ~177 ~79 ~3 ~177 double_stone_slab 0  
+fill ~57 ~3 ~178 ~64 ~3 ~178 double_stone_slab 0  
+fill ~57 ~3 ~179 ~64 ~3 ~179 double_stone_slab 0  
+fill ~57 ~3 ~180 ~64 ~3 ~180 double_stone_slab 0  
+fill ~57 ~3 ~181 ~64 ~3 ~181 double_stone_slab 0  
+fill ~57 ~3 ~182 ~64 ~3 ~182 double_stone_slab 0  
+fill ~57 ~3 ~183 ~64 ~3 ~183 double_stone_slab 0  
+fill ~57 ~3 ~184 ~65 ~3 ~184 stone_slab 0 
+setblock ~57 ~3 ~196 stone_slab 0 
+setblock ~58 ~3 ~195 stone_slab 0  
+fill ~58 ~3 ~196 ~68 ~3 ~196 double_stone_slab 0 
+setblock ~58 ~3 ~197 stone_slab 0 
+setblock ~59 ~3 ~194 stone_slab 0  
+fill ~59 ~3 ~195 ~69 ~3 ~195 double_stone_slab 0  
+fill ~59 ~3 ~197 ~67 ~3 ~197 double_stone_slab 0 
+setblock ~59 ~3 ~198 stone_slab 0 
+setblock ~60 ~3 ~193 stone_slab 0  
+fill ~60 ~3 ~194 ~70 ~3 ~194 double_stone_slab 0  
+fill ~60 ~3 ~198 ~66 ~3 ~198 double_stone_slab 0 
+setblock ~60 ~3 ~199 stone_slab 0 
+setblock ~61 ~3 ~192 stone_slab 0  
+fill ~61 ~3 ~193 ~71 ~3 ~193 double_stone_slab 0  
+fill ~61 ~3 ~199 ~65 ~3 ~199 double_stone_slab 0 
+setblock ~61 ~3 ~200 stone_slab 0 
+setblock ~62 ~3 ~191 stone_slab 0  
+fill ~62 ~3 ~192 ~72 ~3 ~192 double_stone_slab 0  
+fill ~62 ~3 ~200 ~64 ~3 ~200 double_stone_slab 0 
+setblock ~62 ~3 ~201 stone_slab 0 
+setblock ~63 ~3 ~190 stone_slab 0  
+fill ~63 ~3 ~191 ~73 ~3 ~191 double_stone_slab 0 
+setblock ~63 ~3 ~201 double_stone_slab 0 
+setblock ~63 ~3 ~202 stone_slab 0 
+setblock ~64 ~3 ~189 stone_slab 0  
+fill ~64 ~3 ~190 ~74 ~3 ~190 double_stone_slab 0 
+setblock ~64 ~3 ~201 stone_slab 0  
+fill ~65 ~3 ~178 ~80 ~3 ~178 stone_slab 0  
+fill ~65 ~3 ~179 ~65 ~3 ~184 stone_slab 0 
+setblock ~65 ~3 ~188 stone_slab 0  
+fill ~65 ~3 ~189 ~75 ~3 ~189 double_stone_slab 0 
+setblock ~65 ~3 ~200 stone_slab 0 
+setblock ~66 ~3 ~187 stone_slab 0  
+fill ~66 ~3 ~188 ~74 ~3 ~188 double_stone_slab 0 
+setblock ~66 ~3 ~199 stone_slab 0  
+fill ~67 ~3 ~147 ~79 ~3 ~147 wool 8  
+fill ~67 ~3 ~154 ~79 ~3 ~154 wool 8  
+fill ~67 ~3 ~158 ~79 ~3 ~158 wool 8  
+fill ~67 ~3 ~165 ~79 ~3 ~165 wool 8 
+setblock ~67 ~3 ~186 stone_slab 0  
+fill ~67 ~3 ~187 ~73 ~3 ~187 double_stone_slab 0 
+setblock ~67 ~3 ~198 stone_slab 0  
+fill ~68 ~3 ~71 ~70 ~3 ~71 wool 8  
+fill ~68 ~3 ~80 ~70 ~3 ~80 wool 8 
+setblock ~68 ~3 ~185 stone_slab 0  
+fill ~68 ~3 ~186 ~72 ~3 ~186 double_stone_slab 0 
+setblock ~68 ~3 ~197 stone_slab 0 
+setblock ~69 ~3 ~184 stone_slab 0  
+fill ~69 ~3 ~185 ~71 ~3 ~185 double_stone_slab 0 
+setblock ~69 ~3 ~196 stone_slab 0 
+setblock ~70 ~3 ~127 quartz_stairs 0 
+setblock ~70 ~3 ~129 quartz_stairs 0 
+setblock ~70 ~3 ~183 stone_slab 0 
+setblock ~70 ~3 ~184 double_stone_slab 0 
+setblock ~70 ~3 ~195 stone_slab 0 
+setblock ~71 ~3 ~184 stone_slab 0 
+setblock ~71 ~3 ~194 stone_slab 0 
+setblock ~72 ~3 ~185 stone_slab 0 
+setblock ~72 ~3 ~193 stone_slab 0 
+setblock ~73 ~3 ~186 stone_slab 0 
+setblock ~73 ~3 ~192 stone_slab 0 
+setblock ~74 ~3 ~187 stone_slab 0 
+setblock ~74 ~3 ~191 stone_slab 0 
+setblock ~75 ~3 ~188 stone_slab 0 
+setblock ~75 ~3 ~190 stone_slab 0 
+setblock ~76 ~3 ~189 stone_slab 0  
+fill ~80 ~3 ~170 ~80 ~3 ~178 stone_slab 0  
+fill ~95 ~3 ~143 ~105 ~3 ~143 stone_slab 0  
+fill ~95 ~3 ~144 ~105 ~3 ~144 stone_slab 0  
+fill ~95 ~3 ~145 ~105 ~3 ~145 stone_slab 0  
+fill ~95 ~3 ~146 ~105 ~3 ~146 stone_slab 0  
+fill ~95 ~3 ~148 ~105 ~3 ~148 stone_slab 0  
+fill ~95 ~3 ~149 ~105 ~3 ~149 stone_slab 0  
+fill ~95 ~3 ~150 ~105 ~3 ~150 stone_slab 0  
+fill ~95 ~3 ~151 ~105 ~3 ~151 stone_slab 0  
+fill ~95 ~3 ~153 ~105 ~3 ~153 stone_slab 0  
+fill ~95 ~3 ~154 ~105 ~3 ~154 stone_slab 0  
+fill ~95 ~3 ~155 ~105 ~3 ~155 stone_slab 0  
+fill ~95 ~3 ~156 ~105 ~3 ~156 stone_slab 0  
+fill ~95 ~3 ~158 ~105 ~3 ~158 stone_slab 0  
+fill ~95 ~3 ~159 ~105 ~3 ~159 stone_slab 0  
+fill ~95 ~3 ~160 ~105 ~3 ~160 stone_slab 0  
+fill ~95 ~3 ~161 ~105 ~3 ~161 stone_slab 0  
+fill ~95 ~3 ~163 ~105 ~3 ~163 stone_slab 0  
+fill ~95 ~3 ~164 ~105 ~3 ~164 stone_slab 0  
+fill ~95 ~3 ~165 ~105 ~3 ~165 stone_slab 0  
+fill ~95 ~3 ~166 ~105 ~3 ~166 stone_slab 0  
+fill ~95 ~3 ~168 ~105 ~3 ~168 stone_slab 0  
+fill ~95 ~3 ~169 ~105 ~3 ~169 stone_slab 0  
+fill ~95 ~3 ~170 ~105 ~3 ~170 stone_slab 0  
+fill ~95 ~3 ~171 ~105 ~3 ~171 stone_slab 0  
+fill ~21 ~4 ~70 ~25 ~4 ~70 double_stone_slab 0  
+fill ~21 ~4 ~71 ~25 ~4 ~71 double_stone_slab 0  
+fill ~21 ~4 ~72 ~25 ~4 ~72 double_stone_slab 0  
+fill ~21 ~4 ~73 ~25 ~4 ~73 double_stone_slab 0  
+fill ~21 ~4 ~74 ~25 ~4 ~74 double_stone_slab 0  
+fill ~21 ~4 ~75 ~25 ~4 ~75 double_stone_slab 0  
+fill ~21 ~4 ~76 ~25 ~4 ~76 double_stone_slab 0  
+fill ~21 ~4 ~77 ~25 ~4 ~77 double_stone_slab 0  
+fill ~21 ~4 ~78 ~25 ~4 ~78 double_stone_slab 0  
+fill ~21 ~4 ~79 ~25 ~4 ~79 double_stone_slab 0  
+fill ~21 ~4 ~80 ~25 ~4 ~80 double_stone_slab 0  
+fill ~21 ~4 ~81 ~25 ~4 ~81 double_stone_slab 0  
+fill ~24 ~4 ~175 ~30 ~4 ~175 wool 8  
+fill ~24 ~4 ~185 ~30 ~4 ~185 wool 8  
+fill ~26 ~4 ~176 ~26 ~4 ~184 stone_slab 8  
+fill ~27 ~4 ~176 ~28 ~4 ~176 glowstone 0  
+fill ~27 ~4 ~177 ~28 ~4 ~177 glowstone 0  
+fill ~27 ~4 ~178 ~28 ~4 ~178 glowstone 0  
+fill ~27 ~4 ~179 ~28 ~4 ~179 glowstone 0  
+fill ~27 ~4 ~180 ~28 ~4 ~180 glowstone 0  
+fill ~27 ~4 ~181 ~28 ~4 ~181 glowstone 0  
+fill ~27 ~4 ~182 ~28 ~4 ~182 glowstone 0  
+fill ~27 ~4 ~183 ~28 ~4 ~183 glowstone 0  
+fill ~27 ~4 ~184 ~28 ~4 ~184 glowstone 0  
+fill ~29 ~4 ~176 ~29 ~4 ~184 stone_slab 8  
+fill ~30 ~4 ~59 ~43 ~4 ~59 double_stone_slab 0  
+fill ~30 ~4 ~60 ~43 ~4 ~60 double_stone_slab 0  
+fill ~30 ~4 ~61 ~43 ~4 ~61 double_stone_slab 0  
+fill ~30 ~4 ~62 ~43 ~4 ~62 double_stone_slab 0  
+fill ~30 ~4 ~63 ~43 ~4 ~63 double_stone_slab 0  
+fill ~30 ~4 ~64 ~43 ~4 ~64 double_stone_slab 0  
+fill ~30 ~4 ~188 ~45 ~4 ~188 wool 8  
+fill ~33 ~4 ~70 ~37 ~4 ~70 double_stone_slab 0  
+fill ~33 ~4 ~71 ~37 ~4 ~71 double_stone_slab 0  
+fill ~33 ~4 ~72 ~37 ~4 ~72 double_stone_slab 0  
+fill ~33 ~4 ~73 ~37 ~4 ~73 double_stone_slab 0  
+fill ~33 ~4 ~74 ~37 ~4 ~74 double_stone_slab 0  
+fill ~33 ~4 ~75 ~37 ~4 ~75 double_stone_slab 0  
+fill ~33 ~4 ~76 ~37 ~4 ~76 double_stone_slab 0  
+fill ~33 ~4 ~77 ~37 ~4 ~77 double_stone_slab 0  
+fill ~33 ~4 ~78 ~37 ~4 ~78 double_stone_slab 0  
+fill ~33 ~4 ~79 ~37 ~4 ~79 double_stone_slab 0  
+fill ~33 ~4 ~80 ~37 ~4 ~80 double_stone_slab 0  
+fill ~33 ~4 ~81 ~37 ~4 ~81 double_stone_slab 0  
+fill ~42 ~4 ~70 ~46 ~4 ~70 double_stone_slab 0  
+fill ~42 ~4 ~71 ~46 ~4 ~71 double_stone_slab 0  
+fill ~42 ~4 ~72 ~46 ~4 ~72 double_stone_slab 0  
+fill ~42 ~4 ~73 ~46 ~4 ~73 double_stone_slab 0  
+fill ~42 ~4 ~74 ~46 ~4 ~74 double_stone_slab 0  
+fill ~42 ~4 ~75 ~46 ~4 ~75 double_stone_slab 0  
+fill ~42 ~4 ~76 ~46 ~4 ~76 double_stone_slab 0  
+fill ~42 ~4 ~77 ~46 ~4 ~77 double_stone_slab 0  
+fill ~42 ~4 ~78 ~46 ~4 ~78 double_stone_slab 0  
+fill ~42 ~4 ~79 ~46 ~4 ~79 double_stone_slab 0  
+fill ~42 ~4 ~80 ~46 ~4 ~80 double_stone_slab 0  
+fill ~42 ~4 ~81 ~46 ~4 ~81 double_stone_slab 0  
+fill ~45 ~4 ~175 ~51 ~4 ~175 wool 8  
+fill ~45 ~4 ~185 ~51 ~4 ~185 wool 8  
+fill ~46 ~4 ~176 ~46 ~4 ~184 stone_slab 8   
+fill ~47 ~4 ~176 ~48 ~4 ~176 glowstone 0  
+fill ~47 ~4 ~177 ~48 ~4 ~177 glowstone 0  
+fill ~47 ~4 ~178 ~48 ~4 ~178 glowstone 0  
+fill ~47 ~4 ~179 ~48 ~4 ~179 glowstone 0  
+fill ~47 ~4 ~180 ~48 ~4 ~180 glowstone 0  
+fill ~47 ~4 ~181 ~48 ~4 ~181 glowstone 0  
+fill ~47 ~4 ~182 ~48 ~4 ~182 glowstone 0  
+fill ~47 ~4 ~183 ~48 ~4 ~183 glowstone 0  
+fill ~47 ~4 ~184 ~48 ~4 ~184 glowstone 0  
+fill ~49 ~4 ~176 ~49 ~4 ~184 stone_slab 8  
+fill ~51 ~4 ~70 ~55 ~4 ~70 double_stone_slab 0  
+fill ~51 ~4 ~71 ~55 ~4 ~71 double_stone_slab 0  
+fill ~51 ~4 ~72 ~55 ~4 ~72 double_stone_slab 0  
+fill ~51 ~4 ~73 ~55 ~4 ~73 double_stone_slab 0  
+fill ~51 ~4 ~74 ~55 ~4 ~74 double_stone_slab 0  
+fill ~51 ~4 ~75 ~55 ~4 ~75 double_stone_slab 0  
+fill ~51 ~4 ~76 ~55 ~4 ~76 double_stone_slab 0  
+fill ~51 ~4 ~77 ~55 ~4 ~77 double_stone_slab 0  
+fill ~51 ~4 ~78 ~55 ~4 ~78 double_stone_slab 0  
+fill ~51 ~4 ~79 ~55 ~4 ~79 double_stone_slab 0  
+fill ~51 ~4 ~80 ~55 ~4 ~80 double_stone_slab 0  
+fill ~51 ~4 ~81 ~55 ~4 ~81 double_stone_slab 0  
+fill ~57 ~4 ~86 ~79 ~4 ~86 wool 8  
+fill ~57 ~4 ~104 ~79 ~4 ~104 wool 8  
+fill ~57 ~4 ~119 ~79 ~4 ~119 wool 8  
+fill ~57 ~4 ~137 ~79 ~4 ~137 wool 8  
+fill ~66 ~4 ~146 ~80 ~4 ~146 double_stone_slab 0  
+fill ~66 ~4 ~147 ~80 ~4 ~147 double_stone_slab 0  
+fill ~66 ~4 ~154 ~80 ~4 ~154 double_stone_slab 0  
+fill ~66 ~4 ~155 ~80 ~4 ~155 double_stone_slab 0  
+fill ~66 ~4 ~157 ~80 ~4 ~157 double_stone_slab 0  
+fill ~66 ~4 ~158 ~80 ~4 ~158 double_stone_slab 0  
+fill ~66 ~4 ~165 ~80 ~4 ~165 double_stone_slab 0  
+fill ~66 ~4 ~166 ~80 ~4 ~166 double_stone_slab 0  
+fill ~67 ~4 ~148 ~67 ~4 ~153 wool 8  
+fill ~67 ~4 ~159 ~67 ~4 ~164 wool 8  
+fill ~68 ~4 ~71 ~70 ~4 ~71 wool 8  
+fill ~68 ~4 ~80 ~70 ~4 ~80 wool 8  
+fill ~68 ~4 ~149 ~78 ~4 ~149 stone_slab 8  
+fill ~68 ~4 ~150 ~78 ~4 ~150 glowstone 0  
+fill ~68 ~4 ~151 ~78 ~4 ~151 glowstone 0  
+fill ~68 ~4 ~152 ~78 ~4 ~152 stone_slab 8  
+fill ~68 ~4 ~160 ~78 ~4 ~160 stone_slab 8  
+fill ~68 ~4 ~161 ~78 ~4 ~161 glowstone 0  
+fill ~68 ~4 ~162 ~78 ~4 ~162 glowstone 0  
+fill ~68 ~4 ~163 ~78 ~4 ~163 stone_slab 8  
+fill ~79 ~4 ~164 ~80 ~4 ~164 double_stone_slab 0  
+fill ~99 ~4 ~121 ~101 ~4 ~121 glass 0  
+fill ~99 ~4 ~136 ~101 ~4 ~136 glass 0 
+setblock ~22 ~5 ~51 wool 8 
+setblock ~22 ~5 ~53 wool 8  
+fill ~23 ~5 ~174 ~29 ~5 ~174 double_stone_slab 0  
+fill ~23 ~5 ~175 ~29 ~5 ~175 double_stone_slab 0  
+fill ~23 ~5 ~176 ~29 ~5 ~176 double_stone_slab 0  
+fill ~23 ~5 ~177 ~29 ~5 ~177 double_stone_slab 0  
+fill ~23 ~5 ~178 ~29 ~5 ~178 double_stone_slab 0  
+fill ~23 ~5 ~179 ~29 ~5 ~179 double_stone_slab 0  
+fill ~23 ~5 ~180 ~29 ~5 ~180 double_stone_slab 0  
+fill ~23 ~5 ~181 ~29 ~5 ~181 double_stone_slab 0  
+fill ~23 ~5 ~182 ~29 ~5 ~182 double_stone_slab 0  
+fill ~23 ~5 ~183 ~29 ~5 ~183 double_stone_slab 0  
+fill ~23 ~5 ~184 ~29 ~5 ~184 double_stone_slab 0  
+fill ~23 ~5 ~185 ~29 ~5 ~185 double_stone_slab 0  
+fill ~23 ~5 ~186 ~29 ~5 ~186 double_stone_slab 0 
+setblock ~24 ~5 ~51 wool 8 
+setblock ~24 ~5 ~53 wool 8  
+fill ~30 ~5 ~175 ~30 ~6 ~175 wool 8  
+fill ~30 ~5 ~176 ~30 ~6 ~176 wool 8  
+fill ~30 ~5 ~177 ~30 ~6 ~177 wool 8  
+fill ~30 ~5 ~178 ~30 ~6 ~178 wool 8  
+fill ~30 ~5 ~179 ~30 ~6 ~179 wool 8  
+fill ~30 ~5 ~180 ~30 ~6 ~180 wool 8  
+fill ~30 ~5 ~181 ~30 ~6 ~181 wool 8  
+fill ~30 ~5 ~182 ~30 ~6 ~182 wool 8  
+fill ~30 ~5 ~183 ~30 ~6 ~183 wool 8  
+fill ~30 ~5 ~184 ~30 ~6 ~184 wool 8  
+fill ~30 ~5 ~185 ~30 ~6 ~185 wool 8  
+fill ~30 ~5 ~188 ~45 ~5 ~188 wool 8  
+fill ~45 ~5 ~175 ~45 ~6 ~175 wool 8  
+fill ~45 ~5 ~176 ~45 ~6 ~176 wool 8  
+fill ~45 ~5 ~177 ~45 ~6 ~177 wool 8  
+fill ~45 ~5 ~178 ~45 ~6 ~178 wool 8  
+fill ~45 ~5 ~179 ~45 ~6 ~179 wool 8  
+fill ~45 ~5 ~180 ~45 ~6 ~180 wool 8  
+fill ~45 ~5 ~181 ~45 ~6 ~181 wool 8  
+fill ~45 ~5 ~182 ~45 ~6 ~182 wool 8  
+fill ~45 ~5 ~183 ~45 ~6 ~183 wool 8  
+fill ~45 ~5 ~184 ~45 ~6 ~184 wool 8  
+fill ~45 ~5 ~185 ~45 ~6 ~185 wool 8  
+fill ~46 ~5 ~174 ~52 ~5 ~174 double_stone_slab 0  
+fill ~46 ~5 ~175 ~52 ~5 ~175 double_stone_slab 0  
+fill ~46 ~5 ~176 ~52 ~5 ~176 double_stone_slab 0  
+fill ~46 ~5 ~177 ~52 ~5 ~177 double_stone_slab 0  
+fill ~46 ~5 ~178 ~52 ~5 ~178 double_stone_slab 0  
+fill ~46 ~5 ~179 ~52 ~5 ~179 double_stone_slab 0  
+fill ~46 ~5 ~180 ~52 ~5 ~180 double_stone_slab 0  
+fill ~46 ~5 ~181 ~52 ~5 ~181 double_stone_slab 0  
+fill ~46 ~5 ~182 ~52 ~5 ~182 double_stone_slab 0  
+fill ~46 ~5 ~183 ~52 ~5 ~183 double_stone_slab 0  
+fill ~46 ~5 ~184 ~52 ~5 ~184 double_stone_slab 0  
+fill ~46 ~5 ~185 ~52 ~5 ~185 double_stone_slab 0  
+fill ~46 ~5 ~186 ~52 ~5 ~186 double_stone_slab 0  
+fill ~57 ~5 ~86 ~79 ~5 ~86 wool 8  
+fill ~57 ~5 ~104 ~79 ~5 ~104 wool 8  
+fill ~57 ~5 ~119 ~79 ~5 ~119 wool 8  
+fill ~57 ~5 ~137 ~79 ~5 ~137 wool 8  
+fill ~66 ~5 ~148 ~80 ~5 ~148 double_stone_slab 0  
+fill ~66 ~5 ~149 ~80 ~5 ~149 double_stone_slab 0  
+fill ~66 ~5 ~150 ~80 ~5 ~150 double_stone_slab 0  
+fill ~66 ~5 ~151 ~80 ~5 ~151 double_stone_slab 0  
+fill ~66 ~5 ~152 ~80 ~5 ~152 double_stone_slab 0  
+fill ~66 ~5 ~153 ~80 ~5 ~153 double_stone_slab 0  
+fill ~66 ~5 ~159 ~80 ~5 ~159 double_stone_slab 0  
+fill ~66 ~5 ~160 ~80 ~5 ~160 double_stone_slab 0  
+fill ~66 ~5 ~161 ~80 ~5 ~161 double_stone_slab 0  
+fill ~66 ~5 ~162 ~80 ~5 ~162 double_stone_slab 0  
+fill ~66 ~5 ~163 ~80 ~5 ~163 double_stone_slab 0  
+fill ~66 ~5 ~164 ~80 ~5 ~164 double_stone_slab 0  
+fill ~68 ~5 ~71 ~70 ~5 ~71 wool 8  
+fill ~68 ~5 ~80 ~70 ~5 ~80 wool 8  
+fill ~99 ~5 ~121 ~101 ~5 ~121 glass 0  
+fill ~99 ~5 ~136 ~101 ~5 ~136 glass 0  
+fill ~21 ~6 ~51 ~21 ~6 ~53 wool 8  
+fill ~22 ~6 ~50 ~24 ~6 ~50 wool 8  
+fill ~22 ~6 ~54 ~24 ~6 ~54 wool 8 
+setblock ~24 ~6 ~51 barrier 0  
+fill ~25 ~6 ~51 ~25 ~6 ~53 wool 8  
+fill ~30 ~6 ~188 ~45 ~6 ~188 wool 8  
+fill ~57 ~6 ~86 ~79 ~6 ~86 wool 8  
+fill ~57 ~6 ~104 ~79 ~6 ~104 wool 8  
+fill ~57 ~6 ~119 ~79 ~6 ~119 wool 8  
+fill ~57 ~6 ~137 ~79 ~6 ~137 wool 8  
+fill ~65 ~6 ~74 ~73 ~6 ~74 wool 8  
+fill ~65 ~6 ~75 ~73 ~6 ~75 wool 8  
+fill ~65 ~6 ~76 ~73 ~6 ~76 wool 8  
+fill ~65 ~6 ~77 ~73 ~6 ~77 wool 8  
+fill ~66 ~6 ~73 ~72 ~6 ~73 wool 8  
+fill ~66 ~6 ~78 ~72 ~6 ~78 wool 8  
+fill ~67 ~6 ~72 ~71 ~6 ~72 wool 8  
+fill ~67 ~6 ~79 ~71 ~6 ~79 wool 8  
+fill ~68 ~6 ~71 ~70 ~6 ~71 wool 8  
+fill ~68 ~6 ~80 ~70 ~6 ~80 wool 8  
+fill ~21 ~7 ~51 ~21 ~7 ~53 fence_gate 1  
+fill ~22 ~7 ~50 ~24 ~7 ~50 fence_gate 2  
+fill ~22 ~7 ~54 ~24 ~7 ~54 fence_gate 0  
+fill ~25 ~7 ~51 ~25 ~7 ~53 fence_gate 3  
+fill ~29 ~7 ~171 ~30 ~7 ~171 double_stone_slab 0  
+fill ~29 ~7 ~172 ~30 ~7 ~172 double_stone_slab 0  
+fill ~29 ~7 ~173 ~30 ~7 ~173 double_stone_slab 0  
+fill ~29 ~7 ~174 ~30 ~7 ~174 double_stone_slab 0  
+fill ~29 ~7 ~175 ~30 ~7 ~175 double_stone_slab 0  
+fill ~29 ~7 ~176 ~30 ~7 ~176 double_stone_slab 0  
+fill ~29 ~7 ~177 ~30 ~7 ~177 double_stone_slab 0  
+fill ~29 ~7 ~178 ~30 ~7 ~178 double_stone_slab 0  
+fill ~29 ~7 ~179 ~30 ~7 ~179 double_stone_slab 0  
+fill ~29 ~7 ~180 ~30 ~7 ~180 double_stone_slab 0  
+fill ~29 ~7 ~181 ~30 ~7 ~181 double_stone_slab 0  
+fill ~29 ~7 ~182 ~30 ~7 ~182 double_stone_slab 0  
+fill ~29 ~7 ~183 ~30 ~7 ~183 double_stone_slab 0  
+fill ~29 ~7 ~184 ~30 ~7 ~184 double_stone_slab 0  
+fill ~29 ~7 ~185 ~30 ~7 ~185 double_stone_slab 0  
+fill ~29 ~7 ~186 ~30 ~7 ~186 double_stone_slab 0  
+fill ~29 ~7 ~187 ~30 ~7 ~187 double_stone_slab 0  
+fill ~29 ~7 ~188 ~30 ~7 ~188 double_stone_slab 0  
+fill ~29 ~7 ~189 ~30 ~7 ~189 double_stone_slab 0  
+fill ~31 ~7 ~172 ~44 ~7 ~172 wool 8  
+fill ~31 ~7 ~188 ~44 ~7 ~188 wool 8  
+fill ~32 ~7 ~173 ~32 ~7 ~187 stone_slab 8  
+fill ~33 ~7 ~173 ~34 ~7 ~173 glowstone 0  
+fill ~33 ~7 ~174 ~34 ~7 ~174 glowstone 0  
+fill ~33 ~7 ~175 ~34 ~7 ~175 glowstone 0  
+fill ~33 ~7 ~176 ~34 ~7 ~176 glowstone 0  
+fill ~33 ~7 ~177 ~34 ~7 ~177 glowstone 0  
+fill ~33 ~7 ~178 ~34 ~7 ~178 glowstone 0  
+fill ~33 ~7 ~179 ~34 ~7 ~179 glowstone 0  
+fill ~33 ~7 ~180 ~34 ~7 ~180 glowstone 0  
+fill ~33 ~7 ~181 ~34 ~7 ~181 glowstone 0  
+fill ~33 ~7 ~182 ~34 ~7 ~182 glowstone 0  
+fill ~33 ~7 ~183 ~34 ~7 ~183 glowstone 0  
+fill ~33 ~7 ~184 ~34 ~7 ~184 glowstone 0  
+fill ~33 ~7 ~185 ~34 ~7 ~185 glowstone 0  
+fill ~33 ~7 ~186 ~34 ~7 ~186 glowstone 0  
+fill ~33 ~7 ~187 ~34 ~7 ~187 glowstone 0  
+fill ~35 ~7 ~173 ~35 ~7 ~187 stone_slab 8  
+fill ~40 ~7 ~173 ~40 ~7 ~187 stone_slab 8  
+fill ~41 ~7 ~173 ~42 ~7 ~173 glowstone 0  
+fill ~41 ~7 ~174 ~42 ~7 ~174 glowstone 0  
+fill ~41 ~7 ~175 ~42 ~7 ~175 glowstone 0  
+fill ~41 ~7 ~176 ~42 ~7 ~176 glowstone 0  
+fill ~41 ~7 ~177 ~42 ~7 ~177 glowstone 0  
+fill ~41 ~7 ~178 ~42 ~7 ~178 glowstone 0  
+fill ~41 ~7 ~179 ~42 ~7 ~179 glowstone 0  
+fill ~41 ~7 ~180 ~42 ~7 ~180 glowstone 0  
+fill ~41 ~7 ~181 ~42 ~7 ~181 glowstone 0  
+fill ~41 ~7 ~182 ~42 ~7 ~182 glowstone 0  
+fill ~41 ~7 ~183 ~42 ~7 ~183 glowstone 0  
+fill ~41 ~7 ~184 ~42 ~7 ~184 glowstone 0  
+fill ~41 ~7 ~185 ~42 ~7 ~185 glowstone 0  
+fill ~41 ~7 ~186 ~42 ~7 ~186 glowstone 0  
+fill ~41 ~7 ~187 ~42 ~7 ~187 glowstone 0  
+fill ~43 ~7 ~173 ~43 ~7 ~187 stone_slab 8  
+fill ~45 ~7 ~171 ~46 ~7 ~171 double_stone_slab 0  
+fill ~45 ~7 ~172 ~46 ~7 ~172 double_stone_slab 0  
+fill ~45 ~7 ~173 ~46 ~7 ~173 double_stone_slab 0  
+fill ~45 ~7 ~174 ~46 ~7 ~174 double_stone_slab 0  
+fill ~45 ~7 ~175 ~46 ~7 ~175 double_stone_slab 0  
+fill ~45 ~7 ~176 ~46 ~7 ~176 double_stone_slab 0  
+fill ~45 ~7 ~177 ~46 ~7 ~177 double_stone_slab 0  
+fill ~45 ~7 ~178 ~46 ~7 ~178 double_stone_slab 0  
+fill ~45 ~7 ~179 ~46 ~7 ~179 double_stone_slab 0  
+fill ~45 ~7 ~180 ~46 ~7 ~180 double_stone_slab 0  
+fill ~45 ~7 ~181 ~46 ~7 ~181 double_stone_slab 0  
+fill ~45 ~7 ~182 ~46 ~7 ~182 double_stone_slab 0  
+fill ~45 ~7 ~183 ~46 ~7 ~183 double_stone_slab 0  
+fill ~45 ~7 ~184 ~46 ~7 ~184 double_stone_slab 0  
+fill ~45 ~7 ~185 ~46 ~7 ~185 double_stone_slab 0  
+fill ~45 ~7 ~186 ~46 ~7 ~186 double_stone_slab 0  
+fill ~45 ~7 ~187 ~46 ~7 ~187 double_stone_slab 0  
+fill ~45 ~7 ~188 ~46 ~7 ~188 double_stone_slab 0  
+fill ~45 ~7 ~189 ~46 ~7 ~189 double_stone_slab 0  
+fill ~56 ~7 ~85 ~80 ~7 ~85 double_stone_slab 0  
+fill ~56 ~7 ~86 ~80 ~7 ~86 double_stone_slab 0  
+fill ~56 ~7 ~104 ~80 ~7 ~104 double_stone_slab 0  
+fill ~56 ~7 ~105 ~80 ~7 ~105 double_stone_slab 0  
+fill ~56 ~7 ~118 ~80 ~7 ~118 double_stone_slab 0  
+fill ~56 ~7 ~119 ~80 ~7 ~119 double_stone_slab 0  
+fill ~56 ~7 ~137 ~80 ~7 ~137 double_stone_slab 0  
+fill ~56 ~7 ~138 ~80 ~7 ~138 double_stone_slab 0  
+fill ~57 ~7 ~87 ~57 ~7 ~103 wool 8  
+fill ~57 ~7 ~120 ~57 ~7 ~136 wool 8  
+fill ~58 ~7 ~87 ~78 ~7 ~87 glowstone 0  
+fill ~58 ~7 ~103 ~78 ~7 ~103 glowstone 0  
+fill ~58 ~7 ~120 ~78 ~7 ~120 glowstone 0  
+fill ~58 ~7 ~136 ~78 ~7 ~136 glowstone 0  
+fill ~63 ~7 ~74 ~63 ~7 ~77 stone_slab 0 
+setblock ~64 ~7 ~73 stone_slab 0  
+fill ~64 ~7 ~74 ~73 ~7 ~74 double_stone_slab 0  
+fill ~64 ~7 ~75 ~73 ~7 ~75 double_stone_slab 0  
+fill ~64 ~7 ~76 ~73 ~7 ~76 double_stone_slab 0  
+fill ~64 ~7 ~77 ~73 ~7 ~77 double_stone_slab 0 
+setblock ~64 ~7 ~78 stone_slab 0 
+setblock ~65 ~7 ~72 stone_slab 0  
+fill ~65 ~7 ~73 ~72 ~7 ~73 double_stone_slab 0  
+fill ~65 ~7 ~78 ~72 ~7 ~78 double_stone_slab 0 
+setblock ~65 ~7 ~79 stone_slab 0 
+setblock ~66 ~7 ~71 stone_slab 0  
+fill ~66 ~7 ~72 ~71 ~7 ~72 double_stone_slab 0  
+fill ~66 ~7 ~79 ~71 ~7 ~79 double_stone_slab 0 
+setblock ~66 ~7 ~80 stone_slab 0  
+fill ~67 ~7 ~70 ~70 ~7 ~70 stone_slab 0  
+fill ~67 ~7 ~71 ~70 ~7 ~71 double_stone_slab 0  
+fill ~67 ~7 ~80 ~70 ~7 ~80 double_stone_slab 0  
+fill ~67 ~7 ~81 ~70 ~7 ~81 stone_slab 0 
+setblock ~71 ~7 ~71 stone_slab 0 
+setblock ~71 ~7 ~80 stone_slab 0 
+setblock ~72 ~7 ~72 stone_slab 0 
+setblock ~72 ~7 ~79 stone_slab 0 
+setblock ~73 ~7 ~73 stone_slab 0 
+setblock ~73 ~7 ~78 stone_slab 0  
+fill ~74 ~7 ~74 ~74 ~7 ~77 stone_slab 0  
+fill ~21 ~8 ~51 ~21 ~8 ~53 glass 0  
+fill ~22 ~8 ~50 ~24 ~8 ~50 glass 0  
+fill ~22 ~8 ~54 ~24 ~8 ~54 glass 0  
+fill ~23 ~8 ~52 ~23 ~10 ~52 cobblestone_wall 0  
+fill ~25 ~8 ~51 ~25 ~8 ~53 glass 0  
+fill ~31 ~8 ~171 ~44 ~8 ~171 double_stone_slab 0  
+fill ~31 ~8 ~172 ~44 ~8 ~172 double_stone_slab 0  
+fill ~31 ~8 ~173 ~44 ~8 ~173 double_stone_slab 0  
+fill ~31 ~8 ~174 ~44 ~8 ~174 double_stone_slab 0  
+fill ~31 ~8 ~175 ~44 ~8 ~175 double_stone_slab 0  
+fill ~31 ~8 ~176 ~44 ~8 ~176 double_stone_slab 0  
+fill ~31 ~8 ~177 ~44 ~8 ~177 double_stone_slab 0  
+fill ~31 ~8 ~178 ~44 ~8 ~178 double_stone_slab 0  
+fill ~31 ~8 ~179 ~44 ~8 ~179 double_stone_slab 0  
+fill ~31 ~8 ~180 ~44 ~8 ~180 double_stone_slab 0  
+fill ~31 ~8 ~181 ~44 ~8 ~181 double_stone_slab 0  
+fill ~31 ~8 ~182 ~44 ~8 ~182 double_stone_slab 0  
+fill ~31 ~8 ~183 ~44 ~8 ~183 double_stone_slab 0  
+fill ~31 ~8 ~184 ~44 ~8 ~184 double_stone_slab 0  
+fill ~31 ~8 ~185 ~44 ~8 ~185 double_stone_slab 0  
+fill ~31 ~8 ~186 ~44 ~8 ~186 double_stone_slab 0  
+fill ~31 ~8 ~187 ~44 ~8 ~187 double_stone_slab 0  
+fill ~31 ~8 ~188 ~44 ~8 ~188 double_stone_slab 0  
+fill ~31 ~8 ~189 ~44 ~8 ~189 double_stone_slab 0  
+fill ~56 ~8 ~87 ~80 ~8 ~87 double_stone_slab 0  
+fill ~56 ~8 ~88 ~80 ~8 ~88 double_stone_slab 0  
+fill ~56 ~8 ~102 ~80 ~8 ~102 double_stone_slab 0  
+fill ~56 ~8 ~103 ~80 ~8 ~103 double_stone_slab 0  
+fill ~56 ~8 ~120 ~80 ~8 ~120 double_stone_slab 0  
+fill ~56 ~8 ~121 ~80 ~8 ~121 double_stone_slab 0  
+fill ~56 ~8 ~135 ~80 ~8 ~135 double_stone_slab 0  
+fill ~56 ~8 ~136 ~80 ~8 ~136 double_stone_slab 0  
+fill ~57 ~8 ~89 ~57 ~8 ~101 wool 8  
+fill ~57 ~8 ~122 ~57 ~8 ~134 wool 8  
+fill ~21 ~9 ~51 ~21 ~9 ~53 wool 8  
+fill ~22 ~9 ~50 ~24 ~9 ~50 wool 8  
+fill ~22 ~9 ~54 ~24 ~9 ~54 wool 8  
+fill ~25 ~9 ~51 ~25 ~9 ~53 wool 8  
+fill ~56 ~9 ~89 ~80 ~9 ~89 double_stone_slab 0  
+fill ~56 ~9 ~90 ~80 ~9 ~90 double_stone_slab 0  
+fill ~56 ~9 ~100 ~80 ~9 ~100 double_stone_slab 0  
+fill ~56 ~9 ~101 ~80 ~9 ~101 double_stone_slab 0  
+fill ~56 ~9 ~122 ~80 ~9 ~122 double_stone_slab 0  
+fill ~56 ~9 ~123 ~80 ~9 ~123 double_stone_slab 0  
+fill ~56 ~9 ~133 ~80 ~9 ~133 double_stone_slab 0  
+fill ~56 ~9 ~134 ~80 ~9 ~134 double_stone_slab 0  
+fill ~57 ~9 ~91 ~57 ~9 ~99 wool 8  
+fill ~57 ~9 ~124 ~57 ~9 ~132 wool 8  
+fill ~22 ~10 ~51 ~24 ~10 ~51 wool 8  
+fill ~22 ~10 ~52 ~22 ~10 ~53 wool 8  
+fill ~23 ~10 ~53 ~24 ~10 ~53 wool 8 
+setblock ~24 ~10 ~52 wool 8  
+fill ~56 ~10 ~91 ~80 ~10 ~91 double_stone_slab 0  
+fill ~56 ~10 ~92 ~80 ~10 ~92 double_stone_slab 0  
+fill ~56 ~10 ~98 ~80 ~10 ~98 double_stone_slab 0  
+fill ~56 ~10 ~99 ~80 ~10 ~99 double_stone_slab 0  
+fill ~56 ~10 ~124 ~80 ~10 ~124 double_stone_slab 0  
+fill ~56 ~10 ~125 ~80 ~10 ~125 double_stone_slab 0  
+fill ~56 ~10 ~131 ~80 ~10 ~131 double_stone_slab 0  
+fill ~56 ~10 ~132 ~80 ~10 ~132 double_stone_slab 0  
+fill ~57 ~10 ~93 ~57 ~10 ~97 wool 8  
+fill ~57 ~10 ~126 ~57 ~10 ~130 wool 8  
+fill ~58 ~10 ~94 ~78 ~10 ~94 stone_slab 8  
+fill ~58 ~10 ~95 ~78 ~10 ~95 glowstone 0  
+fill ~58 ~10 ~96 ~78 ~10 ~96 stone_slab 8  
+fill ~58 ~10 ~127 ~78 ~10 ~127 stone_slab 8  
+fill ~58 ~10 ~128 ~78 ~10 ~128 glowstone 0  
+fill ~58 ~10 ~129 ~78 ~10 ~129 stone_slab 8  
+fill ~56 ~11 ~93 ~80 ~11 ~93 double_stone_slab 0  
+fill ~56 ~11 ~94 ~80 ~11 ~94 double_stone_slab 0  
+fill ~56 ~11 ~95 ~80 ~11 ~95 double_stone_slab 0  
+fill ~56 ~11 ~96 ~80 ~11 ~96 double_stone_slab 0  
+fill ~56 ~11 ~97 ~80 ~11 ~97 double_stone_slab 0  
+fill ~56 ~11 ~126 ~80 ~11 ~126 double_stone_slab 0  
+fill ~56 ~11 ~127 ~80 ~11 ~127 double_stone_slab 0  
+fill ~56 ~11 ~128 ~80 ~11 ~128 double_stone_slab 0  
+fill ~56 ~11 ~129 ~80 ~11 ~129 double_stone_slab 0  
+fill ~56 ~11 ~130 ~80 ~11 ~130 double_stone_slab 0    

@@ -1,0 +1,553 @@
+{fill ~22~12~6 ~22~14~7 minecraft:planks 2
+fill ~22~11~7 ~22~11~8 minecraft:planks 2
+fill ~22~15~7 ~22~18~8 minecraft:planks 2
+fill ~21~12~8 ~21~14~9 minecraft:planks 0
+setblock ~22~10~8 minecraft:planks 2
+setblock ~22~14~8 minecraft:planks 2
+fill ~22~19~8 ~22~20~9 minecraft:planks 2
+fill ~20~11~9 ~20~12~14 minecraft:planks 1
+fill ~21~10~9 ~21~11~9 minecraft:planks 0
+fill ~21~15~9 ~21~17~10 minecraft:planks 0
+setblock ~22~18~9 minecraft:planks 2
+fill ~22~21~9 ~22~22~10 minecraft:planks 2
+fill ~11~7~10 ~11~7~11 minecraft:wooden_slab 9
+fill ~12~8~10 ~13~8~10 minecraft:wooden_slab 0
+fill ~20~10~10 ~20~10~15 minecraft:planks 1
+fill ~20~13~10 ~20~14~13 minecraft:planks 1
+fill ~21~18~10 ~21~19~11 minecraft:planks 0
+setblock ~22~20~10 minecraft:planks 2
+fill ~22~23~10 ~22~24~11 minecraft:planks 2
+fill ~10~7~11 ~10~7~12 minecraft:wooden_slab 9
+setblock ~12~8~11 minecraft:wooden_slab 0
+fill ~13~8~11 ~13~8~13 minecraft:wooden_slab 9
+fill ~14~9~11 ~14~9~12 minecraft:wooden_slab 1
+fill ~15~9~11 ~15~9~12 minecraft:wooden_slab 8
+fill ~19~11~11 ~19~13~35 minecraft:planks 5
+fill ~20~9~11 ~20~9~19 minecraft:planks 1
+fill ~20~15~11 ~20~17~13 minecraft:planks 1
+fill ~21~20~11 ~21~21~11 minecraft:planks 0
+setblock ~22~22~11 minecraft:planks 2
+fill ~22~25~11 ~22~26~12 minecraft:planks 2
+setblock ~9~7~12 minecraft:wooden_slab 0
+setblock ~11~8~12 minecraft:wooden_slab 0
+setblock ~12~8~12 minecraft:planks 0
+fill ~13~9~12 ~13~9~13 minecraft:wooden_slab 1
+fill ~15~10~12 ~16~10~12 minecraft:wooden_slab 0
+fill ~18~11~12 ~18~12~15 minecraft:planks 5
+fill ~19~10~12 ~19~10~34 minecraft:planks 5
+fill ~19~14~12 ~19~15~34 minecraft:planks 5
+fill ~20~8~12 ~20~8~34 minecraft:planks 1
+fill ~20~18~12 ~20~20~14 minecraft:planks 1
+fill ~21~21~12 ~21~24~12 minecraft:planks 0
+setblock ~22~24~12 minecraft:planks 2
+fill ~22~27~12 ~22~27~16 minecraft:planks 2
+setblock ~9~7~13 minecraft:planks 0
+setblock ~10~7~13 minecraft:planks 1
+setblock ~10~8~13 minecraft:wooden_slab 1
+setblock ~11~8~13 minecraft:planks 0
+setblock ~12~8~13 minecraft:planks 1
+setblock ~14~9~13 minecraft:wooden_slab 8
+fill ~15~9~13 ~15~9~14 minecraft:wooden_slab 9
+setblock ~15~10~13 minecraft:wooden_slab 0
+setblock ~16~10~13 minecraft:planks 1
+setblock ~17~10~13 minecraft:wooden_slab 9
+fill ~18~10~13 ~18~10~14 minecraft:planks 5
+fill ~19~16~13 ~19~17~33 minecraft:planks 5
+fill ~20~7~13 ~20~7~33 minecraft:planks 1
+fill ~20~21~13 ~20~22~15 minecraft:planks 1
+fill ~21~23~13 ~21~25~13 minecraft:planks 0
+fill ~22~26~13 ~22~26~14 minecraft:planks 2
+setblock ~8~7~14 minecraft:wooden_slab 0
+setblock ~9~7~14 minecraft:planks 1
+setblock ~10~7~14 minecraft:spruce_stairs 5
+setblock ~10~8~14 minecraft:oak_stairs 0
+setblock ~11~9~14 minecraft:wooden_slab 1
+setblock ~12~9~14 minecraft:spruce_stairs 2
+setblock ~13~9~14 minecraft:planks 0
+setblock ~13~10~14 minecraft:oak_stairs 2
+setblock ~14~9~14 minecraft:planks 1
+setblock ~14~10~14 minecraft:planks 0
+fill ~15~10~14 ~15~10~15 minecraft:planks 1
+fill ~16~10~14 ~16~10~15 minecraft:wooden_slab 9
+setblock ~16~11~14 minecraft:wooden_slab 1
+setblock ~17~11~14 minecraft:oak_stairs 2
+fill ~18~13~14 ~18~13~15 minecraft:planks 5
+fill ~19~18~14 ~19~19~32 minecraft:planks 5
+setblock ~20~17~14 minecraft:planks 1
+fill ~20~23~14 ~20~23~18 minecraft:planks 1
+fill ~21~24~14 ~21~26~14 minecraft:planks 0
+fill ~22~28~14 ~22~28~20 minecraft:planks 2
+setblock ~8~7~15 minecraft:planks 1
+fill ~8~8~15 ~8~11~15 minecraft:stained_hardened_clay 12
+fill ~9~7~15 ~9~7~16 minecraft:stained_hardened_clay 7
+setblock ~9~8~15 minecraft:planks 1
+fill ~9~9~15 ~10~9~15 minecraft:planks 0
+fill ~9~10~15 ~10~12~15 minecraft:stained_hardened_clay 12
+setblock ~10~8~15 minecraft:planks 0
+fill ~11~8~15 ~12~8~17 minecraft:stained_hardened_clay 7
+fill ~11~9~15 ~12~9~15 minecraft:planks 1
+setblock ~11~10~15 minecraft:planks 1
+fill ~11~11~15 ~11~12~15 minecraft:stained_hardened_clay 12
+fill ~12~10~15 ~12~11~15 minecraft:planks 0
+fill ~13~9~15 ~13~9~17 minecraft:stained_hardened_clay 7
+fill ~13~10~15 ~14~10~15 minecraft:planks 1
+setblock ~13~11~15 minecraft:wooden_slab 0
+fill ~14~11~15 ~15~11~15 minecraft:wooden_slab 1
+setblock ~16~11~15 minecraft:planks 0
+setblock ~17~11~15 minecraft:planks 1
+setblock ~17~12~15 minecraft:oak_stairs 2
+fill ~17~14~15 ~18~15~15 minecraft:stained_hardened_clay 15
+fill ~18~16~15 ~18~16~16 minecraft:stained_hardened_clay 15
+fill ~19~8~15 ~19~9~31 minecraft:planks 5
+fill ~19~20~15 ~19~21~31 minecraft:planks 5
+fill ~20~6~15 ~20~6~31 minecraft:planks 1
+fill ~20~24~15 ~20~24~20 minecraft:planks 1
+fill ~21~25~15 ~21~26~15 minecraft:planks 0
+fill ~6~8~16 ~7~8~16 minecraft:stained_hardened_clay 12
+fill ~6~9~16 ~6~10~16 minecraft:stained_hardened_clay 7
+fill ~7~6~16 ~9~6~16 minecraft:stained_hardened_clay 12
+setblock ~7~7~16 minecraft:stained_hardened_clay 12
+setblock ~7~9~16 minecraft:stained_hardened_clay 12
+fill ~7~10~16 ~7~12~16 minecraft:stained_hardened_clay 7
+setblock ~8~7~16 minecraft:stained_hardened_clay 7
+fill ~8~12~16 ~8~13~16 minecraft:stained_hardened_clay 7
+fill ~9~13~16 ~10~13~16 minecraft:stained_hardened_clay 7
+fill ~10~6~16 ~10~6~18 minecraft:stained_hardened_clay 7
+fill ~10~7~16 ~11~7~16 minecraft:stained_hardened_clay 7
+fill ~11~13~16 ~18~13~16 minecraft:stained_hardened_clay 12
+setblock ~12~11~16 minecraft:stained_hardened_clay 7
+fill ~12~12~16 ~14~12~16 minecraft:stained_hardened_clay 12
+fill ~13~8~16 ~13~8~18 minecraft:stained_hardened_clay 7
+fill ~13~11~16 ~16~11~16 minecraft:planks 1
+fill ~14~9~16 ~15~9~18 minecraft:stained_hardened_clay 7
+setblock ~14~10~16 minecraft:planks 1
+fill ~14~14~16 ~16~14~16 minecraft:stained_hardened_clay 12
+fill ~14~15~16 ~16~15~16 minecraft:stained_hardened_clay 15
+fill ~15~10~16 ~16~10~16 minecraft:stained_hardened_clay 7
+fill ~15~12~16 ~16~12~16 minecraft:planks 0
+fill ~16~16~16 ~17~16~16 minecraft:stained_hardened_clay 15
+setblock ~17~11~16 minecraft:stained_hardened_clay 7
+setblock ~17~12~16 minecraft:planks 1
+fill ~17~17~16 ~18~17~17 minecraft:stained_hardened_clay 15
+fill ~18~11~16 ~18~12~16 minecraft:stained_hardened_clay 12
+fill ~18~18~16 ~18~18~17 minecraft:stained_hardened_clay 15
+fill ~19~7~16 ~19~7~30 minecraft:planks 5
+setblock ~20~22~16 minecraft:planks 1
+fill ~20~25~16 ~20~25~30 minecraft:planks 1
+fill ~21~26~16 ~21~27~17 minecraft:planks 0
+fill ~22~29~16 ~22~29~30 minecraft:planks 2
+fill ~4~7~17 ~6~7~17 minecraft:stained_hardened_clay 7
+fill ~4~8~17 ~5~11~17 minecraft:stained_hardened_clay 7
+fill ~5~6~17 ~6~6~17 minecraft:stained_hardened_clay 7
+fill ~5~12~17 ~6~12~17 minecraft:stained_hardened_clay 7
+setblock ~6~11~17 minecraft:stained_hardened_clay 7
+fill ~7~5~17 ~9~5~19 minecraft:stained_hardened_clay 7
+fill ~7~13~17 ~7~14~17 minecraft:stained_hardened_clay 7
+fill ~8~14~17 ~13~14~17 minecraft:stained_hardened_clay 7
+fill ~9~15~17 ~13~15~17 minecraft:stained_hardened_clay 7
+fill ~11~7~17 ~11~7~18 minecraft:stained_hardened_clay 7
+fill ~13~16~17 ~16~16~17 minecraft:stained_hardened_clay 15
+setblock ~14~15~17 minecraft:stained_hardened_clay 15
+fill ~15~17~17 ~16~17~17 minecraft:stained_hardened_clay 15
+fill ~16~10~17 ~18~10~19 minecraft:stained_hardened_clay 7
+fill ~16~18~17 ~17~18~18 minecraft:stained_hardened_clay 15
+fill ~18~19~17 ~18~19~18 minecraft:stained_hardened_clay 15
+fill ~19~22~17 ~19~22~29 minecraft:planks 5
+fill ~21~5~17 ~21~5~19 minecraft:planks 0
+setblock ~21~6~17 minecraft:planks 0
+fill ~22~3~17 ~22~3~18 minecraft:planks 2
+setblock ~22~4~17 minecraft:planks 2
+fill ~3~8~18 ~3~8~19 minecraft:wood 0
+fill ~3~9~18 ~3~11~18 minecraft:wood 0
+fill ~4~6~18 ~5~6~18 minecraft:stained_hardened_clay 7
+fill ~4~7~18 ~4~8~19 minecraft:stained_hardened_clay 7
+fill ~4~12~18 ~4~12~19 minecraft:wood 0
+fill ~5~5~18 ~6~5~19 minecraft:stained_hardened_clay 7
+fill ~5~12~18 ~5~13~18 minecraft:stained_hardened_clay 7
+fill ~6~13~18 ~6~14~18 minecraft:stained_hardened_clay 7
+fill ~7~15~18 ~9~15~18 minecraft:stained_hardened_clay 7
+fill ~10~5~18 ~10~5~20 minecraft:stained_hardened_clay 7
+fill ~10~16~18 ~13~16~18 minecraft:stained_hardened_clay 15
+fill ~11~6~18 ~11~6~19 minecraft:stained_hardened_clay 7
+fill ~12~7~18 ~12~7~19 minecraft:stained_hardened_clay 7
+fill ~12~17~18 ~15~17~18 minecraft:stained_hardened_clay 15
+fill ~14~8~18 ~14~8~19 minecraft:stained_hardened_clay 7
+fill ~15~18~18 ~15~18~20 minecraft:stained_hardened_clay 15
+fill ~16~9~18 ~16~9~22 minecraft:stained_hardened_clay 7
+fill ~17~19~18 ~17~19~20 minecraft:stained_hardened_clay 15
+fill ~18~20~18 ~18~20~21 minecraft:stained_hardened_clay 15
+fill ~20~26~18 ~20~26~28 minecraft:planks 1
+fill ~21~4~18 ~21~4~28 minecraft:planks 0
+fill ~21~27~18 ~21~28~19 minecraft:planks 0
+fill ~22~2~18 ~22~2~28 minecraft:planks 2
+fill ~22~30~18 ~22~30~28 minecraft:planks 2
+fill ~2~9~19 ~2~10~21 minecraft:wood 0
+fill ~3~7~19 ~3~7~22 minecraft:wood 0
+fill ~3~10~19 ~3~12~20 minecraft:wood 0
+setblock ~4~6~19 minecraft:stained_hardened_clay 7
+fill ~4~13~19 ~4~13~21 minecraft:wood 0
+fill ~5~14~19 ~5~14~20 minecraft:wood 0
+fill ~6~14~19 ~6~15~19 minecraft:stained_hardened_clay 7
+fill ~7~4~19 ~9~4~27 minecraft:stained_hardened_clay 7
+fill ~7~15~19 ~7~16~19 minecraft:stained_hardened_clay 7
+fill ~8~16~19 ~9~16~19 minecraft:stained_hardened_clay 7
+fill ~10~17~19 ~14~17~19 minecraft:stained_hardened_clay 15
+fill ~11~5~19 ~11~5~22 minecraft:stained_hardened_clay 7
+fill ~12~6~19 ~12~6~22 minecraft:stained_hardened_clay 7
+fill ~13~7~19 ~13~7~22 minecraft:stained_hardened_clay 7
+fill ~13~18~19 ~14~18~20 minecraft:stained_hardened_clay 15
+fill ~15~8~19 ~15~8~22 minecraft:stained_hardened_clay 7
+setblock ~15~9~19 minecraft:stained_hardened_clay 7
+fill ~16~18~19 ~16~19~19 minecraft:stained_hardened_clay 15
+fill ~17~20~19 ~17~20~22 minecraft:stained_hardened_clay 15
+fill ~19~23~19 ~19~23~27 minecraft:planks 5
+fill ~21~3~19 ~21~3~27 minecraft:planks 0
+fill ~2~8~20 ~2~8~21 minecraft:wood 0
+fill ~3~6~20 ~3~6~26 minecraft:wood 0
+fill ~4~5~20 ~5~5~26 minecraft:stained_hardened_clay 7
+fill ~4~14~20 ~4~14~22 minecraft:wood 0
+fill ~5~15~20 ~5~15~21 minecraft:wood 0
+fill ~6~4~20 ~6~4~26 minecraft:stained_hardened_clay 7
+setblock ~6~15~20 minecraft:stained_hardened_clay 7
+fill ~6~16~20 ~6~16~21 minecraft:wood 0
+fill ~7~16~20 ~8~16~20 minecraft:stained_hardened_clay 7
+fill ~8~0~20 ~8~3~20 minecraft:wall_sign 2
+setblock ~9~5~20 minecraft:stained_hardened_clay 7
+fill ~9~17~20 ~12~17~20 minecraft:stained_hardened_clay 15
+fill ~10~4~20 ~10~4~26 minecraft:stained_hardened_clay 7
+fill ~12~18~20 ~12~18~26 minecraft:stained_hardened_clay 15
+fill ~13~6~20 ~13~6~22 minecraft:stained_hardened_clay 7
+fill ~14~7~20 ~14~7~22 minecraft:stained_hardened_clay 7
+fill ~15~19~20 ~16~19~20 minecraft:stained_hardened_clay 15
+fill ~17~9~20 ~17~10~26 minecraft:stained_hardened_clay 7
+fill ~18~10~20 ~18~10~29 minecraft:stained_hardened_clay 7
+fill ~18~21~20 ~18~21~26 minecraft:stained_hardened_clay 15
+fill ~20~5~20 ~20~5~26 minecraft:planks 1
+fill ~20~27~20 ~20~27~26 minecraft:planks 1
+fill ~21~28~20 ~21~28~28 minecraft:planks 0
+fill ~21~29~20 ~21~29~26 minecraft:planks 0
+fill ~22~1~20 ~22~1~26 minecraft:planks 2
+fill ~1~9~21 ~1~9~22 minecraft:wood 0
+fill ~2~7~21 ~2~7~25 minecraft:wood 0
+fill ~2~11~21 ~2~11~22 minecraft:wood 0
+fill ~3~12~21 ~3~12~22 minecraft:wood 0
+setblock ~3~13~21 minecraft:wood 0
+setblock ~3~17~21 minecraft:stone_block_slab 9
+setblock ~3~19~21 minecraft:stone_block_slab 9
+fill ~3~20~21 ~6~20~21 minecraft:stained_hardened_clay 3
+fill ~4~15~21 ~4~15~22 minecraft:wood 0
+fill ~4~17~21 ~4~17~22 minecraft:sandstone 0
+setblock ~4~18~21 minecraft:sandstone_stairs 0
+setblock ~4~19~21 minecraft:sandstone_stairs 4
+fill ~5~4~21 ~5~4~25 minecraft:stained_hardened_clay 7
+setblock ~5~16~21 minecraft:wood 0
+setblock ~5~17~21 minecraft:stone_block_slab 9
+setblock ~5~18~21 minecraft:sandstone 0
+fill ~5~19~21 ~7~19~21 minecraft:stained_hardened_clay 3
+fill ~6~17~21 ~7~18~21 minecraft:stained_hardened_clay 3
+setblock ~7~0~21 minecraft:oak_stairs 0
+fill ~7~1~21 ~7~2~21 minecraft:wall_sign 4
+setblock ~7~3~21 minecraft:oak_stairs 4
+setblock ~7~16~21 minecraft:stained_hardened_clay 3
+fill ~8~0~21 ~8~3~21 minecraft:planks 0
+fill ~8~17~21 ~11~17~21 minecraft:stained_hardened_clay 15
+fill ~9~0~21 ~9~3~21 minecraft:wall_sign 5
+fill ~11~18~21 ~11~18~25 minecraft:stained_hardened_clay 15
+fill ~12~5~21 ~12~5~25 minecraft:stained_hardened_clay 7
+fill ~13~18~21 ~13~19~21 minecraft:stained_hardened_clay 15
+fill ~14~6~21 ~14~6~25 minecraft:stained_hardened_clay 7
+fill ~14~19~21 ~15~19~21 minecraft:stained_hardened_clay 15
+fill ~16~8~21 ~16~8~25 minecraft:stained_hardened_clay 7
+fill ~16~20~21 ~16~20~25 minecraft:stained_hardened_clay 15
+fill ~19~24~21 ~19~24~25 minecraft:planks 5
+fill ~22~31~21 ~22~31~25 minecraft:planks 2
+fill ~1~8~22 ~1~8~24 minecraft:wood 0
+setblock ~1~10~22 minecraft:wood 0
+fill ~1~11~22 ~1~11~24 minecraft:red_sandstone 0
+fill ~2~12~22 ~2~12~24 minecraft:red_sandstone 0
+setblock ~2~17~22 minecraft:sandstone_stairs 4
+fill ~2~18~22 ~2~20~22 minecraft:stained_hardened_clay 3
+setblock ~3~13~22 minecraft:red_sandstone_stairs 0
+fill ~3~16~22 ~4~16~22 minecraft:stone_block_slab 9
+setblock ~3~17~22 minecraft:sandstone 0
+fill ~3~18~22 ~4~19~22 minecraft:coal_block
+fill ~3~20~22 ~3~20~25 minecraft:stained_hardened_clay 3
+fill ~4~21~22 ~5~21~24 minecraft:stained_hardened_clay 3
+fill ~5~16~22 ~6~16~22 minecraft:sandstone 0
+setblock ~5~17~22 minecraft:sandstone 0
+fill ~6~18~22 ~6~20~22 minecraft:stained_hardened_clay 3
+fill ~7~20~22 ~7~20~24 minecraft:stained_hardened_clay 3
+fill ~8~0~22 ~8~3~22 minecraft:wall_sign 3
+fill ~8~16~22 ~8~19~24 minecraft:stained_hardened_clay 3
+fill ~9~17~22 ~11~17~26 minecraft:stained_hardened_clay 15
+fill ~9~18~22 ~10~18~24 minecraft:stained_hardened_clay 15
+fill ~11~4~22 ~11~4~24 minecraft:stained_hardened_clay 7
+setblock ~11~6~22 minecraft:stained_hardened_clay 7
+fill ~11~19~22 ~14~19~22 minecraft:stained_hardened_clay 15
+fill ~14~20~22 ~15~20~24 minecraft:stained_hardened_clay 15
+fill ~15~7~22 ~15~7~24 minecraft:stained_hardened_clay 7
+fill ~20~28~22 ~20~28~24 minecraft:planks 1
+fill ~0~14~23 ~0~17~23 minecraft:red_sandstone 0
+setblock ~0~18~23 minecraft:red_sandstone_stairs 0
+fill ~1~9~23 ~1~10~23 minecraft:red_sandstone 0
+setblock ~1~12~23 minecraft:red_sandstone 0
+fill ~1~16~23 ~1~19~23 minecraft:red_sandstone 0
+setblock ~1~20~23 minecraft:stone_block_slab2 0
+setblock ~2~13~23 minecraft:red_sandstone_stairs 0
+setblock ~2~16~23 minecraft:stone_block_slab2 0
+setblock ~2~17~23 minecraft:red_sandstone 0
+setblock ~2~19~23 minecraft:red_sandstone 0
+fill ~2~20~23 ~2~20~24 minecraft:stained_hardened_clay 3
+setblock ~3~13~23 minecraft:red_sandstone 0
+setblock ~3~14~23 minecraft:red_sandstone_stairs 0
+setblock ~3~16~23 minecraft:red_sandstone_stairs 4
+setblock ~3~21~23 minecraft:stained_hardened_clay 3
+fill ~4~14~23 ~4~16~23 minecraft:red_sandstone 0
+setblock ~5~15~23 minecraft:stained_hardened_clay 3
+fill ~6~21~23 ~7~21~23 minecraft:stained_hardened_clay 3
+setblock ~8~15~23 minecraft:stained_hardened_clay 3
+setblock ~8~20~23 minecraft:stained_hardened_clay 3
+fill ~9~15~23 ~9~16~23 minecraft:stained_hardened_clay 15
+fill ~10~16~23 ~11~16~23 minecraft:stained_hardened_clay 15
+fill ~10~19~23 ~13~19~23 minecraft:stained_hardened_clay 15
+setblock ~12~17~23 minecraft:stained_hardened_clay 15
+fill ~12~20~23 ~13~20~23 minecraft:stained_hardened_clay 15
+setblock ~13~5~23 minecraft:stained_hardened_clay 7
+setblock ~15~6~23 minecraft:stained_hardened_clay 7
+setblock ~16~7~23 minecraft:stained_hardened_clay 7
+setblock ~17~8~23 minecraft:stained_hardened_clay 7
+setblock ~17~21~23 minecraft:stained_hardened_clay 15
+setblock ~18~20~23 minecraft:stained_hardened_clay 15
+fill ~1~9~24 ~1~9~25 minecraft:wood 0
+setblock ~1~10~24 minecraft:wood 0
+fill ~2~11~24 ~2~11~25 minecraft:wood 0
+setblock ~2~17~24 minecraft:sandstone_stairs 4
+fill ~2~18~24 ~2~19~24 minecraft:stained_hardened_clay 3
+fill ~3~7~24 ~3~7~27 minecraft:wood 0
+fill ~3~12~24 ~3~12~27 minecraft:wood 0
+setblock ~3~13~24 minecraft:red_sandstone_stairs 0
+fill ~3~16~24 ~4~16~24 minecraft:stone_block_slab 9
+fill ~3~17~24 ~5~17~24 minecraft:sandstone 0
+fill ~3~18~24 ~4~19~24 minecraft:coal_block
+fill ~4~14~24 ~4~14~26 minecraft:wood 0
+fill ~4~15~24 ~4~15~25 minecraft:wood 0
+fill ~5~16~24 ~6~16~24 minecraft:sandstone 0
+fill ~6~18~24 ~6~20~25 minecraft:stained_hardened_clay 3
+fill ~8~0~24 ~8~3~24 minecraft:wall_sign 2
+fill ~11~5~24 ~11~5~27 minecraft:stained_hardened_clay 7
+fill ~11~6~24 ~13~6~24 minecraft:stained_hardened_clay 7
+fill ~11~19~24 ~14~19~24 minecraft:stained_hardened_clay 15
+fill ~13~7~24 ~14~7~26 minecraft:stained_hardened_clay 7
+fill ~15~8~24 ~15~8~27 minecraft:stained_hardened_clay 7
+fill ~16~9~24 ~16~9~28 minecraft:stained_hardened_clay 7
+fill ~17~20~24 ~17~20~27 minecraft:stained_hardened_clay 15
+fill ~2~8~25 ~2~10~26 minecraft:wood 0
+fill ~3~13~25 ~4~13~25 minecraft:wood 0
+setblock ~3~17~25 minecraft:stone_block_slab 9
+setblock ~3~19~25 minecraft:stone_block_slab 9
+setblock ~4~17~25 minecraft:sandstone 0
+setblock ~4~18~25 minecraft:sandstone_stairs 0
+setblock ~4~19~25 minecraft:sandstone_stairs 4
+fill ~4~20~25 ~5~20~25 minecraft:stained_hardened_clay 3
+fill ~5~15~25 ~5~15~26 minecraft:wood 0
+fill ~5~16~25 ~6~16~25 minecraft:wood 0
+setblock ~5~17~25 minecraft:stone_block_slab 9
+setblock ~5~18~25 minecraft:sandstone 0
+setblock ~5~19~25 minecraft:stained_hardened_clay 3
+fill ~6~17~25 ~7~17~25 minecraft:stained_hardened_clay 3
+setblock ~7~0~25 minecraft:oak_stairs 0
+fill ~7~1~25 ~7~2~25 minecraft:wall_sign 4
+setblock ~7~3~25 minecraft:oak_stairs 4
+setblock ~7~16~25 minecraft:stained_hardened_clay 3
+fill ~7~18~25 ~7~19~25 minecraft:stained_hardened_clay 3
+fill ~8~0~25 ~8~3~25 minecraft:planks 0
+setblock ~8~17~25 minecraft:stained_hardened_clay 15
+fill ~9~0~25 ~9~3~25 minecraft:wall_sign 5
+fill ~12~6~25 ~13~6~26 minecraft:stained_hardened_clay 7
+fill ~13~18~25 ~13~18~27 minecraft:stained_hardened_clay 15
+fill ~13~19~25 ~15~19~25 minecraft:stained_hardened_clay 15
+fill ~18~20~25 ~18~20~28 minecraft:stained_hardened_clay 15
+fill ~3~10~26 ~3~11~28 minecraft:wood 0
+fill ~4~13~26 ~4~13~27 minecraft:wood 0
+fill ~5~14~26 ~5~14~27 minecraft:wood 0
+fill ~6~15~26 ~6~15~27 minecraft:stained_hardened_clay 7
+setblock ~6~16~26 minecraft:wood 0
+fill ~7~16~26 ~8~16~27 minecraft:stained_hardened_clay 7
+fill ~8~0~26 ~8~3~26 minecraft:wall_sign 3
+fill ~9~5~26 ~10~5~28 minecraft:stained_hardened_clay 7
+fill ~12~17~26 ~12~17~28 minecraft:stained_hardened_clay 15
+fill ~14~18~26 ~15~18~27 minecraft:stained_hardened_clay 15
+fill ~15~19~26 ~17~19~26 minecraft:stained_hardened_clay 15
+fill ~20~24~26 ~20~24~31 minecraft:planks 1
+fill ~22~28~26 ~22~28~32 minecraft:planks 2
+fill ~2~9~27 ~2~10~27 minecraft:wood 0
+fill ~3~8~27 ~3~8~28 minecraft:wood 0
+fill ~4~6~27 ~4~8~28 minecraft:stained_hardened_clay 7
+fill ~4~12~27 ~4~12~28 minecraft:wood 0
+fill ~5~5~27 ~8~5~28 minecraft:stained_hardened_clay 7
+fill ~6~14~27 ~6~14~28 minecraft:stained_hardened_clay 7
+fill ~7~15~27 ~7~15~28 minecraft:stained_hardened_clay 7
+setblock ~9~16~27 minecraft:stained_hardened_clay 7
+fill ~10~17~27 ~11~17~27 minecraft:stained_hardened_clay 15
+fill ~11~6~27 ~12~6~27 minecraft:stained_hardened_clay 7
+fill ~12~7~27 ~13~7~27 minecraft:stained_hardened_clay 7
+fill ~13~17~27 ~14~17~28 minecraft:stained_hardened_clay 15
+fill ~14~8~27 ~14~8~28 minecraft:stained_hardened_clay 7
+fill ~15~9~27 ~15~9~30 minecraft:stained_hardened_clay 7
+fill ~16~10~27 ~17~10~29 minecraft:stained_hardened_clay 7
+fill ~16~18~27 ~16~18~29 minecraft:stained_hardened_clay 15
+fill ~16~19~27 ~17~19~27 minecraft:stained_hardened_clay 15
+fill ~20~9~27 ~20~9~35 minecraft:planks 1
+fill ~21~5~27 ~21~5~29 minecraft:planks 0
+fill ~21~27~27 ~21~27~30 minecraft:planks 0
+setblock ~3~9~28 minecraft:wood 0
+fill ~5~6~28 ~5~6~29 minecraft:stained_hardened_clay 7
+fill ~5~12~28 ~5~12~29 minecraft:stained_hardened_clay 7
+fill ~5~13~28 ~6~13~28 minecraft:stained_hardened_clay 7
+fill ~8~15~28 ~9~15~28 minecraft:stained_hardened_clay 7
+fill ~10~6~28 ~11~6~28 minecraft:stained_hardened_clay 7
+fill ~10~16~28 ~13~16~28 minecraft:stained_hardened_clay 15
+fill ~11~7~28 ~12~7~28 minecraft:stained_hardened_clay 7
+fill ~13~8~28 ~13~8~30 minecraft:stained_hardened_clay 7
+fill ~14~9~28 ~14~9~30 minecraft:stained_hardened_clay 7
+fill ~15~17~28 ~15~17~29 minecraft:stained_hardened_clay 15
+setblock ~15~18~28 minecraft:stained_hardened_clay 15
+fill ~17~18~28 ~17~18~29 minecraft:stained_hardened_clay 15
+fill ~17~19~28 ~18~19~28 minecraft:stained_hardened_clay 15
+fill ~20~23~28 ~20~23~32 minecraft:planks 1
+fill ~22~3~28 ~22~3~29 minecraft:planks 2
+fill ~4~7~29 ~6~7~29 minecraft:stained_hardened_clay 7
+fill ~4~8~29 ~5~11~29 minecraft:stained_hardened_clay 7
+setblock ~6~6~29 minecraft:stained_hardened_clay 7
+fill ~6~11~29 ~6~12~29 minecraft:stained_hardened_clay 7
+fill ~7~5~29 ~9~5~29 minecraft:stained_hardened_clay 7
+fill ~7~13~29 ~7~14~29 minecraft:stained_hardened_clay 7
+fill ~8~14~29 ~13~14~29 minecraft:stained_hardened_clay 7
+fill ~9~15~29 ~13~15~29 minecraft:stained_hardened_clay 7
+fill ~10~6~29 ~10~6~30 minecraft:stained_hardened_clay 7
+fill ~11~7~29 ~11~8~30 minecraft:stained_hardened_clay 7
+fill ~12~8~29 ~12~8~31 minecraft:stained_hardened_clay 7
+fill ~13~9~29 ~13~9~31 minecraft:stained_hardened_clay 7
+fill ~13~16~29 ~16~16~29 minecraft:stained_hardened_clay 15
+fill ~14~15~29 ~14~15~30 minecraft:stained_hardened_clay 15
+fill ~16~17~29 ~18~17~29 minecraft:stained_hardened_clay 15
+fill ~18~18~29 ~18~18~30 minecraft:stained_hardened_clay 15
+setblock ~18~19~29 minecraft:stained_hardened_clay 15
+setblock ~21~6~29 minecraft:planks 0
+fill ~21~26~29 ~21~26~32 minecraft:planks 0
+setblock ~22~4~29 minecraft:planks 2
+fill ~6~8~30 ~7~8~30 minecraft:stained_hardened_clay 12
+fill ~6~9~30 ~6~10~30 minecraft:stained_hardened_clay 7
+fill ~7~6~30 ~9~6~30 minecraft:stained_hardened_clay 12
+setblock ~7~7~30 minecraft:stained_hardened_clay 12
+setblock ~7~9~30 minecraft:stained_hardened_clay 12
+fill ~7~10~30 ~7~12~30 minecraft:stained_hardened_clay 7
+fill ~8~7~30 ~10~7~30 minecraft:stained_hardened_clay 7
+fill ~8~12~30 ~8~13~30 minecraft:stained_hardened_clay 7
+fill ~9~13~30 ~10~13~30 minecraft:stained_hardened_clay 7
+fill ~11~13~30 ~18~13~30 minecraft:stained_hardened_clay 12
+setblock ~12~11~30 minecraft:stained_hardened_clay 7
+fill ~12~12~30 ~14~12~30 minecraft:stained_hardened_clay 12
+fill ~13~11~30 ~16~11~30 minecraft:planks 1
+fill ~14~10~30 ~14~10~31 minecraft:planks 1
+fill ~14~14~30 ~16~14~30 minecraft:stained_hardened_clay 12
+fill ~15~10~30 ~16~10~30 minecraft:stained_hardened_clay 7
+fill ~15~12~30 ~16~12~30 minecraft:planks 0
+fill ~15~15~30 ~16~15~30 minecraft:stained_hardened_clay 15
+fill ~16~16~30 ~18~16~30 minecraft:stained_hardened_clay 15
+setblock ~17~11~30 minecraft:stained_hardened_clay 7
+setblock ~17~12~30 minecraft:planks 1
+fill ~17~17~30 ~18~17~30 minecraft:stained_hardened_clay 15
+fill ~18~11~30 ~18~12~30 minecraft:stained_hardened_clay 12
+fill ~20~22~30 ~20~22~33 minecraft:planks 1
+fill ~22~27~30 ~22~27~34 minecraft:planks 2
+setblock ~8~7~31 minecraft:planks 1
+fill ~8~8~31 ~8~11~31 minecraft:stained_hardened_clay 12
+setblock ~9~7~31 minecraft:stained_hardened_clay 7
+setblock ~9~8~31 minecraft:planks 1
+fill ~9~9~31 ~10~9~31 minecraft:planks 0
+fill ~9~10~31 ~10~12~31 minecraft:stained_hardened_clay 12
+setblock ~10~8~31 minecraft:planks 0
+setblock ~11~8~31 minecraft:stained_hardened_clay 7
+fill ~11~9~31 ~12~9~31 minecraft:planks 1
+setblock ~11~10~31 minecraft:planks 1
+fill ~11~11~31 ~11~12~31 minecraft:stained_hardened_clay 12
+fill ~12~10~31 ~12~11~31 minecraft:planks 0
+setblock ~13~10~31 minecraft:planks 1
+setblock ~13~11~31 minecraft:wooden_slab 0
+fill ~14~11~31 ~15~11~31 minecraft:wooden_slab 1
+fill ~15~10~31 ~15~10~32 minecraft:planks 1
+fill ~16~10~31 ~16~10~32 minecraft:wooden_slab 9
+setblock ~16~11~31 minecraft:planks 0
+setblock ~17~11~31 minecraft:planks 1
+setblock ~17~12~31 minecraft:oak_stairs 3
+fill ~17~14~31 ~18~15~31 minecraft:stained_hardened_clay 15
+fill ~18~11~31 ~18~12~34 minecraft:planks 5
+fill ~18~13~31 ~18~13~32 minecraft:planks 5
+setblock ~18~16~31 minecraft:stained_hardened_clay 15
+fill ~20~10~31 ~20~10~36 minecraft:planks 1
+fill ~20~21~31 ~20~21~33 minecraft:planks 1
+fill ~21~25~31 ~21~25~33 minecraft:planks 0
+setblock ~8~7~32 minecraft:wooden_slab 0
+setblock ~9~7~32 minecraft:planks 1
+setblock ~10~7~32 minecraft:spruce_stairs 5
+setblock ~10~8~32 minecraft:oak_stairs 0
+setblock ~11~9~32 minecraft:wooden_slab 1
+setblock ~12~9~32 minecraft:spruce_stairs 3
+setblock ~13~9~32 minecraft:planks 0
+setblock ~13~10~32 minecraft:oak_stairs 3
+setblock ~14~9~32 minecraft:planks 1
+setblock ~14~10~32 minecraft:planks 0
+fill ~15~9~32 ~15~9~33 minecraft:wooden_slab 9
+setblock ~16~11~32 minecraft:wooden_slab 1
+setblock ~17~11~32 minecraft:oak_stairs 3
+fill ~18~10~32 ~18~10~33 minecraft:planks 5
+fill ~20~11~32 ~20~12~37 minecraft:planks 1
+fill ~20~17~32 ~20~17~35 minecraft:planks 1
+fill ~20~18~32 ~20~20~34 minecraft:planks 1
+fill ~21~24~32 ~21~24~34 minecraft:planks 0
+fill ~22~26~32 ~22~26~35 minecraft:planks 2
+setblock ~9~7~33 minecraft:planks 0
+setblock ~10~7~33 minecraft:planks 1
+setblock ~10~8~33 minecraft:wooden_slab 1
+setblock ~11~8~33 minecraft:planks 0
+setblock ~12~8~33 minecraft:planks 1
+fill ~13~8~33 ~13~8~35 minecraft:wooden_slab 9
+fill ~13~9~33 ~13~9~34 minecraft:wooden_slab 1
+setblock ~14~9~33 minecraft:wooden_slab 8
+fill ~15~10~33 ~15~10~34 minecraft:wooden_slab 0
+setblock ~16~10~33 minecraft:planks 1
+setblock ~17~10~33 minecraft:wooden_slab 9
+fill ~20~13~33 ~20~14~36 minecraft:planks 1
+fill ~20~15~33 ~20~16~35 minecraft:planks 1
+fill ~21~23~33 ~21~23~34 minecraft:planks 0
+setblock ~9~7~34 minecraft:wooden_slab 0
+fill ~10~7~34 ~10~7~35 minecraft:wooden_slab 9
+setblock ~11~8~34 minecraft:wooden_slab 0
+setblock ~12~8~34 minecraft:planks 0
+fill ~14~9~34 ~14~9~35 minecraft:wooden_slab 1
+fill ~15~9~34 ~15~9~35 minecraft:wooden_slab 8
+setblock ~16~10~34 minecraft:wooden_slab 0
+fill ~21~21~34 ~21~21~35 minecraft:planks 0
+setblock ~21~22~34 minecraft:planks 0
+fill ~22~24~34 ~22~24~36 minecraft:planks 2
+fill ~22~25~34 ~22~25~35 minecraft:planks 2
+fill ~11~7~35 ~11~7~36 minecraft:wooden_slab 9
+fill ~12~8~35 ~12~8~36 minecraft:wooden_slab 0
+fill ~21~18~35 ~21~19~36 minecraft:planks 0
+setblock ~21~20~35 minecraft:planks 0
+fill ~22~22~35 ~22~22~37 minecraft:planks 2
+fill ~22~23~35 ~22~23~36 minecraft:planks 2
+setblock ~13~8~36 minecraft:wooden_slab 0
+fill ~21~15~36 ~21~17~37 minecraft:planks 0
+fill ~22~20~36 ~22~20~38 minecraft:planks 2
+fill ~22~21~36 ~22~21~37 minecraft:planks 2
+fill ~21~10~37 ~21~14~37 minecraft:planks 0
+fill ~22~18~37 ~22~18~39 minecraft:planks 2
+fill ~22~19~37 ~22~19~38 minecraft:planks 2
+fill ~21~12~38 ~21~14~38 minecraft:planks 0
+fill ~22~10~38 ~22~11~38 minecraft:planks 2
+fill ~22~14~38 ~22~14~40 minecraft:planks 2
+fill ~22~15~38 ~22~17~39 minecraft:planks 2
+fill ~22~11~39 ~22~13~39 minecraft:planks 2
+fill ~22~12~40 ~22~13~40 minecraft:planks 2

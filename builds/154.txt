@@ -1,0 +1,926 @@
+fill ~22~23~7 ~22~23~13 minecraft:wool 15
+fill ~22~24~7 ~22~26~7 minecraft:wool 15
+fill ~22~22~8 ~22~22~13 minecraft:wool 15
+fill ~22~24~8 ~22~26~13 minecraft:wool 0
+setblock ~22~27~8 minecraft:wool 15
+fill ~23~24~8 ~23~26~13 minecraft:cobblestone
+fill ~22~21~9 ~22~21~28 minecraft:wool 15
+fill ~22~27~9 ~22~27~18 minecraft:wool 0
+setblock ~22~28~9 minecraft:wool 15
+fill ~23~27~9 ~23~27~57 minecraft:cobblestone
+fill ~22~28~10 ~22~28~28 minecraft:wool 0
+setblock ~22~29~10 minecraft:wool 15
+fill ~23~28~10 ~23~28~56 minecraft:cobblestone
+fill ~33~0~10 ~36~0~23 minecraft:wool 0
+fill ~22~29~11 ~22~29~18 minecraft:wool 0
+fill ~22~30~11 ~22~31~11 minecraft:wool 15
+fill ~23~29~11 ~23~29~55 minecraft:cobblestone
+fill ~31~0~11 ~32~0~22 minecraft:wool 0
+fill ~33~1~11 ~36~1~22 minecraft:wool 0
+fill ~37~0~11 ~38~0~22 minecraft:wool 0
+fill ~22~30~12 ~22~30~22 minecraft:wool 0
+fill ~22~31~12 ~22~31~18 minecraft:wool 0
+setblock ~22~32~12 minecraft:wool 15
+fill ~23~30~12 ~23~31~54 minecraft:cobblestone
+fill ~30~0~12 ~30~0~21 minecraft:wool 0
+fill ~31~1~12 ~32~1~21 minecraft:wool 0
+fill ~33~3~12 ~36~3~21 minecraft:wool 0
+fill ~33~4~12 ~36~4~12 minecraft:wool 15
+fill ~33~5~12 ~36~5~12 minecraft:wool 0
+fill ~33~6~12 ~36~6~12 minecraft:wool 15
+fill ~33~7~12 ~36~49~12 minecraft:wool 0
+fill ~37~1~12 ~38~1~21 minecraft:wool 0
+fill ~39~0~12 ~39~0~21 minecraft:wool 0
+fill ~22~32~13 ~22~32~28 minecraft:wool 0
+setblock ~22~33~13 minecraft:wool 15
+fill ~23~32~13 ~23~32~53 minecraft:cobblestone
+fill ~29~0~13 ~29~0~20 minecraft:wool 0
+fill ~30~1~13 ~30~1~20 minecraft:wool 0
+fill ~31~3~13 ~32~3~20 minecraft:wool 0
+fill ~31~4~13 ~32~4~13 minecraft:wool 15
+fill ~31~5~13 ~32~5~14 minecraft:wool 0
+fill ~31~6~13 ~32~6~13 minecraft:wool 15
+fill ~31~7~13 ~32~48~13 minecraft:wool 0
+fill ~32~49~13 ~37~50~20 minecraft:wool 0
+fill ~33~4~13 ~36~4~20 minecraft:wool 0
+fill ~33~48~13 ~38~48~20 minecraft:wool 0
+fill ~34~5~13 ~35~5~21 minecraft:wool 0
+fill ~34~51~13 ~35~51~20 minecraft:wool 0
+fill ~37~3~13 ~38~3~20 minecraft:wool 0
+fill ~37~4~13 ~38~4~13 minecraft:wool 15
+fill ~37~5~13 ~38~5~14 minecraft:wool 0
+fill ~37~6~13 ~38~6~13 minecraft:wool 15
+fill ~37~7~13 ~38~47~13 minecraft:wool 0
+fill ~39~1~13 ~39~1~20 minecraft:wool 0
+fill ~40~0~13 ~40~0~20 minecraft:wool 0
+fill ~22~22~14 ~22~23~14 minecraft:wool 0
+setblock ~22~24~14 minecraft:wool 15
+fill ~22~25~14 ~22~26~28 minecraft:wool 0
+fill ~22~33~14 ~22~33~28 minecraft:wool 0
+setblock ~22~34~14 minecraft:wool 15
+fill ~23~25~14 ~23~26~58 minecraft:cobblestone
+fill ~23~33~14 ~23~33~52 minecraft:cobblestone
+setblock ~31~4~14 minecraft:wool 15
+setblock ~31~6~14 minecraft:wool 15
+fill ~31~7~14 ~31~50~14 minecraft:wool 0
+fill ~32~4~14 ~32~4~19 minecraft:wool 0
+fill ~32~48~14 ~32~48~20 minecraft:wool 0
+fill ~32~51~14 ~33~51~19 minecraft:wool 0
+fill ~33~2~14 ~36~2~19 minecraft:wool 0
+fill ~33~5~14 ~33~5~19 minecraft:wool 0
+fill ~36~5~14 ~36~5~19 minecraft:wool 0
+fill ~36~51~14 ~37~51~19 minecraft:wool 0
+fill ~37~4~14 ~37~4~19 minecraft:wool 0
+setblock ~38~4~14 minecraft:wool 15
+setblock ~38~6~14 minecraft:wool 15
+fill ~38~7~14 ~38~47~14 minecraft:wool 0
+fill ~38~49~14 ~38~50~19 minecraft:wool 0
+fill ~22~22~15 ~22~22~29 minecraft:wool 15
+fill ~22~23~15 ~22~23~28 minecraft:wool 15
+fill ~22~24~15 ~22~24~28 minecraft:wool 0
+fill ~22~34~15 ~22~34~28 minecraft:wool 0
+setblock ~22~35~15 minecraft:wool 15
+fill ~23~24~15 ~23~24~51 minecraft:cobblestone
+fill ~23~34~15 ~23~34~51 minecraft:cobblestone
+fill ~28~0~15 ~28~0~18 minecraft:wool 0
+fill ~29~1~15 ~29~1~18 minecraft:wool 0
+fill ~30~3~15 ~30~3~18 minecraft:wool 0
+fill ~30~4~15 ~30~4~18 minecraft:wool 15
+fill ~30~5~15 ~30~5~18 minecraft:wool 0
+fill ~30~6~15 ~30~6~18 minecraft:wool 15
+fill ~30~7~15 ~30~49~18 minecraft:wool 0
+fill ~31~4~15 ~31~4~18 minecraft:wool 0
+fill ~31~48~15 ~31~48~20 minecraft:wool 0
+fill ~31~49~15 ~31~50~19 minecraft:wool 0
+fill ~32~2~15 ~32~2~18 minecraft:wool 0
+fill ~32~5~15 ~32~5~20 minecraft:wool 0
+fill ~33~6~15 ~36~6~18 minecraft:wool 0
+fill ~33~52~15 ~36~52~18 minecraft:wool 0
+fill ~37~2~15 ~37~2~18 minecraft:wool 0
+fill ~37~5~15 ~37~5~20 minecraft:wool 0
+fill ~38~4~15 ~38~4~18 minecraft:wool 0
+fill ~39~3~15 ~39~3~18 minecraft:wool 0
+fill ~39~4~15 ~39~4~18 minecraft:wool 15
+fill ~39~5~15 ~39~5~18 minecraft:wool 0
+fill ~39~6~15 ~39~6~18 minecraft:wool 15
+fill ~39~7~15 ~39~49~18 minecraft:wool 0
+fill ~40~1~15 ~40~1~18 minecraft:wool 0
+fill ~41~0~15 ~41~0~18 minecraft:wool 0
+fill ~22~35~16 ~22~35~28 minecraft:wool 0
+setblock ~22~36~16 minecraft:wool 15
+fill ~23~35~16 ~23~35~50 minecraft:cobblestone
+fill ~31~5~16 ~31~5~17 minecraft:wool 0
+fill ~31~51~16 ~31~51~17 minecraft:wool 0
+fill ~38~5~16 ~38~5~17 minecraft:wool 0
+fill ~38~51~16 ~38~51~17 minecraft:wool 0
+fill ~22~36~17 ~22~36~28 minecraft:wool 0
+setblock ~22~37~17 minecraft:wool 15
+fill ~23~36~17 ~23~36~49 minecraft:cobblestone
+fill ~22~37~18 ~22~37~28 minecraft:wool 0
+setblock ~22~38~18 minecraft:wool 15
+fill ~23~37~18 ~23~37~48 minecraft:cobblestone
+fill ~22~27~19 ~22~27~25 minecraft:wool 14
+fill ~22~29~19 ~22~29~22 minecraft:wool 14
+fill ~22~31~19 ~22~31~22 minecraft:wool 14
+fill ~22~38~19 ~22~38~28 minecraft:wool 0
+setblock ~22~39~19 minecraft:wool 15
+fill ~23~38~19 ~23~38~47 minecraft:cobblestone
+fill ~31~4~19 ~31~4~20 minecraft:wool 15
+fill ~31~5~19 ~31~5~20 minecraft:wool 0
+fill ~31~6~19 ~31~6~20 minecraft:wool 15
+fill ~31~7~19 ~31~47~20 minecraft:wool 0
+fill ~38~4~19 ~38~4~20 minecraft:wool 15
+fill ~38~5~19 ~38~5~20 minecraft:wool 0
+fill ~38~6~19 ~38~6~20 minecraft:wool 15
+fill ~38~7~19 ~38~47~20 minecraft:wool 0
+fill ~22~39~20 ~22~39~28 minecraft:wool 0
+setblock ~22~40~20 minecraft:wool 15
+fill ~23~39~20 ~23~39~46 minecraft:cobblestone
+setblock ~32~4~20 minecraft:wool 15
+setblock ~32~6~20 minecraft:wool 15
+fill ~32~7~20 ~32~47~20 minecraft:wool 0
+setblock ~37~4~20 minecraft:wool 15
+setblock ~37~6~20 minecraft:wool 15
+fill ~37~7~20 ~37~47~20 minecraft:wool 0
+fill ~22~40~21 ~22~40~28 minecraft:wool 0
+setblock ~22~41~21 minecraft:wool 15
+fill ~23~40~21 ~23~40~45 minecraft:cobblestone
+fill ~33~4~21 ~36~4~21 minecraft:wool 15
+setblock ~33~5~21 minecraft:wool 0
+fill ~33~6~21 ~36~6~21 minecraft:wool 15
+fill ~33~7~21 ~36~49~21 minecraft:wool 0
+setblock ~36~5~21 minecraft:wool 0
+fill ~22~41~22 ~22~41~28 minecraft:wool 0
+setblock ~22~42~22 minecraft:wool 15
+fill ~23~41~22 ~23~41~44 minecraft:cobblestone
+fill ~34~12~22 ~35~12~22 minecraft:wool 15
+fill ~34~48~22 ~35~48~22 minecraft:wool 15
+fill ~22~29~23 ~22~31~25 minecraft:wool 11
+fill ~22~42~23 ~22~42~28 minecraft:wool 0
+fill ~22~43~23 ~22~44~23 minecraft:wool 15
+fill ~23~42~23 ~23~42~43 minecraft:cobblestone
+fill ~32~9~23 ~37~10~42 minecraft:wool 1
+fill ~32~11~23 ~37~73~23 minecraft:wool 1
+fill ~33~8~23 ~36~8~42 minecraft:wool 1
+fill ~33~74~23 ~36~74~42 minecraft:wool 1
+fill ~22~43~24 ~22~44~28 minecraft:wool 0
+fill ~22~45~24 ~22~46~24 minecraft:wool 15
+fill ~23~43~24 ~23~44~42 minecraft:cobblestone
+fill ~30~8~24 ~32~8~41 minecraft:wool 1
+fill ~30~9~24 ~31~10~41 minecraft:wool 1
+fill ~30~11~24 ~31~74~24 minecraft:wool 1
+fill ~31~7~24 ~38~7~41 minecraft:wool 1
+fill ~31~75~24 ~38~75~41 minecraft:wool 1
+fill ~32~6~24 ~37~6~41 minecraft:wool 1
+fill ~32~72~24 ~39~73~41 minecraft:wool 1
+fill ~32~74~24 ~32~74~41 minecraft:wool 1
+fill ~32~76~24 ~37~76~41 minecraft:wool 1
+fill ~37~8~24 ~39~8~41 minecraft:wool 1
+fill ~37~74~24 ~39~74~41 minecraft:wool 1
+fill ~38~9~24 ~39~10~41 minecraft:wool 1
+fill ~38~11~24 ~39~71~24 minecraft:wool 1
+fill ~22~45~25 ~22~46~28 minecraft:wool 0
+fill ~22~47~25 ~22~48~25 minecraft:wool 15
+fill ~23~45~25 ~23~46~41 minecraft:cobblestone
+fill ~28~10~25 ~29~10~40 minecraft:wool 1
+fill ~28~11~25 ~29~72~25 minecraft:wool 1
+fill ~29~7~25 ~30~7~40 minecraft:wool 1
+fill ~29~8~25 ~29~9~40 minecraft:wool 1
+fill ~29~73~25 ~31~74~40 minecraft:wool 1
+fill ~29~75~25 ~30~75~40 minecraft:wool 1
+fill ~30~6~25 ~31~6~40 minecraft:wool 1
+fill ~30~72~25 ~31~72~41 minecraft:wool 1
+fill ~30~76~25 ~31~76~40 minecraft:wool 1
+fill ~31~5~25 ~38~5~40 minecraft:wool 1
+fill ~31~77~25 ~38~77~40 minecraft:wool 1
+fill ~34~4~25 ~35~4~40 minecraft:wool 1
+fill ~34~78~25 ~35~78~40 minecraft:wool 1
+fill ~38~6~25 ~39~6~40 minecraft:wool 1
+fill ~38~76~25 ~39~76~40 minecraft:wool 1
+fill ~39~7~25 ~40~7~40 minecraft:wool 1
+fill ~39~75~25 ~40~75~40 minecraft:wool 1
+fill ~40~8~25 ~40~10~40 minecraft:wool 1
+fill ~40~11~25 ~41~72~25 minecraft:wool 1
+fill ~40~73~25 ~40~74~40 minecraft:wool 1
+fill ~41~10~25 ~41~10~40 minecraft:wool 1
+fill ~22~27~26 ~22~27~28 minecraft:wool 0
+fill ~22~29~26 ~22~31~28 minecraft:wool 0
+fill ~22~47~26 ~22~47~28 minecraft:wool 0
+fill ~22~48~26 ~22~53~26 minecraft:wool 15
+fill ~23~47~26 ~23~47~40 minecraft:cobblestone
+fill ~27~10~26 ~27~10~39 minecraft:wool 1
+fill ~27~11~26 ~27~72~27 minecraft:wool 1
+fill ~28~7~26 ~28~9~39 minecraft:wool 1
+fill ~28~72~26 ~29~72~40 minecraft:wool 1
+fill ~28~73~26 ~28~75~39 minecraft:wool 1
+fill ~29~6~26 ~29~6~39 minecraft:wool 1
+fill ~29~76~26 ~29~76~39 minecraft:wool 1
+fill ~30~5~26 ~30~5~39 minecraft:wool 1
+fill ~30~77~26 ~30~77~39 minecraft:wool 1
+fill ~31~4~26 ~33~4~39 minecraft:wool 1
+fill ~31~78~26 ~33~78~39 minecraft:wool 1
+fill ~34~3~26 ~35~3~39 minecraft:wool 1
+fill ~34~79~26 ~35~79~39 minecraft:wool 1
+fill ~36~4~26 ~38~4~39 minecraft:wool 1
+fill ~36~78~26 ~38~78~39 minecraft:wool 1
+fill ~39~5~26 ~39~5~39 minecraft:wool 1
+fill ~39~77~26 ~39~77~39 minecraft:wool 1
+fill ~40~6~26 ~40~6~39 minecraft:wool 1
+fill ~40~72~26 ~42~72~39 minecraft:wool 1
+fill ~40~76~26 ~40~76~39 minecraft:wool 1
+fill ~41~7~26 ~41~9~39 minecraft:wool 1
+fill ~41~73~26 ~41~75~39 minecraft:wool 1
+fill ~42~10~26 ~42~10~39 minecraft:wool 1
+fill ~42~11~26 ~42~71~27 minecraft:wool 1
+fill ~13~16~27 ~13~18~27 minecraft:wool 0
+fill ~14~13~27 ~15~13~27 minecraft:iron_block
+fill ~14~14~27 ~15~15~27 minecraft:wool 7
+fill ~14~17~27 ~14~26~27 minecraft:wool 0
+fill ~15~18~27 ~16~26~27 minecraft:wool 0
+fill ~22~20~27 ~22~20~28 minecraft:wool 15
+fill ~22~48~27 ~22~53~28 minecraft:wool 0
+fill ~22~54~27 ~22~57~27 minecraft:wool 15
+setblock ~23~19~27 minecraft:wool 15
+fill ~23~20~27 ~23~23~39 minecraft:cobblestone
+fill ~23~48~27 ~23~53~39 minecraft:cobblestone
+fill ~27~7~27 ~27~9~38 minecraft:wool 1
+fill ~27~73~27 ~27~75~38 minecraft:wool 1
+fill ~28~6~27 ~28~6~38 minecraft:wool 1
+fill ~28~76~27 ~28~76~38 minecraft:wool 1
+fill ~29~5~27 ~29~5~38 minecraft:wool 1
+fill ~29~77~27 ~29~77~38 minecraft:wool 1
+fill ~30~4~27 ~30~4~38 minecraft:wool 1
+fill ~30~78~27 ~30~78~38 minecraft:wool 1
+fill ~31~3~27 ~33~3~38 minecraft:wool 1
+fill ~31~79~27 ~33~79~38 minecraft:wool 1
+fill ~36~3~27 ~38~3~38 minecraft:wool 1
+fill ~36~79~27 ~38~79~38 minecraft:wool 1
+fill ~39~4~27 ~39~4~38 minecraft:wool 1
+fill ~39~78~27 ~39~78~38 minecraft:wool 1
+fill ~40~5~27 ~40~5~38 minecraft:wool 1
+fill ~40~77~27 ~40~77~38 minecraft:wool 1
+fill ~41~6~27 ~41~6~38 minecraft:wool 1
+fill ~41~76~27 ~41~76~38 minecraft:wool 1
+fill ~42~7~27 ~42~9~38 minecraft:wool 1
+fill ~42~73~27 ~42~75~38 minecraft:wool 1
+setblock ~13~13~28 minecraft:iron_block
+fill ~13~14~28 ~13~15~28 minecraft:wool 7
+fill ~13~18~28 ~13~26~28 minecraft:wool 0
+fill ~14~15~28 ~15~15~28 minecraft:iron_block
+fill ~14~16~28 ~15~16~28 minecraft:wool 7
+fill ~14~18~28 ~16~18~31 minecraft:wool 15
+fill ~14~27~28 ~16~27~28 minecraft:wool 0
+setblock ~16~13~28 minecraft:iron_block
+fill ~16~14~28 ~16~15~28 minecraft:wool 7
+fill ~17~18~28 ~19~18~28 minecraft:wool 0
+fill ~17~19~28 ~17~26~28 minecraft:wool 0
+setblock ~22~19~28 minecraft:wool 15
+fill ~22~54~28 ~22~57~28 minecraft:wool 0
+setblock ~22~58~28 minecraft:wool 15
+setblock ~23~18~28 minecraft:wool 15
+fill ~23~19~28 ~23~19~38 minecraft:cobblestone
+fill ~23~54~28 ~23~57~38 minecraft:cobblestone
+fill ~26~8~28 ~26~10~37 minecraft:wool 1
+fill ~26~11~28 ~26~74~29 minecraft:wool 1
+fill ~27~6~28 ~27~6~37 minecraft:wool 1
+fill ~27~72~28 ~27~72~39 minecraft:wool 1
+fill ~27~76~28 ~27~76~37 minecraft:wool 1
+fill ~28~5~28 ~28~5~37 minecraft:wool 1
+fill ~28~77~28 ~28~77~37 minecraft:wool 1
+fill ~29~4~28 ~29~4~37 minecraft:wool 1
+fill ~29~78~28 ~29~78~37 minecraft:wool 1
+fill ~30~3~28 ~30~3~37 minecraft:wool 1
+fill ~30~79~28 ~30~79~37 minecraft:wool 1
+fill ~32~2~28 ~37~2~37 minecraft:wool 1
+fill ~32~80~28 ~37~80~37 minecraft:wool 1
+fill ~39~3~28 ~39~3~37 minecraft:wool 1
+fill ~39~79~28 ~39~79~37 minecraft:wool 1
+fill ~40~4~28 ~40~4~37 minecraft:wool 1
+fill ~40~78~28 ~40~78~37 minecraft:wool 1
+fill ~41~5~28 ~41~5~37 minecraft:wool 1
+fill ~41~77~28 ~41~77~37 minecraft:wool 1
+fill ~42~6~28 ~42~6~37 minecraft:wool 1
+fill ~42~76~28 ~42~76~37 minecraft:wool 1
+fill ~43~8~28 ~43~10~37 minecraft:wool 1
+fill ~43~11~28 ~43~74~29 minecraft:wool 1
+fill ~12~13~29 ~12~13~30 minecraft:iron_block
+fill ~12~14~29 ~12~15~30 minecraft:wool 7
+fill ~12~18~29 ~12~26~30 minecraft:wool 0
+fill ~13~15~29 ~13~15~30 minecraft:iron_block
+fill ~13~16~29 ~13~16~30 minecraft:wool 7
+fill ~13~18~29 ~13~18~30 minecraft:wool 15
+fill ~13~27~29 ~15~27~29 minecraft:wool 0
+fill ~14~17~29 ~15~17~30 minecraft:wool 8
+fill ~16~15~29 ~16~15~30 minecraft:iron_block
+fill ~16~16~29 ~16~16~30 minecraft:wool 7
+fill ~16~28~29 ~20~28~37 minecraft:wool 0
+setblock ~16~29~29 minecraft:wool 15
+fill ~16~30~29 ~16~34~29 minecraft:wool 7
+setblock ~16~35~29 minecraft:wool 15
+fill ~16~36~29 ~16~40~29 minecraft:wool 7
+setblock ~16~41~29 minecraft:wool 15
+fill ~16~42~29 ~16~47~29 minecraft:wool 7
+setblock ~16~48~29 minecraft:wool 15
+fill ~16~49~29 ~16~52~29 minecraft:wool 7
+setblock ~16~53~29 minecraft:wool 15
+fill ~16~54~29 ~20~54~32 minecraft:wool 0
+fill ~16~55~29 ~20~55~29 minecraft:wool 0
+fill ~16~56~29 ~18~56~29 minecraft:wool 0
+fill ~16~57~29 ~17~60~29 minecraft:wool 0
+fill ~17~13~29 ~17~13~30 minecraft:iron_block
+fill ~17~14~29 ~17~15~30 minecraft:wool 7
+fill ~17~18~29 ~19~18~37 minecraft:wool 15
+fill ~17~27~29 ~20~27~29 minecraft:wool 0
+fill ~17~29~29 ~20~53~29 minecraft:wool 0
+fill ~17~61~29 ~17~62~29 minecraft:wool 0
+fill ~18~19~29 ~22~19~29 minecraft:wool 0
+fill ~18~20~29 ~20~26~29 minecraft:wool 0
+setblock ~18~57~29 minecraft:wool 15
+fill ~18~58~29 ~18~59~30 minecraft:wool 0
+fill ~18~60~29 ~22~61~29 minecraft:wool 15
+fill ~18~62~29 ~18~62~35 minecraft:wool 0
+setblock ~18~63~29 minecraft:wool 0
+setblock ~19~56~29 minecraft:wool 15
+fill ~19~59~29 ~20~59~29 minecraft:wool 0
+fill ~19~62~29 ~22~62~29 minecraft:wool 15
+fill ~19~63~29 ~21~64~29 minecraft:wool 15
+fill ~20~18~29 ~21~18~29 minecraft:wool 0
+fill ~20~56~29 ~20~56~31 minecraft:wool 0
+fill ~20~57~29 ~20~58~29 minecraft:wool 0
+setblock ~21~20~29 minecraft:wool 15
+fill ~21~21~29 ~22~21~29 minecraft:wool 0
+fill ~21~22~29 ~21~59~29 minecraft:wool 15
+fill ~22~18~29 ~22~18~37 minecraft:wool 15
+setblock ~22~20~29 minecraft:wool 0
+fill ~22~28~29 ~22~28~37 minecraft:stone 0
+fill ~22~57~29 ~22~57~31 minecraft:wool 0
+setblock ~22~59~29 minecraft:wool 15
+setblock ~23~17~29 minecraft:wool 7
+fill ~23~18~29 ~23~18~37 minecraft:cobblestone
+fill ~23~58~29 ~23~58~37 minecraft:cobblestone
+fill ~26~7~29 ~26~7~36 minecraft:wool 1
+fill ~26~75~29 ~26~75~36 minecraft:wool 1
+fill ~27~5~29 ~27~5~36 minecraft:wool 1
+fill ~27~77~29 ~27~77~36 minecraft:wool 1
+fill ~28~4~29 ~28~4~36 minecraft:wool 1
+fill ~28~78~29 ~28~78~36 minecraft:wool 1
+fill ~29~3~29 ~29~3~36 minecraft:wool 1
+fill ~29~79~29 ~29~79~36 minecraft:wool 1
+fill ~31~2~29 ~31~2~36 minecraft:wool 1
+fill ~31~80~29 ~31~80~36 minecraft:wool 1
+fill ~38~2~29 ~38~2~36 minecraft:wool 1
+fill ~38~80~29 ~38~80~36 minecraft:wool 1
+fill ~40~3~29 ~40~3~36 minecraft:wool 1
+fill ~40~79~29 ~40~79~36 minecraft:wool 1
+fill ~41~4~29 ~41~4~36 minecraft:wool 1
+fill ~41~78~29 ~41~78~36 minecraft:wool 1
+fill ~42~5~29 ~42~5~36 minecraft:wool 1
+fill ~42~77~29 ~42~77~36 minecraft:wool 1
+fill ~43~7~29 ~43~7~36 minecraft:wool 1
+fill ~43~75~29 ~43~75~36 minecraft:wool 1
+fill ~13~27~30 ~14~27~30 minecraft:wool 0
+fill ~15~28~30 ~15~28~36 minecraft:wool 0
+setblock ~15~29~30 minecraft:wool 15
+fill ~15~30~30 ~15~34~30 minecraft:wool 0
+setblock ~15~35~30 minecraft:wool 15
+fill ~15~36~30 ~15~40~30 minecraft:wool 0
+setblock ~15~41~30 minecraft:wool 15
+fill ~15~42~30 ~15~47~30 minecraft:wool 0
+setblock ~15~48~30 minecraft:wool 15
+fill ~15~49~30 ~15~52~30 minecraft:wool 0
+setblock ~15~53~30 minecraft:wool 15
+fill ~15~54~30 ~15~54~31 minecraft:wool 0
+fill ~15~55~30 ~15~57~30 minecraft:wool 0
+setblock ~15~58~30 minecraft:wool 15
+fill ~15~59~30 ~15~60~30 minecraft:glass
+fill ~16~59~30 ~16~61~30 minecraft:wool 15
+fill ~16~62~30 ~16~62~31 minecraft:wool 0
+setblock ~17~63~30 minecraft:wool 0
+fill ~18~55~30 ~18~56~37 minecraft:wool 0
+setblock ~18~57~30 minecraft:wool 0
+fill ~18~60~30 ~18~61~36 minecraft:wool 0
+setblock ~18~64~30 minecraft:wool 0
+fill ~19~56~30 ~19~56~32 minecraft:wool 0
+fill ~19~59~30 ~21~63~30 minecraft:double_stone_block_slab 0
+fill ~19~64~30 ~21~68~30 minecraft:wool 15
+fill ~20~18~30 ~21~18~36 minecraft:wool 15
+fill ~20~58~30 ~21~58~30 minecraft:double_stone_block_slab 0
+fill ~21~28~30 ~21~28~36 minecraft:wool 0
+fill ~21~29~30 ~22~53~30 minecraft:wool 0
+fill ~21~54~30 ~21~54~32 minecraft:wool 0
+fill ~21~56~30 ~21~56~31 minecraft:wool 0
+fill ~22~55~30 ~22~56~36 minecraft:wool 8
+fill ~22~58~30 ~22~62~30 minecraft:wool 8
+setblock ~22~63~30 minecraft:wool 15
+fill ~23~15~30 ~23~15~36 minecraft:wool 7
+setblock ~23~16~30 minecraft:wool 7
+fill ~23~17~30 ~23~17~36 minecraft:wool 15
+fill ~23~59~30 ~23~59~37 minecraft:cobblestone
+fill ~23~60~30 ~23~62~36 minecraft:cobblestone
+fill ~25~9~30 ~25~73~35 minecraft:wool 1
+fill ~26~6~30 ~26~6~35 minecraft:wool 1
+fill ~26~72~30 ~26~74~37 minecraft:wool 1
+fill ~26~76~30 ~26~76~35 minecraft:wool 1
+fill ~30~2~30 ~30~2~35 minecraft:wool 1
+fill ~30~80~30 ~30~80~35 minecraft:wool 1
+fill ~33~1~30 ~36~1~35 minecraft:wool 1
+fill ~33~81~30 ~36~81~35 minecraft:wool 1
+fill ~39~2~30 ~39~2~35 minecraft:wool 1
+fill ~39~80~30 ~39~80~35 minecraft:wool 1
+fill ~43~6~30 ~43~6~35 minecraft:wool 1
+fill ~43~72~30 ~44~73~35 minecraft:wool 1
+fill ~43~74~30 ~43~74~37 minecraft:wool 1
+fill ~43~76~30 ~43~76~35 minecraft:wool 1
+fill ~44~9~30 ~44~71~35 minecraft:wool 1
+setblock ~13~13~31 minecraft:iron_block
+fill ~13~14~31 ~13~15~31 minecraft:wool 7
+fill ~13~18~31 ~13~27~31 minecraft:wool 0
+fill ~14~15~31 ~15~15~31 minecraft:iron_block
+fill ~14~16~31 ~15~16~31 minecraft:wool 7
+fill ~14~28~31 ~14~28~35 minecraft:wool 0
+fill ~14~29~31 ~14~29~32 minecraft:wool 15
+fill ~14~30~31 ~14~34~32 minecraft:wool 0
+fill ~14~35~31 ~14~35~32 minecraft:wool 15
+fill ~14~36~31 ~14~40~32 minecraft:wool 0
+fill ~14~41~31 ~14~41~32 minecraft:wool 15
+fill ~14~42~31 ~14~47~32 minecraft:wool 0
+fill ~14~48~31 ~14~48~32 minecraft:wool 15
+fill ~14~49~31 ~14~52~32 minecraft:wool 0
+fill ~14~53~31 ~14~53~35 minecraft:wool 7
+fill ~14~54~31 ~14~55~35 minecraft:wool 0
+fill ~14~56~31 ~14~59~31 minecraft:wool 0
+fill ~14~60~31 ~14~60~35 minecraft:wool 15
+fill ~15~61~31 ~15~61~35 minecraft:glass
+setblock ~16~13~31 minecraft:iron_block
+fill ~16~14~31 ~16~15~31 minecraft:wool 7
+fill ~16~61~31 ~16~61~36 minecraft:wool 15
+fill ~16~63~31 ~16~63~35 minecraft:wool 0
+fill ~17~55~31 ~17~55~35 minecraft:wool 8
+fill ~17~64~31 ~17~64~35 minecraft:wool 0
+fill ~17~65~31 ~21~66~31 minecraft:wool 15
+fill ~17~67~31 ~19~67~31 minecraft:wool 15
+fill ~18~13~31 ~20~13~31 minecraft:iron_block
+fill ~18~14~31 ~20~15~31 minecraft:wool 7
+fill ~18~59~31 ~18~59~37 minecraft:wool 0
+fill ~18~63~31 ~18~63~37 minecraft:wool 0
+fill ~18~64~31 ~18~64~35 minecraft:wool 8
+fill ~18~68~31 ~18~68~35 minecraft:wool 15
+setblock ~19~16~31 minecraft:wool 7
+fill ~19~64~31 ~21~64~35 minecraft:double_stone_block_slab 0
+fill ~19~69~31 ~21~69~35 minecraft:wool 15
+setblock ~21~53~31 minecraft:chest 2
+fill ~21~68~31 ~21~68~36 minecraft:wool 15
+fill ~22~29~31 ~22~53~36 minecraft:wool 0
+fill ~22~58~31 ~22~63~35 minecraft:wool 0
+setblock ~22~64~31 minecraft:wool 15
+fill ~23~14~31 ~23~14~35 minecraft:wool 7
+fill ~23~16~31 ~23~16~35 minecraft:wool 15
+fill ~23~63~31 ~23~63~35 minecraft:cobblestone
+fill ~25~8~31 ~25~8~34 minecraft:wool 1
+fill ~25~74~31 ~25~74~34 minecraft:wool 1
+fill ~32~1~31 ~32~1~34 minecraft:wool 1
+fill ~32~81~31 ~32~81~34 minecraft:wool 1
+fill ~37~1~31 ~37~1~34 minecraft:wool 1
+fill ~37~81~31 ~37~81~34 minecraft:wool 1
+fill ~44~8~31 ~44~8~34 minecraft:wool 1
+fill ~44~74~31 ~44~74~34 minecraft:wool 1
+fill ~14~13~32 ~15~13~32 minecraft:iron_block
+fill ~14~14~32 ~15~15~32 minecraft:wool 7
+fill ~14~18~32 ~14~27~32 minecraft:wool 0
+fill ~14~57~32 ~14~59~35 minecraft:wool 0
+fill ~15~18~32 ~16~18~38 minecraft:wool 15
+setblock ~15~54~32 minecraft:glass
+setblock ~16~55~32 minecraft:sand 0
+fill ~16~62~32 ~16~62~34 minecraft:wool 15
+fill ~16~64~32 ~16~64~34 minecraft:wool 0
+fill ~17~13~32 ~17~13~34 minecraft:iron_block
+fill ~17~14~32 ~17~15~34 minecraft:wool 7
+fill ~17~56~32 ~17~57~32 minecraft:sand 0
+fill ~17~65~32 ~17~65~34 minecraft:wool 0
+fill ~17~66~32 ~17~66~35 minecraft:wool 15
+fill ~17~67~32 ~17~67~34 minecraft:wool 0
+fill ~17~68~32 ~17~68~34 minecraft:wool 15
+setblock ~18~16~32 minecraft:wool 7
+fill ~18~57~32 ~21~57~32 minecraft:wool 0
+fill ~18~58~32 ~18~58~37 minecraft:wool 0
+fill ~18~66~32 ~18~66~34 minecraft:wool 0
+fill ~18~67~32 ~21~67~32 minecraft:wool 15
+fill ~18~69~32 ~18~69~34 minecraft:wool 15
+setblock ~19~16~32 minecraft:iron_block
+fill ~19~17~32 ~19~17~34 minecraft:wool 8
+fill ~19~55~32 ~21~55~32 minecraft:wool 0
+fill ~19~70~32 ~21~70~34 minecraft:wool 15
+setblock ~20~16~32 minecraft:wool 7
+fill ~20~71~32 ~20~71~34 minecraft:wool 15
+fill ~21~13~32 ~21~13~34 minecraft:iron_block
+fill ~21~14~32 ~21~15~34 minecraft:wool 7
+fill ~21~65~32 ~21~65~34 minecraft:cobblestone
+setblock ~21~66~32 minecraft:wool 15
+fill ~22~57~32 ~22~57~34 minecraft:wool 8
+fill ~22~64~32 ~23~64~34 minecraft:cobblestone
+setblock ~22~65~32 minecraft:wool 15
+fill ~24~15~32 ~24~15~33 minecraft:wool 15
+fill ~24~62~32 ~24~62~33 minecraft:wool 15
+fill ~27~4~32 ~27~4~33 minecraft:wool 1
+fill ~27~78~32 ~27~78~33 minecraft:wool 1
+fill ~28~3~32 ~28~3~33 minecraft:wool 1
+fill ~28~79~32 ~28~79~33 minecraft:wool 1
+fill ~41~3~32 ~41~3~33 minecraft:wool 1
+fill ~41~79~32 ~41~79~33 minecraft:wool 1
+fill ~42~4~32 ~42~4~33 minecraft:wool 1
+fill ~42~78~32 ~42~78~33 minecraft:wool 1
+setblock ~1~12~33 minecraft:wool 14
+fill ~1~13~33 ~1~15~33 minecraft:wool 15
+fill ~2~12~33 ~3~15~33 minecraft:wool 0
+fill ~2~16~33 ~2~17~33 minecraft:wool 15
+fill ~3~16~33 ~4~17~33 minecraft:wool 0
+setblock ~3~18~33 minecraft:wool 15
+fill ~4~13~33 ~5~13~33 minecraft:wool 0
+fill ~4~14~33 ~4~15~33 minecraft:wool 7
+fill ~4~18~33 ~6~18~33 minecraft:wool 0
+setblock ~4~19~33 minecraft:wool 15
+fill ~5~14~33 ~7~14~33 minecraft:wool 0
+fill ~5~15~33 ~7~15~33 minecraft:wool 15
+setblock ~5~16~33 minecraft:wool 15
+setblock ~5~17~33 minecraft:wool 0
+fill ~5~19~33 ~7~19~33 minecraft:wool 0
+setblock ~5~20~33 minecraft:wool 15
+fill ~6~16~33 ~7~16~33 minecraft:wool 0
+setblock ~6~17~33 minecraft:wool 15
+fill ~6~20~33 ~8~20~33 minecraft:wool 0
+setblock ~6~21~33 minecraft:wool 15
+fill ~7~17~33 ~8~17~33 minecraft:wool 0
+setblock ~7~18~33 minecraft:wool 15
+fill ~7~21~33 ~9~21~33 minecraft:wool 0
+setblock ~7~22~33 minecraft:wool 15
+setblock ~8~15~33 minecraft:wool 0
+setblock ~8~16~33 minecraft:wool 15
+fill ~8~18~33 ~10~18~33 minecraft:wool 0
+setblock ~8~19~33 minecraft:wool 15
+fill ~8~22~33 ~10~22~33 minecraft:wool 0
+setblock ~8~23~33 minecraft:wool 15
+fill ~9~16~33 ~10~16~33 minecraft:wool 0
+fill ~9~17~33 ~10~17~33 minecraft:wool 15
+fill ~9~19~33 ~11~19~33 minecraft:wool 0
+setblock ~9~20~33 minecraft:wool 15
+fill ~9~23~33 ~11~23~33 minecraft:wool 0
+setblock ~9~24~33 minecraft:wool 15
+fill ~10~20~33 ~11~20~33 minecraft:wool 0
+setblock ~10~21~33 minecraft:wool 15
+fill ~10~24~33 ~13~24~33 minecraft:wool 0
+setblock ~10~25~33 minecraft:wool 15
+setblock ~11~17~33 minecraft:wool 0
+setblock ~11~18~33 minecraft:wool 15
+setblock ~11~21~33 minecraft:wool 0
+setblock ~11~22~33 minecraft:wool 15
+fill ~11~25~33 ~13~25~33 minecraft:wool 0
+setblock ~11~26~33 minecraft:wool 15
+fill ~12~18~33 ~13~18~33 minecraft:wool 0
+fill ~12~19~33 ~12~21~33 minecraft:wool 15
+fill ~12~22~33 ~13~22~33 minecraft:wool 0
+setblock ~12~23~33 minecraft:wool 7
+fill ~12~26~33 ~13~26~33 minecraft:wool 0
+fill ~12~27~33 ~13~27~33 minecraft:wool 7
+fill ~13~19~33 ~13~21~33 minecraft:wool 0
+setblock ~13~23~33 minecraft:wool 0
+setblock ~14~18~33 minecraft:wool 15
+fill ~14~19~33 ~14~20~33 minecraft:cobblestone
+fill ~14~29~33 ~14~52~33 minecraft:wool 7
+setblock ~14~56~33 minecraft:wool 0
+fill ~15~54~33 ~19~54~33 minecraft:wool 0
+setblock ~17~16~33 minecraft:wool 7
+setblock ~18~16~33 minecraft:iron_block
+setblock ~18~17~33 minecraft:wool 8
+fill ~18~57~33 ~19~57~34 minecraft:wool 0
+fill ~18~65~33 ~18~65~34 minecraft:wool 0
+fill ~18~67~33 ~18~67~35 minecraft:wool 15
+setblock ~18~70~33 minecraft:wool 15
+setblock ~19~55~33 minecraft:chest 5
+setblock ~19~71~33 minecraft:wool 15
+setblock ~20~16~33 minecraft:iron_block
+setblock ~20~17~33 minecraft:wool 8
+setblock ~20~65~33 minecraft:torch 5
+setblock ~21~16~33 minecraft:wool 7
+setblock ~21~19~33 minecraft:torch 5
+fill ~21~29~33 ~21~59~33 minecraft:ladder 4
+setblock ~21~60~33 minecraft:torch 2
+setblock ~21~66~33 minecraft:cobblestone
+fill ~21~67~33 ~21~67~36 minecraft:wool 15
+setblock ~21~71~33 minecraft:wool 15
+setblock ~22~19~33 minecraft:cobblestone
+setblock ~22~54~33 minecraft:wool 0
+fill ~22~65~33 ~23~65~33 minecraft:cobblestone
+setblock ~22~66~33 minecraft:wool 15
+fill ~14~13~34 ~15~13~34 minecraft:iron_block
+fill ~14~14~34 ~15~15~34 minecraft:wool 7
+fill ~14~18~34 ~14~27~34 minecraft:wool 0
+fill ~14~29~34 ~14~29~35 minecraft:wool 15
+fill ~14~30~34 ~14~34~35 minecraft:wool 0
+fill ~14~35~34 ~14~35~35 minecraft:wool 15
+fill ~14~36~34 ~14~40~35 minecraft:wool 0
+fill ~14~41~34 ~14~41~35 minecraft:wool 15
+fill ~14~42~34 ~14~47~35 minecraft:wool 0
+fill ~14~48~34 ~14~48~35 minecraft:wool 15
+fill ~14~49~34 ~14~52~35 minecraft:wool 0
+setblock ~15~54~34 minecraft:glass
+fill ~16~54~34 ~21~54~36 minecraft:wool 0
+setblock ~16~55~34 minecraft:sand 0
+fill ~17~56~34 ~17~57~34 minecraft:sand 0
+setblock ~18~16~34 minecraft:wool 7
+setblock ~19~16~34 minecraft:iron_block
+fill ~19~55~34 ~21~55~34 minecraft:wool 0
+fill ~19~56~34 ~19~56~37 minecraft:wool 0
+fill ~19~67~34 ~20~67~34 minecraft:wool 15
+setblock ~20~16~34 minecraft:wool 7
+fill ~20~57~34 ~21~57~34 minecraft:wool 0
+setblock ~21~66~34 minecraft:wool 15
+setblock ~22~65~34 minecraft:wool 15
+setblock ~13~13~35 minecraft:iron_block
+fill ~13~14~35 ~13~15~35 minecraft:wool 7
+fill ~13~18~35 ~13~27~35 minecraft:wool 0
+fill ~14~15~35 ~15~15~35 minecraft:iron_block
+fill ~14~16~35 ~15~16~35 minecraft:wool 7
+fill ~14~18~35 ~14~18~38 minecraft:wool 15
+setblock ~14~56~35 minecraft:wool 0
+fill ~15~54~35 ~15~54~36 minecraft:wool 0
+setblock ~16~13~35 minecraft:iron_block
+fill ~16~14~35 ~16~15~35 minecraft:wool 7
+fill ~16~62~35 ~16~62~36 minecraft:wool 0
+fill ~17~65~35 ~21~65~35 minecraft:wool 15
+setblock ~17~67~35 minecraft:wool 15
+fill ~18~13~35 ~20~13~35 minecraft:iron_block
+fill ~18~14~35 ~20~15~35 minecraft:wool 7
+fill ~18~57~35 ~18~57~37 minecraft:wool 0
+fill ~18~66~35 ~19~66~35 minecraft:wool 15
+setblock ~19~16~35 minecraft:wool 7
+fill ~19~68~35 ~20~68~36 minecraft:wool 15
+fill ~20~56~35 ~21~56~36 minecraft:wool 0
+setblock ~21~53~35 minecraft:crafting_table
+setblock ~22~54~35 minecraft:wool 0
+setblock ~22~57~35 minecraft:wool 0
+setblock ~22~64~35 minecraft:wool 15
+fill ~12~13~36 ~12~13~37 minecraft:iron_block
+fill ~12~14~36 ~12~15~37 minecraft:wool 7
+fill ~12~18~36 ~12~26~37 minecraft:wool 0
+fill ~13~15~36 ~13~15~37 minecraft:iron_block
+fill ~13~16~36 ~13~16~37 minecraft:wool 7
+fill ~13~18~36 ~13~18~37 minecraft:wool 15
+fill ~13~27~36 ~14~27~37 minecraft:wool 0
+fill ~14~17~36 ~15~17~37 minecraft:wool 8
+setblock ~15~29~36 minecraft:wool 15
+fill ~15~30~36 ~15~34~36 minecraft:wool 0
+setblock ~15~35~36 minecraft:wool 15
+fill ~15~36~36 ~15~40~36 minecraft:wool 0
+setblock ~15~41~36 minecraft:wool 15
+fill ~15~42~36 ~15~47~36 minecraft:wool 0
+setblock ~15~48~36 minecraft:wool 15
+fill ~15~49~36 ~15~52~36 minecraft:wool 0
+setblock ~15~53~36 minecraft:wool 15
+fill ~15~55~36 ~15~57~36 minecraft:wool 0
+setblock ~15~58~36 minecraft:wool 15
+fill ~15~59~36 ~15~60~36 minecraft:glass
+fill ~16~15~36 ~16~15~37 minecraft:iron_block
+fill ~16~16~36 ~16~16~37 minecraft:wool 7
+fill ~16~59~36 ~16~60~36 minecraft:wool 15
+fill ~17~13~36 ~17~13~37 minecraft:iron_block
+fill ~17~14~36 ~17~15~37 minecraft:wool 7
+fill ~17~62~36 ~17~62~37 minecraft:wool 0
+setblock ~17~63~36 minecraft:wool 0
+setblock ~18~64~36 minecraft:wool 0
+fill ~19~57~36 ~21~63~36 minecraft:double_stone_block_slab 0
+fill ~19~64~36 ~21~64~37 minecraft:wool 15
+fill ~19~65~36 ~21~66~36 minecraft:wool 15
+fill ~19~67~36 ~20~67~36 minecraft:wool 15
+setblock ~20~30~36 minecraft:torch 2
+setblock ~20~33~36 minecraft:torch 2
+setblock ~20~36~36 minecraft:torch 2
+setblock ~20~39~36 minecraft:torch 2
+setblock ~20~42~36 minecraft:torch 2
+setblock ~20~45~36 minecraft:torch 2
+setblock ~20~48~36 minecraft:torch 2
+setblock ~20~51~36 minecraft:torch 2
+fill ~21~29~36 ~21~53~36 minecraft:wool 0
+fill ~22~57~36 ~22~62~36 minecraft:wool 8
+fill ~22~63~36 ~22~63~37 minecraft:wool 15
+setblock ~23~16~36 minecraft:wool 7
+fill ~26~11~36 ~26~71~37 minecraft:wool 1
+fill ~43~11~36 ~43~73~37 minecraft:wool 1
+fill ~15~27~37 ~15~27~38 minecraft:wool 0
+setblock ~16~29~37 minecraft:wool 15
+fill ~16~30~37 ~16~34~37 minecraft:wool 7
+setblock ~16~35~37 minecraft:wool 15
+fill ~16~36~37 ~16~40~37 minecraft:wool 7
+setblock ~16~41~37 minecraft:wool 15
+fill ~16~42~37 ~16~47~37 minecraft:wool 7
+setblock ~16~48~37 minecraft:wool 15
+fill ~16~49~37 ~16~52~37 minecraft:wool 7
+setblock ~16~53~37 minecraft:wool 15
+fill ~16~54~37 ~20~54~37 minecraft:wool 0
+fill ~16~55~37 ~17~60~37 minecraft:wool 0
+fill ~17~27~37 ~20~27~37 minecraft:wool 0
+fill ~17~29~37 ~20~53~37 minecraft:wool 0
+setblock ~17~61~37 minecraft:wool 0
+fill ~18~19~37 ~22~19~37 minecraft:wool 0
+fill ~18~20~37 ~20~26~37 minecraft:wool 0
+fill ~18~60~37 ~22~61~37 minecraft:wool 15
+setblock ~18~62~37 minecraft:wool 0
+fill ~19~55~37 ~20~55~37 minecraft:wool 0
+fill ~19~57~37 ~20~59~37 minecraft:wool 0
+fill ~19~62~37 ~22~62~37 minecraft:wool 15
+fill ~19~63~37 ~21~63~37 minecraft:wool 15
+fill ~20~18~37 ~21~18~37 minecraft:wool 0
+setblock ~20~56~37 minecraft:wool 0
+setblock ~21~20~37 minecraft:wool 15
+fill ~21~21~37 ~22~21~37 minecraft:wool 0
+fill ~21~22~37 ~22~22~37 minecraft:wool 15
+fill ~21~23~37 ~21~59~37 minecraft:wool 15
+setblock ~22~20~37 minecraft:wool 0
+setblock ~22~59~37 minecraft:wool 15
+setblock ~23~17~37 minecraft:wool 7
+setblock ~13~13~38 minecraft:iron_block
+fill ~13~14~38 ~13~15~38 minecraft:wool 7
+fill ~13~18~38 ~13~18~39 minecraft:wool 0
+fill ~13~19~38 ~13~26~38 minecraft:wool 0
+fill ~14~15~38 ~15~15~38 minecraft:iron_block
+fill ~14~16~38 ~15~16~38 minecraft:wool 7
+setblock ~14~27~38 minecraft:wool 0
+setblock ~16~13~38 minecraft:iron_block
+fill ~16~14~38 ~16~15~38 minecraft:wool 7
+setblock ~16~27~38 minecraft:wool 0
+fill ~17~18~38 ~19~18~38 minecraft:wool 0
+fill ~17~19~38 ~17~26~38 minecraft:wool 0
+fill ~22~19~38 ~22~23~38 minecraft:wool 15
+fill ~22~24~38 ~22~26~51 minecraft:wool 0
+fill ~22~27~38 ~22~47~40 minecraft:wool 0
+fill ~22~48~38 ~22~53~39 minecraft:wool 0
+fill ~22~54~38 ~22~57~38 minecraft:wool 0
+setblock ~22~58~38 minecraft:wool 15
+setblock ~23~18~38 minecraft:wool 15
+fill ~27~11~38 ~27~71~39 minecraft:wool 1
+fill ~42~11~38 ~42~71~39 minecraft:wool 1
+fill ~13~16~39 ~13~17~39 minecraft:wool 0
+fill ~14~13~39 ~15~13~39 minecraft:iron_block
+fill ~14~14~39 ~15~15~39 minecraft:wool 7
+fill ~14~17~39 ~14~26~39 minecraft:wool 0
+fill ~15~18~39 ~16~26~39 minecraft:wool 0
+fill ~22~20~39 ~22~23~39 minecraft:wool 15
+fill ~22~54~39 ~22~57~39 minecraft:wool 15
+setblock ~23~19~39 minecraft:wool 15
+fill ~22~21~40 ~22~21~57 minecraft:wool 15
+fill ~22~22~40 ~22~23~51 minecraft:wool 15
+fill ~22~48~40 ~22~48~41 minecraft:wool 15
+fill ~22~49~40 ~22~53~40 minecraft:wool 15
+fill ~28~11~40 ~29~71~40 minecraft:wool 1
+fill ~40~11~40 ~41~72~40 minecraft:wool 1
+fill ~22~27~41 ~22~27~47 minecraft:wool 14
+fill ~22~28~41 ~22~28~56 minecraft:wool 0
+fill ~22~29~41 ~22~31~43 minecraft:wool 11
+fill ~22~32~41 ~22~32~53 minecraft:wool 0
+fill ~22~33~41 ~22~33~52 minecraft:wool 0
+fill ~22~34~41 ~22~34~51 minecraft:wool 0
+fill ~22~35~41 ~22~35~50 minecraft:wool 0
+fill ~22~36~41 ~22~36~49 minecraft:wool 0
+fill ~22~37~41 ~22~37~48 minecraft:wool 0
+fill ~22~38~41 ~22~38~47 minecraft:wool 0
+fill ~22~39~41 ~22~39~46 minecraft:wool 0
+fill ~22~40~41 ~22~40~45 minecraft:wool 0
+fill ~22~41~41 ~22~41~44 minecraft:wool 0
+fill ~22~42~41 ~22~42~43 minecraft:wool 0
+fill ~22~43~41 ~22~44~42 minecraft:wool 0
+fill ~22~45~41 ~22~46~41 minecraft:wool 0
+setblock ~22~47~41 minecraft:wool 15
+fill ~30~11~41 ~31~71~41 minecraft:wool 1
+fill ~30~73~41 ~31~74~41 minecraft:wool 1
+fill ~38~11~41 ~39~71~41 minecraft:wool 1
+fill ~22~45~42 ~22~46~42 minecraft:wool 15
+fill ~32~11~42 ~37~73~42 minecraft:wool 1
+fill ~33~0~42 ~36~0~55 minecraft:wool 0
+fill ~22~43~43 ~22~44~43 minecraft:wool 15
+fill ~31~0~43 ~32~0~54 minecraft:wool 0
+fill ~33~1~43 ~36~1~54 minecraft:wool 0
+fill ~34~12~43 ~35~12~43 minecraft:wool 15
+fill ~34~48~43 ~35~48~43 minecraft:wool 15
+fill ~37~0~43 ~38~0~54 minecraft:wool 0
+fill ~22~29~44 ~22~29~47 minecraft:wool 14
+fill ~22~30~44 ~22~30~54 minecraft:wool 0
+fill ~22~31~44 ~22~31~47 minecraft:wool 14
+setblock ~22~42~44 minecraft:wool 15
+fill ~30~0~44 ~30~0~53 minecraft:wool 0
+fill ~31~1~44 ~32~1~53 minecraft:wool 0
+fill ~33~3~44 ~36~3~53 minecraft:wool 0
+fill ~33~4~44 ~36~4~44 minecraft:wool 15
+fill ~33~5~44 ~36~5~44 minecraft:wool 0
+fill ~33~6~44 ~36~6~44 minecraft:wool 15
+fill ~33~7~44 ~36~49~44 minecraft:wool 0
+fill ~37~1~44 ~38~1~53 minecraft:wool 0
+fill ~39~0~44 ~39~0~53 minecraft:wool 0
+setblock ~22~41~45 minecraft:wool 15
+fill ~29~0~45 ~29~0~52 minecraft:wool 0
+fill ~30~1~45 ~30~1~52 minecraft:wool 0
+fill ~31~3~45 ~32~3~52 minecraft:wool 0
+fill ~31~4~45 ~32~4~45 minecraft:wool 15
+fill ~31~5~45 ~32~5~46 minecraft:wool 0
+fill ~31~6~45 ~32~6~45 minecraft:wool 15
+fill ~31~7~45 ~32~48~45 minecraft:wool 0
+fill ~32~49~45 ~37~50~52 minecraft:wool 0
+fill ~33~4~45 ~36~4~52 minecraft:wool 0
+fill ~33~48~45 ~38~48~52 minecraft:wool 0
+fill ~34~5~45 ~35~5~53 minecraft:wool 0
+fill ~34~51~45 ~35~51~52 minecraft:wool 0
+fill ~37~3~45 ~38~3~52 minecraft:wool 0
+fill ~37~4~45 ~38~4~45 minecraft:wool 15
+fill ~37~5~45 ~38~5~46 minecraft:wool 0
+fill ~37~6~45 ~38~6~45 minecraft:wool 15
+fill ~37~7~45 ~38~47~45 minecraft:wool 0
+fill ~39~1~45 ~39~1~52 minecraft:wool 0
+fill ~40~0~45 ~40~0~52 minecraft:wool 0
+setblock ~22~40~46 minecraft:wool 15
+fill ~23~12~46 ~23~12~51 minecraft:iron_block
+setblock ~23~14~46 minecraft:iron_block
+setblock ~31~4~46 minecraft:wool 15
+setblock ~31~6~46 minecraft:wool 15
+fill ~31~7~46 ~31~50~46 minecraft:wool 0
+fill ~32~4~46 ~32~4~51 minecraft:wool 0
+fill ~32~48~46 ~32~48~52 minecraft:wool 0
+fill ~32~51~46 ~33~51~51 minecraft:wool 0
+fill ~33~2~46 ~36~2~51 minecraft:wool 0
+fill ~33~5~46 ~33~5~51 minecraft:wool 0
+fill ~36~5~46 ~36~5~51 minecraft:wool 0
+fill ~36~51~46 ~37~51~51 minecraft:wool 0
+fill ~37~4~46 ~37~4~51 minecraft:wool 0
+setblock ~38~4~46 minecraft:wool 15
+setblock ~38~6~46 minecraft:wool 15
+fill ~38~7~46 ~38~47~46 minecraft:wool 0
+fill ~38~49~46 ~38~50~51 minecraft:wool 0
+setblock ~22~39~47 minecraft:wool 15
+fill ~28~0~47 ~28~0~50 minecraft:wool 0
+fill ~29~1~47 ~29~1~50 minecraft:wool 0
+fill ~30~3~47 ~30~3~50 minecraft:wool 0
+fill ~30~4~47 ~30~4~50 minecraft:wool 15
+fill ~30~5~47 ~30~5~50 minecraft:wool 0
+fill ~30~6~47 ~30~6~50 minecraft:wool 15
+fill ~30~7~47 ~30~58~50 minecraft:wool 0
+fill ~31~4~47 ~31~4~50 minecraft:wool 0
+fill ~31~48~47 ~31~48~52 minecraft:wool 0
+fill ~31~49~47 ~31~50~51 minecraft:wool 0
+fill ~32~2~47 ~32~2~50 minecraft:wool 0
+fill ~32~5~47 ~32~5~52 minecraft:wool 0
+fill ~33~6~47 ~36~6~50 minecraft:wool 0
+fill ~33~52~47 ~36~52~50 minecraft:wool 0
+fill ~37~2~47 ~37~2~50 minecraft:wool 0
+fill ~37~5~47 ~37~5~52 minecraft:wool 0
+fill ~38~4~47 ~38~4~50 minecraft:wool 0
+fill ~39~3~47 ~39~3~50 minecraft:wool 0
+fill ~39~4~47 ~39~4~50 minecraft:wool 15
+fill ~39~5~47 ~39~5~50 minecraft:wool 0
+fill ~39~6~47 ~39~6~50 minecraft:wool 15
+fill ~39~7~47 ~39~49~50 minecraft:wool 0
+fill ~40~1~47 ~40~1~50 minecraft:wool 0
+fill ~41~0~47 ~41~0~50 minecraft:wool 0
+fill ~22~27~48 ~22~27~57 minecraft:wool 0
+fill ~22~29~48 ~22~29~55 minecraft:wool 0
+fill ~22~31~48 ~22~31~54 minecraft:wool 0
+setblock ~22~38~48 minecraft:wool 15
+fill ~23~14~48 ~23~14~51 minecraft:iron_block
+fill ~31~5~48 ~31~5~49 minecraft:wool 0
+fill ~31~51~48 ~31~51~49 minecraft:wool 0
+fill ~38~5~48 ~38~5~49 minecraft:wool 0
+fill ~38~51~48 ~38~51~49 minecraft:wool 0
+setblock ~22~37~49 minecraft:wool 15
+fill ~23~13~49 ~23~13~51 minecraft:iron_block
+setblock ~22~36~50 minecraft:wool 15
+fill ~23~15~50 ~23~15~51 minecraft:iron_block
+setblock ~22~35~51 minecraft:wool 15
+fill ~31~4~51 ~31~4~52 minecraft:wool 15
+fill ~31~5~51 ~31~5~52 minecraft:wool 0
+fill ~31~6~51 ~31~6~52 minecraft:wool 15
+fill ~31~7~51 ~31~47~52 minecraft:wool 0
+fill ~38~4~51 ~38~4~52 minecraft:wool 15
+fill ~38~5~51 ~38~5~52 minecraft:wool 0
+fill ~38~6~51 ~38~6~52 minecraft:wool 15
+fill ~38~7~51 ~38~47~52 minecraft:wool 0
+fill ~22~22~52 ~22~23~52 minecraft:wool 0
+setblock ~22~24~52 minecraft:wool 15
+fill ~22~25~52 ~22~26~58 minecraft:wool 0
+setblock ~22~34~52 minecraft:wool 15
+setblock ~32~4~52 minecraft:wool 15
+setblock ~32~6~52 minecraft:wool 15
+fill ~32~7~52 ~32~47~52 minecraft:wool 0
+setblock ~37~4~52 minecraft:wool 15
+setblock ~37~6~52 minecraft:wool 15
+fill ~37~7~52 ~37~47~52 minecraft:wool 0
+fill ~22~22~53 ~22~23~58 minecraft:wool 15
+fill ~22~24~53 ~22~24~58 minecraft:wool 0
+setblock ~22~33~53 minecraft:wool 15
+fill ~23~24~53 ~23~24~58 minecraft:cobblestone
+fill ~33~4~53 ~36~4~53 minecraft:wool 15
+setblock ~33~5~53 minecraft:wool 0
+fill ~33~6~53 ~36~6~53 minecraft:wool 15
+fill ~33~7~53 ~36~49~53 minecraft:wool 0
+setblock ~36~5~53 minecraft:wool 0
+setblock ~22~32~54 minecraft:wool 15
+fill ~22~30~55 ~22~31~55 minecraft:wool 15
+setblock ~22~29~56 minecraft:wool 15
+setblock ~22~28~57 minecraft:wool 15
+setblock ~22~27~58 minecraft:wool 15
+fill ~22~23~59 ~22~26~59 minecraft:wool 15

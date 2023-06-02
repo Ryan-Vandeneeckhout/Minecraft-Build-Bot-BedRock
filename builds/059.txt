@@ -1,0 +1,4336 @@
+fill ~1~0~1 ~23~0~1 minecraft:stone_block_slab
+fill ~67~0~1 ~89~0~1 minecraft:stone_block_slab
+fill ~1~0~2 ~1~0~23 minecraft:stone_block_slab
+fill ~2~0~2 ~22~0~2 minecraft:stone_block_slab 8
+fill ~23~0~2 ~23~0~23 minecraft:stone_block_slab
+fill ~67~0~2 ~67~0~23 minecraft:stone_block_slab
+fill ~68~0~2 ~88~0~2 minecraft:stone_block_slab 8
+fill ~89~0~2 ~89~0~23 minecraft:stone_block_slab
+fill ~2~0~3 ~3~0~22 minecraft:stone_block_slab 8
+fill ~3~1~3 ~21~1~3 minecraft:stone_block_slab
+fill ~22~0~3 ~22~0~22 minecraft:stone_block_slab 8
+fill ~68~0~3 ~68~0~22 minecraft:stone_block_slab 8
+fill ~69~1~3 ~87~1~3 minecraft:stone_block_slab
+fill ~88~0~3 ~88~0~22 minecraft:stone_block_slab 8
+fill ~3~1~4 ~3~1~21 minecraft:stone_block_slab
+fill ~4~1~4 ~20~1~4 minecraft:stone_block_slab 8
+fill ~21~1~4 ~21~1~21 minecraft:stone_block_slab
+fill ~69~1~4 ~69~1~21 minecraft:stone_block_slab
+fill ~70~1~4 ~86~1~4 minecraft:stone_block_slab 8
+fill ~87~1~4 ~87~1~21 minecraft:stone_block_slab
+fill ~4~1~5 ~4~2~19 minecraft:stone_block_slab
+fill ~5~2~5 ~19~2~5 minecraft:stone_block_slab
+fill ~20~1~5 ~20~1~20 minecraft:stone_block_slab 8
+fill ~70~1~5 ~70~1~20 minecraft:stone_block_slab 8
+fill ~71~2~5 ~85~2~5 minecraft:stone_block_slab
+fill ~86~1~5 ~86~1~20 minecraft:stone_block_slab 8
+fill ~5~2~6 ~5~2~19 minecraft:stone_block_slab
+fill ~6~0~6 ~6~2~6 minecraft:double_stone_block_slab
+setblock ~7~0~6 minecraft:stone_block_slab
+setblock ~7~2~6 minecraft:stone_block_slab 8
+fill ~8~0~6 ~16~2~6 minecraft:double_stone_block_slab
+setblock ~17~0~6 minecraft:stone_block_slab
+setblock ~17~2~6 minecraft:stone_block_slab 8
+fill ~18~0~6 ~18~2~6 minecraft:double_stone_block_slab
+fill ~19~2~6 ~19~2~19 minecraft:stone_block_slab
+fill ~71~2~6 ~71~2~19 minecraft:stone_block_slab
+fill ~72~0~6 ~72~2~6 minecraft:double_stone_block_slab
+setblock ~73~0~6 minecraft:stone_block_slab
+setblock ~73~2~6 minecraft:stone_block_slab 8
+fill ~74~0~6 ~82~2~6 minecraft:double_stone_block_slab
+setblock ~83~0~6 minecraft:stone_block_slab
+setblock ~83~2~6 minecraft:stone_block_slab 8
+fill ~84~0~6 ~84~2~6 minecraft:double_stone_block_slab
+fill ~85~2~6 ~85~2~19 minecraft:stone_block_slab
+setblock ~6~0~7 minecraft:stone_block_slab
+setblock ~6~2~7 minecraft:stone_block_slab 8
+fill ~7~0~7 ~7~4~7 minecraft:stone
+fill ~9~3~7 ~10~3~7 minecraft:stone
+fill ~11~4~7 ~12~4~7 minecraft:stone
+setblock ~15~4~7 minecraft:stone
+fill ~16~3~7 ~18~3~7 minecraft:stone
+fill ~17~0~7 ~17~2~7 minecraft:stone
+setblock ~17~4~7 minecraft:stone
+setblock ~18~0~7 minecraft:stone_block_slab
+setblock ~18~2~7 minecraft:stone_block_slab 8
+setblock ~72~0~7 minecraft:stone_block_slab
+setblock ~72~2~7 minecraft:stone_block_slab 8
+fill ~72~3~7 ~74~3~7 minecraft:stone
+fill ~73~0~7 ~73~2~7 minecraft:stone
+setblock ~73~4~7 minecraft:stone
+setblock ~75~4~7 minecraft:stone
+fill ~78~4~7 ~79~4~7 minecraft:stone
+fill ~80~3~7 ~81~3~7 minecraft:stone
+fill ~83~0~7 ~83~4~7 minecraft:stone
+setblock ~84~0~7 minecraft:stone_block_slab
+setblock ~84~2~7 minecraft:stone_block_slab 8
+fill ~6~0~8 ~6~2~16 minecraft:double_stone_block_slab
+fill ~8~4~8 ~8~6~8 minecraft:stone
+fill ~9~5~8 ~18~5~8 minecraft:stone
+fill ~18~0~8 ~18~2~16 minecraft:double_stone_block_slab
+fill ~18~4~8 ~19~4~8 minecraft:stone
+setblock ~18~6~8 minecraft:stone
+setblock ~19~3~8 minecraft:stone
+fill ~71~3~8 ~71~4~8 minecraft:stone
+fill ~72~0~8 ~72~2~16 minecraft:double_stone_block_slab
+fill ~72~4~8 ~72~6~8 minecraft:stone
+fill ~73~5~8 ~82~5~8 minecraft:stone
+setblock ~82~4~8 minecraft:stone
+setblock ~82~6~8 minecraft:stone
+fill ~84~0~8 ~84~2~16 minecraft:double_stone_block_slab
+fill ~7~3~9 ~7~3~10 minecraft:stone
+fill ~8~5~9 ~8~5~18 minecraft:stone
+fill ~9~6~9 ~9~8~9 minecraft:stone
+setblock ~12~6~9 minecraft:stone
+setblock ~15~6~9 minecraft:stone
+fill ~16~7~9 ~17~7~9 minecraft:stone
+fill ~18~5~9 ~18~5~18 minecraft:stone
+fill ~19~6~9 ~20~6~9 minecraft:stone
+fill ~19~7~9 ~19~8~9 minecraft:stone
+setblock ~20~5~9 minecraft:stone
+fill ~70~5~9 ~70~6~9 minecraft:stone
+fill ~71~6~9 ~71~8~9 minecraft:stone
+fill ~72~5~9 ~72~5~18 minecraft:stone
+fill ~73~7~9 ~74~7~9 minecraft:stone
+setblock ~75~6~9 minecraft:stone
+setblock ~78~6~9 minecraft:stone
+fill ~81~6~9 ~81~8~9 minecraft:stone
+fill ~82~5~9 ~82~5~18 minecraft:stone
+fill ~83~3~9 ~83~3~10 minecraft:stone
+fill ~10~8~10 ~10~10~10 minecraft:stone
+setblock ~11~7~10 minecraft:stone
+fill ~11~9~10 ~20~9~10 minecraft:stone
+fill ~20~8~10 ~21~8~10 minecraft:stone
+setblock ~20~10~10 minecraft:stone
+setblock ~21~7~10 minecraft:stone
+fill ~69~7~10 ~69~8~10 minecraft:stone
+fill ~70~8~10 ~70~10~10 minecraft:stone
+fill ~71~9~10 ~80~9~10 minecraft:stone
+setblock ~79~7~10 minecraft:stone
+setblock ~80~8~10 minecraft:stone
+setblock ~80~10~10 minecraft:stone
+fill ~7~4~11 ~7~4~12 minecraft:stone
+setblock ~10~7~11 minecraft:stone
+fill ~10~9~11 ~10~9~20 minecraft:stone
+fill ~11~10~11 ~13~10~11 minecraft:stone
+fill ~11~11~11 ~11~12~11 minecraft:stone
+fill ~14~11~11 ~15~11~11 minecraft:stone
+fill ~16~12~11 ~17~12~11 minecraft:stone
+setblock ~18~11~11 minecraft:stone
+setblock ~19~10~11 minecraft:stone
+fill ~20~9~11 ~20~9~20 minecraft:stone
+fill ~21~10~11 ~22~10~11 minecraft:stone
+fill ~21~11~11 ~21~12~11 minecraft:stone
+fill ~68~10~11 ~69~10~11 minecraft:stone
+fill ~69~11~11 ~69~12~11 minecraft:stone
+fill ~70~9~11 ~70~9~20 minecraft:stone
+setblock ~71~10~11 minecraft:stone
+setblock ~72~11~11 minecraft:stone
+fill ~73~12~11 ~74~12~11 minecraft:stone
+fill ~75~11~11 ~76~11~11 minecraft:stone
+fill ~77~10~11 ~79~10~11 minecraft:stone
+fill ~79~11~11 ~79~12~11 minecraft:stone
+setblock ~80~7~11 minecraft:stone
+fill ~80~9~11 ~80~9~20 minecraft:stone
+fill ~83~4~11 ~83~4~12 minecraft:stone
+setblock ~9~6~12 minecraft:stone
+fill ~11~10~12 ~11~10~13 minecraft:stone
+fill ~12~12~12 ~12~14~12 minecraft:stone
+fill ~13~13~12 ~23~13~12 minecraft:stone
+fill ~22~12~12 ~23~12~12 minecraft:stone
+setblock ~22~14~12 minecraft:stone
+setblock ~23~11~12 minecraft:stone
+fill ~67~11~12 ~67~13~12 minecraft:stone
+fill ~68~12~12 ~68~14~12 minecraft:stone
+fill ~69~13~12 ~78~13~12 minecraft:stone
+setblock ~78~12~12 minecraft:stone
+setblock ~78~14~12 minecraft:stone
+fill ~79~10~12 ~79~10~13 minecraft:stone
+setblock ~81~6~12 minecraft:stone
+fill ~12~13~13 ~12~13~23 minecraft:stone
+fill ~13~14~13 ~13~16~13 minecraft:stone
+setblock ~14~15~13 minecraft:stone
+setblock ~15~14~13 minecraft:stone
+fill ~17~14~13 ~18~14~13 minecraft:stone
+setblock ~19~15~13 minecraft:stone
+fill ~20~16~13 ~23~16~13 minecraft:stone
+fill ~22~13~13 ~22~13~22 minecraft:stone
+fill ~23~14~13 ~24~15~13 minecraft:stone
+fill ~66~14~13 ~67~15~13 minecraft:stone
+fill ~67~16~13 ~70~16~13 minecraft:stone
+fill ~68~13~13 ~68~13~22 minecraft:stone
+setblock ~71~15~13 minecraft:stone
+fill ~72~14~13 ~73~14~13 minecraft:stone
+setblock ~75~14~13 minecraft:stone
+fill ~76~15~13 ~77~15~13 minecraft:stone
+setblock ~77~14~13 minecraft:stone
+setblock ~77~16~13 minecraft:stone
+fill ~78~13~13 ~78~13~23 minecraft:stone
+fill ~11~11~14 ~11~11~15 minecraft:stone
+setblock ~13~15~14 minecraft:stone
+fill ~14~16~14 ~14~18~14 minecraft:stone
+fill ~15~17~14 ~25~17~14 minecraft:stone
+fill ~24~16~14 ~25~16~14 minecraft:stone
+setblock ~24~18~14 minecraft:stone
+fill ~65~16~14 ~66~17~14 minecraft:stone
+setblock ~66~18~14 minecraft:stone
+fill ~67~17~14 ~76~17~14 minecraft:stone
+setblock ~76~16~14 minecraft:stone
+setblock ~76~18~14 minecraft:stone
+setblock ~77~15~14 minecraft:stone
+fill ~79~11~14 ~79~11~15 minecraft:stone
+setblock ~7~4~15 minecraft:stone
+setblock ~9~6~15 minecraft:stone
+setblock ~13~14~15 minecraft:stone
+fill ~14~17~15 ~14~17~25 minecraft:stone
+fill ~15~18~15 ~17~18~15 minecraft:stone
+fill ~15~19~15 ~15~20~15 minecraft:stone
+fill ~18~19~15 ~19~19~15 minecraft:stone
+fill ~20~20~15 ~21~20~15 minecraft:stone
+setblock ~22~19~15 minecraft:stone
+setblock ~23~18~15 minecraft:stone
+fill ~24~17~15 ~24~17~24 minecraft:stone
+fill ~25~18~15 ~26~19~15 minecraft:stone
+setblock ~25~20~15 minecraft:stone
+fill ~64~18~15 ~65~19~15 minecraft:stone
+setblock ~65~20~15 minecraft:stone
+fill ~66~17~15 ~66~17~24 minecraft:stone
+setblock ~67~18~15 minecraft:stone
+setblock ~68~19~15 minecraft:stone
+fill ~69~20~15 ~70~20~15 minecraft:stone
+fill ~71~19~15 ~72~19~15 minecraft:stone
+fill ~73~18~15 ~75~18~15 minecraft:stone
+fill ~75~19~15 ~75~20~15 minecraft:stone
+fill ~76~17~15 ~76~17~25 minecraft:stone
+setblock ~77~14~15 minecraft:stone
+setblock ~81~6~15 minecraft:stone
+setblock ~83~4~15 minecraft:stone
+fill ~7~3~16 ~7~3~18 minecraft:stone
+fill ~9~7~16 ~9~7~17 minecraft:stone
+fill ~11~12~16 ~11~12~17 minecraft:stone
+fill ~15~18~16 ~15~18~17 minecraft:stone
+fill ~16~20~16 ~16~22~16 minecraft:stone
+fill ~17~21~16 ~26~21~16 minecraft:stone
+fill ~26~20~16 ~27~20~16 minecraft:stone
+setblock ~26~22~16 minecraft:stone
+setblock ~28~21~16 minecraft:stone
+setblock ~62~21~16 minecraft:stone
+fill ~63~20~16 ~64~20~16 minecraft:stone
+fill ~64~21~16 ~74~21~16 minecraft:stone
+setblock ~64~22~16 minecraft:stone
+setblock ~74~20~16 minecraft:stone
+setblock ~74~22~16 minecraft:stone
+fill ~75~18~16 ~75~18~17 minecraft:stone
+fill ~79~12~16 ~79~12~17 minecraft:stone
+fill ~81~7~16 ~81~7~17 minecraft:stone
+fill ~83~3~16 ~83~3~18 minecraft:stone
+setblock ~6~0~17 minecraft:stone_block_slab
+setblock ~6~2~17 minecraft:stone_block_slab 8
+fill ~7~0~17 ~7~2~17 minecraft:stone
+setblock ~7~4~17 minecraft:stone
+fill ~13~14~17 ~13~14~18 minecraft:stone
+fill ~16~21~17 ~16~21~26 minecraft:stone
+fill ~17~0~17 ~17~4~17 minecraft:stone
+fill ~17~22~17 ~17~24~17 minecraft:stone
+setblock ~18~0~17 minecraft:stone_block_slab
+setblock ~18~2~17 minecraft:stone_block_slab 8
+setblock ~20~22~17 minecraft:stone
+fill ~22~22~17 ~23~22~17 minecraft:stone
+fill ~24~23~17 ~25~23~17 minecraft:stone
+fill ~26~21~17 ~26~21~26 minecraft:stone
+fill ~26~24~17 ~27~24~17 minecraft:stone
+fill ~27~22~17 ~27~23~17 minecraft:stone
+setblock ~28~23~17 minecraft:stone
+setblock ~29~22~17 minecraft:stone
+setblock ~30~23~17 minecraft:stone
+setblock ~60~23~17 minecraft:stone
+setblock ~61~22~17 minecraft:stone
+fill ~62~23~17 ~63~23~17 minecraft:stone
+setblock ~63~22~17 minecraft:stone
+fill ~63~24~17 ~64~24~17 minecraft:stone
+fill ~64~21~17 ~64~21~26 minecraft:stone
+fill ~65~23~17 ~66~23~17 minecraft:stone
+fill ~67~22~17 ~68~22~17 minecraft:stone
+setblock ~70~22~17 minecraft:stone
+setblock ~72~0~17 minecraft:stone_block_slab
+setblock ~72~2~17 minecraft:stone_block_slab 8
+fill ~73~0~17 ~73~4~17 minecraft:stone
+fill ~73~22~17 ~73~24~17 minecraft:stone
+fill ~74~21~17 ~74~21~26 minecraft:stone
+fill ~77~14~17 ~77~14~18 minecraft:stone
+fill ~83~0~17 ~83~2~17 minecraft:stone
+setblock ~83~4~17 minecraft:stone
+setblock ~84~0~17 minecraft:stone_block_slab
+setblock ~84~2~17 minecraft:stone_block_slab 8
+fill ~6~0~18 ~6~2~18 minecraft:double_stone_block_slab
+setblock ~7~0~18 minecraft:stone_block_slab
+setblock ~7~2~18 minecraft:stone_block_slab 8
+fill ~8~0~18 ~16~2~18 minecraft:double_stone_block_slab
+fill ~8~4~18 ~8~4~19 minecraft:stone
+setblock ~8~6~18 minecraft:stone
+fill ~9~5~18 ~17~5~18 minecraft:stone
+setblock ~11~11~18 minecraft:stone
+fill ~15~19~18 ~15~19~19 minecraft:stone
+setblock ~17~0~18 minecraft:stone_block_slab
+setblock ~17~2~18 minecraft:stone_block_slab 8
+fill ~18~0~18 ~18~2~18 minecraft:double_stone_block_slab
+setblock ~18~4~18 minecraft:stone
+setblock ~18~6~18 minecraft:stone
+fill ~18~24~18 ~18~26~18 minecraft:stone
+setblock ~19~23~18 minecraft:stone
+fill ~19~25~18 ~28~25~18 minecraft:stone
+fill ~28~24~18 ~29~24~18 minecraft:stone
+setblock ~28~26~18 minecraft:stone
+fill ~31~24~18 ~32~24~18 minecraft:stone
+fill ~31~25~18 ~31~26~18 minecraft:stone
+fill ~58~24~18 ~59~24~18 minecraft:stone
+fill ~59~25~18 ~59~26~18 minecraft:stone
+fill ~61~24~18 ~62~24~18 minecraft:stone
+fill ~62~25~18 ~72~25~18 minecraft:stone
+setblock ~62~26~18 minecraft:stone
+setblock ~71~23~18 minecraft:stone
+fill ~72~0~18 ~72~2~18 minecraft:double_stone_block_slab
+setblock ~72~4~18 minecraft:stone
+setblock ~72~6~18 minecraft:stone
+setblock ~72~24~18 minecraft:stone
+setblock ~72~26~18 minecraft:stone
+setblock ~73~0~18 minecraft:stone_block_slab
+setblock ~73~2~18 minecraft:stone_block_slab 8
+fill ~73~5~18 ~81~5~18 minecraft:stone
+fill ~74~0~18 ~82~2~18 minecraft:double_stone_block_slab
+fill ~75~19~18 ~75~19~19 minecraft:stone
+setblock ~79~11~18 minecraft:stone
+fill ~82~4~18 ~82~4~19 minecraft:stone
+setblock ~82~6~18 minecraft:stone
+setblock ~83~0~18 minecraft:stone_block_slab
+setblock ~83~2~18 minecraft:stone_block_slab 8
+fill ~84~0~18 ~84~2~18 minecraft:double_stone_block_slab
+fill ~6~2~19 ~18~2~19 minecraft:stone_block_slab
+setblock ~8~3~19 minecraft:stone
+fill ~9~6~19 ~9~6~20 minecraft:stone
+fill ~9~7~19 ~9~8~19 minecraft:stone
+setblock ~11~10~19 minecraft:stone
+setblock ~13~15~19 minecraft:stone
+setblock ~18~23~19 minecraft:stone
+fill ~18~25~19 ~18~25~28 minecraft:stone
+fill ~19~6~19 ~19~8~19 minecraft:stone
+fill ~19~26~19 ~19~28~19 minecraft:stone
+fill ~20~27~19 ~20~28~19 minecraft:stone
+setblock ~21~26~19 minecraft:stone
+fill ~21~28~19 ~29~28~20 minecraft:stone
+fill ~24~26~19 ~25~26~19 minecraft:stone
+fill ~26~27~19 ~27~27~19 minecraft:stone
+fill ~28~25~19 ~29~25~19 minecraft:stone
+fill ~29~26~19 ~29~27~19 minecraft:stone
+setblock ~30~27~19 minecraft:stone
+fill ~33~25~19 ~34~25~19 minecraft:stone
+setblock ~33~26~19 minecraft:stone
+fill ~34~28~19 ~35~28~20 minecraft:stone
+fill ~35~26~19 ~36~26~19 minecraft:stone
+setblock ~35~27~19 minecraft:stone
+fill ~37~27~19 ~39~27~19 minecraft:stone
+fill ~37~28~19 ~37~28~20 minecraft:stone
+setblock ~45~28~19 minecraft:air
+fill ~51~27~19 ~53~27~19 minecraft:stone
+fill ~53~28~19 ~53~28~20 minecraft:stone
+fill ~54~26~19 ~55~26~19 minecraft:stone
+fill ~55~27~19 ~55~28~19 minecraft:stone
+fill ~56~25~19 ~57~25~19 minecraft:stone
+fill ~56~28~19 ~56~28~20 minecraft:stone
+setblock ~57~26~19 minecraft:stone
+fill ~60~27~19 ~61~27~19 minecraft:stone
+fill ~61~25~19 ~62~25~19 minecraft:stone
+setblock ~61~26~19 minecraft:stone
+fill ~61~28~19 ~71~28~20 minecraft:stone
+fill ~63~27~19 ~64~27~19 minecraft:stone
+fill ~65~26~19 ~66~26~19 minecraft:stone
+setblock ~69~26~19 minecraft:stone
+fill ~70~27~19 ~71~27~19 minecraft:stone
+fill ~71~6~19 ~71~8~19 minecraft:stone
+setblock ~71~26~19 minecraft:stone
+fill ~72~2~19 ~84~2~19 minecraft:stone_block_slab
+setblock ~72~23~19 minecraft:stone
+fill ~72~25~19 ~72~25~28 minecraft:stone
+setblock ~77~15~19 minecraft:stone
+setblock ~79~10~19 minecraft:stone
+fill ~81~6~19 ~81~6~20 minecraft:stone
+fill ~81~7~19 ~81~8~19 minecraft:stone
+setblock ~82~3~19 minecraft:stone
+fill ~4~1~20 ~19~1~20 minecraft:stone_block_slab 8
+setblock ~9~5~20 minecraft:stone
+fill ~10~8~20 ~10~8~21 minecraft:stone
+setblock ~10~10~20 minecraft:stone
+fill ~11~9~20 ~19~9~20 minecraft:stone
+fill ~13~16~20 ~13~16~23 minecraft:stone
+fill ~15~20~20 ~15~20~21 minecraft:stone
+setblock ~17~22~20 minecraft:stone
+fill ~19~27~20 ~19~28~20 minecraft:stone
+setblock ~20~8~20 minecraft:stone
+setblock ~20~10~20 minecraft:stone
+fill ~20~28~20 ~20~28~71 minecraft:stone
+fill ~20~29~20 ~20~30~20 minecraft:stone
+fill ~21~30~20 ~70~30~20 minecraft:stone
+setblock ~22~29~20 minecraft:stone
+setblock ~24~29~20 minecraft:stone
+setblock ~26~29~20 minecraft:stone
+fill ~28~25~20 ~28~25~28 minecraft:stone
+setblock ~28~29~20 minecraft:stone
+fill ~30~28~20 ~33~29~20 minecraft:stone
+fill ~31~27~20 ~32~27~20 minecraft:stone
+fill ~36~28~20 ~36~29~20 minecraft:stone
+fill ~37~29~20 ~39~29~20 minecraft:stone
+fill ~38~28~20 ~52~28~20 minecraft:stone
+setblock ~41~29~20 minecraft:stone
+setblock ~43~29~20 minecraft:stone
+setblock ~45~29~20 minecraft:stone
+setblock ~47~29~20 minecraft:stone
+setblock ~49~29~20 minecraft:stone
+fill ~51~29~20 ~54~29~20 minecraft:stone
+fill ~54~28~20 ~55~28~20 minecraft:stone
+fill ~57~28~20 ~60~29~20 minecraft:stone
+fill ~58~27~20 ~59~27~20 minecraft:stone
+fill ~62~25~20 ~62~25~28 minecraft:stone
+setblock ~62~29~20 minecraft:stone
+setblock ~64~29~20 minecraft:stone
+setblock ~66~29~20 minecraft:stone
+setblock ~68~29~20 minecraft:stone
+setblock ~70~8~20 minecraft:stone
+setblock ~70~10~20 minecraft:stone
+setblock ~70~29~20 minecraft:stone
+fill ~71~1~20 ~85~1~20 minecraft:stone_block_slab 8
+fill ~71~9~20 ~79~9~20 minecraft:stone
+setblock ~71~27~20 minecraft:stone
+setblock ~73~22~20 minecraft:stone
+fill ~75~20~20 ~75~20~21 minecraft:stone
+fill ~77~16~20 ~77~16~23 minecraft:stone
+fill ~80~8~20 ~80~8~21 minecraft:stone
+setblock ~80~10~20 minecraft:stone
+setblock ~81~5~20 minecraft:stone
+fill ~4~1~21 ~20~1~21 minecraft:stone_block_slab
+setblock ~10~7~21 minecraft:stone
+fill ~11~10~21 ~11~10~22 minecraft:stone
+fill ~11~11~21 ~11~12~21 minecraft:stone
+setblock ~19~26~21 minecraft:stone
+fill ~19~28~21 ~19~28~29 minecraft:stone
+fill ~20~30~21 ~29~30~21 minecraft:stone
+fill ~21~10~21 ~21~12~21 minecraft:stone
+fill ~21~31~21 ~22~31~22 minecraft:stone
+setblock ~21~32~21 minecraft:stone
+fill ~21~37~21 ~21~38~21 minecraft:stone
+fill ~21~39~21 ~69~39~21 minecraft:fence
+fill ~21~40~21 ~21~43~21 minecraft:fence
+setblock ~21~44~21 minecraft:planks
+fill ~21~45~21 ~69~45~21 minecraft:fence
+fill ~21~46~21 ~21~47~21 minecraft:fence
+fill ~22~38~21 ~69~38~35 minecraft:stone
+fill ~22~44~21 ~26~44~21 minecraft:wooden_slab
+fill ~23~46~21 ~25~46~21 minecraft:fence
+fill ~24~31~21 ~26~31~21 minecraft:stone
+fill ~25~32~21 ~25~32~23 minecraft:stone
+fill ~25~37~21 ~25~37~23 minecraft:stone
+fill ~27~40~21 ~27~43~21 minecraft:fence
+setblock ~27~44~21 minecraft:planks
+fill ~27~46~21 ~27~47~21 minecraft:fence
+fill ~28~31~21 ~30~31~21 minecraft:stone
+fill ~28~44~21 ~31~44~21 minecraft:wooden_slab
+fill ~29~28~21 ~29~28~29 minecraft:stone
+fill ~29~32~21 ~29~32~23 minecraft:stone
+fill ~29~37~21 ~29~37~23 minecraft:stone
+fill ~29~46~21 ~30~46~21 minecraft:fence
+fill ~32~31~21 ~34~31~21 minecraft:stone
+fill ~32~40~21 ~32~43~21 minecraft:fence
+setblock ~32~44~21 minecraft:planks
+fill ~32~46~21 ~32~47~21 minecraft:fence
+fill ~33~32~21 ~33~32~23 minecraft:stone
+fill ~33~37~21 ~33~37~23 minecraft:stone
+fill ~33~44~21 ~36~44~21 minecraft:wooden_slab
+fill ~34~46~21 ~35~46~21 minecraft:fence
+fill ~36~31~21 ~38~31~21 minecraft:stone
+fill ~37~32~21 ~37~32~23 minecraft:stone
+fill ~37~37~21 ~37~37~23 minecraft:stone
+fill ~37~40~21 ~37~43~21 minecraft:fence
+setblock ~37~44~21 minecraft:planks
+fill ~37~46~21 ~37~47~21 minecraft:fence
+fill ~38~44~21 ~41~44~21 minecraft:wooden_slab
+fill ~39~46~21 ~40~46~21 minecraft:fence
+fill ~40~31~21 ~42~31~21 minecraft:stone
+fill ~41~32~21 ~41~32~23 minecraft:stone
+fill ~41~37~21 ~41~37~23 minecraft:stone
+fill ~42~40~21 ~42~43~21 minecraft:fence
+setblock ~42~44~21 minecraft:planks
+fill ~42~46~21 ~42~47~21 minecraft:fence
+fill ~43~44~21 ~47~44~21 minecraft:wooden_slab
+fill ~44~31~21 ~46~31~21 minecraft:stone
+fill ~44~46~21 ~46~46~21 minecraft:fence
+fill ~45~32~21 ~45~32~23 minecraft:stone
+fill ~45~37~21 ~45~37~23 minecraft:stone
+fill ~48~31~21 ~50~31~21 minecraft:stone
+fill ~48~40~21 ~48~43~21 minecraft:fence
+setblock ~48~44~21 minecraft:planks
+fill ~48~46~21 ~48~47~21 minecraft:fence
+fill ~49~32~21 ~49~32~23 minecraft:stone
+fill ~49~37~21 ~49~37~23 minecraft:stone
+fill ~49~44~21 ~52~44~21 minecraft:wooden_slab
+fill ~50~46~21 ~51~46~21 minecraft:fence
+fill ~52~31~21 ~54~31~21 minecraft:stone
+fill ~53~32~21 ~53~32~23 minecraft:stone
+fill ~53~37~21 ~53~37~23 minecraft:stone
+fill ~53~40~21 ~53~43~21 minecraft:fence
+setblock ~53~44~21 minecraft:planks
+fill ~53~46~21 ~53~47~21 minecraft:fence
+fill ~54~44~21 ~57~44~21 minecraft:wooden_slab
+fill ~55~46~21 ~56~46~21 minecraft:fence
+fill ~56~31~21 ~58~31~21 minecraft:stone
+fill ~57~32~21 ~57~32~23 minecraft:stone
+fill ~57~37~21 ~57~37~23 minecraft:stone
+fill ~58~40~21 ~58~43~21 minecraft:fence
+setblock ~58~44~21 minecraft:planks
+fill ~58~46~21 ~58~47~21 minecraft:fence
+fill ~59~44~21 ~62~44~21 minecraft:wooden_slab
+fill ~60~31~21 ~62~31~21 minecraft:stone
+fill ~60~46~21 ~61~46~21 minecraft:fence
+fill ~61~28~21 ~61~28~29 minecraft:stone
+fill ~61~30~21 ~70~30~21 minecraft:stone
+fill ~61~32~21 ~61~32~23 minecraft:stone
+fill ~61~37~21 ~61~37~23 minecraft:stone
+fill ~63~40~21 ~63~43~21 minecraft:fence
+setblock ~63~44~21 minecraft:planks
+fill ~63~46~21 ~63~47~21 minecraft:fence
+fill ~64~31~21 ~66~31~21 minecraft:stone
+fill ~64~44~21 ~68~44~21 minecraft:wooden_slab
+fill ~65~32~21 ~65~32~23 minecraft:stone
+fill ~65~37~21 ~65~37~23 minecraft:stone
+fill ~65~46~21 ~67~46~21 minecraft:fence
+fill ~68~31~21 ~69~31~22 minecraft:stone
+fill ~69~10~21 ~69~12~21 minecraft:stone
+setblock ~69~32~21 minecraft:stone
+setblock ~69~37~21 minecraft:stone
+fill ~69~40~21 ~69~43~21 minecraft:fence
+setblock ~69~44~21 minecraft:planks
+fill ~69~46~21 ~69~47~21 minecraft:fence
+fill ~70~1~21 ~86~1~21 minecraft:stone_block_slab
+fill ~70~28~21 ~71~28~29 minecraft:stone
+setblock ~71~26~21 minecraft:stone
+fill ~79~10~21 ~79~10~22 minecraft:stone
+fill ~79~11~21 ~79~12~21 minecraft:stone
+setblock ~80~7~21 minecraft:stone
+fill ~4~0~22 ~21~0~22 minecraft:stone_block_slab 8
+fill ~12~12~22 ~12~12~23 minecraft:stone
+setblock ~12~14~22 minecraft:stone
+fill ~13~13~22 ~21~13~22 minecraft:stone
+setblock ~15~19~22 minecraft:stone
+fill ~17~22~22 ~17~22~23 minecraft:stone
+fill ~20~29~22 ~20~30~22 minecraft:stone
+fill ~21~30~22 ~28~30~23 minecraft:stone
+fill ~21~38~22 ~21~38~69 minecraft:stone
+fill ~21~39~22 ~21~39~69 minecraft:fence
+fill ~21~44~22 ~21~44~26 minecraft:wooden_slab
+fill ~21~45~22 ~21~45~69 minecraft:fence
+setblock ~22~12~22 minecraft:stone
+setblock ~22~14~22 minecraft:stone
+fill ~22~32~22 ~22~37~22 minecraft:stone
+fill ~25~31~22 ~25~31~23 minecraft:stone
+fill ~25~33~22 ~25~36~23 minecraft:stone
+fill ~29~31~22 ~29~31~23 minecraft:stone
+fill ~29~33~22 ~29~36~23 minecraft:stone
+fill ~33~31~22 ~33~31~23 minecraft:stone
+fill ~33~33~22 ~33~36~23 minecraft:stone
+fill ~37~31~22 ~37~31~23 minecraft:stone
+fill ~37~33~22 ~37~36~23 minecraft:stone
+fill ~41~31~22 ~41~31~23 minecraft:stone
+fill ~41~33~22 ~41~36~23 minecraft:stone
+fill ~45~31~22 ~45~31~23 minecraft:stone
+fill ~45~33~22 ~45~36~23 minecraft:stone
+fill ~49~31~22 ~49~31~23 minecraft:stone
+fill ~49~33~22 ~49~36~23 minecraft:stone
+fill ~53~31~22 ~53~31~23 minecraft:stone
+fill ~53~33~22 ~53~36~23 minecraft:stone
+fill ~57~31~22 ~57~31~23 minecraft:stone
+fill ~57~33~22 ~57~36~23 minecraft:stone
+fill ~61~31~22 ~61~31~23 minecraft:stone
+fill ~61~33~22 ~61~36~23 minecraft:stone
+fill ~62~30~22 ~70~30~23 minecraft:stone
+fill ~65~31~22 ~65~31~23 minecraft:stone
+fill ~65~33~22 ~65~36~23 minecraft:stone
+setblock ~68~12~22 minecraft:stone
+setblock ~68~14~22 minecraft:stone
+fill ~68~32~22 ~68~37~22 minecraft:stone
+fill ~69~0~22 ~87~0~22 minecraft:stone_block_slab 8
+fill ~69~13~22 ~77~13~22 minecraft:stone
+fill ~69~39~22 ~69~39~69 minecraft:fence
+fill ~69~44~22 ~69~44~26 minecraft:wooden_slab
+fill ~69~45~22 ~69~45~69 minecraft:fence
+setblock ~70~29~22 minecraft:stone
+fill ~73~22~22 ~73~22~23 minecraft:stone
+setblock ~75~19~22 minecraft:stone
+fill ~78~12~22 ~78~12~23 minecraft:stone
+setblock ~78~14~22 minecraft:stone
+fill ~2~0~23 ~22~0~23 minecraft:stone_block_slab
+setblock ~12~11~23 minecraft:stone
+fill ~13~14~23 ~13~15~24 minecraft:stone
+setblock ~15~18~23 minecraft:stone
+fill ~20~30~23 ~20~30~70 minecraft:stone
+fill ~21~46~23 ~21~46~25 minecraft:fence
+fill ~23~14~23 ~23~16~23 minecraft:stone
+fill ~23~31~23 ~24~33~23 minecraft:stone
+fill ~23~34~23 ~23~37~23 minecraft:stone
+setblock ~24~35~23 minecraft:stone
+setblock ~24~37~23 minecraft:stone
+setblock ~26~31~23 minecraft:stone
+setblock ~26~33~23 minecraft:stone
+setblock ~26~35~23 minecraft:stone
+setblock ~26~37~23 minecraft:stone
+setblock ~27~32~23 minecraft:stone
+setblock ~27~36~23 minecraft:stone
+setblock ~28~31~23 minecraft:stone
+setblock ~28~33~23 minecraft:stone
+setblock ~28~35~23 minecraft:stone
+setblock ~28~37~23 minecraft:stone
+setblock ~30~31~23 minecraft:stone
+setblock ~30~33~23 minecraft:stone
+setblock ~30~35~23 minecraft:stone
+setblock ~30~37~23 minecraft:stone
+setblock ~31~32~23 minecraft:stone
+setblock ~31~36~23 minecraft:stone
+setblock ~32~31~23 minecraft:stone
+setblock ~32~33~23 minecraft:stone
+setblock ~32~35~23 minecraft:stone
+setblock ~32~37~23 minecraft:stone
+setblock ~34~31~23 minecraft:stone
+setblock ~34~33~23 minecraft:stone
+setblock ~34~35~23 minecraft:stone
+setblock ~34~37~23 minecraft:stone
+setblock ~35~32~23 minecraft:stone
+setblock ~35~36~23 minecraft:stone
+setblock ~36~31~23 minecraft:stone
+setblock ~36~33~23 minecraft:stone
+setblock ~36~35~23 minecraft:stone
+setblock ~36~37~23 minecraft:stone
+setblock ~38~31~23 minecraft:stone
+setblock ~38~33~23 minecraft:stone
+setblock ~38~35~23 minecraft:stone
+setblock ~38~37~23 minecraft:stone
+setblock ~39~32~23 minecraft:stone
+setblock ~39~36~23 minecraft:stone
+setblock ~40~31~23 minecraft:stone
+setblock ~40~33~23 minecraft:stone
+setblock ~40~35~23 minecraft:stone
+setblock ~40~37~23 minecraft:stone
+setblock ~42~31~23 minecraft:stone
+setblock ~42~33~23 minecraft:stone
+setblock ~42~35~23 minecraft:stone
+setblock ~42~37~23 minecraft:stone
+setblock ~43~32~23 minecraft:stone
+setblock ~43~36~23 minecraft:stone
+setblock ~44~31~23 minecraft:stone
+setblock ~44~33~23 minecraft:stone
+setblock ~44~35~23 minecraft:stone
+setblock ~44~37~23 minecraft:stone
+setblock ~46~31~23 minecraft:stone
+setblock ~46~33~23 minecraft:stone
+setblock ~46~35~23 minecraft:stone
+setblock ~46~37~23 minecraft:stone
+setblock ~47~32~23 minecraft:stone
+setblock ~47~36~23 minecraft:stone
+setblock ~48~31~23 minecraft:stone
+setblock ~48~33~23 minecraft:stone
+setblock ~48~35~23 minecraft:stone
+setblock ~48~37~23 minecraft:stone
+setblock ~50~31~23 minecraft:stone
+setblock ~50~33~23 minecraft:stone
+setblock ~50~35~23 minecraft:stone
+setblock ~50~37~23 minecraft:stone
+setblock ~51~32~23 minecraft:stone
+setblock ~51~36~23 minecraft:stone
+setblock ~52~31~23 minecraft:stone
+setblock ~52~33~23 minecraft:stone
+setblock ~52~35~23 minecraft:stone
+setblock ~52~37~23 minecraft:stone
+setblock ~54~31~23 minecraft:stone
+setblock ~54~33~23 minecraft:stone
+setblock ~54~35~23 minecraft:stone
+setblock ~54~37~23 minecraft:stone
+setblock ~55~32~23 minecraft:stone
+setblock ~55~36~23 minecraft:stone
+setblock ~56~31~23 minecraft:stone
+setblock ~56~33~23 minecraft:stone
+setblock ~56~35~23 minecraft:stone
+setblock ~56~37~23 minecraft:stone
+setblock ~58~31~23 minecraft:stone
+setblock ~58~33~23 minecraft:stone
+setblock ~58~35~23 minecraft:stone
+setblock ~58~37~23 minecraft:stone
+setblock ~59~32~23 minecraft:stone
+setblock ~59~36~23 minecraft:stone
+setblock ~60~31~23 minecraft:stone
+setblock ~60~33~23 minecraft:stone
+setblock ~60~35~23 minecraft:stone
+setblock ~60~37~23 minecraft:stone
+setblock ~62~31~23 minecraft:stone
+setblock ~62~33~23 minecraft:stone
+setblock ~62~35~23 minecraft:stone
+setblock ~62~37~23 minecraft:stone
+setblock ~63~32~23 minecraft:stone
+setblock ~63~36~23 minecraft:stone
+setblock ~64~31~23 minecraft:stone
+setblock ~64~33~23 minecraft:stone
+setblock ~64~35~23 minecraft:stone
+setblock ~64~37~23 minecraft:stone
+fill ~66~31~23 ~67~33~23 minecraft:stone
+fill ~66~35~23 ~67~35~23 minecraft:stone
+fill ~66~37~23 ~67~37~23 minecraft:stone
+fill ~67~14~23 ~67~16~23 minecraft:stone
+setblock ~67~34~23 minecraft:stone
+setblock ~67~36~23 minecraft:stone
+fill ~68~0~23 ~88~0~23 minecraft:stone_block_slab
+fill ~69~46~23 ~69~46~25 minecraft:fence
+setblock ~75~18~23 minecraft:stone
+fill ~77~14~23 ~77~15~24 minecraft:stone
+setblock ~78~11~23 minecraft:stone
+fill ~14~16~24 ~14~16~25 minecraft:stone
+setblock ~14~18~24 minecraft:stone
+fill ~15~17~24 ~23~17~24 minecraft:stone
+fill ~17~23~24 ~17~23~25 minecraft:stone
+fill ~19~26~24 ~19~26~25 minecraft:stone
+setblock ~20~29~24 minecraft:stone
+fill ~21~30~24 ~23~30~28 minecraft:stone
+fill ~21~31~24 ~21~31~26 minecraft:stone
+fill ~23~31~24 ~23~31~26 minecraft:stone
+fill ~23~32~24 ~23~33~25 minecraft:stone
+fill ~23~35~24 ~23~35~26 minecraft:stone
+fill ~23~37~24 ~23~37~26 minecraft:stone
+setblock ~24~16~24 minecraft:stone
+setblock ~24~18~24 minecraft:stone
+setblock ~66~16~24 minecraft:stone
+setblock ~66~18~24 minecraft:stone
+fill ~67~17~24 ~75~17~24 minecraft:stone
+fill ~67~30~24 ~70~30~28 minecraft:stone
+fill ~67~31~24 ~67~31~26 minecraft:stone
+fill ~67~32~24 ~67~33~25 minecraft:stone
+fill ~67~35~24 ~67~35~26 minecraft:stone
+fill ~67~37~24 ~67~37~26 minecraft:stone
+fill ~69~31~24 ~69~31~26 minecraft:stone
+setblock ~70~29~24 minecraft:stone
+fill ~71~26~24 ~71~26~25 minecraft:stone
+fill ~73~23~24 ~73~23~25 minecraft:stone
+fill ~76~16~24 ~76~16~25 minecraft:stone
+setblock ~76~18~24 minecraft:stone
+fill ~15~18~25 ~15~19~26 minecraft:stone
+setblock ~15~20~25 minecraft:stone
+fill ~21~32~25 ~22~32~25 minecraft:stone
+fill ~21~37~25 ~22~37~25 minecraft:stone
+setblock ~22~31~25 minecraft:stone
+fill ~22~33~25 ~22~36~25 minecraft:stone
+setblock ~23~34~25 minecraft:stone
+setblock ~23~36~25 minecraft:stone
+fill ~25~18~25 ~25~20~25 minecraft:stone
+fill ~25~39~25 ~25~40~25 minecraft:stone
+fill ~33~39~25 ~34~39~25 minecraft:stone
+setblock ~34~40~25 minecraft:stone
+fill ~56~39~25 ~57~39~25 minecraft:stone
+setblock ~56~40~25 minecraft:stone
+fill ~65~18~25 ~65~20~25 minecraft:stone
+fill ~65~39~25 ~65~40~25 minecraft:stone
+fill ~67~34~25 ~68~34~25 minecraft:stone
+fill ~67~36~25 ~68~36~25 minecraft:stone
+fill ~68~31~25 ~68~33~25 minecraft:stone
+setblock ~68~35~25 minecraft:stone
+fill ~68~37~25 ~69~37~25 minecraft:stone
+setblock ~69~32~25 minecraft:stone
+fill ~75~18~25 ~75~19~26 minecraft:stone
+setblock ~75~20~25 minecraft:stone
+fill ~16~20~26 ~16~20~27 minecraft:stone
+setblock ~16~22~26 minecraft:stone
+fill ~17~21~26 ~25~21~26 minecraft:stone
+fill ~17~24~26 ~17~24~27 minecraft:stone
+fill ~19~27~26 ~19~27~27 minecraft:stone
+setblock ~20~29~26 minecraft:stone
+setblock ~23~33~26 minecraft:stone
+setblock ~26~20~26 minecraft:stone
+setblock ~26~22~26 minecraft:stone
+fill ~26~39~26 ~27~39~26 minecraft:stone
+fill ~26~40~26 ~26~42~26 minecraft:stone
+fill ~28~40~26 ~29~40~26 minecraft:stone
+fill ~30~41~26 ~31~41~26 minecraft:stone
+setblock ~32~40~26 minecraft:stone
+fill ~32~42~26 ~33~42~26 minecraft:stone
+fill ~34~39~26 ~34~39~27 minecraft:stone
+fill ~35~40~26 ~35~42~26 minecraft:stone
+fill ~55~40~26 ~55~42~26 minecraft:stone
+fill ~56~39~26 ~56~39~27 minecraft:stone
+fill ~57~42~26 ~58~42~26 minecraft:stone
+setblock ~58~40~26 minecraft:stone
+fill ~59~41~26 ~60~41~26 minecraft:stone
+fill ~61~40~26 ~62~40~26 minecraft:stone
+fill ~63~39~26 ~64~39~26 minecraft:stone
+setblock ~64~20~26 minecraft:stone
+setblock ~64~22~26 minecraft:stone
+fill ~64~40~26 ~64~42~26 minecraft:stone
+fill ~65~21~26 ~73~21~26 minecraft:stone
+setblock ~67~33~26 minecraft:stone
+setblock ~70~29~26 minecraft:stone
+fill ~71~27~26 ~71~27~27 minecraft:stone
+fill ~73~24~26 ~73~24~27 minecraft:stone
+fill ~74~20~26 ~74~20~27 minecraft:stone
+setblock ~74~22~26 minecraft:stone
+fill ~17~22~27 ~17~23~27 minecraft:stone
+fill ~21~40~27 ~21~43~27 minecraft:fence
+setblock ~21~44~27 minecraft:planks
+fill ~21~46~27 ~21~47~27 minecraft:fence
+setblock ~23~32~27 minecraft:stone
+setblock ~23~36~27 minecraft:stone
+setblock ~26~39~27 minecraft:stone
+fill ~27~22~27 ~27~24~27 minecraft:stone
+fill ~27~42~27 ~27~45~27 minecraft:stone
+fill ~28~43~27 ~28~44~27 minecraft:stone
+setblock ~29~42~27 minecraft:stone
+fill ~29~44~27 ~36~44~27 minecraft:stone
+fill ~34~43~27 ~36~43~27 minecraft:stone
+setblock ~36~42~27 minecraft:stone
+fill ~36~45~27 ~36~45~29 minecraft:stone
+fill ~54~42~27 ~54~45~27 minecraft:stone
+fill ~55~43~27 ~56~44~27 minecraft:stone
+fill ~57~44~27 ~63~44~27 minecraft:stone
+setblock ~61~42~27 minecraft:stone
+fill ~62~43~27 ~63~43~27 minecraft:stone
+fill ~63~22~27 ~63~24~27 minecraft:stone
+setblock ~63~42~27 minecraft:stone
+setblock ~63~45~27 minecraft:stone
+setblock ~64~39~27 minecraft:stone
+setblock ~67~32~27 minecraft:stone
+setblock ~67~36~27 minecraft:stone
+fill ~69~40~27 ~69~43~27 minecraft:fence
+setblock ~69~44~27 minecraft:planks
+fill ~69~46~27 ~69~47~27 minecraft:fence
+fill ~73~22~27 ~73~23~27 minecraft:stone
+setblock ~16~21~28 minecraft:stone
+setblock ~17~23~28 minecraft:stone
+fill ~18~24~28 ~18~24~29 minecraft:stone
+setblock ~18~26~28 minecraft:stone
+fill ~19~25~28 ~27~25~28 minecraft:stone
+setblock ~20~29~28 minecraft:stone
+fill ~21~31~28 ~21~31~30 minecraft:stone
+fill ~21~44~28 ~21~44~31 minecraft:wooden_slab
+fill ~23~31~28 ~23~31~30 minecraft:stone
+fill ~23~33~28 ~23~33~30 minecraft:stone
+fill ~23~35~28 ~23~35~30 minecraft:stone
+fill ~23~37~28 ~23~37~30 minecraft:stone
+fill ~26~40~28 ~26~40~29 minecraft:stone
+fill ~27~43~28 ~27~44~28 minecraft:stone
+setblock ~28~24~28 minecraft:stone
+setblock ~28~26~28 minecraft:stone
+fill ~28~45~28 ~30~45~28 minecraft:stone
+fill ~28~46~28 ~28~48~28 minecraft:stone
+setblock ~31~46~28 minecraft:stone
+fill ~32~47~28 ~33~47~28 minecraft:stone
+fill ~34~40~28 ~34~40~29 minecraft:stone
+setblock ~34~46~28 minecraft:stone
+setblock ~35~45~28 minecraft:stone
+fill ~36~43~28 ~36~44~28 minecraft:stone
+fill ~37~45~28 ~37~48~28 minecraft:stone
+fill ~53~45~28 ~55~45~28 minecraft:stone
+fill ~53~46~28 ~53~48~28 minecraft:stone
+fill ~54~43~28 ~54~44~28 minecraft:stone
+fill ~56~40~28 ~56~40~29 minecraft:stone
+setblock ~56~46~28 minecraft:stone
+fill ~57~47~28 ~58~47~28 minecraft:stone
+setblock ~59~46~28 minecraft:stone
+fill ~60~45~28 ~62~45~28 minecraft:stone
+setblock ~62~24~28 minecraft:stone
+setblock ~62~26~28 minecraft:stone
+fill ~62~46~28 ~62~48~28 minecraft:stone
+fill ~63~25~28 ~71~25~28 minecraft:stone
+fill ~63~43~28 ~63~44~28 minecraft:stone
+fill ~64~40~28 ~64~40~29 minecraft:stone
+fill ~67~31~28 ~67~31~30 minecraft:stone
+fill ~67~33~28 ~67~33~30 minecraft:stone
+fill ~67~35~28 ~67~35~30 minecraft:stone
+fill ~67~37~28 ~67~37~30 minecraft:stone
+fill ~69~31~28 ~69~31~30 minecraft:stone
+fill ~69~44~28 ~69~44~31 minecraft:wooden_slab
+setblock ~70~29~28 minecraft:stone
+fill ~72~24~28 ~72~24~29 minecraft:stone
+setblock ~72~26~28 minecraft:stone
+setblock ~73~23~28 minecraft:stone
+setblock ~74~21~28 minecraft:stone
+setblock ~17~22~29 minecraft:stone
+fill ~19~25~29 ~19~27~29 minecraft:stone
+fill ~21~28~29 ~28~28~29 minecraft:stone
+setblock ~21~30~29 minecraft:stone
+fill ~21~32~29 ~23~32~29 minecraft:stone
+fill ~21~37~29 ~22~37~29 minecraft:stone
+fill ~21~46~29 ~21~46~30 minecraft:fence
+setblock ~22~31~29 minecraft:stone
+fill ~22~33~29 ~22~36~29 minecraft:stone
+setblock ~23~34~29 minecraft:stone
+setblock ~23~36~29 minecraft:stone
+setblock ~27~42~29 minecraft:stone
+fill ~27~44~29 ~27~44~36 minecraft:stone
+fill ~28~45~29 ~28~45~30 minecraft:stone
+fill ~29~26~29 ~29~27~29 minecraft:stone
+fill ~29~48~29 ~29~51~29 minecraft:stone
+fill ~30~49~29 ~30~50~29 minecraft:stone
+setblock ~31~48~29 minecraft:stone
+fill ~31~50~29 ~38~50~29 minecraft:stone
+fill ~34~48~29 ~35~48~29 minecraft:stone
+setblock ~36~42~29 minecraft:stone
+fill ~36~44~29 ~36~44~36 minecraft:stone
+fill ~36~49~29 ~38~49~29 minecraft:stone
+setblock ~38~48~29 minecraft:stone
+fill ~38~51~29 ~38~51~31 minecraft:stone
+fill ~52~48~29 ~52~51~29 minecraft:stone
+fill ~53~49~29 ~54~50~29 minecraft:stone
+setblock ~54~42~29 minecraft:stone
+fill ~54~44~29 ~54~44~36 minecraft:stone
+setblock ~54~45~29 minecraft:stone
+fill ~55~48~29 ~56~48~29 minecraft:stone
+fill ~55~50~29 ~61~50~29 minecraft:stone
+setblock ~59~48~29 minecraft:stone
+fill ~60~49~29 ~61~49~29 minecraft:stone
+fill ~61~26~29 ~61~27~29 minecraft:stone
+setblock ~61~48~29 minecraft:stone
+setblock ~61~51~29 minecraft:stone
+fill ~62~28~29 ~69~28~29 minecraft:stone
+fill ~62~45~29 ~62~45~30 minecraft:stone
+setblock ~63~42~29 minecraft:stone
+fill ~63~44~29 ~63~44~36 minecraft:stone
+fill ~67~32~29 ~69~32~29 minecraft:stone
+fill ~67~34~29 ~68~34~29 minecraft:stone
+fill ~67~36~29 ~68~36~29 minecraft:stone
+setblock ~68~31~29 minecraft:stone
+setblock ~68~33~29 minecraft:stone
+setblock ~68~35~29 minecraft:stone
+fill ~68~37~29 ~69~37~29 minecraft:stone
+fill ~69~30~29 ~70~30~29 minecraft:stone
+fill ~69~46~29 ~69~46~30 minecraft:fence
+fill ~71~25~29 ~71~27~29 minecraft:stone
+setblock ~73~22~29 minecraft:stone
+setblock ~17~23~30 minecraft:stone
+setblock ~19~27~30 minecraft:stone
+fill ~20~29~30 ~20~29~33 minecraft:stone
+fill ~26~41~30 ~26~41~31 minecraft:stone
+fill ~29~49~30 ~29~50~30 minecraft:stone
+fill ~30~51~30 ~32~51~30 minecraft:stone
+fill ~30~52~30 ~30~54~30 minecraft:stone
+setblock ~33~52~30 minecraft:stone
+fill ~34~53~30 ~35~53~30 minecraft:stone
+fill ~35~41~30 ~35~41~31 minecraft:stone
+fill ~36~46~30 ~36~46~31 minecraft:stone
+setblock ~36~52~30 minecraft:stone
+setblock ~37~51~30 minecraft:stone
+fill ~38~49~30 ~38~50~30 minecraft:stone
+fill ~39~51~30 ~39~54~30 minecraft:stone
+fill ~51~51~30 ~53~51~30 minecraft:stone
+fill ~51~52~30 ~51~54~30 minecraft:stone
+fill ~52~49~30 ~52~50~30 minecraft:stone
+fill ~54~46~30 ~54~46~31 minecraft:stone
+setblock ~54~52~30 minecraft:stone
+fill ~55~41~30 ~55~41~31 minecraft:stone
+fill ~55~53~30 ~56~53~30 minecraft:stone
+setblock ~57~52~30 minecraft:stone
+fill ~58~51~30 ~60~51~30 minecraft:stone
+fill ~60~52~30 ~60~54~30 minecraft:stone
+fill ~61~49~30 ~61~50~30 minecraft:stone
+fill ~64~41~30 ~64~41~31 minecraft:stone
+fill ~70~28~30 ~70~28~71 minecraft:stone
+fill ~70~29~30 ~70~30~33 minecraft:stone
+setblock ~71~27~30 minecraft:stone
+setblock ~73~23~30 minecraft:stone
+fill ~18~24~31 ~18~24~32 minecraft:stone
+fill ~18~25~31 ~18~26~31 minecraft:stone
+fill ~20~27~31 ~20~27~32 minecraft:stone
+setblock ~23~32~31 minecraft:stone
+setblock ~23~36~31 minecraft:stone
+setblock ~28~46~31 minecraft:stone
+setblock ~29~48~31 minecraft:stone
+fill ~29~50~31 ~29~50~38 minecraft:stone
+fill ~30~51~31 ~30~51~32 minecraft:stone
+fill ~31~54~31 ~31~57~31 minecraft:stone
+fill ~32~55~31 ~32~57~31 minecraft:stone
+setblock ~33~54~31 minecraft:stone
+fill ~33~56~31 ~40~56~31 minecraft:stone
+fill ~36~54~31 ~37~54~31 minecraft:stone
+setblock ~38~48~31 minecraft:stone
+fill ~38~50~31 ~38~50~38 minecraft:stone
+fill ~38~55~31 ~40~55~31 minecraft:stone
+setblock ~40~54~31 minecraft:stone
+fill ~40~57~31 ~40~57~35 minecraft:stone
+fill ~50~54~31 ~50~57~31 minecraft:stone
+fill ~51~55~31 ~52~56~31 minecraft:stone
+setblock ~52~48~31 minecraft:stone
+fill ~52~50~31 ~52~50~38 minecraft:stone
+setblock ~52~51~31 minecraft:stone
+fill ~53~54~31 ~54~54~31 minecraft:stone
+fill ~53~56~31 ~59~56~31 minecraft:stone
+setblock ~57~54~31 minecraft:stone
+fill ~58~55~31 ~59~55~31 minecraft:stone
+fill ~58~57~31 ~59~57~32 minecraft:stone
+setblock ~59~54~31 minecraft:stone
+fill ~60~51~31 ~60~51~32 minecraft:stone
+setblock ~61~48~31 minecraft:stone
+fill ~61~50~31 ~61~50~38 minecraft:stone
+setblock ~62~46~31 minecraft:stone
+setblock ~67~32~31 minecraft:stone
+setblock ~67~36~31 minecraft:stone
+fill ~70~27~31 ~70~27~32 minecraft:stone
+fill ~72~24~31 ~72~24~32 minecraft:stone
+fill ~72~25~31 ~72~26~31 minecraft:stone
+fill ~21~31~32 ~21~31~34 minecraft:stone
+fill ~21~40~32 ~21~43~32 minecraft:fence
+setblock ~21~44~32 minecraft:planks
+fill ~21~46~32 ~21~47~32 minecraft:fence
+fill ~23~31~32 ~23~31~34 minecraft:stone
+fill ~23~33~32 ~23~33~34 minecraft:stone
+fill ~23~35~32 ~23~35~34 minecraft:stone
+fill ~23~37~32 ~23~37~34 minecraft:stone
+setblock ~26~40~32 minecraft:stone
+fill ~26~42~32 ~26~42~33 minecraft:stone
+fill ~28~47~32 ~28~47~33 minecraft:stone
+fill ~31~55~32 ~31~57~32 minecraft:stone
+fill ~32~57~32 ~35~57~32 minecraft:stone
+fill ~32~58~32 ~32~60~32 minecraft:stone
+setblock ~35~40~32 minecraft:stone
+setblock ~35~59~32 minecraft:stone
+fill ~36~42~32 ~36~42~33 minecraft:stone
+fill ~36~58~32 ~37~58~32 minecraft:stone
+fill ~37~47~32 ~37~47~33 minecraft:stone
+fill ~38~52~32 ~38~52~33 minecraft:stone
+fill ~38~57~32 ~39~57~32 minecraft:stone
+fill ~38~59~32 ~39~59~32 minecraft:stone
+fill ~40~55~32 ~40~56~32 minecraft:stone
+fill ~41~57~32 ~41~60~32 minecraft:stone
+fill ~49~57~32 ~52~57~32 minecraft:stone
+fill ~49~58~32 ~49~60~32 minecraft:stone
+fill ~50~55~32 ~50~56~32 minecraft:stone
+fill ~51~59~32 ~52~59~32 minecraft:stone
+fill ~52~52~32 ~52~52~33 minecraft:stone
+fill ~53~47~32 ~53~47~33 minecraft:stone
+fill ~53~58~32 ~54~58~32 minecraft:stone
+fill ~54~42~32 ~54~42~33 minecraft:stone
+setblock ~55~40~32 minecraft:stone
+fill ~55~57~32 ~57~57~32 minecraft:stone
+setblock ~55~59~32 minecraft:stone
+fill ~58~58~32 ~58~60~32 minecraft:stone
+fill ~59~55~32 ~59~56~32 minecraft:stone
+fill ~62~47~32 ~62~47~33 minecraft:stone
+setblock ~64~40~32 minecraft:stone
+fill ~64~42~32 ~64~42~33 minecraft:stone
+fill ~67~31~32 ~67~31~34 minecraft:stone
+fill ~67~33~32 ~67~33~34 minecraft:stone
+fill ~67~35~32 ~67~35~34 minecraft:stone
+fill ~67~37~32 ~67~37~34 minecraft:stone
+fill ~69~31~32 ~69~31~34 minecraft:stone
+fill ~69~40~32 ~69~43~32 minecraft:fence
+setblock ~69~44~32 minecraft:planks
+fill ~69~46~32 ~69~47~32 minecraft:fence
+fill ~19~25~33 ~19~25~34 minecraft:stone
+setblock ~19~26~33 minecraft:stone
+fill ~21~32~33 ~23~32~33 minecraft:stone
+fill ~21~37~33 ~22~37~33 minecraft:stone
+fill ~21~44~33 ~21~44~36 minecraft:wooden_slab
+setblock ~22~31~33 minecraft:stone
+fill ~22~33~33 ~22~36~33 minecraft:stone
+setblock ~23~34~33 minecraft:stone
+setblock ~23~36~33 minecraft:stone
+fill ~25~39~33 ~25~39~34 minecraft:stone
+setblock ~30~52~33 minecraft:stone
+setblock ~31~54~33 minecraft:stone
+fill ~31~56~33 ~31~56~40 minecraft:stone
+fill ~32~57~33 ~32~57~35 minecraft:stone
+fill ~33~60~33 ~34~63~33 minecraft:stone
+setblock ~33~64~33 minecraft:stone
+fill ~34~39~33 ~34~39~34 minecraft:stone
+fill ~34~70~33 ~56~70~41 minecraft:stone
+fill ~34~71~33 ~56~71~33 minecraft:fence
+fill ~35~61~33 ~57~61~33 minecraft:stone
+fill ~35~63~33 ~57~63~33 minecraft:stone
+setblock ~36~62~33 minecraft:stone
+setblock ~38~62~33 minecraft:stone
+setblock ~40~54~33 minecraft:stone
+fill ~40~56~33 ~40~56~40 minecraft:stone
+fill ~40~60~33 ~41~60~33 minecraft:stone
+setblock ~40~62~33 minecraft:stone
+setblock ~42~62~33 minecraft:stone
+setblock ~44~62~33 minecraft:stone
+setblock ~46~62~33 minecraft:stone
+setblock ~48~62~33 minecraft:stone
+fill ~49~60~33 ~50~60~33 minecraft:stone
+setblock ~50~54~33 minecraft:stone
+fill ~50~56~33 ~50~56~40 minecraft:stone
+fill ~50~57~33 ~50~57~35 minecraft:stone
+setblock ~50~62~33 minecraft:stone
+setblock ~52~62~33 minecraft:stone
+setblock ~54~62~33 minecraft:stone
+fill ~56~39~33 ~56~39~34 minecraft:stone
+fill ~56~60~33 ~57~60~33 minecraft:stone
+fill ~56~62~33 ~57~62~33 minecraft:stone
+setblock ~57~64~33 minecraft:stone
+fill ~58~57~33 ~58~57~35 minecraft:stone
+setblock ~59~54~33 minecraft:stone
+fill ~59~56~33 ~59~56~40 minecraft:stone
+setblock ~60~52~33 minecraft:stone
+fill ~65~39~33 ~65~39~34 minecraft:stone
+fill ~67~32~33 ~69~32~33 minecraft:stone
+fill ~67~34~33 ~68~34~33 minecraft:stone
+fill ~67~36~33 ~68~36~33 minecraft:stone
+setblock ~68~31~33 minecraft:stone
+setblock ~68~33~33 minecraft:stone
+setblock ~68~35~33 minecraft:stone
+fill ~68~37~33 ~69~37~33 minecraft:stone
+fill ~69~44~33 ~69~44~36 minecraft:wooden_slab
+fill ~71~25~33 ~71~25~34 minecraft:stone
+setblock ~71~26~33 minecraft:stone
+fill ~19~28~34 ~19~28~35 minecraft:stone
+fill ~21~46~34 ~21~46~35 minecraft:fence
+setblock ~25~40~34 minecraft:stone
+fill ~26~39~34 ~27~39~34 minecraft:stone
+fill ~27~43~34 ~27~43~36 minecraft:stone
+fill ~28~40~34 ~29~40~34 minecraft:stone
+setblock ~28~46~34 minecraft:stone
+fill ~29~48~34 ~29~48~35 minecraft:stone
+fill ~30~53~34 ~30~53~35 minecraft:stone
+setblock ~33~39~34 minecraft:stone
+fill ~33~60~34 ~33~63~34 minecraft:stone
+fill ~33~70~34 ~33~70~56 minecraft:stone
+fill ~33~71~34 ~33~71~56 minecraft:fence
+setblock ~34~40~34 minecraft:stone
+fill ~34~64~34 ~34~69~34 minecraft:stone
+setblock ~35~65~34 minecraft:stone
+setblock ~35~67~34 minecraft:stone
+fill ~36~43~34 ~36~43~36 minecraft:stone
+fill ~36~46~34 ~36~46~35 minecraft:stone
+setblock ~36~64~34 minecraft:stone
+setblock ~36~66~34 minecraft:stone
+setblock ~37~65~34 minecraft:stone
+setblock ~37~67~34 minecraft:stone
+fill ~38~48~34 ~38~48~35 minecraft:stone
+setblock ~38~64~34 minecraft:stone
+setblock ~38~66~34 minecraft:stone
+fill ~39~53~34 ~39~53~35 minecraft:stone
+setblock ~39~65~34 minecraft:stone
+setblock ~39~67~34 minecraft:stone
+fill ~40~64~34 ~42~64~34 minecraft:stone
+fill ~40~66~34 ~42~66~34 minecraft:stone
+setblock ~41~60~34 minecraft:stone
+setblock ~41~65~34 minecraft:stone
+fill ~41~67~34 ~41~69~34 minecraft:stone
+fill ~42~61~34 ~42~61~42 minecraft:stone
+setblock ~43~65~34 minecraft:stone
+setblock ~43~67~34 minecraft:stone
+fill ~44~64~34 ~46~64~34 minecraft:stone
+fill ~44~66~34 ~46~66~34 minecraft:stone
+setblock ~45~65~34 minecraft:stone
+fill ~45~67~34 ~45~68~34 minecraft:stone
+setblock ~47~65~34 minecraft:stone
+setblock ~47~67~34 minecraft:stone
+fill ~48~61~34 ~48~61~42 minecraft:stone
+fill ~48~64~34 ~50~64~34 minecraft:stone
+fill ~48~66~34 ~50~66~34 minecraft:stone
+setblock ~49~60~34 minecraft:stone
+setblock ~49~65~34 minecraft:stone
+fill ~49~67~34 ~49~69~34 minecraft:stone
+fill ~51~53~34 ~51~53~35 minecraft:stone
+setblock ~51~65~34 minecraft:stone
+setblock ~51~67~34 minecraft:stone
+fill ~52~48~34 ~52~48~35 minecraft:stone
+setblock ~52~64~34 minecraft:stone
+setblock ~52~66~34 minecraft:stone
+setblock ~53~65~34 minecraft:stone
+setblock ~53~67~34 minecraft:stone
+fill ~54~43~34 ~54~43~36 minecraft:stone
+fill ~54~46~34 ~54~46~35 minecraft:stone
+setblock ~54~64~34 minecraft:stone
+setblock ~54~66~34 minecraft:stone
+fill ~55~65~34 ~56~65~34 minecraft:stone
+fill ~55~67~34 ~56~67~34 minecraft:stone
+setblock ~56~40~34 minecraft:stone
+setblock ~56~64~34 minecraft:stone
+setblock ~56~66~34 minecraft:stone
+fill ~56~68~34 ~56~69~34 minecraft:stone
+setblock ~57~39~34 minecraft:stone
+fill ~57~60~34 ~57~63~34 minecraft:stone
+fill ~57~70~34 ~57~70~56 minecraft:stone
+fill ~57~71~34 ~57~71~56 minecraft:fence
+fill ~60~53~34 ~60~53~35 minecraft:stone
+fill ~61~40~34 ~62~40~34 minecraft:stone
+fill ~61~48~34 ~61~48~35 minecraft:stone
+setblock ~62~46~34 minecraft:stone
+fill ~63~39~34 ~64~39~34 minecraft:stone
+fill ~63~43~34 ~63~43~36 minecraft:stone
+setblock ~65~40~34 minecraft:stone
+fill ~69~46~34 ~69~46~35 minecraft:fence
+fill ~70~30~34 ~70~30~70 minecraft:stone
+fill ~71~28~34 ~71~28~35 minecraft:stone
+fill ~19~26~35 ~19~26~36 minecraft:stone
+setblock ~19~27~35 minecraft:stone
+setblock ~23~32~35 minecraft:stone
+setblock ~23~36~35 minecraft:stone
+fill ~26~40~35 ~26~42~35 minecraft:stone
+fill ~28~45~35 ~28~45~37 minecraft:stone
+fill ~30~41~35 ~31~41~35 minecraft:stone
+setblock ~32~40~35 minecraft:stone
+setblock ~32~59~35 minecraft:stone
+fill ~33~61~35 ~33~61~57 minecraft:stone
+fill ~33~63~35 ~33~63~57 minecraft:stone
+setblock ~34~65~35 minecraft:stone
+setblock ~34~67~35 minecraft:stone
+fill ~35~40~35 ~35~42~35 minecraft:stone
+fill ~35~68~35 ~35~69~35 minecraft:stone
+fill ~35~71~35 ~35~74~35 minecraft:stone
+fill ~40~68~35 ~42~69~36 minecraft:stone
+setblock ~41~59~35 minecraft:stone
+fill ~42~39~35 ~43~39~35 minecraft:fence
+fill ~42~71~35 ~42~74~38 minecraft:stone
+fill ~47~39~35 ~48~39~35 minecraft:fence
+fill ~48~68~35 ~50~69~36 minecraft:stone
+fill ~48~71~35 ~48~74~38 minecraft:stone
+setblock ~49~59~35 minecraft:stone
+fill ~55~40~35 ~55~42~35 minecraft:stone
+fill ~55~68~35 ~55~69~35 minecraft:stone
+fill ~55~71~35 ~55~74~35 minecraft:stone
+setblock ~56~65~35 minecraft:stone
+setblock ~56~67~35 minecraft:stone
+fill ~57~61~35 ~57~61~57 minecraft:stone
+fill ~57~63~35 ~57~63~57 minecraft:stone
+setblock ~58~40~35 minecraft:stone
+setblock ~58~59~35 minecraft:stone
+fill ~59~41~35 ~60~41~35 minecraft:stone
+fill ~62~45~35 ~62~45~37 minecraft:stone
+fill ~64~40~35 ~64~42~35 minecraft:stone
+setblock ~67~32~35 minecraft:stone
+setblock ~67~36~35 minecraft:stone
+fill ~71~26~35 ~71~26~36 minecraft:stone
+setblock ~71~27~35 minecraft:stone
+fill ~20~29~36 ~20~29~39 minecraft:stone
+fill ~21~31~36 ~21~31~38 minecraft:stone
+fill ~22~38~36 ~41~38~36 minecraft:stone
+fill ~23~31~36 ~23~31~38 minecraft:stone
+fill ~23~33~36 ~23~33~38 minecraft:stone
+fill ~23~35~36 ~23~35~38 minecraft:stone
+fill ~23~37~36 ~23~37~38 minecraft:stone
+setblock ~27~42~36 minecraft:stone
+setblock ~27~45~36 minecraft:stone
+fill ~28~43~36 ~28~44~36 minecraft:stone
+setblock ~29~42~36 minecraft:stone
+fill ~29~44~36 ~35~44~36 minecraft:stone
+setblock ~29~45~36 minecraft:stone
+fill ~29~49~36 ~29~49~38 minecraft:stone
+fill ~30~46~36 ~31~46~36 minecraft:stone
+setblock ~30~52~36 minecraft:stone
+fill ~31~54~36 ~31~54~37 minecraft:stone
+fill ~32~42~36 ~33~42~36 minecraft:stone
+fill ~32~58~36 ~32~58~37 minecraft:stone
+setblock ~33~62~36 minecraft:stone
+fill ~34~43~36 ~35~43~36 minecraft:stone
+fill ~34~46~36 ~35~46~36 minecraft:stone
+setblock ~34~64~36 minecraft:stone
+setblock ~34~66~36 minecraft:stone
+setblock ~36~42~36 minecraft:stone
+setblock ~36~45~36 minecraft:stone
+fill ~36~68~36 ~39~69~36 minecraft:stone
+setblock ~36~71~36 minecraft:stone
+fill ~36~74~36 ~36~80~36 minecraft:stone
+setblock ~37~72~36 minecraft:stone
+fill ~37~75~36 ~37~77~36 minecraft:stone
+fill ~38~49~36 ~38~49~38 minecraft:stone
+fill ~38~52~36 ~38~52~37 minecraft:stone
+fill ~38~73~36 ~39~73~36 minecraft:stone
+setblock ~38~74~36 minecraft:stone
+fill ~38~76~36 ~54~76~36 minecraft:stone
+setblock ~38~78~36 minecraft:stone
+fill ~39~79~36 ~40~79~36 minecraft:stone
+fill ~40~39~36 ~41~39~36 minecraft:fence
+fill ~40~54~36 ~40~54~37 minecraft:stone
+fill ~40~58~36 ~40~58~38 minecraft:stone
+setblock ~40~72~36 minecraft:stone
+setblock ~40~74~36 minecraft:stone
+setblock ~41~71~36 minecraft:stone
+fill ~41~75~36 ~43~75~36 minecraft:stone
+setblock ~41~78~36 minecraft:stone
+fill ~42~77~36 ~44~77~36 minecraft:stone
+fill ~43~68~36 ~47~69~36 minecraft:stone
+fill ~43~78~36 ~43~80~36 minecraft:stone
+fill ~44~38~36 ~46~38~36 minecraft:stone
+fill ~44~39~36 ~46~39~36 minecraft:fence
+fill ~44~71~36 ~44~72~36 minecraft:stone
+setblock ~44~74~36 minecraft:stone
+setblock ~44~79~36 minecraft:stone
+setblock ~45~73~36 minecraft:stone
+setblock ~45~78~36 minecraft:stone
+fill ~46~71~36 ~46~72~36 minecraft:stone
+setblock ~46~74~36 minecraft:stone
+fill ~46~77~36 ~48~77~36 minecraft:stone
+fill ~46~79~36 ~47~79~36 minecraft:stone
+fill ~47~75~36 ~49~75~36 minecraft:stone
+setblock ~47~78~36 minecraft:stone
+setblock ~47~80~36 minecraft:stone
+fill ~49~38~36 ~69~38~36 minecraft:stone
+fill ~49~39~36 ~50~39~36 minecraft:fence
+setblock ~49~71~36 minecraft:stone
+setblock ~49~78~36 minecraft:stone
+fill ~50~54~36 ~50~54~37 minecraft:stone
+fill ~50~58~36 ~50~58~38 minecraft:stone
+setblock ~50~72~36 minecraft:stone
+setblock ~50~74~36 minecraft:stone
+fill ~50~79~36 ~51~79~36 minecraft:stone
+fill ~51~68~36 ~54~69~36 minecraft:stone
+fill ~51~73~36 ~52~73~36 minecraft:stone
+fill ~52~49~36 ~52~49~38 minecraft:stone
+fill ~52~52~36 ~52~52~37 minecraft:stone
+setblock ~52~74~36 minecraft:stone
+setblock ~52~78~36 minecraft:stone
+setblock ~53~72~36 minecraft:stone
+fill ~53~75~36 ~54~75~36 minecraft:stone
+fill ~53~77~36 ~54~77~36 minecraft:stone
+setblock ~54~42~36 minecraft:stone
+setblock ~54~45~36 minecraft:stone
+setblock ~54~71~36 minecraft:stone
+setblock ~54~74~36 minecraft:stone
+fill ~54~78~36 ~54~80~36 minecraft:stone
+fill ~55~43~36 ~56~44~36 minecraft:stone
+fill ~55~46~36 ~56~46~36 minecraft:stone
+setblock ~56~64~36 minecraft:stone
+setblock ~56~66~36 minecraft:stone
+fill ~57~42~36 ~58~42~36 minecraft:stone
+fill ~57~44~36 ~62~44~36 minecraft:stone
+setblock ~57~62~36 minecraft:stone
+fill ~58~58~36 ~58~58~37 minecraft:stone
+fill ~59~46~36 ~60~46~36 minecraft:stone
+fill ~59~54~36 ~59~54~37 minecraft:stone
+setblock ~60~52~36 minecraft:stone
+setblock ~61~42~36 minecraft:stone
+setblock ~61~45~36 minecraft:stone
+fill ~61~49~36 ~61~49~38 minecraft:stone
+setblock ~62~43~36 minecraft:stone
+setblock ~63~42~36 minecraft:stone
+setblock ~63~45~36 minecraft:stone
+fill ~67~31~36 ~67~31~38 minecraft:stone
+fill ~67~33~36 ~67~33~38 minecraft:stone
+fill ~67~35~36 ~67~35~38 minecraft:stone
+fill ~67~37~36 ~67~37~38 minecraft:stone
+fill ~69~31~36 ~69~31~38 minecraft:stone
+fill ~70~29~36 ~70~29~39 minecraft:stone
+fill ~19~27~37 ~19~27~39 minecraft:stone
+setblock ~19~28~37 minecraft:stone
+fill ~21~32~37 ~23~32~37 minecraft:stone
+fill ~21~37~37 ~22~37~37 minecraft:stone
+fill ~21~40~37 ~21~43~37 minecraft:fence
+setblock ~21~44~37 minecraft:planks
+fill ~21~46~37 ~21~47~37 minecraft:fence
+setblock ~22~31~37 minecraft:stone
+fill ~22~33~37 ~22~36~37 minecraft:stone
+fill ~22~38~37 ~39~38~37 minecraft:stone
+setblock ~23~34~37 minecraft:stone
+setblock ~23~36~37 minecraft:stone
+fill ~28~46~37 ~28~48~37 minecraft:stone
+fill ~30~51~37 ~30~51~39 minecraft:stone
+fill ~32~47~37 ~33~47~37 minecraft:stone
+setblock ~34~65~37 minecraft:stone
+setblock ~34~67~37 minecraft:stone
+fill ~36~68~37 ~36~69~54 minecraft:stone
+setblock ~36~72~37 minecraft:stone
+fill ~36~75~37 ~36~77~37 minecraft:stone
+fill ~37~45~37 ~37~48~37 minecraft:stone
+fill ~37~80~37 ~37~88~37 minecraft:stone
+fill ~38~82~37 ~38~84~37 minecraft:stone
+setblock ~39~39~37 minecraft:fence
+setblock ~39~81~37 minecraft:stone
+fill ~39~83~37 ~53~83~37 minecraft:stone
+setblock ~40~80~37 minecraft:stone
+setblock ~41~81~37 minecraft:stone
+fill ~42~75~37 ~42~76~38 minecraft:stone
+fill ~42~82~37 ~44~82~37 minecraft:stone
+fill ~42~84~37 ~44~84~37 minecraft:stone
+fill ~43~76~37 ~48~76~38 minecraft:stone
+setblock ~43~81~37 minecraft:stone
+fill ~43~85~37 ~43~86~37 minecraft:stone
+setblock ~44~80~37 minecraft:stone
+fill ~44~86~37 ~44~88~37 minecraft:stone
+setblock ~45~81~37 minecraft:stone
+setblock ~45~85~37 minecraft:stone
+fill ~45~87~37 ~46~87~37 minecraft:stone
+setblock ~46~80~37 minecraft:stone
+fill ~46~82~37 ~48~82~37 minecraft:stone
+fill ~46~84~37 ~48~84~37 minecraft:stone
+fill ~46~86~37 ~47~86~37 minecraft:stone
+setblock ~46~88~37 minecraft:stone
+setblock ~47~81~37 minecraft:stone
+setblock ~47~85~37 minecraft:stone
+fill ~48~75~37 ~48~75~38 minecraft:stone
+setblock ~49~81~37 minecraft:stone
+setblock ~50~80~37 minecraft:stone
+fill ~51~38~37 ~69~38~37 minecraft:stone
+setblock ~51~39~37 minecraft:fence
+setblock ~51~81~37 minecraft:stone
+fill ~52~82~37 ~53~82~37 minecraft:stone
+fill ~52~84~37 ~53~84~37 minecraft:stone
+fill ~53~45~37 ~53~48~37 minecraft:stone
+fill ~53~80~37 ~53~81~37 minecraft:stone
+fill ~53~85~37 ~53~88~37 minecraft:stone
+fill ~54~68~37 ~54~69~54 minecraft:stone
+setblock ~54~72~37 minecraft:stone
+fill ~54~75~37 ~54~77~37 minecraft:stone
+setblock ~56~65~37 minecraft:stone
+setblock ~56~67~37 minecraft:stone
+fill ~57~47~37 ~58~47~37 minecraft:stone
+fill ~60~51~37 ~60~51~39 minecraft:stone
+fill ~62~46~37 ~62~48~37 minecraft:stone
+fill ~67~32~37 ~69~32~37 minecraft:stone
+fill ~67~34~37 ~68~34~37 minecraft:stone
+fill ~67~36~37 ~68~36~37 minecraft:stone
+setblock ~68~31~37 minecraft:stone
+setblock ~68~33~37 minecraft:stone
+setblock ~68~35~37 minecraft:stone
+fill ~68~37~37 ~69~37~37 minecraft:stone
+fill ~69~40~37 ~69~43~37 minecraft:fence
+setblock ~69~44~37 minecraft:planks
+fill ~69~46~37 ~69~47~37 minecraft:fence
+fill ~71~27~37 ~71~27~39 minecraft:stone
+setblock ~71~28~37 minecraft:stone
+fill ~21~44~38 ~21~44~41 minecraft:wooden_slab
+fill ~22~38~38 ~38~38~38 minecraft:stone
+setblock ~29~48~38 minecraft:stone
+setblock ~29~51~38 minecraft:stone
+fill ~30~49~38 ~30~50~38 minecraft:stone
+setblock ~31~48~38 minecraft:stone
+fill ~31~50~38 ~37~50~38 minecraft:stone
+setblock ~31~51~38 minecraft:stone
+fill ~31~55~38 ~31~55~40 minecraft:stone
+fill ~32~52~38 ~33~52~38 minecraft:stone
+fill ~32~57~38 ~32~57~41 minecraft:stone
+fill ~32~59~38 ~32~59~39 minecraft:stone
+setblock ~33~62~38 minecraft:stone
+fill ~34~48~38 ~35~48~38 minecraft:stone
+setblock ~34~64~38 minecraft:stone
+setblock ~34~66~38 minecraft:stone
+fill ~36~49~38 ~37~49~38 minecraft:stone
+fill ~36~52~38 ~37~52~38 minecraft:stone
+fill ~36~73~38 ~36~73~39 minecraft:stone
+setblock ~36~74~38 minecraft:stone
+fill ~36~76~38 ~36~76~54 minecraft:stone
+setblock ~36~78~38 minecraft:stone
+fill ~37~82~38 ~37~84~38 minecraft:stone
+setblock ~38~39~38 minecraft:fence
+setblock ~38~48~38 minecraft:stone
+setblock ~38~51~38 minecraft:stone
+fill ~38~88~38 ~38~100~38 minecraft:stone
+setblock ~39~85~38 minecraft:stone
+setblock ~39~87~38 minecraft:stone
+fill ~39~89~38 ~52~89~38 minecraft:stone
+setblock ~39~90~38 minecraft:stone
+fill ~39~94~38 ~39~96~38 minecraft:stone
+fill ~40~55~38 ~40~55~40 minecraft:stone
+setblock ~40~86~38 minecraft:stone
+setblock ~40~91~38 minecraft:stone
+setblock ~40~93~38 minecraft:stone
+fill ~40~95~38 ~52~95~38 minecraft:stone
+setblock ~40~97~38 minecraft:stone
+setblock ~40~99~38 minecraft:stone
+setblock ~41~85~38 minecraft:stone
+setblock ~41~87~38 minecraft:stone
+setblock ~41~92~38 minecraft:stone
+setblock ~41~98~38 minecraft:stone
+setblock ~42~88~38 minecraft:stone
+setblock ~42~91~38 minecraft:stone
+setblock ~42~93~38 minecraft:stone
+setblock ~42~97~38 minecraft:stone
+setblock ~42~99~38 minecraft:stone
+fill ~43~71~38 ~47~75~38 minecraft:stone
+fill ~43~90~38 ~44~90~38 minecraft:stone
+fill ~43~94~38 ~44~94~38 minecraft:stone
+fill ~43~96~38 ~44~96~38 minecraft:stone
+setblock ~43~100~38 minecraft:stone
+fill ~44~91~38 ~46~91~38 minecraft:stone
+fill ~44~92~38 ~44~93~38 minecraft:stone
+fill ~45~93~38 ~46~93~38 minecraft:stone
+fill ~46~90~38 ~47~90~38 minecraft:stone
+setblock ~46~92~38 minecraft:stone
+fill ~46~94~38 ~47~94~38 minecraft:stone
+fill ~46~96~38 ~47~96~38 minecraft:stone
+setblock ~47~100~38 minecraft:stone
+setblock ~48~88~38 minecraft:stone
+setblock ~48~91~38 minecraft:stone
+setblock ~48~93~38 minecraft:stone
+setblock ~48~97~38 minecraft:stone
+setblock ~48~99~38 minecraft:stone
+setblock ~49~85~38 minecraft:stone
+setblock ~49~87~38 minecraft:stone
+setblock ~49~92~38 minecraft:stone
+setblock ~49~98~38 minecraft:stone
+fill ~50~55~38 ~50~55~40 minecraft:stone
+setblock ~50~86~38 minecraft:stone
+setblock ~50~91~38 minecraft:stone
+setblock ~50~93~38 minecraft:stone
+setblock ~50~97~38 minecraft:stone
+setblock ~50~99~38 minecraft:stone
+setblock ~51~85~38 minecraft:stone
+setblock ~51~87~38 minecraft:stone
+fill ~51~90~38 ~52~90~38 minecraft:stone
+fill ~51~94~38 ~52~94~38 minecraft:stone
+fill ~51~96~38 ~52~96~38 minecraft:stone
+fill ~52~38~38 ~69~38~38 minecraft:stone
+setblock ~52~39~38 minecraft:fence
+setblock ~52~48~38 minecraft:stone
+setblock ~52~51~38 minecraft:stone
+setblock ~52~88~38 minecraft:stone
+fill ~52~91~38 ~52~93~38 minecraft:stone
+fill ~52~97~38 ~52~100~38 minecraft:stone
+fill ~53~49~38 ~54~50~38 minecraft:stone
+fill ~53~52~38 ~54~52~38 minecraft:stone
+fill ~53~82~38 ~53~84~38 minecraft:stone
+fill ~54~73~38 ~54~73~39 minecraft:stone
+setblock ~54~74~38 minecraft:stone
+fill ~54~76~38 ~54~76~54 minecraft:stone
+setblock ~54~78~38 minecraft:stone
+fill ~55~48~38 ~56~48~38 minecraft:stone
+fill ~55~50~38 ~60~50~38 minecraft:stone
+setblock ~56~64~38 minecraft:stone
+setblock ~56~66~38 minecraft:stone
+fill ~57~52~38 ~58~52~38 minecraft:stone
+setblock ~57~62~38 minecraft:stone
+fill ~58~57~38 ~58~57~41 minecraft:stone
+fill ~58~59~38 ~58~59~39 minecraft:stone
+setblock ~59~48~38 minecraft:stone
+setblock ~59~51~38 minecraft:stone
+fill ~59~55~38 ~59~55~40 minecraft:stone
+setblock ~60~49~38 minecraft:stone
+setblock ~61~48~38 minecraft:stone
+setblock ~61~51~38 minecraft:stone
+fill ~69~44~38 ~69~44~41 minecraft:wooden_slab
+fill ~21~46~39 ~21~46~40 minecraft:fence
+fill ~22~38~39 ~37~38~39 minecraft:stone
+setblock ~23~32~39 minecraft:stone
+setblock ~23~36~39 minecraft:stone
+fill ~30~52~39 ~30~54~39 minecraft:stone
+fill ~34~53~39 ~35~53~39 minecraft:stone
+setblock ~34~65~39 minecraft:stone
+setblock ~34~67~39 minecraft:stone
+fill ~36~79~39 ~36~79~40 minecraft:stone
+setblock ~37~39~39 minecraft:fence
+setblock ~37~81~39 minecraft:stone
+fill ~37~83~39 ~37~83~53 minecraft:stone
+setblock ~38~85~39 minecraft:stone
+setblock ~38~87~39 minecraft:stone
+fill ~38~89~39 ~38~89~52 minecraft:stone
+setblock ~38~90~39 minecraft:stone
+fill ~38~94~39 ~38~96~39 minecraft:stone
+fill ~39~51~39 ~39~54~39 minecraft:stone
+fill ~39~100~39 ~39~117~39 minecraft:stone
+fill ~40~57~39 ~40~57~40 minecraft:stone
+fill ~40~101~39 ~51~101~39 minecraft:stone
+setblock ~40~102~39 minecraft:stone
+fill ~40~106~39 ~40~108~39 minecraft:stone
+fill ~40~112~39 ~40~114~39 minecraft:stone
+setblock ~41~59~39 minecraft:stone
+setblock ~41~103~39 minecraft:stone
+setblock ~41~105~39 minecraft:stone
+fill ~41~107~39 ~51~107~39 minecraft:stone
+setblock ~41~109~39 minecraft:stone
+setblock ~41~111~39 minecraft:stone
+fill ~41~113~39 ~51~113~39 minecraft:stone
+setblock ~41~115~39 minecraft:stone
+setblock ~41~117~39 minecraft:stone
+setblock ~42~104~39 minecraft:stone
+setblock ~42~110~39 minecraft:stone
+setblock ~42~116~39 minecraft:stone
+setblock ~43~103~39 minecraft:stone
+setblock ~43~105~39 minecraft:stone
+setblock ~43~109~39 minecraft:stone
+setblock ~43~111~39 minecraft:stone
+setblock ~43~115~39 minecraft:stone
+setblock ~43~117~39 minecraft:stone
+fill ~44~97~39 ~46~97~39 minecraft:stone
+fill ~44~102~39 ~46~102~39 minecraft:stone
+fill ~44~106~39 ~46~106~39 minecraft:stone
+fill ~44~108~39 ~46~108~39 minecraft:stone
+fill ~44~112~39 ~46~112~39 minecraft:stone
+fill ~44~114~39 ~46~114~39 minecraft:stone
+fill ~45~98~39 ~45~100~39 minecraft:stone
+fill ~45~103~39 ~45~105~39 minecraft:stone
+fill ~45~109~39 ~45~111~39 minecraft:stone
+fill ~45~115~39 ~45~117~39 minecraft:stone
+setblock ~47~103~39 minecraft:stone
+setblock ~47~105~39 minecraft:stone
+setblock ~47~109~39 minecraft:stone
+setblock ~47~111~39 minecraft:stone
+setblock ~47~115~39 minecraft:stone
+setblock ~47~117~39 minecraft:stone
+setblock ~48~104~39 minecraft:stone
+setblock ~48~110~39 minecraft:stone
+setblock ~48~116~39 minecraft:stone
+setblock ~49~59~39 minecraft:stone
+setblock ~49~103~39 minecraft:stone
+setblock ~49~105~39 minecraft:stone
+setblock ~49~109~39 minecraft:stone
+setblock ~49~111~39 minecraft:stone
+setblock ~49~115~39 minecraft:stone
+setblock ~49~117~39 minecraft:stone
+fill ~50~57~39 ~50~57~40 minecraft:stone
+fill ~50~102~39 ~51~102~39 minecraft:stone
+fill ~50~106~39 ~51~106~39 minecraft:stone
+fill ~50~108~39 ~51~108~39 minecraft:stone
+fill ~50~112~39 ~51~112~39 minecraft:stone
+fill ~50~114~39 ~51~114~39 minecraft:stone
+fill ~51~51~39 ~51~54~39 minecraft:stone
+setblock ~51~100~39 minecraft:stone
+fill ~51~103~39 ~51~105~39 minecraft:stone
+fill ~51~109~39 ~51~111~39 minecraft:stone
+fill ~51~115~39 ~51~117~39 minecraft:stone
+setblock ~52~85~39 minecraft:stone
+setblock ~52~87~39 minecraft:stone
+fill ~52~89~39 ~52~89~52 minecraft:stone
+setblock ~52~90~39 minecraft:stone
+fill ~52~94~39 ~52~96~39 minecraft:stone
+fill ~53~38~39 ~69~38~39 minecraft:stone
+setblock ~53~39~39 minecraft:fence
+setblock ~53~81~39 minecraft:stone
+fill ~53~83~39 ~53~83~53 minecraft:stone
+fill ~54~79~39 ~54~79~40 minecraft:stone
+fill ~55~53~39 ~56~53~39 minecraft:stone
+setblock ~56~65~39 minecraft:stone
+setblock ~56~67~39 minecraft:stone
+fill ~60~52~39 ~60~54~39 minecraft:stone
+setblock ~67~32~39 minecraft:stone
+setblock ~67~36~39 minecraft:stone
+fill ~69~46~39 ~69~46~40 minecraft:fence
+fill ~21~31~40 ~21~31~42 minecraft:stone
+fill ~22~38~40 ~36~38~41 minecraft:stone
+fill ~23~31~40 ~23~31~42 minecraft:stone
+fill ~23~33~40 ~23~33~42 minecraft:stone
+fill ~23~35~40 ~23~35~42 minecraft:stone
+fill ~23~37~40 ~23~37~42 minecraft:stone
+setblock ~31~54~40 minecraft:stone
+setblock ~31~57~40 minecraft:stone
+fill ~32~55~40 ~32~56~40 minecraft:stone
+setblock ~33~54~40 minecraft:stone
+fill ~33~56~40 ~39~56~40 minecraft:stone
+fill ~33~57~40 ~35~57~40 minecraft:stone
+fill ~33~60~40 ~33~60~41 minecraft:stone
+setblock ~33~62~40 minecraft:stone
+fill ~34~64~40 ~34~64~42 minecraft:stone
+fill ~34~66~40 ~34~66~42 minecraft:stone
+fill ~35~68~40 ~35~69~42 minecraft:stone
+fill ~36~39~40 ~36~39~41 minecraft:fence
+fill ~36~54~40 ~37~54~40 minecraft:stone
+fill ~36~58~40 ~38~58~40 minecraft:stone
+setblock ~36~72~40 minecraft:stone
+setblock ~36~74~40 minecraft:stone
+setblock ~37~80~40 minecraft:stone
+fill ~38~55~40 ~39~55~40 minecraft:stone
+setblock ~38~86~40 minecraft:stone
+setblock ~38~91~40 minecraft:stone
+setblock ~38~93~40 minecraft:stone
+fill ~38~95~40 ~38~95~52 minecraft:stone
+setblock ~38~97~40 minecraft:stone
+setblock ~38~99~40 minecraft:stone
+setblock ~39~57~40 minecraft:stone
+fill ~39~101~40 ~39~101~51 minecraft:stone
+setblock ~39~102~40 minecraft:stone
+fill ~39~106~40 ~39~108~40 minecraft:stone
+fill ~39~112~40 ~39~114~40 minecraft:stone
+setblock ~40~54~40 minecraft:stone
+fill ~40~117~40 ~40~137~40 minecraft:stone
+fill ~41~60~40 ~41~60~41 minecraft:stone
+fill ~41~119~40 ~50~119~40 minecraft:stone
+setblock ~41~120~40 minecraft:stone
+fill ~41~123~40 ~41~125~40 minecraft:stone
+fill ~41~128~40 ~41~130~40 minecraft:stone
+fill ~41~133~40 ~41~135~40 minecraft:stone
+setblock ~42~121~40 minecraft:stone
+fill ~42~124~40 ~50~124~40 minecraft:stone
+setblock ~42~127~40 minecraft:stone
+fill ~42~129~40 ~50~129~40 minecraft:stone
+setblock ~42~131~40 minecraft:stone
+fill ~42~134~40 ~50~134~40 minecraft:stone
+setblock ~42~137~40 minecraft:stone
+fill ~42~175~40 ~42~175~50 minecraft:stone
+fill ~42~176~40 ~48~177~40 minecraft:stone
+fill ~42~178~40 ~42~179~40 minecraft:stone
+fill ~42~180~40 ~48~180~40 minecraft:iron_bars
+setblock ~43~122~40 minecraft:stone
+setblock ~43~126~40 minecraft:stone
+setblock ~43~132~40 minecraft:stone
+setblock ~43~136~40 minecraft:stone
+fill ~43~178~40 ~47~178~40 minecraft:stained_glass_pane
+fill ~43~179~40 ~48~179~42 minecraft:stone
+fill ~44~118~40 ~46~118~40 minecraft:stone
+fill ~44~120~40 ~46~120~40 minecraft:stone
+fill ~44~123~40 ~46~123~40 minecraft:stone
+fill ~44~125~40 ~46~125~40 minecraft:stone
+fill ~44~128~40 ~46~128~40 minecraft:stone
+fill ~44~130~40 ~46~130~40 minecraft:stone
+fill ~44~133~40 ~46~133~40 minecraft:stone
+fill ~44~135~40 ~46~135~40 minecraft:stone
+fill ~45~121~40 ~45~122~40 minecraft:stone
+fill ~45~126~40 ~45~127~40 minecraft:stone
+fill ~45~131~40 ~45~132~40 minecraft:stone
+fill ~45~136~40 ~45~137~40 minecraft:stone
+setblock ~47~122~40 minecraft:stone
+setblock ~47~126~40 minecraft:stone
+setblock ~47~132~40 minecraft:stone
+setblock ~47~136~40 minecraft:stone
+setblock ~48~121~40 minecraft:stone
+setblock ~48~127~40 minecraft:stone
+setblock ~48~131~40 minecraft:stone
+setblock ~48~137~40 minecraft:stone
+fill ~48~175~40 ~48~175~50 minecraft:stone
+setblock ~48~178~40 minecraft:stone
+fill ~49~60~40 ~49~60~41 minecraft:stone
+fill ~49~120~40 ~50~120~40 minecraft:stone
+fill ~49~123~40 ~50~123~40 minecraft:stone
+fill ~49~125~40 ~50~125~40 minecraft:stone
+fill ~49~128~40 ~50~128~40 minecraft:stone
+fill ~49~130~40 ~50~130~40 minecraft:stone
+fill ~49~133~40 ~50~133~40 minecraft:stone
+fill ~49~135~40 ~50~135~40 minecraft:stone
+setblock ~50~54~40 minecraft:stone
+fill ~50~117~40 ~50~118~40 minecraft:stone
+fill ~50~121~40 ~50~122~40 minecraft:stone
+fill ~50~126~40 ~50~127~40 minecraft:stone
+fill ~50~131~40 ~50~132~40 minecraft:stone
+fill ~50~136~40 ~50~137~40 minecraft:stone
+fill ~51~55~40 ~52~56~40 minecraft:stone
+setblock ~51~57~40 minecraft:stone
+fill ~51~101~40 ~51~101~51 minecraft:stone
+setblock ~51~102~40 minecraft:stone
+fill ~51~106~40 ~51~108~40 minecraft:stone
+fill ~51~112~40 ~51~114~40 minecraft:stone
+fill ~52~58~40 ~54~58~40 minecraft:stone
+setblock ~52~86~40 minecraft:stone
+setblock ~52~91~40 minecraft:stone
+setblock ~52~93~40 minecraft:stone
+fill ~52~95~40 ~52~95~52 minecraft:stone
+setblock ~52~97~40 minecraft:stone
+setblock ~52~99~40 minecraft:stone
+fill ~53~54~40 ~54~54~40 minecraft:stone
+fill ~53~56~40 ~58~56~40 minecraft:stone
+setblock ~53~80~40 minecraft:stone
+fill ~54~38~40 ~69~38~41 minecraft:stone
+fill ~54~39~40 ~54~39~41 minecraft:fence
+setblock ~54~72~40 minecraft:stone
+setblock ~54~74~40 minecraft:stone
+fill ~55~57~40 ~57~57~40 minecraft:stone
+fill ~55~68~40 ~55~69~42 minecraft:stone
+fill ~56~64~40 ~56~64~42 minecraft:stone
+fill ~56~66~40 ~56~66~42 minecraft:stone
+setblock ~57~54~40 minecraft:stone
+fill ~57~60~40 ~57~60~41 minecraft:stone
+setblock ~57~62~40 minecraft:stone
+setblock ~58~55~40 minecraft:stone
+setblock ~59~54~40 minecraft:stone
+setblock ~59~57~40 minecraft:stone
+fill ~67~31~40 ~67~31~42 minecraft:stone
+fill ~67~33~40 ~67~33~42 minecraft:stone
+fill ~67~35~40 ~67~35~42 minecraft:stone
+fill ~67~37~40 ~67~37~42 minecraft:stone
+fill ~69~31~40 ~69~31~42 minecraft:stone
+setblock ~20~29~41 minecraft:stone
+fill ~21~32~41 ~23~32~41 minecraft:stone
+fill ~21~37~41 ~22~37~41 minecraft:stone
+setblock ~22~31~41 minecraft:stone
+fill ~22~33~41 ~22~36~41 minecraft:stone
+setblock ~23~34~41 minecraft:stone
+setblock ~23~36~41 minecraft:stone
+fill ~32~58~41 ~32~60~41 minecraft:stone
+setblock ~34~60~41 minecraft:stone
+setblock ~34~65~41 minecraft:stone
+fill ~34~67~41 ~34~69~41 minecraft:stone
+setblock ~35~59~41 minecraft:stone
+fill ~36~71~41 ~36~71~42 minecraft:stone
+fill ~36~75~41 ~36~75~43 minecraft:stone
+setblock ~36~78~41 minecraft:stone
+setblock ~37~81~41 minecraft:stone
+setblock ~38~85~41 minecraft:stone
+setblock ~38~87~41 minecraft:stone
+setblock ~38~92~41 minecraft:stone
+setblock ~38~98~41 minecraft:stone
+setblock ~39~59~41 minecraft:stone
+setblock ~39~103~41 minecraft:stone
+setblock ~39~105~41 minecraft:stone
+fill ~39~107~41 ~39~107~51 minecraft:stone
+setblock ~39~109~41 minecraft:stone
+setblock ~39~111~41 minecraft:stone
+fill ~39~113~41 ~39~113~51 minecraft:stone
+setblock ~39~115~41 minecraft:stone
+setblock ~39~117~41 minecraft:stone
+setblock ~40~60~41 minecraft:stone
+fill ~40~119~41 ~40~119~50 minecraft:stone
+setblock ~40~120~41 minecraft:stone
+fill ~40~123~41 ~40~125~41 minecraft:stone
+fill ~40~128~41 ~40~130~41 minecraft:stone
+fill ~40~133~41 ~40~135~41 minecraft:stone
+fill ~41~57~41 ~41~59~41 minecraft:stone
+fill ~41~137~41 ~41~161~41 minecraft:stone
+fill ~41~176~41 ~42~176~41 minecraft:stone
+setblock ~41~177~41 minecraft:stone
+setblock ~41~178~41 minecraft:stained_glass
+fill ~41~179~41 ~42~179~49 minecraft:stone
+fill ~41~180~41 ~42~180~41 minecraft:iron_bars
+fill ~41~182~41 ~49~182~41 minecraft:iron_bars
+fill ~42~139~41 ~49~139~41 minecraft:stone
+fill ~42~142~41 ~42~143~41 minecraft:stone
+fill ~42~146~41 ~42~148~41 minecraft:stone
+fill ~42~151~41 ~49~151~41 minecraft:stone
+fill ~42~154~41 ~42~156~41 minecraft:stone
+fill ~42~159~41 ~49~159~41 minecraft:stone
+fill ~42~172~41 ~42~174~42 minecraft:stone
+setblock ~43~141~41 minecraft:stone
+fill ~43~143~41 ~49~143~41 minecraft:stone
+setblock ~43~145~41 minecraft:stone
+fill ~43~147~41 ~49~147~41 minecraft:stone
+setblock ~43~149~41 minecraft:stone
+setblock ~43~153~41 minecraft:stone
+fill ~43~155~41 ~49~155~41 minecraft:stone
+setblock ~43~157~41 minecraft:stone
+setblock ~43~161~41 minecraft:stone
+fill ~43~175~41 ~47~175~44 minecraft:stone
+fill ~43~176~41 ~47~176~41 minecraft:stone_brick_stairs 3
+fill ~44~71~41 ~46~71~41 minecraft:fence
+fill ~44~138~41 ~46~138~41 minecraft:stone
+fill ~44~140~41 ~46~140~41 minecraft:stone
+fill ~44~144~41 ~46~144~41 minecraft:stone
+fill ~44~150~41 ~46~150~41 minecraft:stone
+fill ~44~152~41 ~46~152~41 minecraft:stone
+fill ~44~158~41 ~46~158~41 minecraft:stone
+fill ~44~160~41 ~46~160~41 minecraft:stone
+fill ~45~141~41 ~45~142~41 minecraft:stone
+fill ~45~145~41 ~45~146~41 minecraft:stone
+fill ~45~148~41 ~45~149~41 minecraft:stone
+fill ~45~153~41 ~45~154~41 minecraft:stone
+fill ~45~156~41 ~45~157~41 minecraft:stone
+setblock ~45~161~41 minecraft:stone
+setblock ~47~141~41 minecraft:stone
+setblock ~47~145~41 minecraft:stone
+setblock ~47~149~41 minecraft:stone
+setblock ~47~153~41 minecraft:stone
+setblock ~47~157~41 minecraft:stone
+setblock ~47~161~41 minecraft:stone
+fill ~48~142~41 ~49~142~41 minecraft:stone
+fill ~48~146~41 ~49~146~41 minecraft:stone
+fill ~48~148~41 ~49~148~41 minecraft:stone
+fill ~48~154~41 ~49~154~41 minecraft:stone
+fill ~48~156~41 ~49~156~41 minecraft:stone
+fill ~48~172~41 ~48~174~42 minecraft:stone
+fill ~48~176~41 ~49~176~41 minecraft:stone
+fill ~48~180~41 ~49~180~41 minecraft:iron_bars
+fill ~49~57~41 ~49~59~41 minecraft:stone
+fill ~49~137~41 ~49~138~41 minecraft:stone
+fill ~49~140~41 ~49~141~41 minecraft:stone
+fill ~49~144~41 ~49~145~41 minecraft:stone
+fill ~49~149~41 ~49~150~41 minecraft:stone
+fill ~49~152~41 ~49~153~41 minecraft:stone
+fill ~49~157~41 ~49~158~41 minecraft:stone
+fill ~49~160~41 ~49~161~41 minecraft:stone
+setblock ~49~177~41 minecraft:stone
+setblock ~49~178~41 minecraft:stained_glass
+fill ~49~179~41 ~49~179~49 minecraft:stone
+setblock ~50~60~41 minecraft:stone
+fill ~50~119~41 ~50~119~50 minecraft:stone
+setblock ~50~120~41 minecraft:stone
+fill ~50~123~41 ~50~125~41 minecraft:stone
+fill ~50~128~41 ~50~130~41 minecraft:stone
+fill ~50~133~41 ~50~135~41 minecraft:stone
+setblock ~51~59~41 minecraft:stone
+setblock ~51~103~41 minecraft:stone
+setblock ~51~105~41 minecraft:stone
+fill ~51~107~41 ~51~107~51 minecraft:stone
+setblock ~51~109~41 minecraft:stone
+setblock ~51~111~41 minecraft:stone
+fill ~51~113~41 ~51~113~51 minecraft:stone
+setblock ~51~115~41 minecraft:stone
+setblock ~51~117~41 minecraft:stone
+setblock ~52~85~41 minecraft:stone
+setblock ~52~87~41 minecraft:stone
+setblock ~52~92~41 minecraft:stone
+setblock ~52~98~41 minecraft:stone
+setblock ~53~81~41 minecraft:stone
+fill ~54~71~41 ~54~71~42 minecraft:stone
+fill ~54~75~41 ~54~75~43 minecraft:stone
+setblock ~54~78~41 minecraft:stone
+setblock ~55~59~41 minecraft:stone
+setblock ~56~60~41 minecraft:stone
+setblock ~56~65~41 minecraft:stone
+fill ~56~67~41 ~56~69~41 minecraft:stone
+fill ~58~58~41 ~58~60~41 minecraft:stone
+fill ~67~32~41 ~69~32~41 minecraft:stone
+fill ~67~34~41 ~68~34~41 minecraft:stone
+fill ~67~36~41 ~68~36~41 minecraft:stone
+setblock ~68~31~41 minecraft:stone
+setblock ~68~33~41 minecraft:stone
+setblock ~68~35~41 minecraft:stone
+fill ~68~37~41 ~69~37~41 minecraft:stone
+setblock ~70~29~41 minecraft:stone
+fill ~21~40~42 ~21~43~42 minecraft:fence
+setblock ~21~44~42 minecraft:planks
+fill ~21~46~42 ~21~47~42 minecraft:fence
+fill ~22~38~42 ~35~38~69 minecraft:stone
+setblock ~33~62~42 minecraft:stone
+fill ~34~61~42 ~41~61~42 minecraft:stone
+fill ~34~70~42 ~43~70~42 minecraft:stone
+fill ~35~39~42 ~35~39~43 minecraft:fence
+fill ~35~71~42 ~35~74~42 minecraft:stone
+fill ~36~72~42 ~38~74~42 minecraft:stone
+fill ~36~77~42 ~36~77~44 minecraft:stone
+fill ~37~71~42 ~38~71~42 minecraft:stone
+fill ~37~75~42 ~38~76~42 minecraft:stone
+fill ~37~82~42 ~37~82~44 minecraft:stone
+fill ~37~84~42 ~37~84~44 minecraft:stone
+setblock ~38~88~42 minecraft:stone
+setblock ~38~91~42 minecraft:stone
+setblock ~38~93~42 minecraft:stone
+setblock ~38~97~42 minecraft:stone
+setblock ~38~99~42 minecraft:stone
+setblock ~39~104~42 minecraft:stone
+setblock ~39~110~42 minecraft:stone
+setblock ~39~116~42 minecraft:stone
+setblock ~40~121~42 minecraft:stone
+fill ~40~124~42 ~40~124~50 minecraft:stone
+setblock ~40~127~42 minecraft:stone
+fill ~40~129~42 ~40~129~50 minecraft:stone
+setblock ~40~131~42 minecraft:stone
+fill ~40~134~42 ~40~134~50 minecraft:stone
+setblock ~40~137~42 minecraft:stone
+fill ~40~175~42 ~41~176~42 minecraft:stone
+fill ~40~177~42 ~40~177~48 minecraft:stone
+fill ~40~178~42 ~40~179~42 minecraft:stone
+fill ~40~180~42 ~41~180~42 minecraft:iron_bars
+fill ~41~139~42 ~41~139~49 minecraft:stone
+fill ~41~142~42 ~41~143~42 minecraft:stone
+fill ~41~146~42 ~41~148~42 minecraft:stone
+fill ~41~151~42 ~41~151~49 minecraft:stone
+fill ~41~154~42 ~41~156~42 minecraft:stone
+fill ~41~159~42 ~41~159~49 minecraft:stone
+fill ~41~172~42 ~41~174~42 minecraft:stone
+fill ~41~182~42 ~41~182~49 minecraft:iron_bars
+setblock ~42~60~42 minecraft:stone
+fill ~42~161~42 ~42~171~42 minecraft:stone
+fill ~42~183~42 ~48~183~42 minecraft:stone
+setblock ~42~184~42 minecraft:stone
+setblock ~43~71~42 minecraft:fence
+fill ~43~162~42 ~48~162~42 minecraft:stone
+setblock ~43~163~42 minecraft:stone
+fill ~43~165~42 ~48~165~42 minecraft:stone
+fill ~43~167~42 ~43~169~42 minecraft:stone
+fill ~43~171~42 ~48~171~42 minecraft:stone
+fill ~43~173~42 ~43~174~42 minecraft:stone
+fill ~44~164~42 ~46~164~42 minecraft:stone
+fill ~44~166~42 ~46~166~42 minecraft:stone
+fill ~44~168~42 ~48~168~42 minecraft:stone
+fill ~44~170~42 ~46~170~42 minecraft:stone
+fill ~44~172~42 ~46~172~42 minecraft:stone
+fill ~44~174~42 ~47~174~42 minecraft:stone
+fill ~44~203~42 ~46~203~42 minecraft:iron_bars
+setblock ~45~163~42 minecraft:stone
+setblock ~45~167~42 minecraft:stone
+setblock ~45~169~42 minecraft:stone
+setblock ~45~173~42 minecraft:stone
+fill ~47~70~42 ~56~70~42 minecraft:stone
+setblock ~47~71~42 minecraft:fence
+fill ~47~163~42 ~48~163~42 minecraft:stone
+fill ~47~167~42 ~48~167~42 minecraft:stone
+fill ~47~169~42 ~48~169~42 minecraft:stone
+setblock ~47~173~42 minecraft:stone
+setblock ~48~60~42 minecraft:stone
+setblock ~48~161~42 minecraft:stone
+setblock ~48~164~42 minecraft:stone
+setblock ~48~166~42 minecraft:stone
+setblock ~48~170~42 minecraft:stone
+setblock ~48~184~42 minecraft:stone
+fill ~49~61~42 ~56~61~42 minecraft:stone
+fill ~49~139~42 ~49~139~49 minecraft:stone
+fill ~49~142~42 ~49~143~42 minecraft:stone
+fill ~49~146~42 ~49~148~42 minecraft:stone
+fill ~49~151~42 ~49~151~49 minecraft:stone
+fill ~49~154~42 ~49~156~42 minecraft:stone
+fill ~49~159~42 ~49~159~49 minecraft:stone
+fill ~49~172~42 ~49~176~42 minecraft:stone
+fill ~49~180~42 ~50~180~42 minecraft:iron_bars
+fill ~49~182~42 ~49~182~49 minecraft:iron_bars
+setblock ~50~121~42 minecraft:stone
+fill ~50~124~42 ~50~124~50 minecraft:stone
+setblock ~50~127~42 minecraft:stone
+fill ~50~129~42 ~50~129~50 minecraft:stone
+setblock ~50~131~42 minecraft:stone
+fill ~50~134~42 ~50~134~50 minecraft:stone
+setblock ~50~137~42 minecraft:stone
+fill ~50~175~42 ~50~179~42 minecraft:stone
+setblock ~51~104~42 minecraft:stone
+setblock ~51~110~42 minecraft:stone
+setblock ~51~116~42 minecraft:stone
+fill ~52~71~42 ~53~76~42 minecraft:stone
+setblock ~52~88~42 minecraft:stone
+setblock ~52~91~42 minecraft:stone
+setblock ~52~93~42 minecraft:stone
+setblock ~52~97~42 minecraft:stone
+setblock ~52~99~42 minecraft:stone
+fill ~53~82~42 ~53~82~44 minecraft:stone
+fill ~53~84~42 ~53~84~44 minecraft:stone
+fill ~54~72~42 ~55~74~42 minecraft:stone
+fill ~54~77~42 ~54~77~44 minecraft:stone
+fill ~55~38~42 ~69~38~69 minecraft:stone
+fill ~55~39~42 ~55~39~43 minecraft:fence
+setblock ~55~71~42 minecraft:stone
+setblock ~57~62~42 minecraft:stone
+fill ~69~40~42 ~69~43~42 minecraft:fence
+setblock ~69~44~42 minecraft:planks
+fill ~69~46~42 ~69~47~42 minecraft:fence
+setblock ~20~29~43 minecraft:stone
+fill ~21~44~43 ~21~44~47 minecraft:wooden_slab
+setblock ~23~32~43 minecraft:stone
+setblock ~23~36~43 minecraft:stone
+setblock ~34~65~43 minecraft:stone
+setblock ~34~67~43 minecraft:stone
+fill ~34~70~43 ~42~70~43 minecraft:stone
+fill ~36~78~43 ~36~80~43 minecraft:stone
+fill ~37~76~43 ~38~76~48 minecraft:stone
+setblock ~37~81~43 minecraft:stone
+fill ~37~85~43 ~37~86~43 minecraft:stone
+fill ~38~71~43 ~38~75~48 minecraft:stone
+fill ~38~90~43 ~38~90~44 minecraft:stone
+fill ~38~94~43 ~38~94~44 minecraft:stone
+fill ~38~96~43 ~38~96~44 minecraft:stone
+setblock ~38~100~43 minecraft:stone
+setblock ~39~103~43 minecraft:stone
+setblock ~39~105~43 minecraft:stone
+setblock ~39~109~43 minecraft:stone
+setblock ~39~111~43 minecraft:stone
+setblock ~39~115~43 minecraft:stone
+setblock ~39~117~43 minecraft:stone
+setblock ~40~122~43 minecraft:stone
+setblock ~40~126~43 minecraft:stone
+setblock ~40~132~43 minecraft:stone
+setblock ~40~136~43 minecraft:stone
+fill ~40~176~43 ~40~176~48 minecraft:stone
+fill ~40~178~43 ~40~178~47 minecraft:stained_glass_pane
+fill ~40~179~43 ~40~179~48 minecraft:stone
+fill ~40~180~43 ~40~180~48 minecraft:iron_bars
+setblock ~41~141~43 minecraft:stone
+fill ~41~143~43 ~41~143~49 minecraft:stone
+setblock ~41~145~43 minecraft:stone
+fill ~41~147~43 ~41~147~49 minecraft:stone
+setblock ~41~149~43 minecraft:stone
+setblock ~41~153~43 minecraft:stone
+fill ~41~155~43 ~41~155~49 minecraft:stone
+setblock ~41~157~43 minecraft:stone
+setblock ~41~161~43 minecraft:stone
+fill ~41~175~43 ~41~175~48 minecraft:stone
+fill ~41~176~43 ~41~176~47 minecraft:stone_brick_stairs
+setblock ~42~71~43 minecraft:fence
+fill ~42~162~43 ~42~162~48 minecraft:stone
+setblock ~42~163~43 minecraft:stone
+fill ~42~165~43 ~42~165~48 minecraft:stone
+fill ~42~167~43 ~42~169~43 minecraft:stone
+fill ~42~171~43 ~42~171~48 minecraft:stone
+fill ~42~173~43 ~42~174~43 minecraft:stone
+fill ~42~183~43 ~42~183~48 minecraft:stone
+fill ~43~180~43 ~47~182~43 minecraft:stone
+fill ~43~183~43 ~47~183~43 minecraft:glowstone
+fill ~43~184~43 ~47~184~43 minecraft:stone
+setblock ~43~185~43 minecraft:stone
+setblock ~47~185~43 minecraft:stone
+fill ~48~70~43 ~56~70~43 minecraft:stone
+setblock ~48~71~43 minecraft:fence
+fill ~48~162~43 ~48~162~48 minecraft:stone
+setblock ~48~163~43 minecraft:stone
+fill ~48~165~43 ~48~165~48 minecraft:stone
+fill ~48~167~43 ~48~169~43 minecraft:stone
+fill ~48~171~43 ~48~171~48 minecraft:stone
+fill ~48~173~43 ~48~174~43 minecraft:stone
+fill ~48~179~43 ~48~179~50 minecraft:stone
+fill ~48~183~43 ~48~183~48 minecraft:stone
+setblock ~49~141~43 minecraft:stone
+fill ~49~143~43 ~49~143~49 minecraft:stone
+setblock ~49~145~43 minecraft:stone
+fill ~49~147~43 ~49~147~49 minecraft:stone
+setblock ~49~149~43 minecraft:stone
+setblock ~49~153~43 minecraft:stone
+fill ~49~155~43 ~49~155~49 minecraft:stone
+setblock ~49~157~43 minecraft:stone
+setblock ~49~161~43 minecraft:stone
+fill ~49~175~43 ~49~175~48 minecraft:stone
+fill ~49~176~43 ~49~176~47 minecraft:stone_brick_stairs 1
+setblock ~50~122~43 minecraft:stone
+setblock ~50~126~43 minecraft:stone
+setblock ~50~132~43 minecraft:stone
+setblock ~50~136~43 minecraft:stone
+fill ~50~176~43 ~50~177~48 minecraft:stone
+fill ~50~178~43 ~50~178~47 minecraft:stained_glass_pane
+fill ~50~179~43 ~50~179~48 minecraft:stone
+fill ~50~180~43 ~50~180~48 minecraft:iron_bars
+setblock ~51~103~43 minecraft:stone
+setblock ~51~105~43 minecraft:stone
+setblock ~51~109~43 minecraft:stone
+setblock ~51~111~43 minecraft:stone
+setblock ~51~115~43 minecraft:stone
+setblock ~51~117~43 minecraft:stone
+fill ~52~71~43 ~52~76~48 minecraft:stone
+fill ~52~90~43 ~52~90~44 minecraft:stone
+fill ~52~94~43 ~52~94~44 minecraft:stone
+fill ~52~96~43 ~52~96~44 minecraft:stone
+setblock ~52~100~43 minecraft:stone
+fill ~53~76~43 ~53~76~48 minecraft:stone
+setblock ~53~81~43 minecraft:stone
+fill ~53~85~43 ~53~86~43 minecraft:stone
+fill ~54~78~43 ~54~80~43 minecraft:stone
+setblock ~56~65~43 minecraft:stone
+setblock ~56~67~43 minecraft:stone
+setblock ~67~32~43 minecraft:stone
+setblock ~67~36~43 minecraft:stone
+fill ~69~44~43 ~69~44~47 minecraft:wooden_slab
+setblock ~70~29~43 minecraft:stone
+fill ~21~31~44 ~21~31~46 minecraft:stone
+fill ~21~46~44 ~21~46~46 minecraft:fence
+fill ~23~31~44 ~23~31~46 minecraft:stone
+fill ~23~33~44 ~23~33~46 minecraft:stone
+fill ~23~35~44 ~23~35~46 minecraft:stone
+fill ~23~37~44 ~23~37~46 minecraft:stone
+setblock ~33~62~44 minecraft:stone
+fill ~34~64~44 ~34~64~46 minecraft:stone
+fill ~34~66~44 ~34~66~46 minecraft:stone
+fill ~34~70~44 ~41~70~57 minecraft:stone
+fill ~36~38~44 ~36~38~46 minecraft:stone
+fill ~36~39~44 ~36~39~46 minecraft:fence
+fill ~36~71~44 ~36~72~44 minecraft:stone
+setblock ~36~74~44 minecraft:stone
+setblock ~36~79~44 minecraft:stone
+setblock ~37~80~44 minecraft:stone
+fill ~37~86~44 ~37~88~44 minecraft:stone
+fill ~38~91~44 ~38~91~46 minecraft:stone
+fill ~38~92~44 ~38~93~44 minecraft:stone
+fill ~39~97~44 ~39~97~46 minecraft:stone
+fill ~39~102~44 ~39~102~46 minecraft:stone
+fill ~39~106~44 ~39~106~46 minecraft:stone
+fill ~39~108~44 ~39~108~46 minecraft:stone
+fill ~39~112~44 ~39~112~46 minecraft:stone
+fill ~39~114~44 ~39~114~46 minecraft:stone
+fill ~40~118~44 ~40~118~46 minecraft:stone
+fill ~40~120~44 ~40~120~46 minecraft:stone
+fill ~40~123~44 ~40~123~46 minecraft:stone
+fill ~40~125~44 ~40~125~46 minecraft:stone
+fill ~40~128~44 ~40~128~46 minecraft:stone
+fill ~40~130~44 ~40~130~46 minecraft:stone
+fill ~40~133~44 ~40~133~46 minecraft:stone
+fill ~40~135~44 ~40~135~46 minecraft:stone
+fill ~41~71~44 ~41~71~46 minecraft:fence
+fill ~41~138~44 ~41~138~46 minecraft:stone
+fill ~41~140~44 ~41~140~46 minecraft:stone
+fill ~41~144~44 ~41~144~46 minecraft:stone
+fill ~41~150~44 ~41~150~46 minecraft:stone
+fill ~41~152~44 ~41~152~46 minecraft:stone
+fill ~41~158~44 ~41~158~46 minecraft:stone
+fill ~41~160~44 ~41~160~46 minecraft:stone
+fill ~42~164~44 ~42~164~46 minecraft:stone
+fill ~42~166~44 ~42~166~46 minecraft:stone
+fill ~42~168~44 ~42~168~48 minecraft:stone
+fill ~42~170~44 ~42~170~46 minecraft:stone
+fill ~42~172~44 ~42~172~46 minecraft:stone
+fill ~42~174~44 ~42~174~49 minecraft:stone
+fill ~42~203~44 ~42~203~46 minecraft:iron_bars
+fill ~43~180~44 ~43~182~47 minecraft:stone
+fill ~43~183~44 ~43~183~47 minecraft:glowstone
+fill ~43~184~44 ~43~184~47 minecraft:stone
+fill ~44~185~44 ~46~185~44 minecraft:stone
+setblock ~44~186~44 minecraft:stone
+fill ~44~187~44 ~46~201~44 minecraft:iron_bars
+setblock ~45~202~44 minecraft:iron_bars
+setblock ~45~203~44 minecraft:piston 3
+fill ~45~204~44 ~45~204~46 minecraft:iron_bars
+setblock ~46~186~44 minecraft:stone
+fill ~47~180~44 ~47~182~47 minecraft:stone
+fill ~47~183~44 ~47~183~47 minecraft:glowstone
+fill ~47~184~44 ~47~184~47 minecraft:stone
+fill ~48~164~44 ~48~164~46 minecraft:stone
+fill ~48~166~44 ~48~166~46 minecraft:stone
+fill ~48~168~44 ~48~168~48 minecraft:stone
+fill ~48~170~44 ~48~170~46 minecraft:stone
+fill ~48~172~44 ~48~172~46 minecraft:stone
+fill ~48~174~44 ~48~174~49 minecraft:stone
+fill ~48~203~44 ~48~203~46 minecraft:iron_bars
+fill ~49~70~44 ~56~70~57 minecraft:stone
+fill ~49~71~44 ~49~71~46 minecraft:fence
+fill ~49~138~44 ~49~138~46 minecraft:stone
+fill ~49~140~44 ~49~140~46 minecraft:stone
+fill ~49~144~44 ~49~144~46 minecraft:stone
+fill ~49~150~44 ~49~150~46 minecraft:stone
+fill ~49~152~44 ~49~152~46 minecraft:stone
+fill ~49~158~44 ~49~158~46 minecraft:stone
+fill ~49~160~44 ~49~160~46 minecraft:stone
+fill ~50~118~44 ~50~118~46 minecraft:stone
+fill ~50~120~44 ~50~120~46 minecraft:stone
+fill ~50~123~44 ~50~123~46 minecraft:stone
+fill ~50~125~44 ~50~125~46 minecraft:stone
+fill ~50~128~44 ~50~128~46 minecraft:stone
+fill ~50~130~44 ~50~130~46 minecraft:stone
+fill ~50~133~44 ~50~133~46 minecraft:stone
+fill ~50~135~44 ~50~135~46 minecraft:stone
+fill ~51~97~44 ~51~97~46 minecraft:stone
+fill ~51~102~44 ~51~102~46 minecraft:stone
+fill ~51~106~44 ~51~106~46 minecraft:stone
+fill ~51~108~44 ~51~108~46 minecraft:stone
+fill ~51~112~44 ~51~112~46 minecraft:stone
+fill ~51~114~44 ~51~114~46 minecraft:stone
+fill ~52~91~44 ~52~91~46 minecraft:stone
+fill ~52~92~44 ~52~93~44 minecraft:stone
+setblock ~53~80~44 minecraft:stone
+fill ~53~86~44 ~53~88~44 minecraft:stone
+fill ~54~38~44 ~54~38~46 minecraft:stone
+fill ~54~39~44 ~54~39~46 minecraft:fence
+fill ~54~71~44 ~54~72~44 minecraft:stone
+setblock ~54~74~44 minecraft:stone
+setblock ~54~79~44 minecraft:stone
+fill ~56~64~44 ~56~64~46 minecraft:stone
+fill ~56~66~44 ~56~66~46 minecraft:stone
+setblock ~57~62~44 minecraft:stone
+fill ~67~31~44 ~67~31~46 minecraft:stone
+fill ~67~33~44 ~67~33~46 minecraft:stone
+fill ~67~35~44 ~67~35~46 minecraft:stone
+fill ~67~37~44 ~67~37~46 minecraft:stone
+fill ~69~31~44 ~69~31~46 minecraft:stone
+fill ~69~46~44 ~69~46~46 minecraft:fence
+setblock ~20~29~45 minecraft:stone
+fill ~21~32~45 ~23~32~45 minecraft:stone
+fill ~21~37~45 ~22~37~45 minecraft:stone
+setblock ~22~31~45 minecraft:stone
+fill ~22~33~45 ~22~36~45 minecraft:stone
+setblock ~23~34~45 minecraft:stone
+setblock ~23~36~45 minecraft:stone
+setblock ~34~65~45 minecraft:stone
+fill ~34~67~45 ~34~68~45 minecraft:stone
+setblock ~36~73~45 minecraft:stone
+setblock ~36~78~45 minecraft:stone
+setblock ~37~81~45 minecraft:stone
+setblock ~37~85~45 minecraft:stone
+fill ~37~87~45 ~37~87~46 minecraft:stone
+fill ~38~93~45 ~38~93~46 minecraft:stone
+fill ~39~98~45 ~39~100~45 minecraft:stone
+fill ~39~103~45 ~39~105~45 minecraft:stone
+fill ~39~109~45 ~39~111~45 minecraft:stone
+fill ~39~115~45 ~39~117~45 minecraft:stone
+fill ~40~121~45 ~40~122~45 minecraft:stone
+fill ~40~126~45 ~40~127~45 minecraft:stone
+fill ~40~131~45 ~40~132~45 minecraft:stone
+fill ~40~136~45 ~40~137~45 minecraft:stone
+fill ~41~141~45 ~41~142~45 minecraft:stone
+fill ~41~145~45 ~41~146~45 minecraft:stone
+fill ~41~148~45 ~41~149~45 minecraft:stone
+fill ~41~153~45 ~41~154~45 minecraft:stone
+fill ~41~156~45 ~41~157~45 minecraft:stone
+setblock ~41~161~45 minecraft:stone
+setblock ~42~163~45 minecraft:stone
+setblock ~42~167~45 minecraft:stone
+setblock ~42~169~45 minecraft:stone
+setblock ~42~173~45 minecraft:stone
+fill ~43~175~45 ~44~175~49 minecraft:stone
+fill ~44~185~45 ~44~185~46 minecraft:stone
+fill ~44~187~45 ~44~201~46 minecraft:iron_bars
+setblock ~44~202~45 minecraft:iron_bars
+setblock ~44~203~45 minecraft:piston 4
+setblock ~44~204~45 minecraft:iron_bars
+setblock ~45~202~45 minecraft:stained_hardened_clay 9
+setblock ~45~205~45 minecraft:iron_bars
+fill ~46~175~45 ~47~175~49 minecraft:stone
+fill ~46~185~45 ~46~185~46 minecraft:stone
+fill ~46~187~45 ~46~202~46 minecraft:iron_bars
+setblock ~46~203~45 minecraft:piston 5
+setblock ~46~204~45 minecraft:iron_bars
+setblock ~48~163~45 minecraft:stone
+setblock ~48~167~45 minecraft:stone
+setblock ~48~169~45 minecraft:stone
+setblock ~48~173~45 minecraft:stone
+fill ~49~141~45 ~49~142~45 minecraft:stone
+fill ~49~145~45 ~49~146~45 minecraft:stone
+fill ~49~148~45 ~49~149~45 minecraft:stone
+fill ~49~153~45 ~49~154~45 minecraft:stone
+fill ~49~156~45 ~49~157~45 minecraft:stone
+setblock ~49~161~45 minecraft:stone
+fill ~50~121~45 ~50~122~45 minecraft:stone
+fill ~50~126~45 ~50~127~45 minecraft:stone
+fill ~50~131~45 ~50~132~45 minecraft:stone
+fill ~50~136~45 ~50~137~45 minecraft:stone
+fill ~51~98~45 ~51~100~45 minecraft:stone
+fill ~51~103~45 ~51~105~45 minecraft:stone
+fill ~51~109~45 ~51~111~45 minecraft:stone
+fill ~51~115~45 ~51~117~45 minecraft:stone
+fill ~52~93~45 ~52~93~46 minecraft:stone
+setblock ~53~81~45 minecraft:stone
+setblock ~53~85~45 minecraft:stone
+fill ~53~87~45 ~53~87~46 minecraft:stone
+setblock ~54~73~45 minecraft:stone
+setblock ~54~78~45 minecraft:stone
+setblock ~56~65~45 minecraft:stone
+fill ~56~67~45 ~56~68~45 minecraft:stone
+fill ~67~32~45 ~69~32~45 minecraft:stone
+fill ~67~34~45 ~68~34~45 minecraft:stone
+fill ~67~36~45 ~68~36~45 minecraft:stone
+setblock ~68~31~45 minecraft:stone
+setblock ~68~33~45 minecraft:stone
+setblock ~68~35~45 minecraft:stone
+fill ~68~37~45 ~69~37~45 minecraft:stone
+setblock ~70~29~45 minecraft:stone
+setblock ~33~62~46 minecraft:stone
+fill ~36~71~46 ~36~72~46 minecraft:stone
+setblock ~36~74~46 minecraft:stone
+fill ~36~77~46 ~36~77~48 minecraft:stone
+fill ~36~79~46 ~36~79~47 minecraft:stone
+setblock ~37~80~46 minecraft:stone
+fill ~37~82~46 ~37~82~48 minecraft:stone
+fill ~37~84~46 ~37~84~48 minecraft:stone
+fill ~37~86~46 ~37~86~47 minecraft:stone
+setblock ~37~88~46 minecraft:stone
+fill ~38~90~46 ~38~90~47 minecraft:stone
+setblock ~38~92~46 minecraft:stone
+fill ~38~94~46 ~38~94~47 minecraft:stone
+fill ~38~96~46 ~38~96~47 minecraft:stone
+setblock ~44~186~46 minecraft:stone
+fill ~45~175~46 ~45~175~49 minecraft:stone
+setblock ~45~185~46 minecraft:stone
+fill ~45~187~46 ~45~202~46 minecraft:iron_bars
+setblock ~45~203~46 minecraft:piston 2
+setblock ~46~186~46 minecraft:stone
+fill ~52~90~46 ~52~90~47 minecraft:stone
+setblock ~52~92~46 minecraft:stone
+fill ~52~94~46 ~52~94~47 minecraft:stone
+fill ~52~96~46 ~52~96~47 minecraft:stone
+setblock ~53~80~46 minecraft:stone
+fill ~53~82~46 ~53~82~48 minecraft:stone
+fill ~53~84~46 ~53~84~48 minecraft:stone
+fill ~53~86~46 ~53~86~47 minecraft:stone
+setblock ~53~88~46 minecraft:stone
+fill ~54~71~46 ~54~72~46 minecraft:stone
+setblock ~54~74~46 minecraft:stone
+fill ~54~77~46 ~54~77~48 minecraft:stone
+fill ~54~79~46 ~54~79~47 minecraft:stone
+setblock ~57~62~46 minecraft:stone
+setblock ~20~29~47 minecraft:stone
+setblock ~23~32~47 minecraft:stone
+setblock ~23~36~47 minecraft:stone
+setblock ~34~65~47 minecraft:stone
+setblock ~34~67~47 minecraft:stone
+fill ~35~39~47 ~35~39~48 minecraft:fence
+fill ~36~75~47 ~36~75~49 minecraft:stone
+setblock ~36~78~47 minecraft:stone
+setblock ~36~80~47 minecraft:stone
+setblock ~37~81~47 minecraft:stone
+setblock ~37~85~47 minecraft:stone
+setblock ~38~100~47 minecraft:stone
+setblock ~39~103~47 minecraft:stone
+setblock ~39~105~47 minecraft:stone
+setblock ~39~109~47 minecraft:stone
+setblock ~39~111~47 minecraft:stone
+setblock ~39~115~47 minecraft:stone
+setblock ~39~117~47 minecraft:stone
+setblock ~40~122~47 minecraft:stone
+setblock ~40~126~47 minecraft:stone
+setblock ~40~132~47 minecraft:stone
+setblock ~40~136~47 minecraft:stone
+setblock ~41~141~47 minecraft:stone
+setblock ~41~145~47 minecraft:stone
+setblock ~41~149~47 minecraft:stone
+setblock ~41~153~47 minecraft:stone
+setblock ~41~157~47 minecraft:stone
+setblock ~41~161~47 minecraft:stone
+fill ~42~70~47 ~42~70~57 minecraft:stone
+setblock ~42~71~47 minecraft:fence
+fill ~42~163~47 ~42~163~48 minecraft:stone
+fill ~42~167~47 ~42~167~48 minecraft:stone
+fill ~42~169~47 ~42~169~48 minecraft:stone
+fill ~42~173~47 ~42~173~49 minecraft:stone
+setblock ~43~185~47 minecraft:stone
+fill ~44~180~47 ~46~182~47 minecraft:stone
+fill ~44~183~47 ~46~183~47 minecraft:glowstone
+fill ~44~184~47 ~46~184~47 minecraft:stone
+setblock ~47~185~47 minecraft:stone
+fill ~48~70~47 ~48~70~57 minecraft:stone
+setblock ~48~71~47 minecraft:fence
+fill ~48~163~47 ~48~163~48 minecraft:stone
+fill ~48~167~47 ~48~167~48 minecraft:stone
+fill ~48~169~47 ~48~169~48 minecraft:stone
+fill ~48~173~47 ~48~173~49 minecraft:stone
+setblock ~49~141~47 minecraft:stone
+setblock ~49~145~47 minecraft:stone
+setblock ~49~149~47 minecraft:stone
+setblock ~49~153~47 minecraft:stone
+setblock ~49~157~47 minecraft:stone
+setblock ~49~161~47 minecraft:stone
+setblock ~50~122~47 minecraft:stone
+setblock ~50~126~47 minecraft:stone
+setblock ~50~132~47 minecraft:stone
+setblock ~50~136~47 minecraft:stone
+setblock ~51~103~47 minecraft:stone
+setblock ~51~105~47 minecraft:stone
+setblock ~51~109~47 minecraft:stone
+setblock ~51~111~47 minecraft:stone
+setblock ~51~115~47 minecraft:stone
+setblock ~51~117~47 minecraft:stone
+setblock ~52~100~47 minecraft:stone
+setblock ~53~81~47 minecraft:stone
+setblock ~53~85~47 minecraft:stone
+fill ~54~75~47 ~54~75~49 minecraft:stone
+setblock ~54~78~47 minecraft:stone
+setblock ~54~80~47 minecraft:stone
+fill ~55~39~47 ~55~39~48 minecraft:fence
+setblock ~56~65~47 minecraft:stone
+setblock ~56~67~47 minecraft:stone
+setblock ~67~32~47 minecraft:stone
+setblock ~67~36~47 minecraft:stone
+setblock ~70~29~47 minecraft:stone
+fill ~21~31~48 ~21~31~50 minecraft:stone
+fill ~21~40~48 ~21~43~48 minecraft:fence
+setblock ~21~44~48 minecraft:planks
+fill ~21~46~48 ~21~47~48 minecraft:fence
+fill ~23~31~48 ~23~31~50 minecraft:stone
+fill ~23~33~48 ~23~33~50 minecraft:stone
+fill ~23~35~48 ~23~35~50 minecraft:stone
+fill ~23~37~48 ~23~37~50 minecraft:stone
+setblock ~33~62~48 minecraft:stone
+fill ~34~61~48 ~42~61~48 minecraft:stone
+fill ~34~64~48 ~34~64~50 minecraft:stone
+fill ~34~66~48 ~34~66~50 minecraft:stone
+fill ~35~68~48 ~35~69~50 minecraft:stone
+fill ~35~71~48 ~37~74~48 minecraft:stone
+setblock ~37~75~48 minecraft:stone
+setblock ~38~88~48 minecraft:stone
+setblock ~38~91~48 minecraft:stone
+setblock ~38~93~48 minecraft:stone
+setblock ~38~97~48 minecraft:stone
+setblock ~38~99~48 minecraft:stone
+setblock ~39~104~48 minecraft:stone
+setblock ~39~110~48 minecraft:stone
+setblock ~39~116~48 minecraft:stone
+setblock ~40~121~48 minecraft:stone
+setblock ~40~127~48 minecraft:stone
+setblock ~40~131~48 minecraft:stone
+setblock ~40~137~48 minecraft:stone
+setblock ~40~175~48 minecraft:stone
+setblock ~40~178~48 minecraft:stone
+fill ~41~142~48 ~41~142~49 minecraft:stone
+fill ~41~146~48 ~41~146~49 minecraft:stone
+fill ~41~148~48 ~41~148~49 minecraft:stone
+fill ~41~154~48 ~41~154~49 minecraft:stone
+fill ~41~156~48 ~41~156~49 minecraft:stone
+fill ~41~172~48 ~42~172~48 minecraft:stone
+fill ~41~173~48 ~41~174~48 minecraft:stone
+fill ~41~176~48 ~41~176~49 minecraft:stone
+fill ~41~180~48 ~41~180~49 minecraft:iron_bars
+setblock ~42~60~48 minecraft:stone
+setblock ~42~161~48 minecraft:stone
+setblock ~42~164~48 minecraft:stone
+setblock ~42~166~48 minecraft:stone
+setblock ~42~170~48 minecraft:stone
+setblock ~42~184~48 minecraft:stone
+fill ~43~70~48 ~43~70~57 minecraft:stone
+setblock ~43~71~48 minecraft:fence
+fill ~43~162~48 ~47~162~48 minecraft:stone
+setblock ~43~163~48 minecraft:stone
+fill ~43~165~48 ~47~165~48 minecraft:stone
+fill ~43~167~48 ~43~169~48 minecraft:stone
+fill ~43~171~48 ~47~171~48 minecraft:stone
+fill ~43~173~48 ~43~174~48 minecraft:stone
+fill ~43~179~48 ~47~179~50 minecraft:stone
+fill ~43~183~48 ~47~183~48 minecraft:stone
+fill ~44~164~48 ~46~164~48 minecraft:stone
+fill ~44~166~48 ~46~166~48 minecraft:stone
+fill ~44~168~48 ~47~168~48 minecraft:stone
+fill ~44~170~48 ~46~170~48 minecraft:stone
+fill ~44~172~48 ~46~172~48 minecraft:stone
+fill ~44~174~48 ~47~174~48 minecraft:stone
+fill ~44~203~48 ~46~203~48 minecraft:iron_bars
+setblock ~45~163~48 minecraft:stone
+setblock ~45~167~48 minecraft:stone
+setblock ~45~169~48 minecraft:stone
+setblock ~45~173~48 minecraft:stone
+fill ~47~70~48 ~47~70~57 minecraft:stone
+setblock ~47~71~48 minecraft:fence
+setblock ~47~163~48 minecraft:stone
+setblock ~47~167~48 minecraft:stone
+setblock ~47~169~48 minecraft:stone
+setblock ~47~173~48 minecraft:stone
+fill ~48~60~48 ~48~61~48 minecraft:stone
+setblock ~48~161~48 minecraft:stone
+setblock ~48~164~48 minecraft:stone
+setblock ~48~166~48 minecraft:stone
+setblock ~48~170~48 minecraft:stone
+fill ~48~172~48 ~49~172~48 minecraft:stone
+setblock ~48~184~48 minecraft:stone
+fill ~49~61~48 ~56~61~48 minecraft:stone
+fill ~49~142~48 ~49~142~49 minecraft:stone
+fill ~49~146~48 ~49~146~49 minecraft:stone
+fill ~49~148~48 ~49~148~49 minecraft:stone
+fill ~49~154~48 ~49~154~49 minecraft:stone
+fill ~49~156~48 ~49~156~49 minecraft:stone
+fill ~49~173~48 ~49~174~48 minecraft:stone
+fill ~49~176~48 ~49~176~49 minecraft:stone
+fill ~49~180~48 ~49~180~49 minecraft:iron_bars
+setblock ~50~121~48 minecraft:stone
+setblock ~50~127~48 minecraft:stone
+setblock ~50~131~48 minecraft:stone
+setblock ~50~137~48 minecraft:stone
+setblock ~50~175~48 minecraft:stone
+setblock ~50~178~48 minecraft:stone
+setblock ~51~104~48 minecraft:stone
+setblock ~51~110~48 minecraft:stone
+setblock ~51~116~48 minecraft:stone
+setblock ~52~88~48 minecraft:stone
+setblock ~52~91~48 minecraft:stone
+setblock ~52~93~48 minecraft:stone
+setblock ~52~97~48 minecraft:stone
+setblock ~52~99~48 minecraft:stone
+fill ~53~71~48 ~55~74~48 minecraft:stone
+setblock ~53~75~48 minecraft:stone
+fill ~55~68~48 ~55~69~50 minecraft:stone
+fill ~56~64~48 ~56~64~50 minecraft:stone
+fill ~56~66~48 ~56~66~50 minecraft:stone
+setblock ~57~62~48 minecraft:stone
+fill ~67~31~48 ~67~31~50 minecraft:stone
+fill ~67~33~48 ~67~33~50 minecraft:stone
+fill ~67~35~48 ~67~35~50 minecraft:stone
+fill ~67~37~48 ~67~37~50 minecraft:stone
+fill ~69~31~48 ~69~31~50 minecraft:stone
+fill ~69~40~48 ~69~43~48 minecraft:fence
+setblock ~69~44~48 minecraft:planks
+fill ~69~46~48 ~69~47~48 minecraft:fence
+setblock ~20~29~49 minecraft:stone
+fill ~21~32~49 ~23~32~49 minecraft:stone
+fill ~21~37~49 ~22~37~49 minecraft:stone
+fill ~21~44~49 ~21~44~52 minecraft:wooden_slab
+setblock ~22~31~49 minecraft:stone
+fill ~22~33~49 ~22~36~49 minecraft:stone
+setblock ~23~34~49 minecraft:stone
+setblock ~23~36~49 minecraft:stone
+fill ~32~57~49 ~32~57~52 minecraft:stone
+fill ~32~58~49 ~32~60~49 minecraft:stone
+fill ~33~60~49 ~34~60~49 minecraft:stone
+setblock ~34~65~49 minecraft:stone
+fill ~34~67~49 ~34~69~49 minecraft:stone
+setblock ~35~59~49 minecraft:stone
+fill ~36~38~49 ~36~38~69 minecraft:stone
+fill ~36~39~49 ~36~39~50 minecraft:fence
+setblock ~36~71~49 minecraft:stone
+setblock ~36~78~49 minecraft:stone
+setblock ~37~81~49 minecraft:stone
+setblock ~38~85~49 minecraft:stone
+setblock ~38~87~49 minecraft:stone
+setblock ~38~92~49 minecraft:stone
+setblock ~38~98~49 minecraft:stone
+setblock ~39~59~49 minecraft:stone
+setblock ~39~103~49 minecraft:stone
+setblock ~39~105~49 minecraft:stone
+setblock ~39~109~49 minecraft:stone
+setblock ~39~111~49 minecraft:stone
+setblock ~39~115~49 minecraft:stone
+setblock ~39~117~49 minecraft:stone
+fill ~40~60~49 ~41~60~49 minecraft:stone
+fill ~40~120~49 ~40~120~50 minecraft:stone
+fill ~40~123~49 ~40~123~50 minecraft:stone
+fill ~40~125~49 ~40~125~50 minecraft:stone
+fill ~40~128~49 ~40~128~50 minecraft:stone
+fill ~40~130~49 ~40~130~50 minecraft:stone
+fill ~40~133~49 ~40~133~50 minecraft:stone
+fill ~40~135~49 ~40~135~50 minecraft:stone
+fill ~41~57~49 ~41~59~49 minecraft:stone
+fill ~41~137~49 ~41~138~49 minecraft:stone
+fill ~41~140~49 ~41~141~49 minecraft:stone
+fill ~41~144~49 ~41~145~49 minecraft:stone
+fill ~41~149~49 ~41~150~49 minecraft:stone
+fill ~41~152~49 ~41~153~49 minecraft:stone
+fill ~41~157~49 ~41~158~49 minecraft:stone
+fill ~41~160~49 ~41~161~49 minecraft:stone
+setblock ~41~177~49 minecraft:stone
+setblock ~41~178~49 minecraft:stained_glass
+fill ~42~61~49 ~42~61~57 minecraft:stone
+fill ~42~139~49 ~48~139~49 minecraft:stone
+fill ~42~142~49 ~42~143~49 minecraft:stone
+fill ~42~146~49 ~42~148~49 minecraft:stone
+fill ~42~151~49 ~48~151~49 minecraft:stone
+fill ~42~154~49 ~42~156~49 minecraft:stone
+fill ~42~159~49 ~48~159~49 minecraft:stone
+setblock ~42~172~49 minecraft:stone
+fill ~42~176~49 ~42~176~50 minecraft:stone
+fill ~42~180~49 ~42~180~50 minecraft:iron_bars
+fill ~42~182~49 ~48~182~49 minecraft:iron_bars
+setblock ~43~141~49 minecraft:stone
+fill ~43~143~49 ~48~143~49 minecraft:stone
+setblock ~43~145~49 minecraft:stone
+fill ~43~147~49 ~48~147~49 minecraft:stone
+setblock ~43~149~49 minecraft:stone
+setblock ~43~153~49 minecraft:stone
+fill ~43~155~49 ~48~155~49 minecraft:stone
+setblock ~43~157~49 minecraft:stone
+setblock ~43~161~49 minecraft:stone
+fill ~43~176~49 ~47~176~49 minecraft:stone_brick_stairs 2
+fill ~44~70~49 ~46~70~57 minecraft:stone
+fill ~44~71~49 ~46~71~49 minecraft:fence
+fill ~44~138~49 ~46~138~49 minecraft:stone
+fill ~44~140~49 ~46~140~49 minecraft:stone
+fill ~44~144~49 ~46~144~49 minecraft:stone
+fill ~44~150~49 ~46~150~49 minecraft:stone
+fill ~44~152~49 ~46~152~49 minecraft:stone
+fill ~44~158~49 ~46~158~49 minecraft:stone
+fill ~44~160~49 ~46~160~49 minecraft:stone
+fill ~45~141~49 ~45~142~49 minecraft:stone
+fill ~45~145~49 ~45~146~49 minecraft:stone
+fill ~45~148~49 ~45~149~49 minecraft:stone
+fill ~45~153~49 ~45~154~49 minecraft:stone
+fill ~45~156~49 ~45~157~49 minecraft:stone
+setblock ~45~161~49 minecraft:stone
+setblock ~47~141~49 minecraft:stone
+setblock ~47~145~49 minecraft:stone
+setblock ~47~149~49 minecraft:stone
+setblock ~47~153~49 minecraft:stone
+setblock ~47~157~49 minecraft:stone
+setblock ~47~161~49 minecraft:stone
+fill ~48~61~49 ~48~61~57 minecraft:stone
+setblock ~48~142~49 minecraft:stone
+setblock ~48~146~49 minecraft:stone
+setblock ~48~148~49 minecraft:stone
+setblock ~48~154~49 minecraft:stone
+setblock ~48~156~49 minecraft:stone
+setblock ~48~172~49 minecraft:stone
+fill ~48~176~49 ~48~176~50 minecraft:stone
+fill ~48~180~49 ~48~180~50 minecraft:iron_bars
+fill ~49~57~49 ~49~60~49 minecraft:stone
+fill ~49~137~49 ~49~138~49 minecraft:stone
+fill ~49~140~49 ~49~141~49 minecraft:stone
+fill ~49~144~49 ~49~145~49 minecraft:stone
+fill ~49~149~49 ~49~150~49 minecraft:stone
+fill ~49~152~49 ~49~153~49 minecraft:stone
+fill ~49~157~49 ~49~158~49 minecraft:stone
+fill ~49~160~49 ~49~161~49 minecraft:stone
+setblock ~49~177~49 minecraft:stone
+setblock ~49~178~49 minecraft:stained_glass
+setblock ~50~60~49 minecraft:stone
+fill ~50~120~49 ~50~120~50 minecraft:stone
+fill ~50~123~49 ~50~123~50 minecraft:stone
+fill ~50~125~49 ~50~125~50 minecraft:stone
+fill ~50~128~49 ~50~128~50 minecraft:stone
+fill ~50~130~49 ~50~130~50 minecraft:stone
+fill ~50~133~49 ~50~133~50 minecraft:stone
+fill ~50~135~49 ~50~135~50 minecraft:stone
+setblock ~51~59~49 minecraft:stone
+setblock ~51~103~49 minecraft:stone
+setblock ~51~105~49 minecraft:stone
+setblock ~51~109~49 minecraft:stone
+setblock ~51~111~49 minecraft:stone
+setblock ~51~115~49 minecraft:stone
+setblock ~51~117~49 minecraft:stone
+setblock ~52~85~49 minecraft:stone
+setblock ~52~87~49 minecraft:stone
+setblock ~52~92~49 minecraft:stone
+setblock ~52~98~49 minecraft:stone
+setblock ~53~81~49 minecraft:stone
+fill ~54~38~49 ~54~38~69 minecraft:stone
+fill ~54~39~49 ~54~39~50 minecraft:fence
+setblock ~54~71~49 minecraft:stone
+setblock ~54~78~49 minecraft:stone
+setblock ~55~59~49 minecraft:stone
+fill ~56~60~49 ~58~60~49 minecraft:stone
+setblock ~56~65~49 minecraft:stone
+fill ~56~67~49 ~56~69~49 minecraft:stone
+fill ~58~57~49 ~58~57~52 minecraft:stone
+fill ~58~58~49 ~58~59~49 minecraft:stone
+fill ~67~32~49 ~69~32~49 minecraft:stone
+fill ~67~34~49 ~68~34~49 minecraft:stone
+fill ~67~36~49 ~68~36~49 minecraft:stone
+setblock ~68~31~49 minecraft:stone
+setblock ~68~33~49 minecraft:stone
+setblock ~68~35~49 minecraft:stone
+fill ~68~37~49 ~69~37~49 minecraft:stone
+fill ~69~44~49 ~69~44~52 minecraft:wooden_slab
+setblock ~70~29~49 minecraft:stone
+fill ~21~46~50 ~21~46~51 minecraft:fence
+fill ~31~54~50 ~31~57~50 minecraft:stone
+fill ~32~55~50 ~32~56~50 minecraft:stone
+setblock ~33~54~50 minecraft:stone
+fill ~33~56~50 ~40~56~50 minecraft:stone
+fill ~33~57~50 ~35~57~50 minecraft:stone
+setblock ~33~60~50 minecraft:stone
+setblock ~33~62~50 minecraft:stone
+fill ~36~54~50 ~37~54~50 minecraft:stone
+fill ~36~58~50 ~38~58~50 minecraft:stone
+setblock ~36~72~50 minecraft:stone
+setblock ~36~74~50 minecraft:stone
+fill ~36~79~50 ~36~79~51 minecraft:stone
+setblock ~37~80~50 minecraft:stone
+fill ~38~55~50 ~40~55~50 minecraft:stone
+setblock ~38~86~50 minecraft:stone
+setblock ~38~91~50 minecraft:stone
+setblock ~38~93~50 minecraft:stone
+setblock ~38~97~50 minecraft:stone
+setblock ~38~99~50 minecraft:stone
+fill ~39~57~50 ~40~57~50 minecraft:stone
+fill ~39~102~50 ~39~102~51 minecraft:stone
+fill ~39~106~50 ~39~106~51 minecraft:stone
+fill ~39~108~50 ~39~108~51 minecraft:stone
+fill ~39~112~50 ~39~112~51 minecraft:stone
+fill ~39~114~50 ~39~114~51 minecraft:stone
+setblock ~40~54~50 minecraft:stone
+fill ~40~117~50 ~40~118~50 minecraft:stone
+fill ~40~121~50 ~40~122~50 minecraft:stone
+fill ~40~126~50 ~40~127~50 minecraft:stone
+fill ~40~131~50 ~40~132~50 minecraft:stone
+fill ~40~136~50 ~40~137~50 minecraft:stone
+setblock ~41~60~50 minecraft:stone
+fill ~41~119~50 ~49~119~50 minecraft:stone
+setblock ~41~120~50 minecraft:stone
+fill ~41~123~50 ~41~125~50 minecraft:stone
+fill ~41~128~50 ~41~130~50 minecraft:stone
+fill ~41~133~50 ~41~135~50 minecraft:stone
+setblock ~42~121~50 minecraft:stone
+fill ~42~124~50 ~49~124~50 minecraft:stone
+setblock ~42~127~50 minecraft:stone
+fill ~42~129~50 ~49~129~50 minecraft:stone
+setblock ~42~131~50 minecraft:stone
+fill ~42~134~50 ~49~134~50 minecraft:stone
+setblock ~42~137~50 minecraft:stone
+fill ~42~177~50 ~48~177~50 minecraft:stone
+fill ~42~178~50 ~42~179~50 minecraft:stone
+setblock ~43~122~50 minecraft:stone
+setblock ~43~126~50 minecraft:stone
+setblock ~43~132~50 minecraft:stone
+setblock ~43~136~50 minecraft:stone
+fill ~43~176~50 ~47~176~50 minecraft:stone
+fill ~43~178~50 ~47~178~50 minecraft:stained_glass_pane
+fill ~43~180~50 ~47~180~50 minecraft:iron_bars
+fill ~44~118~50 ~46~118~50 minecraft:stone
+fill ~44~120~50 ~46~120~50 minecraft:stone
+fill ~44~123~50 ~46~123~50 minecraft:stone
+fill ~44~125~50 ~46~125~50 minecraft:stone
+fill ~44~128~50 ~46~128~50 minecraft:stone
+fill ~44~130~50 ~46~130~50 minecraft:stone
+fill ~44~133~50 ~46~133~50 minecraft:stone
+fill ~44~135~50 ~46~135~50 minecraft:stone
+fill ~45~121~50 ~45~122~50 minecraft:stone
+fill ~45~126~50 ~45~127~50 minecraft:stone
+fill ~45~131~50 ~45~132~50 minecraft:stone
+fill ~45~136~50 ~45~137~50 minecraft:stone
+setblock ~47~122~50 minecraft:stone
+setblock ~47~126~50 minecraft:stone
+setblock ~47~132~50 minecraft:stone
+setblock ~47~136~50 minecraft:stone
+setblock ~48~121~50 minecraft:stone
+setblock ~48~127~50 minecraft:stone
+setblock ~48~131~50 minecraft:stone
+setblock ~48~137~50 minecraft:stone
+setblock ~48~178~50 minecraft:stone
+setblock ~49~60~50 minecraft:stone
+setblock ~49~120~50 minecraft:stone
+setblock ~49~123~50 minecraft:stone
+setblock ~49~125~50 minecraft:stone
+setblock ~49~128~50 minecraft:stone
+setblock ~49~130~50 minecraft:stone
+setblock ~49~133~50 minecraft:stone
+setblock ~49~135~50 minecraft:stone
+fill ~50~54~50 ~50~57~50 minecraft:stone
+fill ~50~117~50 ~50~118~50 minecraft:stone
+fill ~50~121~50 ~50~122~50 minecraft:stone
+fill ~50~126~50 ~50~127~50 minecraft:stone
+fill ~50~131~50 ~50~132~50 minecraft:stone
+fill ~50~136~50 ~50~137~50 minecraft:stone
+fill ~51~55~50 ~52~56~50 minecraft:stone
+setblock ~51~57~50 minecraft:stone
+fill ~51~102~50 ~51~102~51 minecraft:stone
+fill ~51~106~50 ~51~106~51 minecraft:stone
+fill ~51~108~50 ~51~108~51 minecraft:stone
+fill ~51~112~50 ~51~112~51 minecraft:stone
+fill ~51~114~50 ~51~114~51 minecraft:stone
+fill ~52~58~50 ~54~58~50 minecraft:stone
+setblock ~52~86~50 minecraft:stone
+setblock ~52~91~50 minecraft:stone
+setblock ~52~93~50 minecraft:stone
+setblock ~52~97~50 minecraft:stone
+setblock ~52~99~50 minecraft:stone
+fill ~53~54~50 ~54~54~50 minecraft:stone
+fill ~53~56~50 ~59~56~50 minecraft:stone
+setblock ~53~80~50 minecraft:stone
+setblock ~54~72~50 minecraft:stone
+setblock ~54~74~50 minecraft:stone
+fill ~54~79~50 ~54~79~51 minecraft:stone
+fill ~55~57~50 ~57~57~50 minecraft:stone
+setblock ~57~54~50 minecraft:stone
+setblock ~57~60~50 minecraft:stone
+setblock ~57~62~50 minecraft:stone
+fill ~58~55~50 ~59~55~50 minecraft:stone
+setblock ~59~54~50 minecraft:stone
+setblock ~59~57~50 minecraft:stone
+fill ~69~46~50 ~69~46~51 minecraft:fence
+fill ~19~27~51 ~19~27~53 minecraft:stone
+fill ~20~29~51 ~20~29~54 minecraft:stone
+setblock ~23~32~51 minecraft:stone
+setblock ~23~36~51 minecraft:stone
+fill ~30~51~51 ~30~51~53 minecraft:stone
+fill ~30~52~51 ~30~54~51 minecraft:stone
+fill ~31~55~51 ~31~56~52 minecraft:stone
+fill ~32~59~51 ~32~59~52 minecraft:stone
+fill ~34~53~51 ~35~53~51 minecraft:stone
+setblock ~34~65~51 minecraft:stone
+setblock ~34~67~51 minecraft:stone
+fill ~36~73~51 ~36~73~52 minecraft:stone
+fill ~37~38~51 ~37~38~69 minecraft:stone
+setblock ~37~39~51 minecraft:fence
+setblock ~37~81~51 minecraft:stone
+setblock ~38~85~51 minecraft:stone
+setblock ~38~87~51 minecraft:stone
+fill ~38~90~51 ~38~90~52 minecraft:stone
+fill ~38~94~51 ~38~94~52 minecraft:stone
+fill ~38~96~51 ~38~96~52 minecraft:stone
+fill ~39~51~51 ~39~54~51 minecraft:stone
+setblock ~39~100~51 minecraft:stone
+fill ~39~103~51 ~39~105~51 minecraft:stone
+fill ~39~109~51 ~39~111~51 minecraft:stone
+fill ~39~115~51 ~39~117~51 minecraft:stone
+fill ~40~55~51 ~40~56~52 minecraft:stone
+setblock ~40~57~51 minecraft:stone
+fill ~40~101~51 ~50~101~51 minecraft:stone
+setblock ~40~102~51 minecraft:stone
+fill ~40~106~51 ~40~108~51 minecraft:stone
+fill ~40~112~51 ~40~114~51 minecraft:stone
+setblock ~41~59~51 minecraft:stone
+setblock ~41~103~51 minecraft:stone
+setblock ~41~105~51 minecraft:stone
+fill ~41~107~51 ~50~107~51 minecraft:stone
+setblock ~41~109~51 minecraft:stone
+setblock ~41~111~51 minecraft:stone
+fill ~41~113~51 ~50~113~51 minecraft:stone
+setblock ~41~115~51 minecraft:stone
+setblock ~41~117~51 minecraft:stone
+setblock ~42~104~51 minecraft:stone
+setblock ~42~110~51 minecraft:stone
+setblock ~42~116~51 minecraft:stone
+setblock ~43~103~51 minecraft:stone
+setblock ~43~105~51 minecraft:stone
+setblock ~43~109~51 minecraft:stone
+setblock ~43~111~51 minecraft:stone
+setblock ~43~115~51 minecraft:stone
+setblock ~43~117~51 minecraft:stone
+fill ~44~97~51 ~46~97~51 minecraft:stone
+fill ~44~102~51 ~46~102~51 minecraft:stone
+fill ~44~106~51 ~46~106~51 minecraft:stone
+fill ~44~108~51 ~46~108~51 minecraft:stone
+fill ~44~112~51 ~46~112~51 minecraft:stone
+fill ~44~114~51 ~46~114~51 minecraft:stone
+fill ~45~98~51 ~45~100~51 minecraft:stone
+fill ~45~103~51 ~45~105~51 minecraft:stone
+fill ~45~109~51 ~45~111~51 minecraft:stone
+fill ~45~115~51 ~45~117~51 minecraft:stone
+setblock ~47~103~51 minecraft:stone
+setblock ~47~105~51 minecraft:stone
+setblock ~47~109~51 minecraft:stone
+setblock ~47~111~51 minecraft:stone
+setblock ~47~115~51 minecraft:stone
+setblock ~47~117~51 minecraft:stone
+setblock ~48~104~51 minecraft:stone
+setblock ~48~110~51 minecraft:stone
+setblock ~48~116~51 minecraft:stone
+setblock ~49~59~51 minecraft:stone
+setblock ~49~103~51 minecraft:stone
+setblock ~49~105~51 minecraft:stone
+setblock ~49~109~51 minecraft:stone
+setblock ~49~111~51 minecraft:stone
+setblock ~49~115~51 minecraft:stone
+setblock ~49~117~51 minecraft:stone
+fill ~50~55~51 ~50~56~52 minecraft:stone
+setblock ~50~57~51 minecraft:stone
+setblock ~50~102~51 minecraft:stone
+setblock ~50~106~51 minecraft:stone
+setblock ~50~108~51 minecraft:stone
+setblock ~50~112~51 minecraft:stone
+setblock ~50~114~51 minecraft:stone
+fill ~51~51~51 ~51~54~51 minecraft:stone
+setblock ~51~100~51 minecraft:stone
+fill ~51~103~51 ~51~105~51 minecraft:stone
+fill ~51~109~51 ~51~111~51 minecraft:stone
+fill ~51~115~51 ~51~117~51 minecraft:stone
+setblock ~52~85~51 minecraft:stone
+setblock ~52~87~51 minecraft:stone
+fill ~52~90~51 ~52~90~52 minecraft:stone
+fill ~52~94~51 ~52~94~52 minecraft:stone
+fill ~52~96~51 ~52~96~52 minecraft:stone
+fill ~53~38~51 ~53~38~69 minecraft:stone
+setblock ~53~39~51 minecraft:fence
+setblock ~53~81~51 minecraft:stone
+fill ~54~73~51 ~54~73~52 minecraft:stone
+fill ~55~53~51 ~56~53~51 minecraft:stone
+setblock ~56~65~51 minecraft:stone
+setblock ~56~67~51 minecraft:stone
+fill ~58~59~51 ~58~59~52 minecraft:stone
+fill ~59~55~51 ~59~56~52 minecraft:stone
+fill ~60~51~51 ~60~51~53 minecraft:stone
+fill ~60~52~51 ~60~54~51 minecraft:stone
+setblock ~67~32~51 minecraft:stone
+setblock ~67~36~51 minecraft:stone
+fill ~70~29~51 ~70~29~54 minecraft:stone
+fill ~71~27~51 ~71~27~53 minecraft:stone
+fill ~21~31~52 ~21~31~54 minecraft:stone
+fill ~23~31~52 ~23~31~54 minecraft:stone
+fill ~23~33~52 ~23~33~54 minecraft:stone
+fill ~23~35~52 ~23~35~54 minecraft:stone
+fill ~23~37~52 ~23~37~54 minecraft:stone
+fill ~29~48~52 ~29~51~52 minecraft:stone
+fill ~30~49~52 ~30~50~52 minecraft:stone
+setblock ~31~48~52 minecraft:stone
+fill ~31~50~52 ~38~50~52 minecraft:stone
+setblock ~31~51~52 minecraft:stone
+fill ~32~52~52 ~33~52~52 minecraft:stone
+setblock ~33~62~52 minecraft:stone
+fill ~34~48~52 ~35~48~52 minecraft:stone
+setblock ~34~64~52 minecraft:stone
+setblock ~34~66~52 minecraft:stone
+fill ~36~49~52 ~38~49~52 minecraft:stone
+fill ~36~52~52 ~37~52~52 minecraft:stone
+setblock ~36~74~52 minecraft:stone
+setblock ~36~78~52 minecraft:stone
+fill ~37~82~52 ~37~82~53 minecraft:stone
+fill ~37~84~52 ~37~84~53 minecraft:stone
+fill ~38~38~52 ~38~38~69 minecraft:stone
+setblock ~38~39~52 minecraft:fence
+setblock ~38~48~52 minecraft:stone
+setblock ~38~51~52 minecraft:stone
+setblock ~38~88~52 minecraft:stone
+fill ~38~91~52 ~38~93~52 minecraft:stone
+fill ~38~97~52 ~38~100~52 minecraft:stone
+setblock ~39~85~52 minecraft:stone
+setblock ~39~87~52 minecraft:stone
+fill ~39~89~52 ~51~89~52 minecraft:stone
+setblock ~39~90~52 minecraft:stone
+fill ~39~94~52 ~39~96~52 minecraft:stone
+fill ~40~58~52 ~40~58~54 minecraft:stone
+setblock ~40~86~52 minecraft:stone
+setblock ~40~91~52 minecraft:stone
+setblock ~40~93~52 minecraft:stone
+fill ~40~95~52 ~51~95~52 minecraft:stone
+setblock ~40~97~52 minecraft:stone
+setblock ~40~99~52 minecraft:stone
+setblock ~41~85~52 minecraft:stone
+setblock ~41~87~52 minecraft:stone
+setblock ~41~92~52 minecraft:stone
+setblock ~41~98~52 minecraft:stone
+fill ~42~71~52 ~48~76~52 minecraft:stone
+setblock ~42~88~52 minecraft:stone
+setblock ~42~91~52 minecraft:stone
+setblock ~42~93~52 minecraft:stone
+setblock ~42~97~52 minecraft:stone
+setblock ~42~99~52 minecraft:stone
+fill ~43~90~52 ~44~90~52 minecraft:stone
+fill ~43~94~52 ~44~94~52 minecraft:stone
+fill ~43~96~52 ~44~96~52 minecraft:stone
+setblock ~43~100~52 minecraft:stone
+fill ~44~91~52 ~46~91~52 minecraft:stone
+fill ~44~92~52 ~44~93~52 minecraft:stone
+fill ~45~93~52 ~46~93~52 minecraft:stone
+fill ~46~90~52 ~47~90~52 minecraft:stone
+setblock ~46~92~52 minecraft:stone
+fill ~46~94~52 ~47~94~52 minecraft:stone
+fill ~46~96~52 ~47~96~52 minecraft:stone
+setblock ~47~100~52 minecraft:stone
+setblock ~48~88~52 minecraft:stone
+setblock ~48~91~52 minecraft:stone
+setblock ~48~93~52 minecraft:stone
+setblock ~48~97~52 minecraft:stone
+setblock ~48~99~52 minecraft:stone
+setblock ~49~85~52 minecraft:stone
+setblock ~49~87~52 minecraft:stone
+setblock ~49~92~52 minecraft:stone
+setblock ~49~98~52 minecraft:stone
+fill ~50~58~52 ~50~58~54 minecraft:stone
+setblock ~50~86~52 minecraft:stone
+setblock ~50~91~52 minecraft:stone
+setblock ~50~93~52 minecraft:stone
+setblock ~50~97~52 minecraft:stone
+setblock ~50~99~52 minecraft:stone
+setblock ~51~85~52 minecraft:stone
+setblock ~51~87~52 minecraft:stone
+setblock ~51~90~52 minecraft:stone
+setblock ~51~94~52 minecraft:stone
+setblock ~51~96~52 minecraft:stone
+fill ~52~38~52 ~52~38~69 minecraft:stone
+setblock ~52~39~52 minecraft:fence
+fill ~52~48~52 ~52~51~52 minecraft:stone
+setblock ~52~88~52 minecraft:stone
+fill ~52~91~52 ~52~93~52 minecraft:stone
+fill ~52~97~52 ~52~100~52 minecraft:stone
+fill ~53~49~52 ~54~50~52 minecraft:stone
+fill ~53~52~52 ~54~52~52 minecraft:stone
+fill ~53~82~52 ~53~82~53 minecraft:stone
+fill ~53~84~52 ~53~84~53 minecraft:stone
+setblock ~54~74~52 minecraft:stone
+setblock ~54~78~52 minecraft:stone
+fill ~55~48~52 ~56~48~52 minecraft:stone
+fill ~55~50~52 ~61~50~52 minecraft:stone
+setblock ~56~64~52 minecraft:stone
+setblock ~56~66~52 minecraft:stone
+fill ~57~52~52 ~58~52~52 minecraft:stone
+setblock ~57~62~52 minecraft:stone
+setblock ~59~48~52 minecraft:stone
+setblock ~59~51~52 minecraft:stone
+fill ~60~49~52 ~61~49~52 minecraft:stone
+setblock ~61~48~52 minecraft:stone
+setblock ~61~51~52 minecraft:stone
+fill ~67~31~52 ~67~31~54 minecraft:stone
+fill ~67~33~52 ~67~33~54 minecraft:stone
+fill ~67~35~52 ~67~35~54 minecraft:stone
+fill ~67~37~52 ~67~37~54 minecraft:stone
+fill ~69~31~52 ~69~31~54 minecraft:stone
+setblock ~19~28~53 minecraft:stone
+fill ~21~32~53 ~23~32~53 minecraft:stone
+fill ~21~37~53 ~22~37~53 minecraft:stone
+fill ~21~40~53 ~21~43~53 minecraft:fence
+setblock ~21~44~53 minecraft:planks
+fill ~21~46~53 ~21~47~53 minecraft:fence
+setblock ~22~31~53 minecraft:stone
+fill ~22~33~53 ~22~36~53 minecraft:stone
+setblock ~23~34~53 minecraft:stone
+setblock ~23~36~53 minecraft:stone
+fill ~28~45~53 ~28~45~55 minecraft:stone
+fill ~28~46~53 ~28~48~53 minecraft:stone
+fill ~29~49~53 ~29~50~54 minecraft:stone
+fill ~31~54~53 ~31~54~54 minecraft:stone
+fill ~31~56~53 ~31~56~59 minecraft:stone
+fill ~32~47~53 ~33~47~53 minecraft:stone
+fill ~32~58~53 ~32~58~54 minecraft:stone
+setblock ~34~65~53 minecraft:stone
+setblock ~34~67~53 minecraft:stone
+setblock ~36~72~53 minecraft:stone
+fill ~36~75~53 ~36~75~54 minecraft:stone
+fill ~36~77~53 ~36~77~54 minecraft:stone
+fill ~37~45~53 ~37~48~53 minecraft:stone
+fill ~37~80~53 ~37~81~53 minecraft:stone
+fill ~37~85~53 ~37~88~53 minecraft:stone
+fill ~38~49~53 ~38~50~54 minecraft:stone
+fill ~38~52~53 ~38~52~54 minecraft:stone
+fill ~38~82~53 ~38~84~53 minecraft:stone
+fill ~39~38~53 ~39~38~69 minecraft:stone
+setblock ~39~39~53 minecraft:fence
+setblock ~39~81~53 minecraft:stone
+fill ~39~83~53 ~52~83~53 minecraft:stone
+fill ~40~54~53 ~40~54~54 minecraft:stone
+fill ~40~56~53 ~40~56~59 minecraft:stone
+setblock ~40~80~53 minecraft:stone
+setblock ~41~81~53 minecraft:stone
+fill ~42~71~53 ~42~74~55 minecraft:stone
+fill ~42~75~53 ~42~76~54 minecraft:stone
+fill ~42~82~53 ~44~82~53 minecraft:stone
+fill ~42~84~53 ~44~84~53 minecraft:stone
+fill ~43~76~53 ~48~76~54 minecraft:stone
+setblock ~43~81~53 minecraft:stone
+fill ~43~85~53 ~43~86~53 minecraft:stone
+setblock ~44~80~53 minecraft:stone
+fill ~44~86~53 ~44~88~53 minecraft:stone
+setblock ~45~81~53 minecraft:stone
+setblock ~45~85~53 minecraft:stone
+fill ~45~87~53 ~46~87~53 minecraft:stone
+setblock ~46~80~53 minecraft:stone
+fill ~46~82~53 ~48~82~53 minecraft:stone
+fill ~46~84~53 ~48~84~53 minecraft:stone
+fill ~46~86~53 ~47~86~53 minecraft:stone
+setblock ~46~88~53 minecraft:stone
+setblock ~47~81~53 minecraft:stone
+setblock ~47~85~53 minecraft:stone
+fill ~48~71~53 ~48~74~55 minecraft:stone
+fill ~48~75~53 ~48~75~54 minecraft:stone
+setblock ~49~81~53 minecraft:stone
+fill ~50~54~53 ~50~54~54 minecraft:stone
+fill ~50~56~53 ~50~56~59 minecraft:stone
+setblock ~50~80~53 minecraft:stone
+fill ~51~38~53 ~51~38~69 minecraft:stone
+setblock ~51~39~53 minecraft:fence
+setblock ~51~81~53 minecraft:stone
+fill ~52~49~53 ~52~50~54 minecraft:stone
+fill ~52~52~53 ~52~52~54 minecraft:stone
+setblock ~52~82~53 minecraft:stone
+setblock ~52~84~53 minecraft:stone
+fill ~53~45~53 ~53~48~53 minecraft:stone
+fill ~53~80~53 ~53~81~53 minecraft:stone
+fill ~53~85~53 ~53~88~53 minecraft:stone
+setblock ~54~72~53 minecraft:stone
+fill ~54~75~53 ~54~75~54 minecraft:stone
+fill ~54~77~53 ~54~77~54 minecraft:stone
+setblock ~56~65~53 minecraft:stone
+setblock ~56~67~53 minecraft:stone
+fill ~57~47~53 ~58~47~53 minecraft:stone
+fill ~58~58~53 ~58~58~54 minecraft:stone
+fill ~59~54~53 ~59~54~54 minecraft:stone
+fill ~59~56~53 ~59~56~59 minecraft:stone
+fill ~61~49~53 ~61~50~54 minecraft:stone
+fill ~62~45~53 ~62~45~55 minecraft:stone
+fill ~62~46~53 ~62~48~53 minecraft:stone
+fill ~67~32~53 ~69~32~53 minecraft:stone
+fill ~67~34~53 ~68~34~53 minecraft:stone
+fill ~67~36~53 ~68~36~53 minecraft:stone
+setblock ~68~31~53 minecraft:stone
+setblock ~68~33~53 minecraft:stone
+setblock ~68~35~53 minecraft:stone
+fill ~68~37~53 ~69~37~53 minecraft:stone
+fill ~69~40~53 ~69~43~53 minecraft:fence
+setblock ~69~44~53 minecraft:planks
+fill ~69~46~53 ~69~47~53 minecraft:fence
+setblock ~71~28~53 minecraft:stone
+fill ~19~26~54 ~19~26~55 minecraft:stone
+fill ~21~44~54 ~21~44~57 minecraft:wooden_slab
+fill ~27~42~54 ~27~45~54 minecraft:stone
+fill ~28~43~54 ~28~44~54 minecraft:stone
+setblock ~29~42~54 minecraft:stone
+fill ~29~44~54 ~36~44~54 minecraft:stone
+setblock ~29~45~54 minecraft:stone
+fill ~30~46~54 ~31~46~54 minecraft:stone
+setblock ~30~52~54 minecraft:stone
+fill ~32~42~54 ~33~42~54 minecraft:stone
+setblock ~33~62~54 minecraft:stone
+fill ~34~43~54 ~36~43~54 minecraft:stone
+fill ~34~46~54 ~35~46~54 minecraft:stone
+setblock ~34~64~54 minecraft:stone
+setblock ~34~66~54 minecraft:stone
+setblock ~36~42~54 minecraft:stone
+setblock ~36~45~54 minecraft:stone
+setblock ~36~71~54 minecraft:stone
+setblock ~36~74~54 minecraft:stone
+fill ~36~78~54 ~36~80~54 minecraft:stone
+fill ~37~68~54 ~53~69~54 minecraft:stone
+setblock ~37~72~54 minecraft:stone
+fill ~37~75~54 ~37~77~54 minecraft:stone
+fill ~38~73~54 ~39~73~54 minecraft:stone
+setblock ~38~74~54 minecraft:stone
+fill ~38~76~54 ~41~76~54 minecraft:stone
+setblock ~38~78~54 minecraft:stone
+fill ~39~79~54 ~40~79~54 minecraft:stone
+fill ~40~38~54 ~41~38~69 minecraft:stone
+fill ~40~39~54 ~41~39~54 minecraft:fence
+setblock ~40~72~54 minecraft:stone
+setblock ~40~74~54 minecraft:stone
+setblock ~41~71~54 minecraft:stone
+setblock ~41~75~54 minecraft:stone
+setblock ~41~78~54 minecraft:stone
+fill ~42~77~54 ~44~77~54 minecraft:stone
+setblock ~43~75~54 minecraft:stone
+fill ~43~78~54 ~43~80~54 minecraft:stone
+fill ~44~38~54 ~46~38~69 minecraft:stone
+fill ~44~39~54 ~46~39~54 minecraft:fence
+fill ~44~71~54 ~44~72~54 minecraft:stone
+setblock ~44~74~54 minecraft:stone
+setblock ~44~79~54 minecraft:stone
+setblock ~45~73~54 minecraft:stone
+setblock ~45~78~54 minecraft:stone
+fill ~46~71~54 ~46~72~54 minecraft:stone
+setblock ~46~74~54 minecraft:stone
+fill ~46~77~54 ~48~77~54 minecraft:stone
+fill ~46~79~54 ~47~79~54 minecraft:stone
+setblock ~47~75~54 minecraft:stone
+setblock ~47~78~54 minecraft:stone
+setblock ~47~80~54 minecraft:stone
+fill ~49~38~54 ~50~38~69 minecraft:stone
+fill ~49~39~54 ~50~39~54 minecraft:fence
+setblock ~49~71~54 minecraft:stone
+fill ~49~75~54 ~49~76~54 minecraft:stone
+setblock ~49~78~54 minecraft:stone
+setblock ~50~72~54 minecraft:stone
+setblock ~50~74~54 minecraft:stone
+fill ~50~76~54 ~53~76~54 minecraft:stone
+fill ~50~79~54 ~51~79~54 minecraft:stone
+fill ~51~73~54 ~52~73~54 minecraft:stone
+setblock ~52~74~54 minecraft:stone
+setblock ~52~78~54 minecraft:stone
+setblock ~53~72~54 minecraft:stone
+setblock ~53~75~54 minecraft:stone
+setblock ~53~77~54 minecraft:stone
+fill ~54~42~54 ~54~45~54 minecraft:stone
+setblock ~54~71~54 minecraft:stone
+setblock ~54~74~54 minecraft:stone
+fill ~54~78~54 ~54~80~54 minecraft:stone
+fill ~55~43~54 ~56~44~54 minecraft:stone
+fill ~55~46~54 ~56~46~54 minecraft:stone
+setblock ~56~64~54 minecraft:stone
+setblock ~56~66~54 minecraft:stone
+fill ~57~42~54 ~58~42~54 minecraft:stone
+fill ~57~44~54 ~63~44~54 minecraft:stone
+setblock ~57~62~54 minecraft:stone
+fill ~59~46~54 ~60~46~54 minecraft:stone
+setblock ~60~52~54 minecraft:stone
+setblock ~61~42~54 minecraft:stone
+setblock ~61~45~54 minecraft:stone
+fill ~62~43~54 ~63~43~54 minecraft:stone
+setblock ~63~42~54 minecraft:stone
+setblock ~63~45~54 minecraft:stone
+fill ~69~44~54 ~69~44~57 minecraft:wooden_slab
+fill ~71~26~54 ~71~26~55 minecraft:stone
+fill ~19~27~55 ~19~28~55 minecraft:stone
+fill ~21~46~55 ~21~46~56 minecraft:fence
+setblock ~23~32~55 minecraft:stone
+setblock ~23~36~55 minecraft:stone
+fill ~26~40~55 ~26~42~55 minecraft:stone
+fill ~27~43~55 ~27~44~56 minecraft:stone
+fill ~29~48~55 ~29~48~56 minecraft:stone
+fill ~29~50~55 ~29~50~61 minecraft:stone
+fill ~30~41~55 ~31~41~55 minecraft:stone
+fill ~30~53~55 ~30~53~56 minecraft:stone
+setblock ~32~40~55 minecraft:stone
+fill ~32~57~55 ~32~57~59 minecraft:stone
+setblock ~32~59~55 minecraft:stone
+fill ~34~65~55 ~34~65~56 minecraft:stone
+fill ~34~67~55 ~34~67~56 minecraft:stone
+fill ~35~40~55 ~35~42~55 minecraft:stone
+fill ~35~68~55 ~35~69~55 minecraft:stone
+fill ~35~71~55 ~35~74~55 minecraft:stone
+fill ~36~43~55 ~36~44~56 minecraft:stone
+fill ~36~46~55 ~36~46~56 minecraft:stone
+fill ~38~48~55 ~38~48~56 minecraft:stone
+fill ~38~50~55 ~38~50~61 minecraft:stone
+fill ~39~53~55 ~39~53~56 minecraft:stone
+fill ~40~57~55 ~40~57~59 minecraft:stone
+fill ~40~68~55 ~42~69~55 minecraft:stone
+setblock ~41~59~55 minecraft:stone
+fill ~42~38~55 ~43~38~69 minecraft:stone
+fill ~42~39~55 ~43~39~55 minecraft:fence
+fill ~47~38~55 ~48~38~69 minecraft:stone
+fill ~47~39~55 ~48~39~55 minecraft:fence
+fill ~48~68~55 ~50~69~55 minecraft:stone
+setblock ~49~59~55 minecraft:stone
+fill ~50~57~55 ~50~57~59 minecraft:stone
+fill ~51~53~55 ~51~53~56 minecraft:stone
+fill ~52~48~55 ~52~48~56 minecraft:stone
+fill ~52~50~55 ~52~50~61 minecraft:stone
+fill ~54~43~55 ~54~44~56 minecraft:stone
+fill ~54~46~55 ~54~46~56 minecraft:stone
+fill ~55~40~55 ~55~42~55 minecraft:stone
+fill ~55~68~55 ~55~69~55 minecraft:stone
+fill ~55~71~55 ~55~74~55 minecraft:stone
+fill ~56~65~55 ~56~65~56 minecraft:stone
+fill ~56~67~55 ~56~67~56 minecraft:stone
+setblock ~58~40~55 minecraft:stone
+fill ~58~57~55 ~58~57~59 minecraft:stone
+setblock ~58~59~55 minecraft:stone
+fill ~59~41~55 ~60~41~55 minecraft:stone
+fill ~60~53~55 ~60~53~56 minecraft:stone
+fill ~61~48~55 ~61~48~56 minecraft:stone
+fill ~61~50~55 ~61~50~61 minecraft:stone
+fill ~63~43~55 ~63~44~56 minecraft:stone
+fill ~64~40~55 ~64~42~55 minecraft:stone
+setblock ~67~32~55 minecraft:stone
+setblock ~67~36~55 minecraft:stone
+fill ~69~46~55 ~69~46~56 minecraft:fence
+fill ~71~27~55 ~71~28~55 minecraft:stone
+fill ~19~25~56 ~19~25~57 minecraft:stone
+setblock ~19~28~56 minecraft:stone
+fill ~21~31~56 ~21~31~58 minecraft:stone
+fill ~23~31~56 ~23~31~58 minecraft:stone
+fill ~23~33~56 ~23~33~58 minecraft:stone
+fill ~23~35~56 ~23~35~58 minecraft:stone
+fill ~23~37~56 ~23~37~58 minecraft:stone
+fill ~25~39~56 ~27~39~56 minecraft:stone
+setblock ~25~40~56 minecraft:stone
+fill ~28~40~56 ~29~40~56 minecraft:stone
+setblock ~28~46~56 minecraft:stone
+fill ~33~39~56 ~34~39~56 minecraft:stone
+fill ~33~60~56 ~33~60~57 minecraft:stone
+fill ~33~62~56 ~33~62~57 minecraft:stone
+setblock ~34~40~56 minecraft:stone
+setblock ~34~64~56 minecraft:stone
+setblock ~34~66~56 minecraft:stone
+fill ~34~68~56 ~34~69~56 minecraft:stone
+setblock ~35~65~56 minecraft:stone
+setblock ~35~67~56 minecraft:stone
+setblock ~36~64~56 minecraft:stone
+setblock ~36~66~56 minecraft:stone
+setblock ~37~65~56 minecraft:stone
+setblock ~37~67~56 minecraft:stone
+setblock ~38~64~56 minecraft:stone
+setblock ~38~66~56 minecraft:stone
+setblock ~39~65~56 minecraft:stone
+setblock ~39~67~56 minecraft:stone
+fill ~40~64~56 ~42~64~56 minecraft:stone
+fill ~40~66~56 ~42~66~56 minecraft:stone
+fill ~41~60~56 ~41~60~58 minecraft:stone
+setblock ~41~65~56 minecraft:stone
+fill ~41~67~56 ~41~69~56 minecraft:stone
+setblock ~43~65~56 minecraft:stone
+setblock ~43~67~56 minecraft:stone
+fill ~44~64~56 ~46~64~56 minecraft:stone
+fill ~44~66~56 ~46~66~56 minecraft:stone
+setblock ~45~65~56 minecraft:stone
+fill ~45~67~56 ~45~68~56 minecraft:stone
+setblock ~47~65~56 minecraft:stone
+setblock ~47~67~56 minecraft:stone
+fill ~48~64~56 ~50~64~56 minecraft:stone
+fill ~48~66~56 ~50~66~56 minecraft:stone
+fill ~49~60~56 ~49~60~58 minecraft:stone
+setblock ~49~65~56 minecraft:stone
+fill ~49~67~56 ~49~69~56 minecraft:stone
+setblock ~51~65~56 minecraft:stone
+setblock ~51~67~56 minecraft:stone
+setblock ~52~64~56 minecraft:stone
+setblock ~52~66~56 minecraft:stone
+setblock ~53~65~56 minecraft:stone
+setblock ~53~67~56 minecraft:stone
+setblock ~54~64~56 minecraft:stone
+setblock ~54~66~56 minecraft:stone
+setblock ~55~65~56 minecraft:stone
+setblock ~55~67~56 minecraft:stone
+fill ~56~39~56 ~57~39~56 minecraft:stone
+setblock ~56~40~56 minecraft:stone
+setblock ~56~64~56 minecraft:stone
+setblock ~56~66~56 minecraft:stone
+fill ~56~68~56 ~56~69~56 minecraft:stone
+fill ~57~60~56 ~57~60~57 minecraft:stone
+fill ~57~62~56 ~57~62~57 minecraft:stone
+fill ~61~40~56 ~62~40~56 minecraft:stone
+setblock ~62~46~56 minecraft:stone
+fill ~63~39~56 ~65~39~56 minecraft:stone
+setblock ~65~40~56 minecraft:stone
+fill ~67~31~56 ~67~31~58 minecraft:stone
+fill ~67~33~56 ~67~33~58 minecraft:stone
+fill ~67~35~56 ~67~35~58 minecraft:stone
+fill ~67~37~56 ~67~37~58 minecraft:stone
+fill ~69~31~56 ~69~31~58 minecraft:stone
+fill ~71~25~56 ~71~25~57 minecraft:stone
+setblock ~71~28~56 minecraft:stone
+setblock ~19~26~57 minecraft:stone
+fill ~20~29~57 ~20~29~60 minecraft:stone
+fill ~21~32~57 ~23~32~57 minecraft:stone
+fill ~21~37~57 ~22~37~57 minecraft:stone
+setblock ~22~31~57 minecraft:stone
+fill ~22~33~57 ~22~36~57 minecraft:stone
+setblock ~23~34~57 minecraft:stone
+setblock ~23~36~57 minecraft:stone
+setblock ~25~39~57 minecraft:stone
+fill ~26~42~57 ~26~42~58 minecraft:stone
+fill ~27~44~57 ~27~44~63 minecraft:stone
+fill ~28~47~57 ~28~47~58 minecraft:stone
+setblock ~30~52~57 minecraft:stone
+setblock ~31~54~57 minecraft:stone
+setblock ~33~64~57 minecraft:stone
+setblock ~34~39~57 minecraft:stone
+fill ~34~60~57 ~34~63~57 minecraft:stone
+fill ~34~71~57 ~56~71~57 minecraft:fence
+fill ~35~61~57 ~41~61~57 minecraft:stone
+fill ~35~63~57 ~56~63~57 minecraft:stone
+fill ~36~42~57 ~36~42~58 minecraft:stone
+fill ~36~44~57 ~36~44~63 minecraft:stone
+setblock ~36~62~57 minecraft:stone
+fill ~37~47~57 ~37~47~58 minecraft:stone
+fill ~38~52~57 ~38~52~58 minecraft:stone
+setblock ~38~62~57 minecraft:stone
+setblock ~40~54~57 minecraft:stone
+setblock ~40~60~57 minecraft:stone
+setblock ~40~62~57 minecraft:stone
+setblock ~42~62~57 minecraft:stone
+fill ~43~61~57 ~47~61~57 minecraft:stone
+setblock ~44~62~57 minecraft:stone
+setblock ~46~62~57 minecraft:stone
+setblock ~48~62~57 minecraft:stone
+fill ~49~61~57 ~56~61~57 minecraft:stone
+setblock ~50~54~57 minecraft:stone
+setblock ~50~60~57 minecraft:stone
+setblock ~50~62~57 minecraft:stone
+fill ~52~52~57 ~52~52~58 minecraft:stone
+setblock ~52~62~57 minecraft:stone
+fill ~53~47~57 ~53~47~58 minecraft:stone
+fill ~54~42~57 ~54~42~58 minecraft:stone
+fill ~54~44~57 ~54~44~63 minecraft:stone
+setblock ~54~62~57 minecraft:stone
+setblock ~56~39~57 minecraft:stone
+setblock ~56~60~57 minecraft:stone
+setblock ~56~62~57 minecraft:stone
+setblock ~57~64~57 minecraft:stone
+setblock ~59~54~57 minecraft:stone
+setblock ~60~52~57 minecraft:stone
+fill ~62~47~57 ~62~47~58 minecraft:stone
+fill ~63~44~57 ~63~44~63 minecraft:stone
+fill ~64~42~57 ~64~42~58 minecraft:stone
+setblock ~65~39~57 minecraft:stone
+fill ~67~32~57 ~69~32~57 minecraft:stone
+fill ~67~34~57 ~68~34~57 minecraft:stone
+fill ~67~36~57 ~68~36~57 minecraft:stone
+setblock ~68~31~57 minecraft:stone
+setblock ~68~33~57 minecraft:stone
+setblock ~68~35~57 minecraft:stone
+fill ~68~37~57 ~69~37~57 minecraft:stone
+fill ~70~29~57 ~70~29~60 minecraft:stone
+setblock ~71~26~57 minecraft:stone
+fill ~18~24~58 ~18~24~59 minecraft:stone
+fill ~20~27~58 ~20~27~59 minecraft:stone
+fill ~21~40~58 ~21~43~58 minecraft:fence
+setblock ~21~44~58 minecraft:planks
+fill ~21~46~58 ~21~47~58 minecraft:fence
+setblock ~26~40~58 minecraft:stone
+fill ~30~51~58 ~30~51~60 minecraft:stone
+fill ~31~55~58 ~31~55~59 minecraft:stone
+fill ~31~57~58 ~31~57~59 minecraft:stone
+fill ~32~58~58 ~32~60~58 minecraft:stone
+fill ~33~57~58 ~35~57~58 minecraft:stone
+setblock ~35~40~58 minecraft:stone
+setblock ~35~59~58 minecraft:stone
+fill ~36~58~58 ~37~58~58 minecraft:stone
+fill ~38~57~58 ~39~57~58 minecraft:stone
+fill ~38~59~58 ~39~59~58 minecraft:stone
+fill ~40~55~58 ~40~55~59 minecraft:stone
+fill ~41~57~58 ~41~59~58 minecraft:stone
+fill ~49~57~58 ~49~59~58 minecraft:stone
+fill ~50~55~58 ~50~55~59 minecraft:stone
+fill ~51~57~58 ~52~57~58 minecraft:stone
+fill ~51~59~58 ~52~59~58 minecraft:stone
+fill ~53~58~58 ~54~58~58 minecraft:stone
+setblock ~55~40~58 minecraft:stone
+fill ~55~57~58 ~57~57~58 minecraft:stone
+setblock ~55~59~58 minecraft:stone
+fill ~58~58~58 ~58~60~58 minecraft:stone
+fill ~59~55~58 ~59~55~59 minecraft:stone
+fill ~59~57~58 ~59~57~59 minecraft:stone
+fill ~60~51~58 ~60~51~60 minecraft:stone
+setblock ~64~40~58 minecraft:stone
+fill ~69~40~58 ~69~43~58 minecraft:fence
+setblock ~69~44~58 minecraft:planks
+fill ~69~46~58 ~69~47~58 minecraft:fence
+fill ~70~27~58 ~70~27~59 minecraft:stone
+fill ~72~24~58 ~72~24~59 minecraft:stone
+fill ~18~25~59 ~18~26~59 minecraft:stone
+fill ~21~44~59 ~21~44~62 minecraft:wooden_slab
+setblock ~23~32~59 minecraft:stone
+setblock ~23~36~59 minecraft:stone
+fill ~26~41~59 ~26~41~60 minecraft:stone
+setblock ~28~46~59 minecraft:stone
+setblock ~29~48~59 minecraft:stone
+setblock ~31~54~59 minecraft:stone
+fill ~32~55~59 ~32~56~59 minecraft:stone
+setblock ~33~54~59 minecraft:stone
+fill ~33~56~59 ~39~56~59 minecraft:stone
+fill ~35~41~59 ~35~41~60 minecraft:stone
+fill ~36~46~59 ~36~46~60 minecraft:stone
+fill ~36~54~59 ~37~54~59 minecraft:stone
+setblock ~38~48~59 minecraft:stone
+fill ~38~51~59 ~38~51~61 minecraft:stone
+fill ~38~55~59 ~39~55~59 minecraft:stone
+setblock ~40~54~59 minecraft:stone
+setblock ~50~54~59 minecraft:stone
+fill ~51~55~59 ~52~56~59 minecraft:stone
+setblock ~52~48~59 minecraft:stone
+fill ~52~51~59 ~52~51~61 minecraft:stone
+fill ~53~54~59 ~54~54~59 minecraft:stone
+fill ~53~56~59 ~58~56~59 minecraft:stone
+fill ~54~46~59 ~54~46~60 minecraft:stone
+fill ~55~41~59 ~55~41~60 minecraft:stone
+setblock ~57~54~59 minecraft:stone
+setblock ~58~55~59 minecraft:stone
+setblock ~59~54~59 minecraft:stone
+setblock ~61~48~59 minecraft:stone
+setblock ~62~46~59 minecraft:stone
+fill ~64~41~59 ~64~41~60 minecraft:stone
+setblock ~67~32~59 minecraft:stone
+setblock ~67~36~59 minecraft:stone
+fill ~69~44~59 ~69~44~62 minecraft:wooden_slab
+fill ~72~25~59 ~72~26~59 minecraft:stone
+setblock ~17~23~60 minecraft:stone
+fill ~19~27~60 ~19~27~61 minecraft:stone
+fill ~21~31~60 ~21~31~62 minecraft:stone
+fill ~21~46~60 ~21~46~61 minecraft:fence
+fill ~23~31~60 ~23~31~62 minecraft:stone
+fill ~23~33~60 ~23~33~62 minecraft:stone
+fill ~23~35~60 ~23~35~62 minecraft:stone
+fill ~23~37~60 ~23~37~62 minecraft:stone
+fill ~28~45~60 ~28~45~62 minecraft:stone
+fill ~29~49~60 ~29~49~61 minecraft:stone
+fill ~30~52~60 ~30~54~60 minecraft:stone
+fill ~31~51~60 ~32~51~60 minecraft:stone
+setblock ~33~52~60 minecraft:stone
+fill ~34~53~60 ~35~53~60 minecraft:stone
+setblock ~36~52~60 minecraft:stone
+setblock ~37~51~60 minecraft:stone
+fill ~38~49~60 ~38~49~61 minecraft:stone
+fill ~39~51~60 ~39~54~60 minecraft:stone
+fill ~51~51~60 ~51~54~60 minecraft:stone
+fill ~52~49~60 ~52~49~61 minecraft:stone
+setblock ~53~51~60 minecraft:stone
+setblock ~54~52~60 minecraft:stone
+fill ~55~53~60 ~56~53~60 minecraft:stone
+setblock ~57~52~60 minecraft:stone
+fill ~58~51~60 ~59~51~60 minecraft:stone
+fill ~60~52~60 ~60~54~60 minecraft:stone
+fill ~61~49~60 ~61~49~61 minecraft:stone
+fill ~62~45~60 ~62~45~62 minecraft:stone
+fill ~67~31~60 ~67~31~62 minecraft:stone
+fill ~67~33~60 ~67~33~62 minecraft:stone
+fill ~67~35~60 ~67~35~62 minecraft:stone
+fill ~67~37~60 ~67~37~62 minecraft:stone
+fill ~69~31~60 ~69~31~62 minecraft:stone
+fill ~69~46~60 ~69~46~61 minecraft:fence
+fill ~71~27~60 ~71~27~61 minecraft:stone
+setblock ~73~23~60 minecraft:stone
+setblock ~17~22~61 minecraft:stone
+fill ~18~24~61 ~18~24~62 minecraft:stone
+fill ~19~25~61 ~19~25~62 minecraft:stone
+setblock ~19~26~61 minecraft:stone
+fill ~19~28~61 ~19~28~71 minecraft:stone
+fill ~21~28~61 ~29~28~61 minecraft:stone
+fill ~21~30~61 ~21~30~70 minecraft:stone
+fill ~21~32~61 ~23~32~61 minecraft:stone
+fill ~21~37~61 ~22~37~61 minecraft:stone
+setblock ~22~31~61 minecraft:stone
+fill ~22~33~61 ~22~36~61 minecraft:stone
+setblock ~23~34~61 minecraft:stone
+setblock ~23~36~61 minecraft:stone
+fill ~26~40~61 ~26~40~62 minecraft:stone
+setblock ~27~42~61 minecraft:stone
+fill ~29~26~61 ~29~27~61 minecraft:stone
+setblock ~29~48~61 minecraft:stone
+setblock ~29~51~61 minecraft:stone
+fill ~30~49~61 ~30~50~61 minecraft:stone
+setblock ~31~48~61 minecraft:stone
+fill ~31~50~61 ~37~50~61 minecraft:stone
+fill ~34~40~61 ~34~40~62 minecraft:stone
+fill ~34~48~61 ~35~48~61 minecraft:stone
+setblock ~36~42~61 minecraft:stone
+fill ~36~45~61 ~36~45~63 minecraft:stone
+fill ~36~49~61 ~37~49~61 minecraft:stone
+setblock ~38~48~61 minecraft:stone
+setblock ~52~48~61 minecraft:stone
+fill ~53~49~61 ~54~50~61 minecraft:stone
+setblock ~54~42~61 minecraft:stone
+fill ~54~45~61 ~54~45~63 minecraft:stone
+fill ~55~48~61 ~56~48~61 minecraft:stone
+fill ~55~50~61 ~60~50~61 minecraft:stone
+fill ~56~40~61 ~56~40~62 minecraft:stone
+setblock ~59~48~61 minecraft:stone
+setblock ~60~49~61 minecraft:stone
+fill ~61~26~61 ~61~28~61 minecraft:stone
+setblock ~61~48~61 minecraft:stone
+setblock ~61~51~61 minecraft:stone
+fill ~62~28~61 ~69~28~61 minecraft:stone
+setblock ~63~42~61 minecraft:stone
+fill ~64~40~61 ~64~40~62 minecraft:stone
+fill ~67~32~61 ~69~32~61 minecraft:stone
+fill ~67~34~61 ~68~34~61 minecraft:stone
+fill ~67~36~61 ~68~36~61 minecraft:stone
+setblock ~68~31~61 minecraft:stone
+setblock ~68~33~61 minecraft:stone
+setblock ~68~35~61 minecraft:stone
+fill ~68~37~61 ~69~37~61 minecraft:stone
+fill ~69~30~61 ~69~30~70 minecraft:stone
+fill ~71~25~61 ~71~25~62 minecraft:stone
+setblock ~71~26~61 minecraft:stone
+fill ~71~28~61 ~71~28~71 minecraft:stone
+fill ~72~24~61 ~72~24~62 minecraft:stone
+setblock ~73~22~61 minecraft:stone
+setblock ~16~21~62 minecraft:stone
+fill ~17~23~62 ~17~23~63 minecraft:stone
+fill ~18~25~62 ~18~25~72 minecraft:stone
+setblock ~18~26~62 minecraft:stone
+fill ~20~25~62 ~28~25~62 minecraft:stone
+setblock ~20~29~62 minecraft:stone
+fill ~22~30~62 ~23~30~70 minecraft:stone
+fill ~27~43~62 ~27~43~63 minecraft:stone
+setblock ~28~24~62 minecraft:stone
+setblock ~28~26~62 minecraft:stone
+fill ~28~46~62 ~28~48~62 minecraft:stone
+fill ~29~28~62 ~29~28~71 minecraft:stone
+fill ~29~45~62 ~30~45~62 minecraft:stone
+setblock ~31~46~62 minecraft:stone
+fill ~32~47~62 ~33~47~62 minecraft:stone
+setblock ~34~46~62 minecraft:stone
+setblock ~35~45~62 minecraft:stone
+fill ~36~43~62 ~36~43~63 minecraft:stone
+fill ~37~45~62 ~37~48~62 minecraft:stone
+fill ~53~45~62 ~53~48~62 minecraft:stone
+fill ~54~43~62 ~54~43~63 minecraft:stone
+setblock ~55~45~62 minecraft:stone
+setblock ~56~46~62 minecraft:stone
+fill ~57~47~62 ~58~47~62 minecraft:stone
+setblock ~59~46~62 minecraft:stone
+fill ~60~45~62 ~61~45~62 minecraft:stone
+fill ~61~28~62 ~61~28~71 minecraft:stone
+fill ~62~24~62 ~62~26~62 minecraft:stone
+fill ~62~46~62 ~62~48~62 minecraft:stone
+fill ~63~25~62 ~70~25~62 minecraft:stone
+fill ~63~43~62 ~63~43~63 minecraft:stone
+fill ~67~30~62 ~68~30~70 minecraft:stone
+setblock ~70~29~62 minecraft:stone
+fill ~72~25~62 ~72~25~72 minecraft:stone
+setblock ~72~26~62 minecraft:stone
+fill ~73~23~62 ~73~23~63 minecraft:stone
+setblock ~74~21~62 minecraft:stone
+fill ~16~20~63 ~16~20~64 minecraft:stone
+setblock ~17~22~63 minecraft:stone
+fill ~17~24~63 ~17~24~64 minecraft:stone
+fill ~19~27~63 ~19~27~64 minecraft:stone
+fill ~21~40~63 ~21~43~63 minecraft:fence
+setblock ~21~44~63 minecraft:planks
+fill ~21~46~63 ~21~47~63 minecraft:fence
+setblock ~23~32~63 minecraft:stone
+setblock ~23~36~63 minecraft:stone
+fill ~26~39~63 ~26~39~64 minecraft:stone
+fill ~27~22~63 ~27~24~63 minecraft:stone
+setblock ~27~42~63 minecraft:stone
+setblock ~27~45~63 minecraft:stone
+fill ~28~25~63 ~28~25~72 minecraft:stone
+fill ~28~43~63 ~28~44~63 minecraft:stone
+setblock ~29~42~63 minecraft:stone
+fill ~29~44~63 ~35~44~63 minecraft:stone
+fill ~34~39~63 ~34~39~65 minecraft:stone
+fill ~34~43~63 ~35~43~63 minecraft:stone
+setblock ~36~42~63 minecraft:stone
+setblock ~54~42~63 minecraft:stone
+fill ~55~43~63 ~56~44~63 minecraft:stone
+fill ~56~39~63 ~56~39~65 minecraft:stone
+fill ~57~44~63 ~62~44~63 minecraft:stone
+setblock ~61~42~63 minecraft:stone
+fill ~62~25~63 ~62~25~72 minecraft:stone
+setblock ~62~43~63 minecraft:stone
+fill ~63~22~63 ~63~24~63 minecraft:stone
+setblock ~63~42~63 minecraft:stone
+setblock ~63~45~63 minecraft:stone
+fill ~64~39~63 ~64~39~64 minecraft:stone
+setblock ~67~32~63 minecraft:stone
+setblock ~67~36~63 minecraft:stone
+fill ~69~40~63 ~69~43~63 minecraft:fence
+setblock ~69~44~63 minecraft:planks
+fill ~69~46~63 ~69~47~63 minecraft:fence
+fill ~71~27~63 ~71~27~64 minecraft:stone
+setblock ~73~22~63 minecraft:stone
+fill ~73~24~63 ~73~24~64 minecraft:stone
+fill ~74~20~63 ~74~20~64 minecraft:stone
+fill ~15~18~64 ~15~19~65 minecraft:stone
+fill ~16~21~64 ~26~21~64 minecraft:stone
+setblock ~16~22~64 minecraft:stone
+setblock ~20~29~64 minecraft:stone
+fill ~21~31~64 ~21~31~66 minecraft:stone
+fill ~21~44~64 ~21~44~68 minecraft:wooden_slab
+fill ~23~31~64 ~23~31~67 minecraft:stone
+fill ~23~33~64 ~23~33~67 minecraft:stone
+fill ~23~35~64 ~23~35~67 minecraft:stone
+fill ~23~37~64 ~23~37~67 minecraft:stone
+setblock ~26~20~64 minecraft:stone
+setblock ~26~22~64 minecraft:stone
+fill ~26~40~64 ~26~42~64 minecraft:stone
+setblock ~27~39~64 minecraft:stone
+fill ~28~40~64 ~29~40~64 minecraft:stone
+fill ~30~41~64 ~31~41~64 minecraft:stone
+setblock ~32~40~64 minecraft:stone
+fill ~32~42~64 ~33~42~64 minecraft:stone
+fill ~35~40~64 ~35~42~64 minecraft:stone
+fill ~55~40~64 ~55~42~64 minecraft:stone
+fill ~57~42~64 ~58~42~64 minecraft:stone
+setblock ~58~40~64 minecraft:stone
+fill ~59~41~64 ~60~41~64 minecraft:stone
+fill ~61~40~64 ~62~40~64 minecraft:stone
+setblock ~63~39~64 minecraft:stone
+fill ~64~20~64 ~64~22~64 minecraft:stone
+fill ~64~40~64 ~64~42~64 minecraft:stone
+fill ~65~21~64 ~74~21~64 minecraft:stone
+fill ~67~31~64 ~67~31~67 minecraft:stone
+fill ~67~33~64 ~67~33~67 minecraft:stone
+fill ~67~35~64 ~67~35~67 minecraft:stone
+fill ~67~37~64 ~67~37~67 minecraft:stone
+fill ~69~31~64 ~69~31~66 minecraft:stone
+fill ~69~44~64 ~69~44~68 minecraft:wooden_slab
+setblock ~70~29~64 minecraft:stone
+setblock ~74~22~64 minecraft:stone
+fill ~75~18~64 ~75~19~65 minecraft:stone
+fill ~14~16~65 ~14~17~66 minecraft:stone
+setblock ~15~20~65 minecraft:stone
+fill ~16~21~65 ~16~21~74 minecraft:stone
+fill ~17~23~65 ~17~23~66 minecraft:stone
+fill ~19~26~65 ~19~26~66 minecraft:stone
+fill ~21~32~65 ~23~32~65 minecraft:stone
+fill ~21~37~65 ~22~37~65 minecraft:stone
+fill ~21~46~65 ~21~46~67 minecraft:fence
+setblock ~22~31~65 minecraft:stone
+fill ~22~33~65 ~22~36~65 minecraft:stone
+setblock ~23~34~65 minecraft:stone
+setblock ~23~36~65 minecraft:stone
+fill ~25~18~65 ~25~20~65 minecraft:stone
+fill ~25~39~65 ~25~40~65 minecraft:stone
+fill ~26~21~65 ~26~21~74 minecraft:stone
+setblock ~33~39~65 minecraft:stone
+setblock ~34~40~65 minecraft:stone
+setblock ~56~40~65 minecraft:stone
+setblock ~57~39~65 minecraft:stone
+fill ~64~21~65 ~64~21~74 minecraft:stone
+fill ~65~18~65 ~65~20~65 minecraft:stone
+fill ~65~39~65 ~65~40~65 minecraft:stone
+fill ~67~32~65 ~69~32~65 minecraft:stone
+fill ~67~34~65 ~68~34~65 minecraft:stone
+fill ~67~36~65 ~68~36~65 minecraft:stone
+setblock ~68~31~65 minecraft:stone
+setblock ~68~33~65 minecraft:stone
+setblock ~68~35~65 minecraft:stone
+fill ~68~37~65 ~69~37~65 minecraft:stone
+fill ~69~46~65 ~69~46~67 minecraft:fence
+fill ~71~26~65 ~71~26~66 minecraft:stone
+fill ~73~23~65 ~73~23~66 minecraft:stone
+fill ~74~21~65 ~74~21~74 minecraft:stone
+setblock ~75~20~65 minecraft:stone
+fill ~76~16~65 ~76~17~66 minecraft:stone
+fill ~13~14~66 ~13~15~67 minecraft:stone
+setblock ~14~18~66 minecraft:stone
+fill ~15~17~66 ~24~17~66 minecraft:stone
+setblock ~20~29~66 minecraft:stone
+fill ~23~32~66 ~23~32~67 minecraft:stone
+setblock ~24~16~66 minecraft:stone
+setblock ~24~18~66 minecraft:stone
+fill ~66~16~66 ~66~18~66 minecraft:stone
+fill ~67~17~66 ~75~17~66 minecraft:stone
+fill ~67~32~66 ~67~32~67 minecraft:stone
+setblock ~70~29~66 minecraft:stone
+setblock ~76~18~66 minecraft:stone
+fill ~77~14~66 ~77~15~67 minecraft:stone
+fill ~2~0~67 ~23~0~67 minecraft:stone_block_slab
+fill ~12~11~67 ~12~13~67 minecraft:stone
+fill ~13~16~67 ~13~16~70 minecraft:stone
+fill ~14~17~67 ~14~17~76 minecraft:stone
+setblock ~15~18~67 minecraft:stone
+fill ~17~22~67 ~17~22~68 minecraft:stone
+fill ~23~14~67 ~23~16~67 minecraft:stone
+setblock ~23~34~67 minecraft:stone
+setblock ~23~36~67 minecraft:stone
+fill ~24~17~67 ~24~17~76 minecraft:stone
+fill ~24~30~67 ~28~30~70 minecraft:stone
+fill ~24~31~67 ~26~31~67 minecraft:stone
+fill ~24~32~67 ~25~33~67 minecraft:stone
+fill ~24~35~67 ~26~35~67 minecraft:stone
+fill ~24~37~67 ~26~37~67 minecraft:stone
+fill ~25~34~67 ~25~34~68 minecraft:stone
+fill ~25~36~67 ~25~36~68 minecraft:stone
+setblock ~26~33~67 minecraft:stone
+setblock ~27~32~67 minecraft:stone
+setblock ~27~36~67 minecraft:stone
+fill ~28~31~67 ~30~31~67 minecraft:stone
+fill ~28~33~67 ~30~33~67 minecraft:stone
+fill ~28~35~67 ~30~35~67 minecraft:stone
+fill ~28~37~67 ~30~37~67 minecraft:stone
+fill ~29~32~67 ~29~32~69 minecraft:stone
+fill ~29~34~67 ~29~34~68 minecraft:stone
+fill ~29~36~67 ~29~36~68 minecraft:stone
+setblock ~31~32~67 minecraft:stone
+setblock ~31~36~67 minecraft:stone
+fill ~32~31~67 ~34~31~67 minecraft:stone
+fill ~32~33~67 ~34~33~67 minecraft:stone
+fill ~32~35~67 ~34~35~67 minecraft:stone
+fill ~32~37~67 ~34~37~67 minecraft:stone
+fill ~33~32~67 ~33~32~69 minecraft:stone
+fill ~33~34~67 ~33~34~68 minecraft:stone
+fill ~33~36~67 ~33~36~68 minecraft:stone
+setblock ~35~32~67 minecraft:stone
+setblock ~35~36~67 minecraft:stone
+fill ~36~31~67 ~38~31~67 minecraft:stone
+fill ~36~33~67 ~38~33~67 minecraft:stone
+fill ~36~35~67 ~38~35~67 minecraft:stone
+fill ~36~37~67 ~38~37~67 minecraft:stone
+fill ~37~32~67 ~37~32~69 minecraft:stone
+fill ~37~34~67 ~37~34~68 minecraft:stone
+fill ~37~36~67 ~37~36~68 minecraft:stone
+setblock ~39~32~67 minecraft:stone
+setblock ~39~36~67 minecraft:stone
+fill ~40~31~67 ~42~31~67 minecraft:stone
+fill ~40~33~67 ~42~33~67 minecraft:stone
+fill ~40~35~67 ~42~35~67 minecraft:stone
+fill ~40~37~67 ~42~37~67 minecraft:stone
+fill ~41~32~67 ~41~32~69 minecraft:stone
+fill ~41~34~67 ~41~34~68 minecraft:stone
+fill ~41~36~67 ~41~36~68 minecraft:stone
+setblock ~43~32~67 minecraft:stone
+setblock ~43~36~67 minecraft:stone
+fill ~44~31~67 ~46~31~67 minecraft:stone
+fill ~44~33~67 ~46~33~67 minecraft:stone
+fill ~44~35~67 ~46~35~67 minecraft:stone
+fill ~44~37~67 ~46~37~67 minecraft:stone
+fill ~45~32~67 ~45~32~69 minecraft:stone
+fill ~45~34~67 ~45~34~68 minecraft:stone
+fill ~45~36~67 ~45~36~68 minecraft:stone
+setblock ~47~32~67 minecraft:stone
+setblock ~47~36~67 minecraft:stone
+fill ~48~31~67 ~50~31~67 minecraft:stone
+fill ~48~33~67 ~50~33~67 minecraft:stone
+fill ~48~35~67 ~50~35~67 minecraft:stone
+fill ~48~37~67 ~50~37~67 minecraft:stone
+fill ~49~32~67 ~49~32~69 minecraft:stone
+fill ~49~34~67 ~49~34~68 minecraft:stone
+fill ~49~36~67 ~49~36~68 minecraft:stone
+setblock ~51~32~67 minecraft:stone
+setblock ~51~36~67 minecraft:stone
+fill ~52~31~67 ~54~31~67 minecraft:stone
+fill ~52~33~67 ~54~33~67 minecraft:stone
+fill ~52~35~67 ~54~35~67 minecraft:stone
+fill ~52~37~67 ~54~37~67 minecraft:stone
+fill ~53~32~67 ~53~32~69 minecraft:stone
+fill ~53~34~67 ~53~34~68 minecraft:stone
+fill ~53~36~67 ~53~36~68 minecraft:stone
+setblock ~55~32~67 minecraft:stone
+setblock ~55~36~67 minecraft:stone
+fill ~56~31~67 ~58~31~67 minecraft:stone
+fill ~56~33~67 ~58~33~67 minecraft:stone
+fill ~56~35~67 ~58~35~67 minecraft:stone
+fill ~56~37~67 ~58~37~67 minecraft:stone
+fill ~57~32~67 ~57~32~69 minecraft:stone
+fill ~57~34~67 ~57~34~68 minecraft:stone
+fill ~57~36~67 ~57~36~68 minecraft:stone
+setblock ~59~32~67 minecraft:stone
+setblock ~59~36~67 minecraft:stone
+fill ~60~31~67 ~62~31~67 minecraft:stone
+fill ~60~33~67 ~62~33~67 minecraft:stone
+fill ~60~35~67 ~62~35~67 minecraft:stone
+fill ~60~37~67 ~62~37~67 minecraft:stone
+fill ~61~32~67 ~61~32~69 minecraft:stone
+fill ~61~34~67 ~61~34~68 minecraft:stone
+fill ~61~36~67 ~61~36~68 minecraft:stone
+fill ~62~30~67 ~66~30~70 minecraft:stone
+setblock ~63~32~67 minecraft:stone
+setblock ~63~36~67 minecraft:stone
+fill ~64~31~67 ~66~31~67 minecraft:stone
+fill ~64~33~67 ~66~33~67 minecraft:stone
+fill ~64~35~67 ~66~35~67 minecraft:stone
+fill ~64~37~67 ~66~37~67 minecraft:stone
+fill ~65~32~67 ~66~32~67 minecraft:stone
+fill ~65~34~67 ~65~34~68 minecraft:stone
+fill ~65~36~67 ~65~36~68 minecraft:stone
+fill ~66~17~67 ~66~17~76 minecraft:stone
+fill ~67~0~67 ~89~0~67 minecraft:stone_block_slab
+fill ~67~14~67 ~67~16~67 minecraft:stone
+setblock ~67~34~67 minecraft:stone
+setblock ~67~36~67 minecraft:stone
+fill ~73~22~67 ~73~22~68 minecraft:stone
+setblock ~75~18~67 minecraft:stone
+fill ~76~17~67 ~76~17~76 minecraft:stone
+fill ~77~16~67 ~77~16~70 minecraft:stone
+fill ~78~11~67 ~78~13~67 minecraft:stone
+fill ~2~0~68 ~2~0~89 minecraft:stone_block_slab
+fill ~3~0~68 ~22~0~68 minecraft:stone_block_slab 8
+fill ~11~10~68 ~11~10~69 minecraft:stone
+fill ~12~12~68 ~12~14~68 minecraft:stone
+fill ~13~13~68 ~22~13~68 minecraft:stone
+setblock ~15~19~68 minecraft:stone
+setblock ~20~29~68 minecraft:stone
+fill ~21~31~68 ~22~31~69 minecraft:stone
+setblock ~22~12~68 minecraft:stone
+setblock ~22~14~68 minecraft:stone
+fill ~22~32~68 ~22~37~68 minecraft:stone
+fill ~23~0~68 ~23~0~89 minecraft:stone_block_slab
+fill ~25~31~68 ~25~32~69 minecraft:stone
+setblock ~25~33~68 minecraft:stone
+setblock ~25~35~68 minecraft:stone
+fill ~25~37~68 ~25~37~69 minecraft:stone
+fill ~29~31~68 ~29~31~69 minecraft:stone
+setblock ~29~33~68 minecraft:stone
+setblock ~29~35~68 minecraft:stone
+fill ~29~37~68 ~29~37~69 minecraft:stone
+fill ~33~31~68 ~33~31~69 minecraft:stone
+setblock ~33~33~68 minecraft:stone
+setblock ~33~35~68 minecraft:stone
+fill ~33~37~68 ~33~37~69 minecraft:stone
+fill ~37~31~68 ~37~31~69 minecraft:stone
+setblock ~37~33~68 minecraft:stone
+setblock ~37~35~68 minecraft:stone
+fill ~37~37~68 ~37~37~69 minecraft:stone
+fill ~41~31~68 ~41~31~69 minecraft:stone
+setblock ~41~33~68 minecraft:stone
+setblock ~41~35~68 minecraft:stone
+fill ~41~37~68 ~41~37~69 minecraft:stone
+fill ~45~31~68 ~45~31~69 minecraft:stone
+setblock ~45~33~68 minecraft:stone
+setblock ~45~35~68 minecraft:stone
+fill ~45~37~68 ~45~37~69 minecraft:stone
+fill ~49~31~68 ~49~31~69 minecraft:stone
+setblock ~49~33~68 minecraft:stone
+setblock ~49~35~68 minecraft:stone
+fill ~49~37~68 ~49~37~69 minecraft:stone
+fill ~53~31~68 ~53~31~69 minecraft:stone
+setblock ~53~33~68 minecraft:stone
+setblock ~53~35~68 minecraft:stone
+fill ~53~37~68 ~53~37~69 minecraft:stone
+fill ~57~31~68 ~57~31~69 minecraft:stone
+setblock ~57~33~68 minecraft:stone
+setblock ~57~35~68 minecraft:stone
+fill ~57~37~68 ~57~37~69 minecraft:stone
+fill ~61~31~68 ~61~31~69 minecraft:stone
+setblock ~61~33~68 minecraft:stone
+setblock ~61~35~68 minecraft:stone
+fill ~61~37~68 ~61~37~69 minecraft:stone
+fill ~65~31~68 ~65~32~69 minecraft:stone
+setblock ~65~33~68 minecraft:stone
+setblock ~65~35~68 minecraft:stone
+fill ~65~37~68 ~65~37~69 minecraft:stone
+fill ~67~0~68 ~67~0~89 minecraft:stone_block_slab
+fill ~68~0~68 ~88~0~68 minecraft:stone_block_slab 8
+fill ~68~12~68 ~68~14~68 minecraft:stone
+fill ~68~31~68 ~69~31~69 minecraft:stone
+fill ~68~32~68 ~68~37~68 minecraft:stone
+fill ~69~13~68 ~78~13~68 minecraft:stone
+setblock ~70~29~68 minecraft:stone
+setblock ~75~19~68 minecraft:stone
+setblock ~78~12~68 minecraft:stone
+setblock ~78~14~68 minecraft:stone
+fill ~79~10~68 ~79~10~69 minecraft:stone
+fill ~89~0~68 ~89~0~89 minecraft:stone_block_slab
+fill ~3~0~69 ~3~0~88 minecraft:stone_block_slab 8
+fill ~4~1~69 ~21~1~69 minecraft:stone_block_slab
+fill ~10~7~69 ~10~8~69 minecraft:stone
+fill ~11~11~69 ~11~12~69 minecraft:stone
+fill ~12~13~69 ~12~13~78 minecraft:stone
+fill ~15~20~69 ~15~20~70 minecraft:stone
+setblock ~19~26~69 minecraft:stone
+fill ~21~10~69 ~21~12~69 minecraft:stone
+setblock ~21~32~69 minecraft:stone
+setblock ~21~37~69 minecraft:stone
+fill ~21~40~69 ~21~43~69 minecraft:fence
+setblock ~21~44~69 minecraft:planks
+fill ~21~46~69 ~21~47~69 minecraft:fence
+fill ~22~0~69 ~22~0~88 minecraft:stone_block_slab 8
+fill ~22~13~69 ~22~13~78 minecraft:stone
+fill ~22~39~69 ~68~39~69 minecraft:fence
+fill ~22~44~69 ~26~44~69 minecraft:wooden_slab
+fill ~22~45~69 ~68~45~69 minecraft:fence
+fill ~23~46~69 ~25~46~69 minecraft:fence
+setblock ~24~31~69 minecraft:stone
+setblock ~26~31~69 minecraft:stone
+fill ~27~40~69 ~27~43~69 minecraft:fence
+setblock ~27~44~69 minecraft:planks
+fill ~27~46~69 ~27~47~69 minecraft:fence
+setblock ~28~31~69 minecraft:stone
+fill ~28~44~69 ~31~44~69 minecraft:wooden_slab
+fill ~29~30~69 ~29~30~70 minecraft:stone
+fill ~29~46~69 ~30~46~69 minecraft:fence
+setblock ~30~31~69 minecraft:stone
+setblock ~32~31~69 minecraft:stone
+fill ~32~40~69 ~32~43~69 minecraft:fence
+setblock ~32~44~69 minecraft:planks
+fill ~32~46~69 ~32~47~69 minecraft:fence
+fill ~33~44~69 ~36~44~69 minecraft:wooden_slab
+setblock ~34~31~69 minecraft:stone
+fill ~34~46~69 ~35~46~69 minecraft:fence
+setblock ~36~31~69 minecraft:stone
+fill ~37~40~69 ~37~43~69 minecraft:fence
+setblock ~37~44~69 minecraft:planks
+fill ~37~46~69 ~37~47~69 minecraft:fence
+setblock ~38~31~69 minecraft:stone
+fill ~38~44~69 ~41~44~69 minecraft:wooden_slab
+fill ~39~46~69 ~40~46~69 minecraft:fence
+setblock ~40~31~69 minecraft:stone
+setblock ~42~31~69 minecraft:stone
+fill ~42~40~69 ~42~43~69 minecraft:fence
+setblock ~42~44~69 minecraft:planks
+fill ~42~46~69 ~42~47~69 minecraft:fence
+fill ~43~44~69 ~47~44~69 minecraft:wooden_slab
+setblock ~44~31~69 minecraft:stone
+fill ~44~46~69 ~46~46~69 minecraft:fence
+setblock ~46~31~69 minecraft:stone
+setblock ~48~31~69 minecraft:stone
+fill ~48~40~69 ~48~43~69 minecraft:fence
+setblock ~48~44~69 minecraft:planks
+fill ~48~46~69 ~48~47~69 minecraft:fence
+fill ~49~44~69 ~52~44~69 minecraft:wooden_slab
+setblock ~50~31~69 minecraft:stone
+fill ~50~46~69 ~51~46~69 minecraft:fence
+setblock ~52~31~69 minecraft:stone
+fill ~53~40~69 ~53~43~69 minecraft:fence
+setblock ~53~44~69 minecraft:planks
+fill ~53~46~69 ~53~47~69 minecraft:fence
+setblock ~54~31~69 minecraft:stone
+fill ~54~44~69 ~57~44~69 minecraft:wooden_slab
+fill ~55~46~69 ~56~46~69 minecraft:fence
+setblock ~56~31~69 minecraft:stone
+setblock ~58~31~69 minecraft:stone
+fill ~58~40~69 ~58~43~69 minecraft:fence
+setblock ~58~44~69 minecraft:planks
+fill ~58~46~69 ~58~47~69 minecraft:fence
+fill ~59~44~69 ~62~44~69 minecraft:wooden_slab
+setblock ~60~31~69 minecraft:stone
+fill ~60~46~69 ~61~46~69 minecraft:fence
+fill ~61~30~69 ~61~30~70 minecraft:stone
+setblock ~62~31~69 minecraft:stone
+fill ~63~40~69 ~63~43~69 minecraft:fence
+setblock ~63~44~69 minecraft:planks
+fill ~63~46~69 ~63~47~69 minecraft:fence
+setblock ~64~31~69 minecraft:stone
+fill ~64~44~69 ~68~44~69 minecraft:wooden_slab
+fill ~65~46~69 ~67~46~69 minecraft:fence
+setblock ~66~31~69 minecraft:stone
+fill ~68~0~69 ~68~0~88 minecraft:stone_block_slab 8
+fill ~68~13~69 ~68~13~78 minecraft:stone
+fill ~69~1~69 ~87~1~69 minecraft:stone_block_slab
+fill ~69~10~69 ~69~12~69 minecraft:stone
+setblock ~69~32~69 minecraft:stone
+setblock ~69~37~69 minecraft:stone
+fill ~69~40~69 ~69~43~69 minecraft:fence
+setblock ~69~44~69 minecraft:planks
+fill ~69~46~69 ~69~47~69 minecraft:fence
+setblock ~71~26~69 minecraft:stone
+fill ~75~20~69 ~75~20~70 minecraft:stone
+fill ~78~13~69 ~78~13~78 minecraft:stone
+fill ~79~11~69 ~79~12~69 minecraft:stone
+fill ~80~7~69 ~80~8~69 minecraft:stone
+fill ~88~0~69 ~88~0~88 minecraft:stone_block_slab 8
+fill ~4~1~70 ~4~1~87 minecraft:stone_block_slab
+fill ~5~1~70 ~20~1~70 minecraft:stone_block_slab 8
+fill ~9~5~70 ~9~6~70 minecraft:stone
+fill ~10~8~70 ~10~10~70 minecraft:stone
+fill ~11~9~70 ~20~9~70 minecraft:stone
+setblock ~17~22~70 minecraft:stone
+fill ~19~27~70 ~19~27~71 minecraft:stone
+setblock ~20~8~70 minecraft:stone
+setblock ~20~10~70 minecraft:stone
+setblock ~20~29~70 minecraft:stone
+fill ~21~1~70 ~21~1~87 minecraft:stone_block_slab
+fill ~21~28~70 ~28~28~71 minecraft:stone
+setblock ~22~29~70 minecraft:stone
+setblock ~24~29~70 minecraft:stone
+setblock ~26~29~70 minecraft:stone
+setblock ~28~29~70 minecraft:stone
+fill ~30~28~70 ~60~28~70 minecraft:stone
+fill ~30~29~70 ~33~30~70 minecraft:stone
+fill ~31~27~70 ~32~27~70 minecraft:stone
+fill ~34~30~70 ~60~30~70 minecraft:stone
+fill ~36~29~70 ~39~29~70 minecraft:stone
+setblock ~41~29~70 minecraft:stone
+setblock ~43~29~70 minecraft:stone
+setblock ~45~29~70 minecraft:stone
+setblock ~47~29~70 minecraft:stone
+setblock ~49~29~70 minecraft:stone
+fill ~51~29~70 ~54~29~70 minecraft:stone
+fill ~57~29~70 ~60~29~70 minecraft:stone
+fill ~58~27~70 ~59~27~70 minecraft:stone
+fill ~62~28~70 ~69~28~71 minecraft:stone
+setblock ~62~29~70 minecraft:stone
+setblock ~64~29~70 minecraft:stone
+setblock ~66~29~70 minecraft:stone
+setblock ~68~29~70 minecraft:stone
+fill ~69~1~70 ~69~1~87 minecraft:stone_block_slab
+fill ~70~1~70 ~86~1~70 minecraft:stone_block_slab 8
+fill ~70~8~70 ~70~10~70 minecraft:stone
+setblock ~70~29~70 minecraft:stone
+fill ~71~9~70 ~80~9~70 minecraft:stone
+fill ~71~27~70 ~71~27~71 minecraft:stone
+setblock ~73~22~70 minecraft:stone
+setblock ~80~8~70 minecraft:stone
+setblock ~80~10~70 minecraft:stone
+fill ~81~5~70 ~81~6~70 minecraft:stone
+fill ~87~1~70 ~87~1~87 minecraft:stone_block_slab
+fill ~5~2~71 ~19~2~71 minecraft:stone_block_slab
+fill ~8~3~71 ~8~4~71 minecraft:stone
+fill ~9~6~71 ~9~8~71 minecraft:stone
+fill ~10~9~71 ~10~9~80 minecraft:stone
+setblock ~11~10~71 minecraft:stone
+setblock ~13~15~71 minecraft:stone
+fill ~15~19~71 ~15~19~72 minecraft:stone
+setblock ~18~23~71 minecraft:stone
+fill ~19~6~71 ~19~8~71 minecraft:stone
+setblock ~19~26~71 minecraft:stone
+fill ~20~1~71 ~20~1~86 minecraft:stone_block_slab 8
+fill ~20~9~71 ~20~9~80 minecraft:stone
+setblock ~20~27~71 minecraft:stone
+setblock ~21~26~71 minecraft:stone
+fill ~24~26~71 ~25~26~71 minecraft:stone
+fill ~26~27~71 ~27~27~71 minecraft:stone
+fill ~29~25~71 ~29~27~71 minecraft:stone
+setblock ~30~27~71 minecraft:stone
+fill ~33~25~71 ~34~25~71 minecraft:stone
+setblock ~33~26~71 minecraft:stone
+fill ~34~28~71 ~35~28~71 minecraft:stone
+fill ~35~26~71 ~36~26~71 minecraft:stone
+setblock ~35~27~71 minecraft:stone
+fill ~37~27~71 ~39~27~71 minecraft:stone
+setblock ~37~28~71 minecraft:stone
+fill ~51~27~71 ~53~27~71 minecraft:stone
+setblock ~53~28~71 minecraft:stone
+fill ~54~26~71 ~55~26~71 minecraft:stone
+fill ~55~27~71 ~55~28~71 minecraft:stone
+fill ~56~25~71 ~57~25~71 minecraft:stone
+setblock ~56~28~71 minecraft:stone
+setblock ~57~26~71 minecraft:stone
+fill ~60~27~71 ~61~27~71 minecraft:stone
+fill ~61~25~71 ~61~26~71 minecraft:stone
+fill ~63~27~71 ~64~27~71 minecraft:stone
+fill ~65~26~71 ~66~26~71 minecraft:stone
+setblock ~69~26~71 minecraft:stone
+fill ~70~1~71 ~70~1~86 minecraft:stone_block_slab 8
+fill ~70~9~71 ~70~9~80 minecraft:stone
+setblock ~70~27~71 minecraft:stone
+fill ~71~2~71 ~85~2~71 minecraft:stone_block_slab
+fill ~71~6~71 ~71~8~71 minecraft:stone
+setblock ~71~26~71 minecraft:stone
+setblock ~72~23~71 minecraft:stone
+fill ~75~19~71 ~75~19~72 minecraft:stone
+setblock ~77~15~71 minecraft:stone
+setblock ~79~10~71 minecraft:stone
+fill ~80~9~71 ~80~9~80 minecraft:stone
+fill ~81~6~71 ~81~8~71 minecraft:stone
+fill ~82~3~71 ~82~4~71 minecraft:stone
+fill ~86~1~71 ~86~1~86 minecraft:stone_block_slab 8
+fill ~5~2~72 ~5~2~85 minecraft:stone_block_slab
+fill ~6~0~72 ~6~2~72 minecraft:double_stone_block_slab
+setblock ~7~0~72 minecraft:stone_block_slab
+setblock ~7~2~72 minecraft:stone_block_slab 8
+fill ~7~3~72 ~7~3~74 minecraft:stone
+fill ~8~0~72 ~16~2~72 minecraft:double_stone_block_slab
+fill ~8~4~72 ~8~6~72 minecraft:stone
+fill ~9~5~72 ~18~5~72 minecraft:stone
+setblock ~11~11~72 minecraft:stone
+fill ~13~14~72 ~13~14~73 minecraft:stone
+setblock ~17~0~72 minecraft:stone_block_slab
+setblock ~17~2~72 minecraft:stone_block_slab 8
+fill ~18~0~72 ~18~2~72 minecraft:double_stone_block_slab
+setblock ~18~4~72 minecraft:stone
+setblock ~18~6~72 minecraft:stone
+setblock ~18~24~72 minecraft:stone
+setblock ~18~26~72 minecraft:stone
+fill ~19~2~72 ~19~2~85 minecraft:stone_block_slab
+setblock ~19~23~72 minecraft:stone
+fill ~19~25~72 ~27~25~72 minecraft:stone
+fill ~28~24~72 ~29~24~72 minecraft:stone
+setblock ~28~26~72 minecraft:stone
+fill ~31~24~72 ~32~24~72 minecraft:stone
+fill ~31~25~72 ~31~26~72 minecraft:stone
+fill ~58~24~72 ~59~24~72 minecraft:stone
+fill ~59~25~72 ~59~26~72 minecraft:stone
+fill ~61~24~72 ~62~24~72 minecraft:stone
+setblock ~62~26~72 minecraft:stone
+fill ~63~25~72 ~71~25~72 minecraft:stone
+fill ~71~2~72 ~71~2~85 minecraft:stone_block_slab
+setblock ~71~23~72 minecraft:stone
+fill ~72~0~72 ~72~2~72 minecraft:double_stone_block_slab
+fill ~72~4~72 ~72~6~72 minecraft:stone
+setblock ~72~24~72 minecraft:stone
+setblock ~72~26~72 minecraft:stone
+setblock ~73~0~72 minecraft:stone_block_slab
+setblock ~73~2~72 minecraft:stone_block_slab 8
+fill ~73~5~72 ~82~5~72 minecraft:stone
+fill ~74~0~72 ~82~2~72 minecraft:double_stone_block_slab
+fill ~77~14~72 ~77~14~73 minecraft:stone
+setblock ~79~11~72 minecraft:stone
+setblock ~82~4~72 minecraft:stone
+setblock ~82~6~72 minecraft:stone
+setblock ~83~0~72 minecraft:stone_block_slab
+setblock ~83~2~72 minecraft:stone_block_slab 8
+fill ~83~3~72 ~83~3~74 minecraft:stone
+fill ~84~0~72 ~84~2~72 minecraft:double_stone_block_slab
+fill ~85~2~72 ~85~2~85 minecraft:stone_block_slab
+setblock ~6~0~73 minecraft:stone_block_slab
+setblock ~6~2~73 minecraft:stone_block_slab 8
+fill ~7~0~73 ~7~2~73 minecraft:stone
+setblock ~7~4~73 minecraft:stone
+fill ~8~5~73 ~8~5~82 minecraft:stone
+fill ~9~7~73 ~9~7~74 minecraft:stone
+fill ~11~12~73 ~11~12~74 minecraft:stone
+fill ~15~18~73 ~15~18~75 minecraft:stone
+fill ~17~0~73 ~17~4~73 minecraft:stone
+fill ~17~22~73 ~17~24~73 minecraft:stone
+setblock ~18~0~73 minecraft:stone_block_slab
+setblock ~18~2~73 minecraft:stone_block_slab 8
+fill ~18~5~73 ~18~5~82 minecraft:stone
+setblock ~20~22~73 minecraft:stone
+fill ~22~22~73 ~23~22~73 minecraft:stone
+fill ~24~23~73 ~25~23~73 minecraft:stone
+fill ~26~24~73 ~27~24~73 minecraft:stone
+fill ~27~22~73 ~27~23~73 minecraft:stone
+setblock ~28~23~73 minecraft:stone
+setblock ~29~22~73 minecraft:stone
+setblock ~30~23~73 minecraft:stone
+setblock ~60~23~73 minecraft:stone
+setblock ~61~22~73 minecraft:stone
+fill ~62~23~73 ~63~23~73 minecraft:stone
+setblock ~63~22~73 minecraft:stone
+fill ~63~24~73 ~64~24~73 minecraft:stone
+fill ~65~23~73 ~66~23~73 minecraft:stone
+fill ~67~22~73 ~68~22~73 minecraft:stone
+setblock ~70~22~73 minecraft:stone
+setblock ~72~0~73 minecraft:stone_block_slab
+setblock ~72~2~73 minecraft:stone_block_slab 8
+fill ~72~5~73 ~72~5~82 minecraft:stone
+fill ~73~0~73 ~73~4~73 minecraft:stone
+fill ~73~22~73 ~73~24~73 minecraft:stone
+fill ~75~18~73 ~75~18~75 minecraft:stone
+fill ~79~12~73 ~79~12~74 minecraft:stone
+fill ~81~7~73 ~81~7~74 minecraft:stone
+fill ~82~5~73 ~82~5~82 minecraft:stone
+fill ~83~0~73 ~83~2~73 minecraft:stone
+setblock ~83~4~73 minecraft:stone
+setblock ~84~0~73 minecraft:stone_block_slab
+setblock ~84~2~73 minecraft:stone_block_slab 8
+fill ~6~0~74 ~6~2~82 minecraft:double_stone_block_slab
+setblock ~16~20~74 minecraft:stone
+setblock ~16~22~74 minecraft:stone
+fill ~17~21~74 ~25~21~74 minecraft:stone
+fill ~18~0~74 ~18~2~82 minecraft:double_stone_block_slab
+fill ~26~20~74 ~27~20~74 minecraft:stone
+setblock ~26~22~74 minecraft:stone
+setblock ~28~21~74 minecraft:stone
+setblock ~62~21~74 minecraft:stone
+fill ~63~20~74 ~64~20~74 minecraft:stone
+setblock ~64~22~74 minecraft:stone
+fill ~65~21~74 ~73~21~74 minecraft:stone
+fill ~72~0~74 ~72~2~82 minecraft:double_stone_block_slab
+setblock ~74~20~74 minecraft:stone
+setblock ~74~22~74 minecraft:stone
+fill ~84~0~74 ~84~2~82 minecraft:double_stone_block_slab
+setblock ~7~4~75 minecraft:stone
+setblock ~9~6~75 minecraft:stone
+fill ~11~11~75 ~11~11~76 minecraft:stone
+setblock ~13~14~75 minecraft:stone
+fill ~15~19~75 ~15~20~75 minecraft:stone
+fill ~16~18~75 ~17~18~75 minecraft:stone
+fill ~18~19~75 ~19~19~75 minecraft:stone
+fill ~20~20~75 ~21~20~75 minecraft:stone
+setblock ~22~19~75 minecraft:stone
+setblock ~23~18~75 minecraft:stone
+fill ~25~18~75 ~26~19~75 minecraft:stone
+setblock ~25~20~75 minecraft:stone
+fill ~64~18~75 ~65~19~75 minecraft:stone
+setblock ~65~20~75 minecraft:stone
+setblock ~67~18~75 minecraft:stone
+setblock ~68~19~75 minecraft:stone
+fill ~69~20~75 ~70~20~75 minecraft:stone
+fill ~71~19~75 ~72~19~75 minecraft:stone
+fill ~73~18~75 ~74~18~75 minecraft:stone
+fill ~75~19~75 ~75~20~75 minecraft:stone
+setblock ~77~14~75 minecraft:stone
+fill ~79~11~75 ~79~11~76 minecraft:stone
+setblock ~81~6~75 minecraft:stone
+setblock ~83~4~75 minecraft:stone
+fill ~13~15~76 ~13~15~77 minecraft:stone
+setblock ~14~16~76 minecraft:stone
+setblock ~14~18~76 minecraft:stone
+fill ~15~17~76 ~23~17~76 minecraft:stone
+fill ~24~16~76 ~25~16~76 minecraft:stone
+setblock ~24~18~76 minecraft:stone
+setblock ~25~17~76 minecraft:stone
+fill ~65~16~76 ~66~16~76 minecraft:stone
+setblock ~65~17~76 minecraft:stone
+setblock ~66~18~76 minecraft:stone
+fill ~67~17~76 ~75~17~76 minecraft:stone
+setblock ~76~16~76 minecraft:stone
+setblock ~76~18~76 minecraft:stone
+fill ~77~15~76 ~77~15~77 minecraft:stone
+fill ~11~10~77 ~11~10~79 minecraft:stone
+setblock ~13~14~77 minecraft:stone
+setblock ~13~16~77 minecraft:stone
+setblock ~14~15~77 minecraft:stone
+setblock ~15~14~77 minecraft:stone
+fill ~17~14~77 ~18~14~77 minecraft:stone
+setblock ~19~15~77 minecraft:stone
+fill ~20~16~77 ~23~16~77 minecraft:stone
+fill ~23~14~77 ~24~15~77 minecraft:stone
+fill ~66~14~77 ~67~15~77 minecraft:stone
+fill ~67~16~77 ~70~16~77 minecraft:stone
+setblock ~71~15~77 minecraft:stone
+fill ~72~14~77 ~73~14~77 minecraft:stone
+setblock ~75~14~77 minecraft:stone
+setblock ~76~15~77 minecraft:stone
+setblock ~77~14~77 minecraft:stone
+setblock ~77~16~77 minecraft:stone
+fill ~79~10~77 ~79~10~79 minecraft:stone
+fill ~7~4~78 ~7~4~79 minecraft:stone
+setblock ~9~6~78 minecraft:stone
+setblock ~12~12~78 minecraft:stone
+setblock ~12~14~78 minecraft:stone
+fill ~13~13~78 ~21~13~78 minecraft:stone
+fill ~22~12~78 ~23~12~78 minecraft:stone
+setblock ~22~14~78 minecraft:stone
+setblock ~23~11~78 minecraft:stone
+setblock ~23~13~78 minecraft:stone
+fill ~67~11~78 ~67~13~78 minecraft:stone
+setblock ~68~12~78 minecraft:stone
+setblock ~68~14~78 minecraft:stone
+fill ~69~13~78 ~77~13~78 minecraft:stone
+setblock ~78~12~78 minecraft:stone
+setblock ~78~14~78 minecraft:stone
+setblock ~81~6~78 minecraft:stone
+fill ~83~4~78 ~83~4~79 minecraft:stone
+setblock ~10~7~79 minecraft:stone
+fill ~11~11~79 ~11~12~79 minecraft:stone
+fill ~12~10~79 ~13~10~79 minecraft:stone
+fill ~14~11~79 ~15~11~79 minecraft:stone
+fill ~16~12~79 ~17~12~79 minecraft:stone
+setblock ~18~11~79 minecraft:stone
+setblock ~19~10~79 minecraft:stone
+fill ~21~10~79 ~22~10~79 minecraft:stone
+fill ~21~11~79 ~21~12~79 minecraft:stone
+fill ~68~10~79 ~69~10~79 minecraft:stone
+fill ~69~11~79 ~69~12~79 minecraft:stone
+setblock ~71~10~79 minecraft:stone
+setblock ~72~11~79 minecraft:stone
+fill ~73~12~79 ~74~12~79 minecraft:stone
+fill ~75~11~79 ~76~11~79 minecraft:stone
+fill ~77~10~79 ~78~10~79 minecraft:stone
+fill ~79~11~79 ~79~12~79 minecraft:stone
+setblock ~80~7~79 minecraft:stone
+fill ~7~3~80 ~7~3~81 minecraft:stone
+setblock ~10~8~80 minecraft:stone
+setblock ~10~10~80 minecraft:stone
+setblock ~11~7~80 minecraft:stone
+fill ~11~9~80 ~19~9~80 minecraft:stone
+fill ~20~8~80 ~21~8~80 minecraft:stone
+setblock ~20~10~80 minecraft:stone
+setblock ~21~7~80 minecraft:stone
+fill ~69~7~80 ~69~8~80 minecraft:stone
+setblock ~70~8~80 minecraft:stone
+setblock ~70~10~80 minecraft:stone
+fill ~71~9~80 ~79~9~80 minecraft:stone
+setblock ~79~7~80 minecraft:stone
+setblock ~80~8~80 minecraft:stone
+setblock ~80~10~80 minecraft:stone
+fill ~83~3~80 ~83~3~81 minecraft:stone
+fill ~9~6~81 ~9~8~81 minecraft:stone
+setblock ~12~6~81 minecraft:stone
+setblock ~15~6~81 minecraft:stone
+fill ~16~7~81 ~17~7~81 minecraft:stone
+fill ~19~6~81 ~20~6~81 minecraft:stone
+fill ~19~7~81 ~19~8~81 minecraft:stone
+setblock ~20~5~81 minecraft:stone
+fill ~70~5~81 ~70~6~81 minecraft:stone
+fill ~71~6~81 ~71~8~81 minecraft:stone
+fill ~73~7~81 ~74~7~81 minecraft:stone
+setblock ~75~6~81 minecraft:stone
+setblock ~78~6~81 minecraft:stone
+fill ~81~6~81 ~81~8~81 minecraft:stone
+setblock ~8~4~82 minecraft:stone
+setblock ~8~6~82 minecraft:stone
+fill ~9~5~82 ~17~5~82 minecraft:stone
+fill ~18~4~82 ~19~4~82 minecraft:stone
+setblock ~18~6~82 minecraft:stone
+setblock ~19~3~82 minecraft:stone
+fill ~71~3~82 ~71~4~82 minecraft:stone
+setblock ~72~4~82 minecraft:stone
+setblock ~72~6~82 minecraft:stone
+fill ~73~5~82 ~81~5~82 minecraft:stone
+setblock ~82~4~82 minecraft:stone
+setblock ~82~6~82 minecraft:stone
+setblock ~6~0~83 minecraft:stone_block_slab
+setblock ~6~2~83 minecraft:stone_block_slab 8
+fill ~7~0~83 ~7~4~83 minecraft:stone
+fill ~9~3~83 ~10~3~83 minecraft:stone
+fill ~11~4~83 ~12~4~83 minecraft:stone
+setblock ~15~4~83 minecraft:stone
+fill ~16~3~83 ~18~3~83 minecraft:stone
+fill ~17~0~83 ~17~2~83 minecraft:stone
+setblock ~17~4~83 minecraft:stone
+setblock ~18~0~83 minecraft:stone_block_slab
+setblock ~18~2~83 minecraft:stone_block_slab 8
+setblock ~72~0~83 minecraft:stone_block_slab
+setblock ~72~2~83 minecraft:stone_block_slab 8
+fill ~72~3~83 ~74~3~83 minecraft:stone
+fill ~73~0~83 ~73~2~83 minecraft:stone
+setblock ~73~4~83 minecraft:stone
+setblock ~75~4~83 minecraft:stone
+fill ~78~4~83 ~79~4~83 minecraft:stone
+fill ~80~3~83 ~81~3~83 minecraft:stone
+fill ~83~0~83 ~83~4~83 minecraft:stone
+setblock ~84~0~83 minecraft:stone_block_slab
+setblock ~84~2~83 minecraft:stone_block_slab 8
+fill ~6~0~84 ~6~2~84 minecraft:double_stone_block_slab
+setblock ~7~0~84 minecraft:stone_block_slab
+setblock ~7~2~84 minecraft:stone_block_slab 8
+fill ~8~0~84 ~16~2~84 minecraft:double_stone_block_slab
+setblock ~17~0~84 minecraft:stone_block_slab
+setblock ~17~2~84 minecraft:stone_block_slab 8
+fill ~18~0~84 ~18~2~84 minecraft:double_stone_block_slab
+fill ~72~0~84 ~72~2~84 minecraft:double_stone_block_slab
+setblock ~73~0~84 minecraft:stone_block_slab
+setblock ~73~2~84 minecraft:stone_block_slab 8
+fill ~74~0~84 ~82~2~84 minecraft:double_stone_block_slab
+setblock ~83~0~84 minecraft:stone_block_slab
+setblock ~83~2~84 minecraft:stone_block_slab 8
+fill ~84~0~84 ~84~2~84 minecraft:double_stone_block_slab
+fill ~6~2~85 ~18~2~85 minecraft:stone_block_slab
+fill ~72~2~85 ~84~2~85 minecraft:stone_block_slab
+fill ~5~1~86 ~19~1~86 minecraft:stone_block_slab 8
+fill ~71~1~86 ~85~1~86 minecraft:stone_block_slab 8
+fill ~5~1~87 ~20~1~87 minecraft:stone_block_slab
+fill ~70~1~87 ~86~1~87 minecraft:stone_block_slab
+fill ~4~0~88 ~21~0~88 minecraft:stone_block_slab 8
+fill ~69~0~88 ~87~0~88 minecraft:stone_block_slab 8
+fill ~3~0~89 ~22~0~89 minecraft:stone_block_slab
+fill ~68~0~89 ~88~0~89 minecraft:stone_block_slab

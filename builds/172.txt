@@ -1,0 +1,463 @@
+fill ~11~2~0 ~13~6~0 minecraft:planks 5
+fill ~8~3~1 ~9~6~1 minecraft:concrete 15
+setblock ~9~2~1 minecraft:concrete 15
+fill ~10~2~1 ~10~6~1 minecraft:planks 5
+fill ~11~1~1 ~13~1~1 minecraft:planks 5
+fill ~11~7~1 ~13~7~2 minecraft:wooden_slab 5
+fill ~14~2~1 ~14~6~1 minecraft:planks 5
+fill ~15~2~1 ~15~6~1 minecraft:concrete 15
+fill ~16~3~1 ~16~6~1 minecraft:concrete 15
+fill ~7~3~2 ~7~6~2 minecraft:concrete 15
+setblock ~8~2~2 minecraft:concrete 15
+fill ~8~3~2 ~9~6~2 minecraft:leaves 0
+fill ~8~7~2 ~10~7~2 minecraft:wooden_slab 5
+setblock ~9~1~2 minecraft:concrete 15
+setblock ~9~2~2 minecraft:leaves 0
+setblock ~10~2~2 minecraft:quartz_block 0
+setblock ~10~3~2 minecraft:furnace 2
+setblock ~10~4~2 minecraft:gravel
+setblock ~10~5~2 minecraft:glowstone
+setblock ~10~6~2 minecraft:quartz_block 0
+fill ~11~1~2 ~13~1~2 minecraft:stonebrick 0
+setblock ~11~2~2 minecraft:stone_button 5
+setblock ~11~4~2 minecraft:ladder 5
+setblock ~11~5~2 minecraft:trapdoor 0
+setblock ~11~6~2 minecraft:stone_button 5
+setblock ~13~2~2 minecraft:stone_button 4
+setblock ~13~4~2 minecraft:ladder 4
+setblock ~13~5~2 minecraft:trapdoor 1
+setblock ~13~6~2 minecraft:stone_button 4
+setblock ~14~2~2 minecraft:quartz_block 0
+setblock ~14~3~2 minecraft:furnace 2
+setblock ~14~4~2 minecraft:gravel
+setblock ~14~5~2 minecraft:glowstone
+setblock ~14~6~2 minecraft:quartz_block 0
+fill ~14~7~2 ~16~7~2 minecraft:wooden_slab 5
+setblock ~15~1~2 minecraft:concrete 15
+fill ~15~2~2 ~15~6~2 minecraft:leaves 0
+setblock ~16~2~2 minecraft:concrete 15
+fill ~16~3~2 ~16~6~2 minecraft:leaves 0
+fill ~17~3~2 ~17~6~2 minecraft:concrete 15
+setblock ~7~2~3 minecraft:stonebrick 0
+fill ~7~3~3 ~7~6~3 minecraft:quartz_block 2
+setblock ~7~7~3 minecraft:wooden_slab 5
+fill ~8~2~3 ~8~2~7 minecraft:grass
+fill ~9~2~3 ~9~2~8 minecraft:stone_block_slab 4
+fill ~10~1~3 ~10~1~8 minecraft:log 1
+setblock ~10~2~3 minecraft:stone_button 3
+setblock ~10~4~3 minecraft:ladder 3
+setblock ~10~5~3 minecraft:trapdoor 2
+setblock ~10~6~3 minecraft:stone_button 3
+fill ~11~1~3 ~13~1~3 minecraft:stone_block_slab 8
+fill ~14~1~3 ~14~1~8 minecraft:log 1
+setblock ~14~2~3 minecraft:stone_button 3
+setblock ~14~4~3 minecraft:ladder 3
+setblock ~14~5~3 minecraft:trapdoor 2
+setblock ~14~6~3 minecraft:stone_button 3
+fill ~15~2~3 ~15~2~8 minecraft:stone_block_slab 4
+fill ~16~2~3 ~16~2~7 minecraft:grass
+setblock ~17~2~3 minecraft:stonebrick 0
+fill ~17~3~3 ~17~6~3 minecraft:quartz_block 2
+setblock ~17~7~3 minecraft:wooden_slab 5
+setblock ~6~2~4 minecraft:stonebrick 0
+setblock ~6~3~4 minecraft:quartz_block 0
+setblock ~6~4~4 minecraft:nether_brick
+setblock ~6~5~4 minecraft:glowstone
+setblock ~6~6~4 minecraft:quartz_block 0
+setblock ~6~7~4 minecraft:wooden_slab 5
+fill ~7~2~4 ~7~2~8 minecraft:grass
+setblock ~7~3~4 minecraft:tripwire_hook 3
+setblock ~7~4~4 minecraft:ladder 5
+setblock ~7~5~4 minecraft:trapdoor 0
+setblock ~7~6~4 minecraft:wooden_button 5
+fill ~11~1~4 ~11~1~10 minecraft:stone_block_slab 8
+setblock ~12~1~4 minecraft:stone_stairs 3
+setblock ~12~4~4 minecraft:barrier
+fill ~13~1~4 ~13~1~10 minecraft:stone_block_slab 8
+fill ~17~2~4 ~17~2~8 minecraft:grass
+setblock ~17~3~4 minecraft:tripwire_hook 1
+setblock ~17~4~4 minecraft:ladder 4
+setblock ~17~5~4 minecraft:trapdoor 1
+setblock ~17~6~4 minecraft:wooden_button 4
+setblock ~18~2~4 minecraft:stonebrick 0
+setblock ~18~3~4 minecraft:quartz_block 0
+setblock ~18~4~4 minecraft:nether_brick
+setblock ~18~5~4 minecraft:glowstone
+setblock ~18~6~4 minecraft:quartz_block 0
+setblock ~18~7~4 minecraft:wooden_slab 5
+setblock ~5~2~5 minecraft:stonebrick 0
+fill ~5~3~5 ~5~6~5 minecraft:quartz_block 2
+setblock ~5~7~5 minecraft:wooden_slab 5
+fill ~6~2~5 ~6~2~8 minecraft:grass
+setblock ~6~3~5 minecraft:tripwire_hook 0
+setblock ~6~4~5 minecraft:ladder 3
+setblock ~6~5~5 minecraft:trapdoor 2
+setblock ~6~6~5 minecraft:wooden_button 3
+setblock ~12~1~5 minecraft:stone 0
+fill ~18~2~5 ~18~2~8 minecraft:grass
+setblock ~18~3~5 minecraft:tripwire_hook 0
+setblock ~18~4~5 minecraft:ladder 3
+setblock ~18~5~5 minecraft:trapdoor 2
+setblock ~18~6~5 minecraft:wooden_button 3
+setblock ~19~2~5 minecraft:stonebrick 0
+fill ~19~3~5 ~19~6~5 minecraft:quartz_block 2
+setblock ~19~7~5 minecraft:wooden_slab 5
+setblock ~4~2~6 minecraft:stonebrick 0
+setblock ~4~3~6 minecraft:quartz_block 0
+setblock ~4~4~6 minecraft:nether_brick
+setblock ~4~5~6 minecraft:glowstone
+setblock ~4~6~6 minecraft:quartz_block 0
+setblock ~4~7~6 minecraft:wooden_slab 5
+fill ~5~2~6 ~5~2~8 minecraft:grass
+setblock ~5~3~6 minecraft:tripwire_hook 3
+setblock ~5~4~6 minecraft:ladder 5
+setblock ~5~5~6 minecraft:trapdoor 0
+setblock ~5~6~6 minecraft:wooden_button 5
+setblock ~12~1~6 minecraft:stone_stairs 2
+fill ~19~2~6 ~19~2~8 minecraft:grass
+setblock ~19~3~6 minecraft:tripwire_hook 1
+setblock ~19~4~6 minecraft:ladder 4
+setblock ~19~5~6 minecraft:trapdoor 1
+setblock ~19~6~6 minecraft:wooden_button 4
+setblock ~20~2~6 minecraft:stonebrick 0
+setblock ~20~3~6 minecraft:quartz_block 0
+setblock ~20~4~6 minecraft:nether_brick
+setblock ~20~5~6 minecraft:glowstone
+setblock ~20~6~6 minecraft:quartz_block 0
+setblock ~20~7~6 minecraft:wooden_slab 5
+fill ~2~3~7 ~2~6~7 minecraft:concrete 15
+setblock ~3~2~7 minecraft:stonebrick 0
+fill ~3~3~7 ~3~6~7 minecraft:quartz_block 2
+setblock ~3~7~7 minecraft:wooden_slab 5
+fill ~4~2~7 ~4~2~8 minecraft:grass
+setblock ~4~3~7 minecraft:tripwire_hook 0
+setblock ~4~4~7 minecraft:ladder 3
+setblock ~4~5~7 minecraft:trapdoor 2
+setblock ~4~6~7 minecraft:wooden_button 3
+setblock ~12~0~7 minecraft:redstone_block
+setblock ~12~1~7 minecraft:lit_redstone_lamp
+fill ~20~2~7 ~20~2~8 minecraft:grass
+setblock ~20~3~7 minecraft:tripwire_hook 0
+setblock ~20~4~7 minecraft:ladder 3
+setblock ~20~5~7 minecraft:trapdoor 2
+setblock ~20~6~7 minecraft:wooden_button 3
+setblock ~21~2~7 minecraft:stonebrick 0
+fill ~21~3~7 ~21~6~7 minecraft:quartz_block 2
+setblock ~21~7~7 minecraft:wooden_slab 5
+fill ~22~3~7 ~22~6~7 minecraft:concrete 15
+fill ~1~3~8 ~1~6~9 minecraft:concrete 15
+setblock ~2~2~8 minecraft:concrete 15
+fill ~2~3~8 ~2~6~9 minecraft:leaves 0
+fill ~2~7~8 ~2~7~16 minecraft:wooden_slab 5
+setblock ~3~2~8 minecraft:grass
+fill ~8~2~8 ~8~2~9 minecraft:stone_block_slab 4
+setblock ~9~1~8 minecraft:dirt 0
+setblock ~12~1~8 minecraft:quartz_block 0
+setblock ~15~1~8 minecraft:dirt 0
+fill ~16~2~8 ~16~2~9 minecraft:stone_block_slab 4
+setblock ~21~2~8 minecraft:grass
+setblock ~22~2~8 minecraft:concrete 15
+fill ~22~3~8 ~22~6~9 minecraft:leaves 0
+fill ~22~7~8 ~22~7~16 minecraft:wooden_slab 5
+fill ~23~3~8 ~23~6~9 minecraft:concrete 15
+setblock ~1~2~9 minecraft:concrete 15
+setblock ~2~1~9 minecraft:concrete 15
+setblock ~2~2~9 minecraft:leaves 0
+fill ~3~2~9 ~7~2~9 minecraft:stone_block_slab 4
+setblock ~8~1~9 minecraft:dirt 0
+setblock ~9~0~9 minecraft:dirt 0
+setblock ~9~1~9 minecraft:leaves 0
+setblock ~10~1~9 minecraft:stone_stairs 0
+setblock ~12~1~9 minecraft:stone_brick_stairs 2
+setblock ~14~1~9 minecraft:stone_stairs 1
+setblock ~15~0~9 minecraft:dirt 0
+setblock ~15~1~9 minecraft:leaves 0
+setblock ~16~1~9 minecraft:dirt 0
+fill ~17~2~9 ~21~2~9 minecraft:stone_block_slab 4
+setblock ~22~1~9 minecraft:concrete 15
+setblock ~22~2~9 minecraft:leaves 0
+setblock ~23~2~9 minecraft:concrete 15
+fill ~1~2~10 ~1~6~10 minecraft:planks 5
+setblock ~2~2~10 minecraft:quartz_block 0
+setblock ~2~3~10 minecraft:furnace 4
+setblock ~2~4~10 minecraft:gravel
+setblock ~2~5~10 minecraft:glowstone
+setblock ~2~6~10 minecraft:quartz_block 0
+fill ~3~1~10 ~8~1~10 minecraft:log 1
+setblock ~3~2~10 minecraft:stone_button 5
+setblock ~3~4~10 minecraft:ladder 5
+setblock ~3~5~10 minecraft:trapdoor 0
+setblock ~3~6~10 minecraft:stone_button 5
+setblock ~9~1~10 minecraft:stone_stairs 2
+fill ~10~1~10 ~10~1~11 minecraft:stone_block_slab 8
+setblock ~12~1~10 minecraft:stone 6
+fill ~14~1~10 ~14~1~11 minecraft:stone_block_slab 8
+setblock ~15~1~10 minecraft:stone_stairs 2
+fill ~16~1~10 ~21~1~10 minecraft:log 1
+setblock ~21~2~10 minecraft:stone_button 4
+setblock ~21~4~10 minecraft:ladder 4
+setblock ~21~5~10 minecraft:trapdoor 1
+setblock ~21~6~10 minecraft:stone_button 4
+setblock ~22~2~10 minecraft:quartz_block 0
+setblock ~22~3~10 minecraft:furnace 5
+setblock ~22~4~10 minecraft:gravel
+setblock ~22~5~10 minecraft:glowstone
+setblock ~22~6~10 minecraft:quartz_block 0
+fill ~23~2~10 ~23~6~10 minecraft:planks 5
+fill ~0~2~11 ~0~6~13 minecraft:planks 5
+fill ~1~1~11 ~1~1~13 minecraft:planks 5
+fill ~1~7~11 ~1~7~13 minecraft:wooden_slab 5
+fill ~2~1~11 ~2~1~13 minecraft:stonebrick 0
+setblock ~2~2~11 minecraft:stone_button 3
+setblock ~2~4~11 minecraft:ladder 3
+setblock ~2~5~11 minecraft:trapdoor 2
+setblock ~2~6~11 minecraft:stone_button 3
+fill ~3~1~11 ~9~1~11 minecraft:stone_block_slab 8
+setblock ~11~1~11 minecraft:stone_brick_stairs 3
+setblock ~12~1~11 minecraft:stone_stairs 3
+setblock ~13~1~11 minecraft:stone_brick_stairs 0
+fill ~15~1~11 ~21~1~11 minecraft:stone_block_slab 8
+fill ~22~1~11 ~22~1~13 minecraft:stonebrick 0
+setblock ~22~2~11 minecraft:stone_button 3
+setblock ~22~4~11 minecraft:ladder 3
+setblock ~22~5~11 minecraft:trapdoor 2
+setblock ~22~6~11 minecraft:stone_button 3
+fill ~23~1~11 ~23~1~13 minecraft:planks 5
+fill ~23~7~11 ~23~7~13 minecraft:wooden_slab 5
+fill ~24~2~11 ~24~6~13 minecraft:planks 5
+fill ~3~1~12 ~3~1~13 minecraft:stone_block_slab 8
+setblock ~4~1~12 minecraft:stone_stairs 1
+setblock ~5~1~12 minecraft:stone 0
+setblock ~6~1~12 minecraft:stone_stairs 0
+setblock ~7~0~12 minecraft:redstone_block
+setblock ~7~1~12 minecraft:lit_redstone_lamp
+setblock ~8~1~12 minecraft:quartz_block 0
+setblock ~9~1~12 minecraft:stone_brick_stairs 0
+setblock ~10~1~12 minecraft:stone 6
+setblock ~11~1~12 minecraft:stone_stairs 1
+setblock ~12~1~12 minecraft:diamond_block
+setblock ~13~1~12 minecraft:stone_stairs 0
+setblock ~14~1~12 minecraft:stone 6
+setblock ~15~1~12 minecraft:stone_brick_stairs 1
+setblock ~16~1~12 minecraft:quartz_block 0
+setblock ~17~0~12 minecraft:redstone_block
+setblock ~17~1~12 minecraft:lit_redstone_lamp
+setblock ~18~1~12 minecraft:stone_stairs 1
+setblock ~19~1~12 minecraft:stone 0
+setblock ~20~1~12 minecraft:stone_stairs 0
+fill ~21~1~12 ~21~1~13 minecraft:stone_block_slab 8
+setblock ~2~2~13 minecraft:stone_button 2
+setblock ~2~4~13 minecraft:ladder 2
+setblock ~2~5~13 minecraft:trapdoor 3
+setblock ~2~6~13 minecraft:stone_button 2
+fill ~4~1~13 ~10~1~13 minecraft:stone_block_slab 8
+setblock ~11~1~13 minecraft:stone_brick_stairs 2
+setblock ~12~1~13 minecraft:stone_stairs 2
+setblock ~13~1~13 minecraft:stone_brick_stairs 2
+fill ~14~1~13 ~20~1~13 minecraft:stone_block_slab 8
+setblock ~22~2~13 minecraft:stone_button 2
+setblock ~22~4~13 minecraft:ladder 2
+setblock ~22~5~13 minecraft:trapdoor 3
+setblock ~22~6~13 minecraft:stone_button 2
+fill ~1~2~14 ~1~6~14 minecraft:planks 5
+setblock ~2~2~14 minecraft:quartz_block 0
+setblock ~2~3~14 minecraft:furnace 4
+setblock ~2~4~14 minecraft:gravel
+setblock ~2~5~14 minecraft:glowstone
+setblock ~2~6~14 minecraft:quartz_block 0
+fill ~3~1~14 ~8~1~14 minecraft:log 1
+setblock ~3~2~14 minecraft:stone_button 5
+setblock ~3~4~14 minecraft:ladder 5
+setblock ~3~5~14 minecraft:trapdoor 0
+setblock ~3~6~14 minecraft:stone_button 5
+setblock ~9~1~14 minecraft:stone_stairs 3
+fill ~10~1~14 ~11~1~14 minecraft:stone_block_slab 8
+setblock ~12~1~14 minecraft:stone 6
+fill ~13~1~14 ~14~1~14 minecraft:stone_block_slab 8
+setblock ~15~1~14 minecraft:stone_stairs 3
+fill ~16~1~14 ~21~1~14 minecraft:log 1
+setblock ~21~2~14 minecraft:stone_button 4
+setblock ~21~4~14 minecraft:ladder 4
+setblock ~21~5~14 minecraft:trapdoor 1
+setblock ~21~6~14 minecraft:stone_button 4
+setblock ~22~2~14 minecraft:quartz_block 0
+setblock ~22~3~14 minecraft:furnace 5
+setblock ~22~4~14 minecraft:gravel
+setblock ~22~5~14 minecraft:glowstone
+setblock ~22~6~14 minecraft:quartz_block 0
+fill ~23~2~14 ~23~6~14 minecraft:planks 5
+fill ~1~2~15 ~1~6~15 minecraft:concrete 15
+setblock ~2~1~15 minecraft:concrete 15
+fill ~2~2~15 ~2~6~15 minecraft:leaves 0
+fill ~3~2~15 ~8~2~15 minecraft:stone_block_slab 4
+setblock ~8~1~15 minecraft:dirt 0
+setblock ~9~0~15 minecraft:dirt 0
+setblock ~9~1~15 minecraft:leaves 0
+setblock ~10~1~15 minecraft:stone_stairs 0
+fill ~11~1~15 ~11~1~21 minecraft:stone_block_slab 8
+setblock ~12~1~15 minecraft:stone_brick_stairs 3
+fill ~13~1~15 ~13~1~21 minecraft:stone_block_slab 8
+setblock ~14~1~15 minecraft:stone_stairs 1
+setblock ~15~0~15 minecraft:dirt 0
+setblock ~15~1~15 minecraft:leaves 0
+setblock ~16~1~15 minecraft:dirt 0
+fill ~16~2~15 ~21~2~15 minecraft:stone_block_slab 4
+setblock ~22~1~15 minecraft:concrete 15
+fill ~22~2~15 ~22~6~15 minecraft:leaves 0
+fill ~23~2~15 ~23~6~15 minecraft:concrete 15
+fill ~1~3~16 ~1~6~16 minecraft:concrete 15
+setblock ~2~2~16 minecraft:concrete 15
+fill ~2~3~16 ~2~6~16 minecraft:leaves 0
+fill ~3~2~16 ~7~2~16 minecraft:grass
+fill ~8~2~16 ~9~2~16 minecraft:stone_block_slab 4
+setblock ~9~1~16 minecraft:dirt 0
+fill ~10~1~16 ~10~1~21 minecraft:log 1
+setblock ~12~1~16 minecraft:quartz_block 0
+fill ~14~1~16 ~14~1~21 minecraft:log 1
+setblock ~15~1~16 minecraft:dirt 0
+fill ~15~2~16 ~16~2~16 minecraft:stone_block_slab 4
+fill ~17~2~16 ~21~2~16 minecraft:grass
+setblock ~22~2~16 minecraft:concrete 15
+fill ~22~3~16 ~22~6~16 minecraft:leaves 0
+fill ~23~3~16 ~23~6~16 minecraft:concrete 15
+fill ~2~3~17 ~2~6~17 minecraft:concrete 15
+setblock ~3~2~17 minecraft:stonebrick 0
+fill ~3~3~17 ~3~6~17 minecraft:quartz_block 2
+setblock ~3~7~17 minecraft:wooden_slab 5
+fill ~4~2~17 ~8~2~17 minecraft:grass
+setblock ~4~3~17 minecraft:tripwire_hook 2
+setblock ~4~4~17 minecraft:ladder 2
+setblock ~4~5~17 minecraft:trapdoor 3
+setblock ~4~6~17 minecraft:wooden_button 2
+fill ~9~2~17 ~9~2~21 minecraft:stone_block_slab 4
+setblock ~12~0~17 minecraft:redstone_block
+setblock ~12~1~17 minecraft:lit_redstone_lamp
+fill ~15~2~17 ~15~2~21 minecraft:stone_block_slab 4
+fill ~16~2~17 ~20~2~17 minecraft:grass
+setblock ~20~3~17 minecraft:tripwire_hook 2
+setblock ~20~4~17 minecraft:ladder 2
+setblock ~20~5~17 minecraft:trapdoor 3
+setblock ~20~6~17 minecraft:wooden_button 2
+setblock ~21~2~17 minecraft:stonebrick 0
+fill ~21~3~17 ~21~6~17 minecraft:quartz_block 2
+setblock ~21~7~17 minecraft:wooden_slab 5
+fill ~22~3~17 ~22~6~17 minecraft:concrete 15
+setblock ~4~2~18 minecraft:stonebrick 0
+setblock ~4~3~18 minecraft:quartz_block 0
+setblock ~4~4~18 minecraft:nether_brick
+setblock ~4~5~18 minecraft:glowstone
+setblock ~4~6~18 minecraft:quartz_block 0
+setblock ~4~7~18 minecraft:wooden_slab 5
+fill ~5~2~18 ~8~2~18 minecraft:grass
+setblock ~5~3~18 minecraft:tripwire_hook 3
+setblock ~5~4~18 minecraft:ladder 5
+setblock ~5~5~18 minecraft:trapdoor 0
+setblock ~5~6~18 minecraft:wooden_button 5
+setblock ~12~1~18 minecraft:stone_stairs 3
+fill ~16~2~18 ~19~2~18 minecraft:grass
+setblock ~19~3~18 minecraft:tripwire_hook 1
+setblock ~19~4~18 minecraft:ladder 4
+setblock ~19~5~18 minecraft:trapdoor 1
+setblock ~19~6~18 minecraft:wooden_button 4
+setblock ~20~2~18 minecraft:stonebrick 0
+setblock ~20~3~18 minecraft:quartz_block 0
+setblock ~20~4~18 minecraft:nether_brick
+setblock ~20~5~18 minecraft:glowstone
+setblock ~20~6~18 minecraft:quartz_block 0
+setblock ~20~7~18 minecraft:wooden_slab 5
+setblock ~5~2~19 minecraft:stonebrick 0
+fill ~5~3~19 ~5~6~19 minecraft:quartz_block 2
+setblock ~5~7~19 minecraft:wooden_slab 5
+fill ~6~2~19 ~8~2~19 minecraft:grass
+setblock ~6~3~19 minecraft:tripwire_hook 2
+setblock ~6~4~19 minecraft:ladder 2
+setblock ~6~5~19 minecraft:trapdoor 3
+setblock ~6~6~19 minecraft:wooden_button 2
+setblock ~12~1~19 minecraft:stone 0
+fill ~16~2~19 ~18~2~19 minecraft:grass
+setblock ~18~3~19 minecraft:tripwire_hook 2
+setblock ~18~4~19 minecraft:ladder 2
+setblock ~18~5~19 minecraft:trapdoor 3
+setblock ~18~6~19 minecraft:wooden_button 2
+setblock ~19~2~19 minecraft:stonebrick 0
+fill ~19~3~19 ~19~6~19 minecraft:quartz_block 2
+setblock ~19~7~19 minecraft:wooden_slab 5
+setblock ~6~2~20 minecraft:stonebrick 0
+setblock ~6~3~20 minecraft:quartz_block 0
+setblock ~6~4~20 minecraft:nether_brick
+setblock ~6~5~20 minecraft:glowstone
+setblock ~6~6~20 minecraft:quartz_block 0
+setblock ~6~7~20 minecraft:wooden_slab 5
+fill ~7~2~20 ~8~2~20 minecraft:grass
+setblock ~7~3~20 minecraft:tripwire_hook 3
+setblock ~7~4~20 minecraft:ladder 5
+setblock ~7~5~20 minecraft:trapdoor 0
+setblock ~7~6~20 minecraft:wooden_button 5
+setblock ~12~1~20 minecraft:stone_stairs 2
+fill ~16~2~20 ~17~2~20 minecraft:grass
+setblock ~17~3~20 minecraft:tripwire_hook 1
+setblock ~17~4~20 minecraft:ladder 4
+setblock ~17~5~20 minecraft:trapdoor 1
+setblock ~17~6~20 minecraft:wooden_button 4
+setblock ~18~2~20 minecraft:stonebrick 0
+setblock ~18~3~20 minecraft:quartz_block 0
+setblock ~18~4~20 minecraft:nether_brick
+setblock ~18~5~20 minecraft:glowstone
+setblock ~18~6~20 minecraft:quartz_block 0
+setblock ~18~7~20 minecraft:wooden_slab 5
+setblock ~7~2~21 minecraft:stonebrick 0
+fill ~7~3~21 ~7~6~21 minecraft:quartz_block 2
+setblock ~7~7~21 minecraft:wooden_slab 5
+setblock ~8~2~21 minecraft:grass
+setblock ~10~2~21 minecraft:stone_button 2
+setblock ~10~4~21 minecraft:ladder 2
+setblock ~10~5~21 minecraft:trapdoor 3
+setblock ~10~6~21 minecraft:stone_button 2
+setblock ~12~1~21 minecraft:stone_block_slab 8
+setblock ~14~2~21 minecraft:stone_button 2
+setblock ~14~4~21 minecraft:ladder 2
+setblock ~14~5~21 minecraft:trapdoor 3
+setblock ~14~6~21 minecraft:stone_button 2
+setblock ~16~2~21 minecraft:grass
+setblock ~17~2~21 minecraft:stonebrick 0
+fill ~17~3~21 ~17~6~21 minecraft:quartz_block 2
+setblock ~17~7~21 minecraft:wooden_slab 5
+fill ~7~3~22 ~7~6~22 minecraft:concrete 15
+setblock ~8~2~22 minecraft:concrete 15
+fill ~8~3~22 ~9~6~22 minecraft:leaves 0
+fill ~8~7~22 ~16~7~22 minecraft:wooden_slab 5
+setblock ~9~1~22 minecraft:concrete 15
+setblock ~9~2~22 minecraft:leaves 0
+setblock ~10~2~22 minecraft:quartz_block 0
+setblock ~10~3~22 minecraft:furnace 3
+setblock ~10~4~22 minecraft:gravel
+setblock ~10~5~22 minecraft:glowstone
+setblock ~10~6~22 minecraft:quartz_block 0
+fill ~11~1~22 ~13~1~22 minecraft:stonebrick 0
+setblock ~11~2~22 minecraft:stone_button 5
+setblock ~11~4~22 minecraft:ladder 5
+setblock ~11~5~22 minecraft:trapdoor 0
+setblock ~11~6~22 minecraft:stone_button 5
+setblock ~13~2~22 minecraft:stone_button 4
+setblock ~13~4~22 minecraft:ladder 4
+setblock ~13~5~22 minecraft:trapdoor 1
+setblock ~13~6~22 minecraft:stone_button 4
+setblock ~14~2~22 minecraft:quartz_block 0
+setblock ~14~3~22 minecraft:furnace 3
+setblock ~14~4~22 minecraft:gravel
+setblock ~14~5~22 minecraft:glowstone
+setblock ~14~6~22 minecraft:quartz_block 0
+setblock ~15~1~22 minecraft:concrete 15
+fill ~15~2~22 ~15~6~22 minecraft:leaves 0
+setblock ~16~2~22 minecraft:concrete 15
+fill ~16~3~22 ~16~6~22 minecraft:leaves 0
+fill ~17~3~22 ~17~6~22 minecraft:concrete 15
+fill ~8~3~23 ~9~6~23 minecraft:concrete 15
+setblock ~9~2~23 minecraft:concrete 15
+fill ~10~2~23 ~10~6~23 minecraft:planks 5
+fill ~11~1~23 ~13~1~23 minecraft:planks 5
+fill ~11~7~23 ~13~7~23 minecraft:wooden_slab 5
+fill ~14~2~23 ~14~6~23 minecraft:planks 5
+fill ~15~2~23 ~15~6~23 minecraft:concrete 15
+fill ~16~3~23 ~16~6~23 minecraft:concrete 15
+fill ~11~2~24 ~13~6~24 minecraft:planks 5

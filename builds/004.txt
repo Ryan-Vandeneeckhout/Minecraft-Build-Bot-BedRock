@@ -1,0 +1,2564 @@
+setblock ~5 ~30 ~25 chest 3  
+setblock ~4 ~30 ~25 chest 3  
+setblock ~9 ~30 ~29 chest 4  
+setblock ~9 ~30 ~30 chest 4  
+setblock ~3 ~30 ~30 furnace 5  
+setblock ~17 ~18 ~12 chest 3  
+setblock ~26 ~25 ~20 furnace 3  
+setblock ~25 ~32 ~20 chest 3  
+setblock ~28 ~2 ~17 chest 5  
+setblock ~28 ~2 ~18 chest 5  
+setblock ~28 ~3 ~17 chest 5  
+setblock ~20 ~33 ~26 chest 5  
+setblock ~21 ~8 ~25 chest 5  
+setblock ~28 ~3 ~18 chest 5  
+setblock ~16 ~18 ~12 furnace 3  
+setblock ~18 ~18 ~12 chest 3  
+setblock ~24 ~32 ~20 chest 3  
+setblock ~21 ~8 ~24 chest 5  
+setblock ~25 ~8 ~28 furnace 2  
+setblock ~24 ~25 ~30 chest 2  
+setblock ~25 ~25 ~30 chest 2  
+setblock ~27 ~32 ~30 furnace 4  
+setblock ~43 ~23 ~25 furnace 3  
+setblock ~34 ~2 ~26 chest 4  
+setblock ~34 ~2 ~25 chest 4  
+setblock ~35 ~3 ~26 furnace 4  
+setblock ~34 ~2 ~19 chest 4  
+setblock ~34 ~2 ~18 chest 4  
+setblock ~35 ~3 ~25 furnace 4  
+fill ~10 ~0 ~22 ~13 ~0 ~22 grass 0  
+fill ~10 ~0 ~23 ~13 ~0 ~23 grass 0  
+fill ~10 ~0 ~24 ~13 ~0 ~24 grass 0  
+fill ~11 ~0 ~19 ~21 ~0 ~19 grass 0  
+fill ~11 ~0 ~20 ~19 ~0 ~20 grass 0  
+fill ~11 ~0 ~21 ~14 ~0 ~21 grass 0  
+fill ~11 ~0 ~25 ~14 ~0 ~25 grass 0  
+fill ~11 ~0 ~26 ~15 ~0 ~26 grass 0  
+fill ~12 ~0 ~16 ~24 ~0 ~16 grass 0  
+fill ~12 ~0 ~17 ~18 ~0 ~17 grass 0  
+fill ~12 ~0 ~18 ~20 ~0 ~18 grass 0  
+fill ~12 ~0 ~27 ~15 ~0 ~27 grass 0  
+fill ~12 ~0 ~28 ~19 ~0 ~28 grass 0  
+fill ~13 ~0 ~14 ~24 ~0 ~14 grass 0  
+fill ~13 ~0 ~15 ~24 ~0 ~15 grass 0  
+fill ~13 ~0 ~29 ~18 ~0 ~29 grass 0  
+fill ~13 ~0 ~30 ~17 ~0 ~30 grass 0  
+fill ~13 ~0 ~31 ~16 ~0 ~31 grass 0  
+fill ~14 ~0 ~12 ~30 ~0 ~12 grass 0  
+fill ~14 ~0 ~13 ~37 ~0 ~13 grass 0  
+fill ~14 ~0 ~22 ~38 ~0 ~22 dirt 0  
+fill ~14 ~0 ~23 ~34 ~0 ~23 dirt 0  
+fill ~14 ~0 ~24 ~36 ~0 ~24 dirt 0  
+fill ~14 ~0 ~32 ~20 ~0 ~32 grass 0  
+fill ~14 ~0 ~33 ~30 ~0 ~33 grass 0  
+fill ~15 ~0 ~11 ~25 ~0 ~11 grass 0  
+fill ~15 ~0 ~21 ~34 ~0 ~21 dirt 0  
+fill ~15 ~0 ~25 ~36 ~0 ~25 dirt 0  
+fill ~15 ~0 ~34 ~39 ~0 ~34 grass 0  
+fill ~15 ~0 ~35 ~23 ~0 ~35 grass 0  
+fill ~16 ~0 ~10 ~24 ~0 ~10 grass 0  
+fill ~16 ~0 ~26 ~23 ~0 ~26 dirt 0  
+fill ~16 ~0 ~27 ~18 ~0 ~27 dirt 0  
+fill ~16 ~0 ~36 ~18 ~0 ~36 grass 0  
+fill ~17 ~0 ~9 ~24 ~0 ~9 grass 0  
+fill ~17 ~0 ~31 ~18 ~0 ~31 dirt 0  
+fill ~17 ~0 ~37 ~18 ~0 ~37 grass 0  
+fill ~18 ~0 ~8 ~23 ~0 ~8 grass 0  
+fill ~18 ~0 ~30 ~19 ~0 ~30 dirt 0 
+setblock ~18 ~0 ~38 grass 0  
+fill ~19 ~0 ~17 ~21 ~0 ~17 dirt 0 
+setblock ~19 ~0 ~27 grass 0  
+fill ~19 ~0 ~29 ~19 ~0 ~29 dirt 0  
+fill ~19 ~0 ~31 ~20 ~0 ~31 grass 0  
+fill ~19 ~0 ~36 ~21 ~0 ~36 gravel 0  
+fill ~19 ~0 ~37 ~19 ~0 ~38 gravel 0  
+fill ~19 ~0 ~39 ~34 ~0 ~39 grass 0  
+fill ~19 ~0 ~40 ~33 ~0 ~40 grass 0  
+fill ~20 ~0 ~7 ~22 ~0 ~7 grass 0  
+fill ~20 ~0 ~20 ~35 ~0 ~20 dirt 0  
+fill ~20 ~0 ~27 ~22 ~0 ~27 dirt 0  
+fill ~20 ~0 ~28 ~21 ~0 ~28 dirt 0  
+fill ~20 ~0 ~29 ~20 ~0 ~35 grass 0 
+setblock ~20 ~0 ~37 netherrack 0  
+fill ~20 ~0 ~38 ~21 ~0 ~38 gravel 0  
+fill ~21 ~0 ~6 ~22 ~0 ~6 grass 0  
+fill ~21 ~0 ~18 ~35 ~0 ~18 dirt 0  
+fill ~21 ~0 ~29 ~21 ~0 ~29 dirt 0  
+fill ~21 ~0 ~30 ~21 ~1 ~30 log 0  
+fill ~21 ~0 ~31 ~21 ~2 ~31 planks 0  
+fill ~21 ~0 ~32 ~23 ~0 ~32 planks 0 
+setblock ~21 ~0 ~37 gravel 0  
+fill ~22 ~0 ~5 ~23 ~0 ~5 grass 0  
+fill ~22 ~0 ~17 ~24 ~0 ~17 grass 0  
+fill ~22 ~0 ~19 ~35 ~0 ~19 dirt 0  
+fill ~22 ~0 ~28 ~22 ~11 ~28 log 0  
+fill ~22 ~0 ~29 ~22 ~3 ~29 log 0  
+fill ~22 ~0 ~36 ~37 ~0 ~36 grass 0  
+fill ~22 ~0 ~37 ~36 ~0 ~37 grass 0  
+fill ~22 ~0 ~38 ~24 ~0 ~38 grass 0  
+fill ~23 ~0 ~4 ~28 ~0 ~4 grass 0  
+fill ~23 ~0 ~6 ~26 ~0 ~6 water 0  
+fill ~23 ~0 ~7 ~27 ~0 ~7 water 0  
+fill ~23 ~0 ~27 ~23 ~6 ~27 log 0  
+fill ~24 ~0 ~5 ~26 ~0 ~5 water 0  
+fill ~24 ~0 ~8 ~28 ~0 ~8 water 0 
+setblock ~24 ~0 ~26 planks 0 
+setblock ~24 ~0 ~27 oak_stairs 3  
+fill ~24 ~0 ~31 ~24 ~2 ~31 planks 0  
+fill ~24 ~0 ~32 ~25 ~0 ~32 grass 0  
+fill ~24 ~0 ~35 ~24 ~0 ~35 dirt 0  
+fill ~25 ~0 ~9 ~28 ~0 ~9 water 0  
+fill ~25 ~0 ~10 ~28 ~0 ~10 water 0  
+fill ~25 ~0 ~14 ~25 ~0 ~14 dirt 0  
+fill ~25 ~0 ~15 ~25 ~0 ~15 dirt 0  
+fill ~25 ~0 ~16 ~25 ~0 ~16 dirt 0  
+fill ~25 ~0 ~17 ~35 ~0 ~17 dirt 0  
+fill ~25 ~0 ~26 ~36 ~0 ~26 dirt 0  
+fill ~25 ~0 ~27 ~25 ~2 ~27 cobblestone 0  
+fill ~25 ~0 ~28 ~27 ~0 ~28 cobblestone 0  
+fill ~25 ~0 ~29 ~27 ~0 ~29 cobblestone 0  
+fill ~25 ~0 ~30 ~27 ~0 ~30 cobblestone 0  
+fill ~25 ~0 ~31 ~27 ~0 ~31 cobblestone 0  
+fill ~25 ~0 ~35 ~38 ~0 ~35 grass 0  
+fill ~25 ~0 ~38 ~25 ~0 ~38 dirt 0  
+fill ~26 ~0 ~11 ~27 ~0 ~11 water 0  
+fill ~26 ~0 ~14 ~38 ~0 ~14 grass 0  
+fill ~26 ~0 ~15 ~29 ~0 ~15 grass 0  
+fill ~26 ~0 ~16 ~26 ~0 ~12 grass 0  
+fill ~26 ~0 ~27 ~36 ~0 ~27 dirt 0  
+fill ~26 ~0 ~32 ~27 ~0 ~32 cobblestone 0  
+fill ~26 ~0 ~38 ~35 ~0 ~38 grass 0  
+fill ~27 ~0 ~5 ~30 ~0 ~5 grass 0  
+fill ~27 ~0 ~6 ~28 ~0 ~6 grass 0  
+fill ~27 ~0 ~16 ~35 ~0 ~16 dirt 0  
+fill ~28 ~0 ~7 ~30 ~0 ~7 grass 0  
+fill ~28 ~0 ~11 ~36 ~0 ~11 grass 0  
+fill ~28 ~0 ~28 ~34 ~0 ~28 dirt 0  
+fill ~28 ~0 ~29 ~34 ~0 ~29 dirt 0  
+fill ~28 ~0 ~30 ~33 ~0 ~30 dirt 0  
+fill ~28 ~0 ~31 ~28 ~0 ~31 dirt 0  
+fill ~28 ~0 ~32 ~30 ~0 ~32 grass 0 
+setblock ~29 ~0 ~6 gravel 0  
+fill ~29 ~0 ~8 ~33 ~0 ~8 grass 0  
+fill ~29 ~0 ~9 ~29 ~0 ~15 grass 0 
+setblock ~29 ~0 ~31 grass 0  
+fill ~30 ~0 ~6 ~31 ~0 ~6 grass 0 
+setblock ~30 ~0 ~9 gravel 0  
+fill ~30 ~0 ~10 ~31 ~0 ~10 grass 0  
+fill ~30 ~0 ~15 ~32 ~0 ~15 dirt 0  
+fill ~30 ~0 ~31 ~33 ~0 ~31 dirt 0 
+setblock ~31 ~0 ~7 gravel 0  
+fill ~31 ~0 ~9 ~34 ~0 ~9 grass 0 
+setblock ~31 ~0 ~12 gravel 0  
+fill ~31 ~0 ~32 ~31 ~0 ~32 dirt 0  
+fill ~31 ~0 ~33 ~31 ~0 ~33 dirt 0 
+setblock ~32 ~0 ~7 grass 0 
+setblock ~32 ~0 ~10 gravel 0  
+fill ~32 ~0 ~12 ~37 ~0 ~12 grass 0  
+fill ~32 ~0 ~32 ~40 ~0 ~32 grass 0  
+fill ~32 ~0 ~33 ~40 ~0 ~33 grass 0  
+fill ~33 ~0 ~10 ~35 ~0 ~10 grass 0  
+fill ~33 ~0 ~15 ~38 ~0 ~15 grass 0  
+fill ~34 ~0 ~30 ~41 ~0 ~30 grass 0  
+fill ~34 ~0 ~31 ~41 ~0 ~31 grass 0  
+fill ~35 ~0 ~21 ~41 ~0 ~21 grass 0  
+fill ~35 ~0 ~23 ~41 ~0 ~23 grass 0  
+fill ~35 ~0 ~28 ~42 ~0 ~28 grass 0  
+fill ~35 ~0 ~29 ~42 ~0 ~29 grass 0  
+fill ~36 ~0 ~16 ~39 ~0 ~16 grass 0  
+fill ~36 ~0 ~17 ~39 ~0 ~17 grass 0  
+fill ~36 ~0 ~18 ~39 ~0 ~18 grass 0  
+fill ~36 ~0 ~19 ~40 ~0 ~19 grass 0  
+fill ~36 ~0 ~20 ~40 ~0 ~20 grass 0  
+fill ~37 ~0 ~24 ~42 ~0 ~24 grass 0  
+fill ~37 ~0 ~25 ~42 ~0 ~25 grass 0  
+fill ~37 ~0 ~26 ~42 ~0 ~26 grass 0  
+fill ~37 ~0 ~27 ~42 ~0 ~27 grass 0  
+fill ~39 ~0 ~22 ~41 ~0 ~22 grass 0  
+fill ~40 ~0 ~15 ~40 ~0 ~17 tallgrass 1  
+fill ~41 ~0 ~16 ~42 ~0 ~16 tallgrass 1  
+fill ~41 ~0 ~17 ~42 ~0 ~17 tallgrass 1  
+fill ~42 ~0 ~14 ~42 ~0 ~18 tallgrass 1  
+fill ~43 ~0 ~15 ~45 ~0 ~15 cobblestone 0  
+fill ~43 ~0 ~16 ~43 ~0 ~16 cobblestone 0  
+fill ~43 ~0 ~17 ~45 ~0 ~17 cobblestone 0  
+fill ~43 ~0 ~19 ~45 ~0 ~19 tallgrass 1  
+fill ~43 ~0 ~20 ~44 ~0 ~20 tallgrass 1  
+fill ~44 ~0 ~16 ~44 ~0 ~16 water 0  
+fill ~45 ~0 ~16 ~45 ~0 ~16 cobblestone 0 
+setblock ~45 ~0 ~18 tallgrass 1 
+setblock ~46 ~0 ~15 tallgrass 1  
+fill ~46 ~0 ~17 ~47 ~0 ~17 tallgrass 1 
+setblock ~46 ~0 ~20 tallgrass 1 
+setblock ~47 ~0 ~16 tallgrass 1  
+fill ~47 ~0 ~18 ~47 ~0 ~19 tallgrass 1  
+fill ~49 ~0 ~40 ~49 ~0 ~40 grass 0 
+setblock ~11 ~1 ~25 tallgrass 1 
+setblock ~13 ~1 ~24 tallgrass 1  
+fill ~13 ~1 ~26 ~15 ~1 ~26 tallgrass 1  
+fill ~13 ~1 ~27 ~15 ~1 ~27 tallgrass 1  
+fill ~13 ~1 ~28 ~19 ~1 ~28 tallgrass 1  
+fill ~14 ~1 ~22 ~16 ~1 ~22 grass 0  
+fill ~14 ~1 ~23 ~17 ~1 ~23 grass 0  
+fill ~14 ~1 ~24 ~16 ~1 ~24 grass 0 
+setblock ~14 ~1 ~25 tallgrass 1 
+setblock ~14 ~1 ~30 tallgrass 1  
+fill ~15 ~1 ~21 ~18 ~1 ~21 grass 0  
+fill ~15 ~1 ~25 ~18 ~1 ~25 grass 0  
+fill ~15 ~1 ~29 ~17 ~1 ~29 tallgrass 1 
+setblock ~16 ~1 ~18 tallgrass 1  
+fill ~16 ~1 ~26 ~17 ~1 ~26 grass 0  
+fill ~16 ~1 ~27 ~18 ~1 ~27 log 0  
+fill ~17 ~1 ~19 ~21 ~1 ~19 tallgrass 1  
+fill ~17 ~1 ~20 ~19 ~1 ~20 tallgrass 1  
+fill ~17 ~1 ~22 ~19 ~1 ~22 cobblestone 0  
+fill ~17 ~1 ~24 ~19 ~1 ~24 cobblestone 0 
+setblock ~17 ~1 ~30 tallgrass 1  
+fill ~17 ~1 ~31 ~18 ~1 ~31 log 0 
+setblock ~18 ~1 ~18 tallgrass 1 
+setblock ~18 ~1 ~23 planks 0  
+fill ~18 ~1 ~26 ~23 ~1 ~26 log 0  
+fill ~18 ~1 ~30 ~19 ~1 ~30 log 0  
+fill ~18 ~1 ~32 ~20 ~1 ~32 tallgrass 1 
+setblock ~18 ~1 ~35 stone_slab 2  
+fill ~19 ~1 ~17 ~21 ~1 ~17 log 0  
+fill ~19 ~1 ~21 ~20 ~1 ~21 log 0 
+setblock ~19 ~1 ~23 cobblestone 0  
+fill ~19 ~1 ~25 ~21 ~1 ~25 log 0 
+setblock ~19 ~1 ~27 tallgrass 1  
+fill ~19 ~1 ~29 ~19 ~2 ~29 log 0  
+fill ~19 ~1 ~31 ~20 ~1 ~31 tallgrass 1 
+setblock ~19 ~1 ~33 tallgrass 1 
+setblock ~20 ~1 ~18 tallgrass 1  
+fill ~20 ~1 ~20 ~21 ~1 ~20 log 0  
+fill ~20 ~1 ~22 ~22 ~1 ~22 log 0  
+fill ~20 ~1 ~23 ~28 ~1 ~23 planks 0  
+fill ~20 ~1 ~24 ~21 ~1 ~24 log 0  
+fill ~20 ~1 ~27 ~23 ~1 ~27 log 0  
+fill ~20 ~1 ~28 ~22 ~1 ~28 log 0  
+fill ~20 ~1 ~29 ~20 ~1 ~32 tallgrass 1 
+setblock ~20 ~1 ~34 tallgrass 1 
+setblock ~20 ~1 ~37 fire 15  
+fill ~21 ~1 ~14 ~22 ~1 ~14 tallgrass 1  
+fill ~21 ~1 ~15 ~23 ~1 ~15 tallgrass 1  
+fill ~21 ~1 ~16 ~23 ~1 ~16 tallgrass 1  
+fill ~21 ~1 ~18 ~25 ~1 ~18 log 0  
+fill ~21 ~1 ~21 ~22 ~1 ~21 dirt 0  
+fill ~21 ~1 ~29 ~21 ~2 ~29 log 0  
+fill ~21 ~1 ~32 ~21 ~0 ~32 planks 0 
+setblock ~21 ~1 ~33 tallgrass 1  
+fill ~22 ~1 ~11 ~23 ~1 ~11 stone_slab 2  
+fill ~22 ~1 ~17 ~23 ~1 ~17 tallgrass 1 
+setblock ~22 ~1 ~19 log 0  
+fill ~22 ~1 ~20 ~26 ~1 ~20 dirt 0  
+fill ~22 ~1 ~24 ~27 ~1 ~24 planks 0  
+fill ~22 ~1 ~25 ~27 ~1 ~25 planks 0 
+setblock ~22 ~1 ~32 glass_pane 0 
+setblock ~22 ~1 ~34 tallgrass 1 
+setblock ~22 ~1 ~35 stone_slab 2 
+setblock ~22 ~1 ~39 stone_slab 2  
+fill ~23 ~1 ~13 ~27 ~1 ~13 tallgrass 1  
+fill ~23 ~1 ~19 ~24 ~1 ~19 dirt 0  
+fill ~23 ~1 ~21 ~24 ~1 ~21 log 0  
+fill ~23 ~1 ~22 ~24 ~1 ~22 planks 0 
+setblock ~23 ~1 ~31 torch 4 
+setblock ~23 ~1 ~32 planks 0 
+setblock ~24 ~1 ~15 red_mushroom 0 
+setblock ~24 ~1 ~17 red_mushroom 0 
+setblock ~24 ~1 ~26 oak_stairs 3 
+setblock ~24 ~1 ~32 red_mushroom 0 
+setblock ~24 ~1 ~35 planks 0  
+fill ~25 ~1 ~14 ~25 ~1 ~19 log 0  
+fill ~25 ~1 ~21 ~26 ~1 ~21 dirt 0  
+fill ~25 ~1 ~22 ~26 ~1 ~22 log 0  
+fill ~25 ~1 ~26 ~26 ~1 ~26 planks 0  
+fill ~25 ~1 ~28 ~25 ~2 ~28 cobblestone 0  
+fill ~25 ~1 ~29 ~25 ~2 ~29 cobblestone 0  
+fill ~25 ~1 ~30 ~25 ~2 ~30 cobblestone 0  
+fill ~25 ~1 ~31 ~25 ~2 ~31 cobblestone 0 
+setblock ~25 ~1 ~38 log 0 
+setblock ~26 ~1 ~12 tallgrass 1  
+fill ~26 ~1 ~15 ~27 ~1 ~15 tallgrass 1  
+fill ~26 ~1 ~16 ~26 ~1 ~15 tallgrass 1 
+setblock ~26 ~1 ~17 grass 0  
+fill ~26 ~1 ~18 ~26 ~1 ~21 dirt 0 
+setblock ~26 ~1 ~27 oak_stairs 3 
+setblock ~27 ~1 ~14 tallgrass 1  
+fill ~27 ~1 ~16 ~29 ~1 ~16 cobblestone 0  
+fill ~27 ~1 ~17 ~27 ~1 ~20 cobblestone 0  
+fill ~27 ~1 ~21 ~31 ~1 ~21 planks 0  
+fill ~27 ~1 ~22 ~31 ~1 ~22 planks 0  
+fill ~27 ~1 ~26 ~27 ~6 ~26 log 0  
+fill ~27 ~1 ~27 ~27 ~3 ~27 cobblestone 0 
+setblock ~27 ~1 ~28 crafting_table 0  
+fill ~27 ~1 ~36 ~30 ~1 ~36 fence 0  
+fill ~27 ~1 ~37 ~28 ~1 ~37 red_flower 0  
+fill ~27 ~1 ~38 ~28 ~1 ~38 red_flower 0  
+fill ~27 ~1 ~39 ~28 ~1 ~39 red_flower 0 
+setblock ~28 ~1 ~12 tallgrass 1 
+setblock ~28 ~1 ~14 red_mushroom 0  
+fill ~28 ~1 ~17 ~34 ~1 ~17 planks 0  
+fill ~28 ~1 ~18 ~34 ~1 ~18 planks 0  
+fill ~28 ~1 ~19 ~34 ~1 ~19 planks 0  
+fill ~28 ~1 ~20 ~31 ~1 ~20 planks 0  
+fill ~28 ~1 ~24 ~28 ~2 ~24 log 0  
+fill ~28 ~1 ~25 ~28 ~6 ~25 log 0  
+fill ~28 ~1 ~26 ~29 ~1 ~26 dirt 0  
+fill ~28 ~1 ~27 ~29 ~1 ~27 dirt 0  
+fill ~28 ~1 ~28 ~28 ~2 ~28 cobblestone 0  
+fill ~28 ~1 ~29 ~28 ~2 ~29 cobblestone 0  
+fill ~28 ~1 ~30 ~28 ~2 ~30 cobblestone 0  
+fill ~28 ~1 ~31 ~28 ~2 ~31 cobblestone 0 
+setblock ~29 ~1 ~15 red_mushroom 0  
+fill ~29 ~1 ~23 ~29 ~6 ~23 log 0  
+fill ~29 ~1 ~24 ~29 ~2 ~24 dirt 0  
+fill ~29 ~1 ~25 ~29 ~4 ~25 dirt 0  
+fill ~29 ~1 ~28 ~29 ~9 ~28 dirt 0  
+fill ~29 ~1 ~29 ~29 ~10 ~29 log 0  
+fill ~29 ~1 ~30 ~30 ~1 ~30 log 0 
+setblock ~29 ~1 ~31 red_mushroom 0  
+fill ~29 ~1 ~37 ~30 ~1 ~37 yellow_flower 0  
+fill ~29 ~1 ~38 ~30 ~1 ~38 yellow_flower 0  
+fill ~29 ~1 ~39 ~30 ~1 ~39 yellow_flower 0 
+setblock ~30 ~1 ~14 standing_sign 8  
+fill ~30 ~1 ~15 ~32 ~1 ~15 cobblestone 0  
+fill ~30 ~1 ~16 ~32 ~1 ~16 planks 0  
+fill ~30 ~1 ~23 ~31 ~1 ~23 planks 0  
+fill ~30 ~1 ~24 ~31 ~1 ~24 planks 0  
+fill ~30 ~1 ~25 ~35 ~1 ~25 planks 0  
+fill ~30 ~1 ~26 ~35 ~1 ~26 planks 0  
+fill ~30 ~1 ~27 ~33 ~1 ~27 planks 0  
+fill ~30 ~1 ~28 ~33 ~1 ~28 planks 0  
+fill ~30 ~1 ~29 ~34 ~1 ~29 cobblestone 0  
+fill ~30 ~1 ~31 ~31 ~1 ~31 log 0 
+setblock ~30 ~1 ~32 red_mushroom 0 
+setblock ~31 ~1 ~14 stone_slab 2  
+fill ~31 ~1 ~30 ~33 ~1 ~30 grass 0  
+fill ~31 ~1 ~32 ~31 ~1 ~33 log 0  
+fill ~32 ~1 ~14 ~35 ~1 ~14 tallgrass 1  
+fill ~32 ~1 ~20 ~35 ~1 ~20 cobblestone 0  
+fill ~32 ~1 ~21 ~32 ~1 ~24 cobblestone 0  
+fill ~32 ~1 ~31 ~33 ~1 ~31 grass 0  
+fill ~33 ~1 ~15 ~34 ~1 ~15 tallgrass 1  
+fill ~33 ~1 ~16 ~35 ~1 ~16 cobblestone 0  
+fill ~33 ~1 ~21 ~33 ~1 ~23 dirt 0  
+fill ~33 ~1 ~24 ~36 ~1 ~24 cobblestone 0 
+setblock ~34 ~1 ~21 grass 0 
+setblock ~34 ~1 ~22 dirt 0 
+setblock ~34 ~1 ~23 grass 0  
+fill ~34 ~1 ~27 ~36 ~1 ~27 cobblestone 0  
+fill ~34 ~1 ~28 ~34 ~1 ~27 cobblestone 0  
+fill ~34 ~1 ~31 ~36 ~1 ~31 tallgrass 1  
+fill ~35 ~1 ~17 ~35 ~1 ~20 cobblestone 0 
+setblock ~35 ~1 ~21 tallgrass 1  
+fill ~35 ~1 ~22 ~38 ~1 ~22 log 0  
+fill ~35 ~1 ~23 ~39 ~1 ~23 tallgrass 1  
+fill ~35 ~1 ~28 ~37 ~1 ~28 tallgrass 1  
+fill ~35 ~1 ~29 ~36 ~1 ~29 tallgrass 1  
+fill ~35 ~1 ~30 ~37 ~1 ~30 tallgrass 1 
+setblock ~36 ~1 ~18 red_mushroom 0  
+fill ~36 ~1 ~20 ~37 ~1 ~20 tallgrass 1  
+fill ~36 ~1 ~25 ~36 ~1 ~27 cobblestone 0  
+fill ~37 ~1 ~21 ~38 ~1 ~21 tallgrass 1  
+fill ~37 ~1 ~24 ~39 ~1 ~24 tallgrass 1  
+fill ~37 ~1 ~25 ~39 ~1 ~25 tallgrass 1  
+fill ~37 ~1 ~26 ~38 ~1 ~26 tallgrass 1 
+setblock ~37 ~1 ~32 tallgrass 1  
+fill ~38 ~1 ~19 ~39 ~1 ~19 tallgrass 1 
+setblock ~38 ~1 ~27 tallgrass 1 
+setblock ~39 ~1 ~18 tallgrass 1 
+setblock ~39 ~1 ~30 tallgrass 1  
+fill ~43 ~1 ~16 ~43 ~2 ~16 fence 0  
+fill ~45 ~1 ~16 ~45 ~2 ~16 fence 0  
+fill ~16 ~2 ~24 ~16 ~2 ~25 tallgrass 1  
+fill ~17 ~2 ~21 ~18 ~2 ~21 tallgrass 1  
+fill ~17 ~2 ~22 ~19 ~2 ~22 planks 0  
+fill ~17 ~2 ~24 ~19 ~2 ~24 planks 0  
+fill ~17 ~2 ~25 ~18 ~2 ~25 tallgrass 1  
+fill ~17 ~2 ~26 ~17 ~2 ~25 tallgrass 1 
+setblock ~19 ~2 ~23 wooden_door 2  
+fill ~19 ~2 ~25 ~21 ~2 ~25 log 0  
+fill ~19 ~2 ~26 ~23 ~2 ~26 log 0  
+fill ~20 ~2 ~21 ~24 ~2 ~21 log 0  
+fill ~20 ~2 ~22 ~26 ~2 ~22 log 0  
+fill ~20 ~2 ~24 ~21 ~2 ~24 log 0  
+fill ~20 ~2 ~27 ~23 ~2 ~27 log 0  
+fill ~20 ~2 ~28 ~22 ~2 ~28 log 0 
+setblock ~21 ~2 ~20 torch 2  
+fill ~21 ~2 ~30 ~21 ~3 ~30 planks 0  
+fill ~21 ~2 ~32 ~23 ~2 ~32 oak_stairs 3 
+setblock ~22 ~2 ~18 log 0  
+fill ~22 ~2 ~20 ~24 ~2 ~20 log 0  
+fill ~23 ~2 ~19 ~25 ~2 ~19 log 0  
+fill ~25 ~2 ~17 ~25 ~2 ~19 log 0  
+fill ~25 ~2 ~20 ~26 ~2 ~20 dirt 0  
+fill ~25 ~2 ~21 ~25 ~3 ~21 dirt 0  
+fill ~25 ~2 ~26 ~25 ~5 ~26 log 0 
+setblock ~26 ~2 ~17 tallgrass 1 
+setblock ~26 ~2 ~18 grass 0 
+setblock ~26 ~2 ~19 dirt 0  
+fill ~26 ~2 ~21 ~27 ~2 ~21 log 0 
+setblock ~26 ~2 ~26 wooden_door 1  
+fill ~27 ~2 ~16 ~29 ~2 ~16 planks 0  
+fill ~27 ~2 ~17 ~27 ~4 ~17 planks 0  
+fill ~27 ~2 ~18 ~27 ~5 ~18 planks 0  
+fill ~27 ~2 ~19 ~27 ~4 ~19 planks 0  
+fill ~27 ~2 ~20 ~27 ~4 ~20 planks 0 
+setblock ~27 ~2 ~25 log 0 
+setblock ~27 ~2 ~29 wall_sign 4  
+fill ~28 ~2 ~19 ~28 ~4 ~19 log 0  
+fill ~28 ~2 ~20 ~29 ~2 ~20 log 0 
+setblock ~28 ~2 ~21 crafting_table 0  
+fill ~28 ~2 ~26 ~29 ~2 ~26 dirt 0  
+fill ~28 ~2 ~27 ~29 ~2 ~27 dirt 0  
+fill ~29 ~2 ~21 ~29 ~7 ~21 log 0  
+fill ~29 ~2 ~30 ~30 ~2 ~30 log 0  
+fill ~30 ~2 ~15 ~30 ~3 ~15 planks 0  
+fill ~30 ~2 ~20 ~30 ~4 ~20 ladder 2  
+fill ~30 ~2 ~21 ~30 ~4 ~21 planks 0  
+fill ~30 ~2 ~23 ~30 ~4 ~23 planks 0  
+fill ~30 ~2 ~24 ~30 ~4 ~24 planks 0  
+fill ~30 ~2 ~25 ~30 ~10 ~25 planks 0  
+fill ~30 ~2 ~26 ~30 ~9 ~26 planks 0  
+fill ~30 ~2 ~27 ~30 ~9 ~27 planks 0  
+fill ~30 ~2 ~28 ~30 ~8 ~28 planks 0  
+fill ~30 ~2 ~29 ~31 ~2 ~29 planks 0  
+fill ~30 ~2 ~31 ~30 ~1 ~31 log 0 
+setblock ~31 ~2 ~15 wooden_door 1 
+setblock ~31 ~2 ~16 wooden_pressure_plate 0 
+setblock ~31 ~2 ~21 wooden_door 1 
+setblock ~31 ~2 ~30 red_mushroom 0  
+fill ~32 ~2 ~15 ~32 ~3 ~15 planks 0  
+fill ~32 ~2 ~20 ~35 ~2 ~20 planks 0  
+fill ~32 ~2 ~21 ~32 ~6 ~21 planks 0  
+fill ~32 ~2 ~22 ~32 ~10 ~22 planks 0  
+fill ~32 ~2 ~23 ~32 ~6 ~23 planks 0  
+fill ~32 ~2 ~24 ~36 ~2 ~24 planks 0 
+setblock ~32 ~2 ~29 wooden_door 3  
+fill ~33 ~2 ~16 ~35 ~2 ~16 planks 0 
+setblock ~33 ~2 ~21 grass 0 
+setblock ~33 ~2 ~22 dirt 0 
+setblock ~33 ~2 ~23 grass 0 
+setblock ~33 ~2 ~28 crafting_table 0  
+fill ~33 ~2 ~29 ~34 ~2 ~29 planks 0 
+setblock ~33 ~2 ~30 red_mushroom 0 
+setblock ~34 ~2 ~17 crafting_table 0 
+setblock ~34 ~2 ~21 tallgrass 1 
+setblock ~34 ~2 ~22 grass 0 
+setblock ~34 ~2 ~23 tallgrass 1  
+fill ~34 ~2 ~27 ~36 ~2 ~27 planks 0  
+fill ~34 ~2 ~28 ~34 ~4 ~28 planks 0  
+fill ~35 ~2 ~17 ~35 ~4 ~17 planks 0  
+fill ~35 ~2 ~18 ~35 ~3 ~18 planks 0  
+fill ~35 ~2 ~19 ~35 ~4 ~19 planks 0  
+fill ~35 ~2 ~22 ~36 ~2 ~22 log 0  
+fill ~35 ~2 ~25 ~36 ~2 ~25 planks 0  
+fill ~35 ~2 ~26 ~36 ~2 ~26 planks 0 
+setblock ~35 ~2 ~28 torch 1 
+setblock ~42 ~2 ~16 fence 0  
+fill ~43 ~2 ~15 ~45 ~2 ~15 stone_stairs 2  
+fill ~43 ~2 ~17 ~45 ~2 ~17 stone_stairs 3  
+fill ~17 ~3 ~22 ~19 ~3 ~22 planks 0  
+fill ~17 ~3 ~24 ~19 ~3 ~24 planks 0 
+setblock ~19 ~3 ~23 wooden_door 9  
+fill ~19 ~3 ~25 ~21 ~3 ~25 log 0 
+setblock ~19 ~3 ~26 torch 2  
+fill ~20 ~3 ~22 ~22 ~3 ~22 log 0  
+fill ~20 ~3 ~24 ~21 ~3 ~24 log 0  
+fill ~20 ~3 ~26 ~22 ~3 ~26 log 0  
+fill ~20 ~3 ~28 ~22 ~3 ~28 log 0  
+fill ~21 ~3 ~27 ~23 ~3 ~27 log 0 
+setblock ~21 ~3 ~29 planks 0  
+fill ~21 ~3 ~31 ~24 ~3 ~31 stone_slab 2  
+fill ~22 ~3 ~20 ~24 ~3 ~20 log 0  
+fill ~22 ~3 ~21 ~24 ~3 ~21 log 0  
+fill ~22 ~3 ~30 ~24 ~3 ~30 planks 0  
+fill ~23 ~3 ~19 ~24 ~3 ~19 log 0 
+setblock ~23 ~3 ~22 torch 5 
+setblock ~23 ~3 ~26 torch 5 
+setblock ~25 ~3 ~20 grass 0  
+fill ~25 ~3 ~22 ~25 ~6 ~22 log 0  
+fill ~25 ~3 ~27 ~25 ~6 ~27 log 0  
+fill ~25 ~3 ~28 ~25 ~3 ~31 stone 0 
+setblock ~26 ~3 ~18 torch 2 
+setblock ~26 ~3 ~19 grass 0  
+fill ~26 ~3 ~20 ~26 ~4 ~20 log 0  
+fill ~26 ~3 ~21 ~27 ~3 ~21 log 0 
+setblock ~26 ~3 ~22 torch 5 
+setblock ~26 ~3 ~26 wooden_door 8  
+fill ~26 ~3 ~29 ~28 ~3 ~29 stone 0  
+fill ~26 ~3 ~30 ~28 ~3 ~30 stone 0  
+fill ~26 ~3 ~31 ~28 ~3 ~31 stone 0  
+fill ~26 ~3 ~32 ~27 ~3 ~32 stone 0  
+fill ~27 ~3 ~16 ~29 ~3 ~16 planks 0 
+setblock ~27 ~3 ~25 torch 5 
+setblock ~27 ~3 ~28 stone 0  
+fill ~28 ~3 ~20 ~29 ~3 ~20 log 0  
+fill ~28 ~3 ~26 ~29 ~3 ~26 dirt 0  
+fill ~28 ~3 ~27 ~29 ~3 ~27 dirt 0  
+fill ~28 ~3 ~28 ~28 ~6 ~28 log 0 
+setblock ~29 ~3 ~17 wall_sign 3  
+fill ~29 ~3 ~24 ~29 ~6 ~24 log 0  
+fill ~29 ~3 ~30 ~29 ~1 ~30 log 0 
+setblock ~29 ~3 ~31 torch 3 
+setblock ~30 ~3 ~16 torch 3  
+fill ~30 ~3 ~29 ~31 ~3 ~29 planks 0 
+setblock ~31 ~3 ~15 wooden_door 8 
+setblock ~31 ~3 ~21 wooden_door 12 
+setblock ~31 ~3 ~28 torch 4 
+setblock ~32 ~3 ~16 torch 3  
+fill ~32 ~3 ~20 ~32 ~5 ~20 planks 0  
+fill ~32 ~3 ~24 ~36 ~3 ~24 planks 0 
+setblock ~32 ~3 ~25 torch 3 
+setblock ~32 ~3 ~29 wooden_door 10  
+fill ~33 ~3 ~16 ~33 ~2 ~16 planks 0 
+setblock ~33 ~3 ~20 glass_pane 0 
+setblock ~33 ~3 ~21 tallgrass 1 
+setblock ~33 ~3 ~22 grass 0 
+setblock ~33 ~3 ~23 tallgrass 1 
+setblock ~33 ~3 ~28 torch 4  
+fill ~33 ~3 ~29 ~34 ~3 ~29 planks 0 
+setblock ~34 ~3 ~16 glass_pane 0  
+fill ~34 ~3 ~20 ~35 ~3 ~20 planks 0 
+setblock ~34 ~3 ~22 tallgrass 1  
+fill ~34 ~3 ~27 ~36 ~3 ~27 planks 0 
+setblock ~35 ~3 ~16 planks 0  
+fill ~36 ~3 ~25 ~36 ~3 ~27 planks 0  
+fill ~43 ~3 ~16 ~45 ~3 ~16 stone_slab 3  
+fill ~17 ~4 ~22 ~19 ~4 ~22 stone_stairs 2 
+setblock ~17 ~4 ~23 planks 0  
+fill ~17 ~4 ~24 ~19 ~4 ~24 stone_stairs 3 
+setblock ~18 ~4 ~23 torch 1  
+fill ~20 ~4 ~22 ~22 ~4 ~22 log 0 
+setblock ~20 ~4 ~23 planks 0  
+fill ~20 ~4 ~24 ~21 ~4 ~24 log 0  
+fill ~20 ~4 ~25 ~21 ~4 ~25 log 0  
+fill ~20 ~4 ~26 ~22 ~4 ~26 log 0  
+fill ~21 ~4 ~27 ~27 ~4 ~27 log 0  
+fill ~21 ~4 ~28 ~21 ~4 ~24 log 0  
+fill ~21 ~4 ~29 ~24 ~4 ~29 stone_slab 2  
+fill ~22 ~4 ~20 ~24 ~4 ~20 log 0  
+fill ~22 ~4 ~21 ~24 ~4 ~21 log 0 
+setblock ~23 ~4 ~28 planks 0 
+setblock ~24 ~4 ~19 log 0  
+fill ~24 ~4 ~28 ~28 ~4 ~28 log 0 
+setblock ~25 ~4 ~21 grass 0  
+fill ~26 ~4 ~16 ~29 ~4 ~16 stone_stairs 2  
+fill ~26 ~4 ~21 ~27 ~4 ~21 log 0 
+setblock ~26 ~4 ~26 planks 0  
+fill ~28 ~4 ~20 ~29 ~4 ~20 log 0  
+fill ~28 ~4 ~26 ~29 ~4 ~26 dirt 0  
+fill ~28 ~4 ~27 ~29 ~4 ~27 dirt 0  
+fill ~29 ~4 ~22 ~29 ~6 ~22 log 0  
+fill ~30 ~4 ~14 ~30 ~4 ~15 stone_stairs 0 
+setblock ~30 ~4 ~16 cobblestone 0 
+setblock ~30 ~4 ~22 planks 0  
+fill ~30 ~4 ~29 ~34 ~4 ~29 planks 0 
+setblock ~31 ~4 ~15 planks 0  
+fill ~31 ~4 ~21 ~31 ~7 ~21 planks 0  
+fill ~32 ~4 ~14 ~32 ~4 ~15 stone_stairs 1 
+setblock ~32 ~4 ~16 cobblestone 0  
+fill ~32 ~4 ~24 ~35 ~4 ~24 planks 0  
+fill ~33 ~4 ~16 ~36 ~4 ~16 stone_stairs 2  
+fill ~33 ~4 ~20 ~33 ~5 ~20 planks 0 
+setblock ~33 ~4 ~22 tallgrass 1 
+setblock ~33 ~4 ~23 torch 1  
+fill ~34 ~4 ~20 ~36 ~4 ~20 stone_stairs 3  
+fill ~34 ~4 ~27 ~35 ~4 ~27 planks 0 
+setblock ~35 ~4 ~18 glass_pane 0  
+fill ~35 ~4 ~25 ~35 ~4 ~27 planks 0  
+fill ~36 ~4 ~24 ~36 ~4 ~27 stone_stairs 1  
+fill ~17 ~5 ~23 ~19 ~5 ~23 stone_slab 3  
+fill ~20 ~5 ~22 ~22 ~5 ~22 log 0  
+fill ~20 ~5 ~23 ~21 ~5 ~23 log 0  
+fill ~20 ~5 ~24 ~21 ~5 ~24 log 0  
+fill ~20 ~5 ~25 ~22 ~5 ~25 log 0  
+fill ~21 ~5 ~26 ~23 ~5 ~26 log 0  
+fill ~21 ~5 ~27 ~27 ~5 ~27 log 0  
+fill ~22 ~5 ~20 ~24 ~5 ~20 log 0  
+fill ~22 ~5 ~21 ~24 ~5 ~21 log 0  
+fill ~24 ~5 ~28 ~28 ~5 ~28 log 0  
+fill ~26 ~5 ~17 ~36 ~5 ~17 stone_stairs 2  
+fill ~26 ~5 ~19 ~29 ~5 ~19 stone_stairs 3 
+setblock ~26 ~5 ~20 stone_slab 3 
+setblock ~26 ~5 ~21 grass 0  
+fill ~26 ~5 ~22 ~27 ~5 ~22 log 0  
+fill ~26 ~5 ~26 ~26 ~6 ~26 log 0 
+setblock ~27 ~5 ~20 grass 0 
+setblock ~27 ~5 ~21 dirt 0  
+fill ~28 ~5 ~20 ~28 ~6 ~20 dirt 0  
+fill ~28 ~5 ~21 ~28 ~5 ~22 planks 0  
+fill ~28 ~5 ~26 ~29 ~5 ~26 dirt 0  
+fill ~28 ~5 ~27 ~29 ~5 ~27 dirt 0  
+fill ~29 ~5 ~20 ~29 ~7 ~20 log 0  
+fill ~29 ~5 ~25 ~29 ~6 ~25 log 0 
+setblock ~30 ~5 ~19 cobblestone 0  
+fill ~30 ~5 ~24 ~30 ~7 ~24 ladder 2  
+fill ~30 ~5 ~29 ~33 ~5 ~29 planks 0  
+fill ~31 ~5 ~14 ~31 ~5 ~16 stone_slab 3  
+fill ~31 ~5 ~19 ~36 ~5 ~19 stone_stairs 3  
+fill ~31 ~5 ~20 ~31 ~7 ~20 planks 0  
+fill ~31 ~5 ~22 ~31 ~7 ~22 planks 0  
+fill ~31 ~5 ~23 ~31 ~7 ~23 planks 0  
+fill ~31 ~5 ~24 ~34 ~5 ~24 planks 0  
+fill ~34 ~5 ~25 ~34 ~5 ~26 cobblestone 0  
+fill ~34 ~5 ~27 ~34 ~2 ~27 planks 0  
+fill ~34 ~5 ~28 ~34 ~5 ~29 stone_stairs 1 
+setblock ~35 ~5 ~18 planks 0  
+fill ~35 ~5 ~24 ~35 ~5 ~27 stone_stairs 1 
+setblock ~45 ~5 ~26 wool 8  
+fill ~20 ~6 ~18 ~20 ~8 ~18 log 0  
+fill ~20 ~6 ~22 ~29 ~6 ~22 log 0  
+fill ~20 ~6 ~23 ~23 ~6 ~23 log 0  
+fill ~20 ~6 ~24 ~21 ~6 ~24 log 0  
+fill ~20 ~6 ~25 ~22 ~6 ~25 log 0  
+fill ~21 ~6 ~19 ~22 ~6 ~19 log 0  
+fill ~21 ~6 ~20 ~24 ~6 ~20 log 0  
+fill ~21 ~6 ~26 ~23 ~6 ~26 log 0  
+fill ~21 ~6 ~27 ~27 ~6 ~27 log 0  
+fill ~22 ~6 ~21 ~24 ~6 ~21 log 0  
+fill ~23 ~6 ~28 ~28 ~6 ~28 log 0  
+fill ~26 ~6 ~18 ~36 ~6 ~18 stone_slab 3 
+setblock ~27 ~6 ~21 grass 0 
+setblock ~28 ~6 ~21 dirt 0  
+fill ~28 ~6 ~26 ~29 ~6 ~26 dirt 0  
+fill ~28 ~6 ~27 ~29 ~6 ~27 dirt 0 
+setblock ~30 ~6 ~19 planks 0 
+setblock ~30 ~6 ~20 torch 3  
+fill ~30 ~6 ~29 ~32 ~6 ~29 planks 0  
+fill ~31 ~6 ~24 ~33 ~6 ~24 planks 0  
+fill ~32 ~6 ~20 ~33 ~6 ~20 stone_stairs 2  
+fill ~33 ~6 ~25 ~33 ~6 ~26 cobblestone 0 
+setblock ~33 ~6 ~27 planks 0  
+fill ~33 ~6 ~28 ~33 ~6 ~29 stone_stairs 1  
+fill ~34 ~6 ~24 ~34 ~6 ~27 stone_stairs 1  
+fill ~45 ~6 ~26 ~45 ~25 ~26 fence 0  
+fill ~16 ~7 ~18 ~17 ~7 ~18 leaves 4  
+fill ~19 ~7 ~17 ~20 ~7 ~17 log 0  
+fill ~19 ~7 ~18 ~19 ~9 ~18 log 0  
+fill ~20 ~7 ~19 ~22 ~7 ~19 log 0  
+fill ~20 ~7 ~20 ~23 ~7 ~20 log 0  
+fill ~20 ~7 ~23 ~21 ~7 ~23 log 0  
+fill ~20 ~7 ~24 ~20 ~13 ~24 log 0  
+fill ~20 ~7 ~25 ~20 ~16 ~25 log 0  
+fill ~20 ~7 ~26 ~20 ~8 ~26 log 0  
+fill ~21 ~7 ~18 ~21 ~8 ~18 log 0  
+fill ~21 ~7 ~21 ~26 ~7 ~21 log 0  
+fill ~21 ~7 ~22 ~21 ~15 ~22 log 0  
+fill ~21 ~7 ~24 ~29 ~7 ~24 planks 0  
+fill ~21 ~7 ~25 ~32 ~7 ~25 planks 0  
+fill ~21 ~7 ~26 ~28 ~7 ~26 planks 0  
+fill ~21 ~7 ~27 ~21 ~19 ~27 log 0  
+fill ~22 ~7 ~22 ~26 ~7 ~22 planks 0  
+fill ~22 ~7 ~23 ~31 ~7 ~23 planks 0  
+fill ~22 ~7 ~27 ~28 ~7 ~27 planks 0  
+fill ~23 ~7 ~28 ~26 ~7 ~28 planks 0  
+fill ~23 ~7 ~29 ~26 ~7 ~29 log 0  
+fill ~27 ~7 ~22 ~27 ~11 ~22 log 0  
+fill ~27 ~7 ~28 ~27 ~14 ~28 log 0  
+fill ~28 ~7 ~20 ~28 ~7 ~21 grass 0  
+fill ~28 ~7 ~22 ~32 ~7 ~22 planks 0 
+setblock ~28 ~7 ~28 dirt 0  
+fill ~28 ~7 ~29 ~28 ~11 ~29 log 0  
+fill ~29 ~7 ~26 ~29 ~7 ~28 dirt 0 
+setblock ~30 ~7 ~19 stone_stairs 2  
+fill ~30 ~7 ~20 ~30 ~7 ~23 planks 0  
+fill ~30 ~7 ~29 ~31 ~7 ~29 planks 0  
+fill ~31 ~7 ~24 ~32 ~7 ~24 planks 0  
+fill ~32 ~7 ~21 ~33 ~7 ~21 stone_stairs 2 
+setblock ~32 ~7 ~23 cobblestone 0 
+setblock ~32 ~7 ~26 cobblestone 0 
+setblock ~32 ~7 ~27 planks 0  
+fill ~32 ~7 ~28 ~32 ~7 ~29 stone_stairs 1 
+setblock ~33 ~7 ~23 stone_stairs 3  
+fill ~33 ~7 ~24 ~33 ~7 ~27 stone_stairs 1  
+fill ~15 ~8 ~18 ~15 ~9 ~18 leaves 4  
+fill ~16 ~8 ~17 ~17 ~8 ~17 leaves 4  
+fill ~16 ~8 ~18 ~17 ~8 ~18 wool 13  
+fill ~16 ~8 ~19 ~17 ~8 ~19 leaves 4  
+fill ~18 ~8 ~16 ~19 ~8 ~16 log 0  
+fill ~18 ~8 ~17 ~20 ~8 ~17 log 0  
+fill ~18 ~8 ~18 ~18 ~9 ~18 leaves 4  
+fill ~20 ~8 ~19 ~20 ~7 ~19 log 0  
+fill ~20 ~8 ~27 ~20 ~10 ~27 log 0  
+fill ~21 ~8 ~23 ~21 ~23 ~23 log 0  
+fill ~21 ~8 ~26 ~21 ~7 ~26 planks 0  
+fill ~22 ~8 ~21 ~26 ~8 ~21 log 0  
+fill ~22 ~8 ~22 ~22 ~9 ~22 ladder 3 
+setblock ~22 ~8 ~27 crafting_table 0  
+fill ~23 ~8 ~22 ~23 ~14 ~22 log 0  
+fill ~23 ~8 ~23 ~23 ~11 ~23 ladder 3  
+fill ~23 ~8 ~28 ~23 ~7 ~28 planks 0  
+fill ~23 ~8 ~29 ~26 ~8 ~29 log 0 
+setblock ~24 ~8 ~23 wool 14 
+setblock ~24 ~8 ~28 cobblestone 0  
+fill ~25 ~8 ~22 ~26 ~8 ~22 wool 14  
+fill ~25 ~8 ~23 ~26 ~8 ~23 stone_slab 2 
+setblock ~27 ~8 ~23 wool 14  
+fill ~27 ~8 ~25 ~27 ~11 ~25 ladder 4  
+fill ~27 ~8 ~26 ~27 ~8 ~27 stone_slab 2 
+setblock ~28 ~8 ~20 yellow_flower 0  
+fill ~28 ~8 ~22 ~30 ~8 ~22 planks 0  
+fill ~28 ~8 ~23 ~28 ~12 ~23 log 0  
+fill ~28 ~8 ~25 ~28 ~11 ~25 log 0  
+fill ~28 ~8 ~26 ~28 ~8 ~27 wool 12  
+fill ~28 ~8 ~28 ~28 ~14 ~28 log 0  
+fill ~29 ~8 ~20 ~31 ~8 ~20 stone_slab 3  
+fill ~29 ~8 ~21 ~31 ~8 ~21 cobblestone 0  
+fill ~29 ~8 ~25 ~29 ~10 ~25 planks 0  
+fill ~29 ~8 ~26 ~29 ~10 ~26 planks 0  
+fill ~29 ~8 ~27 ~29 ~10 ~27 planks 0 
+setblock ~30 ~8 ~24 trapdoor 0  
+fill ~30 ~8 ~29 ~30 ~2 ~29 planks 0  
+fill ~31 ~8 ~22 ~31 ~10 ~22 log 0  
+fill ~31 ~8 ~25 ~32 ~8 ~25 planks 0 
+setblock ~31 ~8 ~26 cobblestone 0 
+setblock ~31 ~8 ~27 planks 0  
+fill ~31 ~8 ~28 ~31 ~8 ~29 stone_stairs 1  
+fill ~32 ~8 ~23 ~32 ~11 ~23 planks 0  
+fill ~32 ~8 ~24 ~32 ~11 ~24 planks 0  
+fill ~32 ~8 ~26 ~32 ~8 ~27 stone_stairs 1 
+setblock ~33 ~8 ~22 stone_slab 3 
+setblock ~5 ~9 ~27 fence 0 
+setblock ~5 ~9 ~29 fence 0 
+setblock ~7 ~9 ~27 fence 0 
+setblock ~7 ~9 ~29 fence 0  
+fill ~16 ~9 ~17 ~17 ~9 ~17 leaves 4  
+fill ~16 ~9 ~18 ~17 ~9 ~18 wool 13  
+fill ~16 ~9 ~19 ~17 ~9 ~19 leaves 4  
+fill ~18 ~9 ~16 ~19 ~9 ~16 log 0  
+fill ~18 ~9 ~17 ~20 ~9 ~17 log 0  
+fill ~20 ~9 ~26 ~20 ~10 ~26 glass_pane 0  
+fill ~22 ~9 ~21 ~26 ~9 ~21 log 0  
+fill ~23 ~9 ~29 ~25 ~9 ~29 log 0 
+setblock ~24 ~9 ~28 wall_sign 2 
+setblock ~26 ~9 ~29 glass_pane 0  
+fill ~27 ~9 ~29 ~27 ~11 ~29 log 0  
+fill ~28 ~9 ~22 ~29 ~9 ~22 planks 0 
+setblock ~30 ~9 ~22 glass_pane 0  
+fill ~30 ~9 ~28 ~35 ~9 ~28 log 0 
+setblock ~30 ~9 ~29 stone_stairs 1  
+fill ~31 ~9 ~25 ~32 ~9 ~25 planks 0 
+setblock ~31 ~9 ~26 stone_stairs 1  
+fill ~31 ~9 ~27 ~35 ~9 ~27 log 0  
+fill ~5 ~10 ~27 ~7 ~10 ~27 wool 4  
+fill ~5 ~10 ~28 ~7 ~10 ~28 wool 4  
+fill ~5 ~10 ~29 ~7 ~10 ~29 wool 4 
+setblock ~14 ~10 ~18 leaves 4  
+fill ~15 ~10 ~17 ~17 ~10 ~17 leaves 4  
+fill ~15 ~10 ~18 ~18 ~10 ~18 wool 13  
+fill ~15 ~10 ~19 ~18 ~10 ~19 leaves 4  
+fill ~18 ~10 ~16 ~19 ~10 ~16 log 0  
+fill ~18 ~10 ~17 ~19 ~10 ~17 log 0 
+setblock ~19 ~10 ~18 leaves 4 
+setblock ~20 ~10 ~16 leaves 4  
+fill ~21 ~10 ~21 ~26 ~10 ~21 log 0  
+fill ~22 ~10 ~22 ~22 ~11 ~22 ladder 2  
+fill ~22 ~10 ~23 ~22 ~11 ~23 log 0 
+setblock ~22 ~10 ~27 torch 1  
+fill ~23 ~10 ~29 ~29 ~10 ~29 log 0 
+setblock ~27 ~10 ~23 torch 2  
+fill ~28 ~10 ~22 ~30 ~10 ~22 planks 0  
+fill ~28 ~10 ~24 ~28 ~11 ~24 planks 0 
+setblock ~29 ~10 ~23 torch 1  
+fill ~29 ~10 ~28 ~37 ~10 ~28 log 0 
+setblock ~30 ~10 ~26 stone_stairs 1  
+fill ~30 ~10 ~27 ~37 ~10 ~27 log 0  
+fill ~31 ~10 ~25 ~32 ~10 ~25 planks 0  
+fill ~4 ~11 ~27 ~4 ~13 ~27 wool 4  
+fill ~4 ~11 ~28 ~4 ~13 ~28 wool 4  
+fill ~4 ~11 ~29 ~4 ~13 ~29 wool 4  
+fill ~5 ~11 ~26 ~7 ~11 ~26 wool 4  
+fill ~5 ~11 ~30 ~7 ~11 ~30 wool 4  
+fill ~8 ~11 ~27 ~8 ~13 ~27 wool 4  
+fill ~8 ~11 ~28 ~8 ~13 ~28 wool 4  
+fill ~8 ~11 ~29 ~8 ~13 ~29 wool 4  
+fill ~13 ~11 ~17 ~17 ~11 ~17 leaves 4  
+fill ~13 ~11 ~18 ~13 ~21 ~18 leaves 4  
+fill ~14 ~11 ~18 ~18 ~11 ~18 wool 13  
+fill ~14 ~11 ~19 ~18 ~11 ~19 leaves 4  
+fill ~17 ~11 ~16 ~19 ~11 ~16 log 0  
+fill ~18 ~11 ~15 ~18 ~13 ~15 log 0  
+fill ~18 ~11 ~17 ~19 ~11 ~17 log 0  
+fill ~19 ~11 ~18 ~19 ~13 ~18 leaves 12 
+setblock ~20 ~11 ~15 leaves 4  
+fill ~20 ~11 ~16 ~20 ~21 ~16 wool 13  
+fill ~20 ~11 ~17 ~20 ~13 ~17 leaves 12  
+fill ~20 ~11 ~26 ~20 ~16 ~26 log 0  
+fill ~21 ~11 ~16 ~21 ~20 ~16 leaves 4  
+fill ~21 ~11 ~21 ~26 ~11 ~21 log 0 
+setblock ~22 ~11 ~24 log 0  
+fill ~23 ~11 ~29 ~28 ~11 ~29 log 0  
+fill ~24 ~11 ~32 ~26 ~11 ~32 leaves 4  
+fill ~25 ~11 ~22 ~25 ~12 ~22 log 0  
+fill ~25 ~11 ~28 ~25 ~12 ~28 log 0  
+fill ~27 ~11 ~23 ~27 ~11 ~24 planks 0  
+fill ~27 ~11 ~26 ~28 ~11 ~26 planks 0  
+fill ~27 ~11 ~27 ~28 ~11 ~27 planks 0  
+fill ~28 ~11 ~22 ~32 ~11 ~22 stone_stairs 2  
+fill ~29 ~11 ~25 ~30 ~11 ~25 log 0  
+fill ~29 ~11 ~26 ~29 ~11 ~28 log 0  
+fill ~30 ~11 ~27 ~31 ~11 ~27 log 0  
+fill ~31 ~11 ~25 ~32 ~11 ~25 stone_stairs 3  
+fill ~34 ~11 ~27 ~39 ~11 ~27 log 0  
+fill ~34 ~11 ~28 ~39 ~11 ~28 log 0  
+fill ~43 ~11 ~32 ~44 ~11 ~32 leaves 4  
+fill ~5 ~12 ~26 ~5 ~13 ~26 wool 4  
+fill ~5 ~12 ~30 ~7 ~12 ~30 wool 4 
+setblock ~6 ~12 ~26 glass_pane 0  
+fill ~7 ~12 ~26 ~7 ~13 ~26 wool 4  
+fill ~12 ~12 ~15 ~12 ~12 ~17 leaves 4  
+fill ~13 ~12 ~16 ~13 ~15 ~16 leaves 4  
+fill ~13 ~12 ~17 ~13 ~15 ~17 wool 13  
+fill ~14 ~12 ~17 ~18 ~12 ~17 leaves 4  
+fill ~14 ~12 ~18 ~18 ~12 ~18 wool 13  
+fill ~14 ~12 ~19 ~18 ~12 ~19 leaves 4  
+fill ~17 ~12 ~15 ~17 ~15 ~15 log 0  
+fill ~17 ~12 ~16 ~18 ~12 ~16 log 0  
+fill ~19 ~12 ~15 ~19 ~15 ~15 leaves 4  
+fill ~19 ~12 ~16 ~19 ~16 ~16 leaves 4  
+fill ~19 ~12 ~17 ~19 ~21 ~17 wool 13 
+setblock ~20 ~12 ~14 leaves 4  
+fill ~20 ~12 ~15 ~20 ~21 ~15 wool 13 
+setblock ~21 ~12 ~15 leaves 4  
+fill ~21 ~12 ~21 ~27 ~12 ~21 log 0 
+setblock ~21 ~12 ~24 oak_stairs 1  
+fill ~21 ~12 ~28 ~21 ~13 ~28 log 0  
+fill ~22 ~12 ~29 ~26 ~12 ~29 log 0  
+fill ~23 ~12 ~32 ~23 ~13 ~32 leaves 4  
+fill ~24 ~12 ~31 ~26 ~12 ~31 leaves 4  
+fill ~24 ~12 ~32 ~26 ~12 ~32 wool 13  
+fill ~24 ~12 ~33 ~26 ~12 ~33 leaves 4  
+fill ~25 ~12 ~23 ~25 ~13 ~23 log 0  
+fill ~25 ~12 ~27 ~25 ~13 ~27 log 0  
+fill ~27 ~12 ~22 ~27 ~12 ~24 fence 0  
+fill ~27 ~12 ~26 ~27 ~12 ~27 fence 0  
+fill ~27 ~12 ~32 ~27 ~13 ~32 leaves 4 
+setblock ~28 ~12 ~22 log 0  
+fill ~29 ~12 ~23 ~32 ~12 ~23 stone_stairs 2  
+fill ~29 ~12 ~24 ~30 ~12 ~24 log 0 
+setblock ~29 ~12 ~25 oak_stairs 0  
+fill ~29 ~12 ~28 ~29 ~15 ~28 log 0  
+fill ~30 ~12 ~25 ~30 ~12 ~27 log 0  
+fill ~31 ~12 ~24 ~32 ~12 ~24 stone_stairs 3  
+fill ~37 ~12 ~27 ~40 ~12 ~27 log 0  
+fill ~37 ~12 ~28 ~40 ~12 ~28 log 0  
+fill ~42 ~12 ~32 ~42 ~13 ~32 leaves 4  
+fill ~43 ~12 ~31 ~44 ~12 ~31 leaves 4  
+fill ~43 ~12 ~32 ~44 ~12 ~32 wool 13  
+fill ~43 ~12 ~33 ~43 ~27 ~33 leaves 4 
+setblock ~44 ~12 ~33 leaves 12  
+fill ~45 ~12 ~32 ~45 ~13 ~32 leaves 4  
+fill ~5 ~13 ~30 ~7 ~13 ~30 wool 4 
+setblock ~6 ~13 ~26 wool 4  
+fill ~11 ~13 ~15 ~11 ~21 ~15 leaves 4  
+fill ~11 ~13 ~16 ~11 ~21 ~16 leaves 4 
+setblock ~12 ~13 ~14 leaves 12  
+fill ~12 ~13 ~15 ~12 ~21 ~15 wool 13  
+fill ~12 ~13 ~16 ~12 ~15 ~16 wool 13  
+fill ~12 ~13 ~17 ~12 ~15 ~17 leaves 4  
+fill ~13 ~13 ~15 ~13 ~16 ~15 leaves 4  
+fill ~14 ~13 ~17 ~17 ~13 ~17 leaves 4  
+fill ~14 ~13 ~18 ~18 ~13 ~18 wool 13  
+fill ~14 ~13 ~19 ~18 ~13 ~19 leaves 4  
+fill ~16 ~13 ~14 ~17 ~13 ~14 log 0  
+fill ~16 ~13 ~15 ~16 ~15 ~15 log 0  
+fill ~17 ~13 ~16 ~18 ~13 ~16 log 0  
+fill ~18 ~13 ~17 ~18 ~16 ~17 leaves 12 
+setblock ~19 ~13 ~14 leaves 4 
+setblock ~20 ~13 ~13 leaves 4  
+fill ~20 ~13 ~14 ~20 ~21 ~14 wool 13  
+fill ~21 ~13 ~14 ~21 ~21 ~14 leaves 4  
+fill ~21 ~13 ~15 ~21 ~14 ~15 leaves 12  
+summon Painting ~14.0625 ~20.5 ~13.0 
+summon Painting ~26.0 ~10.5 ~22.0625 
+summon Painting ~31.5 ~4.5 ~16.0625 
+summon Painting ~31.9375 ~10.0 ~24.0 
+summon Painting ~29.9375 ~26.5 ~22.0 
+summon Painting ~18.9375 ~21.0 ~12.5 
+summon Painting ~16.5 ~21.0 ~16.9375 
+summon Painting ~17.5 ~20.0 ~16.9375 
+summon Painting ~18.9375 ~21.0 ~14.0 
+summon Painting ~22.5 ~33.5 ~21.0625 
+summon Painting ~29.9375 ~34.0 ~22.0 
+summon Painting ~24.5 ~10.5 ~28.9375 
+summon Painting ~31.0625 ~4.5 ~27.0 
+summon Painting ~29.9375 ~26.5 ~28.5 
+summon Painting ~24.0 ~27.5 ~30.9375 
+summon Painting ~21.0625 ~27.5 ~28.5 
+summon Painting ~24.5 ~33.5 ~30.9375 
+summon Painting ~29.9375 ~33.0 ~27.5  
+fill ~21 ~13 ~21 ~23 ~13 ~21 log 0 
+setblock ~21 ~13 ~24 ladder 5  
+fill ~21 ~13 ~29 ~23 ~13 ~29 log 0  
+fill ~24 ~13 ~22 ~24 ~13 ~23 log 0  
+fill ~24 ~13 ~27 ~24 ~13 ~28 log 0  
+fill ~24 ~13 ~31 ~26 ~13 ~31 leaves 4  
+fill ~24 ~13 ~32 ~26 ~13 ~32 wool 13  
+fill ~24 ~13 ~33 ~26 ~13 ~33 leaves 4  
+fill ~25 ~13 ~24 ~25 ~13 ~27 log 0  
+fill ~26 ~13 ~22 ~26 ~13 ~23 log 0  
+fill ~26 ~13 ~27 ~26 ~13 ~28 log 0  
+fill ~27 ~13 ~21 ~29 ~13 ~21 log 0  
+fill ~29 ~13 ~22 ~30 ~13 ~22 log 0  
+fill ~29 ~13 ~23 ~30 ~13 ~23 log 0 
+setblock ~30 ~13 ~25 oak_stairs 0  
+fill ~30 ~13 ~27 ~30 ~19 ~27 log 0  
+fill ~31 ~13 ~24 ~31 ~31 ~24 log 0  
+fill ~31 ~13 ~25 ~31 ~31 ~25 log 0  
+fill ~31 ~13 ~26 ~31 ~19 ~26 log 0  
+fill ~39 ~13 ~27 ~41 ~13 ~27 log 0  
+fill ~39 ~13 ~28 ~41 ~13 ~28 log 0  
+fill ~43 ~13 ~31 ~44 ~13 ~31 leaves 4  
+fill ~43 ~13 ~32 ~44 ~13 ~32 wool 13  
+fill ~44 ~13 ~33 ~44 ~23 ~33 leaves 4  
+fill ~5 ~14 ~27 ~7 ~14 ~27 wool 4  
+fill ~5 ~14 ~28 ~5 ~15 ~28 wool 4  
+fill ~5 ~14 ~29 ~7 ~14 ~29 wool 4  
+fill ~7 ~14 ~28 ~7 ~15 ~28 wool 4  
+fill ~11 ~14 ~14 ~11 ~21 ~14 leaves 4  
+fill ~12 ~14 ~12 ~12 ~14 ~13 leaves 12  
+fill ~12 ~14 ~14 ~12 ~21 ~14 wool 13 
+setblock ~13 ~14 ~11 leaves 12  
+fill ~13 ~14 ~14 ~13 ~15 ~14 leaves 12 
+setblock ~14 ~14 ~10 leaves 12  
+fill ~14 ~14 ~17 ~17 ~14 ~17 leaves 4  
+fill ~14 ~14 ~18 ~18 ~14 ~18 wool 13  
+fill ~14 ~14 ~19 ~18 ~14 ~19 leaves 4  
+fill ~15 ~14 ~10 ~18 ~14 ~10 leaves 4  
+fill ~16 ~14 ~14 ~17 ~14 ~14 log 0 
+setblock ~19 ~14 ~11 leaves 12  
+fill ~19 ~14 ~13 ~19 ~14 ~14 leaves 12  
+fill ~19 ~14 ~18 ~19 ~20 ~18 leaves 4  
+fill ~19 ~14 ~24 ~19 ~30 ~24 log 0 
+setblock ~20 ~14 ~12 leaves 4  
+fill ~20 ~14 ~13 ~20 ~21 ~13 wool 13  
+fill ~20 ~14 ~17 ~20 ~21 ~17 leaves 4  
+fill ~20 ~14 ~23 ~20 ~30 ~23 log 0 
+setblock ~20 ~14 ~24 oak_stairs 1 
+setblock ~21 ~14 ~13 leaves 4  
+fill ~22 ~14 ~21 ~22 ~14 ~22 log 0  
+fill ~22 ~14 ~28 ~23 ~14 ~28 log 0  
+fill ~22 ~14 ~31 ~28 ~14 ~31 leaves 4  
+fill ~22 ~14 ~32 ~22 ~31 ~32 leaves 4  
+fill ~23 ~14 ~23 ~24 ~14 ~23 log 0 
+setblock ~23 ~14 ~25 torch 2  
+fill ~23 ~14 ~27 ~23 ~15 ~27 log 0  
+fill ~23 ~14 ~32 ~27 ~14 ~32 wool 13  
+fill ~23 ~14 ~33 ~27 ~14 ~33 leaves 4  
+fill ~24 ~14 ~24 ~24 ~15 ~24 log 0  
+fill ~24 ~14 ~25 ~24 ~15 ~25 log 0  
+fill ~24 ~14 ~26 ~24 ~15 ~26 log 0  
+fill ~26 ~14 ~23 ~27 ~14 ~23 log 0  
+fill ~26 ~14 ~24 ~26 ~14 ~26 log 0  
+fill ~27 ~14 ~22 ~30 ~14 ~22 log 0 
+setblock ~27 ~14 ~27 log 0  
+fill ~28 ~14 ~32 ~28 ~32 ~32 leaves 4  
+fill ~29 ~14 ~27 ~29 ~19 ~27 log 0  
+fill ~30 ~14 ~23 ~30 ~23 ~23 log 0  
+fill ~30 ~14 ~25 ~30 ~21 ~25 ladder 4  
+fill ~40 ~14 ~27 ~42 ~14 ~27 log 0  
+fill ~40 ~14 ~28 ~42 ~14 ~28 log 0  
+fill ~41 ~14 ~32 ~41 ~27 ~32 leaves 4  
+fill ~42 ~14 ~31 ~45 ~14 ~31 leaves 4  
+fill ~42 ~14 ~32 ~45 ~14 ~32 wool 13  
+fill ~42 ~14 ~33 ~42 ~27 ~33 leaves 4 
+setblock ~45 ~14 ~33 leaves 12  
+fill ~46 ~14 ~32 ~46 ~27 ~32 leaves 4  
+fill ~5 ~15 ~27 ~7 ~15 ~27 wool 4  
+fill ~5 ~15 ~29 ~7 ~15 ~29 wool 4  
+fill ~5 ~15 ~32 ~7 ~15 ~32 leaves 4  
+fill ~11 ~15 ~12 ~11 ~21 ~12 leaves 4  
+fill ~11 ~15 ~13 ~11 ~21 ~13 leaves 4  
+fill ~12 ~15 ~11 ~12 ~21 ~11 leaves 4  
+fill ~12 ~15 ~12 ~12 ~21 ~12 wool 13  
+fill ~12 ~15 ~13 ~12 ~21 ~13 wool 13  
+fill ~13 ~15 ~10 ~13 ~21 ~10 leaves 12  
+fill ~13 ~15 ~11 ~13 ~21 ~11 wool 13  
+fill ~13 ~15 ~12 ~13 ~16 ~12 leaves 12  
+fill ~13 ~15 ~13 ~13 ~15 ~12 leaves 12  
+fill ~14 ~15 ~9 ~17 ~15 ~9 leaves 4  
+fill ~14 ~15 ~10 ~18 ~15 ~10 wool 13  
+fill ~14 ~15 ~11 ~16 ~15 ~11 leaves 4  
+fill ~14 ~15 ~17 ~17 ~15 ~17 leaves 4  
+fill ~14 ~15 ~18 ~18 ~15 ~18 wool 13  
+fill ~14 ~15 ~19 ~18 ~15 ~19 leaves 4  
+fill ~15 ~15 ~14 ~18 ~15 ~14 log 0  
+fill ~15 ~15 ~15 ~15 ~16 ~15 log 0  
+fill ~15 ~15 ~24 ~19 ~15 ~24 log 0  
+fill ~17 ~15 ~11 ~18 ~15 ~11 leaves 12  
+fill ~18 ~15 ~9 ~18 ~16 ~9 leaves 12  
+fill ~18 ~15 ~15 ~18 ~16 ~15 log 0  
+fill ~19 ~15 ~10 ~19 ~19 ~10 leaves 12  
+fill ~19 ~15 ~11 ~19 ~21 ~11 wool 13 
+setblock ~19 ~15 ~12 leaves 12  
+fill ~19 ~15 ~13 ~19 ~16 ~13 leaves 4  
+fill ~19 ~15 ~14 ~19 ~15 ~13 leaves 4  
+fill ~20 ~15 ~11 ~20 ~18 ~11 leaves 12  
+fill ~20 ~15 ~12 ~20 ~21 ~12 wool 13  
+fill ~20 ~15 ~24 ~20 ~21 ~24 ladder 5  
+fill ~21 ~15 ~12 ~21 ~21 ~12 leaves 4  
+fill ~21 ~15 ~13 ~21 ~17 ~13 leaves 12  
+fill ~21 ~15 ~15 ~21 ~21 ~15 leaves 4  
+fill ~21 ~15 ~20 ~21 ~16 ~20 log 0  
+fill ~21 ~15 ~21 ~21 ~15 ~20 log 0  
+fill ~21 ~15 ~26 ~21 ~16 ~26 log 0 
+setblock ~21 ~15 ~31 leaves 4  
+fill ~22 ~15 ~23 ~23 ~15 ~23 log 0  
+fill ~22 ~15 ~27 ~22 ~19 ~27 log 0  
+fill ~22 ~15 ~28 ~22 ~14 ~28 log 0  
+fill ~22 ~15 ~29 ~22 ~16 ~29 log 0  
+fill ~22 ~15 ~30 ~22 ~16 ~30 leaves 4  
+fill ~22 ~15 ~31 ~22 ~17 ~31 wool 13  
+fill ~23 ~15 ~24 ~23 ~19 ~24 log 0  
+fill ~23 ~15 ~26 ~23 ~19 ~26 log 0  
+fill ~23 ~15 ~31 ~27 ~15 ~31 leaves 4  
+fill ~23 ~15 ~32 ~27 ~15 ~32 wool 13  
+fill ~23 ~15 ~33 ~27 ~15 ~33 leaves 4  
+fill ~27 ~15 ~22 ~28 ~15 ~22 log 0  
+fill ~27 ~15 ~24 ~27 ~19 ~24 log 0  
+fill ~27 ~15 ~25 ~27 ~19 ~25 log 0  
+fill ~27 ~15 ~26 ~27 ~19 ~26 log 0  
+fill ~28 ~15 ~23 ~30 ~15 ~23 log 0  
+fill ~28 ~15 ~27 ~28 ~19 ~27 log 0  
+fill ~28 ~15 ~30 ~28 ~23 ~30 leaves 4  
+fill ~28 ~15 ~31 ~28 ~33 ~31 wool 13 
+setblock ~29 ~15 ~26 torch 4  
+fill ~29 ~15 ~29 ~29 ~16 ~29 log 0 
+setblock ~29 ~15 ~31 leaves 4  
+fill ~32 ~15 ~25 ~35 ~15 ~25 log 0  
+fill ~41 ~15 ~27 ~42 ~15 ~27 log 0  
+fill ~41 ~15 ~28 ~42 ~15 ~28 log 0  
+fill ~41 ~15 ~31 ~46 ~15 ~31 leaves 4  
+fill ~42 ~15 ~32 ~45 ~15 ~32 wool 13  
+fill ~45 ~15 ~33 ~45 ~27 ~33 leaves 4  
+fill ~4 ~16 ~32 ~4 ~17 ~32 leaves 4  
+fill ~5 ~16 ~31 ~7 ~16 ~31 leaves 4  
+fill ~5 ~16 ~32 ~7 ~16 ~32 wool 13  
+fill ~5 ~16 ~33 ~7 ~16 ~33 leaves 4 
+setblock ~6 ~16 ~28 wool 4  
+fill ~8 ~16 ~32 ~8 ~17 ~32 leaves 4  
+fill ~12 ~16 ~16 ~13 ~16 ~16 log 0  
+fill ~12 ~16 ~17 ~13 ~16 ~17 log 0  
+fill ~13 ~16 ~13 ~13 ~16 ~15 leaves 4  
+fill ~14 ~16 ~9 ~17 ~16 ~9 leaves 4  
+fill ~14 ~16 ~10 ~18 ~16 ~10 wool 13  
+fill ~14 ~16 ~11 ~18 ~16 ~11 leaves 4  
+fill ~14 ~16 ~14 ~15 ~16 ~14 log 0  
+fill ~14 ~16 ~15 ~14 ~16 ~14 log 0  
+fill ~14 ~16 ~17 ~17 ~16 ~17 leaves 4  
+fill ~14 ~16 ~18 ~18 ~16 ~18 wool 13  
+fill ~14 ~16 ~19 ~18 ~16 ~19 leaves 4  
+fill ~15 ~16 ~24 ~15 ~15 ~24 log 0  
+fill ~18 ~16 ~14 ~19 ~16 ~14 log 0 
+setblock ~19 ~16 ~12 leaves 4 
+setblock ~19 ~16 ~15 log 0  
+fill ~19 ~16 ~25 ~19 ~30 ~25 log 0  
+fill ~19 ~16 ~26 ~19 ~19 ~26 log 0  
+fill ~20 ~16 ~27 ~20 ~19 ~27 log 0  
+fill ~20 ~16 ~30 ~22 ~16 ~30 leaves 4  
+fill ~20 ~16 ~31 ~20 ~31 ~31 leaves 4  
+fill ~21 ~16 ~25 ~23 ~16 ~25 log 0  
+fill ~21 ~16 ~31 ~21 ~31 ~31 wool 13  
+fill ~21 ~16 ~32 ~21 ~31 ~32 leaves 4  
+fill ~22 ~16 ~23 ~23 ~16 ~23 log 0  
+fill ~22 ~16 ~24 ~22 ~16 ~23 log 0 
+setblock ~22 ~16 ~26 log 0  
+fill ~23 ~16 ~31 ~27 ~16 ~31 leaves 4  
+fill ~23 ~16 ~32 ~27 ~16 ~32 wool 13  
+fill ~23 ~16 ~33 ~27 ~16 ~33 leaves 4  
+fill ~28 ~16 ~22 ~28 ~16 ~23 log 0  
+fill ~29 ~16 ~23 ~29 ~17 ~23 log 0  
+fill ~29 ~16 ~30 ~30 ~16 ~30 leaves 4  
+fill ~29 ~16 ~31 ~29 ~31 ~31 wool 13  
+fill ~29 ~16 ~32 ~29 ~30 ~32 leaves 4  
+fill ~30 ~16 ~31 ~30 ~31 ~31 leaves 4 
+setblock ~35 ~16 ~25 log 0  
+fill ~40 ~16 ~30 ~41 ~16 ~30 leaves 12  
+fill ~40 ~16 ~31 ~40 ~27 ~31 leaves 4  
+fill ~41 ~16 ~31 ~41 ~27 ~31 wool 13  
+fill ~42 ~16 ~27 ~43 ~16 ~27 log 0  
+fill ~42 ~16 ~28 ~43 ~16 ~28 log 0  
+fill ~42 ~16 ~31 ~45 ~16 ~31 leaves 4  
+fill ~42 ~16 ~32 ~45 ~16 ~32 wool 13  
+fill ~46 ~16 ~30 ~47 ~16 ~30 leaves 4  
+fill ~46 ~16 ~31 ~46 ~27 ~31 wool 13  
+fill ~47 ~16 ~31 ~47 ~27 ~31 leaves 4  
+fill ~5 ~17 ~31 ~7 ~17 ~31 leaves 4  
+fill ~5 ~17 ~32 ~7 ~17 ~32 wool 13  
+fill ~5 ~17 ~33 ~7 ~17 ~33 leaves 4  
+fill ~6 ~17 ~28 ~6 ~32 ~28 fence 0  
+fill ~11 ~17 ~17 ~12 ~17 ~17 log 0  
+fill ~11 ~17 ~18 ~12 ~17 ~18 log 0  
+fill ~11 ~17 ~19 ~12 ~17 ~19 log 0  
+fill ~12 ~17 ~16 ~12 ~21 ~16 wool 13  
+fill ~13 ~17 ~12 ~19 ~17 ~12 planks 0  
+fill ~13 ~17 ~13 ~19 ~17 ~13 planks 0  
+fill ~13 ~17 ~14 ~19 ~17 ~14 planks 0  
+fill ~13 ~17 ~15 ~19 ~17 ~15 planks 0  
+fill ~13 ~17 ~16 ~19 ~17 ~16 planks 0  
+fill ~13 ~17 ~17 ~13 ~21 ~17 wool 13  
+fill ~14 ~17 ~9 ~14 ~18 ~9 leaves 12  
+fill ~14 ~17 ~10 ~18 ~17 ~10 wool 13  
+fill ~14 ~17 ~11 ~18 ~17 ~11 planks 0  
+fill ~14 ~17 ~17 ~18 ~17 ~17 planks 0  
+fill ~14 ~17 ~18 ~18 ~17 ~18 wool 13  
+fill ~14 ~17 ~19 ~36 ~17 ~19 planks 0  
+fill ~14 ~17 ~20 ~36 ~17 ~20 planks 0  
+fill ~14 ~17 ~21 ~16 ~17 ~21 planks 0  
+fill ~14 ~17 ~22 ~15 ~17 ~22 planks 0  
+fill ~14 ~17 ~23 ~16 ~17 ~23 planks 0  
+fill ~14 ~17 ~24 ~16 ~17 ~24 planks 0  
+fill ~14 ~17 ~25 ~16 ~17 ~25 planks 0  
+fill ~14 ~17 ~26 ~15 ~17 ~26 planks 0  
+fill ~14 ~17 ~27 ~16 ~17 ~27 planks 0  
+fill ~14 ~17 ~28 ~36 ~17 ~28 planks 0  
+fill ~14 ~17 ~29 ~36 ~17 ~29 planks 0  
+fill ~15 ~17 ~9 ~18 ~17 ~9 leaves 4 
+setblock ~16 ~17 ~22 torch 1 
+setblock ~16 ~17 ~26 torch 1 
+setblock ~17 ~17 ~21 torch 3 
+setblock ~17 ~17 ~27 torch 4  
+fill ~19 ~17 ~30 ~19 ~31 ~30 leaves 4  
+fill ~20 ~17 ~21 ~23 ~17 ~21 planks 0  
+fill ~20 ~17 ~25 ~22 ~17 ~25 planks 0  
+fill ~20 ~17 ~26 ~22 ~17 ~26 planks 0 
+setblock ~20 ~17 ~30 wool 13  
+fill ~21 ~17 ~22 ~23 ~17 ~22 planks 0  
+fill ~21 ~17 ~24 ~22 ~17 ~24 planks 0  
+fill ~21 ~17 ~30 ~21 ~23 ~30 leaves 4  
+fill ~22 ~17 ~23 ~23 ~17 ~23 log 0  
+fill ~22 ~17 ~30 ~23 ~17 ~30 planks 0  
+fill ~23 ~17 ~25 ~23 ~19 ~25 log 0  
+fill ~23 ~17 ~31 ~27 ~17 ~31 leaves 4  
+fill ~23 ~17 ~32 ~27 ~17 ~32 wool 13  
+fill ~23 ~17 ~33 ~27 ~17 ~33 leaves 4 
+setblock ~24 ~17 ~21 torch 3 
+setblock ~24 ~17 ~27 torch 4 
+setblock ~24 ~17 ~30 torch 3  
+fill ~25 ~17 ~21 ~26 ~17 ~21 planks 0  
+fill ~25 ~17 ~27 ~26 ~17 ~27 planks 0 
+setblock ~26 ~17 ~30 torch 3 
+setblock ~27 ~17 ~21 torch 3 
+setblock ~27 ~17 ~27 torch 4  
+fill ~28 ~17 ~21 ~30 ~17 ~21 planks 0  
+fill ~28 ~17 ~22 ~30 ~17 ~22 planks 0  
+fill ~28 ~17 ~23 ~28 ~19 ~23 log 0  
+fill ~28 ~17 ~24 ~30 ~17 ~24 planks 0  
+fill ~28 ~17 ~25 ~29 ~17 ~25 planks 0  
+fill ~28 ~17 ~26 ~30 ~17 ~26 planks 0  
+fill ~29 ~17 ~30 ~29 ~23 ~30 leaves 4 
+setblock ~30 ~17 ~30 wool 13  
+fill ~31 ~17 ~30 ~31 ~31 ~30 leaves 4 
+setblock ~33 ~17 ~21 torch 3 
+setblock ~33 ~17 ~27 torch 4 
+setblock ~34 ~17 ~22 torch 2 
+setblock ~34 ~17 ~26 torch 2  
+fill ~35 ~17 ~21 ~36 ~17 ~21 planks 0  
+fill ~35 ~17 ~22 ~36 ~17 ~22 planks 0  
+fill ~35 ~17 ~23 ~36 ~17 ~23 planks 0  
+fill ~35 ~17 ~24 ~36 ~17 ~24 planks 0  
+fill ~35 ~17 ~25 ~36 ~17 ~25 planks 0  
+fill ~35 ~17 ~26 ~36 ~17 ~26 planks 0  
+fill ~35 ~17 ~27 ~36 ~17 ~27 planks 0  
+fill ~39 ~17 ~29 ~40 ~17 ~29 leaves 12  
+fill ~39 ~17 ~30 ~39 ~27 ~30 leaves 4  
+fill ~40 ~17 ~30 ~40 ~27 ~30 wool 13 
+setblock ~41 ~17 ~30 leaves 12  
+fill ~42 ~17 ~27 ~43 ~17 ~27 log 0  
+fill ~42 ~17 ~28 ~43 ~17 ~28 log 0  
+fill ~42 ~17 ~31 ~45 ~17 ~31 leaves 4  
+fill ~42 ~17 ~32 ~45 ~17 ~32 wool 13  
+fill ~46 ~17 ~30 ~46 ~21 ~30 leaves 4  
+fill ~47 ~17 ~29 ~48 ~17 ~29 leaves 4  
+fill ~47 ~17 ~30 ~47 ~27 ~30 wool 13  
+fill ~48 ~17 ~30 ~48 ~20 ~30 leaves 12  
+fill ~3 ~18 ~32 ~3 ~21 ~32 leaves 4  
+fill ~4 ~18 ~31 ~8 ~18 ~31 leaves 4  
+fill ~4 ~18 ~32 ~8 ~18 ~32 wool 13  
+fill ~4 ~18 ~33 ~5 ~18 ~33 leaves 4  
+fill ~6 ~18 ~33 ~8 ~18 ~33 leaves 12  
+fill ~9 ~18 ~32 ~9 ~32 ~32 leaves 4  
+fill ~10 ~18 ~21 ~11 ~18 ~21 log 0  
+fill ~11 ~18 ~18 ~12 ~18 ~18 log 0  
+fill ~11 ~18 ~19 ~12 ~18 ~19 log 0  
+fill ~11 ~18 ~20 ~12 ~18 ~20 log 0 
+setblock ~12 ~18 ~17 log 0  
+fill ~13 ~18 ~12 ~13 ~21 ~12 planks 0  
+fill ~13 ~18 ~13 ~13 ~21 ~13 planks 0  
+fill ~13 ~18 ~14 ~13 ~21 ~14 log 0  
+fill ~13 ~18 ~15 ~13 ~21 ~15 planks 0  
+fill ~13 ~18 ~16 ~13 ~21 ~16 planks 0  
+fill ~14 ~18 ~10 ~18 ~18 ~10 wool 13  
+fill ~14 ~18 ~11 ~14 ~17 ~11 planks 0 
+setblock ~14 ~18 ~12 crafting_table 0 
+setblock ~14 ~18 ~13 bookshelf 0  
+fill ~14 ~18 ~14 ~15 ~18 ~14 wool 5  
+fill ~14 ~18 ~15 ~14 ~18 ~14 wool 5  
+fill ~14 ~18 ~17 ~17 ~18 ~17 planks 0  
+fill ~14 ~18 ~18 ~18 ~18 ~18 wool 13  
+fill ~14 ~18 ~19 ~14 ~21 ~19 leaves 4  
+fill ~14 ~18 ~22 ~14 ~18 ~27 fence 0  
+fill ~15 ~18 ~9 ~17 ~18 ~9 leaves 4  
+fill ~15 ~18 ~11 ~15 ~21 ~11 log 0 
+setblock ~15 ~18 ~16 ladder 2 
+setblock ~15 ~18 ~19 oak_stairs 3  
+fill ~16 ~18 ~11 ~18 ~18 ~11 planks 0  
+fill ~16 ~18 ~19 ~18 ~18 ~19 leaves 4  
+fill ~17 ~18 ~29 ~22 ~18 ~29 fence 0 
+setblock ~18 ~18 ~9 leaves 12  
+fill ~18 ~18 ~16 ~19 ~18 ~16 log 0  
+fill ~18 ~18 ~17 ~18 ~21 ~17 log 0  
+fill ~18 ~18 ~23 ~18 ~18 ~25 leaves 4 
+setblock ~18 ~18 ~26 leaves 12  
+fill ~19 ~18 ~12 ~19 ~21 ~12 planks 0  
+fill ~19 ~18 ~13 ~19 ~21 ~13 planks 0  
+fill ~19 ~18 ~14 ~19 ~21 ~14 planks 0  
+fill ~19 ~18 ~15 ~19 ~21 ~15 planks 0  
+fill ~19 ~18 ~19 ~24 ~18 ~19 fence 0 
+setblock ~19 ~18 ~22 leaves 12 
+setblock ~20 ~18 ~30 leaves 4  
+fill ~21 ~18 ~13 ~21 ~21 ~13 leaves 4 
+setblock ~22 ~18 ~30 fence 0  
+fill ~22 ~18 ~31 ~27 ~18 ~31 leaves 4  
+fill ~23 ~18 ~23 ~23 ~20 ~23 log 0  
+fill ~23 ~18 ~32 ~27 ~18 ~32 wool 13  
+fill ~23 ~18 ~33 ~27 ~18 ~33 leaves 4  
+fill ~28 ~18 ~19 ~32 ~18 ~19 fence 0  
+fill ~29 ~18 ~29 ~33 ~18 ~29 fence 0 
+setblock ~30 ~18 ~30 leaves 4 
+setblock ~31 ~18 ~22 leaves 4  
+fill ~32 ~18 ~23 ~32 ~18 ~25 leaves 4 
+setblock ~32 ~18 ~26 leaves 12  
+fill ~36 ~18 ~20 ~36 ~18 ~25 fence 0  
+fill ~38 ~18 ~29 ~38 ~27 ~29 leaves 4 
+setblock ~39 ~18 ~28 leaves 4  
+fill ~39 ~18 ~29 ~39 ~27 ~29 wool 13  
+fill ~40 ~18 ~29 ~40 ~21 ~29 leaves 4  
+fill ~41 ~18 ~30 ~41 ~21 ~30 leaves 4  
+fill ~42 ~18 ~31 ~45 ~18 ~31 leaves 4  
+fill ~42 ~18 ~32 ~45 ~18 ~32 wool 13  
+fill ~43 ~18 ~27 ~44 ~18 ~27 log 0  
+fill ~43 ~18 ~28 ~44 ~18 ~28 log 0  
+fill ~47 ~18 ~29 ~47 ~21 ~29 leaves 4 
+setblock ~48 ~18 ~28 leaves 12  
+fill ~48 ~18 ~29 ~48 ~27 ~29 wool 13  
+fill ~49 ~18 ~29 ~49 ~27 ~29 leaves 4  
+fill ~3 ~19 ~31 ~9 ~19 ~31 leaves 4  
+fill ~4 ~19 ~32 ~8 ~19 ~32 wool 13  
+fill ~4 ~19 ~33 ~5 ~19 ~33 leaves 4  
+fill ~6 ~19 ~33 ~8 ~19 ~33 leaves 12  
+fill ~10 ~19 ~20 ~12 ~19 ~20 log 0  
+fill ~10 ~19 ~21 ~11 ~19 ~21 log 0  
+fill ~10 ~19 ~22 ~10 ~21 ~22 log 0  
+fill ~11 ~19 ~19 ~12 ~19 ~19 log 0  
+fill ~12 ~19 ~17 ~12 ~21 ~17 leaves 4 
+setblock ~14 ~19 ~11 glass_pane 0  
+fill ~14 ~19 ~17 ~14 ~21 ~17 planks 0  
+fill ~14 ~19 ~18 ~14 ~21 ~18 wool 13  
+fill ~15 ~19 ~9 ~16 ~19 ~9 leaves 4  
+fill ~15 ~19 ~10 ~16 ~19 ~10 wool 13 
+setblock ~15 ~19 ~18 wooden_door 3  
+fill ~16 ~19 ~11 ~16 ~21 ~11 planks 0  
+fill ~16 ~19 ~17 ~17 ~19 ~17 planks 0  
+fill ~16 ~19 ~18 ~18 ~19 ~18 wool 13  
+fill ~16 ~19 ~19 ~16 ~21 ~19 leaves 4  
+fill ~17 ~19 ~11 ~17 ~20 ~11 glass_pane 0  
+fill ~17 ~19 ~19 ~18 ~19 ~19 leaves 12  
+fill ~17 ~19 ~23 ~17 ~31 ~23 leaves 4  
+fill ~17 ~19 ~24 ~17 ~31 ~24 leaves 4  
+fill ~17 ~19 ~25 ~17 ~31 ~25 leaves 4  
+fill ~17 ~19 ~26 ~17 ~31 ~26 leaves 4 
+setblock ~18 ~19 ~9 leaves 4  
+fill ~18 ~19 ~10 ~18 ~21 ~10 wool 13  
+fill ~18 ~19 ~11 ~18 ~21 ~11 planks 0 
+setblock ~18 ~19 ~14 wall_sign 4  
+fill ~18 ~19 ~16 ~19 ~19 ~16 log 0  
+fill ~18 ~19 ~22 ~18 ~31 ~22 leaves 4  
+fill ~18 ~19 ~23 ~18 ~31 ~23 wool 13  
+fill ~18 ~19 ~24 ~18 ~31 ~24 wool 13  
+fill ~18 ~19 ~25 ~18 ~31 ~25 wool 13  
+fill ~18 ~19 ~26 ~18 ~31 ~26 wool 13 
+setblock ~18 ~19 ~27 leaves 4 
+setblock ~19 ~19 ~21 leaves 12  
+fill ~19 ~19 ~22 ~19 ~31 ~22 wool 13  
+fill ~19 ~19 ~23 ~19 ~24 ~23 leaves 4  
+fill ~19 ~19 ~29 ~20 ~19 ~29 leaves 4  
+fill ~20 ~19 ~11 ~20 ~21 ~11 leaves 4  
+fill ~20 ~19 ~22 ~20 ~23 ~22 leaves 4  
+fill ~20 ~19 ~30 ~20 ~31 ~30 wool 13 
+setblock ~22 ~19 ~25 torch 2  
+fill ~22 ~19 ~26 ~22 ~20 ~26 log 0  
+fill ~22 ~19 ~30 ~22 ~23 ~30 leaves 4  
+fill ~22 ~19 ~31 ~22 ~31 ~31 wool 13  
+fill ~23 ~19 ~31 ~27 ~19 ~31 leaves 4  
+fill ~23 ~19 ~32 ~27 ~19 ~32 wool 13  
+fill ~23 ~19 ~33 ~27 ~19 ~33 leaves 4 
+setblock ~28 ~19 ~25 torch 1 
+setblock ~28 ~19 ~26 log 0  
+fill ~30 ~19 ~22 ~30 ~23 ~22 leaves 4  
+fill ~30 ~19 ~29 ~31 ~19 ~29 leaves 4  
+fill ~30 ~19 ~30 ~30 ~31 ~30 wool 13 
+setblock ~31 ~19 ~21 leaves 4  
+fill ~31 ~19 ~22 ~31 ~31 ~22 wool 13  
+fill ~32 ~19 ~22 ~32 ~31 ~22 leaves 4  
+fill ~32 ~19 ~23 ~32 ~23 ~23 wool 13  
+fill ~32 ~19 ~24 ~32 ~23 ~24 wool 13  
+fill ~32 ~19 ~25 ~32 ~31 ~25 wool 13  
+fill ~32 ~19 ~26 ~32 ~31 ~26 wool 13 
+setblock ~32 ~19 ~27 leaves 12  
+fill ~33 ~19 ~23 ~33 ~23 ~23 leaves 4  
+fill ~33 ~19 ~24 ~33 ~23 ~24 leaves 4  
+fill ~33 ~19 ~25 ~33 ~31 ~25 leaves 4  
+fill ~33 ~19 ~26 ~33 ~31 ~26 leaves 4  
+fill ~38 ~19 ~28 ~38 ~27 ~28 leaves 4 
+setblock ~39 ~19 ~27 leaves 4  
+fill ~39 ~19 ~28 ~39 ~27 ~28 wool 13  
+fill ~40 ~19 ~28 ~40 ~21 ~28 leaves 4  
+fill ~42 ~19 ~31 ~45 ~19 ~31 leaves 4  
+fill ~42 ~19 ~32 ~45 ~19 ~32 wool 13  
+fill ~43 ~19 ~27 ~44 ~19 ~27 log 0  
+fill ~43 ~19 ~28 ~44 ~19 ~28 log 0  
+fill ~47 ~19 ~28 ~47 ~21 ~28 leaves 4 
+setblock ~48 ~19 ~27 leaves 12  
+fill ~48 ~19 ~28 ~48 ~27 ~28 wool 13  
+fill ~49 ~19 ~28 ~49 ~27 ~28 leaves 4  
+fill ~2 ~20 ~30 ~3 ~20 ~30 leaves 4  
+fill ~2 ~20 ~31 ~2 ~21 ~31 leaves 4  
+fill ~3 ~20 ~31 ~3 ~32 ~31 wool 13  
+fill ~4 ~20 ~31 ~8 ~20 ~31 leaves 4  
+fill ~4 ~20 ~32 ~8 ~20 ~32 wool 13  
+fill ~4 ~20 ~33 ~5 ~20 ~33 leaves 4  
+fill ~6 ~20 ~33 ~8 ~20 ~33 leaves 12  
+fill ~9 ~20 ~30 ~10 ~20 ~30 leaves 4  
+fill ~9 ~20 ~31 ~9 ~32 ~31 wool 13  
+fill ~10 ~20 ~21 ~11 ~20 ~21 log 0  
+fill ~10 ~20 ~23 ~10 ~21 ~23 log 0  
+fill ~10 ~20 ~31 ~10 ~21 ~31 leaves 4 
+setblock ~11 ~20 ~20 log 0 
+setblock ~11 ~20 ~22 log 0 
+setblock ~14 ~20 ~9 stone_stairs 2  
+fill ~14 ~20 ~10 ~16 ~20 ~10 wool 13  
+fill ~14 ~20 ~11 ~14 ~21 ~11 planks 0 
+setblock ~14 ~20 ~16 stone_slab 2  
+fill ~15 ~20 ~9 ~16 ~20 ~9 leaves 4 
+setblock ~15 ~20 ~12 torch 3 
+setblock ~15 ~20 ~18 wooden_door 8  
+fill ~16 ~20 ~17 ~17 ~20 ~17 planks 0  
+fill ~16 ~20 ~18 ~18 ~20 ~18 wool 13 
+setblock ~17 ~20 ~16 torch 2  
+fill ~17 ~20 ~19 ~18 ~20 ~19 leaves 12  
+fill ~17 ~20 ~27 ~17 ~27 ~27 leaves 4  
+fill ~18 ~20 ~9 ~18 ~21 ~9 leaves 12  
+fill ~18 ~20 ~16 ~19 ~20 ~16 log 0  
+fill ~18 ~20 ~27 ~18 ~27 ~27 wool 13  
+fill ~18 ~20 ~28 ~19 ~20 ~28 leaves 4  
+fill ~18 ~20 ~29 ~18 ~31 ~29 leaves 4  
+fill ~19 ~20 ~10 ~19 ~21 ~10 leaves 4 
+setblock ~19 ~20 ~21 leaves 4  
+fill ~19 ~20 ~26 ~19 ~23 ~26 leaves 4  
+fill ~19 ~20 ~27 ~19 ~23 ~27 leaves 4  
+fill ~19 ~20 ~29 ~19 ~31 ~29 wool 13 
+setblock ~20 ~20 ~20 leaves 4  
+fill ~20 ~20 ~26 ~22 ~20 ~26 log 0  
+fill ~20 ~20 ~29 ~20 ~23 ~29 leaves 4 
+setblock ~21 ~20 ~19 leaves 4  
+fill ~22 ~20 ~23 ~22 ~21 ~23 log 0  
+fill ~22 ~20 ~24 ~22 ~23 ~24 log 0  
+fill ~22 ~20 ~25 ~22 ~23 ~25 log 0  
+fill ~23 ~20 ~31 ~27 ~20 ~31 leaves 4  
+fill ~23 ~20 ~32 ~27 ~20 ~32 wool 13  
+fill ~23 ~20 ~33 ~27 ~20 ~33 leaves 4  
+fill ~28 ~20 ~24 ~28 ~23 ~24 log 0  
+fill ~28 ~20 ~25 ~28 ~23 ~25 log 0 
+setblock ~29 ~20 ~19 leaves 12  
+fill ~29 ~20 ~23 ~29 ~23 ~23 log 0  
+fill ~29 ~20 ~26 ~30 ~20 ~26 log 0  
+fill ~30 ~20 ~20 ~31 ~20 ~20 leaves 4  
+fill ~30 ~20 ~21 ~30 ~23 ~21 leaves 4  
+fill ~30 ~20 ~29 ~30 ~23 ~29 leaves 4  
+fill ~31 ~20 ~21 ~31 ~31 ~21 wool 13  
+fill ~31 ~20 ~26 ~31 ~23 ~26 leaves 4  
+fill ~31 ~20 ~27 ~31 ~23 ~27 leaves 4  
+fill ~31 ~20 ~28 ~32 ~20 ~28 leaves 4  
+fill ~31 ~20 ~29 ~31 ~30 ~29 wool 13  
+fill ~32 ~20 ~21 ~32 ~31 ~21 leaves 4  
+fill ~32 ~20 ~27 ~32 ~31 ~27 wool 13  
+fill ~32 ~20 ~29 ~32 ~30 ~29 leaves 4  
+fill ~33 ~20 ~27 ~33 ~31 ~27 leaves 4  
+fill ~38 ~20 ~27 ~38 ~27 ~27 leaves 4 
+setblock ~39 ~20 ~26 leaves 4  
+fill ~39 ~20 ~27 ~39 ~27 ~27 wool 13 
+setblock ~40 ~20 ~25 leaves 4  
+fill ~40 ~20 ~27 ~40 ~21 ~27 leaves 4 
+setblock ~41 ~20 ~24 leaves 4  
+fill ~42 ~20 ~23 ~45 ~20 ~23 leaves 4  
+fill ~42 ~20 ~27 ~45 ~20 ~27 log 0  
+fill ~42 ~20 ~28 ~45 ~20 ~28 log 0  
+fill ~42 ~20 ~31 ~45 ~20 ~31 leaves 4  
+fill ~42 ~20 ~32 ~45 ~20 ~32 wool 13 
+setblock ~46 ~20 ~24 leaves 4 
+setblock ~47 ~20 ~25 leaves 4 
+setblock ~47 ~20 ~27 leaves 12 
+setblock ~48 ~20 ~26 leaves 12  
+fill ~48 ~20 ~27 ~48 ~27 ~27 wool 13  
+fill ~49 ~20 ~27 ~49 ~27 ~27 leaves 4  
+fill ~1 ~21 ~30 ~1 ~30 ~30 leaves 4  
+fill ~2 ~21 ~29 ~2 ~22 ~29 leaves 4  
+fill ~2 ~21 ~30 ~2 ~32 ~30 wool 13  
+fill ~3 ~21 ~30 ~3 ~28 ~30 leaves 4  
+fill ~4 ~21 ~31 ~8 ~21 ~31 leaves 4  
+fill ~4 ~21 ~32 ~8 ~21 ~32 wool 13  
+fill ~4 ~21 ~33 ~8 ~21 ~33 leaves 4  
+fill ~9 ~21 ~22 ~9 ~21 ~24 log 0  
+fill ~9 ~21 ~30 ~9 ~28 ~30 leaves 4  
+fill ~10 ~21 ~21 ~10 ~18 ~21 log 0 
+setblock ~10 ~21 ~29 leaves 12  
+fill ~10 ~21 ~30 ~10 ~32 ~30 wool 13  
+fill ~11 ~21 ~30 ~11 ~29 ~30 leaves 4 
+setblock ~14 ~21 ~9 leaves 4  
+fill ~14 ~21 ~10 ~18 ~21 ~10 wool 13  
+fill ~15 ~21 ~9 ~16 ~21 ~9 leaves 12  
+fill ~15 ~21 ~17 ~17 ~21 ~17 planks 0  
+fill ~15 ~21 ~18 ~18 ~21 ~18 wool 13 
+setblock ~15 ~21 ~19 leaves 4 
+setblock ~17 ~21 ~9 stone_stairs 2 
+setblock ~17 ~21 ~11 planks 0  
+fill ~17 ~21 ~19 ~18 ~21 ~19 leaves 12  
+fill ~18 ~21 ~16 ~19 ~21 ~16 log 0  
+fill ~18 ~21 ~21 ~18 ~31 ~21 leaves 4  
+fill ~18 ~21 ~28 ~18 ~27 ~28 leaves 4 
+setblock ~19 ~21 ~18 leaves 12  
+fill ~19 ~21 ~20 ~19 ~31 ~20 leaves 4  
+fill ~19 ~21 ~21 ~19 ~31 ~21 wool 13  
+fill ~19 ~21 ~28 ~19 ~27 ~28 wool 13  
+fill ~20 ~21 ~19 ~20 ~31 ~19 leaves 4  
+fill ~20 ~21 ~20 ~20 ~31 ~20 wool 13  
+fill ~20 ~21 ~21 ~20 ~23 ~21 leaves 4  
+fill ~20 ~21 ~26 ~21 ~21 ~26 log 0  
+fill ~20 ~21 ~28 ~20 ~23 ~28 leaves 4 
+setblock ~21 ~21 ~16 leaves 12  
+fill ~21 ~21 ~18 ~21 ~31 ~18 leaves 4  
+fill ~21 ~21 ~19 ~21 ~31 ~19 wool 13  
+fill ~21 ~21 ~20 ~21 ~23 ~20 leaves 4 
+setblock ~21 ~21 ~27 torch 3 
+setblock ~22 ~21 ~19 leaves 4  
+fill ~23 ~21 ~31 ~25 ~21 ~31 leaves 4  
+fill ~23 ~21 ~32 ~27 ~21 ~32 wool 13  
+fill ~23 ~21 ~33 ~27 ~21 ~33 leaves 4  
+fill ~26 ~21 ~31 ~27 ~21 ~31 leaves 12 
+setblock ~28 ~21 ~19 leaves 12 
+setblock ~29 ~21 ~18 leaves 12  
+fill ~29 ~21 ~19 ~29 ~31 ~19 wool 13  
+fill ~29 ~21 ~20 ~29 ~23 ~20 leaves 4  
+fill ~29 ~21 ~24 ~29 ~23 ~24 log 0  
+fill ~29 ~21 ~26 ~30 ~21 ~26 log 0 
+setblock ~29 ~21 ~27 torch 3 
+setblock ~30 ~21 ~19 leaves 12  
+fill ~30 ~21 ~20 ~30 ~31 ~20 wool 13  
+fill ~30 ~21 ~28 ~30 ~23 ~28 leaves 4  
+fill ~31 ~21 ~20 ~31 ~31 ~20 leaves 4  
+fill ~31 ~21 ~28 ~31 ~31 ~28 wool 13  
+fill ~32 ~21 ~28 ~32 ~31 ~28 leaves 4  
+fill ~38 ~21 ~26 ~38 ~23 ~26 leaves 4  
+fill ~39 ~21 ~25 ~39 ~27 ~25 leaves 4  
+fill ~39 ~21 ~26 ~39 ~24 ~26 wool 13  
+fill ~40 ~21 ~24 ~40 ~27 ~24 leaves 4  
+fill ~40 ~21 ~25 ~40 ~27 ~25 wool 13 
+setblock ~40 ~21 ~26 leaves 4 
+setblock ~41 ~21 ~23 leaves 12  
+fill ~41 ~21 ~24 ~41 ~27 ~24 wool 13 
+setblock ~41 ~21 ~25 leaves 4  
+fill ~41 ~21 ~27 ~42 ~21 ~27 log 0  
+fill ~41 ~21 ~28 ~42 ~21 ~28 log 0  
+fill ~41 ~21 ~29 ~41 ~21 ~27 log 0  
+fill ~42 ~21 ~22 ~43 ~21 ~22 leaves 12  
+fill ~42 ~21 ~23 ~45 ~21 ~23 wool 13  
+fill ~42 ~21 ~24 ~45 ~21 ~24 leaves 4  
+fill ~42 ~21 ~31 ~45 ~21 ~31 leaves 4  
+fill ~42 ~21 ~32 ~45 ~21 ~32 wool 13  
+fill ~44 ~21 ~22 ~45 ~21 ~22 leaves 4  
+fill ~44 ~21 ~25 ~44 ~21 ~26 log 0  
+fill ~45 ~21 ~27 ~46 ~21 ~27 log 0  
+fill ~45 ~21 ~28 ~46 ~21 ~28 log 0  
+fill ~46 ~21 ~23 ~46 ~27 ~23 leaves 4  
+fill ~46 ~21 ~24 ~46 ~27 ~24 wool 13 
+setblock ~46 ~21 ~25 leaves 4  
+fill ~47 ~21 ~24 ~47 ~27 ~24 leaves 4  
+fill ~47 ~21 ~25 ~47 ~27 ~25 wool 13  
+fill ~47 ~21 ~26 ~47 ~21 ~29 leaves 4  
+fill ~48 ~21 ~25 ~48 ~22 ~25 leaves 12  
+fill ~48 ~21 ~26 ~48 ~27 ~26 wool 13  
+fill ~48 ~21 ~30 ~48 ~27 ~30 leaves 4  
+fill ~49 ~21 ~26 ~49 ~27 ~26 leaves 4  
+fill ~2 ~22 ~31 ~2 ~24 ~31 leaves 12  
+fill ~3 ~22 ~32 ~3 ~24 ~32 leaves 12  
+fill ~4 ~22 ~31 ~8 ~22 ~31 leaves 4  
+fill ~4 ~22 ~32 ~8 ~22 ~32 wool 13  
+fill ~4 ~22 ~33 ~8 ~22 ~33 leaves 4  
+fill ~8 ~22 ~24 ~9 ~22 ~24 log 0  
+fill ~8 ~22 ~25 ~9 ~22 ~25 log 0  
+fill ~8 ~22 ~26 ~8 ~24 ~26 log 0 
+setblock ~9 ~22 ~23 log 0  
+fill ~9 ~22 ~29 ~9 ~23 ~29 leaves 12 
+setblock ~10 ~22 ~28 leaves 12  
+fill ~10 ~22 ~29 ~10 ~32 ~29 wool 13  
+fill ~10 ~22 ~31 ~10 ~24 ~31 leaves 12  
+fill ~11 ~22 ~29 ~11 ~32 ~29 leaves 4  
+fill ~12 ~22 ~12 ~12 ~22 ~16 leaves 4 
+setblock ~13 ~22 ~11 leaves 4  
+fill ~13 ~22 ~12 ~13 ~22 ~16 wool 13 
+setblock ~13 ~22 ~17 leaves 4  
+fill ~14 ~22 ~10 ~18 ~22 ~10 leaves 12  
+fill ~14 ~22 ~11 ~18 ~22 ~11 wool 13  
+fill ~14 ~22 ~14 ~14 ~23 ~14 log 0  
+fill ~14 ~22 ~17 ~18 ~22 ~17 wool 13  
+fill ~14 ~22 ~18 ~18 ~22 ~18 leaves 4  
+fill ~15 ~22 ~12 ~15 ~23 ~12 log 0 
+setblock ~17 ~22 ~9 leaves 4  
+fill ~17 ~22 ~16 ~18 ~22 ~16 log 0  
+fill ~18 ~22 ~15 ~18 ~23 ~15 log 0 
+setblock ~19 ~22 ~11 leaves 12  
+fill ~19 ~22 ~12 ~19 ~22 ~16 wool 13 
+setblock ~19 ~22 ~17 leaves 12  
+fill ~20 ~22 ~12 ~20 ~22 ~13 leaves 12  
+fill ~20 ~22 ~14 ~20 ~23 ~14 leaves 4  
+fill ~20 ~22 ~15 ~20 ~23 ~15 leaves 4 
+setblock ~20 ~22 ~16 leaves 12  
+fill ~20 ~22 ~24 ~20 ~24 ~24 ladder 4  
+fill ~20 ~22 ~26 ~21 ~22 ~26 log 0  
+fill ~21 ~22 ~24 ~21 ~23 ~24 log 0  
+fill ~22 ~22 ~18 ~29 ~22 ~18 leaves 4  
+fill ~22 ~22 ~19 ~22 ~31 ~19 wool 13  
+fill ~22 ~22 ~20 ~22 ~23 ~20 leaves 4  
+fill ~23 ~22 ~19 ~23 ~23 ~19 leaves 4  
+fill ~23 ~22 ~31 ~25 ~22 ~31 leaves 4  
+fill ~23 ~22 ~32 ~27 ~22 ~32 wool 13  
+fill ~23 ~22 ~33 ~27 ~22 ~33 leaves 4  
+fill ~26 ~22 ~31 ~27 ~22 ~31 leaves 12  
+fill ~27 ~22 ~19 ~27 ~23 ~19 leaves 4  
+fill ~28 ~22 ~19 ~28 ~31 ~19 wool 13  
+fill ~28 ~22 ~20 ~28 ~23 ~20 leaves 4  
+fill ~29 ~22 ~25 ~29 ~23 ~25 log 0  
+fill ~29 ~22 ~26 ~30 ~22 ~26 log 0  
+fill ~30 ~22 ~19 ~30 ~31 ~19 leaves 4  
+fill ~30 ~22 ~24 ~30 ~28 ~24 log 0  
+fill ~30 ~22 ~25 ~30 ~24 ~25 ladder 5  
+fill ~40 ~22 ~26 ~44 ~22 ~26 planks 0  
+fill ~40 ~22 ~27 ~47 ~22 ~27 planks 0  
+fill ~40 ~22 ~28 ~47 ~22 ~28 planks 0  
+fill ~40 ~22 ~29 ~47 ~22 ~29 planks 0  
+fill ~41 ~22 ~23 ~41 ~27 ~23 leaves 4  
+fill ~41 ~22 ~25 ~46 ~22 ~25 planks 0  
+fill ~41 ~22 ~30 ~41 ~26 ~30 log 0  
+fill ~42 ~22 ~22 ~42 ~27 ~22 leaves 4  
+fill ~42 ~22 ~23 ~45 ~22 ~23 wool 13  
+fill ~42 ~22 ~24 ~43 ~22 ~24 planks 0  
+fill ~42 ~22 ~30 ~46 ~22 ~30 planks 0  
+fill ~42 ~22 ~31 ~45 ~22 ~31 planks 0  
+fill ~42 ~22 ~32 ~45 ~22 ~32 wool 13  
+fill ~43 ~22 ~22 ~43 ~23 ~22 leaves 12  
+fill ~44 ~22 ~22 ~45 ~22 ~22 leaves 4  
+fill ~44 ~22 ~24 ~44 ~26 ~24 log 0  
+fill ~45 ~22 ~24 ~45 ~25 ~24 planks 0  
+fill ~46 ~22 ~26 ~47 ~22 ~26 planks 0  
+fill ~1 ~23 ~29 ~1 ~24 ~29 leaves 12  
+fill ~2 ~23 ~28 ~2 ~24 ~28 leaves 4  
+fill ~2 ~23 ~29 ~2 ~32 ~29 wool 13  
+fill ~3 ~23 ~29 ~3 ~28 ~29 leaves 4  
+fill ~4 ~23 ~31 ~8 ~23 ~31 leaves 4  
+fill ~4 ~23 ~32 ~8 ~23 ~32 wool 13  
+fill ~4 ~23 ~33 ~8 ~23 ~33 leaves 4  
+fill ~7 ~23 ~25 ~8 ~23 ~25 log 0  
+fill ~7 ~23 ~26 ~7 ~25 ~26 log 0 
+setblock ~9 ~23 ~28 leaves 12 
+setblock ~10 ~23 ~27 leaves 12  
+fill ~10 ~23 ~28 ~10 ~32 ~28 wool 13 
+setblock ~11 ~23 ~28 leaves 4  
+fill ~12 ~23 ~13 ~12 ~23 ~15 leaves 4 
+setblock ~13 ~23 ~12 leaves 12  
+fill ~13 ~23 ~13 ~13 ~23 ~15 wool 13 
+setblock ~13 ~23 ~16 leaves 4 
+setblock ~14 ~23 ~11 leaves 12 
+setblock ~14 ~23 ~12 wool 13 
+setblock ~14 ~23 ~16 wool 13 
+setblock ~14 ~23 ~17 leaves 4 
+setblock ~15 ~23 ~10 leaves 4  
+fill ~15 ~23 ~11 ~17 ~23 ~11 wool 13  
+fill ~15 ~23 ~17 ~17 ~23 ~17 wool 13  
+fill ~15 ~23 ~18 ~17 ~23 ~18 leaves 4  
+fill ~16 ~23 ~10 ~17 ~23 ~10 leaves 12  
+fill ~17 ~23 ~16 ~17 ~22 ~16 log 0 
+setblock ~18 ~23 ~11 leaves 4 
+setblock ~18 ~23 ~12 wool 13 
+setblock ~18 ~23 ~16 wool 13 
+setblock ~18 ~23 ~17 leaves 4 
+setblock ~19 ~23 ~12 leaves 12  
+fill ~19 ~23 ~13 ~19 ~23 ~15 wool 13 
+setblock ~19 ~23 ~16 leaves 12 
+setblock ~20 ~23 ~13 leaves 12  
+fill ~20 ~23 ~25 ~20 ~30 ~25 log 0  
+fill ~20 ~23 ~26 ~21 ~23 ~26 log 0  
+fill ~22 ~23 ~18 ~22 ~31 ~18 leaves 4  
+fill ~23 ~23 ~17 ~27 ~23 ~17 leaves 4  
+fill ~23 ~23 ~18 ~27 ~23 ~18 wool 13  
+fill ~23 ~23 ~24 ~27 ~23 ~24 planks 0  
+fill ~23 ~23 ~25 ~27 ~23 ~25 planks 0  
+fill ~23 ~23 ~26 ~27 ~23 ~26 planks 0  
+fill ~23 ~23 ~31 ~25 ~23 ~31 leaves 4  
+fill ~23 ~23 ~32 ~27 ~23 ~32 wool 13  
+fill ~23 ~23 ~33 ~27 ~23 ~33 leaves 4  
+fill ~24 ~23 ~19 ~27 ~23 ~19 leaves 4  
+fill ~24 ~23 ~22 ~26 ~23 ~22 planks 0  
+fill ~24 ~23 ~23 ~26 ~23 ~23 planks 0  
+fill ~24 ~23 ~27 ~26 ~23 ~27 planks 0  
+fill ~24 ~23 ~28 ~26 ~23 ~28 planks 0  
+fill ~26 ~23 ~31 ~27 ~23 ~31 leaves 12  
+fill ~28 ~23 ~18 ~29 ~23 ~18 leaves 4  
+fill ~29 ~23 ~26 ~30 ~23 ~26 log 0  
+fill ~34 ~23 ~23 ~35 ~23 ~23 planks 0  
+fill ~34 ~23 ~24 ~37 ~23 ~24 planks 0  
+fill ~35 ~23 ~25 ~37 ~23 ~25 planks 0  
+fill ~36 ~23 ~26 ~37 ~23 ~26 planks 0  
+fill ~40 ~23 ~26 ~40 ~25 ~26 planks 0  
+fill ~40 ~23 ~27 ~40 ~25 ~27 planks 0  
+fill ~40 ~23 ~28 ~41 ~23 ~28 planks 0  
+fill ~40 ~23 ~29 ~40 ~25 ~29 planks 0  
+fill ~41 ~23 ~25 ~41 ~25 ~25 planks 0 
+setblock ~41 ~23 ~29 oak_stairs 1  
+fill ~42 ~23 ~23 ~45 ~23 ~23 wool 13  
+fill ~42 ~23 ~24 ~43 ~23 ~24 planks 0 
+setblock ~42 ~23 ~25 cobblestone 0  
+fill ~42 ~23 ~31 ~45 ~23 ~31 planks 0  
+fill ~42 ~23 ~32 ~45 ~23 ~32 wool 13  
+fill ~43 ~23 ~28 ~46 ~23 ~28 stone 0  
+fill ~43 ~23 ~29 ~43 ~23 ~30 stone 0  
+fill ~44 ~23 ~22 ~45 ~23 ~22 leaves 4  
+fill ~44 ~23 ~29 ~45 ~23 ~29 water 0  
+fill ~44 ~23 ~30 ~45 ~23 ~30 stone 0  
+fill ~46 ~23 ~25 ~46 ~25 ~25 planks 0 
+setblock ~46 ~23 ~29 stone 0  
+fill ~46 ~23 ~30 ~46 ~25 ~30 planks 0  
+fill ~47 ~23 ~26 ~47 ~25 ~26 planks 0  
+fill ~47 ~23 ~27 ~47 ~25 ~27 planks 0  
+fill ~47 ~23 ~28 ~47 ~25 ~28 planks 0  
+fill ~47 ~23 ~29 ~47 ~25 ~29 planks 0  
+fill ~48 ~23 ~25 ~48 ~27 ~25 leaves 4  
+fill ~4 ~24 ~31 ~8 ~24 ~31 leaves 4  
+fill ~4 ~24 ~32 ~8 ~24 ~32 wool 13  
+fill ~4 ~24 ~33 ~8 ~24 ~33 leaves 4  
+fill ~7 ~24 ~27 ~8 ~24 ~27 log 0  
+fill ~9 ~24 ~28 ~9 ~28 ~28 leaves 4  
+fill ~9 ~24 ~29 ~9 ~28 ~29 leaves 4 
+setblock ~10 ~24 ~27 leaves 4  
+fill ~11 ~24 ~28 ~11 ~26 ~28 leaves 12 
+setblock ~13 ~24 ~13 leaves 12  
+fill ~13 ~24 ~14 ~13 ~24 ~15 leaves 4 
+setblock ~14 ~24 ~12 leaves 12  
+fill ~14 ~24 ~13 ~14 ~24 ~15 wool 13 
+setblock ~14 ~24 ~16 leaves 12  
+fill ~15 ~24 ~11 ~17 ~24 ~11 leaves 4  
+fill ~15 ~24 ~12 ~17 ~24 ~12 wool 13  
+fill ~15 ~24 ~13 ~15 ~24 ~14 log 0  
+fill ~15 ~24 ~16 ~17 ~24 ~16 wool 13  
+fill ~15 ~24 ~17 ~16 ~24 ~17 leaves 12 
+setblock ~16 ~24 ~14 log 0 
+setblock ~17 ~24 ~15 log 0 
+setblock ~17 ~24 ~17 leaves 4 
+setblock ~18 ~24 ~12 leaves 4  
+fill ~18 ~24 ~13 ~18 ~24 ~15 wool 13 
+setblock ~18 ~24 ~16 leaves 4 
+setblock ~19 ~24 ~13 leaves 12  
+fill ~19 ~24 ~14 ~19 ~24 ~15 leaves 4  
+fill ~19 ~24 ~26 ~29 ~24 ~26 planks 0  
+fill ~19 ~24 ~27 ~31 ~24 ~27 planks 0  
+fill ~20 ~24 ~21 ~30 ~24 ~21 planks 0  
+fill ~20 ~24 ~22 ~24 ~24 ~22 planks 0  
+fill ~20 ~24 ~28 ~30 ~24 ~28 planks 0  
+fill ~20 ~24 ~29 ~30 ~24 ~29 planks 0  
+fill ~21 ~24 ~20 ~29 ~24 ~20 planks 0  
+fill ~21 ~24 ~23 ~23 ~24 ~23 planks 0  
+fill ~21 ~24 ~24 ~23 ~24 ~24 planks 0  
+fill ~21 ~24 ~25 ~24 ~24 ~25 planks 0  
+fill ~21 ~24 ~30 ~29 ~24 ~30 planks 0  
+fill ~23 ~24 ~17 ~27 ~24 ~17 leaves 4  
+fill ~23 ~24 ~18 ~27 ~24 ~18 wool 13  
+fill ~23 ~24 ~19 ~27 ~24 ~19 planks 0  
+fill ~23 ~24 ~31 ~27 ~24 ~31 planks 0  
+fill ~23 ~24 ~32 ~27 ~24 ~32 wool 13  
+fill ~23 ~24 ~33 ~27 ~24 ~33 leaves 4  
+fill ~24 ~24 ~23 ~26 ~24 ~23 wool 12  
+fill ~24 ~24 ~24 ~26 ~24 ~24 wool 12 
+setblock ~25 ~24 ~22 wool 12 
+setblock ~25 ~24 ~25 wool 12  
+fill ~26 ~24 ~22 ~30 ~24 ~22 planks 0  
+fill ~26 ~24 ~25 ~29 ~24 ~25 planks 0  
+fill ~27 ~24 ~23 ~32 ~24 ~23 planks 0  
+fill ~27 ~24 ~24 ~29 ~24 ~24 planks 0  
+fill ~28 ~24 ~18 ~29 ~24 ~18 leaves 4  
+fill ~30 ~24 ~26 ~31 ~24 ~26 log 0 
+setblock ~32 ~24 ~24 planks 0  
+fill ~33 ~24 ~23 ~33 ~24 ~24 stone_slab 2  
+fill ~38 ~24 ~25 ~38 ~24 ~26 oak_stairs 0  
+fill ~40 ~24 ~28 ~40 ~25 ~28 planks 0 
+setblock ~41 ~24 ~27 planks 0 
+setblock ~41 ~24 ~28 oak_stairs 3  
+fill ~42 ~24 ~23 ~45 ~24 ~23 wool 13  
+fill ~42 ~24 ~24 ~43 ~24 ~24 planks 0 
+setblock ~42 ~24 ~27 torch 1  
+fill ~42 ~24 ~31 ~43 ~24 ~31 planks 0  
+fill ~42 ~24 ~32 ~43 ~24 ~32 wool 13  
+fill ~43 ~24 ~22 ~45 ~24 ~22 leaves 4 
+setblock ~44 ~24 ~31 glass_pane 0  
+fill ~45 ~24 ~31 ~45 ~25 ~31 planks 0  
+fill ~45 ~24 ~32 ~45 ~27 ~32 wool 13 
+setblock ~46 ~24 ~26 planks 0 
+setblock ~46 ~24 ~27 torch 2 
+setblock ~1 ~25 ~28 leaves 12 
+setblock ~1 ~25 ~29 leaves 4 
+setblock ~2 ~25 ~27 leaves 4  
+fill ~2 ~25 ~28 ~2 ~32 ~28 wool 13  
+fill ~2 ~25 ~31 ~2 ~32 ~31 leaves 4  
+fill ~3 ~25 ~28 ~3 ~28 ~28 leaves 4  
+fill ~3 ~25 ~32 ~3 ~32 ~32 leaves 4  
+fill ~4 ~25 ~31 ~8 ~25 ~31 leaves 4  
+fill ~4 ~25 ~32 ~8 ~25 ~32 wool 13  
+fill ~4 ~25 ~33 ~8 ~25 ~33 leaves 4  
+fill ~7 ~25 ~27 ~8 ~25 ~27 log 0  
+fill ~9 ~25 ~27 ~9 ~28 ~27 leaves 4 
+setblock ~10 ~25 ~26 leaves 4  
+fill ~10 ~25 ~27 ~10 ~28 ~27 wool 13  
+fill ~10 ~25 ~31 ~10 ~32 ~31 leaves 4  
+fill ~11 ~25 ~27 ~11 ~27 ~27 leaves 4 
+setblock ~14 ~25 ~13 leaves 12  
+fill ~14 ~25 ~14 ~14 ~25 ~15 leaves 4  
+fill ~15 ~25 ~12 ~17 ~25 ~12 leaves 4   
+fill ~15 ~25 ~13 ~17 ~25 ~13 wool 13  
+fill ~15 ~25 ~14 ~17 ~25 ~14 wool 13  
+fill ~15 ~25 ~15 ~17 ~25 ~15 wool 13  
+fill ~15 ~25 ~16 ~16 ~25 ~16 leaves 12 
+setblock ~17 ~25 ~16 leaves 4  
+fill ~18 ~25 ~13 ~18 ~25 ~15 leaves 12  
+fill ~19 ~25 ~23 ~19 ~30 ~23 log 0  
+fill ~19 ~25 ~26 ~19 ~28 ~26 planks 0  
+fill ~19 ~25 ~27 ~19 ~28 ~27 planks 0  
+fill ~20 ~25 ~21 ~20 ~27 ~21 planks 0  
+fill ~20 ~25 ~22 ~20 ~27 ~22 planks 0  
+fill ~20 ~25 ~27 ~20 ~28 ~27 ladder 5  
+fill ~20 ~25 ~28 ~20 ~30 ~28 log 0  
+fill ~20 ~25 ~29 ~20 ~27 ~29 planks 0  
+fill ~21 ~25 ~20 ~21 ~30 ~20 log 0  
+fill ~21 ~25 ~21 ~21 ~25 ~22 wool 10  
+fill ~21 ~25 ~30 ~21 ~27 ~30 planks 0  
+fill ~22 ~25 ~20 ~22 ~27 ~20 planks 0  
+fill ~22 ~25 ~21 ~22 ~25 ~22 stone_slab 2 
+setblock ~22 ~25 ~23 wall_sign 3  
+fill ~22 ~25 ~30 ~22 ~30 ~30 log 0  
+fill ~23 ~25 ~17 ~27 ~25 ~17 leaves 4  
+fill ~23 ~25 ~18 ~27 ~25 ~18 wool 13  
+fill ~23 ~25 ~19 ~23 ~27 ~19 planks 0 
+setblock ~23 ~25 ~20 jukebox 0  
+fill ~23 ~25 ~31 ~26 ~25 ~31 planks 0  
+fill ~23 ~25 ~32 ~27 ~25 ~32 wool 13  
+fill ~23 ~25 ~33 ~27 ~25 ~33 leaves 4  
+fill ~24 ~25 ~19 ~24 ~30 ~19 log 0  
+fill ~24 ~25 ~27 ~26 ~25 ~27 log 0  
+fill ~24 ~25 ~28 ~26 ~25 ~28 log 0  
+fill ~25 ~25 ~19 ~27 ~25 ~19 planks 0 
+setblock ~25 ~25 ~20 oak_stairs 3 
+setblock ~25 ~25 ~23 stone_slab 2 
+setblock ~27 ~25 ~20 stone 0  
+fill ~27 ~25 ~31 ~27 ~30 ~31 log 0  
+fill ~28 ~25 ~18 ~29 ~25 ~18 leaves 4  
+fill ~28 ~25 ~20 ~28 ~31 ~20 log 0  
+fill ~28 ~25 ~30 ~28 ~31 ~30 log 0  
+fill ~29 ~25 ~20 ~29 ~27 ~20 planks 0 
+setblock ~29 ~25 ~21 crafting_table 0  
+fill ~29 ~25 ~24 ~29 ~28 ~24 ladder 4  
+fill ~29 ~25 ~30 ~29 ~27 ~30 planks 0  
+fill ~30 ~25 ~21 ~30 ~27 ~21 planks 0  
+fill ~30 ~25 ~22 ~30 ~27 ~22 planks 0  
+fill ~30 ~25 ~26 ~31 ~25 ~26 log 0  
+fill ~30 ~25 ~27 ~30 ~27 ~27 planks 0  
+fill ~30 ~25 ~28 ~30 ~27 ~28 planks 0  
+fill ~30 ~25 ~29 ~30 ~27 ~29 planks 0 
+setblock ~31 ~25 ~23 wooden_door 2  
+fill ~31 ~25 ~27 ~31 ~31 ~27 log 0  
+fill ~32 ~25 ~24 ~32 ~31 ~24 wool 13  
+fill ~33 ~25 ~24 ~33 ~31 ~24 ladder 5 
+setblock ~39 ~25 ~26 stone_slab 2 
+setblock ~41 ~25 ~26 planks 0 
+setblock ~41 ~25 ~27 oak_stairs 3  
+fill ~42 ~25 ~23 ~45 ~25 ~23 wool 13  
+fill ~42 ~25 ~24 ~43 ~25 ~24 planks 0  
+fill ~42 ~25 ~31 ~45 ~25 ~31 planks 0  
+fill ~42 ~25 ~32 ~45 ~25 ~32 wool 13  
+fill ~43 ~25 ~22 ~45 ~25 ~22 leaves 4 
+setblock ~44 ~25 ~33 stone_stairs 3 
+setblock ~46 ~25 ~26 fence 0 
+setblock ~1 ~26 ~27 leaves 12 
+setblock ~1 ~26 ~28 leaves 4  
+fill ~1 ~26 ~29 ~1 ~28 ~29 leaves 12 
+setblock ~2 ~26 ~26 leaves 4  
+fill ~2 ~26 ~27 ~2 ~32 ~27 wool 13 
+setblock ~3 ~26 ~25 leaves 4  
+fill ~3 ~26 ~27 ~3 ~28 ~27 leaves 4 
+setblock ~4 ~26 ~24 leaves 4  
+fill ~4 ~26 ~31 ~8 ~26 ~31 leaves 4  
+fill ~4 ~26 ~32 ~8 ~26 ~32 wool 13  
+fill ~4 ~26 ~33 ~4 ~30 ~33 leaves 12  
+fill ~5 ~26 ~24 ~7 ~26 ~24 leaves 12  
+fill ~5 ~26 ~33 ~8 ~26 ~33 leaves 4  
+fill ~6 ~26 ~27 ~7 ~26 ~27 log 0  
+fill ~7 ~26 ~28 ~7 ~28 ~28 log 0 
+setblock ~8 ~26 ~24 leaves 4  
+fill ~9 ~26 ~25 ~9 ~26 ~30 leaves 4  
+fill ~10 ~26 ~26 ~10 ~32 ~26 wool 13 
+setblock ~11 ~26 ~26 leaves 12  
+fill ~15 ~26 ~13 ~16 ~26 ~13 leaves 4  
+fill ~15 ~26 ~14 ~16 ~26 ~14 leaves 4  
+fill ~15 ~26 ~15 ~16 ~26 ~15 leaves 4  
+fill ~17 ~26 ~13 ~17 ~26 ~15 leaves 12 
+setblock ~20 ~26 ~24 torch 1 
+setblock ~20 ~26 ~26 wall_sign 5  
+fill ~23 ~26 ~17 ~24 ~26 ~17 leaves 4  
+fill ~23 ~26 ~18 ~24 ~26 ~18 wool 13  
+fill ~23 ~26 ~31 ~24 ~26 ~31 planks 0  
+fill ~23 ~26 ~32 ~24 ~26 ~32 wool 13  
+fill ~23 ~26 ~33 ~24 ~26 ~33 leaves 4  
+fill ~25 ~26 ~19 ~26 ~26 ~19 glass_pane 0  
+fill ~25 ~26 ~31 ~26 ~26 ~31 glass_pane 0  
+fill ~27 ~26 ~17 ~27 ~31 ~17 leaves 4  
+fill ~27 ~26 ~18 ~27 ~31 ~18 wool 13  
+fill ~27 ~26 ~19 ~27 ~27 ~19 planks 0  
+fill ~27 ~26 ~20 ~27 ~27 ~20 fence 0  
+fill ~27 ~26 ~32 ~27 ~31 ~32 wool 13  
+fill ~27 ~26 ~33 ~27 ~31 ~33 leaves 4  
+fill ~28 ~26 ~18 ~29 ~26 ~18 leaves 4 
+setblock ~30 ~26 ~25 torch 2  
+fill ~30 ~26 ~26 ~31 ~26 ~26 log 0 
+setblock ~31 ~26 ~23 wooden_door 8 
+setblock ~40 ~26 ~26 wooden_door 0  
+fill ~42 ~26 ~23 ~42 ~27 ~23 wool 13  
+fill ~42 ~26 ~32 ~45 ~26 ~32 wool 13  
+fill ~43 ~26 ~23 ~43 ~27 ~23 glass_pane 0  
+fill ~44 ~26 ~22 ~45 ~26 ~22 leaves 4  
+fill ~44 ~26 ~23 ~45 ~26 ~23 wool 13  
+fill ~44 ~26 ~33 ~44 ~27 ~33 leaves 4  
+fill ~47 ~26 ~27 ~47 ~27 ~27 fence 0  
+fill ~1 ~27 ~26 ~1 ~32 ~26 leaves 4  
+fill ~1 ~27 ~27 ~1 ~32 ~27 leaves 4  
+fill ~1 ~27 ~28 ~1 ~28 ~28 leaves 12  
+fill ~2 ~27 ~25 ~2 ~29 ~25 leaves 4  
+fill ~2 ~27 ~26 ~2 ~32 ~26 wool 13  
+fill ~3 ~27 ~24 ~3 ~31 ~24 leaves 4  
+fill ~3 ~27 ~25 ~3 ~32 ~25 wool 13  
+fill ~3 ~27 ~26 ~3 ~28 ~26 leaves 4  
+fill ~4 ~27 ~23 ~8 ~27 ~23 leaves 4  
+fill ~4 ~27 ~24 ~8 ~27 ~24 wool 13  
+fill ~4 ~27 ~25 ~5 ~27 ~25 leaves 4  
+fill ~4 ~27 ~31 ~8 ~27 ~31 leaves 4  
+fill ~4 ~27 ~32 ~8 ~27 ~32 wool 13  
+fill ~5 ~27 ~33 ~8 ~27 ~33 leaves 4  
+fill ~6 ~27 ~25 ~7 ~27 ~25 leaves 12  
+fill ~6 ~27 ~27 ~7 ~27 ~27 log 0  
+fill ~8 ~27 ~25 ~8 ~28 ~25 leaves 4  
+fill ~9 ~27 ~24 ~9 ~32 ~24 leaves 4  
+fill ~9 ~27 ~25 ~9 ~32 ~25 wool 13  
+fill ~9 ~27 ~26 ~9 ~28 ~26 leaves 4  
+fill ~10 ~27 ~25 ~10 ~32 ~25 leaves 4  
+fill ~11 ~27 ~26 ~11 ~32 ~26 leaves 4 
+setblock ~11 ~27 ~28 leaves 4  
+fill ~12 ~27 ~27 ~16 ~27 ~27 planks 0  
+fill ~12 ~27 ~28 ~16 ~27 ~28 planks 0  
+fill ~13 ~27 ~26 ~15 ~27 ~26 planks 0  
+fill ~20 ~27 ~24 ~20 ~30 ~24 log 0  
+fill ~21 ~27 ~21 ~21 ~27 ~22 bookshelf 0  
+fill ~23 ~27 ~17 ~24 ~27 ~17 leaves 4  
+fill ~23 ~27 ~18 ~24 ~27 ~18 wool 13 
+setblock ~23 ~27 ~20 torch 1 
+setblock ~23 ~27 ~30 torch 1  
+fill ~23 ~27 ~31 ~24 ~27 ~31 planks 0  
+fill ~23 ~27 ~32 ~24 ~27 ~32 wool 13  
+fill ~23 ~27 ~33 ~24 ~27 ~33 leaves 4  
+fill ~25 ~27 ~19 ~26 ~27 ~19 glass_pane 0  
+fill ~25 ~27 ~31 ~26 ~27 ~31 glass_pane 0 
+setblock ~27 ~27 ~30 torch 2  
+fill ~28 ~27 ~18 ~29 ~27 ~18 leaves 4 
+setblock ~28 ~27 ~21 torch 3 
+setblock ~29 ~27 ~21 stone_slab 2 
+setblock ~29 ~27 ~25 wall_sign 4  
+fill ~29 ~27 ~27 ~29 ~27 ~28 bookshelf 0 
+setblock ~30 ~27 ~23 torch 2  
+fill ~30 ~27 ~25 ~30 ~30 ~25 log 0  
+fill ~30 ~27 ~26 ~31 ~27 ~26 log 0 
+setblock ~31 ~27 ~23 planks 0 
+setblock ~32 ~27 ~23 stone_stairs 1 
+setblock ~40 ~27 ~26 wooden_door 8 
+setblock ~40 ~27 ~27 torch 1 
+setblock ~40 ~27 ~28 wall_sign 5  
+fill ~41 ~27 ~29 ~41 ~27 ~30 fence 0  
+fill ~42 ~27 ~30 ~43 ~27 ~30 fence 0  
+fill ~42 ~27 ~31 ~42 ~27 ~30 fence 0  
+fill ~42 ~27 ~32 ~45 ~27 ~32 wool 13  
+fill ~44 ~27 ~22 ~45 ~27 ~22 leaves 4  
+fill ~44 ~27 ~23 ~45 ~27 ~23 wool 13  
+fill ~44 ~27 ~24 ~44 ~27 ~25 fence 0  
+fill ~46 ~27 ~27 ~46 ~29 ~27 fence 0 
+setblock ~47 ~27 ~28 fence 0  
+fill ~4 ~28 ~23 ~5 ~28 ~23 leaves 4  
+fill ~4 ~28 ~24 ~8 ~28 ~24 wool 13  
+fill ~4 ~28 ~25 ~8 ~28 ~25 leaves 4  
+fill ~4 ~28 ~31 ~8 ~28 ~31 leaves 4  
+fill ~4 ~28 ~32 ~8 ~28 ~32 wool 13  
+fill ~5 ~28 ~27 ~8 ~28 ~27 log 0  
+fill ~5 ~28 ~33 ~5 ~29 ~33 leaves 12  
+fill ~6 ~28 ~23 ~6 ~29 ~23 leaves 12  
+fill ~6 ~28 ~26 ~7 ~28 ~26 log 0  
+fill ~6 ~28 ~33 ~8 ~28 ~33 leaves 4  
+fill ~7 ~28 ~23 ~8 ~28 ~23 leaves 4 
+setblock ~7 ~28 ~29 log 0 
+setblock ~8 ~28 ~28 log 0 
+setblock ~11 ~28 ~27 oak_stairs 1 
+setblock ~11 ~28 ~28 torch 1  
+fill ~12 ~28 ~28 ~16 ~28 ~28 fence 0  
+fill ~17 ~28 ~27 ~17 ~28 ~28 stone_slab 2  
+fill ~18 ~28 ~27 ~18 ~28 ~28 planks 0 
+setblock ~19 ~28 ~28 planks 0 
+setblock ~20 ~28 ~29 torch 1  
+fill ~21 ~28 ~24 ~21 ~30 ~24 log 0 
+setblock ~21 ~28 ~30 torch 4  
+fill ~23 ~28 ~17 ~24 ~28 ~17 leaves 4  
+fill ~23 ~28 ~18 ~27 ~28 ~18 wool 13  
+fill ~23 ~28 ~32 ~27 ~28 ~32 wool 13  
+fill ~23 ~28 ~33 ~24 ~28 ~33 leaves 4  
+fill ~24 ~28 ~31 ~26 ~28 ~31 planks 0  
+fill ~25 ~28 ~17 ~26 ~28 ~17 stone_stairs 2  
+fill ~25 ~28 ~19 ~26 ~28 ~19 planks 0  
+fill ~25 ~28 ~33 ~26 ~28 ~33 stone_stairs 3  
+fill ~28 ~28 ~18 ~29 ~28 ~18 leaves 4  
+fill ~30 ~28 ~26 ~31 ~28 ~26 log 0  
+fill ~32 ~28 ~23 ~32 ~31 ~23 wool 13  
+fill ~33 ~28 ~23 ~33 ~31 ~23 leaves 4 
+setblock ~39 ~28 ~26 stone_stairs 0  
+fill ~39 ~28 ~27 ~39 ~29 ~27 leaves 4  
+fill ~39 ~28 ~28 ~39 ~29 ~28 leaves 4  
+fill ~39 ~28 ~29 ~39 ~28 ~27 leaves 4  
+fill ~40 ~28 ~25 ~40 ~29 ~25 leaves 4  
+fill ~40 ~28 ~26 ~41 ~28 ~26 wool 13  
+fill ~40 ~28 ~27 ~40 ~29 ~27 wool 13  
+fill ~40 ~28 ~28 ~40 ~29 ~28 wool 13  
+fill ~40 ~28 ~29 ~41 ~28 ~29 wool 13  
+fill ~40 ~28 ~30 ~40 ~29 ~30 leaves 4  
+fill ~41 ~28 ~24 ~41 ~29 ~24 leaves 4  
+fill ~41 ~28 ~25 ~42 ~28 ~25 wool 13  
+fill ~41 ~28 ~30 ~42 ~28 ~30 wool 13  
+fill ~41 ~28 ~31 ~41 ~29 ~31 leaves 4 
+setblock ~42 ~28 ~23 leaves 4  
+fill ~42 ~28 ~24 ~45 ~28 ~24 wool 13  
+fill ~42 ~28 ~29 ~43 ~28 ~29 fence 0  
+fill ~42 ~28 ~31 ~45 ~28 ~31 wool 13  
+fill ~42 ~28 ~32 ~45 ~28 ~32 leaves 4 
+setblock ~43 ~28 ~23 stone_stairs 2  
+fill ~43 ~28 ~30 ~44 ~28 ~30 fence 0  
+fill ~44 ~28 ~23 ~45 ~28 ~23 leaves 4  
+fill ~44 ~28 ~25 ~44 ~29 ~25 fence 0 
+setblock ~44 ~28 ~26 lit_pumpkin 1  
+fill ~45 ~28 ~25 ~46 ~28 ~25 wool 13  
+fill ~45 ~28 ~30 ~46 ~28 ~30 wool 13  
+fill ~46 ~28 ~24 ~46 ~29 ~24 leaves 4  
+fill ~46 ~28 ~26 ~47 ~28 ~26 wool 13  
+fill ~46 ~28 ~29 ~47 ~28 ~29 wool 13  
+fill ~46 ~28 ~31 ~46 ~29 ~31 leaves 4  
+fill ~47 ~28 ~25 ~47 ~29 ~25 leaves 4  
+fill ~47 ~28 ~27 ~47 ~29 ~27 wool 13  
+fill ~47 ~28 ~28 ~47 ~29 ~28 wool 13  
+fill ~47 ~28 ~30 ~47 ~29 ~30 leaves 4  
+fill ~48 ~28 ~26 ~48 ~28 ~29 leaves 4  
+fill ~1 ~29 ~28 ~1 ~32 ~28 leaves 4  
+fill ~1 ~29 ~29 ~1 ~32 ~29 leaves 4  
+fill ~3 ~29 ~26 ~9 ~29 ~26 planks 0  
+fill ~3 ~29 ~27 ~9 ~29 ~27 planks 0  
+fill ~3 ~29 ~28 ~5 ~29 ~28 planks 0  
+fill ~3 ~29 ~29 ~9 ~29 ~29 planks 0  
+fill ~3 ~29 ~30 ~9 ~29 ~30 planks 0  
+fill ~4 ~29 ~23 ~5 ~29 ~23 leaves 4  
+fill ~4 ~29 ~24 ~8 ~29 ~24 wool 13  
+fill ~4 ~29 ~25 ~8 ~29 ~25 planks 0  
+fill ~4 ~29 ~31 ~8 ~29 ~31 planks 0  
+fill ~4 ~29 ~32 ~8 ~29 ~32 wool 13  
+fill ~6 ~29 ~33 ~8 ~29 ~33 leaves 4  
+fill ~7 ~29 ~23 ~8 ~29 ~23 leaves 12  
+fill ~7 ~29 ~28 ~9 ~29 ~28 planks 0 
+setblock ~10 ~29 ~27 oak_stairs 1  
+fill ~11 ~29 ~28 ~11 ~32 ~28 leaves 4 
+setblock ~18 ~29 ~27 wooden_door 2 
+setblock ~18 ~29 ~28 torch 5  
+fill ~19 ~29 ~28 ~19 ~31 ~28 wool 13  
+fill ~23 ~29 ~17 ~27 ~29 ~17 leaves 4  
+fill ~23 ~29 ~18 ~27 ~29 ~18 wool 13  
+fill ~23 ~29 ~32 ~27 ~29 ~32 wool 13  
+fill ~23 ~29 ~33 ~27 ~29 ~33 leaves 4  
+fill ~28 ~29 ~18 ~29 ~29 ~18 leaves 4  
+fill ~29 ~29 ~26 ~31 ~29 ~26 log 0  
+fill ~30 ~29 ~24 ~30 ~30 ~24 ladder 2  
+fill ~40 ~29 ~26 ~40 ~30 ~26 leaves 4  
+fill ~40 ~29 ~29 ~40 ~30 ~29 leaves 4  
+fill ~41 ~29 ~25 ~42 ~29 ~25 wool 13  
+fill ~41 ~29 ~26 ~41 ~30 ~26 wool 13  
+fill ~41 ~29 ~28 ~42 ~29 ~28 fence 0  
+fill ~41 ~29 ~29 ~41 ~30 ~29 wool 13  
+fill ~41 ~29 ~30 ~42 ~29 ~30 wool 13  
+fill ~42 ~29 ~24 ~42 ~30 ~24 leaves 4  
+fill ~42 ~29 ~29 ~42 ~28 ~29 fence 0  
+fill ~42 ~29 ~31 ~42 ~30 ~31 leaves 4  
+fill ~43 ~29 ~23 ~44 ~29 ~23 leaves 4  
+fill ~43 ~29 ~24 ~44 ~29 ~24 wool 13  
+fill ~43 ~29 ~31 ~44 ~29 ~31 wool 13  
+fill ~43 ~29 ~32 ~44 ~29 ~32 leaves 4  
+fill ~44 ~29 ~26 ~45 ~29 ~26 fence 0  
+fill ~44 ~29 ~29 ~45 ~29 ~29 fence 0  
+fill ~44 ~29 ~30 ~44 ~29 ~29 fence 0  
+fill ~45 ~29 ~24 ~45 ~30 ~24 leaves 12  
+fill ~45 ~29 ~25 ~46 ~29 ~25 wool 13  
+fill ~45 ~29 ~30 ~46 ~29 ~30 wool 13 
+setblock ~45 ~29 ~31 leaves 12  
+fill ~46 ~29 ~26 ~46 ~30 ~26 wool 13 
+setblock ~46 ~29 ~28 fence 0  
+fill ~46 ~29 ~29 ~46 ~30 ~29 wool 13  
+fill ~47 ~29 ~26 ~47 ~30 ~26 leaves 4  
+fill ~47 ~29 ~29 ~47 ~30 ~29 leaves 4  
+fill ~48 ~29 ~27 ~48 ~29 ~28 leaves 4  
+fill ~2 ~30 ~25 ~2 ~32 ~25 leaves 12  
+fill ~3 ~30 ~26 ~3 ~31 ~26 log 0  
+fill ~4 ~30 ~23 ~7 ~30 ~23 leaves 4  
+fill ~4 ~30 ~24 ~8 ~30 ~24 wool 13 
+setblock ~4 ~30 ~31 crafting_table 0  
+fill ~4 ~30 ~32 ~8 ~30 ~32 wool 13 
+setblock ~5 ~30 ~30 wall_sign 4  
+fill ~5 ~30 ~33 ~8 ~30 ~33 leaves 4  
+fill ~6 ~30 ~26 ~6 ~32 ~26 fence 0 
+setblock ~6 ~30 ~29 wall_sign 2 
+setblock ~6 ~30 ~30 stone_slab 2 
+setblock ~6 ~30 ~31 wall_sign 3 
+setblock ~7 ~30 ~30 wall_sign 5  
+fill ~7 ~30 ~31 ~7 ~31 ~31 log 0  
+fill ~8 ~30 ~23 ~8 ~31 ~23 leaves 12 
+setblock ~9 ~30 ~27 wooden_door 2  
+fill ~11 ~30 ~30 ~11 ~32 ~30 leaves 12 
+setblock ~18 ~30 ~27 wooden_door 9  
+fill ~18 ~30 ~28 ~18 ~31 ~28 leaves 4 
+setblock ~19 ~30 ~26 torch 3 
+setblock ~21 ~30 ~21 log 0 
+setblock ~22 ~30 ~20 log 0 
+setblock ~22 ~30 ~29 log 0  
+fill ~23 ~30 ~17 ~27 ~30 ~17 leaves 4  
+fill ~23 ~30 ~18 ~27 ~30 ~18 wool 13  
+fill ~23 ~30 ~32 ~27 ~30 ~32 wool 13  
+fill ~23 ~30 ~33 ~27 ~30 ~33 leaves 4 
+setblock ~24 ~30 ~20 log 0 
+setblock ~27 ~30 ~30 log 0  
+fill ~28 ~30 ~18 ~29 ~30 ~18 leaves 4  
+fill ~28 ~30 ~25 ~31 ~30 ~25 log 0  
+fill ~28 ~30 ~26 ~31 ~30 ~26 log 0  
+fill ~31 ~30 ~23 ~31 ~31 ~23 log 0  
+fill ~40 ~30 ~27 ~40 ~30 ~29 leaves 4 
+setblock ~41 ~30 ~25 leaves 4  
+fill ~41 ~30 ~27 ~41 ~30 ~29 wool 13 
+setblock ~41 ~30 ~30 leaves 4  
+fill ~42 ~30 ~25 ~45 ~30 ~25 wool 13  
+fill ~42 ~30 ~27 ~42 ~30 ~28 fence 0  
+fill ~42 ~30 ~30 ~45 ~30 ~30 wool 13  
+fill ~43 ~30 ~24 ~44 ~30 ~24 leaves 4  
+fill ~43 ~30 ~26 ~44 ~30 ~26 fence 0  
+fill ~43 ~30 ~28 ~43 ~31 ~28 fence 0 
+setblock ~43 ~30 ~31 leaves 4  
+fill ~44 ~30 ~27 ~44 ~31 ~27 fence 0 
+setblock ~44 ~30 ~31 leaves 12 
+setblock ~45 ~30 ~29 fence 0 
+setblock ~45 ~30 ~31 leaves 4 
+setblock ~46 ~30 ~25 leaves 4  
+fill ~46 ~30 ~27 ~46 ~30 ~29 wool 13 
+setblock ~46 ~30 ~30 leaves 4  
+fill ~47 ~30 ~27 ~47 ~30 ~29 leaves 4  
+fill ~1 ~31 ~30 ~1 ~32 ~30 leaves 12  
+fill ~4 ~31 ~23 ~4 ~32 ~23 leaves 4  
+fill ~4 ~31 ~24 ~4 ~32 ~24 wool 13  
+fill ~4 ~31 ~32 ~8 ~31 ~32 wool 13  
+fill ~4 ~31 ~33 ~8 ~31 ~33 leaves 4 
+setblock ~5 ~31 ~24 glass_pane 0  
+fill ~6 ~31 ~23 ~7 ~31 ~23 leaves 4  
+fill ~6 ~31 ~24 ~8 ~31 ~24 wool 13 
+setblock ~6 ~31 ~31 torch 2 
+setblock ~8 ~31 ~25 torch 3 
+setblock ~9 ~31 ~27 wooden_door 9 
+setblock ~9 ~31 ~29 wall_sign 4 
+setblock ~18 ~31 ~27 stone_stairs 0  
+fill ~19 ~31 ~23 ~27 ~31 ~23 planks 0  
+fill ~19 ~31 ~24 ~27 ~31 ~24 planks 0  
+fill ~19 ~31 ~25 ~25 ~31 ~25 planks 0  
+fill ~19 ~31 ~26 ~24 ~31 ~26 planks 0  
+fill ~19 ~31 ~27 ~28 ~31 ~27 planks 0  
+fill ~20 ~31 ~21 ~27 ~31 ~21 planks 0  
+fill ~20 ~31 ~22 ~27 ~31 ~22 planks 0  
+fill ~20 ~31 ~28 ~28 ~31 ~28 planks 0  
+fill ~20 ~31 ~29 ~27 ~31 ~29 planks 0  
+fill ~21 ~31 ~20 ~27 ~31 ~20 planks 0  
+fill ~21 ~31 ~30 ~27 ~31 ~30 planks 0  
+fill ~23 ~31 ~17 ~27 ~31 ~17 leaves 4  
+fill ~23 ~31 ~18 ~27 ~31 ~18 wool 13  
+fill ~23 ~31 ~19 ~27 ~31 ~19 planks 0  
+fill ~23 ~31 ~31 ~27 ~31 ~31 planks 0  
+fill ~23 ~31 ~32 ~27 ~31 ~32 wool 13  
+fill ~23 ~31 ~33 ~27 ~31 ~33 leaves 4  
+fill ~25 ~31 ~26 ~31 ~31 ~26 log 0  
+fill ~26 ~31 ~25 ~28 ~31 ~25 log 0  
+fill ~28 ~31 ~18 ~29 ~31 ~18 leaves 4  
+fill ~28 ~31 ~21 ~28 ~34 ~21 log 0  
+fill ~28 ~31 ~29 ~32 ~31 ~29 log 0  
+fill ~29 ~31 ~25 ~30 ~31 ~25 ladder 2  
+fill ~29 ~31 ~27 ~31 ~31 ~27 log 0  
+fill ~29 ~31 ~28 ~29 ~31 ~26 log 0 
+setblock ~29 ~31 ~30 log 0 
+setblock ~29 ~31 ~32 leaves 12  
+fill ~30 ~31 ~23 ~30 ~33 ~23 log 0  
+fill ~41 ~31 ~26 ~41 ~31 ~29 leaves 4  
+fill ~42 ~31 ~25 ~45 ~31 ~25 leaves 4  
+fill ~42 ~31 ~26 ~45 ~31 ~26 wool 13  
+fill ~42 ~31 ~27 ~42 ~31 ~29 wool 13  
+fill ~42 ~31 ~30 ~45 ~31 ~30 leaves 4  
+fill ~43 ~31 ~29 ~45 ~31 ~29 wool 13  
+fill ~45 ~31 ~27 ~45 ~31 ~29 wool 13  
+fill ~46 ~31 ~26 ~46 ~31 ~29 leaves 4 
+setblock ~3 ~32 ~24 leaves 12  
+fill ~3 ~32 ~26 ~3 ~32 ~27 fence 0  
+fill ~4 ~32 ~27 ~4 ~33 ~27 fence 0  
+fill ~4 ~32 ~32 ~8 ~32 ~32 wool 13  
+fill ~4 ~32 ~33 ~8 ~32 ~33 leaves 4 
+setblock ~5 ~32 ~23 stone_stairs 2  
+fill ~5 ~32 ~24 ~8 ~32 ~24 wool 13  
+fill ~6 ~32 ~23 ~8 ~32 ~23 leaves 4  
+fill ~6 ~32 ~27 ~6 ~34 ~27 fence 0  
+fill ~6 ~32 ~31 ~7 ~32 ~31 fence 0  
+fill ~7 ~32 ~30 ~8 ~32 ~30 fence 0 
+setblock ~10 ~32 ~27 wool 13 
+setblock ~11 ~32 ~27 stone_stairs 1  
+fill ~18 ~32 ~23 ~18 ~34 ~23 leaves 4  
+fill ~18 ~32 ~24 ~18 ~34 ~24 leaves 4  
+fill ~18 ~32 ~25 ~18 ~34 ~25 leaves 4  
+fill ~18 ~32 ~26 ~18 ~34 ~26 leaves 4  
+fill ~18 ~32 ~27 ~18 ~34 ~27 leaves 4  
+fill ~19 ~32 ~21 ~19 ~34 ~21 leaves 4  
+fill ~19 ~32 ~22 ~19 ~34 ~22 leaves 4  
+fill ~19 ~32 ~23 ~19 ~34 ~23 wool 13  
+fill ~19 ~32 ~24 ~19 ~34 ~24 wool 13  
+fill ~19 ~32 ~25 ~19 ~34 ~25 wool 13  
+fill ~19 ~32 ~26 ~19 ~34 ~26 wool 13  
+fill ~19 ~32 ~27 ~19 ~34 ~27 wool 13  
+fill ~19 ~32 ~28 ~19 ~34 ~28 leaves 4  
+fill ~19 ~32 ~29 ~19 ~34 ~29 leaves 4  
+fill ~20 ~32 ~20 ~20 ~34 ~20 leaves 4  
+fill ~20 ~32 ~21 ~20 ~34 ~21 wool 13  
+fill ~20 ~32 ~22 ~20 ~34 ~22 wool 13  
+fill ~20 ~32 ~23 ~20 ~33 ~23 dirt 0  
+fill ~20 ~32 ~24 ~20 ~33 ~24 log 0  
+fill ~20 ~32 ~25 ~20 ~32 ~27 log 0  
+fill ~20 ~32 ~28 ~20 ~34 ~28 wool 13  
+fill ~20 ~32 ~29 ~20 ~34 ~29 wool 13  
+fill ~20 ~32 ~30 ~20 ~34 ~30 leaves 4  
+fill ~21 ~32 ~19 ~22 ~32 ~19 leaves 4  
+fill ~21 ~32 ~20 ~22 ~32 ~20 wool 13  
+fill ~21 ~32 ~21 ~21 ~33 ~21 log 0 
+setblock ~21 ~32 ~23 planks 0  
+fill ~21 ~32 ~27 ~22 ~32 ~27 log 0  
+fill ~21 ~32 ~28 ~21 ~33 ~28 log 0 
+setblock ~21 ~32 ~29 lit_pumpkin 3  
+fill ~21 ~32 ~30 ~22 ~32 ~30 wool 13  
+fill ~21 ~32 ~31 ~22 ~32 ~31 leaves 4 
+setblock ~22 ~32 ~21 crafting_table 0 
+setblock ~22 ~32 ~22 wall_sign 2 
+setblock ~22 ~32 ~23 stone_slab 2 
+setblock ~22 ~32 ~24 wall_sign 3  
+fill ~22 ~32 ~26 ~24 ~32 ~26 log 0  
+fill ~23 ~32 ~18 ~27 ~32 ~18 leaves 4  
+fill ~23 ~32 ~19 ~27 ~32 ~19 wool 13  
+fill ~23 ~32 ~20 ~23 ~33 ~20 log 0 
+setblock ~23 ~32 ~23 wall_sign 5  
+fill ~23 ~32 ~30 ~23 ~33 ~30 log 0  
+fill ~23 ~32 ~31 ~28 ~32 ~31 wool 13  
+fill ~23 ~32 ~32 ~23 ~34 ~32 leaves 12  
+fill ~24 ~32 ~25 ~25 ~32 ~25 log 0 
+setblock ~24 ~32 ~28 bed 0 
+setblock ~24 ~32 ~29 bed 8 
+setblock ~24 ~32 ~30 planks 0  
+fill ~24 ~32 ~32 ~28 ~32 ~32 leaves 4 
+setblock ~25 ~32 ~26 stone_slab 2 
+setblock ~26 ~32 ~25 stone_slab 2  
+fill ~27 ~32 ~21 ~27 ~35 ~21 log 0 
+setblock ~27 ~32 ~29 stone_slab 2  
+fill ~28 ~32 ~19 ~28 ~34 ~19 leaves 4  
+fill ~28 ~32 ~20 ~29 ~32 ~20 wool 13  
+fill ~28 ~32 ~29 ~28 ~33 ~29 log 0  
+fill ~28 ~32 ~30 ~29 ~32 ~30 wool 13  
+fill ~29 ~32 ~19 ~29 ~33 ~19 leaves 12  
+fill ~29 ~32 ~31 ~29 ~33 ~31 leaves 12  
+fill ~30 ~32 ~20 ~30 ~33 ~20 leaves 12  
+fill ~30 ~32 ~21 ~30 ~34 ~21 wool 13  
+fill ~30 ~32 ~22 ~30 ~34 ~22 wool 13 
+setblock ~30 ~32 ~26 stone_slab 2  
+fill ~30 ~32 ~27 ~30 ~33 ~27 log 0  
+fill ~30 ~32 ~28 ~30 ~34 ~28 wool 13 
+setblock ~30 ~32 ~29 wooden_door 0  
+fill ~30 ~32 ~30 ~30 ~33 ~30 leaves 12  
+fill ~31 ~32 ~21 ~31 ~34 ~21 leaves 4  
+fill ~31 ~32 ~22 ~31 ~34 ~22 leaves 4  
+fill ~31 ~32 ~23 ~31 ~34 ~23 wool 13  
+fill ~31 ~32 ~24 ~31 ~34 ~24 wool 13  
+fill ~31 ~32 ~25 ~31 ~32 ~27 wool 13  
+fill ~31 ~32 ~28 ~31 ~34 ~28 ladder 5  
+fill ~32 ~32 ~23 ~32 ~34 ~23 leaves 4  
+fill ~32 ~32 ~24 ~32 ~34 ~24 ladder 5  
+fill ~32 ~32 ~25 ~32 ~32 ~26 leaves 4  
+fill ~32 ~32 ~27 ~32 ~33 ~27 leaves 12 
+setblock ~32 ~32 ~29 oak_stairs 0  
+fill ~33 ~32 ~29 ~34 ~32 ~29 log 0  
+fill ~42 ~32 ~26 ~45 ~32 ~26 leaves 4  
+fill ~42 ~32 ~27 ~42 ~32 ~29 leaves 4  
+fill ~43 ~32 ~27 ~44 ~32 ~27 wool 13  
+fill ~43 ~32 ~28 ~44 ~32 ~28 wool 13  
+fill ~43 ~32 ~29 ~45 ~32 ~29 leaves 4  
+fill ~45 ~32 ~27 ~45 ~32 ~29 leaves 4  
+fill ~2 ~33 ~26 ~2 ~33 ~29 leaves 4 
+setblock ~2 ~33 ~30 leaves 12 
+setblock ~3 ~33 ~25 leaves 4  
+fill ~3 ~33 ~26 ~4 ~33 ~26 wool 13  
+fill ~3 ~33 ~27 ~3 ~33 ~30 wool 13 
+setblock ~3 ~33 ~31 leaves 12  
+fill ~4 ~33 ~24 ~8 ~33 ~24 leaves 4  
+fill ~4 ~33 ~25 ~8 ~33 ~25 wool 13 
+setblock ~4 ~33 ~28 fence 0 
+setblock ~4 ~33 ~29 lit_pumpkin 3  
+fill ~4 ~33 ~30 ~4 ~33 ~31 wool 13  
+fill ~4 ~33 ~32 ~8 ~33 ~32 leaves 4  
+fill ~5 ~33 ~31 ~8 ~33 ~31 wool 13  
+fill ~7 ~33 ~27 ~8 ~33 ~27 fence 0  
+fill ~7 ~33 ~29 ~7 ~34 ~29 fence 0  
+fill ~7 ~33 ~30 ~7 ~32 ~30 fence 0  
+fill ~8 ~33 ~26 ~9 ~33 ~26 wool 13  
+fill ~8 ~33 ~30 ~9 ~33 ~30 wool 13 
+setblock ~9 ~33 ~25 leaves 4  
+fill ~9 ~33 ~27 ~9 ~33 ~30 wool 13 
+setblock ~9 ~33 ~31 leaves 4  
+fill ~10 ~33 ~26 ~10 ~33 ~30 leaves 4 
+setblock ~20 ~33 ~25 torch 3 
+setblock ~20 ~33 ~27 fence 0  
+fill ~21 ~33 ~19 ~22 ~33 ~19 leaves 4  
+fill ~21 ~33 ~20 ~22 ~33 ~20 wool 13 
+setblock ~21 ~33 ~22 trapdoor 4 
+setblock ~21 ~33 ~23 bookshelf 0 
+setblock ~21 ~33 ~24 trapdoor 5 
+setblock ~21 ~33 ~27 stone_slab 2  
+fill ~21 ~33 ~30 ~22 ~33 ~30 wool 13  
+fill ~21 ~33 ~31 ~22 ~33 ~31 leaves 4  
+fill ~23 ~33 ~18 ~24 ~33 ~18 leaves 4  
+fill ~23 ~33 ~19 ~24 ~33 ~19 wool 13 
+setblock ~23 ~33 ~29 torch 4  
+fill ~23 ~33 ~31 ~24 ~33 ~31 wool 13 
+setblock ~24 ~33 ~20 torch 1  
+fill ~24 ~33 ~32 ~24 ~34 ~32 leaves 4  
+fill ~25 ~33 ~19 ~25 ~34 ~19 glass_pane 0  
+fill ~25 ~33 ~31 ~25 ~34 ~31 glass_pane 0  
+fill ~26 ~33 ~18 ~27 ~33 ~18 leaves 4  
+fill ~26 ~33 ~19 ~27 ~33 ~19 wool 13  
+fill ~26 ~33 ~31 ~26 ~34 ~31 wool 13  
+fill ~26 ~33 ~32 ~26 ~34 ~32 leaves 4 
+setblock ~27 ~33 ~29 torch 2 
+setblock ~27 ~33 ~31 glass_pane 0  
+fill ~28 ~33 ~20 ~29 ~33 ~20 wool 13 
+setblock ~28 ~33 ~28 wall_sign 2  
+fill ~28 ~33 ~30 ~29 ~33 ~30 wool 13 
+setblock ~28 ~33 ~32 leaves 12 
+setblock ~30 ~33 ~29 wooden_door 11  
+fill ~31 ~33 ~25 ~31 ~34 ~25 glass_pane 0  
+fill ~31 ~33 ~26 ~31 ~34 ~26 wool 13  
+fill ~31 ~33 ~27 ~31 ~34 ~27 wool 13  
+fill ~32 ~33 ~26 ~32 ~34 ~26 leaves 4 
+setblock ~33 ~33 ~29 oak_stairs 0  
+fill ~34 ~33 ~29 ~35 ~33 ~29 log 0  
+fill ~43 ~33 ~27 ~44 ~33 ~27 leaves 4  
+fill ~43 ~33 ~28 ~44 ~33 ~28 leaves 4  
+fill ~3 ~34 ~26 ~4 ~34 ~26 leaves 4  
+fill ~3 ~34 ~27 ~3 ~34 ~29 leaves 4 
+setblock ~3 ~34 ~30 leaves 12  
+fill ~4 ~34 ~25 ~8 ~34 ~25 leaves 12  
+fill ~4 ~34 ~27 ~4 ~34 ~29 wool 13  
+fill ~4 ~34 ~30 ~4 ~34 ~31 leaves 4  
+fill ~5 ~34 ~26 ~7 ~34 ~26 wool 13  
+fill ~5 ~34 ~30 ~7 ~34 ~30 wool 13 
+setblock ~5 ~34 ~31 leaves 4 
+setblock ~6 ~34 ~28 fence 0  
+fill ~6 ~34 ~31 ~8 ~34 ~31 leaves 12  
+fill ~8 ~34 ~26 ~9 ~34 ~26 leaves 12  
+fill ~8 ~34 ~27 ~8 ~34 ~29 wool 13  
+fill ~8 ~34 ~30 ~9 ~34 ~30 leaves 12  
+fill ~9 ~34 ~27 ~9 ~34 ~28 leaves 12 
+setblock ~9 ~34 ~29 leaves 4 
+setblock ~20 ~34 ~23 log 0  
+fill ~20 ~34 ~24 ~21 ~34 ~24 fence 0  
+fill ~20 ~34 ~26 ~20 ~34 ~27 stone_slab 2  
+fill ~21 ~34 ~19 ~22 ~34 ~19 leaves 4  
+fill ~21 ~34 ~20 ~22 ~34 ~20 wool 13  
+fill ~21 ~34 ~21 ~23 ~34 ~21 fence 0 
+setblock ~21 ~34 ~23 stone_slab 2  
+fill ~21 ~34 ~28 ~22 ~34 ~28 fence 0  
+fill ~21 ~34 ~30 ~22 ~34 ~30 wool 13  
+fill ~21 ~34 ~31 ~22 ~34 ~31 leaves 4  
+fill ~23 ~34 ~18 ~24 ~34 ~18 leaves 4  
+fill ~23 ~34 ~19 ~24 ~34 ~19 wool 13 
+setblock ~23 ~34 ~20 fence 0 
+setblock ~23 ~34 ~30 fence 0  
+fill ~23 ~34 ~31 ~24 ~34 ~31 wool 13  
+fill ~26 ~34 ~18 ~27 ~34 ~18 leaves 4  
+fill ~26 ~34 ~19 ~27 ~34 ~19 wool 13  
+fill ~27 ~34 ~28 ~28 ~34 ~28 fence 0 
+setblock ~27 ~34 ~31 wool 13 
+setblock ~27 ~34 ~32 stone_stairs 3  
+fill ~28 ~34 ~20 ~29 ~34 ~20 wool 13 
+setblock ~28 ~34 ~29 fence 0  
+fill ~28 ~34 ~30 ~29 ~34 ~30 wool 13 
+setblock ~28 ~34 ~31 leaves 12 
+setblock ~29 ~34 ~19 leaves 4  
+fill ~29 ~34 ~23 ~30 ~34 ~23 fence 0  
+fill ~29 ~34 ~26 ~30 ~34 ~26 fence 0 
+setblock ~29 ~34 ~29 log 0 
+setblock ~29 ~34 ~31 leaves 4 
+setblock ~30 ~34 ~20 leaves 4 
+setblock ~30 ~34 ~27 fence 0 
+setblock ~30 ~34 ~29 stone_stairs 1  
+fill ~30 ~34 ~30 ~30 ~35 ~30 leaves 4 
+setblock ~32 ~34 ~27 leaves 4 
+setblock ~34 ~34 ~29 oak_stairs 0  
+fill ~35 ~34 ~29 ~36 ~34 ~29 log 0 
+setblock ~44 ~34 ~28 fence 0  
+fill ~4 ~35 ~27 ~4 ~35 ~29 leaves 4  
+fill ~5 ~35 ~26 ~7 ~35 ~26 leaves 12  
+fill ~5 ~35 ~27 ~7 ~35 ~27 wool 13  
+fill ~5 ~35 ~28 ~7 ~35 ~28 wool 13  
+fill ~5 ~35 ~29 ~7 ~35 ~29 wool 13  
+fill ~5 ~35 ~30 ~7 ~35 ~30 leaves 4  
+fill ~8 ~35 ~27 ~8 ~35 ~29 leaves 12  
+fill ~19 ~35 ~23 ~19 ~36 ~23 leaves 4  
+fill ~19 ~35 ~24 ~19 ~36 ~24 leaves 4  
+fill ~19 ~35 ~25 ~19 ~36 ~25 leaves 4  
+fill ~19 ~35 ~26 ~19 ~36 ~26 leaves 4  
+fill ~19 ~35 ~27 ~19 ~36 ~27 leaves 4  
+fill ~20 ~35 ~21 ~20 ~36 ~21 leaves 4  
+fill ~20 ~35 ~22 ~20 ~36 ~22 leaves 4  
+fill ~20 ~35 ~23 ~20 ~36 ~23 wool 13  
+fill ~20 ~35 ~24 ~20 ~36 ~24 wool 13  
+fill ~20 ~35 ~25 ~20 ~36 ~25 wool 13  
+fill ~20 ~35 ~26 ~20 ~36 ~26 wool 13  
+fill ~20 ~35 ~27 ~20 ~36 ~27 wool 13  
+fill ~20 ~35 ~28 ~20 ~36 ~28 leaves 4  
+fill ~20 ~35 ~29 ~20 ~36 ~29 leaves 4  
+fill ~21 ~35 ~20 ~22 ~35 ~20 leaves 4  
+fill ~21 ~35 ~21 ~22 ~35 ~21 wool 13  
+fill ~21 ~35 ~22 ~21 ~36 ~22 wool 13  
+fill ~21 ~35 ~24 ~21 ~36 ~24 fence 0  
+fill ~21 ~35 ~28 ~21 ~36 ~28 wool 13  
+fill ~21 ~35 ~29 ~22 ~35 ~29 wool 13  
+fill ~21 ~35 ~30 ~22 ~35 ~30 leaves 4  
+fill ~22 ~35 ~27 ~22 ~36 ~27 fence 0  
+fill ~22 ~35 ~28 ~22 ~35 ~27 fence 0  
+fill ~23 ~35 ~19 ~24 ~35 ~19 leaves 4  
+fill ~23 ~35 ~20 ~27 ~35 ~20 wool 13  
+fill ~23 ~35 ~21 ~23 ~35 ~22 fence 0  
+fill ~23 ~35 ~30 ~27 ~35 ~30 wool 13  
+fill ~23 ~35 ~31 ~24 ~35 ~31 leaves 4 
+setblock ~24 ~35 ~27 lit_pumpkin 0 
+setblock ~25 ~35 ~19 stone_stairs 2 
+setblock ~25 ~35 ~31 stone_stairs 3  
+fill ~26 ~35 ~19 ~27 ~35 ~19 leaves 4  
+fill ~26 ~35 ~31 ~27 ~35 ~31 leaves 12  
+fill ~27 ~35 ~28 ~27 ~36 ~28 fence 0  
+fill ~27 ~35 ~29 ~27 ~35 ~28 fence 0  
+fill ~28 ~35 ~20 ~29 ~35 ~20 leaves 4  
+fill ~28 ~35 ~21 ~29 ~35 ~21 wool 13  
+fill ~28 ~35 ~24 ~29 ~35 ~24 fence 0  
+fill ~28 ~35 ~29 ~29 ~35 ~29 wool 13  
+fill ~28 ~35 ~30 ~30 ~35 ~30 leaves 4  
+fill ~29 ~35 ~22 ~29 ~36 ~22 wool 13  
+fill ~29 ~35 ~23 ~29 ~34 ~23 fence 0  
+fill ~29 ~35 ~26 ~29 ~36 ~26 fence 0  
+fill ~29 ~35 ~28 ~29 ~36 ~28 wool 13  
+fill ~30 ~35 ~21 ~30 ~36 ~21 leaves 4  
+fill ~30 ~35 ~22 ~30 ~36 ~22 leaves 4  
+fill ~30 ~35 ~23 ~30 ~36 ~23 wool 13  
+fill ~30 ~35 ~24 ~30 ~36 ~24 wool 13  
+fill ~30 ~35 ~25 ~30 ~36 ~25 wool 13  
+fill ~30 ~35 ~26 ~30 ~36 ~26 wool 13  
+fill ~30 ~35 ~27 ~30 ~36 ~27 wool 13  
+fill ~30 ~35 ~28 ~30 ~36 ~28 leaves 4  
+fill ~30 ~35 ~29 ~30 ~36 ~29 leaves 4  
+fill ~31 ~35 ~23 ~31 ~36 ~23 leaves 4  
+fill ~31 ~35 ~24 ~31 ~36 ~24 ladder 5 
+setblock ~31 ~35 ~25 stone_stairs 1  
+fill ~31 ~35 ~26 ~31 ~36 ~26 leaves 4  
+fill ~31 ~35 ~27 ~31 ~36 ~27 leaves 4 
+setblock ~35 ~35 ~29 oak_stairs 0  
+fill ~36 ~35 ~29 ~36 ~37 ~29 log 0 
+setblock ~44 ~35 ~28 stone_slab 2  
+fill ~5 ~36 ~27 ~7 ~36 ~27 leaves 12  
+fill ~5 ~36 ~28 ~5 ~36 ~29 leaves 12 
+setblock ~6 ~36 ~28 leaves 4  
+fill ~6 ~36 ~29 ~7 ~36 ~29 leaves 12 
+setblock ~7 ~36 ~28 leaves 12  
+fill ~21 ~36 ~20 ~22 ~36 ~20 leaves 4  
+fill ~21 ~36 ~21 ~22 ~36 ~21 wool 13  
+fill ~21 ~36 ~25 ~22 ~36 ~25 fence 0  
+fill ~21 ~36 ~29 ~22 ~36 ~29 wool 13  
+fill ~21 ~36 ~30 ~22 ~36 ~30 leaves 4  
+fill ~23 ~36 ~19 ~27 ~36 ~19 leaves 4  
+fill ~23 ~36 ~20 ~27 ~36 ~20 wool 13  
+fill ~23 ~36 ~22 ~23 ~36 ~23 fence 0  
+fill ~23 ~36 ~27 ~24 ~36 ~27 fence 0  
+fill ~23 ~36 ~30 ~27 ~36 ~30 wool 13  
+fill ~23 ~36 ~31 ~27 ~36 ~31 leaves 4 
+setblock ~24 ~36 ~24 lit_pumpkin 0  
+fill ~24 ~36 ~28 ~25 ~36 ~28 fence 0 
+setblock ~25 ~36 ~29 fence 0  
+fill ~26 ~36 ~22 ~27 ~36 ~22 fence 0 
+setblock ~27 ~36 ~21 fence 0  
+fill ~27 ~36 ~23 ~27 ~37 ~23 fence 0  
+fill ~27 ~36 ~27 ~28 ~36 ~27 fence 0  
+fill ~28 ~36 ~20 ~29 ~36 ~20 leaves 4  
+fill ~28 ~36 ~21 ~29 ~36 ~21 wool 13  
+fill ~28 ~36 ~24 ~28 ~35 ~24 fence 0  
+fill ~28 ~36 ~25 ~28 ~37 ~25 fence 0  
+fill ~28 ~36 ~29 ~29 ~36 ~29 wool 13  
+fill ~28 ~36 ~30 ~29 ~36 ~30 leaves 4 
+setblock ~31 ~36 ~25 leaves 4  
+fill ~35 ~36 ~29 ~35 ~39 ~29 ladder 4  
+fill ~6 ~37 ~28 ~6 ~38 ~28 fence 0 
+setblock ~20 ~37 ~23 leaves 12  
+fill ~20 ~37 ~24 ~20 ~37 ~27 leaves 4  
+fill ~21 ~37 ~21 ~22 ~37 ~21 leaves 4  
+fill ~21 ~37 ~22 ~21 ~37 ~21 leaves 4  
+fill ~21 ~37 ~23 ~22 ~37 ~23 wool 13  
+fill ~21 ~37 ~24 ~21 ~37 ~27 wool 13  
+fill ~21 ~37 ~28 ~21 ~37 ~29 leaves 4  
+fill ~22 ~37 ~22 ~23 ~37 ~22 wool 13 
+setblock ~22 ~37 ~25 fence 0  
+fill ~22 ~37 ~27 ~22 ~37 ~28 wool 13 
+setblock ~22 ~37 ~29 leaves 4  
+fill ~23 ~37 ~20 ~27 ~37 ~20 leaves 4  
+fill ~23 ~37 ~21 ~27 ~37 ~21 wool 13  
+fill ~23 ~37 ~23 ~24 ~37 ~23 fence 0  
+fill ~23 ~37 ~28 ~23 ~37 ~29 wool 13  
+fill ~23 ~37 ~30 ~27 ~37 ~30 leaves 4  
+fill ~24 ~37 ~24 ~24 ~38 ~24 fence 0  
+fill ~24 ~37 ~26 ~24 ~38 ~26 fence 0  
+fill ~24 ~37 ~27 ~25 ~37 ~27 fence 0  
+fill ~24 ~37 ~29 ~27 ~37 ~29 wool 13  
+fill ~25 ~37 ~22 ~26 ~37 ~22 fence 0  
+fill ~26 ~37 ~25 ~28 ~37 ~25 fence 0  
+fill ~27 ~37 ~22 ~28 ~37 ~22 wool 13  
+fill ~27 ~37 ~27 ~27 ~36 ~27 fence 0  
+fill ~27 ~37 ~28 ~28 ~37 ~28 wool 13  
+fill ~28 ~37 ~21 ~29 ~37 ~21 leaves 4  
+fill ~28 ~37 ~23 ~29 ~37 ~23 wool 13  
+fill ~28 ~37 ~27 ~29 ~37 ~27 wool 13  
+fill ~28 ~37 ~29 ~29 ~37 ~29 leaves 4 
+setblock ~29 ~37 ~22 leaves 12  
+fill ~29 ~37 ~24 ~29 ~37 ~27 wool 13 
+setblock ~29 ~37 ~28 leaves 4 
+setblock ~30 ~37 ~23 leaves 12  
+fill ~30 ~37 ~24 ~30 ~37 ~27 leaves 4  
+fill ~21 ~38 ~23 ~22 ~38 ~23 leaves 4  
+fill ~21 ~38 ~24 ~21 ~38 ~25 leaves 4 
+setblock ~21 ~38 ~26 leaves 12  
+fill ~21 ~38 ~27 ~22 ~38 ~27 leaves 4  
+fill ~22 ~38 ~22 ~23 ~38 ~22 leaves 4  
+fill ~22 ~38 ~24 ~23 ~38 ~24 wool 13  
+fill ~22 ~38 ~25 ~23 ~38 ~25 wool 13  
+fill ~22 ~38 ~26 ~23 ~38 ~26 wool 13  
+fill ~22 ~38 ~28 ~23 ~38 ~28 leaves 4  
+fill ~23 ~38 ~21 ~27 ~38 ~21 leaves 4  
+fill ~23 ~38 ~23 ~27 ~38 ~23 wool 13  
+fill ~23 ~38 ~27 ~27 ~38 ~27 wool 13  
+fill ~23 ~38 ~29 ~25 ~38 ~29 leaves 4  
+fill ~24 ~38 ~22 ~26 ~38 ~22 wool 13  
+fill ~24 ~38 ~28 ~26 ~38 ~28 wool 13 
+setblock ~26 ~38 ~24 lit_pumpkin 2  
+fill ~26 ~38 ~25 ~26 ~37 ~25 fence 0 
+setblock ~26 ~38 ~29 leaves 12  
+fill ~27 ~38 ~22 ~28 ~38 ~22 leaves 4  
+fill ~27 ~38 ~24 ~28 ~38 ~24 wool 13  
+fill ~27 ~38 ~25 ~28 ~38 ~25 wool 13  
+fill ~27 ~38 ~26 ~28 ~38 ~26 wool 13  
+fill ~27 ~38 ~28 ~28 ~38 ~28 leaves 4  
+fill ~27 ~38 ~29 ~27 ~38 ~28 leaves 4  
+fill ~28 ~38 ~23 ~29 ~38 ~23 leaves 12  
+fill ~28 ~38 ~27 ~29 ~38 ~27 leaves 4  
+fill ~29 ~38 ~24 ~29 ~38 ~27 leaves 4  
+fill ~33 ~38 ~28 ~37 ~38 ~28 wool 14  
+fill ~33 ~38 ~29 ~34 ~38 ~29 wool 14  
+fill ~33 ~38 ~30 ~37 ~38 ~30 wool 14  
+fill ~36 ~38 ~29 ~38 ~38 ~29 wool 14  
+fill ~2 ~39 ~28 ~6 ~39 ~28 wool 14  
+fill ~22 ~39 ~24 ~23 ~39 ~24 leaves 4  
+fill ~22 ~39 ~25 ~22 ~39 ~26 leaves 12  
+fill ~23 ~39 ~23 ~27 ~39 ~23 leaves 4  
+fill ~23 ~39 ~25 ~23 ~39 ~27 leaves 4  
+fill ~24 ~39 ~22 ~26 ~39 ~22 leaves 4  
+fill ~24 ~39 ~24 ~26 ~39 ~24 wool 13  
+fill ~24 ~39 ~25 ~26 ~39 ~25 wool 13  
+fill ~24 ~39 ~26 ~26 ~39 ~26 wool 13  
+fill ~24 ~39 ~27 ~26 ~39 ~27 leaves 4  
+fill ~24 ~39 ~28 ~26 ~39 ~28 leaves 4  
+fill ~27 ~39 ~24 ~28 ~39 ~24 leaves 4  
+fill ~27 ~39 ~25 ~28 ~39 ~25 leaves 4  
+fill ~27 ~39 ~26 ~28 ~39 ~26 leaves 4 
+setblock ~27 ~39 ~27 leaves 12  
+fill ~32 ~39 ~28 ~32 ~39 ~30 wool 0  
+fill ~33 ~39 ~27 ~37 ~39 ~27 wool 0  
+fill ~33 ~39 ~28 ~37 ~39 ~28 planks 0  
+fill ~33 ~39 ~29 ~34 ~39 ~29 planks 0  
+fill ~33 ~39 ~30 ~37 ~39 ~30 planks 0  
+fill ~33 ~39 ~31 ~37 ~39 ~31 wool 0  
+fill ~36 ~39 ~29 ~38 ~39 ~29 planks 0 
+setblock ~38 ~39 ~28 wool 0 
+setblock ~38 ~39 ~30 wool 0 
+setblock ~39 ~39 ~29 wool 0  
+fill ~3 ~40 ~28 ~6 ~40 ~28 wool 14  
+fill ~22 ~40 ~26 ~22 ~41 ~26 fence 0  
+fill ~24 ~40 ~24 ~26 ~40 ~24 leaves 4  
+fill ~24 ~40 ~25 ~26 ~40 ~25 leaves 4  
+fill ~24 ~40 ~26 ~26 ~40 ~26 leaves 4  
+fill ~31 ~40 ~28 ~31 ~40 ~30 wool 0  
+fill ~32 ~40 ~27 ~38 ~40 ~27 wool 0  
+fill ~32 ~40 ~31 ~38 ~40 ~31 wool 0  
+fill ~36 ~40 ~30 ~36 ~42 ~30 fence 0  
+fill ~39 ~40 ~28 ~40 ~40 ~28 wool 0  
+fill ~39 ~40 ~30 ~40 ~40 ~30 wool 0  
+fill ~40 ~40 ~29 ~41 ~40 ~29 wool 0  
+fill ~5 ~41 ~28 ~6 ~41 ~28 wool 14  
+fill ~20 ~41 ~26 ~22 ~41 ~26 fence 0 
+setblock ~6 ~42 ~28 fence 0  
+fill ~20 ~42 ~26 ~20 ~41 ~26 fence 0 
+setblock ~20 ~43 ~26 stone_slab 2  
+fill ~34 ~43 ~29 ~35 ~43 ~29 wool 1  
+fill ~34 ~43 ~30 ~35 ~43 ~30 wool 0  
+fill ~34 ~43 ~31 ~35 ~43 ~31 wool 1 
+setblock ~35 ~43 ~28 wool 1 
+setblock ~35 ~43 ~32 wool 1  
+fill ~36 ~43 ~28 ~36 ~43 ~29 wool 0 
+setblock ~36 ~43 ~30 lit_pumpkin 1  
+fill ~36 ~43 ~31 ~36 ~43 ~32 wool 0  
+fill ~37 ~43 ~28 ~37 ~43 ~29 wool 1  
+fill ~37 ~43 ~30 ~38 ~43 ~30 wool 0  
+fill ~37 ~43 ~31 ~38 ~43 ~31 wool 1  
+fill ~37 ~43 ~32 ~37 ~43 ~31 wool 1 
+setblock ~38 ~43 ~29 wool 1 
+setblock ~36 ~44 ~30 fence 0    

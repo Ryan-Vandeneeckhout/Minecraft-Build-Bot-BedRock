@@ -1,0 +1,371 @@
+fill ~15 ~-3 ~11 ~19 ~-3 ~11 obsidian 0  
+fill ~15 ~-2 ~11 ~15 ~9 ~11 obsidian 0  
+fill ~16 ~-2 ~11 ~18 ~-2 ~11 portal 1  
+fill ~19 ~-2 ~11 ~19 ~9 ~11 obsidian 0  
+fill ~16 ~-1 ~11 ~18 ~-1 ~11 portal 1  
+fill ~16 ~0 ~11 ~18 ~0 ~11 portal 1  
+fill ~16 ~1 ~11 ~18 ~1 ~11 portal 1  
+fill ~16 ~2 ~11 ~18 ~2 ~11 portal 1  
+fill ~16 ~3 ~11 ~18 ~3 ~11 portal 1  
+fill ~16 ~4 ~11 ~18 ~4 ~11 portal 1  
+fill ~12 ~5 ~5 ~12 ~6 ~5 concrete 0  
+fill ~12 ~5 ~9 ~12 ~6 ~9 concrete 0  
+fill ~12 ~5 ~14 ~12 ~6 ~14 concrete 0  
+fill ~16 ~5 ~11 ~18 ~5 ~11 portal 1  
+fill ~17 ~5 ~5 ~17 ~6 ~5 concrete 0  
+fill ~17 ~5 ~14 ~17 ~6 ~14 concrete 0  
+fill ~21 ~5 ~13 ~21 ~5 ~14 concrete 0  
+fill ~22 ~5 ~5 ~22 ~6 ~5 concrete 0  
+fill ~22 ~5 ~9 ~22 ~6 ~9 concrete 0  
+fill ~22 ~5 ~14 ~22 ~6 ~14 concrete 0  
+fill ~11 ~6 ~10 ~12 ~6 ~10 concrete 0  
+fill ~12 ~6 ~6 ~13 ~6 ~6 concrete 0  
+fill ~12 ~6 ~15 ~13 ~6 ~15 concrete 0 
+setblock ~13 ~6 ~14 concrete 0  
+fill ~16 ~6 ~6 ~18 ~6 ~6 concrete 0  
+fill ~16 ~6 ~11 ~18 ~6 ~11 portal 1  
+fill ~16 ~6 ~15 ~18 ~6 ~15 concrete 0  
+fill ~21 ~6 ~6 ~22 ~6 ~6 concrete 0  
+fill ~21 ~6 ~14 ~21 ~6 ~15 concrete 0  
+fill ~22 ~6 ~10 ~23 ~6 ~10 concrete 0  
+fill ~22 ~6 ~15 ~22 ~9 ~15 concrete 0 
+setblock ~23 ~6 ~9 concrete 0  
+fill ~11 ~7 ~10 ~12 ~7 ~10 concrete 0  
+fill ~11 ~7 ~11 ~12 ~7 ~11 concrete 0  
+fill ~12 ~7 ~6 ~13 ~7 ~6 concrete 0  
+fill ~12 ~7 ~7 ~13 ~7 ~7 concrete 0  
+fill ~12 ~7 ~15 ~13 ~7 ~15 concrete 0  
+fill ~12 ~7 ~16 ~13 ~7 ~16 concrete 0  
+fill ~16 ~7 ~6 ~18 ~7 ~6 concrete 0  
+fill ~16 ~7 ~7 ~18 ~7 ~7 concrete 0  
+fill ~16 ~7 ~11 ~18 ~7 ~11 portal 1  
+fill ~16 ~7 ~15 ~18 ~7 ~15 concrete 0  
+fill ~16 ~7 ~16 ~18 ~7 ~16 concrete 0  
+fill ~21 ~7 ~6 ~22 ~7 ~6 concrete 0  
+fill ~21 ~7 ~7 ~22 ~7 ~7 concrete 0  
+fill ~21 ~7 ~15 ~21 ~9 ~15 concrete 0  
+fill ~21 ~7 ~16 ~22 ~7 ~16 concrete 0  
+fill ~22 ~7 ~10 ~23 ~7 ~10 concrete 0  
+fill ~22 ~7 ~11 ~23 ~7 ~11 concrete 0  
+fill ~11 ~8 ~5 ~23 ~8 ~5 concrete 0  
+fill ~11 ~8 ~6 ~23 ~8 ~6 concrete 0  
+fill ~11 ~8 ~7 ~23 ~8 ~7 concrete 0  
+fill ~11 ~8 ~8 ~23 ~8 ~8 concrete 0  
+fill ~11 ~8 ~9 ~23 ~8 ~9 concrete 0  
+fill ~11 ~8 ~10 ~23 ~8 ~10 concrete 0  
+fill ~11 ~8 ~11 ~14 ~8 ~11 concrete 0  
+fill ~11 ~8 ~12 ~23 ~8 ~12 concrete 0  
+fill ~11 ~8 ~13 ~23 ~8 ~13 concrete 0  
+fill ~11 ~8 ~14 ~23 ~8 ~14 concrete 0  
+fill ~11 ~8 ~15 ~23 ~8 ~15 concrete 0  
+fill ~11 ~8 ~16 ~23 ~8 ~16 concrete 0  
+fill ~11 ~8 ~17 ~23 ~8 ~17 concrete 0  
+fill ~16 ~8 ~11 ~18 ~8 ~11 portal 1  
+fill ~20 ~8 ~11 ~23 ~8 ~11 concrete 0  
+fill ~11 ~9 ~5 ~11 ~20 ~5 concrete 0  
+fill ~11 ~9 ~6 ~11 ~20 ~6 concrete 0  
+fill ~11 ~9 ~7 ~11 ~20 ~7 concrete 0  
+fill ~11 ~9 ~8 ~23 ~9 ~8 concrete 0  
+fill ~11 ~9 ~9 ~12 ~9 ~9 concrete 0  
+fill ~11 ~9 ~10 ~12 ~9 ~10 concrete 0  
+fill ~11 ~9 ~11 ~12 ~9 ~11 concrete 0  
+fill ~11 ~9 ~12 ~12 ~9 ~12 concrete 0  
+fill ~11 ~9 ~13 ~12 ~9 ~13 concrete 0  
+fill ~11 ~9 ~14 ~23 ~9 ~14 concrete 0 
+setblock ~11 ~9 ~15 wool 8  
+fill ~11 ~9 ~16 ~11 ~20 ~16 concrete 0  
+fill ~11 ~9 ~17 ~12 ~9 ~17 wool 8  
+fill ~12 ~9 ~5 ~12 ~11 ~5 wool 8  
+fill ~12 ~9 ~15 ~23 ~9 ~15 concrete 0  
+fill ~13 ~9 ~5 ~17 ~9 ~5 concrete 0  
+fill ~13 ~9 ~9 ~21 ~9 ~9 lava 0  
+fill ~13 ~9 ~10 ~21 ~9 ~10 lava 0  
+fill ~13 ~9 ~11 ~14 ~9 ~11 lava 0  
+fill ~13 ~9 ~12 ~21 ~9 ~12 lava 0  
+fill ~13 ~9 ~13 ~17 ~9 ~13 lava 0  
+fill ~13 ~9 ~17 ~15 ~9 ~17 concrete 0  
+fill ~16 ~9 ~11 ~19 ~9 ~11 obsidian 0  
+fill ~16 ~9 ~16 ~18 ~9 ~16 magma 0  
+fill ~16 ~9 ~17 ~18 ~9 ~17 stained_hardened_clay 8 
+setblock ~18 ~9 ~5 wool 8 
+setblock ~18 ~9 ~13 lava 2  
+fill ~19 ~9 ~5 ~23 ~9 ~5 concrete 0 
+setblock ~19 ~9 ~13 lava 0  
+fill ~19 ~9 ~17 ~21 ~9 ~17 concrete 0  
+fill ~20 ~9 ~11 ~21 ~9 ~11 lava 0 
+setblock ~20 ~9 ~13 lava 2 
+setblock ~21 ~9 ~13 lava 0  
+fill ~22 ~9 ~9 ~23 ~9 ~9 concrete 0  
+fill ~22 ~9 ~10 ~23 ~9 ~10 concrete 0  
+fill ~22 ~9 ~11 ~23 ~9 ~11 concrete 0  
+fill ~22 ~9 ~12 ~23 ~9 ~12 concrete 0  
+fill ~22 ~9 ~13 ~23 ~9 ~13 concrete 0  
+fill ~22 ~9 ~17 ~23 ~9 ~17 wool 8  
+fill ~23 ~9 ~6 ~23 ~20 ~6 concrete 0  
+fill ~23 ~9 ~7 ~23 ~20 ~7 concrete 0  
+fill ~23 ~9 ~16 ~23 ~20 ~16 concrete 0  
+fill ~11 ~10 ~8 ~23 ~10 ~8 concrete 0  
+fill ~11 ~10 ~9 ~12 ~10 ~9 concrete 0  
+fill ~11 ~10 ~10 ~12 ~10 ~10 concrete 0  
+fill ~11 ~10 ~11 ~12 ~10 ~11 concrete 0  
+fill ~11 ~10 ~12 ~12 ~10 ~12 concrete 0  
+fill ~11 ~10 ~13 ~11 ~10 ~14 wool 8  
+fill ~11 ~10 ~15 ~11 ~11 ~15 concrete 0  
+fill ~11 ~10 ~17 ~14 ~10 ~17 concrete 0  
+fill ~12 ~10 ~13 ~12 ~14 ~13 concrete 0  
+fill ~12 ~10 ~14 ~22 ~10 ~14 concrete 0  
+fill ~13 ~10 ~5 ~14 ~10 ~5 concrete 0  
+fill ~15 ~10 ~5 ~15 ~12 ~5 wool 8  
+fill ~15 ~10 ~16 ~15 ~11 ~16 magma 0 
+setblock ~15 ~10 ~17 stained_hardened_clay 8  
+fill ~16 ~10 ~5 ~18 ~10 ~5 concrete 0  
+fill ~16 ~10 ~15 ~18 ~10 ~15 magma 0  
+fill ~16 ~10 ~16 ~18 ~10 ~16 pink_glazed_terracotta 0  
+fill ~16 ~10 ~17 ~16 ~11 ~17 stained_glass_pane 14  
+fill ~18 ~10 ~17 ~18 ~11 ~17 stained_glass_pane 14  
+fill ~19 ~10 ~5 ~19 ~11 ~5 wool 8  
+fill ~19 ~10 ~16 ~19 ~11 ~16 magma 0 
+setblock ~19 ~10 ~17 stained_hardened_clay 8  
+fill ~20 ~10 ~5 ~23 ~10 ~5 concrete 0  
+fill ~20 ~10 ~17 ~23 ~10 ~17 concrete 0  
+fill ~22 ~10 ~9 ~23 ~10 ~9 concrete 0  
+fill ~22 ~10 ~10 ~23 ~10 ~10 concrete 0  
+fill ~22 ~10 ~11 ~23 ~10 ~11 concrete 0  
+fill ~22 ~10 ~12 ~23 ~10 ~12 concrete 0  
+fill ~22 ~10 ~13 ~23 ~10 ~13 concrete 0  
+fill ~23 ~10 ~14 ~23 ~10 ~15 wool 8  
+fill ~11 ~11 ~8 ~23 ~11 ~8 concrete 0  
+fill ~11 ~11 ~9 ~12 ~11 ~9 concrete 0  
+fill ~11 ~11 ~10 ~12 ~11 ~10 concrete 0  
+fill ~11 ~11 ~11 ~12 ~11 ~11 concrete 0  
+fill ~11 ~11 ~12 ~12 ~11 ~12 concrete 0  
+fill ~11 ~11 ~13 ~11 ~20 ~13 concrete 0  
+fill ~11 ~11 ~14 ~23 ~11 ~14 concrete 0  
+fill ~11 ~11 ~17 ~13 ~11 ~17 wool 8  
+fill ~13 ~11 ~5 ~14 ~11 ~5 concrete 0  
+fill ~14 ~11 ~17 ~14 ~13 ~17 concrete 0 
+setblock ~15 ~11 ~17 concrete 7  
+fill ~16 ~11 ~5 ~18 ~11 ~5 concrete 0  
+fill ~16 ~11 ~15 ~18 ~11 ~15 magma 0  
+fill ~16 ~11 ~16 ~18 ~11 ~16 pink_glazed_terracotta 0 
+setblock ~17 ~11 ~17 stained_glass_pane 14 
+setblock ~19 ~11 ~17 concrete 7  
+fill ~20 ~11 ~5 ~21 ~11 ~5 concrete 0  
+fill ~20 ~11 ~17 ~20 ~13 ~17 concrete 0  
+fill ~21 ~11 ~17 ~23 ~11 ~17 wool 8 
+setblock ~22 ~11 ~5 wool 8  
+fill ~22 ~11 ~9 ~23 ~11 ~9 concrete 0  
+fill ~22 ~11 ~10 ~23 ~11 ~10 concrete 0  
+fill ~22 ~11 ~11 ~23 ~11 ~11 concrete 0  
+fill ~22 ~11 ~12 ~23 ~11 ~12 concrete 0  
+fill ~22 ~11 ~13 ~23 ~11 ~13 concrete 0  
+fill ~23 ~11 ~5 ~23 ~20 ~5 concrete 0 
+setblock ~23 ~11 ~15 concrete 0  
+fill ~11 ~12 ~8 ~23 ~12 ~8 concrete 0  
+fill ~11 ~12 ~9 ~12 ~12 ~9 concrete 0  
+fill ~11 ~12 ~10 ~12 ~12 ~10 concrete 0 
+setblock ~11 ~12 ~11 wool 8  
+fill ~11 ~12 ~12 ~12 ~12 ~12 concrete 0  
+fill ~11 ~12 ~14 ~23 ~12 ~14 concrete 0 
+setblock ~11 ~12 ~15 wool 8  
+fill ~11 ~12 ~17 ~15 ~12 ~17 concrete 0  
+fill ~12 ~12 ~5 ~14 ~12 ~5 concrete 0  
+fill ~12 ~12 ~11 ~12 ~14 ~11 concrete 0  
+fill ~16 ~12 ~5 ~23 ~12 ~5 concrete 0  
+fill ~16 ~12 ~16 ~18 ~12 ~16 magma 0  
+fill ~16 ~12 ~17 ~18 ~12 ~17 concrete 7 
+setblock ~17 ~12 ~15 magma 0  
+fill ~19 ~12 ~17 ~19 ~14 ~17 concrete 0  
+fill ~21 ~12 ~17 ~23 ~12 ~17 concrete 0  
+fill ~22 ~12 ~9 ~23 ~12 ~9 concrete 0  
+fill ~22 ~12 ~10 ~23 ~12 ~10 concrete 0  
+fill ~22 ~12 ~11 ~23 ~12 ~11 concrete 0  
+fill ~22 ~12 ~12 ~22 ~14 ~12 concrete 0  
+fill ~22 ~12 ~13 ~23 ~12 ~13 concrete 0 
+setblock ~23 ~12 ~12 wool 8 
+setblock ~23 ~12 ~15 wool 8  
+fill ~11 ~13 ~8 ~23 ~13 ~8 concrete 0  
+fill ~11 ~13 ~9 ~12 ~13 ~9 concrete 0  
+fill ~11 ~13 ~10 ~12 ~13 ~10 concrete 0  
+fill ~11 ~13 ~11 ~11 ~20 ~11 concrete 0  
+fill ~11 ~13 ~12 ~12 ~13 ~12 concrete 0 
+setblock ~11 ~13 ~14 wool 8  
+fill ~11 ~13 ~15 ~11 ~20 ~15 concrete 0  
+fill ~11 ~13 ~17 ~12 ~13 ~17 concrete 0  
+fill ~12 ~13 ~5 ~12 ~20 ~5 concrete 0  
+fill ~12 ~13 ~14 ~22 ~13 ~14 concrete 0 
+setblock ~13 ~13 ~5 wool 8  
+fill ~13 ~13 ~17 ~13 ~14 ~17 wool 8  
+fill ~14 ~13 ~5 ~15 ~13 ~5 concrete 0  
+fill ~15 ~13 ~17 ~20 ~13 ~17 concrete 0 
+setblock ~16 ~13 ~5 wool 8  
+fill ~17 ~13 ~5 ~21 ~13 ~5 concrete 0  
+fill ~21 ~13 ~17 ~21 ~14 ~17 wool 8  
+fill ~22 ~13 ~5 ~22 ~14 ~5 wool 8  
+fill ~22 ~13 ~9 ~23 ~13 ~9 concrete 0  
+fill ~22 ~13 ~10 ~23 ~13 ~10 concrete 0  
+fill ~22 ~13 ~11 ~23 ~13 ~11 concrete 0  
+fill ~22 ~13 ~13 ~23 ~13 ~13 concrete 0  
+fill ~22 ~13 ~17 ~23 ~13 ~17 concrete 0  
+fill ~23 ~13 ~12 ~23 ~14 ~12 concrete 0 
+setblock ~23 ~13 ~14 wool 8  
+fill ~23 ~13 ~15 ~23 ~20 ~15 concrete 0  
+fill ~11 ~14 ~8 ~23 ~14 ~8 concrete 0  
+fill ~11 ~14 ~9 ~12 ~14 ~9 concrete 0  
+fill ~11 ~14 ~10 ~12 ~14 ~10 concrete 0  
+fill ~11 ~14 ~12 ~12 ~14 ~12 concrete 0  
+fill ~11 ~14 ~14 ~23 ~14 ~14 concrete 0  
+fill ~11 ~14 ~17 ~12 ~14 ~17 concrete 0  
+fill ~13 ~14 ~5 ~19 ~14 ~5 concrete 0 
+setblock ~14 ~14 ~17 wool 8  
+fill ~15 ~14 ~17 ~19 ~14 ~17 concrete 0  
+fill ~20 ~14 ~5 ~20 ~16 ~5 wool 8 
+setblock ~20 ~14 ~17 wool 8  
+fill ~21 ~14 ~5 ~21 ~16 ~5 concrete 0  
+fill ~22 ~14 ~9 ~23 ~14 ~9 concrete 0  
+fill ~22 ~14 ~10 ~22 ~6 ~10 concrete 0  
+fill ~22 ~14 ~11 ~23 ~14 ~11 concrete 0  
+fill ~22 ~14 ~13 ~23 ~14 ~13 concrete 0  
+fill ~22 ~14 ~17 ~23 ~14 ~17 concrete 0  
+fill ~23 ~14 ~10 ~23 ~15 ~10 wool 8  
+fill ~11 ~15 ~8 ~11 ~20 ~8 concrete 0 
+setblock ~11 ~15 ~9 wool 8  
+fill ~11 ~15 ~10 ~11 ~20 ~10 concrete 0  
+fill ~11 ~15 ~12 ~11 ~16 ~12 wool 8  
+fill ~11 ~15 ~14 ~11 ~20 ~14 concrete 0  
+fill ~11 ~15 ~17 ~11 ~20 ~17 concrete 0  
+fill ~12 ~15 ~17 ~13 ~15 ~17 concrete 7 
+setblock ~13 ~15 ~5 wool 8  
+fill ~14 ~15 ~5 ~16 ~15 ~5 concrete 0 
+setblock ~14 ~15 ~16 sea_lantern 0 
+setblock ~14 ~15 ~17 stained_glass_pane 14 
+setblock ~15 ~15 ~17 concrete 7  
+fill ~16 ~15 ~17 ~18 ~15 ~17 concrete 0  
+fill ~17 ~15 ~5 ~17 ~16 ~5 wool 8  
+fill ~18 ~15 ~5 ~19 ~15 ~5 concrete 0 
+setblock ~19 ~15 ~17 concrete 7 
+setblock ~20 ~15 ~16 sea_lantern 0 
+setblock ~20 ~15 ~17 stained_glass_pane 14  
+fill ~21 ~15 ~17 ~22 ~15 ~17 concrete 7  
+fill ~22 ~15 ~5 ~22 ~20 ~5 concrete 0  
+fill ~23 ~15 ~8 ~23 ~20 ~8 concrete 0  
+fill ~23 ~15 ~9 ~23 ~20 ~9 concrete 0  
+fill ~23 ~15 ~11 ~23 ~20 ~11 concrete 0  
+fill ~23 ~15 ~12 ~23 ~16 ~12 wool 8  
+fill ~23 ~15 ~13 ~23 ~20 ~13 concrete 0  
+fill ~23 ~15 ~14 ~23 ~20 ~14 concrete 0  
+fill ~23 ~15 ~17 ~23 ~20 ~17 concrete 0  
+fill ~11 ~16 ~9 ~11 ~20 ~9 concrete 0  
+fill ~12 ~16 ~17 ~12 ~17 ~17 concrete 0  
+fill ~13 ~16 ~5 ~16 ~16 ~5 concrete 0  
+fill ~13 ~16 ~17 ~14 ~16 ~17 concrete 7  
+fill ~15 ~16 ~17 ~19 ~16 ~17 concrete 0  
+fill ~18 ~16 ~5 ~19 ~16 ~5 concrete 0  
+fill ~20 ~16 ~17 ~21 ~16 ~17 concrete 7  
+fill ~22 ~16 ~17 ~22 ~17 ~17 concrete 0  
+fill ~23 ~16 ~10 ~23 ~20 ~10 concrete 0  
+fill ~11 ~17 ~12 ~11 ~20 ~12 concrete 0  
+fill ~13 ~17 ~5 ~13 ~20 ~5 concrete 0  
+fill ~13 ~17 ~17 ~23 ~17 ~17 concrete 0  
+fill ~14 ~17 ~5 ~14 ~19 ~5 wool 8  
+fill ~15 ~17 ~5 ~20 ~17 ~5 concrete 0  
+fill ~21 ~17 ~5 ~21 ~19 ~5 wool 8  
+fill ~23 ~17 ~12 ~23 ~20 ~12 concrete 0  
+fill ~12 ~18 ~17 ~13 ~18 ~17 wool 8  
+fill ~14 ~18 ~17 ~20 ~18 ~17 concrete 0  
+fill ~15 ~18 ~5 ~20 ~18 ~5 concrete 0  
+fill ~21 ~18 ~17 ~22 ~18 ~17 wool 8  
+fill ~12 ~19 ~17 ~13 ~19 ~17 concrete 0 
+setblock ~14 ~19 ~17 wool 8  
+fill ~15 ~19 ~5 ~20 ~19 ~5 concrete 0  
+fill ~15 ~19 ~17 ~19 ~19 ~17 concrete 0 
+setblock ~20 ~19 ~17 wool 8  
+fill ~21 ~19 ~17 ~23 ~19 ~17 concrete 0  
+fill ~12 ~20 ~6 ~23 ~20 ~6 concrete 0  
+fill ~12 ~20 ~7 ~12 ~20 ~8 wool 8  
+fill ~12 ~20 ~9 ~15 ~20 ~9 concrete 0  
+fill ~12 ~20 ~10 ~12 ~20 ~17 concrete 0  
+fill ~13 ~20 ~7 ~17 ~20 ~7 concrete 0  
+fill ~13 ~20 ~8 ~15 ~20 ~8 concrete 0 
+setblock ~13 ~20 ~10 wool 8  
+fill ~13 ~20 ~11 ~14 ~20 ~11 concrete 0 
+setblock ~13 ~20 ~12 wool 8  
+fill ~13 ~20 ~13 ~13 ~20 ~17 concrete 0  
+fill ~14 ~20 ~5 ~23 ~20 ~5 concrete 0 
+setblock ~14 ~20 ~10 concrete 0  
+fill ~14 ~20 ~12 ~18 ~20 ~12 concrete 0  
+fill ~14 ~20 ~13 ~14 ~20 ~14 wool 8  
+fill ~14 ~20 ~15 ~19 ~20 ~15 concrete 0  
+fill ~14 ~20 ~16 ~23 ~20 ~16 concrete 0  
+fill ~14 ~20 ~17 ~23 ~20 ~17 concrete 0 
+setblock ~15 ~20 ~10 wool 8  
+fill ~15 ~20 ~11 ~19 ~20 ~11 obsidian 0  
+fill ~15 ~20 ~13 ~23 ~20 ~13 concrete 0  
+fill ~15 ~20 ~14 ~19 ~20 ~14 concrete 0  
+fill ~16 ~20 ~8 ~16 ~20 ~9 wool 8  
+fill ~16 ~20 ~10 ~20 ~20 ~10 concrete 0  
+fill ~17 ~20 ~8 ~17 ~20 ~10 concrete 0  
+fill ~18 ~20 ~7 ~18 ~20 ~8 wool 8  
+fill ~18 ~20 ~9 ~21 ~20 ~9 concrete 0  
+fill ~19 ~20 ~7 ~21 ~20 ~7 concrete 0  
+fill ~19 ~20 ~8 ~23 ~20 ~8 concrete 0 
+setblock ~19 ~20 ~12 wool 8  
+fill ~20 ~20 ~11 ~23 ~20 ~11 concrete 0  
+fill ~20 ~20 ~12 ~20 ~20 ~5 concrete 0  
+fill ~20 ~20 ~14 ~20 ~20 ~15 wool 8 
+setblock ~21 ~20 ~10 wool 8 
+setblock ~21 ~20 ~12 wool 8  
+fill ~21 ~20 ~14 ~23 ~20 ~14 concrete 0  
+fill ~21 ~20 ~15 ~23 ~20 ~15 concrete 0 
+setblock ~22 ~20 ~7 wool 8 
+setblock ~22 ~20 ~9 wool 8 
+setblock ~22 ~20 ~10 concrete 0 
+setblock ~22 ~20 ~12 concrete 0  
+fill ~14 ~21 ~11 ~14 ~30 ~11 obsidian 0  
+fill ~15 ~21 ~11 ~19 ~21 ~11 portal 1  
+fill ~20 ~21 ~11 ~20 ~30 ~11 obsidian 0  
+fill ~15 ~22 ~11 ~19 ~22 ~11 portal 1  
+fill ~15 ~23 ~11 ~19 ~23 ~11 portal 1  
+fill ~15 ~24 ~11 ~19 ~24 ~11 portal 1  
+fill ~15 ~25 ~11 ~19 ~25 ~11 portal 1 
+setblock ~9 ~26 ~11 gold_block 0  
+fill ~15 ~26 ~11 ~19 ~26 ~11 portal 1 
+setblock ~25 ~26 ~11 gold_block 0  
+fill ~9 ~27 ~11 ~10 ~27 ~11 stonebrick 3  
+fill ~15 ~27 ~11 ~19 ~27 ~11 portal 1  
+fill ~24 ~27 ~11 ~25 ~27 ~11 stonebrick 3  
+fill ~10 ~28 ~10 ~12 ~28 ~10 stonebrick 3  
+fill ~10 ~28 ~11 ~10 ~28 ~12 stonebrick 3  
+fill ~11 ~28 ~12 ~12 ~28 ~12 stonebrick 3  
+fill ~15 ~28 ~11 ~19 ~28 ~11 portal 1 
+setblock ~17 ~28 ~10 stone 0 
+setblock ~17 ~28 ~12 coal_ore 0  
+fill ~22 ~28 ~10 ~24 ~28 ~10 stonebrick 3  
+fill ~22 ~28 ~12 ~24 ~28 ~12 stonebrick 3  
+fill ~24 ~28 ~11 ~24 ~27 ~11 stonebrick 3  
+fill ~12 ~29 ~9 ~14 ~29 ~9 stonebrick 3  
+fill ~12 ~29 ~13 ~14 ~29 ~13 stonebrick 3  
+fill ~15 ~29 ~11 ~19 ~29 ~11 portal 1 
+setblock ~16 ~29 ~10 stone 0 
+setblock ~16 ~29 ~12 coal_ore 0 
+setblock ~17 ~29 ~10 gold_block 0 
+setblock ~17 ~29 ~12 gold_block 0 
+setblock ~18 ~29 ~10 stone 0 
+setblock ~18 ~29 ~12 coal_ore 0  
+fill ~20 ~29 ~9 ~22 ~29 ~9 stonebrick 3  
+fill ~20 ~29 ~13 ~22 ~29 ~13 stonebrick 3 
+setblock ~15 ~30 ~9 stonebrick 3  
+fill ~15 ~30 ~11 ~19 ~30 ~11 portal 1 
+setblock ~15 ~30 ~13 stonebrick 3 
+setblock ~17 ~30 ~10 stone 0 
+setblock ~17 ~30 ~12 coal_ore 0 
+setblock ~19 ~30 ~9 stonebrick 3 
+setblock ~19 ~30 ~13 stonebrick 3  
+fill ~15 ~31 ~11 ~19 ~31 ~11 obsidian 0  
+fill ~16 ~31 ~9 ~18 ~31 ~9 stonebrick 3  
+fill ~16 ~31 ~13 ~18 ~31 ~13 stonebrick 3  
+fill ~16 ~40 ~10 ~18 ~40 ~10 gold_block 0  
+fill ~16 ~40 ~11 ~18 ~40 ~11 gold_block 0  
+fill ~16 ~40 ~12 ~18 ~40 ~12 gold_block 0 
+setblock ~17 ~41 ~11 beacon 0 
+setblock ~30 ~51 ~0 planks 4    

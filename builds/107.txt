@@ -1,0 +1,4420 @@
+fill ~22~0~0 ~22~0~5 minecraft:log 1
+setblock ~22~1~0 minecraft:deepslate_brick_wall 0
+fill ~23~0~0 ~25~0~0 minecraft:spruce_stairs 2
+fill ~26~0~0 ~26~0~5 minecraft:log 1
+setblock ~26~1~0 minecraft:deepslate_brick_wall 0
+fill ~30~0~0 ~30~0~5 minecraft:log 1
+setblock ~30~1~0 minecraft:deepslate_brick_wall 0
+fill ~31~0~0 ~33~0~0 minecraft:spruce_stairs 2
+fill ~34~0~0 ~34~0~5 minecraft:log 1
+setblock ~34~1~0 minecraft:deepslate_brick_wall 0
+setblock ~22~1~1 minecraft:log 1
+setblock ~22~2~1 minecraft:deepslate_brick_wall 0
+fill ~23~0~1 ~25~0~1 minecraft:barrel 3
+fill ~23~1~1 ~25~1~1 minecraft:spruce_stairs 2
+setblock ~26~1~1 minecraft:log 1
+setblock ~26~2~1 minecraft:deepslate_brick_wall 0
+setblock ~30~1~1 minecraft:log 1
+setblock ~30~2~1 minecraft:deepslate_brick_wall 0
+fill ~31~0~1 ~33~0~1 minecraft:barrel 3
+fill ~31~1~1 ~33~1~1 minecraft:spruce_stairs 2
+setblock ~34~1~1 minecraft:log 1
+setblock ~34~2~1 minecraft:deepslate_brick_wall 0
+fill ~22~1~2 ~22~1~4 minecraft:fence 5
+setblock ~22~2~2 minecraft:log 1
+setblock ~22~3~2 minecraft:deepslate_brick_wall 0
+fill ~23~0~2 ~23~1~5 minecraft:chest 5
+fill ~23~2~2 ~25~2~2 minecraft:spruce_stairs 2
+fill ~25~0~2 ~25~1~5 minecraft:chest 4
+fill ~26~1~2 ~26~1~4 minecraft:fence 5
+setblock ~26~2~2 minecraft:log 1
+setblock ~26~3~2 minecraft:deepslate_brick_wall 0
+fill ~30~1~2 ~30~1~4 minecraft:fence 5
+setblock ~30~2~2 minecraft:log 1
+setblock ~30~3~2 minecraft:deepslate_brick_wall 0
+fill ~31~0~2 ~31~1~5 minecraft:chest 5
+fill ~31~2~2 ~33~2~2 minecraft:spruce_stairs 2
+fill ~33~0~2 ~33~1~5 minecraft:chest 4
+fill ~34~1~2 ~34~1~4 minecraft:fence 5
+setblock ~34~2~2 minecraft:log 1
+setblock ~34~3~2 minecraft:deepslate_brick_wall 0
+fill ~22~2~3 ~22~2~4 minecraft:fence 5
+setblock ~22~3~3 minecraft:log 1
+setblock ~22~4~3 minecraft:deepslate_brick_wall 0
+fill ~23~3~3 ~25~3~3 minecraft:spruce_stairs 2
+fill ~26~2~3 ~26~2~4 minecraft:fence 5
+setblock ~26~3~3 minecraft:log 1
+setblock ~26~4~3 minecraft:deepslate_brick_wall 0
+fill ~30~2~3 ~30~2~4 minecraft:fence 5
+setblock ~30~3~3 minecraft:log 1
+setblock ~30~4~3 minecraft:deepslate_brick_wall 0
+fill ~31~3~3 ~33~3~3 minecraft:spruce_stairs 2
+setblock ~32~2~3 minecraft:lantern 1
+fill ~34~2~3 ~34~2~4 minecraft:fence 5
+setblock ~34~3~3 minecraft:log 1
+setblock ~34~4~3 minecraft:deepslate_brick_wall 0
+fill ~5~15~4 ~11~15~4 minecraft:deepslate_brick_stairs 2
+setblock ~6~0~4 minecraft:jungle_stairs 6
+setblock ~6~1~4 minecraft:deepslate_brick_wall 0
+setblock ~6~2~4 minecraft:fence 5
+setblock ~6~3~4 minecraft:deepslate_brick_wall 0
+setblock ~6~4~4 minecraft:jungle_stairs 2
+setblock ~6~9~4 minecraft:jungle_trapdoor 3
+fill ~7~9~4 ~9~9~4 minecraft:spruce_wall_sign 2
+setblock ~10~0~4 minecraft:jungle_stairs 6
+setblock ~10~1~4 minecraft:deepslate_brick_wall 0
+setblock ~10~2~4 minecraft:fence 5
+setblock ~10~3~4 minecraft:deepslate_brick_wall 0
+setblock ~10~4~4 minecraft:jungle_stairs 2
+setblock ~10~9~4 minecraft:jungle_trapdoor 3
+setblock ~14~0~4 minecraft:jungle_stairs 6
+setblock ~14~1~4 minecraft:deepslate_brick_wall 0
+setblock ~14~2~4 minecraft:fence 5
+setblock ~14~3~4 minecraft:deepslate_brick_wall 0
+setblock ~14~4~4 minecraft:jungle_stairs 2
+setblock ~14~9~4 minecraft:jungle_trapdoor 3
+setblock ~18~0~4 minecraft:jungle_stairs 6
+setblock ~18~1~4 minecraft:deepslate_brick_wall 0
+setblock ~18~2~4 minecraft:fence 5
+setblock ~18~3~4 minecraft:deepslate_brick_wall 0
+setblock ~18~4~4 minecraft:jungle_stairs 2
+setblock ~18~9~4 minecraft:jungle_trapdoor 3
+setblock ~22~3~4 minecraft:fence 5
+fill ~22~4~4 ~22~4~5 minecraft:log 1
+setblock ~22~5~4 minecraft:deepslate_brick_wall 0
+setblock ~22~9~4 minecraft:jungle_trapdoor 3
+fill ~23~4~4 ~25~4~4 minecraft:spruce_stairs 2
+setblock ~26~3~4 minecraft:fence 5
+fill ~26~4~4 ~26~4~5 minecraft:log 1
+setblock ~26~5~4 minecraft:deepslate_brick_wall 0
+setblock ~26~9~4 minecraft:jungle_trapdoor 3
+fill ~27~3~4 ~29~3~4 minecraft:dark_oak_stairs 2
+fill ~27~4~4 ~29~4~4 minecraft:trapdoor 3
+setblock ~28~2~4 minecraft:lantern 1
+setblock ~30~3~4 minecraft:fence 5
+fill ~30~4~4 ~30~4~5 minecraft:log 1
+setblock ~30~5~4 minecraft:deepslate_brick_wall 0
+setblock ~30~9~4 minecraft:jungle_trapdoor 3
+fill ~31~4~4 ~33~4~4 minecraft:spruce_stairs 2
+setblock ~32~3~4 minecraft:lantern 1
+setblock ~34~3~4 minecraft:fence 5
+fill ~34~4~4 ~34~4~5 minecraft:log 1
+setblock ~34~5~4 minecraft:deepslate_brick_wall 0
+setblock ~34~9~4 minecraft:jungle_trapdoor 3
+setblock ~38~0~4 minecraft:jungle_stairs 6
+setblock ~38~1~4 minecraft:deepslate_brick_wall 0
+setblock ~38~2~4 minecraft:fence 5
+setblock ~38~3~4 minecraft:deepslate_brick_wall 0
+setblock ~38~4~4 minecraft:jungle_stairs 2
+setblock ~38~9~4 minecraft:jungle_trapdoor 3
+setblock ~42~0~4 minecraft:jungle_stairs 6
+setblock ~42~1~4 minecraft:deepslate_brick_wall 0
+setblock ~42~2~4 minecraft:fence 5
+setblock ~42~3~4 minecraft:deepslate_brick_wall 0
+setblock ~42~4~4 minecraft:jungle_stairs 2
+setblock ~42~9~4 minecraft:jungle_trapdoor 3
+setblock ~45~14~4 minecraft:lantern 1
+fill ~45~15~4 ~51~15~4 minecraft:deepslate_brick_stairs 2
+setblock ~46~0~4 minecraft:jungle_stairs 6
+setblock ~46~1~4 minecraft:deepslate_brick_wall 0
+setblock ~46~2~4 minecraft:fence 5
+setblock ~46~3~4 minecraft:deepslate_brick_wall 0
+setblock ~46~4~4 minecraft:jungle_stairs 2
+setblock ~46~9~4 minecraft:jungle_trapdoor 3
+fill ~47~9~4 ~49~9~4 minecraft:spruce_wall_sign 2
+setblock ~50~0~4 minecraft:jungle_stairs 6
+setblock ~50~1~4 minecraft:deepslate_brick_wall 0
+setblock ~50~2~4 minecraft:fence 5
+setblock ~50~3~4 minecraft:deepslate_brick_wall 0
+setblock ~50~4~4 minecraft:jungle_stairs 2
+setblock ~50~9~4 minecraft:jungle_trapdoor 3
+setblock ~51~14~4 minecraft:lantern 1
+setblock ~5~0~5 minecraft:jungle_stairs 4
+setblock ~5~1~5 minecraft:deepslate_brick_wall 0
+setblock ~5~2~5 minecraft:fence 5
+setblock ~5~3~5 minecraft:deepslate_brick_wall 0
+setblock ~5~4~5 minecraft:jungle_stairs 0
+setblock ~5~9~5 minecraft:jungle_trapdoor 1
+setblock ~5~15~5 minecraft:deepslate_brick_stairs 7
+setblock ~5~16~5 minecraft:deepslate_brick_stairs 2
+fill ~6~0~5 ~6~15~5 minecraft:log 1
+fill ~6~16~5 ~10~16~5 minecraft:dark_oak_stairs 2
+fill ~7~0~5 ~9~0~5 minecraft:deepslate_brick_stairs 2
+fill ~7~1~5 ~9~1~5 minecraft:fence 5
+fill ~7~4~5 ~9~4~5 minecraft:log 1
+fill ~7~5~5 ~9~5~5 minecraft:fence 5
+fill ~7~9~5 ~9~9~5 minecraft:log 1
+fill ~7~10~5 ~9~10~5 minecraft:fence 5
+fill ~7~14~5 ~9~14~5 minecraft:jungle_fence_gate 2
+fill ~7~15~5 ~9~15~5 minecraft:log 1
+setblock ~8~3~5 minecraft:lantern 1
+fill ~10~0~5 ~10~15~5 minecraft:log 1
+fill ~11~0~5 ~13~0~5 minecraft:deepslate_brick_stairs 2
+fill ~11~1~5 ~13~1~5 minecraft:fence 5
+fill ~11~4~5 ~13~4~5 minecraft:log 1
+fill ~11~5~5 ~13~5~5 minecraft:fence 5
+setblock ~11~9~5 minecraft:jungle_trapdoor 0
+setblock ~11~15~5 minecraft:deepslate_brick_stairs 7
+setblock ~11~16~5 minecraft:deepslate_brick_stairs 2
+setblock ~12~3~5 minecraft:lantern 1
+setblock ~13~9~5 minecraft:jungle_trapdoor 1
+fill ~14~0~5 ~14~5~5 minecraft:log 1
+setblock ~14~6~5 minecraft:deepslate_brick_wall 0
+setblock ~14~7~5 minecraft:fence 5
+setblock ~14~8~5 minecraft:deepslate_brick_wall 0
+setblock ~14~9~5 minecraft:glowstone
+setblock ~14~10~5 minecraft:deepslate_brick_slab 0
+fill ~15~0~5 ~17~0~5 minecraft:deepslate_brick_stairs 2
+fill ~15~1~5 ~17~1~5 minecraft:fence 5
+fill ~15~4~5 ~17~4~5 minecraft:log 1
+fill ~15~5~5 ~17~5~5 minecraft:fence 5
+setblock ~15~9~5 minecraft:jungle_trapdoor 0
+setblock ~16~3~5 minecraft:lantern 1
+setblock ~17~9~5 minecraft:jungle_trapdoor 1
+fill ~18~0~5 ~18~5~5 minecraft:log 1
+setblock ~18~6~5 minecraft:deepslate_brick_wall 0
+setblock ~18~7~5 minecraft:fence 5
+setblock ~18~8~5 minecraft:deepslate_brick_wall 0
+setblock ~18~9~5 minecraft:glowstone
+setblock ~18~10~5 minecraft:deepslate_brick_slab 0
+fill ~19~0~5 ~21~0~5 minecraft:deepslate_brick_stairs 2
+fill ~19~1~5 ~21~1~5 minecraft:fence 5
+fill ~19~4~5 ~21~4~5 minecraft:log 1
+fill ~19~5~5 ~21~5~5 minecraft:fence 5
+setblock ~19~9~5 minecraft:jungle_trapdoor 0
+setblock ~20~3~5 minecraft:lantern 1
+setblock ~21~9~5 minecraft:jungle_trapdoor 1
+fill ~22~1~5 ~22~3~5 minecraft:log 1
+setblock ~22~5~5 minecraft:log 1
+setblock ~22~6~5 minecraft:deepslate_brick_wall 0
+setblock ~22~7~5 minecraft:fence 5
+setblock ~22~8~5 minecraft:deepslate_brick_wall 0
+setblock ~22~9~5 minecraft:glowstone
+setblock ~22~10~5 minecraft:deepslate_brick_slab 0
+fill ~23~4~5 ~25~4~5 minecraft:log 1
+setblock ~23~9~5 minecraft:jungle_trapdoor 0
+setblock ~25~9~5 minecraft:jungle_trapdoor 1
+fill ~26~1~5 ~26~3~5 minecraft:log 1
+setblock ~26~5~5 minecraft:log 1
+setblock ~26~6~5 minecraft:deepslate_brick_wall 0
+setblock ~26~7~5 minecraft:fence 5
+setblock ~26~8~5 minecraft:deepslate_brick_wall 0
+setblock ~26~9~5 minecraft:glowstone
+setblock ~26~10~5 minecraft:deepslate_brick_slab 0
+setblock ~27~0~5 minecraft:deepslate_brick_wall 0
+setblock ~27~1~5 minecraft:fence 5
+setblock ~27~2~5 minecraft:deepslate_brick_wall 0
+fill ~27~3~5 ~29~3~5 minecraft:log 1
+fill ~27~4~5 ~29~4~5 minecraft:glowstone
+fill ~27~5~5 ~29~5~5 minecraft:leaves 0
+setblock ~27~9~5 minecraft:jungle_trapdoor 0
+setblock ~28~2~5 minecraft:dark_oak_stairs 2
+setblock ~29~0~5 minecraft:deepslate_brick_wall 0
+setblock ~29~1~5 minecraft:fence 5
+setblock ~29~2~5 minecraft:deepslate_brick_wall 0
+setblock ~29~9~5 minecraft:jungle_trapdoor 1
+fill ~30~1~5 ~30~3~5 minecraft:log 1
+setblock ~30~5~5 minecraft:log 1
+setblock ~30~6~5 minecraft:deepslate_brick_wall 0
+setblock ~30~7~5 minecraft:fence 5
+setblock ~30~8~5 minecraft:deepslate_brick_wall 0
+setblock ~30~9~5 minecraft:glowstone
+setblock ~30~10~5 minecraft:deepslate_brick_slab 0
+fill ~31~4~5 ~33~4~5 minecraft:log 1
+setblock ~31~9~5 minecraft:jungle_trapdoor 0
+setblock ~33~9~5 minecraft:jungle_trapdoor 1
+fill ~34~1~5 ~34~3~5 minecraft:log 1
+setblock ~34~5~5 minecraft:log 1
+setblock ~34~6~5 minecraft:deepslate_brick_wall 0
+setblock ~34~7~5 minecraft:fence 5
+setblock ~34~8~5 minecraft:deepslate_brick_wall 0
+setblock ~34~9~5 minecraft:glowstone
+setblock ~34~10~5 minecraft:deepslate_brick_slab 0
+fill ~35~0~5 ~37~0~5 minecraft:deepslate_brick_stairs 2
+fill ~35~1~5 ~37~1~5 minecraft:fence 5
+fill ~35~4~5 ~37~4~5 minecraft:log 1
+fill ~35~5~5 ~37~5~5 minecraft:fence 5
+setblock ~35~9~5 minecraft:jungle_trapdoor 0
+setblock ~36~3~5 minecraft:lantern 1
+setblock ~37~9~5 minecraft:jungle_trapdoor 1
+fill ~38~0~5 ~38~5~5 minecraft:log 1
+setblock ~38~6~5 minecraft:deepslate_brick_wall 0
+setblock ~38~7~5 minecraft:fence 5
+setblock ~38~8~5 minecraft:deepslate_brick_wall 0
+setblock ~38~9~5 minecraft:glowstone
+setblock ~38~10~5 minecraft:deepslate_brick_slab 0
+fill ~39~0~5 ~41~0~5 minecraft:deepslate_brick_stairs 2
+fill ~39~1~5 ~41~1~5 minecraft:fence 5
+fill ~39~4~5 ~41~4~5 minecraft:log 1
+fill ~39~5~5 ~41~5~5 minecraft:fence 5
+setblock ~39~9~5 minecraft:jungle_trapdoor 0
+setblock ~40~3~5 minecraft:lantern 1
+setblock ~41~9~5 minecraft:jungle_trapdoor 1
+fill ~42~0~5 ~42~5~5 minecraft:log 1
+setblock ~42~6~5 minecraft:deepslate_brick_wall 0
+setblock ~42~7~5 minecraft:fence 5
+setblock ~42~8~5 minecraft:deepslate_brick_wall 0
+setblock ~42~9~5 minecraft:glowstone
+setblock ~42~10~5 minecraft:deepslate_brick_slab 0
+fill ~43~0~5 ~45~0~5 minecraft:deepslate_brick_stairs 2
+fill ~43~1~5 ~45~1~5 minecraft:fence 5
+fill ~43~4~5 ~45~4~5 minecraft:log 1
+fill ~43~5~5 ~45~5~5 minecraft:fence 5
+setblock ~43~9~5 minecraft:jungle_trapdoor 0
+setblock ~44~3~5 minecraft:lantern 1
+setblock ~45~9~5 minecraft:jungle_trapdoor 1
+setblock ~45~15~5 minecraft:deepslate_brick_stairs 7
+setblock ~45~16~5 minecraft:deepslate_brick_stairs 2
+fill ~46~0~5 ~46~15~5 minecraft:log 1
+fill ~46~16~5 ~50~16~5 minecraft:dark_oak_stairs 2
+fill ~47~0~5 ~49~0~5 minecraft:deepslate_brick_stairs 2
+fill ~47~1~5 ~49~1~5 minecraft:fence 5
+fill ~47~4~5 ~49~4~5 minecraft:log 1
+fill ~47~5~5 ~49~5~5 minecraft:fence 5
+fill ~47~9~5 ~49~9~5 minecraft:log 1
+fill ~47~10~5 ~49~10~5 minecraft:fence 5
+fill ~47~14~5 ~49~14~5 minecraft:jungle_fence_gate 0
+fill ~47~15~5 ~49~15~5 minecraft:log 1
+setblock ~48~3~5 minecraft:lantern 1
+fill ~50~0~5 ~50~15~5 minecraft:log 1
+setblock ~51~0~5 minecraft:jungle_stairs 5
+setblock ~51~1~5 minecraft:deepslate_brick_wall 0
+setblock ~51~2~5 minecraft:fence 5
+setblock ~51~3~5 minecraft:deepslate_brick_wall 0
+setblock ~51~4~5 minecraft:jungle_stairs 1
+setblock ~51~9~5 minecraft:jungle_trapdoor 0
+setblock ~51~15~5 minecraft:deepslate_brick_stairs 7
+setblock ~51~16~5 minecraft:deepslate_brick_stairs 2
+fill ~5~9~6 ~5~9~8 minecraft:spruce_wall_sign 4
+fill ~5~15~6 ~5~15~8 minecraft:dark_oak_stairs 4
+setblock ~5~16~6 minecraft:deepslate_brick_stairs 7
+setblock ~5~17~6 minecraft:deepslate_brick_stairs 2
+fill ~6~0~6 ~6~0~8 minecraft:deepslate_brick_stairs 0
+fill ~6~1~6 ~6~1~8 minecraft:fence 5
+fill ~6~4~6 ~6~4~8 minecraft:log 1
+fill ~6~5~6 ~6~5~8 minecraft:fence 5
+fill ~6~9~6 ~6~9~8 minecraft:log 1
+fill ~6~10~6 ~6~10~8 minecraft:fence 5
+fill ~6~14~6 ~6~14~8 minecraft:jungle_fence_gate 1
+fill ~6~15~6 ~6~15~8 minecraft:log 1
+setblock ~6~16~6 minecraft:log 1
+fill ~6~17~6 ~10~17~6 minecraft:dark_oak_stairs 2
+fill ~7~4~6 ~21~4~8 minecraft:planks 1
+fill ~7~9~6 ~9~9~8 minecraft:planks 1
+fill ~8~0~6 ~16~2~6 minecraft:reeds 0
+setblock ~8~8~6 minecraft:jungle_trapdoor 3
+fill ~10~9~6 ~10~9~8 minecraft:log 1
+fill ~10~10~6 ~10~10~8 minecraft:fence 5
+fill ~10~14~6 ~10~14~8 minecraft:jungle_fence_gate 1
+fill ~10~15~6 ~10~15~8 minecraft:log 1
+setblock ~10~16~6 minecraft:log 1
+fill ~11~9~6 ~11~9~8 minecraft:spruce_wall_sign 5
+fill ~11~15~6 ~11~15~8 minecraft:dark_oak_stairs 5
+setblock ~11~16~6 minecraft:deepslate_brick_stairs 7
+setblock ~11~17~6 minecraft:deepslate_brick_stairs 2
+setblock ~14~9~6 minecraft:jungle_trapdoor 2
+setblock ~18~0~6 minecraft:fence 5
+setblock ~18~9~6 minecraft:jungle_trapdoor 2
+setblock ~19~0~6 minecraft:barrel 3
+setblock ~20~0~6 minecraft:chest 3
+setblock ~21~0~6 minecraft:barrel 3
+fill ~22~0~6 ~23~3~6 minecraft:planks 1
+fill ~22~4~6 ~22~4~8 minecraft:log 1
+setblock ~22~9~6 minecraft:jungle_trapdoor 2
+fill ~23~4~6 ~33~4~8 minecraft:planks 1
+setblock ~24~0~6 minecraft:dark_oak_door 1
+fill ~24~2~6 ~26~3~6 minecraft:planks 1
+fill ~25~0~6 ~26~1~6 minecraft:planks 1
+fill ~26~5~6 ~27~5~6 minecraft:smoker 3
+setblock ~26~9~6 minecraft:jungle_trapdoor 2
+fill ~27~0~6 ~27~3~6 minecraft:stripped_spruce_log 0
+setblock ~28~0~6 minecraft:dark_oak_door 3
+setblock ~28~2~6 minecraft:stripped_spruce_log 1
+setblock ~28~3~6 minecraft:lantern 0
+setblock ~28~5~6 minecraft:crafting_table
+fill ~29~0~6 ~29~3~6 minecraft:stripped_spruce_log 0
+fill ~29~5~6 ~30~5~6 minecraft:blast_furnace 3
+fill ~30~0~6 ~31~3~6 minecraft:planks 1
+setblock ~30~9~6 minecraft:jungle_trapdoor 2
+setblock ~32~0~6 minecraft:dark_oak_door 1
+fill ~32~2~6 ~34~3~6 minecraft:planks 1
+fill ~33~0~6 ~34~1~6 minecraft:planks 1
+fill ~34~4~6 ~34~4~8 minecraft:log 1
+setblock ~34~9~6 minecraft:jungle_trapdoor 2
+setblock ~35~0~6 minecraft:barrel 3
+fill ~35~4~6 ~49~4~8 minecraft:planks 1
+setblock ~36~0~6 minecraft:chest 3
+setblock ~37~0~6 minecraft:barrel 3
+setblock ~38~0~6 minecraft:fence 5
+setblock ~38~9~6 minecraft:jungle_trapdoor 2
+fill ~40~0~6 ~41~0~6 minecraft:reeds 0
+fill ~42~0~6 ~43~0~6 minecraft:reeds 1
+setblock ~42~9~6 minecraft:jungle_trapdoor 2
+setblock ~44~0~6 minecraft:reeds 0
+setblock ~45~0~6 minecraft:reeds 2
+fill ~45~9~6 ~45~9~8 minecraft:spruce_wall_sign 4
+fill ~45~15~6 ~45~15~8 minecraft:dark_oak_stairs 4
+setblock ~45~16~6 minecraft:deepslate_brick_stairs 7
+setblock ~45~17~6 minecraft:deepslate_brick_stairs 2
+setblock ~46~0~6 minecraft:reeds 3
+fill ~46~9~6 ~46~9~8 minecraft:log 1
+fill ~46~10~6 ~46~10~8 minecraft:fence 5
+fill ~46~14~6 ~46~14~8 minecraft:jungle_fence_gate 3
+fill ~46~15~6 ~46~15~8 minecraft:log 1
+setblock ~46~16~6 minecraft:log 1
+fill ~46~17~6 ~50~17~6 minecraft:dark_oak_stairs 2
+setblock ~47~0~6 minecraft:reeds 0
+setblock ~47~1~6 minecraft:reeds 1
+fill ~47~9~6 ~49~9~8 minecraft:planks 1
+setblock ~48~0~6 minecraft:reeds 2
+setblock ~48~8~6 minecraft:jungle_trapdoor 3
+fill ~50~0~6 ~50~0~8 minecraft:deepslate_brick_stairs 1
+fill ~50~1~6 ~50~1~8 minecraft:fence 5
+fill ~50~4~6 ~50~4~8 minecraft:log 1
+fill ~50~5~6 ~50~5~8 minecraft:fence 5
+fill ~50~9~6 ~50~9~8 minecraft:log 1
+fill ~50~10~6 ~50~10~8 minecraft:fence 5
+fill ~50~14~6 ~50~14~8 minecraft:jungle_fence_gate 1
+fill ~50~15~6 ~50~15~8 minecraft:log 1
+setblock ~50~16~6 minecraft:log 1
+fill ~51~9~6 ~51~9~8 minecraft:spruce_wall_sign 5
+fill ~51~15~6 ~51~15~8 minecraft:dark_oak_stairs 5
+setblock ~51~16~6 minecraft:deepslate_brick_stairs 7
+setblock ~51~17~6 minecraft:deepslate_brick_stairs 2
+setblock ~4~17~7 minecraft:lantern 1
+setblock ~4~18~7 minecraft:deepslate_brick_slab 0
+setblock ~5~17~7 minecraft:deepslate_brick_slab 0
+setblock ~5~18~7 minecraft:deepslate_brick_double_slab 0
+setblock ~6~3~7 minecraft:lantern 1
+setblock ~6~16~7 minecraft:fence 3
+setblock ~6~17~7 minecraft:deepslate_brick_wall
+setblock ~6~18~7 minecraft:deepslate_brick_slab 0
+fill ~7~0~7 ~7~2~15 minecraft:reeds 0
+setblock ~7~8~7 minecraft:jungle_trapdoor 1
+setblock ~7~18~7 minecraft:deepslate_brick_double_slab 0
+setblock ~8~7~7 minecraft:jungle_trapdoor 0
+setblock ~8~8~7 minecraft:glowstone
+setblock ~8~15~7 minecraft:lantern 1
+setblock ~8~16~7 minecraft:deepslate_brick_wall 0
+setblock ~8~17~7 minecraft:log 1
+setblock ~8~18~7 minecraft:deepslate_brick_slab 0
+setblock ~9~8~7 minecraft:jungle_trapdoor 0
+setblock ~9~18~7 minecraft:deepslate_brick_double_slab 0
+setblock ~10~16~7 minecraft:fence 3
+setblock ~10~17~7 minecraft:deepslate_brick_wall
+setblock ~10~18~7 minecraft:deepslate_brick_slab 0
+setblock ~11~17~7 minecraft:deepslate_brick_slab 0
+setblock ~11~18~7 minecraft:deepslate_brick_double_slab 0
+setblock ~12~17~7 minecraft:lantern 1
+setblock ~12~18~7 minecraft:deepslate_brick_slab 0
+setblock ~18~0~7 minecraft:dark_oak_fence_gate 1
+setblock ~22~0~7 minecraft:dark_oak_door 2
+fill ~22~2~7 ~22~3~8 minecraft:planks 1
+fill ~23~2~7 ~25~2~7 minecraft:spruce_trapdoor 2
+fill ~23~3~7 ~24~3~7 minecraft:flower_pot
+setblock ~26~0~7 minecraft:flower_pot
+fill ~26~1~7 ~26~2~7 minecraft:leaves 0
+fill ~27~0~7 ~27~1~7 minecraft:fence 5
+fill ~27~2~7 ~29~2~7 minecraft:dark_oak_stairs 3
+setblock ~28~3~7 minecraft:jungle_trapdoor 2
+fill ~29~0~7 ~29~1~7 minecraft:fence 5
+setblock ~30~0~7 minecraft:flower_pot
+fill ~30~1~7 ~30~2~7 minecraft:leaves 0
+fill ~31~2~7 ~33~2~7 minecraft:spruce_trapdoor 2
+fill ~32~3~7 ~33~3~7 minecraft:flower_pot
+setblock ~34~0~7 minecraft:dark_oak_door 0
+fill ~34~2~7 ~34~3~8 minecraft:planks 1
+setblock ~38~0~7 minecraft:dark_oak_fence_gate 3
+setblock ~44~17~7 minecraft:lantern 1
+setblock ~44~18~7 minecraft:deepslate_brick_slab 0
+setblock ~45~17~7 minecraft:deepslate_brick_slab 0
+setblock ~45~18~7 minecraft:deepslate_brick_double_slab 0
+setblock ~46~16~7 minecraft:fence 3
+setblock ~46~17~7 minecraft:deepslate_brick_wall
+setblock ~46~18~7 minecraft:deepslate_brick_slab 0
+setblock ~47~8~7 minecraft:jungle_trapdoor 1
+setblock ~47~18~7 minecraft:deepslate_brick_double_slab 0
+setblock ~48~7~7 minecraft:jungle_trapdoor 1
+setblock ~48~8~7 minecraft:glowstone
+setblock ~48~15~7 minecraft:lantern 1
+setblock ~48~16~7 minecraft:deepslate_brick_wall 0
+setblock ~48~17~7 minecraft:log 1
+setblock ~48~18~7 minecraft:deepslate_brick_slab 0
+setblock ~49~0~7 minecraft:reeds 0
+setblock ~49~8~7 minecraft:jungle_trapdoor 0
+setblock ~49~18~7 minecraft:deepslate_brick_double_slab 0
+setblock ~50~3~7 minecraft:lantern 1
+setblock ~50~16~7 minecraft:fence 3
+setblock ~50~17~7 minecraft:deepslate_brick_wall
+setblock ~50~18~7 minecraft:deepslate_brick_slab 0
+setblock ~51~17~7 minecraft:deepslate_brick_slab 0
+setblock ~51~18~7 minecraft:deepslate_brick_double_slab 0
+setblock ~52~17~7 minecraft:lantern 1
+setblock ~52~18~7 minecraft:deepslate_brick_slab 0
+setblock ~5~16~8 minecraft:deepslate_brick_stairs 6
+setblock ~5~17~8 minecraft:deepslate_brick_stairs 3
+setblock ~6~16~8 minecraft:log 1
+fill ~6~17~8 ~10~17~8 minecraft:dark_oak_stairs 3
+setblock ~8~8~8 minecraft:jungle_trapdoor 2
+fill ~9~0~8 ~16~2~8 minecraft:reeds 0
+setblock ~10~16~8 minecraft:log 1
+setblock ~11~16~8 minecraft:deepslate_brick_stairs 6
+setblock ~11~17~8 minecraft:deepslate_brick_stairs 3
+setblock ~18~0~8 minecraft:fence 5
+fill ~22~0~8 ~22~1~8 minecraft:planks 1
+fill ~34~0~8 ~34~1~8 minecraft:planks 1
+setblock ~38~0~8 minecraft:fence 5
+setblock ~40~0~8 minecraft:reeds 1
+fill ~41~0~8 ~42~0~8 minecraft:reeds 0
+setblock ~43~0~8 minecraft:reeds 1
+setblock ~44~0~8 minecraft:reeds 0
+setblock ~45~0~8 minecraft:reeds 4
+setblock ~45~16~8 minecraft:deepslate_brick_stairs 6
+setblock ~45~17~8 minecraft:deepslate_brick_stairs 3
+setblock ~46~0~8 minecraft:reeds 2
+setblock ~46~16~8 minecraft:log 1
+fill ~46~17~8 ~50~17~8 minecraft:dark_oak_stairs 3
+setblock ~47~0~8 minecraft:reeds 3
+setblock ~48~8~8 minecraft:jungle_trapdoor 2
+setblock ~49~0~8 minecraft:reeds 3
+setblock ~50~16~8 minecraft:log 1
+setblock ~51~16~8 minecraft:deepslate_brick_stairs 6
+setblock ~51~17~8 minecraft:deepslate_brick_stairs 3
+setblock ~5~0~9 minecraft:jungle_stairs 4
+setblock ~5~1~9 minecraft:deepslate_brick_wall 0
+setblock ~5~2~9 minecraft:fence 5
+setblock ~5~3~9 minecraft:deepslate_brick_wall 0
+setblock ~5~4~9 minecraft:jungle_stairs 0
+setblock ~5~9~9 minecraft:jungle_trapdoor 1
+setblock ~5~15~9 minecraft:deepslate_brick_stairs 6
+setblock ~5~16~9 minecraft:deepslate_brick_stairs 3
+fill ~6~0~9 ~6~15~9 minecraft:log 1
+fill ~6~16~9 ~10~16~9 minecraft:dark_oak_stairs 3
+fill ~7~4~9 ~9~4~20 minecraft:planks 1
+fill ~7~9~9 ~9~9~9 minecraft:log 1
+fill ~7~10~9 ~9~10~9 minecraft:fence 5
+fill ~7~14~9 ~9~14~9 minecraft:jungle_fence_gate 0
+fill ~7~15~9 ~9~15~9 minecraft:log 1
+fill ~9~0~9 ~9~2~15 minecraft:reeds 0
+fill ~10~0~9 ~10~15~9 minecraft:log 1
+fill ~11~0~9 ~13~0~9 minecraft:fence 5
+fill ~11~4~9 ~13~4~9 minecraft:log 1
+fill ~11~5~9 ~13~5~9 minecraft:fence 5
+setblock ~11~9~9 minecraft:jungle_trapdoor 0
+setblock ~11~13~9 minecraft:spruce_fence_gate 2
+fill ~11~14~9 ~13~14~9 minecraft:dark_oak_trapdoor 0
+setblock ~11~15~9 minecraft:deepslate_brick_stairs 6
+setblock ~11~16~9 minecraft:deepslate_brick_stairs 3
+setblock ~12~3~9 minecraft:lantern 1
+setblock ~12~13~9 minecraft:grindstone 3
+setblock ~13~13~9 minecraft:spruce_fence_gate 2
+fill ~14~0~9 ~14~5~9 minecraft:log 1
+setblock ~14~6~9 minecraft:deepslate_brick_wall 0
+fill ~14~7~9 ~14~11~9 minecraft:fence 5
+setblock ~14~12~9 minecraft:deepslate_brick_wall 0
+setblock ~14~13~9 minecraft:log 1
+setblock ~14~14~9 minecraft:deepslate_brick_slab 0
+fill ~15~0~9 ~17~0~9 minecraft:fence 5
+fill ~15~4~9 ~17~4~9 minecraft:log 1
+fill ~15~5~9 ~17~5~9 minecraft:fence 5
+setblock ~15~13~9 minecraft:spruce_fence_gate 2
+fill ~15~14~9 ~17~14~9 minecraft:dark_oak_trapdoor 0
+setblock ~16~3~9 minecraft:lantern 1
+setblock ~16~13~9 minecraft:grindstone 3
+setblock ~17~13~9 minecraft:spruce_fence_gate 2
+fill ~18~0~9 ~18~5~9 minecraft:log 1
+setblock ~18~6~9 minecraft:deepslate_brick_wall 0
+fill ~18~7~9 ~18~11~9 minecraft:fence 5
+setblock ~18~12~9 minecraft:deepslate_brick_wall 0
+setblock ~18~13~9 minecraft:log 1
+setblock ~18~14~9 minecraft:deepslate_brick_slab 0
+setblock ~19~0~9 minecraft:fence 5
+fill ~19~4~9 ~21~4~9 minecraft:log 1
+fill ~19~5~9 ~21~5~9 minecraft:fence 5
+setblock ~19~13~9 minecraft:spruce_fence_gate 2
+fill ~19~14~9 ~21~14~9 minecraft:dark_oak_trapdoor 0
+setblock ~20~0~9 minecraft:dark_oak_fence_gate 0
+setblock ~20~3~9 minecraft:lantern 1
+setblock ~20~13~9 minecraft:grindstone 3
+setblock ~21~0~9 minecraft:fence 5
+setblock ~21~13~9 minecraft:spruce_fence_gate 2
+fill ~22~0~9 ~22~6~9 minecraft:log 1
+setblock ~22~7~9 minecraft:deepslate_brick_wall 0
+fill ~22~8~9 ~22~11~9 minecraft:fence 5
+setblock ~22~12~9 minecraft:deepslate_brick_wall 0
+setblock ~22~13~9 minecraft:log 1
+setblock ~22~14~9 minecraft:deepslate_brick_slab 0
+fill ~23~0~9 ~23~0~10 minecraft:chest 5
+fill ~23~4~9 ~33~4~9 minecraft:log 1
+setblock ~26~3~9 minecraft:lantern 1
+setblock ~30~3~9 minecraft:lantern 1
+fill ~33~0~9 ~33~0~10 minecraft:chest 4
+fill ~34~0~9 ~34~6~9 minecraft:log 1
+setblock ~34~7~9 minecraft:deepslate_brick_wall 0
+fill ~34~8~9 ~34~11~9 minecraft:fence 5
+setblock ~34~12~9 minecraft:deepslate_brick_wall 0
+setblock ~34~13~9 minecraft:log 1
+setblock ~34~14~9 minecraft:deepslate_brick_slab 0
+setblock ~35~0~9 minecraft:fence 5
+fill ~35~4~9 ~37~4~9 minecraft:log 1
+fill ~35~5~9 ~37~5~9 minecraft:fence 5
+setblock ~35~13~9 minecraft:spruce_fence_gate 0
+fill ~35~14~9 ~37~14~9 minecraft:dark_oak_trapdoor 0
+setblock ~36~0~9 minecraft:dark_oak_fence_gate 0
+setblock ~36~3~9 minecraft:lantern 1
+setblock ~36~13~9 minecraft:grindstone 1
+setblock ~37~0~9 minecraft:fence 5
+setblock ~37~13~9 minecraft:spruce_fence_gate 0
+fill ~38~0~9 ~38~5~9 minecraft:log 1
+setblock ~38~6~9 minecraft:deepslate_brick_wall 0
+fill ~38~7~9 ~38~11~9 minecraft:fence 5
+setblock ~38~12~9 minecraft:deepslate_brick_wall 0
+setblock ~38~13~9 minecraft:log 1
+setblock ~38~14~9 minecraft:deepslate_brick_slab 0
+fill ~39~0~9 ~41~0~9 minecraft:fence 5
+fill ~39~4~9 ~41~4~9 minecraft:log 1
+fill ~39~5~9 ~41~5~9 minecraft:fence 5
+setblock ~39~13~9 minecraft:spruce_fence_gate 0
+fill ~39~14~9 ~41~14~9 minecraft:dark_oak_trapdoor 0
+setblock ~40~3~9 minecraft:lantern 1
+setblock ~40~13~9 minecraft:grindstone 1
+setblock ~41~13~9 minecraft:spruce_fence_gate 0
+fill ~42~0~9 ~42~5~9 minecraft:log 1
+setblock ~42~6~9 minecraft:deepslate_brick_wall 0
+fill ~42~7~9 ~42~11~9 minecraft:fence 5
+setblock ~42~12~9 minecraft:deepslate_brick_wall 0
+setblock ~42~13~9 minecraft:log 1
+setblock ~42~14~9 minecraft:deepslate_brick_slab 0
+fill ~43~0~9 ~45~0~9 minecraft:fence 5
+fill ~43~4~9 ~45~4~9 minecraft:log 1
+fill ~43~5~9 ~45~5~9 minecraft:fence 5
+setblock ~43~13~9 minecraft:spruce_fence_gate 0
+fill ~43~14~9 ~45~14~9 minecraft:dark_oak_trapdoor 1
+setblock ~44~3~9 minecraft:lantern 1
+setblock ~44~13~9 minecraft:grindstone 1
+setblock ~45~9~9 minecraft:jungle_trapdoor 1
+setblock ~45~13~9 minecraft:spruce_fence_gate 0
+setblock ~45~15~9 minecraft:deepslate_brick_stairs 6
+setblock ~45~16~9 minecraft:deepslate_brick_stairs 3
+fill ~46~0~9 ~46~15~9 minecraft:log 1
+fill ~46~16~9 ~50~16~9 minecraft:dark_oak_stairs 3
+setblock ~47~0~9 minecraft:reeds 2
+fill ~47~4~9 ~49~4~20 minecraft:planks 1
+fill ~47~9~9 ~49~9~9 minecraft:log 1
+fill ~47~10~9 ~49~10~9 minecraft:fence 5
+fill ~47~14~9 ~49~14~9 minecraft:jungle_fence_gate 2
+fill ~47~15~9 ~49~15~9 minecraft:log 1
+fill ~49~0~9 ~49~0~10 minecraft:reeds 2
+fill ~50~0~9 ~50~15~9 minecraft:log 1
+setblock ~51~0~9 minecraft:jungle_stairs 5
+setblock ~51~1~9 minecraft:deepslate_brick_wall 0
+setblock ~51~2~9 minecraft:fence 5
+setblock ~51~3~9 minecraft:deepslate_brick_wall 0
+setblock ~51~4~9 minecraft:jungle_stairs 1
+setblock ~51~9~9 minecraft:jungle_trapdoor 0
+setblock ~51~15~9 minecraft:deepslate_brick_stairs 6
+setblock ~51~16~9 minecraft:deepslate_brick_stairs 3
+fill ~5~15~10 ~11~15~10 minecraft:deepslate_brick_stairs 3
+fill ~6~0~10 ~6~0~12 minecraft:deepslate_brick_stairs 0
+fill ~6~1~10 ~6~1~12 minecraft:fence 5
+fill ~6~4~10 ~6~4~12 minecraft:log 1
+fill ~6~5~10 ~6~5~12 minecraft:fence 5
+setblock ~6~9~10 minecraft:jungle_trapdoor 2
+fill ~7~9~10 ~9~9~10 minecraft:spruce_wall_sign 3
+fill ~10~0~10 ~10~0~12 minecraft:fence 5
+fill ~10~4~10 ~10~4~12 minecraft:log 1
+fill ~10~5~10 ~10~5~12 minecraft:fence 5
+setblock ~10~9~10 minecraft:jungle_trapdoor 2
+setblock ~10~13~10 minecraft:spruce_fence_gate 1
+fill ~10~14~10 ~10~14~12 minecraft:dark_oak_trapdoor 3
+fill ~11~0~10 ~11~0~12 minecraft:spruce_stairs 1
+fill ~12~0~10 ~13~0~10 minecraft:spruce_stairs 3
+setblock ~15~0~10 minecraft:barrel 1
+setblock ~16~0~10 minecraft:chest 3
+setblock ~17~0~10 minecraft:barrel 1
+fill ~21~0~10 ~21~0~12 minecraft:dark_oak_stairs 4
+fill ~21~3~10 ~21~3~12 minecraft:dark_oak_stairs 0
+fill ~22~0~10 ~22~0~12 minecraft:planks 1
+fill ~22~1~10 ~22~2~12 minecraft:glass_pane
+fill ~22~3~10 ~22~3~12 minecraft:planks 1
+fill ~22~4~10 ~22~4~12 minecraft:log 1
+fill ~22~5~10 ~22~5~12 minecraft:deepslate_brick_stairs 0
+fill ~22~6~10 ~22~6~12 minecraft:fence 1
+setblock ~22~13~10 minecraft:spruce_fence_gate 3
+fill ~22~14~10 ~22~14~12 minecraft:dark_oak_trapdoor 2
+fill ~23~4~10 ~33~4~20 minecraft:planks 1
+fill ~23~5~10 ~23~5~12 minecraft:barrel 5
+setblock ~23~6~10 minecraft:barrel 5
+fill ~24~5~10 ~24~5~12 minecraft:barrel 1
+setblock ~24~6~10 minecraft:lantern 0
+fill ~32~5~10 ~32~5~11 minecraft:barrel 4
+setblock ~33~5~10 minecraft:barrel 1
+fill ~34~0~10 ~34~0~12 minecraft:planks 1
+fill ~34~1~10 ~34~2~12 minecraft:glass_pane
+fill ~34~3~10 ~34~3~12 minecraft:planks 1
+fill ~34~4~10 ~34~4~12 minecraft:log 1
+fill ~34~5~10 ~34~5~12 minecraft:deepslate_brick_stairs 1
+fill ~34~6~10 ~34~6~12 minecraft:fence 1
+setblock ~34~13~10 minecraft:spruce_fence_gate 1
+fill ~34~14~10 ~34~14~12 minecraft:dark_oak_trapdoor 2
+fill ~35~0~10 ~35~0~12 minecraft:dark_oak_stairs 5
+fill ~35~3~10 ~35~3~12 minecraft:dark_oak_stairs 1
+setblock ~39~0~10 minecraft:barrel 1
+setblock ~40~0~10 minecraft:chest 3
+setblock ~41~0~10 minecraft:barrel 1
+fill ~43~0~10 ~45~0~10 minecraft:spruce_stairs 3
+setblock ~45~14~10 minecraft:lantern 1
+fill ~45~15~10 ~51~15~10 minecraft:deepslate_brick_stairs 3
+fill ~46~0~10 ~46~0~12 minecraft:fence 5
+fill ~46~4~10 ~46~4~12 minecraft:log 1
+fill ~46~5~10 ~46~5~12 minecraft:fence 5
+setblock ~46~9~10 minecraft:jungle_trapdoor 2
+setblock ~46~13~10 minecraft:spruce_fence_gate 1
+fill ~46~14~10 ~46~14~12 minecraft:dark_oak_trapdoor 2
+setblock ~47~0~10 minecraft:reeds 0
+fill ~47~9~10 ~49~9~10 minecraft:spruce_wall_sign 3
+fill ~50~0~10 ~50~0~12 minecraft:deepslate_brick_stairs 1
+fill ~50~1~10 ~50~1~12 minecraft:fence 5
+fill ~50~4~10 ~50~4~12 minecraft:log 1
+fill ~50~5~10 ~50~5~12 minecraft:fence 5
+setblock ~50~9~10 minecraft:jungle_trapdoor 2
+setblock ~51~14~10 minecraft:lantern 1
+setblock ~6~3~11 minecraft:lantern 1
+setblock ~10~3~11 minecraft:lantern 1
+setblock ~10~13~11 minecraft:grindstone 2
+fill ~12~0~11 ~13~0~11 minecraft:fence 5
+fill ~12~1~11 ~13~1~11 minecraft:dark_oak_pressure_plate 0
+setblock ~21~2~11 minecraft:lantern 1
+setblock ~22~13~11 minecraft:grindstone 0
+setblock ~23~0~11 minecraft:smoker 5
+setblock ~23~2~11 minecraft:lantern 1
+fill ~23~3~11 ~23~3~12 minecraft:barrel 5
+setblock ~23~6~11 minecraft:barrel 1
+setblock ~23~7~11 minecraft:barrel 5
+setblock ~33~0~11 minecraft:smoker 4
+setblock ~33~2~11 minecraft:lantern 1
+fill ~33~3~11 ~33~3~12 minecraft:barrel 4
+fill ~33~5~11 ~33~5~12 minecraft:barrel 4
+fill ~33~6~11 ~33~6~12 minecraft:barrel 1
+setblock ~33~7~11 minecraft:lantern 0
+setblock ~34~13~11 minecraft:grindstone 2
+setblock ~35~2~11 minecraft:lantern 1
+fill ~43~0~11 ~44~0~11 minecraft:fence 5
+fill ~43~1~11 ~44~1~11 minecraft:dark_oak_pressure_plate 0
+fill ~45~0~11 ~45~0~12 minecraft:spruce_stairs 0
+setblock ~46~3~11 minecraft:lantern 1
+setblock ~46~13~11 minecraft:grindstone 0
+setblock ~47~0~11 minecraft:reeds 1
+setblock ~49~0~11 minecraft:reeds 0
+setblock ~50~3~11 minecraft:lantern 1
+setblock ~6~9~12 minecraft:jungle_trapdoor 3
+setblock ~10~13~12 minecraft:spruce_fence_gate 1
+setblock ~12~0~12 minecraft:fence 5
+setblock ~12~1~12 minecraft:dark_oak_pressure_plate 0
+setblock ~22~13~12 minecraft:spruce_fence_gate 3
+setblock ~23~0~12 minecraft:blast_furnace 5
+fill ~23~6~12 ~24~6~12 minecraft:barrel 5
+fill ~24~0~12 ~26~0~12 minecraft:spruce_trapdoor 3
+fill ~30~0~12 ~32~0~12 minecraft:spruce_trapdoor 3
+fill ~32~5~12 ~32~6~12 minecraft:barrel 1
+setblock ~33~0~12 minecraft:blast_furnace 4
+setblock ~33~7~12 minecraft:barrel 1
+setblock ~34~13~12 minecraft:spruce_fence_gate 1
+setblock ~44~0~12 minecraft:fence 5
+setblock ~44~1~12 minecraft:dark_oak_pressure_plate 0
+setblock ~46~13~12 minecraft:spruce_fence_gate 1
+setblock ~47~0~12 minecraft:reeds 0
+setblock ~47~1~12 minecraft:reeds 2
+setblock ~49~0~12 minecraft:reeds 1
+setblock ~50~9~12 minecraft:jungle_trapdoor 3
+setblock ~5~0~13 minecraft:jungle_stairs 4
+setblock ~5~1~13 minecraft:deepslate_brick_wall 0
+setblock ~5~2~13 minecraft:fence 5
+setblock ~5~3~13 minecraft:deepslate_brick_wall 0
+setblock ~5~4~13 minecraft:jungle_stairs 0
+setblock ~5~9~13 minecraft:jungle_trapdoor 1
+fill ~6~0~13 ~6~5~13 minecraft:log 1
+setblock ~6~6~13 minecraft:deepslate_brick_wall 0
+setblock ~6~7~13 minecraft:fence 5
+setblock ~6~8~13 minecraft:deepslate_brick_wall 0
+setblock ~6~9~13 minecraft:glowstone
+setblock ~6~10~13 minecraft:deepslate_brick_slab 0
+setblock ~7~9~13 minecraft:jungle_trapdoor 0
+fill ~10~0~13 ~10~5~13 minecraft:log 1
+setblock ~10~6~13 minecraft:deepslate_brick_wall 0
+fill ~10~7~13 ~10~11~13 minecraft:fence 5
+setblock ~10~12~13 minecraft:deepslate_brick_wall 0
+setblock ~10~13~13 minecraft:log 1
+setblock ~10~14~13 minecraft:deepslate_brick_slab 0
+fill ~14~0~13 ~14~0~17 minecraft:deepslate_brick_stairs 0
+fill ~15~0~13 ~17~0~13 minecraft:deepslate_brick_stairs 2
+fill ~18~0~13 ~18~0~16 minecraft:deepslate_brick_stairs 1
+setblock ~21~0~13 minecraft:deepslate_brick_wall 0
+fill ~21~1~13 ~21~2~13 minecraft:fence 5
+setblock ~21~3~13 minecraft:deepslate_brick_wall 0
+setblock ~21~4~13 minecraft:deepslate_brick_stairs 0
+fill ~22~0~13 ~22~7~13 minecraft:log 1
+setblock ~22~8~13 minecraft:deepslate_brick_wall 0
+fill ~22~9~13 ~22~11~13 minecraft:fence 5
+setblock ~22~12~13 minecraft:deepslate_brick_wall 0
+setblock ~22~13~13 minecraft:log 1
+setblock ~22~14~13 minecraft:deepslate_brick_slab 0
+setblock ~23~0~13 minecraft:planks 1
+setblock ~23~1~13 minecraft:spruce_trapdoor 3
+fill ~23~5~13 ~24~5~13 minecraft:deepslate_brick_stairs 2
+fill ~24~0~13 ~25~0~13 minecraft:glowstone
+fill ~24~1~13 ~25~1~13 minecraft:carpet 15
+setblock ~26~0~13 minecraft:planks 1
+setblock ~26~1~13 minecraft:spruce_trapdoor 3
+setblock ~26~3~13 minecraft:lantern 1
+fill ~27~0~13 ~27~0~14 minecraft:spruce_trapdoor 0
+fill ~29~0~13 ~29~0~16 minecraft:spruce_trapdoor 1
+setblock ~30~0~13 minecraft:planks 1
+setblock ~30~1~13 minecraft:spruce_trapdoor 3
+setblock ~30~3~13 minecraft:lantern 1
+fill ~31~0~13 ~32~0~13 minecraft:glowstone
+fill ~31~1~13 ~32~1~13 minecraft:carpet 15
+fill ~32~5~13 ~33~5~13 minecraft:deepslate_brick_stairs 2
+setblock ~33~0~13 minecraft:planks 1
+setblock ~33~1~13 minecraft:spruce_trapdoor 3
+fill ~34~0~13 ~34~7~13 minecraft:log 1
+setblock ~34~8~13 minecraft:deepslate_brick_wall 0
+fill ~34~9~13 ~34~11~13 minecraft:fence 5
+setblock ~34~12~13 minecraft:deepslate_brick_wall 0
+setblock ~34~13~13 minecraft:log 1
+setblock ~34~14~13 minecraft:deepslate_brick_slab 0
+setblock ~35~0~13 minecraft:deepslate_brick_wall 0
+fill ~35~1~13 ~35~2~13 minecraft:fence 5
+setblock ~35~3~13 minecraft:deepslate_brick_wall 0
+setblock ~35~4~13 minecraft:deepslate_brick_stairs 1
+fill ~38~0~13 ~38~0~17 minecraft:deepslate_brick_stairs 0
+fill ~39~0~13 ~41~0~13 minecraft:deepslate_brick_stairs 2
+fill ~42~0~13 ~42~0~17 minecraft:deepslate_brick_stairs 1
+fill ~46~0~13 ~46~5~13 minecraft:log 1
+setblock ~46~6~13 minecraft:deepslate_brick_wall 0
+fill ~46~7~13 ~46~11~13 minecraft:fence 5
+setblock ~46~12~13 minecraft:deepslate_brick_wall 0
+setblock ~46~13~13 minecraft:log 1
+setblock ~46~14~13 minecraft:deepslate_brick_slab 0
+setblock ~47~0~13 minecraft:reeds 1
+setblock ~49~0~13 minecraft:reeds 0
+setblock ~49~9~13 minecraft:jungle_trapdoor 1
+fill ~50~0~13 ~50~5~13 minecraft:log 1
+setblock ~50~6~13 minecraft:deepslate_brick_wall 0
+setblock ~50~7~13 minecraft:fence 5
+setblock ~50~8~13 minecraft:deepslate_brick_wall 0
+setblock ~50~9~13 minecraft:glowstone
+setblock ~50~10~13 minecraft:deepslate_brick_slab 0
+setblock ~51~0~13 minecraft:jungle_stairs 5
+setblock ~51~1~13 minecraft:deepslate_brick_wall 0
+setblock ~51~2~13 minecraft:fence 5
+setblock ~51~3~13 minecraft:deepslate_brick_wall 0
+setblock ~51~4~13 minecraft:jungle_stairs 1
+setblock ~51~9~13 minecraft:jungle_trapdoor 0
+fill ~6~0~14 ~6~0~16 minecraft:deepslate_brick_stairs 0
+fill ~6~1~14 ~6~1~16 minecraft:fence 5
+fill ~6~4~14 ~6~4~16 minecraft:log 1
+fill ~6~5~14 ~6~5~16 minecraft:fence 5
+setblock ~6~9~14 minecraft:jungle_trapdoor 2
+fill ~10~0~14 ~10~0~16 minecraft:fence 5
+fill ~10~4~14 ~10~4~16 minecraft:log 1
+fill ~10~5~14 ~10~5~16 minecraft:fence 5
+setblock ~10~13~14 minecraft:spruce_fence_gate 1
+fill ~10~14~14 ~10~14~16 minecraft:dark_oak_trapdoor 3
+setblock ~11~0~14 minecraft:barrel 1
+fill ~15~0~14 ~17~0~14 minecraft:grass
+fill ~15~1~14 ~17~9~14 minecraft:bamboo 2
+fill ~15~10~14 ~15~12~16 minecraft:bamboo 2
+fill ~15~13~14 ~15~13~16 minecraft:bamboo 2
+fill ~15~14~14 ~15~15~16 minecraft:bamboo 2
+fill ~16~10~14 ~17~10~14 minecraft:bamboo 2
+fill ~16~11~14 ~17~12~14 minecraft:bamboo 2
+fill ~21~0~14 ~21~0~16 minecraft:dark_oak_stairs 4
+fill ~21~3~14 ~21~3~16 minecraft:dark_oak_stairs 0
+fill ~21~5~14 ~21~5~16 minecraft:trapdoor 1
+fill ~22~0~14 ~22~0~16 minecraft:planks 1
+fill ~22~1~14 ~22~2~16 minecraft:glass_pane
+fill ~22~3~14 ~22~3~16 minecraft:planks 1
+fill ~22~4~14 ~22~4~16 minecraft:log 1
+fill ~22~5~14 ~22~5~16 minecraft:glowstone
+fill ~22~6~14 ~22~6~16 minecraft:deepslate_brick_stairs 0
+fill ~22~7~14 ~22~7~16 minecraft:fence 1
+setblock ~22~13~14 minecraft:spruce_fence_gate 3
+fill ~22~14~14 ~22~14~16 minecraft:dark_oak_trapdoor 2
+setblock ~23~0~14 minecraft:glowstone
+setblock ~23~1~14 minecraft:carpet 15
+fill ~23~5~14 ~23~5~16 minecraft:grass
+fill ~23~6~14 ~23~6~16 minecraft:sweet_berry_bush 3
+fill ~24~0~14 ~25~0~17 minecraft:planks 1
+fill ~24~5~14 ~24~5~16 minecraft:deepslate_brick_stairs 1
+setblock ~25~5~14 minecraft:dark_oak_stairs 7
+setblock ~25~6~14 minecraft:flower_pot
+setblock ~26~0~14 minecraft:glowstone
+setblock ~26~1~14 minecraft:carpet 15
+setblock ~30~0~14 minecraft:glowstone
+setblock ~30~1~14 minecraft:carpet 15
+fill ~31~0~14 ~32~0~17 minecraft:planks 1
+setblock ~31~5~14 minecraft:dark_oak_stairs 7
+setblock ~31~6~14 minecraft:flower_pot
+fill ~32~5~14 ~32~5~16 minecraft:deepslate_brick_stairs 0
+setblock ~33~0~14 minecraft:glowstone
+setblock ~33~1~14 minecraft:carpet 15
+fill ~33~5~14 ~33~5~16 minecraft:grass
+fill ~33~6~14 ~33~6~16 minecraft:sweet_berry_bush 3
+fill ~34~0~14 ~34~0~16 minecraft:planks 1
+fill ~34~1~14 ~34~2~16 minecraft:glass_pane
+fill ~34~3~14 ~34~3~16 minecraft:planks 1
+fill ~34~4~14 ~34~4~16 minecraft:log 1
+fill ~34~5~14 ~34~5~16 minecraft:glowstone
+fill ~34~6~14 ~34~6~16 minecraft:deepslate_brick_stairs 1
+fill ~34~7~14 ~34~7~16 minecraft:fence 1
+setblock ~34~13~14 minecraft:spruce_fence_gate 1
+fill ~34~14~14 ~34~14~16 minecraft:dark_oak_trapdoor 3
+fill ~35~0~14 ~35~0~16 minecraft:dark_oak_stairs 5
+fill ~35~3~14 ~35~3~16 minecraft:dark_oak_stairs 1
+fill ~35~5~14 ~35~5~16 minecraft:trapdoor 0
+fill ~39~0~14 ~41~0~14 minecraft:grass
+fill ~39~1~14 ~41~9~14 minecraft:bamboo 2
+setblock ~39~10~14 minecraft:bamboo 2
+fill ~39~11~14 ~39~12~14 minecraft:bamboo 2
+fill ~40~10~14 ~41~11~14 minecraft:bamboo 2
+setblock ~40~12~14 minecraft:bamboo 2
+fill ~40~13~14 ~40~14~14 minecraft:bamboo 2
+setblock ~41~12~14 minecraft:bamboo 2
+setblock ~41~13~14 minecraft:bamboo 2
+fill ~41~14~14 ~41~15~14 minecraft:bamboo 2
+setblock ~45~0~14 minecraft:barrel 1
+fill ~46~0~14 ~46~0~16 minecraft:fence 5
+fill ~46~4~14 ~46~4~16 minecraft:log 1
+fill ~46~5~14 ~46~5~16 minecraft:fence 5
+setblock ~46~13~14 minecraft:spruce_fence_gate 1
+fill ~46~14~14 ~46~14~16 minecraft:dark_oak_trapdoor 2
+setblock ~47~0~14 minecraft:reeds 3
+setblock ~49~0~14 minecraft:reeds 1
+fill ~50~0~14 ~50~0~16 minecraft:deepslate_brick_stairs 1
+fill ~50~1~14 ~50~1~16 minecraft:fence 5
+fill ~50~4~14 ~50~4~16 minecraft:log 1
+fill ~50~5~14 ~50~5~16 minecraft:fence 5
+setblock ~50~9~14 minecraft:jungle_trapdoor 2
+setblock ~6~3~15 minecraft:lantern 1
+setblock ~10~3~15 minecraft:lantern 1
+setblock ~10~13~15 minecraft:grindstone 2
+setblock ~11~0~15 minecraft:chest 5
+fill ~15~0~15 ~15~0~16 minecraft:grass
+fill ~15~1~15 ~15~9~16 minecraft:bamboo 2
+setblock ~16~0~15 minecraft:glowstone
+setblock ~16~1~15 minecraft:jungle_trapdoor 3
+fill ~17~0~15 ~17~0~16 minecraft:grass
+fill ~17~1~15 ~17~10~16 minecraft:bamboo 2
+setblock ~17~11~15 minecraft:bamboo 2
+fill ~17~12~15 ~17~13~15 minecraft:bamboo 2
+setblock ~21~2~15 minecraft:lantern 1
+fill ~23~0~15 ~23~0~17 minecraft:planks 1
+setblock ~23~1~15 minecraft:spruce_trapdoor 3
+fill ~24~1~15 ~25~1~15 minecraft:bed 0
+setblock ~25~5~15 minecraft:spruce_trapdoor 0
+fill ~25~6~15 ~25~6~16 minecraft:chest 5
+fill ~26~0~15 ~26~0~17 minecraft:planks 1
+setblock ~26~1~15 minecraft:spruce_trapdoor 3
+setblock ~27~0~15 minecraft:spruce_trapdoor 0
+fill ~30~0~15 ~30~0~17 minecraft:planks 1
+setblock ~30~1~15 minecraft:spruce_trapdoor 3
+fill ~31~1~15 ~32~1~15 minecraft:bed 0
+setblock ~31~5~15 minecraft:spruce_trapdoor 1
+fill ~31~6~15 ~31~6~16 minecraft:chest 4
+fill ~33~0~15 ~33~0~17 minecraft:planks 1
+setblock ~33~1~15 minecraft:spruce_trapdoor 3
+setblock ~34~13~15 minecraft:grindstone 2
+setblock ~35~2~15 minecraft:lantern 1
+fill ~39~0~15 ~39~0~16 minecraft:grass
+fill ~39~1~15 ~39~11~16 minecraft:bamboo 2
+setblock ~39~12~15 minecraft:bamboo 2
+setblock ~39~13~15 minecraft:bamboo 2
+fill ~39~14~15 ~39~14~16 minecraft:bamboo 2
+setblock ~39~15~15 minecraft:bamboo 2
+setblock ~40~0~15 minecraft:glowstone
+setblock ~40~1~15 minecraft:jungle_trapdoor 2
+fill ~41~0~15 ~41~0~16 minecraft:grass
+fill ~41~1~15 ~41~9~16 minecraft:bamboo 2
+setblock ~41~10~15 minecraft:bamboo 2
+fill ~41~11~15 ~41~12~15 minecraft:bamboo 2
+setblock ~45~0~15 minecraft:chest 4
+setblock ~46~3~15 minecraft:lantern 1
+setblock ~46~13~15 minecraft:grindstone 0
+setblock ~47~0~15 minecraft:reeds 0
+setblock ~49~0~15 minecraft:reeds 2
+setblock ~50~3~15 minecraft:lantern 1
+setblock ~6~9~16 minecraft:jungle_trapdoor 3
+setblock ~10~13~16 minecraft:spruce_fence_gate 1
+setblock ~11~0~16 minecraft:barrel 1
+setblock ~16~0~16 minecraft:grass
+fill ~16~1~16 ~16~13~16 minecraft:bamboo 2
+setblock ~16~14~16 minecraft:bamboo 2
+fill ~16~15~16 ~16~16~16 minecraft:bamboo 2
+setblock ~17~11~16 minecraft:bamboo 2
+setblock ~17~12~16 minecraft:bamboo 2
+fill ~17~13~16 ~17~14~16 minecraft:bamboo 2
+setblock ~22~13~16 minecraft:spruce_fence_gate 3
+fill ~23~1~16 ~26~1~16 minecraft:bookshelf
+setblock ~23~2~16 minecraft:lantern 0
+setblock ~25~5~16 minecraft:dark_oak_stairs 6
+setblock ~26~2~16 minecraft:lantern 0
+setblock ~26~5~16 minecraft:deepslate_brick_wall 0
+setblock ~26~6~16 minecraft:lantern 0
+setblock ~27~0~16 minecraft:spruce_trapdoor 0
+setblock ~28~3~16 minecraft:jungle_trapdoor 3
+fill ~30~1~16 ~33~1~16 minecraft:bookshelf
+setblock ~30~2~16 minecraft:lantern 0
+setblock ~30~5~16 minecraft:deepslate_brick_wall 0
+setblock ~30~6~16 minecraft:lantern 0
+setblock ~31~5~16 minecraft:dark_oak_stairs 6
+setblock ~33~2~16 minecraft:lantern 0
+setblock ~34~13~16 minecraft:spruce_fence_gate 1
+fill ~39~12~16 ~41~12~16 minecraft:bamboo 2
+fill ~39~13~16 ~41~13~16 minecraft:bamboo 2
+setblock ~40~0~16 minecraft:grass
+fill ~40~1~16 ~40~11~16 minecraft:bamboo 2
+fill ~40~14~16 ~41~14~16 minecraft:bamboo 2
+fill ~41~10~16 ~41~11~16 minecraft:bamboo 2
+setblock ~45~0~16 minecraft:barrel 1
+setblock ~46~13~16 minecraft:spruce_fence_gate 1
+setblock ~50~9~16 minecraft:jungle_trapdoor 3
+setblock ~5~0~17 minecraft:jungle_stairs 4
+setblock ~5~1~17 minecraft:deepslate_brick_wall 0
+setblock ~5~2~17 minecraft:fence 5
+setblock ~5~3~17 minecraft:deepslate_brick_wall 0
+setblock ~5~4~17 minecraft:jungle_stairs 0
+setblock ~5~9~17 minecraft:jungle_trapdoor 1
+fill ~6~0~17 ~6~5~17 minecraft:log 1
+setblock ~6~6~17 minecraft:deepslate_brick_wall 0
+setblock ~6~7~17 minecraft:fence 5
+setblock ~6~8~17 minecraft:deepslate_brick_wall 0
+setblock ~6~9~17 minecraft:glowstone
+setblock ~6~10~17 minecraft:deepslate_brick_slab 0
+setblock ~7~0~17 minecraft:fence 5
+setblock ~7~9~17 minecraft:jungle_trapdoor 0
+setblock ~8~0~17 minecraft:dark_oak_fence_gate 2
+setblock ~9~0~17 minecraft:fence 5
+fill ~10~0~17 ~10~5~17 minecraft:log 1
+setblock ~10~6~17 minecraft:deepslate_brick_wall 0
+fill ~10~7~17 ~10~11~17 minecraft:fence 5
+setblock ~10~12~17 minecraft:deepslate_brick_wall 0
+setblock ~10~13~17 minecraft:log 1
+setblock ~10~14~17 minecraft:deepslate_brick_slab 0
+fill ~15~0~17 ~18~0~17 minecraft:deepslate_brick_stairs 3
+setblock ~21~0~17 minecraft:deepslate_brick_wall 0
+fill ~21~1~17 ~21~2~17 minecraft:fence 5
+setblock ~21~3~17 minecraft:deepslate_brick_wall 0
+setblock ~21~4~17 minecraft:deepslate_brick_stairs 0
+fill ~22~0~17 ~22~8~17 minecraft:log 1
+setblock ~22~9~17 minecraft:deepslate_brick_wall 0
+fill ~22~10~17 ~22~11~17 minecraft:fence 5
+setblock ~22~12~17 minecraft:deepslate_brick_wall 0
+setblock ~22~13~17 minecraft:log 1
+setblock ~22~14~17 minecraft:deepslate_brick_slab 0
+fill ~23~1~17 ~26~3~17 minecraft:planks 1
+fill ~23~5~17 ~25~5~17 minecraft:deepslate_bricks
+fill ~23~6~17 ~25~6~17 minecraft:deepslate_brick_stairs 2
+fill ~26~5~17 ~26~5~20 minecraft:log 1
+setblock ~26~6~17 minecraft:deepslate_brick_wall 0
+fill ~27~0~17 ~27~3~17 minecraft:log 1
+fill ~27~5~17 ~29~5~17 minecraft:spruce_stairs 2
+setblock ~28~0~17 minecraft:spruce_door 3
+setblock ~28~2~17 minecraft:log 1
+setblock ~28~3~17 minecraft:lantern 0
+fill ~29~0~17 ~29~3~17 minecraft:log 1
+fill ~30~1~17 ~33~3~17 minecraft:planks 1
+fill ~30~5~17 ~30~5~20 minecraft:log 1
+setblock ~30~6~17 minecraft:deepslate_brick_wall 0
+fill ~31~5~17 ~33~5~17 minecraft:deepslate_bricks
+fill ~31~6~17 ~33~6~17 minecraft:deepslate_brick_stairs 2
+fill ~34~0~17 ~34~8~17 minecraft:log 1
+setblock ~34~9~17 minecraft:deepslate_brick_wall 0
+fill ~34~10~17 ~34~11~17 minecraft:fence 5
+setblock ~34~12~17 minecraft:deepslate_brick_wall 0
+setblock ~34~13~17 minecraft:log 1
+setblock ~34~14~17 minecraft:deepslate_brick_slab 0
+setblock ~35~0~17 minecraft:deepslate_brick_wall 0
+fill ~35~1~17 ~35~2~17 minecraft:fence 5
+setblock ~35~3~17 minecraft:deepslate_brick_wall 0
+setblock ~35~4~17 minecraft:deepslate_brick_stairs 1
+fill ~39~0~17 ~41~0~17 minecraft:deepslate_brick_stairs 3
+fill ~46~0~17 ~46~5~17 minecraft:log 1
+setblock ~46~6~17 minecraft:deepslate_brick_wall 0
+fill ~46~7~17 ~46~11~17 minecraft:fence 5
+setblock ~46~12~17 minecraft:deepslate_brick_wall 0
+setblock ~46~13~17 minecraft:log 1
+setblock ~46~14~17 minecraft:deepslate_brick_slab 0
+setblock ~47~0~17 minecraft:fence 5
+setblock ~48~0~17 minecraft:dark_oak_fence_gate 2
+setblock ~49~0~17 minecraft:fence 5
+setblock ~49~9~17 minecraft:jungle_trapdoor 1
+fill ~50~0~17 ~50~5~17 minecraft:log 1
+setblock ~50~6~17 minecraft:deepslate_brick_wall 0
+setblock ~50~7~17 minecraft:fence 5
+setblock ~50~8~17 minecraft:deepslate_brick_wall 0
+setblock ~50~9~17 minecraft:glowstone
+setblock ~50~10~17 minecraft:deepslate_brick_slab 0
+setblock ~51~0~17 minecraft:jungle_stairs 5
+setblock ~51~1~17 minecraft:deepslate_brick_wall 0
+setblock ~51~2~17 minecraft:fence 5
+setblock ~51~3~17 minecraft:deepslate_brick_wall 0
+setblock ~51~4~17 minecraft:jungle_stairs 1
+setblock ~51~9~17 minecraft:jungle_trapdoor 0
+fill ~6~0~18 ~6~0~20 minecraft:deepslate_brick_stairs 0
+fill ~6~1~18 ~6~1~20 minecraft:fence 5
+fill ~6~4~18 ~6~4~20 minecraft:log 1
+fill ~6~5~18 ~6~5~20 minecraft:fence 5
+setblock ~6~9~18 minecraft:jungle_trapdoor 2
+setblock ~7~0~18 minecraft:barrel 5
+setblock ~10~0~18 minecraft:fence 5
+fill ~10~4~18 ~10~4~20 minecraft:log 1
+fill ~10~5~18 ~10~5~20 minecraft:fence 5
+setblock ~10~13~18 minecraft:spruce_fence_gate 1
+fill ~10~14~18 ~10~14~20 minecraft:dark_oak_trapdoor 3
+fill ~21~0~18 ~21~0~20 minecraft:dark_oak_stairs 4
+fill ~21~3~18 ~21~3~19 minecraft:dark_oak_stairs 0
+fill ~21~6~18 ~21~6~19 minecraft:trapdoor 1
+fill ~22~0~18 ~22~0~20 minecraft:planks 1
+fill ~22~1~18 ~22~2~20 minecraft:glass_pane
+fill ~22~3~18 ~22~3~20 minecraft:planks 1
+fill ~22~4~18 ~22~4~20 minecraft:log 1
+fill ~22~5~18 ~22~5~20 minecraft:deepslate_brick_wall 0
+fill ~22~6~18 ~22~6~20 minecraft:glowstone
+fill ~22~7~18 ~22~7~20 minecraft:deepslate_brick_stairs 0
+fill ~22~8~18 ~22~8~20 minecraft:fence 1
+setblock ~22~13~18 minecraft:spruce_fence_gate 3
+fill ~22~14~18 ~22~14~19 minecraft:dark_oak_trapdoor 2
+fill ~23~0~18 ~23~0~20 minecraft:grass
+fill ~23~1~18 ~23~1~20 minecraft:bamboo 1
+fill ~23~2~18 ~23~3~20 minecraft:bamboo 1
+fill ~23~5~18 ~25~5~21 minecraft:planks 1
+fill ~23~6~18 ~25~6~19 minecraft:farmland 7
+fill ~23~7~18 ~25~7~19 minecraft:carrots 7
+fill ~24~0~18 ~24~0~20 minecraft:spruce_trapdoor 0
+fill ~25~0~18 ~25~2~18 minecraft:dark_oak_stairs 5
+fill ~26~0~18 ~26~2~18 minecraft:dark_oak_stairs 4
+fill ~26~6~18 ~26~6~20 minecraft:log 1
+setblock ~26~7~18 minecraft:deepslate_brick_wall 0
+setblock ~26~8~18 minecraft:lantern 0
+fill ~27~6~18 ~29~6~18 minecraft:spruce_stairs 2
+setblock ~28~3~18 minecraft:jungle_trapdoor 2
+fill ~30~0~18 ~30~2~18 minecraft:dark_oak_stairs 5
+fill ~30~6~18 ~30~6~20 minecraft:log 1
+setblock ~30~7~18 minecraft:deepslate_brick_wall 0
+setblock ~30~8~18 minecraft:lantern 0
+fill ~31~0~18 ~31~2~18 minecraft:dark_oak_stairs 4
+fill ~31~5~18 ~33~5~21 minecraft:planks 1
+fill ~31~6~18 ~33~6~18 minecraft:farmland 7
+fill ~31~7~18 ~33~7~18 minecraft:carrots 7
+fill ~32~0~18 ~32~0~20 minecraft:spruce_trapdoor 1
+fill ~33~0~18 ~33~0~20 minecraft:grass
+fill ~33~1~18 ~33~1~20 minecraft:bamboo 1
+fill ~33~2~18 ~33~3~20 minecraft:bamboo 1
+fill ~34~0~18 ~34~0~20 minecraft:planks 1
+fill ~34~1~18 ~34~2~20 minecraft:glass_pane
+fill ~34~3~18 ~34~3~20 minecraft:planks 1
+fill ~34~4~18 ~34~4~20 minecraft:log 1
+fill ~34~5~18 ~34~5~20 minecraft:deepslate_brick_wall 0
+fill ~34~6~18 ~34~6~20 minecraft:glowstone
+fill ~34~7~18 ~34~7~20 minecraft:deepslate_brick_stairs 1
+fill ~34~8~18 ~34~8~20 minecraft:fence 1
+setblock ~34~13~18 minecraft:spruce_fence_gate 1
+fill ~34~14~18 ~34~14~20 minecraft:dark_oak_trapdoor 3
+fill ~35~0~18 ~35~0~19 minecraft:dark_oak_stairs 5
+fill ~35~3~18 ~35~3~20 minecraft:dark_oak_stairs 1
+fill ~35~6~18 ~35~6~19 minecraft:trapdoor 0
+setblock ~46~0~18 minecraft:fence 5
+fill ~46~4~18 ~46~4~20 minecraft:log 1
+fill ~46~5~18 ~46~5~20 minecraft:fence 5
+setblock ~46~13~18 minecraft:spruce_fence_gate 1
+fill ~46~14~18 ~46~14~20 minecraft:dark_oak_trapdoor 2
+setblock ~49~0~18 minecraft:barrel 4
+fill ~50~0~18 ~50~0~20 minecraft:deepslate_brick_stairs 1
+fill ~50~1~18 ~50~1~20 minecraft:fence 5
+fill ~50~4~18 ~50~4~20 minecraft:log 1
+fill ~50~5~18 ~50~5~20 minecraft:fence 5
+setblock ~50~9~18 minecraft:jungle_trapdoor 2
+setblock ~6~3~19 minecraft:lantern 1
+setblock ~7~0~19 minecraft:chest 5
+setblock ~10~0~19 minecraft:dark_oak_fence_gate 3
+setblock ~10~3~19 minecraft:lantern 1
+setblock ~10~13~19 minecraft:grindstone 2
+setblock ~21~2~19 minecraft:lantern 1
+setblock ~22~13~19 minecraft:grindstone 0
+fill ~26~7~19 ~26~7~20 minecraft:log 1
+setblock ~26~8~19 minecraft:deepslate_brick_wall 0
+setblock ~27~5~19 minecraft:torch 5
+fill ~27~7~19 ~29~7~19 minecraft:spruce_stairs 2
+setblock ~29~5~19 minecraft:torch 5
+fill ~30~7~19 ~30~7~20 minecraft:log 1
+setblock ~30~8~19 minecraft:deepslate_brick_wall 0
+fill ~31~6~19 ~31~6~20 minecraft:farmland 7
+fill ~31~7~19 ~31~7~20 minecraft:carrots 7
+setblock ~32~6~19 minecraft:dirt 0
+setblock ~33~6~19 minecraft:farmland 7
+setblock ~33~7~19 minecraft:carrots 7
+setblock ~34~13~19 minecraft:grindstone 2
+setblock ~35~2~19 minecraft:lantern 1
+setblock ~46~0~19 minecraft:dark_oak_fence_gate 1
+setblock ~46~3~19 minecraft:lantern 1
+setblock ~46~13~19 minecraft:grindstone 0
+setblock ~49~0~19 minecraft:chest 4
+setblock ~50~3~19 minecraft:lantern 1
+setblock ~6~9~20 minecraft:jungle_trapdoor 3
+setblock ~7~0~20 minecraft:barrel 5
+setblock ~10~0~20 minecraft:fence 5
+setblock ~10~13~20 minecraft:spruce_fence_gate 1
+fill ~11~0~20 ~13~0~20 minecraft:dark_oak_stairs 6
+fill ~11~3~20 ~13~3~20 minecraft:dark_oak_stairs 2
+setblock ~12~2~20 minecraft:lantern 1
+setblock ~14~0~20 minecraft:deepslate_brick_wall 0
+fill ~14~1~20 ~14~2~20 minecraft:fence 5
+setblock ~14~3~20 minecraft:deepslate_brick_wall 0
+setblock ~14~4~20 minecraft:deepslate_brick_stairs 2
+fill ~15~0~20 ~17~0~20 minecraft:dark_oak_stairs 6
+fill ~15~3~20 ~17~3~20 minecraft:dark_oak_stairs 2
+fill ~15~5~20 ~17~5~20 minecraft:trapdoor 3
+setblock ~16~2~20 minecraft:lantern 1
+setblock ~18~0~20 minecraft:deepslate_brick_wall 0
+fill ~18~1~20 ~18~2~20 minecraft:fence 5
+setblock ~18~3~20 minecraft:deepslate_brick_wall 0
+setblock ~18~4~20 minecraft:deepslate_brick_stairs 2
+fill ~19~0~20 ~20~0~20 minecraft:dark_oak_stairs 6
+fill ~19~3~20 ~21~3~20 minecraft:dark_oak_stairs 2
+fill ~19~6~20 ~20~6~20 minecraft:trapdoor 3
+setblock ~20~2~20 minecraft:lantern 1
+setblock ~21~5~20 minecraft:lantern 1
+setblock ~21~6~20 minecraft:deepslate_bricks
+setblock ~22~13~20 minecraft:spruce_fence_gate 3
+setblock ~22~14~20 minecraft:dark_oak_trapdoor 1
+setblock ~23~6~20 minecraft:spruce_trapdoor 3
+fill ~23~7~20 ~23~8~20 minecraft:log 1
+setblock ~23~9~20 minecraft:deepslate_brick_wall 0
+fill ~23~10~20 ~23~12~20 minecraft:fence 4
+setblock ~23~13~20 minecraft:deepslate_brick_wall 0
+setblock ~23~14~20 minecraft:deepslate_brick_stairs 2
+fill ~24~6~20 ~25~6~20 minecraft:farmland 7
+fill ~24~7~20 ~25~7~20 minecraft:carrots 7
+fill ~24~9~20 ~25~9~20 minecraft:dark_oak_stairs 6
+setblock ~24~11~20 minecraft:lantern 1
+fill ~24~12~20 ~25~12~20 minecraft:dark_oak_stairs 2
+fill ~24~13~20 ~25~13~20 minecraft:spruce_fence_gate 0
+setblock ~24~14~20 minecraft:deepslate_brick_slab 0
+setblock ~25~14~20 minecraft:deepslate_bricks
+setblock ~26~8~20 minecraft:log 1
+setblock ~26~9~20 minecraft:deepslate_brick_wall 0
+fill ~26~10~20 ~26~12~20 minecraft:fence 4
+setblock ~26~13~20 minecraft:deepslate_brick_wall 0
+fill ~26~14~20 ~26~15~20 minecraft:deepslate_brick_slab 0
+setblock ~26~21~20 minecraft:dark_oak_trapdoor 3
+fill ~27~8~20 ~29~8~20 minecraft:spruce_stairs 2
+fill ~27~12~20 ~29~12~20 minecraft:dark_oak_stairs 2
+fill ~27~13~20 ~29~13~20 minecraft:trapdoor 3
+setblock ~27~14~20 minecraft:deepslate_bricks
+setblock ~28~11~20 minecraft:lantern 1
+setblock ~28~14~20 minecraft:deepslate_brick_slab 0
+setblock ~29~14~20 minecraft:deepslate_bricks
+setblock ~30~8~20 minecraft:log 1
+setblock ~30~9~20 minecraft:deepslate_brick_wall 0
+fill ~30~10~20 ~30~12~20 minecraft:fence 4
+setblock ~30~13~20 minecraft:deepslate_brick_wall 0
+fill ~30~14~20 ~30~15~20 minecraft:deepslate_brick_slab 0
+setblock ~30~21~20 minecraft:dark_oak_trapdoor 3
+fill ~31~9~20 ~32~9~20 minecraft:dark_oak_stairs 6
+fill ~31~12~20 ~32~12~20 minecraft:dark_oak_stairs 2
+fill ~31~13~20 ~32~13~20 minecraft:spruce_fence_gate 0
+setblock ~31~14~20 minecraft:deepslate_bricks
+setblock ~32~6~20 minecraft:farmland 7
+setblock ~32~7~20 minecraft:carrots 7
+setblock ~32~11~20 minecraft:lantern 1
+setblock ~32~14~20 minecraft:deepslate_brick_slab 0
+setblock ~33~6~20 minecraft:spruce_trapdoor 3
+fill ~33~7~20 ~33~8~20 minecraft:log 1
+setblock ~33~9~20 minecraft:deepslate_brick_wall 0
+fill ~33~10~20 ~33~12~20 minecraft:fence 4
+setblock ~33~13~20 minecraft:deepslate_brick_wall 0
+setblock ~33~14~20 minecraft:deepslate_brick_stairs 2
+setblock ~34~13~20 minecraft:spruce_fence_gate 1
+fill ~35~0~20 ~37~0~20 minecraft:dark_oak_stairs 6
+setblock ~35~5~20 minecraft:lantern 1
+setblock ~35~6~20 minecraft:deepslate_bricks
+setblock ~36~2~20 minecraft:lantern 1
+fill ~36~3~20 ~37~3~20 minecraft:dark_oak_stairs 2
+fill ~36~6~20 ~37~6~20 minecraft:trapdoor 3
+setblock ~38~0~20 minecraft:deepslate_brick_wall 0
+fill ~38~1~20 ~38~2~20 minecraft:fence 5
+setblock ~38~3~20 minecraft:deepslate_brick_wall 0
+setblock ~38~4~20 minecraft:deepslate_brick_stairs 2
+fill ~39~0~20 ~41~0~20 minecraft:dark_oak_stairs 6
+fill ~39~3~20 ~41~3~20 minecraft:dark_oak_stairs 2
+fill ~39~5~20 ~41~5~20 minecraft:trapdoor 3
+setblock ~40~2~20 minecraft:lantern 1
+setblock ~42~0~20 minecraft:deepslate_brick_wall 0
+fill ~42~1~20 ~42~2~20 minecraft:fence 5
+setblock ~42~3~20 minecraft:deepslate_brick_wall 0
+setblock ~42~4~20 minecraft:deepslate_brick_stairs 2
+fill ~43~0~20 ~45~0~20 minecraft:dark_oak_stairs 6
+fill ~43~3~20 ~45~3~20 minecraft:dark_oak_stairs 2
+setblock ~44~2~20 minecraft:lantern 1
+setblock ~46~0~20 minecraft:fence 5
+setblock ~46~13~20 minecraft:spruce_fence_gate 1
+setblock ~49~0~20 minecraft:barrel 4
+setblock ~50~9~20 minecraft:jungle_trapdoor 3
+setblock ~0~0~21 minecraft:deepslate_brick_wall 0
+fill ~1~0~21 ~6~0~21 minecraft:log 1
+setblock ~1~1~21 minecraft:deepslate_brick_wall 0
+setblock ~2~1~21 minecraft:log 1
+setblock ~2~2~21 minecraft:deepslate_brick_wall 0
+fill ~3~1~21 ~5~1~21 minecraft:fence 5
+setblock ~3~2~21 minecraft:log 1
+setblock ~3~3~21 minecraft:deepslate_brick_wall 0
+fill ~4~2~21 ~5~2~21 minecraft:fence 5
+setblock ~4~3~21 minecraft:log 1
+setblock ~4~4~21 minecraft:deepslate_brick_wall 0
+setblock ~5~3~21 minecraft:fence 5
+fill ~5~4~21 ~6~4~21 minecraft:log 1
+setblock ~5~5~21 minecraft:deepslate_brick_wall 0
+setblock ~5~9~21 minecraft:jungle_trapdoor 1
+fill ~6~1~21 ~6~3~21 minecraft:log 1
+setblock ~6~5~21 minecraft:log 1
+setblock ~6~6~21 minecraft:deepslate_brick_wall 0
+setblock ~6~7~21 minecraft:fence 5
+setblock ~6~8~21 minecraft:deepslate_brick_wall 0
+setblock ~6~9~21 minecraft:glowstone
+setblock ~6~10~21 minecraft:deepslate_brick_slab 0
+fill ~7~0~21 ~7~3~22 minecraft:planks 1
+fill ~7~4~21 ~9~4~21 minecraft:log 1
+setblock ~7~9~21 minecraft:jungle_trapdoor 0
+setblock ~8~0~21 minecraft:dark_oak_door 3
+fill ~8~2~21 ~9~3~21 minecraft:planks 1
+fill ~9~0~21 ~9~1~21 minecraft:planks 1
+fill ~10~0~21 ~10~6~21 minecraft:log 1
+setblock ~10~7~21 minecraft:deepslate_brick_wall 0
+fill ~10~8~21 ~10~11~21 minecraft:fence 5
+setblock ~10~12~21 minecraft:deepslate_brick_wall 0
+setblock ~10~13~21 minecraft:log 1
+setblock ~10~14~21 minecraft:deepslate_brick_slab 0
+fill ~11~0~21 ~13~0~21 minecraft:planks 1
+fill ~11~1~21 ~13~2~21 minecraft:glass_pane
+fill ~11~3~21 ~13~3~21 minecraft:planks 1
+fill ~11~4~21 ~13~4~21 minecraft:log 1
+fill ~11~5~21 ~13~5~21 minecraft:deepslate_brick_stairs 2
+fill ~11~6~21 ~13~6~21 minecraft:fence 1
+setblock ~11~13~21 minecraft:spruce_fence_gate 0
+fill ~11~14~21 ~13~14~21 minecraft:dark_oak_trapdoor 1
+setblock ~12~13~21 minecraft:grindstone 1
+setblock ~13~13~21 minecraft:spruce_fence_gate 0
+fill ~14~0~21 ~14~7~21 minecraft:log 1
+setblock ~14~8~21 minecraft:deepslate_brick_wall 0
+fill ~14~9~21 ~14~11~21 minecraft:fence 5
+setblock ~14~12~21 minecraft:deepslate_brick_wall 0
+setblock ~14~13~21 minecraft:log 1
+setblock ~14~14~21 minecraft:deepslate_brick_slab 0
+fill ~15~0~21 ~17~0~21 minecraft:planks 1
+fill ~15~1~21 ~17~2~21 minecraft:glass_pane
+fill ~15~3~21 ~17~3~21 minecraft:planks 1
+fill ~15~4~21 ~17~4~21 minecraft:log 1
+fill ~15~5~21 ~17~5~21 minecraft:glowstone
+fill ~15~6~21 ~17~6~21 minecraft:deepslate_brick_stairs 2
+fill ~15~7~21 ~17~7~21 minecraft:fence 1
+setblock ~15~13~21 minecraft:spruce_fence_gate 0
+fill ~15~14~21 ~17~14~21 minecraft:dark_oak_trapdoor 1
+setblock ~16~13~21 minecraft:grindstone 1
+setblock ~17~13~21 minecraft:spruce_fence_gate 0
+fill ~18~0~21 ~18~8~21 minecraft:log 1
+setblock ~18~9~21 minecraft:deepslate_brick_wall 0
+fill ~18~10~21 ~18~11~21 minecraft:fence 5
+setblock ~18~12~21 minecraft:deepslate_brick_wall 0
+setblock ~18~13~21 minecraft:log 1
+setblock ~18~14~21 minecraft:deepslate_brick_slab 0
+fill ~19~0~21 ~21~0~21 minecraft:planks 1
+fill ~19~1~21 ~21~2~21 minecraft:glass_pane
+fill ~19~3~21 ~21~3~21 minecraft:planks 1
+fill ~19~4~21 ~21~4~21 minecraft:log 1
+fill ~19~5~21 ~21~5~21 minecraft:deepslate_brick_wall 0
+fill ~19~6~21 ~21~6~21 minecraft:glowstone
+fill ~19~7~21 ~21~7~21 minecraft:deepslate_brick_stairs 2
+fill ~19~8~21 ~21~8~21 minecraft:fence 1
+setblock ~19~13~21 minecraft:spruce_fence_gate 0
+fill ~19~14~21 ~21~14~21 minecraft:dark_oak_trapdoor 1
+setblock ~20~13~21 minecraft:grindstone 1
+fill ~22~0~21 ~22~9~21 minecraft:log 1
+setblock ~22~10~21 minecraft:deepslate_brick_wall 0
+setblock ~22~11~21 minecraft:fence 5
+setblock ~22~12~21 minecraft:deepslate_brick_wall 0
+fill ~22~13~21 ~23~13~21 minecraft:log 1
+setblock ~22~14~21 minecraft:deepslate_bricks
+setblock ~22~15~21 minecraft:log 1
+setblock ~22~16~21 minecraft:deepslate_brick_slab 0
+fill ~22~19~21 ~23~19~21 minecraft:deepslate_brick_slab 0
+setblock ~23~0~21 minecraft:spruce_trapdoor 2
+fill ~23~4~21 ~33~4~21 minecraft:log 1
+fill ~23~6~21 ~33~7~21 minecraft:planks 1
+fill ~23~8~21 ~33~8~21 minecraft:log 1
+fill ~23~9~21 ~23~12~21 minecraft:log 1
+setblock ~23~14~21 minecraft:log 1
+setblock ~23~15~21 minecraft:fence 5
+setblock ~23~20~21 minecraft:deepslate_brick_stairs 0
+fill ~24~9~21 ~25~9~21 minecraft:planks 1
+fill ~24~10~21 ~25~11~21 minecraft:glass_pane
+fill ~24~12~21 ~25~13~21 minecraft:planks 1
+fill ~24~14~21 ~25~14~21 minecraft:log 1
+fill ~24~15~21 ~24~15~22 minecraft:log 1
+setblock ~24~16~21 minecraft:deepslate_brick_wall 0
+fill ~24~17~21 ~24~18~21 minecraft:fence 4
+setblock ~24~19~21 minecraft:deepslate_brick_wall 0
+setblock ~24~20~21 minecraft:deepslate_brick_stairs 5
+setblock ~24~21~21 minecraft:deepslate_brick_stairs 0
+setblock ~25~15~21 minecraft:fence 5
+setblock ~25~18~21 minecraft:lantern 1
+setblock ~25~19~21 minecraft:dark_oak_stairs 2
+fill ~25~20~21 ~31~20~21 minecraft:dark_oak_stairs 6
+setblock ~25~21~21 minecraft:deepslate_brick_stairs 5
+setblock ~25~22~21 minecraft:deepslate_brick_stairs 0
+fill ~26~5~21 ~30~5~21 minecraft:planks 1
+fill ~26~9~21 ~26~15~21 minecraft:log 1
+setblock ~26~16~21 minecraft:deepslate_brick_wall 0
+fill ~26~17~21 ~26~18~21 minecraft:fence 4
+setblock ~26~19~21 minecraft:deepslate_brick_wall 0
+setblock ~26~21~21 minecraft:glowstone
+setblock ~26~22~21 minecraft:deepslate_brick_stairs 5
+setblock ~26~23~21 minecraft:deepslate_brick_stairs 0
+setblock ~27~9~21 minecraft:deepslate_brick_wall 0
+setblock ~27~10~21 minecraft:fence 5
+setblock ~27~11~21 minecraft:deepslate_brick_wall 0
+fill ~27~12~21 ~29~12~21 minecraft:log 1
+fill ~27~13~21 ~29~13~21 minecraft:glowstone
+fill ~27~14~21 ~29~14~21 minecraft:log 1
+setblock ~27~15~21 minecraft:fence 5
+setblock ~27~21~21 minecraft:deepslate_brick_wall 0
+setblock ~27~22~21 minecraft:fence 1
+setblock ~27~23~21 minecraft:deepslate_brick_stairs 5
+setblock ~27~24~21 minecraft:deepslate_brick_stairs 0
+setblock ~28~11~21 minecraft:dark_oak_stairs 2
+setblock ~28~15~21 minecraft:dark_oak_fence_gate 0
+setblock ~28~21~21 minecraft:lantern 0
+setblock ~28~24~21 minecraft:deepslate_brick_slab 0
+setblock ~28~25~21 minecraft:deepslate_brick_double_slab 0
+setblock ~29~9~21 minecraft:deepslate_brick_wall 0
+setblock ~29~10~21 minecraft:fence 5
+setblock ~29~11~21 minecraft:deepslate_brick_wall 0
+setblock ~29~15~21 minecraft:fence 5
+setblock ~29~21~21 minecraft:deepslate_brick_wall 0
+setblock ~29~22~21 minecraft:fence 1
+setblock ~29~23~21 minecraft:deepslate_brick_stairs 4
+setblock ~29~24~21 minecraft:deepslate_brick_stairs 1
+fill ~30~9~21 ~30~15~21 minecraft:log 1
+setblock ~30~16~21 minecraft:deepslate_brick_wall 0
+fill ~30~17~21 ~30~18~21 minecraft:fence 4
+setblock ~30~19~21 minecraft:deepslate_brick_wall 0
+setblock ~30~21~21 minecraft:glowstone
+setblock ~30~22~21 minecraft:deepslate_brick_stairs 4
+setblock ~30~23~21 minecraft:deepslate_brick_stairs 1
+fill ~31~9~21 ~32~9~21 minecraft:planks 1
+fill ~31~10~21 ~32~11~21 minecraft:glass_pane
+fill ~31~12~21 ~32~13~21 minecraft:planks 1
+fill ~31~14~21 ~32~14~21 minecraft:log 1
+setblock ~31~15~21 minecraft:fence 5
+setblock ~31~18~21 minecraft:lantern 1
+setblock ~31~19~21 minecraft:dark_oak_stairs 2
+setblock ~31~21~21 minecraft:deepslate_brick_stairs 4
+setblock ~31~22~21 minecraft:deepslate_brick_stairs 1
+fill ~32~15~21 ~32~15~22 minecraft:log 1
+setblock ~32~16~21 minecraft:deepslate_brick_wall 0
+fill ~32~17~21 ~32~18~21 minecraft:fence 4
+setblock ~32~19~21 minecraft:deepslate_brick_wall 0
+setblock ~32~20~21 minecraft:deepslate_brick_stairs 4
+setblock ~32~21~21 minecraft:deepslate_brick_stairs 1
+setblock ~33~0~21 minecraft:spruce_trapdoor 2
+fill ~33~9~21 ~34~9~21 minecraft:log 1
+fill ~33~10~21 ~33~14~21 minecraft:log 1
+setblock ~33~15~21 minecraft:fence 5
+fill ~33~19~21 ~34~19~21 minecraft:deepslate_brick_slab 0
+setblock ~33~20~21 minecraft:deepslate_brick_stairs 1
+fill ~34~0~21 ~34~8~21 minecraft:log 1
+setblock ~34~10~21 minecraft:deepslate_brick_wall 0
+setblock ~34~11~21 minecraft:fence 5
+setblock ~34~12~21 minecraft:deepslate_brick_wall 0
+fill ~34~13~21 ~34~13~22 minecraft:log 1
+setblock ~34~14~21 minecraft:deepslate_bricks
+setblock ~34~15~21 minecraft:log 1
+setblock ~34~16~21 minecraft:deepslate_brick_slab 0
+fill ~35~0~21 ~37~0~21 minecraft:planks 1
+fill ~35~1~21 ~37~2~21 minecraft:glass_pane
+fill ~35~3~21 ~37~3~21 minecraft:planks 1
+fill ~35~4~21 ~37~4~21 minecraft:log 1
+fill ~35~5~21 ~37~5~21 minecraft:deepslate_brick_wall 0
+fill ~35~6~21 ~37~6~21 minecraft:glowstone
+fill ~35~7~21 ~37~7~21 minecraft:deepslate_brick_stairs 2
+fill ~35~8~21 ~37~8~21 minecraft:fence 1
+setblock ~35~13~21 minecraft:spruce_fence_gate 2
+fill ~35~14~21 ~37~14~21 minecraft:dark_oak_trapdoor 1
+setblock ~36~13~21 minecraft:grindstone 1
+setblock ~37~13~21 minecraft:spruce_fence_gate 2
+fill ~38~0~21 ~38~8~21 minecraft:log 1
+setblock ~38~9~21 minecraft:deepslate_brick_wall 0
+fill ~38~10~21 ~38~11~21 minecraft:fence 5
+setblock ~38~12~21 minecraft:deepslate_brick_wall 0
+setblock ~38~13~21 minecraft:log 1
+setblock ~38~14~21 minecraft:deepslate_brick_slab 0
+fill ~39~0~21 ~41~0~21 minecraft:planks 1
+fill ~39~1~21 ~41~2~21 minecraft:glass_pane
+fill ~39~3~21 ~41~3~21 minecraft:planks 1
+fill ~39~4~21 ~41~4~21 minecraft:log 1
+fill ~39~5~21 ~41~5~21 minecraft:glowstone
+fill ~39~6~21 ~41~6~21 minecraft:deepslate_brick_stairs 2
+fill ~39~7~21 ~41~7~21 minecraft:fence 1
+setblock ~39~13~21 minecraft:spruce_fence_gate 2
+fill ~39~14~21 ~41~14~21 minecraft:dark_oak_trapdoor 1
+setblock ~40~13~21 minecraft:grindstone 1
+setblock ~41~13~21 minecraft:spruce_fence_gate 2
+fill ~42~0~21 ~42~7~21 minecraft:log 1
+setblock ~42~8~21 minecraft:deepslate_brick_wall 0
+fill ~42~9~21 ~42~11~21 minecraft:fence 5
+setblock ~42~12~21 minecraft:deepslate_brick_wall 0
+setblock ~42~13~21 minecraft:log 1
+setblock ~42~14~21 minecraft:deepslate_brick_slab 0
+fill ~43~0~21 ~45~0~21 minecraft:planks 1
+fill ~43~1~21 ~45~2~21 minecraft:glass_pane
+fill ~43~3~21 ~45~3~21 minecraft:planks 1
+fill ~43~4~21 ~45~4~21 minecraft:log 1
+fill ~43~5~21 ~45~5~21 minecraft:deepslate_brick_stairs 2
+fill ~43~6~21 ~45~6~21 minecraft:fence 1
+setblock ~43~13~21 minecraft:spruce_fence_gate 2
+fill ~43~14~21 ~45~14~21 minecraft:dark_oak_trapdoor 1
+setblock ~44~13~21 minecraft:grindstone 1
+setblock ~45~13~21 minecraft:spruce_fence_gate 2
+fill ~46~0~21 ~46~6~21 minecraft:log 1
+setblock ~46~7~21 minecraft:deepslate_brick_wall 0
+fill ~46~8~21 ~46~11~21 minecraft:fence 5
+setblock ~46~12~21 minecraft:deepslate_brick_wall 0
+setblock ~46~13~21 minecraft:log 1
+setblock ~46~14~21 minecraft:deepslate_brick_slab 0
+fill ~47~0~21 ~47~3~21 minecraft:planks 1
+fill ~47~4~21 ~49~4~21 minecraft:log 1
+setblock ~48~0~21 minecraft:dark_oak_door 3
+fill ~48~2~21 ~49~3~21 minecraft:planks 1
+fill ~49~0~21 ~49~1~22 minecraft:planks 1
+setblock ~49~9~21 minecraft:jungle_trapdoor 1
+fill ~50~0~21 ~55~0~21 minecraft:log 1
+fill ~50~1~21 ~50~5~21 minecraft:log 1
+setblock ~50~6~21 minecraft:deepslate_brick_wall 0
+setblock ~50~7~21 minecraft:fence 5
+setblock ~50~8~21 minecraft:deepslate_brick_wall 0
+setblock ~50~9~21 minecraft:glowstone
+setblock ~50~10~21 minecraft:deepslate_brick_slab 0
+fill ~51~1~21 ~53~1~21 minecraft:fence 5
+fill ~51~2~21 ~52~2~21 minecraft:fence 5
+setblock ~51~3~21 minecraft:fence 5
+setblock ~51~4~21 minecraft:log 1
+setblock ~51~5~21 minecraft:deepslate_brick_wall 0
+setblock ~51~9~21 minecraft:jungle_trapdoor 0
+setblock ~52~3~21 minecraft:log 1
+setblock ~52~4~21 minecraft:deepslate_brick_wall 0
+setblock ~52~5~21 minecraft:lantern 0
+setblock ~53~2~21 minecraft:log 1
+setblock ~53~3~21 minecraft:deepslate_brick_wall 0
+setblock ~54~1~21 minecraft:log 1
+setblock ~54~2~21 minecraft:deepslate_brick_wall 0
+setblock ~54~3~21 minecraft:lantern 0
+setblock ~55~1~21 minecraft:deepslate_brick_wall 0
+setblock ~56~0~21 minecraft:deepslate_brick_wall 0
+setblock ~56~1~21 minecraft:lantern 0
+fill ~1~0~22 ~1~0~24 minecraft:spruce_stairs 0
+fill ~2~0~22 ~2~0~24 minecraft:barrel 5
+fill ~2~1~22 ~2~1~24 minecraft:spruce_stairs 0
+fill ~3~0~22 ~6~1~22 minecraft:chest 3
+fill ~3~2~22 ~3~2~24 minecraft:spruce_stairs 0
+fill ~4~3~22 ~4~3~24 minecraft:spruce_stairs 0
+fill ~5~4~22 ~5~4~24 minecraft:spruce_stairs 0
+fill ~6~4~22 ~6~4~24 minecraft:log 1
+setblock ~6~9~22 minecraft:jungle_trapdoor 2
+fill ~7~4~22 ~9~4~32 minecraft:planks 1
+fill ~8~2~22 ~8~2~24 minecraft:spruce_trapdoor 0
+fill ~8~3~22 ~8~3~23 minecraft:flower_pot
+fill ~10~0~22 ~11~0~22 minecraft:chest 3
+fill ~10~4~22 ~10~4~32 minecraft:log 1
+fill ~11~4~22 ~21~4~32 minecraft:planks 1
+fill ~11~5~22 ~12~5~22 minecraft:barrel 1
+setblock ~12~0~22 minecraft:smoker 3
+setblock ~12~2~22 minecraft:lantern 1
+fill ~12~3~22 ~13~3~22 minecraft:barrel 3
+setblock ~12~6~22 minecraft:barrel 1
+setblock ~12~7~22 minecraft:lantern 0
+setblock ~13~0~22 minecraft:blast_furnace 3
+fill ~13~5~22 ~13~6~22 minecraft:barrel 3
+setblock ~13~7~22 minecraft:barrel 1
+setblock ~14~0~22 minecraft:planks 1
+setblock ~14~1~22 minecraft:spruce_trapdoor 1
+fill ~14~5~22 ~14~5~23 minecraft:deepslate_brick_stairs 0
+setblock ~15~0~22 minecraft:glowstone
+setblock ~15~1~22 minecraft:carpet 15
+fill ~15~5~22 ~17~5~22 minecraft:grass
+fill ~15~6~22 ~17~6~22 minecraft:sweet_berry_bush 3
+fill ~16~0~22 ~18~0~25 minecraft:planks 1
+setblock ~16~1~22 minecraft:spruce_trapdoor 1
+fill ~17~1~22 ~17~1~25 minecraft:bookshelf
+setblock ~17~2~22 minecraft:lantern 0
+fill ~18~1~22 ~18~3~25 minecraft:planks 1
+fill ~18~5~22 ~18~5~24 minecraft:deepslate_bricks
+fill ~18~6~22 ~18~6~24 minecraft:deepslate_brick_stairs 0
+fill ~19~0~22 ~21~0~22 minecraft:grass
+fill ~19~1~22 ~21~1~22 minecraft:bamboo 1
+fill ~19~2~22 ~21~3~22 minecraft:bamboo 1
+fill ~19~5~22 ~22~5~24 minecraft:planks 1
+fill ~19~6~22 ~20~6~24 minecraft:farmland 7
+fill ~19~7~22 ~20~7~24 minecraft:carrots 7
+setblock ~21~6~22 minecraft:spruce_trapdoor 1
+fill ~21~7~22 ~21~8~22 minecraft:log 1
+setblock ~21~9~22 minecraft:deepslate_brick_wall 0
+fill ~21~10~22 ~21~12~22 minecraft:fence 4
+setblock ~21~13~22 minecraft:deepslate_brick_wall 0
+setblock ~21~14~22 minecraft:deepslate_brick_stairs 0
+setblock ~22~0~22 minecraft:spruce_trapdoor 0
+fill ~22~4~22 ~22~4~32 minecraft:log 1
+fill ~22~6~22 ~22~7~32 minecraft:planks 1
+fill ~22~8~22 ~22~8~32 minecraft:log 1
+fill ~22~9~22 ~22~14~22 minecraft:log 1
+setblock ~22~15~22 minecraft:fence 5
+setblock ~22~19~22 minecraft:deepslate_brick_slab 0
+setblock ~22~20~22 minecraft:deepslate_brick_stairs 2
+fill ~23~4~22 ~23~4~31 minecraft:spruce_trapdoor 0
+fill ~23~5~22 ~24~5~22 minecraft:grass
+fill ~23~6~22 ~24~6~22 minecraft:bamboo 1
+fill ~23~7~22 ~24~7~22 minecraft:bamboo 1
+fill ~23~8~22 ~33~8~32 minecraft:planks 1
+fill ~23~9~22 ~25~9~22 minecraft:bookshelf
+setblock ~23~12~22 minecraft:lantern 1
+setblock ~23~13~22 minecraft:fence 5
+fill ~23~14~22 ~33~14~22 minecraft:planks 1
+setblock ~23~15~22 minecraft:glowstone
+fill ~23~16~22 ~23~17~22 minecraft:leaves 0
+setblock ~23~20~22 minecraft:dark_oak_stairs 2
+fill ~24~4~22 ~33~4~22 minecraft:spruce_trapdoor 2
+setblock ~24~10~22 minecraft:lantern 0
+fill ~24~13~22 ~25~13~22 minecraft:dark_oak_fence_gate 2
+fill ~24~16~22 ~24~20~22 minecraft:log 1
+setblock ~24~21~22 minecraft:dark_oak_stairs 0
+setblock ~25~5~22 minecraft:dirt 0
+setblock ~25~6~22 minecraft:barrel 0
+fill ~25~7~22 ~25~7~23 minecraft:log 1
+setblock ~25~10~22 minecraft:flower_pot
+setblock ~25~15~22 minecraft:planks 1
+fill ~25~16~22 ~25~18~22 minecraft:glass_pane
+setblock ~25~19~22 minecraft:planks 1
+fill ~25~20~22 ~25~20~23 minecraft:log 1
+fill ~25~21~22 ~26~21~22 minecraft:fence 4
+fill ~25~22~22 ~25~22~23 minecraft:dark_oak_stairs 0
+fill ~26~5~22 ~30~5~22 minecraft:grass
+fill ~26~6~22 ~30~6~22 minecraft:bamboo 1
+fill ~26~7~22 ~30~7~22 minecraft:bamboo 1
+fill ~26~9~22 ~26~13~22 minecraft:planks 1
+fill ~26~15~22 ~26~20~22 minecraft:log 1
+setblock ~26~22~22 minecraft:fence 4
+fill ~26~23~22 ~26~23~24 minecraft:dark_oak_stairs 0
+fill ~27~9~22 ~27~13~22 minecraft:stripped_spruce_log 0
+setblock ~27~15~22 minecraft:dark_oak_stairs 6
+setblock ~27~16~22 minecraft:deepslate_brick_wall 0
+setblock ~27~17~22 minecraft:fence 5
+setblock ~27~18~22 minecraft:deepslate_brick_wall 0
+fill ~27~19~22 ~29~19~22 minecraft:dark_oak_stairs 2
+fill ~27~20~22 ~29~20~23 minecraft:log 1
+fill ~27~21~22 ~27~23~22 minecraft:log 1
+fill ~27~24~22 ~27~24~25 minecraft:dark_oak_stairs 0
+setblock ~28~9~22 minecraft:dark_oak_door 3
+setblock ~28~11~22 minecraft:stripped_spruce_log 1
+setblock ~28~12~22 minecraft:lantern 0
+setblock ~28~13~22 minecraft:trapdoor 2
+setblock ~28~15~22 minecraft:glowstone
+setblock ~28~18~22 minecraft:lantern 1
+setblock ~28~21~22 minecraft:deepslate_bricks
+setblock ~28~22~22 minecraft:fence 4
+setblock ~28~23~22 minecraft:deepslate_bricks
+fill ~28~24~22 ~28~24~23 minecraft:log 1
+setblock ~28~25~22 minecraft:deepslate_brick_slab 0
+fill ~29~9~22 ~29~13~22 minecraft:stripped_spruce_log 0
+setblock ~29~15~22 minecraft:dark_oak_stairs 6
+setblock ~29~16~22 minecraft:deepslate_brick_wall 0
+setblock ~29~17~22 minecraft:fence 5
+setblock ~29~18~22 minecraft:deepslate_brick_wall 0
+fill ~29~21~22 ~29~23~22 minecraft:log 1
+fill ~29~24~22 ~29~24~26 minecraft:dark_oak_stairs 1
+fill ~30~9~22 ~33~9~22 minecraft:bookshelf
+setblock ~30~12~22 minecraft:lantern 1
+setblock ~30~13~22 minecraft:fence 5
+fill ~30~15~22 ~30~20~22 minecraft:log 1
+fill ~30~21~22 ~31~21~22 minecraft:fence 4
+setblock ~30~22~22 minecraft:fence 4
+fill ~30~23~22 ~30~23~24 minecraft:dark_oak_stairs 1
+setblock ~31~5~22 minecraft:dirt 0
+setblock ~31~6~22 minecraft:barrel 0
+fill ~31~7~22 ~31~7~23 minecraft:log 1
+fill ~31~13~22 ~32~13~22 minecraft:dark_oak_fence_gate 2
+setblock ~31~15~22 minecraft:planks 1
+fill ~31~16~22 ~31~18~22 minecraft:glass_pane
+setblock ~31~19~22 minecraft:planks 1
+fill ~31~20~22 ~31~20~23 minecraft:log 1
+fill ~31~22~22 ~31~22~24 minecraft:dark_oak_stairs 1
+fill ~32~5~22 ~33~5~22 minecraft:grass
+fill ~32~6~22 ~33~6~22 minecraft:bamboo 1
+fill ~32~7~22 ~33~7~22 minecraft:bamboo 1
+setblock ~32~10~22 minecraft:lantern 0
+fill ~32~16~22 ~32~20~22 minecraft:log 1
+fill ~32~21~22 ~32~21~23 minecraft:dark_oak_stairs 1
+setblock ~33~10~22 minecraft:flower_pot
+setblock ~33~12~22 minecraft:lantern 1
+setblock ~33~13~22 minecraft:fence 5
+setblock ~33~15~22 minecraft:glowstone
+fill ~33~16~22 ~33~17~22 minecraft:leaves 0
+setblock ~33~20~22 minecraft:dark_oak_stairs 2
+setblock ~34~0~22 minecraft:spruce_trapdoor 1
+fill ~34~4~22 ~34~4~32 minecraft:log 1
+fill ~34~5~22 ~37~5~24 minecraft:planks 1
+fill ~34~6~22 ~34~7~32 minecraft:planks 1
+fill ~34~8~22 ~34~8~32 minecraft:log 1
+fill ~34~9~22 ~34~12~22 minecraft:log 1
+setblock ~34~14~22 minecraft:log 1
+setblock ~34~15~22 minecraft:fence 5
+setblock ~34~19~22 minecraft:deepslate_brick_slab 0
+setblock ~34~20~22 minecraft:deepslate_brick_stairs 2
+fill ~35~0~22 ~37~0~22 minecraft:grass
+fill ~35~1~22 ~37~1~22 minecraft:bamboo 1
+fill ~35~2~22 ~37~3~22 minecraft:bamboo 1
+fill ~35~4~22 ~45~4~32 minecraft:planks 1
+setblock ~35~6~22 minecraft:spruce_trapdoor 0
+fill ~35~7~22 ~35~8~22 minecraft:log 1
+setblock ~35~9~22 minecraft:deepslate_brick_wall 0
+fill ~35~10~22 ~35~12~22 minecraft:fence 4
+setblock ~35~13~22 minecraft:deepslate_brick_wall 0
+setblock ~35~14~22 minecraft:deepslate_brick_stairs 1
+fill ~36~6~22 ~37~6~24 minecraft:farmland 7
+fill ~36~7~22 ~37~7~24 minecraft:carrots 7
+fill ~38~0~22 ~40~0~25 minecraft:planks 1
+fill ~38~1~22 ~38~3~25 minecraft:planks 1
+fill ~38~5~22 ~38~5~24 minecraft:deepslate_bricks
+fill ~38~6~22 ~38~6~24 minecraft:deepslate_brick_stairs 1
+fill ~39~1~22 ~39~1~25 minecraft:bookshelf
+setblock ~39~2~22 minecraft:lantern 0
+fill ~39~5~22 ~41~5~22 minecraft:grass
+fill ~39~6~22 ~41~6~22 minecraft:sweet_berry_bush 3
+setblock ~40~1~22 minecraft:spruce_trapdoor 0
+setblock ~41~0~22 minecraft:glowstone
+setblock ~41~1~22 minecraft:carpet 15
+setblock ~42~0~22 minecraft:planks 1
+setblock ~42~1~22 minecraft:spruce_trapdoor 0
+fill ~42~5~22 ~42~5~23 minecraft:deepslate_brick_stairs 1
+setblock ~43~0~22 minecraft:blast_furnace 3
+fill ~43~3~22 ~44~3~22 minecraft:barrel 3
+fill ~43~5~22 ~45~5~22 minecraft:barrel 3
+fill ~43~6~22 ~43~6~23 minecraft:barrel 3
+setblock ~44~0~22 minecraft:smoker 3
+setblock ~44~6~22 minecraft:barrel 1
+setblock ~44~7~22 minecraft:barrel 3
+fill ~45~0~22 ~46~0~22 minecraft:chest 3
+setblock ~45~6~22 minecraft:barrel 3
+fill ~46~4~22 ~46~4~32 minecraft:log 1
+fill ~47~4~22 ~49~4~32 minecraft:planks 1
+fill ~48~2~22 ~48~2~24 minecraft:spruce_trapdoor 1
+fill ~48~3~22 ~48~3~23 minecraft:flower_pot
+fill ~49~2~22 ~49~3~25 minecraft:planks 1
+fill ~50~0~22 ~53~1~22 minecraft:chest 3
+fill ~50~4~22 ~50~4~24 minecraft:log 1
+setblock ~50~9~22 minecraft:jungle_trapdoor 2
+fill ~51~4~22 ~51~4~24 minecraft:spruce_stairs 1
+fill ~52~3~22 ~52~3~24 minecraft:spruce_stairs 1
+fill ~53~2~22 ~53~2~24 minecraft:spruce_stairs 1
+fill ~54~0~22 ~54~0~24 minecraft:barrel 4
+fill ~54~1~22 ~54~1~24 minecraft:spruce_stairs 1
+fill ~55~0~22 ~55~0~24 minecraft:spruce_stairs 1
+setblock ~4~2~23 minecraft:lantern 1
+setblock ~5~3~23 minecraft:lantern 1
+setblock ~7~0~23 minecraft:dark_oak_door 0
+fill ~7~2~23 ~7~3~25 minecraft:planks 1
+fill ~11~5~23 ~12~5~23 minecraft:barrel 3
+fill ~13~0~23 ~13~0~25 minecraft:spruce_trapdoor 1
+fill ~13~5~23 ~13~6~23 minecraft:barrel 1
+fill ~14~0~23 ~14~0~24 minecraft:glowstone
+fill ~14~1~23 ~14~1~24 minecraft:carpet 15
+fill ~15~0~23 ~15~0~24 minecraft:planks 1
+fill ~15~5~23 ~17~5~23 minecraft:deepslate_brick_stairs 3
+fill ~16~1~23 ~16~1~24 minecraft:bed 3
+fill ~19~0~23 ~21~0~23 minecraft:spruce_trapdoor 2
+fill ~21~6~23 ~21~6~24 minecraft:farmland 7
+fill ~21~7~23 ~21~7~24 minecraft:carrots 7
+fill ~21~9~23 ~21~9~24 minecraft:dark_oak_stairs 4
+fill ~21~12~23 ~21~12~24 minecraft:dark_oak_stairs 0
+fill ~21~13~23 ~21~13~24 minecraft:spruce_fence_gate 3
+setblock ~21~14~23 minecraft:deepslate_brick_slab 0
+fill ~22~9~23 ~22~9~24 minecraft:planks 1
+fill ~22~10~23 ~22~11~24 minecraft:glass_pane
+fill ~22~12~23 ~22~13~24 minecraft:planks 1
+fill ~22~14~23 ~22~14~24 minecraft:log 1
+fill ~22~15~23 ~23~15~23 minecraft:log 1
+setblock ~22~16~23 minecraft:deepslate_brick_wall 0
+fill ~22~17~23 ~22~18~23 minecraft:fence 4
+setblock ~22~19~23 minecraft:deepslate_brick_wall 0
+setblock ~22~20~23 minecraft:deepslate_brick_stairs 7
+setblock ~22~21~23 minecraft:deepslate_brick_stairs 2
+setblock ~23~5~23 minecraft:grass
+setblock ~23~6~23 minecraft:bamboo 1
+setblock ~23~7~23 minecraft:bamboo 1
+fill ~23~9~23 ~23~9~25 minecraft:bookshelf
+fill ~23~13~23 ~23~13~24 minecraft:dark_oak_fence_gate 1
+fill ~23~14~23 ~25~14~32 minecraft:planks 1
+fill ~23~16~23 ~23~20~23 minecraft:log 1
+fill ~23~21~23 ~24~21~23 minecraft:dark_oak_stairs 2
+setblock ~24~5~23 minecraft:log 1
+setblock ~24~7~23 minecraft:lantern 1
+setblock ~24~9~23 minecraft:carpet 5
+fill ~24~15~23 ~24~16~23 minecraft:deepslate_bricks
+setblock ~24~19~23 minecraft:fence 5
+setblock ~24~20~23 minecraft:log 1
+fill ~25~5~23 ~31~5~23 minecraft:spruce_trapdoor 2
+setblock ~25~9~23 minecraft:carpet 0
+setblock ~25~15~23 minecraft:dark_oak_stairs 4
+setblock ~25~16~23 minecraft:flower_pot
+setblock ~25~19~23 minecraft:dark_oak_fence_gate 2
+setblock ~26~9~23 minecraft:carpet 5
+fill ~26~10~23 ~26~14~23 minecraft:ladder 3
+setblock ~26~18~23 minecraft:lantern 1
+setblock ~26~19~23 minecraft:fence 5
+setblock ~26~20~23 minecraft:log 1
+setblock ~27~9~23 minecraft:carpet 0
+fill ~27~14~23 ~33~14~32 minecraft:planks 1
+fill ~27~15~23 ~27~19~23 minecraft:stripped_spruce_log 0
+setblock ~28~7~23 minecraft:lantern 1
+setblock ~28~9~23 minecraft:carpet 5
+setblock ~28~15~23 minecraft:stripped_spruce_log 1
+fill ~28~16~23 ~28~18~23 minecraft:glass_pane
+setblock ~28~19~23 minecraft:stripped_spruce_log 1
+setblock ~28~22~23 minecraft:lantern 1
+setblock ~28~23~23 minecraft:deepslate_brick_wall 0
+setblock ~28~25~23 minecraft:deepslate_brick_double_slab 0
+setblock ~29~9~23 minecraft:carpet 0
+fill ~29~15~23 ~29~19~23 minecraft:stripped_spruce_log 0
+setblock ~30~9~23 minecraft:carpet 5
+setblock ~30~15~23 minecraft:dark_oak_stairs 5
+setblock ~30~16~23 minecraft:anvil 3
+setblock ~30~18~23 minecraft:lantern 1
+setblock ~30~19~23 minecraft:fence 5
+setblock ~30~20~23 minecraft:log 1
+setblock ~31~9~23 minecraft:carpet 0
+setblock ~31~15~23 minecraft:dark_oak_stairs 4
+setblock ~31~16~23 minecraft:chest 3
+setblock ~31~19~23 minecraft:dark_oak_fence_gate 2
+setblock ~32~5~23 minecraft:log 1
+setblock ~32~7~23 minecraft:lantern 1
+setblock ~32~9~23 minecraft:carpet 5
+fill ~32~15~23 ~32~16~23 minecraft:deepslate_bricks
+setblock ~32~19~23 minecraft:fence 5
+fill ~32~20~23 ~33~20~23 minecraft:log 1
+fill ~33~4~23 ~33~4~31 minecraft:spruce_trapdoor 1
+setblock ~33~5~23 minecraft:grass
+setblock ~33~6~23 minecraft:bamboo 1
+setblock ~33~7~23 minecraft:bamboo 1
+fill ~33~9~23 ~33~9~25 minecraft:bookshelf
+fill ~33~13~23 ~33~13~24 minecraft:dark_oak_fence_gate 3
+fill ~33~15~23 ~34~15~23 minecraft:log 1
+fill ~33~16~23 ~33~19~23 minecraft:log 1
+setblock ~33~21~23 minecraft:dark_oak_stairs 2
+fill ~34~9~23 ~34~9~24 minecraft:planks 1
+fill ~34~10~23 ~34~11~24 minecraft:glass_pane
+fill ~34~12~23 ~34~13~24 minecraft:planks 1
+fill ~34~14~23 ~34~14~24 minecraft:log 1
+setblock ~34~16~23 minecraft:deepslate_brick_wall 0
+fill ~34~17~23 ~34~18~23 minecraft:fence 4
+setblock ~34~19~23 minecraft:deepslate_brick_wall 0
+setblock ~34~20~23 minecraft:deepslate_brick_stairs 7
+setblock ~34~21~23 minecraft:deepslate_brick_stairs 2
+fill ~35~0~23 ~37~0~23 minecraft:spruce_trapdoor 2
+setblock ~35~6~23 minecraft:dirt 0
+fill ~35~9~23 ~35~9~24 minecraft:dark_oak_stairs 5
+fill ~35~12~23 ~35~12~24 minecraft:dark_oak_stairs 1
+fill ~35~13~23 ~35~13~24 minecraft:spruce_fence_gate 1
+setblock ~35~14~23 minecraft:deepslate_brick_slab 0
+fill ~39~5~23 ~41~5~23 minecraft:deepslate_brick_stairs 3
+fill ~40~1~23 ~40~1~24 minecraft:bed 1
+fill ~41~0~23 ~41~0~24 minecraft:planks 1
+fill ~42~0~23 ~42~0~24 minecraft:glowstone
+fill ~42~1~23 ~42~1~24 minecraft:carpet 15
+fill ~43~0~23 ~43~0~25 minecraft:spruce_trapdoor 0
+fill ~43~5~23 ~45~5~23 minecraft:barrel 1
+setblock ~45~6~23 minecraft:lantern 0
+setblock ~49~0~23 minecraft:dark_oak_door 2
+fill ~3~0~24 ~6~1~24 minecraft:chest 2
+setblock ~6~9~24 minecraft:jungle_trapdoor 3
+fill ~7~0~24 ~7~1~25 minecraft:planks 1
+setblock ~15~5~24 minecraft:dark_oak_stairs 5
+setblock ~15~6~24 minecraft:flower_pot
+setblock ~16~5~24 minecraft:spruce_trapdoor 2
+fill ~16~6~24 ~17~6~24 minecraft:chest 3
+setblock ~17~5~24 minecraft:dark_oak_stairs 4
+fill ~19~0~24 ~19~2~24 minecraft:dark_oak_stairs 7
+setblock ~21~14~24 minecraft:deepslate_bricks
+setblock ~22~15~24 minecraft:fence 5
+setblock ~22~18~24 minecraft:lantern 1
+setblock ~22~19~24 minecraft:dark_oak_stairs 0
+fill ~22~20~24 ~22~20~30 minecraft:dark_oak_stairs 4
+setblock ~22~21~24 minecraft:deepslate_brick_stairs 7
+setblock ~22~22~24 minecraft:deepslate_brick_stairs 2
+setblock ~23~5~24 minecraft:dirt 0
+setblock ~23~6~24 minecraft:barrel 0
+fill ~23~7~24 ~33~7~24 minecraft:log 1
+setblock ~23~10~24 minecraft:stonecutter_block 5
+setblock ~23~15~24 minecraft:planks 1
+fill ~23~16~24 ~23~18~24 minecraft:glass_pane
+setblock ~23~19~24 minecraft:planks 1
+fill ~23~20~24 ~24~20~24 minecraft:log 1
+fill ~23~21~24 ~23~21~25 minecraft:fence 4
+fill ~23~22~24 ~25~22~24 minecraft:dark_oak_stairs 2
+fill ~24~5~24 ~24~5~30 minecraft:spruce_trapdoor 0
+setblock ~24~9~24 minecraft:carpet 0
+setblock ~24~15~24 minecraft:dark_oak_stairs 7
+setblock ~24~16~24 minecraft:chest 5
+setblock ~24~19~24 minecraft:dark_oak_fence_gate 1
+setblock ~25~9~24 minecraft:carpet 5
+setblock ~25~15~24 minecraft:carpet 14
+setblock ~26~9~24 minecraft:carpet 0
+fill ~26~14~24 ~26~14~32 minecraft:planks 1
+setblock ~26~15~24 minecraft:carpet 10
+setblock ~27~9~24 minecraft:carpet 5
+setblock ~27~15~24 minecraft:carpet 14
+setblock ~27~18~24 minecraft:glow_frame 3
+setblock ~28~9~24 minecraft:dark_oak_stairs 3
+setblock ~28~15~24 minecraft:carpet 10
+setblock ~28~25~24 minecraft:deepslate_brick_slab 0
+setblock ~29~9~24 minecraft:carpet 5
+setblock ~29~15~24 minecraft:carpet 14
+setblock ~29~18~24 minecraft:glow_frame 3
+setblock ~30~9~24 minecraft:carpet 0
+setblock ~30~15~24 minecraft:carpet 10
+setblock ~31~9~24 minecraft:carpet 5
+setblock ~31~15~24 minecraft:carpet 14
+fill ~32~5~24 ~32~5~30 minecraft:spruce_trapdoor 1
+setblock ~32~9~24 minecraft:carpet 0
+setblock ~32~15~24 minecraft:dark_oak_stairs 7
+setblock ~32~16~24 minecraft:chest 4
+setblock ~32~19~24 minecraft:dark_oak_fence_gate 3
+fill ~32~20~24 ~33~20~24 minecraft:log 1
+fill ~32~22~24 ~33~22~24 minecraft:dark_oak_stairs 2
+setblock ~33~5~24 minecraft:dirt 0
+setblock ~33~6~24 minecraft:barrel 0
+setblock ~33~10~24 minecraft:chest 4
+setblock ~33~15~24 minecraft:planks 1
+fill ~33~16~24 ~33~18~24 minecraft:glass_pane
+setblock ~33~19~24 minecraft:planks 1
+fill ~33~21~24 ~33~21~25 minecraft:fence 4
+setblock ~34~15~24 minecraft:fence 5
+setblock ~34~18~24 minecraft:lantern 1
+setblock ~34~19~24 minecraft:dark_oak_stairs 1
+fill ~34~20~24 ~34~20~30 minecraft:dark_oak_stairs 5
+setblock ~34~21~24 minecraft:deepslate_brick_stairs 7
+setblock ~34~22~24 minecraft:deepslate_brick_stairs 2
+setblock ~35~6~24 minecraft:farmland 7
+setblock ~35~7~24 minecraft:carrots 7
+setblock ~35~14~24 minecraft:deepslate_bricks
+fill ~37~0~24 ~37~2~24 minecraft:dark_oak_stairs 7
+setblock ~39~5~24 minecraft:dark_oak_stairs 5
+fill ~39~6~24 ~40~6~24 minecraft:chest 3
+setblock ~40~5~24 minecraft:spruce_trapdoor 2
+setblock ~41~5~24 minecraft:dark_oak_stairs 4
+setblock ~41~6~24 minecraft:flower_pot
+fill ~49~0~24 ~49~1~25 minecraft:planks 1
+fill ~50~0~24 ~53~1~24 minecraft:chest 2
+setblock ~50~9~24 minecraft:jungle_trapdoor 3
+fill ~1~0~25 ~6~0~25 minecraft:log 1
+setblock ~1~1~25 minecraft:deepslate_brick_wall 0
+setblock ~2~1~25 minecraft:log 1
+setblock ~2~2~25 minecraft:deepslate_brick_wall 0
+fill ~3~1~25 ~5~1~25 minecraft:fence 5
+setblock ~3~2~25 minecraft:log 1
+setblock ~3~3~25 minecraft:deepslate_brick_wall 0
+fill ~4~2~25 ~5~2~25 minecraft:fence 5
+setblock ~4~3~25 minecraft:log 1
+setblock ~4~4~25 minecraft:deepslate_brick_wall 0
+setblock ~5~3~25 minecraft:fence 5
+fill ~5~4~25 ~6~4~25 minecraft:log 1
+setblock ~5~5~25 minecraft:deepslate_brick_wall 0
+setblock ~5~9~25 minecraft:jungle_trapdoor 1
+fill ~6~1~25 ~6~3~25 minecraft:log 1
+setblock ~6~5~25 minecraft:log 1
+setblock ~6~6~25 minecraft:deepslate_brick_wall 0
+setblock ~6~7~25 minecraft:fence 5
+setblock ~6~8~25 minecraft:deepslate_brick_wall 0
+setblock ~6~9~25 minecraft:glowstone
+setblock ~6~10~25 minecraft:deepslate_brick_slab 0
+fill ~7~5~25 ~7~5~26 minecraft:blast_furnace 5
+setblock ~7~9~25 minecraft:jungle_trapdoor 0
+setblock ~8~0~25 minecraft:flower_pot
+fill ~8~1~25 ~8~2~25 minecraft:leaves 0
+setblock ~10~3~25 minecraft:lantern 1
+setblock ~14~0~25 minecraft:planks 1
+setblock ~14~1~25 minecraft:spruce_trapdoor 1
+setblock ~15~0~25 minecraft:glowstone
+setblock ~15~1~25 minecraft:carpet 15
+setblock ~16~1~25 minecraft:spruce_trapdoor 1
+setblock ~17~2~25 minecraft:lantern 0
+setblock ~17~5~25 minecraft:deepslate_brick_wall 0
+setblock ~17~6~25 minecraft:lantern 0
+fill ~18~5~25 ~21~5~25 minecraft:log 1
+setblock ~18~6~25 minecraft:deepslate_brick_wall 0
+fill ~19~0~25 ~19~2~25 minecraft:dark_oak_stairs 6
+fill ~19~6~25 ~21~6~25 minecraft:log 1
+setblock ~19~7~25 minecraft:deepslate_brick_wall 0
+setblock ~19~8~25 minecraft:lantern 0
+fill ~20~7~25 ~21~7~25 minecraft:log 1
+setblock ~20~8~25 minecraft:deepslate_brick_wall 0
+setblock ~21~8~25 minecraft:log 1
+setblock ~21~9~25 minecraft:deepslate_brick_wall 0
+fill ~21~10~25 ~21~12~25 minecraft:fence 4
+setblock ~21~13~25 minecraft:deepslate_brick_wall 0
+fill ~21~14~25 ~21~15~25 minecraft:deepslate_brick_slab 0
+setblock ~21~21~25 minecraft:dark_oak_trapdoor 1
+fill ~22~5~25 ~22~5~32 minecraft:planks 1
+fill ~22~9~25 ~22~15~25 minecraft:log 1
+setblock ~22~16~25 minecraft:deepslate_brick_wall 0
+fill ~22~17~25 ~22~18~25 minecraft:fence 4
+setblock ~22~19~25 minecraft:deepslate_brick_wall 0
+setblock ~22~21~25 minecraft:glowstone
+setblock ~22~22~25 minecraft:deepslate_brick_stairs 7
+setblock ~22~23~25 minecraft:deepslate_brick_stairs 2
+fill ~23~5~25 ~23~5~29 minecraft:grass
+fill ~23~6~25 ~23~6~29 minecraft:bamboo 1
+fill ~23~7~25 ~23~7~29 minecraft:bamboo 1
+setblock ~23~10~25 minecraft:loom 3
+setblock ~23~12~25 minecraft:lantern 1
+setblock ~23~13~25 minecraft:fence 5
+fill ~23~15~25 ~23~20~25 minecraft:log 1
+setblock ~23~22~25 minecraft:fence 4
+fill ~23~23~25 ~26~23~25 minecraft:dark_oak_stairs 2
+setblock ~24~9~25 minecraft:carpet 5
+setblock ~24~15~25 minecraft:dark_oak_stairs 6
+setblock ~24~16~25 minecraft:anvil 2
+setblock ~24~18~25 minecraft:lantern 1
+setblock ~24~19~25 minecraft:fence 5
+fill ~24~20~25 ~24~20~30 minecraft:log 1
+fill ~25~7~25 ~25~7~29 minecraft:log 1
+setblock ~25~9~25 minecraft:carpet 0
+setblock ~25~15~25 minecraft:carpet 10
+fill ~26~6~25 ~30~6~29 minecraft:jungle_trapdoor 0
+fill ~26~7~25 ~30~7~29 minecraft:glowstone
+setblock ~26~9~25 minecraft:log 1
+setblock ~26~10~25 minecraft:torch 5
+fill ~26~15~25 ~27~15~25 minecraft:bookshelf
+setblock ~26~16~25 minecraft:bookshelf
+setblock ~26~17~25 minecraft:light_blue_candle 2
+fill ~27~9~25 ~27~9~26 minecraft:wooden_slab 9
+setblock ~27~10~25 minecraft:flower_pot
+setblock ~27~16~25 minecraft:fence 5
+setblock ~28~9~25 minecraft:wooden_slab 13
+setblock ~28~15~25 minecraft:dark_oak_fence_gate 2
+setblock ~28~25~25 minecraft:deepslate_brick_double_slab 0
+fill ~29~9~25 ~29~9~26 minecraft:wooden_slab 9
+fill ~29~15~25 ~30~15~25 minecraft:bookshelf
+setblock ~29~16~25 minecraft:fence 5
+setblock ~30~9~25 minecraft:log 1
+setblock ~30~10~25 minecraft:torch 5
+setblock ~30~16~25 minecraft:bookshelf
+setblock ~30~17~25 minecraft:light_blue_candle 2
+fill ~30~23~25 ~33~23~25 minecraft:dark_oak_stairs 2
+fill ~31~7~25 ~31~7~29 minecraft:log 1
+setblock ~31~9~25 minecraft:carpet 0
+setblock ~31~15~25 minecraft:carpet 10
+setblock ~32~9~25 minecraft:carpet 5
+setblock ~32~15~25 minecraft:dark_oak_stairs 6
+setblock ~32~16~25 minecraft:flower_pot
+setblock ~32~18~25 minecraft:lantern 1
+setblock ~32~19~25 minecraft:fence 5
+fill ~32~20~25 ~32~20~30 minecraft:log 1
+fill ~33~5~25 ~33~5~29 minecraft:grass
+fill ~33~6~25 ~33~6~29 minecraft:bamboo 1
+fill ~33~7~25 ~33~7~29 minecraft:bamboo 1
+setblock ~33~10~25 minecraft:ender_chest 4
+setblock ~33~12~25 minecraft:lantern 1
+setblock ~33~13~25 minecraft:fence 5
+fill ~33~15~25 ~34~15~25 minecraft:log 1
+fill ~33~16~25 ~33~20~25 minecraft:log 1
+setblock ~33~22~25 minecraft:fence 4
+fill ~34~5~25 ~34~5~32 minecraft:planks 1
+fill ~34~9~25 ~34~14~25 minecraft:log 1
+setblock ~34~16~25 minecraft:deepslate_brick_wall 0
+fill ~34~17~25 ~34~18~25 minecraft:fence 4
+setblock ~34~19~25 minecraft:deepslate_brick_wall 0
+setblock ~34~21~25 minecraft:glowstone
+setblock ~34~22~25 minecraft:deepslate_brick_stairs 7
+setblock ~34~23~25 minecraft:deepslate_brick_stairs 2
+fill ~35~5~25 ~38~5~25 minecraft:log 1
+fill ~35~6~25 ~37~6~25 minecraft:log 1
+fill ~35~7~25 ~36~7~25 minecraft:log 1
+setblock ~35~8~25 minecraft:log 1
+setblock ~35~9~25 minecraft:deepslate_brick_wall 0
+fill ~35~10~25 ~35~12~25 minecraft:fence 4
+setblock ~35~13~25 minecraft:deepslate_brick_wall 0
+fill ~35~14~25 ~35~15~25 minecraft:deepslate_brick_slab 0
+setblock ~35~21~25 minecraft:dark_oak_trapdoor 0
+setblock ~36~8~25 minecraft:deepslate_brick_wall 0
+fill ~37~0~25 ~37~2~25 minecraft:dark_oak_stairs 6
+setblock ~37~7~25 minecraft:deepslate_brick_wall 0
+setblock ~37~8~25 minecraft:lantern 0
+setblock ~38~6~25 minecraft:deepslate_brick_wall 0
+setblock ~39~2~25 minecraft:lantern 0
+setblock ~39~5~25 minecraft:deepslate_brick_wall 0
+setblock ~39~6~25 minecraft:lantern 0
+setblock ~40~1~25 minecraft:spruce_trapdoor 0
+setblock ~41~0~25 minecraft:glowstone
+setblock ~41~1~25 minecraft:carpet 15
+setblock ~42~0~25 minecraft:planks 1
+setblock ~42~1~25 minecraft:spruce_trapdoor 0
+setblock ~46~3~25 minecraft:lantern 1
+setblock ~48~0~25 minecraft:flower_pot
+fill ~48~1~25 ~48~2~25 minecraft:leaves 0
+fill ~49~5~25 ~49~5~26 minecraft:smoker 4
+setblock ~49~9~25 minecraft:jungle_trapdoor 1
+fill ~50~0~25 ~55~0~25 minecraft:log 1
+fill ~50~1~25 ~50~5~25 minecraft:log 1
+setblock ~50~6~25 minecraft:deepslate_brick_wall 0
+setblock ~50~7~25 minecraft:fence 5
+setblock ~50~8~25 minecraft:deepslate_brick_wall 0
+setblock ~50~9~25 minecraft:glowstone
+setblock ~50~10~25 minecraft:deepslate_brick_slab 0
+fill ~51~1~25 ~53~1~25 minecraft:fence 5
+fill ~51~2~25 ~52~2~25 minecraft:fence 5
+setblock ~51~3~25 minecraft:fence 5
+setblock ~51~4~25 minecraft:log 1
+setblock ~51~5~25 minecraft:deepslate_brick_wall 0
+setblock ~51~9~25 minecraft:jungle_trapdoor 0
+setblock ~52~3~25 minecraft:log 1
+setblock ~52~4~25 minecraft:deepslate_brick_wall 0
+setblock ~52~5~25 minecraft:lantern 0
+setblock ~53~2~25 minecraft:log 1
+setblock ~53~3~25 minecraft:deepslate_brick_wall 0
+setblock ~54~1~25 minecraft:log 1
+setblock ~54~2~25 minecraft:deepslate_brick_wall 0
+setblock ~54~3~25 minecraft:lantern 0
+setblock ~55~1~25 minecraft:deepslate_brick_wall 0
+setblock ~56~0~25 minecraft:deepslate_brick_wall 0
+setblock ~56~1~25 minecraft:lantern 0
+fill ~5~3~26 ~5~3~28 minecraft:dark_oak_stairs 0
+fill ~5~4~26 ~5~4~28 minecraft:trapdoor 1
+setblock ~6~0~26 minecraft:deepslate_brick_wall 0
+setblock ~6~1~26 minecraft:fence 5
+setblock ~6~2~26 minecraft:deepslate_brick_wall 0
+fill ~6~3~26 ~6~3~28 minecraft:log 1
+fill ~6~4~26 ~6~4~28 minecraft:glowstone
+fill ~6~5~26 ~6~5~28 minecraft:leaves 0
+setblock ~6~9~26 minecraft:jungle_trapdoor 2
+fill ~7~0~26 ~7~3~26 minecraft:stripped_spruce_log 0
+fill ~8~0~26 ~8~1~26 minecraft:fence 5
+fill ~8~2~26 ~8~2~28 minecraft:dark_oak_stairs 1
+fill ~14~0~26 ~17~0~26 minecraft:spruce_trapdoor 2
+fill ~18~0~26 ~18~3~26 minecraft:log 1
+fill ~18~5~26 ~18~5~28 minecraft:spruce_stairs 0
+fill ~19~6~26 ~19~6~28 minecraft:spruce_stairs 0
+setblock ~20~5~26 minecraft:torch 5
+fill ~20~7~26 ~20~7~28 minecraft:spruce_stairs 0
+fill ~21~8~26 ~21~8~28 minecraft:spruce_stairs 0
+fill ~21~12~26 ~21~12~28 minecraft:dark_oak_stairs 0
+fill ~21~13~26 ~21~13~28 minecraft:trapdoor 1
+setblock ~21~14~26 minecraft:deepslate_bricks
+setblock ~22~9~26 minecraft:deepslate_brick_wall 0
+setblock ~22~10~26 minecraft:fence 5
+setblock ~22~11~26 minecraft:deepslate_brick_wall 0
+fill ~22~12~26 ~22~12~28 minecraft:log 1
+fill ~22~13~26 ~22~13~28 minecraft:glowstone
+fill ~22~14~26 ~22~14~28 minecraft:log 1
+setblock ~22~15~26 minecraft:fence 5
+setblock ~22~21~26 minecraft:deepslate_brick_wall 0
+setblock ~22~22~26 minecraft:fence 1
+setblock ~22~23~26 minecraft:deepslate_brick_stairs 7
+setblock ~22~24~26 minecraft:deepslate_brick_stairs 2
+fill ~23~9~26 ~23~13~26 minecraft:stripped_spruce_log 0
+setblock ~23~15~26 minecraft:dark_oak_stairs 4
+setblock ~23~16~26 minecraft:deepslate_brick_wall 0
+setblock ~23~17~26 minecraft:fence 5
+setblock ~23~18~26 minecraft:deepslate_brick_wall 0
+fill ~23~19~26 ~23~19~28 minecraft:dark_oak_stairs 0
+fill ~23~20~26 ~23~20~28 minecraft:log 1
+fill ~23~21~26 ~23~23~26 minecraft:log 1
+fill ~23~24~26 ~27~24~26 minecraft:dark_oak_stairs 2
+setblock ~24~9~26 minecraft:carpet 0
+fill ~24~15~26 ~24~19~26 minecraft:stripped_spruce_log 0
+setblock ~25~9~26 minecraft:carpet 5
+setblock ~25~15~26 minecraft:carpet 14
+setblock ~25~18~26 minecraft:glow_frame 3
+setblock ~26~9~26 minecraft:wooden_slab 9
+setblock ~26~15~26 minecraft:bookshelf
+setblock ~26~16~26 minecraft:fence 5
+setblock ~27~10~26 minecraft:spruce_trapdoor 3
+setblock ~27~15~26 minecraft:carpet 14
+setblock ~28~9~26 minecraft:glowstone
+setblock ~28~10~26 minecraft:carpet 2
+setblock ~28~13~26 minecraft:dark_oak_stairs 6
+setblock ~28~15~26 minecraft:carpet 10
+setblock ~28~25~26 minecraft:deepslate_brick_slab 0
+setblock ~29~10~26 minecraft:spruce_trapdoor 3
+setblock ~29~15~26 minecraft:carpet 14
+setblock ~30~9~26 minecraft:wooden_slab 9
+setblock ~30~15~26 minecraft:bookshelf
+setblock ~30~16~26 minecraft:fence 5
+fill ~30~24~26 ~33~24~26 minecraft:dark_oak_stairs 2
+setblock ~31~9~26 minecraft:carpet 5
+setblock ~31~15~26 minecraft:carpet 14
+setblock ~31~18~26 minecraft:glow_frame 4
+setblock ~32~9~26 minecraft:carpet 0
+fill ~32~15~26 ~32~19~26 minecraft:stripped_spruce_log 0
+fill ~33~9~26 ~33~13~26 minecraft:stripped_spruce_log 0
+setblock ~33~15~26 minecraft:dark_oak_stairs 5
+setblock ~33~16~26 minecraft:deepslate_brick_wall 0
+setblock ~33~17~26 minecraft:fence 5
+setblock ~33~18~26 minecraft:deepslate_brick_wall 0
+fill ~33~19~26 ~33~19~28 minecraft:dark_oak_stairs 1
+fill ~33~20~26 ~33~20~28 minecraft:log 1
+fill ~33~21~26 ~33~23~26 minecraft:log 1
+setblock ~34~9~26 minecraft:deepslate_brick_wall 0
+setblock ~34~10~26 minecraft:fence 5
+setblock ~34~11~26 minecraft:deepslate_brick_wall 0
+fill ~34~12~26 ~34~12~28 minecraft:log 1
+fill ~34~13~26 ~34~13~28 minecraft:glowstone
+fill ~34~14~26 ~34~14~28 minecraft:log 1
+setblock ~34~15~26 minecraft:fence 5
+setblock ~34~21~26 minecraft:deepslate_brick_wall 0
+setblock ~34~22~26 minecraft:fence 1
+setblock ~34~23~26 minecraft:deepslate_brick_stairs 7
+setblock ~34~24~26 minecraft:deepslate_brick_stairs 2
+fill ~35~8~26 ~35~8~28 minecraft:spruce_stairs 1
+fill ~35~12~26 ~35~12~28 minecraft:dark_oak_stairs 1
+fill ~35~13~26 ~35~13~28 minecraft:trapdoor 0
+setblock ~35~14~26 minecraft:deepslate_bricks
+fill ~36~7~26 ~36~7~28 minecraft:spruce_stairs 1
+setblock ~37~5~26 minecraft:torch 5
+fill ~37~6~26 ~37~6~28 minecraft:spruce_stairs 1
+fill ~38~0~26 ~38~3~26 minecraft:log 1
+fill ~38~5~26 ~38~5~28 minecraft:spruce_stairs 1
+fill ~39~0~26 ~42~0~26 minecraft:spruce_trapdoor 2
+fill ~48~0~26 ~48~1~26 minecraft:fence 5
+fill ~48~2~26 ~48~2~28 minecraft:dark_oak_stairs 0
+fill ~49~0~26 ~49~3~26 minecraft:stripped_spruce_log 0
+setblock ~50~0~26 minecraft:deepslate_brick_wall 0
+setblock ~50~1~26 minecraft:fence 5
+setblock ~50~2~26 minecraft:deepslate_brick_wall 0
+fill ~50~3~26 ~50~3~28 minecraft:log 1
+fill ~50~4~26 ~50~4~28 minecraft:glowstone
+fill ~50~5~26 ~50~5~28 minecraft:leaves 0
+setblock ~50~9~26 minecraft:jungle_trapdoor 2
+fill ~51~3~26 ~51~3~28 minecraft:dark_oak_stairs 1
+fill ~51~4~26 ~51~4~28 minecraft:trapdoor 0
+setblock ~5~2~27 minecraft:lantern 1
+setblock ~6~2~27 minecraft:dark_oak_stairs 4
+setblock ~7~0~27 minecraft:dark_oak_door 2
+setblock ~7~2~27 minecraft:stripped_spruce_log 2
+setblock ~7~3~27 minecraft:lantern 0
+setblock ~7~5~27 minecraft:crafting_table
+setblock ~8~3~27 minecraft:jungle_trapdoor 0
+setblock ~17~3~27 minecraft:jungle_trapdoor 1
+setblock ~18~0~27 minecraft:spruce_door 2
+setblock ~18~2~27 minecraft:log 1
+setblock ~18~3~27 minecraft:lantern 0
+setblock ~19~3~27 minecraft:jungle_trapdoor 0
+setblock ~21~11~27 minecraft:lantern 1
+setblock ~21~14~27 minecraft:deepslate_brick_slab 0
+setblock ~22~11~27 minecraft:dark_oak_stairs 0
+setblock ~22~15~27 minecraft:dark_oak_fence_gate 3
+setblock ~22~21~27 minecraft:lantern 0
+setblock ~22~24~27 minecraft:deepslate_brick_slab 0
+setblock ~22~25~27 minecraft:deepslate_brick_double_slab 0
+setblock ~23~9~27 minecraft:dark_oak_door 2
+setblock ~23~11~27 minecraft:stripped_spruce_log 2
+setblock ~23~12~27 minecraft:lantern 0
+setblock ~23~13~27 minecraft:trapdoor 0
+setblock ~23~15~27 minecraft:glowstone
+setblock ~23~18~27 minecraft:lantern 1
+setblock ~23~21~27 minecraft:deepslate_bricks
+setblock ~23~22~27 minecraft:fence 4
+setblock ~23~23~27 minecraft:deepslate_bricks
+fill ~23~24~27 ~24~24~27 minecraft:log 1
+setblock ~23~25~27 minecraft:deepslate_brick_slab 0
+setblock ~24~7~27 minecraft:lantern 1
+setblock ~24~9~27 minecraft:carpet 5
+setblock ~24~15~27 minecraft:stripped_spruce_log 2
+fill ~24~16~27 ~24~18~27 minecraft:glass_pane
+setblock ~24~19~27 minecraft:stripped_spruce_log 2
+setblock ~24~22~27 minecraft:lantern 1
+setblock ~24~23~27 minecraft:deepslate_brick_wall 0
+setblock ~24~25~27 minecraft:deepslate_brick_double_slab 0
+setblock ~25~9~27 minecraft:dark_oak_stairs 1
+setblock ~25~15~27 minecraft:carpet 10
+setblock ~25~25~27 minecraft:deepslate_brick_slab 0
+setblock ~26~9~27 minecraft:wooden_slab 13
+setblock ~26~15~27 minecraft:dark_oak_fence_gate 1
+setblock ~26~25~27 minecraft:deepslate_brick_double_slab 0
+setblock ~27~9~27 minecraft:glowstone
+setblock ~27~10~27 minecraft:carpet 2
+setblock ~27~13~27 minecraft:dark_oak_stairs 4
+setblock ~27~15~27 minecraft:carpet 10
+setblock ~27~25~27 minecraft:deepslate_brick_slab 0
+setblock ~28~9~27 minecraft:grass
+setblock ~28~10~27 minecraft:sweet_berry_bush 3
+setblock ~28~12~27 minecraft:jungle_trapdoor 3
+setblock ~28~13~27 minecraft:glowstone
+setblock ~28~15~27 minecraft:enchanting_table
+setblock ~28~21~27 minecraft:lantern 1
+fill ~28~22~27 ~28~23~27 minecraft:chain 0
+setblock ~28~24~27 minecraft:deepslate_brick_wall 0
+setblock ~28~25~27 minecraft:deepslate_brick_double_slab 0
+setblock ~29~9~27 minecraft:glowstone
+setblock ~29~10~27 minecraft:carpet 2
+setblock ~29~13~27 minecraft:dark_oak_stairs 5
+setblock ~29~15~27 minecraft:carpet 10
+setblock ~29~25~27 minecraft:deepslate_brick_slab 0
+setblock ~30~9~27 minecraft:wooden_slab 13
+setblock ~30~15~27 minecraft:dark_oak_fence_gate 3
+setblock ~30~25~27 minecraft:deepslate_brick_double_slab 0
+setblock ~31~9~27 minecraft:dark_oak_stairs 0
+setblock ~31~15~27 minecraft:carpet 10
+setblock ~31~25~27 minecraft:deepslate_brick_slab 0
+setblock ~32~7~27 minecraft:lantern 1
+setblock ~32~9~27 minecraft:carpet 5
+setblock ~32~15~27 minecraft:stripped_spruce_log 2
+fill ~32~16~27 ~32~18~27 minecraft:glass_pane
+setblock ~32~19~27 minecraft:stripped_spruce_log 2
+setblock ~32~22~27 minecraft:lantern 1
+setblock ~32~23~27 minecraft:deepslate_brick_wall 0
+fill ~32~24~27 ~33~24~27 minecraft:log 1
+setblock ~32~25~27 minecraft:deepslate_brick_double_slab 0
+setblock ~33~9~27 minecraft:dark_oak_door 0
+setblock ~33~11~27 minecraft:stripped_spruce_log 2
+setblock ~33~12~27 minecraft:lantern 0
+setblock ~33~13~27 minecraft:trapdoor 1
+setblock ~33~15~27 minecraft:glowstone
+setblock ~33~18~27 minecraft:lantern 1
+setblock ~33~21~27 minecraft:deepslate_bricks
+setblock ~33~22~27 minecraft:fence 4
+setblock ~33~23~27 minecraft:deepslate_bricks
+setblock ~33~25~27 minecraft:deepslate_brick_slab 0
+setblock ~34~11~27 minecraft:dark_oak_stairs 1
+setblock ~34~15~27 minecraft:dark_oak_fence_gate 1
+setblock ~34~21~27 minecraft:lantern 0
+setblock ~34~24~27 minecraft:deepslate_brick_slab 0
+setblock ~34~25~27 minecraft:deepslate_brick_double_slab 0
+setblock ~35~11~27 minecraft:lantern 1
+setblock ~35~14~27 minecraft:deepslate_brick_slab 0
+setblock ~37~3~27 minecraft:jungle_trapdoor 1
+setblock ~38~0~27 minecraft:spruce_door 0
+setblock ~38~2~27 minecraft:log 1
+setblock ~38~3~27 minecraft:lantern 0
+setblock ~39~3~27 minecraft:jungle_trapdoor 0
+setblock ~48~3~27 minecraft:jungle_trapdoor 1
+setblock ~49~0~27 minecraft:dark_oak_door 0
+setblock ~49~2~27 minecraft:stripped_spruce_log 2
+setblock ~49~3~27 minecraft:lantern 1
+setblock ~49~5~27 minecraft:crafting_table
+setblock ~50~2~27 minecraft:dark_oak_stairs 1
+setblock ~51~2~27 minecraft:lantern 1
+setblock ~6~0~28 minecraft:deepslate_brick_wall
+setblock ~6~1~28 minecraft:fence 5
+setblock ~6~2~28 minecraft:deepslate_brick_wall 0
+setblock ~6~9~28 minecraft:jungle_trapdoor 3
+fill ~7~0~28 ~7~3~28 minecraft:stripped_spruce_log 0
+fill ~7~5~28 ~7~5~29 minecraft:smoker 5
+fill ~8~0~28 ~8~1~28 minecraft:fence 5
+fill ~14~0~28 ~17~0~28 minecraft:spruce_trapdoor 3
+fill ~18~0~28 ~18~3~28 minecraft:log 1
+setblock ~20~5~28 minecraft:torch 5
+setblock ~21~14~28 minecraft:deepslate_bricks
+setblock ~22~9~28 minecraft:deepslate_brick_wall 0
+setblock ~22~10~28 minecraft:fence 5
+setblock ~22~11~28 minecraft:deepslate_brick_wall 0
+setblock ~22~15~28 minecraft:fence 5
+setblock ~22~21~28 minecraft:deepslate_brick_wall 0
+setblock ~22~22~28 minecraft:fence 1
+setblock ~22~23~28 minecraft:deepslate_brick_stairs 6
+setblock ~22~24~28 minecraft:deepslate_brick_stairs 3
+fill ~23~9~28 ~23~13~28 minecraft:stripped_spruce_log 0
+setblock ~23~15~28 minecraft:dark_oak_stairs 4
+setblock ~23~16~28 minecraft:deepslate_brick_wall 0
+setblock ~23~17~28 minecraft:fence 5
+setblock ~23~18~28 minecraft:deepslate_brick_wall 0
+fill ~23~21~28 ~23~23~28 minecraft:log 1
+fill ~23~24~28 ~26~24~28 minecraft:dark_oak_stairs 3
+setblock ~24~9~28 minecraft:carpet 0
+fill ~24~15~28 ~24~19~28 minecraft:stripped_spruce_log 0
+setblock ~25~9~28 minecraft:carpet 5
+setblock ~25~15~28 minecraft:carpet 14
+setblock ~25~18~28 minecraft:glow_frame 3
+fill ~26~9~28 ~27~9~28 minecraft:wooden_slab 9
+fill ~26~15~28 ~26~15~29 minecraft:bookshelf
+setblock ~26~16~28 minecraft:fence 5
+setblock ~27~10~28 minecraft:spruce_trapdoor 3
+setblock ~27~15~28 minecraft:carpet 14
+fill ~27~24~28 ~27~24~32 minecraft:dark_oak_stairs 0
+setblock ~28~9~28 minecraft:glowstone
+setblock ~28~10~28 minecraft:carpet 2
+setblock ~28~13~28 minecraft:dark_oak_stairs 7
+setblock ~28~15~28 minecraft:carpet 10
+setblock ~28~25~28 minecraft:deepslate_brick_slab 0
+fill ~29~9~28 ~30~9~28 minecraft:wooden_slab 9
+setblock ~29~10~28 minecraft:spruce_trapdoor 3
+setblock ~29~15~28 minecraft:carpet 14
+fill ~29~24~28 ~33~24~28 minecraft:dark_oak_stairs 3
+fill ~30~15~28 ~30~15~29 minecraft:bookshelf
+setblock ~30~16~28 minecraft:fence 5
+setblock ~31~9~28 minecraft:carpet 5
+setblock ~31~15~28 minecraft:carpet 14
+setblock ~31~18~28 minecraft:glow_frame 4
+setblock ~32~9~28 minecraft:carpet 0
+fill ~32~15~28 ~32~19~28 minecraft:stripped_spruce_log 0
+fill ~33~9~28 ~33~13~28 minecraft:stripped_spruce_log 0
+setblock ~33~15~28 minecraft:dark_oak_stairs 5
+setblock ~33~16~28 minecraft:deepslate_brick_wall 0
+setblock ~33~17~28 minecraft:fence 5
+setblock ~33~18~28 minecraft:deepslate_brick_wall 0
+fill ~33~21~28 ~33~23~28 minecraft:log 1
+setblock ~34~9~28 minecraft:deepslate_brick_wall 0
+setblock ~34~10~28 minecraft:fence 5
+setblock ~34~11~28 minecraft:deepslate_brick_wall 0
+setblock ~34~15~28 minecraft:fence 5
+setblock ~34~21~28 minecraft:deepslate_brick_wall 0
+setblock ~34~22~28 minecraft:fence 1
+setblock ~34~23~28 minecraft:deepslate_brick_stairs 6
+setblock ~34~24~28 minecraft:deepslate_brick_stairs 3
+setblock ~35~14~28 minecraft:deepslate_bricks
+setblock ~37~5~28 minecraft:torch 5
+fill ~38~0~28 ~38~3~28 minecraft:log 1
+fill ~39~0~28 ~42~0~28 minecraft:spruce_trapdoor 3
+fill ~48~0~28 ~48~1~28 minecraft:fence 5
+fill ~49~0~28 ~49~3~28 minecraft:stripped_spruce_log 0
+fill ~49~5~28 ~49~5~29 minecraft:blast_furnace 4
+setblock ~50~0~28 minecraft:deepslate_brick_wall 0
+setblock ~50~1~28 minecraft:fence 5
+setblock ~50~2~28 minecraft:deepslate_brick_wall 0
+setblock ~50~9~28 minecraft:jungle_trapdoor 3
+setblock ~0~0~29 minecraft:deepslate_brick_wall 0
+fill ~1~0~29 ~6~0~29 minecraft:log 1
+setblock ~1~1~29 minecraft:deepslate_brick_wall 0
+setblock ~2~1~29 minecraft:log 1
+setblock ~2~2~29 minecraft:deepslate_brick_wall 0
+fill ~3~1~29 ~5~1~29 minecraft:fence 5
+setblock ~3~2~29 minecraft:log 1
+setblock ~3~3~29 minecraft:deepslate_brick_wall 0
+fill ~4~2~29 ~5~2~29 minecraft:fence 5
+setblock ~4~3~29 minecraft:log 1
+setblock ~4~4~29 minecraft:deepslate_brick_wall 0
+setblock ~5~3~29 minecraft:fence 5
+fill ~5~4~29 ~6~4~29 minecraft:log 1
+setblock ~5~5~29 minecraft:deepslate_brick_wall 0
+setblock ~5~9~29 minecraft:jungle_trapdoor 1
+fill ~6~1~29 ~6~3~29 minecraft:log 1
+setblock ~6~5~29 minecraft:log 1
+setblock ~6~6~29 minecraft:deepslate_brick_wall 0
+setblock ~6~7~29 minecraft:fence 5
+setblock ~6~8~29 minecraft:deepslate_brick_wall 0
+setblock ~6~9~29 minecraft:glowstone
+setblock ~6~10~29 minecraft:deepslate_brick_slab 0
+fill ~7~0~29 ~7~3~30 minecraft:planks 1
+setblock ~7~9~29 minecraft:jungle_trapdoor 0
+setblock ~8~0~29 minecraft:flower_pot
+fill ~8~1~29 ~8~2~29 minecraft:leaves 0
+setblock ~10~3~29 minecraft:lantern 1
+fill ~13~0~29 ~13~0~31 minecraft:spruce_trapdoor 1
+setblock ~14~0~29 minecraft:planks 1
+setblock ~14~1~29 minecraft:spruce_trapdoor 1
+setblock ~15~0~29 minecraft:glowstone
+setblock ~15~1~29 minecraft:carpet 15
+fill ~16~0~29 ~18~0~32 minecraft:planks 1
+setblock ~16~1~29 minecraft:spruce_trapdoor 1
+fill ~17~1~29 ~17~1~32 minecraft:bookshelf
+setblock ~17~2~29 minecraft:lantern 0
+setblock ~17~5~29 minecraft:deepslate_brick_wall 0
+setblock ~17~6~29 minecraft:lantern 0
+fill ~18~1~29 ~18~3~32 minecraft:planks 1
+fill ~18~5~29 ~21~5~29 minecraft:log 1
+setblock ~18~6~29 minecraft:deepslate_brick_wall 0
+fill ~19~0~29 ~19~2~29 minecraft:dark_oak_stairs 7
+fill ~19~6~29 ~21~6~29 minecraft:log 1
+setblock ~19~7~29 minecraft:deepslate_brick_wall 0
+setblock ~19~8~29 minecraft:lantern 0
+fill ~20~7~29 ~21~7~29 minecraft:log 1
+setblock ~20~8~29 minecraft:deepslate_brick_wall 0
+setblock ~21~8~29 minecraft:log 1
+setblock ~21~9~29 minecraft:deepslate_brick_wall 0
+fill ~21~10~29 ~21~12~29 minecraft:fence 4
+setblock ~21~13~29 minecraft:deepslate_brick_wall 0
+fill ~21~14~29 ~21~15~29 minecraft:deepslate_brick_slab 0
+setblock ~21~21~29 minecraft:dark_oak_trapdoor 1
+fill ~22~9~29 ~22~15~29 minecraft:log 1
+setblock ~22~16~29 minecraft:deepslate_brick_wall 0
+fill ~22~17~29 ~22~18~29 minecraft:fence 4
+setblock ~22~19~29 minecraft:deepslate_brick_wall 0
+setblock ~22~21~29 minecraft:glowstone
+setblock ~22~22~29 minecraft:deepslate_brick_stairs 6
+setblock ~22~23~29 minecraft:deepslate_brick_stairs 3
+fill ~23~9~29 ~23~9~32 minecraft:bookshelf
+setblock ~23~10~29 minecraft:ender_chest 5
+setblock ~23~12~29 minecraft:lantern 1
+setblock ~23~13~29 minecraft:fence 5
+fill ~23~15~29 ~23~20~29 minecraft:log 1
+fill ~23~21~29 ~23~21~30 minecraft:fence 4
+setblock ~23~22~29 minecraft:fence 4
+fill ~23~23~29 ~26~23~29 minecraft:dark_oak_stairs 3
+setblock ~24~9~29 minecraft:carpet 5
+setblock ~24~15~29 minecraft:dark_oak_stairs 7
+setblock ~24~16~29 minecraft:anvil 2
+setblock ~24~18~29 minecraft:lantern 1
+setblock ~24~19~29 minecraft:fence 5
+setblock ~25~9~29 minecraft:carpet 0
+setblock ~25~15~29 minecraft:carpet 10
+setblock ~26~9~29 minecraft:log 1
+setblock ~26~10~29 minecraft:torch 5
+setblock ~26~16~29 minecraft:bookshelf
+setblock ~26~17~29 minecraft:light_blue_candle 2
+setblock ~27~9~29 minecraft:wooden_slab 9
+setblock ~27~15~29 minecraft:bookshelf
+setblock ~27~16~29 minecraft:fence 5
+setblock ~28~9~29 minecraft:wooden_slab 13
+setblock ~28~15~29 minecraft:dark_oak_fence_gate 0
+setblock ~28~25~29 minecraft:deepslate_brick_double_slab 0
+setblock ~29~9~29 minecraft:wooden_slab 9
+setblock ~29~10~29 minecraft:flower_pot
+setblock ~29~15~29 minecraft:bookshelf
+setblock ~29~16~29 minecraft:fence 5
+fill ~29~24~29 ~29~24~32 minecraft:dark_oak_stairs 1
+setblock ~30~9~29 minecraft:log 1
+setblock ~30~10~29 minecraft:torch 5
+setblock ~30~16~29 minecraft:bookshelf
+setblock ~30~17~29 minecraft:light_blue_candle 2
+fill ~30~23~29 ~30~23~32 minecraft:dark_oak_stairs 1
+setblock ~31~9~29 minecraft:carpet 0
+setblock ~31~15~29 minecraft:carpet 10
+fill ~31~23~29 ~33~23~29 minecraft:dark_oak_stairs 3
+setblock ~32~9~29 minecraft:carpet 5
+setblock ~32~15~29 minecraft:dark_oak_stairs 7
+setblock ~32~16~29 minecraft:flower_pot
+setblock ~32~18~29 minecraft:lantern 1
+setblock ~32~19~29 minecraft:fence 5
+fill ~33~9~29 ~33~9~32 minecraft:bookshelf
+setblock ~33~10~29 minecraft:loom 1
+setblock ~33~12~29 minecraft:lantern 1
+setblock ~33~13~29 minecraft:fence 5
+fill ~33~15~29 ~34~15~29 minecraft:log 1
+fill ~33~16~29 ~33~20~29 minecraft:log 1
+fill ~33~21~29 ~33~21~30 minecraft:fence 4
+setblock ~33~22~29 minecraft:fence 4
+fill ~34~9~29 ~34~14~29 minecraft:log 1
+setblock ~34~16~29 minecraft:deepslate_brick_wall 0
+fill ~34~17~29 ~34~18~29 minecraft:fence 4
+setblock ~34~19~29 minecraft:deepslate_brick_wall 0
+setblock ~34~21~29 minecraft:glowstone
+setblock ~34~22~29 minecraft:deepslate_brick_stairs 6
+setblock ~34~23~29 minecraft:deepslate_brick_stairs 3
+fill ~35~5~29 ~38~5~29 minecraft:log 1
+fill ~35~6~29 ~37~6~29 minecraft:log 1
+fill ~35~7~29 ~36~7~29 minecraft:log 1
+setblock ~35~8~29 minecraft:log 1
+setblock ~35~9~29 minecraft:deepslate_brick_wall 0
+fill ~35~10~29 ~35~12~29 minecraft:fence 4
+setblock ~35~13~29 minecraft:deepslate_brick_wall 0
+fill ~35~14~29 ~35~15~29 minecraft:deepslate_brick_slab 0
+setblock ~35~21~29 minecraft:dark_oak_trapdoor 0
+setblock ~36~8~29 minecraft:deepslate_brick_wall 0
+fill ~37~0~29 ~37~2~29 minecraft:dark_oak_stairs 7
+setblock ~37~7~29 minecraft:deepslate_brick_wall 0
+setblock ~37~8~29 minecraft:lantern 0
+fill ~38~0~29 ~40~0~32 minecraft:planks 1
+fill ~38~1~29 ~38~3~32 minecraft:planks 1
+setblock ~38~6~29 minecraft:deepslate_brick_wall 0
+fill ~39~1~29 ~39~1~32 minecraft:bookshelf
+setblock ~39~2~29 minecraft:lantern 0
+setblock ~39~5~29 minecraft:deepslate_brick_wall 0
+setblock ~39~6~29 minecraft:lantern 0
+setblock ~40~1~29 minecraft:spruce_trapdoor 0
+setblock ~41~0~29 minecraft:glowstone
+setblock ~41~1~29 minecraft:carpet 15
+setblock ~42~0~29 minecraft:planks 1
+setblock ~42~1~29 minecraft:spruce_trapdoor 0
+setblock ~42~3~29 minecraft:lantern 1
+fill ~43~0~29 ~43~0~31 minecraft:spruce_trapdoor 0
+setblock ~46~3~29 minecraft:lantern 1
+setblock ~48~0~29 minecraft:flower_pot
+fill ~48~1~29 ~48~2~29 minecraft:leaves 0
+fill ~49~0~29 ~49~3~30 minecraft:planks 1
+setblock ~49~9~29 minecraft:jungle_trapdoor 1
+fill ~50~0~29 ~55~0~29 minecraft:log 1
+fill ~50~1~29 ~50~5~29 minecraft:log 1
+setblock ~50~6~29 minecraft:deepslate_brick_wall 0
+setblock ~50~7~29 minecraft:fence 5
+setblock ~50~8~29 minecraft:deepslate_brick_wall 0
+setblock ~50~9~29 minecraft:glowstone
+setblock ~50~10~29 minecraft:deepslate_brick_slab 0
+fill ~51~1~29 ~53~1~29 minecraft:fence 5
+fill ~51~2~29 ~52~2~29 minecraft:fence 5
+setblock ~51~3~29 minecraft:fence 5
+setblock ~51~4~29 minecraft:log 1
+setblock ~51~5~29 minecraft:deepslate_brick_wall 0
+setblock ~51~9~29 minecraft:jungle_trapdoor 0
+setblock ~52~3~29 minecraft:log 1
+setblock ~52~4~29 minecraft:deepslate_brick_wall 0
+setblock ~52~5~29 minecraft:lantern 0
+setblock ~53~2~29 minecraft:log 1
+setblock ~53~3~29 minecraft:deepslate_brick_wall 0
+setblock ~54~1~29 minecraft:log 1
+setblock ~54~2~29 minecraft:deepslate_brick_wall 0
+setblock ~54~3~29 minecraft:lantern 0
+setblock ~55~1~29 minecraft:deepslate_brick_wall 0
+setblock ~56~0~29 minecraft:deepslate_brick_wall 0
+setblock ~56~1~29 minecraft:lantern 0
+fill ~1~0~30 ~1~0~32 minecraft:spruce_stairs 0
+fill ~2~0~30 ~2~0~32 minecraft:barrel 5
+fill ~2~1~30 ~2~1~32 minecraft:spruce_stairs 0
+fill ~3~0~30 ~6~1~30 minecraft:chest 3
+fill ~3~2~30 ~3~2~32 minecraft:spruce_stairs 0
+fill ~4~3~30 ~4~3~32 minecraft:spruce_stairs 0
+fill ~5~4~30 ~5~4~32 minecraft:spruce_stairs 0
+fill ~6~4~30 ~6~4~32 minecraft:log 1
+setblock ~6~9~30 minecraft:jungle_trapdoor 2
+fill ~8~2~30 ~8~2~32 minecraft:spruce_trapdoor 0
+fill ~14~0~30 ~14~0~31 minecraft:glowstone
+fill ~14~1~30 ~14~1~31 minecraft:carpet 15
+fill ~15~0~30 ~15~0~31 minecraft:planks 1
+setblock ~15~5~30 minecraft:dark_oak_stairs 5
+setblock ~15~6~30 minecraft:flower_pot
+fill ~16~1~30 ~16~1~31 minecraft:bed 3
+setblock ~16~5~30 minecraft:spruce_trapdoor 3
+fill ~16~6~30 ~17~6~30 minecraft:chest 2
+setblock ~17~5~30 minecraft:dark_oak_stairs 4
+fill ~18~5~30 ~18~5~32 minecraft:deepslate_bricks
+fill ~18~6~30 ~18~6~32 minecraft:deepslate_brick_stairs 0
+fill ~19~0~30 ~19~2~30 minecraft:dark_oak_stairs 6
+fill ~19~5~30 ~21~5~32 minecraft:planks 1
+fill ~19~6~30 ~21~6~31 minecraft:farmland 7
+fill ~19~7~30 ~21~7~31 minecraft:carrots 7
+fill ~21~9~30 ~21~9~31 minecraft:dark_oak_stairs 4
+fill ~21~12~30 ~21~12~31 minecraft:dark_oak_stairs 0
+fill ~21~13~30 ~21~13~31 minecraft:spruce_fence_gate 3
+setblock ~21~14~30 minecraft:deepslate_bricks
+fill ~22~9~30 ~22~9~31 minecraft:planks 1
+fill ~22~10~30 ~22~11~31 minecraft:glass_pane
+fill ~22~12~30 ~22~13~31 minecraft:planks 1
+fill ~22~14~30 ~22~14~31 minecraft:log 1
+setblock ~22~15~30 minecraft:fence 5
+setblock ~22~18~30 minecraft:lantern 1
+setblock ~22~19~30 minecraft:dark_oak_stairs 0
+setblock ~22~21~30 minecraft:deepslate_brick_stairs 6
+setblock ~22~22~30 minecraft:deepslate_brick_stairs 3
+setblock ~23~5~30 minecraft:dirt 0
+setblock ~23~6~30 minecraft:barrel 0
+fill ~23~7~30 ~33~7~30 minecraft:log 1
+setblock ~23~10~30 minecraft:chest 5
+fill ~23~13~30 ~23~13~31 minecraft:dark_oak_fence_gate 1
+setblock ~23~15~30 minecraft:planks 1
+fill ~23~16~30 ~23~18~30 minecraft:glass_pane
+setblock ~23~19~30 minecraft:planks 1
+setblock ~23~20~30 minecraft:log 1
+fill ~23~22~30 ~24~22~30 minecraft:dark_oak_stairs 3
+setblock ~24~9~30 minecraft:carpet 0
+setblock ~24~15~30 minecraft:dark_oak_stairs 6
+setblock ~24~16~30 minecraft:chest 5
+setblock ~24~19~30 minecraft:dark_oak_fence_gate 1
+setblock ~25~9~30 minecraft:carpet 5
+setblock ~25~15~30 minecraft:carpet 14
+fill ~25~22~30 ~25~22~32 minecraft:dark_oak_stairs 0
+setblock ~26~9~30 minecraft:carpet 0
+setblock ~26~15~30 minecraft:carpet 10
+fill ~26~23~30 ~26~23~32 minecraft:dark_oak_stairs 0
+setblock ~27~9~30 minecraft:carpet 5
+setblock ~27~15~30 minecraft:carpet 14
+setblock ~27~18~30 minecraft:glow_frame 2
+setblock ~28~9~30 minecraft:dark_oak_stairs 2
+setblock ~28~15~30 minecraft:carpet 10
+setblock ~28~25~30 minecraft:deepslate_brick_slab 0
+setblock ~29~9~30 minecraft:carpet 5
+setblock ~29~15~30 minecraft:carpet 14
+setblock ~29~18~30 minecraft:glow_frame 2
+setblock ~30~9~30 minecraft:carpet 0
+setblock ~30~15~30 minecraft:carpet 10
+setblock ~31~9~30 minecraft:carpet 5
+setblock ~31~15~30 minecraft:carpet 14
+fill ~31~22~30 ~33~22~30 minecraft:dark_oak_stairs 3
+setblock ~32~9~30 minecraft:carpet 0
+setblock ~32~15~30 minecraft:dark_oak_stairs 6
+setblock ~32~16~30 minecraft:chest 4
+setblock ~32~19~30 minecraft:dark_oak_fence_gate 3
+setblock ~33~5~30 minecraft:dirt 0
+setblock ~33~6~30 minecraft:barrel 0
+setblock ~33~10~30 minecraft:stonecutter_block 4
+fill ~33~13~30 ~33~13~31 minecraft:dark_oak_fence_gate 3
+setblock ~33~15~30 minecraft:planks 1
+fill ~33~16~30 ~33~18~30 minecraft:glass_pane
+setblock ~33~19~30 minecraft:planks 1
+setblock ~33~20~30 minecraft:log 1
+fill ~34~9~30 ~34~9~31 minecraft:planks 1
+fill ~34~10~30 ~34~11~31 minecraft:glass_pane
+fill ~34~12~30 ~34~13~31 minecraft:planks 1
+fill ~34~14~30 ~34~14~31 minecraft:log 1
+setblock ~34~15~30 minecraft:fence 5
+setblock ~34~18~30 minecraft:lantern 1
+setblock ~34~19~30 minecraft:dark_oak_stairs 1
+setblock ~34~21~30 minecraft:deepslate_brick_stairs 6
+setblock ~34~22~30 minecraft:deepslate_brick_stairs 3
+fill ~35~5~30 ~37~5~32 minecraft:planks 1
+fill ~35~6~30 ~37~6~31 minecraft:farmland 7
+fill ~35~7~30 ~37~7~31 minecraft:carrots 7
+fill ~35~9~30 ~35~9~31 minecraft:dark_oak_stairs 5
+fill ~35~12~30 ~35~12~31 minecraft:dark_oak_stairs 1
+fill ~35~13~30 ~35~13~31 minecraft:spruce_fence_gate 1
+setblock ~35~14~30 minecraft:deepslate_bricks
+fill ~37~0~30 ~37~2~30 minecraft:dark_oak_stairs 6
+fill ~38~5~30 ~38~5~32 minecraft:deepslate_bricks
+fill ~38~6~30 ~38~6~32 minecraft:deepslate_brick_stairs 1
+setblock ~39~5~30 minecraft:dark_oak_stairs 5
+fill ~39~6~30 ~40~6~30 minecraft:chest 2
+fill ~40~1~30 ~40~1~31 minecraft:bed 1
+setblock ~40~5~30 minecraft:spruce_trapdoor 3
+fill ~41~0~30 ~41~0~31 minecraft:planks 1
+setblock ~41~5~30 minecraft:dark_oak_stairs 4
+setblock ~41~6~30 minecraft:flower_pot
+fill ~42~0~30 ~42~0~31 minecraft:glowstone
+fill ~42~1~30 ~42~1~31 minecraft:carpet 15
+fill ~48~2~30 ~48~2~32 minecraft:spruce_trapdoor 1
+fill ~50~0~30 ~53~1~30 minecraft:chest 3
+fill ~50~4~30 ~50~4~32 minecraft:log 1
+setblock ~50~9~30 minecraft:jungle_trapdoor 2
+fill ~51~4~30 ~51~4~32 minecraft:spruce_stairs 1
+fill ~52~3~30 ~52~3~32 minecraft:spruce_stairs 1
+fill ~53~2~30 ~53~2~32 minecraft:spruce_stairs 1
+fill ~54~0~30 ~54~0~32 minecraft:barrel 4
+fill ~54~1~30 ~54~1~32 minecraft:spruce_stairs 1
+fill ~55~0~30 ~55~0~32 minecraft:spruce_stairs 1
+setblock ~4~2~31 minecraft:lantern 1
+setblock ~5~3~31 minecraft:lantern 1
+setblock ~7~0~31 minecraft:dark_oak_door 0
+fill ~7~2~31 ~7~3~33 minecraft:planks 1
+fill ~8~3~31 ~8~3~32 minecraft:flower_pot
+fill ~11~5~31 ~13~5~31 minecraft:barrel 1
+setblock ~11~6~31 minecraft:lantern 0
+fill ~13~6~31 ~13~6~32 minecraft:barrel 2
+fill ~14~5~31 ~14~5~32 minecraft:deepslate_brick_stairs 0
+fill ~15~5~31 ~17~5~31 minecraft:deepslate_brick_stairs 2
+fill ~19~0~31 ~21~0~31 minecraft:spruce_trapdoor 3
+setblock ~21~14~31 minecraft:deepslate_brick_slab 0
+fill ~22~15~31 ~23~15~31 minecraft:log 1
+setblock ~22~16~31 minecraft:deepslate_brick_wall 0
+fill ~22~17~31 ~22~18~31 minecraft:fence 4
+setblock ~22~19~31 minecraft:deepslate_brick_wall 0
+setblock ~22~20~31 minecraft:deepslate_brick_stairs 6
+setblock ~22~21~31 minecraft:deepslate_brick_stairs 3
+fill ~23~5~31 ~23~5~32 minecraft:grass
+fill ~23~6~31 ~23~6~32 minecraft:bamboo 1
+fill ~23~7~31 ~23~7~32 minecraft:bamboo 1
+fill ~23~16~31 ~23~20~31 minecraft:log 1
+setblock ~23~21~31 minecraft:dark_oak_stairs 3
+setblock ~24~5~31 minecraft:log 1
+setblock ~24~7~31 minecraft:lantern 1
+setblock ~24~9~31 minecraft:carpet 5
+fill ~24~15~31 ~24~16~31 minecraft:deepslate_bricks
+setblock ~24~19~31 minecraft:fence 5
+fill ~24~20~31 ~24~20~32 minecraft:log 1
+fill ~24~21~31 ~24~21~32 minecraft:dark_oak_stairs 0
+fill ~25~5~31 ~31~5~31 minecraft:spruce_trapdoor 3
+fill ~25~7~31 ~25~7~32 minecraft:log 1
+setblock ~25~9~31 minecraft:carpet 0
+setblock ~25~15~31 minecraft:dark_oak_stairs 5
+setblock ~25~16~31 minecraft:chest 2
+setblock ~25~19~31 minecraft:dark_oak_fence_gate 0
+fill ~25~20~31 ~31~20~31 minecraft:log 1
+setblock ~26~9~31 minecraft:carpet 5
+setblock ~26~15~31 minecraft:dark_oak_stairs 4
+setblock ~26~16~31 minecraft:flower_pot
+setblock ~26~18~31 minecraft:lantern 1
+setblock ~26~19~31 minecraft:fence 5
+setblock ~27~9~31 minecraft:carpet 0
+fill ~27~15~31 ~27~19~31 minecraft:stripped_spruce_log 0
+setblock ~28~7~31 minecraft:lantern 1
+setblock ~28~9~31 minecraft:carpet 5
+setblock ~28~15~31 minecraft:stripped_spruce_log 1
+fill ~28~16~31 ~28~18~31 minecraft:glass_pane
+setblock ~28~19~31 minecraft:stripped_spruce_log 1
+setblock ~28~22~31 minecraft:lantern 1
+setblock ~28~23~31 minecraft:deepslate_brick_wall 0
+fill ~28~24~31 ~28~24~32 minecraft:log 1
+setblock ~28~25~31 minecraft:deepslate_brick_double_slab 0
+setblock ~29~9~31 minecraft:carpet 0
+fill ~29~15~31 ~29~19~31 minecraft:stripped_spruce_log 0
+setblock ~30~9~31 minecraft:carpet 5
+setblock ~30~15~31 minecraft:dark_oak_stairs 5
+setblock ~30~16~31 minecraft:anvil 1
+setblock ~30~18~31 minecraft:lantern 1
+setblock ~30~19~31 minecraft:fence 5
+fill ~31~7~31 ~31~7~32 minecraft:log 1
+setblock ~31~9~31 minecraft:carpet 0
+setblock ~31~15~31 minecraft:dark_oak_stairs 4
+setblock ~31~16~31 minecraft:chest 2
+setblock ~31~19~31 minecraft:dark_oak_fence_gate 0
+fill ~31~22~31 ~31~22~32 minecraft:dark_oak_stairs 1
+setblock ~32~5~31 minecraft:log 1
+setblock ~32~7~31 minecraft:lantern 1
+setblock ~32~9~31 minecraft:carpet 5
+fill ~32~15~31 ~32~16~31 minecraft:deepslate_bricks
+setblock ~32~19~31 minecraft:fence 5
+fill ~32~20~31 ~33~20~31 minecraft:log 1
+fill ~32~21~31 ~33~21~31 minecraft:dark_oak_stairs 3
+fill ~33~5~31 ~33~5~32 minecraft:grass
+fill ~33~6~31 ~33~6~32 minecraft:bamboo 1
+fill ~33~7~31 ~33~7~32 minecraft:bamboo 1
+fill ~33~15~31 ~34~15~31 minecraft:log 1
+fill ~33~16~31 ~33~19~31 minecraft:log 1
+setblock ~34~16~31 minecraft:deepslate_brick_wall 0
+fill ~34~17~31 ~34~18~31 minecraft:fence 4
+setblock ~34~19~31 minecraft:deepslate_brick_wall 0
+setblock ~34~20~31 minecraft:deepslate_brick_stairs 6
+setblock ~34~21~31 minecraft:deepslate_brick_stairs 3
+fill ~35~0~31 ~37~0~31 minecraft:spruce_trapdoor 3
+setblock ~35~14~31 minecraft:deepslate_brick_slab 0
+fill ~39~5~31 ~41~5~31 minecraft:deepslate_brick_stairs 2
+fill ~42~5~31 ~42~5~32 minecraft:deepslate_brick_stairs 1
+fill ~43~5~31 ~43~6~31 minecraft:barrel 1
+fill ~44~5~31 ~45~5~31 minecraft:barrel 2
+fill ~48~3~31 ~48~3~32 minecraft:flower_pot
+setblock ~49~0~31 minecraft:dark_oak_door 2
+fill ~49~2~31 ~49~3~33 minecraft:planks 1
+setblock ~51~3~31 minecraft:lantern 1
+setblock ~52~2~31 minecraft:lantern 1
+fill ~3~0~32 ~6~1~32 minecraft:chest 2
+setblock ~6~9~32 minecraft:jungle_trapdoor 3
+fill ~7~0~32 ~7~1~33 minecraft:planks 1
+fill ~10~0~32 ~11~0~32 minecraft:chest 2
+fill ~11~5~32 ~13~5~32 minecraft:barrel 2
+setblock ~12~0~32 minecraft:smoker 2
+setblock ~12~2~32 minecraft:lantern 1
+fill ~12~3~32 ~13~3~32 minecraft:barrel 2
+setblock ~12~6~32 minecraft:barrel 1
+setblock ~12~7~32 minecraft:barrel 2
+setblock ~13~0~32 minecraft:blast_furnace 2
+setblock ~14~0~32 minecraft:planks 1
+setblock ~14~1~32 minecraft:spruce_trapdoor 1
+setblock ~15~0~32 minecraft:glowstone
+setblock ~15~1~32 minecraft:carpet 15
+fill ~15~5~32 ~17~5~32 minecraft:grass
+fill ~15~6~32 ~17~6~32 minecraft:sweet_berry_bush 3
+setblock ~16~1~32 minecraft:spruce_trapdoor 1
+setblock ~17~2~32 minecraft:lantern 0
+fill ~19~0~32 ~21~0~32 minecraft:grass
+fill ~19~1~32 ~21~1~32 minecraft:bamboo 1
+fill ~19~2~32 ~21~3~32 minecraft:bamboo 1
+fill ~19~6~32 ~20~6~32 minecraft:farmland 7
+fill ~19~7~32 ~20~7~32 minecraft:carrots 7
+setblock ~21~6~32 minecraft:spruce_trapdoor 1
+fill ~21~7~32 ~21~8~32 minecraft:log 1
+setblock ~21~9~32 minecraft:deepslate_brick_wall 0
+fill ~21~10~32 ~21~12~32 minecraft:fence 4
+setblock ~21~13~32 minecraft:deepslate_brick_wall 0
+setblock ~21~14~32 minecraft:deepslate_brick_stairs 0
+setblock ~22~0~32 minecraft:spruce_trapdoor 0
+fill ~22~9~32 ~22~9~33 minecraft:log 1
+fill ~22~10~32 ~22~14~32 minecraft:log 1
+setblock ~22~15~32 minecraft:fence 5
+fill ~22~19~32 ~22~19~33 minecraft:deepslate_brick_slab 0
+setblock ~22~20~32 minecraft:deepslate_brick_stairs 3
+fill ~23~4~32 ~33~4~32 minecraft:spruce_trapdoor 3
+setblock ~23~10~32 minecraft:flower_pot
+setblock ~23~12~32 minecraft:lantern 1
+setblock ~23~13~32 minecraft:fence 5
+setblock ~23~15~32 minecraft:glowstone
+fill ~23~16~32 ~23~17~32 minecraft:leaves 0
+setblock ~23~20~32 minecraft:dark_oak_stairs 3
+setblock ~24~5~32 minecraft:grass
+setblock ~24~6~32 minecraft:bamboo 1
+setblock ~24~7~32 minecraft:bamboo 1
+fill ~24~9~32 ~26~9~32 minecraft:bookshelf
+setblock ~24~10~32 minecraft:lantern 0
+fill ~24~13~32 ~25~13~32 minecraft:dark_oak_fence_gate 0
+fill ~24~15~32 ~24~15~33 minecraft:log 1
+fill ~24~16~32 ~24~19~32 minecraft:log 1
+setblock ~25~5~32 minecraft:dirt 0
+setblock ~25~6~32 minecraft:barrel 0
+setblock ~25~15~32 minecraft:planks 1
+fill ~25~16~32 ~25~18~32 minecraft:glass_pane
+setblock ~25~19~32 minecraft:planks 1
+setblock ~25~20~32 minecraft:log 1
+fill ~25~21~32 ~26~21~32 minecraft:fence 4
+fill ~26~5~32 ~30~5~32 minecraft:grass
+fill ~26~6~32 ~30~6~32 minecraft:bamboo 1
+fill ~26~7~32 ~30~7~32 minecraft:bamboo 1
+setblock ~26~12~32 minecraft:lantern 1
+setblock ~26~13~32 minecraft:fence 5
+fill ~26~15~32 ~26~15~33 minecraft:log 1
+fill ~26~16~32 ~26~20~32 minecraft:log 1
+setblock ~26~22~32 minecraft:fence 4
+fill ~27~9~32 ~27~13~32 minecraft:stripped_spruce_log 0
+setblock ~27~15~32 minecraft:dark_oak_stairs 7
+setblock ~27~16~32 minecraft:deepslate_brick_wall 0
+setblock ~27~17~32 minecraft:fence 5
+setblock ~27~18~32 minecraft:deepslate_brick_wall 0
+fill ~27~19~32 ~29~19~32 minecraft:dark_oak_stairs 3
+fill ~27~20~32 ~29~20~32 minecraft:log 1
+fill ~27~21~32 ~27~23~32 minecraft:log 1
+setblock ~28~9~32 minecraft:dark_oak_door 1
+setblock ~28~11~32 minecraft:stripped_spruce_log 1
+setblock ~28~12~32 minecraft:lantern 0
+setblock ~28~13~32 minecraft:trapdoor 3
+setblock ~28~15~32 minecraft:glowstone
+setblock ~28~18~32 minecraft:lantern 1
+setblock ~28~21~32 minecraft:deepslate_bricks
+setblock ~28~22~32 minecraft:fence 4
+setblock ~28~23~32 minecraft:deepslate_bricks
+setblock ~28~25~32 minecraft:deepslate_brick_slab 0
+fill ~29~9~32 ~29~13~32 minecraft:stripped_spruce_log 0
+setblock ~29~15~32 minecraft:dark_oak_stairs 7
+setblock ~29~16~32 minecraft:deepslate_brick_wall 0
+setblock ~29~17~32 minecraft:fence 5
+setblock ~29~18~32 minecraft:deepslate_brick_wall 0
+fill ~29~21~32 ~29~23~32 minecraft:log 1
+fill ~30~9~32 ~32~9~32 minecraft:bookshelf
+setblock ~30~10~32 minecraft:barrel 1
+setblock ~30~12~32 minecraft:lantern 1
+setblock ~30~13~32 minecraft:fence 5
+fill ~30~15~32 ~30~15~33 minecraft:log 1
+fill ~30~16~32 ~30~20~32 minecraft:log 1
+fill ~30~21~32 ~31~21~32 minecraft:fence 4
+setblock ~30~22~32 minecraft:fence 4
+setblock ~31~5~32 minecraft:dirt 0
+setblock ~31~6~32 minecraft:barrel 0
+setblock ~31~10~32 minecraft:flower_pot
+fill ~31~13~32 ~32~13~32 minecraft:dark_oak_fence_gate 0
+setblock ~31~15~32 minecraft:planks 1
+fill ~31~16~32 ~31~18~32 minecraft:glass_pane
+setblock ~31~19~32 minecraft:planks 1
+setblock ~31~20~32 minecraft:log 1
+setblock ~32~5~32 minecraft:grass
+setblock ~32~6~32 minecraft:bamboo 1
+setblock ~32~7~32 minecraft:bamboo 1
+setblock ~32~10~32 minecraft:lantern 0
+fill ~32~15~32 ~32~15~33 minecraft:log 1
+fill ~32~16~32 ~32~20~32 minecraft:log 1
+setblock ~32~21~32 minecraft:dark_oak_stairs 1
+setblock ~33~12~32 minecraft:lantern 1
+setblock ~33~13~32 minecraft:fence 5
+setblock ~33~15~32 minecraft:glowstone
+fill ~33~16~32 ~33~17~32 minecraft:leaves 0
+setblock ~33~20~32 minecraft:dark_oak_stairs 1
+setblock ~34~0~32 minecraft:spruce_trapdoor 1
+fill ~34~9~32 ~34~9~33 minecraft:log 1
+fill ~34~10~32 ~34~14~32 minecraft:log 1
+setblock ~34~15~32 minecraft:fence 5
+fill ~34~19~32 ~34~19~33 minecraft:deepslate_brick_slab 0
+setblock ~34~20~32 minecraft:deepslate_brick_stairs 3
+fill ~35~0~32 ~37~0~32 minecraft:grass
+fill ~35~1~32 ~37~1~32 minecraft:bamboo 1
+fill ~35~2~32 ~37~3~32 minecraft:bamboo 1
+setblock ~35~6~32 minecraft:spruce_trapdoor 0
+fill ~35~7~32 ~35~8~32 minecraft:log 1
+setblock ~35~9~32 minecraft:deepslate_brick_wall 0
+fill ~35~10~32 ~35~12~32 minecraft:fence 4
+setblock ~35~13~32 minecraft:deepslate_brick_wall 0
+setblock ~35~14~32 minecraft:deepslate_brick_stairs 1
+fill ~36~6~32 ~37~6~32 minecraft:farmland 7
+fill ~36~7~32 ~37~7~32 minecraft:carrots 7
+setblock ~39~2~32 minecraft:lantern 0
+fill ~39~5~32 ~41~5~32 minecraft:grass
+fill ~39~6~32 ~41~6~32 minecraft:sweet_berry_bush 3
+setblock ~40~1~32 minecraft:spruce_trapdoor 0
+setblock ~41~0~32 minecraft:glowstone
+setblock ~41~1~32 minecraft:carpet 15
+setblock ~42~0~32 minecraft:planks 1
+setblock ~42~1~32 minecraft:spruce_trapdoor 0
+setblock ~43~0~32 minecraft:blast_furnace 2
+fill ~43~3~32 ~44~3~32 minecraft:barrel 2
+fill ~43~5~32 ~44~5~32 minecraft:barrel 2
+fill ~43~6~32 ~44~6~32 minecraft:barrel 1
+setblock ~43~7~32 minecraft:barrel 1
+setblock ~44~0~32 minecraft:smoker 2
+setblock ~44~7~32 minecraft:lantern 0
+fill ~45~0~32 ~46~0~32 minecraft:chest 2
+setblock ~45~5~32 minecraft:barrel 1
+fill ~49~0~32 ~49~1~33 minecraft:planks 1
+fill ~50~0~32 ~53~1~32 minecraft:chest 2
+setblock ~50~9~32 minecraft:jungle_trapdoor 3
+setblock ~0~0~33 minecraft:deepslate_brick_wall 0
+fill ~1~0~33 ~6~0~33 minecraft:log 1
+setblock ~1~1~33 minecraft:deepslate_brick_wall 0
+setblock ~2~1~33 minecraft:log 1
+setblock ~2~2~33 minecraft:deepslate_brick_wall 0
+fill ~3~1~33 ~5~1~33 minecraft:fence 5
+setblock ~3~2~33 minecraft:log 1
+setblock ~3~3~33 minecraft:deepslate_brick_wall 0
+fill ~4~2~33 ~5~2~33 minecraft:fence 5
+setblock ~4~3~33 minecraft:log 1
+setblock ~4~4~33 minecraft:deepslate_brick_wall 0
+setblock ~5~3~33 minecraft:fence 5
+fill ~5~4~33 ~6~4~33 minecraft:log 1
+setblock ~5~5~33 minecraft:deepslate_brick_wall 0
+setblock ~5~9~33 minecraft:jungle_trapdoor 1
+fill ~6~1~33 ~6~3~33 minecraft:log 1
+setblock ~6~5~33 minecraft:log 1
+setblock ~6~6~33 minecraft:deepslate_brick_wall 0
+setblock ~6~7~33 minecraft:fence 5
+setblock ~6~8~33 minecraft:deepslate_brick_wall 0
+setblock ~6~9~33 minecraft:glowstone
+setblock ~6~10~33 minecraft:deepslate_brick_slab 0
+fill ~7~4~33 ~9~4~33 minecraft:log 1
+setblock ~7~9~33 minecraft:jungle_trapdoor 0
+setblock ~8~0~33 minecraft:dark_oak_door 1
+fill ~8~2~33 ~9~3~33 minecraft:planks 1
+fill ~9~0~33 ~9~1~33 minecraft:planks 1
+fill ~10~0~33 ~10~6~33 minecraft:log 1
+setblock ~10~7~33 minecraft:deepslate_brick_wall 0
+fill ~10~8~33 ~10~11~33 minecraft:fence 5
+setblock ~10~12~33 minecraft:deepslate_brick_wall 0
+setblock ~10~13~33 minecraft:log 1
+setblock ~10~14~33 minecraft:deepslate_brick_slab 0
+fill ~11~0~33 ~13~0~33 minecraft:planks 1
+fill ~11~1~33 ~13~2~33 minecraft:glass_pane
+fill ~11~3~33 ~13~3~33 minecraft:planks 1
+fill ~11~4~33 ~13~4~33 minecraft:log 1
+fill ~11~5~33 ~13~5~33 minecraft:deepslate_brick_stairs 3
+fill ~11~6~33 ~13~6~33 minecraft:fence 1
+setblock ~11~13~33 minecraft:spruce_fence_gate 2
+fill ~11~14~33 ~13~14~33 minecraft:dark_oak_trapdoor 1
+setblock ~12~13~33 minecraft:grindstone 3
+setblock ~13~13~33 minecraft:spruce_fence_gate 2
+fill ~14~0~33 ~14~7~33 minecraft:log 1
+setblock ~14~8~33 minecraft:deepslate_brick_wall 0
+fill ~14~9~33 ~14~11~33 minecraft:fence 5
+setblock ~14~12~33 minecraft:deepslate_brick_wall 0
+setblock ~14~13~33 minecraft:log 1
+setblock ~14~14~33 minecraft:deepslate_brick_slab 0
+fill ~15~0~33 ~17~0~33 minecraft:planks 1
+fill ~15~1~33 ~17~2~33 minecraft:glass_pane
+fill ~15~3~33 ~17~3~33 minecraft:planks 1
+fill ~15~4~33 ~17~4~33 minecraft:log 1
+fill ~15~5~33 ~17~5~33 minecraft:glowstone
+fill ~15~6~33 ~17~6~33 minecraft:deepslate_brick_stairs 3
+fill ~15~7~33 ~17~7~33 minecraft:fence 1
+setblock ~15~13~33 minecraft:spruce_fence_gate 2
+fill ~15~14~33 ~17~14~33 minecraft:dark_oak_trapdoor 1
+setblock ~16~13~33 minecraft:grindstone 3
+setblock ~17~13~33 minecraft:spruce_fence_gate 2
+fill ~18~0~33 ~18~8~33 minecraft:log 1
+setblock ~18~9~33 minecraft:deepslate_brick_wall 0
+fill ~18~10~33 ~18~11~33 minecraft:fence 5
+setblock ~18~12~33 minecraft:deepslate_brick_wall 0
+setblock ~18~13~33 minecraft:log 1
+setblock ~18~14~33 minecraft:deepslate_brick_slab 0
+fill ~19~0~33 ~21~0~33 minecraft:planks 1
+fill ~19~1~33 ~21~2~33 minecraft:glass_pane
+fill ~19~3~33 ~21~3~33 minecraft:planks 1
+fill ~19~4~33 ~21~4~33 minecraft:log 1
+fill ~19~5~33 ~21~5~33 minecraft:deepslate_brick_wall 0
+fill ~19~6~33 ~21~6~33 minecraft:glowstone
+fill ~19~7~33 ~21~7~33 minecraft:deepslate_brick_stairs 3
+fill ~19~8~33 ~21~8~33 minecraft:fence 1
+setblock ~19~13~33 minecraft:spruce_fence_gate 2
+fill ~19~14~33 ~21~14~33 minecraft:dark_oak_trapdoor 1
+setblock ~20~13~33 minecraft:grindstone 3
+setblock ~21~13~33 minecraft:spruce_fence_gate 2
+fill ~22~0~33 ~22~8~33 minecraft:log 1
+setblock ~22~10~33 minecraft:deepslate_brick_wall 0
+setblock ~22~11~33 minecraft:fence 5
+setblock ~22~12~33 minecraft:deepslate_brick_wall 0
+fill ~22~13~33 ~23~13~33 minecraft:log 1
+setblock ~22~14~33 minecraft:deepslate_bricks
+setblock ~22~15~33 minecraft:log 1
+setblock ~22~16~33 minecraft:deepslate_brick_slab 0
+setblock ~23~0~33 minecraft:spruce_trapdoor 3
+fill ~23~4~33 ~33~4~33 minecraft:log 1
+fill ~23~5~33 ~33~7~33 minecraft:planks 1
+fill ~23~8~33 ~33~8~33 minecraft:log 1
+fill ~23~9~33 ~23~12~33 minecraft:log 1
+setblock ~23~14~33 minecraft:log 1
+setblock ~23~15~33 minecraft:fence 5
+setblock ~23~19~33 minecraft:deepslate_brick_slab 0
+setblock ~23~20~33 minecraft:deepslate_brick_stairs 0
+fill ~24~9~33 ~25~9~33 minecraft:planks 1
+fill ~24~10~33 ~25~11~33 minecraft:glass_pane
+fill ~24~12~33 ~25~13~33 minecraft:planks 1
+fill ~24~14~33 ~25~14~33 minecraft:log 1
+setblock ~24~16~33 minecraft:deepslate_brick_wall 0
+fill ~24~17~33 ~24~18~33 minecraft:fence 4
+setblock ~24~19~33 minecraft:deepslate_brick_wall 0
+setblock ~24~20~33 minecraft:deepslate_brick_stairs 5
+setblock ~24~21~33 minecraft:deepslate_brick_stairs 0
+setblock ~25~15~33 minecraft:fence 5
+setblock ~25~18~33 minecraft:lantern 1
+setblock ~25~19~33 minecraft:dark_oak_stairs 3
+fill ~25~20~33 ~31~20~33 minecraft:dark_oak_stairs 7
+setblock ~25~21~33 minecraft:deepslate_brick_stairs 5
+setblock ~25~22~33 minecraft:deepslate_brick_stairs 0
+fill ~26~9~33 ~26~14~33 minecraft:log 1
+setblock ~26~16~33 minecraft:deepslate_brick_wall 0
+fill ~26~17~33 ~26~18~33 minecraft:fence 4
+setblock ~26~19~33 minecraft:deepslate_brick_wall 0
+setblock ~26~21~33 minecraft:glowstone
+setblock ~26~22~33 minecraft:deepslate_brick_stairs 5
+setblock ~26~23~33 minecraft:deepslate_brick_stairs 0
+setblock ~27~9~33 minecraft:deepslate_brick_wall 0
+setblock ~27~10~33 minecraft:fence 5
+setblock ~27~11~33 minecraft:deepslate_brick_wall 0
+fill ~27~12~33 ~29~12~33 minecraft:log 1
+fill ~27~13~33 ~29~13~33 minecraft:glowstone
+fill ~27~14~33 ~29~14~33 minecraft:log 1
+setblock ~27~15~33 minecraft:fence 5
+setblock ~27~21~33 minecraft:deepslate_brick_wall 0
+setblock ~27~22~33 minecraft:fence 1
+setblock ~27~23~33 minecraft:deepslate_brick_stairs 5
+setblock ~27~24~33 minecraft:deepslate_brick_stairs 0
+setblock ~28~11~33 minecraft:dark_oak_stairs 3
+setblock ~28~15~33 minecraft:dark_oak_fence_gate 2
+setblock ~28~21~33 minecraft:lantern 0
+setblock ~28~24~33 minecraft:deepslate_brick_slab 0
+setblock ~28~25~33 minecraft:deepslate_brick_double_slab 0
+setblock ~29~9~33 minecraft:deepslate_brick_wall 0
+setblock ~29~10~33 minecraft:fence 5
+setblock ~29~11~33 minecraft:deepslate_brick_wall 0
+setblock ~29~15~33 minecraft:fence 5
+setblock ~29~21~33 minecraft:deepslate_brick_wall 0
+setblock ~29~22~33 minecraft:fence 1
+setblock ~29~23~33 minecraft:deepslate_brick_stairs 4
+setblock ~29~24~33 minecraft:deepslate_brick_stairs 1
+fill ~30~9~33 ~30~14~33 minecraft:log 1
+setblock ~30~16~33 minecraft:deepslate_brick_wall 0
+fill ~30~17~33 ~30~18~33 minecraft:fence 4
+setblock ~30~19~33 minecraft:deepslate_brick_wall 0
+setblock ~30~21~33 minecraft:glowstone
+setblock ~30~22~33 minecraft:deepslate_brick_stairs 4
+setblock ~30~23~33 minecraft:deepslate_brick_stairs 1
+fill ~31~9~33 ~32~9~33 minecraft:planks 1
+fill ~31~10~33 ~32~11~33 minecraft:glass_pane
+fill ~31~12~33 ~32~13~33 minecraft:planks 1
+fill ~31~14~33 ~32~14~33 minecraft:log 1
+setblock ~31~15~33 minecraft:fence 5
+setblock ~31~18~33 minecraft:lantern 1
+setblock ~31~19~33 minecraft:dark_oak_stairs 3
+setblock ~31~21~33 minecraft:deepslate_brick_stairs 4
+setblock ~31~22~33 minecraft:deepslate_brick_stairs 1
+setblock ~32~16~33 minecraft:deepslate_brick_wall 0
+fill ~32~17~33 ~32~18~33 minecraft:fence 4
+setblock ~32~19~33 minecraft:deepslate_brick_wall 0
+setblock ~32~20~33 minecraft:deepslate_brick_stairs 4
+setblock ~32~21~33 minecraft:deepslate_brick_stairs 1
+setblock ~33~0~33 minecraft:spruce_trapdoor 3
+fill ~33~9~33 ~33~14~33 minecraft:log 1
+setblock ~33~15~33 minecraft:fence 5
+setblock ~33~19~33 minecraft:deepslate_brick_slab 0
+setblock ~33~20~33 minecraft:deepslate_brick_stairs 1
+fill ~34~0~33 ~34~8~33 minecraft:log 1
+setblock ~34~10~33 minecraft:deepslate_brick_wall 0
+setblock ~34~11~33 minecraft:fence 5
+setblock ~34~12~33 minecraft:deepslate_brick_wall 0
+setblock ~34~13~33 minecraft:log 1
+setblock ~34~14~33 minecraft:deepslate_bricks
+setblock ~34~15~33 minecraft:log 1
+setblock ~34~16~33 minecraft:deepslate_brick_slab 0
+fill ~35~0~33 ~37~0~33 minecraft:planks 1
+fill ~35~1~33 ~37~2~33 minecraft:glass_pane
+fill ~35~3~33 ~37~3~33 minecraft:planks 1
+fill ~35~4~33 ~37~4~33 minecraft:log 1
+fill ~35~5~33 ~37~5~33 minecraft:deepslate_brick_wall 0
+fill ~35~6~33 ~37~6~33 minecraft:glowstone
+fill ~35~7~33 ~37~7~33 minecraft:deepslate_brick_stairs 3
+fill ~35~8~33 ~37~8~33 minecraft:fence 1
+setblock ~35~13~33 minecraft:spruce_fence_gate 2
+fill ~35~14~33 ~37~14~33 minecraft:dark_oak_trapdoor 1
+setblock ~36~13~33 minecraft:grindstone 3
+fill ~38~0~33 ~38~8~33 minecraft:log 1
+setblock ~38~9~33 minecraft:deepslate_brick_wall 0
+fill ~38~10~33 ~38~11~33 minecraft:fence 5
+setblock ~38~12~33 minecraft:deepslate_brick_wall 0
+setblock ~38~13~33 minecraft:log 1
+setblock ~38~14~33 minecraft:deepslate_brick_slab 0
+fill ~39~0~33 ~41~0~33 minecraft:planks 1
+fill ~39~1~33 ~41~2~33 minecraft:glass_pane
+fill ~39~3~33 ~41~3~33 minecraft:planks 1
+fill ~39~4~33 ~41~4~33 minecraft:log 1
+fill ~39~5~33 ~41~5~33 minecraft:glowstone
+fill ~39~6~33 ~41~6~33 minecraft:deepslate_brick_stairs 3
+fill ~39~7~33 ~41~7~33 minecraft:fence 1
+setblock ~39~13~33 minecraft:spruce_fence_gate 2
+fill ~39~14~33 ~41~14~33 minecraft:dark_oak_trapdoor 0
+setblock ~40~13~33 minecraft:grindstone 3
+setblock ~41~13~33 minecraft:spruce_fence_gate 2
+fill ~42~0~33 ~42~7~33 minecraft:log 1
+setblock ~42~8~33 minecraft:deepslate_brick_wall 0
+fill ~42~9~33 ~42~11~33 minecraft:fence 5
+setblock ~42~12~33 minecraft:deepslate_brick_wall 0
+setblock ~42~13~33 minecraft:log 1
+setblock ~42~14~33 minecraft:deepslate_brick_slab 0
+fill ~43~0~33 ~45~0~33 minecraft:planks 1
+fill ~43~1~33 ~45~2~33 minecraft:glass_pane
+fill ~43~3~33 ~45~3~33 minecraft:planks 1
+fill ~43~4~33 ~45~4~33 minecraft:log 1
+fill ~43~5~33 ~45~5~33 minecraft:deepslate_brick_stairs 3
+fill ~43~6~33 ~45~6~33 minecraft:fence 1
+setblock ~43~13~33 minecraft:spruce_fence_gate 2
+setblock ~43~14~33 minecraft:dark_oak_trapdoor 0
+setblock ~44~13~33 minecraft:grindstone 3
+fill ~44~14~33 ~45~14~33 minecraft:dark_oak_trapdoor 1
+setblock ~45~13~33 minecraft:spruce_fence_gate 2
+fill ~46~0~33 ~46~6~33 minecraft:log 1
+setblock ~46~7~33 minecraft:deepslate_brick_wall 0
+fill ~46~8~33 ~46~11~33 minecraft:fence 5
+setblock ~46~12~33 minecraft:deepslate_brick_wall 0
+setblock ~46~13~33 minecraft:log 1
+setblock ~46~14~33 minecraft:deepslate_brick_slab 0
+fill ~47~0~33 ~47~3~33 minecraft:planks 1
+fill ~47~4~33 ~49~4~33 minecraft:log 1
+setblock ~48~0~33 minecraft:dark_oak_door 1
+fill ~48~2~33 ~48~3~33 minecraft:planks 1
+setblock ~49~9~33 minecraft:jungle_trapdoor 1
+fill ~50~0~33 ~55~0~33 minecraft:log 1
+fill ~50~1~33 ~50~5~33 minecraft:log 1
+setblock ~50~6~33 minecraft:deepslate_brick_wall 0
+setblock ~50~7~33 minecraft:fence 5
+setblock ~50~8~33 minecraft:deepslate_brick_wall 0
+setblock ~50~9~33 minecraft:glowstone
+setblock ~50~10~33 minecraft:deepslate_brick_slab 0
+fill ~51~1~33 ~53~1~33 minecraft:fence 5
+fill ~51~2~33 ~52~2~33 minecraft:fence 5
+setblock ~51~3~33 minecraft:fence 5
+setblock ~51~4~33 minecraft:log 1
+setblock ~51~5~33 minecraft:deepslate_brick_wall 0
+setblock ~51~9~33 minecraft:jungle_trapdoor 0
+setblock ~52~3~33 minecraft:log 1
+setblock ~52~4~33 minecraft:deepslate_brick_wall 0
+setblock ~52~5~33 minecraft:lantern 0
+setblock ~53~2~33 minecraft:log 1
+setblock ~53~3~33 minecraft:deepslate_brick_wall 0
+setblock ~54~1~33 minecraft:log 1
+setblock ~54~2~33 minecraft:deepslate_brick_wall 0
+setblock ~54~3~33 minecraft:lantern 0
+setblock ~55~1~33 minecraft:deepslate_brick_wall 0
+setblock ~56~0~33 minecraft:deepslate_brick_wall 0
+setblock ~56~1~33 minecraft:lantern 0
+fill ~5~4~34 ~5~4~36 minecraft:spruce_wall_sign 4
+fill ~6~0~34 ~6~0~36 minecraft:deepslate_brick_stairs 0
+fill ~6~1~34 ~6~1~36 minecraft:fence 5
+fill ~6~4~34 ~6~4~36 minecraft:log 1
+fill ~6~5~34 ~6~5~36 minecraft:fence 5
+setblock ~6~9~34 minecraft:jungle_trapdoor 2
+setblock ~7~0~34 minecraft:barrel 5
+fill ~7~4~34 ~9~4~48 minecraft:planks 1
+setblock ~10~0~34 minecraft:fence 5
+fill ~10~4~34 ~10~4~36 minecraft:log 1
+fill ~10~5~34 ~10~5~36 minecraft:fence 5
+setblock ~10~13~34 minecraft:spruce_fence_gate 1
+fill ~10~14~34 ~10~14~36 minecraft:dark_oak_trapdoor 2
+fill ~11~0~34 ~13~0~34 minecraft:dark_oak_stairs 7
+fill ~11~3~34 ~13~3~34 minecraft:dark_oak_stairs 3
+setblock ~12~2~34 minecraft:lantern 1
+setblock ~14~0~34 minecraft:deepslate_brick_wall 0
+fill ~14~1~34 ~14~2~34 minecraft:fence 5
+setblock ~14~3~34 minecraft:deepslate_brick_wall 0
+setblock ~14~4~34 minecraft:deepslate_brick_stairs 3
+fill ~15~0~34 ~17~0~34 minecraft:dark_oak_stairs 7
+fill ~15~3~34 ~17~3~34 minecraft:dark_oak_stairs 3
+fill ~15~5~34 ~17~5~34 minecraft:trapdoor 2
+setblock ~16~2~34 minecraft:lantern 1
+setblock ~18~0~34 minecraft:deepslate_brick_wall 0
+fill ~18~1~34 ~18~2~34 minecraft:fence 5
+setblock ~18~3~34 minecraft:deepslate_brick_wall 0
+setblock ~18~4~34 minecraft:deepslate_brick_stairs 3
+fill ~19~0~34 ~20~0~34 minecraft:dark_oak_stairs 7
+fill ~19~3~34 ~21~3~34 minecraft:dark_oak_stairs 3
+fill ~19~6~34 ~20~6~34 minecraft:trapdoor 2
+setblock ~20~2~34 minecraft:lantern 1
+fill ~21~0~34 ~21~0~36 minecraft:dark_oak_stairs 4
+setblock ~21~5~34 minecraft:lantern 1
+setblock ~21~6~34 minecraft:deepslate_bricks
+fill ~22~0~34 ~22~0~36 minecraft:planks 1
+fill ~22~1~34 ~22~2~36 minecraft:glass_pane
+fill ~22~3~34 ~22~3~36 minecraft:planks 1
+fill ~22~4~34 ~22~4~36 minecraft:log 1
+fill ~22~5~34 ~22~5~36 minecraft:deepslate_brick_wall 0
+fill ~22~6~34 ~22~6~36 minecraft:glowstone
+fill ~22~7~34 ~22~7~36 minecraft:deepslate_brick_stairs 0
+fill ~22~8~34 ~22~8~36 minecraft:fence 1
+setblock ~22~13~34 minecraft:spruce_fence_gate 3
+fill ~22~14~34 ~22~14~36 minecraft:dark_oak_trapdoor 3
+fill ~23~0~34 ~23~0~36 minecraft:grass
+fill ~23~1~34 ~23~1~36 minecraft:bamboo 1
+fill ~23~2~34 ~23~3~36 minecraft:bamboo 1
+fill ~23~4~34 ~33~4~44 minecraft:planks 1
+fill ~23~5~34 ~25~5~36 minecraft:planks 1
+setblock ~23~6~34 minecraft:spruce_trapdoor 2
+fill ~23~7~34 ~23~8~34 minecraft:log 1
+setblock ~23~9~34 minecraft:deepslate_brick_wall 0
+fill ~23~10~34 ~23~12~34 minecraft:fence 4
+setblock ~23~13~34 minecraft:deepslate_brick_wall 0
+setblock ~23~14~34 minecraft:deepslate_brick_stairs 3
+fill ~24~0~34 ~24~0~36 minecraft:spruce_trapdoor 0
+fill ~24~6~34 ~25~6~36 minecraft:farmland 7
+fill ~24~7~34 ~25~7~36 minecraft:carrots 7
+fill ~24~9~34 ~25~9~34 minecraft:dark_oak_stairs 7
+fill ~24~12~34 ~25~12~34 minecraft:dark_oak_stairs 3
+fill ~24~13~34 ~25~13~34 minecraft:spruce_fence_gate 2
+setblock ~24~14~34 minecraft:deepslate_brick_slab 0
+setblock ~25~14~34 minecraft:deepslate_bricks
+fill ~26~5~34 ~26~5~37 minecraft:log 1
+fill ~26~6~34 ~26~6~36 minecraft:log 1
+fill ~26~7~34 ~26~7~35 minecraft:log 1
+setblock ~26~8~34 minecraft:log 1
+setblock ~26~9~34 minecraft:deepslate_brick_wall 0
+fill ~26~10~34 ~26~12~34 minecraft:fence 4
+setblock ~26~13~34 minecraft:deepslate_brick_wall 0
+fill ~26~14~34 ~26~15~34 minecraft:deepslate_brick_slab 0
+setblock ~26~21~34 minecraft:dark_oak_trapdoor 2
+fill ~27~8~34 ~29~8~34 minecraft:spruce_stairs 3
+fill ~27~12~34 ~29~12~34 minecraft:dark_oak_stairs 3
+fill ~27~13~34 ~29~13~34 minecraft:trapdoor 2
+setblock ~27~14~34 minecraft:deepslate_bricks
+setblock ~28~11~34 minecraft:lantern 1
+setblock ~28~14~34 minecraft:deepslate_brick_slab 0
+setblock ~29~14~34 minecraft:deepslate_bricks
+fill ~30~5~34 ~30~5~37 minecraft:log 1
+fill ~30~6~34 ~30~6~36 minecraft:log 1
+fill ~30~7~34 ~30~7~35 minecraft:log 1
+setblock ~30~8~34 minecraft:log 1
+setblock ~30~9~34 minecraft:deepslate_brick_wall 0
+fill ~30~10~34 ~30~12~34 minecraft:fence 4
+setblock ~30~13~34 minecraft:deepslate_brick_wall 0
+fill ~30~14~34 ~30~15~34 minecraft:deepslate_brick_slab 0
+setblock ~30~21~34 minecraft:dark_oak_trapdoor 2
+fill ~31~5~34 ~33~5~36 minecraft:planks 1
+fill ~31~6~34 ~32~6~36 minecraft:farmland 7
+fill ~31~7~34 ~32~7~36 minecraft:carrots 7
+fill ~31~9~34 ~32~9~34 minecraft:dark_oak_stairs 7
+fill ~31~12~34 ~32~12~34 minecraft:dark_oak_stairs 3
+fill ~31~13~34 ~32~13~34 minecraft:spruce_fence_gate 2
+setblock ~31~14~34 minecraft:deepslate_bricks
+fill ~32~0~34 ~32~0~36 minecraft:spruce_trapdoor 1
+setblock ~32~14~34 minecraft:deepslate_brick_slab 0
+fill ~33~0~34 ~33~0~36 minecraft:grass
+setblock ~33~6~34 minecraft:spruce_trapdoor 2
+fill ~33~7~34 ~33~8~34 minecraft:log 1
+setblock ~33~9~34 minecraft:deepslate_brick_wall 0
+fill ~33~10~34 ~33~12~34 minecraft:fence 4
+setblock ~33~13~34 minecraft:deepslate_brick_wall 0
+setblock ~33~14~34 minecraft:deepslate_brick_stairs 3
+fill ~34~0~34 ~34~0~36 minecraft:planks 1
+fill ~34~1~34 ~34~2~36 minecraft:glass_pane
+fill ~34~3~34 ~34~3~36 minecraft:planks 1
+fill ~34~4~34 ~34~4~36 minecraft:log 1
+fill ~34~5~34 ~34~5~36 minecraft:deepslate_brick_wall 0
+fill ~34~6~34 ~34~6~36 minecraft:glowstone
+fill ~34~7~34 ~34~7~36 minecraft:deepslate_brick_stairs 1
+fill ~34~8~34 ~34~8~36 minecraft:fence 1
+setblock ~34~13~34 minecraft:spruce_fence_gate 1
+fill ~34~14~34 ~34~14~36 minecraft:dark_oak_trapdoor 2
+fill ~35~0~34 ~37~0~34 minecraft:dark_oak_stairs 7
+fill ~35~3~34 ~37~3~34 minecraft:dark_oak_stairs 3
+setblock ~35~5~34 minecraft:lantern 1
+setblock ~35~6~34 minecraft:deepslate_bricks
+setblock ~36~2~34 minecraft:lantern 1
+fill ~36~6~34 ~37~6~34 minecraft:trapdoor 2
+setblock ~38~0~34 minecraft:deepslate_brick_wall 0
+fill ~38~1~34 ~38~2~34 minecraft:fence 5
+setblock ~38~3~34 minecraft:deepslate_brick_wall 0
+setblock ~38~4~34 minecraft:deepslate_brick_stairs 3
+fill ~39~0~34 ~41~0~34 minecraft:dark_oak_stairs 7
+fill ~39~3~34 ~41~3~34 minecraft:dark_oak_stairs 3
+fill ~39~5~34 ~41~5~34 minecraft:trapdoor 2
+setblock ~40~2~34 minecraft:lantern 1
+setblock ~42~0~34 minecraft:deepslate_brick_wall 0
+fill ~42~1~34 ~42~2~34 minecraft:fence 5
+setblock ~42~3~34 minecraft:deepslate_brick_wall 0
+setblock ~42~4~34 minecraft:deepslate_brick_stairs 3
+fill ~43~0~34 ~45~0~34 minecraft:dark_oak_stairs 7
+fill ~43~3~34 ~45~3~34 minecraft:dark_oak_stairs 3
+setblock ~44~2~34 minecraft:lantern 1
+setblock ~46~0~34 minecraft:fence 5
+fill ~46~4~34 ~46~4~36 minecraft:log 1
+fill ~46~5~34 ~46~5~36 minecraft:fence 5
+setblock ~46~13~34 minecraft:spruce_fence_gate 3
+fill ~46~14~34 ~46~14~35 minecraft:dark_oak_trapdoor 0
+fill ~47~4~34 ~49~4~48 minecraft:planks 1
+setblock ~49~0~34 minecraft:chest 4
+fill ~50~0~34 ~50~0~36 minecraft:deepslate_brick_stairs 1
+fill ~50~1~34 ~50~1~36 minecraft:fence 5
+fill ~50~4~34 ~50~4~36 minecraft:log 1
+fill ~50~5~34 ~50~5~36 minecraft:fence 5
+setblock ~50~9~34 minecraft:jungle_trapdoor 2
+setblock ~6~3~35 minecraft:lantern 1
+setblock ~7~0~35 minecraft:chest 5
+setblock ~10~0~35 minecraft:dark_oak_fence_gate 3
+setblock ~10~3~35 minecraft:lantern 1
+setblock ~10~13~35 minecraft:grindstone 2
+setblock ~21~2~35 minecraft:lantern 1
+fill ~21~3~35 ~21~3~36 minecraft:dark_oak_stairs 0
+fill ~21~6~35 ~21~6~36 minecraft:trapdoor 1
+setblock ~22~13~35 minecraft:grindstone 0
+fill ~23~6~35 ~23~6~36 minecraft:farmland 7
+fill ~23~7~35 ~23~7~36 minecraft:carrots 7
+setblock ~26~8~35 minecraft:deepslate_brick_wall 0
+setblock ~27~5~35 minecraft:torch 5
+fill ~27~7~35 ~29~7~35 minecraft:spruce_stairs 3
+setblock ~29~5~35 minecraft:torch 5
+setblock ~30~8~35 minecraft:deepslate_brick_wall 0
+fill ~33~6~35 ~33~6~36 minecraft:farmland 7
+fill ~33~7~35 ~33~7~36 minecraft:carrots 7
+setblock ~34~13~35 minecraft:grindstone 2
+fill ~35~0~35 ~35~0~36 minecraft:dark_oak_stairs 5
+fill ~35~3~35 ~35~3~36 minecraft:dark_oak_stairs 1
+fill ~35~6~35 ~35~6~36 minecraft:trapdoor 0
+setblock ~40~0~35 minecraft:tallgrass 2
+setblock ~43~0~35 minecraft:tallgrass 2
+setblock ~46~0~35 minecraft:dark_oak_fence_gate 1
+setblock ~46~3~35 minecraft:lantern 1
+setblock ~46~13~35 minecraft:grindstone 0
+setblock ~49~0~35 minecraft:barrel 4
+setblock ~50~3~35 minecraft:lantern 1
+setblock ~6~9~36 minecraft:jungle_trapdoor 3
+setblock ~7~0~36 minecraft:barrel 5
+setblock ~10~0~36 minecraft:fence 5
+setblock ~10~13~36 minecraft:spruce_fence_gate 1
+setblock ~22~13~36 minecraft:spruce_fence_gate 3
+fill ~25~0~36 ~25~2~36 minecraft:dark_oak_stairs 5
+fill ~25~3~36 ~26~3~36 minecraft:jungle_trapdoor 3
+fill ~26~0~36 ~26~2~36 minecraft:dark_oak_stairs 4
+setblock ~26~7~36 minecraft:deepslate_brick_wall 0
+setblock ~26~8~36 minecraft:lantern 0
+fill ~27~6~36 ~29~6~36 minecraft:spruce_stairs 3
+setblock ~28~3~36 minecraft:jungle_trapdoor 3
+fill ~30~0~36 ~30~2~36 minecraft:dark_oak_stairs 5
+fill ~30~3~36 ~31~3~36 minecraft:jungle_trapdoor 3
+setblock ~30~7~36 minecraft:deepslate_brick_wall 0
+setblock ~30~8~36 minecraft:lantern 0
+fill ~31~0~36 ~31~2~36 minecraft:dark_oak_stairs 4
+setblock ~34~13~36 minecraft:spruce_fence_gate 1
+setblock ~36~0~36 minecraft:tallgrass 2
+setblock ~44~0~36 minecraft:tallgrass 2
+setblock ~46~0~36 minecraft:fence 5
+setblock ~46~13~36 minecraft:spruce_fence_gate 3
+setblock ~46~14~36 minecraft:dark_oak_trapdoor 3
+setblock ~49~0~36 minecraft:chest 4
+setblock ~50~9~36 minecraft:jungle_trapdoor 3
+setblock ~5~0~37 minecraft:jungle_stairs 4
+setblock ~5~1~37 minecraft:deepslate_brick_wall 0
+setblock ~5~2~37 minecraft:fence 5
+setblock ~5~3~37 minecraft:deepslate_brick_wall 0
+setblock ~5~4~37 minecraft:jungle_stairs 0
+setblock ~5~9~37 minecraft:jungle_trapdoor 1
+fill ~6~0~37 ~6~5~37 minecraft:log 1
+setblock ~6~6~37 minecraft:deepslate_brick_wall 0
+setblock ~6~7~37 minecraft:fence 5
+setblock ~6~8~37 minecraft:deepslate_brick_wall 0
+setblock ~6~9~37 minecraft:glowstone
+setblock ~6~10~37 minecraft:deepslate_brick_slab 0
+setblock ~7~0~37 minecraft:fence 5
+setblock ~7~9~37 minecraft:jungle_trapdoor 0
+setblock ~8~0~37 minecraft:dark_oak_fence_gate 0
+setblock ~9~0~37 minecraft:fence 5
+fill ~10~0~37 ~10~5~37 minecraft:log 1
+setblock ~10~6~37 minecraft:deepslate_brick_wall 0
+fill ~10~7~37 ~10~11~37 minecraft:fence 5
+setblock ~10~12~37 minecraft:deepslate_brick_wall 0
+setblock ~10~13~37 minecraft:log 1
+setblock ~10~14~37 minecraft:deepslate_brick_slab 0
+fill ~14~0~37 ~18~0~37 minecraft:deepslate_brick_stairs 2
+setblock ~21~0~37 minecraft:deepslate_brick_wall 0
+fill ~21~1~37 ~21~2~37 minecraft:fence 5
+setblock ~21~3~37 minecraft:deepslate_brick_wall 0
+setblock ~21~4~37 minecraft:deepslate_brick_stairs 0
+fill ~22~0~37 ~22~8~37 minecraft:log 1
+setblock ~22~9~37 minecraft:deepslate_brick_wall 0
+fill ~22~10~37 ~22~11~37 minecraft:fence 5
+setblock ~22~12~37 minecraft:deepslate_brick_wall 0
+setblock ~22~13~37 minecraft:log 1
+setblock ~22~14~37 minecraft:deepslate_brick_slab 0
+fill ~23~0~37 ~26~0~39 minecraft:planks 1
+fill ~23~1~37 ~26~3~37 minecraft:planks 1
+fill ~23~5~37 ~25~5~37 minecraft:deepslate_bricks
+fill ~23~6~37 ~25~6~37 minecraft:deepslate_brick_stairs 3
+setblock ~26~6~37 minecraft:deepslate_brick_wall 0
+fill ~27~0~37 ~27~3~37 minecraft:log 1
+fill ~27~5~37 ~29~5~37 minecraft:spruce_stairs 3
+setblock ~28~0~37 minecraft:spruce_door 1
+setblock ~28~2~37 minecraft:log 1
+setblock ~28~3~37 minecraft:lantern 1
+fill ~29~0~37 ~29~3~37 minecraft:log 1
+fill ~30~0~37 ~33~0~39 minecraft:planks 1
+fill ~30~1~37 ~33~3~37 minecraft:planks 1
+setblock ~30~6~37 minecraft:deepslate_brick_wall 0
+fill ~31~5~37 ~33~5~37 minecraft:deepslate_bricks
+fill ~31~6~37 ~33~6~37 minecraft:deepslate_brick_stairs 3
+fill ~34~0~37 ~34~8~37 minecraft:log 1
+setblock ~34~9~37 minecraft:deepslate_brick_wall 0
+fill ~34~10~37 ~34~11~37 minecraft:fence 5
+setblock ~34~12~37 minecraft:deepslate_brick_wall 0
+setblock ~34~13~37 minecraft:log 1
+setblock ~34~14~37 minecraft:deepslate_brick_slab 0
+setblock ~35~0~37 minecraft:deepslate_brick_wall 0
+fill ~35~1~37 ~35~2~37 minecraft:fence 5
+setblock ~35~3~37 minecraft:deepslate_brick_wall 0
+setblock ~35~4~37 minecraft:deepslate_brick_stairs 1
+fill ~38~0~37 ~38~0~40 minecraft:deepslate_brick_stairs 0
+fill ~39~0~37 ~42~0~37 minecraft:deepslate_brick_stairs 2
+setblock ~45~0~37 minecraft:deepslate_brick_wall 
+fill ~45~1~37 ~45~2~37 minecraft:fence 5
+setblock ~45~3~37 minecraft:deepslate_brick_wall 0
+setblock ~45~4~37 minecraft:deepslate_brick_stairs 0
+fill ~46~0~37 ~46~5~37 minecraft:log 1
+setblock ~46~6~37 minecraft:deepslate_brick_wall 0
+fill ~46~7~37 ~46~11~37 minecraft:fence 5
+setblock ~46~12~37 minecraft:deepslate_brick_wall 0
+setblock ~46~13~37 minecraft:log 1
+setblock ~46~14~37 minecraft:deepslate_brick_slab 0
+setblock ~47~0~37 minecraft:fence 5
+setblock ~48~0~37 minecraft:dark_oak_fence_gate 0
+setblock ~49~0~37 minecraft:fence 5
+setblock ~49~9~37 minecraft:jungle_trapdoor 1
+fill ~50~0~37 ~50~5~37 minecraft:log 1
+setblock ~50~6~37 minecraft:deepslate_brick_wall 0
+setblock ~50~7~37 minecraft:fence 5
+setblock ~50~8~37 minecraft:deepslate_brick_wall 0
+setblock ~50~9~37 minecraft:glowstone
+setblock ~50~10~37 minecraft:deepslate_brick_slab 0
+setblock ~51~0~37 minecraft:jungle_stairs 5
+setblock ~51~1~37 minecraft:deepslate_brick_wall 0
+setblock ~51~2~37 minecraft:fence 5
+setblock ~51~3~37 minecraft:deepslate_brick_wall 0
+setblock ~51~4~37 minecraft:jungle_stairs 1
+setblock ~51~9~37 minecraft:jungle_trapdoor 0
+fill ~5~4~38 ~5~4~40 minecraft:spruce_wall_sign 4
+fill ~6~0~38 ~6~0~40 minecraft:deepslate_brick_stairs 0
+fill ~6~1~38 ~6~1~40 minecraft:fence 5
+fill ~6~4~38 ~6~4~40 minecraft:log 1
+fill ~6~5~38 ~6~5~40 minecraft:fence 5
+setblock ~6~9~38 minecraft:jungle_trapdoor 2
+fill ~10~0~38 ~10~0~40 minecraft:fence 5
+fill ~10~4~38 ~10~4~40 minecraft:log 1
+fill ~10~5~38 ~10~5~40 minecraft:fence 5
+setblock ~10~13~38 minecraft:spruce_fence_gate 1
+fill ~10~14~38 ~10~14~40 minecraft:dark_oak_trapdoor 2
+setblock ~11~0~38 minecraft:barrel 1
+fill ~14~0~38 ~14~0~41 minecraft:deepslate_brick_stairs 0
+fill ~15~0~38 ~17~0~38 minecraft:grass
+fill ~15~1~38 ~17~9~38 minecraft:bamboo 2
+fill ~15~10~38 ~15~10~40 minecraft:bamboo 2
+fill ~15~11~38 ~15~12~38 minecraft:bamboo 2
+setblock ~15~13~38 minecraft:bamboo 2
+fill ~15~14~38 ~15~15~38 minecraft:bamboo 2
+setblock ~16~10~38 minecraft:bamboo 2
+fill ~16~11~38 ~16~12~38 minecraft:bamboo 2
+fill ~17~10~38 ~17~11~40 minecraft:bamboo 2
+fill ~17~12~38 ~17~12~40 minecraft:bamboo 2
+fill ~17~13~38 ~17~14~40 minecraft:bamboo 2
+fill ~18~0~38 ~18~0~40 minecraft:deepslate_brick_stairs 1
+fill ~21~0~38 ~21~0~40 minecraft:dark_oak_stairs 4
+fill ~21~3~38 ~21~3~40 minecraft:dark_oak_stairs 0
+fill ~21~5~38 ~21~5~40 minecraft:trapdoor 1
+fill ~22~0~38 ~22~0~40 minecraft:planks 1
+fill ~22~1~38 ~22~2~40 minecraft:glass_pane
+fill ~22~3~38 ~22~3~40 minecraft:planks 1
+fill ~22~4~38 ~22~4~40 minecraft:log 1
+fill ~22~5~38 ~22~5~40 minecraft:glowstone
+fill ~22~6~38 ~22~6~40 minecraft:deepslate_brick_stairs 0
+fill ~22~7~38 ~22~7~40 minecraft:fence 1
+setblock ~22~13~38 minecraft:spruce_fence_gate 3
+fill ~22~14~38 ~22~14~40 minecraft:dark_oak_trapdoor 3
+fill ~23~1~38 ~26~1~38 minecraft:bookshelf
+setblock ~23~2~38 minecraft:lantern 0
+fill ~23~5~38 ~23~5~40 minecraft:grass
+fill ~23~6~38 ~23~6~40 minecraft:sweet_berry_bush 3
+fill ~24~5~38 ~24~5~40 minecraft:deepslate_brick_stairs 1
+setblock ~25~5~38 minecraft:dark_oak_stairs 7
+fill ~25~6~38 ~25~6~39 minecraft:chest 5
+setblock ~26~2~38 minecraft:lantern 0
+setblock ~26~5~38 minecraft:deepslate_brick_wall 0
+setblock ~26~6~38 minecraft:lantern 0
+setblock ~27~0~38 minecraft:spruce_trapdoor 0
+setblock ~28~3~38 minecraft:jungle_trapdoor 2
+fill ~29~0~38 ~29~0~41 minecraft:spruce_trapdoor 1
+fill ~30~1~38 ~33~1~38 minecraft:bookshelf
+setblock ~30~2~38 minecraft:lantern 0
+setblock ~30~5~38 minecraft:deepslate_brick_wall 0
+setblock ~30~6~38 minecraft:lantern 0
+setblock ~31~5~38 minecraft:dark_oak_stairs 7
+fill ~31~6~38 ~31~6~39 minecraft:chest 4
+fill ~32~5~38 ~32~5~40 minecraft:deepslate_brick_stairs 0
+setblock ~33~2~38 minecraft:lantern 0
+fill ~33~5~38 ~33~5~40 minecraft:grass
+fill ~33~6~38 ~33~6~40 minecraft:sweet_berry_bush 3
+fill ~34~0~38 ~34~0~40 minecraft:planks 1
+fill ~34~1~38 ~34~2~40 minecraft:glass_pane
+fill ~34~3~38 ~34~3~40 minecraft:planks 1
+fill ~34~4~38 ~34~4~40 minecraft:log 1
+fill ~34~5~38 ~34~5~40 minecraft:glowstone
+fill ~34~6~38 ~34~6~40 minecraft:deepslate_brick_stairs 1
+fill ~34~7~38 ~34~7~40 minecraft:fence 1
+fill ~34~14~38 ~34~14~40 minecraft:dark_oak_trapdoor 2
+fill ~35~0~38 ~35~0~40 minecraft:dark_oak_stairs 5
+fill ~35~3~38 ~35~3~40 minecraft:dark_oak_stairs 1
+fill ~35~5~38 ~35~5~40 minecraft:trapdoor 0
+fill ~39~0~38 ~41~0~38 minecraft:grass
+fill ~39~1~38 ~41~11~38 minecraft:bamboo 2
+fill ~39~12~38 ~39~12~40 minecraft:bamboo 2
+fill ~39~13~38 ~39~13~39 minecraft:bamboo 2
+fill ~39~14~38 ~41~14~38 minecraft:bamboo 2
+fill ~39~15~38 ~39~15~40 minecraft:bamboo 2
+setblock ~40~12~38 minecraft:bamboo 2
+setblock ~40~13~38 minecraft:bamboo 2
+setblock ~41~12~38 minecraft:bamboo 2
+setblock ~41~13~38 minecraft:bamboo 2
+setblock ~41~15~38 minecraft:bamboo 2
+fill ~42~0~38 ~42~0~40 minecraft:deepslate_brick_stairs 1
+fill ~44~0~38 ~44~0~39 minecraft:tallgrass 2
+setblock ~45~0~38 minecraft:barrel 1
+fill ~46~0~38 ~46~0~40 minecraft:fence 5
+fill ~46~4~38 ~46~4~40 minecraft:log 1
+fill ~46~5~38 ~46~5~40 minecraft:fence 5
+setblock ~46~13~38 minecraft:spruce_fence_gate 3
+setblock ~46~14~38 minecraft:dark_oak_trapdoor 2
+fill ~50~0~38 ~50~0~40 minecraft:deepslate_brick_stairs 1
+fill ~50~1~38 ~50~1~40 minecraft:fence 5
+fill ~50~4~38 ~50~4~40 minecraft:log 1
+fill ~50~5~38 ~50~5~40 minecraft:fence 5
+setblock ~50~9~38 minecraft:jungle_trapdoor 2
+setblock ~6~3~39 minecraft:lantern 1
+fill ~7~0~39 ~7~2~47 minecraft:reeds 0
+fill ~9~0~39 ~9~2~46 minecraft:reeds 0
+setblock ~10~3~39 minecraft:lantern 1
+setblock ~10~13~39 minecraft:grindstone 2
+setblock ~11~0~39 minecraft:chest 5
+fill ~15~0~39 ~15~0~40 minecraft:grass
+fill ~15~1~39 ~15~9~40 minecraft:bamboo 2
+fill ~15~11~39 ~15~11~40 minecraft:bamboo 2
+fill ~15~12~39 ~15~13~40 minecraft:bamboo 2
+setblock ~16~0~39 minecraft:glowstone
+setblock ~16~1~39 minecraft:jungle_trapdoor 3
+fill ~17~0~39 ~17~0~40 minecraft:grass
+fill ~17~1~39 ~17~9~40 minecraft:bamboo 2
+setblock ~21~2~39 minecraft:lantern 1
+setblock ~22~13~39 minecraft:grindstone 0
+setblock ~23~1~39 minecraft:spruce_trapdoor 2
+fill ~24~1~39 ~25~1~39 minecraft:bed 2
+setblock ~25~5~39 minecraft:spruce_trapdoor 0
+setblock ~26~1~39 minecraft:spruce_trapdoor 2
+fill ~27~0~39 ~27~0~41 minecraft:spruce_trapdoor 0
+setblock ~30~1~39 minecraft:spruce_trapdoor 2
+fill ~31~1~39 ~32~1~39 minecraft:bed 2
+setblock ~31~5~39 minecraft:spruce_trapdoor 1
+setblock ~33~1~39 minecraft:spruce_trapdoor 2
+setblock ~34~13~39 minecraft:grindstone 2
+fill ~39~0~39 ~39~0~40 minecraft:grass
+fill ~39~1~39 ~39~11~40 minecraft:bamboo 2
+setblock ~39~14~39 minecraft:bamboo 2
+setblock ~40~0~39 minecraft:glowstone
+setblock ~40~1~39 minecraft:jungle_trapdoor 0
+fill ~41~0~39 ~41~0~40 minecraft:grass
+fill ~41~1~39 ~41~10~40 minecraft:bamboo 2
+setblock ~41~11~39 minecraft:bamboo 2
+fill ~41~12~39 ~41~13~39 minecraft:bamboo 2
+setblock ~45~0~39 minecraft:chest 4
+setblock ~46~3~39 minecraft:lantern 1
+setblock ~46~13~39 minecraft:grindstone 0
+setblock ~46~14~39 minecraft:dark_oak_trapdoor 0
+fill ~47~0~39 ~47~2~46 minecraft:reeds 0
+fill ~49~0~39 ~49~2~47 minecraft:reeds 0
+setblock ~50~3~39 minecraft:lantern 1
+setblock ~6~9~40 minecraft:jungle_trapdoor 3
+setblock ~10~13~40 minecraft:spruce_fence_gate 1
+setblock ~11~0~40 minecraft:barrel 1
+setblock ~16~0~40 minecraft:grass
+fill ~16~1~40 ~16~12~40 minecraft:bamboo 2
+setblock ~16~13~40 minecraft:bamboo 2
+fill ~16~14~40 ~16~15~40 minecraft:bamboo 2
+setblock ~22~13~40 minecraft:spruce_fence_gate 3
+setblock ~23~0~40 minecraft:glowstone
+setblock ~23~1~40 minecraft:carpet 15
+fill ~24~0~40 ~25~0~40 minecraft:planks 1
+setblock ~25~5~40 minecraft:dark_oak_stairs 6
+setblock ~25~6~40 minecraft:flower_pot
+setblock ~26~0~40 minecraft:glowstone
+setblock ~26~1~40 minecraft:carpet 15
+setblock ~30~0~40 minecraft:glowstone
+setblock ~30~1~40 minecraft:carpet 15
+fill ~31~0~40 ~32~0~40 minecraft:planks 1
+setblock ~31~5~40 minecraft:dark_oak_stairs 6
+setblock ~31~6~40 minecraft:flower_pot
+setblock ~33~0~40 minecraft:glowstone
+setblock ~33~1~40 minecraft:carpet 15
+setblock ~34~13~40 minecraft:spruce_fence_gate 1
+setblock ~39~13~40 minecraft:bamboo 2
+setblock ~39~14~40 minecraft:bamboo 2
+setblock ~39~16~40 minecraft:bamboo 2
+setblock ~40~0~40 minecraft:grass
+fill ~40~1~40 ~40~11~40 minecraft:bamboo 2
+setblock ~40~12~40 minecraft:bamboo 2
+fill ~40~13~40 ~40~14~40 minecraft:bamboo 2
+fill ~41~11~40 ~41~13~40 minecraft:bamboo 2
+setblock ~41~14~40 minecraft:bamboo 2
+fill ~41~15~40 ~41~16~40 minecraft:bamboo 2
+setblock ~45~0~40 minecraft:barrel 1
+setblock ~46~13~40 minecraft:spruce_fence_gate 3
+setblock ~46~14~40 minecraft:dark_oak_trapdoor 3
+setblock ~50~9~40 minecraft:jungle_trapdoor 3
+setblock ~5~0~41 minecraft:jungle_stairs 4
+setblock ~5~1~41 minecraft:deepslate_brick_wall 0
+setblock ~5~2~41 minecraft:fence 5
+setblock ~5~3~41 minecraft:deepslate_brick_wall 0
+setblock ~5~4~41 minecraft:jungle_stairs 0
+setblock ~5~9~41 minecraft:jungle_trapdoor 1
+fill ~6~0~41 ~6~5~41 minecraft:log 1
+setblock ~6~6~41 minecraft:deepslate_brick_wall 0
+setblock ~6~7~41 minecraft:fence 5
+setblock ~6~8~41 minecraft:deepslate_brick_wall 0
+setblock ~6~9~41 minecraft:glowstone
+setblock ~6~10~41 minecraft:deepslate_brick_slab 0
+setblock ~7~9~41 minecraft:jungle_trapdoor 0
+fill ~10~0~41 ~10~5~41 minecraft:log 1
+setblock ~10~6~41 minecraft:deepslate_brick_wall 0
+fill ~10~7~41 ~10~11~41 minecraft:fence 5
+setblock ~10~12~41 minecraft:deepslate_brick_wall 0
+setblock ~10~13~41 minecraft:log 1
+setblock ~10~14~41 minecraft:deepslate_brick_slab 0
+fill ~15~0~41 ~18~0~41 minecraft:deepslate_brick_stairs 3
+setblock ~21~0~41 minecraft:deepslate_brick_wall 0
+fill ~21~1~41 ~21~2~41 minecraft:fence 5
+setblock ~21~3~41 minecraft:deepslate_brick_wall 0
+setblock ~21~4~41 minecraft:deepslate_brick_stairs 0
+fill ~22~0~41 ~22~7~41 minecraft:log 1
+setblock ~22~8~41 minecraft:deepslate_brick_wall 0
+fill ~22~9~41 ~22~11~41 minecraft:fence 5
+setblock ~22~12~41 minecraft:deepslate_brick_wall 0
+setblock ~22~13~41 minecraft:log 1
+setblock ~22~14~41 minecraft:deepslate_brick_slab 0
+setblock ~23~0~41 minecraft:planks 1
+setblock ~23~1~41 minecraft:spruce_trapdoor 2
+fill ~23~5~41 ~24~5~41 minecraft:deepslate_brick_stairs 3
+fill ~24~0~41 ~25~0~41 minecraft:glowstone
+fill ~24~1~41 ~25~1~41 minecraft:carpet 15
+setblock ~26~0~41 minecraft:planks 1
+setblock ~26~1~41 minecraft:spruce_trapdoor 2
+setblock ~26~3~41 minecraft:lantern 1
+setblock ~30~0~41 minecraft:planks 1
+setblock ~30~1~41 minecraft:spruce_trapdoor 2
+setblock ~30~3~41 minecraft:lantern 1
+fill ~31~0~41 ~32~0~41 minecraft:glowstone
+fill ~31~1~41 ~32~1~41 minecraft:carpet 15
+fill ~32~5~41 ~33~5~41 minecraft:deepslate_brick_stairs 3
+setblock ~33~0~41 minecraft:planks 1
+setblock ~33~1~41 minecraft:spruce_trapdoor 2
+fill ~34~0~41 ~34~7~41 minecraft:log 1
+setblock ~34~8~41 minecraft:deepslate_brick_wall 0
+fill ~34~9~41 ~34~11~41 minecraft:fence 5
+setblock ~34~12~41 minecraft:deepslate_brick_wall 0
+setblock ~34~13~41 minecraft:log 1
+setblock ~34~14~41 minecraft:deepslate_brick_slab 0
+setblock ~35~0~41 minecraft:deepslate_brick_wall 0
+fill ~35~1~41 ~35~2~41 minecraft:fence 5
+setblock ~35~3~41 minecraft:deepslate_brick_wall 0
+setblock ~35~4~41 minecraft:deepslate_brick_stairs 1
+setblock ~37~0~41 minecraft:waterlily
+fill ~38~0~41 ~42~0~41 minecraft:deepslate_brick_stairs 3
+setblock ~45~0~41 minecraft:deepslate_brick_wall 0
+fill ~45~1~41 ~45~2~41 minecraft:fence 5
+setblock ~45~3~41 minecraft:deepslate_brick_wall 0
+setblock ~45~4~41 minecraft:deepslate_brick_stairs 0
+fill ~46~0~41 ~46~5~41 minecraft:log 1
+setblock ~46~6~41 minecraft:deepslate_brick_wall 0
+fill ~46~7~41 ~46~11~41 minecraft:fence 5
+setblock ~46~12~41 minecraft:deepslate_brick_wall 0
+setblock ~46~13~41 minecraft:log 1
+setblock ~46~14~41 minecraft:deepslate_brick_slab 0
+setblock ~49~9~41 minecraft:jungle_trapdoor 1
+fill ~50~0~41 ~50~5~41 minecraft:log 1
+setblock ~50~6~41 minecraft:deepslate_brick_wall 0
+setblock ~50~7~41 minecraft:fence 5
+setblock ~50~8~41 minecraft:deepslate_brick_wall 0
+setblock ~50~9~41 minecraft:glowstone
+setblock ~50~10~41 minecraft:deepslate_brick_slab 0
+setblock ~51~0~41 minecraft:jungle_stairs 5
+setblock ~51~1~41 minecraft:deepslate_brick_wall 0
+setblock ~51~2~41 minecraft:fence 5
+setblock ~51~3~41 minecraft:deepslate_brick_wall 0
+setblock ~51~4~41 minecraft:jungle_stairs 1
+setblock ~51~9~41 minecraft:jungle_trapdoor 0
+fill ~5~4~42 ~5~4~44 minecraft:spruce_wall_sign 4
+fill ~6~0~42 ~6~0~44 minecraft:deepslate_brick_stairs 0
+fill ~6~1~42 ~6~1~44 minecraft:fence 5
+fill ~6~4~42 ~6~4~44 minecraft:log 1
+fill ~6~5~42 ~6~5~44 minecraft:fence 5
+setblock ~6~9~42 minecraft:jungle_trapdoor 2
+fill ~10~0~42 ~10~0~44 minecraft:fence 5
+fill ~10~4~42 ~10~4~44 minecraft:log 1
+fill ~10~5~42 ~10~5~44 minecraft:fence 5
+fill ~10~14~42 ~10~14~44 minecraft:dark_oak_trapdoor 2
+fill ~11~0~42 ~11~0~43 minecraft:spruce_stairs 1
+fill ~12~0~42 ~12~0~43 minecraft:fence 5
+fill ~12~1~42 ~12~1~43 minecraft:dark_oak_pressure_plate 0
+fill ~21~0~42 ~21~0~44 minecraft:dark_oak_stairs 4
+fill ~21~3~42 ~21~3~44 minecraft:dark_oak_stairs 0
+fill ~22~0~42 ~22~0~44 minecraft:planks 1
+fill ~22~1~42 ~22~2~44 minecraft:glass_pane
+fill ~22~3~42 ~22~3~44 minecraft:planks 1
+fill ~22~4~42 ~22~4~44 minecraft:log 1
+fill ~22~5~42 ~22~5~44 minecraft:deepslate_brick_stairs 0
+fill ~22~6~42 ~22~6~44 minecraft:fence 1
+setblock ~22~13~42 minecraft:spruce_fence_gate 3
+fill ~22~14~42 ~22~14~44 minecraft:dark_oak_trapdoor 3
+setblock ~23~0~42 minecraft:blast_furnace 5
+fill ~23~3~42 ~23~3~43 minecraft:barrel 5
+fill ~23~5~42 ~24~6~42 minecraft:barrel 1
+setblock ~23~7~42 minecraft:barrel 1
+setblock ~24~0~42 minecraft:spruce_trapdoor 2
+setblock ~25~0~42 minecraft:spruce_trapdoor 2
+setblock ~26~0~42 minecraft:spruce_trapdoor 2
+fill ~30~0~42 ~32~0~42 minecraft:spruce_trapdoor 2
+fill ~32~5~42 ~33~5~43 minecraft:barrel 1
+fill ~32~6~42 ~33~6~42 minecraft:barrel 4
+setblock ~33~0~42 minecraft:blast_furnace 4
+fill ~33~3~42 ~33~3~43 minecraft:barrel 4
+fill ~34~0~42 ~34~0~44 minecraft:planks 1
+fill ~34~1~42 ~34~2~44 minecraft:glass_pane
+fill ~34~3~42 ~34~3~44 minecraft:planks 1
+fill ~34~4~42 ~34~4~44 minecraft:log 1
+fill ~34~5~42 ~34~5~44 minecraft:deepslate_brick_stairs 1
+fill ~34~6~42 ~34~6~44 minecraft:fence 1
+setblock ~34~13~42 minecraft:spruce_fence_gate 1
+fill ~34~14~42 ~34~14~44 minecraft:dark_oak_trapdoor 2
+fill ~35~0~42 ~35~0~44 minecraft:dark_oak_stairs 5
+fill ~35~3~42 ~35~3~44 minecraft:dark_oak_stairs 1
+setblock ~36~0~42 minecraft:tallgrass 2
+setblock ~39~0~42 minecraft:waterlily
+fill ~44~0~42 ~44~0~43 minecraft:fence 5
+fill ~44~1~42 ~44~1~43 minecraft:dark_oak_pressure_plate 0
+fill ~45~0~42 ~45~0~44 minecraft:spruce_stairs 0
+fill ~46~0~42 ~46~0~44 minecraft:fence 5
+fill ~46~4~42 ~46~4~44 minecraft:log 1
+fill ~46~5~42 ~46~5~44 minecraft:fence 5
+setblock ~46~13~42 minecraft:spruce_fence_gate 3
+fill ~46~14~42 ~46~14~43 minecraft:dark_oak_trapdoor 2
+fill ~50~0~42 ~50~0~44 minecraft:deepslate_brick_stairs 1
+fill ~50~1~42 ~50~1~44 minecraft:fence 5
+fill ~50~4~42 ~50~4~44 minecraft:log 1
+fill ~50~5~42 ~50~5~44 minecraft:fence 5
+setblock ~50~9~42 minecraft:jungle_trapdoor 2
+setblock ~6~3~43 minecraft:lantern 1
+setblock ~10~3~43 minecraft:lantern 1
+setblock ~10~13~43 minecraft:grindstone 2
+setblock ~13~0~43 minecraft:fence 5
+setblock ~13~1~43 minecraft:dark_oak_pressure_plate 0
+setblock ~21~2~43 minecraft:lantern 1
+setblock ~22~13~43 minecraft:grindstone 0
+setblock ~23~0~43 minecraft:smoker 5
+setblock ~23~2~43 minecraft:lantern 1
+fill ~23~5~43 ~23~5~44 minecraft:barrel 1
+setblock ~23~6~43 minecraft:barrel 1
+fill ~24~5~43 ~24~5~44 minecraft:barrel 5
+setblock ~33~0~43 minecraft:smoker 4
+setblock ~33~2~43 minecraft:lantern 1
+setblock ~33~6~43 minecraft:barrel 1
+setblock ~33~7~43 minecraft:barrel 4
+setblock ~34~13~43 minecraft:grindstone 2
+setblock ~38~0~43 minecraft:tallgrass 2
+setblock ~41~0~43 minecraft:tallgrass 2
+setblock ~43~0~43 minecraft:fence 5
+setblock ~43~1~43 minecraft:dark_oak_pressure_plate 0
+setblock ~46~3~43 minecraft:lantern 1
+setblock ~46~13~43 minecraft:grindstone 0
+setblock ~50~3~43 minecraft:lantern 1
+fill ~5~15~44 ~11~15~44 minecraft:deepslate_brick_stairs 2
+setblock ~6~9~44 minecraft:jungle_trapdoor 3
+setblock ~10~9~44 minecraft:jungle_trapdoor 3
+setblock ~10~13~44 minecraft:spruce_fence_gate 1
+fill ~11~0~44 ~13~0~44 minecraft:spruce_stairs 2
+setblock ~15~0~44 minecraft:barrel 1
+setblock ~16~0~44 minecraft:chest 2
+setblock ~17~0~44 minecraft:barrel 1
+setblock ~22~13~44 minecraft:spruce_fence_gate 3
+fill ~23~0~44 ~23~0~45 minecraft:chest 5
+setblock ~32~5~44 minecraft:barrel 1
+setblock ~32~6~44 minecraft:lantern 0
+fill ~33~0~44 ~33~0~45 minecraft:chest 4
+fill ~33~5~44 ~33~6~44 minecraft:barrel 4
+setblock ~34~13~44 minecraft:spruce_fence_gate 1
+setblock ~38~0~44 minecraft:deepslate_brick_wall
+fill ~38~1~44 ~38~2~44 minecraft:fence 5
+setblock ~38~3~44 minecraft:deepslate_brick_wall 0
+setblock ~38~4~44 minecraft:deepslate_brick_stairs 2
+setblock ~39~0~44 minecraft:barrel 1
+setblock ~40~0~44 minecraft:chest 2
+setblock ~41~0~44 minecraft:barrel 1
+setblock ~42~0~44 minecraft:deepslate_brick_wall
+fill ~42~1~44 ~42~2~44 minecraft:fence 5
+setblock ~42~3~44 minecraft:deepslate_brick_wall 0
+setblock ~42~4~44 minecraft:deepslate_brick_stairs 2
+fill ~43~0~44 ~44~0~44 minecraft:spruce_stairs 2
+setblock ~45~14~44 minecraft:lantern 1
+fill ~45~15~44 ~51~15~44 minecraft:deepslate_brick_stairs 2
+setblock ~46~9~44 minecraft:jungle_trapdoor 3
+setblock ~46~13~44 minecraft:spruce_fence_gate 3
+setblock ~46~14~44 minecraft:dark_oak_trapdoor 3
+fill ~47~9~44 ~49~9~44 minecraft:spruce_wall_sign 2
+setblock ~50~9~44 minecraft:jungle_trapdoor 3
+setblock ~51~14~44 minecraft:lantern 1
+setblock ~5~0~45 minecraft:jungle_stairs 4
+setblock ~5~1~45 minecraft:deepslate_brick_wall 0
+setblock ~5~2~45 minecraft:fence 5
+setblock ~5~3~45 minecraft:deepslate_brick_wall 0
+setblock ~5~4~45 minecraft:jungle_stairs 0
+setblock ~5~9~45 minecraft:jungle_trapdoor 1
+setblock ~5~15~45 minecraft:deepslate_brick_stairs 7
+setblock ~5~16~45 minecraft:deepslate_brick_stairs 2
+fill ~6~0~45 ~6~15~45 minecraft:log 1
+fill ~6~16~45 ~10~16~45 minecraft:dark_oak_stairs 2
+fill ~7~9~45 ~9~9~45 minecraft:log 1
+fill ~7~10~45 ~9~10~45 minecraft:fence 5
+fill ~7~14~45 ~9~14~45 minecraft:jungle_fence_gate 2
+fill ~7~15~45 ~9~15~45 minecraft:log 1
+fill ~10~0~45 ~10~15~45 minecraft:log 1
+fill ~11~0~45 ~13~0~45 minecraft:fence 5
+fill ~11~4~45 ~13~4~45 minecraft:log 1
+fill ~11~5~45 ~13~5~45 minecraft:fence 5
+setblock ~11~9~45 minecraft:jungle_trapdoor 0
+setblock ~11~13~45 minecraft:spruce_fence_gate 0
+fill ~11~14~45 ~13~14~45 minecraft:dark_oak_trapdoor 0
+setblock ~11~15~45 minecraft:deepslate_brick_stairs 7
+setblock ~11~16~45 minecraft:deepslate_brick_stairs 2
+setblock ~12~3~45 minecraft:lantern 1
+setblock ~12~13~45 minecraft:grindstone 1
+setblock ~13~13~45 minecraft:spruce_fence_gate 0
+fill ~14~0~45 ~14~5~45 minecraft:log 1
+setblock ~14~6~45 minecraft:deepslate_brick_wall 0
+fill ~14~7~45 ~14~11~45 minecraft:fence 5
+setblock ~14~12~45 minecraft:deepslate_brick_wall 0
+setblock ~14~13~45 minecraft:log 1
+setblock ~14~14~45 minecraft:deepslate_brick_slab 0
+fill ~15~0~45 ~17~0~45 minecraft:fence 5
+fill ~15~4~45 ~17~4~45 minecraft:log 1
+fill ~15~5~45 ~17~5~45 minecraft:fence 5
+setblock ~15~13~45 minecraft:spruce_fence_gate 0
+fill ~15~14~45 ~17~14~45 minecraft:dark_oak_trapdoor 1
+setblock ~16~3~45 minecraft:lantern 1
+setblock ~16~13~45 minecraft:grindstone 1
+setblock ~17~13~45 minecraft:spruce_fence_gate 0
+fill ~18~0~45 ~18~5~45 minecraft:log 1
+setblock ~18~6~45 minecraft:deepslate_brick_wall 0
+fill ~18~7~45 ~18~11~45 minecraft:fence 5
+setblock ~18~12~45 minecraft:deepslate_brick_wall 0
+setblock ~18~13~45 minecraft:log 1
+setblock ~18~14~45 minecraft:deepslate_brick_slab 0
+setblock ~19~0~45 minecraft:fence 5
+fill ~19~4~45 ~21~4~45 minecraft:log 1
+fill ~19~5~45 ~21~5~45 minecraft:fence 5
+setblock ~19~13~45 minecraft:spruce_fence_gate 0
+fill ~19~14~45 ~21~14~45 minecraft:dark_oak_trapdoor 0
+setblock ~20~0~45 minecraft:dark_oak_fence_gate 2
+setblock ~20~3~45 minecraft:lantern 1
+setblock ~20~13~45 minecraft:grindstone 1
+setblock ~21~0~45 minecraft:fence 5
+setblock ~21~13~45 minecraft:spruce_fence_gate 0
+fill ~22~0~45 ~22~6~45 minecraft:log 1
+setblock ~22~7~45 minecraft:deepslate_brick_wall 0
+fill ~22~8~45 ~22~11~45 minecraft:fence 5
+setblock ~22~12~45 minecraft:deepslate_brick_wall 0
+setblock ~22~13~45 minecraft:log 1
+setblock ~22~14~45 minecraft:deepslate_brick_slab 0
+fill ~23~4~45 ~33~4~45 minecraft:log 1
+setblock ~26~3~45 minecraft:lantern 1
+setblock ~30~3~45 minecraft:lantern 1
+fill ~34~0~45 ~34~6~45 minecraft:log 1
+setblock ~34~7~45 minecraft:deepslate_brick_wall 0
+fill ~34~8~45 ~34~11~45 minecraft:fence 5
+setblock ~34~12~45 minecraft:deepslate_brick_wall 0
+setblock ~34~13~45 minecraft:log 1
+setblock ~34~14~45 minecraft:deepslate_brick_slab 0
+setblock ~35~0~45 minecraft:fence 5
+fill ~35~4~45 ~37~4~45 minecraft:log 1
+fill ~35~5~45 ~37~5~45 minecraft:fence 5
+setblock ~35~13~45 minecraft:spruce_fence_gate 0
+fill ~35~14~45 ~37~14~45 minecraft:dark_oak_trapdoor 0
+setblock ~36~0~45 minecraft:dark_oak_fence_gate 2
+setblock ~36~3~45 minecraft:lantern 1
+setblock ~36~13~45 minecraft:grindstone 1
+setblock ~37~0~45 minecraft:fence 5
+setblock ~37~13~45 minecraft:spruce_fence_gate 0
+fill ~38~0~45 ~38~5~45 minecraft:log 1
+setblock ~38~6~45 minecraft:deepslate_brick_wall 0
+fill ~38~7~45 ~38~11~45 minecraft:fence 5
+setblock ~38~12~45 minecraft:deepslate_brick_wall 0
+setblock ~38~13~45 minecraft:log 1
+setblock ~38~14~45 minecraft:deepslate_brick_slab 0
+fill ~39~0~45 ~41~0~45 minecraft:fence 5
+fill ~39~4~45 ~41~4~45 minecraft:log 1
+fill ~39~5~45 ~41~5~45 minecraft:fence 5
+setblock ~39~13~45 minecraft:spruce_fence_gate 0
+fill ~39~14~45 ~41~14~45 minecraft:dark_oak_trapdoor 0
+setblock ~40~3~45 minecraft:lantern 1
+setblock ~40~13~45 minecraft:grindstone 1
+setblock ~41~13~45 minecraft:spruce_fence_gate 0
+fill ~42~0~45 ~42~5~45 minecraft:log 1
+setblock ~42~6~45 minecraft:deepslate_brick_wall 0
+fill ~42~7~45 ~42~11~45 minecraft:fence 5
+setblock ~42~12~45 minecraft:deepslate_brick_wall 0
+setblock ~42~13~45 minecraft:log 1
+setblock ~42~14~45 minecraft:deepslate_brick_slab 0
+fill ~43~0~45 ~45~0~45 minecraft:fence 5
+fill ~43~4~45 ~45~4~45 minecraft:log 1
+fill ~43~5~45 ~45~5~45 minecraft:fence 5
+setblock ~43~13~45 minecraft:spruce_fence_gate 0
+fill ~43~14~45 ~45~14~45 minecraft:dark_oak_trapdoor 0
+setblock ~44~3~45 minecraft:lantern 1
+setblock ~44~13~45 minecraft:grindstone 1
+setblock ~45~9~45 minecraft:jungle_trapdoor 1
+setblock ~45~13~45 minecraft:spruce_fence_gate 0
+setblock ~45~15~45 minecraft:deepslate_brick_stairs 7
+setblock ~45~16~45 minecraft:deepslate_brick_stairs 2
+fill ~46~0~45 ~46~15~45 minecraft:log 1
+fill ~46~16~45 ~50~16~45 minecraft:dark_oak_stairs 2
+fill ~47~9~45 ~49~9~45 minecraft:log 1
+fill ~47~10~45 ~49~10~45 minecraft:fence 5
+fill ~47~14~45 ~49~14~45 minecraft:jungle_fence_gate 0
+fill ~47~15~45 ~49~15~45 minecraft:log 1
+fill ~50~0~45 ~50~15~45 minecraft:log 1
+setblock ~51~0~45 minecraft:jungle_stairs 5
+setblock ~51~1~45 minecraft:deepslate_brick_wall 0
+setblock ~51~2~45 minecraft:fence 5
+setblock ~51~3~45 minecraft:deepslate_brick_wall 0
+setblock ~51~4~45 minecraft:jungle_stairs 1
+setblock ~51~9~45 minecraft:jungle_trapdoor 0
+setblock ~51~15~45 minecraft:deepslate_brick_stairs 7
+setblock ~51~16~45 minecraft:deepslate_brick_stairs 2
+fill ~5~4~46 ~5~4~48 minecraft:spruce_wall_sign 4
+fill ~5~9~46 ~5~9~48 minecraft:spruce_wall_sign 4
+fill ~5~15~46 ~5~15~48 minecraft:dark_oak_stairs 4
+setblock ~5~16~46 minecraft:deepslate_brick_stairs 7
+setblock ~5~17~46 minecraft:deepslate_brick_stairs 2
+fill ~6~0~46 ~6~0~48 minecraft:deepslate_brick_stairs 0
+fill ~6~1~46 ~6~1~48 minecraft:fence 5
+fill ~6~4~46 ~6~4~48 minecraft:log 1
+fill ~6~5~46 ~6~5~48 minecraft:fence 5
+fill ~6~9~46 ~6~9~48 minecraft:log 1
+fill ~6~10~46 ~6~10~48 minecraft:fence 5
+fill ~6~14~46 ~6~14~48 minecraft:jungle_fence_gate 1
+fill ~6~15~46 ~6~15~48 minecraft:log 1
+setblock ~6~16~46 minecraft:log 1
+fill ~6~17~46 ~10~17~46 minecraft:dark_oak_stairs 2
+fill ~7~9~46 ~9~9~48 minecraft:planks 1
+fill ~10~0~46 ~16~2~46 minecraft:reeds 0
+fill ~10~4~46 ~21~4~48 minecraft:planks 1
+fill ~10~9~46 ~10~9~48 minecraft:log 1
+fill ~10~10~46 ~10~10~48 minecraft:fence 5
+fill ~10~14~46 ~10~14~48 minecraft:jungle_fence_gate 1
+fill ~10~15~46 ~10~15~48 minecraft:log 1
+setblock ~10~16~46 minecraft:log 1
+fill ~11~9~46 ~11~9~48 minecraft:spruce_wall_sign 5
+fill ~11~15~46 ~11~15~48 minecraft:dark_oak_stairs 5
+setblock ~11~16~46 minecraft:deepslate_brick_stairs 7
+setblock ~11~17~46 minecraft:deepslate_brick_stairs 2
+setblock ~18~0~46 minecraft:fence 5
+fill ~22~0~46 ~22~3~46 minecraft:planks 1
+fill ~22~4~46 ~22~4~48 minecraft:log 1
+fill ~23~4~46 ~33~4~48 minecraft:planks 1
+fill ~34~0~46 ~34~3~46 minecraft:planks 1
+fill ~34~4~46 ~34~4~48 minecraft:log 1
+fill ~35~4~46 ~46~4~48 minecraft:planks 1
+setblock ~38~0~46 minecraft:fence 5
+fill ~40~0~46 ~46~2~46 minecraft:reeds 0
+fill ~45~9~46 ~45~9~48 minecraft:spruce_wall_sign 4
+fill ~45~15~46 ~45~15~48 minecraft:dark_oak_stairs 4
+setblock ~45~16~46 minecraft:deepslate_brick_stairs 7
+setblock ~45~17~46 minecraft:deepslate_brick_stairs 2
+fill ~46~9~46 ~46~9~48 minecraft:log 1
+fill ~46~10~46 ~46~10~48 minecraft:fence 5
+fill ~46~14~46 ~46~14~48 minecraft:jungle_fence_gate 1
+fill ~46~15~46 ~46~15~48 minecraft:log 1
+setblock ~46~16~46 minecraft:log 1
+fill ~46~17~46 ~50~17~46 minecraft:dark_oak_stairs 2
+fill ~47~9~46 ~49~9~48 minecraft:planks 1
+setblock ~48~8~46 minecraft:jungle_trapdoor 3
+fill ~50~0~46 ~50~0~48 minecraft:deepslate_brick_stairs 1
+fill ~50~1~46 ~50~1~48 minecraft:fence 5
+fill ~50~4~46 ~50~4~48 minecraft:log 1
+fill ~50~5~46 ~50~5~48 minecraft:fence 5
+fill ~50~9~46 ~50~9~48 minecraft:log 1
+fill ~50~10~46 ~50~10~48 minecraft:fence 5
+fill ~50~14~46 ~50~14~48 minecraft:jungle_fence_gate 3
+fill ~50~15~46 ~50~15~48 minecraft:log 1
+setblock ~50~16~46 minecraft:log 1
+fill ~51~9~46 ~51~9~48 minecraft:spruce_wall_sign 5
+fill ~51~15~46 ~51~15~48 minecraft:dark_oak_stairs 5
+setblock ~51~16~46 minecraft:deepslate_brick_stairs 7
+setblock ~51~17~46 minecraft:deepslate_brick_stairs 2
+setblock ~4~17~47 minecraft:lantern 1
+setblock ~4~18~47 minecraft:deepslate_brick_slab 0
+setblock ~5~17~47 minecraft:deepslate_brick_slab 0
+setblock ~5~18~47 minecraft:deepslate_brick_double_slab 0
+setblock ~6~3~47 minecraft:lantern 1
+setblock ~6~16~47 minecraft:fence 3
+setblock ~6~17~47 minecraft:deepslate_brick_wall
+setblock ~6~18~47 minecraft:deepslate_brick_slab 0
+setblock ~7~18~47 minecraft:deepslate_brick_double_slab 0
+setblock ~8~15~47 minecraft:lantern 1
+setblock ~8~16~47 minecraft:deepslate_brick_wall 0
+setblock ~8~17~47 minecraft:log 1
+setblock ~8~18~47 minecraft:deepslate_brick_slab 0
+setblock ~9~18~47 minecraft:deepslate_brick_double_slab 0
+setblock ~10~16~47 minecraft:fence 3
+setblock ~10~17~47 minecraft:deepslate_brick_wall
+setblock ~10~18~47 minecraft:deepslate_brick_slab 0
+setblock ~11~17~47 minecraft:deepslate_brick_slab 0
+setblock ~11~18~47 minecraft:deepslate_brick_double_slab 0
+setblock ~12~17~47 minecraft:lantern 1
+setblock ~12~18~47 minecraft:deepslate_brick_slab 0
+setblock ~18~0~47 minecraft:dark_oak_fence_gate 1
+setblock ~22~0~47 minecraft:dark_oak_door 2
+fill ~22~2~47 ~22~3~48 minecraft:planks 1
+fill ~23~2~47 ~25~2~47 minecraft:spruce_trapdoor 3
+fill ~23~3~47 ~24~3~47 minecraft:flower_pot
+setblock ~26~0~47 minecraft:flower_pot
+fill ~26~1~47 ~26~2~47 minecraft:leaves 0
+fill ~27~0~47 ~27~1~47 minecraft:fence 5
+fill ~27~2~47 ~29~2~47 minecraft:dark_oak_stairs 2
+setblock ~28~3~47 minecraft:jungle_trapdoor 3
+fill ~29~0~47 ~29~1~47 minecraft:fence 5
+setblock ~30~0~47 minecraft:flower_pot
+fill ~30~1~47 ~30~2~47 minecraft:leaves 0
+fill ~31~2~47 ~33~2~47 minecraft:spruce_trapdoor 3
+fill ~32~3~47 ~33~3~47 minecraft:flower_pot
+setblock ~34~0~47 minecraft:dark_oak_door 0
+fill ~34~2~47 ~34~3~48 minecraft:planks 1
+setblock ~38~0~47 minecraft:dark_oak_fence_gate 3
+setblock ~44~17~47 minecraft:lantern 1
+setblock ~44~18~47 minecraft:deepslate_brick_slab 0
+setblock ~45~17~47 minecraft:deepslate_brick_slab 0
+setblock ~45~18~47 minecraft:deepslate_brick_double_slab 0
+setblock ~46~16~47 minecraft:fence 3
+setblock ~46~17~47 minecraft:deepslate_brick_wall
+setblock ~46~18~47 minecraft:deepslate_brick_slab 0
+setblock ~47~8~47 minecraft:jungle_trapdoor 1
+setblock ~47~18~47 minecraft:deepslate_brick_double_slab 0
+setblock ~48~7~47 minecraft:jungle_trapdoor 1
+setblock ~48~8~47 minecraft:glowstone
+setblock ~48~15~47 minecraft:lantern 1
+setblock ~48~16~47 minecraft:deepslate_brick_wall 0
+setblock ~48~17~47 minecraft:log 1
+setblock ~48~18~47 minecraft:deepslate_brick_slab 0
+setblock ~49~8~47 minecraft:jungle_trapdoor 0
+setblock ~49~18~47 minecraft:deepslate_brick_double_slab 0
+setblock ~50~3~47 minecraft:lantern 1
+setblock ~50~16~47 minecraft:fence 3
+setblock ~50~17~47 minecraft:deepslate_brick_wall
+setblock ~50~18~47 minecraft:deepslate_brick_slab 0
+setblock ~51~17~47 minecraft:deepslate_brick_slab 0
+setblock ~51~18~47 minecraft:deepslate_brick_double_slab 0
+setblock ~52~17~47 minecraft:lantern 1
+setblock ~52~18~47 minecraft:deepslate_brick_slab 0
+setblock ~5~16~48 minecraft:deepslate_brick_stairs 6
+setblock ~5~17~48 minecraft:deepslate_brick_stairs 3
+setblock ~6~16~48 minecraft:log 1
+fill ~6~17~48 ~10~17~48 minecraft:dark_oak_stairs 3
+fill ~8~0~48 ~16~2~48 minecraft:reeds 0
+setblock ~10~16~48 minecraft:log 1
+setblock ~11~16~48 minecraft:deepslate_brick_stairs 6
+setblock ~11~17~48 minecraft:deepslate_brick_stairs 3
+setblock ~14~9~48 minecraft:jungle_trapdoor 3
+setblock ~18~0~48 minecraft:fence 5
+setblock ~18~9~48 minecraft:jungle_trapdoor 3
+setblock ~19~0~48 minecraft:barrel 2
+setblock ~20~0~48 minecraft:chest 2
+setblock ~21~0~48 minecraft:barrel 2
+fill ~22~0~48 ~23~1~48 minecraft:planks 1
+setblock ~22~9~48 minecraft:jungle_trapdoor 3
+fill ~23~2~48 ~26~3~48 minecraft:planks 1
+setblock ~24~0~48 minecraft:dark_oak_door 3
+fill ~25~0~48 ~26~1~48 minecraft:planks 1
+fill ~26~5~48 ~27~5~48 minecraft:blast_furnace 2
+setblock ~26~9~48 minecraft:jungle_trapdoor 3
+fill ~27~0~48 ~27~3~48 minecraft:stripped_spruce_log 0
+setblock ~28~0~48 minecraft:dark_oak_door 1
+setblock ~28~2~48 minecraft:stripped_spruce_log 1
+setblock ~28~3~48 minecraft:lantern 1
+setblock ~28~5~48 minecraft:crafting_table
+fill ~29~0~48 ~29~3~48 minecraft:stripped_spruce_log 0
+fill ~29~5~48 ~30~5~48 minecraft:smoker 2
+fill ~30~0~48 ~31~3~48 minecraft:planks 1
+setblock ~30~9~48 minecraft:jungle_trapdoor 3
+setblock ~32~0~48 minecraft:dark_oak_door 3
+fill ~32~2~48 ~33~3~48 minecraft:planks 1
+fill ~33~0~48 ~34~1~48 minecraft:planks 1
+setblock ~34~9~48 minecraft:jungle_trapdoor 3
+setblock ~35~0~48 minecraft:chest 2
+setblock ~36~0~48 minecraft:barrel 2
+setblock ~37~0~48 minecraft:chest 2
+setblock ~38~0~48 minecraft:fence 5
+setblock ~38~9~48 minecraft:jungle_trapdoor 3
+fill ~40~0~48 ~48~2~48 minecraft:reeds 0
+setblock ~42~9~48 minecraft:jungle_trapdoor 3
+setblock ~45~16~48 minecraft:deepslate_brick_stairs 6
+setblock ~45~17~48 minecraft:deepslate_brick_stairs 3
+setblock ~46~16~48 minecraft:log 1
+fill ~46~17~48 ~50~17~48 minecraft:dark_oak_stairs 3
+setblock ~48~8~48 minecraft:jungle_trapdoor 2
+setblock ~50~16~48 minecraft:log 1
+setblock ~51~16~48 minecraft:deepslate_brick_stairs 6
+setblock ~51~17~48 minecraft:deepslate_brick_stairs 3
+setblock ~5~0~49 minecraft:jungle_stairs 4
+setblock ~5~1~49 minecraft:deepslate_brick_wall 0
+setblock ~5~2~49 minecraft:fence 5
+setblock ~5~3~49 minecraft:deepslate_brick_wall 0
+setblock ~5~4~49 minecraft:jungle_stairs 0
+setblock ~5~9~49 minecraft:jungle_trapdoor 1
+setblock ~5~15~49 minecraft:deepslate_brick_stairs 6
+setblock ~5~16~49 minecraft:deepslate_brick_stairs 3
+fill ~6~0~49 ~6~15~49 minecraft:log 1
+fill ~6~16~49 ~10~16~49 minecraft:dark_oak_stairs 3
+fill ~7~0~49 ~9~0~49 minecraft:deepslate_brick_stairs 3
+fill ~7~1~49 ~9~1~49 minecraft:fence 5
+fill ~7~4~49 ~9~4~49 minecraft:log 1
+fill ~7~5~49 ~9~5~49 minecraft:fence 5
+fill ~7~9~49 ~9~9~49 minecraft:log 1
+fill ~7~10~49 ~9~10~49 minecraft:fence 5
+fill ~7~14~49 ~9~14~49 minecraft:jungle_fence_gate 0
+fill ~7~15~49 ~9~15~49 minecraft:log 1
+setblock ~8~3~49 minecraft:lantern 1
+fill ~10~0~49 ~10~15~49 minecraft:log 1
+fill ~11~0~49 ~13~0~49 minecraft:deepslate_brick_stairs 3
+fill ~11~1~49 ~13~1~49 minecraft:fence 5
+fill ~11~4~49 ~13~4~49 minecraft:log 1
+fill ~11~5~49 ~13~5~49 minecraft:fence 5
+setblock ~11~9~49 minecraft:jungle_trapdoor 0
+setblock ~11~15~49 minecraft:deepslate_brick_stairs 6
+setblock ~11~16~49 minecraft:deepslate_brick_stairs 3
+setblock ~12~3~49 minecraft:lantern 1
+setblock ~13~9~49 minecraft:jungle_trapdoor 1
+fill ~14~0~49 ~14~5~49 minecraft:log 1
+setblock ~14~6~49 minecraft:deepslate_brick_wall 0
+setblock ~14~7~49 minecraft:fence 5
+setblock ~14~8~49 minecraft:deepslate_brick_wall 0
+setblock ~14~9~49 minecraft:glowstone
+setblock ~14~10~49 minecraft:deepslate_brick_slab 0
+fill ~15~0~49 ~17~0~49 minecraft:deepslate_brick_stairs 3
+fill ~15~1~49 ~17~1~49 minecraft:fence 5
+fill ~15~4~49 ~17~4~49 minecraft:log 1
+fill ~15~5~49 ~17~5~49 minecraft:fence 5
+setblock ~15~9~49 minecraft:jungle_trapdoor 0
+setblock ~16~3~49 minecraft:lantern 1
+setblock ~17~9~49 minecraft:jungle_trapdoor 1
+fill ~18~0~49 ~18~5~49 minecraft:log 1
+setblock ~18~6~49 minecraft:deepslate_brick_wall 0
+setblock ~18~7~49 minecraft:fence 5
+setblock ~18~8~49 minecraft:deepslate_brick_wall 0
+setblock ~18~9~49 minecraft:glowstone
+setblock ~18~10~49 minecraft:deepslate_brick_slab 0
+fill ~19~0~49 ~21~0~49 minecraft:deepslate_brick_stairs 3
+fill ~19~1~49 ~21~1~49 minecraft:fence 5
+fill ~19~4~49 ~21~4~49 minecraft:log 1
+fill ~19~5~49 ~21~5~49 minecraft:fence 5
+setblock ~19~9~49 minecraft:jungle_trapdoor 0
+setblock ~20~3~49 minecraft:lantern 1
+setblock ~21~9~49 minecraft:jungle_trapdoor 1
+fill ~22~0~49 ~22~0~54 minecraft:log 1
+fill ~22~1~49 ~22~5~49 minecraft:log 1
+setblock ~22~6~49 minecraft:deepslate_brick_wall 0
+setblock ~22~7~49 minecraft:fence 5
+setblock ~22~8~49 minecraft:deepslate_brick_wall 0
+setblock ~22~9~49 minecraft:glowstone
+setblock ~22~10~49 minecraft:deepslate_brick_slab 0
+fill ~23~0~49 ~23~1~52 minecraft:chest 5
+fill ~23~4~49 ~25~4~49 minecraft:log 1
+setblock ~23~9~49 minecraft:jungle_trapdoor 0
+fill ~25~0~49 ~25~1~52 minecraft:chest 4
+setblock ~25~9~49 minecraft:jungle_trapdoor 1
+fill ~26~0~49 ~26~0~54 minecraft:log 1
+fill ~26~1~49 ~26~5~49 minecraft:log 1
+setblock ~26~6~49 minecraft:deepslate_brick_wall 0
+setblock ~26~7~49 minecraft:fence 5
+setblock ~26~8~49 minecraft:deepslate_brick_wall 0
+setblock ~26~9~49 minecraft:glowstone
+setblock ~26~10~49 minecraft:deepslate_brick_slab 0
+setblock ~27~0~49 minecraft:deepslate_brick_wall 
+setblock ~27~1~49 minecraft:fence 5
+setblock ~27~2~49 minecraft:deepslate_brick_wall 0
+fill ~27~3~49 ~29~3~49 minecraft:log 1
+fill ~27~4~49 ~29~4~49 minecraft:glowstone
+fill ~27~5~49 ~29~5~49 minecraft:leaves 0
+setblock ~27~9~49 minecraft:jungle_trapdoor 0
+setblock ~28~2~49 minecraft:dark_oak_stairs 7
+setblock ~29~0~49 minecraft:deepslate_brick_wall 0
+setblock ~29~1~49 minecraft:fence 5
+setblock ~29~2~49 minecraft:deepslate_brick_wall 0
+setblock ~29~9~49 minecraft:jungle_trapdoor 1
+fill ~30~0~49 ~30~0~54 minecraft:log 1
+fill ~30~1~49 ~30~5~49 minecraft:log 1
+setblock ~30~6~49 minecraft:deepslate_brick_wall 0
+setblock ~30~7~49 minecraft:fence 5
+setblock ~30~8~49 minecraft:deepslate_brick_wall 0
+setblock ~30~9~49 minecraft:glowstone
+setblock ~30~10~49 minecraft:deepslate_brick_slab 0
+fill ~31~0~49 ~31~1~52 minecraft:chest 5
+fill ~31~4~49 ~33~4~49 minecraft:log 1
+setblock ~31~9~49 minecraft:jungle_trapdoor 0
+fill ~33~0~49 ~33~1~52 minecraft:chest 4
+setblock ~33~9~49 minecraft:jungle_trapdoor 1
+fill ~34~0~49 ~34~0~54 minecraft:log 1
+fill ~34~1~49 ~34~5~49 minecraft:log 1
+setblock ~34~6~49 minecraft:deepslate_brick_wall 0
+setblock ~34~7~49 minecraft:fence 5
+setblock ~34~8~49 minecraft:deepslate_brick_wall 0
+setblock ~34~9~49 minecraft:glowstone
+setblock ~34~10~49 minecraft:deepslate_brick_slab 0
+fill ~35~0~49 ~37~0~49 minecraft:deepslate_brick_stairs 3
+fill ~35~1~49 ~37~1~49 minecraft:fence 5
+fill ~35~4~49 ~37~4~49 minecraft:log 1
+fill ~35~5~49 ~37~5~49 minecraft:fence 5
+setblock ~35~9~49 minecraft:jungle_trapdoor 0
+setblock ~36~3~49 minecraft:lantern 1
+setblock ~37~9~49 minecraft:jungle_trapdoor 1
+fill ~38~0~49 ~38~5~49 minecraft:log 1
+setblock ~38~6~49 minecraft:deepslate_brick_wall 0
+setblock ~38~7~49 minecraft:fence 5
+setblock ~38~8~49 minecraft:deepslate_brick_wall 0
+setblock ~38~9~49 minecraft:glowstone
+setblock ~38~10~49 minecraft:deepslate_brick_slab 0
+fill ~39~0~49 ~41~0~49 minecraft:deepslate_brick_stairs 3
+fill ~39~1~49 ~41~1~49 minecraft:fence 5
+fill ~39~4~49 ~41~4~49 minecraft:log 1
+fill ~39~5~49 ~41~5~49 minecraft:fence 5
+setblock ~39~9~49 minecraft:jungle_trapdoor 0
+setblock ~40~3~49 minecraft:lantern 1
+setblock ~41~9~49 minecraft:jungle_trapdoor 1
+fill ~42~0~49 ~42~5~49 minecraft:log 1
+setblock ~42~6~49 minecraft:deepslate_brick_wall 0
+setblock ~42~7~49 minecraft:fence 5
+setblock ~42~8~49 minecraft:deepslate_brick_wall 0
+setblock ~42~9~49 minecraft:glowstone
+setblock ~42~10~49 minecraft:deepslate_brick_slab 0
+fill ~43~0~49 ~45~0~49 minecraft:deepslate_brick_stairs 3
+fill ~43~1~49 ~45~1~49 minecraft:fence 5
+fill ~43~4~49 ~45~4~49 minecraft:log 1
+fill ~43~5~49 ~45~5~49 minecraft:fence 5
+setblock ~43~9~49 minecraft:jungle_trapdoor 0
+setblock ~44~3~49 minecraft:lantern 1
+setblock ~45~9~49 minecraft:jungle_trapdoor 1
+setblock ~45~15~49 minecraft:deepslate_brick_stairs 6
+setblock ~45~16~49 minecraft:deepslate_brick_stairs 3
+fill ~46~0~49 ~46~15~49 minecraft:log 1
+fill ~46~16~49 ~50~16~49 minecraft:dark_oak_stairs 3
+fill ~47~0~49 ~49~0~49 minecraft:deepslate_brick_stairs 3
+fill ~47~1~49 ~49~1~49 minecraft:fence 5
+fill ~47~4~49 ~49~4~49 minecraft:log 1
+fill ~47~5~49 ~49~5~49 minecraft:fence 5
+fill ~47~9~49 ~49~9~49 minecraft:log 1
+fill ~47~10~49 ~49~10~49 minecraft:fence 5
+fill ~47~14~49 ~49~14~49 minecraft:jungle_fence_gate 0
+fill ~47~15~49 ~49~15~49 minecraft:log 1
+setblock ~48~3~49 minecraft:lantern 1
+fill ~50~0~49 ~50~15~49 minecraft:log 1
+setblock ~51~0~49 minecraft:jungle_stairs 5
+setblock ~51~1~49 minecraft:deepslate_brick_wall 0
+setblock ~51~2~49 minecraft:fence 5
+setblock ~51~3~49 minecraft:deepslate_brick_wall 0
+setblock ~51~4~49 minecraft:jungle_stairs 1
+setblock ~51~9~49 minecraft:jungle_trapdoor 0
+setblock ~51~15~49 minecraft:deepslate_brick_stairs 6
+setblock ~51~16~49 minecraft:deepslate_brick_stairs 3
+fill ~5~15~50 ~11~15~50 minecraft:deepslate_brick_stairs 3
+setblock ~6~0~50 minecraft:jungle_stairs 7
+setblock ~6~1~50 minecraft:deepslate_brick_wall 0
+setblock ~6~2~50 minecraft:fence 5
+setblock ~6~3~50 minecraft:deepslate_brick_wall 0
+setblock ~6~4~50 minecraft:jungle_stairs 3
+setblock ~6~9~50 minecraft:jungle_trapdoor 2
+fill ~7~9~50 ~9~9~50 minecraft:spruce_wall_sign 3
+setblock ~10~0~50 minecraft:jungle_stairs 7
+setblock ~10~1~50 minecraft:deepslate_brick_wall 0
+setblock ~10~2~50 minecraft:fence 5
+setblock ~10~3~50 minecraft:deepslate_brick_wall 0
+setblock ~10~4~50 minecraft:jungle_stairs 3
+setblock ~10~9~50 minecraft:jungle_trapdoor 2
+setblock ~14~0~50 minecraft:jungle_stairs 7
+setblock ~14~1~50 minecraft:deepslate_brick_wall 0
+setblock ~14~2~50 minecraft:fence 5
+setblock ~14~3~50 minecraft:deepslate_brick_wall 0
+setblock ~14~4~50 minecraft:jungle_stairs 3
+setblock ~14~9~50 minecraft:jungle_trapdoor 2
+setblock ~18~0~50 minecraft:jungle_stairs 7
+setblock ~18~1~50 minecraft:deepslate_brick_wall 0
+setblock ~18~2~50 minecraft:fence 5
+setblock ~18~3~50 minecraft:deepslate_brick_wall 0
+setblock ~18~4~50 minecraft:jungle_stairs 3
+setblock ~18~9~50 minecraft:jungle_trapdoor 2
+fill ~22~1~50 ~22~1~52 minecraft:fence 5
+fill ~22~2~50 ~22~2~51 minecraft:fence 5
+setblock ~22~3~50 minecraft:fence 5
+setblock ~22~4~50 minecraft:log 1
+setblock ~22~9~50 minecraft:jungle_trapdoor 2
+fill ~23~4~50 ~25~4~50 minecraft:spruce_stairs 3
+setblock ~24~3~50 minecraft:lantern 1
+fill ~26~1~50 ~26~1~52 minecraft:fence 5
+fill ~26~2~50 ~26~2~51 minecraft:fence 5
+setblock ~26~3~50 minecraft:fence 5
+setblock ~26~4~50 minecraft:log 1
+setblock ~26~9~50 minecraft:jungle_trapdoor 2
+fill ~27~3~50 ~29~3~50 minecraft:dark_oak_stairs 3
+fill ~27~4~50 ~29~4~50 minecraft:trapdoor 2
+setblock ~28~2~50 minecraft:lantern 1
+fill ~30~1~50 ~30~1~52 minecraft:fence 5
+fill ~30~2~50 ~30~2~51 minecraft:fence 5
+setblock ~30~3~50 minecraft:fence 5
+setblock ~30~4~50 minecraft:log 1
+setblock ~30~9~50 minecraft:jungle_trapdoor 2
+fill ~31~4~50 ~33~4~50 minecraft:spruce_stairs 3
+setblock ~32~3~50 minecraft:lantern 1
+fill ~34~1~50 ~34~1~52 minecraft:fence 5
+fill ~34~2~50 ~34~2~51 minecraft:fence 5
+setblock ~34~3~50 minecraft:fence 5
+setblock ~34~4~50 minecraft:log 1
+setblock ~34~9~50 minecraft:jungle_trapdoor 2
+setblock ~38~0~50 minecraft:jungle_stairs 7
+setblock ~38~1~50 minecraft:deepslate_brick_wall 0
+setblock ~38~2~50 minecraft:fence 5
+setblock ~38~3~50 minecraft:deepslate_brick_wall 0
+setblock ~38~4~50 minecraft:jungle_stairs 3
+setblock ~38~9~50 minecraft:jungle_trapdoor 2
+setblock ~42~0~50 minecraft:jungle_stairs 7
+setblock ~42~1~50 minecraft:deepslate_brick_wall 0
+setblock ~42~2~50 minecraft:fence 5
+setblock ~42~3~50 minecraft:deepslate_brick_wall 0
+setblock ~42~4~50 minecraft:jungle_stairs 3
+setblock ~42~9~50 minecraft:jungle_trapdoor 2
+setblock ~45~14~50 minecraft:lantern 1
+fill ~45~15~50 ~51~15~50 minecraft:deepslate_brick_stairs 3
+setblock ~46~0~50 minecraft:jungle_stairs 7
+setblock ~46~1~50 minecraft:deepslate_brick_wall 0
+setblock ~46~2~50 minecraft:fence 5
+setblock ~46~3~50 minecraft:deepslate_brick_wall 0
+setblock ~46~4~50 minecraft:jungle_stairs 3
+setblock ~46~9~50 minecraft:jungle_trapdoor 2
+fill ~47~9~50 ~49~9~50 minecraft:spruce_wall_sign 3
+setblock ~50~0~50 minecraft:jungle_stairs 7
+setblock ~50~1~50 minecraft:deepslate_brick_wall 0
+setblock ~50~2~50 minecraft:fence 5
+setblock ~50~3~50 minecraft:deepslate_brick_wall 0
+setblock ~50~4~50 minecraft:jungle_stairs 3
+setblock ~50~9~50 minecraft:jungle_trapdoor 2
+setblock ~51~14~50 minecraft:lantern 1
+setblock ~22~3~51 minecraft:log 1
+fill ~23~3~51 ~25~3~51 minecraft:spruce_stairs 3
+setblock ~24~2~51 minecraft:lantern 1
+setblock ~26~3~51 minecraft:log 1
+setblock ~30~3~51 minecraft:log 1
+fill ~31~3~51 ~33~3~51 minecraft:spruce_stairs 3
+setblock ~32~2~51 minecraft:lantern 1
+setblock ~34~3~51 minecraft:log 1
+setblock ~22~2~52 minecraft:log 1
+fill ~23~2~52 ~25~2~52 minecraft:spruce_stairs 3
+setblock ~26~2~52 minecraft:log 1
+setblock ~30~2~52 minecraft:log 1
+fill ~31~2~52 ~33~2~52 minecraft:spruce_stairs 3
+setblock ~34~2~52 minecraft:log 1
+setblock ~22~1~53 minecraft:log 1
+fill ~23~0~53 ~25~0~53 minecraft:barrel 2
+fill ~23~1~53 ~25~1~53 minecraft:spruce_stairs 3
+setblock ~26~1~53 minecraft:log 1
+setblock ~30~1~53 minecraft:log 1
+fill ~31~0~53 ~33~0~53 minecraft:barrel 2
+fill ~31~1~53 ~33~1~53 minecraft:spruce_stairs 3
+setblock ~34~1~53 minecraft:log 1
+fill ~23~0~54 ~25~0~54 minecraft:spruce_stairs 3
+fill ~31~0~54 ~33~0~54 minecraft:spruce_stairs 3

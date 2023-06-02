@@ -1,0 +1,1168 @@
+fill ~17 ~0 ~26 ~20 ~0 ~26 concrete 0  
+fill ~17 ~0 ~27 ~21 ~0 ~27 concrete 0  
+fill ~18 ~0 ~28 ~20 ~0 ~28 concrete 0  
+fill ~19 ~0 ~29 ~20 ~0 ~29 concrete 0  
+fill ~16 ~1 ~26 ~23 ~1 ~26 concrete 0  
+fill ~16 ~1 ~27 ~16 ~1 ~29 concrete 0  
+fill ~17 ~1 ~28 ~17 ~1 ~29 concrete 0  
+fill ~18 ~1 ~29 ~22 ~1 ~29 concrete 0  
+fill ~21 ~1 ~28 ~22 ~1 ~28 concrete 0  
+fill ~22 ~1 ~27 ~23 ~1 ~27 concrete 0  
+fill ~15 ~2 ~26 ~24 ~2 ~26 concrete 0  
+fill ~15 ~2 ~27 ~15 ~2 ~28 concrete 0  
+fill ~16 ~2 ~29 ~23 ~2 ~29 concrete 0  
+fill ~23 ~2 ~28 ~24 ~2 ~28 concrete 0 
+setblock ~24 ~2 ~27 concrete 0  
+fill ~14 ~3 ~25 ~20 ~3 ~25 concrete 0  
+fill ~14 ~3 ~26 ~14 ~3 ~28 concrete 0  
+fill ~15 ~3 ~29 ~24 ~3 ~29 concrete 0  
+fill ~21 ~3 ~26 ~25 ~3 ~26 concrete 0 
+setblock ~24 ~3 ~28 concrete 0  
+fill ~25 ~3 ~27 ~25 ~4 ~27 concrete 0  
+fill ~13 ~4 ~26 ~13 ~5 ~26 concrete 0  
+fill ~13 ~4 ~27 ~13 ~5 ~27 concrete 0  
+fill ~13 ~4 ~28 ~13 ~9 ~28 concrete 0  
+fill ~14 ~4 ~25 ~25 ~4 ~25 concrete 0  
+fill ~14 ~4 ~29 ~17 ~4 ~29 concrete 0  
+fill ~18 ~4 ~28 ~19 ~4 ~28 concrete 0  
+fill ~20 ~4 ~29 ~25 ~4 ~29 concrete 0 
+setblock ~25 ~4 ~26 concrete 0  
+fill ~25 ~4 ~28 ~25 ~9 ~28 concrete 0  
+fill ~13 ~5 ~25 ~25 ~5 ~25 concrete 0  
+fill ~14 ~5 ~28 ~26 ~5 ~28 concrete 0  
+fill ~26 ~5 ~26 ~26 ~6 ~26 concrete 0  
+fill ~26 ~5 ~27 ~26 ~7 ~27 concrete 0  
+fill ~12 ~6 ~25 ~26 ~6 ~25 concrete 0  
+fill ~12 ~6 ~26 ~12 ~18 ~26 concrete 0  
+fill ~12 ~6 ~27 ~12 ~14 ~27 concrete 0  
+fill ~12 ~6 ~28 ~12 ~6 ~25 concrete 0  
+fill ~14 ~6 ~28 ~26 ~6 ~28 concrete 0  
+fill ~12 ~7 ~25 ~27 ~7 ~25 concrete 0  
+fill ~14 ~7 ~28 ~26 ~7 ~28 concrete 0  
+fill ~27 ~7 ~26 ~27 ~17 ~26 concrete 0  
+fill ~12 ~8 ~24 ~21 ~8 ~24 concrete 0  
+fill ~12 ~8 ~25 ~12 ~21 ~25 concrete 0  
+fill ~12 ~8 ~28 ~12 ~9 ~28 concrete 0  
+fill ~14 ~8 ~28 ~26 ~8 ~28 concrete 0  
+fill ~22 ~8 ~25 ~27 ~8 ~25 concrete 0  
+fill ~27 ~8 ~27 ~27 ~12 ~27 concrete 0  
+fill ~12 ~9 ~24 ~26 ~9 ~24 concrete 0  
+fill ~14 ~9 ~28 ~15 ~9 ~28 concrete 0  
+fill ~16 ~9 ~27 ~20 ~9 ~27 concrete 0  
+fill ~21 ~9 ~28 ~26 ~9 ~28 concrete 0  
+fill ~27 ~9 ~25 ~27 ~19 ~25 concrete 0  
+fill ~12 ~10 ~24 ~26 ~10 ~24 concrete 0  
+fill ~13 ~10 ~27 ~25 ~10 ~27 concrete 0 
+setblock ~26 ~10 ~28 concrete 0  
+fill ~12 ~11 ~24 ~26 ~11 ~24 concrete 0  
+fill ~13 ~11 ~27 ~27 ~11 ~27 concrete 0  
+fill ~12 ~12 ~24 ~27 ~12 ~24 concrete 0  
+fill ~13 ~12 ~27 ~27 ~12 ~27 concrete 0  
+fill ~12 ~13 ~23 ~22 ~13 ~23 concrete 0  
+fill ~12 ~13 ~24 ~12 ~25 ~24 concrete 0  
+fill ~13 ~13 ~27 ~26 ~13 ~27 concrete 0  
+fill ~23 ~13 ~24 ~27 ~13 ~24 concrete 0  
+fill ~12 ~14 ~23 ~26 ~14 ~23 concrete 0  
+fill ~13 ~14 ~27 ~13 ~10 ~27 concrete 0  
+fill ~14 ~14 ~26 ~21 ~14 ~26 concrete 0  
+fill ~22 ~14 ~27 ~26 ~14 ~27 concrete 0  
+fill ~27 ~14 ~24 ~27 ~19 ~24 concrete 0  
+fill ~12 ~15 ~23 ~26 ~15 ~23 concrete 0  
+fill ~13 ~15 ~26 ~25 ~15 ~26 concrete 0 
+setblock ~26 ~15 ~27 concrete 0  
+fill ~12 ~16 ~23 ~26 ~16 ~23 concrete 0  
+fill ~13 ~16 ~26 ~27 ~16 ~26 concrete 0  
+fill ~12 ~17 ~23 ~18 ~17 ~23 concrete 0  
+fill ~13 ~17 ~26 ~27 ~17 ~26 concrete 0  
+fill ~19 ~17 ~22 ~19 ~21 ~22 concrete 0  
+fill ~20 ~17 ~23 ~27 ~17 ~23 concrete 0  
+fill ~12 ~18 ~22 ~23 ~18 ~22 concrete 0  
+fill ~12 ~18 ~23 ~12 ~28 ~23 concrete 0  
+fill ~13 ~18 ~26 ~26 ~18 ~26 concrete 0  
+fill ~24 ~18 ~23 ~27 ~18 ~23 concrete 0  
+fill ~13 ~19 ~22 ~26 ~19 ~22 concrete 0  
+fill ~13 ~19 ~25 ~22 ~19 ~25 concrete 0  
+fill ~23 ~19 ~26 ~26 ~19 ~26 concrete 0 
+setblock ~27 ~19 ~23 concrete 0  
+fill ~12 ~20 ~22 ~26 ~20 ~22 concrete 0  
+fill ~13 ~20 ~25 ~26 ~20 ~25 concrete 0  
+fill ~26 ~20 ~23 ~26 ~31 ~23 concrete 0  
+fill ~26 ~20 ~24 ~26 ~27 ~24 concrete 0  
+fill ~12 ~21 ~22 ~26 ~21 ~22 concrete 0  
+fill ~13 ~21 ~25 ~26 ~21 ~25 concrete 0  
+fill ~12 ~22 ~22 ~16 ~22 ~22 concrete 0  
+fill ~13 ~22 ~25 ~26 ~22 ~25 concrete 0  
+fill ~17 ~22 ~21 ~20 ~22 ~21 concrete 0  
+fill ~21 ~22 ~22 ~26 ~22 ~22 concrete 0  
+fill ~12 ~23 ~22 ~12 ~27 ~22 concrete 0  
+fill ~13 ~23 ~21 ~24 ~23 ~21 concrete 0  
+fill ~13 ~23 ~25 ~18 ~23 ~25 concrete 0  
+fill ~19 ~23 ~24 ~19 ~27 ~24 concrete 0  
+fill ~20 ~23 ~25 ~26 ~23 ~25 concrete 0  
+fill ~25 ~23 ~22 ~26 ~23 ~22 concrete 0  
+fill ~13 ~24 ~21 ~26 ~24 ~21 concrete 0  
+fill ~13 ~24 ~24 ~23 ~24 ~24 concrete 0  
+fill ~24 ~24 ~25 ~26 ~24 ~25 concrete 0  
+fill ~26 ~24 ~22 ~26 ~35 ~22 concrete 0  
+fill ~12 ~25 ~21 ~26 ~25 ~21 concrete 0  
+fill ~13 ~25 ~24 ~26 ~25 ~24 concrete 0  
+fill ~12 ~26 ~21 ~26 ~26 ~21 concrete 0  
+fill ~13 ~26 ~24 ~26 ~26 ~24 concrete 0  
+fill ~12 ~27 ~21 ~13 ~27 ~21 concrete 0  
+fill ~13 ~27 ~24 ~26 ~27 ~24 concrete 0  
+fill ~14 ~27 ~20 ~21 ~27 ~20 concrete 0  
+fill ~22 ~27 ~21 ~26 ~27 ~21 concrete 0  
+fill ~13 ~28 ~20 ~25 ~28 ~20 concrete 0  
+fill ~13 ~28 ~21 ~13 ~39 ~21 concrete 0  
+fill ~13 ~28 ~22 ~13 ~36 ~22 concrete 0  
+fill ~13 ~28 ~24 ~15 ~28 ~24 concrete 0  
+fill ~16 ~28 ~23 ~20 ~28 ~23 concrete 0  
+fill ~21 ~28 ~24 ~25 ~28 ~24 concrete 0  
+fill ~26 ~28 ~21 ~26 ~36 ~21 concrete 0  
+fill ~13 ~29 ~20 ~25 ~29 ~20 concrete 0  
+fill ~13 ~29 ~23 ~26 ~29 ~23 concrete 0  
+fill ~13 ~30 ~20 ~25 ~30 ~20 concrete 0  
+fill ~13 ~30 ~23 ~26 ~30 ~23 concrete 0  
+fill ~13 ~31 ~20 ~26 ~31 ~20 concrete 0  
+fill ~13 ~31 ~23 ~26 ~31 ~23 concrete 0  
+fill ~13 ~32 ~19 ~22 ~32 ~19 concrete 0  
+fill ~13 ~32 ~20 ~13 ~44 ~20 concrete 0  
+fill ~13 ~32 ~23 ~25 ~32 ~23 concrete 0  
+fill ~23 ~32 ~20 ~26 ~32 ~20 concrete 0  
+fill ~13 ~33 ~19 ~25 ~33 ~19 concrete 0  
+fill ~14 ~33 ~22 ~22 ~33 ~22 concrete 0  
+fill ~23 ~33 ~23 ~25 ~33 ~23 concrete 0  
+fill ~26 ~33 ~20 ~26 ~36 ~20 concrete 0  
+fill ~13 ~34 ~19 ~25 ~34 ~19 concrete 0  
+fill ~14 ~34 ~22 ~26 ~34 ~22 concrete 0  
+fill ~13 ~35 ~19 ~26 ~35 ~19 concrete 0  
+fill ~14 ~35 ~22 ~26 ~35 ~22 concrete 0  
+fill ~13 ~36 ~19 ~17 ~36 ~19 concrete 0  
+fill ~14 ~36 ~22 ~25 ~36 ~22 concrete 0  
+fill ~18 ~36 ~18 ~19 ~36 ~18 concrete 0  
+fill ~20 ~36 ~19 ~26 ~36 ~19 concrete 0  
+fill ~13 ~37 ~19 ~13 ~44 ~19 concrete 0  
+fill ~14 ~37 ~18 ~24 ~37 ~18 concrete 0  
+fill ~14 ~37 ~22 ~25 ~37 ~22 concrete 0  
+fill ~25 ~37 ~19 ~25 ~50 ~19 concrete 0  
+fill ~25 ~37 ~20 ~25 ~45 ~20 concrete 0  
+fill ~25 ~37 ~21 ~25 ~43 ~21 concrete 0  
+fill ~14 ~38 ~18 ~25 ~38 ~18 concrete 0  
+fill ~14 ~38 ~21 ~23 ~38 ~21 concrete 0  
+fill ~24 ~38 ~22 ~25 ~38 ~22 concrete 0  
+fill ~13 ~39 ~18 ~25 ~39 ~18 concrete 0  
+fill ~14 ~39 ~21 ~25 ~39 ~21 concrete 0  
+fill ~13 ~40 ~18 ~25 ~40 ~18 concrete 0  
+fill ~14 ~40 ~21 ~25 ~40 ~21 concrete 0  
+fill ~13 ~41 ~18 ~14 ~41 ~18 concrete 0  
+fill ~14 ~41 ~21 ~25 ~41 ~21 concrete 0  
+fill ~15 ~41 ~17 ~21 ~41 ~17 concrete 0  
+fill ~22 ~41 ~18 ~25 ~41 ~18 concrete 0  
+fill ~13 ~42 ~18 ~13 ~44 ~18 concrete 0  
+fill ~14 ~42 ~17 ~25 ~42 ~17 concrete 0  
+fill ~14 ~42 ~21 ~16 ~42 ~21 concrete 0  
+fill ~17 ~42 ~20 ~20 ~42 ~20 concrete 0  
+fill ~21 ~42 ~21 ~25 ~42 ~21 concrete 0  
+fill ~25 ~42 ~18 ~25 ~52 ~18 concrete 0  
+fill ~14 ~43 ~17 ~25 ~43 ~17 concrete 0  
+fill ~14 ~43 ~20 ~25 ~43 ~20 concrete 0  
+fill ~13 ~44 ~17 ~25 ~44 ~17 concrete 0  
+fill ~14 ~44 ~20 ~25 ~44 ~20 concrete 0  
+fill ~14 ~45 ~17 ~25 ~45 ~17 concrete 0  
+fill ~14 ~45 ~18 ~14 ~54 ~18 concrete 0  
+fill ~14 ~45 ~19 ~14 ~51 ~19 concrete 0  
+fill ~14 ~45 ~20 ~25 ~45 ~20 concrete 0  
+fill ~14 ~46 ~16 ~22 ~46 ~16 concrete 0  
+fill ~14 ~46 ~17 ~14 ~58 ~17 concrete 0  
+fill ~14 ~46 ~20 ~24 ~46 ~20 concrete 0  
+fill ~23 ~46 ~17 ~25 ~46 ~17 concrete 0  
+fill ~14 ~47 ~16 ~24 ~47 ~16 concrete 0  
+fill ~15 ~47 ~19 ~21 ~47 ~19 concrete 0  
+fill ~22 ~47 ~20 ~24 ~47 ~20 concrete 0  
+fill ~25 ~47 ~17 ~25 ~52 ~17 concrete 0  
+fill ~14 ~48 ~16 ~24 ~48 ~16 concrete 0  
+fill ~15 ~48 ~19 ~25 ~48 ~19 concrete 0  
+fill ~14 ~49 ~16 ~25 ~49 ~16 concrete 0  
+fill ~15 ~49 ~19 ~25 ~49 ~19 concrete 0  
+fill ~14 ~50 ~16 ~25 ~50 ~16 concrete 0  
+fill ~15 ~50 ~19 ~25 ~50 ~19 concrete 0  
+fill ~14 ~51 ~15 ~23 ~51 ~15 concrete 0  
+fill ~14 ~51 ~16 ~14 ~62 ~16 concrete 0  
+fill ~15 ~51 ~19 ~24 ~51 ~19 concrete 0  
+fill ~24 ~51 ~16 ~25 ~51 ~16 concrete 0  
+fill ~14 ~52 ~15 ~24 ~52 ~15 concrete 0  
+fill ~15 ~52 ~18 ~22 ~52 ~18 concrete 0  
+fill ~23 ~52 ~19 ~24 ~52 ~19 concrete 0 
+setblock ~25 ~52 ~16 concrete 0  
+fill ~14 ~53 ~15 ~24 ~53 ~15 concrete 0  
+fill ~15 ~53 ~18 ~24 ~53 ~18 concrete 0  
+fill ~24 ~53 ~16 ~24 ~64 ~16 concrete 0  
+fill ~24 ~53 ~17 ~24 ~60 ~17 concrete 0  
+fill ~14 ~54 ~15 ~24 ~54 ~15 concrete 0  
+fill ~15 ~54 ~18 ~24 ~54 ~18 concrete 0  
+fill ~14 ~55 ~15 ~16 ~55 ~15 concrete 0  
+fill ~15 ~55 ~18 ~24 ~55 ~18 concrete 0  
+fill ~17 ~55 ~14 ~19 ~55 ~14 concrete 0  
+fill ~20 ~55 ~15 ~24 ~55 ~15 concrete 0  
+fill ~14 ~56 ~15 ~14 ~61 ~15 concrete 0  
+fill ~15 ~56 ~14 ~24 ~56 ~14 concrete 0  
+fill ~15 ~56 ~18 ~24 ~56 ~18 concrete 0  
+fill ~24 ~56 ~15 ~24 ~68 ~15 concrete 0  
+fill ~15 ~57 ~14 ~24 ~57 ~14 concrete 0  
+fill ~15 ~57 ~17 ~24 ~57 ~17 concrete 0 
+setblock ~24 ~57 ~18 concrete 0  
+fill ~14 ~58 ~14 ~24 ~58 ~14 concrete 0  
+fill ~15 ~58 ~17 ~24 ~58 ~17 concrete 0  
+fill ~14 ~59 ~14 ~24 ~59 ~14 concrete 0  
+fill ~15 ~59 ~17 ~24 ~59 ~17 concrete 0  
+fill ~14 ~60 ~14 ~14 ~61 ~14 concrete 0  
+fill ~15 ~60 ~13 ~21 ~60 ~13 concrete 0  
+fill ~15 ~60 ~17 ~24 ~60 ~17 concrete 0  
+fill ~22 ~60 ~14 ~24 ~60 ~14 concrete 0  
+fill ~15 ~61 ~13 ~24 ~61 ~13 concrete 0  
+fill ~15 ~61 ~17 ~15 ~57 ~17 concrete 0  
+fill ~16 ~61 ~16 ~20 ~61 ~16 concrete 0  
+fill ~21 ~61 ~17 ~23 ~61 ~17 concrete 0  
+fill ~24 ~61 ~14 ~24 ~69 ~14 concrete 0  
+fill ~15 ~62 ~13 ~23 ~62 ~13 concrete 0  
+fill ~15 ~62 ~14 ~15 ~72 ~14 concrete 0  
+fill ~15 ~62 ~15 ~15 ~70 ~15 concrete 0  
+fill ~15 ~62 ~16 ~24 ~62 ~16 concrete 0  
+fill ~15 ~63 ~13 ~24 ~63 ~13 concrete 0  
+fill ~15 ~63 ~16 ~24 ~63 ~16 concrete 0  
+fill ~15 ~64 ~13 ~24 ~64 ~13 concrete 0  
+fill ~15 ~64 ~16 ~24 ~64 ~16 concrete 0  
+fill ~15 ~65 ~12 ~22 ~65 ~12 concrete 0  
+fill ~15 ~65 ~13 ~15 ~77 ~13 concrete 0  
+fill ~15 ~65 ~16 ~23 ~65 ~16 concrete 0  
+fill ~23 ~65 ~13 ~24 ~65 ~13 concrete 0  
+fill ~15 ~66 ~12 ~23 ~66 ~12 concrete 0  
+fill ~16 ~66 ~15 ~21 ~66 ~15 concrete 0  
+fill ~22 ~66 ~16 ~23 ~66 ~16 concrete 0  
+fill ~24 ~66 ~13 ~24 ~69 ~13 concrete 0  
+fill ~15 ~67 ~12 ~23 ~67 ~12 concrete 0  
+fill ~16 ~67 ~15 ~24 ~67 ~15 concrete 0  
+fill ~15 ~68 ~12 ~24 ~68 ~12 concrete 0  
+fill ~16 ~68 ~15 ~24 ~68 ~15 concrete 0  
+fill ~15 ~69 ~12 ~24 ~69 ~12 concrete 0  
+fill ~16 ~69 ~15 ~23 ~69 ~15 concrete 0  
+fill ~15 ~70 ~12 ~15 ~78 ~12 concrete 0  
+fill ~16 ~70 ~11 ~23 ~70 ~11 concrete 0  
+fill ~16 ~70 ~15 ~23 ~70 ~15 concrete 0  
+fill ~23 ~70 ~12 ~23 ~82 ~12 concrete 0  
+fill ~23 ~70 ~13 ~23 ~78 ~13 concrete 0  
+fill ~23 ~70 ~14 ~23 ~75 ~14 concrete 0  
+fill ~16 ~71 ~11 ~23 ~71 ~11 concrete 0  
+fill ~16 ~71 ~14 ~23 ~71 ~14 concrete 0  
+fill ~15 ~72 ~11 ~23 ~72 ~11 concrete 0  
+fill ~16 ~72 ~14 ~23 ~72 ~14 concrete 0  
+fill ~15 ~73 ~11 ~23 ~73 ~11 concrete 0  
+fill ~16 ~73 ~14 ~23 ~73 ~14 concrete 0  
+fill ~15 ~74 ~11 ~15 ~78 ~11 concrete 0  
+fill ~16 ~74 ~10 ~19 ~74 ~10 concrete 0  
+fill ~16 ~74 ~14 ~23 ~74 ~14 concrete 0  
+fill ~20 ~74 ~11 ~23 ~74 ~11 concrete 0  
+fill ~16 ~75 ~10 ~23 ~75 ~10 concrete 0  
+fill ~16 ~75 ~14 ~23 ~75 ~14 concrete 0  
+fill ~23 ~75 ~11 ~23 ~85 ~11 concrete 0  
+fill ~16 ~76 ~10 ~23 ~76 ~10 concrete 0  
+fill ~16 ~76 ~13 ~23 ~76 ~13 concrete 0  
+fill ~15 ~77 ~10 ~23 ~77 ~10 concrete 0  
+fill ~16 ~77 ~13 ~23 ~77 ~13 concrete 0  
+fill ~15 ~78 ~10 ~23 ~78 ~10 concrete 0  
+fill ~16 ~78 ~13 ~23 ~78 ~13 concrete 0  
+fill ~16 ~79 ~9 ~22 ~79 ~9 concrete 0  
+fill ~16 ~79 ~10 ~16 ~108 ~10 concrete 0  
+fill ~16 ~79 ~11 ~16 ~87 ~11 concrete 0  
+fill ~16 ~79 ~12 ~16 ~84 ~12 concrete 0  
+fill ~16 ~79 ~13 ~22 ~79 ~13 concrete 0  
+fill ~23 ~79 ~10 ~23 ~85 ~10 concrete 0  
+fill ~16 ~80 ~9 ~22 ~80 ~9 concrete 0  
+fill ~17 ~80 ~12 ~20 ~80 ~12 concrete 0  
+fill ~21 ~80 ~13 ~22 ~80 ~13 concrete 0  
+fill ~16 ~81 ~9 ~22 ~81 ~9 concrete 0  
+fill ~17 ~81 ~12 ~23 ~81 ~12 concrete 0  
+fill ~16 ~82 ~9 ~23 ~82 ~9 concrete 0  
+fill ~17 ~82 ~12 ~23 ~82 ~12 concrete 0  
+fill ~16 ~83 ~9 ~23 ~83 ~9 concrete 0  
+fill ~17 ~83 ~12 ~22 ~83 ~12 concrete 0  
+fill ~16 ~84 ~8 ~22 ~84 ~8 concrete 0  
+fill ~16 ~84 ~9 ~16 ~98 ~9 concrete 0  
+fill ~17 ~84 ~12 ~22 ~84 ~12 concrete 0  
+fill ~23 ~84 ~9 ~23 ~85 ~9 concrete 0  
+fill ~16 ~85 ~8 ~22 ~85 ~8 concrete 0  
+fill ~17 ~85 ~11 ~23 ~85 ~11 concrete 0  
+fill ~16 ~86 ~8 ~22 ~86 ~8 concrete 0  
+fill ~17 ~86 ~11 ~22 ~86 ~11 concrete 0  
+fill ~22 ~86 ~9 ~22 ~94 ~9 concrete 0  
+fill ~22 ~86 ~10 ~22 ~108 ~10 concrete 0  
+fill ~16 ~87 ~8 ~22 ~87 ~8 concrete 0  
+fill ~17 ~87 ~11 ~22 ~87 ~11 concrete 0  
+fill ~16 ~88 ~8 ~22 ~88 ~8 concrete 0  
+fill ~17 ~88 ~11 ~22 ~88 ~11 concrete 0  
+fill ~16 ~89 ~8 ~16 ~98 ~8 concrete 0  
+fill ~17 ~89 ~7 ~22 ~89 ~7 concrete 0  
+fill ~17 ~89 ~11 ~22 ~89 ~11 concrete 0  
+fill ~22 ~89 ~8 ~22 ~94 ~8 concrete 0  
+fill ~17 ~90 ~7 ~22 ~90 ~7 concrete 0  
+fill ~17 ~90 ~10 ~22 ~90 ~10 concrete 0  
+fill ~16 ~91 ~7 ~22 ~91 ~7 concrete 0  
+fill ~17 ~91 ~10 ~22 ~91 ~10 concrete 0  
+fill ~16 ~92 ~7 ~22 ~92 ~7 concrete 0  
+fill ~17 ~92 ~10 ~22 ~92 ~10 concrete 0  
+fill ~16 ~93 ~7 ~22 ~93 ~7 concrete 0  
+fill ~17 ~93 ~10 ~22 ~93 ~10 concrete 0  
+fill ~16 ~94 ~7 ~23 ~94 ~7 concrete 0  
+fill ~17 ~94 ~10 ~22 ~94 ~10 concrete 0  
+fill ~16 ~95 ~7 ~23 ~95 ~7 concrete 0  
+fill ~17 ~95 ~10 ~23 ~95 ~10 concrete 0  
+fill ~23 ~95 ~8 ~23 ~105 ~8 concrete 0  
+fill ~23 ~95 ~9 ~23 ~105 ~9 concrete 0  
+fill ~16 ~96 ~7 ~23 ~96 ~7 concrete 0  
+fill ~17 ~96 ~10 ~23 ~96 ~10 concrete 0  
+fill ~16 ~97 ~7 ~23 ~97 ~7 concrete 0  
+fill ~17 ~97 ~10 ~22 ~97 ~10 concrete 0  
+fill ~16 ~98 ~7 ~23 ~98 ~7 concrete 0  
+fill ~17 ~98 ~10 ~22 ~98 ~10 concrete 0  
+fill ~15 ~99 ~7 ~23 ~99 ~7 concrete 0  
+fill ~15 ~99 ~8 ~15 ~106 ~8 concrete 0  
+fill ~15 ~99 ~9 ~15 ~106 ~9 concrete 0  
+fill ~17 ~99 ~10 ~22 ~99 ~10 concrete 0  
+fill ~15 ~100 ~7 ~23 ~100 ~7 concrete 0  
+fill ~17 ~100 ~10 ~22 ~100 ~10 concrete 0  
+fill ~15 ~101 ~7 ~23 ~101 ~7 concrete 0  
+fill ~17 ~101 ~10 ~22 ~101 ~10 concrete 0  
+fill ~15 ~102 ~7 ~23 ~102 ~7 concrete 0  
+fill ~17 ~102 ~10 ~23 ~102 ~10 concrete 0  
+fill ~15 ~103 ~7 ~15 ~109 ~7 concrete 0  
+fill ~16 ~103 ~6 ~17 ~103 ~6 concrete 0  
+fill ~17 ~103 ~10 ~23 ~103 ~10 concrete 0  
+fill ~18 ~103 ~7 ~23 ~103 ~7 concrete 0  
+fill ~16 ~104 ~6 ~18 ~104 ~6 concrete 0  
+fill ~17 ~104 ~10 ~23 ~104 ~10 concrete 0  
+fill ~19 ~104 ~7 ~23 ~104 ~7 concrete 0 
+setblock ~15 ~105 ~6 concrete 0  
+fill ~15 ~105 ~10 ~15 ~109 ~10 concrete 0  
+fill ~16 ~105 ~7 ~23 ~105 ~7 concrete 0  
+fill ~17 ~105 ~10 ~23 ~105 ~10 concrete 0  
+fill ~14 ~106 ~7 ~14 ~110 ~7 concrete 0  
+fill ~16 ~106 ~7 ~24 ~106 ~7 concrete 0  
+fill ~17 ~106 ~10 ~23 ~106 ~10 concrete 0  
+fill ~24 ~106 ~8 ~24 ~108 ~8 concrete 0  
+fill ~24 ~106 ~9 ~24 ~108 ~9 concrete 0  
+fill ~14 ~107 ~8 ~14 ~109 ~8 concrete 0  
+fill ~14 ~107 ~9 ~14 ~109 ~9 concrete 0  
+fill ~16 ~107 ~7 ~24 ~107 ~7 concrete 0  
+fill ~17 ~107 ~10 ~24 ~107 ~10 concrete 0  
+fill ~14 ~108 ~10 ~14 ~109 ~10 concrete 0  
+fill ~16 ~108 ~7 ~24 ~108 ~7 concrete 0  
+fill ~17 ~108 ~10 ~18 ~108 ~10 concrete 0  
+fill ~19 ~108 ~11 ~21 ~108 ~11 concrete 0  
+fill ~23 ~108 ~10 ~24 ~108 ~10 concrete 0  
+fill ~16 ~109 ~7 ~16 ~105 ~7 concrete 0  
+fill ~16 ~109 ~11 ~23 ~109 ~11 concrete 0  
+fill ~17 ~109 ~8 ~23 ~109 ~8 concrete 0 
+setblock ~24 ~109 ~7 concrete 0  
+fill ~24 ~109 ~10 ~25 ~109 ~10 concrete 0  
+fill ~25 ~109 ~8 ~25 ~114 ~8 concrete 0  
+fill ~25 ~109 ~9 ~25 ~111 ~9 concrete 0  
+fill ~13 ~110 ~8 ~13 ~115 ~8 concrete 0  
+fill ~13 ~110 ~9 ~13 ~112 ~9 concrete 0  
+fill ~13 ~110 ~10 ~13 ~112 ~10 concrete 0  
+fill ~14 ~110 ~11 ~24 ~110 ~11 concrete 0  
+fill ~15 ~110 ~8 ~25 ~110 ~8 concrete 0  
+fill ~25 ~110 ~10 ~25 ~111 ~10 concrete 0  
+fill ~13 ~111 ~11 ~25 ~111 ~11 concrete 0  
+fill ~14 ~111 ~8 ~25 ~111 ~8 concrete 0  
+fill ~12 ~112 ~8 ~12 ~116 ~8 concrete 0  
+fill ~13 ~112 ~11 ~18 ~112 ~11 concrete 0  
+fill ~14 ~112 ~8 ~26 ~112 ~8 concrete 0  
+fill ~19 ~112 ~12 ~20 ~112 ~12 concrete 0  
+fill ~21 ~112 ~11 ~26 ~112 ~11 concrete 0  
+fill ~26 ~112 ~9 ~26 ~113 ~9 concrete 0  
+fill ~26 ~112 ~10 ~26 ~113 ~10 concrete 0  
+fill ~12 ~113 ~9 ~12 ~113 ~11 concrete 0  
+fill ~13 ~113 ~11 ~16 ~113 ~11 concrete 0  
+fill ~14 ~113 ~8 ~16 ~113 ~8 concrete 0  
+fill ~17 ~113 ~9 ~21 ~113 ~9 concrete 0  
+fill ~17 ~113 ~12 ~22 ~113 ~12 concrete 0  
+fill ~22 ~113 ~8 ~26 ~113 ~8 concrete 0  
+fill ~23 ~113 ~11 ~26 ~113 ~11 concrete 0  
+fill ~11 ~114 ~8 ~11 ~117 ~8 concrete 0  
+fill ~11 ~114 ~9 ~11 ~115 ~9 concrete 0  
+fill ~11 ~114 ~10 ~11 ~115 ~10 concrete 0  
+fill ~11 ~114 ~11 ~14 ~114 ~11 concrete 0  
+fill ~14 ~114 ~8 ~15 ~114 ~8 concrete 0  
+fill ~15 ~114 ~12 ~24 ~114 ~12 concrete 0  
+fill ~16 ~114 ~9 ~23 ~114 ~9 concrete 0 
+setblock ~24 ~114 ~8 concrete 0  
+fill ~25 ~114 ~11 ~27 ~114 ~11 concrete 0  
+fill ~26 ~114 ~8 ~27 ~114 ~8 concrete 0  
+fill ~27 ~114 ~9 ~27 ~114 ~11 concrete 0  
+fill ~11 ~115 ~11 ~13 ~115 ~11 concrete 0  
+fill ~14 ~115 ~9 ~25 ~115 ~9 concrete 0  
+fill ~14 ~115 ~12 ~26 ~115 ~12 concrete 0  
+fill ~26 ~115 ~8 ~27 ~115 ~8 concrete 0  
+fill ~27 ~115 ~10 ~27 ~115 ~11 concrete 0  
+fill ~28 ~115 ~9 ~28 ~121 ~9 concrete 0  
+fill ~10 ~116 ~8 ~10 ~118 ~8 concrete 0  
+fill ~10 ~116 ~9 ~10 ~116 ~11 concrete 0  
+fill ~11 ~116 ~11 ~12 ~116 ~11 concrete 0  
+fill ~13 ~116 ~9 ~28 ~116 ~9 concrete 0  
+fill ~13 ~116 ~12 ~18 ~116 ~12 concrete 0 
+setblock ~18 ~116 ~13 concrete 3 
+setblock ~19 ~116 ~13 packed_ice 0  
+fill ~20 ~116 ~12 ~27 ~116 ~12 concrete 0 
+setblock ~20 ~116 ~13 concrete 3 
+setblock ~28 ~116 ~8 concrete 0  
+fill ~28 ~116 ~10 ~28 ~116 ~11 concrete 0  
+fill ~9 ~117 ~9 ~9 ~117 ~11 concrete 0 
+setblock ~10 ~117 ~11 concrete 0  
+fill ~11 ~117 ~12 ~16 ~117 ~12 concrete 0  
+fill ~12 ~117 ~9 ~17 ~117 ~9 concrete 0  
+fill ~15 ~117 ~13 ~16 ~117 ~13 concrete 3 
+setblock ~17 ~117 ~13 packed_ice 0  
+fill ~17 ~117 ~14 ~21 ~117 ~14 concrete 3  
+fill ~18 ~117 ~10 ~20 ~117 ~10 concrete 0  
+fill ~18 ~117 ~13 ~20 ~117 ~13 concrete 0  
+fill ~21 ~117 ~9 ~29 ~117 ~9 concrete 0  
+fill ~21 ~117 ~12 ~28 ~117 ~12 concrete 0  
+fill ~21 ~117 ~13 ~23 ~117 ~13 concrete 3  
+fill ~29 ~117 ~10 ~29 ~117 ~11 concrete 0  
+fill ~8 ~118 ~9 ~8 ~118 ~10 concrete 0 
+setblock ~9 ~118 ~8 concrete 0 
+setblock ~9 ~118 ~11 concrete 0  
+fill ~10 ~118 ~12 ~15 ~118 ~12 concrete 0  
+fill ~11 ~118 ~9 ~16 ~118 ~9 concrete 0  
+fill ~13 ~118 ~13 ~14 ~118 ~13 concrete 3  
+fill ~14 ~118 ~14 ~23 ~118 ~14 concrete 3  
+fill ~16 ~118 ~13 ~22 ~118 ~13 concrete 0  
+fill ~17 ~118 ~10 ~22 ~118 ~10 concrete 0  
+fill ~23 ~118 ~9 ~30 ~118 ~9 concrete 0  
+fill ~23 ~118 ~12 ~29 ~118 ~12 concrete 0 
+setblock ~24 ~118 ~13 concrete 3  
+fill ~30 ~118 ~10 ~30 ~118 ~11 concrete 0  
+fill ~7 ~119 ~9 ~7 ~124 ~9 concrete 0  
+fill ~7 ~119 ~10 ~7 ~120 ~10 concrete 0 
+setblock ~8 ~119 ~8 concrete 0  
+fill ~8 ~119 ~11 ~8 ~119 ~12 concrete 0  
+fill ~9 ~119 ~9 ~15 ~119 ~9 concrete 0  
+fill ~9 ~119 ~12 ~14 ~119 ~12 concrete 0  
+fill ~12 ~119 ~13 ~12 ~119 ~14 concrete 3  
+fill ~13 ~119 ~14 ~17 ~119 ~14 concrete 3  
+fill ~15 ~119 ~13 ~17 ~119 ~13 concrete 0  
+fill ~16 ~119 ~10 ~23 ~119 ~10 concrete 0 
+setblock ~18 ~119 ~13 wool 3  
+fill ~19 ~119 ~13 ~20 ~119 ~13 packed_ice 0 
+setblock ~20 ~119 ~12 concrete 3  
+fill ~21 ~119 ~13 ~24 ~119 ~13 concrete 0  
+fill ~21 ~119 ~14 ~25 ~119 ~14 concrete 3  
+fill ~24 ~119 ~9 ~31 ~119 ~9 concrete 0  
+fill ~25 ~119 ~12 ~30 ~119 ~12 concrete 0 
+setblock ~25 ~119 ~13 concrete 3  
+fill ~31 ~119 ~10 ~31 ~119 ~11 concrete 0  
+fill ~6 ~120 ~9 ~6 ~125 ~9 concrete 0  
+fill ~7 ~120 ~11 ~7 ~120 ~12 concrete 0  
+fill ~8 ~120 ~9 ~13 ~120 ~9 concrete 0  
+fill ~8 ~120 ~12 ~13 ~120 ~12 concrete 0  
+fill ~11 ~120 ~13 ~11 ~120 ~14 concrete 3  
+fill ~12 ~120 ~14 ~14 ~120 ~14 concrete 3  
+fill ~14 ~120 ~10 ~25 ~120 ~10 concrete 0 
+setblock ~14 ~120 ~13 packed_ice 0 
+setblock ~15 ~120 ~13 wool 3  
+fill ~16 ~120 ~13 ~21 ~120 ~13 concrete 0  
+fill ~22 ~120 ~13 ~23 ~120 ~13 packed_ice 0  
+fill ~23 ~120 ~14 ~26 ~120 ~14 concrete 3  
+fill ~24 ~120 ~13 ~25 ~120 ~13 concrete 0  
+fill ~26 ~120 ~9 ~32 ~120 ~9 concrete 0 
+setblock ~26 ~120 ~13 wool 3  
+fill ~27 ~120 ~12 ~31 ~120 ~12 concrete 0 
+setblock ~31 ~120 ~11 concrete 0  
+fill ~32 ~120 ~10 ~32 ~121 ~10 concrete 0  
+fill ~6 ~121 ~10 ~6 ~121 ~12 concrete 0  
+fill ~7 ~121 ~12 ~11 ~121 ~12 concrete 0  
+fill ~8 ~121 ~9 ~12 ~121 ~9 concrete 0  
+fill ~10 ~121 ~13 ~10 ~122 ~13 concrete 3  
+fill ~11 ~121 ~14 ~13 ~121 ~14 concrete 3  
+fill ~12 ~121 ~13 ~12 ~122 ~13 concrete 0  
+fill ~13 ~121 ~10 ~18 ~121 ~10 concrete 0 
+setblock ~13 ~121 ~13 wool 3  
+fill ~14 ~121 ~13 ~17 ~121 ~13 concrete 0  
+fill ~18 ~121 ~14 ~20 ~121 ~14 concrete 0  
+fill ~19 ~121 ~11 ~19 ~125 ~11 concrete 0  
+fill ~20 ~121 ~10 ~27 ~121 ~10 concrete 0  
+fill ~21 ~121 ~13 ~23 ~121 ~13 concrete 0 
+setblock ~24 ~121 ~13 packed_ice 0  
+fill ~24 ~121 ~14 ~27 ~121 ~14 concrete 3  
+fill ~25 ~121 ~13 ~26 ~121 ~13 concrete 0 
+setblock ~27 ~121 ~13 wool 3 
+setblock ~28 ~121 ~13 concrete 0  
+fill ~29 ~121 ~9 ~33 ~121 ~9 concrete 0  
+fill ~29 ~121 ~12 ~32 ~121 ~12 concrete 0 
+setblock ~32 ~121 ~11 concrete 0  
+fill ~5 ~122 ~9 ~5 ~125 ~9 concrete 0  
+fill ~5 ~122 ~10 ~5 ~123 ~10 concrete 0  
+fill ~5 ~122 ~11 ~5 ~123 ~11 concrete 0  
+fill ~6 ~122 ~12 ~10 ~122 ~12 concrete 0  
+fill ~8 ~122 ~9 ~10 ~122 ~9 concrete 0  
+fill ~10 ~122 ~14 ~10 ~125 ~14 concrete 3  
+fill ~11 ~122 ~10 ~17 ~122 ~10 concrete 0  
+fill ~11 ~122 ~13 ~11 ~126 ~13 concrete 0  
+fill ~11 ~122 ~15 ~12 ~122 ~15 concrete 3  
+fill ~13 ~122 ~13 ~16 ~122 ~13 concrete 0 
+setblock ~13 ~122 ~14 concrete 3  
+fill ~17 ~122 ~14 ~21 ~122 ~14 concrete 0  
+fill ~18 ~122 ~11 ~18 ~126 ~11 concrete 0  
+fill ~20 ~122 ~11 ~21 ~122 ~11 concrete 0  
+fill ~22 ~122 ~10 ~28 ~122 ~10 concrete 0  
+fill ~22 ~122 ~13 ~24 ~122 ~13 concrete 0 
+setblock ~25 ~122 ~13 wool 3  
+fill ~25 ~122 ~14 ~27 ~122 ~14 concrete 3  
+fill ~26 ~122 ~13 ~27 ~122 ~13 concrete 0 
+setblock ~28 ~122 ~13 packed_ice 0  
+fill ~29 ~122 ~9 ~33 ~122 ~9 concrete 0  
+fill ~29 ~122 ~13 ~29 ~127 ~13 concrete 0  
+fill ~30 ~122 ~12 ~33 ~122 ~12 concrete 0  
+fill ~33 ~122 ~10 ~33 ~122 ~12 concrete 0  
+fill ~5 ~123 ~12 ~9 ~123 ~12 concrete 0  
+fill ~8 ~123 ~9 ~9 ~123 ~9 concrete 0  
+fill ~10 ~123 ~10 ~15 ~123 ~10 concrete 0  
+fill ~10 ~123 ~13 ~10 ~124 ~13 packed_ice 0  
+fill ~11 ~123 ~15 ~11 ~126 ~15 concrete 3 
+setblock ~12 ~123 ~13 packed_ice 0  
+fill ~12 ~123 ~14 ~12 ~125 ~14 concrete 3  
+fill ~13 ~123 ~13 ~15 ~123 ~13 concrete 0  
+fill ~16 ~123 ~11 ~22 ~123 ~11 concrete 0  
+fill ~16 ~123 ~14 ~23 ~123 ~14 concrete 0  
+fill ~23 ~123 ~10 ~30 ~123 ~10 concrete 0  
+fill ~24 ~123 ~13 ~32 ~123 ~13 concrete 0  
+fill ~26 ~123 ~14 ~28 ~123 ~14 concrete 3  
+fill ~31 ~123 ~9 ~33 ~123 ~9 concrete 0  
+fill ~33 ~123 ~11 ~33 ~123 ~12 concrete 0  
+fill ~34 ~123 ~10 ~34 ~136 ~10 concrete 0  
+fill ~4 ~124 ~9 ~4 ~126 ~9 concrete 0  
+fill ~4 ~124 ~10 ~4 ~124 ~12 concrete 0  
+fill ~5 ~124 ~12 ~7 ~124 ~12 concrete 0  
+fill ~8 ~124 ~9 ~8 ~120 ~9 concrete 0  
+fill ~8 ~124 ~13 ~9 ~124 ~13 concrete 0  
+fill ~9 ~124 ~10 ~14 ~124 ~10 concrete 0  
+fill ~12 ~124 ~13 ~13 ~124 ~13 concrete 0  
+fill ~14 ~124 ~14 ~25 ~124 ~14 concrete 0  
+fill ~15 ~124 ~11 ~24 ~124 ~11 concrete 0  
+fill ~25 ~124 ~10 ~34 ~124 ~10 concrete 0  
+fill ~26 ~124 ~13 ~33 ~124 ~13 concrete 0  
+fill ~26 ~124 ~14 ~26 ~120 ~14 concrete 3  
+fill ~27 ~124 ~15 ~27 ~126 ~15 concrete 3  
+fill ~28 ~124 ~14 ~28 ~127 ~14 concrete 3 
+setblock ~34 ~124 ~9 concrete 0  
+fill ~34 ~124 ~11 ~34 ~124 ~12 concrete 0  
+fill ~3 ~125 ~10 ~3 ~126 ~10 concrete 0  
+fill ~3 ~125 ~11 ~3 ~126 ~11 concrete 0  
+fill ~4 ~125 ~12 ~5 ~125 ~12 concrete 0  
+fill ~6 ~125 ~13 ~12 ~125 ~13 concrete 0  
+fill ~7 ~125 ~10 ~13 ~125 ~10 concrete 0  
+fill ~12 ~125 ~15 ~12 ~126 ~15 concrete 3 
+setblock ~13 ~125 ~14 wool 3  
+fill ~14 ~125 ~11 ~25 ~125 ~11 concrete 0  
+fill ~14 ~125 ~14 ~15 ~125 ~14 packed_ice 0  
+fill ~14 ~125 ~15 ~20 ~125 ~15 concrete 3 
+setblock ~16 ~125 ~14 concrete 0  
+fill ~17 ~125 ~14 ~19 ~125 ~14 packed_ice 0 
+setblock ~19 ~125 ~13 concrete 3 
+setblock ~20 ~125 ~14 concrete 3  
+fill ~21 ~125 ~14 ~22 ~125 ~14 packed_ice 0  
+fill ~23 ~125 ~14 ~23 ~126 ~14 concrete 0 
+setblock ~24 ~125 ~14 packed_ice 0 
+setblock ~25 ~125 ~14 concrete 0  
+fill ~26 ~125 ~10 ~35 ~125 ~10 concrete 0 
+setblock ~26 ~125 ~14 wool 3  
+fill ~27 ~125 ~13 ~34 ~125 ~13 concrete 0 
+setblock ~34 ~125 ~12 concrete 0  
+fill ~35 ~125 ~11 ~35 ~126 ~11 concrete 0  
+fill ~3 ~126 ~9 ~3 ~138 ~9 concrete 0 
+setblock ~3 ~126 ~12 concrete 0  
+fill ~4 ~126 ~13 ~11 ~126 ~13 concrete 0  
+fill ~5 ~126 ~10 ~12 ~126 ~10 concrete 0 
+setblock ~11 ~126 ~14 concrete 3  
+fill ~12 ~126 ~14 ~13 ~126 ~14 concrete 0  
+fill ~13 ~126 ~11 ~18 ~126 ~11 concrete 0  
+fill ~13 ~126 ~15 ~17 ~126 ~15 concrete 3  
+fill ~14 ~126 ~14 ~14 ~125 ~14 packed_ice 0  
+fill ~15 ~126 ~14 ~15 ~131 ~14 concrete 0  
+fill ~16 ~126 ~14 ~17 ~126 ~14 packed_ice 0  
+fill ~18 ~126 ~15 ~19 ~126 ~15 wool 3  
+fill ~19 ~126 ~12 ~19 ~136 ~12 concrete 0  
+fill ~20 ~126 ~11 ~27 ~126 ~11 concrete 0  
+fill ~20 ~126 ~15 ~27 ~126 ~15 concrete 3  
+fill ~21 ~126 ~14 ~24 ~126 ~14 concrete 0 
+setblock ~25 ~126 ~14 packed_ice 0  
+fill ~26 ~126 ~14 ~27 ~126 ~14 concrete 0  
+fill ~28 ~126 ~10 ~35 ~126 ~10 concrete 0 
+setblock ~28 ~126 ~13 concrete 0  
+fill ~30 ~126 ~13 ~34 ~126 ~13 concrete 0 
+setblock ~35 ~126 ~12 concrete 0  
+fill ~2 ~127 ~10 ~2 ~133 ~10 concrete 0  
+fill ~2 ~127 ~11 ~2 ~133 ~11 concrete 0  
+fill ~2 ~127 ~12 ~2 ~138 ~12 concrete 0  
+fill ~3 ~127 ~13 ~10 ~127 ~13 concrete 0  
+fill ~4 ~127 ~10 ~11 ~127 ~10 concrete 0  
+fill ~11 ~127 ~14 ~11 ~137 ~14 concrete 0  
+fill ~12 ~127 ~11 ~17 ~127 ~11 concrete 0  
+fill ~12 ~127 ~14 ~13 ~127 ~14 packed_ice 0  
+fill ~14 ~127 ~14 ~14 ~139 ~14 concrete 0  
+fill ~16 ~127 ~14 ~16 ~128 ~14 concrete 0  
+fill ~17 ~127 ~15 ~21 ~127 ~15 concrete 0  
+fill ~18 ~127 ~12 ~18 ~135 ~12 concrete 0  
+fill ~18 ~127 ~14 ~21 ~127 ~14 concrete 3  
+fill ~20 ~127 ~12 ~21 ~127 ~12 concrete 0  
+fill ~22 ~127 ~11 ~28 ~127 ~11 concrete 0 
+setblock ~22 ~127 ~14 wool 3 
+setblock ~23 ~127 ~14 concrete 3 
+setblock ~24 ~127 ~14 wool 3 
+setblock ~25 ~127 ~14 concrete 0 
+setblock ~25 ~127 ~15 concrete 3  
+fill ~26 ~127 ~14 ~27 ~127 ~14 packed_ice 0 
+setblock ~26 ~127 ~16 stained_glass 0  
+fill ~29 ~127 ~10 ~36 ~127 ~10 concrete 0  
+fill ~30 ~127 ~13 ~35 ~127 ~13 concrete 0  
+fill ~36 ~127 ~11 ~36 ~133 ~11 concrete 0  
+fill ~36 ~127 ~12 ~36 ~133 ~12 concrete 0  
+fill ~3 ~128 ~13 ~10 ~128 ~13 concrete 0  
+fill ~4 ~128 ~10 ~11 ~128 ~10 concrete 0  
+fill ~11 ~128 ~15 ~22 ~128 ~15 concrete 0  
+fill ~11 ~128 ~16 ~16 ~128 ~16 stained_glass 0  
+fill ~12 ~128 ~11 ~17 ~128 ~11 concrete 0  
+fill ~12 ~128 ~14 ~16 ~128 ~14 concrete 0  
+fill ~12 ~128 ~17 ~14 ~128 ~17 stained_glass 0  
+fill ~20 ~128 ~12 ~21 ~128 ~12 concrete 0  
+fill ~22 ~128 ~11 ~28 ~128 ~11 concrete 0  
+fill ~23 ~128 ~14 ~24 ~128 ~14 concrete 0 
+setblock ~24 ~128 ~16 stained_glass 0  
+fill ~25 ~128 ~14 ~27 ~128 ~14 packed_ice 0 
+setblock ~25 ~128 ~16 quartz_block 0  
+fill ~25 ~128 ~17 ~27 ~128 ~17 stained_glass 0  
+fill ~26 ~128 ~16 ~26 ~129 ~16 concrete 0 
+setblock ~27 ~128 ~16 quartz_block 0  
+fill ~28 ~128 ~14 ~29 ~128 ~14 concrete 0 
+setblock ~28 ~128 ~16 stained_glass 0  
+fill ~29 ~128 ~10 ~36 ~128 ~10 concrete 0  
+fill ~30 ~128 ~13 ~35 ~128 ~13 concrete 0  
+fill ~3 ~129 ~13 ~9 ~129 ~13 concrete 0 
+setblock ~4 ~129 ~9 concrete 0  
+fill ~5 ~129 ~10 ~10 ~129 ~10 concrete 0  
+fill ~9 ~129 ~15 ~29 ~129 ~15 concrete 0  
+fill ~9 ~129 ~16 ~10 ~129 ~16 stained_glass 0  
+fill ~10 ~129 ~14 ~10 ~136 ~14 concrete 0  
+fill ~10 ~129 ~17 ~16 ~129 ~17 stained_glass 0  
+fill ~11 ~129 ~11 ~16 ~129 ~11 concrete 0  
+fill ~12 ~129 ~14 ~15 ~129 ~14 concrete 0  
+fill ~17 ~129 ~12 ~17 ~134 ~12 concrete 0  
+fill ~17 ~129 ~16 ~18 ~129 ~16 stained_glass 0  
+fill ~20 ~129 ~12 ~21 ~129 ~12 concrete 0  
+fill ~22 ~129 ~11 ~29 ~129 ~11 concrete 0  
+fill ~23 ~129 ~14 ~30 ~129 ~14 concrete 0 
+setblock ~23 ~129 ~16 stained_glass 0  
+fill ~24 ~129 ~16 ~28 ~129 ~16 concrete 0  
+fill ~24 ~129 ~17 ~28 ~129 ~17 stained_glass 0 
+setblock ~29 ~129 ~16 stained_glass 0  
+fill ~30 ~129 ~10 ~36 ~129 ~10 concrete 0  
+fill ~31 ~129 ~13 ~35 ~129 ~13 concrete 0  
+fill ~2 ~130 ~9 ~2 ~143 ~9 concrete 0  
+fill ~3 ~130 ~13 ~8 ~130 ~13 concrete 0  
+fill ~4 ~130 ~10 ~9 ~130 ~10 concrete 0  
+fill ~8 ~130 ~15 ~30 ~130 ~15 concrete 0  
+fill ~8 ~130 ~16 ~9 ~130 ~16 stained_glass 0  
+fill ~9 ~130 ~14 ~9 ~136 ~14 concrete 0  
+fill ~9 ~130 ~17 ~18 ~130 ~17 stained_glass 0  
+fill ~10 ~130 ~11 ~16 ~130 ~11 concrete 0  
+fill ~12 ~130 ~14 ~15 ~130 ~14 concrete 0  
+fill ~12 ~130 ~18 ~14 ~130 ~18 stained_glass 0  
+fill ~18 ~130 ~16 ~19 ~130 ~16 stained_glass 0  
+fill ~20 ~130 ~12 ~21 ~130 ~12 concrete 0  
+fill ~22 ~130 ~11 ~30 ~130 ~11 concrete 0  
+fill ~22 ~130 ~16 ~22 ~133 ~16 stained_glass 0  
+fill ~23 ~130 ~14 ~31 ~130 ~14 concrete 0  
+fill ~23 ~130 ~17 ~29 ~130 ~17 stained_glass 0 
+setblock ~29 ~130 ~16 concrete 0  
+fill ~30 ~130 ~16 ~30 ~133 ~16 stained_glass 0  
+fill ~31 ~130 ~10 ~36 ~130 ~10 concrete 0  
+fill ~32 ~130 ~13 ~36 ~130 ~13 concrete 0  
+fill ~3 ~131 ~13 ~7 ~131 ~13 concrete 0  
+fill ~4 ~131 ~10 ~8 ~131 ~10 concrete 0  
+fill ~7 ~131 ~15 ~26 ~131 ~15 concrete 0  
+fill ~7 ~131 ~16 ~8 ~131 ~16 stained_glass 0  
+fill ~8 ~131 ~14 ~8 ~133 ~14 concrete 0  
+fill ~8 ~131 ~17 ~11 ~131 ~17 stained_glass 0  
+fill ~9 ~131 ~11 ~16 ~131 ~11 concrete 0  
+fill ~11 ~131 ~18 ~16 ~131 ~18 stained_glass 0  
+fill ~12 ~131 ~14 ~15 ~131 ~14 concrete 0  
+fill ~15 ~131 ~17 ~18 ~131 ~17 stained_glass 0  
+fill ~19 ~131 ~16 ~19 ~132 ~16 stained_glass 0  
+fill ~20 ~131 ~12 ~22 ~131 ~12 concrete 0  
+fill ~23 ~131 ~11 ~31 ~131 ~11 concrete 0  
+fill ~23 ~131 ~17 ~29 ~131 ~17 stained_glass 0  
+fill ~24 ~131 ~14 ~31 ~131 ~14 concrete 0  
+fill ~27 ~131 ~15 ~27 ~133 ~15 iron_block 0  
+fill ~27 ~131 ~16 ~27 ~133 ~16 concrete 15  
+fill ~28 ~131 ~15 ~30 ~131 ~15 concrete 0  
+fill ~32 ~131 ~10 ~36 ~131 ~10 concrete 0  
+fill ~32 ~131 ~13 ~36 ~131 ~13 concrete 0  
+fill ~3 ~132 ~13 ~7 ~132 ~13 concrete 0  
+fill ~4 ~132 ~10 ~8 ~132 ~10 concrete 0  
+fill ~7 ~132 ~15 ~25 ~132 ~15 concrete 0  
+fill ~7 ~132 ~16 ~7 ~137 ~16 stained_glass 0  
+fill ~8 ~132 ~17 ~11 ~132 ~17 stained_glass 0  
+fill ~9 ~132 ~11 ~16 ~132 ~11 concrete 0  
+fill ~11 ~132 ~18 ~16 ~132 ~18 stained_glass 0  
+fill ~12 ~132 ~14 ~14 ~132 ~14 concrete 0  
+fill ~16 ~132 ~17 ~19 ~132 ~17 stained_glass 0  
+fill ~20 ~132 ~12 ~22 ~132 ~12 concrete 0  
+fill ~20 ~132 ~16 ~20 ~136 ~16 stained_glass 0  
+fill ~23 ~132 ~11 ~31 ~132 ~11 concrete 0  
+fill ~23 ~132 ~17 ~29 ~132 ~17 stained_glass 0  
+fill ~25 ~132 ~14 ~32 ~132 ~14 concrete 0  
+fill ~26 ~132 ~15 ~26 ~134 ~15 iron_block 0  
+fill ~26 ~132 ~16 ~26 ~134 ~16 concrete 15  
+fill ~28 ~132 ~15 ~28 ~133 ~15 iron_block 0  
+fill ~28 ~132 ~16 ~28 ~133 ~16 concrete 15  
+fill ~29 ~132 ~15 ~30 ~132 ~15 concrete 0  
+fill ~32 ~132 ~10 ~36 ~132 ~10 concrete 0  
+fill ~33 ~132 ~13 ~36 ~132 ~13 concrete 0  
+fill ~3 ~133 ~13 ~7 ~133 ~13 concrete 0  
+fill ~4 ~133 ~10 ~8 ~133 ~10 concrete 0  
+fill ~6 ~133 ~15 ~6 ~136 ~15 stained_glass 0  
+fill ~7 ~133 ~14 ~7 ~138 ~14 concrete 0  
+fill ~7 ~133 ~15 ~10 ~133 ~15 concrete 0  
+fill ~8 ~133 ~17 ~11 ~133 ~17 stained_glass 0  
+fill ~9 ~133 ~11 ~16 ~133 ~11 concrete 0  
+fill ~10 ~133 ~18 ~16 ~133 ~18 stained_glass 0  
+fill ~11 ~133 ~15 ~14 ~133 ~15 gray_glazed_terracotta 0  
+fill ~11 ~133 ~16 ~14 ~133 ~16 concrete 15  
+fill ~12 ~133 ~14 ~20 ~133 ~14 concrete 0  
+fill ~15 ~133 ~15 ~24 ~133 ~15 concrete 0  
+fill ~16 ~133 ~17 ~19 ~133 ~17 stained_glass 0  
+fill ~20 ~133 ~12 ~21 ~133 ~12 concrete 0  
+fill ~22 ~133 ~11 ~30 ~133 ~11 concrete 0  
+fill ~23 ~133 ~16 ~23 ~134 ~16 stained_glass 0  
+fill ~24 ~133 ~14 ~31 ~133 ~14 concrete 0  
+fill ~24 ~133 ~17 ~28 ~133 ~17 stained_glass 0 
+setblock ~25 ~133 ~15 iron_block 0 
+setblock ~25 ~133 ~16 concrete 15  
+fill ~29 ~133 ~15 ~30 ~133 ~15 concrete 0  
+fill ~29 ~133 ~16 ~29 ~134 ~16 stained_glass 0  
+fill ~31 ~133 ~10 ~36 ~133 ~10 concrete 0  
+fill ~32 ~133 ~13 ~36 ~133 ~13 concrete 0  
+fill ~1 ~134 ~9 ~1 ~136 ~9 concrete 0  
+fill ~1 ~134 ~10 ~1 ~136 ~10 concrete 0
+fill ~1 ~134 ~11 ~1 ~136 ~11 concrete 0  
+fill ~1 ~134 ~12 ~1 ~135 ~12 concrete 0  
+fill ~3 ~134 ~12 ~3 ~139 ~12 concrete 0  
+fill ~4 ~134 ~9 ~4 ~139 ~9 concrete 0  
+fill ~4 ~134 ~13 ~8 ~134 ~13 concrete 0  
+fill ~5 ~134 ~10 ~9 ~134 ~10 concrete 0  
+fill ~7 ~134 ~15 ~9 ~134 ~15 concrete 0  
+fill ~8 ~134 ~14 ~8 ~135 ~14 iron_block 0  
+fill ~8 ~134 ~17 ~19 ~134 ~17 stained_glass 0  
+fill ~10 ~134 ~11 ~16 ~134 ~11 concrete 0  
+fill ~10 ~134 ~15 ~15 ~134 ~15 gray_glazed_terracotta 0  
+fill ~10 ~134 ~16 ~15 ~134 ~16 concrete 15  
+fill ~11 ~134 ~18 ~16 ~134 ~18 stained_glass 0  
+fill ~12 ~134 ~14 ~20 ~134 ~14 concrete 0  
+fill ~16 ~134 ~15 ~21 ~134 ~15 concrete 0  
+fill ~20 ~134 ~12 ~21 ~134 ~12 concrete 0  
+fill ~22 ~134 ~11 ~30 ~134 ~11 concrete 0 
+setblock ~22 ~134 ~15 stained_glass 0  
+fill ~23 ~134 ~15 ~25 ~134 ~15 concrete 0  
+fill ~24 ~134 ~14 ~31 ~134 ~14 concrete 0  
+fill ~24 ~134 ~16 ~24 ~135 ~16 stained_glass 0 
+setblock ~25 ~134 ~16 stained_hardened_clay 9  
+fill ~25 ~134 ~17 ~27 ~134 ~17 stained_glass 0  
+fill ~27 ~134 ~15 ~29 ~134 ~15 concrete 0 
+setblock ~27 ~134 ~16 stained_hardened_clay 9 
+setblock ~28 ~134 ~16 concrete 8 
+setblock ~30 ~134 ~15 stained_glass 0  
+fill ~31 ~134 ~10 ~37 ~134 ~10 concrete 0  
+fill ~32 ~134 ~13 ~36 ~134 ~13 concrete 0  
+fill ~37 ~134 ~11 ~37 ~136 ~11 concrete 0  
+fill ~37 ~134 ~12 ~37 ~136 ~12 concrete 0  
+fill ~4 ~135 ~13 ~8 ~135 ~13 concrete 0  
+fill ~5 ~135 ~10 ~9 ~135 ~10 concrete 0  
+fill ~7 ~135 ~15 ~8 ~135 ~15 concrete 0  
+fill ~8 ~135 ~17 ~19 ~135 ~17 stained_glass 0  
+fill ~9 ~135 ~15 ~15 ~135 ~15 concrete 7  
+fill ~10 ~135 ~11 ~17 ~135 ~11 concrete 0  
+fill ~12 ~135 ~14 ~20 ~135 ~14 concrete 0  
+fill ~12 ~135 ~18 ~15 ~135 ~18 stained_glass 0  
+fill ~16 ~135 ~15 ~22 ~135 ~15 concrete 0  
+fill ~19 ~135 ~16 ~19 ~138 ~16 stained_glass 0  
+fill ~20 ~135 ~12 ~20 ~127 ~12 concrete 0  
+fill ~21 ~135 ~11 ~29 ~135 ~11 concrete 0  
+fill ~23 ~135 ~14 ~30 ~135 ~14 concrete 0 
+setblock ~23 ~135 ~15 stained_glass 0  
+fill ~24 ~135 ~15 ~25 ~135 ~15 concrete 0 
+setblock ~25 ~135 ~16 stained_glass 0  
+fill ~26 ~135 ~15 ~28 ~135 ~15 clay 0  
+fill ~26 ~135 ~16 ~28 ~135 ~16 stained_glass 6 
+setblock ~29 ~135 ~15 stained_glass 0  
+fill ~30 ~135 ~10 ~35 ~135 ~10 concrete 0  
+fill ~31 ~135 ~13 ~36 ~135 ~13 concrete 0  
+fill ~36 ~135 ~9 ~36 ~143 ~9 concrete 0  
+fill ~37 ~135 ~10 ~37 ~136 ~10 concrete 0  
+fill ~4 ~136 ~12 ~4 ~140 ~12 concrete 0  
+fill ~5 ~136 ~9 ~5 ~139 ~9 concrete 0  
+fill ~5 ~136 ~13 ~8 ~136 ~13 concrete 0  
+fill ~6 ~136 ~10 ~10 ~136 ~10 concrete 0 
+setblock ~8 ~136 ~14 concrete 0  
+fill ~8 ~136 ~16 ~8 ~138 ~16 stained_glass 0  
+fill ~8 ~136 ~17 ~18 ~136 ~17 stained_glass 0  
+fill ~9 ~136 ~15 ~16 ~136 ~15 concrete 15  
+fill ~11 ~136 ~11 ~18 ~136 ~11 concrete 0  
+fill ~12 ~136 ~14 ~20 ~136 ~14 concrete 0  
+fill ~17 ~136 ~15 ~22 ~136 ~15 concrete 0  
+fill ~20 ~136 ~11 ~28 ~136 ~11 concrete 0  
+fill ~23 ~136 ~14 ~30 ~136 ~14 concrete 0  
+fill ~24 ~136 ~15 ~28 ~136 ~15 stained_glass 0 
+setblock ~26 ~136 ~16 stained_glass 0  
+fill ~29 ~136 ~10 ~34 ~136 ~10 concrete 0  
+fill ~31 ~136 ~13 ~36 ~136 ~13 concrete 0  
+fill ~35 ~136 ~9 ~35 ~139 ~9 concrete 0  
+fill ~2 ~137 ~10 ~2 ~143 ~10 concrete 0  
+fill ~2 ~137 ~11 ~2 ~141 ~11 concrete 0  
+fill ~5 ~137 ~12 ~5 ~140 ~12 concrete 0  
+fill ~6 ~137 ~9 ~6 ~140 ~9 concrete 0  
+fill ~6 ~137 ~13 ~10 ~137 ~13 concrete 0  
+fill ~6 ~137 ~14 ~6 ~137 ~13 concrete 0  
+fill ~7 ~137 ~10 ~12 ~137 ~10 concrete 0  
+fill ~7 ~137 ~15 ~7 ~138 ~15 stained_glass 0  
+fill ~8 ~137 ~14 ~10 ~137 ~14 iron_block 0  
+fill ~8 ~137 ~15 ~16 ~137 ~15 concrete 15  
+fill ~9 ~137 ~17 ~18 ~137 ~17 stained_glass 0  
+fill ~12 ~137 ~14 ~29 ~137 ~14 concrete 0  
+fill ~13 ~137 ~11 ~26 ~137 ~11 concrete 0  
+fill ~18 ~137 ~15 ~19 ~137 ~15 concrete 0  
+fill ~18 ~137 ~16 ~18 ~139 ~16 stained_glass 0  
+fill ~20 ~137 ~15 ~20 ~138 ~15 stained_glass 0  
+fill ~27 ~137 ~10 ~33 ~137 ~10 concrete 0  
+fill ~30 ~137 ~13 ~35 ~137 ~13 concrete 0  
+fill ~34 ~137 ~9 ~34 ~140 ~9 concrete 0  
+fill ~36 ~137 ~10 ~36 ~143 ~10 concrete 0  
+fill ~36 ~137 ~11 ~36 ~143 ~11 concrete 0  
+fill ~36 ~137 ~12 ~36 ~140 ~12 concrete 0  
+fill ~2 ~138 ~8 ~2 ~142 ~8 concrete 0  
+fill ~6 ~138 ~12 ~6 ~140 ~12 concrete 0  
+fill ~7 ~138 ~9 ~7 ~140 ~9 concrete 0  
+fill ~7 ~138 ~13 ~12 ~138 ~13 concrete 0  
+fill ~8 ~138 ~10 ~14 ~138 ~10 concrete 0  
+fill ~8 ~138 ~14 ~8 ~139 ~14 concrete 0  
+fill ~9 ~138 ~14 ~12 ~138 ~14 iron_block 0  
+fill ~9 ~138 ~15 ~16 ~138 ~15 concrete 15  
+fill ~9 ~138 ~16 ~10 ~138 ~16 stained_glass 0  
+fill ~10 ~138 ~17 ~17 ~138 ~17 stained_glass 0 
+setblock ~13 ~138 ~14 concrete 0  
+fill ~15 ~138 ~11 ~25 ~138 ~11 concrete 0  
+fill ~15 ~138 ~14 ~27 ~138 ~14 concrete 0  
+fill ~17 ~138 ~16 ~17 ~140 ~16 stained_glass 0  
+fill ~26 ~138 ~10 ~32 ~138 ~10 concrete 0  
+fill ~28 ~138 ~13 ~33 ~138 ~13 concrete 0  
+fill ~33 ~138 ~9 ~33 ~140 ~9 concrete 0  
+fill ~34 ~138 ~12 ~36 ~138 ~12 concrete 0  
+fill ~3 ~139 ~8 ~3 ~145 ~8 concrete 0  
+fill ~7 ~139 ~12 ~7 ~141 ~12 concrete 0 
+setblock ~7 ~139 ~14 stained_glass 0  
+fill ~8 ~139 ~9 ~8 ~141 ~9 concrete 0  
+fill ~8 ~139 ~13 ~13 ~139 ~13 concrete 0 
+setblock ~8 ~139 ~15 stained_glass 0  
+fill ~9 ~139 ~10 ~15 ~139 ~10 concrete 0 
+setblock ~9 ~139 ~14 concrete 0  
+fill ~9 ~139 ~15 ~15 ~139 ~15 concrete 15  
+fill ~9 ~139 ~16 ~18 ~139 ~16 stained_glass 0  
+fill ~10 ~139 ~14 ~13 ~139 ~14 iron_block 0  
+fill ~12 ~139 ~17 ~15 ~139 ~17 stained_glass 0  
+fill ~15 ~139 ~14 ~25 ~139 ~14 concrete 0  
+fill ~16 ~139 ~11 ~22 ~139 ~11 concrete 0 
+setblock ~19 ~139 ~15 stained_glass 0  
+fill ~23 ~139 ~10 ~31 ~139 ~10 concrete 0  
+fill ~26 ~139 ~13 ~32 ~139 ~13 concrete 0  
+fill ~32 ~139 ~9 ~32 ~141 ~9 concrete 0  
+fill ~33 ~139 ~12 ~36 ~139 ~12 concrete 0  
+fill ~3 ~140 ~11 ~3 ~143 ~11 concrete 0  
+fill ~4 ~140 ~8 ~5 ~140 ~8 concrete 0  
+fill ~8 ~140 ~12 ~8 ~141 ~12 concrete 0 
+setblock ~8 ~140 ~14 stained_glass 0  
+fill ~9 ~140 ~9 ~10 ~140 ~9 concrete 0  
+fill ~9 ~140 ~13 ~18 ~140 ~13 concrete 0 
+setblock ~9 ~140 ~14 ice 0 
+setblock ~9 ~140 ~15 stained_glass 0  
+fill ~10 ~140 ~14 ~11 ~140 ~14 concrete 0 
+setblock ~10 ~140 ~15 stained_hardened_clay 9  
+fill ~10 ~140 ~16 ~17 ~140 ~16 stained_glass 0  
+fill ~11 ~140 ~10 ~18 ~140 ~10 concrete 0  
+fill ~11 ~140 ~15 ~14 ~140 ~15 concrete 15  
+fill ~12 ~140 ~14 ~14 ~140 ~14 iron_block 0  
+fill ~15 ~140 ~14 ~17 ~140 ~14 concrete 0  
+fill ~17 ~140 ~15 ~18 ~140 ~15 stained_glass 0 
+setblock ~18 ~140 ~14 ice 0 
+setblock ~19 ~140 ~11 concrete 0  
+fill ~19 ~140 ~14 ~22 ~140 ~14 concrete 0  
+fill ~20 ~140 ~10 ~28 ~140 ~10 concrete 0  
+fill ~23 ~140 ~13 ~30 ~140 ~13 concrete 0  
+fill ~29 ~140 ~9 ~34 ~140 ~9 concrete 0  
+fill ~31 ~140 ~12 ~32 ~140 ~12 concrete 0 
+setblock ~33 ~140 ~12 stained_hardened_clay 0  
+fill ~34 ~140 ~12 ~36 ~140 ~12 concrete 0  
+fill ~35 ~140 ~8 ~36 ~140 ~8 concrete 0  
+fill ~4 ~141 ~8 ~7 ~141 ~8 concrete 0  
+fill ~4 ~141 ~11 ~5 ~141 ~11 concrete 0 
+setblock ~4 ~141 ~12 wool 14 
+setblock ~5 ~141 ~12 red_mushroom_block 0  
+fill ~5 ~141 ~13 ~5 ~142 ~13 wool 14 
+setblock ~6 ~141 ~12 concrete 6  
+fill ~9 ~141 ~9 ~14 ~141 ~9 concrete 0  
+fill ~9 ~141 ~12 ~11 ~141 ~12 concrete 0  
+fill ~9 ~141 ~14 ~10 ~141 ~14 stained_glass 0  
+fill ~10 ~141 ~13 ~18 ~141 ~13 concrete 0  
+fill ~10 ~141 ~15 ~17 ~141 ~15 stained_glass 0  
+fill ~11 ~141 ~14 ~16 ~141 ~14 concrete 0  
+fill ~13 ~141 ~16 ~14 ~141 ~16 stained_glass 0  
+fill ~15 ~141 ~10 ~24 ~141 ~10 concrete 0 
+setblock ~17 ~141 ~14 stained_glass 0  
+fill ~19 ~141 ~14 ~19 ~133 ~14 concrete 0  
+fill ~20 ~141 ~13 ~27 ~141 ~13 concrete 0  
+fill ~25 ~141 ~9 ~32 ~141 ~9 concrete 0  
+fill ~28 ~141 ~12 ~31 ~141 ~12 concrete 0  
+fill ~31 ~141 ~13 ~34 ~141 ~13 wool 14  
+fill ~32 ~141 ~12 ~34 ~141 ~12 concrete 6  
+fill ~33 ~141 ~8 ~35 ~141 ~8 concrete 0 
+setblock ~35 ~141 ~12 concrete 0  
+fill ~4 ~142 ~8 ~9 ~142 ~8 concrete 0  
+fill ~4 ~142 ~11 ~4 ~143 ~11 concrete 0  
+fill ~5 ~142 ~11 ~6 ~142 ~11 stained_hardened_clay 0 
+setblock ~5 ~142 ~12 wool 14  
+fill ~6 ~142 ~13 ~7 ~142 ~13 wool 14 
+setblock ~7 ~142 ~11 concrete 0  
+fill ~7 ~142 ~12 ~7 ~143 ~12 wool 14 
+setblock ~8 ~142 ~12 concrete 6  
+fill ~9 ~142 ~12 ~14 ~142 ~12 concrete 0  
+fill ~10 ~142 ~9 ~17 ~142 ~9 concrete 0  
+fill ~11 ~142 ~14 ~16 ~142 ~14 stained_glass 0  
+fill ~13 ~142 ~15 ~14 ~142 ~15 stained_glass 0  
+fill ~15 ~142 ~13 ~24 ~142 ~13 concrete 0  
+fill ~18 ~142 ~10 ~20 ~142 ~10 concrete 0  
+fill ~21 ~142 ~9 ~29 ~142 ~9 concrete 0  
+fill ~25 ~142 ~12 ~28 ~142 ~12 concrete 0  
+fill ~29 ~142 ~12 ~31 ~142 ~12 concrete 6  
+fill ~30 ~142 ~8 ~36 ~142 ~8 concrete 0  
+fill ~30 ~142 ~13 ~33 ~142 ~13 wool 14  
+fill ~32 ~142 ~11 ~36 ~142 ~11 concrete 0  
+fill ~32 ~142 ~12 ~33 ~142 ~12 wool 14 
+setblock ~32 ~142 ~14 wool 14  
+fill ~3 ~143 ~7 ~4 ~143 ~7 concrete 0  
+fill ~5 ~143 ~8 ~13 ~143 ~8 concrete 0  
+fill ~5 ~143 ~11 ~6 ~143 ~11 concrete 0 
+setblock ~6 ~143 ~12 wool 14  
+fill ~7 ~143 ~11 ~8 ~143 ~11 stained_hardened_clay 0  
+fill ~7 ~143 ~13 ~8 ~143 ~13 wool 14  
+fill ~9 ~143 ~11 ~10 ~143 ~11 concrete 0  
+fill ~9 ~143 ~12 ~9 ~144 ~12 wool 14  
+fill ~11 ~143 ~12 ~18 ~143 ~12 concrete 0  
+fill ~14 ~143 ~9 ~25 ~143 ~9 concrete 0  
+fill ~19 ~143 ~13 ~21 ~143 ~13 concrete 0  
+fill ~22 ~143 ~12 ~23 ~143 ~12 concrete 0  
+fill ~24 ~143 ~12 ~25 ~143 ~12 stained_hardened_clay 0  
+fill ~26 ~143 ~8 ~36 ~143 ~8 concrete 0  
+fill ~26 ~143 ~12 ~28 ~143 ~12 concrete 6  
+fill ~27 ~143 ~11 ~28 ~143 ~11 wool 14  
+fill ~27 ~143 ~13 ~31 ~143 ~13 wool 14 
+setblock ~29 ~143 ~11 concrete 6  
+fill ~30 ~143 ~11 ~36 ~143 ~11 concrete 0  
+fill ~30 ~143 ~12 ~31 ~143 ~12 wool 14  
+fill ~3 ~144 ~7 ~7 ~144 ~7 concrete 0  
+fill ~3 ~144 ~9 ~3 ~145 ~9 concrete 0  
+fill ~3 ~144 ~10 ~4 ~144 ~10 concrete 0  
+fill ~5 ~144 ~11 ~8 ~144 ~11 concrete 0  
+fill ~8 ~144 ~8 ~17 ~144 ~8 concrete 0 
+setblock ~8 ~144 ~12 wool 14  
+fill ~9 ~144 ~11 ~10 ~144 ~11 stained_hardened_clay 0  
+fill ~9 ~144 ~13 ~10 ~144 ~13 wool 14  
+fill ~10 ~144 ~12 ~13 ~144 ~12 wool 14  
+fill ~11 ~144 ~11 ~13 ~144 ~11 concrete 0  
+fill ~14 ~144 ~12 ~20 ~144 ~12 concrete 0  
+fill ~18 ~144 ~9 ~21 ~144 ~9 concrete 0  
+fill ~21 ~144 ~12 ~22 ~144 ~12 stained_hardened_clay 0  
+fill ~22 ~144 ~8 ~35 ~144 ~8 concrete 0  
+fill ~22 ~144 ~11 ~24 ~144 ~11 wool 14 
+setblock ~23 ~144 ~12 stained_hardened_clay 6 
+setblock ~24 ~144 ~12 iron_block 0  
+fill ~24 ~144 ~13 ~26 ~144 ~13 wool 14  
+fill ~25 ~144 ~11 ~25 ~145 ~11 concrete 0  
+fill ~25 ~144 ~12 ~29 ~144 ~12 wool 14 
+setblock ~26 ~144 ~11 concrete 6  
+fill ~27 ~144 ~11 ~35 ~144 ~11 concrete 0  
+fill ~35 ~144 ~7 ~35 ~145 ~7 concrete 0  
+fill ~35 ~144 ~9 ~35 ~145 ~9 concrete 0  
+fill ~35 ~144 ~10 ~35 ~145 ~10 concrete 0  
+fill ~3 ~145 ~10 ~11 ~145 ~10 concrete 0  
+fill ~4 ~145 ~6 ~6 ~145 ~6 concrete 0  
+fill ~4 ~145 ~7 ~4 ~146 ~7 concrete 0  
+fill ~7 ~145 ~7 ~14 ~145 ~7 concrete 0  
+fill ~10 ~145 ~8 ~11 ~145 ~8 concrete 0  
+fill ~10 ~145 ~9 ~11 ~145 ~9 concrete 0 
+setblock ~10 ~145 ~11 concrete 0  
+fill ~10 ~145 ~12 ~12 ~145 ~12 wool 14  
+fill ~11 ~145 ~11 ~12 ~145 ~11 stained_hardened_clay 0  
+fill ~11 ~145 ~13 ~14 ~145 ~13 wool 14 
+setblock ~13 ~145 ~11 concrete 0  
+fill ~13 ~145 ~12 ~14 ~145 ~12 red_mushroom_block 0  
+fill ~14 ~145 ~11 ~18 ~145 ~11 stained_hardened_clay 0  
+fill ~15 ~145 ~8 ~23 ~145 ~8 concrete 0  
+fill ~15 ~145 ~12 ~18 ~145 ~12 wool 14  
+fill ~19 ~145 ~9 ~19 ~146 ~9 concrete 0  
+fill ~19 ~145 ~10 ~19 ~146 ~10 concrete 0  
+fill ~19 ~145 ~11 ~19 ~146 ~11 concrete 6  
+fill ~19 ~145 ~12 ~20 ~145 ~12 concrete 6 
+setblock ~20 ~145 ~11 wool 14  
+fill ~21 ~145 ~11 ~22 ~145 ~11 stained_hardened_clay 0  
+fill ~21 ~145 ~12 ~24 ~145 ~12 wool 14  
+fill ~21 ~145 ~13 ~22 ~145 ~13 wool 14  
+fill ~23 ~145 ~11 ~29 ~145 ~11 concrete 0  
+fill ~24 ~145 ~7 ~35 ~145 ~7 concrete 0  
+fill ~27 ~145 ~8 ~28 ~145 ~8 concrete 0  
+fill ~27 ~145 ~9 ~28 ~145 ~9 concrete 0  
+fill ~27 ~145 ~10 ~28 ~145 ~10 concrete 0  
+fill ~30 ~145 ~10 ~35 ~145 ~10 concrete 0 
+setblock ~35 ~145 ~8 concrete 0  
+fill ~4 ~146 ~6 ~4 ~145 ~6 concrete 0  
+fill ~4 ~146 ~8 ~4 ~146 ~9 concrete 0  
+fill ~5 ~146 ~5 ~6 ~146 ~5 concrete 0  
+fill ~5 ~146 ~9 ~9 ~146 ~9 concrete 0  
+fill ~7 ~146 ~6 ~10 ~146 ~6 concrete 0  
+fill ~10 ~146 ~7 ~10 ~148 ~7 concrete 0  
+fill ~10 ~146 ~8 ~11 ~146 ~8 concrete 0 
+setblock ~10 ~146 ~9 iron_block 0  
+fill ~10 ~146 ~10 ~30 ~146 ~10 concrete 0 
+setblock ~11 ~146 ~9 concrete 0  
+fill ~12 ~146 ~6 ~14 ~146 ~6 concrete 0  
+fill ~12 ~146 ~7 ~12 ~147 ~7 concrete 0  
+fill ~13 ~146 ~12 ~20 ~146 ~12 wool 14  
+fill ~15 ~146 ~7 ~23 ~146 ~7 concrete 0  
+fill ~19 ~146 ~8 ~20 ~146 ~8 concrete 0  
+fill ~20 ~146 ~9 ~20 ~147 ~9 concrete 0 
+setblock ~20 ~146 ~11 concrete 0  
+fill ~24 ~146 ~6 ~26 ~146 ~6 concrete 0  
+fill ~27 ~146 ~7 ~28 ~146 ~7 concrete 0  
+fill ~27 ~146 ~8 ~28 ~146 ~8 concrete 0  
+fill ~27 ~146 ~9 ~28 ~146 ~9 concrete 0  
+fill ~28 ~146 ~6 ~34 ~146 ~6 concrete 0  
+fill ~31 ~146 ~9 ~34 ~146 ~9 concrete 0  
+fill ~34 ~146 ~7 ~34 ~146 ~9 concrete 0  
+fill ~5 ~147 ~5 ~10 ~147 ~5 concrete 0  
+fill ~5 ~147 ~6 ~5 ~147 ~8 concrete 0  
+fill ~6 ~147 ~8 ~8 ~147 ~8 concrete 0  
+fill ~9 ~147 ~9 ~10 ~147 ~9 concrete 0  
+fill ~10 ~147 ~6 ~10 ~149 ~6 concrete 0  
+fill ~10 ~147 ~8 ~10 ~148 ~8 concrete 0  
+fill ~12 ~147 ~6 ~12 ~146 ~6 concrete 0  
+fill ~12 ~147 ~8 ~12 ~147 ~9 concrete 0  
+fill ~13 ~147 ~5 ~14 ~147 ~5 concrete 0  
+fill ~13 ~147 ~9 ~18 ~147 ~9 concrete 0  
+fill ~15 ~147 ~6 ~18 ~147 ~6 concrete 0  
+fill ~18 ~147 ~7 ~18 ~149 ~7 concrete 0  
+fill ~18 ~147 ~8 ~18 ~148 ~8 concrete 0  
+fill ~20 ~147 ~6 ~23 ~147 ~6 concrete 0  
+fill ~20 ~147 ~7 ~20 ~147 ~10 concrete 0  
+fill ~21 ~147 ~9 ~26 ~147 ~9 concrete 0  
+fill ~24 ~147 ~5 ~25 ~147 ~5 concrete 0  
+fill ~26 ~147 ~6 ~26 ~147 ~9 concrete 0  
+fill ~28 ~147 ~6 ~28 ~149 ~6 concrete 0  
+fill ~28 ~147 ~7 ~28 ~148 ~7 concrete 0  
+fill ~28 ~147 ~8 ~28 ~147 ~9 concrete 0  
+fill ~29 ~147 ~5 ~33 ~147 ~5 concrete 0  
+fill ~29 ~147 ~9 ~31 ~147 ~9 concrete 0  
+fill ~32 ~147 ~8 ~33 ~147 ~8 concrete 0  
+fill ~33 ~147 ~6 ~33 ~148 ~6 concrete 0  
+fill ~33 ~147 ~7 ~33 ~148 ~7 concrete 0  
+fill ~6 ~148 ~4 ~9 ~148 ~4 concrete 0  
+fill ~6 ~148 ~5 ~6 ~148 ~7 concrete 0  
+fill ~7 ~148 ~7 ~8 ~148 ~7 concrete 0 
+setblock ~9 ~148 ~8 concrete 0  
+fill ~10 ~148 ~5 ~10 ~150 ~5 concrete 0  
+fill ~13 ~148 ~5 ~13 ~147 ~5 concrete 0  
+fill ~13 ~148 ~6 ~13 ~149 ~6 concrete 0  
+fill ~13 ~148 ~7 ~13 ~148 ~8 concrete 0  
+fill ~14 ~148 ~4 ~14 ~150 ~4 concrete 0  
+fill ~14 ~148 ~8 ~18 ~148 ~8 concrete 0  
+fill ~15 ~148 ~5 ~18 ~148 ~5 concrete 0  
+fill ~18 ~148 ~6 ~18 ~149 ~6 concrete 0  
+fill ~21 ~148 ~5 ~23 ~148 ~5 concrete 0  
+fill ~21 ~148 ~6 ~21 ~150 ~6 concrete 0  
+fill ~21 ~148 ~7 ~21 ~149 ~7 concrete 0  
+fill ~21 ~148 ~8 ~25 ~148 ~8 concrete 0  
+fill ~24 ~148 ~4 ~25 ~148 ~4 concrete 0  
+fill ~25 ~148 ~5 ~25 ~149 ~5 concrete 0  
+fill ~25 ~148 ~6 ~25 ~149 ~6 concrete 0  
+fill ~25 ~148 ~7 ~25 ~149 ~7 concrete 0  
+fill ~28 ~148 ~5 ~28 ~149 ~5 concrete 0  
+fill ~29 ~148 ~4 ~32 ~148 ~4 concrete 0  
+fill ~29 ~148 ~8 ~32 ~148 ~8 concrete 0  
+fill ~32 ~148 ~5 ~32 ~149 ~5 concrete 0  
+fill ~6 ~149 ~6 ~8 ~149 ~6 concrete 0  
+fill ~7 ~149 ~3 ~9 ~149 ~3 concrete 0  
+fill ~7 ~149 ~4 ~7 ~150 ~4 concrete 0  
+fill ~7 ~149 ~5 ~7 ~150 ~5 concrete 0 
+setblock ~9 ~149 ~7 concrete 0  
+fill ~10 ~149 ~4 ~10 ~151 ~4 concrete 0  
+fill ~14 ~149 ~3 ~14 ~150 ~3 concrete 0  
+fill ~14 ~149 ~5 ~14 ~150 ~5 concrete 0  
+fill ~14 ~149 ~7 ~18 ~149 ~7 concrete 0  
+fill ~15 ~149 ~4 ~17 ~149 ~4 concrete 0  
+fill ~17 ~149 ~5 ~17 ~151 ~5 concrete 0  
+fill ~21 ~149 ~4 ~23 ~149 ~4 concrete 0  
+fill ~21 ~149 ~5 ~21 ~150 ~5 concrete 0  
+fill ~22 ~149 ~7 ~25 ~149 ~7 concrete 0  
+fill ~24 ~149 ~3 ~24 ~150 ~3 concrete 0 
+setblock ~25 ~149 ~4 concrete 0 
+setblock ~28 ~149 ~4 concrete 0  
+fill ~29 ~149 ~3 ~31 ~149 ~3 concrete 0  
+fill ~29 ~149 ~7 ~32 ~149 ~7 concrete 0 
+setblock ~32 ~149 ~4 concrete 0 
+setblock ~32 ~149 ~6 concrete 0  
+fill ~7 ~150 ~3 ~7 ~149 ~3 concrete 0  
+fill ~8 ~150 ~2 ~9 ~150 ~2 concrete 0  
+fill ~8 ~150 ~6 ~9 ~150 ~6 concrete 0  
+fill ~10 ~150 ~3 ~10 ~151 ~3 concrete 0  
+fill ~14 ~150 ~6 ~17 ~150 ~6 concrete 0  
+fill ~15 ~150 ~3 ~17 ~150 ~3 concrete 0  
+fill ~17 ~150 ~4 ~17 ~151 ~4 concrete 0  
+fill ~21 ~150 ~4 ~21 ~149 ~4 concrete 0  
+fill ~22 ~150 ~3 ~24 ~150 ~3 concrete 0  
+fill ~22 ~150 ~6 ~24 ~150 ~6 concrete 0  
+fill ~24 ~150 ~4 ~24 ~150 ~6 concrete 0  
+fill ~29 ~150 ~2 ~30 ~150 ~2 concrete 0  
+fill ~29 ~150 ~3 ~29 ~152 ~3 concrete 0  
+fill ~29 ~150 ~4 ~29 ~152 ~4 concrete 0  
+fill ~29 ~150 ~5 ~29 ~151 ~5 concrete 0  
+fill ~29 ~150 ~6 ~31 ~150 ~6 concrete 0  
+fill ~31 ~150 ~3 ~31 ~150 ~6 concrete 0  
+fill ~8 ~151 ~2 ~8 ~150 ~2 concrete 0  
+fill ~8 ~151 ~3 ~8 ~151 ~5 concrete 0  
+fill ~9 ~151 ~1 ~9 ~152 ~1 concrete 0 
+setblock ~9 ~151 ~5 concrete 0 
+setblock ~10 ~151 ~2 concrete 0  
+fill ~15 ~151 ~2 ~17 ~151 ~2 concrete 0  
+fill ~15 ~151 ~3 ~15 ~150 ~3 concrete 0  
+fill ~15 ~151 ~4 ~15 ~151 ~5 concrete 0 
+setblock ~16 ~151 ~5 concrete 0 
+setblock ~17 ~151 ~3 concrete 0  
+fill ~22 ~151 ~2 ~23 ~151 ~2 concrete 0  
+fill ~22 ~151 ~3 ~23 ~151 ~3 concrete 0  
+fill ~22 ~151 ~4 ~23 ~151 ~4 concrete 0  
+fill ~22 ~151 ~5 ~24 ~151 ~5 concrete 0  
+fill ~29 ~151 ~2 ~30 ~151 ~2 concrete 0  
+fill ~30 ~151 ~3 ~30 ~152 ~3 concrete 0  
+fill ~30 ~151 ~4 ~30 ~152 ~4 concrete 0  
+fill ~30 ~151 ~5 ~31 ~151 ~5 concrete 0  
+fill ~9 ~152 ~2 ~9 ~152 ~4 concrete 0  
+fill ~16 ~152 ~2 ~16 ~152 ~4 concrete 0  
+fill ~22 ~152 ~4 ~23 ~152 ~4 concrete 0  
+fill ~23 ~152 ~2 ~23 ~152 ~4 concrete 0  
+fill ~29 ~152 ~2 ~29 ~150 ~2 concrete 0    

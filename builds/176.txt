@@ -1,0 +1,972 @@
+setblock ~20~1~1 minecraft:snow_layer 0
+setblock ~21~1~1 minecraft:snow_layer 2
+setblock ~24~1~1 minecraft:snow_layer 3
+setblock ~25~1~1 minecraft:snow_layer 1
+fill ~20~1~2 ~22~1~27 minecraft:snow
+setblock ~20~2~2 minecraft:snow_layer 0
+setblock ~22~2~2 minecraft:snow_layer 0
+setblock ~23~1~2 minecraft:snow_layer 4
+fill ~24~1~2 ~25~1~28 minecraft:snow
+setblock ~24~2~2 minecraft:snow_layer 3
+setblock ~25~2~2 minecraft:snow_layer 0
+fill ~27~1~2 ~27~1~28 minecraft:snow
+setblock ~27~2~2 minecraft:snow_layer 0
+setblock ~28~1~2 minecraft:snow_layer 1
+fill ~18~1~3 ~19~1~26 minecraft:snow
+setblock ~18~2~3 minecraft:snow_layer 0
+setblock ~19~2~3 minecraft:snow_layer 2
+setblock ~20~2~3 minecraft:snow_layer 4
+fill ~21~2~3 ~21~2~27 minecraft:snow
+fill ~21~7~3 ~27~9~27 minecraft:snow
+setblock ~21~10~3 minecraft:snow_layer 0
+setblock ~22~2~3 minecraft:snow_layer 4
+fill ~22~6~3 ~26~6~26 minecraft:snow
+fill ~22~10~3 ~26~10~26 minecraft:snow
+setblock ~22~11~3 minecraft:snow_layer 0
+fill ~23~1~3 ~23~1~28 minecraft:snow
+fill ~23~2~3 ~26~2~27 minecraft:snow
+setblock ~23~3~3 minecraft:snow_layer 3
+fill ~23~5~3 ~25~5~26 minecraft:snow
+fill ~23~11~3 ~25~11~26 minecraft:snow
+fill ~23~12~3 ~25~12~3 minecraft:snow_layer 0
+setblock ~25~3~3 minecraft:snow_layer 1
+fill ~26~1~3 ~26~1~27 minecraft:snow
+setblock ~26~3~3 minecraft:snow_layer 0
+setblock ~26~11~3 minecraft:snow_layer 0
+setblock ~27~10~3 minecraft:snow_layer 0
+fill ~28~1~3 ~28~1~28 minecraft:snow
+setblock ~28~2~3 minecraft:snow_layer 3
+setblock ~30~1~3 minecraft:snow_layer 2
+setblock ~16~1~4 minecraft:snow_layer 1
+fill ~17~1~4 ~17~1~26 minecraft:snow
+setblock ~17~2~4 minecraft:snow_layer 2
+setblock ~18~2~4 minecraft:snow_layer 1
+fill ~19~2~4 ~20~2~25 minecraft:snow
+fill ~19~5~4 ~22~5~26 minecraft:snow
+fill ~19~6~4 ~21~6~26 minecraft:snow
+fill ~19~7~4 ~20~11~26 minecraft:snow
+setblock ~19~12~4 minecraft:snow_layer 0
+fill ~20~4~4 ~28~4~25 minecraft:snow
+fill ~20~12~4 ~28~12~25 minecraft:snow
+setblock ~20~13~4 minecraft:snow_layer 0
+fill ~21~3~4 ~27~3~26 minecraft:snow
+fill ~21~10~4 ~21~11~26 minecraft:snow
+fill ~21~13~4 ~27~13~26 minecraft:snow
+fill ~21~14~4 ~27~14~4 minecraft:snow_layer 0
+fill ~22~2~4 ~22~2~26 minecraft:snow
+fill ~22~11~4 ~22~11~26 minecraft:snow
+fill ~22~30~4 ~26~30~8 minecraft:wool 7
+fill ~26~5~4 ~29~5~26 minecraft:snow
+fill ~26~11~4 ~29~11~26 minecraft:snow
+fill ~27~2~4 ~28~2~26 minecraft:snow
+fill ~27~6~4 ~29~6~26 minecraft:snow
+fill ~27~10~4 ~29~10~26 minecraft:snow
+setblock ~28~3~4 minecraft:snow_layer 0
+fill ~28~7~4 ~29~9~26 minecraft:snow
+setblock ~28~13~4 minecraft:snow_layer 0
+fill ~29~1~4 ~31~1~27 minecraft:snow
+setblock ~29~2~4 minecraft:snow_layer 6
+setblock ~29~12~4 minecraft:snow_layer 0
+setblock ~30~2~4 minecraft:snow_layer 1
+setblock ~31~2~4 minecraft:snow_layer 0
+setblock ~14~1~5 minecraft:snow_layer 0
+fill ~16~1~5 ~16~1~25 minecraft:snow
+setblock ~16~2~5 minecraft:snow_layer 3
+fill ~17~2~5 ~18~2~24 minecraft:snow
+setblock ~17~3~5 minecraft:snow_layer 1
+fill ~17~6~5 ~18~10~25 minecraft:snow
+setblock ~17~11~5 minecraft:snow_layer 0
+fill ~18~4~5 ~19~4~25 minecraft:snow
+fill ~18~5~5 ~18~5~25 minecraft:snow
+fill ~18~11~5 ~18~11~25 minecraft:snow
+fill ~18~12~5 ~19~12~24 minecraft:snow
+setblock ~18~13~5 minecraft:snow_layer 0
+fill ~19~3~5 ~20~3~25 minecraft:snow
+fill ~19~13~5 ~20~13~25 minecraft:snow
+setblock ~19~14~5 minecraft:snow_layer 0
+fill ~20~14~5 ~28~14~24 minecraft:snow
+fill ~20~15~5 ~21~15~5 minecraft:snow_layer 0
+fill ~21~30~5 ~21~30~8 minecraft:wool 7
+fill ~22~15~5 ~26~15~25 minecraft:snow
+fill ~22~16~5 ~26~16~5 minecraft:snow_layer 0
+fill ~27~15~5 ~28~15~5 minecraft:snow_layer 0
+fill ~27~30~5 ~27~30~8 minecraft:wool 7
+fill ~28~3~5 ~29~3~26 minecraft:snow
+fill ~28~13~5 ~29~13~25 minecraft:snow
+fill ~29~2~5 ~29~2~27 minecraft:snow
+fill ~29~4~5 ~30~4~25 minecraft:snow
+fill ~29~12~5 ~30~12~25 minecraft:snow
+setblock ~29~14~5 minecraft:snow_layer 0
+setblock ~30~2~5 minecraft:snow_layer 5
+fill ~30~5~5 ~30~11~25 minecraft:snow
+setblock ~30~13~5 minecraft:snow_layer 0
+setblock ~31~2~5 minecraft:snow_layer 3
+fill ~31~6~5 ~31~10~25 minecraft:snow
+setblock ~31~11~5 minecraft:snow_layer 0
+fill ~32~1~5 ~33~1~26 minecraft:snow
+setblock ~32~2~5 minecraft:snow_layer 2
+fill ~14~1~6 ~15~1~23 minecraft:snow
+setblock ~14~2~6 minecraft:snow_layer 0
+fill ~16~2~6 ~16~2~23 minecraft:snow
+fill ~16~5~6 ~17~5~24 minecraft:snow
+fill ~16~6~6 ~16~11~24 minecraft:snow
+setblock ~16~12~6 minecraft:snow_layer 0
+fill ~17~3~6 ~18~3~24 minecraft:snow
+fill ~17~4~6 ~17~4~24 minecraft:snow
+fill ~17~11~6 ~17~13~24 minecraft:snow
+setblock ~17~14~6 minecraft:snow_layer 0
+fill ~18~13~6 ~18~14~24 minecraft:snow
+setblock ~18~15~6 minecraft:snow_layer 0
+fill ~19~14~6 ~19~14~24 minecraft:snow
+fill ~19~15~6 ~21~15~23 minecraft:snow
+fill ~19~16~6 ~20~16~6 minecraft:snow_layer 0
+fill ~19~30~6 ~20~30~9 minecraft:wool 7
+fill ~21~16~6 ~27~16~24 minecraft:snow
+setblock ~21~17~6 minecraft:snow_layer 0
+fill ~22~17~6 ~24~17~6 minecraft:wool 14
+fill ~22~31~6 ~26~31~9 minecraft:wool 7
+fill ~23~32~6 ~25~32~10 minecraft:wool 14
+fill ~23~33~6 ~25~33~6 minecraft:carpet 14
+setblock ~25~17~6 minecraft:wool 5
+setblock ~26~17~6 minecraft:wool 14
+fill ~27~15~6 ~29~15~24 minecraft:snow
+setblock ~27~17~6 minecraft:snow_layer 0
+fill ~28~16~6 ~29~16~6 minecraft:snow_layer 0
+fill ~28~30~6 ~29~30~9 minecraft:wool 7
+fill ~29~14~6 ~30~14~24 minecraft:snow
+fill ~30~2~6 ~32~2~22 minecraft:snow
+fill ~30~3~6 ~31~3~24 minecraft:snow
+fill ~30~13~6 ~31~13~24 minecraft:snow
+setblock ~30~15~6 minecraft:snow_layer 0
+fill ~31~4~6 ~31~5~24 minecraft:snow
+fill ~31~11~6 ~32~11~24 minecraft:snow
+fill ~31~12~6 ~31~12~24 minecraft:snow
+setblock ~31~14~6 minecraft:snow_layer 0
+setblock ~32~3~6 minecraft:snow_layer 0
+fill ~32~5~6 ~32~10~24 minecraft:snow
+setblock ~32~12~6 minecraft:snow_layer 0
+setblock ~33~2~6 minecraft:snow_layer 0
+setblock ~34~1~6 minecraft:snow_layer 0
+fill ~13~1~7 ~13~1~22 minecraft:snow
+setblock ~13~2~7 minecraft:snow_layer 1
+setblock ~14~2~7 minecraft:snow_layer 2
+setblock ~15~2~7 minecraft:snow_layer 4
+fill ~15~5~7 ~15~11~23 minecraft:snow
+setblock ~15~12~7 minecraft:snow_layer 0
+fill ~16~3~7 ~16~4~23 minecraft:snow
+fill ~16~12~7 ~16~13~23 minecraft:snow
+setblock ~16~14~7 minecraft:snow_layer 0
+fill ~17~14~7 ~17~14~23 minecraft:snow
+setblock ~17~15~7 minecraft:snow_layer 0
+fill ~18~15~7 ~18~15~23 minecraft:snow
+setblock ~18~16~7 minecraft:snow_layer 0
+fill ~18~30~7 ~18~30~11 minecraft:wool 7
+fill ~19~16~7 ~20~16~23 minecraft:snow
+setblock ~19~17~7 minecraft:snow_layer 0
+setblock ~20~17~7 minecraft:wool 14
+setblock ~21~17~7 minecraft:wool 5
+fill ~22~17~7 ~26~17~23 minecraft:snow
+fill ~22~18~7 ~23~19~7 minecraft:wool 14
+fill ~22~23~7 ~26~27~22 minecraft:snow
+fill ~22~28~7 ~26~28~7 minecraft:snow_layer 0
+fill ~22~32~7 ~22~32~10 minecraft:wool 14
+setblock ~22~33~7 minecraft:carpet 14
+fill ~23~33~7 ~25~33~12 minecraft:wool 14
+fill ~23~34~7 ~25~34~23 minecraft:wool 7
+fill ~23~35~7 ~25~36~12 minecraft:wool 7
+fill ~24~18~7 ~24~19~7 minecraft:wool 5
+fill ~25~18~7 ~26~19~7 minecraft:wool 14
+fill ~26~32~7 ~26~32~10 minecraft:wool 14
+setblock ~26~33~7 minecraft:carpet 14
+fill ~27~17~7 ~28~17~7 minecraft:wool 14
+fill ~28~16~7 ~29~16~23 minecraft:snow
+setblock ~29~17~7 minecraft:snow_layer 0
+fill ~30~15~7 ~30~15~23 minecraft:snow
+setblock ~30~16~7 minecraft:snow_layer 0
+fill ~30~30~7 ~30~30~11 minecraft:wool 7
+fill ~31~14~7 ~31~14~23 minecraft:snow
+setblock ~31~15~7 minecraft:snow_layer 0
+fill ~32~3~7 ~32~4~23 minecraft:snow
+fill ~32~12~7 ~32~13~23 minecraft:snow
+setblock ~32~14~7 minecraft:snow_layer 0
+setblock ~33~2~7 minecraft:snow_layer 1
+fill ~33~5~7 ~33~11~23 minecraft:snow
+setblock ~33~12~7 minecraft:snow_layer 0
+fill ~34~1~7 ~34~1~23 minecraft:snow
+setblock ~34~2~7 minecraft:snow_layer 0
+fill ~11~1~8 ~11~1~9 minecraft:snow_layer 0
+setblock ~12~1~8 minecraft:snow
+setblock ~12~2~8 minecraft:snow_layer 0
+setblock ~13~2~8 minecraft:snow_layer 2
+fill ~14~2~8 ~15~2~21 minecraft:snow
+setblock ~14~3~8 minecraft:snow_layer 0
+fill ~14~6~8 ~14~10~22 minecraft:snow
+setblock ~14~11~8 minecraft:snow_layer 0
+fill ~15~3~8 ~15~4~22 minecraft:snow
+fill ~15~12~8 ~15~13~22 minecraft:snow
+setblock ~15~14~8 minecraft:snow_layer 0
+fill ~16~14~8 ~16~14~22 minecraft:snow
+setblock ~16~15~8 minecraft:snow_layer 0
+fill ~17~15~8 ~17~15~22 minecraft:snow
+setblock ~17~16~8 minecraft:snow_layer 0
+fill ~17~30~8 ~17~30~22 minecraft:wool 7
+fill ~18~16~8 ~18~16~22 minecraft:snow
+setblock ~18~17~8 minecraft:snow_layer 0
+setblock ~19~17~8 minecraft:wool 14
+fill ~20~17~8 ~21~17~22 minecraft:snow
+fill ~20~18~8 ~20~19~8 minecraft:wool 5
+fill ~20~23~8 ~21~23~22 minecraft:snow
+fill ~20~24~8 ~21~27~21 minecraft:snow
+setblock ~20~28~8 minecraft:snow_layer 0
+fill ~20~31~8 ~21~31~9 minecraft:wool 7
+fill ~20~32~8 ~21~32~11 minecraft:wool 14
+fill ~20~33~8 ~21~33~8 minecraft:carpet 14
+fill ~21~18~8 ~21~20~8 minecraft:wool 14
+fill ~21~22~8 ~27~22~22 minecraft:snow
+fill ~21~28~8 ~27~28~22 minecraft:snow
+setblock ~21~29~8 minecraft:snow_layer 0
+fill ~22~18~8 ~26~18~22 minecraft:snow
+fill ~22~19~8 ~27~19~9 minecraft:wool 14
+setblock ~22~20~8 minecraft:wool 14
+fill ~22~21~8 ~26~21~22 minecraft:snow
+fill ~22~29~8 ~26~29~22 minecraft:snow
+fill ~22~33~8 ~22~33~12 minecraft:wool 14
+fill ~22~34~8 ~22~34~22 minecraft:wool 7
+fill ~22~35~8 ~22~36~12 minecraft:wool 7
+setblock ~23~20~8 minecraft:wool 5
+fill ~24~20~8 ~26~20~8 minecraft:wool 14
+fill ~24~37~8 ~24~37~22 minecraft:wool 7
+fill ~26~33~8 ~26~33~12 minecraft:wool 14
+fill ~26~34~8 ~26~34~22 minecraft:wool 7
+fill ~26~35~8 ~26~36~12 minecraft:wool 7
+fill ~27~17~8 ~28~17~22 minecraft:snow
+setblock ~27~18~8 minecraft:wool 14
+setblock ~27~20~8 minecraft:wool 5
+fill ~27~23~8 ~28~23~22 minecraft:snow
+fill ~27~24~8 ~28~27~21 minecraft:snow
+setblock ~27~29~8 minecraft:snow_layer 0
+fill ~27~31~8 ~28~31~9 minecraft:wool 7
+fill ~27~32~8 ~28~32~11 minecraft:wool 14
+fill ~27~33~8 ~28~33~8 minecraft:carpet 14
+fill ~28~18~8 ~28~19~8 minecraft:wool 5
+setblock ~28~28~8 minecraft:snow_layer 0
+setblock ~29~17~8 minecraft:wool 5
+fill ~30~16~8 ~30~16~22 minecraft:snow
+fill ~31~15~8 ~31~15~22 minecraft:snow
+setblock ~31~16~8 minecraft:snow_layer 0
+fill ~31~30~8 ~31~30~22 minecraft:wool 7
+fill ~32~14~8 ~32~14~22 minecraft:snow
+setblock ~32~15~8 minecraft:snow_layer 0
+fill ~33~2~8 ~33~4~21 minecraft:snow
+fill ~33~12~8 ~33~13~22 minecraft:snow
+setblock ~33~14~8 minecraft:snow_layer 0
+setblock ~34~2~8 minecraft:snow_layer 2
+fill ~34~6~8 ~34~10~22 minecraft:snow
+setblock ~34~11~8 minecraft:snow_layer 0
+fill ~35~1~8 ~35~1~22 minecraft:snow
+setblock ~35~2~8 minecraft:snow_layer 0
+fill ~14~4~9 ~14~5~21 minecraft:snow
+fill ~14~11~9 ~14~12~21 minecraft:snow
+setblock ~14~13~9 minecraft:snow_layer 0
+fill ~15~14~9 ~15~14~21 minecraft:snow
+setblock ~15~15~9 minecraft:snow_layer 0
+fill ~16~15~9 ~16~15~21 minecraft:snow
+setblock ~16~16~9 minecraft:snow_layer 0
+setblock ~16~30~9 minecraft:wool 7
+fill ~17~16~9 ~17~16~21 minecraft:snow
+setblock ~17~17~9 minecraft:snow_layer 0
+setblock ~18~17~9 minecraft:wool 14
+fill ~18~31~9 ~19~31~11 minecraft:wool 7
+fill ~19~17~9 ~19~17~21 minecraft:snow
+fill ~19~18~9 ~19~19~9 minecraft:wool 14
+fill ~19~22~9 ~20~22~21 minecraft:snow
+fill ~19~23~9 ~19~28~21 minecraft:snow
+setblock ~19~29~9 minecraft:snow_layer 0
+fill ~19~32~9 ~19~32~21 minecraft:wool 14
+setblock ~19~33~9 minecraft:carpet 14
+fill ~20~18~9 ~21~18~21 minecraft:snow
+fill ~20~19~9 ~21~19~9 minecraft:wool 14
+setblock ~20~20~9 minecraft:wool 5
+fill ~20~21~9 ~21~21~21 minecraft:snow
+fill ~20~28~9 ~20~29~21 minecraft:snow
+fill ~20~33~9 ~21~33~21 minecraft:wool 14
+fill ~20~34~9 ~21~36~21 minecraft:wool 7
+fill ~21~20~9 ~27~20~21 minecraft:snow
+fill ~21~29~9 ~21~30~21 minecraft:snow
+fill ~22~30~9 ~27~30~21 minecraft:snow
+fill ~23~37~9 ~23~37~21 minecraft:wool 7
+fill ~24~38~9 ~24~38~21 minecraft:wool 7
+fill ~25~37~9 ~25~37~21 minecraft:wool 7
+fill ~27~18~9 ~28~18~21 minecraft:snow
+fill ~27~21~9 ~28~21~21 minecraft:snow
+fill ~27~29~9 ~28~29~21 minecraft:snow
+fill ~27~33~9 ~28~33~21 minecraft:wool 14
+fill ~27~34~9 ~28~36~21 minecraft:wool 7
+fill ~28~19~9 ~29~19~10 minecraft:wool 14
+setblock ~28~20~9 minecraft:wool 14
+fill ~28~22~9 ~29~22~21 minecraft:snow
+fill ~28~28~9 ~29~28~21 minecraft:snow
+fill ~29~17~9 ~29~17~21 minecraft:snow
+setblock ~29~18~9 minecraft:wool 14
+fill ~29~23~9 ~29~27~21 minecraft:snow
+setblock ~29~29~9 minecraft:snow_layer 0
+fill ~29~31~9 ~30~31~11 minecraft:wool 7
+fill ~29~32~9 ~29~32~21 minecraft:wool 14
+setblock ~29~33~9 minecraft:carpet 14
+setblock ~30~17~9 minecraft:wool 14
+fill ~31~16~9 ~31~16~21 minecraft:snow
+setblock ~31~17~9 minecraft:snow_layer 0
+fill ~32~15~9 ~32~15~21 minecraft:snow
+setblock ~32~16~9 minecraft:snow_layer 0
+setblock ~32~30~9 minecraft:wool 7
+fill ~33~14~9 ~33~14~21 minecraft:snow
+setblock ~33~15~9 minecraft:snow_layer 0
+setblock ~34~2~9 minecraft:snow_layer 0
+fill ~34~4~9 ~34~5~21 minecraft:snow
+fill ~34~11~9 ~34~12~21 minecraft:snow
+setblock ~34~13~9 minecraft:snow_layer 0
+setblock ~35~2~9 minecraft:snow_layer 2
+fill ~36~1~9 ~36~1~21 minecraft:snow
+setblock ~36~2~9 minecraft:snow_layer 1
+setblock ~11~1~10 minecraft:snow_layer 1
+fill ~12~1~10 ~12~1~19 minecraft:snow
+setblock ~12~2~10 minecraft:snow_layer 1
+setblock ~13~2~10 minecraft:snow_layer 3
+fill ~13~5~10 ~13~11~20 minecraft:snow
+setblock ~13~12~10 minecraft:snow_layer 0
+fill ~14~3~10 ~14~3~20 minecraft:snow
+fill ~14~13~10 ~14~13~20 minecraft:snow
+setblock ~14~14~10 minecraft:snow_layer 0
+fill ~15~15~10 ~15~15~20 minecraft:snow
+fill ~15~16~10 ~15~16~11 minecraft:snow_layer 0
+fill ~15~31~10 ~17~31~20 minecraft:wool 7
+fill ~16~16~10 ~16~16~20 minecraft:snow
+setblock ~16~17~10 minecraft:snow_layer 0
+setblock ~17~17~10 minecraft:wool 5
+fill ~18~17~10 ~18~17~20 minecraft:snow
+fill ~18~18~10 ~18~19~10 minecraft:wool 14
+fill ~18~22~10 ~18~28~20 minecraft:snow
+setblock ~18~29~10 minecraft:snow_layer 0
+fill ~18~32~10 ~18~32~20 minecraft:wool 14
+setblock ~18~33~10 minecraft:carpet 14
+fill ~19~18~10 ~19~18~20 minecraft:snow
+fill ~19~19~10 ~20~19~10 minecraft:wool 14
+setblock ~19~20~10 minecraft:wool 14
+fill ~19~21~10 ~19~21~20 minecraft:snow
+fill ~19~29~10 ~19~29~20 minecraft:snow
+setblock ~19~30~10 minecraft:wool 7
+fill ~19~33~10 ~19~33~20 minecraft:wool 14
+fill ~19~34~10 ~19~36~20 minecraft:wool 7
+fill ~20~20~10 ~20~20~20 minecraft:snow
+fill ~20~30~10 ~20~30~20 minecraft:snow
+setblock ~20~31~10 minecraft:wool 7
+fill ~21~19~10 ~27~19~20 minecraft:snow
+fill ~21~31~10 ~27~31~20 minecraft:snow
+fill ~21~37~10 ~22~37~20 minecraft:wool 7
+fill ~23~38~10 ~23~38~20 minecraft:wool 7
+fill ~25~38~10 ~25~38~20 minecraft:wool 7
+fill ~26~37~10 ~27~37~20 minecraft:wool 7
+fill ~28~20~10 ~28~20~20 minecraft:snow
+fill ~28~30~10 ~28~30~20 minecraft:snow
+setblock ~28~31~10 minecraft:wool 7
+fill ~29~18~10 ~29~18~20 minecraft:snow
+setblock ~29~20~10 minecraft:wool 14
+fill ~29~21~10 ~29~21~20 minecraft:snow
+fill ~29~29~10 ~29~29~20 minecraft:snow
+setblock ~29~30~10 minecraft:wool 7
+fill ~29~33~10 ~29~33~20 minecraft:wool 14
+fill ~29~34~10 ~29~36~20 minecraft:wool 7
+fill ~30~17~10 ~30~17~20 minecraft:snow
+fill ~30~18~10 ~30~19~10 minecraft:wool 14
+fill ~30~22~10 ~30~28~20 minecraft:snow
+setblock ~30~29~10 minecraft:snow_layer 0
+fill ~30~32~10 ~30~32~20 minecraft:wool 14
+setblock ~30~33~10 minecraft:carpet 14
+setblock ~31~17~10 minecraft:wool 14
+fill ~31~31~10 ~33~31~20 minecraft:wool 7
+fill ~32~16~10 ~32~16~20 minecraft:snow
+setblock ~32~17~10 minecraft:snow_layer 0
+fill ~33~15~10 ~33~15~20 minecraft:snow
+fill ~33~16~10 ~33~16~11 minecraft:snow_layer 0
+fill ~34~2~10 ~35~2~19 minecraft:snow
+fill ~34~3~10 ~34~3~20 minecraft:snow
+fill ~34~13~10 ~34~13~20 minecraft:snow
+setblock ~34~14~10 minecraft:snow_layer 0
+setblock ~35~3~10 minecraft:snow_layer 1
+fill ~35~5~10 ~35~11~20 minecraft:snow
+setblock ~35~12~10 minecraft:snow_layer 0
+fill ~37~1~10 ~37~1~12 minecraft:snow
+setblock ~38~1~10 minecraft:snow_layer 0
+setblock ~11~1~11 minecraft:snow_layer 0
+fill ~13~2~11 ~13~2~19 minecraft:snow
+setblock ~13~3~11 minecraft:snow_layer 1
+fill ~13~4~11 ~13~4~19 minecraft:snow
+fill ~13~12~11 ~13~12~19 minecraft:snow
+setblock ~13~13~11 minecraft:snow_layer 0
+fill ~14~14~11 ~14~14~19 minecraft:snow
+fill ~14~15~11 ~14~15~12 minecraft:snow_layer 0
+fill ~16~17~11 ~16~17~12 minecraft:wool 14
+fill ~17~17~11 ~17~17~19 minecraft:snow
+fill ~17~18~11 ~17~19~11 minecraft:wool 5
+fill ~17~23~11 ~17~27~19 minecraft:snow
+setblock ~17~28~11 minecraft:snow_layer 0
+fill ~17~32~11 ~17~32~19 minecraft:wool 14
+fill ~17~33~11 ~17~33~12 minecraft:carpet 14
+fill ~18~18~11 ~18~18~19 minecraft:snow
+fill ~18~19~11 ~19~19~11 minecraft:wool 14
+setblock ~18~20~11 minecraft:wool 14
+fill ~18~21~11 ~18~21~19 minecraft:snow
+fill ~18~29~11 ~18~29~19 minecraft:snow
+fill ~18~33~11 ~18~33~19 minecraft:wool 14
+fill ~18~34~11 ~18~36~19 minecraft:wool 7
+fill ~19~20~11 ~19~20~19 minecraft:snow
+fill ~19~30~11 ~19~30~19 minecraft:snow
+fill ~20~19~11 ~20~19~19 minecraft:snow
+fill ~20~31~11 ~20~31~19 minecraft:snow
+fill ~20~37~11 ~20~37~19 minecraft:wool 7
+fill ~21~38~11 ~22~38~19 minecraft:wool 7
+fill ~22~32~11 ~26~32~19 minecraft:snow
+fill ~24~39~11 ~24~39~19 minecraft:wool 7
+fill ~26~38~11 ~27~38~19 minecraft:wool 7
+fill ~28~19~11 ~28~19~19 minecraft:snow
+fill ~28~31~11 ~28~31~19 minecraft:snow
+fill ~28~37~11 ~28~37~19 minecraft:wool 7
+fill ~29~19~11 ~30~19~11 minecraft:wool 14
+fill ~29~20~11 ~29~20~19 minecraft:snow
+fill ~29~30~11 ~29~30~19 minecraft:snow
+fill ~30~18~11 ~30~18~19 minecraft:snow
+setblock ~30~20~11 minecraft:wool 5
+fill ~30~21~11 ~30~21~19 minecraft:snow
+fill ~30~29~11 ~30~29~19 minecraft:snow
+fill ~30~33~11 ~30~33~19 minecraft:wool 14
+fill ~30~34~11 ~30~36~19 minecraft:wool 7
+fill ~31~17~11 ~31~17~19 minecraft:snow
+fill ~31~18~11 ~31~19~11 minecraft:wool 5
+fill ~31~23~11 ~31~27~19 minecraft:snow
+setblock ~31~28~11 minecraft:snow_layer 0
+fill ~31~32~11 ~31~32~19 minecraft:wool 14
+fill ~31~33~11 ~31~33~12 minecraft:carpet 14
+setblock ~32~17~11 minecraft:wool 14
+fill ~34~14~11 ~34~14~19 minecraft:snow
+fill ~34~15~11 ~34~15~12 minecraft:snow_layer 0
+fill ~35~3~11 ~35~4~18 minecraft:snow
+fill ~35~12~11 ~35~12~19 minecraft:snow
+setblock ~35~13~11 minecraft:snow_layer 0
+setblock ~36~2~11 minecraft:snow
+setblock ~37~2~11 minecraft:snow_layer 1
+setblock ~12~2~12 minecraft:snow_layer 1
+fill ~12~7~12 ~12~9~18 minecraft:snow
+setblock ~12~10~12 minecraft:snow_layer 0
+fill ~13~3~12 ~13~3~18 minecraft:snow
+fill ~13~13~12 ~13~13~18 minecraft:snow
+fill ~13~14~12 ~13~14~14 minecraft:snow_layer 0
+fill ~14~31~12 ~14~31~18 minecraft:wool 7
+fill ~15~16~12 ~15~16~18 minecraft:snow
+setblock ~15~17~12 minecraft:snow_layer 0
+fill ~16~30~12 ~16~30~18 minecraft:wool 7
+fill ~17~18~12 ~17~19~12 minecraft:wool 14
+setblock ~17~20~12 minecraft:wool 5
+fill ~17~22~12 ~17~22~18 minecraft:snow
+fill ~17~28~12 ~17~28~18 minecraft:snow
+setblock ~17~29~12 minecraft:snow_layer 0
+fill ~18~19~12 ~18~19~20 minecraft:wool 14
+fill ~18~20~12 ~18~20~18 minecraft:snow
+fill ~18~30~12 ~18~30~18 minecraft:snow
+fill ~18~31~12 ~18~31~21 minecraft:wool 7
+fill ~19~19~12 ~19~19~18 minecraft:snow
+fill ~19~31~12 ~19~31~18 minecraft:snow
+fill ~19~37~12 ~19~37~18 minecraft:wool 7
+setblock ~20~32~12 minecraft:wool 14
+fill ~20~38~12 ~20~38~18 minecraft:wool 7
+fill ~21~32~12 ~21~32~18 minecraft:snow
+fill ~22~39~12 ~23~39~18 minecraft:wool 7
+fill ~25~39~12 ~26~39~18 minecraft:wool 7
+fill ~27~32~12 ~27~32~18 minecraft:snow
+setblock ~28~32~12 minecraft:wool 14
+fill ~28~38~12 ~28~38~18 minecraft:wool 7
+fill ~29~19~12 ~29~19~18 minecraft:snow
+fill ~29~31~12 ~29~31~18 minecraft:snow
+fill ~29~37~12 ~29~37~18 minecraft:wool 7
+fill ~30~19~12 ~31~19~18 minecraft:wool 14
+fill ~30~20~12 ~30~20~18 minecraft:snow
+fill ~30~30~12 ~30~30~18 minecraft:snow
+fill ~30~31~12 ~30~31~21 minecraft:wool 7
+setblock ~31~18~12 minecraft:wool 14
+fill ~31~20~12 ~31~20~13 minecraft:wool 14
+fill ~31~22~12 ~31~22~18 minecraft:snow
+fill ~31~28~12 ~31~28~18 minecraft:snow
+setblock ~31~29~12 minecraft:snow_layer 0
+setblock ~32~17~12 minecraft:wool 5
+fill ~32~30~12 ~32~30~18 minecraft:wool 7
+fill ~33~16~12 ~33~16~18 minecraft:snow
+setblock ~33~17~12 minecraft:snow_layer 0
+fill ~34~31~12 ~34~31~18 minecraft:wool 7
+fill ~35~13~12 ~35~13~18 minecraft:snow
+fill ~35~14~12 ~35~14~14 minecraft:snow_layer 0
+setblock ~36~2~12 minecraft:snow_layer 2
+fill ~36~7~12 ~36~9~18 minecraft:snow
+setblock ~36~10~12 minecraft:snow_layer 0
+setblock ~48~25~12 minecraft:wood 1
+setblock ~49~25~12 minecraft:wood 1
+setblock ~0~19~13 minecraft:wood 1
+fill ~11~1~13 ~11~1~18 minecraft:snow
+setblock ~11~2~13 minecraft:snow_layer 4
+fill ~12~2~13 ~12~2~14 minecraft:snow
+setblock ~12~3~13 minecraft:snow_layer 0
+fill ~12~6~13 ~12~6~17 minecraft:snow
+fill ~12~10~13 ~12~10~17 minecraft:snow
+setblock ~12~11~13 minecraft:snow_layer 0
+fill ~13~31~13 ~13~31~17 minecraft:wool 7
+fill ~14~15~13 ~14~15~17 minecraft:snow
+fill ~14~16~13 ~14~16~17 minecraft:snow_layer 0
+setblock ~15~17~13 minecraft:wool 14
+fill ~16~17~13 ~16~17~17 minecraft:snow
+fill ~16~18~13 ~16~19~14 minecraft:wool 14
+fill ~16~23~13 ~16~27~17 minecraft:snow
+fill ~16~28~13 ~16~28~17 minecraft:snow_layer 0
+fill ~16~32~13 ~16~32~17 minecraft:wool 14
+setblock ~16~33~13 minecraft:carpet 14
+fill ~17~18~13 ~17~18~17 minecraft:snow
+fill ~17~19~13 ~17~20~15 minecraft:wool 14
+fill ~17~21~13 ~17~21~17 minecraft:snow
+fill ~17~29~13 ~17~29~17 minecraft:snow
+fill ~17~33~13 ~17~33~17 minecraft:wool 14
+fill ~17~34~13 ~17~36~17 minecraft:wool 7
+fill ~20~32~13 ~20~32~17 minecraft:snow
+fill ~21~39~13 ~21~39~17 minecraft:wool 7
+fill ~22~33~13 ~26~33~17 minecraft:snow
+fill ~22~35~13 ~26~35~17 minecraft:snow
+fill ~22~36~13 ~26~36~22 minecraft:wool 7
+fill ~27~39~13 ~27~39~17 minecraft:wool 7
+fill ~28~32~13 ~28~32~17 minecraft:snow
+fill ~31~18~13 ~31~18~17 minecraft:snow
+fill ~31~21~13 ~31~21~17 minecraft:snow
+fill ~31~29~13 ~31~29~17 minecraft:snow
+fill ~31~33~13 ~31~33~17 minecraft:wool 14
+fill ~31~34~13 ~31~36~17 minecraft:wool 7
+fill ~32~17~13 ~32~17~17 minecraft:snow
+fill ~32~18~13 ~32~19~14 minecraft:wool 14
+fill ~32~23~13 ~32~27~17 minecraft:snow
+fill ~32~28~13 ~32~28~17 minecraft:snow_layer 0
+fill ~32~32~13 ~32~32~17 minecraft:wool 14
+setblock ~32~33~13 minecraft:carpet 14
+fill ~33~17~13 ~33~17~15 minecraft:wool 14
+fill ~34~15~13 ~34~15~17 minecraft:snow
+fill ~34~16~13 ~34~16~17 minecraft:snow_layer 0
+fill ~35~31~13 ~35~31~17 minecraft:wool 7
+setblock ~36~2~13 minecraft:snow
+fill ~36~6~13 ~36~6~17 minecraft:snow
+fill ~36~10~13 ~36~10~17 minecraft:snow
+setblock ~36~11~13 minecraft:snow_layer 0
+setblock ~37~1~13 minecraft:snow_layer 5
+setblock ~47~23~13 minecraft:wood 1
+setblock ~48~23~13 minecraft:wood 1
+setblock ~48~24~13 minecraft:wood 1
+setblock ~0~20~14 minecraft:wood 1
+setblock ~1~20~14 minecraft:wood 1
+setblock ~1~21~14 minecraft:wood 1
+setblock ~3~24~14 minecraft:wood 1
+setblock ~3~25~14 minecraft:wood 1
+fill ~7~18~14 ~8~18~14 minecraft:wood 1
+fill ~8~17~14 ~9~17~14 minecraft:wood 1
+setblock ~9~16~14 minecraft:wood 1
+setblock ~11~2~14 minecraft:snow_layer 1
+setblock ~12~3~14 minecraft:snow_layer 1
+fill ~12~5~14 ~12~5~16 minecraft:snow
+fill ~12~11~14 ~12~11~16 minecraft:snow
+fill ~12~12~14 ~12~12~16 minecraft:snow_layer 0
+setblock ~15~17~14 minecraft:wool 5
+fill ~15~32~14 ~15~32~16 minecraft:wool 14
+fill ~15~33~14 ~15~33~16 minecraft:carpet 14
+fill ~16~33~14 ~16~33~16 minecraft:wool 14
+fill ~16~34~14 ~16~36~16 minecraft:wool 7
+fill ~18~37~14 ~18~37~16 minecraft:wool 7
+fill ~19~38~14 ~19~38~16 minecraft:wool 7
+fill ~29~38~14 ~29~38~16 minecraft:wool 7
+fill ~30~37~14 ~30~37~16 minecraft:wool 7
+setblock ~31~20~14 minecraft:wool 5
+fill ~32~33~14 ~32~33~16 minecraft:wool 14
+fill ~32~34~14 ~32~36~16 minecraft:wool 7
+fill ~33~32~14 ~33~32~16 minecraft:wool 14
+fill ~33~33~14 ~33~33~16 minecraft:carpet 14
+setblock ~36~2~14 minecraft:snow_layer 5
+fill ~36~5~14 ~36~5~16 minecraft:snow
+fill ~36~11~14 ~36~11~16 minecraft:snow
+fill ~36~12~14 ~36~12~16 minecraft:snow_layer 0
+fill ~37~1~14 ~37~1~16 minecraft:snow
+setblock ~37~2~14 minecraft:snow_layer 0
+setblock ~47~22~14 minecraft:wood 1
+fill ~2~21~15 ~3~21~15 minecraft:wood 1
+setblock ~2~22~15 minecraft:wood 1
+fill ~3~23~15 ~3~24~15 minecraft:wood 1
+setblock ~4~20~15 minecraft:wood 1
+setblock ~4~21~15 minecraft:wood 1
+setblock ~5~19~15 minecraft:wood 1
+setblock ~5~20~15 minecraft:wood 1
+fill ~6~18~15 ~7~18~15 minecraft:wood 1
+setblock ~6~19~15 minecraft:wood 1
+fill ~9~16~15 ~10~16~15 minecraft:wood 1
+setblock ~10~1~15 minecraft:snow_layer 0
+fill ~11~2~15 ~11~2~16 minecraft:snow_layer 0
+setblock ~11~15~15 minecraft:wood 1
+setblock ~11~16~15 minecraft:wood 1
+setblock ~12~2~15 minecraft:snow_layer 1
+fill ~12~14~15 ~13~14~15 minecraft:wood 1
+setblock ~12~15~15 minecraft:wood 1
+setblock ~12~16~15 minecraft:snow_layer 0
+setblock ~13~15~15 minecraft:snow_layer 3
+fill ~15~17~15 ~15~17~17 minecraft:wool 14
+fill ~16~18~15 ~16~19~15 minecraft:wool 5
+setblock ~17~37~15 minecraft:wool 7
+setblock ~18~38~15 minecraft:wool 7
+setblock ~20~39~15 minecraft:wool 7
+setblock ~28~39~15 minecraft:wool 7
+setblock ~30~38~15 minecraft:wool 7
+fill ~31~20~15 ~31~20~17 minecraft:wool 14
+setblock ~31~37~15 minecraft:wool 7
+fill ~32~18~15 ~32~19~15 minecraft:wool 5
+fill ~35~14~15 ~36~14~15 minecraft:wood 1
+setblock ~35~15~15 minecraft:snow_layer 2
+fill ~36~2~15 ~36~2~17 minecraft:snow
+fill ~36~3~15 ~36~3~16 minecraft:snow_layer 0
+setblock ~36~15~15 minecraft:wood 1
+setblock ~36~16~15 minecraft:snow_layer 0
+setblock ~37~2~15 minecraft:snow_layer 1
+setblock ~37~15~15 minecraft:wood 1
+setblock ~37~16~15 minecraft:wood 1
+setblock ~38~1~15 minecraft:snow_layer 0
+fill ~38~16~15 ~39~16~15 minecraft:wood 1
+fill ~41~18~15 ~42~18~15 minecraft:wood 1
+setblock ~42~19~15 minecraft:wood 1
+setblock ~43~19~15 minecraft:wood 1
+setblock ~43~20~15 minecraft:wood 1
+setblock ~44~20~15 minecraft:wood 1
+setblock ~44~21~15 minecraft:wood 1
+setblock ~44~25~15 minecraft:wood 1
+fill ~45~21~15 ~46~21~15 minecraft:wood 1
+fill ~45~23~15 ~45~24~15 minecraft:wood 1
+setblock ~46~22~15 minecraft:wood 1
+setblock ~1~22~16 minecraft:wood 1
+setblock ~12~2~16 minecraft:snow
+setblock ~12~3~16 minecraft:snow_layer 0
+fill ~13~14~16 ~13~14~18 minecraft:snow_layer 0
+fill ~16~18~16 ~16~19~17 minecraft:wool 14
+fill ~17~19~16 ~17~20~16 minecraft:wool 5
+fill ~32~18~16 ~32~19~17 minecraft:wool 14
+setblock ~33~17~16 minecraft:wool 5
+fill ~35~14~16 ~35~14~18 minecraft:snow_layer 0
+setblock ~37~2~16 minecraft:snow_layer 2
+fill ~39~16~16 ~39~17~16 minecraft:wood 1
+fill ~40~17~16 ~40~18~16 minecraft:wood 1
+setblock ~41~18~16 minecraft:wood 1
+setblock ~47~20~16 minecraft:wood 1
+setblock ~47~21~16 minecraft:wood 1
+setblock ~48~19~16 minecraft:wood 1
+setblock ~48~20~16 minecraft:wood 1
+setblock ~1~23~17 minecraft:wood 1
+setblock ~12~2~17 minecraft:snow_layer 1
+setblock ~12~11~17 minecraft:snow_layer 0
+setblock ~16~33~17 minecraft:carpet 14
+fill ~17~19~17 ~17~20~18 minecraft:wool 14
+setblock ~32~33~17 minecraft:carpet 14
+setblock ~33~17~17 minecraft:wool 14
+setblock ~36~11~17 minecraft:snow_layer 0
+setblock ~37~1~17 minecraft:snow_layer 5
+setblock ~38~1~17 minecraft:snow_layer 1
+setblock ~0~23~18 minecraft:wood 1
+setblock ~11~2~18 minecraft:snow_layer 0
+setblock ~12~2~18 minecraft:snow
+setblock ~12~10~18 minecraft:snow_layer 0
+fill ~14~15~18 ~14~15~19 minecraft:snow_layer 0
+setblock ~15~17~18 minecraft:snow_layer 0
+setblock ~16~17~18 minecraft:wool 5
+setblock ~17~18~18 minecraft:wool 14
+setblock ~17~29~18 minecraft:snow_layer 0
+fill ~17~33~18 ~17~33~19 minecraft:carpet 14
+fill ~20~32~18 ~20~32~22 minecraft:wool 14
+fill ~22~33~18 ~26~33~22 minecraft:wool 14
+fill ~22~35~18 ~26~35~22 minecraft:wool 7
+fill ~28~32~18 ~28~32~22 minecraft:wool 14
+setblock ~31~18~18 minecraft:wool 14
+setblock ~31~20~18 minecraft:wool 5
+setblock ~31~29~18 minecraft:snow_layer 0
+fill ~31~33~18 ~31~33~19 minecraft:carpet 14
+fill ~32~17~18 ~32~17~19 minecraft:wool 14
+setblock ~33~17~18 minecraft:snow_layer 0
+fill ~34~15~18 ~34~15~19 minecraft:snow_layer 0
+setblock ~36~2~18 minecraft:snow_layer 4
+setblock ~36~10~18 minecraft:snow_layer 0
+fill ~37~1~18 ~37~1~19 minecraft:snow
+setblock ~37~2~18 minecraft:snow_layer 1
+fill ~38~1~18 ~38~1~19 minecraft:snow_layer 0
+setblock ~12~2~19 minecraft:snow_layer 0
+setblock ~13~3~19 minecraft:snow_layer 0
+setblock ~13~13~19 minecraft:snow_layer 0
+fill ~15~16~19 ~15~16~20 minecraft:snow_layer 0
+setblock ~16~17~19 minecraft:wool 14
+fill ~17~18~19 ~17~19~19 minecraft:wool 5
+setblock ~17~28~19 minecraft:snow_layer 0
+setblock ~18~20~19 minecraft:wool 5
+fill ~18~30~19 ~18~30~23 minecraft:wool 7
+fill ~19~19~19 ~19~19~21 minecraft:wool 14
+fill ~19~31~19 ~19~31~21 minecraft:wool 7
+fill ~21~32~19 ~21~32~22 minecraft:wool 14
+fill ~27~32~19 ~27~32~22 minecraft:wool 14
+fill ~29~19~19 ~30~19~20 minecraft:wool 14
+fill ~29~31~19 ~29~31~21 minecraft:wool 7
+setblock ~30~20~19 minecraft:wool 14
+fill ~30~30~19 ~30~30~23 minecraft:wool 7
+fill ~31~18~19 ~31~19~19 minecraft:wool 5
+setblock ~31~28~19 minecraft:snow_layer 0
+fill ~33~16~19 ~33~16~20 minecraft:snow_layer 0
+setblock ~35~4~19 minecraft:snow
+setblock ~35~13~19 minecraft:snow_layer 0
+setblock ~36~2~19 minecraft:snow_layer 2
+setblock ~37~2~19 minecraft:snow_layer 0
+setblock ~12~1~20 minecraft:snow_layer 3
+setblock ~13~2~20 minecraft:snow_layer 0
+setblock ~13~12~20 minecraft:snow_layer 0
+setblock ~14~14~20 minecraft:snow_layer 0
+setblock ~16~17~20 minecraft:snow_layer 0
+setblock ~17~17~20 minecraft:wool 14
+setblock ~18~18~20 minecraft:wool 14
+setblock ~18~29~20 minecraft:snow_layer 0
+setblock ~18~33~20 minecraft:carpet 14
+setblock ~19~20~20 minecraft:wool 14
+fill ~19~30~20 ~19~30~24 minecraft:wool 7
+fill ~20~19~20 ~20~19~21 minecraft:wool 14
+fill ~20~31~20 ~20~31~22 minecraft:wool 7
+fill ~22~32~20 ~26~32~23 minecraft:wool 14
+fill ~28~19~20 ~28~19~21 minecraft:wool 14
+fill ~28~31~20 ~28~31~22 minecraft:wool 7
+setblock ~29~20~20 minecraft:wool 14
+fill ~29~30~20 ~29~30~24 minecraft:wool 7
+setblock ~30~18~20 minecraft:wool 14
+setblock ~30~29~20 minecraft:snow_layer 0
+setblock ~30~33~20 minecraft:carpet 14
+setblock ~31~17~20 minecraft:wool 5
+setblock ~32~17~20 minecraft:snow_layer 0
+fill ~34~2~20 ~34~2~21 minecraft:snow
+setblock ~34~14~20 minecraft:snow_layer 0
+setblock ~35~2~20 minecraft:snow_layer 1
+setblock ~35~12~20 minecraft:snow_layer 0
+setblock ~36~2~20 minecraft:snow_layer 0
+setblock ~12~1~21 minecraft:snow_layer 1
+setblock ~13~2~21 minecraft:snow_layer 1
+setblock ~14~13~21 minecraft:snow_layer 0
+setblock ~15~15~21 minecraft:snow_layer 0
+setblock ~16~16~21 minecraft:snow_layer 0
+setblock ~16~30~21 minecraft:wool 7
+setblock ~17~17~21 minecraft:snow_layer 0
+setblock ~18~17~21 minecraft:wool 14
+setblock ~19~18~21 minecraft:wool 14
+setblock ~19~29~21 minecraft:snow_layer 0
+setblock ~19~33~21 minecraft:carpet 14
+setblock ~20~20~21 minecraft:wool 14
+fill ~20~30~21 ~20~30~24 minecraft:wool 7
+fill ~21~19~21 ~27~19~22 minecraft:wool 14
+fill ~21~31~21 ~27~31~22 minecraft:wool 7
+setblock ~28~20~21 minecraft:wool 5
+fill ~28~30~21 ~28~30~24 minecraft:wool 7
+fill ~29~18~21 ~29~19~21 minecraft:wool 14
+setblock ~29~29~21 minecraft:snow_layer 0
+setblock ~29~33~21 minecraft:carpet 14
+setblock ~30~17~21 minecraft:wool 14
+setblock ~31~17~21 minecraft:snow_layer 0
+setblock ~32~16~21 minecraft:snow_layer 0
+setblock ~32~30~21 minecraft:wool 7
+setblock ~33~15~21 minecraft:snow_layer 0
+setblock ~34~13~21 minecraft:snow_layer 0
+setblock ~35~2~21 minecraft:snow_layer 2
+setblock ~13~2~22 minecraft:snow_layer 0
+setblock ~14~2~22 minecraft:snow_layer 4
+setblock ~14~11~22 minecraft:snow_layer 0
+setblock ~15~2~22 minecraft:snow
+setblock ~15~14~22 minecraft:snow_layer 0
+setblock ~16~15~22 minecraft:snow_layer 0
+setblock ~17~16~22 minecraft:snow_layer 0
+setblock ~18~17~22 minecraft:snow_layer 0
+setblock ~19~17~22 minecraft:wool 5
+fill ~20~18~22 ~20~19~22 minecraft:wool 5
+fill ~20~24~22 ~21~24~22 minecraft:wool 15
+fill ~20~25~22 ~21~26~22 minecraft:snow
+fill ~20~27~22 ~20~28~22 minecraft:wool 15
+setblock ~20~29~22 minecraft:snow_layer 1
+fill ~20~33~22 ~21~33~22 minecraft:carpet 14
+fill ~21~18~22 ~21~18~23 minecraft:wool 14
+setblock ~21~20~22 minecraft:wool 5
+setblock ~21~27~22 minecraft:snow
+setblock ~21~29~22 minecraft:snow_layer 4
+fill ~21~30~22 ~27~30~25 minecraft:wool 7
+fill ~22~20~22 ~24~20~22 minecraft:wool 14
+setblock ~25~20~22 minecraft:wool 5
+fill ~26~20~22 ~27~20~22 minecraft:wool 14
+setblock ~27~18~22 minecraft:wool 14
+fill ~27~24~22 ~28~24~22 minecraft:wool 15
+fill ~27~25~22 ~28~26~22 minecraft:snow
+setblock ~27~27~22 minecraft:snow
+setblock ~27~29~22 minecraft:snow_layer 4
+fill ~27~33~22 ~28~33~22 minecraft:carpet 14
+fill ~28~18~22 ~28~19~22 minecraft:wool 5
+fill ~28~27~22 ~28~28~22 minecraft:wool 15
+setblock ~28~29~22 minecraft:snow_layer 1
+setblock ~29~17~22 minecraft:wool 14
+setblock ~30~17~22 minecraft:snow_layer 0
+setblock ~31~16~22 minecraft:snow_layer 0
+setblock ~32~15~22 minecraft:snow_layer 0
+setblock ~33~2~22 minecraft:snow_layer 0
+fill ~33~3~22 ~33~4~22 minecraft:snow
+setblock ~33~14~22 minecraft:snow_layer 0
+setblock ~34~2~22 minecraft:snow_layer 4
+setblock ~34~11~22 minecraft:snow_layer 0
+setblock ~35~2~22 minecraft:snow_layer 1
+setblock ~36~1~22 minecraft:snow_layer 1
+setblock ~15~2~23 minecraft:snow_layer 1
+setblock ~15~12~23 minecraft:snow_layer 0
+setblock ~16~14~23 minecraft:snow_layer 0
+setblock ~17~15~23 minecraft:snow_layer 0
+setblock ~18~16~23 minecraft:snow_layer 0
+setblock ~19~17~23 minecraft:snow_layer 0
+fill ~20~17~23 ~21~17~23 minecraft:wool 14
+setblock ~20~18~23 minecraft:wool 14
+fill ~21~27~23 ~21~28~23 minecraft:wool 15
+setblock ~21~29~23 minecraft:snow_layer 1
+fill ~22~18~23 ~23~19~23 minecraft:wool 14
+setblock ~22~23~23 minecraft:wool 15
+fill ~22~24~23 ~26~27~23 minecraft:snow
+setblock ~22~28~23 minecraft:snow_layer 1
+fill ~22~31~23 ~26~31~24 minecraft:wool 7
+setblock ~22~33~23 minecraft:carpet 14
+fill ~23~22~23 ~25~22~23 minecraft:wool 15
+fill ~23~23~23 ~25~23~23 minecraft:snow
+setblock ~23~28~23 minecraft:snow_layer 3
+fill ~23~33~23 ~25~33~23 minecraft:wool 14
+fill ~23~35~23 ~25~36~23 minecraft:wool 7
+fill ~24~18~23 ~24~19~23 minecraft:wool 5
+setblock ~24~28~23 minecraft:snow_layer 5
+fill ~25~18~23 ~26~19~23 minecraft:wool 14
+setblock ~25~28~23 minecraft:snow_layer 3
+setblock ~26~23~23 minecraft:wool 15
+setblock ~26~28~23 minecraft:snow_layer 1
+setblock ~26~33~23 minecraft:carpet 14
+setblock ~27~17~23 minecraft:wool 5
+fill ~27~27~23 ~27~28~23 minecraft:wool 15
+setblock ~27~29~23 minecraft:snow_layer 1
+setblock ~28~17~23 minecraft:wool 14
+fill ~30~2~23 ~31~2~26 minecraft:snow
+setblock ~30~16~23 minecraft:snow_layer 0
+setblock ~31~15~23 minecraft:snow_layer 0
+setblock ~32~2~23 minecraft:snow_layer 3
+setblock ~32~14~23 minecraft:snow_layer 0
+fill ~33~2~23 ~33~2~24 minecraft:snow_layer 1
+setblock ~33~12~23 minecraft:snow_layer 0
+setblock ~34~2~23 minecraft:snow_layer 0
+setblock ~15~1~24 minecraft:snow
+setblock ~15~2~24 minecraft:snow_layer 0
+setblock ~16~2~24 minecraft:snow_layer 5
+setblock ~16~12~24 minecraft:snow_layer 0
+setblock ~17~14~24 minecraft:snow_layer 0
+setblock ~18~15~24 minecraft:snow_layer 0
+setblock ~19~15~24 minecraft:wool 14
+setblock ~19~16~24 minecraft:carpet 14
+fill ~20~15~24 ~21~15~24 minecraft:snow
+setblock ~20~16~24 minecraft:wool 5
+setblock ~20~17~24 minecraft:carpet 5
+fill ~21~17~24 ~22~17~24 minecraft:wool 14
+setblock ~22~18~24 minecraft:wool 14
+setblock ~23~17~24 minecraft:wool 5
+fill ~23~25~24 ~25~25~27 minecraft:pumpkin 2
+fill ~23~32~24 ~25~32~24 minecraft:wool 14
+fill ~23~33~24 ~25~33~24 minecraft:carpet 14
+fill ~24~17~24 ~26~17~24 minecraft:wool 14
+fill ~24~24~24 ~24~24~27 minecraft:pumpkin 2
+fill ~24~26~24 ~24~26~27 minecraft:pumpkin 2
+setblock ~27~17~24 minecraft:snow_layer 0
+fill ~28~16~24 ~29~16~24 minecraft:snow_layer 0
+setblock ~30~15~24 minecraft:snow_layer 0
+setblock ~31~14~24 minecraft:snow_layer 0
+setblock ~32~2~24 minecraft:snow_layer 2
+setblock ~32~12~24 minecraft:snow_layer 0
+setblock ~35~1~24 minecraft:snow_layer 1
+setblock ~17~2~25 minecraft:snow_layer 1
+setblock ~17~11~25 minecraft:snow_layer 0
+setblock ~18~2~25 minecraft:snow
+setblock ~18~3~25 minecraft:snow_layer 1
+setblock ~18~12~25 minecraft:wool 14
+setblock ~18~13~25 minecraft:wool 5
+setblock ~18~14~25 minecraft:carpet 5
+setblock ~19~12~25 minecraft:snow
+fill ~19~14~25 ~21~14~25 minecraft:wool 14
+setblock ~19~15~25 minecraft:carpet 14
+setblock ~20~15~25 minecraft:wool 14
+setblock ~20~16~25 minecraft:carpet 14
+fill ~21~15~25 ~21~16~25 minecraft:wool 5
+setblock ~21~17~25 minecraft:carpet 5
+fill ~22~14~25 ~28~14~25 minecraft:snow
+setblock ~22~16~25 minecraft:wool 14
+setblock ~22~17~25 minecraft:carpet 14
+fill ~25~16~25 ~26~16~25 minecraft:snow_layer 0
+fill ~27~15~25 ~28~15~25 minecraft:snow_layer 0
+setblock ~29~14~25 minecraft:snow_layer 0
+setblock ~30~3~25 minecraft:snow
+setblock ~30~13~25 minecraft:snow_layer 0
+fill ~31~3~25 ~32~3~25 minecraft:snow_layer 1
+setblock ~31~11~25 minecraft:snow_layer 0
+setblock ~32~2~25 minecraft:snow
+setblock ~33~2~25 minecraft:snow_layer 0
+setblock ~18~2~26 minecraft:snow_layer 0
+setblock ~19~2~26 minecraft:snow_layer 3
+setblock ~19~12~26 minecraft:wool 5
+fill ~19~13~26 ~20~13~26 minecraft:wool 14
+setblock ~19~14~26 minecraft:carpet 14
+setblock ~20~2~26 minecraft:snow
+fill ~20~4~26 ~22~4~26 minecraft:snow
+fill ~20~12~26 ~22~12~26 minecraft:snow
+setblock ~20~14~26 minecraft:wool 14
+setblock ~20~15~26 minecraft:carpet 14
+fill ~21~14~26 ~27~14~26 minecraft:snow_layer 0
+fill ~22~30~26 ~26~30~26 minecraft:wool 7
+fill ~23~4~26 ~25~4~26 minecraft:wool 7
+fill ~23~12~26 ~25~12~26 minecraft:wool 7
+fill ~26~4~26 ~28~4~26 minecraft:snow
+fill ~26~12~26 ~28~12~26 minecraft:snow
+setblock ~28~13~26 minecraft:snow_layer 0
+setblock ~29~12~26 minecraft:snow_layer 0
+fill ~32~2~26 ~33~2~26 minecraft:snow_layer 2
+setblock ~20~2~27 minecraft:snow_layer 0
+setblock ~21~3~27 minecraft:snow_layer 2
+setblock ~21~10~27 minecraft:snow_layer 0
+setblock ~22~2~27 minecraft:snow_layer 3
+setblock ~22~6~27 minecraft:snow
+setblock ~22~10~27 minecraft:snow
+setblock ~22~11~27 minecraft:snow_layer 0
+setblock ~23~3~27 minecraft:snow_layer 0
+fill ~23~5~27 ~25~6~27 minecraft:wool 7
+fill ~23~10~27 ~25~11~27 minecraft:wool 7
+fill ~23~12~27 ~25~12~27 minecraft:carpet 7
+setblock ~26~3~27 minecraft:snow_layer 1
+setblock ~26~6~27 minecraft:snow
+setblock ~26~10~27 minecraft:snow
+setblock ~26~11~27 minecraft:snow_layer 0
+fill ~27~2~27 ~27~2~28 minecraft:snow_layer 0
+setblock ~27~10~27 minecraft:snow_layer 0
+setblock ~28~2~27 minecraft:snow
+setblock ~29~3~27 minecraft:snow_layer 0
+setblock ~30~2~27 minecraft:snow_layer 3
+fill ~31~2~27 ~32~2~27 minecraft:snow_layer 0
+setblock ~32~1~27 minecraft:snow
+setblock ~19~1~28 minecraft:snow_layer 0
+setblock ~20~1~28 minecraft:snow_layer 1
+fill ~21~1~28 ~22~1~28 minecraft:snow
+setblock ~21~2~28 minecraft:snow_layer 0
+fill ~22~2~28 ~24~2~28 minecraft:snow_layer 1
+fill ~24~25~28 ~24~25~29 minecraft:pumpkin 2
+setblock ~25~2~28 minecraft:snow_layer 0
+setblock ~26~1~28 minecraft:snow_layer 4
+setblock ~28~2~28 minecraft:snow_layer 2
+setblock ~29~1~28 minecraft:snow
+setblock ~29~2~28 minecraft:snow_layer 0
+setblock ~31~1~28 minecraft:snow
+setblock ~32~1~28 minecraft:snow_layer 1
+setblock ~29~1~29 minecraft:snow_layer 0
+setblock ~30~1~29 minecraft:snow_layer 1

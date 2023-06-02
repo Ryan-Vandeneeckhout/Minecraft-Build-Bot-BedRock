@@ -1,0 +1,2891 @@
+fill ~28~32~3 ~41~35~3 minecraft:concrete 4
+fill ~29~30~3 ~41~31~3 minecraft:concrete 4
+fill ~29~36~3 ~41~36~3 minecraft:concrete 4
+fill ~29~37~3 ~40~37~3 minecraft:concrete 4
+fill ~30~29~3 ~40~29~3 minecraft:concrete 4
+fill ~30~38~3 ~40~38~3 minecraft:concrete 4
+fill ~31~28~3 ~39~28~3 minecraft:concrete 4
+fill ~31~39~3 ~38~39~3 minecraft:concrete 4
+fill ~32~27~3 ~38~27~3 minecraft:concrete 4
+fill ~33~40~3 ~37~40~3 minecraft:concrete 4
+fill ~25~30~4 ~28~31~4 minecraft:concrete 4
+fill ~25~32~4 ~27~37~4 minecraft:concrete 4
+fill ~26~28~4 ~30~28~4 minecraft:concrete 4
+fill ~26~29~4 ~29~29~4 minecraft:concrete 4
+fill ~26~38~4 ~29~39~4 minecraft:concrete 4
+fill ~27~26~4 ~42~26~4 minecraft:concrete 4
+fill ~27~27~4 ~31~27~4 minecraft:concrete 4
+fill ~27~40~4 ~32~40~4 minecraft:concrete 4
+fill ~28~25~4 ~41~25~4 minecraft:concrete 4
+fill ~28~36~4 ~28~37~4 minecraft:concrete 4
+fill ~28~41~4 ~42~41~4 minecraft:concrete 4
+fill ~29~42~4 ~41~42~4 minecraft:concrete 4
+fill ~30~24~4 ~40~24~4 minecraft:concrete 4
+setblock ~30~39~4 minecraft:concrete 4
+fill ~31~43~4 ~39~43~4 minecraft:concrete 4
+fill ~32~23~4 ~38~23~4 minecraft:concrete 4
+fill ~38~40~4 ~43~40~4 minecraft:concrete 4
+fill ~39~27~4 ~43~27~4 minecraft:concrete 4
+fill ~39~39~4 ~43~39~4 minecraft:concrete 4
+fill ~40~28~4 ~44~28~4 minecraft:concrete 4
+fill ~41~29~4 ~44~29~4 minecraft:concrete 4
+fill ~41~37~4 ~44~38~4 minecraft:concrete 4
+fill ~42~30~4 ~45~36~4 minecraft:concrete 4
+fill ~22~30~5 ~24~36~5 minecraft:concrete 4
+fill ~23~28~5 ~25~29~5 minecraft:concrete 4
+fill ~23~37~5 ~24~39~5 minecraft:concrete 4
+fill ~24~26~5 ~26~27~5 minecraft:concrete 4
+fill ~24~40~5 ~26~40~5 minecraft:concrete 4
+fill ~25~25~5 ~27~25~5 minecraft:concrete 4
+fill ~25~38~5 ~25~39~5 minecraft:concrete 4
+fill ~25~41~5 ~27~42~5 minecraft:concrete 4
+fill ~26~24~5 ~29~24~5 minecraft:concrete 4
+fill ~26~43~5 ~30~43~5 minecraft:concrete 4
+fill ~27~23~5 ~31~23~5 minecraft:concrete 4
+fill ~28~22~5 ~42~22~5 minecraft:concrete 4
+setblock ~28~42~5 minecraft:concrete 4
+fill ~28~44~5 ~42~44~5 minecraft:concrete 4
+fill ~29~45~5 ~41~45~5 minecraft:concrete 4
+fill ~30~21~5 ~40~21~5 minecraft:concrete 4
+fill ~31~46~5 ~38~46~5 minecraft:concrete 4
+fill ~33~20~5 ~36~20~5 minecraft:concrete 4
+fill ~39~23~5 ~43~23~5 minecraft:concrete 4
+fill ~40~43~5 ~43~43~5 minecraft:concrete 4
+fill ~41~24~5 ~44~24~5 minecraft:concrete 4
+fill ~42~25~5 ~45~25~5 minecraft:concrete 4
+fill ~42~42~5 ~44~42~5 minecraft:concrete 4
+fill ~43~26~5 ~46~26~5 minecraft:concrete 4
+fill ~43~41~5 ~45~41~5 minecraft:concrete 4
+fill ~44~27~5 ~46~27~5 minecraft:concrete 4
+fill ~44~39~5 ~46~40~5 minecraft:concrete 4
+fill ~45~28~5 ~47~29~5 minecraft:concrete 4
+fill ~45~37~5 ~47~38~5 minecraft:concrete 4
+fill ~46~30~5 ~47~36~5 minecraft:concrete 4
+fill ~48~32~5 ~48~35~5 minecraft:concrete 4
+fill ~20~30~6 ~21~37~6 minecraft:concrete 4
+fill ~21~27~6 ~23~27~6 minecraft:concrete 4
+fill ~21~28~6 ~22~29~6 minecraft:concrete 4
+fill ~21~38~6 ~22~39~6 minecraft:concrete 4
+fill ~22~25~6 ~24~25~6 minecraft:concrete 4
+fill ~22~26~6 ~23~26~6 minecraft:concrete 4
+setblock ~22~37~6 minecraft:concrete 4
+fill ~22~40~6 ~23~41~6 minecraft:concrete 4
+fill ~23~24~6 ~25~24~6 minecraft:concrete 4
+fill ~23~42~6 ~24~43~6 minecraft:concrete 4
+fill ~24~23~6 ~26~23~6 minecraft:concrete 4
+setblock ~24~41~6 minecraft:concrete 4
+fill ~24~44~6 ~27~44~6 minecraft:concrete 4
+fill ~25~22~6 ~27~22~6 minecraft:concrete 4
+setblock ~25~43~6 minecraft:concrete 4
+fill ~25~45~6 ~28~45~6 minecraft:concrete 4
+fill ~26~21~6 ~29~21~6 minecraft:concrete 4
+fill ~27~20~6 ~32~20~6 minecraft:concrete 4
+fill ~27~46~6 ~30~46~6 minecraft:concrete 4
+fill ~28~47~6 ~41~47~6 minecraft:concrete 4
+fill ~29~19~6 ~40~19~6 minecraft:concrete 4
+fill ~31~48~6 ~39~48~6 minecraft:concrete 4
+fill ~32~18~6 ~37~18~6 minecraft:concrete 4
+fill ~37~20~6 ~42~20~6 minecraft:concrete 4
+fill ~39~46~6 ~43~46~6 minecraft:concrete 4
+fill ~41~21~6 ~44~21~6 minecraft:concrete 4
+fill ~42~45~6 ~44~45~6 minecraft:concrete 4
+fill ~43~22~6 ~45~22~6 minecraft:concrete 4
+fill ~43~44~6 ~45~44~6 minecraft:concrete 4
+fill ~44~23~6 ~46~23~6 minecraft:concrete 4
+fill ~44~43~6 ~46~43~6 minecraft:concrete 4
+fill ~45~24~6 ~47~24~6 minecraft:concrete 4
+fill ~45~42~6 ~47~42~6 minecraft:concrete 4
+fill ~46~25~6 ~47~25~6 minecraft:concrete 4
+fill ~46~41~6 ~48~41~6 minecraft:concrete 4
+fill ~47~26~6 ~48~27~6 minecraft:concrete 4
+fill ~47~39~6 ~49~39~6 minecraft:concrete 4
+fill ~47~40~6 ~48~40~6 minecraft:concrete 4
+fill ~48~28~6 ~49~31~6 minecraft:concrete 4
+fill ~48~36~6 ~49~38~6 minecraft:concrete 4
+fill ~49~32~6 ~50~35~6 minecraft:concrete 4
+setblock ~50~31~6 minecraft:concrete 4
+fill ~18~30~7 ~19~36~7 minecraft:concrete 4
+fill ~19~27~7 ~20~29~7 minecraft:concrete 4
+fill ~19~37~7 ~19~39~7 minecraft:concrete 4
+fill ~20~25~7 ~21~26~7 minecraft:concrete 4
+fill ~20~38~7 ~20~41~7 minecraft:concrete 4
+fill ~21~23~7 ~23~23~7 minecraft:concrete 4
+fill ~21~24~7 ~22~24~7 minecraft:concrete 4
+fill ~21~40~7 ~21~43~7 minecraft:concrete 4
+fill ~22~22~7 ~24~22~7 minecraft:concrete 4
+fill ~22~42~7 ~22~44~7 minecraft:concrete 4
+fill ~23~21~7 ~25~21~7 minecraft:concrete 4
+fill ~23~44~7 ~23~45~7 minecraft:concrete 4
+fill ~24~20~7 ~26~20~7 minecraft:concrete 4
+fill ~24~45~7 ~24~46~7 minecraft:concrete 4
+fill ~25~46~7 ~26~47~7 minecraft:concrete 4
+fill ~26~19~7 ~28~19~7 minecraft:concrete 4
+fill ~26~48~7 ~30~48~7 minecraft:concrete 4
+fill ~27~18~7 ~31~18~7 minecraft:concrete 4
+setblock ~27~47~7 minecraft:concrete 4
+fill ~28~49~7 ~41~49~7 minecraft:concrete 4
+fill ~29~17~7 ~40~17~7 minecraft:concrete 4
+fill ~31~50~7 ~38~50~7 minecraft:concrete 4
+fill ~34~16~7 ~36~16~7 minecraft:concrete 4
+fill ~38~18~7 ~43~18~7 minecraft:concrete 4
+fill ~40~48~7 ~43~48~7 minecraft:concrete 4
+fill ~41~19~7 ~44~19~7 minecraft:concrete 4
+fill ~42~47~7 ~45~47~7 minecraft:concrete 4
+fill ~43~20~7 ~45~20~7 minecraft:concrete 4
+fill ~44~46~7 ~46~46~7 minecraft:concrete 4
+fill ~45~21~7 ~47~21~7 minecraft:concrete 4
+fill ~45~45~7 ~47~45~7 minecraft:concrete 4
+fill ~46~22~7 ~47~22~7 minecraft:concrete 4
+fill ~46~44~7 ~48~44~7 minecraft:concrete 4
+fill ~47~23~7 ~48~23~7 minecraft:concrete 4
+fill ~47~43~7 ~49~43~7 minecraft:concrete 4
+fill ~48~24~7 ~49~25~7 minecraft:concrete 4
+fill ~48~42~7 ~49~42~7 minecraft:concrete 4
+fill ~49~26~7 ~50~27~7 minecraft:concrete 4
+fill ~49~40~7 ~50~41~7 minecraft:concrete 4
+fill ~50~28~7 ~51~30~7 minecraft:concrete 4
+fill ~50~36~7 ~51~39~7 minecraft:concrete 4
+fill ~51~31~7 ~51~35~7 minecraft:concrete 4
+fill ~52~33~7 ~52~34~7 minecraft:concrete 4
+fill ~17~28~8 ~18~29~8 minecraft:concrete 4
+fill ~17~30~8 ~17~38~8 minecraft:concrete 4
+fill ~18~25~8 ~19~26~8 minecraft:concrete 4
+setblock ~18~27~8 minecraft:concrete 4
+fill ~18~37~8 ~18~41~8 minecraft:concrete 4
+fill ~19~24~8 ~20~24~8 minecraft:concrete 4
+fill ~19~40~8 ~19~43~8 minecraft:concrete 4
+fill ~20~22~8 ~21~22~8 minecraft:concrete 4
+setblock ~20~23~8 minecraft:concrete 4
+fill ~20~42~8 ~20~44~8 minecraft:concrete 4
+fill ~21~21~8 ~22~21~8 minecraft:concrete 4
+fill ~21~44~8 ~21~45~8 minecraft:concrete 4
+fill ~22~20~8 ~23~20~8 minecraft:concrete 4
+fill ~22~45~8 ~22~46~8 minecraft:concrete 4
+fill ~23~19~8 ~25~19~8 minecraft:concrete 4
+fill ~23~46~8 ~23~47~8 minecraft:concrete 4
+fill ~24~18~8 ~26~18~8 minecraft:concrete 4
+fill ~24~47~8 ~24~48~8 minecraft:concrete 4
+fill ~25~48~8 ~25~49~8 minecraft:concrete 4
+fill ~26~17~8 ~28~17~8 minecraft:concrete 4
+fill ~26~49~8 ~27~49~8 minecraft:concrete 4
+fill ~27~50~8 ~30~50~8 minecraft:concrete 4
+fill ~28~16~8 ~33~16~8 minecraft:concrete 4
+fill ~29~51~8 ~41~51~8 minecraft:concrete 4
+fill ~30~15~8 ~39~15~8 minecraft:concrete 4
+fill ~34~52~8 ~36~52~8 minecraft:concrete 4
+fill ~37~16~8 ~42~16~8 minecraft:concrete 4
+fill ~39~50~8 ~43~50~8 minecraft:concrete 4
+fill ~41~17~8 ~44~17~8 minecraft:concrete 4
+fill ~42~49~8 ~45~49~8 minecraft:concrete 4
+fill ~44~18~8 ~45~18~8 minecraft:concrete 4
+fill ~44~48~8 ~46~48~8 minecraft:concrete 4
+fill ~45~19~8 ~47~19~8 minecraft:concrete 4
+fill ~46~20~8 ~48~20~8 minecraft:concrete 4
+fill ~46~47~8 ~47~47~8 minecraft:concrete 4
+fill ~47~46~8 ~48~46~8 minecraft:concrete 4
+fill ~48~21~8 ~49~22~8 minecraft:concrete 4
+fill ~48~45~8 ~49~45~8 minecraft:concrete 4
+fill ~49~23~8 ~50~23~8 minecraft:concrete 4
+fill ~49~44~8 ~50~44~8 minecraft:concrete 4
+fill ~50~24~8 ~51~25~8 minecraft:concrete 4
+fill ~50~42~8 ~51~42~8 minecraft:concrete 4
+setblock ~50~43~8 minecraft:concrete 4
+fill ~51~26~8 ~52~27~8 minecraft:concrete 4
+fill ~51~40~8 ~52~40~8 minecraft:concrete 4
+setblock ~51~41~8 minecraft:concrete 4
+fill ~52~28~8 ~52~32~8 minecraft:concrete 4
+fill ~52~35~8 ~53~37~8 minecraft:concrete 4
+fill ~52~38~8 ~52~39~8 minecraft:concrete 4
+fill ~53~29~8 ~53~34~8 minecraft:concrete 4
+fill ~15~30~9 ~16~36~9 minecraft:concrete 4
+fill ~16~27~9 ~17~27~9 minecraft:concrete 4
+fill ~16~28~9 ~16~29~9 minecraft:concrete 4
+fill ~16~37~9 ~16~40~9 minecraft:concrete 4
+fill ~17~24~9 ~18~24~9 minecraft:concrete 4
+fill ~17~25~9 ~17~26~9 minecraft:concrete 4
+fill ~17~39~9 ~17~42~9 minecraft:concrete 4
+fill ~18~23~9 ~19~23~9 minecraft:concrete 4
+fill ~18~42~9 ~18~44~9 minecraft:concrete 4
+fill ~19~21~9 ~20~21~9 minecraft:concrete 4
+setblock ~19~22~9 minecraft:concrete 4
+fill ~19~44~9 ~19~45~9 minecraft:concrete 4
+fill ~20~20~9 ~21~20~9 minecraft:concrete 4
+fill ~20~45~9 ~20~46~9 minecraft:concrete 4
+fill ~21~19~9 ~22~19~9 minecraft:concrete 4
+fill ~21~46~9 ~21~47~9 minecraft:concrete 4
+fill ~22~18~9 ~23~18~9 minecraft:concrete 4
+fill ~22~47~9 ~22~48~9 minecraft:concrete 4
+fill ~23~17~9 ~25~17~9 minecraft:concrete 4
+fill ~23~48~9 ~23~49~9 minecraft:concrete 4
+fill ~24~49~9 ~24~50~9 minecraft:concrete 4
+fill ~25~16~9 ~27~16~9 minecraft:concrete 4
+fill ~25~50~9 ~26~50~9 minecraft:concrete 4
+fill ~26~51~9 ~28~51~9 minecraft:concrete 4
+fill ~27~15~9 ~29~15~9 minecraft:concrete 4
+fill ~28~52~9 ~33~52~9 minecraft:concrete 4
+fill ~29~14~9 ~41~14~9 minecraft:concrete 4
+fill ~31~53~9 ~39~53~9 minecraft:concrete 4
+fill ~34~13~9 ~36~13~9 minecraft:concrete 4
+fill ~37~52~9 ~42~52~9 minecraft:concrete 4
+fill ~40~15~9 ~43~15~9 minecraft:concrete 4
+fill ~42~51~9 ~44~51~9 minecraft:concrete 4
+fill ~43~16~9 ~45~16~9 minecraft:concrete 4
+fill ~44~50~9 ~46~50~9 minecraft:concrete 4
+fill ~45~17~9 ~46~17~9 minecraft:concrete 4
+fill ~46~18~9 ~48~18~9 minecraft:concrete 4
+fill ~46~49~9 ~47~49~9 minecraft:concrete 4
+fill ~47~48~9 ~48~48~9 minecraft:concrete 4
+fill ~48~19~9 ~49~19~9 minecraft:concrete 4
+fill ~48~47~9 ~49~47~9 minecraft:concrete 4
+fill ~49~20~9 ~50~20~9 minecraft:concrete 4
+fill ~49~46~9 ~50~46~9 minecraft:concrete 4
+fill ~50~21~9 ~50~22~9 minecraft:concrete 4
+fill ~50~45~9 ~51~45~9 minecraft:concrete 4
+fill ~51~22~9 ~51~23~9 minecraft:concrete 4
+fill ~51~43~9 ~52~43~9 minecraft:concrete 4
+setblock ~51~44~9 minecraft:concrete 4
+fill ~52~23~9 ~52~25~9 minecraft:concrete 4
+fill ~52~41~9 ~53~41~9 minecraft:concrete 4
+setblock ~52~42~9 minecraft:concrete 4
+fill ~53~25~9 ~53~28~9 minecraft:concrete 4
+fill ~53~38~9 ~54~39~9 minecraft:concrete 4
+setblock ~53~40~9 minecraft:concrete 4
+fill ~54~27~9 ~54~37~9 minecraft:concrete 4
+fill ~14~29~10 ~15~29~10 minecraft:concrete 4
+fill ~14~30~10 ~14~38~10 minecraft:concrete 4
+fill ~15~26~10 ~16~26~10 minecraft:concrete 4
+fill ~15~27~10 ~15~28~10 minecraft:concrete 4
+fill ~15~37~10 ~15~41~10 minecraft:concrete 4
+fill ~16~24~10 ~16~25~10 minecraft:concrete 4
+fill ~16~41~10 ~16~43~10 minecraft:concrete 4
+fill ~17~22~10 ~18~22~10 minecraft:concrete 4
+setblock ~17~23~10 minecraft:concrete 4
+fill ~17~43~10 ~17~45~10 minecraft:concrete 4
+fill ~18~20~10 ~19~20~10 minecraft:concrete 4
+setblock ~18~21~10 minecraft:concrete 4
+fill ~18~45~10 ~18~46~10 minecraft:concrete 4
+fill ~19~19~10 ~20~19~10 minecraft:concrete 4
+fill ~19~46~10 ~19~47~10 minecraft:concrete 4
+fill ~20~18~10 ~21~18~10 minecraft:concrete 4
+fill ~20~47~10 ~20~48~10 minecraft:concrete 4
+fill ~21~17~10 ~22~17~10 minecraft:concrete 4
+fill ~21~48~10 ~21~49~10 minecraft:concrete 4
+fill ~22~49~10 ~22~50~10 minecraft:concrete 4
+fill ~23~16~10 ~24~16~10 minecraft:concrete 4
+fill ~23~50~10 ~23~51~10 minecraft:concrete 4
+fill ~24~15~10 ~26~15~10 minecraft:concrete 4
+fill ~24~51~10 ~25~51~10 minecraft:concrete 4
+fill ~25~52~10 ~27~52~10 minecraft:concrete 4
+fill ~26~14~10 ~28~14~10 minecraft:concrete 4
+fill ~27~53~10 ~30~53~10 minecraft:concrete 4
+fill ~28~13~10 ~33~13~10 minecraft:concrete 4
+fill ~30~54~10 ~40~54~10 minecraft:concrete 4
+fill ~32~12~10 ~38~12~10 minecraft:concrete 4
+fill ~37~13~10 ~42~13~10 minecraft:concrete 4
+fill ~40~53~10 ~43~53~10 minecraft:concrete 4
+fill ~42~14~10 ~44~14~10 minecraft:concrete 4
+fill ~43~52~10 ~45~52~10 minecraft:concrete 4
+fill ~44~15~10 ~46~15~10 minecraft:concrete 4
+fill ~45~51~10 ~46~51~10 minecraft:concrete 4
+fill ~46~16~10 ~47~16~10 minecraft:concrete 4
+fill ~47~17~10 ~48~17~10 minecraft:concrete 4
+fill ~47~50~10 ~48~50~10 minecraft:concrete 4
+fill ~48~49~10 ~49~49~10 minecraft:concrete 4
+setblock ~49~18~10 minecraft:concrete 4
+fill ~49~48~10 ~50~48~10 minecraft:concrete 4
+setblock ~50~19~10 minecraft:concrete 4
+fill ~50~47~10 ~51~47~10 minecraft:concrete 4
+fill ~51~20~10 ~51~21~10 minecraft:concrete 4
+fill ~51~46~10 ~52~46~10 minecraft:concrete 4
+fill ~52~21~10 ~52~22~10 minecraft:concrete 4
+fill ~52~44~10 ~53~44~10 minecraft:concrete 4
+setblock ~52~45~10 minecraft:concrete 4
+fill ~53~22~10 ~53~24~10 minecraft:concrete 4
+fill ~53~42~10 ~54~42~10 minecraft:concrete 4
+setblock ~53~43~10 minecraft:concrete 4
+fill ~54~24~10 ~54~26~10 minecraft:concrete 4
+fill ~54~40~10 ~55~40~10 minecraft:concrete 4
+setblock ~54~41~10 minecraft:concrete 4
+fill ~55~26~10 ~55~39~10 minecraft:concrete 4
+fill ~56~30~10 ~56~36~10 minecraft:concrete 4
+fill ~13~28~11 ~14~28~11 minecraft:concrete 4
+fill ~13~29~11 ~13~38~11 minecraft:concrete 4
+fill ~14~25~11 ~15~25~11 minecraft:concrete 4
+fill ~14~26~11 ~14~27~11 minecraft:concrete 4
+fill ~14~39~11 ~14~41~11 minecraft:concrete 4
+fill ~15~23~11 ~16~23~11 minecraft:concrete 4
+setblock ~15~24~11 minecraft:concrete 4
+fill ~15~42~11 ~15~43~11 minecraft:concrete 4
+fill ~16~21~11 ~17~21~11 minecraft:concrete 4
+setblock ~16~22~11 minecraft:concrete 4
+fill ~16~44~11 ~16~45~11 minecraft:concrete 4
+setblock ~17~20~11 minecraft:concrete 4
+fill ~17~46~11 ~17~47~11 minecraft:concrete 4
+setblock ~18~19~11 minecraft:concrete 4
+fill ~18~47~11 ~18~48~11 minecraft:concrete 4
+setblock ~19~18~11 minecraft:concrete 4
+fill ~19~48~11 ~19~49~11 minecraft:concrete 4
+setblock ~20~17~11 minecraft:concrete 4
+fill ~20~49~11 ~20~50~11 minecraft:concrete 4
+fill ~21~16~11 ~22~16~11 minecraft:concrete 4
+fill ~21~50~11 ~21~51~11 minecraft:concrete 4
+fill ~22~15~11 ~23~15~11 minecraft:concrete 4
+setblock ~22~51~11 minecraft:concrete 4
+fill ~23~14~11 ~25~14~11 minecraft:concrete 4
+fill ~23~52~11 ~24~52~11 minecraft:concrete 4
+fill ~24~53~11 ~26~53~11 minecraft:concrete 4
+fill ~25~13~11 ~27~13~11 minecraft:concrete 4
+fill ~26~54~11 ~29~54~11 minecraft:concrete 4
+fill ~27~12~11 ~31~12~11 minecraft:concrete 4
+fill ~29~55~11 ~41~55~11 minecraft:concrete 4
+fill ~31~11~11 ~39~11~11 minecraft:concrete 4
+fill ~39~12~11 ~42~12~11 minecraft:concrete 4
+fill ~41~54~11 ~43~54~11 minecraft:concrete 4
+fill ~43~13~11 ~45~13~11 minecraft:concrete 4
+fill ~44~53~11 ~45~53~11 minecraft:concrete 4
+fill ~45~14~11 ~46~14~11 minecraft:concrete 4
+fill ~46~52~11 ~47~52~11 minecraft:concrete 4
+fill ~47~15~11 ~48~15~11 minecraft:concrete 4
+fill ~47~51~11 ~48~51~11 minecraft:concrete 4
+fill ~48~16~11 ~49~16~11 minecraft:concrete 4
+fill ~49~17~11 ~50~17~11 minecraft:concrete 4
+setblock ~49~50~11 minecraft:concrete 4
+fill ~50~18~11 ~51~18~11 minecraft:concrete 4
+fill ~50~49~11 ~51~49~11 minecraft:concrete 4
+fill ~51~19~11 ~52~19~11 minecraft:concrete 4
+setblock ~51~48~11 minecraft:concrete 4
+fill ~52~20~11 ~53~20~11 minecraft:concrete 4
+setblock ~52~47~11 minecraft:concrete 4
+setblock ~53~21~11 minecraft:concrete 4
+fill ~53~45~11 ~54~45~11 minecraft:concrete 4
+setblock ~53~46~11 minecraft:concrete 4
+fill ~54~22~11 ~54~23~11 minecraft:concrete 4
+fill ~54~43~11 ~55~43~11 minecraft:concrete 4
+setblock ~54~44~11 minecraft:concrete 4
+fill ~55~24~11 ~55~25~11 minecraft:concrete 4
+fill ~55~41~11 ~56~41~11 minecraft:concrete 4
+setblock ~55~42~11 minecraft:concrete 4
+fill ~56~26~11 ~56~29~11 minecraft:concrete 4
+fill ~56~37~11 ~57~37~11 minecraft:concrete 4
+fill ~56~38~11 ~56~40~11 minecraft:concrete 4
+fill ~57~30~11 ~57~36~11 minecraft:concrete 4
+fill ~12~28~12 ~12~39~12 minecraft:concrete 4
+fill ~13~25~12 ~13~27~12 minecraft:concrete 4
+fill ~13~39~12 ~13~42~12 minecraft:concrete 4
+fill ~14~23~12 ~14~24~12 minecraft:concrete 4
+fill ~14~42~12 ~14~44~12 minecraft:concrete 4
+fill ~15~21~12 ~15~22~12 minecraft:concrete 4
+fill ~15~44~12 ~15~46~12 minecraft:concrete 4
+fill ~16~19~12 ~17~19~12 minecraft:concrete 4
+setblock ~16~20~12 minecraft:concrete 4
+fill ~16~46~12 ~16~47~12 minecraft:concrete 4
+fill ~17~18~12 ~18~18~12 minecraft:concrete 4
+setblock ~17~48~12 minecraft:concrete 4
+fill ~18~17~12 ~19~17~12 minecraft:concrete 4
+setblock ~18~49~12 minecraft:concrete 4
+fill ~19~16~12 ~20~16~12 minecraft:concrete 4
+setblock ~19~50~12 minecraft:concrete 4
+fill ~20~15~12 ~21~15~12 minecraft:concrete 4
+setblock ~20~51~12 minecraft:concrete 4
+fill ~21~52~12 ~22~52~12 minecraft:concrete 4
+setblock ~22~14~12 minecraft:concrete 4
+fill ~22~53~12 ~23~53~12 minecraft:concrete 4
+fill ~23~13~12 ~24~13~12 minecraft:concrete 4
+fill ~24~54~12 ~25~54~12 minecraft:concrete 4
+fill ~25~12~12 ~26~12~12 minecraft:concrete 4
+fill ~26~55~12 ~28~55~12 minecraft:concrete 4
+fill ~27~11~12 ~30~11~12 minecraft:concrete 4
+fill ~29~56~12 ~41~56~12 minecraft:concrete 4
+fill ~30~10~12 ~39~10~12 minecraft:concrete 4
+fill ~40~11~12 ~43~11~12 minecraft:concrete 4
+fill ~42~55~12 ~44~55~12 minecraft:concrete 4
+fill ~43~12~12 ~45~12~12 minecraft:concrete 4
+fill ~44~54~12 ~46~54~12 minecraft:concrete 4
+fill ~46~13~12 ~47~13~12 minecraft:concrete 4
+fill ~46~53~12 ~47~53~12 minecraft:concrete 4
+fill ~47~14~12 ~48~14~12 minecraft:concrete 4
+fill ~48~52~12 ~49~52~12 minecraft:concrete 4
+setblock ~49~15~12 minecraft:concrete 4
+fill ~49~51~12 ~50~51~12 minecraft:concrete 4
+fill ~50~16~12 ~51~16~12 minecraft:concrete 4
+fill ~50~50~12 ~51~50~12 minecraft:concrete 4
+fill ~51~17~12 ~52~17~12 minecraft:concrete 4
+setblock ~52~18~12 minecraft:concrete 4
+fill ~52~48~12 ~53~48~12 minecraft:concrete 4
+setblock ~52~49~12 minecraft:concrete 4
+setblock ~53~19~12 minecraft:concrete 4
+fill ~53~47~12 ~54~47~12 minecraft:concrete 4
+fill ~54~20~12 ~54~21~12 minecraft:concrete 4
+setblock ~54~46~12 minecraft:concrete 4
+fill ~55~21~12 ~55~23~12 minecraft:concrete 4
+fill ~55~44~12 ~55~45~12 minecraft:concrete 4
+fill ~56~23~12 ~56~25~12 minecraft:concrete 4
+fill ~56~42~12 ~56~43~12 minecraft:concrete 4
+fill ~57~26~12 ~57~29~12 minecraft:concrete 4
+fill ~57~38~12 ~57~41~12 minecraft:concrete 4
+fill ~58~29~12 ~58~37~12 minecraft:concrete 4
+fill ~11~28~13 ~11~39~13 minecraft:concrete 4
+fill ~12~25~13 ~12~27~13 minecraft:concrete 4
+fill ~12~40~13 ~12~42~13 minecraft:concrete 4
+fill ~13~22~13 ~14~22~13 minecraft:concrete 4
+fill ~13~23~13 ~13~24~13 minecraft:concrete 4
+fill ~13~43~13 ~13~44~13 minecraft:concrete 4
+setblock ~14~21~13 minecraft:concrete 4
+fill ~14~45~13 ~14~46~13 minecraft:concrete 4
+fill ~15~19~13 ~15~20~13 minecraft:concrete 4
+setblock ~15~47~13 minecraft:concrete 4
+setblock ~16~18~13 minecraft:concrete 4
+fill ~16~48~13 ~16~49~13 minecraft:concrete 4
+setblock ~17~17~13 minecraft:concrete 4
+fill ~17~49~13 ~17~50~13 minecraft:concrete 4
+setblock ~18~16~13 minecraft:concrete 4
+fill ~18~50~13 ~18~51~13 minecraft:concrete 4
+setblock ~19~15~13 minecraft:concrete 4
+fill ~19~51~13 ~19~52~13 minecraft:concrete 4
+fill ~20~14~13 ~21~14~13 minecraft:concrete 4
+setblock ~20~52~13 minecraft:concrete 4
+fill ~21~13~13 ~22~13~13 minecraft:concrete 4
+setblock ~21~53~13 minecraft:concrete 4
+fill ~22~54~13 ~23~54~13 minecraft:concrete 4
+fill ~23~12~13 ~24~12~13 minecraft:concrete 4
+fill ~24~55~13 ~25~55~13 minecraft:concrete 4
+fill ~25~11~13 ~26~11~13 minecraft:concrete 4
+fill ~26~56~13 ~28~56~13 minecraft:concrete 4
+fill ~27~10~13 ~30~10~13 minecraft:concrete 4
+fill ~29~57~13 ~41~57~13 minecraft:concrete 4
+fill ~31~9~13 ~39~9~13 minecraft:concrete 4
+fill ~40~10~13 ~43~10~13 minecraft:concrete 4
+fill ~42~56~13 ~44~56~13 minecraft:concrete 4
+fill ~44~11~13 ~45~11~13 minecraft:concrete 4
+fill ~45~55~13 ~46~55~13 minecraft:concrete 4
+fill ~46~12~13 ~47~12~13 minecraft:concrete 4
+fill ~47~54~13 ~48~54~13 minecraft:concrete 4
+setblock ~48~13~13 minecraft:concrete 4
+fill ~48~53~13 ~49~53~13 minecraft:concrete 4
+fill ~49~14~13 ~50~14~13 minecraft:concrete 4
+fill ~50~15~13 ~51~15~13 minecraft:concrete 4
+setblock ~50~52~13 minecraft:concrete 4
+setblock ~51~51~13 minecraft:concrete 4
+setblock ~52~16~13 minecraft:concrete 4
+setblock ~52~50~13 minecraft:concrete 4
+fill ~53~17~13 ~53~18~13 minecraft:concrete 4
+setblock ~53~49~13 minecraft:concrete 4
+fill ~54~18~13 ~54~19~13 minecraft:concrete 4
+setblock ~54~48~13 minecraft:concrete 4
+setblock ~55~20~13 minecraft:concrete 4
+fill ~55~46~13 ~55~47~13 minecraft:concrete 4
+fill ~56~21~13 ~56~22~13 minecraft:concrete 4
+fill ~56~44~13 ~56~45~13 minecraft:concrete 4
+fill ~57~23~13 ~57~25~13 minecraft:concrete 4
+fill ~57~42~13 ~57~43~13 minecraft:concrete 4
+fill ~58~26~13 ~58~28~13 minecraft:concrete 4
+fill ~58~38~13 ~58~41~13 minecraft:concrete 4
+fill ~59~29~13 ~59~29~14 minecraft:concrete 4
+fill ~59~30~13 ~59~37~13 minecraft:concrete 4
+fill ~10~28~14 ~10~28~15 minecraft:concrete 4
+fill ~10~29~14 ~10~38~14 minecraft:concrete 4
+fill ~11~25~14 ~11~27~14 minecraft:concrete 4
+fill ~11~39~14 ~11~42~14 minecraft:concrete 4
+fill ~12~23~14 ~12~24~14 minecraft:concrete 4
+fill ~12~43~14 ~12~44~14 minecraft:concrete 4
+fill ~13~21~14 ~13~22~14 minecraft:concrete 4
+fill ~13~45~14 ~13~46~14 minecraft:concrete 4
+fill ~14~19~14 ~14~20~14 minecraft:concrete 4
+setblock ~14~47~14 minecraft:concrete 4
+setblock ~15~18~14 minecraft:concrete 4
+fill ~15~48~14 ~15~49~14 minecraft:concrete 4
+setblock ~16~17~14 minecraft:concrete 4
+setblock ~16~50~14 minecraft:concrete 4
+fill ~17~15~14 ~18~15~14 minecraft:concrete 4
+setblock ~17~16~14 minecraft:concrete 4
+setblock ~17~51~14 minecraft:concrete 4
+setblock ~18~52~14 minecraft:concrete 4
+setblock ~19~14~14 minecraft:concrete 4
+fill ~19~53~14 ~20~53~14 minecraft:concrete 4
+setblock ~20~13~14 minecraft:concrete 4
+fill ~21~12~14 ~22~12~14 minecraft:concrete 4
+setblock ~21~54~14 minecraft:concrete 4
+fill ~22~55~14 ~23~55~14 minecraft:concrete 4
+fill ~23~11~14 ~24~11~14 minecraft:concrete 4
+fill ~24~56~14 ~25~56~14 minecraft:concrete 4
+fill ~25~10~14 ~26~10~14 minecraft:concrete 4
+fill ~26~57~14 ~28~57~14 minecraft:concrete 4
+fill ~27~9~14 ~30~9~14 minecraft:concrete 4
+fill ~29~58~14 ~41~58~14 minecraft:concrete 4
+fill ~31~8~14 ~39~8~14 minecraft:concrete 4
+fill ~40~9~14 ~43~9~14 minecraft:concrete 4
+fill ~42~57~14 ~44~57~14 minecraft:concrete 4
+fill ~44~10~14 ~45~10~14 minecraft:concrete 4
+fill ~45~56~14 ~46~56~14 minecraft:concrete 4
+fill ~46~11~14 ~47~11~14 minecraft:concrete 4
+fill ~47~55~14 ~48~55~14 minecraft:concrete 4
+fill ~48~12~14 ~49~12~14 minecraft:concrete 4
+fill ~49~13~14 ~50~13~14 minecraft:concrete 4
+setblock ~49~54~14 minecraft:concrete 4
+setblock ~50~53~14 minecraft:concrete 4
+setblock ~51~14~14 minecraft:concrete 4
+fill ~51~52~14 ~52~52~14 minecraft:concrete 4
+setblock ~52~15~14 minecraft:concrete 4
+fill ~52~51~14 ~53~51~14 minecraft:concrete 4
+setblock ~53~16~14 minecraft:concrete 4
+fill ~53~50~14 ~54~50~14 minecraft:concrete 4
+setblock ~54~17~14 minecraft:concrete 4
+setblock ~54~49~14 minecraft:concrete 4
+fill ~55~18~14 ~55~19~14 minecraft:concrete 4
+setblock ~55~48~14 minecraft:concrete 4
+setblock ~56~20~14 minecraft:concrete 4
+fill ~56~46~14 ~56~47~14 minecraft:concrete 4
+fill ~57~21~14 ~57~22~14 minecraft:concrete 4
+fill ~57~44~14 ~57~45~14 minecraft:concrete 4
+fill ~58~23~14 ~58~25~14 minecraft:concrete 4
+fill ~58~42~14 ~58~43~14 minecraft:concrete 4
+fill ~59~26~14 ~59~28~14 minecraft:concrete 4
+fill ~59~37~14 ~59~41~14 minecraft:concrete 4
+fill ~60~30~14 ~60~31~15 minecraft:concrete 4
+fill ~60~32~14 ~60~36~14 minecraft:concrete 4
+fill ~9~29~15 ~9~30~16 minecraft:concrete 4
+fill ~9~31~15 ~9~37~15 minecraft:concrete 4
+fill ~10~25~15 ~10~25~16 minecraft:concrete 4
+fill ~10~26~15 ~10~27~15 minecraft:concrete 4
+fill ~10~38~15 ~10~41~15 minecraft:concrete 4
+fill ~11~23~15 ~11~24~15 minecraft:concrete 4
+fill ~11~42~15 ~11~44~15 minecraft:concrete 4
+fill ~12~21~15 ~12~22~15 minecraft:concrete 4
+fill ~12~45~15 ~12~46~15 minecraft:concrete 4
+fill ~13~19~15 ~13~20~15 minecraft:concrete 4
+setblock ~13~47~15 minecraft:concrete 4
+setblock ~14~18~15 minecraft:concrete 4
+fill ~14~48~15 ~14~49~15 minecraft:concrete 4
+fill ~15~16~15 ~16~16~15 minecraft:concrete 4
+setblock ~15~17~15 minecraft:concrete 4
+setblock ~15~50~15 minecraft:concrete 4
+setblock ~16~15~15 minecraft:concrete 4
+setblock ~16~51~15 minecraft:concrete 4
+fill ~17~14~15 ~18~14~15 minecraft:concrete 4
+setblock ~17~52~15 minecraft:concrete 4
+fill ~18~13~15 ~19~13~15 minecraft:concrete 4
+setblock ~18~53~15 minecraft:concrete 4
+fill ~19~54~15 ~20~54~15 minecraft:concrete 4
+setblock ~20~12~15 minecraft:concrete 4
+fill ~21~11~15 ~22~11~15 minecraft:concrete 4
+setblock ~21~55~15 minecraft:concrete 4
+fill ~22~56~15 ~23~56~15 minecraft:concrete 4
+fill ~23~10~15 ~24~10~15 minecraft:concrete 4
+fill ~24~57~15 ~25~57~15 minecraft:concrete 4
+fill ~25~9~15 ~27~9~15 minecraft:concrete 4
+fill ~26~58~15 ~29~58~15 minecraft:concrete 4
+fill ~28~8~15 ~31~8~15 minecraft:concrete 4
+fill ~30~59~15 ~40~59~15 minecraft:concrete 4
+fill ~32~7~15 ~38~7~16 minecraft:concrete 4
+fill ~39~8~15 ~42~8~15 minecraft:concrete 4
+fill ~41~58~15 ~43~58~15 minecraft:concrete 4
+fill ~43~9~15 ~45~9~15 minecraft:concrete 4
+fill ~44~57~15 ~46~57~15 minecraft:concrete 4
+fill ~46~10~15 ~47~10~15 minecraft:concrete 4
+fill ~47~56~15 ~48~56~15 minecraft:concrete 4
+fill ~48~11~15 ~49~11~15 minecraft:concrete 4
+setblock ~49~55~15 minecraft:concrete 4
+setblock ~50~12~15 minecraft:concrete 4
+fill ~50~54~15 ~51~54~15 minecraft:concrete 4
+setblock ~51~13~15 minecraft:concrete 4
+fill ~51~53~15 ~52~53~15 minecraft:concrete 4
+setblock ~52~14~15 minecraft:concrete 4
+setblock ~53~15~15 minecraft:concrete 4
+setblock ~53~52~15 minecraft:concrete 4
+setblock ~54~16~15 minecraft:concrete 4
+setblock ~54~51~15 minecraft:concrete 4
+setblock ~55~17~15 minecraft:concrete 4
+fill ~55~49~15 ~55~50~15 minecraft:concrete 4
+fill ~56~18~15 ~56~19~15 minecraft:concrete 4
+setblock ~56~48~15 minecraft:concrete 4
+setblock ~57~20~15 minecraft:concrete 4
+fill ~57~46~15 ~57~47~15 minecraft:concrete 4
+fill ~58~21~15 ~58~21~16 minecraft:concrete 4
+setblock ~58~22~15 minecraft:concrete 4
+fill ~58~44~15 ~58~45~15 minecraft:concrete 4
+fill ~59~23~15 ~59~23~16 minecraft:concrete 4
+fill ~59~24~15 ~59~25~15 minecraft:concrete 4
+fill ~59~41~15 ~59~43~15 minecraft:concrete 4
+fill ~60~26~15 ~60~26~16 minecraft:concrete 4
+fill ~60~27~15 ~60~29~15 minecraft:concrete 4
+fill ~60~36~15 ~60~40~15 minecraft:concrete 4
+fill ~61~32~15 ~61~35~16 minecraft:concrete 4
+fill ~8~31~16 ~8~35~17 minecraft:concrete 4
+fill ~9~26~16 ~9~26~17 minecraft:concrete 4
+fill ~9~27~16 ~9~28~16 minecraft:concrete 4
+fill ~9~36~16 ~9~41~16 minecraft:concrete 4
+fill ~10~23~16 ~10~23~17 minecraft:concrete 4
+setblock ~10~24~16 minecraft:concrete 4
+fill ~10~42~16 ~10~43~16 minecraft:concrete 4
+fill ~11~21~16 ~11~22~16 minecraft:concrete 4
+fill ~11~44~16 ~11~45~16 minecraft:concrete 4
+fill ~12~19~16 ~12~19~17 minecraft:concrete 4
+setblock ~12~20~16 minecraft:concrete 4
+fill ~12~46~16 ~12~47~16 minecraft:concrete 4
+setblock ~13~18~16 minecraft:concrete 4
+fill ~13~48~16 ~13~49~16 minecraft:concrete 4
+fill ~14~16~16 ~14~16~17 minecraft:concrete 4
+setblock ~14~17~16 minecraft:concrete 4
+setblock ~14~50~16 minecraft:concrete 4
+setblock ~15~15~16 minecraft:concrete 4
+setblock ~15~51~16 minecraft:concrete 4
+setblock ~16~14~16 minecraft:concrete 4
+setblock ~16~52~16 minecraft:concrete 4
+setblock ~17~13~16 minecraft:concrete 4
+setblock ~17~53~16 minecraft:concrete 4
+fill ~18~12~16 ~19~12~16 minecraft:concrete 4
+setblock ~18~54~16 minecraft:concrete 4
+fill ~19~55~16 ~20~55~16 minecraft:concrete 4
+setblock ~20~11~16 minecraft:concrete 4
+fill ~21~10~16 ~22~10~16 minecraft:concrete 4
+setblock ~21~56~16 minecraft:concrete 4
+fill ~22~57~16 ~23~57~16 minecraft:concrete 4
+fill ~23~9~16 ~24~9~16 minecraft:concrete 4
+fill ~24~58~16 ~26~58~16 minecraft:concrete 4
+fill ~25~8~16 ~27~8~16 minecraft:concrete 4
+fill ~27~59~16 ~30~59~16 minecraft:concrete 4
+fill ~28~7~16 ~31~7~16 minecraft:concrete 4
+fill ~31~60~16 ~39~60~16 minecraft:concrete 4
+fill ~39~7~16 ~41~7~16 minecraft:concrete 4
+fill ~40~59~16 ~43~59~16 minecraft:concrete 4
+fill ~42~8~16 ~44~8~16 minecraft:concrete 4
+fill ~44~58~16 ~45~58~16 minecraft:concrete 4
+fill ~45~9~16 ~47~9~16 minecraft:concrete 4
+fill ~46~57~16 ~47~57~16 minecraft:concrete 4
+setblock ~48~10~16 minecraft:concrete 4
+fill ~48~56~16 ~49~56~16 minecraft:concrete 4
+fill ~49~11~16 ~50~11~16 minecraft:concrete 4
+setblock ~50~55~16 minecraft:concrete 4
+setblock ~51~12~16 minecraft:concrete 4
+fill ~51~54~16 ~52~54~16 minecraft:concrete 4
+setblock ~52~13~16 minecraft:concrete 4
+setblock ~53~14~16 minecraft:concrete 4
+setblock ~53~53~16 minecraft:concrete 4
+setblock ~54~15~16 minecraft:concrete 4
+setblock ~54~52~16 minecraft:concrete 4
+setblock ~55~16~16 minecraft:concrete 4
+setblock ~55~51~16 minecraft:concrete 4
+setblock ~56~17~16 minecraft:concrete 4
+fill ~56~49~16 ~56~50~16 minecraft:concrete 4
+fill ~57~18~16 ~57~19~16 minecraft:concrete 4
+setblock ~57~48~16 minecraft:concrete 4
+setblock ~58~20~16 minecraft:concrete 4
+fill ~58~46~16 ~58~47~16 minecraft:concrete 4
+setblock ~59~22~16 minecraft:concrete 4
+fill ~59~44~16 ~59~45~16 minecraft:concrete 4
+fill ~60~24~16 ~60~24~17 minecraft:concrete 4
+setblock ~60~25~16 minecraft:concrete 4
+fill ~60~40~16 ~60~43~16 minecraft:concrete 4
+fill ~61~27~16 ~61~27~17 minecraft:concrete 4
+fill ~61~28~16 ~61~31~16 minecraft:concrete 4
+fill ~61~36~16 ~61~39~16 minecraft:concrete 4
+fill ~8~27~17 ~8~27~18 minecraft:concrete 4
+fill ~8~28~17 ~8~30~17 minecraft:concrete 4
+fill ~8~36~17 ~8~40~17 minecraft:concrete 4
+fill ~9~24~17 ~9~24~18 minecraft:concrete 4
+setblock ~9~25~17 minecraft:concrete 4
+fill ~9~41~17 ~9~43~17 minecraft:concrete 4
+fill ~10~21~17 ~10~21~18 minecraft:concrete 4
+setblock ~10~22~17 minecraft:concrete 4
+fill ~10~44~17 ~10~45~17 minecraft:concrete 4
+setblock ~11~20~17 minecraft:concrete 4
+fill ~11~46~17 ~11~47~17 minecraft:concrete 4
+setblock ~12~18~17 minecraft:concrete 4
+setblock ~12~48~17 minecraft:concrete 4
+setblock ~13~17~17 minecraft:concrete 4
+fill ~13~49~17 ~13~50~17 minecraft:concrete 4
+fill ~14~15~17 ~14~15~18 minecraft:concrete 4
+setblock ~14~51~17 minecraft:concrete 4
+setblock ~15~14~17 minecraft:concrete 4
+setblock ~15~52~17 minecraft:concrete 4
+setblock ~16~13~17 minecraft:concrete 4
+setblock ~16~53~17 minecraft:concrete 4
+fill ~17~12~17 ~18~12~17 minecraft:concrete 4
+setblock ~17~54~17 minecraft:concrete 4
+setblock ~18~55~17 minecraft:concrete 4
+setblock ~19~11~17 minecraft:concrete 4
+fill ~19~56~17 ~20~56~17 minecraft:concrete 4
+fill ~20~10~17 ~21~10~17 minecraft:concrete 4
+fill ~21~57~17 ~22~57~17 minecraft:concrete 4
+fill ~22~9~17 ~23~9~17 minecraft:concrete 4
+fill ~23~58~17 ~24~58~17 minecraft:concrete 4
+fill ~24~8~17 ~25~8~17 minecraft:concrete 4
+fill ~25~59~17 ~27~59~17 minecraft:concrete 4
+fill ~26~7~17 ~28~7~17 minecraft:concrete 4
+fill ~28~60~17 ~32~60~17 minecraft:concrete 4
+fill ~29~6~17 ~40~6~17 minecraft:concrete 4
+fill ~33~61~17 ~36~61~18 minecraft:concrete 4
+fill ~37~60~17 ~42~60~17 minecraft:concrete 4
+fill ~41~7~17 ~44~7~17 minecraft:concrete 4
+fill ~43~59~17 ~45~59~17 minecraft:concrete 4
+fill ~45~8~17 ~46~8~17 minecraft:concrete 4
+fill ~46~58~17 ~47~58~17 minecraft:concrete 4
+fill ~47~9~17 ~48~9~17 minecraft:concrete 4
+fill ~48~57~17 ~49~57~17 minecraft:concrete 4
+fill ~49~10~17 ~50~10~17 minecraft:concrete 4
+setblock ~50~56~17 minecraft:concrete 4
+setblock ~51~11~17 minecraft:concrete 4
+fill ~51~55~17 ~52~55~17 minecraft:concrete 4
+setblock ~52~12~17 minecraft:concrete 4
+setblock ~53~13~17 minecraft:concrete 4
+setblock ~53~54~17 minecraft:concrete 4
+setblock ~54~14~17 minecraft:concrete 4
+setblock ~54~53~17 minecraft:concrete 4
+setblock ~55~15~17 minecraft:concrete 4
+setblock ~55~52~17 minecraft:concrete 4
+setblock ~56~16~17 minecraft:concrete 4
+fill ~56~50~17 ~56~51~17 minecraft:concrete 4
+setblock ~57~17~17 minecraft:concrete 4
+setblock ~57~49~17 minecraft:concrete 4
+fill ~58~18~17 ~58~18~18 minecraft:concrete 4
+setblock ~58~19~17 minecraft:concrete 4
+fill ~58~47~17 ~58~48~17 minecraft:concrete 4
+fill ~59~20~17 ~59~20~18 minecraft:concrete 4
+setblock ~59~21~17 minecraft:concrete 4
+fill ~59~45~17 ~59~46~17 minecraft:concrete 4
+fill ~60~22~17 ~60~22~18 minecraft:concrete 4
+setblock ~60~23~17 minecraft:concrete 4
+fill ~60~43~17 ~60~44~17 minecraft:concrete 4
+fill ~61~25~17 ~61~25~18 minecraft:concrete 4
+setblock ~61~26~17 minecraft:concrete 4
+fill ~61~39~17 ~61~42~17 minecraft:concrete 4
+fill ~62~28~17 ~62~29~18 minecraft:concrete 4
+fill ~62~30~17 ~62~38~17 minecraft:concrete 4
+fill ~7~28~18 ~7~31~19 minecraft:concrete 4
+fill ~7~32~18 ~7~38~18 minecraft:concrete 4
+fill ~8~25~18 ~8~25~19 minecraft:concrete 4
+setblock ~8~26~18 minecraft:concrete 4
+fill ~8~39~18 ~8~42~18 minecraft:concrete 4
+fill ~9~22~18 ~9~22~19 minecraft:concrete 4
+setblock ~9~23~18 minecraft:concrete 4
+fill ~9~43~18 ~9~44~18 minecraft:concrete 4
+fill ~10~20~18 ~10~20~19 minecraft:concrete 4
+fill ~10~45~18 ~10~46~18 minecraft:concrete 4
+fill ~11~18~18 ~11~18~19 minecraft:concrete 4
+setblock ~11~19~18 minecraft:concrete 4
+fill ~11~47~18 ~11~48~18 minecraft:concrete 4
+setblock ~12~17~18 minecraft:concrete 4
+fill ~12~49~18 ~12~50~18 minecraft:concrete 4
+setblock ~13~16~18 minecraft:concrete 4
+setblock ~13~51~18 minecraft:concrete 4
+fill ~14~14~18 ~14~14~19 minecraft:concrete 4
+setblock ~14~52~18 minecraft:concrete 4
+fill ~15~13~18 ~15~13~19 minecraft:concrete 4
+setblock ~15~53~18 minecraft:concrete 4
+fill ~16~12~18 ~17~12~18 minecraft:concrete 4
+setblock ~16~54~18 minecraft:concrete 4
+setblock ~17~55~18 minecraft:concrete 4
+setblock ~18~11~18 minecraft:concrete 4
+fill ~18~56~18 ~19~56~18 minecraft:concrete 4
+setblock ~19~10~18 minecraft:concrete 4
+fill ~20~9~18 ~21~9~18 minecraft:concrete 4
+setblock ~20~57~18 minecraft:concrete 4
+fill ~21~58~18 ~22~58~18 minecraft:concrete 4
+fill ~22~8~18 ~23~8~18 minecraft:concrete 4
+fill ~23~59~18 ~25~59~18 minecraft:concrete 4
+fill ~24~7~18 ~26~7~18 minecraft:concrete 4
+fill ~26~60~18 ~28~60~18 minecraft:concrete 4
+fill ~27~6~18 ~30~6~18 minecraft:concrete 4
+fill ~29~61~18 ~32~61~18 minecraft:concrete 4
+fill ~31~5~18 ~38~5~19 minecraft:concrete 4
+fill ~37~61~18 ~41~61~18 minecraft:concrete 4
+fill ~39~6~18 ~43~6~18 minecraft:concrete 4
+fill ~42~60~18 ~44~60~18 minecraft:concrete 4
+fill ~44~7~18 ~46~7~18 minecraft:concrete 4
+fill ~45~59~18 ~46~59~18 minecraft:concrete 4
+fill ~47~8~18 ~48~8~18 minecraft:concrete 4
+fill ~47~58~18 ~48~58~18 minecraft:concrete 4
+setblock ~49~9~18 minecraft:concrete 4
+fill ~49~57~18 ~50~57~18 minecraft:concrete 4
+fill ~50~10~18 ~51~10~18 minecraft:concrete 4
+setblock ~51~56~18 minecraft:concrete 4
+setblock ~52~11~18 minecraft:concrete 4
+fill ~52~55~18 ~53~55~18 minecraft:concrete 4
+setblock ~53~12~18 minecraft:concrete 4
+setblock ~54~13~18 minecraft:concrete 4
+setblock ~54~54~18 minecraft:concrete 4
+setblock ~55~14~18 minecraft:concrete 4
+setblock ~55~53~18 minecraft:concrete 4
+setblock ~56~15~18 minecraft:concrete 4
+fill ~56~52~18 ~56~52~19 minecraft:concrete 4
+setblock ~57~16~18 minecraft:concrete 4
+fill ~57~50~18 ~57~51~18 minecraft:concrete 4
+fill ~58~17~18 ~58~17~19 minecraft:concrete 4
+setblock ~58~49~18 minecraft:concrete 4
+setblock ~59~19~18 minecraft:concrete 4
+fill ~59~47~18 ~59~48~18 minecraft:concrete 4
+setblock ~60~21~18 minecraft:concrete 4
+fill ~60~45~18 ~60~46~18 minecraft:concrete 4
+fill ~61~23~18 ~61~23~19 minecraft:concrete 4
+setblock ~61~24~18 minecraft:concrete 4
+fill ~61~42~18 ~61~44~18 minecraft:concrete 4
+fill ~62~26~18 ~62~26~19 minecraft:concrete 4
+setblock ~62~27~18 minecraft:concrete 4
+fill ~62~37~18 ~62~41~18 minecraft:concrete 4
+fill ~63~30~18 ~63~36~19 minecraft:concrete 4
+fill ~6~32~19 ~6~35~20 minecraft:concrete 4
+fill ~7~26~19 ~7~27~20 minecraft:concrete 4
+fill ~7~36~19 ~7~41~19 minecraft:concrete 4
+fill ~8~23~19 ~8~23~20 minecraft:concrete 4
+setblock ~8~24~19 minecraft:concrete 4
+fill ~8~42~19 ~8~44~19 minecraft:concrete 4
+setblock ~9~21~19 minecraft:concrete 4
+fill ~9~45~19 ~9~46~19 minecraft:concrete 4
+setblock ~10~19~19 minecraft:concrete 4
+fill ~10~47~19 ~10~48~19 minecraft:concrete 4
+fill ~11~17~19 ~11~17~20 minecraft:concrete 4
+setblock ~11~49~19 minecraft:concrete 4
+setblock ~12~16~19 minecraft:concrete 4
+fill ~12~50~19 ~12~51~19 minecraft:concrete 4
+setblock ~13~15~19 minecraft:concrete 4
+fill ~13~52~19 ~13~52~20 minecraft:concrete 4
+setblock ~14~53~19 minecraft:concrete 4
+setblock ~15~54~19 minecraft:concrete 4
+setblock ~16~12~19 minecraft:concrete 4
+setblock ~16~55~19 minecraft:concrete 4
+setblock ~17~11~19 minecraft:concrete 4
+fill ~17~56~19 ~18~56~19 minecraft:concrete 4
+setblock ~18~10~19 minecraft:concrete 4
+fill ~19~9~19 ~20~9~19 minecraft:concrete 4
+setblock ~19~57~19 minecraft:concrete 4
+fill ~20~58~19 ~21~58~19 minecraft:concrete 4
+fill ~21~8~19 ~22~8~19 minecraft:concrete 4
+fill ~22~59~19 ~23~59~19 minecraft:concrete 4
+fill ~23~7~19 ~24~7~19 minecraft:concrete 4
+fill ~24~60~19 ~26~60~19 minecraft:concrete 4
+fill ~25~6~19 ~27~6~19 minecraft:concrete 4
+fill ~27~61~19 ~30~61~19 minecraft:concrete 4
+fill ~28~5~19 ~30~5~19 minecraft:concrete 4
+fill ~31~62~19 ~39~62~20 minecraft:concrete 4
+fill ~39~5~19 ~42~5~19 minecraft:concrete 4
+fill ~40~61~19 ~43~61~19 minecraft:concrete 4
+fill ~43~6~19 ~45~6~19 minecraft:concrete 4
+fill ~44~60~19 ~46~60~19 minecraft:concrete 4
+fill ~46~7~19 ~47~7~19 minecraft:concrete 4
+fill ~47~59~19 ~48~59~19 minecraft:concrete 4
+fill ~48~8~19 ~49~8~19 minecraft:concrete 4
+fill ~49~58~19 ~50~58~19 minecraft:concrete 4
+setblock ~50~9~19 minecraft:concrete 4
+fill ~51~10~19 ~52~10~19 minecraft:concrete 4
+setblock ~51~57~19 minecraft:concrete 4
+setblock ~52~56~19 minecraft:concrete 4
+setblock ~53~11~19 minecraft:concrete 4
+fill ~53~55~19 ~54~55~19 minecraft:concrete 4
+setblock ~54~12~19 minecraft:concrete 4
+setblock ~55~13~19 minecraft:concrete 4
+fill ~55~54~19 ~55~54~20 minecraft:concrete 4
+setblock ~56~14~19 minecraft:concrete 4
+fill ~56~53~19 ~56~53~20 minecraft:concrete 4
+setblock ~57~15~19 minecraft:concrete 4
+setblock ~57~51~19 minecraft:concrete 4
+fill ~58~16~19 ~58~16~20 minecraft:concrete 4
+setblock ~58~50~19 minecraft:concrete 4
+setblock ~59~18~19 minecraft:concrete 4
+fill ~59~48~19 ~59~49~19 minecraft:concrete 4
+fill ~60~19~19 ~60~19~20 minecraft:concrete 4
+setblock ~60~20~19 minecraft:concrete 4
+fill ~60~46~19 ~60~47~19 minecraft:concrete 4
+fill ~61~21~19 ~61~21~20 minecraft:concrete 4
+setblock ~61~22~19 minecraft:concrete 4
+fill ~61~44~19 ~61~45~19 minecraft:concrete 4
+fill ~62~24~19 ~62~24~20 minecraft:concrete 4
+setblock ~62~25~19 minecraft:concrete 4
+fill ~62~40~19 ~62~43~19 minecraft:concrete 4
+fill ~63~27~19 ~63~28~20 minecraft:concrete 4
+setblock ~63~29~19 minecraft:concrete 4
+fill ~63~37~19 ~63~39~19 minecraft:concrete 4
+fill ~6~28~20 ~6~30~21 minecraft:concrete 4
+setblock ~6~31~20 minecraft:concrete 4
+fill ~6~36~20 ~6~39~20 minecraft:concrete 4
+fill ~7~24~20 ~7~24~21 minecraft:concrete 4
+setblock ~7~25~20 minecraft:concrete 4
+fill ~7~40~20 ~7~42~20 minecraft:concrete 4
+fill ~8~21~20 ~8~22~21 minecraft:concrete 4
+fill ~8~43~20 ~8~45~20 minecraft:concrete 4
+fill ~9~19~20 ~9~19~21 minecraft:concrete 4
+setblock ~9~20~20 minecraft:concrete 4
+fill ~9~46~20 ~9~47~20 minecraft:concrete 4
+setblock ~10~18~20 minecraft:concrete 4
+fill ~10~48~20 ~10~49~20 minecraft:concrete 4
+fill ~11~16~20 ~11~16~21 minecraft:concrete 4
+setblock ~11~50~20 minecraft:concrete 4
+setblock ~12~15~20 minecraft:concrete 4
+setblock ~12~51~20 minecraft:concrete 4
+setblock ~13~14~20 minecraft:concrete 4
+fill ~13~53~20 ~13~53~21 minecraft:concrete 4
+setblock ~14~13~20 minecraft:concrete 4
+fill ~14~54~20 ~14~54~21 minecraft:concrete 4
+setblock ~15~12~20 minecraft:concrete 4
+fill ~15~55~20 ~15~55~21 minecraft:concrete 4
+setblock ~16~11~20 minecraft:concrete 4
+fill ~16~56~20 ~17~56~20 minecraft:concrete 4
+setblock ~17~10~20 minecraft:concrete 4
+fill ~18~9~20 ~19~9~20 minecraft:concrete 4
+setblock ~18~57~20 minecraft:concrete 4
+fill ~19~58~20 ~20~58~20 minecraft:concrete 4
+fill ~20~8~20 ~21~8~20 minecraft:concrete 4
+fill ~21~59~20 ~22~59~20 minecraft:concrete 4
+fill ~22~7~20 ~23~7~20 minecraft:concrete 4
+fill ~23~60~20 ~24~60~20 minecraft:concrete 4
+fill ~24~6~20 ~25~6~20 minecraft:concrete 4
+fill ~25~61~20 ~27~61~20 minecraft:concrete 4
+fill ~26~5~20 ~29~5~20 minecraft:concrete 4
+fill ~28~62~20 ~30~62~21 minecraft:concrete 4
+fill ~30~4~20 ~40~4~21 minecraft:concrete 4
+fill ~40~62~20 ~42~62~21 minecraft:concrete 4
+fill ~41~5~20 ~43~5~20 minecraft:concrete 4
+fill ~43~61~20 ~45~61~20 minecraft:concrete 4
+fill ~44~6~20 ~46~6~20 minecraft:concrete 4
+fill ~46~60~20 ~47~60~20 minecraft:concrete 4
+fill ~47~7~20 ~48~7~20 minecraft:concrete 4
+fill ~48~59~20 ~49~59~20 minecraft:concrete 4
+fill ~49~8~20 ~50~8~20 minecraft:concrete 4
+fill ~50~58~20 ~51~58~20 minecraft:concrete 4
+setblock ~51~9~20 minecraft:concrete 4
+fill ~52~10~20 ~53~10~20 minecraft:concrete 4
+fill ~52~57~20 ~52~57~21 minecraft:concrete 4
+setblock ~53~56~20 minecraft:concrete 4
+setblock ~54~11~20 minecraft:concrete 4
+setblock ~54~55~20 minecraft:concrete 4
+setblock ~55~12~20 minecraft:concrete 4
+setblock ~56~13~20 minecraft:concrete 4
+fill ~57~14~20 ~57~14~21 minecraft:concrete 4
+setblock ~57~52~20 minecraft:concrete 4
+fill ~58~15~20 ~58~15~21 minecraft:concrete 4
+setblock ~58~51~20 minecraft:concrete 4
+setblock ~59~17~20 minecraft:concrete 4
+fill ~59~49~20 ~59~50~20 minecraft:concrete 4
+fill ~60~18~20 ~60~18~21 minecraft:concrete 4
+fill ~60~47~20 ~60~48~20 minecraft:concrete 4
+fill ~61~20~20 ~61~20~21 minecraft:concrete 4
+fill ~61~45~20 ~61~46~20 minecraft:concrete 4
+fill ~62~22~20 ~62~22~21 minecraft:concrete 4
+setblock ~62~23~20 minecraft:concrete 4
+fill ~62~43~20 ~62~44~20 minecraft:concrete 4
+fill ~63~25~20 ~63~26~21 minecraft:concrete 4
+fill ~63~38~20 ~63~42~20 minecraft:concrete 4
+fill ~64~29~20 ~64~37~21 minecraft:concrete 4
+fill ~5~31~21 ~5~31~23 minecraft:concrete 4
+fill ~5~32~21 ~5~36~22 minecraft:concrete 4
+fill ~6~25~21 ~6~25~23 minecraft:concrete 4
+fill ~6~26~21 ~6~27~22 minecraft:concrete 4
+fill ~6~37~21 ~6~41~21 minecraft:concrete 4
+fill ~7~23~21 ~7~23~22 minecraft:concrete 4
+fill ~7~42~21 ~7~44~21 minecraft:concrete 4
+fill ~8~20~21 ~8~20~22 minecraft:concrete 4
+fill ~8~45~21 ~8~46~21 minecraft:concrete 4
+fill ~9~18~21 ~9~18~22 minecraft:concrete 4
+fill ~9~47~21 ~9~48~21 minecraft:concrete 4
+fill ~10~17~21 ~10~17~22 minecraft:concrete 4
+fill ~10~49~21 ~10~50~21 minecraft:concrete 4
+fill ~11~15~21 ~11~15~22 minecraft:concrete 4
+fill ~11~51~21 ~11~51~22 minecraft:concrete 4
+fill ~12~14~21 ~12~14~22 minecraft:concrete 4
+setblock ~12~52~21 minecraft:concrete 4
+setblock ~13~13~21 minecraft:concrete 4
+setblock ~14~12~21 minecraft:concrete 4
+setblock ~15~11~21 minecraft:concrete 4
+fill ~16~10~21 ~16~10~22 minecraft:concrete 4
+setblock ~16~56~21 minecraft:concrete 4
+fill ~17~9~21 ~18~9~21 minecraft:concrete 4
+setblock ~17~57~21 minecraft:concrete 4
+fill ~18~58~21 ~19~58~21 minecraft:concrete 4
+fill ~19~8~21 ~19~8~22 minecraft:concrete 4
+fill ~20~7~21 ~21~7~21 minecraft:concrete 4
+fill ~20~59~21 ~21~59~21 minecraft:concrete 4
+fill ~22~6~21 ~24~6~21 minecraft:concrete 4
+fill ~22~60~21 ~23~60~21 minecraft:concrete 4
+fill ~24~61~21 ~25~61~21 minecraft:concrete 4
+fill ~25~5~21 ~27~5~21 minecraft:concrete 4
+fill ~26~62~21 ~27~62~22 minecraft:concrete 4
+fill ~28~4~21 ~29~4~22 minecraft:concrete 4
+fill ~31~63~21 ~39~63~22 minecraft:concrete 4
+fill ~41~4~21 ~42~4~22 minecraft:concrete 4
+fill ~43~5~21 ~45~5~21 minecraft:concrete 4
+fill ~43~62~21 ~43~62~22 minecraft:concrete 4
+fill ~44~61~21 ~46~61~21 minecraft:concrete 4
+fill ~46~6~21 ~47~6~21 minecraft:concrete 4
+fill ~47~60~21 ~48~60~21 minecraft:concrete 4
+fill ~48~7~21 ~49~7~21 minecraft:concrete 4
+fill ~49~59~21 ~50~59~21 minecraft:concrete 4
+fill ~50~8~21 ~51~8~21 minecraft:concrete 4
+setblock ~51~58~21 minecraft:concrete 4
+setblock ~52~9~21 minecraft:concrete 4
+fill ~53~10~21 ~54~10~21 minecraft:concrete 4
+fill ~53~57~21 ~53~57~22 minecraft:concrete 4
+setblock ~54~56~21 minecraft:concrete 4
+fill ~55~11~21 ~55~11~22 minecraft:concrete 4
+setblock ~55~55~21 minecraft:concrete 4
+fill ~56~12~21 ~56~12~22 minecraft:concrete 4
+setblock ~56~54~21 minecraft:concrete 4
+fill ~57~13~21 ~57~13~22 minecraft:concrete 4
+setblock ~57~53~21 minecraft:concrete 4
+fill ~58~52~21 ~58~52~22 minecraft:concrete 4
+setblock ~59~16~21 minecraft:concrete 4
+fill ~59~50~21 ~59~51~21 minecraft:concrete 4
+fill ~60~17~21 ~60~17~22 minecraft:concrete 4
+fill ~60~48~21 ~60~49~21 minecraft:concrete 4
+fill ~61~19~21 ~61~19~22 minecraft:concrete 4
+setblock ~61~47~21 minecraft:concrete 4
+fill ~62~21~21 ~62~21~22 minecraft:concrete 4
+fill ~62~44~21 ~62~46~21 minecraft:concrete 4
+fill ~63~23~21 ~63~24~22 minecraft:concrete 4
+fill ~63~41~21 ~63~43~21 minecraft:concrete 4
+fill ~64~27~21 ~64~28~22 minecraft:concrete 4
+fill ~64~38~21 ~64~40~22 minecraft:concrete 4
+fill ~5~28~22 ~5~28~24 minecraft:concrete 4
+fill ~5~29~22 ~5~30~23 minecraft:concrete 4
+fill ~5~37~22 ~5~39~23 minecraft:concrete 4
+fill ~6~24~22 ~6~24~23 minecraft:concrete 4
+fill ~6~40~22 ~6~43~22 minecraft:concrete 4
+fill ~7~21~22 ~7~21~24 minecraft:concrete 4
+fill ~7~22~22 ~7~22~23 minecraft:concrete 4
+fill ~7~44~22 ~7~45~22 minecraft:concrete 4
+fill ~8~19~22 ~8~19~23 minecraft:concrete 4
+fill ~8~46~22 ~8~47~22 minecraft:concrete 4
+fill ~9~48~22 ~9~49~22 minecraft:concrete 4
+fill ~10~16~22 ~10~16~23 minecraft:concrete 4
+setblock ~10~50~22 minecraft:concrete 4
+fill ~11~52~22 ~11~52~23 minecraft:concrete 4
+fill ~12~13~22 ~12~13~23 minecraft:concrete 4
+fill ~12~53~22 ~12~53~23 minecraft:concrete 4
+fill ~13~12~22 ~13~12~23 minecraft:concrete 4
+setblock ~13~54~22 minecraft:concrete 4
+fill ~14~11~22 ~14~11~23 minecraft:concrete 4
+setblock ~14~55~22 minecraft:concrete 4
+fill ~15~10~22 ~15~10~23 minecraft:concrete 4
+setblock ~15~56~22 minecraft:concrete 4
+fill ~16~57~22 ~16~57~23 minecraft:concrete 4
+setblock ~17~9~22 minecraft:concrete 4
+fill ~17~58~22 ~18~58~22 minecraft:concrete 4
+fill ~18~8~22 ~18~8~23 minecraft:concrete 4
+fill ~19~59~22 ~20~59~22 minecraft:concrete 4
+setblock ~20~7~22 minecraft:concrete 4
+fill ~21~6~22 ~22~6~22 minecraft:concrete 4
+fill ~21~60~22 ~21~60~23 minecraft:concrete 4
+fill ~22~61~22 ~24~61~22 minecraft:concrete 4
+fill ~23~5~22 ~25~5~22 minecraft:concrete 4
+fill ~25~62~22 ~25~62~23 minecraft:concrete 4
+fill ~26~4~22 ~27~4~23 minecraft:concrete 4
+fill ~28~63~22 ~30~63~23 minecraft:concrete 4
+fill ~30~3~22 ~39~3~23 minecraft:concrete 4
+setblock ~40~4~22 minecraft:concrete 4
+fill ~40~63~22 ~42~63~23 minecraft:concrete 4
+fill ~43~4~22 ~44~4~23 minecraft:concrete 4
+fill ~44~62~22 ~45~62~23 minecraft:concrete 4
+fill ~45~5~22 ~46~5~22 minecraft:concrete 4
+fill ~46~61~22 ~47~61~22 minecraft:concrete 4
+fill ~47~6~22 ~48~6~22 minecraft:concrete 4
+fill ~48~60~22 ~49~60~22 minecraft:concrete 4
+fill ~49~7~22 ~50~7~22 minecraft:concrete 4
+fill ~50~59~22 ~51~59~22 minecraft:concrete 4
+fill ~51~8~22 ~52~8~22 minecraft:concrete 4
+setblock ~52~58~22 minecraft:concrete 4
+fill ~53~9~22 ~53~9~23 minecraft:concrete 4
+setblock ~54~10~22 minecraft:concrete 4
+fill ~54~57~22 ~54~57~23 minecraft:concrete 4
+fill ~55~56~22 ~55~56~23 minecraft:concrete 4
+fill ~56~55~22 ~56~55~23 minecraft:concrete 4
+fill ~57~54~22 ~57~54~23 minecraft:concrete 4
+setblock ~58~14~22 minecraft:concrete 4
+fill ~58~53~22 ~58~53~23 minecraft:concrete 4
+fill ~59~15~22 ~59~15~23 minecraft:concrete 4
+setblock ~59~51~22 minecraft:concrete 4
+fill ~60~16~22 ~60~16~23 minecraft:concrete 4
+fill ~60~49~22 ~60~50~22 minecraft:concrete 4
+fill ~61~18~22 ~61~18~23 minecraft:concrete 4
+setblock ~61~48~22 minecraft:concrete 4
+fill ~62~20~22 ~62~20~23 minecraft:concrete 4
+fill ~62~45~22 ~62~47~22 minecraft:concrete 4
+fill ~63~22~22 ~63~22~23 minecraft:concrete 4
+fill ~63~43~22 ~63~44~22 minecraft:concrete 4
+fill ~64~25~22 ~64~26~23 minecraft:concrete 4
+fill ~64~41~22 ~64~42~23 minecraft:concrete 4
+fill ~65~29~22 ~65~30~24 minecraft:concrete 4
+fill ~65~31~22 ~65~37~23 minecraft:concrete 4
+fill ~4~32~23 ~4~34~25 minecraft:concrete 4
+fill ~5~26~23 ~5~26~25 minecraft:concrete 4
+fill ~5~27~23 ~5~27~24 minecraft:concrete 4
+fill ~5~35~23 ~5~36~23 minecraft:concrete 4
+fill ~5~40~23 ~5~41~24 minecraft:concrete 4
+fill ~6~23~23 ~6~23~24 minecraft:concrete 4
+fill ~6~42~23 ~6~44~23 minecraft:concrete 4
+fill ~7~20~23 ~7~20~25 minecraft:concrete 4
+fill ~7~45~23 ~7~46~23 minecraft:concrete 4
+fill ~8~18~23 ~8~18~25 minecraft:concrete 4
+fill ~8~47~23 ~8~48~23 minecraft:concrete 4
+fill ~9~17~23 ~9~17~24 minecraft:concrete 4
+fill ~9~49~23 ~9~50~23 minecraft:concrete 4
+fill ~10~15~23 ~10~15~24 minecraft:concrete 4
+fill ~10~51~23 ~10~51~24 minecraft:concrete 4
+fill ~11~14~23 ~11~14~24 minecraft:concrete 4
+fill ~12~54~23 ~12~54~24 minecraft:concrete 4
+fill ~13~55~23 ~13~55~24 minecraft:concrete 4
+fill ~14~56~23 ~14~56~24 minecraft:concrete 4
+fill ~15~57~23 ~15~57~25 minecraft:concrete 4
+fill ~16~9~23 ~16~9~24 minecraft:concrete 4
+fill ~17~8~23 ~17~8~24 minecraft:concrete 4
+setblock ~17~58~23 minecraft:concrete 4
+fill ~18~59~23 ~19~59~23 minecraft:concrete 4
+fill ~19~7~23 ~19~7~24 minecraft:concrete 4
+fill ~20~6~23 ~21~6~23 minecraft:concrete 4
+fill ~20~60~23 ~20~60~24 minecraft:concrete 4
+fill ~22~5~23 ~24~5~23 minecraft:concrete 4
+fill ~22~61~23 ~23~61~23 minecraft:concrete 4
+fill ~24~62~23 ~24~62~24 minecraft:concrete 4
+fill ~25~4~23 ~25~4~24 minecraft:concrete 4
+setblock ~26~62~23 minecraft:concrete 4
+fill ~27~63~23 ~27~63~24 minecraft:concrete 4
+fill ~28~3~23 ~29~3~24 minecraft:concrete 4
+fill ~31~64~23 ~39~64~24 minecraft:concrete 4
+fill ~40~3~23 ~42~3~24 minecraft:concrete 4
+fill ~43~63~23 ~43~63~25 minecraft:concrete 4
+fill ~45~4~23 ~45~4~25 minecraft:concrete 4
+fill ~46~5~23 ~47~5~23 minecraft:concrete 4
+fill ~46~62~23 ~46~62~25 minecraft:concrete 4
+fill ~47~61~23 ~48~61~23 minecraft:concrete 4
+fill ~48~6~23 ~49~6~23 minecraft:concrete 4
+fill ~49~60~23 ~50~60~23 minecraft:concrete 4
+fill ~50~7~23 ~51~7~23 minecraft:concrete 4
+fill ~51~59~23 ~52~59~23 minecraft:concrete 4
+setblock ~52~8~23 minecraft:concrete 4
+fill ~53~58~23 ~53~58~24 minecraft:concrete 4
+fill ~54~9~23 ~54~9~24 minecraft:concrete 4
+fill ~55~10~23 ~55~10~24 minecraft:concrete 4
+fill ~56~11~23 ~56~11~24 minecraft:concrete 4
+fill ~57~12~23 ~57~12~24 minecraft:concrete 4
+fill ~58~13~23 ~58~13~24 minecraft:concrete 4
+fill ~59~14~23 ~59~14~24 minecraft:concrete 4
+fill ~59~52~23 ~59~52~24 minecraft:concrete 4
+fill ~60~50~23 ~60~51~23 minecraft:concrete 4
+fill ~61~17~23 ~61~17~24 minecraft:concrete 4
+fill ~61~49~23 ~61~49~24 minecraft:concrete 4
+fill ~62~19~23 ~62~19~24 minecraft:concrete 4
+fill ~62~47~23 ~62~48~24 minecraft:concrete 4
+fill ~63~21~23 ~63~21~24 minecraft:concrete 4
+fill ~63~44~23 ~63~46~23 minecraft:concrete 4
+fill ~64~23~23 ~64~23~25 minecraft:concrete 4
+fill ~64~24~23 ~64~24~24 minecraft:concrete 4
+setblock ~64~40~23 minecraft:concrete 4
+fill ~64~43~23 ~64~43~25 minecraft:concrete 4
+fill ~65~27~23 ~65~27~25 minecraft:concrete 4
+fill ~65~28~23 ~65~28~24 minecraft:concrete 4
+fill ~65~38~23 ~65~39~24 minecraft:concrete 4
+fill ~4~29~24 ~4~30~26 minecraft:concrete 4
+fill ~4~31~24 ~4~31~25 minecraft:concrete 4
+fill ~4~35~24 ~4~38~25 minecraft:concrete 4
+fill ~5~24~24 ~5~24~26 minecraft:concrete 4
+fill ~5~25~24 ~5~25~25 minecraft:concrete 4
+setblock ~5~39~24 minecraft:concrete 4
+fill ~5~42~24 ~5~42~26 minecraft:concrete 4
+fill ~6~22~24 ~6~22~25 minecraft:concrete 4
+fill ~6~43~24 ~6~45~24 minecraft:concrete 4
+fill ~7~19~24 ~7~19~26 minecraft:concrete 4
+fill ~7~46~24 ~7~47~24 minecraft:concrete 4
+fill ~8~48~24 ~8~49~24 minecraft:concrete 4
+fill ~9~16~24 ~9~16~25 minecraft:concrete 4
+setblock ~9~50~24 minecraft:concrete 4
+fill ~10~52~24 ~10~52~25 minecraft:concrete 4
+fill ~11~13~24 ~11~13~26 minecraft:concrete 4
+fill ~11~53~24 ~11~53~25 minecraft:concrete 4
+fill ~12~12~24 ~12~12~25 minecraft:concrete 4
+fill ~13~11~24 ~13~11~25 minecraft:concrete 4
+fill ~14~10~24 ~14~10~25 minecraft:concrete 4
+fill ~15~9~24 ~15~9~26 minecraft:concrete 4
+fill ~16~58~24 ~16~58~25 minecraft:concrete 4
+fill ~17~59~24 ~18~59~24 minecraft:concrete 4
+fill ~18~7~24 ~18~7~25 minecraft:concrete 4
+fill ~19~60~24 ~19~60~25 minecraft:concrete 4
+fill ~20~6~24 ~20~6~25 minecraft:concrete 4
+fill ~21~5~24 ~23~5~24 minecraft:concrete 4
+fill ~21~61~24 ~22~61~24 minecraft:concrete 4
+fill ~23~62~24 ~23~62~25 minecraft:concrete 4
+fill ~24~4~24 ~24~4~25 minecraft:concrete 4
+fill ~25~63~24 ~26~63~25 minecraft:concrete 4
+setblock ~26~4~24 minecraft:concrete 4
+fill ~27~3~24 ~27~3~26 minecraft:concrete 4
+setblock ~28~63~24 minecraft:concrete 4
+fill ~29~64~24 ~30~64~26 minecraft:concrete 4
+setblock ~30~3~24 minecraft:concrete 4
+fill ~31~2~24 ~38~2~26 minecraft:concrete 4
+setblock ~39~3~24 minecraft:concrete 4
+fill ~40~64~24 ~41~64~26 minecraft:concrete 4
+setblock ~42~63~24 minecraft:concrete 4
+fill ~43~3~24 ~43~3~26 minecraft:concrete 4
+setblock ~44~4~24 minecraft:concrete 4
+fill ~44~63~24 ~44~63~25 minecraft:concrete 4
+setblock ~45~62~24 minecraft:concrete 4
+fill ~46~4~24 ~46~4~26 minecraft:concrete 4
+fill ~47~5~24 ~48~5~24 minecraft:concrete 4
+fill ~47~62~24 ~47~62~26 minecraft:concrete 4
+fill ~48~61~24 ~49~61~24 minecraft:concrete 4
+fill ~49~6~24 ~50~6~24 minecraft:concrete 4
+fill ~50~60~24 ~51~60~24 minecraft:concrete 4
+fill ~51~7~24 ~52~7~24 minecraft:concrete 4
+fill ~52~59~24 ~52~59~25 minecraft:concrete 4
+fill ~53~8~24 ~53~8~25 minecraft:concrete 4
+fill ~54~58~24 ~54~58~26 minecraft:concrete 4
+fill ~55~57~24 ~55~57~25 minecraft:concrete 4
+fill ~56~56~24 ~56~56~25 minecraft:concrete 4
+fill ~57~11~24 ~57~11~26 minecraft:concrete 4
+fill ~57~55~24 ~57~55~25 minecraft:concrete 4
+fill ~58~54~24 ~58~54~25 minecraft:concrete 4
+fill ~59~53~24 ~59~53~25 minecraft:concrete 4
+fill ~60~15~24 ~60~15~25 minecraft:concrete 4
+setblock ~60~51~24 minecraft:concrete 4
+fill ~61~16~24 ~61~16~26 minecraft:concrete 4
+fill ~61~50~24 ~61~50~25 minecraft:concrete 4
+fill ~62~18~24 ~62~18~26 minecraft:concrete 4
+fill ~63~20~24 ~63~20~26 minecraft:concrete 4
+fill ~63~45~24 ~63~46~24 minecraft:concrete 4
+fill ~64~22~24 ~64~22~26 minecraft:concrete 4
+setblock ~64~42~24 minecraft:concrete 4
+fill ~64~44~24 ~64~44~26 minecraft:concrete 4
+fill ~65~25~24 ~65~26~26 minecraft:concrete 4
+setblock ~65~37~24 minecraft:concrete 4
+fill ~65~40~24 ~65~41~25 minecraft:concrete 4
+fill ~66~31~24 ~66~36~26 minecraft:concrete 4
+fill ~4~27~25 ~4~28~27 minecraft:concrete 4
+fill ~4~39~25 ~4~40~27 minecraft:concrete 4
+fill ~5~23~25 ~5~23~27 minecraft:concrete 4
+setblock ~5~41~25 minecraft:concrete 4
+fill ~5~43~25 ~5~43~27 minecraft:concrete 4
+fill ~6~21~25 ~6~21~26 minecraft:concrete 4
+fill ~6~44~25 ~6~46~25 minecraft:concrete 4
+fill ~7~47~25 ~7~48~25 minecraft:concrete 4
+fill ~8~17~25 ~8~17~26 minecraft:concrete 4
+fill ~8~49~25 ~8~50~26 minecraft:concrete 4
+fill ~9~15~25 ~9~15~27 minecraft:concrete 4
+fill ~9~51~25 ~9~51~26 minecraft:concrete 4
+fill ~10~14~25 ~10~14~26 minecraft:concrete 4
+fill ~11~54~25 ~11~54~27 minecraft:concrete 4
+fill ~12~55~25 ~12~55~26 minecraft:concrete 4
+fill ~13~56~25 ~13~56~26 minecraft:concrete 4
+fill ~14~57~25 ~14~57~27 minecraft:concrete 4
+fill ~16~8~25 ~16~8~26 minecraft:concrete 4
+fill ~17~7~25 ~17~7~27 minecraft:concrete 4
+fill ~17~59~25 ~17~59~26 minecraft:concrete 4
+fill ~18~60~25 ~18~60~27 minecraft:concrete 4
+fill ~19~6~25 ~19~6~26 minecraft:concrete 4
+fill ~20~61~25 ~21~61~25 minecraft:concrete 4
+fill ~21~5~25 ~22~5~25 minecraft:concrete 4
+fill ~22~62~25 ~22~62~27 minecraft:concrete 4
+fill ~23~4~25 ~23~4~27 minecraft:concrete 4
+fill ~24~63~25 ~24~63~27 minecraft:concrete 4
+fill ~25~3~25 ~26~3~27 minecraft:concrete 4
+fill ~27~64~25 ~28~64~27 minecraft:concrete 4
+setblock ~28~3~25 minecraft:concrete 4
+fill ~29~2~25 ~30~2~27 minecraft:concrete 4
+fill ~31~64~25 ~33~64~25 minecraft:concrete 4
+fill ~34~65~25 ~36~65~28 minecraft:concrete 4
+fill ~37~64~25 ~39~64~25 minecraft:concrete 4
+fill ~39~2~25 ~41~2~27 minecraft:concrete 4
+setblock ~42~3~25 minecraft:concrete 4
+fill ~42~64~25 ~42~64~27 minecraft:concrete 4
+fill ~44~3~25 ~44~3~27 minecraft:concrete 4
+fill ~45~63~25 ~45~63~27 minecraft:concrete 4
+fill ~47~4~25 ~47~4~27 minecraft:concrete 4
+fill ~48~5~25 ~49~5~25 minecraft:concrete 4
+fill ~48~62~25 ~48~62~27 minecraft:concrete 4
+fill ~49~61~25 ~50~61~25 minecraft:concrete 4
+fill ~50~6~25 ~51~6~25 minecraft:concrete 4
+fill ~51~60~25 ~51~60~26 minecraft:concrete 4
+fill ~52~7~25 ~52~7~26 minecraft:concrete 4
+fill ~53~59~25 ~53~59~26 minecraft:concrete 4
+fill ~54~8~25 ~54~8~27 minecraft:concrete 4
+fill ~55~9~25 ~55~9~26 minecraft:concrete 4
+fill ~56~10~25 ~56~10~26 minecraft:concrete 4
+fill ~58~12~25 ~58~12~26 minecraft:concrete 4
+fill ~59~13~25 ~59~13~26 minecraft:concrete 4
+fill ~60~14~25 ~60~14~27 minecraft:concrete 4
+fill ~60~52~25 ~60~52~26 minecraft:concrete 4
+fill ~61~51~25 ~61~51~27 minecraft:concrete 4
+fill ~62~17~25 ~62~17~27 minecraft:concrete 4
+fill ~62~48~25 ~62~49~25 minecraft:concrete 4
+fill ~63~19~25 ~63~19~27 minecraft:concrete 4
+fill ~63~46~25 ~63~47~25 minecraft:concrete 4
+fill ~64~21~25 ~64~21~28 minecraft:concrete 4
+fill ~64~45~25 ~64~45~27 minecraft:concrete 4
+fill ~65~24~25 ~65~24~27 minecraft:concrete 4
+setblock ~65~39~25 minecraft:concrete 4
+fill ~65~42~25 ~65~42~27 minecraft:concrete 4
+fill ~66~28~25 ~66~28~28 minecraft:concrete 4
+fill ~66~29~25 ~66~30~27 minecraft:concrete 4
+fill ~66~37~25 ~66~38~27 minecraft:concrete 4
+fill ~3~31~26 ~3~31~30 minecraft:concrete 4
+fill ~3~32~26 ~3~35~29 minecraft:concrete 4
+fill ~4~25~26 ~4~25~29 minecraft:concrete 4
+fill ~4~26~26 ~4~26~28 minecraft:concrete 4
+fill ~4~36~26 ~4~38~26 minecraft:concrete 4
+fill ~4~41~26 ~4~41~29 minecraft:concrete 4
+fill ~5~22~26 ~5~22~29 minecraft:concrete 4
+fill ~5~44~26 ~5~44~28 minecraft:concrete 4
+fill ~6~20~26 ~6~20~28 minecraft:concrete 4
+fill ~6~45~26 ~6~47~26 minecraft:concrete 4
+fill ~7~18~26 ~7~18~28 minecraft:concrete 4
+fill ~7~48~26 ~7~48~27 minecraft:concrete 4
+fill ~8~16~26 ~8~16~28 minecraft:concrete 4
+fill ~9~52~26 ~9~52~29 minecraft:concrete 4
+fill ~10~53~26 ~10~53~28 minecraft:concrete 4
+fill ~11~12~26 ~11~12~28 minecraft:concrete 4
+fill ~12~11~26 ~12~11~28 minecraft:concrete 4
+fill ~13~10~26 ~13~10~28 minecraft:concrete 4
+fill ~14~9~26 ~14~9~28 minecraft:concrete 4
+fill ~15~58~26 ~15~58~27 minecraft:concrete 4
+fill ~16~59~26 ~16~59~28 minecraft:concrete 4
+fill ~18~6~26 ~18~6~29 minecraft:concrete 4
+fill ~19~61~26 ~20~61~27 minecraft:concrete 4
+fill ~20~5~26 ~21~5~26 minecraft:concrete 4
+fill ~21~62~26 ~21~62~28 minecraft:concrete 4
+fill ~22~4~26 ~22~4~28 minecraft:concrete 4
+fill ~23~63~26 ~23~63~29 minecraft:concrete 4
+fill ~24~3~26 ~24~3~29 minecraft:concrete 4
+setblock ~25~63~26 minecraft:concrete 4
+fill ~26~64~26 ~26~64~29 minecraft:concrete 4
+fill ~28~2~26 ~28~2~29 minecraft:concrete 4
+fill ~31~65~26 ~33~65~28 minecraft:concrete 4
+fill ~37~65~26 ~39~65~28 minecraft:concrete 4
+fill ~42~2~26 ~42~2~29 minecraft:concrete 4
+fill ~43~64~26 ~44~64~28 minecraft:concrete 4
+fill ~45~3~26 ~45~3~28 minecraft:concrete 4
+fill ~46~63~26 ~46~63~28 minecraft:concrete 4
+fill ~48~4~26 ~48~4~29 minecraft:concrete 4
+fill ~49~5~26 ~50~5~27 minecraft:concrete 4
+fill ~49~62~26 ~49~62~29 minecraft:concrete 4
+fill ~50~61~26 ~50~61~27 minecraft:concrete 4
+fill ~51~6~26 ~51~6~27 minecraft:concrete 4
+fill ~52~60~26 ~52~60~28 minecraft:concrete 4
+fill ~53~7~26 ~53~7~28 minecraft:concrete 4
+fill ~55~58~26 ~55~58~28 minecraft:concrete 4
+fill ~56~57~26 ~56~57~27 minecraft:concrete 4
+fill ~57~56~26 ~57~56~27 minecraft:concrete 4
+fill ~58~55~26 ~58~55~27 minecraft:concrete 4
+fill ~59~54~26 ~59~54~28 minecraft:concrete 4
+fill ~60~53~26 ~60~53~29 minecraft:concrete 4
+fill ~61~15~26 ~61~15~28 minecraft:concrete 4
+fill ~62~49~26 ~62~50~26 minecraft:concrete 4
+fill ~63~47~26 ~63~48~26 minecraft:concrete 4
+fill ~64~46~26 ~64~46~29 minecraft:concrete 4
+fill ~65~23~26 ~65~23~29 minecraft:concrete 4
+setblock ~65~41~26 minecraft:concrete 4
+fill ~65~43~26 ~65~43~28 minecraft:concrete 4
+fill ~66~27~26 ~66~27~29 minecraft:concrete 4
+fill ~66~39~26 ~66~40~28 minecraft:concrete 4
+fill ~3~29~27 ~3~29~31 minecraft:concrete 4
+fill ~3~30~27 ~3~30~30 minecraft:concrete 4
+fill ~3~36~27 ~3~38~30 minecraft:concrete 4
+fill ~4~24~27 ~4~24~31 minecraft:concrete 4
+fill ~4~42~27 ~4~42~30 minecraft:concrete 4
+fill ~5~21~27 ~5~21~31 minecraft:concrete 4
+fill ~5~45~27 ~5~45~30 minecraft:concrete 4
+fill ~6~19~27 ~6~19~30 minecraft:concrete 4
+fill ~6~46~27 ~6~47~27 minecraft:concrete 4
+fill ~7~17~27 ~7~17~31 minecraft:concrete 4
+fill ~7~49~27 ~7~49~29 minecraft:concrete 4
+fill ~8~50~27 ~8~51~27 minecraft:concrete 4
+fill ~9~14~27 ~9~14~30 minecraft:concrete 4
+fill ~10~13~27 ~10~13~29 minecraft:concrete 4
+fill ~11~55~27 ~11~55~30 minecraft:concrete 4
+fill ~12~56~27 ~12~56~30 minecraft:concrete 4
+fill ~13~57~27 ~13~57~30 minecraft:concrete 4
+fill ~15~8~27 ~15~8~29 minecraft:concrete 4
+fill ~16~7~27 ~16~7~30 minecraft:concrete 4
+fill ~17~60~27 ~17~60~29 minecraft:concrete 4
+fill ~19~5~27 ~20~5~28 minecraft:concrete 4
+fill ~21~4~27 ~21~4~31 minecraft:concrete 4
+fill ~25~64~27 ~25~64~31 minecraft:concrete 4
+fill ~27~2~27 ~27~2~30 minecraft:concrete 4
+fill ~29~65~27 ~30~65~30 minecraft:concrete 4
+setblock ~31~2~27 minecraft:concrete 4
+fill ~32~1~27 ~38~1~30 minecraft:concrete 4
+fill ~40~65~27 ~41~65~30 minecraft:concrete 4
+fill ~43~2~27 ~43~2~30 minecraft:concrete 4
+fill ~46~3~27 ~46~3~30 minecraft:concrete 4
+fill ~47~63~27 ~47~63~30 minecraft:concrete 4
+fill ~51~61~27 ~51~61~29 minecraft:concrete 4
+fill ~52~6~27 ~52~6~29 minecraft:concrete 4
+fill ~53~60~27 ~53~60~31 minecraft:concrete 4
+fill ~54~59~27 ~54~59~29 minecraft:concrete 4
+fill ~55~8~27 ~55~8~30 minecraft:concrete 4
+fill ~56~9~27 ~56~9~29 minecraft:concrete 4
+fill ~57~10~27 ~57~10~29 minecraft:concrete 4
+fill ~58~11~27 ~58~11~29 minecraft:concrete 4
+fill ~59~12~27 ~59~12~29 minecraft:concrete 4
+fill ~60~13~27 ~60~13~30 minecraft:concrete 4
+fill ~61~52~27 ~61~52~30 minecraft:concrete 4
+fill ~62~16~27 ~62~16~30 minecraft:concrete 4
+fill ~62~50~27 ~62~50~29 minecraft:concrete 4
+fill ~63~18~27 ~63~18~29 minecraft:concrete 4
+fill ~63~48~27 ~63~49~28 minecraft:concrete 4
+fill ~64~20~27 ~64~20~30 minecraft:concrete 4
+fill ~64~47~27 ~64~47~31 minecraft:concrete 4
+fill ~65~22~27 ~65~22~31 minecraft:concrete 4
+fill ~65~44~27 ~65~44~30 minecraft:concrete 4
+fill ~66~25~27 ~66~25~32 minecraft:concrete 4
+fill ~66~26~27 ~66~26~30 minecraft:concrete 4
+setblock ~66~36~27 minecraft:concrete 4
+fill ~66~41~27 ~66~41~31 minecraft:concrete 4
+fill ~67~31~27 ~67~32~32 minecraft:concrete 4
+fill ~67~33~27 ~67~35~31 minecraft:concrete 4
+fill ~3~27~28 ~3~27~44 minecraft:concrete 4
+fill ~3~28~28 ~3~28~33 minecraft:concrete 4
+fill ~3~39~28 ~3~39~34 minecraft:concrete 4
+fill ~4~23~28 ~4~23~43 minecraft:concrete 4
+setblock ~4~40~28 minecraft:concrete 4
+fill ~4~43~28 ~4~43~33 minecraft:concrete 4
+fill ~5~46~28 ~5~46~43 minecraft:concrete 4
+fill ~6~47~28 ~6~48~29 minecraft:concrete 4
+fill ~7~50~28 ~7~50~34 minecraft:concrete 4
+fill ~8~15~28 ~8~15~32 minecraft:concrete 4
+fill ~8~51~28 ~8~51~30 minecraft:concrete 4
+fill ~10~54~28 ~10~54~31 minecraft:concrete 4
+fill ~12~10~28 ~12~10~32 minecraft:concrete 4
+fill ~14~58~28 ~14~58~31 minecraft:concrete 4
+fill ~15~59~28 ~15~59~32 minecraft:concrete 4
+fill ~17~6~28 ~17~6~32 minecraft:concrete 4
+fill ~18~61~28 ~19~61~29 minecraft:concrete 4
+fill ~20~62~28 ~20~62~31 minecraft:concrete 4
+fill ~22~63~28 ~22~63~32 minecraft:concrete 4
+fill ~23~3~28 ~23~3~32 minecraft:concrete 4
+fill ~24~64~28 ~24~64~43 minecraft:concrete 4
+setblock ~25~3~28 minecraft:concrete 4
+fill ~26~2~28 ~26~2~32 minecraft:concrete 4
+setblock ~27~64~28 minecraft:concrete 4
+fill ~28~65~28 ~28~65~33 minecraft:concrete 4
+setblock ~29~2~28 minecraft:concrete 4
+fill ~30~1~28 ~31~1~32 minecraft:concrete 4
+fill ~39~1~28 ~40~1~32 minecraft:concrete 4
+setblock ~41~2~28 minecraft:concrete 4
+fill ~42~65~28 ~42~65~34 minecraft:concrete 4
+fill ~44~2~28 ~44~2~33 minecraft:concrete 4
+fill ~45~64~28 ~45~64~32 minecraft:concrete 4
+fill ~47~3~28 ~47~3~33 minecraft:concrete 4
+fill ~48~63~28 ~48~63~33 minecraft:concrete 4
+fill ~49~4~28 ~49~4~32 minecraft:concrete 4
+fill ~50~5~28 ~51~5~29 minecraft:concrete 4
+fill ~50~62~28 ~50~62~32 minecraft:concrete 4
+fill ~54~7~28 ~54~7~31 minecraft:concrete 4
+fill ~56~58~28 ~56~58~32 minecraft:concrete 4
+fill ~57~57~28 ~57~57~31 minecraft:concrete 4
+fill ~58~56~28 ~58~56~31 minecraft:concrete 4
+fill ~59~55~28 ~59~55~32 minecraft:concrete 4
+fill ~61~14~28 ~61~14~32 minecraft:concrete 4
+fill ~62~51~28 ~62~51~32 minecraft:concrete 4
+fill ~63~17~28 ~63~17~33 minecraft:concrete 4
+fill ~64~19~28 ~64~19~33 minecraft:concrete 4
+fill ~65~45~28 ~65~45~33 minecraft:concrete 4
+fill ~66~24~28 ~66~24~43 minecraft:concrete 4
+setblock ~66~38~28 minecraft:concrete 4
+fill ~66~42~28 ~66~42~33 minecraft:concrete 4
+fill ~67~29~28 ~67~29~42 minecraft:concrete 4
+fill ~67~30~28 ~67~30~33 minecraft:concrete 4
+fill ~67~36~28 ~67~37~33 minecraft:concrete 4
+fill ~3~26~29 ~3~26~42 minecraft:concrete 4
+fill ~3~40~29 ~3~40~43 minecraft:concrete 4
+fill ~4~44~29 ~4~44~42 minecraft:concrete 4
+fill ~5~20~29 ~5~20~42 minecraft:concrete 4
+fill ~6~18~29 ~6~18~42 minecraft:concrete 4
+fill ~7~16~29 ~7~16~42 minecraft:concrete 4
+fill ~9~53~29 ~9~53~33 minecraft:concrete 4
+fill ~10~12~29 ~10~12~42 minecraft:concrete 4
+fill ~11~11~29 ~11~11~32 minecraft:concrete 4
+fill ~13~9~29 ~13~9~32 minecraft:concrete 4
+fill ~14~8~29 ~14~8~42 minecraft:concrete 4
+fill ~16~60~29 ~16~60~42 minecraft:concrete 4
+fill ~19~5~29 ~19~5~31 minecraft:concrete 4
+fill ~20~4~29 ~20~4~42 minecraft:concrete 4
+fill ~21~63~29 ~21~63~42 minecraft:concrete 4
+fill ~22~3~29 ~22~3~42 minecraft:concrete 4
+fill ~25~2~29 ~25~2~42 minecraft:concrete 4
+fill ~27~65~29 ~27~65~42 minecraft:concrete 4
+fill ~29~1~29 ~29~1~42 minecraft:concrete 4
+setblock ~31~65~29 minecraft:concrete 4
+fill ~32~66~29 ~37~66~42 minecraft:concrete 4
+fill ~38~65~29 ~39~65~29 minecraft:concrete 4
+fill ~41~1~29 ~41~1~42 minecraft:concrete 4
+fill ~43~65~29 ~43~65~42 minecraft:concrete 4
+fill ~44~64~29 ~44~64~30 minecraft:concrete 4
+fill ~45~2~29 ~45~2~42 minecraft:concrete 4
+fill ~46~64~29 ~46~64~42 minecraft:concrete 4
+fill ~52~61~29 ~52~61~35 minecraft:concrete 4
+fill ~53~6~29 ~53~6~42 minecraft:concrete 4
+fill ~55~59~29 ~55~59~42 minecraft:concrete 4
+fill ~58~10~29 ~58~10~42 minecraft:concrete 4
+fill ~60~54~29 ~60~54~34 minecraft:concrete 4
+fill ~62~15~29 ~62~15~42 minecraft:concrete 4
+fill ~63~49~29 ~63~49~31 minecraft:concrete 4
+fill ~64~48~29 ~64~48~42 minecraft:concrete 4
+fill ~65~21~29 ~65~21~43 minecraft:concrete 4
+setblock ~66~40~29 minecraft:concrete 4
+fill ~66~43~29 ~66~43~42 minecraft:concrete 4
+fill ~67~28~29 ~67~28~43 minecraft:concrete 4
+fill ~67~38~29 ~67~39~43 minecraft:concrete 4
+fill ~2~32~30 ~2~34~38 minecraft:concrete 4
+fill ~3~25~30 ~3~25~41 minecraft:concrete 4
+setblock ~3~35~30 minecraft:concrete 4
+fill ~3~41~30 ~3~41~42 minecraft:concrete 4
+fill ~4~22~30 ~4~22~41 minecraft:concrete 4
+fill ~5~47~30 ~5~47~41 minecraft:concrete 4
+fill ~6~48~30 ~6~49~33 minecraft:concrete 4
+fill ~8~52~30 ~8~52~38 minecraft:concrete 4
+fill ~9~13~30 ~9~13~41 minecraft:concrete 4
+fill ~12~57~30 ~12~57~41 minecraft:concrete 4
+fill ~15~7~30 ~15~7~41 minecraft:concrete 4
+fill ~17~61~30 ~18~61~32 minecraft:concrete 4
+fill ~18~5~30 ~18~5~42 minecraft:concrete 4
+fill ~19~62~30 ~19~62~42 minecraft:concrete 4
+fill ~23~64~30 ~23~64~41 minecraft:concrete 4
+fill ~24~2~30 ~24~2~41 minecraft:concrete 4
+fill ~26~65~30 ~26~65~41 minecraft:concrete 4
+fill ~28~1~30 ~28~1~42 minecraft:concrete 4
+fill ~31~66~30 ~31~66~41 minecraft:concrete 4
+fill ~38~66~30 ~39~66~41 minecraft:concrete 4
+fill ~42~1~30 ~42~1~41 minecraft:concrete 4
+fill ~48~3~30 ~48~3~41 minecraft:concrete 4
+fill ~49~63~30 ~49~63~41 minecraft:concrete 4
+fill ~50~4~30 ~50~4~41 minecraft:concrete 4
+fill ~51~5~30 ~52~5~32 minecraft:concrete 4
+fill ~51~62~30 ~51~62~41 minecraft:concrete 4
+fill ~54~60~30 ~54~60~41 minecraft:concrete 4
+fill ~56~8~30 ~56~8~41 minecraft:concrete 4
+fill ~57~9~30 ~57~9~42 minecraft:concrete 4
+fill ~59~11~30 ~59~11~42 minecraft:concrete 4
+fill ~60~12~30 ~60~12~41 minecraft:concrete 4
+fill ~61~53~30 ~61~53~38 minecraft:concrete 4
+fill ~63~50~30 ~63~50~38 minecraft:concrete 4
+fill ~64~18~30 ~64~18~41 minecraft:concrete 4
+fill ~65~46~30 ~65~46~42 minecraft:concrete 4
+fill ~66~23~30 ~66~23~41 minecraft:concrete 4
+fill ~67~27~30 ~67~27~42 minecraft:concrete 4
+fill ~67~40~30 ~67~40~42 minecraft:concrete 4
+fill ~2~30~31 ~2~30~40 minecraft:concrete 4
+fill ~2~31~31 ~2~31~39 minecraft:concrete 4
+fill ~2~35~31 ~2~36~39 minecraft:concrete 4
+fill ~3~37~31 ~3~38~31 minecraft:concrete 4
+fill ~3~42~31 ~3~42~40 minecraft:concrete 4
+fill ~4~45~31 ~4~45~40 minecraft:concrete 4
+fill ~5~19~31 ~5~19~40 minecraft:concrete 4
+fill ~7~51~31 ~7~51~38 minecraft:concrete 4
+fill ~8~14~31 ~8~14~40 minecraft:concrete 4
+fill ~10~55~31 ~10~55~43 minecraft:concrete 4
+fill ~11~56~31 ~11~56~41 minecraft:concrete 4
+fill ~13~58~31 ~13~58~40 minecraft:concrete 4
+fill ~16~6~31 ~16~6~40 minecraft:concrete 4
+fill ~27~1~31 ~27~1~40 minecraft:concrete 4
+setblock ~29~65~31 minecraft:concrete 4
+fill ~30~66~31 ~30~66~40 minecraft:concrete 4
+setblock ~32~1~31 minecraft:concrete 4
+fill ~33~0~31 ~36~0~40 minecraft:concrete 4
+fill ~37~1~31 ~38~1~31 minecraft:concrete 4
+fill ~40~66~31 ~40~66~40 minecraft:concrete 4
+setblock ~41~65~31 minecraft:concrete 4
+fill ~43~1~31 ~43~1~40 minecraft:concrete 4
+fill ~44~65~31 ~44~65~41 minecraft:concrete 4
+fill ~46~2~31 ~46~2~40 minecraft:concrete 4
+fill ~47~64~31 ~47~64~40 minecraft:concrete 4
+fill ~55~7~31 ~55~7~40 minecraft:concrete 4
+fill ~61~13~31 ~61~13~40 minecraft:concrete 4
+fill ~62~52~31 ~62~52~38 minecraft:concrete 4
+fill ~63~16~31 ~63~16~40 minecraft:concrete 4
+fill ~65~20~31 ~65~20~41 minecraft:concrete 4
+fill ~66~44~31 ~66~44~40 minecraft:concrete 4
+fill ~67~26~31 ~67~26~41 minecraft:concrete 4
+fill ~2~29~32 ~2~29~40 minecraft:concrete 4
+fill ~2~37~32 ~2~37~40 minecraft:concrete 4
+fill ~3~24~32 ~3~24~39 minecraft:concrete 4
+setblock ~3~38~32 minecraft:concrete 4
+fill ~4~21~32 ~4~21~39 minecraft:concrete 4
+fill ~6~17~32 ~6~17~40 minecraft:concrete 4
+fill ~9~54~32 ~9~54~40 minecraft:concrete 4
+fill ~14~59~32 ~14~59~40 minecraft:concrete 4
+fill ~19~4~32 ~19~4~39 minecraft:concrete 4
+fill ~20~63~32 ~20~63~39 minecraft:concrete 4
+fill ~21~3~32 ~21~3~39 minecraft:concrete 4
+fill ~25~65~32 ~25~65~39 minecraft:concrete 4
+fill ~29~66~32 ~29~66~39 minecraft:concrete 4
+fill ~32~0~32 ~32~0~39 minecraft:concrete 4
+fill ~37~0~32 ~38~0~39 minecraft:concrete 4
+fill ~41~66~32 ~41~66~39 minecraft:concrete 4
+fill ~53~61~32 ~53~61~40 minecraft:concrete 4
+fill ~54~6~32 ~54~6~39 minecraft:concrete 4
+fill ~57~58~32 ~57~58~39 minecraft:concrete 4
+fill ~58~57~32 ~58~57~39 minecraft:concrete 4
+fill ~59~56~32 ~59~56~39 minecraft:concrete 4
+fill ~64~49~32 ~64~49~39 minecraft:concrete 4
+fill ~65~47~32 ~65~47~39 minecraft:concrete 4
+fill ~66~22~32 ~66~22~39 minecraft:concrete 4
+setblock ~67~35~32 minecraft:concrete 4
+fill ~67~41~32 ~67~41~40 minecraft:concrete 4
+fill ~68~33~32 ~68~34~37 minecraft:concrete 4
+fill ~2~38~33 ~2~38~39 minecraft:concrete 4
+fill ~7~15~33 ~7~15~38 minecraft:concrete 4
+fill ~10~11~33 ~10~11~38 minecraft:concrete 4
+fill ~11~10~33 ~11~10~38 minecraft:concrete 4
+fill ~12~9~33 ~12~9~38 minecraft:concrete 4
+fill ~13~8~33 ~13~8~38 minecraft:concrete 4
+fill ~15~60~33 ~15~60~38 minecraft:concrete 4
+fill ~17~5~33 ~17~5~38 minecraft:concrete 4
+fill ~17~61~33 ~17~61~41 minecraft:concrete 4
+fill ~18~62~33 ~18~62~38 minecraft:concrete 4
+fill ~22~64~33 ~22~64~38 minecraft:concrete 4
+fill ~23~2~33 ~23~2~38 minecraft:concrete 4
+fill ~26~1~33 ~26~1~38 minecraft:concrete 4
+fill ~30~1~33 ~30~1~34 minecraft:concrete 4
+fill ~31~0~33 ~31~0~38 minecraft:concrete 4
+fill ~39~0~33 ~39~0~38 minecraft:concrete 4
+fill ~40~1~33 ~40~1~43 minecraft:concrete 4
+fill ~45~65~33 ~45~65~39 minecraft:concrete 4
+fill ~49~3~33 ~49~3~38 minecraft:concrete 4
+fill ~50~63~33 ~50~63~38 minecraft:concrete 4
+fill ~51~4~33 ~51~4~38 minecraft:concrete 4
+fill ~52~5~33 ~52~5~41 minecraft:concrete 4
+fill ~56~59~33 ~56~59~38 minecraft:concrete 4
+fill ~60~55~33 ~60~55~38 minecraft:concrete 4
+fill ~62~14~33 ~62~14~38 minecraft:concrete 4
+fill ~63~51~33 ~63~51~38 minecraft:concrete 4
+fill ~67~25~33 ~67~25~39 minecraft:concrete 4
+fill ~68~31~33 ~68~31~39 minecraft:concrete 4
+fill ~68~32~33 ~68~32~38 minecraft:concrete 4
+fill ~68~35~33 ~68~35~38 minecraft:concrete 4
+fill ~2~28~34 ~2~28~38 minecraft:concrete 4
+fill ~3~43~34 ~3~43~37 minecraft:concrete 4
+fill ~5~48~34 ~5~48~37 minecraft:concrete 4
+fill ~6~49~34 ~6~49~39 minecraft:concrete 4
+fill ~8~53~34 ~8~53~37 minecraft:concrete 4
+fill ~28~66~34 ~28~66~37 minecraft:concrete 4
+fill ~44~1~34 ~44~1~37 minecraft:concrete 4
+fill ~47~2~34 ~47~2~37 minecraft:concrete 4
+fill ~48~64~34 ~48~64~37 minecraft:concrete 4
+fill ~64~17~34 ~64~17~37 minecraft:concrete 4
+fill ~65~19~34 ~65~19~37 minecraft:concrete 4
+fill ~66~45~34 ~66~45~37 minecraft:concrete 4
+fill ~67~37~34 ~67~37~35 minecraft:concrete 4
+fill ~67~42~34 ~67~42~37 minecraft:concrete 4
+fill ~68~30~34 ~68~30~38 minecraft:concrete 4
+fill ~68~36~34 ~68~36~38 minecraft:concrete 4
+fill ~2~39~35 ~2~39~36 minecraft:concrete 4
+fill ~6~50~35 ~6~50~36 minecraft:concrete 4
+fill ~30~0~35 ~30~0~37 minecraft:concrete 4
+fill ~33~1~35 ~33~1~36 minecraft:standing_sign 12
+fill ~42~66~35 ~42~66~36 minecraft:concrete 4
+fill ~61~54~35 ~61~54~37 minecraft:concrete 4
+setblock ~52~62~36 minecraft:concrete 4
+setblock ~68~37~36 minecraft:concrete 4
+fill ~3~39~37 ~3~39~44 minecraft:concrete 4
+fill ~7~50~37 ~7~50~38 minecraft:concrete 4
+fill ~42~65~37 ~42~65~43 minecraft:concrete 4
+fill ~52~61~37 ~52~61~43 minecraft:concrete 4
+fill ~67~37~37 ~67~37~41 minecraft:concrete 4
+fill ~3~33~38 ~3~34~38 minecraft:concrete 4
+fill ~4~43~38 ~4~43~43 minecraft:concrete 4
+fill ~6~48~38 ~6~48~40 minecraft:concrete 4
+setblock ~9~53~38 minecraft:concrete 4
+fill ~28~65~38 ~28~65~43 minecraft:concrete 4
+fill ~30~1~38 ~30~1~43 minecraft:concrete 4
+fill ~44~2~38 ~44~2~43 minecraft:concrete 4
+fill ~47~3~38 ~47~3~43 minecraft:concrete 4
+fill ~48~63~38 ~48~63~43 minecraft:concrete 4
+fill ~60~54~38 ~60~54~39 minecraft:concrete 4
+fill ~63~17~38 ~63~17~43 minecraft:concrete 4
+fill ~64~19~38 ~64~19~43 minecraft:concrete 4
+fill ~65~45~38 ~65~45~43 minecraft:concrete 4
+fill ~66~33~38 ~67~33~38 minecraft:concrete 4
+fill ~66~42~38 ~66~42~43 minecraft:concrete 4
+setblock ~67~32~38 minecraft:concrete 4
+fill ~67~34~38 ~68~34~38 minecraft:concrete 4
+fill ~3~28~39 ~3~28~44 minecraft:concrete 4
+fill ~3~32~39 ~4~32~39 minecraft:concrete 4
+setblock ~3~35~39 minecraft:concrete 4
+fill ~4~33~39 ~4~34~39 minecraft:concrete 4
+fill ~5~33~39 ~64~34~39 minecraft:concrete 15
+fill ~7~50~39 ~7~52~39 minecraft:concrete 15
+fill ~8~15~39 ~8~15~43 minecraft:concrete 4
+setblock ~8~53~39 minecraft:concrete 15
+fill ~11~11~39 ~11~11~43 minecraft:concrete 4
+fill ~12~10~39 ~12~10~43 minecraft:concrete 4
+fill ~13~9~39 ~13~9~43 minecraft:concrete 4
+fill ~15~59~39 ~15~59~43 minecraft:concrete 4
+fill ~17~6~39 ~17~6~43 minecraft:concrete 4
+fill ~18~61~39 ~18~61~43 minecraft:concrete 4
+fill ~22~63~39 ~22~63~44 minecraft:concrete 4
+fill ~23~3~39 ~23~3~44 minecraft:concrete 4
+fill ~26~2~39 ~26~2~44 minecraft:concrete 4
+fill ~31~1~39 ~31~1~44 minecraft:concrete 4
+fill ~39~1~39 ~39~1~44 minecraft:concrete 4
+fill ~49~4~39 ~49~4~43 minecraft:concrete 4
+fill ~50~62~39 ~50~62~43 minecraft:concrete 4
+fill ~51~5~39 ~51~5~43 minecraft:concrete 4
+fill ~56~58~39 ~56~58~43 minecraft:concrete 4
+fill ~59~55~39 ~59~55~41 minecraft:concrete 4
+fill ~61~14~39 ~61~14~43 minecraft:concrete 4
+fill ~61~53~39 ~62~53~39 minecraft:concrete 15
+fill ~63~50~39 ~63~52~39 minecraft:concrete 15
+fill ~65~32~39 ~66~32~39 minecraft:concrete 4
+fill ~65~33~39 ~65~34~39 minecraft:concrete 4
+fill ~66~34~39 ~66~35~39 minecraft:concrete 4
+fill ~67~30~39 ~67~30~41 minecraft:concrete 4
+setblock ~67~31~39 minecraft:concrete 4
+fill ~67~35~39 ~67~36~39 minecraft:concrete 4
+fill ~2~36~40 ~3~36~40 minecraft:concrete 4
+fill ~3~31~40 ~4~31~40 minecraft:concrete 4
+fill ~3~38~40 ~3~38~43 minecraft:concrete 4
+fill ~4~24~40 ~4~24~44 minecraft:concrete 4
+setblock ~4~35~40 minecraft:concrete 4
+fill ~5~21~40 ~5~21~44 minecraft:concrete 4
+fill ~5~32~40 ~64~32~40 minecraft:concrete 15
+fill ~5~35~40 ~64~35~40 minecraft:concrete 15
+fill ~6~49~40 ~6~52~44 minecraft:concrete 15
+setblock ~7~53~40 minecraft:concrete 15
+fill ~8~54~40 ~8~54~41 minecraft:concrete 15
+fill ~19~5~40 ~19~5~44 minecraft:concrete 4
+fill ~20~62~40 ~20~62~44 minecraft:concrete 4
+fill ~21~4~40 ~21~4~44 minecraft:concrete 4
+fill ~25~64~40 ~25~64~44 minecraft:concrete 4
+fill ~29~65~40 ~29~65~44 minecraft:concrete 4
+fill ~32~1~40 ~32~1~44 minecraft:concrete 4
+setblock ~37~0~40 minecraft:concrete 4
+fill ~38~1~40 ~38~1~44 minecraft:concrete 4
+fill ~41~65~40 ~41~65~44 minecraft:concrete 4
+fill ~45~64~40 ~45~64~44 minecraft:concrete 4
+fill ~54~7~40 ~54~7~43 minecraft:concrete 4
+fill ~57~57~40 ~57~57~43 minecraft:concrete 4
+fill ~58~56~40 ~58~56~43 minecraft:concrete 4
+fill ~60~54~40 ~62~54~40 minecraft:concrete 15
+setblock ~63~49~40 minecraft:concrete 15
+setblock ~63~53~40 minecraft:concrete 15
+fill ~64~47~40 ~64~47~44 minecraft:concrete 4
+fill ~64~50~40 ~64~52~44 minecraft:concrete 15
+fill ~65~22~40 ~65~22~44 minecraft:concrete 4
+setblock ~65~31~40 minecraft:concrete 15
+setblock ~65~35~40 minecraft:concrete 4
+fill ~66~25~40 ~66~25~44 minecraft:concrete 4
+setblock ~66~31~40 minecraft:concrete 4
+fill ~66~36~40 ~67~36~40 minecraft:concrete 4
+fill ~3~29~41 ~3~29~42 minecraft:concrete 4
+fill ~3~30~41 ~4~30~41 minecraft:concrete 4
+fill ~3~37~41 ~3~37~42 minecraft:concrete 4
+fill ~4~36~41 ~5~36~41 minecraft:concrete 4
+fill ~4~42~41 ~4~42~45 minecraft:concrete 4
+setblock ~5~31~41 minecraft:concrete 4
+fill ~5~45~41 ~5~45~44 minecraft:concrete 4
+fill ~6~19~41 ~6~19~44 minecraft:concrete 4
+fill ~6~31~41 ~64~31~41 minecraft:concrete 15
+fill ~6~36~41 ~64~36~41 minecraft:concrete 15
+fill ~6~48~41 ~6~48~43 minecraft:concrete 15
+fill ~6~53~41 ~6~53~43 minecraft:concrete 15
+fill ~7~17~41 ~7~17~44 minecraft:concrete 4
+fill ~7~54~41 ~7~54~43 minecraft:concrete 15
+fill ~9~14~41 ~9~14~44 minecraft:concrete 4
+fill ~9~55~41 ~9~55~43 minecraft:concrete 4
+fill ~13~57~41 ~13~57~44 minecraft:concrete 4
+fill ~14~58~41 ~14~58~44 minecraft:concrete 4
+fill ~16~7~41 ~16~7~44 minecraft:concrete 4
+fill ~27~2~41 ~27~2~45 minecraft:concrete 4
+fill ~30~65~41 ~30~65~45 minecraft:concrete 4
+fill ~33~1~41 ~37~1~44 minecraft:concrete 4
+fill ~40~65~41 ~40~65~44 minecraft:concrete 4
+fill ~43~2~41 ~43~2~44 minecraft:concrete 4
+fill ~46~3~41 ~46~3~44 minecraft:concrete 4
+fill ~47~63~41 ~47~63~45 minecraft:concrete 4
+fill ~53~60~41 ~53~60~44 minecraft:concrete 4
+fill ~55~8~41 ~55~8~44 minecraft:concrete 4
+fill ~60~13~41 ~60~13~44 minecraft:concrete 4
+fill ~60~55~41 ~61~55~43 minecraft:concrete 15
+fill ~62~16~41 ~62~16~44 minecraft:concrete 4
+fill ~62~54~41 ~63~54~43 minecraft:concrete 15
+fill ~64~49~41 ~64~49~43 minecraft:concrete 15
+fill ~64~53~41 ~64~53~43 minecraft:concrete 15
+fill ~65~30~41 ~66~30~41 minecraft:concrete 4
+fill ~65~36~41 ~66~36~41 minecraft:concrete 4
+fill ~65~44~41 ~65~44~45 minecraft:concrete 4
+fill ~66~41~41 ~66~41~45 minecraft:concrete 4
+fill ~4~25~42 ~4~25~45 minecraft:concrete 4
+fill ~4~29~42 ~4~29~43 minecraft:concrete 4
+fill ~4~37~42 ~5~37~42 minecraft:concrete 4
+fill ~5~22~42 ~5~22~45 minecraft:concrete 4
+setblock ~5~30~42 minecraft:concrete 4
+fill ~6~30~42 ~64~30~42 minecraft:concrete 15
+setblock ~6~36~42 minecraft:concrete 4
+fill ~6~47~42 ~6~47~45 minecraft:concrete 4
+fill ~7~36~42 ~64~36~42 minecraft:concrete 15
+setblock ~8~55~42 minecraft:concrete 4
+fill ~10~13~42 ~10~13~45 minecraft:concrete 4
+fill ~11~55~42 ~11~55~44 minecraft:concrete 4
+fill ~12~56~42 ~12~56~44 minecraft:concrete 4
+fill ~15~8~42 ~15~8~45 minecraft:concrete 4
+fill ~17~60~42 ~17~60~44 minecraft:concrete 4
+fill ~23~63~42 ~23~63~45 minecraft:concrete 4
+fill ~24~3~42 ~24~3~45 minecraft:concrete 4
+fill ~26~64~42 ~26~64~45 minecraft:concrete 4
+fill ~31~65~42 ~31~65~45 minecraft:concrete 4
+setblock ~38~66~42 minecraft:concrete 4
+fill ~39~65~42 ~39~65~45 minecraft:concrete 4
+fill ~42~2~42 ~42~2~45 minecraft:concrete 4
+fill ~44~64~42 ~44~64~45 minecraft:concrete 4
+fill ~48~4~42 ~48~4~45 minecraft:concrete 4
+fill ~49~62~42 ~49~62~45 minecraft:concrete 4
+fill ~50~5~42 ~50~5~45 minecraft:concrete 4
+fill ~51~61~42 ~51~61~45 minecraft:concrete 4
+fill ~52~6~42 ~52~6~44 minecraft:concrete 4
+fill ~54~59~42 ~54~59~45 minecraft:concrete 4
+fill ~56~9~42 ~56~9~44 minecraft:concrete 4
+fill ~59~12~42 ~59~12~44 minecraft:concrete 4
+fill ~59~55~42 ~59~55~43 minecraft:concrete 15
+fill ~63~18~42 ~63~18~45 minecraft:concrete 4
+fill ~64~20~42 ~64~20~45 minecraft:concrete 4
+fill ~65~23~42 ~65~23~45 minecraft:concrete 4
+setblock ~65~30~42 minecraft:concrete 4
+fill ~65~37~42 ~66~37~42 minecraft:concrete 4
+fill ~66~26~42 ~66~26~45 minecraft:concrete 4
+fill ~66~29~42 ~66~29~43 minecraft:concrete 4
+fill ~4~26~43 ~4~26~46 minecraft:concrete 4
+fill ~4~38~43 ~4~38~44 minecraft:concrete 4
+fill ~4~41~43 ~4~41~46 minecraft:concrete 4
+setblock ~5~29~43 minecraft:concrete 4
+fill ~5~37~43 ~6~37~43 minecraft:concrete 4
+fill ~5~44~43 ~5~44~45 minecraft:concrete 4
+fill ~6~20~43 ~6~20~45 minecraft:concrete 4
+fill ~6~29~43 ~64~29~43 minecraft:concrete 15
+fill ~7~18~43 ~7~18~46 minecraft:concrete 4
+fill ~7~37~43 ~64~37~43 minecraft:concrete 15
+fill ~8~16~43 ~8~16~45 minecraft:concrete 4
+fill ~8~54~43 ~8~54~44 minecraft:concrete 15
+fill ~11~12~43 ~11~12~45 minecraft:concrete 4
+fill ~14~9~43 ~14~9~45 minecraft:concrete 4
+fill ~16~59~43 ~16~59~45 minecraft:concrete 4
+fill ~18~6~43 ~18~6~45 minecraft:concrete 4
+fill ~19~61~43 ~19~61~45 minecraft:concrete 4
+fill ~20~5~43 ~20~5~45 minecraft:concrete 4
+fill ~21~62~43 ~21~62~45 minecraft:concrete 4
+fill ~22~4~43 ~22~4~45 minecraft:concrete 4
+fill ~25~3~43 ~25~3~46 minecraft:concrete 4
+fill ~27~64~43 ~27~64~46 minecraft:concrete 4
+fill ~28~2~43 ~29~2~45 minecraft:concrete 4
+fill ~32~65~43 ~38~65~45 minecraft:concrete 4
+fill ~41~2~43 ~41~2~46 minecraft:concrete 4
+fill ~43~64~43 ~43~64~46 minecraft:concrete 4
+fill ~45~3~43 ~45~3~45 minecraft:concrete 4
+fill ~46~63~43 ~46~63~46 minecraft:concrete 4
+fill ~53~7~43 ~53~7~45 minecraft:concrete 4
+fill ~55~58~43 ~55~58~45 minecraft:concrete 4
+fill ~57~10~43 ~57~10~45 minecraft:concrete 4
+fill ~58~11~43 ~58~11~45 minecraft:concrete 4
+fill ~61~15~43 ~61~15~45 minecraft:concrete 4
+fill ~63~48~43 ~63~48~45 minecraft:concrete 4
+fill ~64~46~43 ~64~46~45 minecraft:concrete 4
+setblock ~65~29~43 minecraft:concrete 4
+setblock ~65~37~43 minecraft:concrete 4
+fill ~65~43~43 ~65~43~46 minecraft:concrete 4
+fill ~66~27~43 ~66~27~45 minecraft:concrete 4
+setblock ~66~38~43 minecraft:concrete 4
+fill ~66~40~43 ~66~40~46 minecraft:concrete 4
+fill ~4~28~44 ~5~28~44 minecraft:concrete 4
+fill ~4~40~44 ~4~40~46 minecraft:concrete 4
+fill ~5~23~44 ~5~23~46 minecraft:concrete 4
+fill ~5~38~44 ~7~38~44 minecraft:concrete 4
+fill ~5~43~44 ~5~43~47 minecraft:concrete 4
+fill ~6~29~44 ~63~29~44 minecraft:concrete 15
+fill ~6~46~44 ~6~46~46 minecraft:concrete 4
+setblock ~7~48~44 minecraft:concrete 15
+fill ~7~53~44 ~7~53~45 minecraft:concrete 15
+fill ~8~38~44 ~63~38~44 minecraft:concrete 15
+fill ~9~15~44 ~9~15~46 minecraft:concrete 4
+fill ~9~54~44 ~9~54~45 minecraft:concrete 15
+fill ~10~54~44 ~10~54~45 minecraft:concrete 4
+fill ~12~11~44 ~12~11~45 minecraft:concrete 4
+fill ~13~10~44 ~13~10~45 minecraft:concrete 4
+fill ~15~58~44 ~15~58~46 minecraft:concrete 4
+fill ~17~7~44 ~17~7~46 minecraft:concrete 4
+fill ~18~60~44 ~18~60~46 minecraft:concrete 4
+fill ~24~63~44 ~24~63~46 minecraft:concrete 4
+fill ~28~64~44 ~28~64~46 minecraft:concrete 4
+fill ~30~2~44 ~30~2~46 minecraft:concrete 4
+fill ~40~2~44 ~40~2~46 minecraft:concrete 4
+fill ~42~64~44 ~42~64~46 minecraft:concrete 4
+fill ~44~3~44 ~44~3~46 minecraft:concrete 4
+fill ~47~4~44 ~47~4~46 minecraft:concrete 4
+fill ~48~62~44 ~48~62~46 minecraft:concrete 4
+fill ~49~5~44 ~49~5~46 minecraft:concrete 4
+fill ~50~61~44 ~50~61~46 minecraft:concrete 4
+fill ~51~6~44 ~51~6~46 minecraft:concrete 4
+fill ~52~60~44 ~52~60~46 minecraft:concrete 4
+fill ~54~8~44 ~54~8~46 minecraft:concrete 4
+fill ~56~57~44 ~56~57~45 minecraft:concrete 4
+fill ~57~56~44 ~57~56~46 minecraft:concrete 4
+fill ~58~55~44 ~58~55~45 minecraft:concrete 4
+fill ~59~54~44 ~62~54~44 minecraft:concrete 15
+fill ~60~14~44 ~60~14~46 minecraft:concrete 4
+fill ~62~17~44 ~62~17~46 minecraft:concrete 4
+fill ~63~19~44 ~63~19~46 minecraft:concrete 4
+fill ~63~49~44 ~63~49~45 minecraft:concrete 15
+setblock ~63~53~44 minecraft:concrete 15
+fill ~64~21~44 ~64~21~46 minecraft:concrete 4
+setblock ~64~29~44 minecraft:concrete 4
+fill ~64~38~44 ~65~38~44 minecraft:concrete 4
+fill ~64~45~44 ~64~45~46 minecraft:concrete 4
+fill ~65~24~44 ~65~24~46 minecraft:concrete 4
+fill ~65~28~44 ~66~28~44 minecraft:concrete 4
+fill ~65~42~44 ~65~42~47 minecraft:concrete 4
+fill ~66~39~44 ~66~39~45 minecraft:concrete 4
+setblock ~4~27~45 minecraft:concrete 4
+fill ~4~39~45 ~5~39~45 minecraft:concrete 4
+fill ~5~24~45 ~5~24~47 minecraft:concrete 4
+fill ~5~28~45 ~6~28~45 minecraft:concrete 4
+fill ~6~21~45 ~6~21~47 minecraft:concrete 4
+fill ~6~38~45 ~7~38~45 minecraft:concrete 4
+fill ~6~45~45 ~6~45~47 minecraft:concrete 4
+fill ~7~19~45 ~7~19~47 minecraft:concrete 4
+fill ~7~28~45 ~62~28~45 minecraft:concrete 15
+fill ~7~48~45 ~7~48~46 minecraft:concrete 4
+fill ~7~49~45 ~7~52~45 minecraft:concrete 15
+fill ~8~17~45 ~8~17~47 minecraft:concrete 4
+fill ~8~38~45 ~62~38~45 minecraft:concrete 15
+fill ~8~53~45 ~9~53~45 minecraft:concrete 15
+fill ~10~14~45 ~10~14~47 minecraft:concrete 4
+setblock ~10~53~45 minecraft:concrete 4
+fill ~11~54~45 ~11~54~46 minecraft:concrete 4
+fill ~12~55~45 ~12~55~46 minecraft:concrete 4
+fill ~13~56~45 ~13~56~46 minecraft:concrete 4
+fill ~14~57~45 ~14~57~46 minecraft:concrete 4
+fill ~16~8~45 ~16~8~46 minecraft:concrete 4
+fill ~17~59~45 ~17~59~47 minecraft:concrete 4
+fill ~19~6~45 ~19~6~46 minecraft:concrete 4
+fill ~20~61~45 ~20~61~46 minecraft:concrete 4
+fill ~21~5~45 ~21~5~47 minecraft:concrete 4
+fill ~22~62~45 ~22~62~46 minecraft:concrete 4
+fill ~23~4~45 ~23~4~46 minecraft:concrete 4
+fill ~25~63~45 ~25~63~47 minecraft:concrete 4
+fill ~26~3~45 ~26~3~47 minecraft:concrete 4
+fill ~29~64~45 ~29~64~47 minecraft:concrete 4
+fill ~31~2~45 ~34~2~47 minecraft:concrete 4
+setblock ~35~1~45 minecraft:concrete 4
+fill ~36~2~45 ~39~2~47 minecraft:concrete 4
+fill ~40~64~45 ~41~64~47 minecraft:concrete 4
+fill ~43~3~45 ~43~3~47 minecraft:concrete 4
+fill ~45~63~45 ~45~63~47 minecraft:concrete 4
+fill ~46~4~45 ~46~4~47 minecraft:concrete 4
+fill ~52~7~45 ~52~7~47 minecraft:concrete 4
+fill ~53~59~45 ~53~59~46 minecraft:concrete 4
+fill ~55~9~45 ~55~9~46 minecraft:concrete 4
+fill ~56~10~45 ~56~10~47 minecraft:concrete 4
+fill ~58~12~45 ~58~12~47 minecraft:concrete 4
+fill ~59~13~45 ~59~13~46 minecraft:concrete 4
+setblock ~59~54~45 minecraft:concrete 4
+fill ~60~53~45 ~62~53~45 minecraft:concrete 15
+fill ~60~54~45 ~61~54~45 minecraft:concrete 15
+fill ~61~16~45 ~61~16~47 minecraft:concrete 4
+fill ~62~52~45 ~63~52~45 minecraft:concrete 15
+fill ~63~28~45 ~64~28~45 minecraft:concrete 4
+fill ~63~38~45 ~64~38~45 minecraft:concrete 4
+fill ~63~47~45 ~63~47~47 minecraft:concrete 4
+fill ~63~50~45 ~63~51~45 minecraft:concrete 15
+fill ~64~22~45 ~64~22~47 minecraft:concrete 4
+fill ~65~25~45 ~65~25~47 minecraft:concrete 4
+fill ~65~27~45 ~65~27~46 minecraft:concrete 4
+setblock ~65~39~45 minecraft:concrete 4
+fill ~5~25~46 ~5~25~48 minecraft:concrete 4
+fill ~5~27~46 ~7~27~46 minecraft:concrete 4
+fill ~5~40~46 ~5~40~47 minecraft:concrete 4
+fill ~5~42~46 ~5~42~47 minecraft:concrete 4
+fill ~6~22~46 ~6~22~48 minecraft:concrete 4
+fill ~6~39~46 ~7~39~46 minecraft:concrete 4
+fill ~6~44~46 ~6~44~48 minecraft:concrete 4
+fill ~7~20~46 ~7~20~48 minecraft:concrete 4
+fill ~7~47~46 ~7~47~47 minecraft:concrete 4
+fill ~8~27~46 ~61~27~47 minecraft:concrete 15
+fill ~8~39~46 ~62~39~46 minecraft:concrete 15
+fill ~8~49~46 ~8~52~46 minecraft:concrete 15
+fill ~9~16~46 ~9~16~47 minecraft:concrete 4
+setblock ~9~52~46 minecraft:concrete 15
+fill ~10~52~46 ~10~52~47 minecraft:concrete 4
+fill ~11~13~46 ~11~13~47 minecraft:concrete 4
+fill ~11~53~46 ~11~53~48 minecraft:concrete 4
+fill ~12~12~46 ~12~12~47 minecraft:concrete 4
+fill ~13~11~46 ~13~11~47 minecraft:concrete 4
+fill ~14~10~46 ~14~10~47 minecraft:concrete 4
+fill ~15~9~46 ~15~9~47 minecraft:concrete 4
+fill ~16~58~46 ~16~58~47 minecraft:concrete 4
+fill ~18~7~46 ~18~7~47 minecraft:concrete 4
+fill ~19~60~46 ~19~60~47 minecraft:concrete 4
+fill ~20~6~46 ~20~6~48 minecraft:concrete 4
+fill ~21~61~46 ~21~61~48 minecraft:concrete 4
+fill ~22~5~46 ~22~5~48 minecraft:concrete 4
+fill ~23~62~46 ~23~62~47 minecraft:concrete 4
+fill ~24~4~46 ~24~4~47 minecraft:concrete 4
+fill ~26~63~46 ~26~63~48 minecraft:concrete 4
+fill ~27~3~46 ~28~3~47 minecraft:concrete 4
+setblock ~29~2~46 minecraft:concrete 4
+fill ~30~64~46 ~32~64~47 minecraft:concrete 4
+fill ~33~65~46 ~37~65~46 minecraft:concrete 4
+fill ~35~2~46 ~35~2~47 minecraft:concrete 4
+fill ~38~64~46 ~39~64~48 minecraft:concrete 4
+fill ~42~3~46 ~42~3~48 minecraft:concrete 4
+fill ~44~63~46 ~44~63~47 minecraft:concrete 4
+fill ~45~4~46 ~45~4~48 minecraft:concrete 4
+fill ~47~62~46 ~47~62~47 minecraft:concrete 4
+fill ~48~5~46 ~48~5~47 minecraft:concrete 4
+fill ~49~61~46 ~49~61~47 minecraft:concrete 4
+fill ~50~6~46 ~50~6~47 minecraft:concrete 4
+fill ~51~60~46 ~51~60~47 minecraft:concrete 4
+fill ~53~8~46 ~53~8~48 minecraft:concrete 4
+fill ~54~58~46 ~54~58~47 minecraft:concrete 4
+fill ~55~57~46 ~55~57~47 minecraft:concrete 4
+fill ~56~56~46 ~56~56~47 minecraft:concrete 4
+fill ~57~11~46 ~57~11~47 minecraft:concrete 4
+fill ~57~55~46 ~57~55~47 minecraft:concrete 4
+fill ~58~54~46 ~58~54~47 minecraft:concrete 4
+fill ~59~53~46 ~59~53~47 minecraft:concrete 4
+fill ~60~15~46 ~60~15~47 minecraft:concrete 4
+fill ~60~52~46 ~61~52~46 minecraft:concrete 15
+fill ~61~51~46 ~62~51~46 minecraft:concrete 15
+fill ~62~18~46 ~62~18~47 minecraft:concrete 4
+fill ~62~27~46 ~64~27~46 minecraft:concrete 4
+fill ~62~48~46 ~62~48~48 minecraft:concrete 4
+fill ~62~49~46 ~62~50~46 minecraft:concrete 15
+fill ~63~20~46 ~63~20~47 minecraft:concrete 4
+fill ~63~39~46 ~64~39~46 minecraft:concrete 4
+fill ~63~46~46 ~63~46~48 minecraft:concrete 4
+fill ~64~23~46 ~64~23~48 minecraft:concrete 4
+fill ~64~44~46 ~64~44~47 minecraft:concrete 4
+fill ~65~26~46 ~65~26~47 minecraft:concrete 4
+fill ~65~40~46 ~65~41~46 minecraft:concrete 4
+fill ~5~26~47 ~6~26~47 minecraft:concrete 4
+fill ~5~41~47 ~5~41~48 minecraft:concrete 4
+fill ~6~23~47 ~6~23~49 minecraft:concrete 4
+fill ~6~40~47 ~9~40~47 minecraft:concrete 4
+setblock ~7~27~47 minecraft:concrete 4
+fill ~7~46~47 ~7~46~48 minecraft:concrete 4
+fill ~8~18~47 ~8~18~48 minecraft:concrete 4
+fill ~8~48~47 ~8~48~48 minecraft:concrete 4
+setblock ~8~49~47 minecraft:concrete 4
+fill ~9~50~47 ~9~50~48 minecraft:concrete 4
+setblock ~9~51~47 minecraft:concrete 4
+fill ~10~15~47 ~10~15~48 minecraft:concrete 4
+fill ~10~40~47 ~62~40~48 minecraft:concrete 15
+fill ~12~54~47 ~12~54~48 minecraft:concrete 4
+fill ~13~55~47 ~13~55~48 minecraft:concrete 4
+fill ~14~56~47 ~14~56~48 minecraft:concrete 4
+fill ~15~57~47 ~15~57~48 minecraft:concrete 4
+fill ~16~9~47 ~16~9~48 minecraft:concrete 4
+fill ~17~8~47 ~17~8~48 minecraft:concrete 4
+fill ~18~59~47 ~18~59~48 minecraft:concrete 4
+fill ~19~7~47 ~19~7~49 minecraft:concrete 4
+fill ~20~60~47 ~20~60~49 minecraft:concrete 4
+fill ~22~61~47 ~22~61~49 minecraft:concrete 4
+fill ~23~5~47 ~23~5~49 minecraft:concrete 4
+fill ~24~62~47 ~24~62~48 minecraft:concrete 4
+fill ~25~4~47 ~25~4~48 minecraft:concrete 4
+fill ~27~63~47 ~28~63~48 minecraft:concrete 4
+fill ~29~3~47 ~30~3~48 minecraft:concrete 4
+fill ~33~64~47 ~37~64~48 minecraft:concrete 4
+fill ~40~3~47 ~41~3~48 minecraft:concrete 4
+fill ~42~63~47 ~43~63~48 minecraft:concrete 4
+fill ~44~4~47 ~44~4~49 minecraft:concrete 4
+fill ~46~62~47 ~46~62~48 minecraft:concrete 4
+fill ~47~5~47 ~47~5~48 minecraft:concrete 4
+fill ~48~61~47 ~48~61~48 minecraft:concrete 4
+fill ~49~6~47 ~49~6~49 minecraft:concrete 4
+fill ~50~60~47 ~50~60~48 minecraft:concrete 4
+fill ~51~7~47 ~51~7~48 minecraft:concrete 4
+fill ~52~59~47 ~52~59~48 minecraft:concrete 4
+fill ~53~58~47 ~53~58~48 minecraft:concrete 4
+fill ~54~9~47 ~54~9~48 minecraft:concrete 4
+fill ~55~10~47 ~55~10~48 minecraft:concrete 4
+fill ~58~13~47 ~58~13~48 minecraft:concrete 4
+fill ~59~14~47 ~59~14~48 minecraft:concrete 4
+fill ~60~51~47 ~60~51~48 minecraft:concrete 4
+setblock ~60~52~47 minecraft:concrete 4
+fill ~61~17~47 ~61~17~48 minecraft:concrete 4
+fill ~61~49~47 ~61~49~49 minecraft:concrete 4
+setblock ~61~50~47 minecraft:concrete 4
+fill ~62~19~47 ~62~19~48 minecraft:concrete 4
+fill ~62~27~47 ~63~27~47 minecraft:concrete 4
+fill ~63~21~47 ~63~21~48 minecraft:concrete 4
+fill ~63~40~47 ~64~40~47 minecraft:concrete 4
+fill ~63~45~47 ~63~45~49 minecraft:concrete 4
+fill ~64~24~47 ~64~24~49 minecraft:concrete 4
+setblock ~64~26~47 minecraft:concrete 4
+fill ~64~43~47 ~64~43~48 minecraft:concrete 4
+setblock ~65~41~47 minecraft:concrete 4
+fill ~6~24~48 ~6~24~49 minecraft:concrete 4
+fill ~6~26~48 ~7~26~48 minecraft:concrete 4
+fill ~6~41~48 ~6~43~48 minecraft:concrete 4
+fill ~7~21~48 ~7~21~49 minecraft:concrete 4
+fill ~7~40~48 ~9~40~48 minecraft:concrete 4
+fill ~7~45~48 ~7~45~49 minecraft:concrete 4
+fill ~8~19~48 ~8~19~49 minecraft:concrete 4
+fill ~8~26~48 ~60~26~48 minecraft:concrete 15
+fill ~8~47~48 ~8~47~49 minecraft:concrete 4
+fill ~9~17~48 ~9~17~49 minecraft:concrete 4
+fill ~9~49~48 ~9~49~49 minecraft:concrete 4
+fill ~10~16~48 ~10~16~49 minecraft:concrete 4
+fill ~10~51~48 ~10~51~49 minecraft:concrete 4
+setblock ~11~14~48 minecraft:concrete 4
+fill ~11~52~48 ~11~52~49 minecraft:concrete 4
+fill ~12~13~48 ~12~13~49 minecraft:concrete 4
+fill ~13~12~48 ~13~12~49 minecraft:concrete 4
+fill ~14~11~48 ~14~11~49 minecraft:concrete 4
+fill ~15~10~48 ~15~10~49 minecraft:concrete 4
+fill ~16~57~48 ~16~57~49 minecraft:concrete 4
+fill ~17~58~48 ~17~58~49 minecraft:concrete 4
+fill ~18~8~48 ~18~8~49 minecraft:concrete 4
+fill ~19~59~48 ~19~59~49 minecraft:concrete 4
+fill ~21~6~48 ~21~6~49 minecraft:concrete 4
+fill ~23~61~48 ~23~61~50 minecraft:concrete 4
+fill ~24~5~48 ~24~5~50 minecraft:concrete 4
+fill ~25~62~48 ~25~62~49 minecraft:concrete 4
+fill ~26~4~48 ~27~4~49 minecraft:concrete 4
+setblock ~28~3~48 minecraft:concrete 4
+fill ~29~63~48 ~30~63~49 minecraft:concrete 4
+fill ~31~3~48 ~39~3~49 minecraft:concrete 4
+fill ~31~64~48 ~32~64~48 minecraft:concrete 4
+fill ~40~63~48 ~41~63~49 minecraft:concrete 4
+fill ~43~4~48 ~43~4~49 minecraft:concrete 4
+fill ~44~62~48 ~45~62~49 minecraft:concrete 4
+fill ~46~5~48 ~46~5~49 minecraft:concrete 4
+fill ~47~61~48 ~47~61~49 minecraft:concrete 4
+fill ~48~6~48 ~48~6~50 minecraft:concrete 4
+fill ~49~60~48 ~49~60~49 minecraft:concrete 4
+fill ~50~7~48 ~50~7~49 minecraft:concrete 4
+fill ~51~59~48 ~51~59~49 minecraft:concrete 4
+fill ~52~8~48 ~52~8~49 minecraft:concrete 4
+fill ~54~57~48 ~54~57~49 minecraft:concrete 4
+fill ~55~56~48 ~55~56~49 minecraft:concrete 4
+setblock ~56~11~48 minecraft:concrete 4
+fill ~56~55~48 ~56~55~49 minecraft:concrete 4
+setblock ~57~12~48 minecraft:concrete 4
+fill ~57~54~48 ~57~54~49 minecraft:concrete 4
+fill ~58~53~48 ~58~53~49 minecraft:concrete 4
+fill ~59~15~48 ~59~15~49 minecraft:concrete 4
+fill ~59~52~48 ~59~52~49 minecraft:concrete 4
+fill ~60~16~48 ~60~16~49 minecraft:concrete 4
+fill ~60~50~48 ~60~50~49 minecraft:concrete 4
+fill ~61~18~48 ~61~18~49 minecraft:concrete 4
+fill ~61~26~48 ~63~26~48 minecraft:concrete 4
+fill ~62~20~48 ~62~20~49 minecraft:concrete 4
+fill ~62~47~48 ~62~47~49 minecraft:concrete 4
+fill ~63~22~48 ~63~22~49 minecraft:concrete 4
+setblock ~63~40~48 minecraft:concrete 4
+fill ~63~44~48 ~63~44~50 minecraft:concrete 4
+fill ~64~25~48 ~64~25~49 minecraft:concrete 4
+fill ~64~41~48 ~64~42~48 minecraft:concrete 4
+fill ~6~25~49 ~7~25~49 minecraft:concrete 4
+fill ~6~42~49 ~6~43~49 minecraft:concrete 4
+fill ~7~22~49 ~7~22~50 minecraft:concrete 4
+fill ~7~41~49 ~10~41~49 minecraft:concrete 4
+fill ~7~44~49 ~7~44~50 minecraft:concrete 4
+fill ~8~20~49 ~8~20~50 minecraft:concrete 4
+setblock ~8~26~49 minecraft:concrete 4
+fill ~8~46~49 ~8~46~50 minecraft:concrete 4
+fill ~9~18~49 ~9~18~50 minecraft:concrete 4
+fill ~9~26~49 ~51~26~49 minecraft:concrete 15
+fill ~9~48~49 ~9~48~50 minecraft:concrete 4
+fill ~10~50~49 ~10~50~50 minecraft:concrete 4
+fill ~11~15~49 ~11~15~50 minecraft:concrete 4
+fill ~11~41~49 ~61~41~50 minecraft:concrete 15
+fill ~12~14~49 ~12~14~50 minecraft:concrete 4
+setblock ~12~53~49 minecraft:concrete 4
+fill ~13~54~49 ~13~54~50 minecraft:concrete 4
+fill ~14~55~49 ~14~55~50 minecraft:concrete 4
+setblock ~15~56~49 minecraft:concrete 4
+fill ~16~10~49 ~16~10~50 minecraft:concrete 4
+fill ~17~9~49 ~17~9~50 minecraft:concrete 4
+fill ~18~58~49 ~18~58~50 minecraft:concrete 4
+fill ~20~7~49 ~20~7~50 minecraft:concrete 4
+fill ~21~60~49 ~21~60~50 minecraft:concrete 4
+fill ~22~6~49 ~22~6~50 minecraft:concrete 4
+fill ~24~61~49 ~24~61~50 minecraft:concrete 4
+fill ~25~5~49 ~25~5~50 minecraft:concrete 4
+fill ~26~62~49 ~27~62~50 minecraft:concrete 4
+fill ~28~4~49 ~29~4~50 minecraft:concrete 4
+setblock ~28~63~49 minecraft:concrete 4
+setblock ~30~3~49 minecraft:concrete 4
+fill ~31~63~49 ~39~63~50 minecraft:concrete 4
+setblock ~40~3~49 minecraft:concrete 4
+fill ~41~4~49 ~42~4~50 minecraft:concrete 4
+setblock ~42~63~49 minecraft:concrete 4
+fill ~43~62~49 ~43~62~50 minecraft:concrete 4
+fill ~45~5~49 ~45~5~50 minecraft:concrete 4
+fill ~46~61~49 ~46~61~50 minecraft:concrete 4
+fill ~47~6~49 ~47~6~50 minecraft:concrete 4
+fill ~48~60~49 ~48~60~50 minecraft:concrete 4
+fill ~50~59~49 ~50~59~50 minecraft:concrete 4
+fill ~51~8~49 ~51~8~50 minecraft:concrete 4
+fill ~52~25~49 ~59~25~50 minecraft:concrete 15
+fill ~52~58~49 ~52~58~50 minecraft:concrete 4
+setblock ~53~9~49 minecraft:concrete 4
+fill ~53~57~49 ~53~57~50 minecraft:concrete 4
+fill ~54~10~49 ~54~10~50 minecraft:concrete 4
+fill ~55~11~49 ~55~11~50 minecraft:concrete 4
+fill ~56~12~49 ~56~12~50 minecraft:concrete 4
+fill ~57~13~49 ~57~13~50 minecraft:concrete 4
+fill ~58~14~49 ~58~14~50 minecraft:concrete 4
+fill ~59~51~49 ~59~51~50 minecraft:concrete 4
+fill ~60~17~49 ~60~17~50 minecraft:concrete 4
+fill ~60~25~49 ~63~25~49 minecraft:concrete 4
+fill ~61~19~49 ~61~19~50 minecraft:concrete 4
+fill ~61~48~49 ~61~48~50 minecraft:concrete 4
+fill ~62~21~49 ~62~21~50 minecraft:concrete 4
+fill ~62~41~49 ~63~41~49 minecraft:concrete 4
+fill ~62~46~49 ~62~46~50 minecraft:concrete 4
+fill ~63~23~49 ~63~23~50 minecraft:concrete 4
+fill ~63~43~49 ~63~43~50 minecraft:concrete 4
+setblock ~64~42~49 minecraft:concrete 4
+fill ~7~23~50 ~7~23~51 minecraft:concrete 4
+setblock ~7~24~50 minecraft:concrete 4
+fill ~7~42~50 ~8~42~50 minecraft:concrete 4
+setblock ~7~43~50 minecraft:concrete 4
+fill ~8~21~50 ~8~21~51 minecraft:concrete 4
+fill ~8~25~50 ~9~25~50 minecraft:concrete 4
+fill ~8~45~50 ~8~45~51 minecraft:concrete 4
+fill ~9~19~50 ~9~19~51 minecraft:concrete 4
+fill ~9~41~50 ~10~41~50 minecraft:concrete 4
+fill ~9~47~50 ~9~47~51 minecraft:concrete 4
+setblock ~10~17~50 minecraft:concrete 4
+fill ~10~25~50 ~51~25~50 minecraft:concrete 15
+fill ~10~49~50 ~10~49~51 minecraft:concrete 4
+fill ~11~16~50 ~11~16~51 minecraft:concrete 4
+setblock ~11~51~50 minecraft:concrete 4
+fill ~12~52~50 ~12~52~51 minecraft:concrete 4
+setblock ~13~13~50 minecraft:concrete 4
+fill ~13~53~50 ~13~53~51 minecraft:concrete 4
+setblock ~14~12~50 minecraft:concrete 4
+setblock ~15~11~50 minecraft:concrete 4
+fill ~15~55~50 ~15~55~51 minecraft:concrete 4
+fill ~16~56~50 ~16~56~51 minecraft:concrete 4
+setblock ~17~57~50 minecraft:concrete 4
+fill ~18~9~50 ~18~9~51 minecraft:concrete 4
+setblock ~19~8~50 minecraft:concrete 4
+fill ~19~58~50 ~19~58~51 minecraft:concrete 4
+setblock ~20~59~50 minecraft:concrete 4
+fill ~21~7~50 ~21~7~51 minecraft:concrete 4
+fill ~22~60~50 ~22~60~51 minecraft:concrete 4
+fill ~23~6~50 ~23~6~51 minecraft:concrete 4
+fill ~25~61~50 ~25~61~51 minecraft:concrete 4
+fill ~26~5~50 ~26~5~51 minecraft:concrete 4
+setblock ~27~4~50 minecraft:concrete 4
+fill ~28~62~50 ~29~62~51 minecraft:concrete 4
+fill ~30~4~50 ~32~4~51 minecraft:concrete 4
+setblock ~30~63~50 minecraft:concrete 4
+fill ~33~3~50 ~36~3~50 minecraft:concrete 4
+fill ~37~4~50 ~40~4~51 minecraft:concrete 4
+setblock ~40~63~50 minecraft:concrete 4
+fill ~41~62~50 ~42~62~51 minecraft:concrete 4
+fill ~43~5~50 ~44~5~51 minecraft:concrete 4
+setblock ~44~62~50 minecraft:concrete 4
+fill ~45~61~50 ~45~61~51 minecraft:concrete 4
+fill ~46~6~50 ~46~6~51 minecraft:concrete 4
+fill ~47~60~50 ~47~60~51 minecraft:concrete 4
+setblock ~49~7~50 minecraft:concrete 4
+fill ~49~59~50 ~49~59~51 minecraft:concrete 4
+fill ~50~8~50 ~50~8~51 minecraft:concrete 4
+fill ~51~58~50 ~51~58~51 minecraft:concrete 4
+fill ~52~9~50 ~52~9~51 minecraft:concrete 4
+fill ~53~10~50 ~53~10~51 minecraft:concrete 4
+setblock ~54~56~50 minecraft:concrete 4
+fill ~55~55~50 ~55~55~51 minecraft:concrete 4
+fill ~56~54~50 ~56~54~51 minecraft:concrete 4
+setblock ~57~53~50 minecraft:concrete 4
+fill ~58~15~50 ~58~15~51 minecraft:concrete 4
+setblock ~58~52~50 minecraft:concrete 4
+setblock ~59~16~50 minecraft:concrete 4
+fill ~59~50~50 ~59~50~51 minecraft:concrete 4
+fill ~60~18~50 ~60~18~51 minecraft:concrete 4
+fill ~60~25~50 ~61~25~50 minecraft:concrete 4
+setblock ~60~49~50 minecraft:concrete 4
+fill ~61~20~50 ~61~20~51 minecraft:concrete 4
+fill ~61~47~50 ~61~47~51 minecraft:concrete 4
+fill ~62~22~50 ~62~22~51 minecraft:concrete 4
+fill ~62~24~50 ~63~24~50 minecraft:concrete 4
+fill ~62~42~50 ~63~42~50 minecraft:concrete 4
+fill ~62~45~50 ~62~45~51 minecraft:concrete 4
+fill ~8~22~51 ~8~22~52 minecraft:concrete 4
+fill ~8~24~51 ~10~24~51 minecraft:concrete 4
+fill ~8~43~51 ~8~44~51 minecraft:concrete 4
+fill ~9~20~51 ~9~20~52 minecraft:concrete 4
+fill ~9~42~51 ~10~42~51 minecraft:concrete 4
+fill ~9~46~51 ~9~46~52 minecraft:concrete 4
+setblock ~10~18~51 minecraft:concrete 4
+fill ~10~48~51 ~10~48~52 minecraft:concrete 4
+fill ~11~17~51 ~11~17~52 minecraft:concrete 4
+fill ~11~24~51 ~58~24~52 minecraft:concrete 15
+fill ~11~42~51 ~59~42~51 minecraft:concrete 15
+setblock ~11~50~51 minecraft:concrete 4
+setblock ~12~15~51 minecraft:concrete 4
+fill ~12~51~51 ~12~51~52 minecraft:concrete 4
+fill ~13~14~51 ~13~14~52 minecraft:concrete 4
+fill ~14~13~51 ~14~13~52 minecraft:concrete 4
+setblock ~14~54~51 minecraft:concrete 4
+fill ~15~12~51 ~15~12~52 minecraft:concrete 4
+fill ~16~11~51 ~16~11~52 minecraft:concrete 4
+setblock ~17~10~51 minecraft:concrete 4
+fill ~17~56~51 ~17~56~52 minecraft:concrete 4
+fill ~18~57~51 ~18~57~52 minecraft:concrete 4
+fill ~19~9~51 ~19~9~52 minecraft:concrete 4
+setblock ~20~8~51 minecraft:concrete 4
+fill ~20~58~51 ~20~58~52 minecraft:concrete 4
+setblock ~21~59~51 minecraft:concrete 4
+setblock ~22~7~51 minecraft:concrete 4
+fill ~23~60~51 ~24~60~51 minecraft:concrete 4
+fill ~24~6~51 ~25~6~51 minecraft:concrete 4
+fill ~26~61~51 ~27~61~52 minecraft:concrete 4
+fill ~27~5~51 ~29~5~51 minecraft:concrete 4
+fill ~30~62~51 ~40~62~51 minecraft:concrete 4
+fill ~33~4~51 ~36~4~51 minecraft:concrete 4
+fill ~41~5~51 ~42~5~52 minecraft:concrete 4
+fill ~43~61~51 ~44~61~51 minecraft:concrete 4
+fill ~45~6~51 ~45~6~52 minecraft:concrete 4
+fill ~46~60~51 ~46~60~52 minecraft:concrete 4
+fill ~47~7~51 ~48~7~51 minecraft:concrete 4
+fill ~48~59~51 ~48~59~52 minecraft:concrete 4
+fill ~49~8~51 ~49~8~52 minecraft:concrete 4
+fill ~50~58~51 ~50~58~52 minecraft:concrete 4
+fill ~51~9~51 ~51~9~52 minecraft:concrete 4
+setblock ~52~57~51 minecraft:concrete 4
+fill ~53~56~51 ~53~56~52 minecraft:concrete 4
+setblock ~54~11~51 minecraft:concrete 4
+fill ~54~55~51 ~54~55~52 minecraft:concrete 4
+setblock ~55~12~51 minecraft:concrete 4
+setblock ~56~13~51 minecraft:concrete 4
+fill ~56~53~51 ~56~53~52 minecraft:concrete 4
+setblock ~57~14~51 minecraft:concrete 4
+fill ~57~52~51 ~57~52~52 minecraft:concrete 4
+fill ~58~16~51 ~58~16~52 minecraft:concrete 4
+setblock ~58~51~51 minecraft:concrete 4
+fill ~59~17~51 ~59~17~52 minecraft:concrete 4
+fill ~59~24~51 ~61~24~51 minecraft:concrete 4
+fill ~59~49~51 ~59~49~52 minecraft:concrete 4
+fill ~60~19~51 ~60~19~52 minecraft:concrete 4
+fill ~60~42~51 ~61~42~51 minecraft:concrete 4
+setblock ~60~48~51 minecraft:concrete 4
+fill ~61~21~51 ~61~21~52 minecraft:concrete 4
+fill ~61~46~51 ~61~46~52 minecraft:concrete 4
+fill ~62~23~51 ~62~23~52 minecraft:concrete 4
+fill ~62~43~51 ~62~44~51 minecraft:concrete 4
+fill ~8~23~52 ~9~23~52 minecraft:concrete 4
+setblock ~8~44~52 minecraft:concrete 4
+fill ~9~21~52 ~9~21~53 minecraft:concrete 4
+fill ~9~43~52 ~13~43~52 minecraft:concrete 4
+fill ~9~45~52 ~9~45~53 minecraft:concrete 4
+setblock ~10~19~52 minecraft:concrete 4
+setblock ~10~24~52 minecraft:concrete 4
+fill ~10~47~52 ~10~47~53 minecraft:concrete 4
+fill ~11~18~52 ~11~18~53 minecraft:concrete 4
+setblock ~11~49~52 minecraft:concrete 4
+setblock ~12~16~52 minecraft:concrete 4
+fill ~12~50~52 ~12~50~53 minecraft:concrete 4
+fill ~13~15~52 ~13~15~53 minecraft:concrete 4
+setblock ~13~52~52 minecraft:concrete 4
+fill ~14~43~52 ~58~43~52 minecraft:concrete 15
+setblock ~14~53~52 minecraft:concrete 4
+setblock ~15~54~52 minecraft:concrete 4
+setblock ~16~55~52 minecraft:concrete 4
+fill ~17~11~52 ~17~11~53 minecraft:concrete 4
+setblock ~18~10~52 minecraft:concrete 4
+setblock ~19~57~52 minecraft:concrete 4
+fill ~20~9~52 ~20~9~53 minecraft:concrete 4
+fill ~21~8~52 ~22~8~52 minecraft:concrete 4
+fill ~21~58~52 ~21~58~53 minecraft:concrete 4
+fill ~22~59~52 ~23~59~52 minecraft:concrete 4
+fill ~23~7~52 ~24~7~52 minecraft:concrete 4
+fill ~24~60~52 ~25~60~52 minecraft:concrete 4
+fill ~25~6~52 ~27~6~52 minecraft:concrete 4
+fill ~28~5~52 ~33~5~52 minecraft:concrete 4
+fill ~28~61~52 ~29~61~53 minecraft:concrete 4
+fill ~30~62~52 ~39~62~52 minecraft:concrete 4
+fill ~34~4~52 ~35~4~52 minecraft:concrete 4
+fill ~36~5~52 ~40~5~52 minecraft:concrete 4
+fill ~40~61~52 ~43~61~52 minecraft:concrete 4
+fill ~43~6~52 ~44~6~52 minecraft:concrete 4
+fill ~44~60~52 ~45~60~52 minecraft:concrete 4
+fill ~46~7~52 ~47~7~52 minecraft:concrete 4
+fill ~47~59~52 ~47~59~53 minecraft:concrete 4
+fill ~48~8~52 ~48~8~53 minecraft:concrete 4
+fill ~49~58~52 ~49~58~53 minecraft:concrete 4
+fill ~50~9~52 ~50~9~53 minecraft:concrete 4
+setblock ~51~57~52 minecraft:concrete 4
+setblock ~52~10~52 minecraft:concrete 4
+fill ~52~56~52 ~52~56~53 minecraft:concrete 4
+setblock ~53~11~52 minecraft:concrete 4
+setblock ~54~12~52 minecraft:concrete 4
+setblock ~55~13~52 minecraft:concrete 4
+setblock ~55~54~52 minecraft:concrete 4
+setblock ~56~14~52 minecraft:concrete 4
+setblock ~57~15~52 minecraft:concrete 4
+fill ~57~51~52 ~57~51~53 minecraft:concrete 4
+setblock ~58~50~52 minecraft:concrete 4
+fill ~59~18~52 ~59~18~53 minecraft:concrete 4
+setblock ~59~24~52 minecraft:concrete 4
+fill ~59~43~52 ~61~43~52 minecraft:concrete 4
+fill ~59~48~52 ~59~48~53 minecraft:concrete 4
+fill ~60~20~52 ~60~20~53 minecraft:concrete 4
+fill ~60~23~52 ~61~23~52 minecraft:concrete 4
+setblock ~60~47~52 minecraft:concrete 4
+fill ~61~22~52 ~61~22~53 minecraft:concrete 4
+fill ~61~44~52 ~61~44~53 minecraft:concrete 4
+setblock ~61~45~52 minecraft:concrete 4
+setblock ~9~22~53 minecraft:concrete 4
+fill ~9~44~53 ~10~44~53 minecraft:concrete 4
+setblock ~10~20~53 minecraft:concrete 4
+fill ~10~23~53 ~11~23~53 minecraft:concrete 4
+fill ~10~46~53 ~10~46~54 minecraft:concrete 4
+fill ~11~19~53 ~11~19~54 minecraft:concrete 4
+fill ~11~43~53 ~13~43~53 minecraft:concrete 4
+setblock ~11~48~53 minecraft:concrete 4
+setblock ~12~17~53 minecraft:concrete 4
+fill ~12~23~53 ~57~23~53 minecraft:concrete 15
+fill ~12~49~53 ~12~49~54 minecraft:concrete 4
+fill ~13~16~53 ~13~16~54 minecraft:concrete 4
+setblock ~13~51~53 minecraft:concrete 4
+setblock ~14~14~53 minecraft:concrete 4
+fill ~14~43~53 ~57~43~53 minecraft:concrete 15
+setblock ~14~52~53 minecraft:concrete 4
+setblock ~15~13~53 minecraft:concrete 4
+setblock ~15~53~53 minecraft:concrete 4
+setblock ~16~12~53 minecraft:concrete 4
+setblock ~16~54~53 minecraft:concrete 4
+setblock ~17~55~53 minecraft:concrete 4
+fill ~18~11~53 ~18~11~54 minecraft:concrete 4
+fill ~18~56~53 ~19~56~53 minecraft:concrete 4
+setblock ~19~10~53 minecraft:concrete 4
+setblock ~20~57~53 minecraft:concrete 4
+fill ~21~9~53 ~21~9~54 minecraft:concrete 4
+fill ~22~8~53 ~23~8~53 minecraft:concrete 4
+fill ~22~58~53 ~22~58~54 minecraft:concrete 4
+fill ~23~59~53 ~24~59~53 minecraft:concrete 4
+fill ~24~7~53 ~26~7~53 minecraft:concrete 4
+fill ~25~60~53 ~27~60~53 minecraft:concrete 4
+fill ~27~6~53 ~29~6~53 minecraft:concrete 4
+fill ~30~5~53 ~39~5~53 minecraft:concrete 4
+fill ~30~61~53 ~41~61~53 minecraft:concrete 4
+fill ~40~6~53 ~43~6~53 minecraft:concrete 4
+fill ~42~60~53 ~44~60~53 minecraft:concrete 4
+fill ~44~7~53 ~46~7~53 minecraft:concrete 4
+fill ~45~59~53 ~46~59~53 minecraft:concrete 4
+setblock ~47~8~53 minecraft:concrete 4
+setblock ~48~58~53 minecraft:concrete 4
+setblock ~49~9~53 minecraft:concrete 4
+setblock ~50~57~53 minecraft:concrete 4
+setblock ~51~10~53 minecraft:concrete 4
+fill ~51~56~53 ~51~56~54 minecraft:concrete 4
+setblock ~52~11~53 minecraft:concrete 4
+fill ~53~12~53 ~53~12~54 minecraft:concrete 4
+setblock ~53~55~53 minecraft:concrete 4
+fill ~54~13~53 ~54~13~54 minecraft:concrete 4
+setblock ~54~54~53 minecraft:concrete 4
+fill ~55~14~53 ~55~14~54 minecraft:concrete 4
+setblock ~55~53~53 minecraft:concrete 4
+setblock ~56~15~53 minecraft:concrete 4
+setblock ~56~52~53 minecraft:concrete 4
+setblock ~57~16~53 minecraft:concrete 4
+fill ~57~50~53 ~57~50~54 minecraft:concrete 4
+setblock ~58~17~53 minecraft:concrete 4
+fill ~58~23~53 ~59~23~53 minecraft:concrete 4
+fill ~58~43~53 ~59~43~53 minecraft:concrete 4
+setblock ~58~49~53 minecraft:concrete 4
+setblock ~59~19~53 minecraft:concrete 4
+fill ~59~44~53 ~60~44~53 minecraft:concrete 4
+fill ~59~47~53 ~59~47~54 minecraft:concrete 4
+fill ~60~21~53 ~60~21~54 minecraft:concrete 4
+setblock ~60~22~53 minecraft:concrete 4
+fill ~60~45~53 ~60~45~54 minecraft:concrete 4
+setblock ~60~46~53 minecraft:concrete 4
+fill ~10~21~54 ~10~22~54 minecraft:concrete 4
+setblock ~10~45~54 minecraft:concrete 4
+fill ~11~20~54 ~11~20~55 minecraft:concrete 4
+fill ~11~22~54 ~12~22~54 minecraft:concrete 4
+fill ~11~44~54 ~14~44~54 minecraft:concrete 4
+setblock ~11~47~54 minecraft:concrete 4
+setblock ~12~18~54 minecraft:concrete 4
+fill ~12~48~54 ~12~48~55 minecraft:concrete 4
+fill ~13~17~54 ~13~17~55 minecraft:concrete 4
+fill ~13~22~54 ~56~22~54 minecraft:concrete 15
+setblock ~13~50~54 minecraft:concrete 4
+setblock ~14~15~54 minecraft:concrete 4
+setblock ~14~51~54 minecraft:concrete 4
+setblock ~15~14~54 minecraft:concrete 4
+fill ~15~44~54 ~56~44~54 minecraft:concrete 15
+setblock ~15~52~54 minecraft:concrete 4
+setblock ~16~13~54 minecraft:concrete 4
+setblock ~16~53~54 minecraft:concrete 4
+setblock ~17~12~54 minecraft:concrete 4
+setblock ~17~54~54 minecraft:concrete 4
+setblock ~18~55~54 minecraft:concrete 4
+setblock ~19~11~54 minecraft:concrete 4
+fill ~19~56~54 ~20~56~54 minecraft:concrete 4
+setblock ~20~10~54 minecraft:concrete 4
+setblock ~21~57~54 minecraft:concrete 4
+setblock ~22~9~54 minecraft:concrete 4
+fill ~23~8~54 ~25~8~54 minecraft:concrete 4
+fill ~23~58~54 ~24~58~54 minecraft:concrete 4
+fill ~25~59~54 ~26~59~54 minecraft:concrete 4
+fill ~26~7~54 ~28~7~54 minecraft:concrete 4
+fill ~27~60~54 ~31~60~54 minecraft:concrete 4
+fill ~29~6~54 ~41~6~54 minecraft:concrete 4
+fill ~32~61~54 ~38~61~54 minecraft:concrete 4
+fill ~39~60~54 ~42~60~54 minecraft:concrete 4
+fill ~42~7~54 ~44~7~54 minecraft:concrete 4
+fill ~43~59~54 ~45~59~54 minecraft:concrete 4
+fill ~45~8~54 ~46~8~54 minecraft:concrete 4
+fill ~46~58~54 ~47~58~54 minecraft:concrete 4
+fill ~47~9~54 ~48~9~54 minecraft:concrete 4
+fill ~48~57~54 ~49~57~54 minecraft:concrete 4
+fill ~49~10~54 ~50~10~54 minecraft:concrete 4
+setblock ~50~56~54 minecraft:concrete 4
+setblock ~51~11~54 minecraft:concrete 4
+setblock ~52~12~54 minecraft:concrete 4
+setblock ~52~55~54 minecraft:concrete 4
+setblock ~53~54~54 minecraft:concrete 4
+setblock ~54~53~54 minecraft:concrete 4
+fill ~55~15~54 ~55~15~55 minecraft:concrete 4
+setblock ~55~52~54 minecraft:concrete 4
+setblock ~56~16~54 minecraft:concrete 4
+setblock ~56~51~54 minecraft:concrete 4
+setblock ~57~17~54 minecraft:concrete 4
+fill ~57~22~54 ~59~22~54 minecraft:concrete 4
+fill ~57~44~54 ~58~44~54 minecraft:concrete 4
+fill ~57~49~54 ~57~49~55 minecraft:concrete 4
+fill ~58~18~54 ~58~19~54 minecraft:concrete 4
+setblock ~58~48~54 minecraft:concrete 4
+setblock ~59~20~54 minecraft:concrete 4
+fill ~59~45~54 ~59~46~54 minecraft:concrete 4
+fill ~11~21~55 ~12~21~55 minecraft:concrete 4
+fill ~11~45~55 ~16~45~55 minecraft:concrete 4
+setblock ~11~46~55 minecraft:concrete 4
+setblock ~12~19~55 minecraft:concrete 4
+setblock ~12~47~55 minecraft:concrete 4
+setblock ~13~18~55 minecraft:concrete 4
+fill ~13~22~55 ~54~22~55 minecraft:concrete 15
+setblock ~13~49~55 minecraft:concrete 4
+setblock ~14~16~55 minecraft:concrete 4
+setblock ~14~50~55 minecraft:concrete 4
+setblock ~15~15~55 minecraft:concrete 4
+setblock ~15~51~55 minecraft:concrete 4
+setblock ~16~14~55 minecraft:concrete 4
+setblock ~16~52~55 minecraft:concrete 4
+setblock ~17~13~55 minecraft:concrete 4
+fill ~17~45~55 ~54~45~55 minecraft:concrete 15
+setblock ~17~53~55 minecraft:concrete 4
+fill ~18~12~55 ~19~12~55 minecraft:concrete 4
+setblock ~18~54~55 minecraft:concrete 4
+setblock ~19~55~55 minecraft:concrete 4
+setblock ~20~11~55 minecraft:concrete 4
+fill ~20~56~55 ~21~56~55 minecraft:concrete 4
+fill ~21~10~55 ~22~10~55 minecraft:concrete 4
+fill ~22~57~55 ~23~57~55 minecraft:concrete 4
+fill ~23~9~55 ~24~9~55 minecraft:concrete 4
+fill ~24~58~55 ~25~58~55 minecraft:concrete 4
+fill ~25~8~55 ~27~8~55 minecraft:concrete 4
+fill ~26~59~55 ~29~59~55 minecraft:concrete 4
+fill ~28~7~55 ~32~7~55 minecraft:concrete 4
+fill ~30~60~55 ~40~60~55 minecraft:concrete 4
+fill ~33~6~55 ~37~6~55 minecraft:concrete 4
+fill ~38~7~55 ~42~7~55 minecraft:concrete 4
+fill ~41~59~55 ~43~59~55 minecraft:concrete 4
+fill ~43~8~55 ~45~8~55 minecraft:concrete 4
+fill ~44~58~55 ~46~58~55 minecraft:concrete 4
+fill ~46~9~55 ~47~9~55 minecraft:concrete 4
+fill ~47~57~55 ~48~57~55 minecraft:concrete 4
+fill ~48~10~55 ~49~10~55 minecraft:concrete 4
+setblock ~49~56~55 minecraft:concrete 4
+setblock ~50~11~55 minecraft:concrete 4
+fill ~50~55~55 ~51~55~55 minecraft:concrete 4
+setblock ~51~12~55 minecraft:concrete 4
+fill ~52~13~55 ~53~13~55 minecraft:concrete 4
+setblock ~52~54~55 minecraft:concrete 4
+setblock ~53~53~55 minecraft:concrete 4
+setblock ~54~14~55 minecraft:concrete 4
+setblock ~54~52~55 minecraft:concrete 4
+setblock ~55~16~55 minecraft:concrete 4
+fill ~55~22~55 ~57~22~55 minecraft:concrete 4
+fill ~55~45~55 ~58~45~55 minecraft:concrete 4
+setblock ~55~51~55 minecraft:concrete 4
+setblock ~56~17~55 minecraft:concrete 4
+setblock ~56~50~55 minecraft:concrete 4
+setblock ~57~18~55 minecraft:concrete 4
+setblock ~57~48~55 minecraft:concrete 4
+fill ~58~19~55 ~58~21~55 minecraft:concrete 4
+setblock ~58~47~55 minecraft:concrete 4
+setblock ~59~21~55 minecraft:concrete 4
+setblock ~59~46~55 minecraft:concrete 4
+setblock ~12~20~56 minecraft:concrete 4
+fill ~12~46~56 ~13~46~56 minecraft:concrete 4
+setblock ~13~19~56 minecraft:concrete 4
+fill ~13~21~56 ~15~21~56 minecraft:concrete 4
+fill ~13~47~56 ~13~47~57 minecraft:concrete 4
+setblock ~13~48~56 minecraft:concrete 4
+fill ~14~17~56 ~14~18~56 minecraft:concrete 4
+fill ~14~45~56 ~17~45~56 minecraft:concrete 4
+setblock ~14~49~56 minecraft:concrete 4
+setblock ~15~16~56 minecraft:concrete 4
+setblock ~15~50~56 minecraft:concrete 4
+setblock ~16~15~56 minecraft:concrete 4
+fill ~16~21~56 ~52~21~56 minecraft:concrete 15
+setblock ~16~51~56 minecraft:concrete 4
+setblock ~17~14~56 minecraft:concrete 4
+setblock ~17~52~56 minecraft:concrete 4
+setblock ~18~13~56 minecraft:concrete 4
+fill ~18~45~56 ~53~45~56 minecraft:concrete 15
+setblock ~18~53~56 minecraft:concrete 4
+fill ~19~12~56 ~20~12~56 minecraft:concrete 4
+setblock ~19~54~56 minecraft:concrete 4
+fill ~20~55~56 ~21~55~56 minecraft:concrete 4
+fill ~21~11~56 ~22~11~56 minecraft:concrete 4
+fill ~22~56~56 ~23~56~56 minecraft:concrete 4
+fill ~23~10~56 ~24~10~56 minecraft:concrete 4
+fill ~24~57~56 ~25~57~56 minecraft:concrete 4
+fill ~25~9~56 ~26~9~56 minecraft:concrete 4
+fill ~26~58~56 ~28~58~56 minecraft:concrete 4
+fill ~27~8~56 ~30~8~56 minecraft:concrete 4
+fill ~29~59~56 ~41~59~56 minecraft:concrete 4
+fill ~31~7~56 ~39~7~56 minecraft:concrete 4
+fill ~40~8~56 ~43~8~56 minecraft:concrete 4
+fill ~42~58~56 ~44~58~56 minecraft:concrete 4
+fill ~44~9~56 ~45~9~56 minecraft:concrete 4
+fill ~45~57~56 ~46~57~56 minecraft:concrete 4
+fill ~46~10~56 ~47~10~56 minecraft:concrete 4
+fill ~47~56~56 ~48~56~56 minecraft:concrete 4
+fill ~48~11~56 ~49~11~56 minecraft:concrete 4
+setblock ~49~55~56 minecraft:concrete 4
+setblock ~50~12~56 minecraft:concrete 4
+fill ~50~54~56 ~51~54~56 minecraft:concrete 4
+setblock ~51~13~56 minecraft:concrete 4
+fill ~52~14~56 ~53~14~56 minecraft:concrete 4
+setblock ~52~53~56 minecraft:concrete 4
+fill ~53~15~56 ~54~15~56 minecraft:concrete 4
+fill ~53~21~56 ~57~21~56 minecraft:concrete 4
+setblock ~53~52~56 minecraft:concrete 4
+setblock ~54~16~56 minecraft:concrete 4
+fill ~54~45~56 ~56~45~56 minecraft:concrete 4
+setblock ~54~51~56 minecraft:concrete 4
+setblock ~55~17~56 minecraft:concrete 4
+setblock ~55~50~56 minecraft:concrete 4
+setblock ~56~18~56 minecraft:concrete 4
+fill ~56~46~56 ~58~46~56 minecraft:concrete 4
+fill ~56~48~56 ~56~49~56 minecraft:concrete 4
+fill ~57~19~56 ~57~20~56 minecraft:concrete 4
+setblock ~57~47~56 minecraft:concrete 4
+setblock ~58~20~56 minecraft:concrete 4
+fill ~13~20~57 ~15~20~57 minecraft:concrete 4
+setblock ~14~19~57 minecraft:concrete 4
+fill ~14~46~57 ~20~46~57 minecraft:concrete 4
+fill ~14~47~57 ~14~48~57 minecraft:concrete 4
+fill ~15~17~57 ~16~17~57 minecraft:concrete 4
+setblock ~15~18~57 minecraft:concrete 4
+fill ~15~21~57 ~17~21~57 minecraft:concrete 4
+setblock ~15~49~57 minecraft:concrete 4
+setblock ~16~16~57 minecraft:concrete 4
+setblock ~16~50~57 minecraft:concrete 4
+setblock ~17~15~57 minecraft:concrete 4
+setblock ~17~51~57 minecraft:concrete 4
+fill ~18~14~57 ~19~14~57 minecraft:concrete 4
+fill ~18~21~57 ~51~21~57 minecraft:concrete 15
+setblock ~18~52~57 minecraft:concrete 4
+fill ~19~13~57 ~20~13~57 minecraft:concrete 4
+setblock ~19~53~57 minecraft:concrete 4
+fill ~20~54~57 ~21~54~57 minecraft:concrete 4
+setblock ~21~12~57 minecraft:concrete 4
+fill ~21~46~57 ~51~46~57 minecraft:concrete 15
+fill ~22~11~57 ~23~11~57 minecraft:concrete 4
+setblock ~22~55~57 minecraft:concrete 4
+fill ~23~56~57 ~25~56~57 minecraft:concrete 4
+fill ~24~10~57 ~26~10~57 minecraft:concrete 4
+fill ~26~57~57 ~27~57~57 minecraft:concrete 4
+fill ~27~9~57 ~29~9~57 minecraft:concrete 4
+fill ~28~58~57 ~41~58~57 minecraft:concrete 4
+fill ~30~8~57 ~40~8~57 minecraft:concrete 4
+fill ~41~9~57 ~43~9~57 minecraft:concrete 4
+fill ~42~57~57 ~44~57~57 minecraft:concrete 4
+fill ~44~10~57 ~45~10~57 minecraft:concrete 4
+fill ~45~56~57 ~46~56~57 minecraft:concrete 4
+fill ~46~11~57 ~47~11~57 minecraft:concrete 4
+fill ~47~55~57 ~48~55~57 minecraft:concrete 4
+fill ~48~12~57 ~49~12~57 minecraft:concrete 4
+setblock ~49~54~57 minecraft:concrete 4
+setblock ~50~13~57 minecraft:concrete 4
+fill ~50~53~57 ~51~53~57 minecraft:concrete 4
+setblock ~51~14~57 minecraft:concrete 4
+setblock ~52~15~57 minecraft:concrete 4
+fill ~52~20~57 ~56~20~57 minecraft:concrete 4
+fill ~52~46~57 ~55~46~57 minecraft:concrete 4
+setblock ~52~52~57 minecraft:concrete 4
+setblock ~53~16~57 minecraft:concrete 4
+setblock ~53~51~57 minecraft:concrete 4
+setblock ~54~17~57 minecraft:concrete 4
+setblock ~54~50~57 minecraft:concrete 4
+setblock ~55~18~57 minecraft:concrete 4
+fill ~55~48~57 ~55~49~57 minecraft:concrete 4
+setblock ~56~19~57 minecraft:concrete 4
+setblock ~56~47~57 minecraft:concrete 4
+fill ~15~19~58 ~16~19~58 minecraft:concrete 4
+fill ~15~47~58 ~17~47~58 minecraft:concrete 4
+fill ~15~48~58 ~16~48~58 minecraft:concrete 4
+setblock ~16~18~58 minecraft:concrete 4
+fill ~16~20~58 ~19~20~58 minecraft:concrete 4
+setblock ~16~49~58 minecraft:concrete 4
+fill ~17~16~58 ~18~16~58 minecraft:concrete 4
+setblock ~17~17~58 minecraft:concrete 4
+fill ~17~46~58 ~20~46~58 minecraft:concrete 4
+setblock ~17~50~58 minecraft:concrete 4
+fill ~18~15~58 ~19~15~58 minecraft:concrete 4
+setblock ~18~51~58 minecraft:concrete 4
+fill ~19~52~58 ~20~52~58 minecraft:concrete 4
+setblock ~20~14~58 minecraft:concrete 4
+fill ~20~20~58 ~49~20~58 minecraft:concrete 15
+fill ~20~53~58 ~21~53~58 minecraft:concrete 4
+fill ~21~13~58 ~22~13~58 minecraft:concrete 4
+fill ~21~46~58 ~50~46~58 minecraft:concrete 15
+fill ~22~12~58 ~23~12~58 minecraft:concrete 4
+fill ~22~54~58 ~23~54~58 minecraft:concrete 4
+fill ~23~55~58 ~25~55~58 minecraft:concrete 4
+fill ~24~11~58 ~26~11~58 minecraft:concrete 4
+fill ~25~56~58 ~27~56~58 minecraft:concrete 4
+fill ~27~10~58 ~29~10~58 minecraft:concrete 4
+fill ~28~57~58 ~32~57~58 minecraft:concrete 4
+fill ~30~9~58 ~40~9~58 minecraft:concrete 4
+fill ~33~58~58 ~36~58~58 minecraft:concrete 4
+fill ~37~57~58 ~42~57~58 minecraft:concrete 4
+fill ~41~10~58 ~43~10~58 minecraft:concrete 4
+fill ~43~56~58 ~44~56~58 minecraft:concrete 4
+fill ~44~11~58 ~45~11~58 minecraft:concrete 4
+fill ~45~55~58 ~46~55~58 minecraft:concrete 4
+fill ~46~12~58 ~47~12~58 minecraft:concrete 4
+fill ~47~54~58 ~48~54~58 minecraft:concrete 4
+fill ~48~13~58 ~49~13~58 minecraft:concrete 4
+setblock ~49~53~58 minecraft:concrete 4
+setblock ~50~14~58 minecraft:concrete 4
+fill ~50~20~58 ~53~20~58 minecraft:concrete 4
+fill ~50~52~58 ~51~52~58 minecraft:concrete 4
+setblock ~51~15~58 minecraft:concrete 4
+fill ~51~46~58 ~52~46~58 minecraft:concrete 4
+fill ~51~51~58 ~52~51~58 minecraft:concrete 4
+setblock ~52~16~58 minecraft:concrete 4
+fill ~52~47~58 ~55~47~58 minecraft:concrete 4
+fill ~52~50~58 ~53~50~58 minecraft:concrete 4
+setblock ~53~17~58 minecraft:concrete 4
+fill ~53~19~58 ~55~19~58 minecraft:concrete 4
+fill ~53~49~58 ~54~49~58 minecraft:concrete 4
+setblock ~54~18~58 minecraft:concrete 4
+setblock ~54~48~58 minecraft:concrete 4
+fill ~17~18~59 ~17~19~59 minecraft:concrete 4
+fill ~17~48~59 ~18~49~59 minecraft:concrete 4
+setblock ~18~17~59 minecraft:concrete 4
+fill ~18~19~59 ~20~19~59 minecraft:concrete 4
+fill ~18~47~59 ~22~47~59 minecraft:concrete 4
+fill ~18~50~59 ~19~50~59 minecraft:concrete 4
+setblock ~19~16~59 minecraft:concrete 4
+fill ~19~51~59 ~20~51~59 minecraft:concrete 4
+setblock ~20~15~59 minecraft:concrete 4
+fill ~21~14~59 ~22~14~59 minecraft:concrete 4
+fill ~21~19~59 ~46~19~59 minecraft:concrete 15
+setblock ~21~52~59 minecraft:concrete 4
+fill ~22~53~59 ~23~53~59 minecraft:concrete 4
+fill ~23~13~59 ~24~13~59 minecraft:concrete 4
+fill ~23~47~59 ~48~47~59 minecraft:concrete 15
+fill ~24~12~59 ~26~12~59 minecraft:concrete 4
+fill ~24~54~59 ~25~54~59 minecraft:concrete 4
+fill ~26~55~59 ~27~55~59 minecraft:concrete 4
+fill ~27~11~59 ~29~11~59 minecraft:concrete 4
+fill ~28~56~59 ~32~56~59 minecraft:concrete 4
+fill ~30~10~59 ~40~10~59 minecraft:concrete 4
+fill ~33~57~59 ~37~57~59 minecraft:concrete 4
+fill ~37~56~59 ~42~56~59 minecraft:concrete 4
+fill ~41~11~59 ~43~11~59 minecraft:concrete 4
+fill ~42~55~59 ~44~55~59 minecraft:concrete 4
+fill ~44~12~59 ~45~12~59 minecraft:concrete 4
+fill ~45~54~59 ~46~54~59 minecraft:concrete 4
+fill ~46~13~59 ~47~13~59 minecraft:concrete 4
+fill ~47~19~59 ~52~19~59 minecraft:concrete 4
+fill ~47~53~59 ~48~53~59 minecraft:concrete 4
+fill ~48~14~59 ~49~14~59 minecraft:concrete 4
+fill ~49~15~59 ~50~15~59 minecraft:concrete 4
+fill ~49~47~59 ~51~47~59 minecraft:concrete 4
+setblock ~49~52~59 minecraft:concrete 4
+fill ~50~16~59 ~51~16~59 minecraft:concrete 4
+setblock ~50~51~59 minecraft:concrete 4
+fill ~51~48~59 ~53~48~59 minecraft:concrete 4
+setblock ~51~50~59 minecraft:concrete 4
+fill ~52~17~59 ~52~18~59 minecraft:concrete 4
+setblock ~52~49~59 minecraft:concrete 4
+setblock ~53~18~59 minecraft:concrete 4
+fill ~18~18~60 ~21~18~60 minecraft:concrete 4
+fill ~19~17~60 ~20~17~60 minecraft:concrete 4
+fill ~19~48~60 ~26~48~60 minecraft:concrete 4
+fill ~19~49~60 ~21~49~60 minecraft:concrete 4
+fill ~20~16~60 ~21~16~60 minecraft:concrete 4
+setblock ~20~50~60 minecraft:concrete 4
+fill ~21~15~60 ~22~15~60 minecraft:concrete 4
+fill ~21~19~60 ~23~19~60 minecraft:concrete 4
+fill ~21~51~60 ~22~51~60 minecraft:concrete 4
+fill ~22~52~60 ~23~52~60 minecraft:concrete 4
+fill ~23~14~60 ~24~14~60 minecraft:concrete 4
+fill ~24~19~60 ~45~19~60 minecraft:concrete 15
+fill ~24~53~60 ~25~53~60 minecraft:concrete 4
+fill ~25~13~60 ~26~13~60 minecraft:concrete 4
+fill ~26~54~60 ~28~54~60 minecraft:concrete 4
+fill ~27~12~60 ~29~12~60 minecraft:concrete 4
+fill ~27~48~60 ~41~48~60 minecraft:concrete 15
+fill ~28~55~60 ~41~55~60 minecraft:concrete 4
+fill ~30~11~60 ~40~11~60 minecraft:concrete 4
+fill ~33~56~60 ~36~56~60 minecraft:concrete 4
+fill ~40~12~60 ~43~12~60 minecraft:concrete 4
+fill ~42~48~60 ~50~48~60 minecraft:concrete 4
+fill ~42~54~60 ~44~54~60 minecraft:concrete 4
+fill ~44~13~60 ~45~13~60 minecraft:concrete 4
+fill ~45~53~60 ~46~53~60 minecraft:concrete 4
+fill ~46~14~60 ~47~14~60 minecraft:concrete 4
+fill ~46~19~60 ~49~19~60 minecraft:concrete 4
+fill ~46~52~60 ~48~52~60 minecraft:concrete 4
+fill ~47~15~60 ~48~15~60 minecraft:concrete 4
+fill ~48~18~60 ~51~18~60 minecraft:concrete 4
+fill ~48~51~60 ~49~51~60 minecraft:concrete 4
+setblock ~49~16~60 minecraft:concrete 4
+fill ~49~50~60 ~50~50~60 minecraft:concrete 4
+fill ~50~17~60 ~51~17~60 minecraft:concrete 4
+fill ~50~49~60 ~51~49~60 minecraft:concrete 4
+fill ~21~17~61 ~22~17~61 minecraft:concrete 4
+fill ~21~49~61 ~24~49~61 minecraft:concrete 4
+fill ~21~50~61 ~22~50~61 minecraft:concrete 4
+fill ~22~16~61 ~23~16~61 minecraft:concrete 4
+fill ~22~18~61 ~47~18~61 minecraft:concrete 4
+fill ~23~15~61 ~25~15~61 minecraft:concrete 4
+fill ~23~48~61 ~46~48~61 minecraft:concrete 4
+fill ~23~51~61 ~24~51~61 minecraft:concrete 4
+fill ~24~52~61 ~26~52~61 minecraft:concrete 4
+fill ~25~14~61 ~27~14~61 minecraft:concrete 4
+fill ~26~53~61 ~29~53~61 minecraft:concrete 4
+fill ~27~13~61 ~30~13~61 minecraft:concrete 4
+fill ~29~54~61 ~41~54~61 minecraft:concrete 4
+fill ~30~12~61 ~39~12~61 minecraft:concrete 4
+fill ~39~13~61 ~43~13~61 minecraft:concrete 4
+fill ~41~53~61 ~44~53~61 minecraft:concrete 4
+fill ~43~14~61 ~45~14~61 minecraft:concrete 4
+fill ~44~52~61 ~45~52~61 minecraft:concrete 4
+fill ~45~15~61 ~46~15~61 minecraft:concrete 4
+fill ~46~49~61 ~49~49~61 minecraft:concrete 4
+fill ~46~51~61 ~47~51~61 minecraft:concrete 4
+fill ~47~16~61 ~48~17~61 minecraft:concrete 4
+fill ~47~50~61 ~48~50~61 minecraft:concrete 4
+setblock ~49~17~61 minecraft:concrete 4
+fill ~23~17~62 ~46~17~62 minecraft:concrete 4
+fill ~23~50~62 ~27~50~62 minecraft:concrete 4
+fill ~24~16~62 ~26~16~62 minecraft:concrete 4
+fill ~25~49~62 ~45~49~62 minecraft:concrete 4
+fill ~25~51~62 ~27~51~62 minecraft:concrete 4
+fill ~26~15~62 ~28~15~62 minecraft:concrete 4
+fill ~27~52~62 ~30~52~62 minecraft:concrete 4
+fill ~28~14~62 ~33~14~62 minecraft:concrete 4
+fill ~30~53~62 ~40~53~62 minecraft:concrete 4
+fill ~31~13~62 ~38~13~62 minecraft:concrete 4
+fill ~37~14~62 ~42~14~62 minecraft:concrete 4
+fill ~40~52~62 ~43~52~62 minecraft:concrete 4
+fill ~42~15~62 ~44~15~62 minecraft:concrete 4
+fill ~43~50~62 ~46~50~62 minecraft:concrete 4
+fill ~43~51~62 ~45~51~62 minecraft:concrete 4
+fill ~44~16~62 ~46~16~62 minecraft:concrete 4
+fill ~27~16~63 ~43~16~63 minecraft:concrete 4
+fill ~28~50~63 ~42~51~63 minecraft:concrete 4
+fill ~29~15~63 ~41~15~63 minecraft:concrete 4
+fill ~30~17~63 ~39~17~63 minecraft:concrete 4
+fill ~31~52~63 ~39~52~63 minecraft:concrete 4
+fill ~34~14~63 ~36~14~63 minecraft:concrete 4

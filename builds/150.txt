@@ -1,0 +1,213 @@
+setblock ~1 ~0 ~9 wool 0 
+setblock ~2 ~0 ~8 wool 0  
+fill ~2 ~0 ~9 ~5 ~0 ~9 stone 0  
+fill ~2 ~0 ~10 ~5 ~0 ~10 stone 0 
+setblock ~2 ~0 ~13 torch 5 
+setblock ~3 ~0 ~7 wool 0  
+fill ~3 ~0 ~8 ~4 ~0 ~8 stone 0  
+fill ~3 ~0 ~11 ~6 ~0 ~11 stone 0 
+setblock ~4 ~0 ~14 torch 5  
+fill ~5 ~0 ~12 ~6 ~0 ~12 stone 0  
+fill ~6 ~0 ~8 ~10 ~0 ~8 stone 0 
+setblock ~6 ~0 ~14 torch 5 
+setblock ~7 ~0 ~3 wool 0  
+fill ~7 ~0 ~7 ~10 ~0 ~7 stone 0  
+fill ~7 ~0 ~9 ~11 ~0 ~9 stone 0  
+fill ~7 ~0 ~10 ~11 ~0 ~10 stone 0 
+setblock ~8 ~0 ~2 wool 0  
+fill ~8 ~0 ~3 ~11 ~0 ~3 stone 0  
+fill ~8 ~0 ~4 ~11 ~0 ~4 stone 0  
+fill ~8 ~0 ~6 ~9 ~0 ~6 stone 0  
+fill ~8 ~0 ~11 ~11 ~0 ~11 stone 0 
+setblock ~8 ~0 ~14 torch 5 
+setblock ~9 ~0 ~1 wool 0  
+fill ~9 ~0 ~2 ~10 ~0 ~2 stone 0  
+fill ~9 ~0 ~5 ~12 ~0 ~5 stone 0 
+setblock ~10 ~0 ~14 torch 5  
+fill ~11 ~0 ~6 ~12 ~0 ~6 stone 0  
+fill ~11 ~0 ~12 ~12 ~0 ~12 wool 0  
+fill ~12 ~0 ~11 ~12 ~2 ~11 wool 0 
+setblock ~13 ~0 ~2 torch 5 
+setblock ~14 ~0 ~4 torch 5 
+setblock ~14 ~0 ~6 torch 5 
+setblock ~14 ~0 ~8 torch 5 
+setblock ~14 ~0 ~10 torch 5  
+fill ~3 ~1 ~9 ~4 ~1 ~9 stone 0  
+fill ~3 ~1 ~10 ~11 ~1 ~10 stone 0  
+fill ~4 ~1 ~11 ~10 ~1 ~11 stone 0  
+fill ~5 ~1 ~12 ~5 ~0 ~12 stone 0  
+fill ~6 ~1 ~8 ~8 ~1 ~8 wool 0  
+fill ~6 ~1 ~9 ~7 ~1 ~9 wool 0  
+fill ~7 ~1 ~7 ~9 ~1 ~7 wool 0  
+fill ~8 ~1 ~6 ~9 ~1 ~6 wool 0  
+fill ~8 ~1 ~9 ~11 ~1 ~9 stone 0  
+fill ~9 ~1 ~3 ~10 ~1 ~3 stone 0  
+fill ~9 ~1 ~4 ~11 ~1 ~4 stone 0  
+fill ~9 ~1 ~8 ~11 ~1 ~8 stone 0  
+fill ~10 ~1 ~5 ~12 ~1 ~5 stone 0  
+fill ~10 ~1 ~6 ~11 ~1 ~6 stone 0  
+fill ~10 ~1 ~7 ~11 ~1 ~7 stone 0  
+fill ~11 ~1 ~11 ~11 ~2 ~11 wool 0  
+fill ~11 ~1 ~12 ~12 ~1 ~12 wool 0  
+fill ~12 ~1 ~13 ~12 ~4 ~13 wool 0  
+fill ~3 ~2 ~10 ~12 ~2 ~10 stone 0  
+fill ~4 ~2 ~9 ~5 ~2 ~9 stone 0  
+fill ~4 ~2 ~11 ~10 ~2 ~11 stone 0  
+fill ~6 ~2 ~8 ~6 ~6 ~8 wool 0  
+fill ~6 ~2 ~9 ~6 ~5 ~9 wool 0  
+fill ~7 ~2 ~7 ~7 ~6 ~7 wool 0  
+fill ~7 ~2 ~8 ~12 ~2 ~8 stone 0  
+fill ~7 ~2 ~9 ~12 ~2 ~9 stone 0  
+fill ~7 ~2 ~12 ~10 ~2 ~12 stone 0  
+fill ~8 ~2 ~6 ~9 ~2 ~6 wool 0  
+fill ~8 ~2 ~7 ~12 ~2 ~7 stone 0  
+fill ~9 ~2 ~4 ~11 ~2 ~4 stone 0  
+fill ~9 ~2 ~5 ~11 ~2 ~5 stone 0  
+fill ~10 ~2 ~6 ~11 ~2 ~6 stone 0  
+fill ~11 ~2 ~12 ~12 ~2 ~12 wool 0  
+fill ~11 ~2 ~13 ~11 ~3 ~13 wool 0  
+fill ~4 ~3 ~9 ~5 ~3 ~9 stone 0  
+fill ~4 ~3 ~10 ~12 ~3 ~10 stone 0  
+fill ~5 ~3 ~11 ~11 ~3 ~11 stone 0  
+fill ~5 ~3 ~12 ~5 ~3 ~9 stone 0  
+fill ~6 ~3 ~7 ~6 ~7 ~7 wool 0  
+fill ~7 ~3 ~6 ~9 ~3 ~6 wool 0  
+fill ~7 ~3 ~8 ~12 ~3 ~8 stone 0  
+fill ~7 ~3 ~9 ~12 ~3 ~9 stone 0  
+fill ~7 ~3 ~12 ~10 ~3 ~12 stone 0  
+fill ~8 ~3 ~7 ~12 ~3 ~7 stone 0  
+fill ~10 ~3 ~4 ~10 ~3 ~12 stone 0  
+fill ~11 ~3 ~5 ~11 ~3 ~11 stone 0 
+setblock ~12 ~3 ~12 wool 0  
+fill ~12 ~3 ~14 ~13 ~3 ~14 wool 0  
+fill ~13 ~3 ~13 ~13 ~5 ~13 wool 0  
+fill ~4 ~4 ~10 ~12 ~4 ~10 stone 0  
+fill ~5 ~4 ~11 ~11 ~4 ~11 stone 0  
+fill ~6 ~4 ~12 ~10 ~4 ~12 stone 0  
+fill ~7 ~4 ~6 ~9 ~4 ~6 wool 0 
+setblock ~7 ~4 ~8 wool 0  
+fill ~7 ~4 ~9 ~12 ~4 ~9 stone 0 
+setblock ~8 ~4 ~7 wool 0  
+fill ~8 ~4 ~8 ~12 ~4 ~8 stone 0  
+fill ~9 ~4 ~7 ~12 ~4 ~7 stone 0  
+fill ~10 ~4 ~5 ~10 ~5 ~5 stone 0  
+fill ~10 ~4 ~6 ~11 ~4 ~6 stone 0  
+fill ~12 ~4 ~14 ~14 ~4 ~14 wool 0 
+setblock ~5 ~5 ~10 stone 5  
+fill ~6 ~5 ~10 ~12 ~5 ~10 stone 0  
+fill ~6 ~5 ~11 ~11 ~5 ~11 stone 0  
+fill ~7 ~5 ~6 ~9 ~5 ~6 wool 0  
+fill ~7 ~5 ~8 ~12 ~5 ~8 stone 0  
+fill ~7 ~5 ~9 ~12 ~5 ~9 stone 0  
+fill ~7 ~5 ~12 ~10 ~5 ~12 stone 0  
+fill ~8 ~5 ~7 ~12 ~5 ~7 stone 0  
+fill ~10 ~5 ~6 ~11 ~5 ~6 stone 0  
+fill ~12 ~5 ~14 ~14 ~5 ~14 wool 0  
+fill ~6 ~6 ~9 ~7 ~6 ~9 stone 5  
+fill ~6 ~6 ~10 ~7 ~6 ~10 stone 5  
+fill ~7 ~6 ~6 ~8 ~6 ~6 wool 0  
+fill ~7 ~6 ~8 ~7 ~9 ~8 stone 5  
+fill ~7 ~6 ~11 ~11 ~6 ~11 stone 5  
+fill ~8 ~6 ~7 ~11 ~6 ~7 stone 5  
+fill ~8 ~6 ~12 ~10 ~6 ~12 stone 5  
+fill ~9 ~6 ~6 ~10 ~6 ~6 stone 5  
+fill ~11 ~6 ~8 ~12 ~6 ~8 stone 5  
+fill ~11 ~6 ~9 ~12 ~6 ~9 stone 5  
+fill ~11 ~6 ~10 ~12 ~6 ~10 stone 5  
+fill ~13 ~6 ~14 ~14 ~6 ~14 wool 0 
+setblock ~14 ~6 ~13 wool 0  
+fill ~2 ~7 ~2 ~4 ~7 ~2 wool 4  
+fill ~2 ~7 ~3 ~5 ~7 ~3 wool 4  
+fill ~2 ~7 ~4 ~4 ~7 ~4 wool 4  
+fill ~3 ~7 ~5 ~3 ~8 ~5 wool 4  
+fill ~5 ~7 ~9 ~7 ~7 ~9 stone 5  
+fill ~6 ~7 ~8 ~6 ~9 ~8 stone 5  
+fill ~6 ~7 ~10 ~7 ~7 ~10 stone 5  
+fill ~7 ~7 ~6 ~7 ~3 ~6 wool 0  
+fill ~7 ~7 ~7 ~10 ~7 ~7 stone 5  
+fill ~8 ~7 ~6 ~10 ~7 ~6 stone 5  
+fill ~8 ~7 ~11 ~10 ~7 ~11 stone 5  
+fill ~9 ~7 ~5 ~9 ~9 ~5 stone 5  
+fill ~11 ~7 ~8 ~11 ~8 ~8 stone 5  
+fill ~11 ~7 ~9 ~11 ~8 ~9 stone 5  
+fill ~11 ~7 ~10 ~11 ~8 ~10 stone 5  
+fill ~14 ~7 ~14 ~14 ~7 ~14 wool 0  
+fill ~2 ~8 ~2 ~4 ~8 ~2 wool 4  
+fill ~2 ~8 ~3 ~5 ~8 ~3 wool 4  
+fill ~2 ~8 ~4 ~4 ~8 ~4 wool 4 
+setblock ~3 ~8 ~6 wool 0  
+fill ~3 ~8 ~7 ~3 ~8 ~8 stone 5  
+fill ~4 ~8 ~8 ~4 ~8 ~9 stone 5  
+fill ~5 ~8 ~9 ~7 ~8 ~9 stone 5  
+fill ~5 ~8 ~10 ~8 ~8 ~10 stone 5 
+setblock ~6 ~8 ~3 wool 0  
+fill ~6 ~8 ~7 ~10 ~8 ~7 stone 5  
+fill ~7 ~8 ~3 ~8 ~8 ~3 stone 5  
+fill ~7 ~8 ~6 ~10 ~8 ~6 stone 5  
+fill ~8 ~8 ~4 ~9 ~8 ~4 stone 5  
+fill ~8 ~8 ~8 ~9 ~8 ~8 stone 0  
+fill ~8 ~8 ~9 ~9 ~8 ~9 stone 0  
+fill ~8 ~8 ~11 ~10 ~8 ~11 stone 5  
+fill ~10 ~8 ~5 ~10 ~9 ~5 stone 5  
+fill ~10 ~8 ~8 ~10 ~9 ~8 stone 5  
+fill ~5 ~9 ~9 ~7 ~9 ~9 stone 5  
+fill ~5 ~9 ~10 ~6 ~9 ~10 stone 5  
+fill ~6 ~9 ~7 ~10 ~9 ~7 stone 5  
+fill ~7 ~9 ~6 ~10 ~9 ~6 stone 5  
+fill ~7 ~9 ~10 ~7 ~13 ~10 stone 0  
+fill ~8 ~9 ~8 ~9 ~9 ~8 stone 0  
+fill ~8 ~9 ~9 ~9 ~9 ~9 stone 0  
+fill ~8 ~9 ~10 ~10 ~9 ~10 stone 5 
+setblock ~10 ~9 ~9 stone 5  
+fill ~4 ~10 ~4 ~5 ~10 ~4 stone 5  
+fill ~4 ~10 ~5 ~6 ~10 ~5 stone 5  
+fill ~5 ~10 ~6 ~5 ~12 ~6 stone 5  
+fill ~5 ~10 ~7 ~10 ~10 ~7 stone 0  
+fill ~6 ~10 ~6 ~8 ~10 ~6 stone 0  
+fill ~6 ~10 ~8 ~10 ~10 ~8 stone 0  
+fill ~7 ~10 ~5 ~7 ~11 ~5 stone 0  
+fill ~7 ~10 ~9 ~10 ~10 ~9 stone 0  
+fill ~8 ~10 ~10 ~10 ~10 ~10 stone 0 
+setblock ~4 ~11 ~4 wool 6  
+fill ~4 ~11 ~5 ~6 ~11 ~5 stone 5 
+setblock ~5 ~11 ~4 stone 5  
+fill ~5 ~11 ~7 ~8 ~11 ~7 stone 0  
+fill ~5 ~11 ~8 ~11 ~11 ~8 stone 0  
+fill ~5 ~11 ~9 ~11 ~11 ~9 stone 0  
+fill ~6 ~11 ~6 ~10 ~11 ~6 stone 0  
+fill ~6 ~11 ~10 ~6 ~13 ~10 stone 0  
+fill ~7 ~11 ~11 ~9 ~11 ~11 stone 0  
+fill ~8 ~11 ~5 ~8 ~12 ~5 stone 0  
+fill ~8 ~11 ~10 ~10 ~11 ~10 stone 0 
+setblock ~10 ~11 ~7 stone 0  
+fill ~5 ~12 ~5 ~6 ~12 ~5 stone 5 
+setblock ~5 ~12 ~7 obsidian 5  
+fill ~5 ~12 ~8 ~7 ~12 ~8 stone 0  
+fill ~5 ~12 ~9 ~11 ~12 ~9 stone 0  
+fill ~6 ~12 ~6 ~10 ~12 ~6 stone 0  
+fill ~6 ~12 ~7 ~8 ~12 ~7 stone 0 
+setblock ~7 ~12 ~5 obsidian 5  
+fill ~7 ~12 ~11 ~9 ~12 ~11 stone 0  
+fill ~8 ~12 ~10 ~10 ~12 ~10 stone 0  
+fill ~10 ~12 ~7 ~10 ~12 ~8 stone 5 
+setblock ~11 ~12 ~8 stone 0  
+fill ~6 ~13 ~6 ~10 ~13 ~6 stone 0  
+fill ~6 ~13 ~7 ~10 ~13 ~7 stone 0  
+fill ~6 ~13 ~8 ~7 ~13 ~8 stone 0  
+fill ~6 ~13 ~9 ~10 ~13 ~9 stone 0  
+fill ~6 ~13 ~11 ~7 ~13 ~11 stone 5  
+fill ~8 ~13 ~10 ~10 ~13 ~10 stone 0 
+setblock ~10 ~13 ~8 stone 0  
+fill ~11 ~13 ~6 ~11 ~15 ~6 stone 5  
+fill ~11 ~13 ~7 ~11 ~16 ~7 stone 5  
+fill ~6 ~14 ~11 ~7 ~14 ~11 stone 5  
+fill ~7 ~14 ~7 ~9 ~14 ~7 stone 0  
+fill ~7 ~14 ~8 ~8 ~14 ~8 stone 0  
+fill ~7 ~14 ~9 ~9 ~14 ~9 stone 0  
+fill ~7 ~14 ~10 ~7 ~15 ~10 wool 6  
+fill ~8 ~14 ~10 ~8 ~17 ~10 stone 5  
+fill ~9 ~14 ~8 ~10 ~14 ~8 stone 5  
+fill ~10 ~14 ~7 ~10 ~15 ~7 wool 6  
+fill ~6 ~15 ~11 ~7 ~15 ~11 stone 5  
+fill ~10 ~15 ~8 ~10 ~17 ~8 stone 5 
+setblock ~7 ~16 ~11 stone 5    

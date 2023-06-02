@@ -1,0 +1,3805 @@
+fill ~11~3~1 ~17~4~1 concrete 8
+fill ~11~5~1 ~17~5~1 concrete 7
+fill ~11~6~1 ~12~6~1 stone_block_slab 6
+fill ~16~6~1 ~17~6~1 stone_block_slab 6
+fill ~9~0~2 ~10~1~2 quartz_block 0
+fill ~9~2~2 ~10~2~2 concrete 7
+fill ~9~3~2 ~10~4~2 concrete 8
+fill ~9~5~2 ~10~5~2 concrete 7
+fill ~9~6~2 ~10~6~2 stone_block_slab 6
+fill ~11~0~2 ~17~0~2 sea_lantern
+fill ~11~6~2 ~17~7~2 quartz_block 0
+fill ~18~0~2 ~19~1~2 quartz_block 0
+fill ~18~2~2 ~19~2~2 concrete 7
+fill ~18~3~2 ~19~4~2 concrete 8
+fill ~18~5~2 ~19~5~2 concrete 7
+fill ~18~6~2 ~19~6~2 stone_block_slab 6
+fill ~8~0~3 ~8~1~3 quartz_block 0
+setblock ~8~2~3 concrete 7
+fill ~8~3~3 ~8~4~3 concrete 8
+setblock ~8~5~3 concrete 7
+setblock ~8~6~3 stone_block_slab 6
+fill ~9~0~3 ~10~0~3 sea_lantern
+fill ~9~6~3 ~10~7~3 quartz_block 0
+fill ~11~1~3 ~17~1~22 planks 2
+fill ~11~6~3 ~17~6~19 planks 2
+fill ~11~7~3 ~17~7~3 stone_block_slab 6
+fill ~18~0~3 ~19~0~3 sea_lantern
+fill ~18~6~3 ~19~7~3 quartz_block 0
+fill ~20~0~3 ~20~1~3 quartz_block 0
+setblock ~20~2~3 concrete 7
+fill ~20~3~3 ~20~4~3 concrete 8
+setblock ~20~5~3 concrete 7
+setblock ~20~6~3 stone_block_slab 6
+fill ~7~0~4 ~7~1~5 quartz_block 0
+fill ~7~2~4 ~7~2~5 concrete 7
+fill ~7~3~4 ~7~4~5 concrete 8
+fill ~7~5~4 ~7~5~5 concrete 7
+setblock ~7~6~4 stone_block_slab 6
+fill ~8~0~4 ~8~0~5 sea_lantern
+fill ~8~6~4 ~8~7~4 quartz_block 0
+fill ~9~1~4 ~10~1~22 planks 2
+fill ~9~6~4 ~10~6~28 planks 2
+fill ~9~7~4 ~10~7~4 stone_block_slab 6
+fill ~18~1~4 ~19~1~33 planks 2
+fill ~18~6~4 ~19~6~99 planks 2
+fill ~18~7~4 ~19~7~4 stone_block_slab 6
+fill ~20~0~4 ~20~0~5 sea_lantern
+fill ~20~6~4 ~20~7~4 quartz_block 0
+fill ~21~0~4 ~21~1~5 quartz_block 0
+fill ~21~2~4 ~21~2~5 concrete 7
+fill ~21~3~4 ~21~4~5 concrete 8
+fill ~21~5~4 ~21~5~5 concrete 7
+setblock ~21~6~4 stone_block_slab 6
+fill ~7~6~5 ~7~7~6 quartz_block 0
+fill ~8~6~5 ~8~6~46 planks 2
+fill ~8~7~5 ~8~7~6 stone_block_slab 6
+fill ~13~7~5 ~15~7~5 stone_block_slab 6
+fill ~20~6~5 ~20~6~54 planks 2
+fill ~20~7~5 ~20~7~6 stone_block_slab 6
+fill ~21~6~5 ~21~7~6 quartz_block 0
+fill ~6~0~6 ~6~1~8 quartz_block 0
+fill ~6~2~6 ~6~2~8 concrete 7
+fill ~6~3~6 ~6~4~8 concrete 8
+fill ~6~5~6 ~6~5~8 concrete 7
+setblock ~6~6~6 stone_block_slab 6
+fill ~7~0~6 ~7~0~8 sea_lantern
+fill ~8~1~6 ~8~1~22 planks 2
+fill ~11~7~6 ~12~7~6 stone_block_slab 6
+fill ~13~7~6 ~15~7~6 planks 2
+fill ~16~7~6 ~17~7~6 stone_block_slab 6
+fill ~20~1~6 ~20~1~33 planks 2
+fill ~21~0~6 ~21~0~8 sea_lantern
+fill ~22~0~6 ~22~1~8 quartz_block 0
+fill ~22~2~6 ~22~2~8 concrete 7
+fill ~22~3~6 ~22~4~8 concrete 8
+fill ~22~5~6 ~22~5~8 concrete 7
+setblock ~22~6~6 stone_block_slab 6
+fill ~6~6~7 ~6~7~9 quartz_block 0
+fill ~7~6~7 ~7~6~93 planks 2
+setblock ~10~7~7 stone_block_slab 6
+fill ~11~7~7 ~12~7~7 planks 2
+fill ~16~7~7 ~17~7~7 planks 2
+setblock ~18~7~7 stone_block_slab 6
+fill ~21~6~7 ~21~6~120 planks 2
+fill ~22~6~7 ~22~7~9 quartz_block 0
+setblock ~9~7~8 stone_block_slab 6
+setblock ~10~7~8 planks 2
+setblock ~18~7~8 planks 2
+setblock ~19~7~8 stone_block_slab 6
+fill ~5~0~9 ~5~1~15 quartz_block 0
+fill ~5~2~9 ~5~2~15 concrete 7
+fill ~5~3~9 ~5~4~15 concrete 8
+fill ~5~5~9 ~5~5~15 concrete 7
+setblock ~5~6~9 stone_block_slab 6
+fill ~6~0~9 ~6~0~15 sea_lantern
+fill ~7~1~9 ~7~1~22 planks 2
+fill ~8~7~9 ~8~7~10 stone_block_slab 6
+fill ~9~7~9 ~9~7~10 planks 2
+fill ~19~7~9 ~19~7~10 planks 2
+fill ~20~7~9 ~20~7~10 stone_block_slab 6
+fill ~21~1~9 ~21~1~33 planks 2
+fill ~22~0~9 ~22~0~15 sea_lantern
+fill ~23~0~9 ~23~1~15 quartz_block 0
+fill ~23~2~9 ~23~2~15 concrete 7
+fill ~23~3~9 ~23~4~15 concrete 8
+fill ~23~5~9 ~23~5~15 concrete 7
+setblock ~23~6~9 stone_block_slab 6
+fill ~5~6~10 ~5~7~15 quartz_block 0
+fill ~6~6~10 ~6~6~93 planks 2
+fill ~22~6~10 ~22~6~99 planks 2
+fill ~23~6~10 ~23~7~15 quartz_block 0
+fill ~7~7~11 ~7~7~13 stone_block_slab 6
+setblock ~8~7~11 planks 2
+setblock ~20~7~11 planks 2
+fill ~21~7~11 ~21~7~13 stone_block_slab 6
+fill ~8~7~12 ~8~11~12 quartz_block 0
+setblock ~8~12~12 quartz_stairs 0
+setblock ~9~12~12 stone_block_slab 14
+setblock ~10~11~12 sea_lantern
+setblock ~10~12~12 quartz_stairs 1
+setblock ~18~11~12 sea_lantern
+setblock ~18~12~12 quartz_stairs 0
+setblock ~19~12~12 stone_block_slab 14
+fill ~20~7~12 ~20~11~12 quartz_block 0
+setblock ~20~12~12 quartz_stairs 1
+setblock ~8~7~13 planks 2
+setblock ~20~7~13 planks 2
+fill ~8~7~14 ~8~7~15 stone_block_slab 6
+fill ~9~7~14 ~9~7~15 planks 2
+fill ~19~7~14 ~19~7~15 planks 2
+fill ~20~7~14 ~20~7~15 stone_block_slab 6
+fill ~4~0~16 ~4~1~86 quartz_block 0
+fill ~4~2~16 ~4~2~82 concrete 7
+fill ~4~3~16 ~4~4~82 concrete 8
+fill ~4~5~16 ~4~5~80 concrete 7
+fill ~4~6~16 ~4~7~80 quartz_block 0
+fill ~5~0~16 ~5~0~86 sea_lantern
+fill ~5~6~16 ~5~6~31 planks 2
+fill ~5~7~16 ~5~7~19 quartz_stairs 1
+fill ~6~1~16 ~6~1~22 planks 2
+setblock ~9~7~16 stone_block_slab 6
+setblock ~10~7~16 planks 2
+fill ~11~11~16 ~12~13~16 quartz_block 0
+fill ~13~12~16 ~17~13~16 quartz_block 0
+fill ~16~11~16 ~17~11~16 quartz_block 0
+setblock ~18~7~16 planks 2
+setblock ~19~7~16 stone_block_slab 6
+fill ~22~1~16 ~22~1~33 planks 2
+fill ~23~0~16 ~23~0~85 sea_lantern
+fill ~23~6~16 ~23~6~31 planks 2
+fill ~23~7~16 ~23~7~19 quartz_stairs 0
+fill ~24~0~16 ~24~1~86 quartz_block 0
+fill ~24~2~16 ~24~2~82 concrete 7
+fill ~24~3~16 ~24~4~82 concrete 8
+fill ~24~5~16 ~24~5~80 concrete 7
+fill ~24~6~16 ~24~7~80 quartz_block 0
+fill ~9~11~17 ~10~13~17 quartz_block 0
+setblock ~10~7~17 stone_block_slab 6
+fill ~11~7~17 ~12~7~17 planks 2
+fill ~11~11~17 ~11~11~22 wooden_slab 10
+fill ~11~12~17 ~11~12~18 concrete 8
+fill ~12~8~17 ~12~9~17 planks 2
+fill ~12~12~17 ~12~13~19 quartz_block 0
+fill ~13~7~17 ~15~7~17 stone_block_slab 6
+fill ~16~7~17 ~17~7~17 planks 2
+fill ~16~8~17 ~16~9~17 planks 2
+fill ~16~12~17 ~16~13~19 quartz_block 0
+fill ~17~11~17 ~17~11~21 wooden_slab 10
+fill ~17~12~17 ~17~12~18 concrete 8
+setblock ~18~7~17 stone_block_slab 6
+fill ~18~11~17 ~19~13~17 quartz_block 0
+fill ~8~11~18 ~8~13~18 quartz_block 0
+fill ~9~11~18 ~10~11~22 wooden_slab 10
+fill ~9~12~18 ~10~12~18 concrete 8
+fill ~11~7~18 ~12~7~18 stone_block_slab 6
+fill ~12~9~18 ~12~11~18 planks 2
+fill ~13~7~18 ~15~9~18 quartz_block 0
+fill ~16~7~18 ~17~7~18 stone_block_slab 6
+fill ~16~9~18 ~16~11~18 planks 2
+fill ~18~11~18 ~19~11~23 wooden_slab 10
+fill ~18~12~18 ~19~12~18 concrete 8
+fill ~20~11~18 ~20~13~18 quartz_block 0
+fill ~7~11~19 ~7~13~20 quartz_block 0
+fill ~8~11~19 ~8~11~21 wooden_slab 10
+fill ~8~12~19 ~9~12~19 concrete 8
+fill ~10~12~19 ~11~12~19 concrete 7
+fill ~12~14~19 ~12~14~20 quartz_block 0
+fill ~13~7~19 ~15~7~19 stone_block_slab 6
+fill ~13~9~19 ~15~11~19 quartz_block 0
+fill ~16~14~19 ~16~14~20 quartz_block 0
+fill ~17~12~19 ~18~12~19 concrete 7
+fill ~19~12~19 ~20~12~19 concrete 8
+setblock ~20~11~19 double_wooden_slab 2
+fill ~21~11~19 ~21~13~20 quartz_block 0
+fill ~8~12~20 ~8~12~21 concrete 8
+fill ~9~12~20 ~10~12~20 concrete 7
+fill ~11~6~20 ~12~6~26 planks 2
+fill ~11~12~20 ~12~12~20 concrete 8
+setblock ~12~11~20 wooden_slab 10
+setblock ~12~13~20 quartz_block 0
+fill ~13~6~20 ~13~6~84 concrete 8
+fill ~13~11~20 ~15~12~20 quartz_block 0
+fill ~13~13~20 ~15~13~20 stone_block_slab 6
+fill ~14~6~20 ~14~6~84 concrete 7
+fill ~15~6~20 ~15~6~84 concrete 8
+fill ~16~6~20 ~17~6~26 planks 2
+setblock ~16~11~20 wooden_slab 10
+fill ~16~12~20 ~17~12~20 concrete 8
+setblock ~16~13~20 quartz_block 0
+fill ~18~12~20 ~19~12~20 concrete 7
+fill ~20~11~20 ~20~11~27 wooden_slab 10
+fill ~20~12~20 ~20~12~21 concrete 8
+fill ~5~2~21 ~23~5~21 planks 2
+fill ~6~11~21 ~6~13~25 quartz_block 0
+fill ~7~11~21 ~7~11~27 wooden_slab 10
+fill ~7~12~21 ~7~12~26 concrete 8
+fill ~8~8~21 ~8~8~22 wooden_slab 10
+fill ~9~8~21 ~10~8~22 wooden_slab 2
+setblock ~9~12~21 concrete 7
+fill ~10~12~21 ~11~12~21 concrete 8
+fill ~12~12~21 ~16~12~24 planks 2
+fill ~12~13~21 ~12~14~22 double_stone_block_slab 6
+fill ~13~13~21 ~15~13~21 stone_block_slab 14
+fill ~16~13~21 ~16~14~22 double_stone_block_slab 6
+fill ~17~12~21 ~18~12~21 concrete 8
+fill ~19~12~21 ~19~12~22 concrete 7
+fill ~21~11~21 ~21~11~27 wooden_slab 10
+fill ~21~12~21 ~21~12~26 concrete 8
+fill ~22~11~21 ~22~13~25 quartz_block 0
+fill ~4~8~22 ~4~8~32 quartz_block 0
+setblock ~5~1~22 sea_lantern
+fill ~5~2~22 ~5~4~22 leaves 0
+setblock ~5~5~22 leaves 0
+setblock ~6~2~22 wooden_slab 2
+setblock ~7~2~22 planks 2
+setblock ~7~8~22 wooden_slab 10
+setblock ~8~2~22 wooden_slab 2
+setblock ~9~2~22 planks 2
+setblock ~10~2~22 wooden_slab 2
+setblock ~11~2~22 planks 2
+setblock ~11~8~22 wooden_slab 2
+setblock ~12~2~22 wooden_slab 2
+fill ~12~5~22 ~12~5~84 sea_lantern
+fill ~12~15~22 ~12~15~23 double_stone_block_slab 6
+setblock ~13~2~22 planks 2
+fill ~13~14~22 ~15~14~22 quartz_block 0
+setblock ~14~2~22 wooden_slab 2
+setblock ~15~2~22 planks 2
+setblock ~16~2~22 wooden_slab 2
+fill ~16~5~22 ~16~5~84 sea_lantern
+fill ~16~15~22 ~16~15~23 double_stone_block_slab 6
+fill ~17~2~22 ~22~2~22 planks 2
+fill ~17~12~22 ~17~12~25 planks 2
+fill ~18~12~22 ~18~12~23 concrete 8
+setblock ~19~7~22 quartz_stairs 4
+setblock ~20~7~22 quartz_stairs 6
+fill ~20~12~22 ~20~12~27 concrete 7
+fill ~22~7~22 ~22~7~25 quartz_stairs 0
+setblock ~23~1~22 sea_lantern
+fill ~23~2~22 ~23~5~22 leaves 0
+fill ~24~8~22 ~24~8~32 quartz_block 0
+fill ~5~2~23 ~5~2~32 wooden_slab 2
+fill ~5~5~23 ~5~5~39 leaves 0
+fill ~6~0~23 ~8~0~32 planks 2
+fill ~6~1~23 ~8~1~32 packed_ice
+setblock ~6~2~23 stained_glass_pane 0
+fill ~7~9~23 ~8~9~23 wooden_slab 2
+setblock ~8~2~23 stained_glass_pane 0
+fill ~9~1~23 ~9~1~39 planks 2
+fill ~9~2~23 ~9~2~32 wooden_slab 2
+fill ~9~7~23 ~9~10~23 planks 2
+setblock ~9~11~23 double_wooden_slab 2
+fill ~9~12~23 ~9~13~23 planks 2
+setblock ~9~14~23 wooden_slab 2
+fill ~10~0~23 ~12~0~32 planks 2
+fill ~10~1~23 ~12~1~32 packed_ice
+setblock ~10~2~23 stained_glass_pane 0
+fill ~10~7~23 ~11~7~23 wooden_slab 10
+fill ~10~11~23 ~11~11~23 wooden_slab 2
+setblock ~12~2~23 stained_glass_pane 0
+setblock ~12~16~23 double_stone_block_slab 6
+fill ~13~1~23 ~13~1~75 planks 2
+fill ~13~2~23 ~13~2~32 wooden_slab 2
+fill ~13~15~23 ~15~15~23 quartz_block 0
+fill ~14~0~23 ~16~0~32 planks 2
+fill ~14~1~23 ~16~1~32 packed_ice
+setblock ~14~2~23 stained_glass_pane 0
+setblock ~16~2~23 stained_glass_pane 0
+setblock ~16~16~23 double_stone_block_slab 6
+fill ~17~1~23 ~17~1~39 planks 2
+fill ~17~2~23 ~17~2~32 wooden_slab 2
+setblock ~19~7~23 quartz_stairs 7
+fill ~19~12~23 ~19~12~28 concrete 8
+setblock ~20~7~23 quartz_stairs 5
+fill ~23~1~23 ~23~1~38 planks 2
+fill ~23~5~23 ~23~5~39 leaves 0
+setblock ~7~2~24 stained_glass_pane 0
+fill ~7~9~24 ~8~9~24 wooden_slab 10
+fill ~9~7~24 ~11~7~24 wooden_slab 2
+fill ~9~10~24 ~9~10~25 wooden_slab 2
+fill ~10~10~24 ~11~10~24 wooden_slab 10
+setblock ~11~2~24 stained_glass_pane 0
+fill ~11~12~24 ~11~12~25 planks 2
+fill ~11~13~24 ~11~14~24 concrete 8
+setblock ~11~15~24 stone_block_slab 6
+fill ~12~13~24 ~16~13~24 stone_block_slab 14
+setblock ~12~16~24 stone_block_slab 14
+setblock ~12~17~24 stone_block_slab 6
+fill ~13~16~24 ~15~16~24 quartz_block 0
+setblock ~15~2~24 stained_glass_pane 0
+setblock ~16~16~24 stone_block_slab 14
+setblock ~16~17~24 stone_block_slab 6
+fill ~17~13~24 ~17~14~24 concrete 8
+setblock ~17~15~24 stone_block_slab 6
+fill ~18~12~24 ~18~12~50 planks 2
+fill ~19~11~24 ~19~11~27 wooden_slab 10
+setblock ~20~2~24 wooden_slab 2
+setblock ~21~2~24 birch_stairs 0
+setblock ~6~2~25 stained_glass_pane 0
+setblock ~8~2~25 stained_glass_pane 0
+setblock ~8~9~25 wooden_slab 10
+fill ~9~7~25 ~10~7~25 wooden_slab 2
+setblock ~10~2~25 stained_glass_pane 0
+setblock ~10~10~25 wooden_slab 10
+setblock ~12~2~25 stained_glass_pane 0
+fill ~12~11~25 ~16~11~26 wooden_slab 10
+setblock ~12~12~25 concrete 1
+fill ~12~17~25 ~12~17~26 double_stone_block_slab 6
+setblock ~13~12~25 concrete 11
+fill ~13~16~25 ~15~16~25 stone_block_slab 14
+setblock ~14~2~25 stained_glass_pane 0
+setblock ~14~12~25 concrete 14
+setblock ~15~12~25 concrete 5
+setblock ~16~2~25 stained_glass_pane 0
+setblock ~16~12~25 concrete 1
+fill ~16~17~25 ~16~17~26 double_stone_block_slab 6
+fill ~19~7~25 ~21~7~25 quartz_stairs 2
+fill ~4~9~26 ~4~9~32 quartz_block 0
+fill ~5~11~26 ~5~13~30 quartz_block 0
+fill ~6~11~26 ~6~11~27 wooden_slab 10
+fill ~6~12~26 ~6~12~78 concrete 8
+fill ~8~11~26 ~9~11~27 wooden_slab 10
+fill ~8~12~26 ~8~12~27 concrete 7
+fill ~9~12~26 ~9~12~28 concrete 8
+fill ~10~12~26 ~10~12~50 planks 2
+fill ~11~11~26 ~11~11~27 wooden_slab 10
+setblock ~11~12~26 concrete 14
+setblock ~11~17~26 quartz_block 0
+setblock ~12~12~26 concrete 5
+setblock ~12~16~26 sea_lantern
+setblock ~13~12~26 concrete 6
+fill ~13~17~26 ~15~17~27 stone_block_slab 6
+setblock ~14~10~26 wall_sign 2
+setblock ~14~12~26 concrete 1
+setblock ~15~12~26 concrete 4
+setblock ~16~12~26 concrete 14
+setblock ~16~16~26 sea_lantern
+fill ~17~11~26 ~17~11~27 wooden_slab 10
+setblock ~17~12~26 concrete 4
+setblock ~17~17~26 quartz_block 0
+setblock ~20~2~26 wooden_slab 2
+setblock ~21~2~26 birch_stairs 0
+fill ~22~11~26 ~22~11~27 wooden_slab 10
+fill ~22~12~26 ~22~12~78 concrete 8
+fill ~23~11~26 ~23~13~30 quartz_block 0
+fill ~24~9~26 ~24~9~32 quartz_block 0
+fill ~5~7~27 ~7~7~27 leaves 0
+setblock ~5~9~27 double_stone_block_slab 6
+fill ~5~10~27 ~5~10~28 quartz_block 0
+fill ~6~8~27 ~7~8~27 stone_block_slab 14
+setblock ~7~10~27 stone_block_slab 6
+fill ~7~12~27 ~7~12~56 concrete 7
+fill ~8~7~27 ~10~7~27 leaves 0
+setblock ~8~9~27 stone_block_slab 6
+setblock ~8~10~27 stone_block_slab 14
+setblock ~9~9~27 stone_block_slab 14
+setblock ~9~10~27 stone_block_slab 6
+fill ~9~13~27 ~9~17~27 ladder 4
+fill ~10~13~27 ~10~17~27 quartz_block 0
+fill ~11~6~27 ~11~6~75 planks 2
+fill ~11~7~27 ~12~7~27 leaves 0
+setblock ~11~12~27 concrete 11
+fill ~11~17~27 ~12~17~27 stone_block_slab 6
+setblock ~12~8~27 leaves 0
+setblock ~12~11~27 wooden_slab 10
+setblock ~12~12~27 concrete 1
+fill ~13~11~27 ~15~11~28 double_wooden_slab 2
+setblock ~13~12~27 concrete 4
+setblock ~14~10~27 wooden_slab 10
+setblock ~14~12~27 concrete 5
+setblock ~15~12~27 concrete 11
+fill ~16~7~27 ~17~7~27 leaves 0
+setblock ~16~8~27 leaves 0
+setblock ~16~11~27 wooden_slab 10
+setblock ~16~12~27 concrete 1
+fill ~16~17~27 ~17~17~27 stone_block_slab 6
+fill ~17~6~27 ~17~6~99 planks 2
+setblock ~17~12~27 concrete 11
+fill ~18~7~27 ~23~7~27 leaves 0
+fill ~18~13~27 ~18~17~27 quartz_block 0
+setblock ~19~9~27 stone_block_slab 14
+setblock ~19~10~27 stone_block_slab 6
+fill ~19~13~27 ~19~17~27 ladder 5
+setblock ~20~9~27 stone_block_slab 6
+setblock ~20~10~27 stone_block_slab 14
+fill ~21~8~27 ~22~8~27 stone_block_slab 14
+setblock ~21~10~27 stone_block_slab 6
+fill ~21~12~27 ~21~12~56 concrete 7
+fill ~23~9~27 ~23~10~27 quartz_block 0
+fill ~5~7~28 ~11~9~28 planks 2
+fill ~6~10~28 ~11~10~28 planks 2
+setblock ~6~11~28 planks 2
+fill ~7~11~28 ~8~11~28 wooden_slab 2
+fill ~8~12~28 ~8~12~54 concrete 8
+fill ~9~11~28 ~11~11~28 planks 2
+setblock ~11~12~28 concrete 4
+setblock ~12~7~28 leaves 0
+setblock ~12~10~28 wooden_slab 10
+setblock ~12~11~28 double_wooden_slab 2
+setblock ~12~12~28 concrete 14
+setblock ~13~12~28 concrete 6
+setblock ~14~12~28 concrete 4
+setblock ~15~12~28 concrete 14
+fill ~16~6~28 ~16~6~37 planks 2
+setblock ~16~7~28 leaves 0
+setblock ~16~10~28 wooden_slab 10
+setblock ~16~11~28 double_wooden_slab 2
+setblock ~16~12~28 concrete 5
+fill ~17~7~28 ~23~9~28 planks 2
+fill ~17~10~28 ~22~10~28 planks 2
+fill ~17~11~28 ~19~11~39 planks 2
+setblock ~17~12~28 concrete 6
+setblock ~20~2~28 wooden_slab 2
+fill ~20~11~28 ~21~11~28 wooden_slab 2
+fill ~20~12~28 ~20~12~54 concrete 8
+setblock ~21~2~28 birch_stairs 0
+fill ~22~11~28 ~22~11~39 planks 2
+setblock ~23~10~28 quartz_block 0
+fill ~4~10~29 ~4~10~98 quartz_block 0
+fill ~5~7~29 ~5~10~31 planks 2
+fill ~6~7~29 ~7~7~29 quartz_stairs 3
+fill ~6~11~29 ~6~11~38 double_wooden_slab 2
+fill ~7~11~29 ~8~11~38 wooden_slab 10
+fill ~8~7~29 ~8~7~30 quartz_block 0
+setblock ~8~8~29 stone_block_slab 6
+fill ~9~6~29 ~9~6~99 planks 2
+fill ~9~12~29 ~9~12~48 planks 2
+fill ~9~13~29 ~9~15~29 quartz_block 0
+setblock ~9~16~29 sea_lantern
+setblock ~10~5~29 wooden_slab 10
+setblock ~10~6~29 sea_lantern
+fill ~10~7~29 ~10~11~29 leaves 0
+fill ~11~7~29 ~11~11~33 planks 2
+setblock ~11~12~29 concrete 6
+fill ~12~7~29 ~12~7~31 leaves 0
+fill ~12~11~29 ~16~11~31 planks 2
+setblock ~12~12~29 concrete 1
+setblock ~13~12~29 concrete 5
+setblock ~14~12~29 concrete 11
+setblock ~15~12~29 concrete 6
+fill ~16~7~29 ~16~7~32 leaves 0
+setblock ~16~12~29 concrete 11
+fill ~17~7~29 ~17~10~33 planks 2
+setblock ~17~12~29 concrete 1
+fill ~18~7~29 ~19~7~29 wooden_slab 10
+setblock ~18~8~29 flower_pot 0
+fill ~19~12~29 ~19~12~48 planks 2
+fill ~19~13~29 ~19~15~29 quartz_block 0
+setblock ~19~16~29 sea_lantern
+fill ~20~7~29 ~20~7~30 quartz_block 0
+setblock ~20~8~29 stone_block_slab 6
+fill ~20~11~29 ~21~11~39 planks 2
+fill ~21~7~29 ~22~7~29 quartz_stairs 3
+fill ~23~7~29 ~23~10~31 planks 2
+fill ~24~10~29 ~24~10~98 quartz_block 0
+fill ~6~7~30 ~7~7~31 stone_block_slab 6
+setblock ~8~8~30 flower_pot 0
+fill ~10~6~30 ~10~6~99 planks 2
+setblock ~11~12~30 concrete 5
+setblock ~12~12~30 concrete 4
+setblock ~13~12~30 concrete 6
+setblock ~14~12~30 concrete 1
+setblock ~15~12~30 concrete 14
+setblock ~16~12~30 concrete 4
+setblock ~17~12~30 concrete 14
+setblock ~20~2~30 wooden_slab 2
+setblock ~20~8~30 flower_pot 0
+setblock ~21~2~30 birch_stairs 0
+fill ~21~7~30 ~22~7~31 stone_block_slab 6
+fill ~4~11~31 ~4~11~101 quartz_block 0
+setblock ~5~11~31 planks 2
+fill ~5~12~31 ~5~13~32 quartz_block 0
+fill ~6~4~31 ~8~5~31 concrete 15
+fill ~10~4~31 ~12~4~31 concrete 15
+fill ~10~5~31 ~11~5~31 concrete 15
+setblock ~10~7~31 anvil 0
+fill ~11~12~31 ~11~12~51 planks 2
+setblock ~12~12~31 concrete 11
+setblock ~13~12~31 concrete 14
+fill ~14~4~31 ~16~4~31 concrete 15
+fill ~14~5~31 ~15~5~31 concrete 15
+setblock ~14~12~31 concrete 5
+setblock ~15~12~31 concrete 6
+setblock ~16~12~31 concrete 1
+fill ~17~12~31 ~17~12~51 planks 2
+fill ~18~7~31 ~18~7~32 quartz_stairs 1
+fill ~23~11~31 ~23~11~38 planks 2
+fill ~23~12~31 ~23~13~32 quartz_block 0
+fill ~24~11~31 ~24~11~101 quartz_block 0
+setblock ~5~6~32 sea_lantern
+fill ~5~7~32 ~5~11~32 leaves 0
+setblock ~10~7~32 furnace 4
+fill ~12~7~32 ~12~8~32 leaves 0
+setblock ~12~9~32 leaves 0
+fill ~12~10~32 ~12~11~32 leaves 0
+fill ~12~12~32 ~16~12~51 planks 2
+fill ~13~11~32 ~15~11~33 wooden_slab 10
+fill ~16~8~32 ~16~9~32 leaves 0
+fill ~16~10~32 ~16~11~32 leaves 0
+setblock ~23~6~32 sea_lantern
+fill ~23~7~32 ~23~10~32 leaves 0
+fill ~4~8~33 ~4~9~33 concrete 15
+fill ~4~12~33 ~4~12~53 quartz_block 0
+fill ~5~1~33 ~8~1~33 planks 2
+fill ~5~2~33 ~5~2~38 planks 2
+fill ~5~6~33 ~5~6~37 planks 2
+setblock ~5~7~33 double_wooden_slab 2
+setblock ~5~10~33 double_wooden_slab 2
+fill ~5~11~33 ~5~11~37 wooden_slab 2
+fill ~5~12~33 ~5~12~37 planks 2
+fill ~5~13~33 ~5~13~46 quartz_block 0
+fill ~7~7~33 ~8~7~36 carpet 0
+fill ~9~2~33 ~9~2~37 planks 2
+fill ~10~1~33 ~12~1~33 planks 2
+fill ~12~6~33 ~12~6~37 planks 2
+fill ~12~9~33 ~12~9~37 wooden_slab 10
+fill ~12~11~33 ~12~11~37 wooden_slab 10
+fill ~13~2~33 ~13~2~38 planks 2
+fill ~14~1~33 ~16~1~33 planks 2
+fill ~14~13~33 ~14~15~33 stained_glass 0
+fill ~16~9~33 ~16~9~37 wooden_slab 10
+fill ~16~11~33 ~16~11~37 wooden_slab 10
+fill ~17~2~33 ~17~2~38 planks 2
+fill ~20~7~33 ~21~7~36 carpet 0
+fill ~23~6~33 ~23~6~55 planks 2
+setblock ~23~7~33 double_wooden_slab 2
+setblock ~23~10~33 double_wooden_slab 2
+fill ~23~13~33 ~23~13~46 quartz_block 0
+fill ~24~8~33 ~24~9~33 concrete 15
+fill ~24~12~33 ~24~12~54 quartz_block 0
+fill ~4~8~34 ~4~9~36 stained_glass_pane 0
+fill ~5~1~34 ~5~1~38 planks 2
+fill ~5~7~34 ~5~7~36 wooden_slab 10
+fill ~5~10~34 ~5~10~36 wooden_slab 2
+fill ~6~1~34 ~8~1~38 concrete 8
+fill ~10~1~34 ~12~1~38 concrete 7
+fill ~11~9~34 ~11~11~46 planks 2
+fill ~11~18~34 ~17~18~34 stone_block_slab 14
+fill ~11~19~34 ~17~20~34 quartz_block 0
+fill ~13~13~34 ~13~15~34 stained_glass 0
+fill ~14~1~34 ~16~1~38 concrete 15
+fill ~14~11~34 ~14~11~36 wooden_slab 10
+fill ~14~16~34 ~14~16~36 stained_glass 0
+fill ~15~13~34 ~15~15~34 stained_glass 0
+fill ~17~9~34 ~17~10~46 planks 2
+fill ~18~1~34 ~22~1~38 concrete 0
+setblock ~22~2~34 double_wooden_slab 2
+setblock ~23~2~34 wooden_slab 10
+fill ~23~7~34 ~23~7~36 wooden_slab 10
+fill ~23~10~34 ~23~10~36 wooden_slab 2
+fill ~24~8~34 ~24~9~36 stained_glass_pane 0
+fill ~4~13~35 ~4~13~46 quartz_block 0
+fill ~9~18~35 ~10~18~35 stone_block_slab 14
+fill ~9~19~35 ~10~20~35 quartz_block 0
+fill ~10~13~35 ~12~14~35 stained_glass 0
+fill ~11~15~35 ~12~15~35 stained_glass 0
+fill ~11~19~35 ~17~19~52 planks 2
+fill ~11~20~35 ~11~21~35 leaves 0
+fill ~12~20~35 ~12~20~36 quartz_stairs 1
+setblock ~13~9~35 wall_sign 5
+fill ~13~16~35 ~13~16~36 stained_glass 0
+fill ~13~20~35 ~16~20~35 quartz_stairs 3
+setblock ~15~9~35 wall_sign 4
+fill ~15~16~35 ~15~16~36 stained_glass 0
+fill ~16~13~35 ~18~14~35 stained_glass 0
+fill ~16~15~35 ~17~15~35 stained_glass 0
+fill ~17~20~35 ~17~21~35 leaves 0
+fill ~18~18~35 ~19~18~35 stone_block_slab 14
+fill ~18~19~35 ~19~20~35 quartz_block 0
+fill ~22~2~35 ~22~2~37 wooden_slab 10
+fill ~24~13~35 ~24~13~46 quartz_block 0
+setblock ~8~18~36 stone_block_slab 14
+fill ~8~19~36 ~8~20~36 quartz_block 0
+fill ~9~13~36 ~9~14~48 stained_glass 0
+fill ~9~19~36 ~10~19~52 planks 2
+fill ~9~20~36 ~10~20~36 leaves 0
+fill ~10~15~36 ~10~15~39 stained_glass 0
+fill ~11~13~36 ~11~15~36 concrete 8
+fill ~11~16~36 ~12~16~37 stained_glass 0
+fill ~12~13~36 ~16~15~36 concrete 15
+fill ~13~20~36 ~15~20~36 stone_block_slab 6
+fill ~16~16~36 ~17~16~37 stained_glass 0
+setblock ~16~20~36 quartz_stairs 0
+fill ~17~13~36 ~17~15~36 concrete 8
+fill ~18~2~36 ~18~2~37 chest 5
+fill ~18~15~36 ~18~15~39 stained_glass 0
+fill ~18~19~36 ~19~19~52 planks 2
+fill ~18~20~36 ~19~20~36 leaves 0
+fill ~19~13~36 ~19~14~48 stained_glass 0
+setblock ~20~18~36 stone_block_slab 14
+fill ~20~19~36 ~20~20~36 quartz_block 0
+fill ~4~8~37 ~4~9~37 concrete 15
+fill ~4~14~37 ~4~14~38 quartz_block 0
+setblock ~5~7~37 double_wooden_slab 2
+setblock ~5~8~37 flower_pot 0
+setblock ~5~10~37 double_wooden_slab 2
+setblock ~7~7~37 stone_button 2
+fill ~7~18~37 ~7~18~38 stone_block_slab 14
+fill ~7~19~37 ~7~20~38 quartz_block 0
+fill ~8~19~37 ~8~19~52 planks 2
+fill ~8~20~37 ~8~20~38 leaves 0
+setblock ~10~7~37 stone_button 2
+fill ~11~7~37 ~11~8~38 planks 2
+fill ~11~13~37 ~11~15~37 stone_button 3
+fill ~13~11~37 ~13~11~39 wooden_slab 10
+fill ~13~17~37 ~15~17~37 stained_glass 0
+fill ~15~11~37 ~15~11~39 wooden_slab 10
+fill ~17~7~37 ~17~8~41 planks 2
+fill ~17~13~37 ~17~15~37 stone_button 3
+fill ~20~19~37 ~20~19~52 planks 2
+fill ~20~20~37 ~20~20~38 leaves 0
+fill ~21~18~37 ~21~18~38 stone_block_slab 14
+fill ~21~19~37 ~21~20~38 quartz_block 0
+setblock ~23~7~37 double_wooden_slab 2
+setblock ~23~10~37 double_wooden_slab 2
+fill ~24~8~37 ~24~9~37 concrete 15
+fill ~24~14~37 ~24~14~38 quartz_block 0
+fill ~4~8~38 ~4~9~40 quartz_block 0
+setblock ~5~6~38 sea_lantern
+fill ~5~7~38 ~5~11~38 leaves 0
+setblock ~6~7~38 crafting_table
+fill ~6~8~38 ~6~9~38 chest 2
+setblock ~7~7~38 double_wooden_slab 2
+fill ~7~8~38 ~10~9~38 concrete 15
+fill ~8~7~38 ~9~7~38 wooden_slab 10
+setblock ~9~20~38 quartz_stairs 1
+setblock ~9~23~38 stone_block_slab 6
+setblock ~10~7~38 double_wooden_slab 2
+fill ~10~20~38 ~11~20~38 stone_block_slab 6
+fill ~11~16~38 ~11~16~40 stained_glass 0
+setblock ~12~7~38 leaves 0
+fill ~12~8~38 ~12~9~38 leaves 0
+fill ~12~10~38 ~12~11~38 leaves 0
+fill ~12~17~38 ~13~17~38 stained_glass 0
+fill ~13~20~38 ~15~20~40 carpet 8
+fill ~14~18~38 ~14~18~46 stained_glass 0
+fill ~15~17~38 ~16~17~38 stained_glass 0
+fill ~16~7~38 ~16~8~38 leaves 0
+setblock ~16~9~38 leaves 0
+fill ~16~10~38 ~16~11~38 leaves 0
+fill ~17~16~38 ~17~16~40 stained_glass 0
+fill ~17~20~38 ~18~20~38 stone_block_slab 6
+fill ~18~2~38 ~21~2~38 wooden_slab 10
+setblock ~18~7~38 cauldron 0
+fill ~18~9~38 ~20~9~38 wooden_slab 10
+setblock ~19~7~38 crafting_table
+setblock ~19~20~38 quartz_stairs 0
+setblock ~19~23~38 stone_block_slab 6
+setblock ~20~7~38 furnace 2
+fill ~21~7~38 ~22~8~38 chest 2
+setblock ~22~2~38 double_wooden_slab 2
+fill ~23~7~38 ~23~10~38 leaves 0
+fill ~24~8~38 ~24~9~40 quartz_block 0
+fill ~4~14~39 ~4~14~40 stone_block_slab 14
+fill ~4~15~39 ~4~15~40 quartz_block 0
+setblock ~5~1~39 sea_lantern
+fill ~5~2~39 ~5~4~39 leaves 0
+fill ~5~6~39 ~5~6~45 planks 2
+fill ~5~7~39 ~5~11~39 sea_lantern
+fill ~5~14~39 ~5~14~52 concrete 15
+fill ~6~1~39 ~8~1~84 planks 2
+fill ~6~7~39 ~10~11~39 planks 2
+fill ~6~18~39 ~6~18~41 stone_block_slab 14
+fill ~6~19~39 ~6~20~41 quartz_block 0
+fill ~7~19~39 ~7~19~40 planks 2
+fill ~7~20~39 ~7~20~41 leaves 0
+setblock ~8~23~39 stone_block_slab 6
+fill ~9~15~39 ~9~15~45 stained_glass 0
+fill ~9~20~39 ~9~22~39 fence 2
+setblock ~9~23~39 double_stone_block_slab 6
+fill ~10~1~39 ~12~1~39 planks 2
+setblock ~10~23~39 stone_block_slab 6
+fill ~11~8~39 ~11~8~41 planks 2
+fill ~12~7~39 ~12~7~40 leaves 0
+fill ~12~11~39 ~12~11~40 wooden_slab 10
+fill ~12~13~39 ~16~13~39 quartz_stairs 2
+fill ~12~17~39 ~12~17~41 stained_glass 0
+fill ~13~18~39 ~13~18~45 stained_glass 0
+fill ~14~1~39 ~16~1~75 planks 2
+fill ~15~18~39 ~15~18~45 stained_glass 0
+setblock ~16~7~39 leaves 0
+fill ~16~11~39 ~16~11~40 wooden_slab 10
+fill ~16~17~39 ~16~17~41 stained_glass 0
+fill ~18~1~39 ~22~1~39 planks 2
+fill ~18~7~39 ~22~10~39 planks 2
+setblock ~18~23~39 stone_block_slab 6
+fill ~19~15~39 ~19~15~45 stained_glass 0
+fill ~19~20~39 ~19~22~39 fence 2
+setblock ~19~23~39 double_stone_block_slab 6
+setblock ~20~23~39 stone_block_slab 6
+fill ~21~19~39 ~21~19~40 planks 2
+fill ~21~20~39 ~21~20~41 leaves 0
+fill ~22~18~39 ~22~18~41 stone_block_slab 14
+fill ~22~19~39 ~22~20~41 quartz_block 0
+setblock ~23~1~39 sea_lantern
+fill ~23~2~39 ~23~4~39 leaves 0
+fill ~23~7~39 ~23~11~39 sea_lantern
+fill ~23~14~39 ~23~14~52 concrete 15
+fill ~24~14~39 ~24~14~40 stone_block_slab 14
+fill ~24~15~39 ~24~15~40 quartz_block 0
+fill ~5~1~40 ~5~1~49 planks 2
+fill ~5~2~40 ~8~5~40 planks 2
+fill ~5~7~40 ~5~11~40 leaves 0
+fill ~6~7~40 ~6~7~41 double_stone_block_slab 6
+setblock ~6~8~40 stone_block_slab 6
+fill ~6~11~40 ~7~11~46 double_wooden_slab 2
+fill ~7~7~40 ~8~7~40 quartz_stairs 3
+fill ~8~11~40 ~9~11~46 wooden_slab 10
+fill ~9~1~40 ~9~1~98 concrete 8
+setblock ~9~5~40 wooden_slab 10
+setblock ~9~7~40 quartz_block 0
+setblock ~9~8~40 stone_block_slab 6
+setblock ~9~20~40 quartz_stairs 1
+setblock ~9~23~40 stone_block_slab 6
+fill ~10~1~40 ~10~1~97 concrete 7
+setblock ~10~4~40 wooden_slab 10
+setblock ~10~5~40 double_wooden_slab 2
+fill ~10~7~40 ~10~8~40 chest 3
+fill ~10~16~40 ~10~16~44 stained_glass 0
+fill ~10~20~40 ~11~20~40 stone_block_slab 6
+fill ~11~1~40 ~11~1~96 concrete 8
+setblock ~11~5~40 wooden_slab 10
+fill ~11~7~40 ~11~7~41 planks 2
+fill ~12~1~40 ~12~1~95 planks 2
+fill ~14~11~40 ~14~11~42 wooden_slab 10
+fill ~16~7~40 ~16~7~41 leaves 0
+fill ~17~1~40 ~17~1~96 concrete 8
+fill ~17~11~40 ~17~11~46 planks 2
+fill ~17~20~40 ~18~20~40 stone_block_slab 6
+fill ~18~1~40 ~18~1~97 concrete 7
+setblock ~18~7~40 crafting_table
+fill ~18~16~40 ~18~16~44 stained_glass 0
+fill ~19~1~40 ~19~1~98 concrete 8
+setblock ~19~7~40 quartz_block 0
+setblock ~19~8~40 stone_block_slab 6
+setblock ~19~20~40 quartz_stairs 0
+setblock ~19~23~40 stone_block_slab 6
+fill ~20~1~40 ~23~1~59 planks 2
+fill ~20~2~40 ~23~5~40 planks 2
+fill ~20~7~40 ~21~7~40 quartz_stairs 3
+fill ~20~11~40 ~21~11~46 wooden_slab 10
+setblock ~22~7~40 quartz_block 0
+setblock ~22~8~40 stone_block_slab 6
+fill ~22~11~40 ~22~11~46 double_wooden_slab 2
+fill ~23~7~40 ~23~11~40 leaves 0
+fill ~4~8~41 ~4~9~41 concrete 15
+fill ~4~15~41 ~4~15~43 stone_block_slab 14
+fill ~4~16~41 ~4~16~43 quartz_block 0
+fill ~5~2~41 ~5~3~41 chest 3
+setblock ~5~7~41 double_wooden_slab 2
+fill ~5~10~41 ~5~11~41 double_wooden_slab 2
+fill ~5~15~41 ~5~15~47 concrete 15
+fill ~6~2~41 ~7~2~41 wooden_slab 10
+fill ~6~3~41 ~7~3~41 concrete 15
+fill ~7~7~41 ~8~7~41 stone_block_slab 6
+setblock ~7~18~41 wooden_slab 10
+setblock ~7~19~41 sea_lantern
+setblock ~7~23~41 stone_block_slab 6
+fill ~8~2~41 ~8~5~43 planks 2
+setblock ~9~7~41 double_stone_block_slab 6
+setblock ~9~8~41 flower_pot 0
+setblock ~10~4~41 wall_sign 3
+fill ~10~5~41 ~10~5~42 wooden_slab 10
+fill ~11~17~41 ~11~17~43 stained_glass 0
+setblock ~12~7~41 leaves 0
+fill ~12~8~41 ~12~9~41 leaves 0
+fill ~12~10~41 ~12~11~41 leaves 0
+fill ~12~13~41 ~16~13~41 quartz_stairs 2
+setblock ~16~8~41 leaves 0
+setblock ~16~9~41 leaves 0
+fill ~16~10~41 ~16~11~41 leaves 0
+fill ~17~17~41 ~17~17~43 stained_glass 0
+setblock ~19~7~41 double_stone_block_slab 6
+setblock ~19~8~41 flower_pot 0
+fill ~20~2~41 ~20~5~43 planks 2
+fill ~20~7~41 ~21~7~41 stone_block_slab 6
+fill ~21~2~41 ~21~2~42 quartz_block 0
+setblock ~21~3~41 stone_block_slab 6
+setblock ~21~18~41 wooden_slab 10
+setblock ~21~19~41 sea_lantern
+setblock ~21~23~41 stone_block_slab 6
+setblock ~22~2~41 quartz_stairs 3
+setblock ~22~7~41 double_stone_block_slab 6
+setblock ~22~8~41 flower_pot 0
+fill ~23~2~41 ~23~2~42 quartz_block 0
+setblock ~23~3~41 stone_block_slab 6
+setblock ~23~7~41 double_wooden_slab 2
+fill ~23~10~41 ~23~11~41 double_wooden_slab 2
+fill ~23~15~41 ~23~15~47 concrete 15
+fill ~24~8~41 ~24~9~41 concrete 15
+fill ~24~15~41 ~24~15~43 stone_block_slab 14
+fill ~24~16~41 ~24~16~43 quartz_block 0
+fill ~4~8~42 ~4~9~44 stained_glass_pane 0
+fill ~5~7~42 ~5~7~44 wooden_slab 10
+fill ~5~10~42 ~5~10~44 wooden_slab 2
+fill ~5~11~42 ~5~11~45 double_wooden_slab 2
+fill ~5~18~42 ~5~18~44 stone_block_slab 14
+fill ~5~19~42 ~5~20~49 quartz_block 0
+fill ~6~19~42 ~7~19~52 planks 2
+fill ~6~20~42 ~6~20~50 leaves 0
+setblock ~6~23~42 stone_block_slab 6
+fill ~7~20~42 ~7~22~42 fence 2
+setblock ~7~23~42 double_stone_block_slab 6
+setblock ~8~23~42 stone_block_slab 6
+fill ~12~6~42 ~12~6~44 planks 2
+fill ~12~9~42 ~12~9~44 wooden_slab 10
+fill ~12~11~42 ~12~11~44 wooden_slab 10
+setblock ~12~18~42 stained_glass 0
+setblock ~12~20~42 quartz_stairs 1
+fill ~13~20~42 ~15~20~42 stone_block_slab 6
+fill ~16~6~42 ~16~6~44 planks 2
+fill ~16~9~42 ~16~9~44 wooden_slab 10
+fill ~16~11~42 ~16~11~44 wooden_slab 10
+setblock ~16~18~42 stained_glass 0
+fill ~16~20~42 ~16~20~43 quartz_stairs 0
+setblock ~20~23~42 stone_block_slab 6
+fill ~21~19~42 ~22~19~52 planks 2
+fill ~21~20~42 ~21~22~42 fence 2
+setblock ~21~23~42 double_stone_block_slab 6
+setblock ~22~2~42 stone_block_slab 6
+fill ~22~20~42 ~22~20~50 leaves 0
+setblock ~22~23~42 stone_block_slab 6
+fill ~23~7~42 ~23~7~44 wooden_slab 10
+fill ~23~10~42 ~23~10~44 wooden_slab 2
+fill ~23~11~42 ~23~11~45 double_wooden_slab 2
+fill ~23~18~42 ~23~18~44 stone_block_slab 14
+fill ~23~19~42 ~23~20~49 quartz_block 0
+fill ~24~8~42 ~24~9~44 stained_glass_pane 0
+fill ~4~17~43 ~4~17~46 quartz_block 0
+setblock ~5~2~43 crafting_table
+setblock ~7~2~43 birch_stairs 2
+setblock ~7~20~43 quartz_stairs 1
+setblock ~7~23~43 stone_block_slab 6
+fill ~8~20~43 ~9~20~43 stone_block_slab 6
+fill ~9~5~43 ~9~5~45 wooden_slab 10
+fill ~11~5~43 ~11~5~45 wooden_slab 10
+fill ~12~13~43 ~16~13~43 quartz_stairs 2
+fill ~12~17~43 ~12~17~46 stained_glass 0
+fill ~12~20~43 ~15~20~43 quartz_stairs 2
+setblock ~13~9~43 wall_sign 5
+fill ~13~11~43 ~13~11~45 wooden_slab 10
+setblock ~15~9~43 wall_sign 4
+fill ~15~11~43 ~15~11~45 wooden_slab 10
+fill ~16~17~43 ~16~17~46 stained_glass 0
+fill ~19~20~43 ~20~20~43 stone_block_slab 6
+setblock ~21~20~43 quartz_stairs 0
+setblock ~21~23~43 stone_block_slab 6
+fill ~22~5~43 ~23~5~43 wooden_slab 10
+fill ~24~17~43 ~24~17~46 quartz_block 0
+fill ~4~16~44 ~4~16~46 stone_block_slab 14
+fill ~5~2~44 ~5~2~45 wooden_slab 10
+setblock ~5~5~44 wooden_slab 10
+fill ~5~16~44 ~5~16~47 concrete 15
+fill ~8~4~44 ~8~5~99 planks 2
+fill ~11~16~44 ~11~16~48 stained_glass 0
+setblock ~12~20~44 quartz_block 0
+fill ~13~2~44 ~13~2~46 stone_block_slab 14
+fill ~13~20~44 ~15~20~44 quartz_stairs 3
+fill ~15~2~44 ~15~2~46 stone_block_slab 14
+setblock ~16~20~44 quartz_block 0
+fill ~17~16~44 ~17~16~48 stained_glass 0
+fill ~20~4~44 ~20~5~99 planks 2
+fill ~22~2~44 ~23~2~44 wooden_slab 10
+fill ~22~3~44 ~23~3~44 concrete 15
+fill ~22~4~44 ~23~4~44 wooden_slab 2
+fill ~22~5~44 ~22~5~47 wooden_slab 10
+fill ~23~5~44 ~23~5~46 sea_lantern
+fill ~23~16~44 ~23~16~47 concrete 15
+fill ~24~16~44 ~24~16~46 stone_block_slab 14
+fill ~4~8~45 ~4~9~45 concrete 15
+fill ~4~18~45 ~4~18~49 quartz_block 0
+setblock ~5~3~45 brewing_stand 0
+setblock ~5~5~45 sea_lantern
+setblock ~5~7~45 double_wooden_slab 2
+setblock ~5~10~45 double_wooden_slab 2
+setblock ~7~20~45 quartz_stairs 1
+fill ~8~20~45 ~9~20~45 stone_block_slab 6
+setblock ~9~4~45 wall_sign 5
+fill ~10~9~45 ~10~9~46 wooden_slab 10
+setblock ~10~10~45 anvil 0
+fill ~10~15~45 ~10~15~48 stained_glass 0
+fill ~11~7~45 ~11~8~46 planks 2
+setblock ~12~7~45 leaves 0
+fill ~12~8~45 ~12~9~45 leaves 0
+fill ~12~10~45 ~12~11~45 leaves 0
+fill ~12~13~45 ~16~13~45 quartz_stairs 2
+fill ~13~3~45 ~13~3~47 stone_block_slab 6
+setblock ~14~3~45 cobblestone_wall 0
+setblock ~14~4~45 stone_block_slab 6
+fill ~15~3~45 ~15~3~47 stone_block_slab 6
+fill ~16~7~45 ~16~9~45 leaves 0
+fill ~16~10~45 ~16~11~45 leaves 0
+fill ~17~7~45 ~17~8~46 planks 2
+fill ~18~15~45 ~18~15~48 stained_glass 0
+setblock ~19~4~45 wall_sign 4
+fill ~19~20~45 ~20~20~45 stone_block_slab 6
+setblock ~21~20~45 quartz_stairs 0
+setblock ~23~2~45 crafting_table
+setblock ~23~7~45 double_wooden_slab 2
+setblock ~23~10~45 double_wooden_slab 2
+fill ~24~8~45 ~24~9~45 concrete 15
+fill ~24~18~45 ~24~18~49 quartz_block 0
+fill ~4~8~46 ~4~9~48 quartz_block 0
+setblock ~5~2~46 cauldron 0
+setblock ~5~5~46 wooden_slab 10
+setblock ~5~6~46 sea_lantern
+fill ~5~7~46 ~5~9~46 leaves 0
+fill ~5~10~46 ~5~11~46 leaves 0
+fill ~7~7~46 ~8~7~46 wooden_slab 10
+fill ~7~8~46 ~8~8~46 concrete 15
+fill ~10~5~46 ~10~5~48 wooden_slab 10
+setblock ~10~7~46 cauldron 0
+setblock ~10~10~46 crafting_table
+fill ~12~7~46 ~12~7~48 leaves 0
+fill ~12~11~46 ~12~11~48 wooden_slab 10
+fill ~13~17~46 ~13~17~47 stained_glass 0
+fill ~13~20~46 ~15~20~46 quartz_block 0
+fill ~14~2~46 ~14~2~47 double_stone_block_slab 6
+fill ~14~3~46 ~14~3~48 concrete 7
+fill ~14~11~46 ~14~11~48 wooden_slab 10
+fill ~15~17~46 ~15~17~47 stained_glass 0
+fill ~16~7~46 ~16~7~48 leaves 0
+fill ~16~11~46 ~16~11~48 wooden_slab 10
+fill ~18~7~46 ~18~8~46 chest 2
+fill ~18~9~46 ~19~9~46 wooden_slab 10
+setblock ~18~10~46 crafting_table
+fill ~19~7~46 ~20~7~46 wooden_slab 10
+fill ~19~8~46 ~20~8~46 concrete 15
+setblock ~19~10~46 anvil 1
+setblock ~22~7~46 cauldron 0
+fill ~23~2~46 ~23~2~47 bookshelf
+fill ~23~7~46 ~23~11~46 leaves 0
+fill ~24~8~46 ~24~9~48 quartz_block 0
+fill ~4~17~47 ~4~17~49 stone_block_slab 14
+fill ~4~19~47 ~4~19~52 quartz_block 0
+fill ~5~6~47 ~5~6~77 planks 2
+fill ~5~7~47 ~5~11~47 sea_lantern
+fill ~5~13~47 ~5~13~54 concrete 15
+fill ~5~17~47 ~5~17~52 concrete 15
+fill ~6~7~47 ~10~11~47 planks 2
+setblock ~7~20~47 quartz_stairs 1
+setblock ~7~23~47 stone_block_slab 6
+fill ~8~2~47 ~8~3~53 planks 2
+fill ~8~20~47 ~9~20~47 stone_block_slab 6
+setblock ~12~6~47 planks 2
+fill ~12~13~47 ~16~13~47 quartz_stairs 2
+fill ~12~16~47 ~12~16~49 stained_glass 0
+fill ~14~17~47 ~14~17~48 stained_glass 0
+fill ~16~16~47 ~16~16~49 stained_glass 0
+fill ~18~7~47 ~22~11~47 planks 2
+fill ~19~20~47 ~20~20~47 stone_block_slab 6
+fill ~20~2~47 ~20~3~53 planks 2
+setblock ~21~20~47 quartz_stairs 0
+setblock ~21~23~47 stone_block_slab 6
+setblock ~23~5~47 wooden_slab 10
+fill ~23~7~47 ~23~11~47 sea_lantern
+fill ~23~13~47 ~23~13~54 concrete 15
+fill ~23~17~47 ~23~17~52 concrete 15
+fill ~24~17~47 ~24~17~49 stone_block_slab 14
+fill ~24~19~47 ~24~19~52 quartz_block 0
+fill ~5~2~48 ~5~2~49 double_stone_block_slab 6
+fill ~5~7~48 ~5~11~48 leaves 0
+fill ~5~15~48 ~5~16~50 stained_glass_pane 0
+setblock ~6~2~48 stone_block_slab 6
+setblock ~6~7~48 quartz_block 0
+setblock ~6~8~48 stone_block_slab 6
+fill ~6~11~48 ~6~11~54 double_wooden_slab 2
+setblock ~6~23~48 stone_block_slab 6
+fill ~7~2~48 ~7~2~49 double_stone_block_slab 6
+fill ~7~7~48 ~8~7~48 quartz_stairs 3
+fill ~7~11~48 ~8~11~49 wooden_slab 10
+fill ~7~20~48 ~7~22~48 fence 2
+setblock ~7~23~48 double_stone_block_slab 6
+fill ~8~6~48 ~8~6~99 planks 2
+setblock ~8~23~48 stone_block_slab 6
+setblock ~9~7~48 quartz_block 0
+setblock ~9~8~48 stone_block_slab 6
+setblock ~10~7~48 crafting_table
+setblock ~10~8~48 chest 3
+fill ~11~7~48 ~11~11~49 planks 2
+setblock ~12~20~48 quartz_block 0
+fill ~13~3~48 ~13~3~49 quartz_stairs 4
+setblock ~13~4~48 lever 2
+fill ~13~16~48 ~13~16~49 stained_glass 0
+fill ~13~20~48 ~15~20~48 quartz_stairs 2
+setblock ~14~2~48 stone_block_slab 14
+setblock ~14~4~48 concrete 7
+setblock ~15~3~48 quartz_stairs 5
+setblock ~15~4~48 lever 1
+fill ~15~16~48 ~15~16~49 stained_glass 0
+setblock ~16~20~48 quartz_block 0
+fill ~17~7~48 ~17~10~49 planks 2
+setblock ~17~11~48 planks 2
+fill ~18~7~48 ~18~8~48 chest 3
+fill ~18~9~48 ~19~9~48 wooden_slab 10
+setblock ~18~10~48 crafting_table
+fill ~19~7~48 ~20~7~48 wooden_slab 10
+fill ~19~8~48 ~20~8~48 concrete 15
+setblock ~19~10~48 anvil 3
+fill ~20~11~48 ~21~11~50 wooden_slab 10
+setblock ~20~23~48 stone_block_slab 6
+fill ~21~20~48 ~21~22~48 fence 2
+setblock ~21~23~48 double_stone_block_slab 6
+setblock ~22~7~48 chest 3
+fill ~22~11~48 ~22~11~54 double_wooden_slab 2
+setblock ~22~23~48 stone_block_slab 6
+fill ~23~7~48 ~23~11~48 leaves 0
+fill ~23~15~48 ~23~16~50 stained_glass_pane 0
+fill ~4~8~49 ~4~9~49 concrete 15
+setblock ~5~3~49 stone_block_slab 6
+fill ~5~5~49 ~7~5~49 bookshelf
+setblock ~5~7~49 double_wooden_slab 2
+fill ~5~10~49 ~5~11~49 double_wooden_slab 2
+setblock ~6~2~49 quartz_stairs 2
+setblock ~6~7~49 double_stone_block_slab 6
+setblock ~7~3~49 stone_block_slab 6
+fill ~7~7~49 ~8~7~49 stone_block_slab 6
+setblock ~7~23~49 stone_block_slab 6
+fill ~9~5~49 ~9~5~51 wooden_slab 10
+setblock ~9~7~49 double_stone_block_slab 6
+setblock ~9~8~49 flower_pot 0
+fill ~9~11~49 ~9~11~53 wooden_slab 10
+fill ~9~12~49 ~9~12~53 concrete 8
+fill ~10~13~49 ~10~13~50 stained_glass 0
+setblock ~10~14~49 stained_glass 0
+fill ~11~5~49 ~11~5~51 wooden_slab 10
+setblock ~11~15~49 stained_glass 0
+fill ~12~7~49 ~12~8~49 leaves 0
+setblock ~12~9~49 leaves 0
+fill ~12~10~49 ~12~11~49 leaves 0
+fill ~13~11~49 ~13~11~57 wooden_slab 10
+fill ~14~3~49 ~15~3~49 quartz_stairs 7
+setblock ~14~4~49 stone_block_slab 6
+fill ~14~16~49 ~14~16~50 stained_glass 0
+fill ~15~11~49 ~15~11~57 wooden_slab 10
+fill ~16~7~49 ~16~9~49 leaves 0
+fill ~16~10~49 ~16~11~49 leaves 0
+setblock ~17~15~49 stained_glass 0
+fill ~18~13~49 ~18~13~50 stained_glass 0
+setblock ~18~14~49 stained_glass 0
+fill ~19~11~49 ~19~11~54 wooden_slab 10
+fill ~19~12~49 ~19~12~53 concrete 8
+setblock ~21~2~49 cauldron 0
+setblock ~21~23~49 stone_block_slab 6
+setblock ~22~2~49 wooden_slab 10
+setblock ~22~3~49 brewing_stand 0
+setblock ~23~2~49 anvil 1
+setblock ~23~7~49 double_wooden_slab 2
+setblock ~23~8~49 flower_pot 0
+fill ~23~10~49 ~23~11~49 double_wooden_slab 2
+fill ~24~8~49 ~24~9~49 concrete 15
+fill ~4~8~50 ~4~9~52 stained_glass_pane 0
+fill ~4~18~50 ~4~18~52 stone_block_slab 14
+fill ~4~20~50 ~5~20~50 quartz_block 0
+fill ~5~2~50 ~7~5~50 planks 2
+fill ~5~7~50 ~5~7~52 wooden_slab 10
+fill ~5~10~50 ~5~10~52 wooden_slab 2
+fill ~5~11~50 ~5~11~53 double_wooden_slab 2
+fill ~5~18~50 ~5~18~53 concrete 15
+fill ~7~11~50 ~7~11~54 double_wooden_slab 2
+fill ~8~11~50 ~8~11~51 wooden_slab 10
+fill ~11~9~50 ~11~11~54 planks 2
+setblock ~11~14~50 stained_glass 0
+fill ~11~26~50 ~17~26~50 stone_block_slab 6
+fill ~12~6~50 ~12~6~52 planks 2
+fill ~12~9~50 ~12~9~52 wooden_slab 10
+fill ~12~11~50 ~12~11~52 wooden_slab 10
+fill ~12~15~50 ~16~15~50 stained_glass 0
+fill ~12~25~50 ~16~25~50 stone_block_slab 14
+setblock ~14~3~50 stone_block_slab 14
+fill ~16~6~50 ~16~6~52 planks 2
+fill ~16~9~50 ~16~9~52 wooden_slab 10
+fill ~16~11~50 ~16~11~52 wooden_slab 10
+fill ~17~9~50 ~17~11~54 planks 2
+setblock ~17~14~50 stained_glass 0
+fill ~21~2~50 ~23~5~50 planks 2
+fill ~23~7~50 ~23~7~52 wooden_slab 10
+fill ~23~10~50 ~23~10~52 wooden_slab 2
+fill ~23~11~50 ~23~11~53 double_wooden_slab 2
+fill ~23~18~50 ~23~18~53 concrete 15
+fill ~23~20~50 ~24~20~50 quartz_block 0
+fill ~24~8~50 ~24~9~52 stained_glass_pane 0
+fill ~24~18~50 ~24~18~52 stone_block_slab 14
+fill ~4~20~51 ~4~20~58 quartz_block 0
+fill ~5~1~51 ~5~1~83 planks 2
+fill ~5~2~51 ~5~3~51 chest 3
+setblock ~5~5~51 sea_lantern
+fill ~5~15~51 ~5~16~52 concrete 15
+fill ~5~19~51 ~5~19~52 planks 2
+fill ~5~20~51 ~5~20~52 leaves 0
+fill ~6~2~51 ~7~2~51 wooden_slab 10
+fill ~6~3~51 ~7~3~51 concrete 15
+setblock ~6~5~51 wooden_slab 10
+fill ~9~26~51 ~11~26~51 stone_block_slab 6
+fill ~10~11~51 ~10~11~54 wooden_slab 10
+fill ~10~12~51 ~10~12~53 concrete 8
+fill ~11~13~51 ~12~13~51 stained_glass 0
+setblock ~12~14~51 stained_glass 0
+fill ~12~26~51 ~16~26~52 quartz_block 0
+setblock ~13~9~51 wall_sign 5
+setblock ~14~15~51 wall_sign 3
+setblock ~15~9~51 wall_sign 4
+fill ~16~13~51 ~17~13~51 stained_glass 0
+setblock ~16~14~51 stained_glass 0
+fill ~17~26~51 ~19~26~51 stone_block_slab 6
+fill ~18~11~51 ~18~11~54 wooden_slab 10
+fill ~18~12~51 ~18~12~53 concrete 8
+fill ~20~11~51 ~20~11~53 wooden_slab 10
+fill ~21~2~51 ~21~2~52 quartz_block 0
+setblock ~21~3~51 stone_block_slab 6
+fill ~21~11~51 ~21~11~54 double_wooden_slab 2
+setblock ~22~2~51 quartz_stairs 3
+fill ~23~2~51 ~23~2~52 quartz_block 0
+setblock ~23~3~51 stone_block_slab 6
+fill ~23~15~51 ~23~16~52 concrete 15
+fill ~23~19~51 ~23~19~52 planks 2
+fill ~23~20~51 ~23~20~52 leaves 0
+fill ~24~20~51 ~24~20~58 quartz_block 0
+setblock ~5~5~52 wooden_slab 10
+fill ~8~11~52 ~8~11~54 double_wooden_slab 2
+fill ~8~26~52 ~9~26~52 stone_block_slab 6
+fill ~10~5~52 ~10~5~54 wooden_slab 10
+fill ~10~26~52 ~11~26~56 quartz_block 0
+fill ~11~12~52 ~12~12~53 concrete 8
+fill ~13~2~52 ~13~2~54 stone_block_slab 14
+fill ~13~12~52 ~15~12~52 planks 2
+fill ~14~11~52 ~14~11~60 wooden_slab 10
+setblock ~14~17~52 sea_lantern
+setblock ~14~18~52 quartz_stairs 2
+fill ~15~2~52 ~15~2~54 stone_block_slab 14
+fill ~16~12~52 ~17~12~53 concrete 8
+fill ~17~26~52 ~18~26~56 quartz_block 0
+fill ~19~26~52 ~20~26~52 stone_block_slab 6
+setblock ~22~2~52 stone_block_slab 6
+fill ~4~8~53 ~4~9~53 concrete 15
+fill ~4~19~53 ~4~19~58 stone_block_slab 14
+fill ~4~21~53 ~4~21~70 quartz_block 0
+setblock ~5~7~53 double_wooden_slab 2
+setblock ~5~8~53 flower_pot 0
+setblock ~5~10~53 double_wooden_slab 2
+fill ~5~14~53 ~5~17~61 stained_glass_pane 0
+fill ~5~19~53 ~5~19~59 concrete 15
+fill ~5~20~53 ~23~20~57 planks 2
+setblock ~5~21~53 leaves 0
+fill ~6~2~53 ~7~2~53 birch_stairs 2
+fill ~7~26~53 ~8~26~53 stone_block_slab 6
+fill ~9~26~53 ~9~26~61 quartz_block 0
+fill ~11~7~53 ~11~8~54 planks 2
+setblock ~12~7~53 leaves 0
+fill ~12~8~53 ~12~11~53 leaves 0
+fill ~12~26~53 ~13~26~53 quartz_block 0
+fill ~13~3~53 ~13~3~55 stone_block_slab 6
+fill ~13~12~53 ~15~12~53 concrete 8
+setblock ~14~3~53 cobblestone_wall 0
+setblock ~14~4~53 stone_block_slab 6
+setblock ~14~18~53 stone_block_slab 14
+setblock ~14~27~53 stone_block_slab 6
+fill ~15~3~53 ~15~3~55 stone_block_slab 6
+fill ~15~26~53 ~16~26~54 quartz_block 0
+fill ~16~7~53 ~16~7~56 leaves 0
+fill ~16~8~53 ~16~9~53 leaves 0
+fill ~16~10~53 ~16~11~53 leaves 0
+fill ~17~7~53 ~17~8~54 planks 2
+setblock ~19~7~53 double_stone_block_slab 6
+setblock ~19~8~53 flower_pot 0
+fill ~19~26~53 ~19~26~61 quartz_block 0
+fill ~20~7~53 ~21~7~53 stone_block_slab 6
+fill ~20~26~53 ~21~26~53 stone_block_slab 6
+fill ~22~5~53 ~23~5~53 wooden_slab 10
+setblock ~22~7~53 double_stone_block_slab 6
+setblock ~23~7~53 double_wooden_slab 2
+setblock ~23~10~53 double_wooden_slab 2
+setblock ~23~12~53 wooden_slab 10
+fill ~23~14~53 ~23~17~61 stained_glass_pane 0
+fill ~23~19~53 ~23~19~58 concrete 15
+setblock ~23~21~53 leaves 0
+fill ~24~8~53 ~24~9~53 concrete 15
+fill ~24~19~53 ~24~19~58 stone_block_slab 14
+fill ~24~21~53 ~24~21~71 quartz_block 0
+fill ~4~8~54 ~4~9~56 quartz_block 0
+fill ~5~7~54 ~5~11~54 leaves 0
+fill ~5~12~54 ~5~12~76 concrete 15
+fill ~5~18~54 ~5~18~61 stained_glass_pane 0
+fill ~5~21~54 ~6~21~54 quartz_stairs 3
+fill ~6~2~54 ~7~2~56 carpet 0
+setblock ~6~7~54 cauldron 0
+fill ~7~26~54 ~7~26~55 stone_block_slab 6
+fill ~8~7~54 ~9~7~54 wooden_slab 10
+fill ~8~8~54 ~9~8~54 concrete 15
+fill ~8~21~54 ~9~21~56 stone_block_slab 6
+fill ~8~26~54 ~8~26~74 quartz_block 0
+setblock ~9~11~54 double_wooden_slab 2
+fill ~9~12~54 ~19~12~54 concrete 7
+fill ~10~7~54 ~10~9~54 chest 2
+fill ~12~7~54 ~12~7~63 leaves 0
+fill ~12~11~54 ~12~11~80 leaves 0
+setblock ~12~17~54 sea_lantern
+setblock ~12~18~54 quartz_stairs 0
+setblock ~12~26~54 quartz_block 0
+setblock ~13~18~54 stone_block_slab 14
+setblock ~13~27~54 stone_block_slab 6
+fill ~14~2~54 ~14~2~55 double_stone_block_slab 6
+fill ~14~3~54 ~14~3~56 concrete 8
+fill ~14~4~54 ~14~4~55 carpet 8
+fill ~14~18~54 ~14~19~54 quartz_block 0
+fill ~14~27~54 ~14~27~55 quartz_block 0
+setblock ~15~18~54 stone_block_slab 14
+setblock ~15~27~54 stone_block_slab 6
+fill ~16~11~54 ~16~11~79 leaves 0
+setblock ~16~17~54 sea_lantern
+setblock ~16~18~54 quartz_stairs 1
+setblock ~18~7~54 cauldron 0
+setblock ~19~7~54 quartz_block 0
+setblock ~19~8~54 stone_block_slab 6
+fill ~19~21~54 ~20~21~56 stone_block_slab 6
+fill ~20~7~54 ~21~7~54 quartz_stairs 2
+setblock ~20~11~54 double_wooden_slab 2
+fill ~20~26~54 ~20~26~74 quartz_block 0
+fill ~21~2~54 ~21~2~56 carpet 0
+fill ~21~26~54 ~21~26~55 stone_block_slab 6
+fill ~22~2~54 ~23~2~54 wooden_slab 10
+fill ~22~3~54 ~23~3~54 concrete 15
+fill ~22~4~54 ~23~4~54 wooden_slab 2
+fill ~22~5~54 ~22~5~57 wooden_slab 10
+setblock ~22~7~54 quartz_block 0
+setblock ~22~8~54 stone_block_slab 6
+setblock ~22~21~54 quartz_stairs 3
+fill ~23~5~54 ~23~5~56 sea_lantern
+fill ~23~7~54 ~23~11~54 leaves 0
+fill ~23~18~54 ~23~18~61 stained_glass_pane 0
+fill ~23~21~54 ~23~21~56 quartz_stairs 0
+fill ~24~8~54 ~24~9~56 quartz_block 0
+setblock ~5~2~55 crafting_table
+fill ~5~7~55 ~5~11~55 sea_lantern
+fill ~5~13~55 ~5~13~61 stained_glass_pane 0
+setblock ~5~21~55 quartz_stairs 1
+fill ~6~7~55 ~10~11~55 planks 2
+setblock ~6~21~55 stone_block_slab 6
+fill ~6~26~55 ~6~26~58 stone_block_slab 6
+fill ~8~12~55 ~9~12~55 concrete 7
+setblock ~9~4~55 wall_sign 5
+fill ~9~5~55 ~9~5~57 wooden_slab 10
+fill ~10~12~55 ~18~12~55 concrete 8
+fill ~11~5~55 ~11~5~57 wooden_slab 10
+setblock ~12~27~55 stone_block_slab 6
+setblock ~13~27~55 quartz_block 0
+setblock ~14~18~55 stone_block_slab 14
+setblock ~14~28~55 stone_block_slab 6
+setblock ~15~27~55 quartz_block 0
+setblock ~16~27~55 stone_block_slab 6
+fill ~18~7~55 ~22~11~55 planks 2
+setblock ~19~4~55 wall_sign 4
+fill ~19~12~55 ~20~12~55 concrete 7
+fill ~22~2~55 ~22~2~56 carpet 0
+setblock ~22~21~55 stone_block_slab 6
+fill ~22~26~55 ~22~26~58 stone_block_slab 6
+fill ~23~7~55 ~23~11~55 sea_lantern
+fill ~23~12~55 ~23~12~76 concrete 15
+fill ~23~13~55 ~23~13~61 stained_glass_pane 0
+setblock ~5~2~56 wooden_slab 10
+setblock ~5~3~56 brewing_stand 0
+fill ~5~7~56 ~5~11~56 leaves 0
+fill ~5~21~56 ~6~21~56 quartz_stairs 2
+fill ~6~7~56 ~10~7~56 birch_stairs 3
+fill ~6~11~56 ~10~11~59 wooden_slab 10
+fill ~7~26~56 ~7~26~72 quartz_block 0
+fill ~8~12~56 ~10~12~56 concrete 8
+fill ~11~7~56 ~11~7~64 planks 2
+fill ~11~8~56 ~11~11~56 planks 2
+fill ~11~12~56 ~17~12~56 concrete 7
+fill ~12~27~56 ~12~27~63 quartz_block 0
+setblock ~13~3~56 quartz_stairs 4
+setblock ~13~4~56 lever 2
+setblock ~13~28~56 stone_block_slab 6
+setblock ~14~2~56 stone_block_slab 14
+setblock ~14~4~56 concrete 8
+setblock ~14~17~56 sea_lantern
+setblock ~14~18~56 quartz_stairs 3
+fill ~14~28~56 ~14~28~57 quartz_block 0
+fill ~15~3~56 ~15~3~57 quartz_stairs 5
+setblock ~15~4~56 lever 1
+setblock ~15~28~56 stone_block_slab 6
+setblock ~16~27~56 double_stone_block_slab 6
+fill ~17~7~56 ~17~7~64 planks 2
+fill ~17~8~56 ~17~11~56 planks 2
+fill ~18~7~56 ~22~7~56 birch_stairs 3
+fill ~18~11~56 ~20~11~59 wooden_slab 10
+fill ~18~12~56 ~20~12~56 concrete 8
+fill ~20~6~56 ~20~6~78 planks 2
+fill ~21~11~56 ~22~11~57 double_wooden_slab 2
+fill ~21~26~56 ~21~26~72 quartz_block 0
+setblock ~22~21~56 quartz_stairs 2
+setblock ~23~2~56 crafting_table
+setblock ~23~6~56 sea_lantern
+fill ~23~7~56 ~23~11~56 leaves 0
+fill ~4~8~57 ~4~9~57 concrete 15
+fill ~5~11~57 ~5~11~62 wooden_slab 10
+fill ~7~12~57 ~8~12~57 concrete 8
+fill ~8~2~57 ~8~3~63 planks 2
+fill ~9~12~57 ~11~12~57 concrete 7
+fill ~10~26~57 ~10~26~58 quartz_block 0
+fill ~11~8~57 ~11~9~59 stained_glass_pane 0
+fill ~11~10~57 ~11~11~78 planks 2
+fill ~11~27~57 ~11~27~71 stone_block_slab 6
+fill ~12~12~57 ~16~12~57 concrete 8
+setblock ~12~28~57 stone_block_slab 6
+fill ~13~3~57 ~14~3~57 quartz_stairs 7
+setblock ~13~28~57 quartz_block 0
+setblock ~14~4~57 stone_block_slab 6
+setblock ~14~29~57 stone_block_slab 6
+fill ~15~28~57 ~15~28~58 quartz_block 0
+fill ~16~7~57 ~16~7~63 leaves 0
+setblock ~16~27~57 stone_block_slab 14
+setblock ~16~28~57 stone_block_slab 6
+fill ~17~8~57 ~17~9~59 stained_glass_pane 0
+fill ~17~10~57 ~17~11~78 planks 2
+fill ~17~12~57 ~19~12~57 concrete 7
+fill ~17~27~57 ~17~27~71 stone_block_slab 6
+fill ~18~26~57 ~18~26~58 quartz_block 0
+fill ~20~2~57 ~20~3~63 planks 2
+fill ~20~12~57 ~21~12~57 concrete 8
+setblock ~23~2~57 bookshelf
+setblock ~23~5~57 wooden_slab 10
+fill ~23~6~57 ~23~6~77 planks 2
+fill ~23~11~57 ~23~11~60 double_wooden_slab 2
+fill ~24~8~57 ~24~9~57 concrete 15
+fill ~4~8~58 ~4~9~60 stained_glass_pane 0
+fill ~4~22~58 ~4~22~67 quartz_block 0
+setblock ~5~2~58 double_stone_block_slab 6
+setblock ~5~5~58 wooden_slab 10
+fill ~5~20~58 ~5~21~58 planks 2
+fill ~5~26~58 ~5~26~61 stone_block_slab 6
+setblock ~6~2~58 stone_block_slab 6
+fill ~6~7~58 ~10~7~58 wooden_slab 10
+fill ~6~21~58 ~23~21~58 planks 2
+setblock ~7~2~58 double_stone_block_slab 6
+setblock ~7~12~58 concrete 8
+fill ~8~12~58 ~9~12~58 concrete 7
+fill ~10~5~58 ~10~5~60 wooden_slab 10
+fill ~10~12~58 ~12~12~58 concrete 8
+setblock ~12~28~58 quartz_block 0
+fill ~13~12~58 ~15~12~83 planks 2
+fill ~13~14~58 ~13~14~59 wooden_slab 10
+fill ~13~18~58 ~13~18~59 wooden_slab 10
+setblock ~13~29~58 stone_block_slab 6
+setblock ~14~3~58 stone_block_slab 14
+fill ~14~14~58 ~14~14~59 wooden_slab 2
+fill ~14~18~58 ~14~18~59 wooden_slab 2
+setblock ~14~29~58 quartz_block 0
+fill ~15~13~58 ~15~13~59 wooden_slab 10
+fill ~15~17~58 ~15~17~59 wooden_slab 10
+setblock ~15~29~58 stone_block_slab 6
+fill ~16~12~58 ~18~12~58 concrete 8
+fill ~16~27~58 ~16~27~61 quartz_block 0
+setblock ~16~28~58 double_stone_block_slab 6
+fill ~18~7~58 ~22~7~58 wooden_slab 10
+setblock ~18~8~58 flower_pot 0
+fill ~19~12~58 ~20~12~58 concrete 7
+setblock ~21~8~58 flower_pot 0
+fill ~21~11~58 ~21~11~75 wooden_slab 10
+setblock ~21~12~58 concrete 8
+setblock ~22~11~58 double_wooden_slab 2
+fill ~23~20~58 ~23~20~67 concrete 15
+fill ~23~26~58 ~23~26~60 stone_block_slab 6
+fill ~24~8~58 ~24~9~60 stained_glass_pane 0
+fill ~24~22~58 ~24~22~67 quartz_block 0
+fill ~4~20~59 ~4~20~67 stone_block_slab 14
+fill ~4~24~59 ~4~24~61 quartz_block 0
+setblock ~5~2~59 quartz_block 0
+setblock ~5~3~59 stone_block_slab 6
+setblock ~5~5~59 sea_lantern
+fill ~5~20~59 ~5~20~67 concrete 15
+fill ~5~21~59 ~11~21~61 planks 2
+setblock ~6~2~59 quartz_stairs 2
+setblock ~6~5~59 wooden_slab 10
+fill ~6~26~59 ~6~26~68 quartz_block 0
+setblock ~7~2~59 quartz_block 0
+setblock ~7~3~59 stone_block_slab 6
+fill ~7~12~59 ~8~12~59 concrete 7
+fill ~9~12~59 ~10~12~59 concrete 8
+fill ~10~27~59 ~10~27~69 stone_block_slab 6
+fill ~11~12~59 ~12~12~83 planks 2
+setblock ~12~14~59 wooden_slab 10
+setblock ~12~18~59 wooden_slab 10
+fill ~12~22~59 ~14~22~59 wooden_slab 2
+fill ~12~28~59 ~12~28~63 double_stone_block_slab 6
+setblock ~12~29~59 stone_block_slab 6
+setblock ~13~29~59 quartz_block 0
+setblock ~13~34~59 quartz_block 0
+setblock ~14~30~59 quartz_block 0
+setblock ~14~34~59 stone_block_slab 6
+fill ~15~21~59 ~23~21~59 planks 2
+setblock ~15~29~59 quartz_block 0
+setblock ~15~34~59 quartz_block 0
+fill ~16~12~59 ~17~12~83 planks 2
+setblock ~16~13~59 wooden_slab 10
+setblock ~16~17~59 wooden_slab 10
+fill ~16~28~59 ~16~28~61 quartz_block 0
+setblock ~16~29~59 stone_block_slab 6
+fill ~18~12~59 ~19~12~59 concrete 8
+fill ~18~27~59 ~18~27~69 stone_block_slab 6
+fill ~20~12~59 ~21~12~59 concrete 7
+setblock ~21~2~59 wooden_slab 10
+setblock ~21~3~59 anvil 1
+setblock ~22~2~59 cauldron 0
+fill ~22~11~59 ~22~11~78 wooden_slab 10
+fill ~22~26~59 ~22~26~68 quartz_block 0
+setblock ~23~2~59 wooden_slab 10
+setblock ~23~3~59 brewing_stand 0
+fill ~23~19~59 ~23~19~61 stained_glass_pane 0
+fill ~24~20~59 ~24~20~67 stone_block_slab 14
+fill ~24~24~59 ~24~24~61 quartz_block 0
+setblock ~4~25~60 stone_block_slab 6
+fill ~5~2~60 ~7~5~60 planks 2
+fill ~5~19~60 ~5~19~61 stained_glass_pane 0
+fill ~6~7~60 ~10~7~60 birch_stairs 2
+fill ~6~11~60 ~9~11~60 wooden_slab 10
+fill ~7~12~60 ~7~12~78 concrete 7
+fill ~8~12~60 ~9~12~60 concrete 8
+fill ~10~12~60 ~10~12~78 planks 2
+setblock ~10~29~60 stone_block_slab 14
+fill ~10~30~60 ~10~30~62 double_stone_block_slab 6
+setblock ~10~31~60 stone_block_slab 6
+fill ~10~32~60 ~13~32~60 stone_block_slab 14
+fill ~11~8~60 ~11~9~60 planks 2
+fill ~12~15~60 ~13~15~60 wooden_slab 2
+fill ~12~19~60 ~13~19~60 wooden_slab 2
+fill ~12~22~60 ~12~22~61 double_wooden_slab 2
+fill ~12~29~60 ~12~29~61 double_stone_block_slab 6
+fill ~13~22~60 ~13~22~62 wooden_slab 10
+fill ~13~29~60 ~13~29~61 stone_block_slab 14
+setblock ~13~30~60 double_stone_block_slab 6
+setblock ~13~33~60 quartz_stairs 3
+fill ~14~13~60 ~14~23~60 planks 2
+setblock ~14~24~60 wooden_slab 2
+fill ~14~30~60 ~14~30~61 stone_block_slab 14
+fill ~14~31~60 ~14~31~61 quartz_block 0
+fill ~14~32~60 ~14~33~60 quartz_block 0
+fill ~15~13~60 ~16~13~60 wooden_slab 2
+fill ~15~17~60 ~16~17~60 wooden_slab 2
+fill ~15~21~60 ~16~21~60 wooden_slab 2
+fill ~15~29~60 ~15~29~61 stone_block_slab 14
+setblock ~15~30~60 double_stone_block_slab 6
+fill ~15~32~60 ~18~32~60 stone_block_slab 14
+setblock ~15~33~60 quartz_stairs 3
+fill ~16~29~60 ~16~29~61 double_stone_block_slab 6
+fill ~17~8~60 ~17~9~60 planks 2
+fill ~17~21~60 ~23~21~61 planks 2
+fill ~18~7~60 ~22~7~60 birch_stairs 2
+fill ~18~12~60 ~18~12~78 planks 2
+setblock ~18~29~60 stone_block_slab 14
+fill ~18~30~60 ~18~30~62 double_stone_block_slab 6
+setblock ~18~31~60 stone_block_slab 6
+fill ~19~11~60 ~20~11~61 wooden_slab 10
+fill ~19~12~60 ~20~12~60 concrete 8
+fill ~20~1~60 ~22~1~98 planks 2
+fill ~21~2~60 ~23~5~60 planks 2
+fill ~21~12~60 ~21~12~78 concrete 7
+setblock ~24~25~60 stone_block_slab 6
+fill ~4~8~61 ~4~9~61 concrete 15
+fill ~4~23~61 ~4~23~62 quartz_block 0
+setblock ~4~25~61 double_stone_block_slab 6
+setblock ~5~2~61 crafting_table
+setblock ~5~5~61 sea_lantern
+fill ~6~2~61 ~7~2~61 wooden_slab 10
+fill ~6~3~61 ~7~3~61 concrete 15
+setblock ~6~5~61 wooden_slab 10
+fill ~6~11~61 ~8~11~75 wooden_slab 10
+fill ~8~12~61 ~8~12~78 concrete 8
+fill ~9~5~61 ~9~5~63 wooden_slab 10
+fill ~9~12~61 ~9~12~78 planks 2
+setblock ~9~29~61 stone_block_slab 14
+setblock ~9~30~61 double_stone_block_slab 6
+setblock ~9~31~61 stone_block_slab 6
+setblock ~10~29~61 double_stone_block_slab 6
+setblock ~10~31~61 double_stone_block_slab 6
+fill ~11~5~61 ~11~5~63 wooden_slab 10
+fill ~11~8~61 ~11~9~63 stained_glass_pane 0
+setblock ~11~29~61 stone_block_slab 14
+setblock ~11~30~61 double_stone_block_slab 6
+setblock ~11~31~61 stone_block_slab 6
+fill ~12~15~61 ~13~15~61 wooden_slab 10
+fill ~12~19~61 ~13~19~61 wooden_slab 10
+fill ~12~30~61 ~13~30~61 stone_block_slab 6
+fill ~13~11~61 ~13~11~63 wooden_slab 10
+fill ~13~32~61 ~15~32~61 stone_block_slab 14
+setblock ~14~14~61 wall_sign 3
+fill ~14~16~61 ~14~16~62 wooden_slab 2
+fill ~14~20~61 ~14~20~62 wooden_slab 2
+fill ~15~11~61 ~15~11~63 wooden_slab 10
+fill ~15~16~61 ~16~16~61 wooden_slab 10
+fill ~15~20~61 ~16~20~61 wooden_slab 10
+fill ~15~30~61 ~16~30~61 stone_block_slab 6
+fill ~17~8~61 ~17~9~63 stained_glass_pane 0
+setblock ~17~29~61 stone_block_slab 14
+setblock ~17~30~61 double_stone_block_slab 6
+setblock ~17~31~61 stone_block_slab 6
+setblock ~18~29~61 double_stone_block_slab 6
+setblock ~18~31~61 double_stone_block_slab 6
+fill ~19~12~61 ~19~12~78 planks 2
+setblock ~19~29~61 stone_block_slab 14
+setblock ~19~30~61 double_stone_block_slab 6
+setblock ~19~31~61 stone_block_slab 6
+fill ~20~12~61 ~20~12~78 concrete 8
+fill ~21~2~61 ~21~2~62 double_stone_block_slab 6
+setblock ~21~3~61 stone_block_slab 6
+fill ~21~5~61 ~23~5~61 sea_lantern
+setblock ~22~2~61 quartz_stairs 3
+fill ~23~1~61 ~23~1~77 planks 2
+fill ~23~2~61 ~23~2~62 double_stone_block_slab 6
+setblock ~23~3~61 stone_block_slab 6
+fill ~23~11~61 ~23~11~62 wooden_slab 10
+fill ~23~26~61 ~23~26~66 quartz_block 0
+fill ~24~8~61 ~24~9~61 concrete 15
+fill ~24~23~61 ~24~23~62 quartz_block 0
+setblock ~24~25~61 quartz_block 0
+fill ~4~8~62 ~4~9~64 quartz_block 0
+fill ~4~25~62 ~4~25~64 stone_block_slab 14
+setblock ~5~5~62 wooden_slab 10
+fill ~5~13~62 ~5~19~64 concrete 15
+fill ~5~22~62 ~12~22~65 planks 2
+fill ~5~26~62 ~5~26~66 quartz_block 0
+setblock ~7~7~62 birch_stairs 3
+fill ~9~7~62 ~10~7~62 birch_stairs 3
+fill ~9~27~62 ~9~27~66 stone_block_slab 6
+setblock ~10~29~62 stone_block_slab 14
+setblock ~10~31~62 stone_block_slab 6
+setblock ~12~21~62 planks 2
+setblock ~12~29~62 stone_block_slab 6
+setblock ~13~15~62 wooden_slab 10
+setblock ~13~19~62 wooden_slab 10
+setblock ~13~29~62 double_stone_block_slab 6
+setblock ~14~30~62 double_stone_block_slab 6
+setblock ~15~16~62 wooden_slab 10
+setblock ~15~20~62 wooden_slab 10
+setblock ~15~29~62 double_stone_block_slab 6
+fill ~16~21~62 ~16~22~62 planks 2
+fill ~16~27~62 ~16~27~63 stone_block_slab 14
+fill ~16~28~62 ~16~28~63 double_stone_block_slab 6
+setblock ~16~29~62 stone_block_slab 6
+fill ~17~22~62 ~23~22~65 planks 2
+fill ~18~7~62 ~19~7~62 birch_stairs 3
+setblock ~18~29~62 stone_block_slab 14
+setblock ~18~31~62 stone_block_slab 6
+fill ~19~27~62 ~19~27~66 stone_block_slab 6
+fill ~20~11~62 ~20~11~75 wooden_slab 10
+fill ~21~5~62 ~23~5~62 wooden_slab 10
+setblock ~22~2~62 stone_block_slab 6
+fill ~23~13~62 ~23~19~64 concrete 15
+fill ~24~8~62 ~24~9~64 quartz_block 0
+fill ~24~25~62 ~24~25~63 stone_block_slab 14
+setblock ~4~23~63 stone_block_slab 6
+fill ~5~2~63 ~5~2~64 wooden_slab 10
+setblock ~5~3~63 brewing_stand 0
+setblock ~5~11~63 sea_lantern
+setblock ~7~2~63 birch_stairs 2
+fill ~13~2~63 ~13~3~63 concrete 7
+fill ~13~13~63 ~15~13~63 wooden_slab 2
+fill ~13~22~63 ~16~22~78 planks 2
+setblock ~13~28~63 stone_block_slab 14
+setblock ~13~29~63 stone_block_slab 6
+setblock ~14~29~63 stone_block_slab 14
+setblock ~14~30~63 stone_block_slab 6
+fill ~15~2~63 ~15~3~63 concrete 7
+setblock ~15~28~63 stone_block_slab 14
+setblock ~15~29~63 stone_block_slab 6
+setblock ~23~11~63 sea_lantern
+setblock ~24~23~63 stone_block_slab 6
+fill ~1~22~64 ~1~22~65 double_stone_block_slab 6
+fill ~2~22~64 ~3~22~65 stone_block_slab 14
+fill ~4~26~64 ~4~26~68 stone_block_slab 6
+fill ~5~11~64 ~5~11~70 wooden_slab 10
+fill ~6~2~64 ~7~2~66 carpet 0
+setblock ~7~7~64 birch_stairs 2
+fill ~9~7~64 ~10~7~64 birch_stairs 2
+fill ~9~26~64 ~9~26~75 quartz_block 0
+fill ~10~5~64 ~10~5~66 wooden_slab 10
+fill ~11~8~64 ~11~9~64 planks 2
+setblock ~12~7~64 leaves 0
+setblock ~12~8~64 leaves 0
+setblock ~12~13~64 wooden_slab 2
+fill ~12~27~64 ~12~27~65 double_stone_block_slab 6
+setblock ~12~28~64 stone_block_slab 6
+fill ~13~2~64 ~15~2~64 stone_block_slab 14
+setblock ~13~3~64 stone_block_slab 6
+fill ~13~13~64 ~15~13~64 leaves 0
+fill ~13~27~64 ~15~27~65 stone_block_slab 6
+setblock ~13~28~64 quartz_block 0
+fill ~14~11~64 ~14~11~66 wooden_slab 10
+setblock ~14~29~64 quartz_block 0
+setblock ~15~3~64 stone_block_slab 6
+setblock ~15~28~64 quartz_block 0
+setblock ~16~7~64 leaves 0
+setblock ~16~8~64 leaves 0
+setblock ~16~13~64 wooden_slab 2
+fill ~16~27~64 ~16~27~65 double_stone_block_slab 6
+setblock ~16~28~64 stone_block_slab 6
+fill ~17~8~64 ~17~9~64 planks 2
+fill ~18~7~64 ~19~7~64 birch_stairs 2
+fill ~22~2~64 ~23~3~64 concrete 15
+fill ~22~7~64 ~23~7~64 birch_stairs 3
+fill ~23~11~64 ~23~11~70 wooden_slab 10
+fill ~24~26~64 ~24~26~68 stone_block_slab 6
+fill ~25~22~64 ~26~22~65 stone_block_slab 14
+fill ~27~22~64 ~27~22~65 double_stone_block_slab 6
+fill ~4~8~65 ~4~9~65 concrete 15
+setblock ~5~2~65 cauldron 0
+setblock ~5~7~65 birch_stairs 3
+fill ~5~13~65 ~5~16~73 stained_glass_pane 0
+fill ~5~17~65 ~5~17~72 stained_glass_pane 0
+fill ~5~18~65 ~5~18~69 stained_glass_pane 0
+fill ~5~19~65 ~5~19~66 stained_glass_pane 0
+setblock ~9~4~65 wall_sign 5
+setblock ~9~13~65 birch_stairs 3
+fill ~11~13~65 ~11~13~67 wooden_slab 2
+fill ~12~2~65 ~13~2~65 stone_block_slab 14
+fill ~12~3~65 ~12~3~66 stone_block_slab 6
+fill ~12~6~65 ~12~6~69 planks 2
+fill ~12~13~65 ~12~13~67 leaves 0
+fill ~13~13~65 ~15~13~65 grass
+fill ~13~17~65 ~15~17~65 leaves 0
+setblock ~13~28~65 stone_block_slab 6
+setblock ~14~2~65 double_stone_block_slab 6
+fill ~14~18~65 ~14~18~67 leaves 0
+fill ~14~28~65 ~14~28~66 quartz_block 0
+setblock ~14~29~65 stone_block_slab 6
+fill ~15~2~65 ~16~2~65 stone_block_slab 14
+setblock ~15~28~65 stone_block_slab 6
+fill ~16~3~65 ~16~3~66 stone_block_slab 6
+fill ~16~6~65 ~16~6~69 planks 2
+fill ~16~13~65 ~16~13~67 leaves 0
+fill ~17~13~65 ~17~13~67 wooden_slab 2
+setblock ~19~4~65 wall_sign 4
+setblock ~19~13~65 birch_stairs 3
+fill ~21~2~65 ~22~2~67 carpet 0
+fill ~23~2~65 ~23~4~66 chest 4
+fill ~23~13~65 ~23~16~73 stained_glass_pane 0
+fill ~23~17~65 ~23~17~72 stained_glass_pane 0
+fill ~23~18~65 ~23~18~69 stained_glass_pane 0
+fill ~23~19~65 ~23~19~66 stained_glass_pane 0
+fill ~24~8~65 ~24~9~65 concrete 15
+fill ~4~8~66 ~4~9~68 stained_glass_pane 0
+fill ~5~2~66 ~5~2~67 chest 5
+setblock ~5~22~66 stone_block_slab 6
+fill ~5~23~66 ~5~25~66 concrete 15
+fill ~6~22~66 ~12~22~71 planks 2
+fill ~12~2~66 ~12~2~70 stone_block_slab 14
+fill ~12~27~66 ~12~27~72 stone_block_slab 6
+setblock ~13~2~66 double_stone_block_slab 6
+fill ~13~13~66 ~13~13~67 grass
+fill ~13~17~66 ~13~17~67 leaves 0
+setblock ~13~18~66 leaves 0
+setblock ~13~27~66 double_stone_block_slab 6
+fill ~14~2~66 ~14~2~69 stone_block_slab 6
+setblock ~14~13~66 dirt 0
+fill ~14~14~66 ~14~17~66 log 3
+setblock ~14~27~66 stone_block_slab 6
+setblock ~15~2~66 double_stone_block_slab 6
+fill ~15~13~66 ~15~13~67 grass
+fill ~15~17~66 ~15~17~67 leaves 0
+setblock ~15~18~66 leaves 0
+setblock ~15~27~66 double_stone_block_slab 6
+fill ~16~2~66 ~16~2~70 stone_block_slab 14
+fill ~16~27~66 ~16~27~72 stone_block_slab 6
+fill ~17~22~66 ~22~22~71 planks 2
+setblock ~18~11~66 wooden_slab 10
+fill ~22~7~66 ~23~7~66 wooden_slab 10
+setblock ~23~22~66 stone_block_slab 6
+fill ~23~23~66 ~23~25~66 concrete 15
+fill ~24~8~66 ~24~9~68 stained_glass_pane 0
+setblock ~5~7~67 wooden_slab 10
+fill ~5~19~67 ~5~19~70 concrete 15
+fill ~5~22~67 ~5~22~71 double_stone_block_slab 6
+fill ~5~26~67 ~5~26~71 stone_block_slab 6
+fill ~6~23~67 ~6~25~71 stained_glass 0
+setblock ~7~23~67 double_stone_block_slab 6
+fill ~7~24~67 ~8~24~67 flower_pot 0
+fill ~8~2~67 ~8~3~75 planks 2
+fill ~8~23~67 ~11~23~67 stone_block_slab 14
+fill ~9~5~67 ~9~5~69 wooden_slab 10
+setblock ~9~13~67 birch_stairs 2
+fill ~11~5~67 ~11~5~69 wooden_slab 10
+setblock ~11~24~67 flower_pot 0
+setblock ~12~10~67 wall_sign 5
+setblock ~12~23~67 double_stone_block_slab 6
+setblock ~13~2~67 stone_block_slab 6
+fill ~13~11~67 ~13~11~69 wooden_slab 10
+fill ~13~27~67 ~13~27~68 stone_block_slab 6
+setblock ~14~13~67 grass
+setblock ~14~17~67 leaves 0
+setblock ~14~27~67 double_stone_block_slab 6
+setblock ~15~2~67 stone_block_slab 6
+fill ~15~11~67 ~15~11~69 wooden_slab 10
+fill ~15~27~67 ~15~27~68 stone_block_slab 6
+setblock ~16~10~67 wall_sign 4
+setblock ~16~23~67 double_stone_block_slab 6
+fill ~17~23~67 ~20~23~67 stone_block_slab 14
+setblock ~17~24~67 flower_pot 0
+setblock ~18~11~67 sea_lantern
+setblock ~19~13~67 birch_stairs 2
+fill ~19~24~67 ~20~24~67 flower_pot 0
+fill ~19~26~67 ~19~26~75 quartz_block 0
+fill ~20~2~67 ~20~3~75 planks 2
+setblock ~21~23~67 double_stone_block_slab 6
+fill ~22~23~67 ~22~25~71 stained_glass 0
+fill ~23~2~67 ~23~5~67 bookshelf
+fill ~23~19~67 ~23~19~70 concrete 15
+fill ~23~22~67 ~23~22~71 double_stone_block_slab 6
+fill ~23~26~67 ~23~26~71 stone_block_slab 6
+fill ~4~19~68 ~4~19~70 stone_block_slab 14
+fill ~4~20~68 ~4~20~73 quartz_block 0
+fill ~5~2~68 ~5~2~69 double_stone_block_slab 6
+setblock ~5~5~68 wooden_slab 10
+setblock ~6~2~68 stone_block_slab 6
+fill ~7~2~68 ~7~2~69 double_stone_block_slab 6
+setblock ~12~13~68 wooden_slab 2
+setblock ~13~2~68 double_stone_block_slab 6
+fill ~13~13~68 ~15~13~68 leaves 0
+fill ~14~27~68 ~14~27~69 stone_block_slab 6
+setblock ~15~2~68 double_stone_block_slab 6
+setblock ~16~13~68 wooden_slab 2
+setblock ~18~11~68 wooden_slab 10
+fill ~21~5~68 ~23~5~68 wooden_slab 10
+fill ~22~7~68 ~23~7~68 birch_stairs 2
+setblock ~23~2~68 anvil 0
+fill ~24~19~68 ~24~19~70 stone_block_slab 14
+fill ~24~20~68 ~24~20~73 quartz_block 0
+fill ~4~8~69 ~4~9~69 concrete 15
+setblock ~5~3~69 stone_block_slab 6
+setblock ~5~5~69 sea_lantern
+setblock ~5~7~69 birch_stairs 2
+setblock ~6~2~69 quartz_stairs 2
+setblock ~6~5~69 wooden_slab 10
+fill ~6~26~69 ~6~26~74 stone_block_slab 6
+setblock ~7~3~69 stone_block_slab 6
+fill ~12~3~69 ~12~3~70 stone_block_slab 6
+setblock ~13~2~69 stone_block_slab 6
+fill ~13~13~69 ~15~13~69 wooden_slab 2
+fill ~13~27~69 ~13~27~70 stone_block_slab 14
+setblock ~15~2~69 stone_block_slab 6
+fill ~15~27~69 ~15~27~70 stone_block_slab 14
+fill ~16~3~69 ~16~3~70 stone_block_slab 6
+setblock ~17~23~69 quartz_stairs 3
+setblock ~19~23~69 quartz_stairs 3
+setblock ~21~2~69 cauldron 0
+fill ~21~5~69 ~23~5~69 sea_lantern
+setblock ~22~2~69 wooden_slab 10
+setblock ~22~3~69 brewing_stand 0
+fill ~22~26~69 ~22~26~74 stone_block_slab 6
+setblock ~23~2~69 crafting_table
+fill ~24~8~69 ~24~9~69 concrete 15
+fill ~4~8~70 ~4~9~72 quartz_block 0
+fill ~5~2~70 ~7~5~70 planks 2
+fill ~5~18~70 ~5~18~74 concrete 15
+fill ~9~7~70 ~10~7~70 birch_stairs 3
+fill ~10~5~70 ~10~5~72 wooden_slab 10
+fill ~10~26~70 ~10~26~76 quartz_block 0
+fill ~11~7~70 ~11~7~78 planks 2
+fill ~11~8~70 ~11~9~70 planks 2
+fill ~12~7~70 ~12~7~73 leaves 0
+setblock ~12~8~70 leaves 0
+fill ~13~2~70 ~13~2~71 stone_block_slab 14
+fill ~14~2~70 ~14~2~71 double_stone_block_slab 6
+setblock ~14~3~70 concrete 15
+fill ~14~11~70 ~14~11~72 wooden_slab 10
+fill ~14~27~70 ~14~27~71 stone_block_slab 14
+fill ~15~2~70 ~15~2~71 stone_block_slab 14
+fill ~16~7~70 ~16~7~73 leaves 0
+setblock ~16~8~70 leaves 0
+fill ~17~7~70 ~17~7~78 planks 2
+fill ~17~8~70 ~17~9~70 planks 2
+fill ~18~7~70 ~19~7~70 birch_stairs 3
+fill ~18~26~70 ~18~26~76 quartz_block 0
+fill ~21~2~70 ~23~5~70 planks 2
+setblock ~23~7~70 birch_stairs 3
+fill ~23~18~70 ~23~18~73 concrete 15
+fill ~24~8~70 ~24~9~72 quartz_block 0
+fill ~4~18~71 ~4~18~73 stone_block_slab 14
+fill ~4~19~71 ~4~19~76 quartz_block 0
+fill ~5~2~71 ~7~2~71 wool 1
+setblock ~5~7~71 birch_stairs 3
+setblock ~5~11~71 sea_lantern
+fill ~5~21~71 ~5~21~84 quartz_block 0
+setblock ~9~23~71 quartz_stairs 1
+fill ~11~8~71 ~11~9~73 stained_glass_pane 0
+setblock ~11~23~71 quartz_block 0
+setblock ~11~24~71 concrete 15
+setblock ~11~25~71 stone_block_slab 6
+fill ~12~13~71 ~12~13~72 birch_stairs 1
+fill ~13~3~71 ~15~3~71 stone_block_slab 6
+fill ~13~27~71 ~13~27~73 stone_block_slab 6
+fill ~14~13~71 ~14~13~72 planks 2
+fill ~15~27~71 ~15~27~73 stone_block_slab 6
+fill ~16~13~71 ~16~13~72 birch_stairs 0
+fill ~17~8~71 ~17~9~73 stained_glass_pane 0
+setblock ~17~23~71 quartz_block 0
+setblock ~17~24~71 concrete 15
+setblock ~17~25~71 stone_block_slab 6
+setblock ~19~23~71 quartz_block 0
+setblock ~19~24~71 concrete 15
+setblock ~19~25~71 stone_block_slab 6
+fill ~21~2~71 ~21~2~72 double_stone_block_slab 6
+setblock ~21~3~71 stone_block_slab 6
+fill ~21~5~71 ~23~5~71 sea_lantern
+setblock ~22~2~71 quartz_stairs 3
+fill ~23~2~71 ~23~2~72 double_stone_block_slab 6
+setblock ~23~3~71 stone_block_slab 6
+setblock ~23~11~71 sea_lantern
+fill ~24~18~71 ~24~18~73 stone_block_slab 14
+fill ~24~19~71 ~24~19~76 quartz_block 0
+fill ~5~2~72 ~5~2~74 wool 1
+fill ~5~11~72 ~5~11~77 wooden_slab 10
+fill ~5~22~72 ~5~22~75 stone_block_slab 6
+fill ~6~2~72 ~6~2~73 carpet 1
+fill ~6~22~72 ~6~22~74 double_stone_block_slab 6
+fill ~7~2~72 ~7~2~74 wool 1
+fill ~7~22~72 ~12~22~74 planks 2
+fill ~7~23~72 ~7~25~74 stained_glass 0
+fill ~9~7~72 ~10~7~72 wooden_slab 10
+fill ~11~26~72 ~11~26~76 quartz_block 0
+fill ~14~2~72 ~14~2~73 stone_block_slab 14
+setblock ~14~3~72 stone_block_slab 6
+fill ~14~27~72 ~14~27~73 stone_block_slab 6
+fill ~17~22~72 ~21~22~74 planks 2
+fill ~17~26~72 ~17~26~76 quartz_block 0
+fill ~18~7~72 ~19~7~72 wooden_slab 10
+setblock ~19~8~72 flower_pot 0
+fill ~21~5~72 ~23~5~72 wooden_slab 10
+fill ~21~23~72 ~21~25~74 stained_glass 0
+setblock ~22~2~72 stone_block_slab 6
+fill ~22~22~72 ~22~22~74 double_stone_block_slab 6
+setblock ~23~7~72 wooden_slab 10
+fill ~23~11~72 ~23~11~77 wooden_slab 10
+fill ~23~21~72 ~23~21~84 quartz_block 0
+fill ~23~22~72 ~23~22~75 stone_block_slab 6
+fill ~4~8~73 ~4~9~73 concrete 15
+setblock ~5~7~73 birch_stairs 2
+fill ~5~17~73 ~5~17~76 concrete 15
+fill ~7~26~73 ~7~26~76 stone_block_slab 6
+fill ~9~5~73 ~9~5~75 wooden_slab 10
+setblock ~9~23~73 quartz_stairs 1
+fill ~11~5~73 ~11~5~75 wooden_slab 10
+setblock ~11~23~73 quartz_block 0
+setblock ~11~24~73 concrete 15
+setblock ~11~25~73 stone_block_slab 6
+fill ~12~26~73 ~12~26~76 quartz_block 0
+fill ~13~11~73 ~13~11~75 wooden_slab 10
+fill ~14~23~73 ~14~24~73 quartz_block 0
+fill ~15~11~73 ~15~11~75 wooden_slab 10
+fill ~16~26~73 ~16~26~76 quartz_block 0
+fill ~21~26~73 ~21~26~76 stone_block_slab 6
+fill ~23~17~73 ~23~17~76 concrete 15
+fill ~24~8~73 ~24~9~73 concrete 15
+fill ~4~8~74 ~4~9~76 stained_glass_pane 0
+fill ~4~17~74 ~4~17~76 stone_block_slab 14
+fill ~4~18~74 ~4~18~81 quartz_block 0
+fill ~4~21~74 ~4~21~87 stone_block_slab 6
+fill ~5~13~74 ~5~13~83 concrete 15
+fill ~5~14~74 ~5~16~76 concrete 15
+fill ~5~20~74 ~5~20~78 concrete 15
+setblock ~6~2~74 wool 1
+fill ~9~7~74 ~10~7~74 birch_stairs 2
+fill ~11~8~74 ~11~9~74 planks 2
+setblock ~12~7~74 leaves 0
+setblock ~13~23~74 quartz_block 0
+setblock ~13~24~74 stone_block_slab 6
+fill ~13~26~74 ~15~26~77 quartz_block 0
+setblock ~14~19~74 sea_lantern
+setblock ~14~20~74 quartz_stairs 2
+setblock ~14~23~74 quartz_stairs 3
+setblock ~15~23~74 quartz_block 0
+setblock ~15~24~74 stone_block_slab 6
+setblock ~16~7~74 leaves 0
+fill ~17~8~74 ~17~9~74 planks 2
+fill ~18~7~74 ~19~7~74 birch_stairs 2
+fill ~22~2~74 ~23~2~74 wooden_slab 10
+fill ~22~3~74 ~23~3~74 concrete 15
+fill ~22~4~74 ~23~4~74 wooden_slab 2
+setblock ~23~7~74 birch_stairs 2
+fill ~23~13~74 ~23~13~83 concrete 15
+fill ~23~14~74 ~23~16~76 concrete 15
+fill ~23~20~74 ~23~20~78 concrete 15
+fill ~24~8~74 ~24~9~76 stained_glass_pane 0
+fill ~24~17~74 ~24~17~76 stone_block_slab 14
+fill ~24~18~74 ~24~18~81 quartz_block 0
+fill ~24~21~74 ~24~21~87 stone_block_slab 6
+fill ~6~21~75 ~6~21~86 quartz_block 0
+fill ~6~22~75 ~6~22~77 stone_block_slab 6
+fill ~7~22~75 ~7~22~76 double_stone_block_slab 6
+fill ~8~22~75 ~12~22~76 planks 2
+fill ~8~23~75 ~8~25~76 stained_glass 0
+fill ~8~26~75 ~8~26~77 stone_block_slab 6
+fill ~11~8~75 ~11~9~77 stained_glass_pane 0
+fill ~12~2~75 ~16~4~75 planks 2
+fill ~12~7~75 ~12~7~80 leaves 0
+fill ~13~5~75 ~15~5~75 planks 2
+setblock ~14~20~75 stone_block_slab 14
+fill ~16~7~75 ~16~7~80 leaves 0
+fill ~17~8~75 ~17~9~77 stained_glass_pane 0
+fill ~17~22~75 ~20~22~76 planks 2
+fill ~20~23~75 ~20~25~76 stained_glass 0
+fill ~20~26~75 ~20~26~77 stone_block_slab 6
+fill ~21~22~75 ~21~22~76 double_stone_block_slab 6
+fill ~22~21~75 ~22~21~86 quartz_block 0
+fill ~22~22~75 ~22~22~77 stone_block_slab 6
+setblock ~23~2~75 cauldron 0
+setblock ~5~2~76 crafting_table
+setblock ~5~5~76 wooden_slab 10
+fill ~6~7~76 ~10~7~76 quartz_block 0
+setblock ~6~10~76 stone_block_slab 6
+fill ~6~11~76 ~6~11~78 wooden_slab 10
+fill ~7~10~76 ~9~11~76 double_stone_block_slab 6
+fill ~9~5~76 ~11~5~83 planks 2
+fill ~9~26~76 ~9~26~78 stone_block_slab 6
+setblock ~10~10~76 stone_block_slab 6
+fill ~12~2~76 ~12~2~95 planks 2
+fill ~12~3~76 ~12~4~83 stained_glass 0
+setblock ~12~19~76 sea_lantern
+setblock ~12~20~76 quartz_stairs 0
+fill ~13~1~76 ~15~1~77 sea_lantern
+fill ~13~2~76 ~15~2~77 sand 0
+setblock ~13~20~76 stone_block_slab 14
+fill ~14~11~76 ~14~11~78 wooden_slab 10
+setblock ~14~19~76 sea_lantern
+fill ~14~20~76 ~14~21~76 quartz_block 0
+setblock ~14~23~76 lever 4
+setblock ~15~20~76 stone_block_slab 14
+fill ~16~1~76 ~16~2~95 planks 2
+fill ~16~3~76 ~16~4~83 stained_glass 0
+setblock ~16~19~76 sea_lantern
+setblock ~16~20~76 quartz_stairs 1
+fill ~18~7~76 ~22~7~76 quartz_block 0
+setblock ~18~10~76 stone_block_slab 6
+fill ~19~10~76 ~21~11~76 double_stone_block_slab 6
+fill ~19~26~76 ~19~26~78 stone_block_slab 6
+fill ~21~2~76 ~22~2~78 carpet 0
+fill ~21~8~76 ~22~8~76 flower_pot 0
+setblock ~22~10~76 stone_block_slab 6
+fill ~23~2~76 ~23~5~76 bookshelf
+fill ~4~8~77 ~4~9~77 concrete 15
+fill ~4~12~77 ~4~12~104 quartz_block 0
+fill ~4~16~77 ~4~16~81 stone_block_slab 14
+fill ~4~17~77 ~4~17~86 quartz_block 0
+fill ~4~19~77 ~4~19~81 stone_block_slab 14
+fill ~5~2~77 ~5~5~77 sea_lantern
+fill ~5~14~77 ~5~15~79 stained_glass_pane 0
+fill ~5~16~77 ~5~16~81 concrete 15
+fill ~5~19~77 ~5~19~90 quartz_block 0
+fill ~7~11~77 ~8~11~78 wooden_slab 10
+fill ~7~21~77 ~7~21~82 quartz_block 0
+fill ~7~22~77 ~7~22~78 stone_block_slab 6
+setblock ~8~22~77 double_stone_block_slab 6
+setblock ~9~4~77 wall_sign 5
+fill ~9~22~77 ~12~22~77 planks 2
+fill ~9~23~77 ~10~25~77 stained_glass 0
+fill ~10~26~77 ~12~26~78 stone_block_slab 6
+setblock ~11~23~77 observer 3
+setblock ~12~23~77 quartz_block 0
+setblock ~12~24~77 redstone_torch 5
+setblock ~13~23~77 stone_block_slab 14
+setblock ~14~20~77 stone_block_slab 14
+setblock ~14~23~77 concrete 15
+setblock ~15~23~77 stone_block_slab 14
+setblock ~15~24~77 stone_button 1
+setblock ~16~23~77 quartz_block 0
+setblock ~16~24~77 lever 5
+fill ~16~26~77 ~18~26~78 stone_block_slab 6
+fill ~17~22~77 ~19~22~77 planks 2
+setblock ~17~23~77 observer 3
+fill ~18~23~77 ~19~25~77 stained_glass 0
+setblock ~19~4~77 wall_sign 4
+fill ~20~11~77 ~21~11~78 wooden_slab 10
+setblock ~20~22~77 double_stone_block_slab 6
+fill ~21~21~77 ~21~21~82 quartz_block 0
+fill ~21~22~77 ~21~22~78 stone_block_slab 6
+setblock ~23~2~77 crafting_table
+setblock ~23~3~77 anvil 0
+fill ~23~14~77 ~23~15~79 stained_glass_pane 0
+fill ~23~16~77 ~23~16~81 concrete 15
+fill ~23~19~77 ~23~19~90 quartz_block 0
+fill ~24~8~77 ~24~9~77 concrete 15
+fill ~24~12~77 ~24~12~104 quartz_block 0
+fill ~24~16~77 ~24~16~81 stone_block_slab 14
+fill ~24~17~77 ~24~17~86 quartz_block 0
+fill ~24~19~77 ~24~19~81 stone_block_slab 14
+fill ~4~8~78 ~4~9~90 quartz_block 0
+setblock ~5~2~78 crafting_table
+setblock ~5~5~78 wooden_slab 10
+setblock ~5~6~78 sea_lantern
+fill ~5~7~78 ~5~11~78 leaves 0
+setblock ~6~7~78 cauldron 6
+fill ~7~7~78 ~9~7~78 furnace 2
+fill ~7~9~78 ~10~9~78 stone_block_slab 14
+fill ~8~21~78 ~8~21~83 quartz_block 0
+fill ~8~22~78 ~8~22~79 stone_block_slab 6
+fill ~9~22~78 ~10~22~78 double_stone_block_slab 6
+setblock ~10~7~78 crafting_table
+fill ~11~8~78 ~11~9~78 planks 2
+setblock ~11~13~78 wall_sign 2
+fill ~11~22~78 ~12~22~78 planks 2
+fill ~11~23~78 ~17~25~78 stained_glass 0
+fill ~13~1~78 ~13~1~79 sea_lantern
+fill ~13~2~78 ~14~2~79 sand 0
+fill ~13~26~78 ~15~26~79 stone_block_slab 6
+fill ~14~0~78 ~15~0~83 sea_lantern
+fill ~14~1~78 ~15~1~83 sand 0
+setblock ~14~19~78 sea_lantern
+setblock ~14~20~78 quartz_stairs 3
+fill ~17~8~78 ~17~9~78 planks 2
+setblock ~17~13~78 wall_sign 2
+setblock ~17~22~78 planks 2
+setblock ~18~7~78 crafting_table
+fill ~18~9~78 ~22~9~78 stone_block_slab 14
+fill ~18~22~78 ~19~22~78 double_stone_block_slab 6
+fill ~19~7~78 ~21~7~78 furnace 2
+fill ~20~21~78 ~20~21~83 quartz_block 0
+fill ~20~22~78 ~20~22~79 stone_block_slab 6
+setblock ~22~7~78 cauldron 6
+setblock ~23~1~78 sea_lantern
+fill ~23~2~78 ~23~5~78 leaves 0
+setblock ~23~6~78 sea_lantern
+fill ~23~7~78 ~23~11~78 leaves 0
+fill ~24~8~78 ~24~9~90 quartz_block 0
+fill ~5~6~79 ~5~6~93 planks 2
+fill ~5~7~79 ~10~10~80 planks 2
+fill ~5~11~79 ~10~11~79 planks 2
+fill ~5~12~79 ~5~12~80 quartz_block 0
+fill ~5~20~79 ~5~20~82 concrete 7
+fill ~6~12~79 ~10~12~79 stone_block_slab 6
+fill ~8~2~79 ~8~3~88 planks 2
+fill ~9~21~79 ~10~21~88 quartz_block 0
+fill ~9~22~79 ~10~22~79 stone_block_slab 6
+fill ~11~6~79 ~11~6~99 planks 2
+setblock ~11~13~79 double_wooden_slab 2
+fill ~11~22~79 ~17~22~79 double_stone_block_slab 6
+fill ~11~26~79 ~12~26~79 stone_block_slab 6
+fill ~13~11~79 ~13~11~80 wooden_slab 10
+fill ~15~11~79 ~15~11~80 wooden_slab 10
+fill ~16~26~79 ~17~26~79 stone_block_slab 6
+setblock ~17~13~79 double_wooden_slab 2
+fill ~18~7~79 ~23~11~79 planks 2
+fill ~18~12~79 ~22~12~79 stone_block_slab 6
+fill ~18~21~79 ~19~21~88 quartz_block 0
+fill ~18~22~79 ~19~22~79 stone_block_slab 6
+fill ~20~2~79 ~20~3~88 planks 2
+fill ~23~1~79 ~23~1~82 planks 2
+fill ~23~2~79 ~23~4~80 chest 4
+fill ~23~6~79 ~23~6~99 planks 2
+fill ~23~12~79 ~23~12~80 quartz_block 0
+fill ~23~20~79 ~23~20~82 concrete 7
+fill ~5~2~80 ~7~2~80 wool 1
+fill ~5~14~80 ~5~14~92 concrete 15
+fill ~5~15~80 ~5~15~86 concrete 15
+setblock ~6~11~80 concrete 8
+fill ~6~20~80 ~22~20~80 planks 2
+setblock ~7~11~80 concrete 7
+setblock ~8~11~80 concrete 8
+fill ~9~11~80 ~11~11~80 planks 2
+fill ~10~22~80 ~18~22~80 stone_block_slab 6
+fill ~11~7~80 ~11~10~80 planks 2
+fill ~11~13~80 ~11~13~82 wooden_slab 10
+fill ~11~21~80 ~17~21~82 quartz_block 0
+fill ~13~0~80 ~13~0~83 sea_lantern
+fill ~13~1~80 ~13~1~83 sand 0
+fill ~13~2~80 ~13~2~81 sand 0
+setblock ~14~11~80 wooden_slab 10
+setblock ~16~11~80 leaves 0
+fill ~17~7~80 ~22~10~80 planks 2
+fill ~17~11~80 ~19~11~80 planks 2
+fill ~17~13~80 ~17~13~82 wooden_slab 10
+setblock ~20~11~80 concrete 8
+setblock ~21~11~80 concrete 7
+setblock ~22~11~80 concrete 8
+fill ~23~7~80 ~23~10~80 sea_lantern
+fill ~23~11~80 ~23~11~84 quartz_block 0
+fill ~23~14~80 ~23~14~92 concrete 15
+fill ~23~15~80 ~23~15~86 concrete 15
+fill ~4~5~81 ~4~5~92 concrete 8
+fill ~4~6~81 ~4~6~85 concrete 7
+fill ~4~7~81 ~4~7~85 quartz_block 0
+fill ~5~2~81 ~5~2~83 wool 1
+fill ~5~7~81 ~5~10~81 sea_lantern
+fill ~5~11~81 ~5~11~84 quartz_block 0
+setblock ~5~12~81 stone_block_slab 6
+fill ~6~2~81 ~6~2~82 carpet 1
+fill ~6~9~81 ~8~9~87 wooden_slab 10
+fill ~6~11~81 ~10~11~81 stone_block_slab 6
+fill ~6~18~81 ~11~19~81 planks 2
+fill ~6~20~81 ~22~20~81 sea_lantern
+fill ~7~2~81 ~7~2~83 wool 1
+setblock ~7~7~81 quartz_block 0
+setblock ~8~7~81 bed 1
+fill ~9~10~81 ~11~10~85 planks 2
+fill ~11~11~81 ~12~11~82 planks 2
+fill ~12~7~81 ~12~8~81 leaves 0
+fill ~12~9~81 ~12~10~81 leaves 0
+fill ~12~19~81 ~16~19~81 wooden_slab 10
+fill ~13~5~81 ~15~5~82 double_wooden_slab 2
+fill ~13~11~81 ~15~11~81 double_wooden_slab 2
+fill ~16~7~81 ~16~8~81 leaves 0
+fill ~16~9~81 ~16~11~81 leaves 0
+fill ~17~10~81 ~19~10~85 planks 2
+fill ~17~11~81 ~17~11~83 planks 2
+fill ~17~18~81 ~22~19~81 planks 2
+fill ~18~7~81 ~19~7~81 chest 3
+fill ~18~11~81 ~22~11~81 stone_block_slab 6
+fill ~20~6~81 ~20~6~99 planks 2
+setblock ~20~7~81 crafting_table
+setblock ~20~8~81 chest 4
+fill ~20~9~81 ~23~9~91 wooden_slab 10
+fill ~20~10~81 ~20~10~87 concrete 8
+fill ~21~5~81 ~23~5~81 wooden_slab 10
+fill ~21~7~81 ~22~7~81 anvil 3
+setblock ~21~8~81 crafting_table
+fill ~21~10~81 ~21~10~86 concrete 7
+setblock ~22~8~81 anvil 0
+fill ~22~10~81 ~22~10~85 concrete 8
+setblock ~23~7~81 anvil 0
+setblock ~23~8~81 anvil 3
+setblock ~23~12~81 stone_block_slab 6
+fill ~24~5~81 ~24~5~92 concrete 8
+fill ~24~6~81 ~24~6~85 concrete 7
+fill ~24~7~81 ~24~7~85 quartz_block 0
+fill ~4~15~82 ~4~15~86 stone_block_slab 14
+fill ~4~16~82 ~4~16~91 quartz_block 0
+fill ~4~19~82 ~4~19~83 double_stone_block_slab 6
+fill ~5~9~82 ~5~9~92 wooden_slab 10
+fill ~5~16~82 ~11~17~82 planks 2
+fill ~5~18~82 ~5~18~88 quartz_block 0
+fill ~6~10~82 ~6~10~85 concrete 8
+fill ~6~15~82 ~11~15~95 planks 2
+fill ~6~18~82 ~10~18~82 double_wooden_slab 2
+fill ~6~19~82 ~10~19~82 planks 2
+fill ~6~20~82 ~6~20~89 sea_lantern
+fill ~7~10~82 ~7~10~86 concrete 7
+fill ~7~20~82 ~10~20~82 stone_block_slab 14
+fill ~8~7~82 ~9~7~82 quartz_block 0
+fill ~8~10~82 ~8~10~87 concrete 8
+fill ~11~18~82 ~11~20~82 sea_lantern
+fill ~12~6~82 ~12~6~99 planks 2
+setblock ~12~9~82 wooden_slab 10
+fill ~12~10~82 ~12~10~83 concrete 8
+setblock ~12~18~82 double_wooden_slab 2
+fill ~12~19~82 ~13~19~82 wooden_slab 2
+fill ~12~20~82 ~16~20~82 stone_block_slab 14
+fill ~13~10~82 ~15~11~82 planks 2
+fill ~15~19~82 ~16~19~82 wooden_slab 2
+fill ~16~6~82 ~16~6~99 planks 2
+setblock ~16~9~82 wooden_slab 10
+fill ~16~10~82 ~16~10~83 concrete 8
+setblock ~16~11~82 planks 2
+setblock ~16~18~82 double_wooden_slab 2
+fill ~17~15~82 ~22~15~95 planks 2
+fill ~17~16~82 ~23~16~82 planks 2
+fill ~17~17~82 ~18~17~82 planks 2
+fill ~17~18~82 ~17~20~82 sea_lantern
+fill ~18~18~82 ~22~18~82 double_wooden_slab 2
+fill ~18~19~82 ~22~19~82 planks 2
+fill ~18~20~82 ~21~20~82 stone_block_slab 14
+setblock ~19~17~82 double_wooden_slab 2
+fill ~20~17~82 ~23~17~82 planks 2
+setblock ~21~2~82 furnace 2
+fill ~21~5~82 ~23~5~82 sea_lantern
+setblock ~22~2~82 cauldron 6
+setblock ~22~7~82 anvil 0
+fill ~22~20~82 ~22~20~89 sea_lantern
+setblock ~23~2~82 wooden_slab 10
+setblock ~23~3~82 brewing_stand 0
+setblock ~23~7~82 anvil 3
+setblock ~23~8~82 anvil 0
+fill ~23~18~82 ~23~18~88 quartz_block 0
+fill ~24~15~82 ~24~15~86 stone_block_slab 14
+fill ~24~16~82 ~24~16~91 quartz_block 0
+fill ~24~19~82 ~24~19~83 double_stone_block_slab 6
+fill ~4~2~83 ~4~2~97 quartz_block 0
+fill ~4~3~83 ~4~3~87 concrete 7
+fill ~4~4~83 ~4~4~87 concrete 8
+setblock ~5~16~83 trapped_chest 5
+fill ~5~20~83 ~5~20~87 concrete 8
+setblock ~6~2~83 wool 1
+fill ~6~7~83 ~6~7~85 quartz_block 0
+fill ~6~19~83 ~10~19~86 wooden_slab 10
+fill ~7~16~83 ~7~16~84 wooden_slab 10
+fill ~7~17~83 ~7~17~84 flower_pot 0
+fill ~7~20~83 ~7~20~93 stone_block_slab 14
+fill ~7~21~83 ~7~21~84 stone_block_slab 6
+fill ~8~16~83 ~8~16~84 double_wooden_slab 2
+fill ~9~16~83 ~9~16~84 wooden_slab 10
+fill ~9~17~83 ~9~17~84 flower_pot 0
+setblock ~11~11~83 planks 2
+fill ~11~13~83 ~11~13~85 planks 2
+fill ~11~16~83 ~11~16~85 wooden_slab 10
+fill ~11~17~83 ~11~18~83 leaves 0
+setblock ~11~19~83 double_wooden_slab 2
+fill ~11~21~83 ~12~21~83 stone_block_slab 6
+setblock ~12~9~83 double_wooden_slab 2
+fill ~12~11~83 ~16~11~83 birch_stairs 7
+setblock ~13~5~83 planks 2
+setblock ~13~9~83 wall_sign 5
+fill ~13~10~83 ~13~10~91 concrete 8
+fill ~13~21~83 ~15~21~83 quartz_block 0
+setblock ~14~5~83 double_wooden_slab 2
+fill ~14~10~83 ~14~10~92 concrete 7
+setblock ~15~5~83 planks 2
+setblock ~15~9~83 wall_sign 4
+fill ~15~10~83 ~15~10~91 concrete 8
+setblock ~16~9~83 double_wooden_slab 2
+fill ~16~21~83 ~17~21~83 stone_block_slab 6
+fill ~17~13~83 ~17~13~85 planks 2
+fill ~17~16~83 ~17~16~85 wooden_slab 10
+fill ~17~17~83 ~17~18~83 leaves 0
+setblock ~17~19~83 double_wooden_slab 2
+fill ~18~19~83 ~22~19~86 wooden_slab 10
+fill ~19~16~83 ~19~16~84 wooden_slab 10
+fill ~19~17~83 ~19~17~84 flower_pot 0
+fill ~20~16~83 ~20~16~84 double_wooden_slab 2
+fill ~21~2~83 ~23~5~83 planks 2
+fill ~21~16~83 ~21~16~84 wooden_slab 10
+fill ~21~17~83 ~21~17~84 flower_pot 0
+fill ~21~20~83 ~21~20~93 stone_block_slab 14
+fill ~21~21~83 ~21~21~84 stone_block_slab 6
+setblock ~22~7~83 chest 4
+setblock ~23~7~83 anvil 0
+setblock ~23~16~83 trapped_chest 4
+fill ~23~20~83 ~23~20~87 concrete 8
+fill ~24~2~83 ~24~2~97 quartz_block 0
+fill ~24~3~83 ~24~3~87 concrete 7
+fill ~24~4~83 ~24~4~87 concrete 8
+fill ~4~13~84 ~4~13~106 quartz_block 0
+fill ~4~19~84 ~4~19~85 stone_block_slab 14
+fill ~5~2~84 ~7~5~84 planks 2
+setblock ~5~7~84 bed 0
+setblock ~5~16~84 chest 5
+fill ~8~21~84 ~8~21~85 stone_block_slab 6
+fill ~9~5~84 ~11~5~84 double_wooden_slab 2
+setblock ~11~12~84 planks 2
+fill ~11~14~84 ~11~14~85 planks 2
+fill ~11~19~84 ~11~19~85 wooden_slab 10
+fill ~11~21~84 ~11~21~89 quartz_block 0
+fill ~12~3~84 ~16~4~84 planks 2
+setblock ~12~9~84 wooden_slab 10
+fill ~12~10~84 ~12~10~90 planks 2
+fill ~12~12~84 ~16~12~84 birch_stairs 7
+fill ~12~13~84 ~16~13~84 birch_stairs 2
+fill ~12~21~84 ~13~21~84 stone_block_slab 6
+fill ~13~1~84 ~15~1~93 planks 2
+fill ~13~2~84 ~15~2~84 planks 2
+fill ~13~5~84 ~13~5~86 concrete 8
+setblock ~14~5~84 planks 2
+fill ~14~21~84 ~14~21~85 quartz_block 0
+fill ~15~5~84 ~15~5~86 concrete 8
+fill ~15~21~84 ~16~21~84 stone_block_slab 6
+setblock ~16~9~84 wooden_slab 10
+fill ~16~10~84 ~16~10~90 planks 2
+setblock ~17~12~84 planks 2
+fill ~17~14~84 ~17~14~85 planks 2
+fill ~17~19~84 ~17~19~85 wooden_slab 10
+fill ~17~21~84 ~17~21~89 quartz_block 0
+fill ~20~21~84 ~20~21~85 stone_block_slab 6
+fill ~21~2~84 ~23~2~84 quartz_stairs 3
+fill ~21~5~84 ~23~5~84 sea_lantern
+fill ~23~1~84 ~23~1~89 planks 2
+setblock ~23~7~84 anvil 3
+setblock ~23~16~84 chest 4
+fill ~24~13~84 ~24~13~106 quartz_block 0
+fill ~24~19~84 ~24~19~85 stone_block_slab 14
+fill ~5~1~85 ~6~1~88 quartz_block 0
+setblock ~5~5~85 cauldron 0
+setblock ~5~7~85 quartz_block 0
+fill ~5~10~85 ~5~10~92 concrete 8
+setblock ~5~16~85 trapped_chest 5
+fill ~5~21~85 ~5~21~87 stone_block_slab 6
+setblock ~7~1~85 sea_lantern
+fill ~7~2~85 ~7~5~85 leaves 0
+fill ~7~21~85 ~7~21~87 quartz_block 0
+fill ~8~1~85 ~8~1~102 planks 2
+fill ~9~5~85 ~11~5~86 wooden_slab 10
+fill ~11~7~85 ~11~9~93 planks 2
+fill ~11~20~85 ~11~20~86 wooden_slab 2
+fill ~12~3~85 ~12~5~95 planks 2
+setblock ~12~7~85 leaves 0
+fill ~12~8~85 ~12~9~85 leaves 0
+fill ~12~13~85 ~16~13~85 birch_stairs 7
+fill ~12~14~85 ~16~14~85 birch_stairs 2
+fill ~12~21~85 ~13~21~89 quartz_block 0
+fill ~13~6~85 ~15~6~85 stone_block_slab 6
+fill ~14~5~85 ~14~5~86 concrete 7
+fill ~15~21~85 ~16~21~89 quartz_block 0
+fill ~16~3~85 ~16~5~95 planks 2
+setblock ~16~7~85 leaves 0
+fill ~16~8~85 ~16~9~85 leaves 0
+fill ~17~20~85 ~17~20~86 wooden_slab 2
+fill ~21~2~85 ~23~2~86 stone_block_slab 6
+fill ~21~5~85 ~23~5~85 wooden_slab 10
+fill ~21~21~85 ~21~21~87 quartz_block 0
+setblock ~23~7~85 chest 3
+fill ~23~10~85 ~23~10~92 concrete 8
+setblock ~23~16~85 trapped_chest 4
+fill ~23~21~85 ~23~21~88 stone_block_slab 6
+fill ~4~6~86 ~4~6~97 concrete 8
+fill ~4~7~86 ~4~7~90 concrete 7
+setblock ~4~20~86 stone_block_slab 6
+setblock ~5~16~86 chest 5
+fill ~6~10~86 ~6~10~92 concrete 7
+fill ~7~1~86 ~7~1~88 quartz_block 0
+fill ~8~21~86 ~8~21~88 quartz_block 0
+fill ~9~7~86 ~9~7~88 quartz_block 0
+fill ~9~10~86 ~10~10~90 planks 2
+fill ~9~11~86 ~10~11~86 wooden_slab 2
+setblock ~10~20~86 wooden_slab 2
+setblock ~11~10~86 sea_lantern
+fill ~11~11~86 ~11~14~86 leaves 0
+setblock ~11~16~86 double_wooden_slab 2
+fill ~11~17~86 ~11~19~86 leaves 0
+fill ~12~7~86 ~12~7~87 leaves 0
+fill ~12~14~86 ~16~14~86 birch_stairs 7
+fill ~12~15~86 ~16~15~86 birch_stairs 2
+fill ~13~4~86 ~13~4~88 concrete 8
+fill ~13~9~86 ~15~9~87 wooden_slab 10
+fill ~14~21~86 ~14~21~87 stone_block_slab 6
+fill ~15~4~86 ~15~4~88 concrete 8
+fill ~16~7~86 ~16~7~93 leaves 0
+fill ~17~7~86 ~17~9~93 planks 2
+setblock ~17~10~86 sea_lantern
+fill ~17~11~86 ~17~14~86 leaves 0
+setblock ~17~16~86 double_wooden_slab 2
+fill ~17~17~86 ~17~19~86 leaves 0
+setblock ~18~7~86 chest 2
+fill ~18~10~86 ~19~10~90 planks 2
+fill ~18~11~86 ~19~11~86 wooden_slab 2
+setblock ~18~20~86 wooden_slab 2
+fill ~20~21~86 ~20~21~88 quartz_block 0
+fill ~22~0~86 ~22~0~95 sea_lantern
+fill ~22~10~86 ~22~10~92 concrete 7
+fill ~23~0~86 ~23~0~96 quartz_block 0
+setblock ~23~16~86 chest 4
+fill ~24~6~86 ~24~6~97 concrete 8
+fill ~24~7~86 ~24~7~90 concrete 7
+setblock ~24~20~86 stone_block_slab 6
+fill ~4~1~87 ~4~1~92 quartz_block 0
+fill ~4~14~87 ~4~14~91 stone_block_slab 14
+fill ~4~15~87 ~4~15~96 quartz_block 0
+setblock ~4~20~87 double_stone_block_slab 6
+fill ~5~0~87 ~5~0~96 quartz_block 0
+fill ~5~15~87 ~5~15~90 planks 2
+fill ~5~16~87 ~5~16~96 quartz_block 0
+setblock ~5~17~87 quartz_block 0
+fill ~6~0~87 ~6~0~95 sea_lantern
+fill ~6~7~87 ~6~7~89 quartz_block 0
+fill ~6~21~87 ~6~21~89 stone_block_slab 6
+fill ~7~10~87 ~7~10~91 concrete 8
+fill ~8~11~87 ~8~11~89 wooden_slab 2
+setblock ~10~7~87 bed 0
+fill ~11~10~87 ~11~10~90 planks 2
+fill ~12~11~87 ~12~11~89 wooden_slab 2
+fill ~12~15~87 ~16~15~100 planks 2
+fill ~13~5~87 ~15~5~87 stone_block_slab 6
+fill ~14~4~87 ~14~4~88 concrete 7
+fill ~16~11~87 ~16~11~89 wooden_slab 2
+fill ~17~10~87 ~17~10~90 planks 2
+fill ~18~7~87 ~18~7~89 crafting_table
+setblock ~19~7~87 chest 5
+fill ~19~9~87 ~19~9~92 wooden_slab 10
+fill ~20~11~87 ~20~11~89 wooden_slab 2
+fill ~21~10~87 ~21~10~91 concrete 8
+fill ~22~21~87 ~22~21~89 stone_block_slab 6
+fill ~23~16~87 ~23~16~96 quartz_block 0
+setblock ~23~17~87 quartz_block 0
+fill ~24~1~87 ~24~1~92 quartz_block 0
+fill ~24~14~87 ~24~14~91 stone_block_slab 14
+fill ~24~15~87 ~24~15~96 quartz_block 0
+setblock ~24~20~87 double_stone_block_slab 6
+fill ~4~3~88 ~4~3~102 quartz_block 0
+fill ~4~4~88 ~4~4~92 concrete 7
+fill ~5~2~88 ~6~5~88 stained_glass_pane 0
+setblock ~5~7~88 bed 0
+fill ~5~17~88 ~5~17~96 stained_glass 0
+fill ~5~20~88 ~5~20~90 double_stone_block_slab 6
+fill ~6~9~88 ~7~9~92 wooden_slab 10
+fill ~6~16~88 ~6~16~95 leaves 0
+fill ~7~4~88 ~7~5~88 stained_glass_pane 0
+fill ~7~21~88 ~7~21~90 stone_block_slab 6
+fill ~8~10~88 ~8~10~90 planks 2
+setblock ~10~7~88 quartz_block 0
+fill ~10~11~88 ~10~12~88 double_wooden_slab 2
+fill ~12~7~88 ~12~7~89 leaves 0
+fill ~13~3~88 ~13~3~90 concrete 8
+fill ~13~9~88 ~15~9~92 double_wooden_slab 2
+fill ~14~21~88 ~14~21~89 quartz_block 0
+fill ~15~3~88 ~15~3~90 concrete 8
+setblock ~18~8~88 crafting_table
+fill ~18~11~88 ~18~12~88 double_wooden_slab 2
+setblock ~19~7~88 crafting_table
+fill ~20~10~88 ~20~10~90 planks 2
+fill ~21~21~88 ~21~21~90 stone_block_slab 6
+fill ~22~2~88 ~23~2~88 double_wooden_slab 2
+fill ~22~3~88 ~23~3~88 concrete 15
+fill ~22~4~88 ~23~4~88 wooden_slab 2
+fill ~22~16~88 ~22~16~95 leaves 0
+fill ~23~17~88 ~23~17~96 stained_glass 0
+fill ~23~20~88 ~23~20~91 double_stone_block_slab 6
+fill ~24~3~88 ~24~3~102 quartz_block 0
+fill ~24~4~88 ~24~4~92 concrete 7
+fill ~5~1~89 ~7~1~92 planks 2
+setblock ~5~7~89 quartz_block 0
+fill ~5~18~89 ~5~18~96 stained_glass 0
+fill ~8~21~89 ~9~21~91 stone_block_slab 6
+setblock ~10~21~89 quartz_block 0
+fill ~13~4~89 ~15~4~89 stone_block_slab 6
+fill ~14~3~89 ~14~3~90 concrete 7
+setblock ~18~21~89 quartz_block 0
+fill ~19~21~89 ~20~21~91 stone_block_slab 6
+fill ~21~2~89 ~22~2~91 carpet 0
+setblock ~23~2~89 anvil 0
+fill ~23~18~89 ~23~18~96 stained_glass 0
+fill ~5~2~90 ~5~2~92 double_wooden_slab 2
+fill ~5~3~90 ~5~3~92 brewing_stand 0
+fill ~6~20~90 ~6~20~92 stone_block_slab 14
+setblock ~7~16~90 quartz_stairs 1
+setblock ~8~16~90 stone_block_slab 6
+setblock ~9~4~90 wall_sign 5
+fill ~9~7~90 ~9~7~92 quartz_block 0
+fill ~9~11~90 ~11~11~90 wooden_slab 2
+fill ~10~21~90 ~18~21~92 stone_block_slab 6
+setblock ~12~7~90 leaves 0
+fill ~13~8~90 ~15~8~91 wooden_slab 10
+setblock ~13~16~90 wooden_slab 2
+fill ~14~16~90 ~14~16~91 double_wooden_slab 2
+setblock ~15~16~90 wooden_slab 2
+fill ~17~11~90 ~19~11~90 wooden_slab 2
+setblock ~19~4~90 wall_sign 4
+setblock ~20~16~90 stone_block_slab 6
+setblock ~21~16~90 quartz_stairs 0
+fill ~22~20~90 ~22~20~92 stone_block_slab 14
+setblock ~23~1~90 sea_lantern
+fill ~23~2~90 ~23~5~90 leaves 0
+setblock ~23~7~90 chest 2
+fill ~4~7~91 ~4~7~100 concrete 8
+fill ~4~8~91 ~4~8~95 concrete 7
+fill ~4~9~91 ~4~9~95 quartz_block 0
+fill ~5~19~91 ~5~19~93 stained_glass 0
+fill ~5~20~91 ~5~20~93 stone_block_slab 6
+fill ~6~7~91 ~6~7~92 quartz_block 0
+fill ~8~9~91 ~10~9~91 wooden_slab 10
+fill ~8~10~91 ~12~10~91 concrete 8
+setblock ~10~7~91 bed 0
+fill ~12~7~91 ~12~7~93 leaves 0
+fill ~12~8~91 ~12~9~91 sea_lantern
+setblock ~12~16~91 wooden_slab 2
+fill ~13~3~91 ~15~3~91 stone_block_slab 6
+fill ~13~16~91 ~13~16~92 double_wooden_slab 2
+setblock ~13~17~91 double_wooden_slab 2
+setblock ~14~17~91 wooden_slab 2
+fill ~15~16~91 ~15~16~92 double_wooden_slab 2
+setblock ~15~17~91 double_wooden_slab 2
+fill ~16~8~91 ~16~9~91 sea_lantern
+fill ~16~10~91 ~20~10~91 concrete 8
+setblock ~16~16~91 wooden_slab 2
+setblock ~18~9~91 wooden_slab 10
+setblock ~21~7~91 chest 4
+fill ~22~7~91 ~23~7~91 crafting_table
+fill ~23~1~91 ~23~1~92 planks 2
+fill ~23~2~91 ~23~4~92 chest 4
+fill ~23~19~91 ~23~19~93 stained_glass 0
+fill ~24~7~91 ~24~7~100 concrete 8
+fill ~24~8~91 ~24~8~95 concrete 7
+fill ~24~9~91 ~24~9~95 quartz_block 0
+fill ~4~14~92 ~4~14~101 quartz_block 0
+setblock ~5~7~92 bed 0
+fill ~7~10~92 ~13~10~92 concrete 7
+setblock ~7~16~92 quartz_stairs 1
+fill ~8~2~92 ~8~3~99 planks 2
+fill ~8~9~92 ~9~9~92 wooden_slab 10
+setblock ~8~16~92 stone_block_slab 6
+fill ~8~20~92 ~9~20~94 stone_block_slab 14
+fill ~10~7~92 ~10~9~92 sea_lantern
+setblock ~11~16~92 wooden_slab 2
+fill ~12~8~92 ~12~9~92 planks 2
+setblock ~12~16~92 double_wooden_slab 2
+setblock ~12~17~92 wooden_slab 2
+setblock ~13~2~92 concrete 8
+fill ~13~8~92 ~15~8~93 double_wooden_slab 2
+setblock ~14~2~92 concrete 7
+setblock ~14~16~92 sea_lantern
+setblock ~15~2~92 concrete 8
+fill ~15~10~92 ~21~10~92 concrete 7
+fill ~16~8~92 ~16~9~92 planks 2
+setblock ~16~16~92 double_wooden_slab 2
+setblock ~16~17~92 wooden_slab 2
+setblock ~17~16~92 wooden_slab 2
+fill ~18~7~92 ~18~9~92 sea_lantern
+setblock ~19~7~92 chest 2
+fill ~19~20~92 ~20~20~94 stone_block_slab 14
+fill ~20~2~92 ~20~3~99 planks 2
+fill ~20~7~92 ~22~7~92 crafting_table
+setblock ~20~8~92 chest 2
+fill ~20~9~92 ~22~9~92 wooden_slab 10
+setblock ~20~16~92 stone_block_slab 6
+fill ~21~8~92 ~22~8~92 crafting_table
+setblock ~21~16~92 quartz_stairs 0
+fill ~23~7~92 ~23~9~92 sea_lantern
+fill ~23~20~92 ~23~20~93 stone_block_slab 6
+fill ~24~14~92 ~24~14~101 quartz_block 0
+fill ~4~4~93 ~4~4~106 quartz_block 0
+fill ~4~5~93 ~4~5~97 concrete 7
+fill ~5~1~93 ~5~1~102 quartz_block 0
+fill ~5~2~93 ~5~2~95 wooden_slab 2
+fill ~5~7~93 ~10~9~93 planks 2
+setblock ~5~10~93 sea_lantern
+fill ~5~11~93 ~5~14~93 leaves 0
+fill ~6~1~93 ~7~1~98 planks 2
+fill ~6~10~93 ~12~10~93 concrete 8
+fill ~6~20~93 ~6~20~95 stone_block_slab 6
+setblock ~10~16~93 wooden_slab 2
+fill ~10~20~93 ~18~20~95 stone_block_slab 14
+fill ~11~16~93 ~11~16~94 double_wooden_slab 2
+setblock ~11~17~93 wooden_slab 2
+fill ~12~16~93 ~16~16~97 wooden_slab 2
+fill ~13~2~93 ~15~2~93 stone_block_slab 6
+fill ~13~7~93 ~15~7~93 wooden_slab 10
+setblock ~13~9~93 double_wooden_slab 2
+setblock ~13~10~93 concrete 7
+setblock ~14~9~93 sea_lantern
+setblock ~14~10~93 stained_glass 7
+setblock ~15~9~93 double_wooden_slab 2
+setblock ~15~10~93 concrete 7
+fill ~16~10~93 ~22~10~93 concrete 8
+fill ~17~16~93 ~17~16~94 double_wooden_slab 2
+setblock ~17~17~93 wooden_slab 2
+fill ~18~7~93 ~23~8~93 planks 2
+fill ~18~9~93 ~20~9~93 planks 2
+setblock ~18~16~93 wooden_slab 2
+setblock ~21~9~93 wooden_slab 2
+fill ~22~9~93 ~23~9~93 planks 2
+fill ~22~20~93 ~22~20~95 stone_block_slab 6
+fill ~23~1~93 ~23~1~102 quartz_block 0
+fill ~23~2~93 ~23~5~94 bookshelf
+setblock ~23~10~93 sea_lantern
+fill ~23~11~93 ~23~13~93 leaves 0
+setblock ~23~14~93 leaves 0
+fill ~24~4~93 ~24~4~106 quartz_block 0
+fill ~24~5~93 ~24~5~97 concrete 7
+fill ~5~11~94 ~11~13~94 planks 2
+fill ~5~14~94 ~11~14~94 quartz_block 0
+fill ~5~19~94 ~5~19~96 double_stone_block_slab 6
+fill ~7~20~94 ~7~20~96 stone_block_slab 6
+setblock ~9~16~94 wooden_slab 2
+fill ~10~16~94 ~10~16~96 double_wooden_slab 2
+setblock ~10~17~94 double_wooden_slab 2
+fill ~12~7~94 ~12~7~95 planks 2
+fill ~12~10~94 ~13~10~94 concrete 8
+fill ~12~14~94 ~16~14~94 stone_block_slab 14
+fill ~13~1~94 ~13~1~96 concrete 8
+fill ~13~7~94 ~15~7~94 wooden_slab 2
+fill ~13~8~94 ~15~8~95 planks 2
+fill ~14~1~94 ~14~1~97 concrete 7
+fill ~14~10~94 ~14~10~98 concrete 7
+fill ~15~1~94 ~15~1~96 concrete 8
+fill ~15~10~94 ~16~10~94 concrete 8
+fill ~16~7~94 ~16~7~95 planks 2
+fill ~17~11~94 ~23~13~94 planks 2
+fill ~17~14~94 ~22~14~94 quartz_block 0
+fill ~18~16~94 ~18~16~96 double_wooden_slab 2
+setblock ~18~17~94 double_wooden_slab 2
+setblock ~19~16~94 wooden_slab 2
+fill ~21~20~94 ~21~20~96 stone_block_slab 6
+setblock ~23~14~94 planks 2
+fill ~23~19~94 ~23~19~96 double_stone_block_slab 6
+fill ~5~10~95 ~5~13~106 planks 2
+setblock ~5~14~95 quartz_block 0
+fill ~6~2~95 ~6~2~96 wooden_slab 2
+setblock ~6~10~95 sea_lantern
+setblock ~6~11~95 leaves 0
+setblock ~6~12~95 leaves 0
+setblock ~6~13~95 leaves 0
+fill ~6~14~95 ~11~14~95 double_stone_block_slab 6
+fill ~7~10~95 ~10~10~106 planks 2
+fill ~7~11~95 ~10~11~95 stone_block_slab 14
+fill ~7~12~95 ~10~13~95 concrete 15
+fill ~8~20~95 ~9~20~97 stone_block_slab 6
+setblock ~9~16~95 double_wooden_slab 2
+setblock ~10~17~95 wooden_slab 2
+setblock ~11~10~95 sea_lantern
+fill ~11~11~95 ~11~13~95 leaves 0
+setblock ~11~16~95 sea_lantern
+fill ~12~11~95 ~12~13~97 planks 2
+fill ~12~14~95 ~16~14~101 quartz_block 0
+fill ~13~6~95 ~15~6~95 wooden_slab 10
+fill ~13~7~95 ~15~7~95 planks 2
+fill ~13~10~95 ~13~10~104 concrete 8
+setblock ~13~13~95 wooden_slab 10
+setblock ~14~13~95 double_wooden_slab 2
+fill ~15~10~95 ~15~10~104 concrete 8
+setblock ~15~13~95 wooden_slab 10
+fill ~16~11~95 ~16~13~97 planks 2
+setblock ~17~10~95 sea_lantern
+fill ~17~11~95 ~17~13~95 leaves 0
+setblock ~17~14~95 double_stone_block_slab 6
+setblock ~17~16~95 sea_lantern
+fill ~18~10~95 ~22~10~99 planks 2
+fill ~18~14~95 ~22~14~99 stone_block_slab 14
+setblock ~18~17~95 wooden_slab 2
+setblock ~19~11~95 double_stone_block_slab 6
+fill ~19~12~95 ~20~12~95 concrete 15
+fill ~19~13~95 ~20~13~95 stone_block_slab 6
+setblock ~19~16~95 double_wooden_slab 2
+fill ~19~20~95 ~20~20~97 stone_block_slab 6
+fill ~20~11~95 ~21~11~95 stone_block_slab 14
+setblock ~22~11~95 double_stone_block_slab 6
+setblock ~22~12~95 concrete 7
+setblock ~22~13~95 stone_block_slab 6
+fill ~22~19~95 ~22~19~96 stone_block_slab 14
+setblock ~23~2~95 crafting_table
+fill ~23~11~95 ~23~11~106 planks 2
+fill ~23~12~95 ~23~13~105 planks 2
+fill ~23~14~95 ~23~14~96 quartz_block 0
+fill ~4~8~96 ~4~8~103 concrete 8
+fill ~4~9~96 ~4~9~98 concrete 7
+fill ~5~2~96 ~5~2~97 double_wooden_slab 2
+fill ~5~14~96 ~5~14~104 double_stone_block_slab 6
+fill ~6~0~96 ~6~0~103 quartz_block 0
+fill ~6~10~96 ~6~10~106 planks 2
+fill ~6~14~96 ~11~14~102 stone_block_slab 14
+fill ~6~16~96 ~6~16~98 quartz_block 0
+setblock ~6~19~96 stone_block_slab 14
+fill ~7~0~96 ~7~0~102 sea_lantern
+setblock ~7~2~96 cauldron 6
+setblock ~7~3~96 iron_trapdoor 1
+fill ~7~15~96 ~11~15~97 planks 2
+fill ~7~16~96 ~7~16~97 leaves 0
+setblock ~9~16~96 wooden_slab 2
+setblock ~10~17~96 double_wooden_slab 2
+fill ~10~20~96 ~18~20~98 stone_block_slab 6
+fill ~11~10~96 ~11~10~104 planks 2
+fill ~11~16~96 ~11~16~97 double_wooden_slab 2
+setblock ~12~1~96 concrete 8
+setblock ~12~3~96 wall_sign 3
+fill ~13~6~96 ~15~6~99 planks 2
+setblock ~14~13~96 wall_sign 3
+setblock ~16~1~96 concrete 8
+setblock ~16~3~96 wall_sign 3
+fill ~16~10~96 ~17~10~100 planks 2
+fill ~17~14~96 ~17~14~104 stone_block_slab 14
+fill ~17~15~96 ~21~15~98 planks 2
+fill ~17~16~96 ~17~16~97 double_wooden_slab 2
+setblock ~18~17~96 double_wooden_slab 2
+setblock ~19~16~96 wooden_slab 2
+fill ~21~0~96 ~21~0~102 sea_lantern
+fill ~21~16~96 ~21~16~97 leaves 0
+fill ~22~0~96 ~22~0~103 quartz_block 0
+fill ~22~11~96 ~22~11~97 stone_block_slab 14
+fill ~22~16~96 ~22~16~98 quartz_block 0
+fill ~23~2~96 ~23~2~97 planks 2
+fill ~23~3~96 ~23~3~97 brewing_stand 0
+fill ~24~8~96 ~24~8~103 concrete 8
+fill ~24~9~96 ~24~9~98 concrete 7
+fill ~5~15~97 ~5~15~99 quartz_block 0
+fill ~6~2~97 ~6~2~98 double_wooden_slab 2
+setblock ~6~11~97 quartz_stairs 1
+fill ~6~17~97 ~6~18~98 stained_glass 0
+fill ~6~19~97 ~6~19~98 double_stone_block_slab 6
+setblock ~7~2~97 wooden_slab 2
+setblock ~7~3~97 lever 2
+fill ~7~11~97 ~9~11~97 stone_block_slab 6
+fill ~7~19~97 ~7~19~98 stone_block_slab 14
+setblock ~9~5~97 wooden_slab 10
+setblock ~10~16~97 wooden_slab 2
+fill ~11~1~97 ~13~1~97 concrete 7
+setblock ~11~17~97 wooden_slab 2
+setblock ~12~3~97 wall_banner 2
+fill ~12~10~97 ~12~10~100 planks 2
+setblock ~14~4~97 wall_sign 2
+fill ~15~1~97 ~17~1~97 concrete 7
+setblock ~16~3~97 wall_banner 2
+setblock ~17~17~97 wooden_slab 2
+setblock ~18~16~97 wooden_slab 2
+setblock ~19~5~97 wooden_slab 10
+setblock ~20~11~97 quartz_stairs 2
+fill ~21~5~97 ~23~5~97 wooden_slab 10
+fill ~21~19~97 ~21~19~98 stone_block_slab 14
+fill ~22~12~97 ~22~12~98 concrete 15
+fill ~22~13~97 ~22~13~98 stone_block_slab 6
+fill ~22~17~97 ~22~18~98 stained_glass 0
+fill ~22~19~97 ~22~19~98 double_stone_block_slab 6
+setblock ~23~14~97 double_stone_block_slab 6
+fill ~23~15~97 ~23~15~99 quartz_block 0
+fill ~4~5~98 ~4~5~109 quartz_block 0
+fill ~4~6~98 ~4~6~100 concrete 7
+fill ~5~2~98 ~5~2~106 quartz_block 0
+setblock ~5~3~98 wooden_slab 2
+fill ~6~3~98 ~7~3~98 chest 2
+fill ~6~11~98 ~9~11~98 quartz_stairs 2
+setblock ~7~2~98 double_wooden_slab 2
+fill ~7~16~98 ~7~16~99 quartz_block 0
+fill ~8~15~98 ~11~15~98 planks 2
+setblock ~8~16~98 leaves 0
+fill ~8~19~98 ~9~19~99 stone_block_slab 14
+setblock ~9~5~98 sea_lantern
+fill ~10~1~98 ~12~1~98 concrete 8
+setblock ~10~5~98 wooden_slab 10
+setblock ~11~16~98 wooden_slab 2
+fill ~12~2~98 ~12~4~98 double_stone_block_slab 6
+fill ~12~13~98 ~12~13~108 planks 2
+fill ~12~16~98 ~13~16~98 double_wooden_slab 2
+setblock ~12~17~98 wooden_slab 2
+fill ~13~1~98 ~15~1~117 planks 2
+fill ~13~4~98 ~15~4~98 stone_block_slab 6
+setblock ~14~16~98 sea_lantern
+fill ~15~16~98 ~16~16~98 double_wooden_slab 2
+fill ~16~1~98 ~18~1~98 concrete 8
+fill ~16~2~98 ~16~4~98 double_stone_block_slab 6
+fill ~16~13~98 ~16~13~108 planks 2
+setblock ~16~17~98 wooden_slab 2
+setblock ~17~16~98 wooden_slab 2
+setblock ~18~5~98 wooden_slab 10
+setblock ~19~5~98 sea_lantern
+fill ~19~19~98 ~20~19~99 stone_block_slab 14
+setblock ~20~16~98 leaves 0
+setblock ~21~2~98 furnace 2
+fill ~21~5~98 ~23~5~98 sea_lantern
+fill ~21~16~98 ~21~16~99 quartz_block 0
+setblock ~22~2~98 cauldron 0
+setblock ~22~11~98 double_stone_block_slab 6
+fill ~22~15~98 ~22~15~99 quartz_block 0
+fill ~23~2~98 ~23~2~106 quartz_block 0
+setblock ~23~3~98 wooden_slab 2
+setblock ~23~14~98 stone_block_slab 6
+fill ~24~5~98 ~24~5~109 quartz_block 0
+fill ~24~6~98 ~24~6~100 concrete 7
+fill ~4~9~99 ~4~9~106 concrete 8
+fill ~4~10~99 ~4~10~101 concrete 7
+fill ~5~3~99 ~7~9~99 planks 2
+fill ~6~2~99 ~7~2~99 planks 2
+fill ~6~15~99 ~7~15~99 quartz_block 0
+fill ~7~1~99 ~7~1~102 planks 2
+fill ~7~17~99 ~7~18~99 stained_glass 0
+setblock ~7~19~99 double_stone_block_slab 6
+fill ~8~7~99 ~23~8~99 planks 2
+fill ~8~9~99 ~13~9~102 planks 2
+fill ~8~16~99 ~8~16~100 quartz_block 0
+fill ~9~1~99 ~12~1~116 planks 2
+fill ~9~2~99 ~12~5~99 planks 2
+fill ~9~15~99 ~11~15~99 planks 2
+fill ~9~16~99 ~10~16~99 leaves 0
+fill ~10~19~99 ~18~19~100 stone_block_slab 14
+setblock ~12~16~99 wooden_slab 2
+fill ~13~4~99 ~19~5~99 planks 2
+setblock ~13~13~99 wall_sign 5
+fill ~13~16~99 ~15~16~99 double_wooden_slab 2
+setblock ~13~17~99 double_wooden_slab 2
+setblock ~14~9~99 sea_lantern
+setblock ~14~10~99 stained_glass 7
+setblock ~14~17~99 wooden_slab 2
+fill ~15~9~99 ~21~9~102 planks 2
+setblock ~15~13~99 wall_sign 4
+setblock ~15~17~99 double_wooden_slab 2
+fill ~16~1~99 ~21~1~102 planks 2
+fill ~16~2~99 ~19~3~99 planks 2
+setblock ~16~16~99 wooden_slab 2
+fill ~17~15~99 ~19~15~99 planks 2
+fill ~18~16~99 ~19~16~99 leaves 0
+fill ~19~11~99 ~20~11~101 carpet 0
+fill ~20~16~99 ~20~16~100 quartz_block 0
+fill ~21~2~99 ~22~5~99 planks 2
+setblock ~21~15~99 quartz_block 0
+fill ~21~17~99 ~21~18~99 stained_glass 0
+setblock ~21~19~99 double_stone_block_slab 6
+fill ~22~1~99 ~22~1~107 quartz_block 0
+fill ~23~3~99 ~23~5~99 planks 2
+setblock ~23~14~99 quartz_block 0
+fill ~24~9~99 ~24~9~106 concrete 8
+fill ~24~10~99 ~24~10~101 concrete 7
+fill ~5~9~100 ~7~9~103 planks 2
+fill ~6~1~100 ~6~1~102 planks 2
+fill ~6~11~100 ~6~11~101 stone_block_slab 14
+setblock ~6~12~100 flower_pot 0
+fill ~6~15~100 ~7~15~102 stone_block_slab 6
+fill ~7~2~100 ~7~8~111 planks 2
+fill ~8~2~100 ~11~2~100 bookshelf
+fill ~8~3~100 ~9~3~100 stone_block_slab 6
+setblock ~8~8~100 quartz_stairs 5
+fill ~8~11~100 ~9~11~101 carpet 0
+fill ~8~15~100 ~9~15~100 quartz_block 0
+fill ~8~17~100 ~9~18~100 stained_glass 0
+fill ~8~19~100 ~9~19~100 double_stone_block_slab 6
+setblock ~9~5~100 stone_block_slab 14
+setblock ~9~6~100 stone_block_slab 6
+fill ~9~16~100 ~10~16~100 quartz_block 0
+setblock ~10~3~100 stone_block_slab 14
+setblock ~10~5~100 stone_block_slab 6
+setblock ~10~6~100 stone_block_slab 14
+fill ~10~8~100 ~11~8~100 stone_block_slab 14
+setblock ~11~4~100 stone_block_slab 6
+setblock ~11~6~100 stone_block_slab 6
+setblock ~11~15~100 planks 2
+fill ~11~16~100 ~12~16~100 leaves 0
+setblock ~12~4~100 stone_block_slab 14
+setblock ~12~5~100 double_stone_block_slab 6
+setblock ~12~8~100 stone_block_slab 6
+fill ~13~7~100 ~15~7~100 stone_block_slab 14
+setblock ~13~16~100 wooden_slab 2
+fill ~14~9~100 ~14~9~113 planks 2
+fill ~14~10~100 ~14~10~104 concrete 7
+setblock ~14~16~100 double_wooden_slab 2
+setblock ~15~16~100 wooden_slab 2
+setblock ~16~4~100 stone_block_slab 14
+setblock ~16~5~100 double_stone_block_slab 6
+setblock ~16~8~100 stone_block_slab 6
+fill ~16~16~100 ~17~16~100 leaves 0
+setblock ~17~4~100 stone_block_slab 6
+setblock ~17~6~100 stone_block_slab 6
+fill ~17~8~100 ~18~8~100 stone_block_slab 14
+setblock ~17~15~100 planks 2
+setblock ~18~3~100 stone_block_slab 14
+setblock ~18~5~100 stone_block_slab 6
+setblock ~18~6~100 stone_block_slab 14
+fill ~18~10~100 ~21~10~106 planks 2
+fill ~18~14~100 ~21~14~104 stone_block_slab 14
+fill ~18~16~100 ~19~16~100 quartz_block 0
+fill ~19~3~100 ~20~3~100 stone_block_slab 6
+setblock ~19~5~100 stone_block_slab 14
+setblock ~19~6~100 stone_block_slab 6
+fill ~19~15~100 ~20~15~100 quartz_block 0
+fill ~19~17~100 ~20~18~100 stained_glass 0
+fill ~19~19~100 ~20~19~100 double_stone_block_slab 6
+setblock ~20~8~100 quartz_stairs 4
+fill ~21~2~100 ~21~5~111 planks 2
+fill ~21~7~100 ~21~8~121 planks 2
+fill ~21~15~100 ~22~15~102 stone_block_slab 6
+fill ~22~9~100 ~23~9~103 planks 2
+setblock ~22~10~100 sea_lantern
+setblock ~22~11~100 leaves 0
+fill ~22~12~100 ~22~13~100 leaves 0
+fill ~22~14~100 ~23~14~104 double_stone_block_slab 6
+fill ~23~10~100 ~23~10~106 planks 2
+fill ~4~6~101 ~4~6~112 quartz_block 0
+fill ~4~7~101 ~4~7~103 concrete 7
+fill ~8~2~101 ~8~2~102 bookshelf
+fill ~8~8~101 ~8~8~104 leaves 0
+fill ~8~15~101 ~9~15~101 double_stone_block_slab 6
+fill ~10~15~101 ~18~16~101 quartz_block 0
+fill ~10~17~101 ~18~18~101 stained_glass 0
+fill ~10~19~101 ~12~19~101 double_stone_block_slab 6
+fill ~12~11~101 ~12~12~106 planks 2
+fill ~13~19~101 ~15~19~101 stone_block_slab 6
+fill ~14~2~101 ~14~2~102 carpet 8
+fill ~16~11~101 ~16~12~106 planks 2
+fill ~16~19~101 ~18~19~101 double_stone_block_slab 6
+fill ~17~10~101 ~17~10~104 planks 2
+setblock ~18~8~101 leaves 0
+fill ~19~15~101 ~20~15~101 stone_block_slab 14
+fill ~20~2~101 ~20~2~102 cauldron 0
+fill ~22~10~101 ~22~10~106 planks 2
+setblock ~22~11~101 crafting_table
+fill ~24~6~101 ~24~6~112 quartz_block 0
+fill ~24~7~101 ~24~7~103 concrete 7
+fill ~4~10~102 ~4~10~108 concrete 8
+fill ~4~11~102 ~4~11~104 concrete 7
+fill ~4~14~102 ~4~14~103 double_stone_block_slab 6
+fill ~6~11~102 ~6~12~102 chest 5
+fill ~8~15~102 ~8~15~106 stone_block_slab 6
+fill ~9~15~102 ~16~15~102 double_stone_block_slab 6
+setblock ~11~11~102 furnace 4
+fill ~12~2~102 ~13~2~103 carpet 8
+fill ~12~14~102 ~12~14~108 double_stone_block_slab 6
+fill ~15~2~102 ~16~2~103 carpet 8
+fill ~16~14~102 ~16~14~108 double_stone_block_slab 6
+setblock ~17~11~102 anvil 2
+fill ~17~15~102 ~19~15~103 stone_block_slab 14
+setblock ~19~8~102 leaves 0
+fill ~20~15~102 ~20~15~106 stone_block_slab 6
+fill ~24~10~102 ~24~10~108 concrete 8
+fill ~24~11~102 ~24~11~104 concrete 7
+fill ~24~14~102 ~24~14~103 double_stone_block_slab 6
+fill ~5~3~103 ~5~3~110 quartz_block 0
+fill ~6~1~103 ~6~1~107 quartz_block 0
+fill ~6~14~103 ~6~14~104 double_stone_block_slab 6
+fill ~7~0~103 ~7~0~108 quartz_block 0
+fill ~7~1~103 ~8~1~103 sea_lantern
+fill ~7~11~103 ~8~11~104 stone_block_slab 6
+fill ~7~14~103 ~11~14~104 stone_block_slab 14
+fill ~7~15~103 ~7~15~104 stone_block_slab 6
+fill ~8~0~103 ~8~0~107 sea_lantern
+fill ~8~2~103 ~8~7~103 leaves 0
+setblock ~8~9~103 sea_lantern
+fill ~9~8~103 ~10~8~103 leaves 0
+fill ~9~9~103 ~13~9~115 planks 2
+fill ~9~15~103 ~11~15~103 double_stone_block_slab 6
+fill ~11~2~103 ~11~2~105 carpet 8
+setblock ~11~11~103 anvil 0
+fill ~12~15~103 ~12~15~105 stone_block_slab 14
+fill ~13~15~103 ~15~15~103 double_stone_block_slab 6
+fill ~15~9~103 ~19~9~106 planks 2
+fill ~16~1~103 ~19~1~116 planks 2
+fill ~16~15~103 ~16~15~105 stone_block_slab 14
+fill ~17~2~103 ~17~2~105 carpet 8
+setblock ~17~11~103 furnace 5
+fill ~20~0~103 ~20~0~107 sea_lantern
+setblock ~20~1~103 sea_lantern
+fill ~20~2~103 ~20~6~103 leaves 0
+setblock ~20~7~103 leaves 0
+setblock ~20~8~103 leaves 0
+setblock ~20~9~103 sea_lantern
+fill ~20~11~103 ~21~11~104 stone_block_slab 6
+fill ~21~0~103 ~21~0~108 quartz_block 0
+fill ~21~1~103 ~21~1~107 planks 2
+setblock ~21~9~103 planks 2
+fill ~21~15~103 ~21~15~104 stone_block_slab 6
+fill ~23~3~103 ~23~3~110 quartz_block 0
+fill ~4~7~104 ~4~7~115 quartz_block 0
+fill ~4~8~104 ~4~8~106 concrete 7
+fill ~4~14~104 ~4~14~127 stone_block_slab 6
+fill ~6~11~104 ~6~11~105 quartz_block 0
+setblock ~6~12~104 flower_pot 0
+fill ~7~1~104 ~8~1~105 planks 2
+fill ~7~9~104 ~8~9~106 planks 2
+fill ~8~2~104 ~8~2~105 crafting_table
+fill ~8~5~104 ~8~5~105 stone_block_slab 14
+fill ~9~11~104 ~9~11~105 quartz_block 0
+setblock ~9~12~104 flower_pot 0
+fill ~9~15~104 ~9~15~107 stone_block_slab 6
+fill ~10~15~104 ~11~15~105 double_stone_block_slab 6
+setblock ~11~8~104 leaves 0
+setblock ~12~2~104 carpet 8
+fill ~13~14~104 ~15~14~105 stone_block_slab 14
+fill ~13~15~104 ~15~15~104 stone_block_slab 14
+setblock ~16~2~104 carpet 8
+setblock ~17~8~104 leaves 0
+fill ~17~15~104 ~18~15~105 stone_block_slab 14
+fill ~18~8~104 ~19~8~104 leaves 0
+setblock ~19~11~104 double_stone_block_slab 6
+setblock ~19~12~104 flower_pot 0
+fill ~19~15~104 ~19~15~106 stone_block_slab 6
+fill ~20~1~104 ~20~1~106 planks 2
+fill ~20~2~104 ~20~4~105 bookshelf
+fill ~20~5~104 ~20~5~105 stone_block_slab 6
+fill ~20~9~104 ~20~9~113 planks 2
+setblock ~22~11~104 double_stone_block_slab 6
+setblock ~22~12~104 flower_pot 0
+fill ~24~7~104 ~24~7~115 quartz_block 0
+fill ~24~8~104 ~24~8~106 concrete 7
+fill ~24~14~104 ~24~14~127 stone_block_slab 6
+fill ~4~11~105 ~4~11~110 concrete 8
+fill ~4~12~105 ~4~12~106 concrete 7
+fill ~5~14~105 ~7~14~105 stone_block_slab 6
+setblock ~6~12~105 stone_block_slab 6
+fill ~7~11~105 ~8~11~105 quartz_stairs 2
+fill ~8~14~105 ~10~14~105 stone_block_slab 14
+fill ~9~8~105 ~9~8~106 leaves 0
+setblock ~9~12~105 stone_block_slab 6
+setblock ~10~11~105 crafting_table
+setblock ~11~10~105 sea_lantern
+fill ~11~11~105 ~11~12~105 leaves 0
+fill ~11~13~105 ~11~14~105 leaves 0
+setblock ~12~8~105 leaves 0
+fill ~13~11~105 ~15~11~105 wooden_slab 2
+fill ~13~15~105 ~15~15~105 double_stone_block_slab 6
+setblock ~15~8~105 leaves 0
+setblock ~16~8~105 leaves 0
+setblock ~17~10~105 sea_lantern
+fill ~17~11~105 ~17~13~105 leaves 0
+fill ~17~14~105 ~20~14~105 double_stone_block_slab 6
+fill ~18~11~105 ~18~12~105 chest 2
+setblock ~19~11~105 quartz_block 0
+setblock ~19~12~105 stone_block_slab 6
+fill ~20~11~105 ~21~11~105 quartz_stairs 2
+fill ~21~14~105 ~23~14~105 stone_block_slab 6
+setblock ~22~11~105 quartz_block 0
+setblock ~22~12~105 stone_block_slab 6
+fill ~24~11~105 ~24~11~110 concrete 8
+fill ~24~12~105 ~24~12~106 concrete 7
+fill ~6~11~106 ~11~13~106 planks 2
+fill ~7~14~106 ~7~14~107 stone_block_slab 6
+fill ~8~1~106 ~8~1~111 planks 2
+fill ~8~2~106 ~9~2~106 quartz_block 0
+setblock ~8~3~106 stone_block_slab 6
+setblock ~8~6~106 stone_block_slab 6
+setblock ~8~14~106 double_stone_block_slab 6
+fill ~9~14~106 ~11~14~106 planks 2
+fill ~10~15~106 ~10~15~108 stone_block_slab 6
+fill ~11~10~106 ~17~10~106 planks 2
+setblock ~11~15~106 stone_block_slab 14
+setblock ~12~15~106 double_stone_block_slab 6
+fill ~13~2~106 ~15~2~106 birch_stairs 6
+fill ~13~8~106 ~14~8~106 leaves 0
+setblock ~13~11~106 double_wooden_slab 2
+fill ~13~15~106 ~15~15~106 stone_block_slab 14
+fill ~14~11~106 ~15~11~106 wooden_slab 10
+setblock ~16~15~106 double_stone_block_slab 6
+setblock ~17~8~106 leaves 0
+fill ~17~11~106 ~22~13~106 planks 2
+fill ~17~14~106 ~19~14~106 stone_block_slab 6
+setblock ~17~15~106 stone_block_slab 14
+fill ~18~15~106 ~18~15~108 stone_block_slab 6
+setblock ~20~5~106 stone_block_slab 14
+setblock ~20~7~106 double_stone_block_slab 6
+setblock ~20~14~106 double_stone_block_slab 6
+fill ~21~14~106 ~21~14~107 stone_block_slab 6
+fill ~23~13~106 ~23~13~126 planks 2
+fill ~4~8~107 ~4~8~117 quartz_block 0
+fill ~4~9~107 ~4~9~108 concrete 7
+fill ~4~12~107 ~4~12~112 concrete 8
+fill ~4~13~107 ~4~13~108 concrete 7
+fill ~5~4~107 ~5~4~114 quartz_block 0
+fill ~5~13~107 ~7~13~126 planks 2
+fill ~6~2~107 ~6~2~111 quartz_block 0
+fill ~8~2~107 ~8~2~108 quartz_stairs 1
+setblock ~8~6~107 stone_block_slab 14
+fill ~8~8~107 ~8~8~108 leaves 0
+fill ~8~9~107 ~8~9~118 planks 2
+fill ~8~14~107 ~8~14~108 stone_block_slab 6
+fill ~9~2~107 ~10~2~108 stone_block_slab 6
+fill ~9~14~107 ~9~14~108 double_stone_block_slab 6
+fill ~11~15~107 ~12~15~108 stone_block_slab 6
+setblock ~12~8~107 leaves 0
+fill ~12~12~107 ~12~12~108 planks 2
+setblock ~13~2~107 birch_stairs 4
+fill ~13~12~107 ~15~12~107 wooden_slab 2
+setblock ~14~2~107 birch_stairs 7
+setblock ~15~2~107 birch_stairs 5
+fill ~15~9~107 ~15~9~110 planks 2
+setblock ~15~11~107 wooden_slab 10
+fill ~16~9~107 ~17~9~110 wooden_slab 10
+fill ~16~12~107 ~16~12~108 planks 2
+fill ~16~15~107 ~17~15~108 stone_block_slab 6
+fill ~17~13~107 ~22~13~108 planks 2
+setblock ~18~2~107 double_wooden_slab 2
+setblock ~18~3~107 wooden_slab 2
+setblock ~18~8~107 leaves 0
+fill ~18~9~107 ~19~9~113 planks 2
+fill ~19~2~107 ~20~2~107 wooden_slab 2
+fill ~19~14~107 ~19~15~108 double_stone_block_slab 6
+setblock ~20~6~107 stone_block_slab 6
+setblock ~20~8~107 stone_block_slab 6
+fill ~20~14~107 ~20~14~108 stone_block_slab 6
+fill ~22~2~107 ~22~2~111 quartz_block 0
+fill ~23~4~107 ~23~4~114 quartz_block 0
+fill ~24~8~107 ~24~8~117 quartz_block 0
+fill ~24~9~107 ~24~9~108 concrete 7
+fill ~24~12~107 ~24~12~112 concrete 8
+fill ~24~13~107 ~24~13~108 concrete 7
+fill ~7~1~108 ~7~1~112 quartz_block 0
+fill ~8~0~108 ~8~0~113 quartz_block 0
+fill ~8~7~108 ~8~7~109 stone_block_slab 6
+fill ~8~13~108 ~11~13~108 planks 2
+fill ~9~0~108 ~9~0~112 sea_lantern
+fill ~9~15~108 ~9~17~108 quartz_block 0
+setblock ~9~18~108 quartz_stairs 2
+fill ~10~14~108 ~11~14~108 double_stone_block_slab 6
+fill ~11~8~108 ~11~8~109 leaves 0
+setblock ~13~12~108 double_wooden_slab 2
+fill ~14~12~108 ~15~12~108 wooden_slab 10
+fill ~17~14~108 ~18~14~108 double_stone_block_slab 6
+fill ~18~2~108 ~20~2~108 wooden_slab 10
+fill ~18~3~108 ~18~3~109 double_wooden_slab 2
+setblock ~18~8~108 leaves 0
+fill ~19~0~108 ~19~0~112 sea_lantern
+fill ~19~16~108 ~19~17~108 quartz_block 0
+setblock ~19~18~108 quartz_stairs 2
+fill ~20~0~108 ~20~0~113 quartz_block 0
+fill ~20~1~108 ~20~1~112 planks 2
+setblock ~20~6~108 stone_block_slab 14
+setblock ~20~7~108 double_stone_block_slab 6
+fill ~21~1~108 ~21~1~112 quartz_block 0
+fill ~4~9~109 ~4~9~119 quartz_block 0
+fill ~4~10~109 ~4~10~110 concrete 7
+fill ~4~13~109 ~4~13~114 concrete 8
+fill ~8~2~109 ~9~2~109 quartz_block 0
+setblock ~8~3~109 stone_block_slab 6
+fill ~8~13~109 ~8~13~122 planks 2
+setblock ~9~8~109 leaves 0
+fill ~9~14~109 ~12~14~109 stone_block_slab 6
+fill ~9~18~109 ~10~18~111 stone_block_slab 14
+setblock ~12~2~109 birch_stairs 1
+setblock ~12~13~109 wooden_slab 10
+fill ~13~2~109 ~15~2~109 birch_stairs 2
+fill ~13~13~109 ~15~13~109 wooden_slab 2
+setblock ~14~8~109 wooden_slab 10
+setblock ~16~2~109 birch_stairs 0
+setblock ~16~13~109 wooden_slab 10
+fill ~16~14~109 ~19~14~109 stone_block_slab 6
+setblock ~18~4~109 wooden_slab 2
+fill ~18~18~109 ~19~18~111 stone_block_slab 14
+fill ~19~2~109 ~20~2~109 crafting_table
+fill ~19~3~109 ~20~3~109 wooden_slab 2
+setblock ~19~8~109 leaves 0
+fill ~19~13~109 ~22~13~120 planks 2
+fill ~24~9~109 ~24~9~119 quartz_block 0
+fill ~24~10~109 ~24~10~110 concrete 7
+fill ~24~13~109 ~24~13~114 concrete 8
+fill ~5~5~110 ~5~5~116 quartz_block 0
+fill ~8~2~110 ~8~2~111 chest 5
+setblock ~8~6~110 stone_block_slab 14
+fill ~9~13~110 ~18~13~117 planks 2
+setblock ~10~8~110 leaves 0
+fill ~11~18~110 ~12~18~113 stone_block_slab 14
+fill ~14~8~110 ~14~8~111 wooden_slab 2
+fill ~16~18~110 ~17~18~113 stone_block_slab 14
+fill ~18~3~110 ~20~3~110 wooden_slab 10
+fill ~18~4~110 ~18~4~111 double_wooden_slab 2
+setblock ~19~8~110 leaves 0
+fill ~20~2~110 ~20~2~111 crafting_table
+fill ~23~5~110 ~23~5~116 quartz_block 0
+fill ~4~10~111 ~4~10~121 quartz_block 0
+fill ~4~11~111 ~4~11~112 concrete 7
+fill ~6~3~111 ~6~3~115 quartz_block 0
+setblock ~8~6~111 stone_block_slab 6
+setblock ~9~8~111 leaves 0
+fill ~13~18~111 ~15~18~111 stone_block_slab 14
+fill ~15~9~111 ~16~9~112 wooden_slab 10
+fill ~17~10~111 ~17~10~121 wooden_slab 2
+setblock ~18~5~111 wooden_slab 2
+fill ~19~4~111 ~20~4~111 wooden_slab 2
+setblock ~20~3~111 crafting_table
+setblock ~20~8~111 leaves 0
+fill ~22~3~111 ~22~3~115 quartz_block 0
+fill ~24~10~111 ~24~10~121 quartz_block 0
+fill ~24~11~111 ~24~11~112 concrete 7
+fill ~7~2~112 ~7~2~116 quartz_block 0
+fill ~7~3~112 ~7~8~115 planks 2
+setblock ~8~1~112 sea_lantern
+fill ~8~2~112 ~8~8~112 leaves 0
+fill ~9~14~112 ~9~18~112 quartz_block 0
+fill ~10~18~112 ~10~18~113 stone_block_slab 14
+fill ~11~14~112 ~11~14~113 quartz_stairs 1
+fill ~12~14~112 ~13~14~112 quartz_stairs 3
+fill ~13~18~112 ~13~18~113 stone_block_slab 6
+setblock ~14~7~112 wooden_slab 10
+setblock ~14~18~112 stone_block_slab 14
+fill ~15~14~112 ~17~14~112 quartz_stairs 3
+fill ~15~18~112 ~15~18~113 stone_block_slab 6
+fill ~18~4~112 ~20~4~112 wooden_slab 10
+fill ~18~5~112 ~18~5~113 double_wooden_slab 2
+fill ~18~18~112 ~18~18~113 stone_block_slab 14
+setblock ~19~2~112 crafting_table
+fill ~19~14~112 ~19~18~112 quartz_block 0
+fill ~20~2~112 ~20~2~116 planks 2
+setblock ~20~8~112 leaves 0
+fill ~21~2~112 ~21~2~116 quartz_block 0
+fill ~21~3~112 ~21~5~115 planks 2
+fill ~4~11~113 ~4~11~123 quartz_block 0
+fill ~4~12~113 ~4~12~114 concrete 7
+fill ~5~6~113 ~5~6~118 quartz_block 0
+fill ~8~1~113 ~8~1~117 quartz_block 0
+fill ~8~2~113 ~8~2~116 planks 2
+fill ~8~3~113 ~8~3~115 brewing_stand 0
+fill ~8~5~113 ~8~5~114 stone_block_slab 14
+fill ~9~0~113 ~9~0~118 quartz_block 0
+setblock ~9~18~113 double_stone_block_slab 6
+fill ~10~0~113 ~10~0~117 sea_lantern
+setblock ~10~8~113 wooden_slab 10
+fill ~11~2~113 ~12~2~115 carpet 8
+fill ~11~8~113 ~12~8~113 wooden_slab 2
+setblock ~13~7~113 wooden_slab 10
+fill ~14~2~113 ~14~7~113 planks 2
+setblock ~14~8~113 sea_lantern
+fill ~14~18~113 ~14~18~114 stone_block_slab 6
+setblock ~15~7~113 wooden_slab 10
+fill ~15~9~113 ~15~9~114 wooden_slab 10
+fill ~16~2~113 ~17~2~115 carpet 8
+fill ~16~8~113 ~17~8~113 wooden_slab 2
+fill ~16~10~113 ~16~10~115 wooden_slab 2
+setblock ~17~14~113 quartz_stairs 0
+fill ~18~0~113 ~18~0~117 sea_lantern
+setblock ~18~6~113 wooden_slab 2
+setblock ~18~8~113 wooden_slab 10
+fill ~19~0~113 ~19~0~118 quartz_block 0
+fill ~19~5~113 ~20~5~113 wooden_slab 2
+setblock ~19~18~113 double_stone_block_slab 6
+fill ~20~1~113 ~20~1~117 quartz_block 0
+setblock ~20~8~113 leaves 0
+fill ~23~6~113 ~23~6~118 quartz_block 0
+fill ~24~11~113 ~24~11~123 quartz_block 0
+fill ~24~12~113 ~24~12~114 concrete 7
+fill ~9~14~114 ~9~17~114 quartz_block 0
+fill ~9~18~114 ~10~18~115 stone_block_slab 6
+fill ~11~18~114 ~13~18~115 double_stone_block_slab 6
+fill ~13~2~114 ~13~2~117 carpet 8
+setblock ~14~7~114 wooden_slab 10
+fill ~14~9~114 ~14~9~116 wooden_slab 10
+fill ~15~2~114 ~15~2~117 carpet 8
+fill ~15~18~114 ~17~18~115 double_stone_block_slab 6
+fill ~18~5~114 ~20~5~119 wooden_slab 10
+fill ~18~6~114 ~18~6~115 double_wooden_slab 2
+fill ~18~9~114 ~18~9~115 planks 2
+fill ~18~18~114 ~19~18~115 stone_block_slab 6
+fill ~19~9~114 ~19~9~124 wooden_slab 10
+fill ~19~14~114 ~19~17~114 quartz_block 0
+fill ~20~9~114 ~20~9~115 leaves 0
+fill ~4~12~115 ~4~12~125 quartz_block 0
+fill ~4~13~115 ~4~13~116 concrete 7
+fill ~6~4~115 ~6~4~117 quartz_block 0
+setblock ~8~6~115 stone_block_slab 6
+fill ~13~14~115 ~15~14~115 quartz_stairs 2
+fill ~14~2~115 ~14~2~117 carpet 8
+fill ~14~8~115 ~14~8~116 wooden_slab 2
+fill ~14~18~115 ~14~18~116 double_stone_block_slab 6
+setblock ~15~10~115 wooden_slab 2
+setblock ~20~3~115 chest 2
+fill ~22~4~115 ~22~4~117 quartz_block 0
+fill ~24~12~115 ~24~12~125 quartz_block 0
+fill ~24~13~115 ~24~13~116 concrete 7
+fill ~5~7~116 ~5~7~119 quartz_block 0
+setblock ~6~14~116 quartz_stairs 3
+fill ~7~3~116 ~7~3~118 quartz_block 0
+fill ~7~4~116 ~7~8~117 planks 2
+fill ~8~3~116 ~8~3~118 planks 2
+setblock ~8~6~116 stone_block_slab 14
+setblock ~8~14~116 quartz_stairs 3
+fill ~9~9~116 ~12~9~116 planks 2
+fill ~10~18~116 ~11~18~116 stone_block_slab 6
+setblock ~12~2~116 carpet 8
+fill ~12~18~116 ~13~18~116 double_stone_block_slab 6
+setblock ~13~9~116 wooden_slab 2
+fill ~14~10~116 ~14~10~119 wooden_slab 2
+fill ~15~10~116 ~16~10~120 wooden_slab 10
+fill ~15~18~116 ~16~18~116 double_stone_block_slab 6
+setblock ~16~2~116 carpet 8
+fill ~17~5~116 ~17~5~123 wooden_slab 10
+fill ~17~6~116 ~17~6~117 double_wooden_slab 2
+fill ~17~18~116 ~18~18~116 stone_block_slab 6
+fill ~18~9~116 ~18~9~124 wooden_slab 10
+setblock ~19~2~116 chest 4
+fill ~20~3~116 ~20~3~118 planks 2
+fill ~20~9~116 ~20~9~117 leaves 0
+setblock ~20~14~116 quartz_stairs 3
+fill ~21~3~116 ~21~3~118 quartz_block 0
+fill ~21~4~116 ~21~5~117 planks 2
+setblock ~22~14~116 quartz_stairs 3
+fill ~23~7~116 ~23~7~119 quartz_block 0
+fill ~4~13~117 ~4~13~127 quartz_block 0
+fill ~6~5~117 ~6~5~119 quartz_block 0
+setblock ~6~14~117 stone_block_slab 6
+fill ~8~2~117 ~8~2~119 quartz_block 0
+fill ~8~7~117 ~8~7~118 stone_block_slab 6
+setblock ~8~14~117 stone_block_slab 6
+fill ~9~1~117 ~11~1~117 planks 2
+fill ~9~2~117 ~9~2~119 planks 2
+fill ~9~9~117 ~11~9~117 planks 2
+fill ~11~18~117 ~17~18~117 stone_block_slab 6
+fill ~12~1~117 ~12~1~118 stained_glass 0
+fill ~12~9~117 ~13~9~117 wooden_slab 10
+setblock ~14~8~117 wooden_slab 10
+setblock ~14~9~117 double_wooden_slab 2
+fill ~16~1~117 ~16~1~118 stained_glass 0
+fill ~17~1~117 ~19~1~117 planks 2
+setblock ~18~2~117 chest 2
+fill ~19~2~117 ~19~2~119 planks 2
+fill ~19~3~117 ~19~3~118 chest 4
+fill ~20~2~117 ~20~2~119 quartz_block 0
+setblock ~20~4~117 chest 4
+setblock ~20~6~117 leaves 0
+fill ~20~7~117 ~20~8~117 leaves 0
+setblock ~20~14~117 stone_block_slab 6
+fill ~22~5~117 ~22~5~119 quartz_block 0
+setblock ~22~14~117 stone_block_slab 6
+fill ~24~13~117 ~24~13~127 quartz_block 0
+fill ~5~8~118 ~5~8~120 quartz_block 0
+fill ~7~4~118 ~7~4~120 quartz_block 0
+fill ~7~5~118 ~7~8~119 planks 2
+fill ~8~4~118 ~8~4~120 planks 2
+fill ~9~1~118 ~9~1~120 quartz_block 0
+fill ~9~9~118 ~10~9~118 planks 2
+fill ~9~13~118 ~12~13~118 planks 2
+fill ~10~0~118 ~10~0~121 quartz_block 0
+fill ~10~1~118 ~11~1~120 planks 2
+fill ~10~2~118 ~10~2~119 stone_block_slab 6
+fill ~11~0~118 ~11~0~120 sea_lantern
+fill ~11~9~118 ~12~9~118 wooden_slab 10
+fill ~13~1~118 ~15~1~120 stained_glass 0
+fill ~13~10~118 ~13~10~119 wooden_slab 2
+fill ~13~13~118 ~15~13~123 quartz_block 0
+fill ~13~14~118 ~15~14~118 stone_block_slab 6
+fill ~16~5~118 ~16~5~124 wooden_slab 10
+setblock ~16~6~118 double_wooden_slab 2
+setblock ~16~7~118 wooden_slab 2
+fill ~16~13~118 ~18~13~118 planks 2
+fill ~17~0~118 ~17~0~120 sea_lantern
+fill ~17~1~118 ~18~1~120 planks 2
+fill ~18~0~118 ~18~0~121 quartz_block 0
+fill ~18~2~118 ~18~2~119 stone_block_slab 6
+fill ~18~6~118 ~18~6~120 carpet 8
+fill ~19~1~118 ~19~1~120 quartz_block 0
+fill ~20~4~118 ~20~4~120 planks 2
+fill ~20~6~118 ~20~8~119 chest 4
+fill ~20~9~118 ~20~9~119 wooden_slab 2
+fill ~21~4~118 ~21~4~120 quartz_block 0
+fill ~21~5~118 ~21~5~119 planks 2
+fill ~23~8~118 ~23~8~120 quartz_block 0
+fill ~6~6~119 ~6~6~120 quartz_block 0
+fill ~7~9~119 ~7~9~124 planks 2
+fill ~8~3~119 ~8~3~121 quartz_block 0
+fill ~8~6~119 ~8~6~120 stone_block_slab 14
+fill ~8~9~119 ~11~9~119 wooden_slab 10
+fill ~9~3~119 ~9~3~121 planks 2
+fill ~9~13~119 ~10~13~119 planks 2
+fill ~11~2~119 ~11~2~120 stone_block_slab 6
+fill ~11~13~119 ~12~13~121 quartz_block 0
+fill ~11~14~119 ~12~14~119 stone_block_slab 6
+fill ~12~1~119 ~12~1~125 planks 2
+fill ~12~6~119 ~15~6~119 double_wooden_slab 2
+fill ~12~7~119 ~14~7~119 double_wooden_slab 2
+fill ~12~10~119 ~12~10~120 wooden_slab 2
+setblock ~14~8~119 flower_pot 0
+setblock ~15~7~119 wooden_slab 2
+fill ~16~1~119 ~16~1~125 planks 2
+fill ~16~13~119 ~17~13~121 quartz_block 0
+fill ~16~14~119 ~17~14~119 stone_block_slab 6
+fill ~17~2~119 ~17~2~120 stone_block_slab 6
+fill ~17~6~119 ~17~6~121 carpet 8
+setblock ~18~13~119 planks 2
+fill ~19~3~119 ~19~3~121 planks 2
+setblock ~19~6~119 carpet 8
+fill ~20~3~119 ~20~3~121 quartz_block 0
+fill ~22~6~119 ~22~6~120 quartz_block 0
+fill ~5~9~120 ~5~9~122 quartz_block 0
+fill ~6~7~120 ~6~7~121 quartz_block 0
+fill ~6~8~120 ~7~8~120 planks 2
+fill ~7~5~120 ~7~5~121 quartz_block 0
+fill ~7~6~120 ~7~7~120 planks 2
+fill ~8~5~120 ~8~5~121 planks 2
+fill ~8~10~120 ~11~10~120 wooden_slab 2
+fill ~9~2~120 ~10~2~121 quartz_block 0
+setblock ~9~13~120 planks 2
+fill ~10~13~120 ~10~13~128 quartz_block 0
+setblock ~10~14~120 stone_block_slab 6
+fill ~11~6~120 ~13~6~120 double_wooden_slab 2
+setblock ~11~7~120 double_wooden_slab 2
+setblock ~12~2~120 stone_block_slab 6
+setblock ~12~7~120 crafting_table
+setblock ~13~7~120 shulker_box 0
+fill ~13~10~120 ~14~10~120 wooden_slab 10
+fill ~14~6~120 ~14~6~123 wooden_slab 2
+fill ~15~5~120 ~15~5~124 wooden_slab 10
+setblock ~16~2~120 stone_block_slab 6
+fill ~16~6~120 ~16~6~122 carpet 8
+fill ~18~2~120 ~19~2~121 quartz_block 0
+fill ~18~5~120 ~19~5~120 wooden_slab 10
+fill ~18~13~120 ~18~13~128 quartz_block 0
+setblock ~18~14~120 stone_block_slab 6
+setblock ~19~4~120 chest 2
+setblock ~20~5~120 double_wooden_slab 2
+fill ~20~6~120 ~20~8~120 sea_lantern
+fill ~20~9~120 ~20~9~124 planks 2
+fill ~21~5~120 ~21~5~121 quartz_block 0
+fill ~22~7~120 ~22~7~121 quartz_block 0
+fill ~23~9~120 ~23~9~122 quartz_block 0
+fill ~6~8~121 ~6~8~123 quartz_block 0
+fill ~6~9~121 ~6~10~122 planks 2
+fill ~7~6~121 ~7~6~122 quartz_block 0
+fill ~7~7~121 ~7~8~121 planks 2
+fill ~7~10~121 ~7~10~123 planks 2
+fill ~8~4~121 ~8~4~122 quartz_block 0
+fill ~8~6~121 ~8~6~122 planks 2
+fill ~8~7~121 ~10~7~121 double_wooden_slab 2
+fill ~8~10~121 ~13~10~121 wooden_slab 10
+fill ~9~4~121 ~9~4~122 planks 2
+fill ~9~6~121 ~12~6~125 double_wooden_slab 2
+fill ~9~13~121 ~9~13~127 quartz_block 0
+fill ~9~14~121 ~9~14~122 stone_block_slab 6
+fill ~10~1~121 ~10~1~123 quartz_block 0
+setblock ~10~8~121 flower_pot 0
+fill ~11~0~121 ~11~0~124 quartz_block 0
+fill ~11~1~121 ~11~1~123 planks 2
+fill ~11~2~121 ~16~2~121 quartz_stairs 3
+setblock ~11~7~121 jukebox
+fill ~12~0~121 ~12~0~123 sea_lantern
+setblock ~13~1~121 planks 2
+fill ~13~6~121 ~13~6~122 wooden_slab 2
+fill ~14~1~121 ~14~1~123 stained_glass 0
+fill ~14~5~121 ~14~5~124 wooden_slab 10
+fill ~14~10~121 ~16~10~123 wooden_slab 2
+setblock ~15~1~121 planks 2
+setblock ~15~6~121 carpet 8
+fill ~16~0~121 ~16~0~123 sea_lantern
+fill ~17~0~121 ~17~0~124 quartz_block 0
+fill ~17~1~121 ~17~1~123 planks 2
+fill ~17~2~121 ~17~2~123 quartz_stairs 0
+fill ~18~1~121 ~18~1~123 quartz_block 0
+fill ~18~5~121 ~18~5~122 wooden_slab 10
+fill ~19~4~121 ~19~4~122 planks 2
+fill ~19~5~121 ~19~5~123 double_wooden_slab 2
+fill ~19~13~121 ~19~13~127 quartz_block 0
+fill ~19~14~121 ~19~14~122 stone_block_slab 6
+fill ~20~4~121 ~20~4~122 quartz_block 0
+setblock ~20~5~121 wooden_slab 10
+fill ~20~6~121 ~20~8~122 planks 2
+fill ~20~13~121 ~22~13~122 planks 2
+fill ~21~6~121 ~21~6~122 quartz_block 0
+fill ~22~8~121 ~22~8~123 quartz_block 0
+fill ~5~10~122 ~5~10~124 quartz_block 0
+fill ~7~7~122 ~7~7~124 quartz_block 0
+fill ~7~8~122 ~7~8~123 planks 2
+fill ~8~5~122 ~8~5~123 quartz_block 0
+fill ~8~7~122 ~8~7~123 planks 2
+setblock ~8~8~122 enchanting_table
+fill ~8~10~122 ~10~10~122 wooden_slab 10
+fill ~9~2~122 ~9~3~122 quartz_block 0
+setblock ~9~5~122 planks 2
+fill ~9~7~122 ~9~7~123 quartz_stairs 1
+fill ~10~2~122 ~10~3~122 planks 2
+fill ~11~2~122 ~11~2~123 quartz_stairs 1
+fill ~11~7~122 ~12~7~123 carpet 8
+fill ~11~10~122 ~13~10~124 wooden_slab 2
+fill ~11~13~122 ~11~13~129 quartz_block 0
+fill ~12~5~122 ~13~5~124 wooden_slab 10
+fill ~12~13~122 ~12~13~126 concrete 7
+fill ~13~1~122 ~13~1~123 stained_glass 0
+fill ~15~1~122 ~15~1~123 stained_glass 0
+fill ~15~6~122 ~15~6~124 wooden_slab 2
+fill ~16~13~122 ~16~13~126 concrete 7
+fill ~17~9~122 ~17~9~125 wooden_slab 10
+fill ~17~13~122 ~17~13~129 quartz_block 0
+fill ~18~2~122 ~18~3~122 planks 2
+fill ~19~2~122 ~19~3~122 quartz_block 0
+setblock ~19~6~122 diamond_block
+fill ~20~5~122 ~20~5~123 quartz_block 0
+fill ~21~7~122 ~21~7~124 quartz_block 0
+fill ~21~8~122 ~21~8~123 planks 2
+fill ~23~10~122 ~23~10~124 quartz_block 0
+fill ~6~9~123 ~6~9~125 quartz_block 0
+fill ~8~6~123 ~8~6~125 quartz_block 0
+setblock ~8~8~123 anvil 2
+fill ~8~10~123 ~10~10~124 wooden_slab 2
+fill ~8~13~123 ~8~13~125 quartz_block 0
+fill ~8~14~123 ~8~14~125 stone_block_slab 6
+fill ~9~3~123 ~9~4~123 quartz_block 0
+setblock ~9~5~123 double_wooden_slab 2
+fill ~10~2~123 ~10~2~124 quartz_block 0
+fill ~10~3~123 ~10~4~123 planks 2
+fill ~10~5~123 ~11~5~123 wooden_slab 10
+fill ~13~6~123 ~13~6~125 double_wooden_slab 2
+setblock ~13~7~123 carpet 8
+fill ~16~6~123 ~16~6~124 wooden_slab 2
+fill ~16~9~123 ~16~9~125 wooden_slab 10
+fill ~18~2~123 ~18~2~124 quartz_block 0
+fill ~18~3~123 ~18~4~123 planks 2
+fill ~18~5~123 ~18~5~124 double_wooden_slab 2
+setblock ~18~6~123 diamond_block
+fill ~19~3~123 ~19~4~123 quartz_block 0
+fill ~19~6~123 ~19~6~125 double_wooden_slab 2
+setblock ~19~7~123 diamond_block
+fill ~20~6~123 ~20~6~125 quartz_block 0
+fill ~20~7~123 ~20~8~124 planks 2
+fill ~20~13~123 ~20~13~125 quartz_block 0
+fill ~20~14~123 ~20~14~125 stone_block_slab 6
+fill ~21~13~123 ~22~13~130 planks 2
+fill ~22~9~123 ~22~9~125 quartz_block 0
+fill ~5~11~124 ~5~11~126 quartz_block 0
+fill ~7~8~124 ~7~8~126 quartz_block 0
+fill ~8~7~124 ~8~9~124 bookshelf
+fill ~9~4~124 ~9~5~124 quartz_block 0
+setblock ~9~7~124 wooden_slab 2
+fill ~10~3~124 ~10~3~125 quartz_block 0
+fill ~10~4~124 ~10~5~124 planks 2
+fill ~11~1~124 ~11~1~125 quartz_block 0
+fill ~11~2~124 ~11~4~124 concrete 8
+fill ~11~5~124 ~11~5~125 double_wooden_slab 2
+setblock ~11~7~124 double_stone_block_slab 6
+fill ~12~0~124 ~12~0~126 quartz_block 0
+fill ~12~7~124 ~13~7~125 stone_block_slab 6
+fill ~13~0~124 ~13~0~125 sea_lantern
+fill ~13~1~124 ~15~1~126 planks 2
+fill ~13~13~124 ~15~13~124 concrete 7
+fill ~14~6~124 ~14~6~125 double_wooden_slab 2
+setblock ~14~7~124 double_stone_block_slab 6
+setblock ~14~10~124 wooden_slab 2
+fill ~15~0~124 ~15~0~125 sea_lantern
+fill ~15~9~124 ~15~9~125 wooden_slab 10
+fill ~16~0~124 ~16~0~126 quartz_block 0
+fill ~17~1~124 ~17~1~125 quartz_block 0
+fill ~17~2~124 ~17~4~124 concrete 8
+setblock ~17~5~124 double_wooden_slab 2
+setblock ~17~6~124 diamond_block
+fill ~18~3~124 ~18~3~125 quartz_block 0
+setblock ~18~4~124 planks 2
+fill ~18~6~124 ~18~6~126 planks 2
+setblock ~18~7~124 diamond_block
+fill ~19~4~124 ~19~5~124 quartz_block 0
+fill ~19~7~124 ~19~7~125 planks 2
+setblock ~19~8~124 diamond_block
+fill ~21~8~124 ~21~8~126 quartz_block 0
+fill ~23~11~124 ~23~11~126 quartz_block 0
+fill ~6~10~125 ~6~10~127 quartz_block 0
+fill ~8~7~125 ~8~7~127 quartz_block 0
+fill ~8~8~125 ~8~9~126 planks 2
+fill ~9~5~125 ~9~5~126 quartz_block 0
+fill ~9~7~125 ~9~7~127 double_wooden_slab 2
+fill ~9~9~125 ~14~9~125 wooden_slab 10
+fill ~10~4~125 ~10~4~127 quartz_block 0
+setblock ~10~5~125 planks 2
+fill ~11~2~125 ~11~2~126 quartz_block 0
+fill ~11~3~125 ~11~4~125 planks 2
+fill ~11~7~125 ~11~7~126 quartz_block 0
+fill ~12~2~125 ~16~4~125 concrete 15
+fill ~12~5~125 ~16~5~125 double_wooden_slab 2
+fill ~13~13~125 ~15~13~130 quartz_block 0
+fill ~14~7~125 ~14~7~126 quartz_block 0
+setblock ~15~6~125 double_wooden_slab 2
+setblock ~15~7~125 ender_chest 2
+setblock ~16~6~125 diamond_block
+fill ~17~2~125 ~17~2~126 quartz_block 0
+fill ~17~3~125 ~17~4~125 planks 2
+setblock ~17~5~125 wooden_slab 2
+fill ~17~6~125 ~17~6~126 planks 2
+setblock ~17~7~125 diamond_block
+fill ~18~4~125 ~18~4~127 quartz_block 0
+fill ~18~5~125 ~18~5~126 planks 2
+fill ~18~7~125 ~18~9~125 planks 2
+fill ~19~5~125 ~19~5~126 quartz_block 0
+fill ~19~8~125 ~19~9~125 planks 2
+fill ~20~7~125 ~20~7~127 quartz_block 0
+fill ~22~10~125 ~22~10~127 quartz_block 0
+fill ~5~12~126 ~5~12~128 quartz_block 0
+fill ~7~9~126 ~7~9~128 quartz_block 0
+fill ~8~13~126 ~8~13~136 planks 2
+fill ~9~6~126 ~9~6~128 quartz_block 0
+setblock ~9~8~126 chest 2
+setblock ~9~9~126 wooden_slab 10
+fill ~9~14~126 ~9~14~127 stone_block_slab 6
+setblock ~10~5~126 sea_lantern
+fill ~10~6~126 ~10~9~126 leaves 0
+fill ~11~3~126 ~11~3~128 quartz_block 0
+fill ~11~4~126 ~17~5~126 planks 2
+fill ~11~6~126 ~12~6~126 double_wooden_slab 2
+setblock ~11~8~126 stone_block_slab 6
+fill ~11~9~126 ~14~9~126 wooden_slab 10
+fill ~12~1~126 ~12~1~127 quartz_block 0
+fill ~12~2~126 ~16~3~126 planks 2
+fill ~12~7~126 ~13~7~126 quartz_stairs 2
+fill ~13~0~126 ~13~0~128 quartz_block 0
+fill ~13~6~126 ~16~6~126 planks 2
+fill ~14~0~126 ~14~0~127 sea_lantern
+setblock ~14~8~126 stone_block_slab 6
+fill ~15~0~126 ~15~0~128 quartz_block 0
+fill ~15~7~126 ~16~7~126 double_wooden_slab 2
+fill ~15~8~126 ~17~9~126 planks 2
+fill ~16~1~126 ~16~1~127 quartz_block 0
+fill ~17~3~126 ~17~3~128 quartz_block 0
+setblock ~17~7~126 planks 2
+fill ~19~6~126 ~19~6~128 quartz_block 0
+fill ~19~14~126 ~19~14~127 stone_block_slab 6
+fill ~20~13~126 ~20~13~136 planks 2
+fill ~21~9~126 ~21~9~128 quartz_block 0
+fill ~23~12~126 ~23~12~128 quartz_block 0
+fill ~5~13~127 ~5~13~130 quartz_block 0
+fill ~5~14~127 ~5~14~130 stone_block_slab 6
+fill ~6~11~127 ~6~11~129 quartz_block 0
+fill ~6~13~127 ~7~13~130 planks 2
+fill ~8~8~127 ~8~8~129 quartz_block 0
+fill ~9~8~127 ~14~9~127 planks 2
+fill ~10~5~127 ~10~5~129 quartz_block 0
+fill ~10~6~127 ~12~6~127 planks 2
+fill ~10~7~127 ~12~7~127 double_wooden_slab 2
+fill ~12~2~127 ~12~2~129 quartz_block 0
+fill ~12~13~127 ~12~13~129 quartz_block 0
+fill ~13~7~127 ~14~7~127 planks 2
+fill ~16~2~127 ~16~2~129 quartz_block 0
+fill ~16~13~127 ~16~13~129 quartz_block 0
+fill ~18~5~127 ~18~5~129 quartz_block 0
+fill ~20~8~127 ~20~8~129 quartz_block 0
+fill ~22~11~127 ~22~11~129 quartz_block 0
+fill ~23~13~127 ~23~13~130 quartz_block 0
+fill ~23~14~127 ~23~14~130 stone_block_slab 6
+fill ~7~10~128 ~7~10~130 quartz_block 0
+fill ~9~7~128 ~9~7~130 quartz_block 0
+fill ~9~13~128 ~9~13~139 planks 2
+setblock ~10~14~128 stone_block_slab 6
+fill ~11~4~128 ~11~4~130 quartz_block 0
+fill ~13~1~128 ~13~1~130 quartz_block 0
+fill ~14~0~128 ~14~0~131 quartz_block 0
+fill ~15~1~128 ~15~1~130 quartz_block 0
+fill ~17~4~128 ~17~4~130 quartz_block 0
+setblock ~18~14~128 stone_block_slab 6
+fill ~19~7~128 ~19~7~130 quartz_block 0
+fill ~19~13~128 ~19~13~139 planks 2
+fill ~21~10~128 ~21~10~130 quartz_block 0
+fill ~6~12~129 ~6~12~131 quartz_block 0
+fill ~8~9~129 ~8~9~131 quartz_block 0
+fill ~10~6~129 ~10~6~131 quartz_block 0
+fill ~10~13~129 ~10~13~142 planks 2
+fill ~11~14~129 ~12~14~129 stone_block_slab 6
+fill ~12~3~129 ~12~3~131 quartz_block 0
+fill ~16~3~129 ~16~3~131 quartz_block 0
+fill ~16~14~129 ~17~14~129 stone_block_slab 6
+fill ~18~6~129 ~18~6~131 quartz_block 0
+fill ~18~13~129 ~18~13~142 planks 2
+fill ~20~9~129 ~20~9~131 quartz_block 0
+fill ~22~12~129 ~22~12~131 quartz_block 0
+fill ~7~11~130 ~7~11~132 quartz_block 0
+fill ~9~8~130 ~9~8~132 quartz_block 0
+fill ~11~5~130 ~11~5~132 quartz_block 0
+fill ~11~13~130 ~12~13~133 planks 2
+fill ~13~2~130 ~13~2~132 quartz_block 0
+fill ~13~14~130 ~15~14~130 stone_block_slab 6
+fill ~15~2~130 ~15~2~132 quartz_block 0
+fill ~16~13~130 ~17~13~133 planks 2
+fill ~17~5~130 ~17~5~132 quartz_block 0
+fill ~19~8~130 ~19~8~132 quartz_block 0
+fill ~21~11~130 ~21~11~132 quartz_block 0
+fill ~6~13~131 ~6~13~133 quartz_block 0
+fill ~6~14~131 ~6~14~133 stone_block_slab 6
+fill ~7~13~131 ~7~13~133 planks 2
+fill ~8~10~131 ~8~10~133 quartz_block 0
+setblock ~9~14~131 quartz_stairs 1
+fill ~10~7~131 ~10~7~133 quartz_block 0
+setblock ~10~14~131 stone_block_slab 6
+fill ~12~4~131 ~12~4~133 quartz_block 0
+fill ~13~13~131 ~15~13~133 planks 2
+fill ~14~1~131 ~14~1~133 quartz_block 0
+fill ~16~4~131 ~16~4~133 quartz_block 0
+fill ~18~7~131 ~18~7~133 quartz_block 0
+setblock ~18~14~131 stone_block_slab 6
+setblock ~19~14~131 quartz_stairs 0
+fill ~20~10~131 ~20~10~133 quartz_block 0
+fill ~21~13~131 ~21~13~133 planks 2
+fill ~22~13~131 ~22~13~133 quartz_block 0
+fill ~22~14~131 ~22~14~133 stone_block_slab 6
+fill ~7~12~132 ~7~12~134 quartz_block 0
+fill ~9~9~132 ~9~9~134 quartz_block 0
+fill ~11~6~132 ~11~6~134 quartz_block 0
+fill ~13~3~132 ~13~3~134 quartz_block 0
+fill ~15~3~132 ~15~3~134 quartz_block 0
+fill ~17~6~132 ~17~6~134 quartz_block 0
+fill ~19~9~132 ~19~9~134 quartz_block 0
+fill ~21~12~132 ~21~12~134 quartz_block 0
+fill ~8~11~133 ~8~11~135 quartz_block 0
+setblock ~9~14~133 quartz_stairs 1
+fill ~10~8~133 ~10~8~135 quartz_block 0
+setblock ~10~14~133 stone_block_slab 6
+fill ~12~5~133 ~12~5~135 quartz_block 0
+fill ~13~11~133 ~15~12~133 planks 2
+fill ~13~14~133 ~15~14~133 stone_block_slab 6
+fill ~14~2~133 ~14~2~135 quartz_block 0
+fill ~16~5~133 ~16~5~135 quartz_block 0
+fill ~18~8~133 ~18~8~135 quartz_block 0
+setblock ~18~14~133 stone_block_slab 6
+setblock ~19~14~133 quartz_stairs 0
+fill ~20~11~133 ~20~11~135 quartz_block 0
+fill ~7~13~134 ~7~13~136 quartz_block 0
+fill ~7~14~134 ~7~14~136 stone_block_slab 6
+fill ~9~10~134 ~9~10~136 quartz_block 0
+fill ~11~7~134 ~11~7~136 quartz_block 0
+setblock ~11~13~134 planks 2
+fill ~12~10~134 ~12~13~134 quartz_block 0
+setblock ~12~14~134 stone_block_slab 6
+fill ~13~4~134 ~13~4~136 quartz_block 0
+fill ~13~10~134 ~15~10~140 planks 2
+fill ~13~13~134 ~15~13~134 stone_block_slab 6
+fill ~15~4~134 ~15~4~136 quartz_block 0
+fill ~16~10~134 ~17~10~134 quartz_block 0
+fill ~16~11~134 ~16~13~134 quartz_block 0
+setblock ~16~14~134 stone_block_slab 6
+fill ~17~7~134 ~17~7~136 quartz_block 0
+setblock ~17~13~134 planks 2
+fill ~19~10~134 ~19~10~136 quartz_block 0
+fill ~21~13~134 ~21~13~136 quartz_block 0
+fill ~21~14~134 ~21~14~136 stone_block_slab 6
+fill ~8~12~135 ~8~12~137 quartz_block 0
+fill ~10~9~135 ~11~10~135 quartz_block 0
+fill ~11~11~135 ~11~13~135 quartz_block 0
+setblock ~11~14~135 stone_block_slab 6
+fill ~12~6~135 ~12~6~137 quartz_block 0
+fill ~12~10~135 ~12~10~139 planks 2
+fill ~14~3~135 ~14~3~137 quartz_block 0
+fill ~16~6~135 ~16~6~137 quartz_block 0
+fill ~16~10~135 ~16~10~139 planks 2
+fill ~17~10~135 ~18~10~135 quartz_block 0
+fill ~17~11~135 ~17~13~135 quartz_block 0
+setblock ~17~14~135 stone_block_slab 6
+fill ~18~9~135 ~18~9~137 quartz_block 0
+fill ~20~12~135 ~20~12~137 quartz_block 0
+fill ~9~11~136 ~9~11~138 quartz_block 0
+fill ~10~9~136 ~10~9~137 quartz_block 0
+fill ~10~11~136 ~10~12~138 planks 2
+fill ~10~14~136 ~10~14~138 stone_block_slab 6
+fill ~11~8~136 ~11~8~138 quartz_block 0
+fill ~11~10~136 ~11~10~138 planks 2
+fill ~11~13~136 ~11~13~138 stone_block_slab 6
+fill ~13~5~136 ~13~5~138 quartz_block 0
+fill ~15~5~136 ~15~5~138 quartz_block 0
+fill ~17~8~136 ~17~8~138 quartz_block 0
+fill ~17~10~136 ~17~10~138 planks 2
+fill ~17~13~136 ~17~13~138 stone_block_slab 6
+fill ~18~11~136 ~18~12~138 planks 2
+fill ~18~14~136 ~18~14~138 stone_block_slab 6
+fill ~19~11~136 ~19~11~138 quartz_block 0
+fill ~8~13~137 ~8~13~139 quartz_block 0
+fill ~8~14~137 ~8~14~139 stone_block_slab 6
+fill ~10~10~137 ~10~10~139 quartz_block 0
+fill ~12~7~137 ~12~7~139 quartz_block 0
+fill ~14~4~137 ~14~4~139 quartz_block 0
+fill ~16~7~137 ~16~7~139 quartz_block 0
+fill ~18~10~137 ~18~10~139 quartz_block 0
+fill ~20~13~137 ~20~13~139 quartz_block 0
+fill ~20~14~137 ~20~14~139 stone_block_slab 6
+fill ~9~12~138 ~9~12~140 quartz_block 0
+fill ~11~9~138 ~11~9~140 quartz_block 0
+fill ~13~6~138 ~13~6~140 quartz_block 0
+fill ~15~6~138 ~15~6~140 quartz_block 0
+fill ~17~9~138 ~17~9~140 quartz_block 0
+fill ~19~12~138 ~19~12~140 quartz_block 0
+fill ~10~11~139 ~11~11~139 quartz_block 0
+fill ~11~10~139 ~11~10~142 quartz_block 0
+fill ~11~12~139 ~11~13~139 quartz_block 0
+setblock ~11~14~139 stone_block_slab 6
+fill ~12~8~139 ~12~8~141 quartz_block 0
+fill ~14~5~139 ~14~5~141 quartz_block 0
+fill ~16~8~139 ~16~8~141 quartz_block 0
+fill ~17~10~139 ~17~10~142 quartz_block 0
+fill ~17~11~139 ~18~11~139 quartz_block 0
+fill ~17~12~139 ~17~13~139 quartz_block 0
+setblock ~17~14~139 stone_block_slab 6
+fill ~9~13~140 ~9~13~142 quartz_block 0
+fill ~9~14~140 ~9~14~142 stone_block_slab 6
+fill ~10~11~140 ~10~11~141 quartz_block 0
+fill ~11~13~140 ~11~13~145 planks 2
+fill ~12~10~140 ~12~13~140 quartz_block 0
+setblock ~12~14~140 stone_block_slab 6
+fill ~13~7~140 ~13~7~142 quartz_block 0
+fill ~13~13~140 ~15~13~140 stone_block_slab 6
+fill ~15~7~140 ~15~7~142 quartz_block 0
+fill ~16~10~140 ~16~13~140 quartz_block 0
+setblock ~16~14~140 stone_block_slab 6
+fill ~17~13~140 ~17~13~145 planks 2
+fill ~18~11~140 ~18~11~141 quartz_block 0
+fill ~19~13~140 ~19~13~142 quartz_block 0
+fill ~19~14~140 ~19~14~142 stone_block_slab 6
+fill ~10~12~141 ~10~12~143 quartz_block 0
+fill ~12~9~141 ~12~9~143 quartz_block 0
+fill ~12~13~141 ~16~13~148 planks 2
+fill ~13~11~141 ~15~12~141 planks 2
+fill ~13~14~141 ~15~14~141 stone_block_slab 6
+fill ~14~6~141 ~14~6~143 quartz_block 0
+fill ~16~9~141 ~16~9~143 quartz_block 0
+fill ~18~12~141 ~18~12~143 quartz_block 0
+fill ~11~11~142 ~11~11~144 quartz_block 0
+fill ~13~8~142 ~13~8~144 quartz_block 0
+fill ~15~8~142 ~15~8~144 quartz_block 0
+fill ~17~11~142 ~17~11~144 quartz_block 0
+fill ~10~13~143 ~10~13~145 quartz_block 0
+fill ~10~14~143 ~10~14~145 stone_block_slab 6
+fill ~12~10~143 ~12~10~145 quartz_block 0
+fill ~14~7~143 ~14~7~145 quartz_block 0
+fill ~16~10~143 ~16~10~145 quartz_block 0
+fill ~18~13~143 ~18~13~145 quartz_block 0
+fill ~18~14~143 ~18~14~145 stone_block_slab 6
+fill ~11~12~144 ~11~12~146 quartz_block 0
+fill ~13~9~144 ~13~9~146 quartz_block 0
+fill ~13~14~144 ~14~14~144 quartz_stairs 3
+fill ~15~9~144 ~15~9~146 quartz_block 0
+fill ~15~14~144 ~15~14~145 quartz_stairs 0
+fill ~17~12~144 ~17~12~146 quartz_block 0
+fill ~12~11~145 ~12~11~147 quartz_block 0
+setblock ~13~14~145 quartz_stairs 1
+fill ~14~8~145 ~14~8~147 quartz_block 0
+setblock ~14~14~145 stone_block_slab 6
+fill ~16~11~145 ~16~11~147 quartz_block 0
+fill ~11~13~146 ~11~13~148 quartz_block 0
+fill ~11~14~146 ~11~14~148 stone_block_slab 6
+fill ~13~10~146 ~13~10~148 quartz_block 0
+fill ~15~10~146 ~15~10~148 quartz_block 0
+fill ~17~13~146 ~17~13~148 quartz_block 0
+fill ~17~14~146 ~17~14~148 stone_block_slab 6
+fill ~12~12~147 ~12~12~149 quartz_block 0
+fill ~13~14~147 ~15~14~147 stone_block_slab 6
+fill ~14~9~147 ~14~9~149 quartz_block 0
+fill ~16~12~147 ~16~12~149 quartz_block 0
+fill ~13~11~148 ~13~11~150 quartz_block 0
+fill ~15~11~148 ~15~11~150 quartz_block 0
+fill ~12~13~149 ~12~13~151 quartz_block 0
+fill ~12~14~149 ~12~14~151 stone_block_slab 6
+fill ~13~13~149 ~15~13~151 planks 2
+fill ~14~10~149 ~14~10~151 quartz_block 0
+fill ~16~13~149 ~16~13~151 quartz_block 0
+fill ~16~14~149 ~16~14~151 stone_block_slab 6
+fill ~13~12~150 ~13~12~152 quartz_block 0
+fill ~15~12~150 ~15~12~152 quartz_block 0
+fill ~14~11~151 ~14~11~153 quartz_block 0
+fill ~13~13~152 ~13~13~155 quartz_block 0
+fill ~13~14~152 ~13~14~155 stone_block_slab 6
+fill ~14~13~152 ~14~13~155 planks 2
+fill ~15~13~152 ~15~13~155 quartz_block 0
+fill ~15~14~152 ~15~14~155 stone_block_slab 6
+fill ~14~12~153 ~14~12~155 quartz_block 0

@@ -1,0 +1,911 @@
+setblock ~10~9~0 minecraft:vine 1
+fill ~9~2~1 ~10~2~3 minecraft:stonebrick 0
+fill ~9~3~1 ~10~6~2 minecraft:stonebrick 0
+fill ~9~7~1 ~9~9~2 minecraft:stonebrick 0
+fill ~9~10~1 ~10~10~1 minecraft:stone_brick_stairs 2
+fill ~10~7~1 ~10~8~1 minecraft:stonebrick 2
+setblock ~10~9~1 minecraft:stonebrick 1
+fill ~11~4~1 ~11~4~2 minecraft:vine 2
+fill ~11~6~1 ~11~7~2 minecraft:vine 2
+fill ~11~8~1 ~11~9~1 minecraft:vine 2
+fill ~14~2~1 ~15~2~3 minecraft:stonebrick 0
+fill ~14~3~1 ~15~3~2 minecraft:stonebrick 0
+fill ~14~4~1 ~15~4~1 minecraft:stonebrick 1
+fill ~14~5~1 ~14~6~2 minecraft:stonebrick 0
+setblock ~14~7~1 minecraft:stonebrick 0
+fill ~14~8~1 ~14~8~2 minecraft:stonebrick 1
+setblock ~14~9~1 minecraft:stonebrick 1
+fill ~14~10~1 ~15~10~1 minecraft:stone_brick_stairs 2
+fill ~15~5~1 ~15~5~2 minecraft:stonebrick 1
+setblock ~15~6~1 minecraft:stonebrick 0
+fill ~15~7~1 ~15~7~2 minecraft:stonebrick 1
+fill ~15~8~1 ~15~9~2 minecraft:stonebrick 0
+fill ~9~1~2 ~10~1~2 minecraft:stone_brick_stairs 6
+fill ~9~10~2 ~10~10~2 minecraft:stone_brick_stairs 7
+setblock ~9~11~2 minecraft:cobblestone_wall 0
+setblock ~10~0~2 minecraft:vine 1
+setblock ~10~7~2 minecraft:stonebrick 0
+setblock ~10~8~2 minecraft:stonebrick 2
+setblock ~10~9~2 minecraft:stonebrick 0
+setblock ~10~11~2 minecraft:cobblestone_wall 1
+fill ~11~0~2 ~11~3~2 minecraft:vine 3
+setblock ~11~5~2 minecraft:vine 2
+setblock ~12~2~2 minecraft:vine 1
+fill ~14~1~2 ~15~1~2 minecraft:stone_brick_stairs 6
+fill ~14~4~2 ~15~4~2 minecraft:stonebrick 0
+setblock ~14~7~2 minecraft:stonebrick 1
+setblock ~14~9~2 minecraft:stonebrick 0
+fill ~14~10~2 ~15~10~2 minecraft:stone_brick_stairs 7
+setblock ~14~11~2 minecraft:cobblestone_wall 0
+setblock ~15~6~2 minecraft:stonebrick 1
+setblock ~15~11~2 minecraft:cobblestone_wall 0
+fill ~7~0~3 ~17~0~23 minecraft:bedrock 0
+fill ~7~1~3 ~17~1~3 minecraft:stonebrick 0
+fill ~7~2~3 ~8~2~3 minecraft:stonebrick 0
+fill ~7~3~3 ~8~7~3 minecraft:stained_hardened_clay 9
+setblock ~9~3~3 minecraft:stonebrick 0
+fill ~9~4~3 ~10~5~3 minecraft:stained_hardened_clay 9
+setblock ~9~6~3 minecraft:stained_hardened_clay 9
+setblock ~10~3~3 minecraft:stonebrick 2
+fill ~10~6~3 ~10~8~3 minecraft:vine 4
+fill ~11~2~3 ~11~5~3 minecraft:stonebrick 0
+setblock ~12~2~3 minecraft:stonebrick 2
+setblock ~12~3~3 minecraft:stonebrick 3
+fill ~12~4~3 ~13~5~3 minecraft:stonebrick 0
+fill ~13~2~3 ~13~3~3 minecraft:stonebrick 0
+setblock ~14~3~3 minecraft:stonebrick 0
+fill ~14~4~3 ~17~5~3 minecraft:stained_hardened_clay 9
+setblock ~15~3~3 minecraft:stonebrick 1
+fill ~15~6~3 ~17~6~3 minecraft:stained_hardened_clay 9
+fill ~16~2~3 ~17~2~3 minecraft:stonebrick 0
+fill ~16~3~3 ~17~3~3 minecraft:stained_hardened_clay 9
+fill ~16~7~3 ~17~7~3 minecraft:stained_hardened_clay 9
+fill ~6~0~4 ~6~0~22 minecraft:bedrock 0
+fill ~6~1~4 ~6~7~4 minecraft:stonebrick 0
+fill ~7~1~4 ~9~1~4 minecraft:grass
+setblock ~8~2~4 minecraft:tallgrass 0
+setblock ~10~1~4 minecraft:stonebrick 0
+setblock ~10~2~4 minecraft:stone_brick_stairs 0
+setblock ~10~3~4 minecraft:stone_brick_stairs 4
+fill ~10~4~4 ~10~5~4 minecraft:stone_brick_stairs 0
+setblock ~11~1~4 minecraft:stonebrick 2
+setblock ~11~5~4 minecraft:cobblestone_wall 0
+fill ~12~1~4 ~14~1~4 minecraft:stonebrick 0
+setblock ~12~5~4 minecraft:stone_brick_stairs 3
+setblock ~13~5~4 minecraft:cobblestone_wall 0
+setblock ~14~2~4 minecraft:stone_brick_stairs 1
+setblock ~14~3~4 minecraft:stone_brick_stairs 5
+fill ~14~4~4 ~14~5~4 minecraft:stone_brick_stairs 1
+fill ~15~1~4 ~17~1~5 minecraft:grass
+fill ~15~2~4 ~15~2~6 minecraft:tallgrass 0
+fill ~16~6~4 ~17~7~4 minecraft:leaves 3
+fill ~17~4~4 ~17~5~4 minecraft:leaves 3
+setblock ~17~8~4 minecraft:leaves 3
+fill ~18~0~4 ~18~0~22 minecraft:bedrock 0
+fill ~18~1~4 ~18~2~4 minecraft:stonebrick 0
+fill ~18~3~4 ~18~4~4 minecraft:stonebrick 1
+fill ~18~5~4 ~18~7~4 minecraft:stonebrick 0
+fill ~5~0~5 ~5~0~21 minecraft:bedrock 0
+fill ~5~1~5 ~5~2~5 minecraft:stonebrick 0
+fill ~5~3~5 ~5~4~5 minecraft:stonebrick 1
+setblock ~5~5~5 minecraft:stonebrick 0
+fill ~5~6~5 ~6~6~5 minecraft:stained_hardened_clay 9
+fill ~6~1~5 ~8~1~7 minecraft:grass
+fill ~6~7~5 ~6~8~5 minecraft:stained_hardened_clay 9
+fill ~7~2~5 ~7~4~5 minecraft:cobblestone_wall 0
+setblock ~7~5~5 minecraft:cobblestone_wall ["wall_block_type":"mossy_cobblestone","wall_connection_type_east":"short","wall_connection_type_north":"short","wall_connection_type_south":"short","wall_connection_type_west":"short","wall_post_bit":true]
+setblock ~7~6~5 minecraft:stonebrick 0
+setblock ~7~7~5 minecraft:stonebrick 2
+setblock ~7~8~5 minecraft:stonebrick 0
+setblock ~9~1~5 minecraft:stonebrick 0
+setblock ~10~1~5 minecraft:stone_brick_stairs 1
+fill ~11~1~5 ~13~1~5 minecraft:stone_brick_stairs 2
+setblock ~14~1~5 minecraft:stone_brick_stairs 0
+setblock ~16~2~5 minecraft:tallgrass 0
+setblock ~16~8~5 minecraft:leaves 3
+setblock ~17~2~5 minecraft:cobblestone_wall 1
+setblock ~17~3~5 minecraft:cobblestone_wall 0
+fill ~17~4~5 ~17~5~5 minecraft:cobblestone_wall 0
+fill ~17~6~5 ~17~8~5 minecraft:stonebrick 0
+setblock ~17~9~5 minecraft:leaves 3
+fill ~18~1~5 ~18~1~12 minecraft:grass
+fill ~18~2~5 ~18~5~5 minecraft:leaves 3
+fill ~18~6~5 ~18~8~5 minecraft:stained_hardened_clay 9
+fill ~19~0~5 ~19~0~21 minecraft:bedrock 0
+fill ~19~1~5 ~19~2~5 minecraft:stonebrick 0
+setblock ~19~3~5 minecraft:stonebrick 2
+fill ~19~4~5 ~19~5~5 minecraft:stonebrick 0
+fill ~4~0~6 ~4~0~20 minecraft:bedrock 0
+fill ~4~1~6 ~4~2~6 minecraft:stonebrick 0
+setblock ~4~3~6 minecraft:stonebrick 1
+fill ~4~4~6 ~4~5~6 minecraft:stonebrick 0
+fill ~4~6~6 ~5~6~6 minecraft:stained_hardened_clay 9
+fill ~5~1~6 ~5~1~9 minecraft:grass
+setblock ~5~2~6 minecraft:tallgrass 0
+fill ~5~7~6 ~5~9~6 minecraft:stained_hardened_clay 9
+fill ~6~9~6 ~7~9~6 minecraft:stained_hardened_clay 9
+fill ~7~10~6 ~7~12~6 minecraft:stained_hardened_clay 9
+setblock ~8~8~6 minecraft:stone_block_slab 13
+setblock ~8~9~6 minecraft:stonebrick 2
+fill ~8~10~6 ~8~11~6 minecraft:stonebrick 0
+fill ~8~12~6 ~8~12~7 minecraft:stained_hardened_clay 9
+fill ~9~1~6 ~9~1~12 minecraft:grass
+setblock ~9~2~6 minecraft:tallgrass 0
+setblock ~9~13~6 minecraft:stonebrick 0
+fill ~9~18~6 ~11~18~6 minecraft:stone_block_slab 5
+fill ~10~1~6 ~10~1~8 minecraft:stonebrick 0
+fill ~10~13~6 ~11~13~6 minecraft:stonebrick 1
+fill ~11~1~6 ~11~1~7 minecraft:stone_brick_stairs 1
+setblock ~12~1~6 minecraft:stonebrick 1
+setblock ~12~13~6 minecraft:stonebrick 3
+setblock ~12~18~6 minecraft:stone_brick_stairs 2
+fill ~12~19~6 ~12~21~6 minecraft:vine 1
+setblock ~13~1~6 minecraft:stonebrick 0
+fill ~13~13~6 ~15~13~6 minecraft:stonebrick 0
+fill ~13~18~6 ~15~18~6 minecraft:stone_block_slab 5
+fill ~14~1~6 ~15~1~7 minecraft:grass
+setblock ~16~1~6 minecraft:stonebrick 1
+setblock ~16~8~6 minecraft:stone_block_slab 13
+fill ~16~9~6 ~16~11~6 minecraft:stonebrick 0
+fill ~17~1~6 ~17~1~11 minecraft:grass
+fill ~17~8~6 ~19~8~6 minecraft:stained_hardened_clay 9
+fill ~17~9~6 ~17~10~6 minecraft:stained_hardened_clay 9
+fill ~18~6~6 ~18~7~6 minecraft:leaves 3
+fill ~19~1~6 ~19~1~11 minecraft:grass
+fill ~19~2~6 ~19~3~6 minecraft:leaves 3
+setblock ~19~5~6 minecraft:leaves 3
+fill ~19~6~6 ~19~7~6 minecraft:stained_hardened_clay 9
+fill ~20~0~6 ~20~0~20 minecraft:bedrock 0
+fill ~20~1~6 ~20~3~6 minecraft:stonebrick 0
+setblock ~20~4~6 minecraft:stonebrick 2
+setblock ~20~5~6 minecraft:stonebrick 0
+fill ~3~0~7 ~3~0~19 minecraft:bedrock 0
+setblock ~3~1~7 minecraft:stonebrick 0
+setblock ~3~2~7 minecraft:stonebrick 1
+fill ~3~3~7 ~3~7~7 minecraft:stonebrick 0
+fill ~4~1~7 ~4~1~10 minecraft:grass
+fill ~4~6~7 ~4~8~7 minecraft:stained_hardened_clay 9
+fill ~5~9~7 ~6~9~7 minecraft:stained_hardened_clay 9
+fill ~6~10~7 ~6~12~7 minecraft:stained_hardened_clay 9
+setblock ~7~2~7 minecraft:tallgrass 0
+setblock ~7~11~7 minecraft:leaves 3
+fill ~7~12~7 ~7~12~8 minecraft:stained_hardened_clay 9
+setblock ~8~2~7 minecraft:double_plant 2
+fill ~8~13~7 ~8~14~7 minecraft:stained_hardened_clay 9
+fill ~8~18~7 ~9~18~7 minecraft:stone_block_slab 5
+setblock ~9~9~7 minecraft:sea_lantern
+setblock ~9~10~7 minecraft:cobblestone_wall 0
+setblock ~9~11~7 minecraft:cobblestone_wall ["wall_block_type":"mossy_cobblestone","wall_connection_type_east":"short","wall_connection_type_north":"short","wall_connection_type_south":"short","wall_connection_type_west":"short","wall_post_bit":true]
+fill ~9~12~7 ~9~13~7 minecraft:stonebrick 1
+setblock ~9~14~7 minecraft:stonebrick 0
+fill ~10~14~7 ~14~14~7 minecraft:stained_hardened_clay 9
+fill ~10~18~7 ~14~18~7 minecraft:stonebrick 0
+fill ~11~15~7 ~13~15~7 minecraft:stained_hardened_clay 9
+fill ~11~16~7 ~11~17~7 minecraft:stained_hardened_clay 9
+fill ~11~19~7 ~11~21~7 minecraft:vine 8
+fill ~12~1~7 ~12~1~11 minecraft:stonebrick 0
+setblock ~12~16~7 minecraft:sea_lantern
+fill ~12~17~7 ~13~17~7 minecraft:stained_hardened_clay 9
+fill ~12~19~7 ~12~20~7 minecraft:stonebrick 0
+setblock ~12~21~7 minecraft:stonebrick 2
+setblock ~12~22~7 minecraft:stone_brick_stairs 2
+setblock ~13~1~7 minecraft:grass
+fill ~13~2~7 ~14~2~7 minecraft:tallgrass 0
+setblock ~13~16~7 minecraft:stained_hardened_clay 9
+fill ~13~19~7 ~13~21~7 minecraft:vine 2
+setblock ~15~2~7 minecraft:double_plant 2
+setblock ~15~9~7 minecraft:sea_lantern
+setblock ~15~10~7 minecraft:cobblestone_wall 0
+setblock ~15~11~7 minecraft:cobblestone_wall 0
+setblock ~15~12~7 minecraft:stonebrick 2
+fill ~15~13~7 ~15~14~7 minecraft:stonebrick 0
+fill ~15~18~7 ~16~18~7 minecraft:stone_block_slab 5
+fill ~16~1~7 ~16~1~10 minecraft:grass
+fill ~16~11~7 ~17~11~7 minecraft:stained_hardened_clay 9
+fill ~16~12~7 ~16~14~7 minecraft:stained_hardened_clay 9
+fill ~17~2~7 ~18~2~7 minecraft:tallgrass 0
+fill ~18~8~7 ~20~8~7 minecraft:stained_hardened_clay 9
+fill ~18~9~7 ~18~10~7 minecraft:stained_hardened_clay 9
+setblock ~19~6~7 minecraft:leaves 3
+setblock ~19~9~7 minecraft:leaves 3
+setblock ~19~10~7 minecraft:leaves 3
+fill ~20~1~7 ~20~1~10 minecraft:grass
+fill ~20~6~7 ~20~7~7 minecraft:stained_hardened_clay 9
+setblock ~20~9~7 minecraft:leaves 3
+fill ~21~0~7 ~21~0~19 minecraft:bedrock 0
+fill ~21~1~7 ~21~7~7 minecraft:stonebrick 0
+fill ~2~0~8 ~2~0~18 minecraft:bedrock 0
+fill ~2~1~8 ~2~1~18 minecraft:stonebrick 0
+fill ~2~2~8 ~2~2~11 minecraft:stonebrick 0
+fill ~2~3~8 ~2~7~9 minecraft:stained_hardened_clay 9
+fill ~3~1~8 ~3~1~10 minecraft:grass
+fill ~4~2~8 ~4~3~8 minecraft:cobblestone_wall ["wall_block_type":"mossy_cobblestone","wall_connection_type_east":"short","wall_connection_type_north":"short","wall_connection_type_south":"short","wall_connection_type_west":"short","wall_post_bit":true]
+setblock ~4~4~8 minecraft:cobblestone_wall 0
+setblock ~4~5~8 minecraft:cobblestone_wall 1
+fill ~4~6~8 ~4~8~8 minecraft:stonebrick 0
+fill ~5~9~8 ~5~12~8 minecraft:stained_hardened_clay 9
+fill ~6~1~8 ~7~1~11 minecraft:grass
+setblock ~6~2~8 minecraft:tallgrass 0
+fill ~6~10~8 ~6~11~8 minecraft:leaves 3
+fill ~6~12~8 ~6~12~9 minecraft:stained_hardened_clay 9
+fill ~7~13~8 ~7~14~8 minecraft:stained_hardened_clay 9
+fill ~7~18~8 ~8~18~8 minecraft:stone_block_slab 5
+setblock ~8~1~8 minecraft:stonebrick 0
+fill ~8~13~8 ~8~14~8 minecraft:leaves 3
+fill ~8~15~8 ~9~15~8 minecraft:stained_hardened_clay 9
+setblock ~9~2~8 minecraft:tallgrass 0
+fill ~9~16~8 ~9~17~8 minecraft:stained_hardened_clay 9
+setblock ~9~18~8 minecraft:stonebrick 0
+setblock ~10~14~8 minecraft:stone_block_slab 13
+fill ~10~15~8 ~10~17~8 minecraft:stonebrick 0
+setblock ~10~18~8 minecraft:stonebrick 2
+setblock ~11~1~8 minecraft:stonebrick 0
+setblock ~11~18~8 minecraft:stonebrick 0
+fill ~12~9~8 ~12~21~8 minecraft:vine 4
+setblock ~13~1~8 minecraft:stonebrick 1
+fill ~13~10~8 ~13~17~8 minecraft:vine 4
+setblock ~13~18~8 minecraft:stonebrick 0
+fill ~14~1~8 ~14~1~10 minecraft:grass
+setblock ~14~14~8 minecraft:stone_block_slab 13
+fill ~14~15~8 ~14~16~8 minecraft:stonebrick 2
+setblock ~14~17~8 minecraft:stonebrick 0
+setblock ~14~18~8 minecraft:stonebrick 1
+setblock ~15~1~8 minecraft:stonebrick 1
+fill ~15~15~8 ~16~15~8 minecraft:stained_hardened_clay 9
+fill ~15~16~8 ~15~17~8 minecraft:stained_hardened_clay 9
+setblock ~15~18~8 minecraft:stonebrick 0
+fill ~16~11~8 ~16~13~8 minecraft:vine 12
+setblock ~16~14~8 minecraft:vine 8
+fill ~16~18~8 ~17~18~8 minecraft:stone_block_slab 5
+fill ~17~11~8 ~18~11~8 minecraft:stained_hardened_clay 9
+fill ~17~12~8 ~17~14~8 minecraft:stained_hardened_clay 9
+setblock ~18~2~8 minecraft:double_plant 2
+setblock ~18~12~8 minecraft:leaves 3
+fill ~19~8~8 ~19~10~8 minecraft:stained_hardened_clay 9
+setblock ~19~11~8 minecraft:leaves 3
+setblock ~20~2~8 minecraft:cobblestone_wall 1
+setblock ~20~3~8 minecraft:cobblestone_wall ["wall_block_type":"mossy_cobblestone","wall_connection_type_east":"short","wall_connection_type_north":"short","wall_connection_type_south":"short","wall_connection_type_west":"short","wall_post_bit":true]
+setblock ~20~4~8 minecraft:cobblestone_wall 0
+setblock ~20~5~8 minecraft:cobblestone_wall 1
+setblock ~20~6~8 minecraft:stonebrick 2
+fill ~20~7~8 ~20~8~8 minecraft:stonebrick 0
+fill ~20~9~8 ~21~9~8 minecraft:leaves 3
+fill ~21~1~8 ~21~1~10 minecraft:grass
+fill ~21~5~8 ~21~8~8 minecraft:leaves 3
+fill ~22~0~8 ~22~0~18 minecraft:bedrock 0
+fill ~22~1~8 ~22~1~18 minecraft:stonebrick 0
+fill ~22~2~8 ~22~2~11 minecraft:stonebrick 0
+fill ~22~3~8 ~22~7~9 minecraft:stained_hardened_clay 9
+fill ~4~5~9 ~4~12~9 minecraft:vine 8
+setblock ~5~2~9 minecraft:double_plant 2
+setblock ~5~8~9 minecraft:stone_block_slab 13
+fill ~5~9~9 ~5~10~9 minecraft:stonebrick 1
+setblock ~5~11~9 minecraft:stonebrick 0
+setblock ~5~12~9 minecraft:stained_hardened_clay 9
+setblock ~6~11~9 minecraft:leaves 3
+fill ~6~13~9 ~6~14~9 minecraft:stained_hardened_clay 9
+fill ~6~18~9 ~7~18~9 minecraft:stone_block_slab 5
+fill ~7~2~9 ~7~2~10 minecraft:tallgrass 0
+fill ~7~12~9 ~7~13~9 minecraft:leaves 3
+fill ~7~15~9 ~8~15~9 minecraft:stained_hardened_clay 9
+fill ~8~1~9 ~8~1~10 minecraft:grass
+fill ~8~16~9 ~8~17~9 minecraft:stained_hardened_clay 9
+fill ~8~18~9 ~8~18~10 minecraft:stonebrick 0
+setblock ~9~2~9 minecraft:double_plant 2
+setblock ~9~18~9 minecraft:stonebrick 1
+fill ~10~1~9 ~10~1~10 minecraft:grass
+setblock ~10~18~9 minecraft:stonebrick 0
+setblock ~11~1~9 minecraft:stonebrick 1
+fill ~13~1~9 ~13~1~10 minecraft:stone_brick_stairs 0
+fill ~14~2~9 ~18~2~9 minecraft:tallgrass 0
+setblock ~14~18~9 minecraft:stonebrick 2
+fill ~15~1~9 ~15~1~11 minecraft:grass
+fill ~15~16~9 ~15~17~9 minecraft:leaves 3
+fill ~15~18~9 ~15~18~10 minecraft:stonebrick 1
+fill ~16~15~9 ~17~15~9 minecraft:stained_hardened_clay 9
+fill ~16~16~9 ~16~17~9 minecraft:stained_hardened_clay 9
+setblock ~16~18~9 minecraft:stonebrick 0
+fill ~17~10~9 ~17~14~9 minecraft:vine 12
+fill ~17~18~9 ~18~18~9 minecraft:stone_block_slab 5
+fill ~18~11~9 ~18~14~9 minecraft:stained_hardened_clay 9
+setblock ~19~8~9 minecraft:stone_block_slab 13
+fill ~19~9~9 ~19~11~9 minecraft:stonebrick 0
+setblock ~20~2~9 minecraft:tallgrass 0
+fill ~20~8~9 ~22~8~9 minecraft:leaves 3
+fill ~21~6~9 ~21~7~9 minecraft:leaves 3
+fill ~23~6~9 ~23~7~9 minecraft:leaves 3
+fill ~0~2~10 ~1~6~11 minecraft:stonebrick 0
+fill ~0~7~10 ~1~7~10 minecraft:stonebrick 0
+fill ~0~8~10 ~0~9~10 minecraft:stonebrick 0
+fill ~0~10~10 ~0~10~11 minecraft:stone_brick_stairs 0
+fill ~1~1~10 ~1~1~11 minecraft:stone_brick_stairs 4
+setblock ~1~8~10 minecraft:stonebrick 2
+fill ~1~9~10 ~1~9~11 minecraft:stonebrick 0
+fill ~1~10~10 ~1~10~11 minecraft:stone_brick_stairs 5
+setblock ~1~11~10 minecraft:cobblestone_wall 0
+fill ~2~3~10 ~2~3~11 minecraft:stonebrick 0
+fill ~2~4~10 ~2~5~11 minecraft:stained_hardened_clay 9
+setblock ~2~6~10 minecraft:stained_hardened_clay 9
+setblock ~4~2~10 minecraft:tallgrass 0
+setblock ~5~1~10 minecraft:stonebrick 0
+fill ~5~6~10 ~5~12~10 minecraft:vine 12
+fill ~5~13~10 ~6~13~10 minecraft:stonebrick 0
+fill ~5~18~10 ~6~18~10 minecraft:stone_block_slab 5
+setblock ~6~9~10 minecraft:sea_lantern
+setblock ~6~10~10 minecraft:cobblestone_wall 0
+setblock ~6~11~10 minecraft:cobblestone_wall 1
+setblock ~6~12~10 minecraft:stonebrick 0
+setblock ~6~14~10 minecraft:stonebrick 0
+fill ~7~15~10 ~7~17~10 minecraft:stained_hardened_clay 9
+fill ~7~18~10 ~7~18~12 minecraft:stonebrick 0
+fill ~8~10~10 ~8~17~10 minecraft:vine 4
+fill ~9~2~10 ~10~2~10 minecraft:tallgrass 0
+setblock ~9~18~10 minecraft:stonebrick 0
+setblock ~11~1~10 minecraft:stone_brick_stairs 1
+fill ~14~12~10 ~14~18~10 minecraft:vine 4
+setblock ~16~2~10 minecraft:double_plant 2
+setblock ~16~17~10 minecraft:leaves 3
+fill ~16~18~10 ~16~18~11 minecraft:stonebrick 1
+fill ~17~15~10 ~17~17~10 minecraft:stained_hardened_clay 9
+fill ~17~18~10 ~17~18~11 minecraft:stonebrick 0
+setblock ~18~9~10 minecraft:sea_lantern
+setblock ~18~10~10 minecraft:cobblestone_wall ["wall_block_type":"mossy_cobblestone","wall_connection_type_east":"short","wall_connection_type_north":"short","wall_connection_type_south":"short","wall_connection_type_west":"short","wall_post_bit":true]
+setblock ~18~11~10 minecraft:cobblestone_wall 1
+fill ~18~12~10 ~18~13~10 minecraft:stonebrick 1
+setblock ~18~14~10 minecraft:stonebrick 0
+fill ~18~18~10 ~19~18~10 minecraft:stone_block_slab 5
+fill ~19~2~10 ~19~2~11 minecraft:tallgrass 0
+fill ~19~13~10 ~19~13~11 minecraft:stonebrick 0
+fill ~22~3~10 ~24~3~11 minecraft:stonebrick 0
+fill ~22~4~10 ~22~5~11 minecraft:stained_hardened_clay 9
+setblock ~22~6~10 minecraft:stained_hardened_clay 9
+fill ~23~1~10 ~23~1~11 minecraft:stone_brick_stairs 5
+fill ~23~2~10 ~24~2~11 minecraft:stonebrick 0
+fill ~23~4~10 ~24~7~11 minecraft:stonebrick 0
+fill ~23~8~10 ~24~9~10 minecraft:stonebrick 0
+fill ~23~10~10 ~23~10~11 minecraft:stone_brick_stairs 4
+setblock ~23~11~10 minecraft:cobblestone_wall 0
+fill ~24~10~10 ~24~10~11 minecraft:stone_brick_stairs 1
+setblock ~0~7~11 minecraft:stonebrick 0
+fill ~0~8~11 ~1~8~11 minecraft:stonebrick 1
+setblock ~0~9~11 minecraft:stonebrick 0
+setblock ~1~7~11 minecraft:stonebrick 1
+setblock ~1~11~11 minecraft:cobblestone_wall 0
+fill ~3~1~11 ~3~1~13 minecraft:stonebrick 0
+setblock ~3~2~11 minecraft:stone_brick_stairs 2
+setblock ~3~3~11 minecraft:stone_brick_stairs 6
+fill ~3~4~11 ~3~5~11 minecraft:stone_brick_stairs 2
+setblock ~4~1~11 minecraft:stone_brick_stairs 3
+setblock ~5~1~11 minecraft:grass
+setblock ~5~13~11 minecraft:stonebrick 0
+fill ~5~18~11 ~5~18~12 minecraft:stone_block_slab 5
+setblock ~6~2~11 minecraft:tallgrass 0
+fill ~6~14~11 ~6~14~15 minecraft:stained_hardened_clay 9
+fill ~6~18~11 ~6~18~15 minecraft:stonebrick 0
+setblock ~7~14~11 minecraft:stone_block_slab 13
+setblock ~7~15~11 minecraft:stonebrick 0
+fill ~7~16~11 ~7~17~11 minecraft:stonebrick 1
+fill ~8~1~11 ~8~1~12 minecraft:stonebrick 0
+setblock ~8~18~11 minecraft:stonebrick 2
+fill ~10~1~11 ~11~1~12 minecraft:stonebrick 0
+setblock ~13~1~11 minecraft:stonebrick 0
+fill ~14~1~11 ~14~1~12 minecraft:stonebrick 1
+setblock ~15~2~11 minecraft:tallgrass 0
+fill ~15~15~11 ~15~18~11 minecraft:vine 4
+setblock ~16~1~11 minecraft:stonebrick 0
+fill ~16~12~11 ~16~17~11 minecraft:vine 8
+setblock ~17~2~11 minecraft:tallgrass 0
+setblock ~17~14~11 minecraft:stone_block_slab 13
+fill ~17~15~11 ~17~17~11 minecraft:stonebrick 0
+fill ~18~14~11 ~18~14~15 minecraft:stained_hardened_clay 9
+setblock ~18~15~11 minecraft:leaves 3
+fill ~18~18~11 ~18~18~12 minecraft:stonebrick 0
+fill ~19~18~11 ~19~18~12 minecraft:stone_block_slab 5
+setblock ~20~1~11 minecraft:stone_brick_stairs 3
+fill ~21~1~11 ~21~1~14 minecraft:stonebrick 0
+setblock ~21~2~11 minecraft:stone_brick_stairs 2
+setblock ~21~3~11 minecraft:stone_brick_stairs 6
+fill ~21~4~11 ~21~5~11 minecraft:stone_brick_stairs 2
+setblock ~23~8~11 minecraft:stonebrick 2
+fill ~23~9~11 ~24~9~11 minecraft:stonebrick 0
+setblock ~23~11~11 minecraft:cobblestone_wall 0
+setblock ~24~8~11 minecraft:stonebrick 0
+setblock ~1~5~12 minecraft:stone_brick_stairs 4
+setblock ~1~6~12 minecraft:cobblestone_wall 0
+fill ~2~2~12 ~2~3~12 minecraft:stonebrick 1
+fill ~2~4~12 ~2~5~12 minecraft:stonebrick 0
+setblock ~3~5~12 minecraft:cobblestone_wall 0
+fill ~4~1~12 ~4~1~14 minecraft:stone_brick_stairs 0
+setblock ~5~1~12 minecraft:stonebrick 2
+setblock ~5~13~12 minecraft:stonebrick 2
+fill ~6~1~12 ~7~1~12 minecraft:stone_brick_stairs 3
+fill ~6~15~12 ~6~15~14 minecraft:stained_hardened_clay 9
+fill ~6~16~12 ~6~17~12 minecraft:stained_hardened_clay 9
+setblock ~9~2~12 minecraft:tallgrass 0
+setblock ~12~1~12 minecraft:stone_brick_stairs 3
+setblock ~13~1~12 minecraft:stonebrick 1
+fill ~15~1~12 ~16~1~12 minecraft:stone_brick_stairs 3
+fill ~17~1~12 ~17~1~13 minecraft:stonebrick 1
+fill ~17~9~12 ~17~17~12 minecraft:vine 8
+setblock ~17~18~12 minecraft:stonebrick 2
+setblock ~18~2~12 minecraft:tallgrass 0
+fill ~18~15~12 ~18~15~14 minecraft:stained_hardened_clay 9
+fill ~18~16~12 ~18~17~12 minecraft:stained_hardened_clay 9
+fill ~18~19~12 ~18~21~12 minecraft:vine 1
+fill ~19~1~12 ~19~1~13 minecraft:stonebrick 0
+setblock ~19~13~12 minecraft:stonebrick 2
+fill ~20~1~12 ~20~1~14 minecraft:stone_brick_stairs 1
+setblock ~21~5~12 minecraft:cobblestone_wall 0
+fill ~22~2~12 ~22~3~12 minecraft:stonebrick 1
+fill ~22~4~12 ~22~5~14 minecraft:stonebrick 0
+fill ~2~2~13 ~2~2~15 minecraft:stonebrick 0
+setblock ~2~3~13 minecraft:stonebrick 3
+setblock ~2~4~13 minecraft:stonebrick 1
+fill ~2~5~13 ~2~5~14 minecraft:stonebrick 0
+setblock ~3~5~13 minecraft:stone_brick_stairs 1
+fill ~5~1~13 ~5~1~14 minecraft:stonebrick 0
+setblock ~5~13~13 minecraft:stonebrick 3
+fill ~5~15~13 ~5~15~14 minecraft:leaves 3
+fill ~5~16~13 ~5~17~13 minecraft:leaves 3
+setblock ~5~18~13 minecraft:stone_brick_stairs 0
+setblock ~6~1~13 minecraft:grass
+setblock ~6~2~13 minecraft:tallgrass 0
+setblock ~6~16~13 minecraft:sea_lantern
+fill ~6~17~13 ~6~17~14 minecraft:stained_hardened_clay 9
+setblock ~6~19~13 minecraft:stonebrick 0
+fill ~6~20~13 ~6~21~13 minecraft:stonebrick 1
+setblock ~6~22~13 minecraft:stone_brick_stairs 0
+setblock ~7~1~13 minecraft:stonebrick 2
+fill ~7~11~13 ~7~15~14 minecraft:vine 2
+fill ~8~1~13 ~8~1~14 minecraft:stonebrick 1
+fill ~9~1~13 ~10~1~13 minecraft:stonebrick 0
+setblock ~11~1~13 minecraft:stone_brick_stairs 1
+setblock ~12~1~13 minecraft:bedrock 0
+setblock ~13~1~13 minecraft:stone_brick_stairs 0
+fill ~14~1~13 ~16~1~13 minecraft:stonebrick 0
+fill ~17~13~13 ~17~22~13 minecraft:vine 8
+setblock ~18~1~13 minecraft:stonebrick 1
+setblock ~18~16~13 minecraft:sea_lantern
+fill ~18~17~13 ~18~17~14 minecraft:stained_hardened_clay 9
+fill ~18~18~13 ~18~19~13 minecraft:stonebrick 2
+fill ~18~20~13 ~18~21~13 minecraft:stonebrick 0
+setblock ~18~22~13 minecraft:stone_brick_stairs 1
+setblock ~19~13~13 minecraft:stonebrick 3
+setblock ~19~18~13 minecraft:stone_brick_stairs 1
+setblock ~21~5~13 minecraft:stone_brick_stairs 0
+fill ~22~2~13 ~22~2~18 minecraft:stonebrick 0
+setblock ~22~3~13 minecraft:stonebrick 3
+setblock ~1~5~14 minecraft:stone_brick_stairs 4
+setblock ~1~6~14 minecraft:cobblestone_wall 0
+fill ~2~3~14 ~2~3~15 minecraft:stonebrick 0
+setblock ~2~4~14 minecraft:stonebrick 0
+fill ~3~1~14 ~3~1~15 minecraft:stonebrick 2
+setblock ~3~5~14 minecraft:cobblestone_wall 0
+fill ~5~13~14 ~5~13~16 minecraft:stonebrick 0
+fill ~5~14~14 ~5~14~16 minecraft:leaves 3
+fill ~5~18~14 ~5~18~16 minecraft:stone_block_slab 5
+fill ~6~1~14 ~7~1~14 minecraft:stonebrick 0
+fill ~6~13~14 ~6~13~15 minecraft:leaves 3
+setblock ~6~16~14 minecraft:stained_hardened_clay 9
+fill ~7~9~14 ~7~10~14 minecraft:vine 2
+fill ~7~16~14 ~7~17~14 minecraft:vine 2
+fill ~7~18~14 ~7~18~16 minecraft:stonebrick 0
+fill ~9~1~14 ~10~1~14 minecraft:stone_brick_stairs 2
+setblock ~11~1~14 minecraft:stonebrick 0
+setblock ~12~1~14 minecraft:stone_brick_stairs 2
+fill ~13~1~14 ~15~1~14 minecraft:stonebrick 0
+fill ~16~1~14 ~16~1~22 minecraft:grass
+setblock ~16~2~14 minecraft:tallgrass 0
+setblock ~17~1~14 minecraft:stonebrick 0
+fill ~17~18~14 ~18~18~15 minecraft:stonebrick 0
+fill ~18~1~14 ~19~1~14 minecraft:stone_brick_stairs 2
+setblock ~18~16~14 minecraft:stained_hardened_clay 9
+fill ~18~19~14 ~18~21~14 minecraft:vine 4
+fill ~19~13~14 ~19~13~16 minecraft:stonebrick 0
+fill ~19~18~14 ~19~18~16 minecraft:stone_block_slab 5
+setblock ~21~5~14 minecraft:cobblestone_wall 0
+fill ~22~3~14 ~22~3~15 minecraft:stonebrick 0
+fill ~0~2~15 ~1~6~16 minecraft:stonebrick 0
+fill ~0~7~15 ~0~9~16 minecraft:stonebrick 0
+fill ~0~10~15 ~0~10~16 minecraft:stone_brick_stairs 0
+fill ~1~1~15 ~1~1~16 minecraft:stone_brick_stairs 4
+setblock ~1~7~15 minecraft:stonebrick 2
+fill ~1~8~15 ~1~9~15 minecraft:stonebrick 0
+fill ~1~10~15 ~1~10~16 minecraft:stone_brick_stairs 5
+setblock ~1~11~15 minecraft:cobblestone_wall 0
+fill ~2~4~15 ~2~5~18 minecraft:stained_hardened_clay 9
+setblock ~2~6~15 minecraft:leaves 3
+setblock ~3~2~15 minecraft:stone_brick_stairs 3
+setblock ~3~3~15 minecraft:stone_brick_stairs 7
+fill ~3~4~15 ~3~5~15 minecraft:stone_brick_stairs 3
+fill ~3~9~15 ~3~13~15 minecraft:vine 8
+setblock ~4~1~15 minecraft:stone_brick_stairs 2
+fill ~4~12~15 ~5~12~15 minecraft:leaves 3
+fill ~4~13~15 ~4~13~16 minecraft:leaves 3
+setblock ~5~1~15 minecraft:stonebrick 2
+fill ~6~1~15 ~9~1~15 minecraft:grass
+fill ~6~15~15 ~6~17~15 minecraft:leaves 3
+setblock ~7~14~15 minecraft:stone_block_slab 13
+fill ~7~15~15 ~7~17~15 minecraft:stonebrick 0
+setblock ~8~2~15 minecraft:tallgrass 0
+fill ~8~12~15 ~8~17~15 minecraft:vine 1
+setblock ~8~18~15 minecraft:stonebrick 2
+setblock ~10~1~15 minecraft:stonebrick 0
+setblock ~11~1~15 minecraft:grass
+setblock ~11~2~15 minecraft:tallgrass 0
+fill ~12~1~15 ~12~1~18 minecraft:stonebrick 0
+setblock ~13~1~15 minecraft:stonebrick 2
+setblock ~14~1~15 minecraft:stonebrick 0
+fill ~15~1~15 ~15~1~22 minecraft:grass
+setblock ~16~2~15 minecraft:double_plant 2
+fill ~16~9~15 ~16~17~15 minecraft:vine 8
+fill ~16~18~15 ~16~18~16 minecraft:stonebrick 1
+fill ~17~1~15 ~19~1~20 minecraft:grass
+setblock ~17~2~15 minecraft:tallgrass 0
+setblock ~17~14~15 minecraft:stone_block_slab 13
+setblock ~17~15~15 minecraft:stonebrick 0
+setblock ~17~16~15 minecraft:stonebrick 2
+setblock ~17~17~15 minecraft:stonebrick 0
+fill ~18~15~15 ~18~15~16 minecraft:leaves 3
+fill ~18~16~15 ~18~17~15 minecraft:leaves 3
+setblock ~20~1~15 minecraft:stone_brick_stairs 2
+setblock ~21~1~15 minecraft:stonebrick 2
+setblock ~21~2~15 minecraft:stone_brick_stairs 3
+setblock ~21~3~15 minecraft:stone_brick_stairs 7
+fill ~21~4~15 ~21~5~15 minecraft:stone_brick_stairs 3
+fill ~22~4~15 ~22~5~18 minecraft:stained_hardened_clay 9
+fill ~23~1~15 ~23~1~16 minecraft:stone_brick_stairs 5
+fill ~23~2~15 ~24~6~16 minecraft:stonebrick 0
+fill ~23~7~15 ~24~7~15 minecraft:stonebrick 1
+fill ~23~8~15 ~23~9~15 minecraft:stonebrick 1
+fill ~23~10~15 ~23~10~16 minecraft:stone_brick_stairs 4
+setblock ~23~11~15 minecraft:cobblestone_wall 1
+fill ~24~8~15 ~24~9~16 minecraft:stonebrick 0
+fill ~24~10~15 ~24~10~16 minecraft:stone_brick_stairs 1
+setblock ~1~7~16 minecraft:stonebrick 0
+setblock ~1~8~16 minecraft:stonebrick 2
+setblock ~1~9~16 minecraft:stonebrick 0
+setblock ~1~11~16 minecraft:cobblestone_wall 0
+fill ~2~2~16 ~2~2~17 minecraft:stonebrick 1
+setblock ~2~3~16 minecraft:stonebrick 1
+fill ~2~6~16 ~2~6~18 minecraft:stained_hardened_clay 9
+setblock ~2~7~16 minecraft:leaves 3
+fill ~3~1~16 ~7~1~16 minecraft:grass
+fill ~3~10~16 ~3~13~16 minecraft:vine 8
+setblock ~5~10~16 minecraft:leaves 3
+setblock ~5~12~16 minecraft:leaves 3
+fill ~6~2~16 ~7~2~16 minecraft:tallgrass 0
+setblock ~6~9~16 minecraft:sea_lantern
+setblock ~6~10~16 minecraft:cobblestone_wall 0
+setblock ~6~11~16 minecraft:cobblestone_wall 0
+fill ~6~12~16 ~6~13~16 minecraft:stonebrick 0
+setblock ~6~14~16 minecraft:stonebrick 2
+fill ~6~15~16 ~7~15~17 minecraft:stained_hardened_clay 9
+fill ~6~18~16 ~6~18~17 minecraft:stone_block_slab 5
+fill ~7~16~16 ~7~17~16 minecraft:stained_hardened_clay 9
+setblock ~8~1~16 minecraft:stonebrick 2
+fill ~8~15~16 ~8~17~16 minecraft:leaves 3
+fill ~8~18~16 ~9~18~16 minecraft:stonebrick 1
+fill ~9~1~16 ~10~1~22 minecraft:grass
+fill ~9~2~16 ~10~2~16 minecraft:tallgrass 0
+fill ~9~14~16 ~9~17~16 minecraft:vine 2
+setblock ~11~1~16 minecraft:stonebrick 0
+setblock ~13~1~16 minecraft:stonebrick 0
+fill ~14~1~16 ~14~1~22 minecraft:grass
+setblock ~14~2~16 minecraft:tallgrass 0
+fill ~15~18~16 ~15~18~18 minecraft:stonebrick 0
+setblock ~16~2~16 minecraft:tallgrass 0
+fill ~17~15~16 ~17~15~17 minecraft:stained_hardened_clay 9
+fill ~17~16~16 ~17~17~16 minecraft:stained_hardened_clay 9
+setblock ~17~18~16 minecraft:stonebrick 0
+fill ~18~2~16 ~18~2~17 minecraft:tallgrass 0
+setblock ~18~9~16 minecraft:sea_lantern
+fill ~18~10~16 ~18~11~16 minecraft:cobblestone_wall 0
+fill ~18~12~16 ~18~14~16 minecraft:stonebrick 0
+fill ~18~18~16 ~18~18~17 minecraft:stone_block_slab 5
+fill ~20~1~16 ~21~1~18 minecraft:grass
+setblock ~21~2~16 minecraft:tallgrass 0
+setblock ~22~3~16 minecraft:stonebrick 2
+fill ~22~6~16 ~22~6~18 minecraft:stained_hardened_clay 9
+setblock ~23~7~16 minecraft:stonebrick 1
+fill ~23~8~16 ~23~9~16 minecraft:stonebrick 0
+setblock ~23~11~16 minecraft:cobblestone_wall 1
+setblock ~24~7~16 minecraft:stonebrick 0
+fill ~2~3~17 ~2~3~18 minecraft:stained_hardened_clay 9
+fill ~2~7~17 ~2~7~18 minecraft:stained_hardened_clay 9
+fill ~3~1~17 ~4~1~18 minecraft:grass
+fill ~3~2~17 ~3~3~18 minecraft:leaves 3
+fill ~3~7~17 ~3~7~18 minecraft:leaves 3
+setblock ~4~9~17 minecraft:leaves 3
+setblock ~5~1~17 minecraft:stonebrick 2
+setblock ~5~8~17 minecraft:stone_block_slab 13
+fill ~5~9~17 ~5~11~17 minecraft:stonebrick 0
+fill ~5~12~17 ~6~12~17 minecraft:stained_hardened_clay 9
+setblock ~5~13~17 minecraft:leaves 3
+fill ~6~1~17 ~8~1~17 minecraft:grass
+fill ~6~10~17 ~6~10~18 minecraft:leaves 3
+fill ~6~13~17 ~6~14~17 minecraft:stained_hardened_clay 9
+setblock ~7~14~17 minecraft:leaves 3
+fill ~7~18~17 ~7~18~18 minecraft:stone_block_slab 5
+setblock ~8~2~17 minecraft:tallgrass 0
+fill ~8~15~17 ~8~15~19 minecraft:stained_hardened_clay 9
+fill ~8~16~17 ~8~17~17 minecraft:stained_hardened_clay 9
+setblock ~8~18~17 minecraft:stonebrick 0
+setblock ~9~2~17 minecraft:double_plant 2
+fill ~9~8~17 ~9~15~17 minecraft:vine 1
+fill ~9~16~17 ~10~16~17 minecraft:leaves 3
+setblock ~9~17~17 minecraft:leaves 3
+setblock ~9~18~17 minecraft:stonebrick 1
+fill ~10~18~17 ~10~18~19 minecraft:stonebrick 0
+fill ~11~1~17 ~11~1~18 minecraft:grass
+setblock ~11~2~17 minecraft:tallgrass 0
+setblock ~13~1~17 minecraft:grass
+fill ~13~11~17 ~13~19~17 minecraft:vine 1
+fill ~14~12~17 ~14~16~17 minecraft:vine 1
+fill ~14~17~17 ~15~17~17 minecraft:leaves 3
+setblock ~14~18~17 minecraft:stonebrick 1
+fill ~16~15~17 ~16~15~18 minecraft:stained_hardened_clay 9
+fill ~16~16~17 ~16~17~17 minecraft:stained_hardened_clay 9
+setblock ~16~18~17 minecraft:stonebrick 0
+fill ~17~12~17 ~17~14~17 minecraft:leaves 3
+fill ~17~18~17 ~17~18~18 minecraft:stone_block_slab 5
+setblock ~18~7~17 minecraft:vine 1
+fill ~18~8~17 ~18~9~17 minecraft:vine 9
+setblock ~18~10~17 minecraft:vine 8
+fill ~18~11~17 ~18~11~18 minecraft:leaves 3
+fill ~18~12~17 ~19~12~17 minecraft:stained_hardened_clay 9
+fill ~18~13~17 ~18~14~17 minecraft:stained_hardened_clay 9
+setblock ~19~2~17 minecraft:tallgrass 0
+setblock ~19~8~17 minecraft:stone_block_slab 13
+fill ~19~9~17 ~19~11~17 minecraft:stonebrick 0
+fill ~22~3~17 ~22~3~18 minecraft:stained_hardened_clay 9
+fill ~22~7~17 ~22~7~18 minecraft:stained_hardened_clay 9
+setblock ~2~2~18 minecraft:stonebrick 0
+fill ~3~4~18 ~3~6~18 minecraft:leaves 3
+fill ~3~8~18 ~3~9~18 minecraft:leaves 3
+setblock ~4~2~18 minecraft:cobblestone_wall 1
+fill ~4~3~18 ~4~5~18 minecraft:cobblestone_wall 0
+setblock ~4~6~18 minecraft:stonebrick 0
+fill ~4~7~18 ~4~8~18 minecraft:stonebrick 2
+fill ~4~9~18 ~5~9~19 minecraft:stained_hardened_clay 9
+fill ~4~10~18 ~4~10~19 minecraft:leaves 3
+fill ~5~1~18 ~7~1~20 minecraft:grass
+setblock ~5~2~18 minecraft:tallgrass 0
+fill ~5~10~18 ~5~11~18 minecraft:stained_hardened_clay 9
+setblock ~5~12~18 minecraft:leaves 3
+setblock ~6~9~18 minecraft:leaves 3
+setblock ~6~11~18 minecraft:leaves 3
+fill ~6~12~18 ~7~12~18 minecraft:stained_hardened_clay 9
+setblock ~6~13~18 minecraft:leaves 3
+fill ~7~13~18 ~7~15~18 minecraft:stained_hardened_clay 9
+setblock ~8~1~18 minecraft:stonebrick 0
+setblock ~8~14~18 minecraft:leaves 3
+fill ~8~18~18 ~8~18~19 minecraft:stone_block_slab 5
+setblock ~9~2~18 minecraft:tallgrass 0
+fill ~9~15~18 ~9~15~19 minecraft:stained_hardened_clay 9
+fill ~9~16~18 ~9~17~18 minecraft:stained_hardened_clay 9
+setblock ~9~18~18 minecraft:stonebrick 0
+setblock ~10~14~18 minecraft:stone_block_slab 13
+fill ~10~15~18 ~10~16~18 minecraft:stonebrick 1
+setblock ~10~17~18 minecraft:stonebrick 0
+fill ~11~15~18 ~11~16~18 minecraft:leaves 3
+fill ~11~18~18 ~11~18~19 minecraft:stonebrick 0
+fill ~12~16~18 ~13~17~18 minecraft:leaves 3
+fill ~12~18~18 ~12~19~18 minecraft:leaves 3
+setblock ~13~1~18 minecraft:stonebrick 2
+setblock ~13~15~18 minecraft:leaves 3
+fill ~13~18~18 ~14~18~19 minecraft:stonebrick 0
+fill ~13~19~18 ~13~19~19 minecraft:leaves 3
+fill ~14~2~18 ~14~2~19 minecraft:tallgrass 0
+setblock ~14~14~18 minecraft:stone_block_slab 13
+setblock ~14~15~18 minecraft:stonebrick 1
+fill ~14~16~18 ~14~17~18 minecraft:stonebrick 0
+fill ~15~15~18 ~15~15~19 minecraft:stained_hardened_clay 9
+fill ~15~16~18 ~15~17~18 minecraft:stained_hardened_clay 9
+fill ~16~18~18 ~16~18~19 minecraft:stone_block_slab 5
+fill ~17~9~18 ~17~10~18 minecraft:vine 9
+fill ~17~11~18 ~17~11~19 minecraft:leaves 3
+fill ~17~12~18 ~18~12~18 minecraft:stained_hardened_clay 9
+fill ~17~13~18 ~17~14~18 minecraft:stained_hardened_clay 9
+setblock ~18~2~18 minecraft:double_plant 2
+fill ~18~9~18 ~18~10~18 minecraft:leaves 3
+fill ~19~8~18 ~19~8~19 minecraft:leaves 3
+fill ~19~9~18 ~19~9~19 minecraft:stained_hardened_clay 9
+fill ~19~10~18 ~19~11~18 minecraft:stained_hardened_clay 9
+fill ~20~2~18 ~20~3~18 minecraft:cobblestone_wall 0
+fill ~20~4~18 ~20~5~18 minecraft:cobblestone_wall ["wall_block_type":"mossy_cobblestone","wall_connection_type_east":"short","wall_connection_type_north":"short","wall_connection_type_south":"short","wall_connection_type_west":"short","wall_post_bit":true]
+setblock ~20~6~18 minecraft:stonebrick 0
+setblock ~20~7~18 minecraft:stonebrick 2
+setblock ~20~8~18 minecraft:stonebrick 0
+fill ~3~1~19 ~3~8~19 minecraft:stonebrick 0
+setblock ~3~9~19 minecraft:leaves 3
+setblock ~4~1~19 minecraft:grass
+fill ~4~6~19 ~4~8~19 minecraft:stained_hardened_clay 9
+setblock ~5~8~19 minecraft:leaves 3
+fill ~5~10~19 ~5~11~19 minecraft:leaves 3
+setblock ~6~2~19 minecraft:double_plant 2
+fill ~6~9~19 ~6~9~20 minecraft:stained_hardened_clay 9
+fill ~6~10~19 ~6~11~19 minecraft:stained_hardened_clay 9
+setblock ~7~10~19 minecraft:leaves 3
+fill ~7~12~19 ~8~12~19 minecraft:stained_hardened_clay 9
+fill ~8~1~19 ~8~1~22 minecraft:grass
+fill ~8~2~19 ~8~2~20 minecraft:tallgrass 0
+fill ~8~13~19 ~8~14~19 minecraft:stained_hardened_clay 9
+setblock ~9~9~19 minecraft:sea_lantern
+fill ~9~10~19 ~9~11~19 minecraft:cobblestone_wall ["wall_block_type":"mossy_cobblestone","wall_connection_type_east":"short","wall_connection_type_north":"short","wall_connection_type_south":"short","wall_connection_type_west":"short","wall_post_bit":true]
+fill ~9~12~19 ~9~14~19 minecraft:stonebrick 0
+fill ~9~18~19 ~9~18~20 minecraft:stone_block_slab 5
+setblock ~10~2~19 minecraft:tallgrass 0
+fill ~10~14~19 ~14~15~19 minecraft:stained_hardened_clay 9
+fill ~10~16~19 ~11~17~19 minecraft:stained_hardened_clay 9
+setblock ~11~1~19 minecraft:stonebrick 0
+fill ~12~1~19 ~13~1~19 minecraft:grass
+fill ~12~10~19 ~13~13~19 minecraft:vine 1
+setblock ~12~16~19 minecraft:sea_lantern
+fill ~12~17~19 ~14~17~19 minecraft:stained_hardened_clay 9
+setblock ~12~18~19 minecraft:stonebrick 2
+fill ~12~19~19 ~12~20~19 minecraft:stonebrick 1
+setblock ~12~21~19 minecraft:stonebrick 0
+setblock ~12~22~19 minecraft:stone_brick_stairs 3
+setblock ~13~2~19 minecraft:tallgrass 0
+setblock ~13~9~19 minecraft:vine 1
+fill ~13~16~19 ~14~16~19 minecraft:stained_hardened_clay 9
+setblock ~15~9~19 minecraft:sea_lantern
+setblock ~15~10~19 minecraft:cobblestone_wall 1
+setblock ~15~11~19 minecraft:cobblestone_wall 0
+fill ~15~12~19 ~15~14~19 minecraft:stonebrick 0
+setblock ~15~16~19 minecraft:leaves 3
+fill ~15~18~19 ~15~18~20 minecraft:stone_block_slab 5
+setblock ~16~2~19 minecraft:double_plant 2
+fill ~16~10~19 ~16~11~19 minecraft:vine 9
+fill ~16~12~19 ~17~12~19 minecraft:stained_hardened_clay 9
+fill ~16~13~19 ~16~14~19 minecraft:stained_hardened_clay 9
+fill ~17~2~19 ~18~2~19 minecraft:tallgrass 0
+setblock ~17~10~19 minecraft:leaves 3
+fill ~18~9~19 ~18~9~20 minecraft:stained_hardened_clay 9
+fill ~18~10~19 ~18~11~19 minecraft:stained_hardened_clay 9
+setblock ~19~7~19 minecraft:leaves 3
+setblock ~20~1~19 minecraft:grass
+fill ~20~6~19 ~20~8~19 minecraft:stained_hardened_clay 9
+fill ~21~1~19 ~21~7~19 minecraft:stonebrick 0
+setblock ~4~1~20 minecraft:stonebrick 0
+setblock ~4~2~20 minecraft:stonebrick 1
+fill ~4~3~20 ~4~5~20 minecraft:stonebrick 0
+setblock ~4~9~20 minecraft:leaves 3
+setblock ~5~2~20 minecraft:leaves 3
+fill ~5~6~20 ~5~6~21 minecraft:stained_hardened_clay 9
+fill ~5~7~20 ~5~9~20 minecraft:stained_hardened_clay 9
+fill ~6~2~20 ~7~2~20 minecraft:tallgrass 0
+fill ~7~9~20 ~7~11~20 minecraft:stained_hardened_clay 9
+setblock ~8~8~20 minecraft:stone_block_slab 13
+fill ~8~9~20 ~8~11~20 minecraft:stonebrick 0
+fill ~9~13~20 ~11~13~20 minecraft:stonebrick 1
+fill ~10~18~20 ~11~18~20 minecraft:stone_block_slab 5
+setblock ~11~1~20 minecraft:stonebrick 2
+fill ~11~14~20 ~15~14~20 minecraft:leaves 3
+setblock ~12~1~20 minecraft:stonebrick 0
+setblock ~12~13~20 minecraft:stonebrick 3
+setblock ~12~18~20 minecraft:stone_brick_stairs 3
+setblock ~13~1~20 minecraft:grass
+fill ~13~13~20 ~15~13~20 minecraft:stonebrick 0
+fill ~13~15~20 ~14~15~20 minecraft:leaves 3
+fill ~13~17~20 ~14~17~20 minecraft:leaves 3
+setblock ~13~18~20 minecraft:leaves 3
+setblock ~14~16~20 minecraft:leaves 3
+setblock ~14~18~20 minecraft:stone_block_slab 5
+setblock ~16~8~20 minecraft:stone_block_slab 13
+fill ~16~9~20 ~16~10~20 minecraft:stonebrick 1
+setblock ~16~11~20 minecraft:stonebrick 0
+setblock ~16~12~20 minecraft:stained_hardened_clay 9
+setblock ~17~2~20 minecraft:tallgrass 0
+fill ~17~9~20 ~17~11~20 minecraft:stained_hardened_clay 9
+fill ~19~6~20 ~19~8~20 minecraft:stained_hardened_clay 9
+setblock ~20~1~20 minecraft:bedrock 0
+setblock ~20~2~20 minecraft:stonebrick 0
+setblock ~20~3~20 minecraft:stonebrick 1
+setblock ~20~4~20 minecraft:stonebrick 2
+setblock ~20~5~20 minecraft:stonebrick 0
+fill ~5~1~21 ~5~3~21 minecraft:stonebrick 0
+setblock ~5~4~21 minecraft:stonebrick 1
+setblock ~5~5~21 minecraft:stonebrick 0
+fill ~6~1~21 ~7~1~21 minecraft:grass
+fill ~6~2~21 ~6~3~21 minecraft:leaves 3
+fill ~6~6~21 ~6~8~21 minecraft:stained_hardened_clay 9
+setblock ~7~2~21 minecraft:cobblestone_wall 1
+setblock ~7~3~21 minecraft:cobblestone_wall 1
+fill ~7~4~21 ~7~5~21 minecraft:cobblestone_wall 0
+fill ~7~6~21 ~7~8~21 minecraft:stonebrick 0
+fill ~11~1~21 ~12~1~21 minecraft:grass
+setblock ~12~4~21 minecraft:wall_sign 2
+setblock ~13~1~21 minecraft:stonebrick 0
+fill ~15~2~21 ~16~2~21 minecraft:tallgrass 0
+fill ~17~1~21 ~18~1~21 minecraft:grass
+setblock ~17~2~21 minecraft:cobblestone_wall 0
+setblock ~17~3~21 minecraft:cobblestone_wall ["wall_block_type":"mossy_cobblestone","wall_connection_type_east":"short","wall_connection_type_north":"short","wall_connection_type_south":"short","wall_connection_type_west":"short","wall_post_bit":true]
+fill ~17~4~21 ~17~5~21 minecraft:cobblestone_wall 0
+fill ~17~6~21 ~17~8~21 minecraft:stonebrick 0
+fill ~18~6~21 ~18~8~21 minecraft:stained_hardened_clay 9
+setblock ~19~1~21 minecraft:bedrock 0
+fill ~19~2~21 ~19~5~21 minecraft:stonebrick 0
+fill ~5~4~22 ~5~5~22 minecraft:leaves 3
+fill ~6~1~22 ~6~2~22 minecraft:stonebrick 0
+fill ~6~3~22 ~6~4~22 minecraft:stonebrick 1
+fill ~6~5~22 ~6~7~22 minecraft:stonebrick 0
+setblock ~7~1~22 minecraft:grass
+fill ~7~2~22 ~8~2~22 minecraft:leaves 3
+setblock ~8~3~22 minecraft:leaves 3
+fill ~9~2~22 ~9~3~22 minecraft:cobblestone_wall 0
+setblock ~9~4~22 minecraft:cobblestone_wall 1
+setblock ~10~2~22 minecraft:stone_brick_stairs 4
+fill ~10~3~22 ~10~3~25 minecraft:stonebrick 0
+setblock ~10~4~22 minecraft:stone_brick_stairs 0
+fill ~11~1~22 ~13~1~22 minecraft:dirt 0
+fill ~11~2~22 ~13~2~23 minecraft:stonebrick 0
+setblock ~11~3~22 minecraft:stonebrick 3
+fill ~11~4~22 ~13~4~23 minecraft:stonebrick 0
+fill ~12~3~22 ~12~3~23 minecraft:stonebrick 0
+setblock ~12~5~22 minecraft:skull 1
+setblock ~13~3~22 minecraft:stonebrick 3
+setblock ~14~2~22 minecraft:stone_brick_stairs 5
+fill ~14~3~22 ~14~3~25 minecraft:stonebrick 0
+setblock ~14~4~22 minecraft:stone_brick_stairs 1
+setblock ~15~2~22 minecraft:cobblestone_wall 0
+fill ~15~3~22 ~15~4~22 minecraft:cobblestone_wall 0
+setblock ~17~1~22 minecraft:grass
+setblock ~18~1~22 minecraft:bedrock 0
+setblock ~18~2~22 minecraft:stonebrick 2
+fill ~18~3~22 ~18~7~22 minecraft:stonebrick 0
+setblock ~6~4~23 minecraft:leaves 3
+fill ~7~1~23 ~17~1~23 minecraft:stonebrick 0
+fill ~7~2~23 ~10~2~23 minecraft:stonebrick 0
+fill ~7~3~23 ~8~7~23 minecraft:stained_hardened_clay 9
+setblock ~9~3~23 minecraft:stonebrick 1
+fill ~9~4~23 ~10~5~23 minecraft:stained_hardened_clay 9
+setblock ~9~6~23 minecraft:stained_hardened_clay 9
+setblock ~9~7~23 minecraft:leaves 3
+fill ~10~6~23 ~11~6~23 minecraft:leaves 3
+setblock ~11~3~23 minecraft:stonebrick 0
+fill ~11~5~23 ~17~5~23 minecraft:stained_hardened_clay 9
+setblock ~13~3~23 minecraft:stonebrick 0
+fill ~14~2~23 ~15~2~25 minecraft:stonebrick 0
+fill ~14~4~23 ~17~4~23 minecraft:stained_hardened_clay 9
+fill ~15~3~23 ~15~3~25 minecraft:stonebrick 0
+fill ~15~6~23 ~17~6~23 minecraft:stained_hardened_clay 9
+fill ~16~2~23 ~17~2~23 minecraft:stonebrick 2
+fill ~16~3~23 ~17~3~23 minecraft:stained_hardened_clay 9
+fill ~16~7~23 ~17~7~23 minecraft:stained_hardened_clay 9
+setblock ~7~3~24 minecraft:leaves 3
+fill ~8~3~24 ~8~6~24 minecraft:leaves 3
+fill ~9~1~24 ~10~1~24 minecraft:stone_brick_stairs 7
+fill ~9~2~24 ~10~2~25 minecraft:stonebrick 0
+fill ~9~3~24 ~9~7~25 minecraft:stonebrick 0
+setblock ~9~8~24 minecraft:stonebrick 2
+fill ~9~9~24 ~9~9~25 minecraft:stonebrick 0
+fill ~9~10~24 ~10~10~24 minecraft:stone_brick_stairs 6
+setblock ~9~11~24 minecraft:cobblestone_wall 0
+fill ~10~4~24 ~10~6~25 minecraft:stonebrick 0
+setblock ~10~7~24 minecraft:stonebrick 2
+fill ~10~8~24 ~10~9~24 minecraft:stonebrick 1
+setblock ~10~11~24 minecraft:cobblestone_wall 0
+fill ~11~3~24 ~11~6~24 minecraft:leaves 3
+fill ~14~1~24 ~15~1~24 minecraft:stone_brick_stairs 7
+fill ~14~4~24 ~15~5~25 minecraft:stonebrick 0
+fill ~14~6~24 ~14~6~25 minecraft:stonebrick 1
+fill ~14~7~24 ~14~8~24 minecraft:stonebrick 1
+fill ~14~9~24 ~15~9~25 minecraft:stonebrick 0
+fill ~14~10~24 ~15~10~24 minecraft:stone_brick_stairs 6
+setblock ~14~11~24 minecraft:cobblestone_wall 1
+fill ~15~6~24 ~15~7~25 minecraft:stonebrick 0
+setblock ~15~8~24 minecraft:stonebrick 1
+setblock ~15~11~24 minecraft:cobblestone_wall 0
+fill ~8~4~25 ~8~5~25 minecraft:leaves 3
+fill ~9~8~25 ~10~8~25 minecraft:stonebrick 0
+fill ~9~10~25 ~10~10~25 minecraft:stone_brick_stairs 3
+setblock ~10~7~25 minecraft:stonebrick 0
+setblock ~10~9~25 minecraft:stonebrick 0
+setblock ~11~5~25 minecraft:leaves 3
+fill ~14~7~25 ~14~8~25 minecraft:stonebrick 0
+fill ~14~10~25 ~15~10~25 minecraft:stone_brick_stairs 3
+setblock ~15~8~25 minecraft:stonebrick 0
+fill ~9~4~26 ~9~5~26 minecraft:leaves 3
+setblock ~10~5~26 minecraft:leaves 3

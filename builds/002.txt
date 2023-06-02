@@ -1,0 +1,2527 @@
+setblock ~67 ~10 ~56 furnace 4  
+setblock ~62 ~10 ~55 chest 5  
+setblock ~62 ~10 ~54 chest 5  
+setblock ~67 ~10 ~53 furnace 4  
+setblock ~67 ~11 ~53 furnace 4  
+setblock ~67 ~11 ~56 furnace 4  
+setblock ~87 ~15 ~52 furnace 3  
+setblock ~87 ~15 ~54 furnace 5  
+setblock ~92 ~10 ~54 chest 5  
+setblock ~94 ~10 ~56 furnace 4  
+setblock ~92 ~10 ~55 chest 5  
+setblock ~94 ~11 ~53 furnace 4  
+setblock ~94 ~11 ~56 furnace 4  
+setblock ~94 ~10 ~53 furnace 4  
+setblock ~90 ~15 ~57 furnace 2  
+setblock ~109 ~10 ~56 chest 3  
+setblock ~110 ~10 ~56 chest 3  
+setblock ~107 ~12 ~56 furnace 3  
+setblock ~106 ~12 ~56 furnace 3  
+setblock ~107 ~11 ~56 furnace 3  
+setblock ~107 ~10 ~56 furnace 3  
+setblock ~106 ~11 ~56 furnace 3  
+setblock ~106 ~10 ~56 furnace 3  
+setblock ~127 ~10 ~55 chest 4  
+setblock ~127 ~10 ~54 chest 4  
+fill ~72 ~0 ~49 ~74 ~0 ~49 wool 15  
+fill ~72 ~0 ~51 ~74 ~0 ~51 wool 15  
+fill ~72 ~0 ~58 ~74 ~0 ~58 wool 15  
+fill ~72 ~0 ~60 ~74 ~0 ~60 wool 15  
+fill ~76 ~0 ~49 ~78 ~0 ~49 wool 15  
+fill ~76 ~0 ~51 ~78 ~0 ~51 wool 15  
+fill ~76 ~0 ~58 ~78 ~0 ~58 wool 15  
+fill ~76 ~0 ~60 ~78 ~0 ~60 wool 15  
+fill ~77 ~0 ~43 ~79 ~0 ~43 wool 15  
+fill ~77 ~0 ~45 ~79 ~0 ~45 wool 15  
+fill ~77 ~0 ~64 ~79 ~0 ~64 wool 15  
+fill ~77 ~0 ~66 ~79 ~0 ~66 wool 15  
+fill ~81 ~0 ~43 ~83 ~0 ~43 wool 15  
+fill ~81 ~0 ~45 ~83 ~0 ~45 wool 15  
+fill ~81 ~0 ~64 ~83 ~0 ~64 wool 15  
+fill ~81 ~0 ~66 ~83 ~0 ~66 wool 15  
+fill ~124 ~0 ~53 ~126 ~0 ~53 wool 15  
+fill ~124 ~0 ~56 ~126 ~0 ~56 wool 15  
+fill ~72 ~1 ~49 ~72 ~2 ~49 wool 15  
+fill ~72 ~1 ~51 ~72 ~2 ~51 wool 15  
+fill ~72 ~1 ~58 ~72 ~2 ~58 wool 15  
+fill ~72 ~1 ~60 ~72 ~2 ~60 wool 15  
+fill ~73 ~1 ~49 ~73 ~1 ~51 iron_block 0  
+fill ~73 ~1 ~58 ~73 ~1 ~60 iron_block 0  
+fill ~74 ~1 ~49 ~74 ~2 ~49 wool 15  
+fill ~74 ~1 ~50 ~77 ~1 ~50 iron_block 0  
+fill ~74 ~1 ~51 ~74 ~2 ~51 wool 15  
+fill ~74 ~1 ~58 ~74 ~2 ~58 wool 15  
+fill ~74 ~1 ~59 ~77 ~1 ~59 iron_block 0  
+fill ~74 ~1 ~60 ~74 ~2 ~60 wool 15  
+fill ~76 ~1 ~49 ~76 ~2 ~49 wool 15  
+fill ~76 ~1 ~51 ~76 ~2 ~51 wool 15  
+fill ~76 ~1 ~58 ~76 ~2 ~58 wool 15  
+fill ~76 ~1 ~60 ~76 ~2 ~60 wool 15  
+fill ~77 ~1 ~43 ~77 ~2 ~43 wool 15  
+fill ~77 ~1 ~45 ~77 ~2 ~45 wool 15 
+setblock ~77 ~1 ~49 iron_block 0 
+setblock ~77 ~1 ~51 iron_block 0 
+setblock ~77 ~1 ~58 iron_block 0 
+setblock ~77 ~1 ~60 iron_block 0  
+fill ~77 ~1 ~64 ~77 ~2 ~64 wool 15  
+fill ~77 ~1 ~66 ~77 ~2 ~66 wool 15  
+fill ~78 ~1 ~43 ~78 ~1 ~45 iron_block 0  
+fill ~78 ~1 ~49 ~78 ~2 ~49 wool 15  
+fill ~78 ~1 ~51 ~78 ~2 ~51 wool 15  
+fill ~78 ~1 ~58 ~78 ~2 ~58 wool 15  
+fill ~78 ~1 ~60 ~78 ~2 ~60 wool 15  
+fill ~78 ~1 ~64 ~78 ~1 ~66 iron_block 0  
+fill ~79 ~1 ~43 ~79 ~2 ~43 wool 15  
+fill ~79 ~1 ~44 ~82 ~1 ~44 iron_block 0  
+fill ~79 ~1 ~45 ~79 ~2 ~45 wool 15  
+fill ~79 ~1 ~64 ~79 ~2 ~64 wool 15  
+fill ~79 ~1 ~65 ~82 ~1 ~65 iron_block 0  
+fill ~79 ~1 ~66 ~79 ~2 ~66 wool 15  
+fill ~81 ~1 ~43 ~81 ~2 ~43 wool 15  
+fill ~81 ~1 ~45 ~81 ~2 ~45 wool 15  
+fill ~81 ~1 ~64 ~81 ~2 ~64 wool 15  
+fill ~81 ~1 ~66 ~81 ~2 ~66 wool 15 
+setblock ~82 ~1 ~43 iron_block 0 
+setblock ~82 ~1 ~45 iron_block 0 
+setblock ~82 ~1 ~64 iron_block 0 
+setblock ~82 ~1 ~66 iron_block 0  
+fill ~83 ~1 ~43 ~83 ~2 ~43 wool 15  
+fill ~83 ~1 ~45 ~83 ~2 ~45 wool 15  
+fill ~83 ~1 ~64 ~83 ~2 ~64 wool 15  
+fill ~83 ~1 ~66 ~83 ~2 ~66 wool 15  
+fill ~124 ~1 ~53 ~124 ~2 ~53 wool 15  
+fill ~124 ~1 ~56 ~124 ~2 ~56 wool 15  
+fill ~125 ~1 ~53 ~125 ~1 ~56 iron_block 0  
+fill ~126 ~1 ~53 ~126 ~2 ~53 wool 15  
+fill ~126 ~1 ~56 ~126 ~2 ~56 wool 15 
+setblock ~73 ~2 ~49 wool 15 
+setblock ~73 ~2 ~51 wool 15 
+setblock ~73 ~2 ~58 wool 15 
+setblock ~73 ~2 ~60 wool 15  
+fill ~75 ~2 ~50 ~75 ~3 ~50 iron_block 0  
+fill ~75 ~2 ~59 ~75 ~3 ~59 iron_block 0 
+setblock ~77 ~2 ~49 wool 15 
+setblock ~77 ~2 ~51 wool 15 
+setblock ~77 ~2 ~58 wool 15 
+setblock ~77 ~2 ~60 wool 15 
+setblock ~78 ~2 ~43 wool 15 
+setblock ~78 ~2 ~45 wool 15 
+setblock ~78 ~2 ~64 wool 15 
+setblock ~78 ~2 ~66 wool 15  
+fill ~81 ~2 ~44 ~81 ~5 ~44 iron_block 0  
+fill ~81 ~2 ~65 ~81 ~5 ~65 iron_block 0 
+setblock ~82 ~2 ~43 wool 15 
+setblock ~82 ~2 ~45 wool 15 
+setblock ~82 ~2 ~64 wool 15 
+setblock ~82 ~2 ~66 wool 15  
+fill ~90 ~2 ~31 ~94 ~2 ~31 wool 11  
+fill ~90 ~2 ~32 ~94 ~2 ~32 wool 11  
+fill ~90 ~2 ~33 ~94 ~2 ~33 wool 11  
+fill ~90 ~2 ~76 ~94 ~2 ~76 wool 11  
+fill ~90 ~2 ~77 ~94 ~2 ~77 wool 11  
+fill ~90 ~2 ~78 ~94 ~2 ~78 wool 11  
+fill ~95 ~2 ~31 ~95 ~2 ~33 iron_block 0  
+fill ~95 ~2 ~76 ~95 ~2 ~78 iron_block 0 
+setblock ~125 ~2 ~53 wool 15  
+fill ~125 ~2 ~54 ~125 ~4 ~54 iron_block 0  
+fill ~125 ~2 ~55 ~125 ~4 ~55 iron_block 0 
+setblock ~125 ~2 ~56 wool 15  
+fill ~71 ~3 ~51 ~71 ~5 ~51 wool 11  
+fill ~71 ~3 ~52 ~108 ~3 ~52 wool 11  
+fill ~71 ~3 ~53 ~108 ~3 ~53 wool 11  
+fill ~71 ~3 ~54 ~108 ~3 ~54 wool 11  
+fill ~71 ~3 ~55 ~108 ~3 ~55 wool 11  
+fill ~71 ~3 ~56 ~108 ~3 ~56 wool 11  
+fill ~71 ~3 ~57 ~108 ~3 ~57 wool 11  
+fill ~71 ~3 ~58 ~71 ~5 ~58 wool 11  
+fill ~79 ~3 ~50 ~104 ~3 ~50 wool 11  
+fill ~79 ~3 ~51 ~106 ~3 ~51 wool 11  
+fill ~79 ~3 ~58 ~106 ~3 ~58 wool 11  
+fill ~79 ~3 ~59 ~104 ~3 ~59 wool 11 
+setblock ~81 ~3 ~45 iron_block 0 
+setblock ~81 ~3 ~64 iron_block 0  
+fill ~85 ~3 ~31 ~86 ~3 ~31 stone_brick_stairs 6  
+fill ~85 ~3 ~32 ~86 ~3 ~32 stonebrick 0  
+fill ~85 ~3 ~33 ~86 ~3 ~33 stone_brick_stairs 7  
+fill ~85 ~3 ~76 ~86 ~3 ~76 stone_brick_stairs 6  
+fill ~85 ~3 ~77 ~86 ~3 ~77 stonebrick 0  
+fill ~85 ~3 ~78 ~86 ~3 ~78 stone_brick_stairs 7  
+fill ~87 ~3 ~31 ~89 ~3 ~31 wool 11  
+fill ~87 ~3 ~32 ~89 ~3 ~32 wool 11  
+fill ~87 ~3 ~33 ~89 ~3 ~33 wool 11  
+fill ~87 ~3 ~76 ~89 ~3 ~76 wool 11  
+fill ~87 ~3 ~77 ~89 ~3 ~77 wool 11  
+fill ~87 ~3 ~78 ~89 ~3 ~78 wool 11  
+fill ~89 ~3 ~49 ~102 ~3 ~49 wool 11  
+fill ~89 ~3 ~60 ~102 ~3 ~60 wool 11  
+fill ~90 ~3 ~30 ~94 ~3 ~30 wool 11  
+fill ~90 ~3 ~34 ~94 ~3 ~34 wool 11  
+fill ~90 ~3 ~75 ~94 ~3 ~75 wool 11  
+fill ~90 ~3 ~79 ~94 ~3 ~79 wool 11  
+fill ~92 ~3 ~31 ~92 ~5 ~31 glowstone 0  
+fill ~92 ~3 ~32 ~92 ~5 ~32 glowstone 0  
+fill ~92 ~3 ~33 ~92 ~5 ~33 glowstone 0  
+fill ~92 ~3 ~76 ~92 ~5 ~76 glowstone 0  
+fill ~92 ~3 ~77 ~92 ~5 ~77 glowstone 0  
+fill ~92 ~3 ~78 ~92 ~5 ~78 glowstone 0  
+fill ~93 ~3 ~31 ~93 ~5 ~31 stone_brick_stairs 1 
+setblock ~93 ~3 ~32 stone_brick_stairs 5  
+fill ~93 ~3 ~33 ~93 ~5 ~33 stone_brick_stairs 1  
+fill ~93 ~3 ~76 ~93 ~5 ~76 stone_brick_stairs 1 
+setblock ~93 ~3 ~77 stone_brick_stairs 5  
+fill ~93 ~3 ~78 ~93 ~5 ~78 stone_brick_stairs 1  
+fill ~95 ~3 ~30 ~95 ~5 ~30 iron_block 0  
+fill ~95 ~3 ~34 ~95 ~5 ~34 iron_block 0  
+fill ~95 ~3 ~75 ~95 ~5 ~75 iron_block 0  
+fill ~95 ~3 ~79 ~95 ~5 ~79 iron_block 0  
+fill ~37 ~4 ~54 ~70 ~4 ~54 wool 11  
+fill ~37 ~4 ~55 ~124 ~4 ~55 wool 11  
+fill ~38 ~4 ~53 ~124 ~4 ~53 wool 11  
+fill ~38 ~4 ~56 ~124 ~4 ~56 wool 11  
+fill ~60 ~4 ~52 ~70 ~4 ~52 wool 11  
+fill ~60 ~4 ~57 ~88 ~4 ~57 wool 11  
+fill ~64 ~4 ~51 ~71 ~4 ~51 wool 11  
+fill ~64 ~4 ~58 ~71 ~4 ~58 wool 11  
+fill ~68 ~4 ~50 ~71 ~4 ~50 wool 11  
+fill ~68 ~4 ~59 ~71 ~4 ~59 wool 11  
+fill ~72 ~4 ~52 ~88 ~4 ~52 wool 11  
+fill ~74 ~4 ~13 ~78 ~4 ~13 wool 11  
+fill ~74 ~4 ~14 ~78 ~4 ~14 wool 11  
+fill ~74 ~4 ~15 ~78 ~4 ~15 wool 11 
+setblock ~74 ~4 ~50 trapdoor 6 
+setblock ~74 ~4 ~59 trapdoor 6  
+fill ~74 ~4 ~94 ~78 ~4 ~94 wool 11  
+fill ~74 ~4 ~95 ~78 ~4 ~95 wool 11  
+fill ~74 ~4 ~96 ~78 ~4 ~96 wool 11 
+setblock ~75 ~4 ~49 trapdoor 4 
+setblock ~75 ~4 ~50 glowstone 0 
+setblock ~75 ~4 ~51 trapdoor 5 
+setblock ~75 ~4 ~58 trapdoor 4 
+setblock ~75 ~4 ~59 glowstone 0 
+setblock ~75 ~4 ~60 trapdoor 5 
+setblock ~76 ~4 ~50 trapdoor 7 
+setblock ~76 ~4 ~59 trapdoor 7  
+fill ~79 ~4 ~13 ~79 ~4 ~15 iron_block 0  
+fill ~79 ~4 ~49 ~88 ~4 ~49 wool 11  
+fill ~79 ~4 ~50 ~79 ~6 ~50 wool 11  
+fill ~79 ~4 ~51 ~79 ~5 ~51 wool 11  
+fill ~79 ~4 ~58 ~79 ~5 ~58 wool 11  
+fill ~79 ~4 ~59 ~79 ~6 ~59 wool 11  
+fill ~79 ~4 ~60 ~88 ~4 ~60 wool 11  
+fill ~79 ~4 ~94 ~79 ~4 ~96 iron_block 0 
+setblock ~81 ~4 ~46 iron_block 0  
+fill ~81 ~4 ~51 ~88 ~4 ~51 wool 11  
+fill ~81 ~4 ~58 ~88 ~4 ~58 wool 11 
+setblock ~81 ~4 ~63 iron_block 0  
+fill ~83 ~4 ~50 ~88 ~4 ~50 wool 11  
+fill ~83 ~4 ~59 ~88 ~4 ~59 wool 11  
+fill ~85 ~4 ~31 ~86 ~4 ~31 stonebrick 0  
+fill ~85 ~4 ~33 ~86 ~4 ~33 stonebrick 0  
+fill ~85 ~4 ~76 ~86 ~4 ~76 stonebrick 0  
+fill ~85 ~4 ~78 ~86 ~4 ~78 stonebrick 0  
+fill ~87 ~4 ~31 ~89 ~4 ~31 wool 11  
+fill ~87 ~4 ~33 ~89 ~4 ~33 wool 11  
+fill ~87 ~4 ~76 ~89 ~4 ~76 wool 11  
+fill ~87 ~4 ~78 ~89 ~4 ~78 wool 11 
+setblock ~89 ~4 ~32 glowstone 0  
+fill ~89 ~4 ~48 ~102 ~4 ~48 wool 11  
+fill ~89 ~4 ~61 ~102 ~4 ~61 snow 0 
+setblock ~89 ~4 ~77 glowstone 0  
+fill ~90 ~4 ~30 ~94 ~4 ~30 wool 11  
+fill ~90 ~4 ~34 ~94 ~4 ~34 wool 11  
+fill ~90 ~4 ~75 ~94 ~4 ~75 wool 11  
+fill ~90 ~4 ~79 ~94 ~4 ~79 wool 11  
+fill ~93 ~4 ~32 ~94 ~4 ~32 wool 15  
+fill ~93 ~4 ~77 ~94 ~4 ~77 wool 15 
+setblock ~95 ~4 ~32 stone_button 1 
+setblock ~95 ~4 ~77 stone_button 1 
+setblock ~96 ~4 ~54 wool 11  
+fill ~98 ~4 ~49 ~104 ~4 ~49 wool 11  
+fill ~98 ~4 ~50 ~106 ~4 ~50 wool 11  
+fill ~98 ~4 ~51 ~108 ~4 ~51 wool 11  
+fill ~98 ~4 ~52 ~110 ~4 ~52 wool 11  
+fill ~98 ~4 ~57 ~110 ~4 ~57 wool 11  
+fill ~98 ~4 ~58 ~108 ~4 ~58 wool 11  
+fill ~98 ~4 ~59 ~106 ~4 ~59 wool 11  
+fill ~98 ~4 ~60 ~104 ~4 ~60 wool 11  
+fill ~109 ~4 ~54 ~124 ~4 ~54 wool 11  
+fill ~32 ~5 ~54 ~36 ~5 ~54 wool 11  
+fill ~32 ~5 ~55 ~36 ~5 ~55 wool 11  
+fill ~33 ~5 ~53 ~38 ~5 ~53 wool 11  
+fill ~33 ~5 ~56 ~38 ~5 ~56 wool 11  
+fill ~38 ~5 ~52 ~128 ~5 ~52 wool 11  
+fill ~38 ~5 ~57 ~128 ~5 ~57 wool 11  
+fill ~44 ~5 ~51 ~126 ~5 ~51 wool 11  
+fill ~44 ~5 ~58 ~126 ~5 ~58 wool 11  
+fill ~66 ~5 ~50 ~74 ~5 ~50 wool 11  
+fill ~66 ~5 ~59 ~84 ~5 ~59 wool 11  
+fill ~69 ~5 ~13 ~70 ~5 ~13 stone_brick_stairs 6  
+fill ~69 ~5 ~14 ~70 ~5 ~14 stonebrick 0  
+fill ~69 ~5 ~15 ~70 ~5 ~15 stone_brick_stairs 7  
+fill ~69 ~5 ~94 ~70 ~5 ~94 stone_brick_stairs 6  
+fill ~69 ~5 ~95 ~70 ~5 ~95 stonebrick 0  
+fill ~69 ~5 ~96 ~70 ~5 ~96 stone_brick_stairs 7  
+fill ~70 ~5 ~49 ~79 ~5 ~49 wool 11  
+fill ~70 ~5 ~60 ~78 ~5 ~60 wool 11  
+fill ~71 ~5 ~13 ~73 ~5 ~13 wool 11  
+fill ~71 ~5 ~14 ~73 ~5 ~14 wool 11  
+fill ~71 ~5 ~15 ~73 ~5 ~15 wool 11  
+fill ~71 ~5 ~94 ~73 ~5 ~94 wool 11  
+fill ~71 ~5 ~95 ~73 ~5 ~95 wool 11  
+fill ~71 ~5 ~96 ~73 ~5 ~96 wool 11  
+fill ~74 ~5 ~12 ~78 ~5 ~12 wool 11  
+fill ~74 ~5 ~16 ~78 ~5 ~16 wool 11  
+fill ~74 ~5 ~48 ~104 ~5 ~48 wool 11  
+fill ~74 ~5 ~61 ~104 ~5 ~61 snow 0  
+fill ~74 ~5 ~93 ~78 ~5 ~93 wool 11  
+fill ~74 ~5 ~97 ~78 ~5 ~97 wool 11 
+setblock ~75 ~5 ~50 iron_block 0  
+fill ~76 ~5 ~13 ~76 ~7 ~13 glowstone 0  
+fill ~76 ~5 ~14 ~76 ~7 ~14 glowstone 0  
+fill ~76 ~5 ~15 ~76 ~7 ~15 glowstone 0  
+fill ~76 ~5 ~50 ~108 ~5 ~50 wool 11  
+fill ~76 ~5 ~94 ~76 ~7 ~94 glowstone 0  
+fill ~76 ~5 ~95 ~76 ~7 ~95 glowstone 0  
+fill ~76 ~5 ~96 ~76 ~7 ~96 glowstone 0  
+fill ~77 ~5 ~13 ~77 ~7 ~13 stone_brick_stairs 1 
+setblock ~77 ~5 ~14 stone_brick_stairs 5  
+fill ~77 ~5 ~15 ~77 ~7 ~15 stone_brick_stairs 1  
+fill ~77 ~5 ~94 ~77 ~7 ~94 stone_brick_stairs 1 
+setblock ~77 ~5 ~95 stone_brick_stairs 5  
+fill ~77 ~5 ~96 ~77 ~7 ~96 stone_brick_stairs 1  
+fill ~79 ~5 ~12 ~79 ~7 ~12 iron_block 0  
+fill ~79 ~5 ~16 ~79 ~7 ~16 iron_block 0  
+fill ~79 ~5 ~93 ~79 ~7 ~93 iron_block 0  
+fill ~79 ~5 ~97 ~79 ~7 ~97 iron_block 0 
+setblock ~81 ~5 ~47 iron_block 0  
+fill ~81 ~5 ~49 ~106 ~5 ~49 wool 11  
+fill ~81 ~5 ~60 ~84 ~5 ~60 wool 11 
+setblock ~81 ~5 ~62 iron_block 0  
+fill ~85 ~5 ~31 ~86 ~5 ~31 stone_brick_stairs 2  
+fill ~85 ~5 ~32 ~86 ~5 ~32 stonebrick 0  
+fill ~85 ~5 ~33 ~86 ~5 ~33 stone_brick_stairs 3  
+fill ~85 ~5 ~76 ~86 ~5 ~76 stone_brick_stairs 2  
+fill ~85 ~5 ~77 ~86 ~5 ~77 stonebrick 0  
+fill ~85 ~5 ~78 ~86 ~5 ~78 stone_brick_stairs 3  
+fill ~87 ~5 ~31 ~89 ~5 ~31 wool 11  
+fill ~87 ~5 ~32 ~89 ~5 ~32 wool 11  
+fill ~87 ~5 ~33 ~89 ~5 ~33 wool 11  
+fill ~87 ~5 ~76 ~89 ~5 ~76 wool 11  
+fill ~87 ~5 ~77 ~89 ~5 ~77 wool 11  
+fill ~87 ~5 ~78 ~89 ~5 ~78 wool 11  
+fill ~88 ~5 ~45 ~99 ~5 ~45 snow 0  
+fill ~88 ~5 ~64 ~99 ~5 ~64 snow 0  
+fill ~89 ~5 ~46 ~100 ~5 ~46 snow 0  
+fill ~89 ~5 ~47 ~102 ~5 ~47 snow 0  
+fill ~89 ~5 ~62 ~102 ~5 ~62 snow 0  
+fill ~89 ~5 ~63 ~100 ~5 ~63 snow 0  
+fill ~90 ~5 ~30 ~94 ~5 ~30 wool 11  
+fill ~90 ~5 ~34 ~94 ~5 ~34 wool 11  
+fill ~90 ~5 ~75 ~94 ~5 ~75 wool 11  
+fill ~90 ~5 ~79 ~94 ~5 ~79 wool 11 
+setblock ~93 ~5 ~32 stone_brick_stairs 5 
+setblock ~93 ~5 ~77 stone_brick_stairs 5  
+fill ~95 ~5 ~59 ~96 ~5 ~59 wool 11  
+fill ~95 ~5 ~60 ~96 ~5 ~60 wool 11  
+fill ~96 ~5 ~53 ~96 ~5 ~56 redstone_wire 0 
+setblock ~97 ~5 ~53 unpowered_repeater 3  
+fill ~98 ~5 ~53 ~99 ~5 ~53 redstone_wire 0 
+setblock ~100 ~5 ~53 unpowered_repeater 3  
+fill ~100 ~5 ~59 ~108 ~5 ~59 wool 11  
+fill ~100 ~5 ~60 ~106 ~5 ~60 wool 11  
+fill ~101 ~5 ~53 ~105 ~5 ~53 redstone_wire 0 
+setblock ~106 ~5 ~53 unpowered_repeater 3  
+fill ~107 ~5 ~53 ~110 ~5 ~53 redstone_wire 0 
+setblock ~111 ~5 ~53 unpowered_repeater 3  
+fill ~112 ~5 ~53 ~113 ~5 ~53 redstone_wire 0  
+fill ~113 ~5 ~54 ~113 ~5 ~56 redstone_wire 0  
+fill ~117 ~5 ~53 ~124 ~5 ~53 planks 0  
+fill ~117 ~5 ~54 ~118 ~5 ~54 planks 0  
+fill ~117 ~5 ~55 ~118 ~5 ~55 planks 0  
+fill ~117 ~5 ~56 ~124 ~5 ~56 planks 0 
+setblock ~119 ~5 ~55 redstone_wire 13  
+fill ~120 ~5 ~54 ~120 ~5 ~55 redstone_wire 14  
+fill ~121 ~5 ~54 ~121 ~5 ~55 redstone_wire 15  
+fill ~122 ~5 ~54 ~124 ~5 ~54 planks 0  
+fill ~122 ~5 ~55 ~124 ~5 ~55 planks 0  
+fill ~125 ~5 ~53 ~129 ~5 ~53 wool 11  
+fill ~125 ~5 ~54 ~130 ~5 ~54 wool 11  
+fill ~125 ~5 ~55 ~130 ~5 ~55 wool 11  
+fill ~125 ~5 ~56 ~129 ~5 ~56 wool 11  
+fill ~27 ~6 ~54 ~31 ~6 ~54 wool 11  
+fill ~27 ~6 ~55 ~31 ~6 ~55 wool 11  
+fill ~28 ~6 ~53 ~33 ~6 ~53 wool 11  
+fill ~28 ~6 ~56 ~33 ~6 ~56 wool 11  
+fill ~33 ~6 ~52 ~39 ~6 ~52 wool 11  
+fill ~33 ~6 ~57 ~39 ~6 ~57 wool 11  
+fill ~39 ~6 ~51 ~45 ~6 ~51 wool 11  
+fill ~39 ~6 ~58 ~45 ~6 ~58 wool 11  
+fill ~45 ~6 ~50 ~80 ~6 ~50 wool 11  
+fill ~45 ~6 ~59 ~94 ~6 ~59 wool 11  
+fill ~68 ~6 ~49 ~71 ~6 ~49 wool 11  
+fill ~68 ~6 ~60 ~71 ~6 ~60 wool 11  
+fill ~69 ~6 ~13 ~70 ~6 ~13 stonebrick 0  
+fill ~69 ~6 ~15 ~70 ~6 ~15 stonebrick 0  
+fill ~69 ~6 ~94 ~70 ~6 ~94 stonebrick 0  
+fill ~69 ~6 ~96 ~70 ~6 ~96 stonebrick 0  
+fill ~71 ~6 ~13 ~73 ~6 ~13 wool 11  
+fill ~71 ~6 ~15 ~73 ~6 ~15 wool 11  
+fill ~71 ~6 ~94 ~73 ~6 ~94 wool 11  
+fill ~71 ~6 ~96 ~73 ~6 ~96 wool 11  
+fill ~72 ~6 ~48 ~88 ~6 ~48 wool 11  
+fill ~72 ~6 ~61 ~88 ~6 ~61 snow 0 
+setblock ~73 ~6 ~14 glowstone 0 
+setblock ~73 ~6 ~95 glowstone 0  
+fill ~74 ~6 ~12 ~78 ~6 ~12 wool 11  
+fill ~74 ~6 ~16 ~78 ~6 ~16 wool 11  
+fill ~74 ~6 ~47 ~88 ~6 ~47 snow 0  
+fill ~74 ~6 ~62 ~88 ~6 ~62 snow 0  
+fill ~74 ~6 ~93 ~78 ~6 ~93 wool 11  
+fill ~74 ~6 ~97 ~78 ~6 ~97 wool 11  
+fill ~75 ~6 ~49 ~80 ~6 ~49 wool 11  
+fill ~77 ~6 ~14 ~78 ~6 ~14 wool 15  
+fill ~77 ~6 ~60 ~80 ~6 ~60 wool 11  
+fill ~77 ~6 ~95 ~78 ~6 ~95 wool 15 
+setblock ~79 ~6 ~14 stone_button 1 
+setblock ~79 ~6 ~95 stone_button 1 
+setblock ~80 ~6 ~44 trapdoor 6 
+setblock ~80 ~6 ~65 trapdoor 6 
+setblock ~81 ~6 ~43 trapdoor 4 
+setblock ~81 ~6 ~44 glowstone 0 
+setblock ~81 ~6 ~45 trapdoor 5 
+setblock ~81 ~6 ~64 trapdoor 4 
+setblock ~81 ~6 ~65 glowstone 0 
+setblock ~81 ~6 ~66 trapdoor 5 
+setblock ~82 ~6 ~44 trapdoor 7 
+setblock ~82 ~6 ~65 trapdoor 7  
+fill ~83 ~6 ~41 ~97 ~6 ~41 snow 0  
+fill ~83 ~6 ~68 ~97 ~6 ~68 snow 0  
+fill ~84 ~6 ~42 ~97 ~6 ~42 snow 0  
+fill ~84 ~6 ~43 ~98 ~6 ~43 snow 0  
+fill ~84 ~6 ~44 ~99 ~6 ~44 snow 0  
+fill ~84 ~6 ~45 ~88 ~6 ~45 snow 0  
+fill ~84 ~6 ~64 ~88 ~6 ~64 snow 0  
+fill ~84 ~6 ~65 ~99 ~6 ~65 snow 0  
+fill ~84 ~6 ~66 ~98 ~6 ~66 snow 0  
+fill ~84 ~6 ~67 ~97 ~6 ~67 snow 0  
+fill ~85 ~6 ~46 ~88 ~6 ~46 snow 0  
+fill ~85 ~6 ~60 ~94 ~6 ~60 wool 11  
+fill ~85 ~6 ~63 ~88 ~6 ~63 snow 0  
+fill ~87 ~6 ~32 ~88 ~6 ~32 stone_slab 15  
+fill ~87 ~6 ~77 ~88 ~6 ~77 stone_slab 15  
+fill ~89 ~6 ~32 ~89 ~8 ~32 double_stone_slab 7  
+fill ~89 ~6 ~77 ~89 ~7 ~77 double_stone_slab 7  
+fill ~90 ~6 ~31 ~94 ~6 ~31 wool 11  
+fill ~90 ~6 ~32 ~94 ~6 ~32 wool 11  
+fill ~90 ~6 ~33 ~94 ~6 ~33 wool 11  
+fill ~90 ~6 ~76 ~94 ~6 ~76 wool 11  
+fill ~90 ~6 ~77 ~94 ~6 ~77 wool 11  
+fill ~90 ~6 ~78 ~94 ~6 ~78 wool 11  
+fill ~95 ~6 ~31 ~95 ~6 ~33 iron_block 0  
+fill ~95 ~6 ~76 ~95 ~6 ~78 iron_block 0 
+setblock ~96 ~6 ~45 snow 0  
+fill ~96 ~6 ~46 ~96 ~6 ~48 redstone_wire 0 
+setblock ~96 ~6 ~49 unpowered_repeater 0  
+fill ~96 ~6 ~50 ~96 ~6 ~52 redstone_wire 0  
+fill ~96 ~6 ~57 ~96 ~6 ~61 redstone_wire 0 
+setblock ~96 ~6 ~62 unpowered_repeater 2 
+setblock ~96 ~6 ~63 redstone_wire 0 
+setblock ~96 ~6 ~64 snow 0  
+fill ~97 ~6 ~59 ~127 ~6 ~59 wool 11  
+fill ~97 ~6 ~60 ~106 ~6 ~60 wool 11  
+fill ~99 ~6 ~45 ~100 ~6 ~45 snow 0  
+fill ~99 ~6 ~64 ~100 ~6 ~64 snow 0  
+fill ~101 ~6 ~46 ~101 ~9 ~46 snow 0  
+fill ~101 ~6 ~63 ~101 ~9 ~63 snow 0  
+fill ~102 ~6 ~47 ~103 ~6 ~47 snow 0  
+fill ~102 ~6 ~48 ~105 ~6 ~48 wool 11  
+fill ~102 ~6 ~49 ~106 ~6 ~49 wool 11  
+fill ~102 ~6 ~50 ~127 ~6 ~50 wool 11  
+fill ~102 ~6 ~61 ~105 ~6 ~61 snow 0  
+fill ~102 ~6 ~62 ~103 ~6 ~62 snow 0  
+fill ~113 ~6 ~57 ~113 ~6 ~58 redstone_wire 0  
+fill ~117 ~6 ~51 ~125 ~6 ~51 redstone_wire 0 
+setblock ~117 ~6 ~52 unpowered_repeater 2  
+fill ~117 ~6 ~53 ~124 ~6 ~53 noteblock 0  
+fill ~117 ~6 ~54 ~117 ~6 ~56 noteblock 0 
+setblock ~117 ~6 ~57 unpowered_repeater 0  
+fill ~117 ~6 ~58 ~125 ~6 ~58 redstone_wire 0  
+fill ~118 ~6 ~52 ~119 ~6 ~52 unpowered_repeater 6 
+setblock ~118 ~6 ~55 unlit_redstone_torch 5  
+fill ~118 ~6 ~56 ~124 ~6 ~56 noteblock 0 
+setblock ~118 ~6 ~57 unpowered_repeater 12 
+setblock ~119 ~6 ~57 unpowered_repeater 0 
+setblock ~120 ~6 ~52 unpowered_repeater 10 
+setblock ~120 ~6 ~57 unpowered_repeater 4 
+setblock ~121 ~6 ~52 unpowered_repeater 6  
+fill ~121 ~6 ~54 ~121 ~6 ~56 noteblock 0 
+setblock ~121 ~6 ~57 unpowered_repeater 12 
+setblock ~122 ~6 ~52 unpowered_repeater 10  
+fill ~122 ~6 ~54 ~122 ~6 ~55 powered_repeater 3  
+fill ~122 ~6 ~57 ~123 ~6 ~57 unpowered_repeater 4  
+fill ~123 ~6 ~52 ~124 ~6 ~52 unpowered_repeater 6  
+fill ~123 ~6 ~54 ~123 ~6 ~55 redstone_torch 2  
+fill ~124 ~6 ~54 ~124 ~6 ~55 wool 11 
+setblock ~124 ~6 ~57 unpowered_repeater 0 
+setblock ~125 ~6 ~52 redstone_wire 0 
+setblock ~125 ~6 ~53 unpowered_repeater 0  
+fill ~125 ~6 ~54 ~125 ~6 ~55 redstone_wire 0  
+fill ~125 ~6 ~57 ~127 ~6 ~57 redstone_wire 0 
+setblock ~126 ~6 ~54 unpowered_repeater 3  
+fill ~127 ~6 ~51 ~130 ~6 ~51 wool 11  
+fill ~127 ~6 ~54 ~130 ~6 ~54 redstone_wire 0 
+setblock ~127 ~6 ~55 unpowered_repeater 2 
+setblock ~127 ~6 ~56 redstone_wire 0  
+fill ~127 ~6 ~58 ~130 ~6 ~58 wool 11  
+fill ~129 ~6 ~52 ~132 ~6 ~52 wool 11  
+fill ~129 ~6 ~57 ~132 ~6 ~57 wool 11  
+fill ~130 ~6 ~53 ~133 ~6 ~53 wool 11  
+fill ~130 ~6 ~56 ~133 ~6 ~56 wool 11  
+fill ~131 ~6 ~54 ~134 ~6 ~54 wool 11  
+fill ~131 ~6 ~55 ~134 ~6 ~55 wool 11  
+fill ~22 ~7 ~54 ~26 ~7 ~54 wool 11  
+fill ~22 ~7 ~55 ~26 ~7 ~55 wool 11  
+fill ~23 ~7 ~53 ~28 ~7 ~53 wool 11  
+fill ~23 ~7 ~56 ~28 ~7 ~56 wool 11  
+fill ~28 ~7 ~52 ~34 ~7 ~52 wool 11  
+fill ~28 ~7 ~57 ~34 ~7 ~57 wool 11  
+fill ~34 ~7 ~51 ~40 ~7 ~51 wool 11  
+fill ~34 ~7 ~58 ~40 ~7 ~58 wool 11  
+fill ~40 ~7 ~50 ~46 ~7 ~50 wool 11  
+fill ~40 ~7 ~59 ~46 ~7 ~59 wool 11  
+fill ~46 ~7 ~49 ~80 ~7 ~49 wool 11  
+fill ~46 ~7 ~60 ~94 ~7 ~60 wool 11  
+fill ~69 ~7 ~13 ~70 ~7 ~13 stone_brick_stairs 2  
+fill ~69 ~7 ~14 ~70 ~7 ~14 stonebrick 0  
+fill ~69 ~7 ~15 ~70 ~7 ~15 stone_brick_stairs 3  
+fill ~69 ~7 ~94 ~70 ~7 ~94 stone_brick_stairs 2  
+fill ~69 ~7 ~95 ~70 ~7 ~95 stonebrick 0  
+fill ~69 ~7 ~96 ~70 ~7 ~96 stone_brick_stairs 3  
+fill ~71 ~7 ~13 ~73 ~7 ~13 wool 11  
+fill ~71 ~7 ~14 ~73 ~7 ~14 wool 11  
+fill ~71 ~7 ~15 ~73 ~7 ~15 wool 11  
+fill ~71 ~7 ~48 ~84 ~7 ~48 wool 11  
+fill ~71 ~7 ~61 ~84 ~7 ~61 snow 0  
+fill ~71 ~7 ~94 ~73 ~7 ~94 wool 11  
+fill ~71 ~7 ~95 ~73 ~7 ~95 wool 11  
+fill ~71 ~7 ~96 ~73 ~7 ~96 wool 11  
+fill ~73 ~7 ~47 ~84 ~7 ~47 snow 0  
+fill ~73 ~7 ~62 ~84 ~7 ~62 snow 0  
+fill ~74 ~7 ~12 ~78 ~7 ~12 wool 11  
+fill ~74 ~7 ~16 ~78 ~7 ~16 wool 11  
+fill ~74 ~7 ~93 ~78 ~7 ~93 wool 11  
+fill ~74 ~7 ~97 ~78 ~7 ~97 wool 11  
+fill ~75 ~7 ~46 ~84 ~7 ~46 snow 0  
+fill ~75 ~7 ~63 ~84 ~7 ~63 snow 0 
+setblock ~77 ~7 ~14 stone_brick_stairs 5 
+setblock ~77 ~7 ~95 stone_brick_stairs 5  
+fill ~78 ~7 ~36 ~91 ~7 ~36 snow 0  
+fill ~78 ~7 ~37 ~93 ~7 ~37 snow 0  
+fill ~78 ~7 ~38 ~94 ~7 ~38 snow 0  
+fill ~78 ~7 ~71 ~94 ~7 ~71 snow 0  
+fill ~78 ~7 ~72 ~93 ~7 ~72 snow 0  
+fill ~78 ~7 ~73 ~91 ~7 ~73 snow 0  
+fill ~79 ~7 ~39 ~95 ~7 ~39 snow 0  
+fill ~79 ~7 ~40 ~96 ~7 ~40 snow 0  
+fill ~79 ~7 ~41 ~82 ~7 ~41 snow 0  
+fill ~79 ~7 ~68 ~82 ~7 ~68 snow 0  
+fill ~79 ~7 ~69 ~96 ~7 ~69 snow 0  
+fill ~79 ~7 ~70 ~95 ~7 ~70 snow 0  
+fill ~80 ~7 ~42 ~83 ~7 ~42 snow 0  
+fill ~80 ~7 ~43 ~83 ~7 ~43 snow 0  
+fill ~80 ~7 ~44 ~83 ~7 ~44 snow 0  
+fill ~80 ~7 ~45 ~84 ~7 ~45 snow 0  
+fill ~80 ~7 ~64 ~84 ~7 ~64 snow 0  
+fill ~80 ~7 ~65 ~83 ~7 ~65 snow 0  
+fill ~80 ~7 ~66 ~83 ~7 ~66 snow 0  
+fill ~80 ~7 ~67 ~83 ~7 ~67 snow 0  
+fill ~83 ~7 ~32 ~84 ~7 ~32 stone_slab 15  
+fill ~83 ~7 ~77 ~84 ~7 ~77 stone_slab 15  
+fill ~85 ~7 ~32 ~92 ~7 ~32 double_stone_slab 7  
+fill ~85 ~7 ~77 ~92 ~7 ~77 double_stone_slab 7 
+setblock ~93 ~7 ~32 stone_slab 7 
+setblock ~93 ~7 ~77 stone_slab 7  
+fill ~95 ~7 ~42 ~97 ~7 ~42 snow 0  
+fill ~95 ~7 ~68 ~97 ~7 ~68 snow 0  
+fill ~96 ~7 ~43 ~98 ~7 ~43 snow 0  
+fill ~96 ~7 ~44 ~99 ~7 ~44 snow 0 
+setblock ~96 ~7 ~45 redstone_wire 0 
+setblock ~96 ~7 ~64 redstone_wire 0  
+fill ~96 ~7 ~65 ~97 ~7 ~65 snow 0  
+fill ~96 ~7 ~66 ~98 ~7 ~66 snow 0  
+fill ~96 ~7 ~67 ~97 ~7 ~67 snow 0  
+fill ~97 ~7 ~41 ~97 ~9 ~41 snow 0  
+fill ~97 ~7 ~60 ~125 ~7 ~60 wool 11 
+setblock ~99 ~7 ~65 snow 0  
+fill ~100 ~7 ~45 ~100 ~9 ~45 snow 0  
+fill ~100 ~7 ~64 ~100 ~9 ~64 snow 0  
+fill ~102 ~7 ~47 ~103 ~7 ~47 snow 0  
+fill ~102 ~7 ~48 ~105 ~7 ~48 wool 11  
+fill ~102 ~7 ~49 ~125 ~7 ~49 wool 11  
+fill ~102 ~7 ~61 ~105 ~7 ~61 snow 0  
+fill ~102 ~7 ~62 ~103 ~7 ~62 snow 0  
+fill ~113 ~7 ~59 ~118 ~7 ~59 redstone_wire 0  
+fill ~117 ~7 ~51 ~125 ~7 ~51 wool 11  
+fill ~117 ~7 ~58 ~124 ~7 ~58 wool 11 
+setblock ~119 ~7 ~59 unpowered_repeater 3  
+fill ~120 ~7 ~59 ~124 ~7 ~59 redstone_wire 0  
+fill ~124 ~7 ~54 ~124 ~7 ~55 redstone_wire 0  
+fill ~125 ~7 ~59 ~129 ~7 ~59 wool 11  
+fill ~126 ~7 ~50 ~129 ~7 ~50 wool 11 
+setblock ~127 ~7 ~57 wool 11  
+fill ~127 ~7 ~58 ~129 ~7 ~58 redstone_wire 0  
+fill ~129 ~7 ~51 ~132 ~7 ~51 wool 11 
+setblock ~129 ~7 ~52 redstone_wire 0  
+fill ~129 ~7 ~57 ~132 ~7 ~57 redstone_wire 0 
+setblock ~130 ~7 ~52 unpowered_repeater 1  
+fill ~130 ~7 ~58 ~132 ~7 ~58 wool 11 
+setblock ~131 ~7 ~52 sticky_piston 2 
+setblock ~131 ~7 ~53 wool 11  
+fill ~131 ~7 ~54 ~133 ~7 ~54 redstone_wire 0  
+fill ~132 ~7 ~56 ~133 ~7 ~56 redstone_wire 0  
+fill ~133 ~7 ~52 ~134 ~7 ~52 wool 11 
+setblock ~133 ~7 ~55 unpowered_repeater 2  
+fill ~133 ~7 ~57 ~134 ~7 ~57 wool 11  
+fill ~134 ~7 ~53 ~135 ~7 ~53 wool 11 
+setblock ~134 ~7 ~54 wooden_button 2  
+fill ~134 ~7 ~56 ~135 ~7 ~56 wool 11  
+fill ~135 ~7 ~54 ~136 ~7 ~54 wool 11  
+fill ~135 ~7 ~55 ~136 ~7 ~55 wool 7  
+fill ~18 ~8 ~54 ~21 ~8 ~54 snow 0  
+fill ~18 ~8 ~55 ~21 ~8 ~55 snow 0  
+fill ~19 ~8 ~53 ~24 ~8 ~53 snow 0  
+fill ~19 ~8 ~56 ~24 ~8 ~56 snow 0  
+fill ~24 ~8 ~52 ~30 ~8 ~52 snow 0  
+fill ~24 ~8 ~57 ~30 ~8 ~57 snow 0  
+fill ~30 ~8 ~51 ~35 ~8 ~51 snow 0  
+fill ~30 ~8 ~58 ~35 ~8 ~58 snow 0  
+fill ~35 ~8 ~50 ~41 ~8 ~50 snow 0  
+fill ~35 ~8 ~59 ~41 ~8 ~59 snow 0  
+fill ~41 ~8 ~49 ~80 ~8 ~49 snow 0  
+fill ~41 ~8 ~60 ~94 ~8 ~60 snow 0  
+fill ~68 ~8 ~42 ~71 ~8 ~42 stone_slab 15  
+fill ~68 ~8 ~67 ~71 ~8 ~67 stone_slab 15  
+fill ~71 ~8 ~14 ~72 ~8 ~14 stone_slab 15  
+fill ~71 ~8 ~48 ~80 ~8 ~48 snow 0  
+fill ~71 ~8 ~61 ~80 ~8 ~61 snow 0  
+fill ~71 ~8 ~95 ~72 ~8 ~95 stone_slab 15  
+fill ~72 ~8 ~42 ~75 ~8 ~42 double_stone_slab 7  
+fill ~72 ~8 ~67 ~75 ~8 ~67 double_stone_slab 7  
+fill ~73 ~8 ~14 ~73 ~9 ~14 double_stone_slab 7 
+setblock ~73 ~8 ~15 stone_slab 7  
+fill ~73 ~8 ~47 ~80 ~8 ~47 snow 0  
+fill ~73 ~8 ~62 ~80 ~8 ~62 snow 0  
+fill ~73 ~8 ~95 ~73 ~9 ~95 double_stone_slab 7  
+fill ~74 ~8 ~13 ~78 ~8 ~13 wool 11  
+fill ~74 ~8 ~14 ~78 ~8 ~14 wool 11  
+fill ~74 ~8 ~15 ~78 ~8 ~15 wool 11  
+fill ~74 ~8 ~37 ~77 ~8 ~37 snow 0  
+fill ~74 ~8 ~38 ~77 ~8 ~38 snow 0  
+fill ~74 ~8 ~71 ~77 ~8 ~71 snow 0  
+fill ~74 ~8 ~72 ~77 ~8 ~72 snow 0  
+fill ~74 ~8 ~94 ~78 ~8 ~94 wool 11  
+fill ~74 ~8 ~95 ~78 ~8 ~95 wool 11  
+fill ~74 ~8 ~96 ~78 ~8 ~96 wool 11  
+fill ~75 ~8 ~28 ~85 ~8 ~28 snow 0  
+fill ~75 ~8 ~29 ~86 ~8 ~29 snow 0  
+fill ~75 ~8 ~39 ~78 ~8 ~39 snow 0  
+fill ~75 ~8 ~40 ~78 ~8 ~40 snow 0  
+fill ~75 ~8 ~41 ~78 ~8 ~41 snow 0 
+setblock ~75 ~8 ~43 torch 3  
+fill ~75 ~8 ~46 ~80 ~8 ~46 snow 0  
+fill ~75 ~8 ~63 ~80 ~8 ~63 snow 0 
+setblock ~75 ~8 ~66 torch 4  
+fill ~75 ~8 ~68 ~78 ~8 ~68 snow 0  
+fill ~75 ~8 ~69 ~78 ~8 ~69 snow 0  
+fill ~75 ~8 ~70 ~78 ~8 ~70 snow 0  
+fill ~75 ~8 ~80 ~86 ~8 ~80 snow 0  
+fill ~75 ~8 ~81 ~85 ~8 ~81 snow 0  
+fill ~76 ~8 ~30 ~87 ~8 ~30 snow 0  
+fill ~76 ~8 ~31 ~88 ~8 ~31 snow 0  
+fill ~76 ~8 ~32 ~88 ~8 ~32 snow 0  
+fill ~76 ~8 ~42 ~79 ~8 ~42 snow 0  
+fill ~76 ~8 ~43 ~79 ~8 ~43 snow 0  
+fill ~76 ~8 ~44 ~79 ~8 ~44 snow 0  
+fill ~76 ~8 ~45 ~80 ~8 ~45 snow 0  
+fill ~76 ~8 ~64 ~80 ~8 ~64 snow 0  
+fill ~76 ~8 ~65 ~79 ~8 ~65 snow 0  
+fill ~76 ~8 ~66 ~79 ~8 ~66 snow 0  
+fill ~76 ~8 ~67 ~79 ~8 ~67 snow 0  
+fill ~76 ~8 ~77 ~89 ~8 ~77 snow 0  
+fill ~76 ~8 ~78 ~88 ~8 ~78 snow 0  
+fill ~76 ~8 ~79 ~87 ~8 ~79 snow 0  
+fill ~77 ~8 ~33 ~90 ~8 ~33 snow 0  
+fill ~77 ~8 ~34 ~91 ~8 ~34 snow 0  
+fill ~77 ~8 ~35 ~91 ~8 ~35 snow 0  
+fill ~77 ~8 ~74 ~91 ~8 ~74 snow 0  
+fill ~77 ~8 ~75 ~91 ~8 ~75 snow 0  
+fill ~77 ~8 ~76 ~90 ~8 ~76 snow 0  
+fill ~78 ~8 ~36 ~78 ~7 ~36 snow 0  
+fill ~78 ~8 ~73 ~78 ~7 ~73 snow 0  
+fill ~79 ~8 ~13 ~79 ~8 ~15 iron_block 0  
+fill ~79 ~8 ~94 ~79 ~8 ~96 iron_block 0  
+fill ~82 ~8 ~62 ~82 ~9 ~62 snow 0 
+setblock ~90 ~8 ~32 double_stone_slab 7 
+setblock ~90 ~8 ~77 double_stone_slab 7 
+setblock ~91 ~8 ~32 stone_slab 7  
+fill ~91 ~8 ~36 ~92 ~8 ~36 snow 0  
+fill ~91 ~8 ~73 ~92 ~8 ~73 snow 0 
+setblock ~91 ~8 ~77 stone_slab 7  
+fill ~92 ~8 ~37 ~93 ~8 ~37 snow 0  
+fill ~92 ~8 ~72 ~93 ~8 ~72 snow 0  
+fill ~93 ~8 ~38 ~94 ~8 ~38 snow 0  
+fill ~93 ~8 ~71 ~94 ~8 ~71 snow 0  
+fill ~94 ~8 ~39 ~95 ~8 ~39 snow 0  
+fill ~94 ~8 ~70 ~95 ~8 ~70 snow 0  
+fill ~95 ~8 ~40 ~96 ~8 ~40 snow 0  
+fill ~96 ~8 ~41 ~96 ~9 ~41 snow 0 
+setblock ~96 ~8 ~42 redstone_lamp 0 
+setblock ~96 ~8 ~43 unpowered_repeater 0 
+setblock ~96 ~8 ~44 redstone_wire 0 
+setblock ~96 ~8 ~65 redstone_wire 0 
+setblock ~96 ~8 ~66 unpowered_repeater 2 
+setblock ~96 ~8 ~67 redstone_lamp 0  
+fill ~96 ~8 ~69 ~96 ~9 ~69 snow 0 
+setblock ~97 ~8 ~42 glass 0  
+fill ~97 ~8 ~43 ~98 ~8 ~43 snow 0 
+setblock ~97 ~8 ~44 unpowered_repeater 1  
+fill ~97 ~8 ~60 ~127 ~8 ~60 snow 0 
+setblock ~97 ~8 ~65 unpowered_repeater 1  
+fill ~97 ~8 ~66 ~98 ~8 ~66 snow 0 
+setblock ~97 ~8 ~67 glass 0  
+fill ~97 ~8 ~68 ~97 ~9 ~68 snow 0 
+setblock ~98 ~8 ~44 redstone_lamp 0 
+setblock ~98 ~8 ~65 redstone_lamp 0 
+setblock ~99 ~8 ~44 glass 0  
+fill ~99 ~8 ~45 ~99 ~9 ~45 snow 0  
+fill ~99 ~8 ~64 ~99 ~9 ~64 snow 0 
+setblock ~99 ~8 ~65 glass 0  
+fill ~100 ~8 ~46 ~100 ~9 ~46 snow 0  
+fill ~100 ~8 ~63 ~100 ~9 ~63 snow 0  
+fill ~101 ~8 ~47 ~103 ~8 ~47 snow 0  
+fill ~101 ~8 ~62 ~103 ~8 ~62 snow 0  
+fill ~102 ~8 ~48 ~105 ~8 ~48 snow 0  
+fill ~102 ~8 ~49 ~127 ~8 ~49 snow 0  
+fill ~102 ~8 ~61 ~105 ~8 ~61 snow 0 
+setblock ~125 ~8 ~59 redstone_wire 0 
+setblock ~126 ~8 ~59 unpowered_repeater 3 
+setblock ~127 ~8 ~59 redstone_wire 0  
+fill ~128 ~8 ~50 ~131 ~8 ~50 snow 0  
+fill ~128 ~8 ~59 ~131 ~8 ~59 snow 0  
+fill ~132 ~8 ~51 ~134 ~8 ~51 snow 0  
+fill ~132 ~8 ~58 ~134 ~8 ~58 snow 0  
+fill ~135 ~8 ~52 ~136 ~8 ~52 snow 0  
+fill ~135 ~8 ~57 ~136 ~8 ~57 snow 0  
+fill ~136 ~8 ~54 ~138 ~8 ~54 snow 0  
+fill ~136 ~8 ~56 ~137 ~8 ~56 snow 0  
+fill ~137 ~8 ~55 ~138 ~8 ~55 snow 0  
+fill ~14 ~9 ~54 ~37 ~9 ~54 snow 0  
+fill ~14 ~9 ~55 ~37 ~9 ~55 snow 0  
+fill ~15 ~9 ~53 ~29 ~9 ~53 snow 0  
+fill ~15 ~9 ~56 ~29 ~9 ~56 snow 0  
+fill ~20 ~9 ~52 ~36 ~9 ~52 snow 0  
+fill ~20 ~9 ~57 ~36 ~9 ~57 snow 0  
+fill ~26 ~9 ~51 ~36 ~9 ~51 snow 0  
+fill ~26 ~9 ~58 ~36 ~9 ~58 snow 0 
+setblock ~30 ~9 ~53 cauldron 2 
+setblock ~30 ~9 ~56 cauldron 2  
+fill ~31 ~9 ~53 ~37 ~9 ~53 snow 0  
+fill ~31 ~9 ~56 ~37 ~9 ~56 snow 0  
+fill ~32 ~9 ~50 ~37 ~9 ~50 snow 0  
+fill ~32 ~9 ~59 ~37 ~9 ~59 snow 0  
+fill ~37 ~9 ~51 ~120 ~9 ~51 wool 7  
+fill ~37 ~9 ~52 ~128 ~9 ~52 wool 7  
+fill ~37 ~9 ~57 ~78 ~9 ~57 wool 7  
+fill ~37 ~9 ~58 ~104 ~9 ~58 wool 7  
+fill ~38 ~9 ~49 ~46 ~9 ~49 snow 0  
+fill ~38 ~9 ~50 ~39 ~9 ~50 wool 9  
+fill ~38 ~9 ~53 ~38 ~9 ~56 wool 9  
+fill ~38 ~9 ~59 ~39 ~9 ~59 wool 9  
+fill ~38 ~9 ~60 ~46 ~9 ~60 snow 0  
+fill ~39 ~9 ~53 ~39 ~9 ~56 snow 0 
+setblock ~40 ~9 ~50 snow 0  
+fill ~40 ~9 ~53 ~40 ~9 ~56 wool 9 
+setblock ~40 ~9 ~59 snow 0 
+setblock ~41 ~9 ~50 wool 9  
+fill ~41 ~9 ~53 ~41 ~9 ~56 snow 0 
+setblock ~41 ~9 ~59 wool 9 
+setblock ~42 ~9 ~50 snow 0  
+fill ~42 ~9 ~53 ~42 ~9 ~56 wool 9 
+setblock ~42 ~9 ~59 snow 0 
+setblock ~43 ~9 ~50 wool 9  
+fill ~43 ~9 ~53 ~43 ~9 ~56 snow 0 
+setblock ~43 ~9 ~59 wool 9 
+setblock ~44 ~9 ~50 snow 0  
+fill ~44 ~9 ~53 ~44 ~9 ~56 wool 9 
+setblock ~44 ~9 ~59 snow 0 
+setblock ~45 ~9 ~50 wool 9  
+fill ~45 ~9 ~53 ~45 ~9 ~56 snow 0 
+setblock ~45 ~9 ~59 wool 9  
+fill ~46 ~9 ~48 ~121 ~9 ~48 snow 0 
+setblock ~46 ~9 ~50 snow 0  
+fill ~46 ~9 ~53 ~46 ~9 ~56 wool 9 
+setblock ~46 ~9 ~59 snow 0  
+fill ~46 ~9 ~61 ~121 ~9 ~61 snow 0  
+fill ~47 ~9 ~49 ~47 ~9 ~50 wool 9  
+fill ~47 ~9 ~53 ~47 ~9 ~56 snow 0  
+fill ~47 ~9 ~59 ~47 ~9 ~60 wool 9  
+fill ~48 ~9 ~49 ~48 ~9 ~50 snow 0  
+fill ~48 ~9 ~53 ~48 ~9 ~56 wool 9  
+fill ~48 ~9 ~59 ~48 ~9 ~61 snow 0  
+fill ~49 ~9 ~49 ~49 ~9 ~50 wool 9  
+fill ~49 ~9 ~53 ~49 ~9 ~56 snow 0  
+fill ~49 ~9 ~59 ~49 ~9 ~60 wool 9  
+fill ~50 ~9 ~49 ~50 ~9 ~50 snow 0  
+fill ~50 ~9 ~53 ~50 ~9 ~56 wool 9  
+fill ~50 ~9 ~59 ~50 ~9 ~61 snow 0  
+fill ~51 ~9 ~49 ~51 ~9 ~50 wool 9  
+fill ~51 ~9 ~53 ~51 ~9 ~56 snow 0  
+fill ~51 ~9 ~59 ~51 ~9 ~60 wool 9  
+fill ~52 ~9 ~49 ~52 ~9 ~50 snow 0  
+fill ~52 ~9 ~53 ~52 ~9 ~56 wool 9  
+fill ~52 ~9 ~59 ~52 ~9 ~61 snow 0  
+fill ~53 ~9 ~49 ~53 ~9 ~50 wool 9  
+fill ~53 ~9 ~53 ~53 ~9 ~56 snow 0  
+fill ~53 ~9 ~59 ~53 ~9 ~60 wool 9  
+fill ~54 ~9 ~49 ~54 ~9 ~50 snow 0  
+fill ~54 ~9 ~53 ~54 ~9 ~56 wool 9  
+fill ~54 ~9 ~59 ~54 ~9 ~61 snow 0  
+fill ~55 ~9 ~49 ~55 ~9 ~50 wool 9  
+fill ~55 ~9 ~53 ~55 ~9 ~56 snow 0  
+fill ~55 ~9 ~59 ~55 ~9 ~60 wool 9  
+fill ~56 ~9 ~49 ~56 ~9 ~50 snow 0  
+fill ~56 ~9 ~53 ~56 ~9 ~56 wool 9  
+fill ~56 ~9 ~59 ~56 ~9 ~61 snow 0  
+fill ~57 ~9 ~49 ~57 ~9 ~50 wool 9  
+fill ~57 ~9 ~53 ~57 ~9 ~56 snow 0  
+fill ~57 ~9 ~59 ~57 ~9 ~60 wool 9  
+fill ~58 ~9 ~49 ~58 ~9 ~50 snow 0  
+fill ~58 ~9 ~53 ~58 ~9 ~56 wool 9  
+fill ~58 ~9 ~59 ~58 ~9 ~61 snow 0  
+fill ~59 ~9 ~49 ~59 ~9 ~50 wool 9  
+fill ~59 ~9 ~53 ~59 ~9 ~56 snow 0  
+fill ~59 ~9 ~59 ~59 ~9 ~60 wool 9  
+fill ~60 ~9 ~49 ~60 ~9 ~50 snow 0  
+fill ~60 ~9 ~53 ~60 ~9 ~56 wool 9  
+fill ~60 ~9 ~59 ~60 ~9 ~61 snow 0  
+fill ~61 ~9 ~49 ~61 ~9 ~50 wool 9  
+fill ~61 ~9 ~53 ~62 ~9 ~53 snow 0  
+fill ~61 ~9 ~54 ~61 ~9 ~56 snow 0  
+fill ~61 ~9 ~59 ~61 ~9 ~60 wool 9  
+fill ~62 ~9 ~49 ~62 ~9 ~50 snow 0  
+fill ~62 ~9 ~54 ~67 ~9 ~54 wool 9  
+fill ~62 ~9 ~55 ~67 ~9 ~55 wool 9 
+setblock ~62 ~9 ~56 snow 0  
+fill ~62 ~9 ~59 ~62 ~9 ~61 snow 0  
+fill ~63 ~9 ~49 ~65 ~9 ~49 wool 9  
+fill ~63 ~9 ~50 ~65 ~9 ~50 wool 9  
+fill ~63 ~9 ~53 ~66 ~9 ~53 wool 9  
+fill ~63 ~9 ~56 ~66 ~9 ~56 wool 9  
+fill ~63 ~9 ~59 ~65 ~9 ~59 wool 9  
+fill ~63 ~9 ~60 ~65 ~9 ~60 wool 9  
+fill ~65 ~9 ~35 ~68 ~9 ~35 stone_slab 15  
+fill ~65 ~9 ~74 ~68 ~9 ~74 stone_slab 15  
+fill ~66 ~9 ~49 ~66 ~9 ~50 snow 0  
+fill ~66 ~9 ~59 ~66 ~9 ~61 snow 0  
+fill ~67 ~9 ~14 ~68 ~9 ~14 stone_slab 15  
+fill ~67 ~9 ~49 ~67 ~9 ~50 wool 9  
+fill ~67 ~9 ~53 ~69 ~9 ~53 snow 0  
+fill ~67 ~9 ~56 ~69 ~9 ~56 snow 0  
+fill ~67 ~9 ~59 ~67 ~9 ~60 wool 9  
+fill ~67 ~9 ~95 ~68 ~9 ~95 stone_slab 15  
+fill ~68 ~9 ~49 ~68 ~9 ~50 snow 0  
+fill ~68 ~9 ~54 ~69 ~9 ~54 snow 0  
+fill ~68 ~9 ~55 ~69 ~9 ~55 snow 0  
+fill ~68 ~9 ~59 ~68 ~9 ~61 snow 0  
+fill ~69 ~9 ~14 ~76 ~9 ~14 double_stone_slab 7  
+fill ~69 ~9 ~25 ~83 ~9 ~25 snow 0  
+fill ~69 ~9 ~35 ~72 ~9 ~35 double_stone_slab 7  
+fill ~69 ~9 ~49 ~69 ~9 ~50 wool 9  
+fill ~69 ~9 ~59 ~69 ~9 ~60 wool 9  
+fill ~69 ~9 ~74 ~72 ~9 ~74 double_stone_slab 7  
+summon Item ~7.04332399693 ~0.125 ~72.2166721488 
+summon Chicken ~20.3589858244 ~0.0 ~0.471584019931 
+summon Painting ~48.9375 ~12.5 ~52.0 
+summon Painting ~48.9375 ~12.5 ~58.0 
+summon Painting ~60.9375 ~11.5 ~55.0 
+summon Chicken ~67.6693326561 ~10.3125 ~55.4893538022 
+summon Chicken ~67.4900725295 ~10.3125 ~54.3352279978 
+summon Painting ~67.9375 ~12.5 ~52.0 
+summon Chicken ~80.5662090443 ~8.0 ~44.551282363 
+summon Chicken ~79.3149546062 ~10.0 ~49.6036464968 
+summon Painting ~77.9375 ~11.5 ~55.0 
+summon Chicken ~84.5069342141 ~10.0 ~55.5468538525 
+summon Painting ~81.9375 ~12.5 ~52.0 
+summon Chicken ~85.7376553836 ~10.5 ~55.3860670232 
+summon Sheep ~80.1787438041 ~0.0 ~91.8057752311 
+summon Painting ~90.9375 ~11.5 ~55.0 
+summon Painting ~110.9375 ~12.5 ~52.0 
+summon Painting ~118.9375 ~11.5 ~54.0 
+summon Painting ~118.9375 ~11.5 ~50.0 
+summon Painting ~104.9375 ~11.5 ~60.0 
+summon Chicken ~107.353203482 ~15.0 ~57.6608464459 
+summon Cow ~105.512623952 ~0.0 ~106.295421042 
+summon Painting ~132.9375 ~11.5 ~51.5 
+summon Painting ~128.9375 ~11.5 ~50.5 
+summon Painting ~127.9375 ~16.5 ~54.5 
+summon Painting ~134.9375 ~11.5 ~55.0 
+summon Painting ~132.9375 ~11.5 ~58.5 
+summon Painting ~128.9375 ~11.5 ~59.5 
+summon Sheep ~129.977473101 ~0.0 ~95.9672899672 
+summon Sheep ~124.038896684 ~0.0 ~103.9852227  
+fill ~69 ~9 ~84 ~83 ~9 ~84 snow 0  
+fill ~69 ~9 ~95 ~76 ~9 ~95 double_stone_slab 7  
+fill ~70 ~9 ~26 ~84 ~9 ~26 snow 0  
+fill ~70 ~9 ~27 ~85 ~9 ~27 snow 0  
+fill ~70 ~9 ~37 ~93 ~9 ~37 snow 0  
+fill ~70 ~9 ~38 ~94 ~9 ~38 snow 0  
+fill ~70 ~9 ~49 ~70 ~9 ~50 snow 0  
+fill ~70 ~9 ~53 ~70 ~9 ~56 wool 9  
+fill ~70 ~9 ~59 ~70 ~9 ~61 snow 0  
+fill ~70 ~9 ~71 ~94 ~9 ~71 snow 0  
+fill ~70 ~9 ~72 ~93 ~9 ~72 snow 0  
+fill ~70 ~9 ~82 ~85 ~9 ~82 snow 0  
+fill ~70 ~9 ~83 ~84 ~9 ~83 snow 0  
+fill ~71 ~9 ~20 ~78 ~9 ~20 snow 0  
+fill ~71 ~9 ~21 ~78 ~9 ~21 snow 0  
+fill ~71 ~9 ~28 ~74 ~9 ~28 snow 0  
+fill ~71 ~9 ~29 ~74 ~9 ~29 snow 0  
+fill ~71 ~9 ~39 ~95 ~9 ~39 snow 0  
+fill ~71 ~9 ~40 ~96 ~9 ~40 snow 0  
+fill ~71 ~9 ~41 ~97 ~9 ~41 snow 0  
+fill ~71 ~9 ~49 ~71 ~9 ~50 wool 9  
+fill ~71 ~9 ~53 ~71 ~9 ~56 snow 0  
+fill ~71 ~9 ~59 ~71 ~9 ~60 wool 9  
+fill ~71 ~9 ~68 ~97 ~9 ~68 snow 0  
+fill ~71 ~9 ~69 ~96 ~9 ~69 snow 0  
+fill ~71 ~9 ~70 ~95 ~9 ~70 snow 0  
+fill ~71 ~9 ~80 ~74 ~9 ~80 snow 0  
+fill ~71 ~9 ~81 ~74 ~9 ~81 snow 0  
+fill ~71 ~9 ~88 ~78 ~9 ~88 snow 0  
+fill ~71 ~9 ~89 ~78 ~9 ~89 snow 0  
+fill ~72 ~9 ~22 ~79 ~9 ~22 snow 0  
+fill ~72 ~9 ~23 ~80 ~9 ~23 snow 0  
+fill ~72 ~9 ~30 ~75 ~9 ~30 snow 0  
+fill ~72 ~9 ~31 ~75 ~9 ~31 snow 0  
+fill ~72 ~9 ~32 ~75 ~9 ~32 snow 0 
+setblock ~72 ~9 ~34 torch 4 
+setblock ~72 ~9 ~36 torch 3  
+fill ~72 ~9 ~42 ~97 ~9 ~42 snow 0  
+fill ~72 ~9 ~43 ~98 ~9 ~43 snow 0  
+fill ~72 ~9 ~44 ~99 ~9 ~44 snow 0  
+fill ~72 ~9 ~45 ~100 ~9 ~45 snow 0  
+fill ~72 ~9 ~49 ~72 ~9 ~50 snow 0  
+fill ~72 ~9 ~53 ~72 ~9 ~56 wool 9  
+fill ~72 ~9 ~59 ~72 ~9 ~61 snow 0  
+fill ~72 ~9 ~64 ~100 ~9 ~64 snow 0  
+fill ~72 ~9 ~65 ~99 ~9 ~65 snow 0  
+fill ~72 ~9 ~66 ~98 ~9 ~66 snow 0  
+fill ~72 ~9 ~67 ~97 ~9 ~67 snow 0 
+setblock ~72 ~9 ~73 torch 4 
+setblock ~72 ~9 ~75 torch 3  
+fill ~72 ~9 ~77 ~75 ~9 ~77 snow 0  
+fill ~72 ~9 ~78 ~75 ~9 ~78 snow 0  
+fill ~72 ~9 ~79 ~75 ~9 ~79 snow 0  
+fill ~72 ~9 ~86 ~80 ~9 ~86 snow 0  
+fill ~72 ~9 ~87 ~79 ~9 ~87 snow 0  
+fill ~73 ~9 ~24 ~81 ~9 ~24 snow 0  
+fill ~73 ~9 ~33 ~76 ~9 ~33 snow 0  
+fill ~73 ~9 ~34 ~76 ~9 ~34 snow 0  
+fill ~73 ~9 ~35 ~76 ~9 ~35 snow 0  
+fill ~73 ~9 ~46 ~101 ~9 ~46 snow 0  
+fill ~73 ~9 ~47 ~103 ~9 ~47 snow 0  
+fill ~73 ~9 ~49 ~73 ~9 ~50 wool 9  
+fill ~73 ~9 ~53 ~73 ~9 ~56 snow 0  
+fill ~73 ~9 ~59 ~73 ~9 ~60 wool 9  
+fill ~73 ~9 ~62 ~103 ~9 ~62 snow 0  
+fill ~73 ~9 ~63 ~101 ~9 ~63 snow 0  
+fill ~73 ~9 ~74 ~76 ~9 ~74 snow 0  
+fill ~73 ~9 ~75 ~76 ~9 ~75 snow 0  
+fill ~73 ~9 ~76 ~76 ~9 ~76 snow 0  
+fill ~73 ~9 ~85 ~81 ~9 ~85 snow 0  
+fill ~74 ~9 ~36 ~77 ~9 ~36 snow 0 
+setblock ~74 ~9 ~49 snow 0  
+fill ~74 ~9 ~50 ~75 ~9 ~50 wool 9  
+fill ~74 ~9 ~53 ~74 ~9 ~56 wool 9  
+fill ~74 ~9 ~59 ~74 ~9 ~89 snow 0 
+setblock ~75 ~9 ~49 wool 9  
+fill ~75 ~9 ~53 ~75 ~9 ~56 snow 0  
+fill ~75 ~9 ~59 ~75 ~9 ~60 wool 9  
+fill ~75 ~9 ~73 ~77 ~9 ~73 snow 0  
+fill ~76 ~9 ~49 ~76 ~9 ~50 snow 0  
+fill ~76 ~9 ~53 ~77 ~9 ~53 wool 9  
+fill ~76 ~9 ~54 ~77 ~9 ~54 wool 9  
+fill ~76 ~9 ~55 ~77 ~9 ~55 wool 9  
+fill ~76 ~9 ~56 ~77 ~9 ~56 wool 9  
+fill ~76 ~9 ~59 ~76 ~9 ~76 snow 0 
+setblock ~77 ~9 ~14 stone_slab 7  
+fill ~77 ~9 ~49 ~77 ~9 ~50 wool 9  
+fill ~77 ~9 ~59 ~77 ~9 ~60 wool 9 
+setblock ~77 ~9 ~95 stone_slab 7  
+fill ~78 ~9 ~49 ~78 ~9 ~50 snow 0  
+fill ~78 ~9 ~53 ~80 ~9 ~53 snow 0  
+fill ~78 ~9 ~54 ~80 ~9 ~54 snow 0  
+fill ~78 ~9 ~55 ~78 ~9 ~56 snow 0  
+fill ~78 ~9 ~59 ~78 ~9 ~72 snow 0  
+fill ~79 ~9 ~49 ~79 ~9 ~50 wool 9 
+setblock ~79 ~9 ~55 cauldron 2  
+fill ~79 ~9 ~56 ~80 ~9 ~56 snow 0  
+fill ~79 ~9 ~59 ~79 ~9 ~60 wool 9  
+fill ~80 ~9 ~49 ~80 ~9 ~50 snow 0 
+setblock ~80 ~9 ~55 snow 0  
+fill ~80 ~9 ~57 ~104 ~9 ~57 wool 7  
+fill ~80 ~9 ~59 ~80 ~9 ~72 snow 0  
+fill ~81 ~9 ~49 ~83 ~9 ~49 wool 9  
+fill ~81 ~9 ~50 ~83 ~9 ~50 wool 9  
+fill ~81 ~9 ~53 ~82 ~9 ~53 wool 9  
+fill ~81 ~9 ~54 ~82 ~9 ~54 wool 9  
+fill ~81 ~9 ~55 ~82 ~9 ~55 wool 9  
+fill ~81 ~9 ~56 ~82 ~9 ~56 wool 9  
+fill ~81 ~9 ~59 ~83 ~9 ~59 wool 9  
+fill ~81 ~9 ~60 ~83 ~9 ~60 wool 9  
+fill ~83 ~9 ~53 ~83 ~9 ~56 snow 0  
+fill ~84 ~9 ~49 ~84 ~9 ~50 snow 0  
+fill ~84 ~9 ~53 ~84 ~9 ~56 wool 9  
+fill ~84 ~9 ~59 ~84 ~9 ~72 snow 0  
+fill ~85 ~9 ~28 ~85 ~10 ~28 snow 0  
+fill ~85 ~9 ~49 ~85 ~9 ~50 wool 9  
+fill ~85 ~9 ~53 ~85 ~9 ~56 snow 0  
+fill ~85 ~9 ~59 ~85 ~9 ~60 wool 9  
+fill ~85 ~9 ~81 ~85 ~10 ~81 snow 0  
+fill ~86 ~9 ~29 ~86 ~10 ~29 snow 0  
+fill ~86 ~9 ~49 ~86 ~9 ~50 snow 0  
+fill ~86 ~9 ~53 ~86 ~9 ~56 wool 9  
+fill ~86 ~9 ~59 ~86 ~9 ~72 snow 0  
+fill ~86 ~9 ~80 ~86 ~10 ~80 snow 0  
+fill ~87 ~9 ~30 ~87 ~10 ~30 snow 0  
+fill ~87 ~9 ~49 ~87 ~9 ~50 wool 9  
+fill ~87 ~9 ~53 ~87 ~9 ~56 snow 0  
+fill ~87 ~9 ~59 ~87 ~9 ~60 wool 9  
+fill ~87 ~9 ~79 ~87 ~10 ~79 snow 0  
+fill ~88 ~9 ~31 ~88 ~10 ~31 snow 0  
+fill ~88 ~9 ~49 ~88 ~9 ~50 snow 0  
+fill ~88 ~9 ~53 ~88 ~9 ~56 wool 9  
+fill ~88 ~9 ~59 ~88 ~9 ~72 snow 0  
+fill ~88 ~9 ~78 ~88 ~10 ~78 snow 0  
+fill ~89 ~9 ~32 ~89 ~10 ~32 snow 0  
+fill ~89 ~9 ~49 ~89 ~9 ~50 wool 9  
+fill ~89 ~9 ~53 ~89 ~9 ~56 snow 0  
+fill ~89 ~9 ~59 ~89 ~9 ~60 wool 9  
+fill ~89 ~9 ~77 ~89 ~10 ~77 snow 0  
+fill ~90 ~9 ~33 ~90 ~10 ~33 snow 0  
+fill ~90 ~9 ~49 ~90 ~9 ~50 snow 0  
+fill ~90 ~9 ~53 ~90 ~9 ~56 wool 9  
+fill ~90 ~9 ~59 ~90 ~9 ~72 snow 0  
+fill ~90 ~9 ~76 ~90 ~10 ~76 snow 0  
+fill ~91 ~9 ~34 ~91 ~10 ~34 snow 0  
+fill ~91 ~9 ~35 ~91 ~10 ~35 snow 0  
+fill ~91 ~9 ~49 ~91 ~9 ~50 wool 9  
+fill ~91 ~9 ~53 ~95 ~9 ~53 snow 0  
+fill ~91 ~9 ~54 ~95 ~9 ~54 snow 0  
+fill ~91 ~9 ~55 ~95 ~9 ~55 snow 0  
+fill ~91 ~9 ~56 ~95 ~9 ~56 snow 0  
+fill ~91 ~9 ~59 ~91 ~9 ~60 wool 9  
+fill ~91 ~9 ~74 ~91 ~10 ~74 snow 0  
+fill ~91 ~9 ~75 ~91 ~10 ~75 snow 0  
+fill ~92 ~9 ~36 ~92 ~10 ~36 snow 0  
+fill ~92 ~9 ~49 ~92 ~9 ~50 snow 0  
+fill ~92 ~9 ~59 ~92 ~9 ~73 snow 0  
+fill ~93 ~9 ~49 ~93 ~9 ~50 wool 9  
+fill ~93 ~9 ~59 ~93 ~9 ~60 wool 9  
+fill ~94 ~9 ~49 ~94 ~9 ~50 snow 0  
+fill ~94 ~9 ~59 ~94 ~9 ~71 snow 0  
+fill ~95 ~9 ~49 ~95 ~9 ~50 wool 9  
+fill ~95 ~9 ~59 ~95 ~9 ~60 wool 9  
+fill ~96 ~9 ~49 ~96 ~9 ~50 snow 0  
+fill ~96 ~9 ~53 ~97 ~9 ~53 wool 9  
+fill ~96 ~9 ~54 ~97 ~9 ~54 wool 9  
+fill ~96 ~9 ~55 ~97 ~9 ~55 wool 9  
+fill ~96 ~9 ~56 ~97 ~9 ~56 wool 9  
+fill ~96 ~9 ~59 ~96 ~9 ~69 snow 0  
+fill ~97 ~9 ~49 ~97 ~9 ~50 wool 9  
+fill ~97 ~9 ~59 ~97 ~9 ~60 wool 9  
+fill ~98 ~9 ~49 ~98 ~9 ~50 snow 0  
+fill ~98 ~9 ~53 ~102 ~9 ~53 snow 0  
+fill ~98 ~9 ~54 ~102 ~9 ~54 snow 0  
+fill ~98 ~9 ~55 ~118 ~9 ~55 snow 0  
+fill ~98 ~9 ~56 ~107 ~9 ~56 snow 0  
+fill ~98 ~9 ~59 ~98 ~9 ~66 snow 0  
+fill ~99 ~9 ~49 ~99 ~9 ~50 wool 9  
+fill ~99 ~9 ~59 ~99 ~9 ~60 wool 9  
+fill ~100 ~9 ~49 ~100 ~9 ~50 snow 0  
+fill ~100 ~9 ~59 ~100 ~9 ~64 snow 0  
+fill ~101 ~9 ~49 ~101 ~9 ~50 wool 9  
+fill ~101 ~9 ~59 ~101 ~9 ~60 wool 9  
+fill ~102 ~9 ~49 ~102 ~8 ~49 snow 0  
+fill ~102 ~9 ~50 ~102 ~9 ~47 snow 0  
+fill ~102 ~9 ~59 ~102 ~9 ~62 snow 0  
+fill ~103 ~9 ~49 ~105 ~9 ~49 wool 9  
+fill ~103 ~9 ~50 ~105 ~9 ~50 wool 9  
+fill ~103 ~9 ~53 ~106 ~9 ~53 wool 9  
+fill ~103 ~9 ~54 ~106 ~9 ~54 wool 9  
+fill ~103 ~9 ~59 ~104 ~9 ~59 wool 9  
+fill ~103 ~9 ~60 ~104 ~9 ~60 wool 9  
+fill ~105 ~9 ~57 ~115 ~9 ~57 wool 1  
+fill ~105 ~9 ~58 ~116 ~9 ~58 wool 1  
+fill ~105 ~9 ~59 ~105 ~12 ~59 snow 0  
+fill ~105 ~9 ~60 ~105 ~14 ~60 snow 0  
+fill ~106 ~9 ~49 ~106 ~9 ~50 snow 0  
+fill ~106 ~9 ~59 ~117 ~9 ~59 wool 1  
+fill ~106 ~9 ~60 ~116 ~9 ~60 wool 1  
+fill ~107 ~9 ~49 ~107 ~9 ~50 wool 9  
+fill ~107 ~9 ~53 ~107 ~9 ~56 snow 0  
+fill ~108 ~9 ~49 ~108 ~9 ~50 snow 0  
+fill ~108 ~9 ~53 ~108 ~9 ~54 wool 9  
+fill ~108 ~9 ~56 ~113 ~9 ~56 wool 1  
+fill ~109 ~9 ~49 ~109 ~9 ~50 wool 9  
+fill ~109 ~9 ~53 ~109 ~9 ~55 snow 0  
+fill ~110 ~9 ~49 ~110 ~9 ~50 snow 0  
+fill ~110 ~9 ~53 ~110 ~9 ~54 wool 9  
+fill ~111 ~9 ~49 ~111 ~9 ~50 wool 9  
+fill ~111 ~9 ~53 ~111 ~9 ~55 snow 0  
+fill ~112 ~9 ~49 ~112 ~9 ~50 snow 0  
+fill ~112 ~9 ~53 ~112 ~9 ~54 wool 9  
+fill ~113 ~9 ~49 ~113 ~9 ~50 wool 9  
+fill ~113 ~9 ~53 ~113 ~9 ~55 snow 0  
+fill ~114 ~9 ~49 ~114 ~9 ~50 snow 0  
+fill ~114 ~9 ~53 ~114 ~9 ~54 wool 9  
+fill ~114 ~9 ~56 ~116 ~9 ~56 snow 0  
+fill ~115 ~9 ~49 ~115 ~9 ~50 wool 9  
+fill ~115 ~9 ~53 ~115 ~9 ~56 snow 0  
+fill ~116 ~9 ~49 ~116 ~9 ~50 snow 0  
+fill ~116 ~9 ~53 ~116 ~9 ~54 wool 9  
+fill ~116 ~9 ~57 ~118 ~9 ~57 snow 0  
+fill ~117 ~9 ~49 ~117 ~9 ~50 wool 9  
+fill ~117 ~9 ~53 ~117 ~9 ~55 snow 0 
+setblock ~117 ~9 ~56 cauldron 2  
+fill ~117 ~9 ~58 ~117 ~12 ~58 snow 0  
+fill ~117 ~9 ~60 ~117 ~14 ~60 snow 0  
+fill ~118 ~9 ~49 ~118 ~9 ~50 snow 0  
+fill ~118 ~9 ~53 ~119 ~9 ~53 wool 9  
+fill ~118 ~9 ~54 ~122 ~9 ~54 wool 9  
+fill ~118 ~9 ~56 ~119 ~9 ~56 snow 0  
+fill ~118 ~9 ~58 ~122 ~9 ~58 wool 9  
+fill ~118 ~9 ~59 ~122 ~9 ~59 wool 9  
+fill ~118 ~9 ~60 ~121 ~9 ~60 wool 9  
+fill ~119 ~9 ~49 ~121 ~9 ~49 wool 9  
+fill ~119 ~9 ~50 ~122 ~9 ~50 wool 9  
+fill ~119 ~9 ~55 ~122 ~9 ~55 wool 9  
+fill ~119 ~9 ~57 ~128 ~9 ~57 wool 7  
+fill ~120 ~9 ~53 ~130 ~9 ~53 wool 7  
+fill ~120 ~9 ~56 ~130 ~9 ~56 wool 7  
+fill ~121 ~9 ~51 ~122 ~9 ~51 wool 9  
+fill ~122 ~9 ~49 ~128 ~9 ~49 snow 0  
+fill ~122 ~9 ~60 ~128 ~9 ~60 snow 0  
+fill ~123 ~9 ~50 ~124 ~9 ~50 snow 0  
+fill ~123 ~9 ~51 ~124 ~9 ~51 snow 0  
+fill ~123 ~9 ~54 ~124 ~9 ~54 snow 0  
+fill ~123 ~9 ~55 ~124 ~9 ~55 snow 0  
+fill ~123 ~9 ~58 ~124 ~9 ~58 snow 0  
+fill ~123 ~9 ~59 ~124 ~9 ~59 snow 0  
+fill ~125 ~9 ~50 ~125 ~9 ~51 wool 9  
+fill ~125 ~9 ~54 ~127 ~9 ~54 wool 9  
+fill ~125 ~9 ~55 ~127 ~9 ~55 wool 9  
+fill ~125 ~9 ~58 ~125 ~9 ~59 wool 9  
+fill ~126 ~9 ~50 ~127 ~9 ~50 snow 0  
+fill ~126 ~9 ~51 ~127 ~9 ~51 snow 0  
+fill ~126 ~9 ~58 ~127 ~9 ~58 snow 0  
+fill ~126 ~9 ~59 ~127 ~9 ~59 snow 0  
+fill ~128 ~9 ~50 ~128 ~9 ~51 wool 9  
+fill ~128 ~9 ~54 ~128 ~12 ~54 snow 0  
+fill ~128 ~9 ~58 ~128 ~9 ~59 wool 9  
+fill ~129 ~9 ~50 ~132 ~9 ~50 snow 0  
+fill ~129 ~9 ~51 ~130 ~9 ~51 snow 0  
+fill ~129 ~9 ~52 ~130 ~9 ~52 snow 0  
+fill ~129 ~9 ~54 ~132 ~9 ~54 wool 7  
+fill ~129 ~9 ~55 ~132 ~9 ~55 wool 7  
+fill ~129 ~9 ~57 ~130 ~9 ~57 snow 0  
+fill ~129 ~9 ~58 ~130 ~9 ~58 snow 0  
+fill ~129 ~9 ~59 ~132 ~9 ~59 snow 0  
+fill ~131 ~9 ~51 ~132 ~9 ~51 wool 9  
+fill ~131 ~9 ~52 ~131 ~9 ~53 wool 9  
+fill ~131 ~9 ~56 ~131 ~9 ~58 wool 9  
+fill ~132 ~9 ~52 ~133 ~9 ~52 snow 0  
+fill ~132 ~9 ~53 ~133 ~9 ~53 snow 0  
+fill ~132 ~9 ~56 ~133 ~9 ~56 snow 0  
+fill ~132 ~9 ~57 ~133 ~9 ~57 snow 0 
+setblock ~132 ~9 ~58 wool 9  
+fill ~133 ~9 ~51 ~135 ~9 ~51 snow 0  
+fill ~133 ~9 ~54 ~133 ~9 ~55 wool 9  
+fill ~133 ~9 ~58 ~135 ~9 ~58 snow 0  
+fill ~134 ~9 ~52 ~134 ~9 ~53 wool 9  
+fill ~134 ~9 ~55 ~134 ~9 ~57 wool 9  
+fill ~135 ~9 ~52 ~137 ~9 ~52 snow 0  
+fill ~135 ~9 ~57 ~137 ~9 ~57 snow 0 
+setblock ~136 ~9 ~54 redstone_wire 0  
+fill ~137 ~9 ~54 ~137 ~9 ~55 snow 0 
+setblock ~138 ~9 ~53 snow 0  
+fill ~138 ~9 ~56 ~138 ~10 ~56 snow 0 
+setblock ~139 ~9 ~53 redstone_torch 1  
+fill ~139 ~9 ~54 ~139 ~10 ~54 snow 0  
+fill ~139 ~9 ~55 ~139 ~10 ~55 snow 0 
+setblock ~139 ~9 ~56 redstone_torch 1  
+fill ~10 ~10 ~54 ~13 ~10 ~54 snow 0  
+fill ~10 ~10 ~55 ~13 ~10 ~55 snow 0  
+fill ~11 ~10 ~53 ~16 ~10 ~53 snow 0  
+fill ~11 ~10 ~56 ~16 ~10 ~56 snow 0  
+fill ~16 ~10 ~52 ~22 ~10 ~52 snow 0  
+fill ~16 ~10 ~57 ~22 ~10 ~57 snow 0  
+fill ~22 ~10 ~51 ~28 ~10 ~51 snow 0  
+fill ~22 ~10 ~58 ~28 ~10 ~58 snow 0  
+fill ~28 ~10 ~50 ~35 ~10 ~50 snow 0  
+fill ~28 ~10 ~59 ~35 ~10 ~59 snow 0  
+fill ~29 ~10 ~53 ~29 ~11 ~53 snow 0  
+fill ~29 ~10 ~56 ~29 ~11 ~56 snow 0  
+fill ~30 ~10 ~52 ~32 ~10 ~52 snow 0 
+setblock ~30 ~10 ~53 trapdoor 3  
+fill ~30 ~10 ~54 ~32 ~10 ~54 snow 0  
+fill ~30 ~10 ~55 ~32 ~10 ~55 snow 0 
+setblock ~30 ~10 ~56 trapdoor 3  
+fill ~30 ~10 ~57 ~32 ~10 ~57 snow 0  
+fill ~32 ~10 ~51 ~35 ~10 ~51 snow 0 
+setblock ~32 ~10 ~53 wooden_door 2 
+setblock ~32 ~10 ~56 wooden_door 2  
+fill ~32 ~10 ~58 ~35 ~10 ~58 snow 0  
+fill ~34 ~10 ~49 ~37 ~10 ~49 snow 0  
+fill ~34 ~10 ~60 ~37 ~10 ~60 snow 0  
+fill ~35 ~10 ~54 ~35 ~10 ~55 cauldron 2  
+fill ~36 ~10 ~50 ~37 ~10 ~50 wool 14  
+fill ~36 ~10 ~51 ~36 ~12 ~51 wool 14 
+setblock ~36 ~10 ~52 wooden_door 2  
+fill ~36 ~10 ~53 ~36 ~11 ~53 wool 14  
+fill ~36 ~10 ~54 ~36 ~11 ~54 wool 14  
+fill ~36 ~10 ~55 ~36 ~11 ~55 wool 14  
+fill ~36 ~10 ~56 ~36 ~11 ~56 wool 14 
+setblock ~36 ~10 ~57 wooden_door 2  
+fill ~36 ~10 ~58 ~36 ~12 ~58 wool 14  
+fill ~36 ~10 ~59 ~37 ~10 ~59 wool 14  
+fill ~37 ~10 ~53 ~37 ~10 ~56 oak_stairs 1 
+setblock ~38 ~10 ~49 iron_door 1 
+setblock ~38 ~10 ~60 iron_door 3  
+fill ~39 ~10 ~49 ~41 ~10 ~49 snow 0  
+fill ~39 ~10 ~53 ~39 ~10 ~56 oak_stairs 1  
+fill ~39 ~10 ~60 ~41 ~10 ~60 snow 0 
+setblock ~40 ~10 ~50 oak_stairs 1 
+setblock ~40 ~10 ~59 oak_stairs 1  
+fill ~41 ~10 ~53 ~41 ~10 ~56 oak_stairs 1  
+fill ~42 ~10 ~48 ~81 ~10 ~48 snow 0  
+fill ~42 ~10 ~49 ~42 ~10 ~50 oak_stairs 1  
+fill ~42 ~10 ~59 ~42 ~10 ~60 oak_stairs 1  
+fill ~42 ~10 ~61 ~63 ~10 ~61 snow 0  
+fill ~43 ~10 ~53 ~43 ~10 ~56 oak_stairs 1  
+fill ~44 ~10 ~49 ~44 ~10 ~50 oak_stairs 1  
+fill ~44 ~10 ~59 ~44 ~10 ~60 oak_stairs 1  
+fill ~45 ~10 ~53 ~45 ~10 ~56 oak_stairs 1  
+fill ~46 ~10 ~49 ~46 ~10 ~50 oak_stairs 1  
+fill ~46 ~10 ~59 ~46 ~10 ~60 oak_stairs 1  
+fill ~47 ~10 ~53 ~47 ~10 ~56 oak_stairs 1  
+fill ~48 ~10 ~49 ~48 ~10 ~50 oak_stairs 1  
+fill ~48 ~10 ~59 ~48 ~10 ~60 oak_stairs 1  
+fill ~49 ~10 ~53 ~49 ~10 ~56 oak_stairs 1  
+fill ~50 ~10 ~49 ~50 ~10 ~50 oak_stairs 1  
+fill ~50 ~10 ~59 ~50 ~10 ~60 oak_stairs 1  
+fill ~51 ~10 ~53 ~51 ~10 ~56 oak_stairs 1  
+fill ~52 ~10 ~49 ~52 ~10 ~50 oak_stairs 1  
+fill ~52 ~10 ~59 ~52 ~10 ~60 oak_stairs 1  
+fill ~53 ~10 ~53 ~53 ~10 ~56 oak_stairs 1  
+fill ~54 ~10 ~49 ~54 ~10 ~50 oak_stairs 1  
+fill ~54 ~10 ~59 ~54 ~10 ~60 oak_stairs 1  
+fill ~55 ~10 ~53 ~55 ~10 ~56 oak_stairs 1  
+fill ~56 ~10 ~15 ~59 ~10 ~15 stone_slab 15  
+fill ~56 ~10 ~49 ~56 ~10 ~50 oak_stairs 1  
+fill ~56 ~10 ~59 ~56 ~10 ~60 oak_stairs 1  
+fill ~56 ~10 ~94 ~59 ~10 ~94 stone_slab 15  
+fill ~57 ~10 ~53 ~57 ~10 ~56 oak_stairs 1  
+fill ~58 ~10 ~49 ~58 ~10 ~50 oak_stairs 1  
+fill ~58 ~10 ~59 ~58 ~10 ~60 oak_stairs 1  
+fill ~59 ~10 ~53 ~59 ~10 ~56 oak_stairs 1 
+setblock ~60 ~10 ~14 torch 4  
+fill ~60 ~10 ~15 ~63 ~10 ~15 double_stone_slab 7  
+fill ~60 ~10 ~22 ~63 ~10 ~22 stone_slab 15  
+fill ~60 ~10 ~49 ~60 ~10 ~50 oak_stairs 1  
+fill ~60 ~10 ~59 ~60 ~10 ~60 oak_stairs 1  
+fill ~60 ~10 ~87 ~63 ~10 ~87 stone_slab 15  
+fill ~60 ~10 ~94 ~63 ~10 ~94 double_stone_slab 7  
+fill ~61 ~10 ~53 ~61 ~12 ~53 wool 14  
+fill ~61 ~10 ~54 ~61 ~10 ~56 wool 14  
+fill ~62 ~10 ~49 ~62 ~10 ~50 oak_stairs 1  
+fill ~62 ~10 ~53 ~62 ~11 ~53 wool 15  
+fill ~62 ~10 ~56 ~62 ~11 ~56 wool 15  
+fill ~62 ~10 ~59 ~62 ~10 ~60 oak_stairs 1 
+setblock ~63 ~10 ~14 torch 4 
+setblock ~63 ~10 ~16 torch 3 
+setblock ~63 ~10 ~93 torch 4 
+setblock ~63 ~10 ~95 torch 3  
+fill ~64 ~10 ~14 ~73 ~10 ~14 snow 0  
+fill ~64 ~10 ~15 ~74 ~10 ~15 snow 0  
+fill ~64 ~10 ~22 ~67 ~10 ~22 double_stone_slab 7 
+setblock ~64 ~10 ~61 iron_door 3  
+fill ~64 ~10 ~87 ~67 ~10 ~87 double_stone_slab 7  
+fill ~64 ~10 ~94 ~74 ~10 ~94 snow 0  
+fill ~64 ~10 ~95 ~73 ~10 ~95 snow 0  
+fill ~65 ~10 ~16 ~75 ~10 ~16 snow 0  
+fill ~65 ~10 ~17 ~76 ~10 ~17 snow 0  
+fill ~65 ~10 ~25 ~83 ~10 ~25 snow 0  
+fill ~65 ~10 ~61 ~81 ~10 ~61 snow 0  
+fill ~65 ~10 ~84 ~83 ~10 ~84 snow 0  
+fill ~65 ~10 ~92 ~76 ~10 ~92 snow 0  
+fill ~65 ~10 ~93 ~75 ~10 ~93 snow 0  
+fill ~66 ~10 ~18 ~77 ~10 ~18 snow 0  
+fill ~66 ~10 ~19 ~78 ~10 ~19 snow 0  
+fill ~66 ~10 ~26 ~84 ~10 ~26 snow 0  
+fill ~66 ~10 ~27 ~85 ~10 ~27 snow 0  
+fill ~66 ~10 ~49 ~66 ~10 ~50 oak_stairs 1  
+fill ~66 ~10 ~59 ~66 ~10 ~60 oak_stairs 1  
+fill ~66 ~10 ~82 ~85 ~10 ~82 snow 0  
+fill ~66 ~10 ~83 ~84 ~10 ~83 snow 0  
+fill ~66 ~10 ~90 ~78 ~10 ~90 snow 0  
+fill ~66 ~10 ~91 ~77 ~10 ~91 snow 0  
+fill ~67 ~10 ~13 ~72 ~10 ~13 snow 0  
+fill ~67 ~10 ~20 ~70 ~10 ~20 snow 0  
+fill ~67 ~10 ~21 ~70 ~10 ~21 snow 0 
+setblock ~67 ~10 ~23 torch 3  
+fill ~67 ~10 ~28 ~85 ~10 ~28 snow 0  
+fill ~67 ~10 ~29 ~86 ~10 ~29 snow 0  
+fill ~67 ~10 ~54 ~67 ~10 ~55 cauldron 2  
+fill ~67 ~10 ~80 ~86 ~10 ~80 snow 0  
+fill ~67 ~10 ~81 ~85 ~10 ~81 snow 0 
+setblock ~67 ~10 ~86 torch 4  
+fill ~67 ~10 ~88 ~70 ~10 ~88 snow 0  
+fill ~67 ~10 ~89 ~70 ~10 ~89 snow 0  
+fill ~67 ~10 ~96 ~72 ~10 ~96 snow 0  
+fill ~68 ~10 ~22 ~71 ~10 ~22 snow 0  
+fill ~68 ~10 ~23 ~71 ~10 ~23 snow 0  
+fill ~68 ~10 ~30 ~87 ~10 ~30 snow 0  
+fill ~68 ~10 ~31 ~88 ~10 ~31 snow 0  
+fill ~68 ~10 ~32 ~89 ~10 ~32 snow 0  
+fill ~68 ~10 ~49 ~68 ~10 ~50 oak_stairs 1  
+fill ~68 ~10 ~53 ~68 ~12 ~53 wool 14  
+fill ~68 ~10 ~54 ~68 ~12 ~54 wool 14  
+fill ~68 ~10 ~55 ~68 ~12 ~55 wool 14  
+fill ~68 ~10 ~56 ~68 ~12 ~56 wool 14  
+fill ~68 ~10 ~59 ~68 ~10 ~60 oak_stairs 1  
+fill ~68 ~10 ~77 ~89 ~10 ~77 snow 0  
+fill ~68 ~10 ~78 ~88 ~10 ~78 snow 0  
+fill ~68 ~10 ~79 ~87 ~10 ~79 snow 0  
+fill ~68 ~10 ~86 ~71 ~10 ~86 snow 0  
+fill ~68 ~10 ~87 ~71 ~10 ~87 snow 0  
+fill ~69 ~10 ~24 ~72 ~10 ~24 snow 0  
+fill ~69 ~10 ~33 ~90 ~10 ~33 snow 0  
+fill ~69 ~10 ~34 ~91 ~10 ~34 snow 0  
+fill ~69 ~10 ~35 ~91 ~10 ~35 snow 0  
+fill ~69 ~10 ~53 ~69 ~10 ~56 oak_stairs 1  
+fill ~69 ~10 ~74 ~91 ~10 ~74 snow 0  
+fill ~69 ~10 ~75 ~91 ~10 ~75 snow 0  
+fill ~69 ~10 ~76 ~90 ~10 ~76 snow 0  
+fill ~69 ~10 ~85 ~72 ~10 ~85 snow 0  
+fill ~70 ~10 ~36 ~92 ~10 ~36 snow 0  
+fill ~70 ~10 ~49 ~70 ~10 ~50 oak_stairs 1  
+fill ~70 ~10 ~59 ~70 ~10 ~60 oak_stairs 1  
+fill ~70 ~10 ~73 ~92 ~10 ~73 snow 0  
+fill ~71 ~10 ~53 ~71 ~10 ~56 oak_stairs 1  
+fill ~72 ~10 ~49 ~72 ~10 ~50 oak_stairs 1  
+fill ~72 ~10 ~59 ~72 ~10 ~60 oak_stairs 1  
+fill ~73 ~10 ~53 ~73 ~10 ~56 oak_stairs 1 
+setblock ~74 ~10 ~14 double_stone_slab 7  
+fill ~74 ~10 ~49 ~74 ~10 ~50 oak_stairs 1  
+fill ~74 ~10 ~59 ~74 ~10 ~60 oak_stairs 1 
+setblock ~74 ~10 ~95 double_stone_slab 7 
+setblock ~75 ~10 ~14 stone_slab 7  
+fill ~75 ~10 ~53 ~75 ~10 ~56 oak_stairs 1 
+setblock ~75 ~10 ~95 stone_slab 7  
+fill ~76 ~10 ~49 ~76 ~10 ~50 oak_stairs 1  
+fill ~76 ~10 ~59 ~76 ~10 ~60 oak_stairs 1  
+fill ~78 ~10 ~20 ~79 ~10 ~20 snow 0  
+fill ~78 ~10 ~49 ~78 ~10 ~50 oak_stairs 1  
+fill ~78 ~10 ~53 ~80 ~10 ~53 wool 14  
+fill ~78 ~10 ~54 ~78 ~10 ~56 wool 14  
+fill ~78 ~10 ~59 ~78 ~10 ~60 oak_stairs 1  
+fill ~78 ~10 ~89 ~79 ~10 ~89 snow 0  
+fill ~79 ~10 ~21 ~79 ~11 ~21 snow 0  
+fill ~79 ~10 ~56 ~80 ~10 ~56 wool 14  
+fill ~79 ~10 ~88 ~79 ~11 ~88 snow 0  
+fill ~80 ~10 ~22 ~80 ~11 ~22 snow 0  
+fill ~80 ~10 ~49 ~80 ~10 ~50 oak_stairs 1 
+setblock ~80 ~10 ~54 wooden_door 2  
+fill ~80 ~10 ~55 ~80 ~12 ~55 wool 14  
+fill ~80 ~10 ~59 ~80 ~10 ~60 oak_stairs 1  
+fill ~80 ~10 ~87 ~80 ~11 ~87 snow 0  
+fill ~81 ~10 ~23 ~81 ~11 ~23 snow 0  
+fill ~81 ~10 ~86 ~81 ~11 ~86 snow 0  
+fill ~82 ~10 ~24 ~82 ~11 ~24 snow 0 
+setblock ~82 ~10 ~48 iron_door 1 
+setblock ~82 ~10 ~61 iron_door 3  
+fill ~82 ~10 ~85 ~82 ~11 ~85 snow 0  
+fill ~83 ~10 ~48 ~103 ~10 ~48 snow 0  
+fill ~83 ~10 ~53 ~83 ~10 ~56 oak_stairs 1  
+fill ~83 ~10 ~61 ~103 ~10 ~61 snow 0  
+fill ~84 ~10 ~49 ~84 ~10 ~50 oak_stairs 1  
+fill ~84 ~10 ~59 ~84 ~10 ~60 oak_stairs 1  
+fill ~85 ~10 ~53 ~85 ~10 ~56 oak_stairs 1  
+fill ~86 ~10 ~49 ~86 ~10 ~50 oak_stairs 1  
+fill ~86 ~10 ~59 ~86 ~10 ~60 oak_stairs 1  
+fill ~87 ~10 ~53 ~87 ~10 ~56 oak_stairs 1  
+fill ~88 ~10 ~49 ~88 ~10 ~50 oak_stairs 1  
+fill ~88 ~10 ~59 ~88 ~10 ~60 oak_stairs 1  
+fill ~89 ~10 ~53 ~89 ~10 ~56 oak_stairs 1  
+fill ~90 ~10 ~49 ~90 ~10 ~50 oak_stairs 1  
+fill ~90 ~10 ~59 ~90 ~10 ~60 oak_stairs 1  
+fill ~91 ~10 ~53 ~91 ~12 ~53 wool 14  
+fill ~91 ~10 ~54 ~91 ~10 ~56 wool 14  
+fill ~92 ~10 ~49 ~92 ~10 ~50 oak_stairs 1  
+fill ~92 ~10 ~53 ~92 ~11 ~53 wool 15  
+fill ~92 ~10 ~56 ~92 ~11 ~56 wool 15  
+fill ~92 ~10 ~59 ~92 ~10 ~60 oak_stairs 1  
+fill ~94 ~10 ~49 ~94 ~10 ~50 oak_stairs 1  
+fill ~94 ~10 ~54 ~94 ~10 ~55 cauldron 2  
+fill ~94 ~10 ~59 ~94 ~10 ~60 oak_stairs 1  
+fill ~95 ~10 ~53 ~95 ~12 ~53 wool 14  
+fill ~95 ~10 ~54 ~95 ~12 ~54 wool 14  
+fill ~95 ~10 ~55 ~95 ~12 ~55 wool 14  
+fill ~95 ~10 ~56 ~95 ~12 ~56 wool 14  
+fill ~96 ~10 ~49 ~96 ~10 ~50 oak_stairs 1  
+fill ~96 ~10 ~59 ~96 ~10 ~60 oak_stairs 1  
+fill ~98 ~10 ~49 ~98 ~10 ~50 oak_stairs 1  
+fill ~98 ~10 ~53 ~98 ~10 ~54 oak_stairs 0  
+fill ~98 ~10 ~55 ~98 ~13 ~55 wool 14  
+fill ~98 ~10 ~56 ~104 ~10 ~56 wool 14  
+fill ~98 ~10 ~59 ~98 ~10 ~60 oak_stairs 1  
+fill ~99 ~10 ~53 ~103 ~10 ~53 wool 14  
+fill ~99 ~10 ~54 ~102 ~10 ~54 snow 0  
+fill ~99 ~10 ~55 ~103 ~10 ~55 snow 0  
+fill ~100 ~10 ~49 ~100 ~10 ~50 oak_stairs 1  
+fill ~100 ~10 ~59 ~100 ~10 ~60 oak_stairs 1  
+fill ~102 ~10 ~49 ~102 ~10 ~50 oak_stairs 1  
+fill ~102 ~10 ~59 ~102 ~10 ~60 oak_stairs 1  
+fill ~103 ~10 ~54 ~103 ~11 ~54 wool 14 
+setblock ~104 ~10 ~48 iron_door 1 
+setblock ~104 ~10 ~53 wooden_door 1  
+fill ~104 ~10 ~55 ~104 ~11 ~55 wool 14 
+setblock ~104 ~10 ~61 iron_door 3  
+fill ~105 ~10 ~48 ~119 ~10 ~48 snow 0  
+fill ~105 ~10 ~53 ~105 ~12 ~53 wool 14  
+fill ~105 ~10 ~54 ~105 ~11 ~54 wool 14  
+fill ~105 ~10 ~55 ~105 ~12 ~55 snow 0  
+fill ~105 ~10 ~56 ~105 ~12 ~56 snow 0  
+fill ~105 ~10 ~57 ~105 ~10 ~58 wooden_door 0  
+fill ~105 ~10 ~61 ~119 ~10 ~61 snow 0  
+fill ~106 ~10 ~49 ~106 ~10 ~50 oak_stairs 1  
+fill ~106 ~10 ~55 ~118 ~10 ~55 wool 14  
+fill ~107 ~10 ~53 ~107 ~10 ~54 oak_stairs 1  
+fill ~108 ~10 ~49 ~108 ~10 ~50 oak_stairs 1  
+fill ~109 ~10 ~53 ~109 ~10 ~54 oak_stairs 1  
+fill ~110 ~10 ~49 ~110 ~10 ~50 oak_stairs 1  
+fill ~111 ~10 ~53 ~111 ~10 ~54 oak_stairs 1  
+fill ~111 ~10 ~56 ~112 ~10 ~56 cauldron 2  
+fill ~112 ~10 ~49 ~112 ~10 ~50 oak_stairs 1  
+fill ~113 ~10 ~53 ~113 ~10 ~54 oak_stairs 1  
+fill ~114 ~10 ~49 ~114 ~10 ~50 oak_stairs 1  
+fill ~114 ~10 ~56 ~115 ~10 ~56 wool 15  
+fill ~115 ~10 ~53 ~115 ~10 ~54 oak_stairs 1  
+fill ~116 ~10 ~49 ~116 ~10 ~50 oak_stairs 1  
+fill ~116 ~10 ~56 ~116 ~12 ~56 snow 0  
+fill ~116 ~10 ~57 ~119 ~10 ~57 snow 0  
+fill ~117 ~10 ~53 ~117 ~10 ~54 oak_stairs 1 
+setblock ~117 ~10 ~56 trapdoor 3 
+setblock ~117 ~10 ~59 wooden_door 2  
+fill ~118 ~10 ~49 ~118 ~10 ~50 oak_stairs 1  
+fill ~119 ~10 ~49 ~119 ~14 ~49 snow 0  
+fill ~119 ~10 ~50 ~119 ~12 ~50 snow 0 
+setblock ~119 ~10 ~51 wooden_door 2 
+setblock ~119 ~10 ~52 wooden_door 6  
+fill ~119 ~10 ~53 ~119 ~12 ~53 snow 0  
+fill ~119 ~10 ~54 ~119 ~12 ~54 snow 0  
+fill ~119 ~10 ~55 ~119 ~12 ~55 snow 0 
+setblock ~119 ~10 ~56 wooden_door 2 
+setblock ~120 ~10 ~48 iron_door 1 
+setblock ~120 ~10 ~61 iron_door 3  
+fill ~121 ~10 ~48 ~122 ~10 ~48 snow 0  
+fill ~121 ~10 ~61 ~122 ~10 ~61 snow 0  
+fill ~122 ~10 ~49 ~129 ~10 ~49 snow 0  
+fill ~122 ~10 ~60 ~129 ~10 ~60 snow 0  
+fill ~123 ~10 ~50 ~123 ~10 ~51 wool 14  
+fill ~123 ~10 ~54 ~123 ~10 ~55 wool 14  
+fill ~123 ~10 ~58 ~123 ~10 ~59 wool 14  
+fill ~124 ~10 ~50 ~124 ~10 ~51 stone_slab 1  
+fill ~124 ~10 ~54 ~124 ~10 ~55 stone_slab 1  
+fill ~124 ~10 ~58 ~124 ~10 ~59 stone_slab 1  
+fill ~126 ~10 ~50 ~126 ~10 ~51 wool 14  
+fill ~126 ~10 ~58 ~126 ~10 ~59 wool 14  
+fill ~127 ~10 ~50 ~127 ~10 ~51 stone_slab 1  
+fill ~127 ~10 ~58 ~127 ~10 ~59 stone_slab 1  
+fill ~129 ~10 ~50 ~133 ~10 ~50 snow 0  
+fill ~129 ~10 ~51 ~129 ~10 ~52 wool 14  
+fill ~129 ~10 ~57 ~129 ~10 ~58 wool 14  
+fill ~129 ~10 ~59 ~133 ~10 ~59 snow 0  
+fill ~130 ~10 ~51 ~130 ~10 ~52 stone_slab 1  
+fill ~130 ~10 ~57 ~130 ~10 ~58 stone_slab 1  
+fill ~132 ~10 ~52 ~132 ~10 ~53 wool 14  
+fill ~132 ~10 ~56 ~132 ~10 ~57 wool 14  
+fill ~133 ~10 ~51 ~136 ~10 ~51 snow 0  
+fill ~133 ~10 ~52 ~133 ~10 ~53 stone_slab 1  
+fill ~133 ~10 ~56 ~133 ~10 ~57 stone_slab 1  
+fill ~133 ~10 ~58 ~136 ~10 ~58 snow 0  
+fill ~135 ~10 ~52 ~135 ~13 ~52 snow 0  
+fill ~135 ~10 ~53 ~135 ~14 ~53 snow 0  
+fill ~135 ~10 ~54 ~135 ~11 ~54 snow 0  
+fill ~135 ~10 ~55 ~137 ~10 ~55 snow 0  
+fill ~135 ~10 ~56 ~135 ~14 ~56 snow 0  
+fill ~135 ~10 ~57 ~135 ~13 ~57 snow 0  
+fill ~137 ~10 ~52 ~138 ~10 ~52 snow 0 
+setblock ~137 ~10 ~54 redstone_wire 0  
+fill ~137 ~10 ~57 ~138 ~10 ~57 snow 0  
+fill ~139 ~10 ~53 ~139 ~11 ~53 snow 0  
+fill ~139 ~10 ~56 ~139 ~11 ~56 snow 0  
+fill ~140 ~10 ~54 ~140 ~11 ~54 snow 0  
+fill ~140 ~10 ~55 ~140 ~11 ~55 snow 0  
+fill ~6 ~11 ~54 ~9 ~11 ~54 snow 0  
+fill ~6 ~11 ~55 ~9 ~11 ~55 snow 0  
+fill ~7 ~11 ~53 ~12 ~11 ~53 snow 0  
+fill ~7 ~11 ~56 ~12 ~11 ~56 snow 0  
+fill ~12 ~11 ~52 ~18 ~11 ~52 snow 0  
+fill ~12 ~11 ~57 ~18 ~11 ~57 snow 0  
+fill ~18 ~11 ~51 ~24 ~11 ~51 snow 0  
+fill ~18 ~11 ~58 ~24 ~11 ~58 snow 0  
+fill ~24 ~11 ~50 ~32 ~11 ~50 snow 0  
+fill ~24 ~11 ~59 ~30 ~11 ~59 snow 0  
+fill ~30 ~11 ~49 ~37 ~11 ~49 snow 0  
+fill ~30 ~11 ~52 ~32 ~11 ~52 snow 0  
+fill ~30 ~11 ~54 ~32 ~11 ~54 snow 0  
+fill ~30 ~11 ~55 ~32 ~11 ~55 snow 0  
+fill ~30 ~11 ~57 ~32 ~11 ~57 snow 0  
+fill ~30 ~11 ~60 ~37 ~11 ~60 snow 0  
+fill ~32 ~11 ~51 ~35 ~11 ~51 snow 0 
+setblock ~32 ~11 ~53 wooden_door 8 
+setblock ~32 ~11 ~56 wooden_door 8  
+fill ~32 ~11 ~58 ~35 ~11 ~58 snow 0  
+fill ~32 ~11 ~59 ~35 ~11 ~59 snow 0  
+fill ~36 ~11 ~50 ~37 ~11 ~50 wool 14 
+setblock ~36 ~11 ~52 wooden_door 8 
+setblock ~36 ~11 ~57 wooden_door 8  
+fill ~36 ~11 ~59 ~37 ~11 ~59 wool 14 
+setblock ~38 ~11 ~49 iron_door 8 
+setblock ~38 ~11 ~60 iron_door 8 
+setblock ~39 ~11 ~48 stone_button 4  
+fill ~39 ~11 ~49 ~39 ~14 ~49 snow 0 
+setblock ~39 ~11 ~50 stone_button 3 
+setblock ~39 ~11 ~59 stone_button 4  
+fill ~39 ~11 ~60 ~39 ~14 ~60 snow 0 
+setblock ~39 ~11 ~61 stone_button 3 
+setblock ~40 ~11 ~49 glass 0 
+setblock ~40 ~11 ~60 glass 0  
+fill ~41 ~11 ~49 ~41 ~14 ~49 snow 0  
+fill ~41 ~11 ~60 ~41 ~14 ~60 snow 0 
+setblock ~42 ~11 ~48 glass 0 
+setblock ~42 ~11 ~61 glass 0  
+fill ~43 ~11 ~48 ~43 ~12 ~48 snow 0  
+fill ~43 ~11 ~61 ~43 ~12 ~61 snow 0 
+setblock ~44 ~11 ~48 glass 0 
+setblock ~44 ~11 ~61 glass 0  
+fill ~45 ~11 ~48 ~45 ~12 ~48 snow 0  
+fill ~45 ~11 ~61 ~45 ~12 ~61 snow 0 
+setblock ~46 ~11 ~48 glass 0 
+setblock ~46 ~11 ~61 glass 0  
+fill ~47 ~11 ~48 ~47 ~12 ~48 snow 0  
+fill ~47 ~11 ~61 ~47 ~12 ~61 snow 0 
+setblock ~48 ~11 ~48 glass 0 
+setblock ~48 ~11 ~61 glass 0  
+fill ~49 ~11 ~48 ~49 ~12 ~48 snow 0  
+fill ~49 ~11 ~61 ~49 ~12 ~61 snow 0 
+setblock ~50 ~11 ~48 glass 0 
+setblock ~50 ~11 ~61 glass 0  
+fill ~51 ~11 ~48 ~51 ~12 ~48 snow 0  
+fill ~51 ~11 ~61 ~51 ~12 ~61 snow 0 
+setblock ~52 ~11 ~48 glass 0 
+setblock ~52 ~11 ~61 glass 0  
+fill ~53 ~11 ~48 ~53 ~12 ~48 snow 0  
+fill ~53 ~11 ~61 ~53 ~12 ~61 snow 0 
+setblock ~54 ~11 ~48 glass 0 
+setblock ~54 ~11 ~61 glass 0  
+fill ~55 ~11 ~48 ~55 ~12 ~48 snow 0  
+fill ~55 ~11 ~61 ~55 ~12 ~61 snow 0 
+setblock ~56 ~11 ~48 glass 0 
+setblock ~56 ~11 ~61 glass 0  
+fill ~57 ~11 ~48 ~57 ~12 ~48 snow 0  
+fill ~57 ~11 ~61 ~57 ~12 ~61 snow 0 
+setblock ~58 ~11 ~48 glass 0 
+setblock ~58 ~11 ~61 glass 0  
+fill ~59 ~11 ~5 ~66 ~11 ~5 snow 0  
+fill ~59 ~11 ~48 ~59 ~12 ~48 snow 0  
+fill ~59 ~11 ~61 ~59 ~12 ~61 snow 0  
+fill ~59 ~11 ~104 ~66 ~11 ~104 snow 0  
+fill ~60 ~11 ~6 ~67 ~11 ~6 snow 0  
+fill ~60 ~11 ~7 ~67 ~11 ~7 snow 0  
+fill ~60 ~11 ~14 ~73 ~11 ~14 snow 0  
+fill ~60 ~11 ~15 ~74 ~11 ~15 snow 0 
+setblock ~60 ~11 ~48 glass 0 
+setblock ~60 ~11 ~61 glass 0  
+fill ~60 ~11 ~94 ~74 ~11 ~94 snow 0  
+fill ~60 ~11 ~95 ~73 ~11 ~95 snow 0  
+fill ~60 ~11 ~102 ~67 ~11 ~102 snow 0  
+fill ~60 ~11 ~103 ~67 ~11 ~103 snow 0  
+fill ~61 ~11 ~8 ~68 ~11 ~8 snow 0  
+fill ~61 ~11 ~9 ~69 ~11 ~9 snow 0  
+fill ~61 ~11 ~16 ~75 ~11 ~16 snow 0  
+fill ~61 ~11 ~17 ~76 ~11 ~17 snow 0  
+fill ~61 ~11 ~48 ~61 ~12 ~48 snow 0  
+fill ~61 ~11 ~54 ~61 ~11 ~55 snow 0  
+fill ~61 ~11 ~56 ~61 ~12 ~56 wool 14  
+fill ~61 ~11 ~61 ~61 ~12 ~61 snow 0  
+fill ~61 ~11 ~92 ~76 ~11 ~92 snow 0  
+fill ~61 ~11 ~93 ~75 ~11 ~93 snow 0  
+fill ~61 ~11 ~100 ~69 ~11 ~100 snow 0  
+fill ~61 ~11 ~101 ~68 ~11 ~101 snow 0  
+fill ~62 ~11 ~10 ~70 ~11 ~10 snow 0  
+fill ~62 ~11 ~11 ~71 ~11 ~11 snow 0  
+fill ~62 ~11 ~18 ~77 ~11 ~18 snow 0  
+fill ~62 ~11 ~19 ~78 ~11 ~19 snow 0 
+setblock ~62 ~11 ~48 glass 0 
+setblock ~62 ~11 ~61 glass 0  
+fill ~62 ~11 ~90 ~78 ~11 ~90 snow 0  
+fill ~62 ~11 ~91 ~77 ~11 ~91 snow 0  
+fill ~62 ~11 ~98 ~71 ~11 ~98 snow 0  
+fill ~62 ~11 ~99 ~70 ~11 ~99 snow 0  
+fill ~63 ~11 ~12 ~72 ~11 ~12 snow 0  
+fill ~63 ~11 ~13 ~67 ~11 ~13 snow 0  
+fill ~63 ~11 ~20 ~79 ~11 ~20 snow 0  
+fill ~63 ~11 ~21 ~79 ~11 ~21 snow 0  
+fill ~63 ~11 ~48 ~65 ~11 ~48 snow 0 
+setblock ~63 ~11 ~53 stone_button 1 
+setblock ~63 ~11 ~56 stone_button 1  
+fill ~63 ~11 ~61 ~63 ~12 ~61 snow 0  
+fill ~63 ~11 ~88 ~79 ~11 ~88 snow 0  
+fill ~63 ~11 ~89 ~79 ~11 ~89 snow 0  
+fill ~63 ~11 ~96 ~67 ~11 ~96 snow 0  
+fill ~63 ~11 ~97 ~72 ~11 ~97 snow 0  
+fill ~64 ~11 ~22 ~80 ~11 ~22 snow 0  
+fill ~64 ~11 ~23 ~81 ~11 ~23 snow 0 
+setblock ~64 ~11 ~61 iron_door 8  
+fill ~64 ~11 ~86 ~81 ~11 ~86 snow 0  
+fill ~64 ~11 ~87 ~80 ~11 ~87 snow 0  
+fill ~65 ~11 ~24 ~82 ~11 ~24 snow 0 
+setblock ~65 ~11 ~47 stone_button 4 
+setblock ~65 ~11 ~49 stone_button 3 
+setblock ~65 ~11 ~60 stone_button 4  
+fill ~65 ~11 ~61 ~65 ~12 ~61 snow 0 
+setblock ~65 ~11 ~62 stone_button 3  
+fill ~65 ~11 ~85 ~82 ~11 ~85 snow 0 
+setblock ~66 ~11 ~48 glass 0 
+setblock ~66 ~11 ~61 glass 0  
+fill ~67 ~11 ~48 ~67 ~12 ~48 snow 0  
+fill ~67 ~11 ~61 ~67 ~12 ~61 snow 0 
+setblock ~68 ~11 ~48 glass 0 
+setblock ~68 ~11 ~61 glass 0  
+fill ~69 ~11 ~48 ~69 ~12 ~48 snow 0  
+fill ~69 ~11 ~61 ~69 ~12 ~61 snow 0 
+setblock ~70 ~11 ~48 glass 0 
+setblock ~70 ~11 ~61 glass 0  
+fill ~71 ~11 ~48 ~71 ~12 ~48 snow 0  
+fill ~71 ~11 ~61 ~71 ~12 ~61 snow 0  
+fill ~72 ~11 ~13 ~73 ~11 ~13 snow 0 
+setblock ~72 ~11 ~48 glass 0 
+setblock ~72 ~11 ~61 glass 0  
+fill ~72 ~11 ~96 ~73 ~11 ~96 snow 0  
+fill ~73 ~11 ~48 ~73 ~12 ~48 snow 0  
+fill ~73 ~11 ~61 ~73 ~12 ~61 snow 0 
+setblock ~74 ~11 ~48 glass 0 
+setblock ~74 ~11 ~61 glass 0  
+fill ~75 ~11 ~48 ~75 ~12 ~48 snow 0  
+fill ~75 ~11 ~61 ~75 ~12 ~61 snow 0 
+setblock ~76 ~11 ~48 glass 0 
+setblock ~76 ~11 ~61 glass 0  
+fill ~77 ~11 ~48 ~77 ~12 ~48 snow 0  
+fill ~77 ~11 ~61 ~77 ~12 ~61 snow 0 
+setblock ~78 ~11 ~48 glass 0  
+fill ~78 ~11 ~53 ~80 ~11 ~53 wool 14  
+fill ~78 ~11 ~54 ~78 ~11 ~55 snow 0  
+fill ~78 ~11 ~56 ~80 ~11 ~56 wool 14 
+setblock ~78 ~11 ~61 glass 0  
+fill ~79 ~11 ~48 ~79 ~12 ~48 snow 0  
+fill ~79 ~11 ~61 ~79 ~12 ~61 snow 0 
+setblock ~80 ~11 ~48 glass 0 
+setblock ~80 ~11 ~54 wooden_door 8 
+setblock ~80 ~11 ~61 glass 0  
+fill ~81 ~11 ~48 ~81 ~12 ~48 snow 0  
+fill ~81 ~11 ~61 ~81 ~12 ~61 snow 0 
+setblock ~82 ~11 ~48 iron_door 8 
+setblock ~82 ~11 ~61 iron_door 8 
+setblock ~83 ~11 ~47 stone_button 4  
+fill ~83 ~11 ~48 ~83 ~12 ~48 snow 0 
+setblock ~83 ~11 ~49 stone_button 3 
+setblock ~83 ~11 ~60 stone_button 4  
+fill ~83 ~11 ~61 ~83 ~12 ~61 snow 0 
+setblock ~83 ~11 ~62 stone_button 3 
+setblock ~84 ~11 ~48 glass 0 
+setblock ~84 ~11 ~61 glass 0  
+fill ~85 ~11 ~48 ~85 ~12 ~48 snow 0  
+fill ~85 ~11 ~61 ~85 ~12 ~61 snow 0 
+setblock ~86 ~11 ~48 glass 0 
+setblock ~86 ~11 ~61 glass 0  
+fill ~87 ~11 ~48 ~87 ~12 ~48 snow 0  
+fill ~87 ~11 ~61 ~87 ~12 ~61 snow 0 
+setblock ~88 ~11 ~48 glass 0 
+setblock ~88 ~11 ~61 glass 0  
+fill ~89 ~11 ~48 ~89 ~12 ~48 snow 0  
+fill ~89 ~11 ~61 ~89 ~12 ~61 snow 0 
+setblock ~90 ~11 ~48 glass 0 
+setblock ~90 ~11 ~61 glass 0  
+fill ~91 ~11 ~48 ~91 ~12 ~48 snow 0  
+fill ~91 ~11 ~54 ~91 ~11 ~55 snow 0  
+fill ~91 ~11 ~56 ~91 ~12 ~56 wool 14  
+fill ~91 ~11 ~61 ~91 ~12 ~61 snow 0 
+setblock ~92 ~11 ~48 glass 0 
+setblock ~92 ~11 ~61 glass 0  
+fill ~93 ~11 ~48 ~93 ~12 ~48 snow 0 
+setblock ~93 ~11 ~53 stone_button 1 
+setblock ~93 ~11 ~56 stone_button 1  
+fill ~93 ~11 ~61 ~93 ~12 ~61 snow 0 
+setblock ~94 ~11 ~48 glass 0 
+setblock ~94 ~11 ~61 glass 0  
+fill ~95 ~11 ~48 ~95 ~12 ~48 snow 0  
+fill ~95 ~11 ~61 ~95 ~12 ~61 snow 0 
+setblock ~96 ~11 ~48 glass 0 
+setblock ~96 ~11 ~61 glass 0  
+fill ~97 ~11 ~48 ~97 ~12 ~48 snow 0  
+fill ~97 ~11 ~61 ~97 ~12 ~61 snow 0 
+setblock ~98 ~11 ~48 glass 0  
+fill ~98 ~11 ~56 ~104 ~11 ~56 wool 14 
+setblock ~98 ~11 ~61 glass 0  
+fill ~99 ~11 ~48 ~99 ~12 ~48 snow 0  
+fill ~99 ~11 ~53 ~99 ~11 ~54 oak_stairs 0  
+fill ~99 ~11 ~55 ~99 ~13 ~55 wool 14  
+fill ~99 ~11 ~61 ~99 ~12 ~61 snow 0 
+setblock ~100 ~11 ~48 glass 0  
+fill ~100 ~11 ~53 ~103 ~11 ~53 wool 14  
+fill ~100 ~11 ~54 ~102 ~11 ~54 snow 0  
+fill ~100 ~11 ~55 ~103 ~11 ~55 snow 0 
+setblock ~100 ~11 ~61 glass 0  
+fill ~101 ~11 ~48 ~101 ~12 ~48 snow 0  
+fill ~101 ~11 ~61 ~101 ~12 ~61 snow 0 
+setblock ~102 ~11 ~48 glass 0 
+setblock ~102 ~11 ~61 glass 0  
+fill ~103 ~11 ~48 ~103 ~12 ~48 snow 0 
+setblock ~103 ~11 ~60 stone_button 4  
+fill ~103 ~11 ~61 ~103 ~12 ~61 snow 0 
+setblock ~104 ~11 ~48 iron_door 8 
+setblock ~104 ~11 ~53 wooden_door 8 
+setblock ~104 ~11 ~61 iron_door 8 
+setblock ~105 ~11 ~47 stone_button 4  
+fill ~105 ~11 ~48 ~105 ~12 ~48 snow 0   
+
+KittysCommands:  
+setblock ~105 ~11 ~49 stone_button 3 
+setblock ~105 ~11 ~57 wooden_door 8 
+setblock ~105 ~11 ~58 wooden_door 9  
+fill ~105 ~11 ~61 ~105 ~12 ~61 snow 0 
+setblock ~105 ~11 ~62 stone_button 3 
+setblock ~106 ~11 ~48 glass 0  
+fill ~106 ~11 ~55 ~118 ~11 ~55 wool 14 
+setblock ~106 ~11 ~61 glass 0  
+fill ~107 ~11 ~48 ~107 ~12 ~48 snow 0  
+fill ~107 ~11 ~61 ~107 ~12 ~61 snow 0 
+setblock ~108 ~11 ~48 glass 0 
+setblock ~108 ~11 ~61 glass 0  
+fill ~109 ~11 ~48 ~109 ~12 ~48 snow 0  
+fill ~109 ~11 ~61 ~109 ~12 ~61 snow 0 
+setblock ~110 ~11 ~48 glass 0 
+setblock ~110 ~11 ~61 glass 0  
+fill ~111 ~11 ~48 ~111 ~12 ~48 snow 0  
+fill ~111 ~11 ~61 ~111 ~12 ~61 snow 0 
+setblock ~112 ~11 ~48 glass 0 
+setblock ~112 ~11 ~61 glass 0  
+fill ~113 ~11 ~48 ~113 ~12 ~48 snow 0  
+fill ~113 ~11 ~61 ~113 ~12 ~61 snow 0 
+setblock ~114 ~11 ~48 glass 0  
+fill ~114 ~11 ~56 ~115 ~11 ~56 wool 15  
+fill ~114 ~11 ~57 ~115 ~11 ~57 stone_button 3 
+setblock ~114 ~11 ~61 glass 0  
+fill ~115 ~11 ~48 ~115 ~12 ~48 snow 0  
+fill ~115 ~11 ~61 ~115 ~12 ~61 snow 0 
+setblock ~116 ~11 ~48 glass 0  
+fill ~116 ~11 ~57 ~119 ~11 ~57 snow 0 
+setblock ~116 ~11 ~61 glass 0  
+fill ~117 ~11 ~48 ~117 ~12 ~48 snow 0 
+setblock ~117 ~11 ~59 wooden_door 8  
+fill ~117 ~11 ~61 ~117 ~12 ~61 snow 0 
+setblock ~118 ~11 ~48 glass 0 
+setblock ~118 ~11 ~61 glass 0 
+setblock ~119 ~11 ~48 snow 0 
+setblock ~119 ~11 ~51 wooden_door 9 
+setblock ~119 ~11 ~52 wooden_door 8 
+setblock ~119 ~11 ~56 wooden_door 8 
+setblock ~119 ~11 ~61 snow 0 
+setblock ~120 ~11 ~48 iron_door 8 
+setblock ~120 ~11 ~61 iron_door 8 
+setblock ~121 ~11 ~47 stone_button 4  
+fill ~121 ~11 ~48 ~121 ~9 ~48 snow 0  
+fill ~121 ~11 ~61 ~121 ~9 ~61 snow 0 
+setblock ~121 ~11 ~62 stone_button 3  
+fill ~122 ~11 ~48 ~122 ~11 ~49 glass 0  
+fill ~122 ~11 ~60 ~122 ~11 ~61 glass 0  
+fill ~123 ~11 ~49 ~123 ~13 ~49 snow 0  
+fill ~123 ~11 ~60 ~123 ~13 ~60 snow 0 
+setblock ~124 ~11 ~49 glass 0 
+setblock ~124 ~11 ~60 glass 0  
+fill ~125 ~11 ~49 ~125 ~14 ~49 snow 0  
+fill ~125 ~11 ~60 ~125 ~14 ~60 snow 0 
+setblock ~126 ~11 ~49 glass 0 
+setblock ~126 ~11 ~60 glass 0  
+fill ~127 ~11 ~49 ~127 ~13 ~49 snow 0  
+fill ~127 ~11 ~60 ~127 ~13 ~60 snow 0 
+setblock ~128 ~11 ~49 glass 0 
+setblock ~128 ~11 ~60 glass 0  
+fill ~129 ~11 ~49 ~129 ~11 ~50 snow 0  
+fill ~129 ~11 ~59 ~129 ~14 ~59 snow 0  
+fill ~129 ~11 ~60 ~129 ~11 ~59 snow 0 
+setblock ~130 ~11 ~50 glass 0 
+setblock ~130 ~11 ~59 glass 0  
+fill ~131 ~11 ~50 ~131 ~13 ~50 snow 0  
+fill ~131 ~11 ~59 ~131 ~13 ~59 snow 0 
+setblock ~132 ~11 ~50 glass 0 
+setblock ~132 ~11 ~59 glass 0  
+fill ~133 ~11 ~50 ~133 ~11 ~51 snow 0  
+fill ~133 ~11 ~58 ~133 ~13 ~58 snow 0  
+fill ~133 ~11 ~59 ~133 ~11 ~58 snow 0 
+setblock ~134 ~11 ~51 glass 0 
+setblock ~134 ~11 ~58 glass 0  
+fill ~135 ~11 ~51 ~136 ~11 ~51 snow 0  
+fill ~135 ~11 ~55 ~136 ~11 ~55 snow 0  
+fill ~135 ~11 ~58 ~136 ~11 ~58 snow 0  
+fill ~137 ~11 ~52 ~138 ~11 ~52 snow 0 
+setblock ~137 ~11 ~55 redstone_wire 0  
+fill ~137 ~11 ~57 ~138 ~11 ~57 snow 0  
+fill ~3 ~12 ~54 ~5 ~12 ~54 snow 0  
+fill ~3 ~12 ~55 ~5 ~12 ~55 snow 0  
+fill ~4 ~12 ~53 ~8 ~12 ~53 snow 0  
+fill ~4 ~12 ~56 ~8 ~12 ~56 snow 0  
+fill ~8 ~12 ~57 ~14 ~12 ~57 snow 0  
+fill ~9 ~12 ~52 ~14 ~12 ~52 snow 0  
+fill ~14 ~12 ~58 ~20 ~12 ~58 snow 0  
+fill ~15 ~12 ~51 ~20 ~12 ~51 snow 0  
+fill ~20 ~12 ~59 ~26 ~12 ~59 snow 0  
+fill ~21 ~12 ~50 ~26 ~12 ~50 snow 0  
+fill ~26 ~12 ~49 ~41 ~12 ~49 snow 0  
+fill ~26 ~12 ~60 ~41 ~12 ~60 snow 0  
+fill ~30 ~12 ~53 ~36 ~12 ~53 snow 0  
+fill ~30 ~12 ~56 ~36 ~12 ~56 snow 0  
+fill ~32 ~12 ~50 ~32 ~15 ~50 snow 0  
+fill ~32 ~12 ~51 ~35 ~12 ~51 snow 0  
+fill ~32 ~12 ~52 ~35 ~12 ~52 snow 0  
+fill ~32 ~12 ~54 ~36 ~12 ~54 snow 0  
+fill ~32 ~12 ~55 ~36 ~12 ~55 snow 0  
+fill ~32 ~12 ~57 ~35 ~12 ~57 snow 0  
+fill ~32 ~12 ~58 ~35 ~12 ~58 snow 0  
+fill ~32 ~12 ~59 ~36 ~12 ~59 snow 0  
+fill ~36 ~12 ~50 ~36 ~15 ~50 snow 0 
+setblock ~36 ~12 ~52 wool 14 
+setblock ~36 ~12 ~57 wool 14  
+fill ~37 ~12 ~50 ~118 ~12 ~50 wool 14  
+fill ~37 ~12 ~53 ~95 ~12 ~53 wool 14  
+fill ~37 ~12 ~54 ~80 ~12 ~54 wool 14  
+fill ~37 ~12 ~55 ~80 ~12 ~55 wool 14  
+fill ~37 ~12 ~56 ~104 ~12 ~56 wool 14  
+fill ~37 ~12 ~59 ~104 ~12 ~59 wool 14 
+setblock ~42 ~12 ~48 snow 0  
+fill ~42 ~12 ~49 ~118 ~12 ~49 wool 14  
+fill ~42 ~12 ~60 ~104 ~12 ~60 wool 14 
+setblock ~42 ~12 ~61 snow 0 
+setblock ~44 ~12 ~48 snow 0 
+setblock ~44 ~12 ~61 snow 0 
+setblock ~46 ~12 ~48 snow 0 
+setblock ~46 ~12 ~61 snow 0 
+setblock ~48 ~12 ~48 snow 0 
+setblock ~48 ~12 ~61 snow 0  
+fill ~49 ~12 ~51 ~49 ~12 ~52 snow 0  
+fill ~49 ~12 ~57 ~49 ~12 ~58 snow 0 
+setblock ~50 ~12 ~48 snow 0 
+setblock ~50 ~12 ~61 snow 0  
+fill ~51 ~12 ~-5 ~55 ~12 ~-5 stone_brick_stairs 6  
+fill ~51 ~12 ~-4 ~55 ~12 ~-4 snow 0  
+fill ~51 ~12 ~-3 ~59 ~12 ~-3 snow 0  
+fill ~51 ~12 ~112 ~59 ~12 ~112 snow 0  
+fill ~51 ~12 ~113 ~55 ~12 ~113 snow 0  
+fill ~51 ~12 ~114 ~55 ~12 ~114 stone_brick_stairs 7  
+fill ~52 ~12 ~-2 ~60 ~12 ~-2 snow 0  
+fill ~52 ~12 ~-1 ~61 ~12 ~-1 snow 0 
+setblock ~52 ~12 ~48 snow 0 
+setblock ~52 ~12 ~61 snow 0  
+fill ~52 ~12 ~110 ~61 ~12 ~110 snow 0  
+fill ~52 ~12 ~111 ~60 ~12 ~111 snow 0  
+fill ~53 ~12 ~0 ~61 ~12 ~0 snow 0  
+fill ~53 ~12 ~1 ~62 ~12 ~1 snow 0  
+fill ~53 ~12 ~108 ~62 ~12 ~108 snow 0  
+fill ~53 ~12 ~109 ~61 ~12 ~109 snow 0  
+fill ~54 ~12 ~2 ~63 ~12 ~2 snow 0  
+fill ~54 ~12 ~3 ~64 ~12 ~3 snow 0 
+setblock ~54 ~12 ~48 snow 0 
+setblock ~54 ~12 ~61 snow 0  
+fill ~54 ~12 ~106 ~64 ~12 ~106 snow 0  
+fill ~54 ~12 ~107 ~63 ~12 ~107 snow 0  
+fill ~55 ~12 ~4 ~65 ~12 ~4 snow 0  
+fill ~55 ~12 ~5 ~66 ~12 ~5 snow 0  
+fill ~55 ~12 ~104 ~66 ~12 ~104 snow 0  
+fill ~55 ~12 ~105 ~65 ~12 ~105 snow 0 
+setblock ~56 ~12 ~-4 glowstone 0  
+fill ~56 ~12 ~6 ~67 ~12 ~6 snow 0  
+fill ~56 ~12 ~7 ~67 ~12 ~7 snow 0 
+setblock ~56 ~12 ~48 snow 0 
+setblock ~56 ~12 ~61 snow 0  
+fill ~56 ~12 ~102 ~67 ~12 ~102 snow 0  
+fill ~56 ~12 ~103 ~67 ~12 ~103 snow 0 
+setblock ~56 ~12 ~113 glowstone 0 
+setblock ~57 ~12 ~-4 wool 14  
+fill ~57 ~12 ~8 ~68 ~12 ~8 snow 0  
+fill ~57 ~12 ~9 ~69 ~12 ~9 snow 0  
+fill ~57 ~12 ~100 ~69 ~12 ~100 snow 0  
+fill ~57 ~12 ~101 ~68 ~12 ~101 snow 0 
+setblock ~57 ~12 ~113 wool 5  
+fill ~58 ~12 ~10 ~70 ~12 ~10 snow 0  
+fill ~58 ~12 ~11 ~71 ~12 ~11 snow 0 
+setblock ~58 ~12 ~48 snow 0 
+setblock ~58 ~12 ~61 snow 0  
+fill ~58 ~12 ~98 ~71 ~12 ~98 snow 0  
+fill ~58 ~12 ~99 ~70 ~12 ~99 snow 0  
+fill ~59 ~12 ~12 ~72 ~12 ~12 snow 0  
+fill ~59 ~12 ~13 ~73 ~12 ~13 snow 0  
+fill ~59 ~12 ~96 ~73 ~12 ~96 snow 0  
+fill ~59 ~12 ~97 ~72 ~12 ~97 snow 0 
+setblock ~60 ~12 ~48 snow 0 
+setblock ~60 ~12 ~61 snow 0  
+fill ~62 ~12 ~48 ~118 ~12 ~48 snow 0 
+setblock ~62 ~12 ~61 snow 0 
+setblock ~64 ~12 ~61 snow 0 
+setblock ~66 ~12 ~61 snow 0  
+fill ~68 ~12 ~51 ~68 ~12 ~52 snow 0  
+fill ~68 ~12 ~57 ~68 ~12 ~58 snow 0 
+setblock ~68 ~12 ~61 snow 0 
+setblock ~70 ~12 ~61 snow 0 
+setblock ~72 ~12 ~61 snow 0 
+setblock ~74 ~12 ~61 snow 0 
+setblock ~76 ~12 ~61 snow 0 
+setblock ~78 ~12 ~61 snow 0 
+setblock ~80 ~12 ~61 snow 0  
+fill ~82 ~12 ~51 ~82 ~12 ~52 snow 0  
+fill ~82 ~12 ~57 ~82 ~12 ~58 snow 0 
+setblock ~82 ~12 ~61 snow 0 
+setblock ~84 ~12 ~61 snow 0 
+setblock ~86 ~12 ~61 snow 0 
+setblock ~88 ~12 ~61 snow 0 
+setblock ~90 ~12 ~61 snow 0  
+fill ~91 ~12 ~54 ~91 ~12 ~56 wool 14 
+setblock ~92 ~12 ~61 snow 0 
+setblock ~94 ~12 ~61 snow 0  
+fill ~96 ~12 ~55 ~100 ~12 ~55 wool 14 
+setblock ~96 ~12 ~61 snow 0 
+setblock ~98 ~12 ~61 snow 0  
+fill ~100 ~12 ~53 ~100 ~12 ~54 oak_stairs 0 
+setblock ~100 ~12 ~61 snow 0  
+fill ~101 ~12 ~53 ~118 ~12 ~53 wool 14  
+fill ~101 ~12 ~54 ~103 ~12 ~54 snow 0  
+fill ~101 ~12 ~55 ~126 ~12 ~55 snow 0 
+setblock ~102 ~12 ~61 snow 0 
+setblock ~104 ~12 ~54 wool 14 
+setblock ~104 ~12 ~61 snow 0 
+setblock ~105 ~12 ~54 snow 0  
+fill ~105 ~12 ~57 ~105 ~12 ~61 snow 0  
+fill ~106 ~12 ~54 ~118 ~12 ~54 wool 14  
+fill ~106 ~12 ~59 ~132 ~12 ~59 snow 0  
+fill ~106 ~12 ~60 ~128 ~12 ~60 snow 0  
+fill ~106 ~12 ~61 ~106 ~12 ~59 snow 0 
+setblock ~108 ~12 ~61 snow 0 
+setblock ~110 ~12 ~61 snow 0  
+fill ~111 ~12 ~51 ~111 ~12 ~52 snow 0 
+setblock ~112 ~12 ~61 snow 0  
+fill ~114 ~12 ~56 ~115 ~12 ~56 wool 15 
+setblock ~114 ~12 ~61 snow 0  
+fill ~116 ~12 ~57 ~119 ~12 ~57 snow 0 
+setblock ~116 ~12 ~61 snow 0  
+fill ~117 ~12 ~56 ~135 ~12 ~56 snow 0  
+fill ~118 ~12 ~58 ~119 ~12 ~58 snow 0 
+setblock ~118 ~12 ~61 snow 0  
+fill ~119 ~12 ~48 ~121 ~12 ~48 wool 11  
+fill ~119 ~12 ~51 ~119 ~12 ~60 snow 0  
+fill ~119 ~12 ~61 ~121 ~12 ~61 wool 11  
+fill ~120 ~12 ~49 ~128 ~12 ~49 snow 0  
+fill ~120 ~12 ~50 ~132 ~12 ~50 snow 0  
+fill ~120 ~12 ~53 ~135 ~12 ~53 snow 0  
+fill ~120 ~12 ~54 ~133 ~12 ~54 snow 0  
+fill ~129 ~12 ~51 ~135 ~12 ~51 snow 0  
+fill ~129 ~12 ~52 ~137 ~12 ~52 snow 0  
+fill ~129 ~12 ~55 ~135 ~12 ~55 snow 0  
+fill ~129 ~12 ~57 ~137 ~12 ~57 snow 0  
+fill ~129 ~12 ~58 ~135 ~12 ~58 snow 0 
+setblock ~136 ~12 ~55 redstone_wire 0  
+fill ~137 ~12 ~53 ~138 ~12 ~53 snow 0  
+fill ~137 ~12 ~56 ~138 ~12 ~56 snow 0  
+fill ~138 ~12 ~54 ~139 ~12 ~54 snow 0  
+fill ~138 ~12 ~55 ~139 ~12 ~55 snow 0  
+fill ~1 ~13 ~54 ~2 ~13 ~54 snow 0  
+fill ~1 ~13 ~55 ~2 ~13 ~55 snow 0  
+fill ~2 ~13 ~53 ~6 ~13 ~53 snow 0  
+fill ~2 ~13 ~56 ~6 ~13 ~56 snow 0  
+fill ~7 ~13 ~52 ~12 ~13 ~52 snow 0  
+fill ~7 ~13 ~57 ~12 ~13 ~57 snow 0  
+fill ~13 ~13 ~51 ~18 ~13 ~51 snow 0  
+fill ~13 ~13 ~58 ~18 ~13 ~58 snow 0  
+fill ~19 ~13 ~50 ~25 ~13 ~50 snow 0  
+fill ~19 ~13 ~59 ~25 ~13 ~59 snow 0  
+fill ~26 ~13 ~49 ~119 ~13 ~49 snow 0  
+fill ~26 ~13 ~60 ~119 ~13 ~60 snow 0  
+fill ~32 ~13 ~51 ~36 ~13 ~51 snow 0  
+fill ~32 ~13 ~52 ~32 ~14 ~52 snow 0  
+fill ~32 ~13 ~53 ~32 ~14 ~53 snow 0  
+fill ~32 ~13 ~54 ~32 ~14 ~54 snow 0  
+fill ~32 ~13 ~55 ~32 ~14 ~55 snow 0  
+fill ~32 ~13 ~56 ~32 ~14 ~56 snow 0  
+fill ~32 ~13 ~57 ~32 ~14 ~57 snow 0  
+fill ~32 ~13 ~58 ~36 ~13 ~58 snow 0  
+fill ~32 ~13 ~59 ~36 ~13 ~59 snow 0  
+fill ~36 ~13 ~52 ~36 ~14 ~52 snow 0  
+fill ~36 ~13 ~53 ~36 ~14 ~53 snow 0  
+fill ~36 ~13 ~54 ~36 ~14 ~54 snow 0  
+fill ~36 ~13 ~55 ~36 ~14 ~55 snow 0  
+fill ~36 ~13 ~56 ~36 ~14 ~56 snow 0  
+fill ~36 ~13 ~57 ~36 ~14 ~57 snow 0  
+fill ~37 ~13 ~51 ~130 ~13 ~51 glowstone 0  
+fill ~37 ~13 ~52 ~133 ~13 ~52 glowstone 0  
+fill ~37 ~13 ~57 ~133 ~13 ~57 glowstone 0  
+fill ~37 ~13 ~58 ~130 ~13 ~58 glowstone 0  
+fill ~42 ~13 ~53 ~94 ~13 ~53 glowstone 0  
+fill ~42 ~13 ~55 ~96 ~13 ~55 glowstone 0  
+fill ~42 ~13 ~56 ~105 ~13 ~56 glowstone 0  
+fill ~43 ~13 ~54 ~95 ~13 ~54 glowstone 0 
+setblock ~51 ~13 ~-5 double_stone_slab 5 
+setblock ~51 ~13 ~114 double_stone_slab 5  
+fill ~52 ~13 ~-5 ~54 ~13 ~-5 double_stone_slab 7  
+fill ~52 ~13 ~114 ~54 ~13 ~114 double_stone_slab 7 
+setblock ~55 ~13 ~-5 stone_brick_stairs 1 
+setblock ~55 ~13 ~114 stone_brick_stairs 1  
+fill ~95 ~13 ~53 ~95 ~18 ~53 snow 0  
+fill ~96 ~13 ~53 ~97 ~13 ~53 wool 14  
+fill ~96 ~13 ~54 ~97 ~13 ~54 wool 14 
+setblock ~97 ~13 ~55 wool 14  
+fill ~100 ~13 ~55 ~101 ~13 ~55 wool 14  
+fill ~101 ~13 ~53 ~101 ~13 ~54 oak_stairs 0 
+setblock ~102 ~13 ~53 snow 0  
+fill ~102 ~13 ~54 ~107 ~13 ~54 glowstone 0  
+fill ~102 ~13 ~55 ~107 ~13 ~55 glowstone 0  
+fill ~103 ~13 ~53 ~108 ~13 ~53 glowstone 0  
+fill ~106 ~13 ~56 ~115 ~13 ~56 snow 0  
+fill ~108 ~13 ~54 ~113 ~13 ~54 snow 0  
+fill ~108 ~13 ~55 ~113 ~13 ~55 snow 0  
+fill ~109 ~13 ~53 ~112 ~13 ~53 snow 0  
+fill ~113 ~13 ~53 ~121 ~13 ~53 glowstone 0  
+fill ~114 ~13 ~54 ~121 ~13 ~54 glowstone 0  
+fill ~114 ~13 ~55 ~121 ~13 ~55 glowstone 0  
+fill ~116 ~13 ~56 ~121 ~13 ~56 glowstone 0  
+fill ~120 ~13 ~49 ~122 ~13 ~49 wool 11  
+fill ~120 ~13 ~60 ~122 ~13 ~60 wool 11  
+fill ~124 ~13 ~49 ~124 ~14 ~49 snow 0  
+fill ~124 ~13 ~60 ~124 ~14 ~60 snow 0 
+setblock ~126 ~13 ~49 snow 0 
+setblock ~126 ~13 ~60 snow 0  
+fill ~127 ~13 ~50 ~131 ~13 ~50 snow 0  
+fill ~127 ~13 ~59 ~131 ~13 ~59 snow 0  
+fill ~128 ~13 ~56 ~128 ~14 ~56 snow 0  
+fill ~129 ~13 ~55 ~133 ~13 ~55 redstone_wire 0  
+fill ~131 ~13 ~51 ~134 ~13 ~51 snow 0  
+fill ~131 ~13 ~58 ~134 ~13 ~58 snow 0  
+fill ~134 ~13 ~52 ~134 ~14 ~52 snow 0 
+setblock ~134 ~13 ~55 unpowered_repeater 1  
+fill ~134 ~13 ~57 ~134 ~14 ~57 snow 0 
+setblock ~135 ~13 ~55 redstone_wire 0  
+fill ~136 ~13 ~52 ~136 ~13 ~53 snow 0  
+fill ~136 ~13 ~56 ~137 ~13 ~56 snow 0  
+fill ~136 ~13 ~57 ~136 ~13 ~56 snow 0  
+fill ~137 ~13 ~53 ~137 ~12 ~53 snow 0  
+fill ~137 ~13 ~54 ~138 ~13 ~54 snow 0  
+fill ~137 ~13 ~55 ~138 ~13 ~55 snow 0  
+fill ~-1 ~14 ~54 ~0 ~14 ~54 snow 0  
+fill ~-1 ~14 ~55 ~0 ~14 ~55 snow 0  
+fill ~0 ~14 ~53 ~4 ~14 ~53 snow 0  
+fill ~0 ~14 ~56 ~4 ~14 ~56 snow 0  
+fill ~3 ~14 ~54 ~3 ~21 ~54 snow 0  
+fill ~3 ~14 ~55 ~3 ~21 ~55 snow 0  
+fill ~5 ~14 ~52 ~10 ~14 ~52 snow 0  
+fill ~5 ~14 ~57 ~10 ~14 ~57 snow 0  
+fill ~11 ~14 ~51 ~16 ~14 ~51 snow 0  
+fill ~11 ~14 ~58 ~16 ~14 ~58 snow 0  
+fill ~17 ~14 ~50 ~129 ~14 ~50 snow 0  
+fill ~17 ~14 ~59 ~129 ~14 ~59 snow 0  
+fill ~26 ~14 ~49 ~120 ~14 ~49 snow 0  
+fill ~26 ~14 ~51 ~132 ~14 ~51 snow 0  
+fill ~26 ~14 ~52 ~98 ~14 ~52 snow 0  
+fill ~26 ~14 ~53 ~98 ~14 ~53 snow 0  
+fill ~26 ~14 ~54 ~98 ~14 ~54 snow 0  
+fill ~26 ~14 ~55 ~98 ~14 ~55 snow 0  
+fill ~26 ~14 ~56 ~98 ~14 ~56 snow 0  
+fill ~26 ~14 ~57 ~88 ~14 ~57 snow 0  
+fill ~26 ~14 ~58 ~132 ~14 ~58 snow 0  
+fill ~26 ~14 ~60 ~120 ~14 ~60 snow 0  
+fill ~50 ~14 ~-5 ~50 ~16 ~-5 double_stone_slab 5  
+fill ~50 ~14 ~114 ~50 ~16 ~114 double_stone_slab 5  
+fill ~51 ~14 ~-5 ~53 ~14 ~-5 double_stone_slab 7  
+fill ~51 ~14 ~114 ~53 ~14 ~114 double_stone_slab 7 
+setblock ~54 ~14 ~-5 stone_brick_stairs 1 
+setblock ~54 ~14 ~114 stone_brick_stairs 1 
+setblock ~89 ~14 ~57 glowstone 0  
+fill ~90 ~14 ~57 ~98 ~14 ~57 snow 0  
+fill ~99 ~14 ~52 ~103 ~14 ~52 wool 7  
+fill ~99 ~14 ~55 ~122 ~14 ~55 double_stone_slab 7  
+fill ~99 ~14 ~56 ~103 ~14 ~56 wool 7  
+fill ~99 ~14 ~57 ~103 ~14 ~57 wool 7  
+fill ~102 ~14 ~53 ~102 ~14 ~54 oak_stairs 0 
+setblock ~103 ~14 ~53 wool 7  
+fill ~103 ~14 ~54 ~122 ~14 ~54 double_stone_slab 7  
+fill ~104 ~14 ~52 ~106 ~14 ~52 snow 0  
+fill ~104 ~14 ~53 ~106 ~14 ~53 snow 0  
+fill ~104 ~14 ~56 ~106 ~14 ~56 snow 0  
+fill ~104 ~14 ~57 ~106 ~14 ~57 snow 0  
+fill ~107 ~14 ~52 ~107 ~14 ~53 wool 7  
+fill ~107 ~14 ~56 ~107 ~14 ~57 wool 7  
+fill ~108 ~14 ~52 ~110 ~14 ~52 snow 0  
+fill ~108 ~14 ~53 ~110 ~14 ~53 snow 0  
+fill ~108 ~14 ~56 ~110 ~14 ~56 snow 0  
+fill ~108 ~14 ~57 ~110 ~14 ~57 snow 0  
+fill ~111 ~14 ~52 ~113 ~14 ~52 wool 7  
+fill ~111 ~14 ~53 ~113 ~14 ~53 wool 7  
+fill ~111 ~14 ~56 ~113 ~14 ~56 wool 7  
+fill ~111 ~14 ~57 ~113 ~14 ~57 wool 7  
+fill ~114 ~14 ~52 ~116 ~14 ~52 snow 0  
+fill ~114 ~14 ~53 ~116 ~14 ~53 snow 0  
+fill ~114 ~14 ~56 ~116 ~14 ~56 snow 0  
+fill ~114 ~14 ~57 ~116 ~14 ~57 snow 0  
+fill ~117 ~14 ~52 ~117 ~14 ~53 wool 7  
+fill ~117 ~14 ~56 ~117 ~14 ~57 wool 7  
+fill ~118 ~14 ~52 ~120 ~14 ~52 snow 0  
+fill ~118 ~14 ~53 ~120 ~14 ~53 snow 0  
+fill ~118 ~14 ~56 ~120 ~14 ~56 snow 0  
+fill ~118 ~14 ~57 ~120 ~14 ~57 snow 0  
+fill ~121 ~14 ~49 ~123 ~14 ~49 wool 11  
+fill ~121 ~14 ~52 ~121 ~14 ~53 wool 7  
+fill ~121 ~14 ~56 ~121 ~14 ~57 wool 7  
+fill ~121 ~14 ~60 ~123 ~14 ~60 wool 11  
+fill ~122 ~14 ~52 ~134 ~14 ~52 snow 0  
+fill ~122 ~14 ~53 ~135 ~14 ~53 snow 0  
+fill ~122 ~14 ~56 ~126 ~14 ~56 snow 0  
+fill ~122 ~14 ~57 ~134 ~14 ~57 snow 0  
+fill ~130 ~14 ~56 ~135 ~14 ~56 snow 0  
+fill ~135 ~14 ~54 ~136 ~14 ~54 snow 0  
+fill ~135 ~14 ~55 ~136 ~14 ~55 snow 0  
+fill ~-2 ~15 ~54 ~-1 ~15 ~54 stone_brick_stairs 3  
+fill ~-2 ~15 ~55 ~-1 ~15 ~55 stone_brick_stairs 2  
+fill ~-1 ~15 ~53 ~3 ~15 ~53 snow 0  
+fill ~-1 ~15 ~56 ~3 ~15 ~56 snow 0  
+fill ~0 ~15 ~54 ~0 ~16 ~54 glowstone 0  
+fill ~0 ~15 ~55 ~0 ~16 ~55 glowstone 0  
+fill ~2 ~15 ~44 ~12 ~15 ~44 snow 0  
+fill ~2 ~15 ~65 ~12 ~15 ~65 snow 0  
+fill ~3 ~15 ~45 ~13 ~15 ~45 snow 0  
+fill ~3 ~15 ~46 ~14 ~15 ~46 snow 0  
+fill ~3 ~15 ~47 ~15 ~15 ~47 snow 0  
+fill ~3 ~15 ~48 ~16 ~15 ~48 snow 0  
+fill ~3 ~15 ~61 ~16 ~15 ~61 snow 0  
+fill ~3 ~15 ~62 ~15 ~15 ~62 snow 0  
+fill ~3 ~15 ~63 ~14 ~15 ~63 snow 0  
+fill ~3 ~15 ~64 ~13 ~15 ~64 snow 0  
+fill ~4 ~15 ~49 ~17 ~15 ~49 snow 0  
+fill ~4 ~15 ~50 ~112 ~15 ~50 snow 0  
+fill ~4 ~15 ~51 ~16 ~15 ~51 snow 0  
+fill ~4 ~15 ~52 ~9 ~15 ~52 snow 0  
+fill ~4 ~15 ~57 ~9 ~15 ~57 snow 0  
+fill ~4 ~15 ~58 ~16 ~15 ~58 snow 0  
+fill ~4 ~15 ~59 ~112 ~15 ~59 snow 0  
+fill ~4 ~15 ~60 ~17 ~15 ~60 snow 0  
+fill ~51 ~15 ~-5 ~52 ~15 ~-5 double_stone_slab 7  
+fill ~51 ~15 ~114 ~52 ~15 ~114 double_stone_slab 7 
+setblock ~53 ~15 ~-5 stone_brick_stairs 1 
+setblock ~53 ~15 ~114 stone_brick_stairs 1  
+fill ~64 ~15 ~51 ~98 ~15 ~51 snow 0  
+fill ~64 ~15 ~58 ~98 ~15 ~58 snow 0 
+setblock ~87 ~15 ~53 dispenser 5 
+setblock ~87 ~15 ~55 dispenser 5  
+fill ~87 ~15 ~56 ~87 ~16 ~56 wool 15  
+fill ~87 ~15 ~57 ~87 ~16 ~57 wool 15  
+fill ~88 ~15 ~52 ~89 ~15 ~52 wool 15 
+setblock ~89 ~15 ~57 cauldron 6  
+fill ~93 ~15 ~56 ~93 ~15 ~57 oak_stairs 0 
+setblock ~94 ~15 ~52 wooden_door 0  
+fill ~94 ~15 ~53 ~94 ~18 ~53 snow 0  
+fill ~94 ~15 ~56 ~98 ~15 ~56 snow 0  
+fill ~94 ~15 ~57 ~98 ~15 ~57 snow 0 
+setblock ~95 ~15 ~52 bed 0 
+setblock ~96 ~15 ~52 bed 8  
+fill ~96 ~15 ~53 ~98 ~15 ~53 snow 0  
+fill ~97 ~15 ~52 ~98 ~15 ~52 snow 0  
+fill ~97 ~15 ~54 ~97 ~15 ~55 wooden_door 2  
+fill ~99 ~15 ~51 ~121 ~15 ~51 wool 9  
+fill ~99 ~15 ~58 ~121 ~15 ~58 wool 9  
+fill ~100 ~15 ~56 ~100 ~15 ~57 wool 14  
+fill ~101 ~15 ~56 ~102 ~15 ~56 stone_slab 1  
+fill ~101 ~15 ~57 ~102 ~15 ~57 stone_slab 1  
+fill ~104 ~15 ~52 ~104 ~15 ~53 wool 14  
+fill ~104 ~15 ~56 ~104 ~15 ~57 wool 14  
+fill ~105 ~15 ~52 ~106 ~15 ~52 stone_slab 1  
+fill ~105 ~15 ~53 ~106 ~15 ~53 stone_slab 1  
+fill ~105 ~15 ~56 ~106 ~15 ~56 stone_slab 1  
+fill ~105 ~15 ~57 ~106 ~15 ~57 stone_slab 1  
+fill ~108 ~15 ~52 ~108 ~15 ~53 wool 14  
+fill ~108 ~15 ~56 ~108 ~15 ~57 wool 14  
+fill ~109 ~15 ~52 ~110 ~15 ~52 stone_slab 1  
+fill ~109 ~15 ~53 ~110 ~15 ~53 stone_slab 1  
+fill ~109 ~15 ~56 ~110 ~15 ~56 stone_slab 1  
+fill ~109 ~15 ~57 ~110 ~15 ~57 stone_slab 1  
+fill ~113 ~15 ~50 ~122 ~15 ~50 wool 14  
+fill ~113 ~15 ~59 ~122 ~15 ~59 wool 14  
+fill ~114 ~15 ~52 ~114 ~15 ~53 wool 14  
+fill ~114 ~15 ~56 ~114 ~15 ~57 wool 14  
+fill ~115 ~15 ~52 ~116 ~15 ~52 stone_slab 1  
+fill ~115 ~15 ~53 ~116 ~15 ~53 stone_slab 1  
+fill ~115 ~15 ~56 ~116 ~15 ~56 stone_slab 1  
+fill ~115 ~15 ~57 ~116 ~15 ~57 stone_slab 1  
+fill ~118 ~15 ~52 ~118 ~15 ~53 wool 14  
+fill ~118 ~15 ~56 ~118 ~15 ~57 wool 14  
+fill ~119 ~15 ~52 ~120 ~15 ~52 stone_slab 1  
+fill ~119 ~15 ~53 ~120 ~15 ~53 stone_slab 1  
+fill ~119 ~15 ~56 ~120 ~15 ~56 stone_slab 1  
+fill ~119 ~15 ~57 ~120 ~15 ~57 stone_slab 1  
+fill ~122 ~15 ~51 ~130 ~15 ~51 snow 0  
+fill ~122 ~15 ~52 ~132 ~15 ~52 snow 0  
+fill ~122 ~15 ~53 ~133 ~15 ~53 snow 0  
+fill ~122 ~15 ~56 ~127 ~15 ~56 snow 0  
+fill ~122 ~15 ~57 ~122 ~18 ~57 snow 0  
+fill ~122 ~15 ~58 ~127 ~15 ~58 snow 0 
+setblock ~123 ~15 ~50 wool 11  
+fill ~123 ~15 ~54 ~123 ~15 ~55 stone_slab 7 
+setblock ~123 ~15 ~57 cauldron 2 
+setblock ~123 ~15 ~59 wool 11  
+fill ~124 ~15 ~50 ~127 ~15 ~50 snow 0  
+fill ~124 ~15 ~54 ~134 ~15 ~54 snow 0  
+fill ~124 ~15 ~55 ~127 ~15 ~55 snow 0  
+fill ~124 ~15 ~57 ~127 ~15 ~57 snow 0  
+fill ~124 ~15 ~59 ~127 ~15 ~59 snow 0 
+setblock ~128 ~15 ~56 redstone_wire 15  
+fill ~129 ~15 ~58 ~130 ~15 ~58 snow 0  
+fill ~130 ~15 ~55 ~134 ~15 ~55 snow 0  
+fill ~130 ~15 ~56 ~133 ~15 ~56 snow 0  
+fill ~130 ~15 ~57 ~132 ~15 ~57 snow 0  
+fill ~-3 ~16 ~40 ~8 ~16 ~40 snow 0  
+fill ~-3 ~16 ~69 ~8 ~16 ~69 snow 0  
+fill ~-2 ~16 ~41 ~9 ~16 ~41 snow 0  
+fill ~-2 ~16 ~42 ~10 ~16 ~42 snow 0  
+fill ~-2 ~16 ~43 ~11 ~16 ~43 snow 0  
+fill ~-2 ~16 ~44 ~12 ~16 ~44 snow 0  
+fill ~-2 ~16 ~54 ~-1 ~16 ~54 stone_brick_stairs 7  
+fill ~-2 ~16 ~55 ~-1 ~16 ~55 stone_brick_stairs 6  
+fill ~-2 ~16 ~65 ~12 ~16 ~65 snow 0  
+fill ~-2 ~16 ~66 ~11 ~16 ~66 snow 0  
+fill ~-2 ~16 ~67 ~10 ~16 ~67 snow 0  
+fill ~-2 ~16 ~68 ~9 ~16 ~68 snow 0  
+fill ~-1 ~16 ~45 ~13 ~16 ~45 snow 0  
+fill ~-1 ~16 ~46 ~14 ~16 ~46 snow 0  
+fill ~-1 ~16 ~47 ~15 ~16 ~47 snow 0  
+fill ~-1 ~16 ~48 ~16 ~16 ~48 snow 0  
+fill ~-1 ~16 ~53 ~3 ~16 ~53 snow 0  
+fill ~-1 ~16 ~56 ~3 ~16 ~56 snow 0  
+fill ~-1 ~16 ~61 ~16 ~16 ~61 snow 0  
+fill ~-1 ~16 ~62 ~15 ~16 ~62 snow 0  
+fill ~-1 ~16 ~63 ~14 ~16 ~63 snow 0  
+fill ~-1 ~16 ~64 ~13 ~16 ~64 snow 0  
+fill ~0 ~16 ~49 ~17 ~16 ~49 snow 0  
+fill ~0 ~16 ~50 ~18 ~16 ~50 snow 0  
+fill ~0 ~16 ~51 ~98 ~16 ~51 snow 0  
+fill ~0 ~16 ~52 ~9 ~16 ~52 snow 0  
+fill ~0 ~16 ~57 ~9 ~16 ~57 snow 0  
+fill ~0 ~16 ~58 ~98 ~16 ~58 snow 0  
+fill ~0 ~16 ~59 ~18 ~16 ~59 snow 0  
+fill ~0 ~16 ~60 ~17 ~16 ~60 snow 0  
+fill ~51 ~16 ~-5 ~52 ~16 ~-5 stone_slab 5  
+fill ~51 ~16 ~114 ~52 ~16 ~114 stone_slab 5  
+fill ~87 ~16 ~52 ~87 ~17 ~52 snow 0  
+fill ~87 ~16 ~53 ~87 ~17 ~53 snow 0  
+fill ~87 ~16 ~54 ~87 ~17 ~54 snow 0  
+fill ~87 ~16 ~55 ~87 ~17 ~55 snow 0  
+fill ~88 ~16 ~52 ~89 ~16 ~52 wool 15  
+fill ~88 ~16 ~53 ~89 ~16 ~53 stone_button 3  
+fill ~88 ~16 ~56 ~88 ~16 ~57 stone_button 1 
+setblock ~94 ~16 ~52 wooden_door 8  
+fill ~94 ~16 ~56 ~98 ~16 ~56 snow 0  
+fill ~94 ~16 ~57 ~98 ~16 ~57 snow 0  
+fill ~96 ~16 ~53 ~98 ~16 ~53 snow 0  
+fill ~97 ~16 ~52 ~98 ~16 ~52 snow 0 
+setblock ~97 ~16 ~54 wooden_door 9 
+setblock ~97 ~16 ~55 wooden_door 8  
+fill ~99 ~16 ~50 ~103 ~16 ~50 snow 0  
+fill ~99 ~16 ~51 ~103 ~16 ~51 wool 9  
+fill ~99 ~16 ~58 ~103 ~16 ~58 wool 9  
+fill ~99 ~16 ~59 ~103 ~16 ~59 snow 0  
+fill ~104 ~16 ~50 ~104 ~16 ~51 glass 0  
+fill ~104 ~16 ~58 ~104 ~16 ~59 glass 0 
+setblock ~105 ~16 ~50 snow 0 
+setblock ~105 ~16 ~51 wool 9 
+setblock ~105 ~16 ~58 wool 9 
+setblock ~105 ~16 ~59 snow 0  
+fill ~106 ~16 ~50 ~106 ~16 ~51 glass 0  
+fill ~106 ~16 ~58 ~106 ~16 ~59 glass 0 
+setblock ~107 ~16 ~50 snow 0 
+setblock ~107 ~16 ~51 wool 9 
+setblock ~107 ~16 ~58 wool 9 
+setblock ~107 ~16 ~59 snow 0  
+fill ~108 ~16 ~50 ~108 ~16 ~51 glass 0  
+fill ~108 ~16 ~58 ~108 ~16 ~59 glass 0 
+setblock ~109 ~16 ~50 wool 14 
+setblock ~109 ~16 ~51 wool 9 
+setblock ~109 ~16 ~58 wool 9 
+setblock ~109 ~16 ~59 wool 14  
+fill ~110 ~16 ~50 ~110 ~16 ~51 glass 0  
+fill ~110 ~16 ~58 ~110 ~16 ~59 glass 0  
+fill ~111 ~16 ~50 ~113 ~16 ~50 wool 14  
+fill ~111 ~16 ~51 ~113 ~16 ~51 wool 9  
+fill ~111 ~16 ~58 ~113 ~16 ~58 wool 9  
+fill ~111 ~16 ~59 ~113 ~16 ~59 wool 14  
+fill ~114 ~16 ~50 ~114 ~16 ~51 glass 0  
+fill ~114 ~16 ~58 ~114 ~16 ~59 glass 0 
+setblock ~115 ~16 ~50 wool 14 
+setblock ~115 ~16 ~51 wool 9 
+setblock ~115 ~16 ~58 wool 9 
+setblock ~115 ~16 ~59 wool 14  
+fill ~116 ~16 ~50 ~116 ~16 ~51 glass 0  
+fill ~116 ~16 ~58 ~116 ~16 ~59 glass 0 
+setblock ~117 ~16 ~50 wool 14 
+setblock ~117 ~16 ~51 wool 9 
+setblock ~117 ~16 ~58 wool 9 
+setblock ~117 ~16 ~59 wool 14  
+fill ~118 ~16 ~50 ~118 ~16 ~51 glass 0  
+fill ~118 ~16 ~58 ~118 ~16 ~59 glass 0 
+setblock ~119 ~16 ~50 wool 14 
+setblock ~119 ~16 ~51 wool 9 
+setblock ~119 ~16 ~58 wool 9 
+setblock ~119 ~16 ~59 wool 14  
+fill ~120 ~16 ~50 ~120 ~16 ~51 glass 0  
+fill ~120 ~16 ~58 ~120 ~16 ~59 glass 0  
+fill ~121 ~16 ~50 ~122 ~16 ~50 wool 14 
+setblock ~121 ~16 ~51 wool 9 
+setblock ~121 ~16 ~58 wool 9  
+fill ~121 ~16 ~59 ~122 ~16 ~59 wool 14  
+fill ~122 ~16 ~51 ~128 ~16 ~51 snow 0  
+fill ~122 ~16 ~52 ~130 ~16 ~52 snow 0  
+fill ~122 ~16 ~53 ~124 ~16 ~53 snow 0  
+fill ~122 ~16 ~56 ~122 ~19 ~56 snow 0  
+fill ~122 ~16 ~58 ~128 ~16 ~58 snow 0  
+fill ~123 ~16 ~50 ~125 ~16 ~50 snow 0 
+setblock ~123 ~16 ~56 wooden_door 1 
+setblock ~123 ~16 ~57 trapdoor 0  
+fill ~123 ~16 ~59 ~125 ~16 ~59 snow 0  
+fill ~124 ~16 ~54 ~124 ~16 ~55 iron_door 0  
+fill ~124 ~16 ~56 ~124 ~17 ~56 snow 0  
+fill ~124 ~16 ~57 ~130 ~16 ~57 snow 0  
+fill ~125 ~16 ~53 ~125 ~17 ~53 wool 11  
+fill ~125 ~16 ~56 ~125 ~17 ~56 wool 11 
+setblock ~126 ~16 ~53 stone_brick_stairs 1 
+setblock ~126 ~16 ~54 lever 13 
+setblock ~126 ~16 ~55 lever 5 
+setblock ~126 ~16 ~56 stone_brick_stairs 1 
+setblock ~127 ~16 ~53 lever 10 
+setblock ~127 ~16 ~56 lever 10  
+fill ~128 ~16 ~53 ~131 ~16 ~53 snow 0 
+setblock ~128 ~16 ~54 stone_brick_stairs 0  
+fill ~128 ~16 ~56 ~131 ~16 ~56 snow 0  
+fill ~129 ~16 ~54 ~132 ~16 ~54 snow 0  
+fill ~129 ~16 ~55 ~132 ~16 ~55 snow 0  
+fill ~-4 ~17 ~33 ~1 ~17 ~33 snow 0  
+fill ~-4 ~17 ~34 ~2 ~17 ~34 snow 0  
+fill ~-4 ~17 ~35 ~3 ~17 ~35 snow 0  
+fill ~-4 ~17 ~36 ~4 ~17 ~36 snow 0  
+fill ~-4 ~17 ~73 ~4 ~17 ~73 snow 0  
+fill ~-4 ~17 ~74 ~3 ~17 ~74 snow 0  
+fill ~-4 ~17 ~75 ~2 ~17 ~75 snow 0  
+fill ~-4 ~17 ~76 ~1 ~17 ~76 snow 0  
+fill ~-3 ~17 ~37 ~5 ~17 ~37 snow 0  
+fill ~-3 ~17 ~38 ~6 ~17 ~38 snow 0  
+fill ~-3 ~17 ~39 ~7 ~17 ~39 snow 0  
+fill ~-3 ~17 ~70 ~7 ~17 ~70 snow 0  
+fill ~-3 ~17 ~71 ~6 ~17 ~71 snow 0  
+fill ~-3 ~17 ~72 ~5 ~17 ~72 snow 0  
+fill ~-1 ~17 ~54 ~87 ~17 ~54 snow 0  
+fill ~-1 ~17 ~55 ~87 ~17 ~55 snow 0  
+fill ~0 ~17 ~53 ~87 ~17 ~53 snow 0  
+fill ~0 ~17 ~56 ~87 ~17 ~56 snow 0  
+fill ~4 ~17 ~52 ~98 ~17 ~52 snow 0  
+fill ~4 ~17 ~57 ~98 ~17 ~57 snow 0 
+setblock ~50 ~17 ~-5 redstone_torch 5 
+setblock ~50 ~17 ~114 redstone_torch 5  
+fill ~94 ~17 ~56 ~98 ~17 ~56 snow 0  
+fill ~96 ~17 ~53 ~98 ~17 ~53 snow 0  
+fill ~97 ~17 ~54 ~97 ~18 ~54 snow 0  
+fill ~97 ~17 ~55 ~97 ~18 ~55 snow 0  
+fill ~99 ~17 ~51 ~105 ~17 ~51 snow 0  
+fill ~99 ~17 ~52 ~121 ~17 ~52 oak_stairs 7  
+fill ~99 ~17 ~53 ~121 ~17 ~53 stone_slab 15  
+fill ~99 ~17 ~56 ~121 ~17 ~56 stone_slab 15  
+fill ~99 ~17 ~57 ~121 ~17 ~57 oak_stairs 6  
+fill ~99 ~17 ~58 ~105 ~17 ~58 snow 0  
+fill ~106 ~17 ~51 ~120 ~17 ~51 wool 14  
+fill ~106 ~17 ~58 ~120 ~17 ~58 wool 14  
+fill ~121 ~17 ~51 ~126 ~17 ~51 snow 0  
+fill ~121 ~17 ~58 ~126 ~17 ~58 snow 0  
+fill ~122 ~17 ~52 ~126 ~17 ~52 snow 0  
+fill ~122 ~17 ~53 ~124 ~17 ~53 snow 0 
+setblock ~123 ~17 ~56 wooden_door 8 
+setblock ~124 ~17 ~54 iron_door 8 
+setblock ~124 ~17 ~55 iron_door 9  
+fill ~124 ~17 ~57 ~126 ~17 ~57 snow 0 
+setblock ~125 ~17 ~54 stone_button 3 
+setblock ~125 ~17 ~55 stone_button 4 
+setblock ~126 ~17 ~53 lever 3 
+setblock ~126 ~17 ~56 lever 4  
+fill ~127 ~17 ~52 ~128 ~17 ~52 glass 0  
+fill ~127 ~17 ~57 ~128 ~17 ~57 glass 0  
+fill ~128 ~17 ~53 ~129 ~17 ~53 glass 0  
+fill ~128 ~17 ~54 ~130 ~17 ~54 glass 0  
+fill ~128 ~17 ~56 ~129 ~17 ~56 glass 0  
+fill ~129 ~17 ~55 ~130 ~17 ~55 glass 0 
+setblock ~-4 ~18 ~33 redstone_torch 5 
+setblock ~-4 ~18 ~76 redstone_torch 5  
+fill ~2 ~18 ~54 ~2 ~20 ~54 snow 0  
+fill ~2 ~18 ~55 ~2 ~21 ~55 snow 0  
+fill ~4 ~18 ~54 ~4 ~21 ~54 snow 0  
+fill ~4 ~18 ~55 ~4 ~22 ~55 snow 0  
+fill ~5 ~18 ~54 ~13 ~18 ~54 wool 14  
+fill ~5 ~18 ~55 ~13 ~18 ~55 wool 14  
+fill ~14 ~18 ~54 ~28 ~18 ~54 snow 0  
+fill ~14 ~18 ~55 ~28 ~18 ~55 snow 0  
+fill ~88 ~18 ~53 ~98 ~18 ~53 snow 0  
+fill ~88 ~18 ~54 ~98 ~18 ~54 snow 0  
+fill ~88 ~18 ~55 ~98 ~18 ~55 snow 0  
+fill ~88 ~18 ~56 ~98 ~18 ~56 snow 0  
+fill ~99 ~18 ~52 ~127 ~18 ~52 snow 0  
+fill ~99 ~18 ~53 ~121 ~18 ~53 glowstone 0  
+fill ~99 ~18 ~56 ~121 ~18 ~56 glowstone 0  
+fill ~99 ~18 ~57 ~127 ~18 ~57 snow 0  
+fill ~122 ~18 ~53 ~123 ~18 ~53 snow 0  
+fill ~123 ~18 ~54 ~123 ~18 ~55 stone_button 2  
+fill ~123 ~18 ~56 ~123 ~19 ~56 snow 0 
+setblock ~124 ~18 ~53 glowstone 0  
+fill ~124 ~18 ~54 ~124 ~19 ~54 snow 0  
+fill ~124 ~18 ~55 ~124 ~19 ~55 snow 0 
+setblock ~124 ~18 ~56 glowstone 0  
+fill ~125 ~18 ~53 ~128 ~18 ~53 snow 0  
+fill ~125 ~18 ~54 ~125 ~18 ~55 stone_brick_stairs 5  
+fill ~125 ~18 ~56 ~128 ~18 ~56 snow 0 
+setblock ~126 ~18 ~54 stone_button 3 
+setblock ~126 ~18 ~55 stone_button 4 
+setblock ~127 ~18 ~54 lever 2  
+fill ~128 ~18 ~54 ~129 ~18 ~54 snow 0 
+setblock ~129 ~18 ~55 snow 0  
+fill ~1 ~19 ~54 ~1 ~20 ~54 snow 0  
+fill ~1 ~19 ~55 ~1 ~20 ~55 snow 0  
+fill ~5 ~19 ~54 ~6 ~19 ~54 snow 0  
+fill ~5 ~19 ~55 ~6 ~19 ~55 snow 0  
+fill ~7 ~19 ~54 ~15 ~19 ~54 wool 14  
+fill ~7 ~19 ~55 ~15 ~19 ~55 wool 14  
+fill ~16 ~19 ~54 ~25 ~19 ~54 snow 0  
+fill ~16 ~19 ~55 ~25 ~19 ~55 snow 0  
+fill ~99 ~19 ~53 ~126 ~19 ~53 snow 0  
+fill ~99 ~19 ~54 ~127 ~19 ~54 snow 0  
+fill ~99 ~19 ~55 ~127 ~19 ~55 snow 0  
+fill ~99 ~19 ~56 ~126 ~19 ~56 snow 0  
+fill ~5 ~20 ~54 ~9 ~20 ~54 snow 0  
+fill ~5 ~20 ~55 ~9 ~20 ~55 snow 0  
+fill ~10 ~20 ~54 ~16 ~20 ~54 wool 14  
+fill ~10 ~20 ~55 ~16 ~20 ~55 wool 14  
+fill ~17 ~20 ~54 ~23 ~20 ~54 snow 0  
+fill ~17 ~20 ~55 ~23 ~20 ~55 snow 0  
+fill ~1 ~21 ~54 ~2 ~21 ~54 wool 11  
+fill ~1 ~21 ~55 ~1 ~26 ~55 wool 11  
+fill ~5 ~21 ~54 ~12 ~21 ~54 snow 0  
+fill ~5 ~21 ~55 ~12 ~21 ~55 snow 0  
+fill ~13 ~21 ~54 ~17 ~21 ~54 wool 14  
+fill ~13 ~21 ~55 ~17 ~21 ~55 wool 14  
+fill ~18 ~21 ~54 ~21 ~21 ~54 snow 0  
+fill ~18 ~21 ~55 ~21 ~21 ~55 snow 0  
+fill ~0 ~22 ~54 ~4 ~22 ~54 wool 11  
+fill ~0 ~22 ~55 ~0 ~26 ~55 wool 11  
+fill ~2 ~22 ~55 ~3 ~22 ~55 wool 11  
+fill ~5 ~22 ~54 ~14 ~22 ~54 snow 0  
+fill ~5 ~22 ~55 ~14 ~22 ~55 snow 0  
+fill ~15 ~22 ~54 ~18 ~22 ~54 wool 14  
+fill ~15 ~22 ~55 ~18 ~22 ~55 wool 14  
+fill ~19 ~22 ~54 ~20 ~22 ~54 snow 0  
+fill ~19 ~22 ~55 ~20 ~22 ~55 snow 0  
+fill ~0 ~23 ~54 ~7 ~23 ~54 wool 11  
+fill ~2 ~23 ~55 ~6 ~23 ~55 wool 11  
+fill ~7 ~23 ~55 ~16 ~23 ~55 snow 0  
+fill ~8 ~23 ~54 ~16 ~23 ~54 snow 0  
+fill ~17 ~23 ~54 ~19 ~23 ~54 wool 14  
+fill ~17 ~23 ~55 ~19 ~23 ~55 wool 14  
+fill ~0 ~24 ~54 ~10 ~24 ~54 wool 11  
+fill ~2 ~24 ~55 ~10 ~24 ~55 wool 11  
+fill ~11 ~24 ~54 ~17 ~24 ~54 snow 0  
+fill ~11 ~24 ~55 ~17 ~24 ~55 snow 0  
+fill ~18 ~24 ~54 ~18 ~24 ~55 wool 14  
+fill ~-1 ~25 ~54 ~6 ~25 ~54 wool 11  
+fill ~-1 ~25 ~55 ~-1 ~25 ~54 wool 11  
+fill ~2 ~25 ~55 ~6 ~25 ~55 wool 11  
+fill ~7 ~25 ~54 ~17 ~25 ~54 snow 0  
+fill ~7 ~25 ~55 ~17 ~25 ~55 snow 0  
+fill ~-1 ~26 ~54 ~-1 ~29 ~54 snow 0  
+fill ~-1 ~26 ~55 ~-1 ~29 ~55 snow 0  
+fill ~0 ~26 ~54 ~3 ~26 ~54 wool 11  
+fill ~2 ~26 ~55 ~3 ~26 ~55 wool 11  
+fill ~4 ~26 ~54 ~16 ~26 ~54 snow 0  
+fill ~4 ~26 ~55 ~16 ~26 ~55 snow 0  
+fill ~0 ~27 ~54 ~9 ~27 ~54 snow 0  
+fill ~0 ~27 ~55 ~9 ~27 ~55 snow 0  
+fill ~10 ~27 ~54 ~15 ~27 ~54 wool 14  
+fill ~10 ~27 ~55 ~15 ~27 ~55 wool 14  
+fill ~-2 ~28 ~54 ~-2 ~28 ~55 snow 0  
+fill ~0 ~28 ~54 ~6 ~28 ~54 snow 0  
+fill ~0 ~28 ~55 ~6 ~28 ~55 snow 0  
+fill ~7 ~28 ~54 ~14 ~28 ~54 wool 14  
+fill ~7 ~28 ~55 ~14 ~28 ~55 wool 14  
+fill ~-2 ~29 ~54 ~-2 ~35 ~54 wool 14  
+fill ~-2 ~29 ~55 ~-2 ~35 ~55 wool 14  
+fill ~0 ~29 ~54 ~3 ~29 ~54 snow 0  
+fill ~0 ~29 ~55 ~3 ~29 ~55 snow 0  
+fill ~4 ~29 ~54 ~13 ~29 ~54 wool 14  
+fill ~4 ~29 ~55 ~13 ~29 ~55 wool 14  
+fill ~-1 ~30 ~54 ~12 ~30 ~54 wool 14  
+fill ~-1 ~30 ~55 ~12 ~30 ~55 wool 14  
+fill ~-3 ~31 ~54 ~-3 ~35 ~54 wool 14  
+fill ~-3 ~31 ~55 ~-3 ~35 ~55 wool 14  
+fill ~-1 ~31 ~54 ~11 ~31 ~54 wool 14  
+fill ~-1 ~31 ~55 ~11 ~31 ~55 wool 14  
+fill ~-1 ~32 ~54 ~7 ~32 ~54 wool 14  
+fill ~-1 ~32 ~55 ~7 ~32 ~55 wool 14  
+fill ~8 ~32 ~54 ~10 ~32 ~54 snow 0  
+fill ~8 ~32 ~55 ~10 ~32 ~55 snow 0  
+fill ~-1 ~33 ~54 ~4 ~33 ~54 wool 14  
+fill ~-1 ~33 ~55 ~4 ~33 ~55 wool 14  
+fill ~5 ~33 ~54 ~9 ~33 ~54 snow 0  
+fill ~5 ~33 ~55 ~9 ~33 ~55 snow 0  
+fill ~-4 ~34 ~54 ~-4 ~35 ~54 wool 14  
+fill ~-4 ~34 ~55 ~-4 ~35 ~55 wool 14  
+fill ~-1 ~34 ~54 ~2 ~34 ~54 wool 14  
+fill ~-1 ~34 ~55 ~2 ~34 ~55 wool 14  
+fill ~3 ~34 ~54 ~8 ~34 ~54 snow 0  
+fill ~3 ~34 ~55 ~8 ~34 ~55 snow 0  
+fill ~-1 ~35 ~54 ~0 ~35 ~54 wool 14  
+fill ~-1 ~35 ~55 ~0 ~35 ~55 wool 14  
+fill ~1 ~35 ~54 ~7 ~35 ~54 snow 0  
+fill ~1 ~35 ~55 ~7 ~35 ~55 snow 0  
+fill ~-4 ~36 ~54 ~6 ~36 ~54 snow 0  
+fill ~-4 ~36 ~55 ~6 ~36 ~55 snow 0  
+fill ~-5 ~37 ~54 ~5 ~37 ~54 snow 0  
+fill ~-5 ~37 ~55 ~5 ~37 ~55 snow 0  
+fill ~-5 ~38 ~54 ~4 ~38 ~54 snow 0  
+fill ~-5 ~38 ~55 ~4 ~38 ~55 snow 0  
+fill ~-5 ~39 ~54 ~3 ~39 ~54 snow 0  
+fill ~-5 ~39 ~55 ~3 ~39 ~55 snow 0  
+fill ~-5 ~40 ~54 ~-5 ~40 ~55 redstone_torch 5  
+setblock ~33 ~11 ~55 wall_sign 5  
+setblock ~33 ~11 ~54 wall_sign 5  
+setblock ~81 ~11 ~55 wall_sign 5  
+setblock ~105 ~11 ~52 wall_sign 2  
+setblock ~122 ~17 ~55 wall_sign 2  
+setblock ~127 ~16 ~54 wall_sign 4  
+setblock ~120 ~11 ~57 wall_sign 5    

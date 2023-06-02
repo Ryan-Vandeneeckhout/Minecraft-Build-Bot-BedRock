@@ -1,0 +1,1465 @@
+fill ~5 ~0 ~17 ~7 ~0 ~17 stonebrick  
+fill ~5 ~0 ~18 ~5 ~0 ~23 stonebrick  
+fill ~6 ~0 ~18 ~6 ~0 ~22 planks  
+fill ~6 ~0 ~23 ~7 ~0 ~23 stonebrick  
+fill ~7 ~0 ~8 ~17 ~0 ~8 stonebrick  
+fill ~7 ~0 ~9 ~17 ~0 ~9 stonebrick  
+fill ~7 ~0 ~10 ~8 ~0 ~10 stonebrick  
+fill ~7 ~0 ~11 ~8 ~0 ~11 stonebrick  
+fill ~7 ~0 ~12 ~8 ~0 ~12 stonebrick  
+fill ~7 ~0 ~13 ~8 ~0 ~13 stonebrick  
+fill ~7 ~0 ~14 ~8 ~0 ~14 stonebrick  
+fill ~7 ~0 ~15 ~8 ~0 ~15 stonebrick  
+fill ~7 ~0 ~16 ~53 ~0 ~16 stonebrick  
+fill ~7 ~0 ~18 ~50 ~0 ~18 planks  
+fill ~7 ~0 ~19 ~50 ~0 ~19 planks  
+fill ~7 ~0 ~20 ~50 ~0 ~20 planks  
+fill ~7 ~0 ~21 ~50 ~0 ~21 planks  
+fill ~7 ~0 ~22 ~50 ~0 ~22 planks  
+fill ~7 ~0 ~24 ~53 ~0 ~24 stonebrick  
+fill ~7 ~0 ~25 ~8 ~0 ~25 stonebrick  
+fill ~7 ~0 ~26 ~8 ~0 ~26 stonebrick  
+fill ~7 ~0 ~27 ~8 ~0 ~27 stonebrick  
+fill ~7 ~0 ~28 ~8 ~0 ~28 stonebrick  
+fill ~7 ~0 ~29 ~8 ~0 ~29 stonebrick  
+fill ~7 ~0 ~30 ~8 ~0 ~30 stonebrick  
+fill ~7 ~0 ~31 ~17 ~0 ~31 stonebrick  
+fill ~7 ~0 ~32 ~17 ~0 ~32 stonebrick  
+fill ~8 ~0 ~17 ~51 ~0 ~17 planks  
+fill ~8 ~0 ~23 ~51 ~0 ~23 planks  
+fill ~9 ~0 ~10 ~31 ~0 ~10 stone  
+fill ~9 ~0 ~11 ~31 ~0 ~11 stone  
+fill ~9 ~0 ~12 ~31 ~0 ~12 stone  
+fill ~9 ~0 ~13 ~43 ~0 ~13 stone  
+fill ~9 ~0 ~14 ~43 ~0 ~14 stone  
+fill ~9 ~0 ~15 ~43 ~0 ~15 stone  
+fill ~9 ~0 ~25 ~43 ~0 ~25 stone  
+fill ~9 ~0 ~26 ~43 ~0 ~26 stone  
+fill ~9 ~0 ~27 ~43 ~0 ~27 stone  
+fill ~9 ~0 ~28 ~31 ~0 ~28 stone  
+fill ~9 ~0 ~29 ~31 ~0 ~29 stone  
+fill ~9 ~0 ~30 ~31 ~0 ~30 stone  
+fill ~16 ~0 ~4 ~24 ~0 ~4 stonebrick  
+fill ~16 ~0 ~5 ~24 ~0 ~5 stonebrick  
+fill ~16 ~0 ~6 ~17 ~0 ~6 stonebrick  
+fill ~16 ~0 ~7 ~17 ~0 ~7 stonebrick  
+fill ~16 ~0 ~33 ~17 ~0 ~33 stonebrick  
+fill ~16 ~0 ~34 ~17 ~0 ~34 stonebrick  
+fill ~16 ~0 ~35 ~24 ~0 ~35 stonebrick  
+fill ~16 ~0 ~36 ~24 ~0 ~36 stonebrick  
+fill ~18 ~0 ~6 ~22 ~0 ~6 stone  
+fill ~18 ~0 ~7 ~22 ~0 ~7 stone  
+fill ~18 ~0 ~8 ~22 ~0 ~8 stone  
+fill ~18 ~0 ~9 ~22 ~0 ~9 stone  
+fill ~18 ~0 ~31 ~22 ~0 ~31 stone  
+fill ~18 ~0 ~32 ~22 ~0 ~32 stone  
+fill ~18 ~0 ~33 ~22 ~0 ~33 stone  
+fill ~18 ~0 ~34 ~22 ~0 ~34 stone  
+fill ~23 ~0 ~6 ~24 ~0 ~6 stonebrick  
+fill ~23 ~0 ~7 ~24 ~0 ~7 stonebrick  
+fill ~23 ~0 ~8 ~33 ~0 ~8 stonebrick  
+fill ~23 ~0 ~9 ~33 ~0 ~9 stonebrick  
+fill ~23 ~0 ~31 ~33 ~0 ~31 stonebrick  
+fill ~23 ~0 ~32 ~33 ~0 ~32 stonebrick  
+fill ~23 ~0 ~33 ~24 ~0 ~33 stonebrick  
+fill ~23 ~0 ~34 ~24 ~0 ~34 stonebrick  
+fill ~32 ~0 ~10 ~33 ~0 ~10 stonebrick  
+fill ~32 ~0 ~11 ~45 ~0 ~11 stonebrick  
+fill ~32 ~0 ~12 ~45 ~0 ~12 stonebrick  
+fill ~32 ~0 ~28 ~45 ~0 ~28 stonebrick  
+fill ~32 ~0 ~29 ~45 ~0 ~29 stonebrick  
+fill ~32 ~0 ~30 ~33 ~0 ~30 stonebrick  
+fill ~44 ~0 ~13 ~45 ~0 ~13 stonebrick  
+fill ~44 ~0 ~14 ~45 ~0 ~14 stonebrick  
+fill ~44 ~0 ~15 ~53 ~0 ~15 stonebrick  
+fill ~44 ~0 ~25 ~53 ~0 ~25 stonebrick  
+fill ~44 ~0 ~26 ~45 ~0 ~26 stonebrick  
+fill ~44 ~0 ~27 ~45 ~0 ~27 stonebrick  
+fill ~51 ~0 ~18 ~51 ~0 ~23 planks  
+fill ~52 ~0 ~17 ~53 ~0 ~17 stonebrick  
+fill ~52 ~0 ~18 ~53 ~0 ~18 stonebrick  
+fill ~52 ~0 ~19 ~53 ~0 ~19 stonebrick  
+fill ~52 ~0 ~20 ~53 ~0 ~20 stonebrick  
+fill ~52 ~0 ~21 ~53 ~0 ~21 stonebrick  
+fill ~52 ~0 ~22 ~53 ~0 ~22 stonebrick  
+fill ~52 ~0 ~23 ~53 ~0 ~23 stonebrick  
+fill ~5 ~1 ~17 ~5 ~6 ~17 log 
+setblock ~5 ~1 ~18 cobblestone 0  
+fill ~5 ~1 ~19 ~5 ~8 ~19 log  
+fill ~5 ~1 ~21 ~5 ~8 ~21 log 
+setblock ~5 ~1 ~22 cobblestone 0  
+fill ~5 ~1 ~23 ~5 ~6 ~23 log 
+setblock ~6 ~1 ~17 cobblestone 0 
+setblock ~6 ~1 ~23 cobblestone 0  
+fill ~7 ~1 ~9 ~7 ~6 ~9 log 
+setblock ~7 ~1 ~10 cobblestone 0  
+fill ~7 ~1 ~11 ~7 ~6 ~11 log 
+setblock ~7 ~1 ~12 cobblestone 0  
+fill ~7 ~1 ~13 ~7 ~6 ~13 log 
+setblock ~7 ~1 ~14 cobblestone 0  
+fill ~7 ~1 ~15 ~7 ~6 ~15 log 
+setblock ~7 ~1 ~16 cobblestone 0  
+fill ~7 ~1 ~17 ~7 ~6 ~17 log  
+fill ~7 ~1 ~23 ~7 ~6 ~23 log 
+setblock ~7 ~1 ~24 cobblestone 0  
+fill ~7 ~1 ~25 ~7 ~6 ~25 log 
+setblock ~7 ~1 ~26 cobblestone 0  
+fill ~7 ~1 ~27 ~7 ~6 ~27 log 
+setblock ~7 ~1 ~28 cobblestone 0  
+fill ~7 ~1 ~29 ~7 ~6 ~29 log 
+setblock ~7 ~1 ~30 cobblestone 0  
+fill ~7 ~1 ~31 ~7 ~6 ~31 log  
+fill ~8 ~1 ~8 ~8 ~6 ~8 log  
+fill ~8 ~1 ~32 ~8 ~6 ~32 log 
+setblock ~9 ~1 ~8 cobblestone 0 
+setblock ~9 ~1 ~32 cobblestone 0  
+fill ~10 ~1 ~8 ~10 ~6 ~8 log  
+fill ~10 ~1 ~32 ~10 ~6 ~32 log 
+setblock ~11 ~1 ~8 cobblestone 0 
+setblock ~11 ~1 ~32 cobblestone 0  
+fill ~12 ~1 ~8 ~12 ~6 ~8 log  
+fill ~12 ~1 ~32 ~12 ~6 ~32 log 
+setblock ~13 ~1 ~8 cobblestone 0 
+setblock ~13 ~1 ~32 cobblestone 0  
+fill ~14 ~1 ~8 ~14 ~6 ~8 log  
+fill ~14 ~1 ~32 ~14 ~6 ~32 log 
+setblock ~15 ~1 ~8 cobblestone 0 
+setblock ~15 ~1 ~32 cobblestone 0  
+fill ~16 ~1 ~4 ~16 ~6 ~4 log 
+setblock ~16 ~1 ~5 cobblestone 0  
+fill ~16 ~1 ~6 ~16 ~6 ~6 log 
+setblock ~16 ~1 ~7 cobblestone 0  
+fill ~16 ~1 ~8 ~16 ~6 ~8 log  
+fill ~16 ~1 ~32 ~16 ~6 ~32 log 
+setblock ~16 ~1 ~33 cobblestone 0  
+fill ~16 ~1 ~34 ~16 ~6 ~34 log 
+setblock ~16 ~1 ~35 cobblestone 0  
+fill ~16 ~1 ~36 ~16 ~6 ~36 log  
+fill ~17 ~1 ~4 ~19 ~1 ~4 cobblestone  
+fill ~17 ~1 ~36 ~19 ~1 ~36 cobblestone  
+fill ~20 ~1 ~4 ~20 ~10 ~4 log  
+fill ~20 ~1 ~36 ~20 ~10 ~36 log  
+fill ~21 ~1 ~4 ~23 ~1 ~4 cobblestone  
+fill ~21 ~1 ~36 ~23 ~1 ~36 cobblestone  
+fill ~24 ~1 ~4 ~24 ~6 ~4 log 
+setblock ~24 ~1 ~5 cobblestone 0  
+fill ~24 ~1 ~6 ~24 ~6 ~6 log 
+setblock ~24 ~1 ~7 cobblestone 0  
+fill ~24 ~1 ~8 ~24 ~6 ~8 log  
+fill ~24 ~1 ~32 ~24 ~6 ~32 log 
+setblock ~24 ~1 ~33 cobblestone 0  
+fill ~24 ~1 ~34 ~24 ~6 ~34 log 
+setblock ~24 ~1 ~35 cobblestone 0  
+fill ~24 ~1 ~36 ~24 ~6 ~36 log 
+setblock ~25 ~1 ~8 cobblestone 0 
+setblock ~25 ~1 ~32 cobblestone 0  
+fill ~26 ~1 ~8 ~26 ~6 ~8 log  
+fill ~26 ~1 ~32 ~26 ~6 ~32 log 
+setblock ~27 ~1 ~8 cobblestone 0 
+setblock ~27 ~1 ~32 cobblestone 0  
+fill ~28 ~1 ~8 ~28 ~6 ~8 log  
+fill ~28 ~1 ~32 ~28 ~6 ~32 log 
+setblock ~29 ~1 ~8 cobblestone 0 
+setblock ~29 ~1 ~32 cobblestone 0  
+fill ~30 ~1 ~8 ~30 ~6 ~8 log  
+fill ~30 ~1 ~32 ~30 ~6 ~32 log 
+setblock ~31 ~1 ~8 cobblestone 0 
+setblock ~31 ~1 ~32 cobblestone 0  
+fill ~32 ~1 ~8 ~32 ~6 ~8 log  
+fill ~32 ~1 ~32 ~32 ~6 ~32 log  
+fill ~33 ~1 ~9 ~33 ~6 ~9 log 
+setblock ~33 ~1 ~10 cobblestone 0  
+fill ~33 ~1 ~11 ~33 ~6 ~11 log  
+fill ~33 ~1 ~29 ~33 ~6 ~29 log 
+setblock ~33 ~1 ~30 cobblestone 0  
+fill ~33 ~1 ~31 ~33 ~6 ~31 log  
+fill ~34 ~1 ~11 ~36 ~1 ~11 cobblestone  
+fill ~34 ~1 ~29 ~36 ~1 ~29 cobblestone  
+fill ~37 ~1 ~11 ~37 ~6 ~11 log  
+fill ~37 ~1 ~29 ~37 ~6 ~29 log  
+fill ~38 ~1 ~11 ~40 ~1 ~11 cobblestone  
+fill ~38 ~1 ~29 ~40 ~1 ~29 cobblestone  
+fill ~41 ~1 ~11 ~41 ~6 ~11 log  
+fill ~41 ~1 ~29 ~41 ~6 ~29 log  
+fill ~42 ~1 ~11 ~44 ~1 ~11 cobblestone  
+fill ~42 ~1 ~29 ~44 ~1 ~29 cobblestone  
+fill ~45 ~1 ~11 ~45 ~6 ~11 log  
+fill ~45 ~1 ~12 ~45 ~1 ~14 cobblestone  
+fill ~45 ~1 ~15 ~45 ~13 ~15 log  
+fill ~45 ~1 ~25 ~45 ~13 ~25 log  
+fill ~45 ~1 ~26 ~45 ~1 ~28 cobblestone  
+fill ~45 ~1 ~29 ~45 ~6 ~29 log  
+fill ~46 ~1 ~15 ~48 ~1 ~15 cobblestone  
+fill ~46 ~1 ~25 ~48 ~1 ~25 cobblestone  
+fill ~49 ~1 ~15 ~49 ~7 ~15 log  
+fill ~49 ~1 ~25 ~49 ~7 ~25 log  
+fill ~50 ~1 ~15 ~52 ~1 ~15 cobblestone  
+fill ~50 ~1 ~25 ~52 ~1 ~25 cobblestone  
+fill ~53 ~1 ~15 ~53 ~8 ~15 log  
+fill ~53 ~1 ~16 ~53 ~1 ~18 cobblestone  
+fill ~53 ~1 ~19 ~53 ~15 ~19 log 
+setblock ~53 ~1 ~20 cobblestone 0  
+fill ~53 ~1 ~21 ~53 ~15 ~21 log  
+fill ~53 ~1 ~22 ~53 ~1 ~24 cobblestone  
+fill ~53 ~1 ~25 ~53 ~8 ~25 log 
+setblock ~5 ~2 ~18 log 9 
+setblock ~5 ~2 ~22 log 9 
+setblock ~6 ~2 ~17 log 5 
+setblock ~6 ~2 ~23 log 5 
+setblock ~7 ~2 ~10 log 9 
+setblock ~7 ~2 ~12 log 9 
+setblock ~7 ~2 ~14 log 9 
+setblock ~7 ~2 ~16 log 9 
+setblock ~7 ~2 ~24 log 9 
+setblock ~7 ~2 ~26 log 9 
+setblock ~7 ~2 ~28 log 9 
+setblock ~7 ~2 ~30 log 9 
+setblock ~9 ~2 ~8 log 5 
+setblock ~9 ~2 ~32 log 5 
+setblock ~11 ~2 ~8 log 5 
+setblock ~11 ~2 ~32 log 5 
+setblock ~13 ~2 ~8 log 5 
+setblock ~13 ~2 ~32 log 5 
+setblock ~15 ~2 ~8 log 5 
+setblock ~15 ~2 ~32 log 5 
+setblock ~16 ~2 ~5 log 9 
+setblock ~16 ~2 ~7 log 9 
+setblock ~16 ~2 ~33 log 9 
+setblock ~16 ~2 ~35 log 9  
+fill ~17 ~2 ~4 ~19 ~2 ~4 log  
+fill ~17 ~2 ~36 ~19 ~2 ~36 log  
+fill ~21 ~2 ~4 ~23 ~2 ~4 log  
+fill ~21 ~2 ~36 ~23 ~2 ~36 log 
+setblock ~24 ~2 ~5 log 9 
+setblock ~24 ~2 ~7 log 9 
+setblock ~24 ~2 ~33 log 9 
+setblock ~24 ~2 ~35 log 9 
+setblock ~25 ~2 ~8 log 5 
+setblock ~25 ~2 ~32 log 5 
+setblock ~27 ~2 ~8 log 5 
+setblock ~27 ~2 ~32 log 5 
+setblock ~29 ~2 ~8 log 5 
+setblock ~29 ~2 ~32 log 5 
+setblock ~31 ~2 ~8 log 5 
+setblock ~31 ~2 ~32 log 5 
+setblock ~33 ~2 ~10 log 9 
+setblock ~33 ~2 ~30 log 9  
+fill ~34 ~2 ~11 ~36 ~2 ~11 log  
+fill ~34 ~2 ~29 ~36 ~2 ~29 log  
+fill ~38 ~2 ~11 ~40 ~2 ~11 log  
+fill ~38 ~2 ~29 ~40 ~2 ~29 log  
+fill ~42 ~2 ~11 ~44 ~2 ~11 log  
+fill ~42 ~2 ~29 ~44 ~2 ~29 log  
+fill ~45 ~2 ~12 ~45 ~2 ~14 log  
+fill ~45 ~2 ~26 ~45 ~2 ~28 log  
+fill ~46 ~2 ~15 ~48 ~2 ~15 log  
+fill ~46 ~2 ~25 ~48 ~2 ~25 log  
+fill ~50 ~2 ~15 ~52 ~2 ~15 log  
+fill ~50 ~2 ~25 ~52 ~2 ~25 log  
+fill ~53 ~2 ~16 ~53 ~2 ~18 log 
+setblock ~53 ~2 ~20 log 9  
+fill ~53 ~2 ~22 ~53 ~2 ~24 log 
+setblock ~5 ~3 ~18 planks 1 
+setblock ~5 ~3 ~20 log 9 
+setblock ~5 ~3 ~22 planks 1 
+setblock ~6 ~3 ~17 planks 1 
+setblock ~6 ~3 ~23 planks 1 
+setblock ~7 ~3 ~10 planks 1 
+setblock ~7 ~3 ~12 planks 1 
+setblock ~7 ~3 ~14 planks 1 
+setblock ~7 ~3 ~16 planks 1 
+setblock ~7 ~3 ~24 planks 1 
+setblock ~7 ~3 ~26 planks 1 
+setblock ~7 ~3 ~28 planks 1 
+setblock ~7 ~3 ~30 planks 1 
+setblock ~9 ~3 ~8 planks 1 
+setblock ~9 ~3 ~32 planks 1 
+setblock ~11 ~3 ~8 planks 1 
+setblock ~11 ~3 ~32 planks 1 
+setblock ~13 ~3 ~8 planks 1 
+setblock ~13 ~3 ~32 planks 1 
+setblock ~15 ~3 ~8 planks 1 
+setblock ~15 ~3 ~32 planks 1 
+setblock ~16 ~3 ~5 planks 1 
+setblock ~16 ~3 ~7 planks 1 
+setblock ~16 ~3 ~33 planks 1 
+setblock ~16 ~3 ~35 planks 1  
+fill ~17 ~3 ~4 ~19 ~3 ~4 planks  
+fill ~17 ~3 ~36 ~19 ~3 ~36 planks  
+fill ~21 ~3 ~4 ~23 ~3 ~4 planks  
+fill ~21 ~3 ~36 ~23 ~3 ~36 planks 
+setblock ~24 ~3 ~5 planks 1 
+setblock ~24 ~3 ~7 planks 1 
+setblock ~24 ~3 ~33 planks 1 
+setblock ~24 ~3 ~35 planks 1 
+setblock ~25 ~3 ~8 planks 1 
+setblock ~25 ~3 ~32 planks 1 
+setblock ~27 ~3 ~8 planks 1 
+setblock ~27 ~3 ~32 planks 1 
+setblock ~29 ~3 ~8 planks 1 
+setblock ~29 ~3 ~32 planks 1 
+setblock ~31 ~3 ~8 planks 1 
+setblock ~31 ~3 ~32 planks 1 
+setblock ~33 ~3 ~10 planks 1 
+setblock ~33 ~3 ~30 planks 1  
+fill ~34 ~3 ~11 ~36 ~3 ~11 planks  
+fill ~34 ~3 ~29 ~36 ~3 ~29 planks  
+fill ~38 ~3 ~11 ~40 ~3 ~11 planks  
+fill ~38 ~3 ~29 ~40 ~3 ~29 planks  
+fill ~42 ~3 ~11 ~44 ~3 ~11 planks  
+fill ~42 ~3 ~29 ~44 ~3 ~29 planks  
+fill ~45 ~3 ~12 ~45 ~3 ~14 planks  
+fill ~45 ~3 ~26 ~45 ~3 ~28 planks  
+fill ~46 ~3 ~15 ~48 ~3 ~15 planks  
+fill ~46 ~3 ~25 ~48 ~3 ~25 planks  
+fill ~50 ~3 ~15 ~52 ~3 ~15 planks  
+fill ~50 ~3 ~25 ~52 ~3 ~25 planks  
+fill ~53 ~3 ~16 ~53 ~3 ~18 planks 
+setblock ~53 ~3 ~20 planks 1  
+fill ~53 ~3 ~22 ~53 ~3 ~24 planks 
+setblock ~5 ~4 ~18 spruce_stairs 4 
+setblock ~5 ~4 ~20 spruce_stairs 4 
+setblock ~5 ~4 ~22 spruce_stairs 4 
+setblock ~6 ~4 ~17 spruce_stairs 6 
+setblock ~6 ~4 ~23 spruce_stairs 7 
+setblock ~7 ~4 ~10 spruce_stairs 4 
+setblock ~7 ~4 ~12 spruce_stairs 4 
+setblock ~7 ~4 ~14 spruce_stairs 4 
+setblock ~7 ~4 ~16 spruce_stairs 4 
+setblock ~7 ~4 ~24 spruce_stairs 4 
+setblock ~7 ~4 ~26 spruce_stairs 4 
+setblock ~7 ~4 ~28 spruce_stairs 4 
+setblock ~7 ~4 ~30 spruce_stairs 4 
+setblock ~9 ~4 ~8 spruce_stairs 6 
+setblock ~9 ~4 ~32 spruce_stairs 7 
+setblock ~11 ~4 ~8 spruce_stairs 6 
+setblock ~11 ~4 ~32 spruce_stairs 7 
+setblock ~13 ~4 ~8 spruce_stairs 6 
+setblock ~13 ~4 ~32 spruce_stairs 7 
+setblock ~15 ~4 ~8 spruce_stairs 6 
+setblock ~15 ~4 ~32 spruce_stairs 7 
+setblock ~16 ~4 ~5 spruce_stairs 4 
+setblock ~16 ~4 ~7 spruce_stairs 4 
+setblock ~16 ~4 ~33 spruce_stairs 4 
+setblock ~16 ~4 ~35 spruce_stairs 4  
+fill ~17 ~4 ~4 ~19 ~4 ~4 spruce_stairs  
+fill ~17 ~4 ~36 ~19 ~4 ~36 spruce_stairs  
+fill ~21 ~4 ~4 ~23 ~4 ~4 spruce_stairs  
+fill ~21 ~4 ~36 ~23 ~4 ~36 spruce_stairs 
+setblock ~24 ~4 ~5 spruce_stairs 5 
+setblock ~24 ~4 ~7 spruce_stairs 5 
+setblock ~24 ~4 ~33 spruce_stairs 5 
+setblock ~24 ~4 ~35 spruce_stairs 5 
+setblock ~25 ~4 ~8 spruce_stairs 6 
+setblock ~25 ~4 ~32 spruce_stairs 7 
+setblock ~27 ~4 ~8 spruce_stairs 6 
+setblock ~27 ~4 ~32 spruce_stairs 7 
+setblock ~29 ~4 ~8 spruce_stairs 6 
+setblock ~29 ~4 ~32 spruce_stairs 7 
+setblock ~31 ~4 ~8 spruce_stairs 6 
+setblock ~31 ~4 ~32 spruce_stairs 7 
+setblock ~33 ~4 ~10 spruce_stairs 5 
+setblock ~33 ~4 ~30 spruce_stairs 5  
+fill ~34 ~4 ~11 ~36 ~4 ~11 spruce_stairs  
+fill ~34 ~4 ~29 ~36 ~4 ~29 spruce_stairs  
+fill ~38 ~4 ~11 ~40 ~4 ~11 spruce_stairs  
+fill ~38 ~4 ~29 ~40 ~4 ~29 spruce_stairs  
+fill ~42 ~4 ~11 ~44 ~4 ~11 spruce_stairs  
+fill ~42 ~4 ~29 ~44 ~4 ~29 spruce_stairs  
+fill ~45 ~4 ~12 ~45 ~4 ~14 spruce_stairs  
+fill ~45 ~4 ~26 ~45 ~4 ~28 spruce_stairs  
+fill ~46 ~4 ~15 ~48 ~4 ~15 spruce_stairs  
+fill ~46 ~4 ~25 ~48 ~4 ~25 spruce_stairs  
+fill ~50 ~4 ~15 ~52 ~4 ~15 spruce_stairs  
+fill ~50 ~4 ~25 ~52 ~4 ~25 spruce_stairs  
+fill ~53 ~4 ~16 ~53 ~4 ~18 spruce_stairs 
+setblock ~53 ~4 ~20 spruce_stairs 5  
+fill ~53 ~4 ~22 ~53 ~4 ~24 spruce_stairs 
+setblock ~5 ~5 ~18 fence 1 
+setblock ~5 ~5 ~20 fence 1 
+setblock ~5 ~5 ~22 fence 1 
+setblock ~6 ~5 ~17 fence 1 
+setblock ~6 ~5 ~23 fence 1 
+setblock ~7 ~5 ~10 fence 1 
+setblock ~7 ~5 ~12 fence 1 
+setblock ~7 ~5 ~14 fence 1 
+setblock ~7 ~5 ~16 fence 1 
+setblock ~7 ~5 ~24 fence 1 
+setblock ~7 ~5 ~26 fence 1 
+setblock ~7 ~5 ~28 fence 1 
+setblock ~7 ~5 ~30 fence 1 
+setblock ~9 ~5 ~8 fence 1 
+setblock ~9 ~5 ~32 fence 1 
+setblock ~11 ~5 ~8 fence 1 
+setblock ~11 ~5 ~32 fence 1 
+setblock ~13 ~5 ~8 fence 1 
+setblock ~13 ~5 ~32 fence 1 
+setblock ~15 ~5 ~8 fence 1 
+setblock ~15 ~5 ~32 fence 1 
+setblock ~16 ~5 ~5 fence 1 
+setblock ~16 ~5 ~7 fence 1 
+setblock ~16 ~5 ~33 fence 1 
+setblock ~16 ~5 ~35 fence 1  
+fill ~17 ~5 ~4 ~19 ~5 ~4 fence  
+fill ~17 ~5 ~36 ~19 ~5 ~36 fence  
+fill ~21 ~5 ~4 ~23 ~5 ~4 fence  
+fill ~21 ~5 ~36 ~23 ~5 ~36 fence 
+setblock ~24 ~5 ~5 fence 1 
+setblock ~24 ~5 ~7 fence 1 
+setblock ~24 ~5 ~33 fence 1 
+setblock ~24 ~5 ~35 fence 1 
+setblock ~25 ~5 ~8 fence 1 
+setblock ~25 ~5 ~32 fence 1 
+setblock ~27 ~5 ~8 fence 1 
+setblock ~27 ~5 ~32 fence 1 
+setblock ~29 ~5 ~8 fence 1 
+setblock ~29 ~5 ~32 fence 1 
+setblock ~31 ~5 ~8 fence 1 
+setblock ~31 ~5 ~32 fence 1 
+setblock ~33 ~5 ~10 fence 1 
+setblock ~33 ~5 ~30 fence 1  
+fill ~34 ~5 ~11 ~36 ~5 ~11 fence  
+fill ~34 ~5 ~29 ~36 ~5 ~29 fence  
+fill ~38 ~5 ~11 ~40 ~5 ~11 fence  
+fill ~38 ~5 ~29 ~40 ~5 ~29 fence  
+fill ~42 ~5 ~11 ~44 ~5 ~11 fence  
+fill ~42 ~5 ~29 ~44 ~5 ~29 fence  
+fill ~45 ~5 ~12 ~45 ~5 ~14 fence  
+fill ~45 ~5 ~26 ~45 ~5 ~28 fence  
+fill ~46 ~5 ~15 ~48 ~5 ~15 fence  
+fill ~46 ~5 ~25 ~48 ~5 ~25 fence  
+fill ~50 ~5 ~15 ~52 ~5 ~15 fence  
+fill ~50 ~5 ~25 ~52 ~5 ~25 fence  
+fill ~53 ~5 ~16 ~53 ~5 ~18 fence 
+setblock ~53 ~5 ~20 fence 1  
+fill ~53 ~5 ~22 ~53 ~5 ~24 fence  
+fill ~4 ~6 ~16 ~6 ~6 ~16 stone_stairs 
+setblock ~4 ~6 ~17 stone_stairs 7 
+setblock ~4 ~6 ~23 stone_stairs 6  
+fill ~4 ~6 ~24 ~5 ~6 ~24 stone_stairs 
+setblock ~5 ~6 ~18 log 9 
+setblock ~5 ~6 ~20 log 9 
+setblock ~5 ~6 ~22 log 9  
+fill ~6 ~6 ~8 ~6 ~6 ~15 stone_stairs 
+setblock ~6 ~6 ~17 log 5 
+setblock ~6 ~6 ~23 log 5  
+fill ~6 ~6 ~24 ~6 ~6 ~31 stone_stairs 
+setblock ~6 ~6 ~32 stone_stairs 3 
+setblock ~7 ~6 ~7 stone_stairs 0 
+setblock ~7 ~6 ~8 stone_stairs 2 
+setblock ~7 ~6 ~10 log 9 
+setblock ~7 ~6 ~12 log 9 
+setblock ~7 ~6 ~14 log 9 
+setblock ~7 ~6 ~16 log 9 
+setblock ~7 ~6 ~24 log 9 
+setblock ~7 ~6 ~26 log 9 
+setblock ~7 ~6 ~28 log 9 
+setblock ~7 ~6 ~30 log 9  
+fill ~7 ~6 ~32 ~7 ~6 ~33 stone_stairs  
+fill ~8 ~6 ~7 ~15 ~6 ~7 stone_stairs  
+fill ~8 ~6 ~33 ~14 ~6 ~33 stone_stairs 
+setblock ~9 ~6 ~8 log 5 
+setblock ~9 ~6 ~32 log 5 
+setblock ~11 ~6 ~8 log 5 
+setblock ~11 ~6 ~32 log 5 
+setblock ~13 ~6 ~8 log 5 
+setblock ~13 ~6 ~32 log 5  
+fill ~15 ~6 ~3 ~15 ~6 ~6 stone_stairs 
+setblock ~15 ~6 ~8 log 5 
+setblock ~15 ~6 ~32 log 5  
+fill ~15 ~6 ~33 ~15 ~6 ~37 stone_stairs 
+setblock ~16 ~6 ~3 stone_stairs 5 
+setblock ~16 ~6 ~5 log 9 
+setblock ~16 ~6 ~7 log 9 
+setblock ~16 ~6 ~33 log 9 
+setblock ~16 ~6 ~35 log 9 
+setblock ~16 ~6 ~37 stone_stairs 5  
+fill ~17 ~6 ~4 ~19 ~6 ~4 log  
+fill ~17 ~6 ~36 ~19 ~6 ~36 log  
+fill ~21 ~6 ~4 ~23 ~6 ~4 log  
+fill ~21 ~6 ~36 ~23 ~6 ~36 log 
+setblock ~24 ~6 ~3 stone_stairs 4 
+setblock ~24 ~6 ~5 log 9 
+setblock ~24 ~6 ~7 log 9 
+setblock ~24 ~6 ~33 log 9 
+setblock ~24 ~6 ~35 log 9 
+setblock ~24 ~6 ~37 stone_stairs 4  
+fill ~25 ~6 ~3 ~25 ~6 ~7 stone_stairs 
+setblock ~25 ~6 ~8 log 5 
+setblock ~25 ~6 ~32 log 5  
+fill ~25 ~6 ~33 ~25 ~6 ~37 stone_stairs  
+fill ~26 ~6 ~7 ~32 ~6 ~7 stone_stairs  
+fill ~26 ~6 ~33 ~32 ~6 ~33 stone_stairs 
+setblock ~27 ~6 ~8 log 5 
+setblock ~27 ~6 ~32 log 5 
+setblock ~29 ~6 ~8 log 5 
+setblock ~29 ~6 ~32 log 5 
+setblock ~31 ~6 ~8 log 5 
+setblock ~31 ~6 ~32 log 5 
+setblock ~33 ~6 ~7 stone_stairs 1 
+setblock ~33 ~6 ~8 cobblestone 0 
+setblock ~33 ~6 ~10 log 9 
+setblock ~33 ~6 ~30 log 9 
+setblock ~33 ~6 ~32 cobblestone 0 
+setblock ~33 ~6 ~33 stone_stairs 1 
+setblock ~34 ~6 ~8 stone_stairs 2  
+fill ~34 ~6 ~9 ~34 ~6 ~10 stone_stairs  
+fill ~34 ~6 ~11 ~36 ~6 ~11 log  
+fill ~34 ~6 ~29 ~36 ~6 ~29 log  
+fill ~34 ~6 ~30 ~34 ~6 ~31 stone_stairs 
+setblock ~34 ~6 ~32 stone_stairs 3  
+fill ~35 ~6 ~10 ~46 ~6 ~10 stone_stairs  
+fill ~35 ~6 ~30 ~46 ~6 ~30 stone_stairs  
+fill ~38 ~6 ~11 ~40 ~6 ~11 log  
+fill ~38 ~6 ~29 ~40 ~6 ~29 log  
+fill ~42 ~6 ~11 ~44 ~6 ~11 log  
+fill ~42 ~6 ~29 ~44 ~6 ~29 log  
+fill ~45 ~6 ~12 ~45 ~6 ~14 log  
+fill ~45 ~6 ~26 ~45 ~6 ~28 log 
+setblock ~46 ~6 ~11 stone_stairs 7  
+fill ~46 ~6 ~15 ~48 ~6 ~15 log  
+fill ~46 ~6 ~25 ~48 ~6 ~25 log 
+setblock ~46 ~6 ~29 stone_stairs 6  
+fill ~50 ~6 ~15 ~52 ~6 ~15 log  
+fill ~50 ~6 ~25 ~52 ~6 ~25 log  
+fill ~53 ~6 ~16 ~53 ~6 ~18 log 
+setblock ~53 ~6 ~20 log 9  
+fill ~53 ~6 ~22 ~53 ~6 ~24 log 
+setblock ~4 ~7 ~17 stone_stairs 2 
+setblock ~4 ~7 ~18 stone_stairs 7 
+setblock ~4 ~7 ~22 stone_stairs 6 
+setblock ~4 ~7 ~23 stone_stairs 3  
+fill ~5 ~7 ~17 ~7 ~7 ~17 spruce_stairs 
+setblock ~5 ~7 ~18 planks 1  
+fill ~5 ~7 ~20 ~5 ~9 ~20 planks 
+setblock ~5 ~7 ~22 planks 1  
+fill ~5 ~7 ~23 ~7 ~7 ~23 spruce_stairs  
+fill ~7 ~7 ~9 ~7 ~7 ~16 spruce_stairs  
+fill ~7 ~7 ~24 ~7 ~7 ~31 spruce_stairs  
+fill ~8 ~7 ~8 ~15 ~7 ~8 spruce_stairs  
+fill ~8 ~7 ~32 ~16 ~7 ~32 spruce_stairs 
+setblock ~16 ~7 ~3 stone_stairs 0  
+fill ~16 ~7 ~4 ~16 ~7 ~8 spruce_stairs  
+fill ~16 ~7 ~33 ~16 ~7 ~36 spruce_stairs 
+setblock ~16 ~7 ~37 stone_stairs 0 
+setblock ~17 ~7 ~3 stone_stairs 5 
+setblock ~17 ~7 ~4 log 1 
+setblock ~17 ~7 ~36 log 1 
+setblock ~17 ~7 ~37 stone_stairs 5  
+fill ~18 ~7 ~4 ~19 ~7 ~4 planks  
+fill ~18 ~7 ~36 ~19 ~7 ~36 planks  
+fill ~21 ~7 ~4 ~22 ~7 ~4 planks  
+fill ~21 ~7 ~36 ~22 ~7 ~36 planks 
+setblock ~23 ~7 ~3 stone_stairs 4 
+setblock ~23 ~7 ~4 log 1 
+setblock ~23 ~7 ~36 log 1 
+setblock ~23 ~7 ~37 stone_stairs 4 
+setblock ~24 ~7 ~3 stone_stairs 1  
+fill ~24 ~7 ~4 ~24 ~7 ~7 spruce_stairs  
+fill ~24 ~7 ~8 ~32 ~7 ~8 spruce_stairs  
+fill ~24 ~7 ~32 ~32 ~7 ~32 spruce_stairs  
+fill ~24 ~7 ~33 ~24 ~7 ~36 spruce_stairs 
+setblock ~24 ~7 ~37 stone_stairs 1 
+setblock ~33 ~7 ~8 stone_stairs 1  
+fill ~33 ~7 ~9 ~33 ~7 ~11 spruce_stairs  
+fill ~33 ~7 ~29 ~33 ~7 ~31 spruce_stairs 
+setblock ~33 ~7 ~32 stone_stairs 1  
+fill ~34 ~7 ~11 ~45 ~7 ~11 spruce_stairs  
+fill ~34 ~7 ~29 ~45 ~7 ~29 spruce_stairs 
+setblock ~45 ~7 ~12 log 1  
+fill ~45 ~7 ~13 ~45 ~7 ~14 planks  
+fill ~45 ~7 ~26 ~45 ~8 ~26 planks  
+fill ~45 ~7 ~27 ~45 ~7 ~26 planks 
+setblock ~45 ~7 ~28 log 1 
+setblock ~46 ~7 ~11 stone_stairs 2 
+setblock ~46 ~7 ~12 stone_stairs 7 
+setblock ~46 ~7 ~14 stone_stairs 6  
+fill ~46 ~7 ~15 ~46 ~6 ~15 log  
+fill ~46 ~7 ~25 ~46 ~6 ~25 log 
+setblock ~46 ~7 ~26 stone_stairs 7 
+setblock ~46 ~7 ~28 stone_stairs 6 
+setblock ~46 ~7 ~29 stone_stairs 3 
+setblock ~47 ~7 ~15 log 1 
+setblock ~47 ~7 ~25 log 1 
+setblock ~48 ~7 ~14 stone_stairs 6 
+setblock ~48 ~7 ~15 log 5 
+setblock ~48 ~7 ~25 log 5 
+setblock ~48 ~7 ~26 stone_stairs 7 
+setblock ~50 ~7 ~14 stone_stairs 6  
+fill ~50 ~7 ~15 ~50 ~6 ~15 log  
+fill ~50 ~7 ~25 ~50 ~6 ~25 log 
+setblock ~50 ~7 ~26 stone_stairs 7 
+setblock ~51 ~7 ~15 log 1 
+setblock ~51 ~7 ~25 log 1 
+setblock ~52 ~7 ~14 stone_stairs 6 
+setblock ~52 ~7 ~15 log 5  
+fill ~52 ~7 ~16 ~52 ~7 ~18 planks 
+setblock ~52 ~7 ~20 planks 1  
+fill ~52 ~7 ~22 ~52 ~7 ~24 planks 
+setblock ~52 ~7 ~25 log 5 
+setblock ~52 ~7 ~26 stone_stairs 7 
+setblock ~54 ~7 ~14 stone_stairs 6 
+setblock ~54 ~7 ~26 stone_stairs 7 
+setblock ~4 ~8 ~18 stone_stairs 2 
+setblock ~4 ~8 ~19 stone_stairs 7 
+setblock ~4 ~8 ~20 stone_stairs 4 
+setblock ~4 ~8 ~21 stone_stairs 6 
+setblock ~4 ~8 ~22 stone_stairs 3  
+fill ~5 ~8 ~18 ~8 ~8 ~18 spruce_stairs  
+fill ~5 ~8 ~22 ~8 ~8 ~22 spruce_stairs  
+fill ~8 ~8 ~9 ~8 ~8 ~17 spruce_stairs  
+fill ~8 ~8 ~23 ~8 ~8 ~30 spruce_stairs  
+fill ~8 ~8 ~31 ~16 ~8 ~31 spruce_stairs  
+fill ~9 ~8 ~9 ~17 ~8 ~9 spruce_stairs 
+setblock ~17 ~8 ~3 stone_stairs 0  
+fill ~17 ~8 ~4 ~17 ~8 ~8 spruce_stairs  
+fill ~17 ~8 ~31 ~17 ~8 ~36 spruce_stairs 
+setblock ~17 ~8 ~37 stone_stairs 0 
+setblock ~18 ~8 ~3 stone_stairs 5 
+setblock ~18 ~8 ~4 log 1 
+setblock ~18 ~8 ~36 log 1 
+setblock ~18 ~8 ~37 stone_stairs 5 
+setblock ~19 ~8 ~4 planks 1 
+setblock ~19 ~8 ~36 planks 1  
+fill ~21 ~8 ~4 ~21 ~7 ~4 planks  
+fill ~21 ~8 ~36 ~21 ~7 ~36 planks 
+setblock ~22 ~8 ~3 stone_stairs 4 
+setblock ~22 ~8 ~4 log 1 
+setblock ~22 ~8 ~36 log 1 
+setblock ~22 ~8 ~37 stone_stairs 4 
+setblock ~23 ~8 ~3 stone_stairs 1  
+fill ~23 ~8 ~4 ~23 ~8 ~9 spruce_stairs  
+fill ~23 ~8 ~31 ~23 ~8 ~36 spruce_stairs 
+setblock ~23 ~8 ~37 stone_stairs 1  
+fill ~24 ~8 ~9 ~31 ~8 ~9 spruce_stairs  
+fill ~24 ~8 ~31 ~31 ~8 ~31 spruce_stairs 
+setblock ~32 ~8 ~9 stone_stairs 1  
+fill ~32 ~8 ~10 ~32 ~8 ~12 spruce_stairs  
+fill ~32 ~8 ~28 ~45 ~8 ~28 spruce_stairs  
+fill ~32 ~8 ~29 ~32 ~8 ~30 spruce_stairs 
+setblock ~32 ~8 ~31 stone_stairs 1  
+fill ~33 ~8 ~12 ~45 ~8 ~12 spruce_stairs 
+setblock ~45 ~8 ~13 log 1 
+setblock ~45 ~8 ~14 planks 1 
+setblock ~45 ~8 ~27 log 1 
+setblock ~46 ~8 ~12 stone_stairs 2 
+setblock ~46 ~8 ~13 stone_stairs 7  
+fill ~46 ~8 ~14 ~54 ~8 ~14 stone_stairs  
+fill ~46 ~8 ~26 ~54 ~8 ~26 stone_stairs 
+setblock ~46 ~8 ~27 stone_stairs 6 
+setblock ~46 ~8 ~28 stone_stairs 3  
+fill ~53 ~8 ~16 ~53 ~8 ~18 log 
+setblock ~53 ~8 ~20 log 9  
+fill ~53 ~8 ~22 ~53 ~8 ~24 log 
+setblock ~54 ~8 ~15 stone_stairs 7 
+setblock ~54 ~8 ~25 stone_stairs 6 
+setblock ~3 ~9 ~20 stone_stairs 4 
+setblock ~4 ~9 ~19 stone_stairs 2 
+setblock ~4 ~9 ~20 cobblestone 0 
+setblock ~4 ~9 ~21 stone_stairs 3  
+fill ~5 ~9 ~19 ~9 ~9 ~19 spruce_stairs  
+fill ~5 ~9 ~21 ~9 ~9 ~21 spruce_stairs  
+fill ~9 ~9 ~10 ~9 ~9 ~18 spruce_stairs  
+fill ~9 ~9 ~22 ~9 ~9 ~30 spruce_stairs  
+fill ~10 ~9 ~10 ~18 ~9 ~10 spruce_stairs  
+fill ~10 ~9 ~30 ~17 ~9 ~30 spruce_stairs 
+setblock ~18 ~9 ~3 stone_stairs 0  
+fill ~18 ~9 ~4 ~18 ~9 ~9 spruce_stairs  
+fill ~18 ~9 ~30 ~18 ~9 ~36 spruce_stairs 
+setblock ~18 ~9 ~37 stone_stairs 0 
+setblock ~19 ~9 ~3 stone_stairs 5 
+setblock ~19 ~9 ~4 log 1 
+setblock ~19 ~9 ~36 log 1 
+setblock ~19 ~9 ~37 stone_stairs 5 
+setblock ~20 ~9 ~3 stone_stairs 6 
+setblock ~21 ~9 ~3 stone_stairs 4 
+setblock ~21 ~9 ~4 log 1 
+setblock ~21 ~9 ~36 log 1 
+setblock ~21 ~9 ~37 stone_stairs 4 
+setblock ~22 ~9 ~3 stone_stairs 1  
+fill ~22 ~9 ~4 ~22 ~9 ~10 spruce_stairs  
+fill ~22 ~9 ~30 ~22 ~9 ~36 spruce_stairs 
+setblock ~22 ~9 ~37 stone_stairs 1  
+fill ~23 ~9 ~10 ~30 ~9 ~10 spruce_stairs  
+fill ~23 ~9 ~30 ~30 ~9 ~30 spruce_stairs 
+setblock ~31 ~9 ~10 stone_stairs 1  
+fill ~31 ~9 ~11 ~31 ~9 ~13 spruce_stairs  
+fill ~31 ~9 ~27 ~31 ~9 ~29 spruce_stairs 
+setblock ~31 ~9 ~30 stone_stairs 1  
+fill ~32 ~9 ~13 ~45 ~9 ~13 spruce_stairs  
+fill ~32 ~9 ~27 ~45 ~9 ~27 spruce_stairs 
+setblock ~45 ~9 ~14 log 1 
+setblock ~45 ~9 ~26 log 1 
+setblock ~46 ~9 ~13 stone_stairs 2 
+setblock ~46 ~9 ~14 stone_stairs 7  
+fill ~46 ~9 ~15 ~53 ~9 ~15 planks 
+setblock ~46 ~9 ~26 stone_stairs 6 
+setblock ~46 ~9 ~27 stone_stairs 3  
+fill ~47 ~9 ~25 ~53 ~9 ~25 planks  
+fill ~52 ~9 ~17 ~52 ~9 ~18 planks  
+fill ~52 ~9 ~20 ~52 ~12 ~20 planks  
+fill ~52 ~9 ~22 ~52 ~9 ~23 planks  
+fill ~53 ~9 ~16 ~53 ~10 ~16 log  
+fill ~53 ~9 ~24 ~53 ~10 ~24 log 
+setblock ~54 ~9 ~15 cobblestone 0 
+setblock ~54 ~9 ~25 cobblestone 0 
+setblock ~2 ~10 ~20 stone_stairs 4 
+setblock ~3 ~10 ~20 cobblestone 0 
+setblock ~4 ~10 ~20 stone_stairs 1  
+fill ~5 ~10 ~20 ~9 ~10 ~20 stone_slab  
+fill ~10 ~10 ~11 ~18 ~10 ~11 spruce_stairs  
+fill ~10 ~10 ~12 ~10 ~10 ~19 spruce_stairs 
+setblock ~10 ~10 ~20 stone_stairs 0  
+fill ~10 ~10 ~21 ~10 ~10 ~28 spruce_stairs  
+fill ~10 ~10 ~29 ~18 ~10 ~29 spruce_stairs 
+setblock ~19 ~10 ~3 stone_stairs 0  
+fill ~19 ~10 ~4 ~19 ~10 ~11 spruce_stairs  
+fill ~19 ~10 ~29 ~19 ~10 ~36 spruce_stairs 
+setblock ~19 ~10 ~37 stone_stairs 0 
+setblock ~20 ~10 ~2 stone_stairs 6 
+setblock ~20 ~10 ~3 cobblestone 0 
+setblock ~20 ~10 ~37 stone_stairs 7 
+setblock ~21 ~10 ~3 stone_stairs 1  
+fill ~21 ~10 ~4 ~21 ~10 ~11 spruce_stairs  
+fill ~21 ~10 ~29 ~21 ~10 ~36 spruce_stairs 
+setblock ~21 ~10 ~37 stone_stairs 1  
+fill ~22 ~10 ~11 ~29 ~10 ~11 spruce_stairs  
+fill ~22 ~10 ~29 ~29 ~10 ~29 spruce_stairs 
+setblock ~30 ~10 ~11 stone_stairs 1  
+fill ~30 ~10 ~12 ~30 ~10 ~14 spruce_stairs  
+fill ~30 ~10 ~26 ~45 ~10 ~26 spruce_stairs  
+fill ~30 ~10 ~27 ~30 ~10 ~28 spruce_stairs 
+setblock ~30 ~10 ~29 stone_stairs 1  
+fill ~31 ~10 ~14 ~45 ~10 ~14 spruce_stairs 
+setblock ~46 ~10 ~14 cobblestone 0  
+fill ~46 ~10 ~15 ~53 ~10 ~15 spruce_stairs  
+fill ~46 ~10 ~25 ~53 ~10 ~25 spruce_stairs 
+setblock ~46 ~10 ~26 cobblestone 0  
+fill ~53 ~10 ~17 ~53 ~10 ~18 log  
+fill ~53 ~10 ~22 ~53 ~10 ~23 log 
+setblock ~54 ~10 ~15 stone_stairs 2 
+setblock ~54 ~10 ~16 stone_stairs 7 
+setblock ~54 ~10 ~24 stone_stairs 6 
+setblock ~54 ~10 ~25 stone_stairs 3 
+setblock ~1 ~11 ~20 stone_stairs 1 
+setblock ~2 ~11 ~20 cobblestone 0 
+setblock ~3 ~11 ~20 stone_stairs 1  
+fill ~11 ~11 ~12 ~11 ~13 ~12 log  
+fill ~11 ~11 ~13 ~11 ~11 ~15 log  
+fill ~11 ~11 ~16 ~11 ~13 ~16 log  
+fill ~11 ~11 ~17 ~11 ~11 ~19 log  
+fill ~11 ~11 ~20 ~11 ~13 ~20 log  
+fill ~11 ~11 ~21 ~11 ~11 ~23 log  
+fill ~11 ~11 ~24 ~11 ~13 ~24 log  
+fill ~11 ~11 ~25 ~11 ~11 ~27 log  
+fill ~11 ~11 ~28 ~11 ~13 ~28 log  
+fill ~12 ~11 ~12 ~14 ~11 ~12 log  
+fill ~12 ~11 ~28 ~14 ~11 ~28 log  
+fill ~15 ~11 ~12 ~15 ~13 ~12 log  
+fill ~15 ~11 ~28 ~15 ~13 ~28 log  
+fill ~16 ~11 ~12 ~24 ~11 ~12 log  
+fill ~16 ~11 ~28 ~18 ~11 ~28 log  
+fill ~19 ~11 ~28 ~19 ~13 ~28 log 
+setblock ~20 ~11 ~1 stone_stairs 6 
+setblock ~20 ~11 ~2 cobblestone 0 
+setblock ~20 ~11 ~3 stone_stairs 3  
+fill ~20 ~11 ~4 ~20 ~11 ~11 stone_slab 
+setblock ~20 ~11 ~28 log 5  
+fill ~20 ~11 ~29 ~20 ~11 ~35 stone_slab 
+setblock ~20 ~11 ~36 stone_stairs 2 
+setblock ~20 ~11 ~37 cobblestone 0 
+setblock ~20 ~11 ~38 stone_stairs 7  
+fill ~21 ~11 ~28 ~21 ~13 ~28 log  
+fill ~22 ~11 ~28 ~24 ~11 ~28 log  
+fill ~25 ~11 ~12 ~25 ~13 ~12 log  
+fill ~25 ~11 ~28 ~25 ~13 ~28 log  
+fill ~26 ~11 ~12 ~28 ~11 ~12 log  
+fill ~26 ~11 ~28 ~28 ~11 ~28 log  
+fill ~29 ~11 ~12 ~29 ~13 ~12 log  
+fill ~29 ~11 ~13 ~29 ~11 ~14 log  
+fill ~29 ~11 ~15 ~29 ~13 ~15 log  
+fill ~29 ~11 ~25 ~29 ~13 ~25 log  
+fill ~29 ~11 ~26 ~29 ~11 ~27 log  
+fill ~29 ~11 ~28 ~29 ~13 ~28 log  
+fill ~30 ~11 ~15 ~32 ~11 ~15 log  
+fill ~30 ~11 ~25 ~32 ~11 ~25 log  
+fill ~33 ~11 ~15 ~33 ~13 ~15 log  
+fill ~33 ~11 ~25 ~33 ~13 ~25 log  
+fill ~34 ~11 ~15 ~36 ~11 ~15 log  
+fill ~34 ~11 ~25 ~36 ~11 ~25 log  
+fill ~37 ~11 ~15 ~37 ~13 ~15 log  
+fill ~37 ~11 ~25 ~37 ~13 ~25 log  
+fill ~38 ~11 ~15 ~40 ~11 ~15 log  
+fill ~38 ~11 ~25 ~40 ~11 ~25 log  
+fill ~41 ~11 ~15 ~41 ~13 ~15 log  
+fill ~41 ~11 ~25 ~41 ~13 ~25 log  
+fill ~42 ~11 ~15 ~44 ~11 ~15 log  
+fill ~42 ~11 ~25 ~44 ~11 ~25 log 
+setblock ~45 ~11 ~16 log 1 
+setblock ~45 ~11 ~24 log 1 
+setblock ~46 ~11 ~14 stone_stairs 2  
+fill ~46 ~11 ~16 ~53 ~11 ~16 planks  
+fill ~46 ~11 ~24 ~53 ~11 ~24 planks 
+setblock ~46 ~11 ~26 stone_stairs 3  
+fill ~52 ~11 ~18 ~52 ~12 ~18 planks  
+fill ~52 ~11 ~22 ~52 ~12 ~22 planks  
+fill ~53 ~11 ~17 ~53 ~12 ~17 log  
+fill ~53 ~11 ~23 ~53 ~12 ~23 log 
+setblock ~54 ~11 ~16 cobblestone 0 
+setblock ~54 ~11 ~24 cobblestone 0 
+setblock ~1 ~12 ~20 stone_stairs 0 
+setblock ~2 ~12 ~20 stone_stairs 5 
+setblock ~10 ~12 ~12 stone_stairs 4 
+setblock ~10 ~12 ~16 stone_stairs 4 
+setblock ~10 ~12 ~20 stone_stairs 4 
+setblock ~10 ~12 ~24 stone_stairs 4 
+setblock ~10 ~12 ~28 stone_stairs 4 
+setblock ~11 ~12 ~11 stone_stairs 6  
+fill ~11 ~12 ~13 ~11 ~12 ~15 fence  
+fill ~11 ~12 ~17 ~11 ~12 ~19 fence  
+fill ~11 ~12 ~21 ~11 ~12 ~23 fence  
+fill ~11 ~12 ~25 ~11 ~12 ~27 fence 
+setblock ~11 ~12 ~29 stone_stairs 7  
+fill ~12 ~12 ~12 ~14 ~12 ~12 fence  
+fill ~12 ~12 ~28 ~14 ~12 ~28 fence 
+setblock ~15 ~12 ~11 stone_stairs 6 
+setblock ~15 ~12 ~29 stone_stairs 7  
+fill ~16 ~12 ~12 ~18 ~12 ~12 fence  
+fill ~16 ~12 ~28 ~18 ~12 ~28 fence 
+setblock ~19 ~12 ~11 stone_stairs 6  
+fill ~19 ~12 ~12 ~19 ~13 ~12 log 
+setblock ~19 ~12 ~29 stone_stairs 7 
+setblock ~20 ~12 ~0 stone_stairs 6 
+setblock ~20 ~12 ~1 cobblestone 0 
+setblock ~20 ~12 ~2 stone_stairs 3 
+setblock ~20 ~12 ~12 planks 1 
+setblock ~20 ~12 ~28 planks 1 
+setblock ~20 ~12 ~37 stone_stairs 2 
+setblock ~20 ~12 ~38 cobblestone 0 
+setblock ~20 ~12 ~39 stone_stairs 7 
+setblock ~21 ~12 ~11 stone_stairs 6  
+fill ~21 ~12 ~12 ~21 ~13 ~12 log 
+setblock ~21 ~12 ~29 stone_stairs 7  
+fill ~22 ~12 ~12 ~24 ~12 ~12 fence  
+fill ~22 ~12 ~28 ~24 ~12 ~28 fence 
+setblock ~25 ~12 ~11 stone_stairs 6 
+setblock ~25 ~12 ~29 stone_stairs 7  
+fill ~26 ~12 ~12 ~28 ~12 ~12 fence  
+fill ~26 ~12 ~28 ~28 ~12 ~28 fence 
+setblock ~29 ~12 ~11 stone_stairs 6  
+fill ~29 ~12 ~13 ~29 ~12 ~14 fence  
+fill ~29 ~12 ~26 ~29 ~12 ~27 fence 
+setblock ~29 ~12 ~29 stone_stairs 7 
+setblock ~30 ~12 ~12 stone_stairs 5  
+fill ~30 ~12 ~15 ~32 ~12 ~15 fence  
+fill ~30 ~12 ~25 ~32 ~12 ~25 fence 
+setblock ~30 ~12 ~28 stone_stairs 5 
+setblock ~33 ~12 ~14 stone_stairs 6 
+setblock ~33 ~12 ~26 stone_stairs 7  
+fill ~34 ~12 ~15 ~36 ~12 ~15 fence  
+fill ~34 ~12 ~25 ~36 ~12 ~25 fence 
+setblock ~37 ~12 ~14 stone_stairs 6 
+setblock ~37 ~12 ~26 stone_stairs 7  
+fill ~38 ~12 ~15 ~40 ~12 ~15 fence  
+fill ~38 ~12 ~25 ~40 ~12 ~25 fence 
+setblock ~41 ~12 ~14 stone_stairs 6 
+setblock ~41 ~12 ~26 stone_stairs 7  
+fill ~42 ~12 ~15 ~44 ~12 ~15 fence  
+fill ~42 ~12 ~25 ~44 ~12 ~25 fence  
+fill ~45 ~12 ~16 ~45 ~13 ~16 planks  
+fill ~45 ~12 ~17 ~45 ~13 ~17 log  
+fill ~45 ~12 ~23 ~45 ~13 ~23 log  
+fill ~45 ~12 ~24 ~45 ~13 ~24 planks 
+setblock ~46 ~12 ~14 stone_stairs 6  
+fill ~46 ~12 ~16 ~53 ~12 ~16 spruce_stairs  
+fill ~46 ~12 ~24 ~53 ~12 ~24 spruce_stairs 
+setblock ~46 ~12 ~26 stone_stairs 7 
+setblock ~54 ~12 ~16 stone_stairs 2 
+setblock ~54 ~12 ~17 stone_stairs 7 
+setblock ~54 ~12 ~23 stone_stairs 6 
+setblock ~54 ~12 ~24 stone_stairs 3  
+fill ~10 ~13 ~12 ~10 ~13 ~28 stone_stairs  
+fill ~11 ~13 ~11 ~29 ~13 ~11 stone_stairs  
+fill ~11 ~13 ~13 ~11 ~13 ~15 log  
+fill ~11 ~13 ~17 ~11 ~13 ~19 log  
+fill ~11 ~13 ~21 ~11 ~13 ~23 log  
+fill ~11 ~13 ~25 ~11 ~13 ~27 log  
+fill ~11 ~13 ~29 ~29 ~13 ~29 stone_stairs  
+fill ~12 ~13 ~12 ~14 ~13 ~12 log  
+fill ~12 ~13 ~28 ~14 ~13 ~28 log  
+fill ~16 ~13 ~12 ~18 ~13 ~12 log  
+fill ~16 ~13 ~28 ~18 ~13 ~28 log 
+setblock ~20 ~13 ~0 cobblestone 0 
+setblock ~20 ~13 ~12 log 5 
+setblock ~20 ~13 ~28 log 5 
+setblock ~20 ~13 ~39 cobblestone 0  
+fill ~22 ~13 ~12 ~24 ~13 ~12 log  
+fill ~22 ~13 ~28 ~24 ~13 ~28 log  
+fill ~26 ~13 ~12 ~28 ~13 ~12 log  
+fill ~26 ~13 ~28 ~28 ~13 ~28 log  
+fill ~29 ~13 ~13 ~29 ~13 ~14 log  
+fill ~29 ~13 ~26 ~29 ~13 ~27 log  
+fill ~30 ~13 ~12 ~30 ~13 ~14 stone_stairs  
+fill ~30 ~13 ~15 ~32 ~13 ~15 log  
+fill ~30 ~13 ~25 ~32 ~13 ~25 log  
+fill ~30 ~13 ~26 ~30 ~13 ~28 stone_stairs  
+fill ~31 ~13 ~14 ~46 ~13 ~14 stone_stairs  
+fill ~31 ~13 ~26 ~46 ~13 ~26 stone_stairs  
+fill ~34 ~13 ~15 ~36 ~13 ~15 log  
+fill ~34 ~13 ~25 ~36 ~13 ~25 log  
+fill ~38 ~13 ~15 ~40 ~13 ~15 log  
+fill ~38 ~13 ~25 ~40 ~13 ~25 log  
+fill ~42 ~13 ~15 ~44 ~13 ~15 log  
+fill ~42 ~13 ~25 ~44 ~13 ~25 log 
+setblock ~46 ~13 ~15 stone_stairs 7  
+fill ~46 ~13 ~17 ~53 ~13 ~17 planks  
+fill ~46 ~13 ~23 ~53 ~13 ~23 planks  
+fill ~53 ~13 ~18 ~53 ~14 ~18 log  
+setblock ~53 ~13 ~20 log 9  
+fill ~53 ~13 ~22 ~53 ~14 ~22 log 
+setblock ~54 ~13 ~17 cobblestone 0 
+setblock ~54 ~13 ~23 cobblestone 0 
+setblock ~11 ~14 ~12 stone_stairs 2  
+fill ~11 ~14 ~13 ~11 ~14 ~27 spruce_stairs 
+setblock ~11 ~14 ~28 stone_stairs 0  
+fill ~12 ~14 ~12 ~28 ~14 ~12 spruce_stairs  
+fill ~12 ~14 ~28 ~28 ~14 ~28 spruce_stairs 
+setblock ~20 ~14 ~0 stone_stairs 2 
+setblock ~20 ~14 ~1 stone_stairs 7 
+setblock ~20 ~14 ~38 stone_stairs 6 
+setblock ~20 ~14 ~39 stone_stairs 3 
+setblock ~29 ~14 ~12 stone_stairs 2  
+fill ~29 ~14 ~13 ~29 ~14 ~14 spruce_stairs  
+fill ~29 ~14 ~15 ~45 ~14 ~15 planks  
+fill ~29 ~14 ~25 ~45 ~14 ~25 planks  
+fill ~29 ~14 ~26 ~29 ~14 ~27 spruce_stairs 
+setblock ~29 ~14 ~28 stone_stairs 3  
+fill ~45 ~14 ~16 ~45 ~15 ~16 log  
+fill ~45 ~14 ~17 ~45 ~15 ~17 planks 
+setblock ~45 ~14 ~18 log 1 
+setblock ~45 ~14 ~22 log 1  
+fill ~45 ~14 ~23 ~45 ~15 ~23 planks  
+fill ~45 ~14 ~24 ~45 ~15 ~24 log 
+setblock ~46 ~14 ~15 cobblestone 0  
+fill ~46 ~14 ~17 ~53 ~14 ~17 spruce_stairs  
+fill ~46 ~14 ~23 ~53 ~14 ~23 spruce_stairs 
+setblock ~46 ~14 ~25 cobblestone 0  
+fill ~52 ~14 ~20 ~52 ~15 ~20 planks 
+setblock ~54 ~14 ~17 stone_stairs 2 
+setblock ~54 ~14 ~18 stone_stairs 7 
+setblock ~54 ~14 ~22 stone_stairs 6 
+setblock ~54 ~14 ~23 stone_stairs 3 
+setblock ~12 ~15 ~13 stone_stairs 0  
+fill ~12 ~15 ~14 ~12 ~15 ~26 spruce_stairs 
+setblock ~12 ~15 ~27 stone_stairs 0  
+fill ~13 ~15 ~13 ~27 ~15 ~13 spruce_stairs  
+fill ~13 ~15 ~27 ~27 ~15 ~27 spruce_stairs 
+setblock ~28 ~15 ~13 stone_stairs 2 
+setblock ~28 ~15 ~14 spruce_stairs 1  
+fill ~28 ~15 ~15 ~45 ~15 ~15 spruce_stairs  
+fill ~28 ~15 ~25 ~45 ~15 ~25 spruce_stairs 
+setblock ~28 ~15 ~26 spruce_stairs 1 
+setblock ~28 ~15 ~27 stone_stairs 3  
+fill ~45 ~15 ~18 ~45 ~17 ~18 planks  
+fill ~45 ~15 ~19 ~45 ~19 ~19 log  
+fill ~45 ~15 ~21 ~45 ~19 ~21 log  
+fill ~45 ~15 ~22 ~45 ~17 ~22 planks 
+setblock ~46 ~15 ~15 stone_stairs 2 
+setblock ~46 ~15 ~16 stone_stairs 7  
+fill ~46 ~15 ~18 ~53 ~15 ~18 spruce_stairs  
+fill ~46 ~15 ~22 ~53 ~15 ~22 spruce_stairs 
+setblock ~46 ~15 ~24 stone_stairs 6 
+setblock ~46 ~15 ~25 stone_stairs 3 
+setblock ~54 ~15 ~18 stone_stairs 2 
+setblock ~54 ~15 ~19 stone_stairs 7 
+setblock ~54 ~15 ~21 stone_stairs 6 
+setblock ~54 ~15 ~22 stone_stairs 3 
+setblock ~13 ~16 ~14 stone_stairs 0  
+fill ~13 ~16 ~15 ~13 ~16 ~25 spruce_stairs 
+setblock ~13 ~16 ~26 stone_stairs 0  
+fill ~14 ~16 ~14 ~26 ~16 ~14 spruce_stairs  
+fill ~14 ~16 ~26 ~26 ~16 ~26 spruce_stairs 
+setblock ~27 ~16 ~14 stone_stairs 2 
+setblock ~27 ~16 ~15 spruce_stairs 1  
+fill ~27 ~16 ~16 ~45 ~16 ~16 planks  
+fill ~27 ~16 ~24 ~45 ~16 ~24 planks 
+setblock ~27 ~16 ~25 spruce_stairs 1 
+setblock ~27 ~16 ~26 stone_stairs 3  
+fill ~45 ~16 ~17 ~45 ~17 ~17 log 
+setblock ~45 ~16 ~20 log 9  
+fill ~45 ~16 ~23 ~45 ~17 ~23 log 
+setblock ~46 ~16 ~16 cobblestone 0  
+fill ~46 ~16 ~19 ~53 ~16 ~19 spruce_stairs  
+fill ~46 ~16 ~21 ~53 ~16 ~21 spruce_stairs 
+setblock ~46 ~16 ~24 cobblestone 0 
+setblock ~53 ~16 ~20 log 1 
+setblock ~54 ~16 ~19 stone_stairs 2 
+setblock ~54 ~16 ~20 stone_stairs 5 
+setblock ~54 ~16 ~21 stone_stairs 3  
+fill ~14 ~17 ~15 ~14 ~19 ~15 log  
+fill ~14 ~17 ~16 ~14 ~17 ~18 log  
+fill ~14 ~17 ~19 ~14 ~26 ~19 log 
+setblock ~14 ~17 ~20 log 9  
+fill ~14 ~17 ~21 ~14 ~26 ~21 log  
+fill ~14 ~17 ~22 ~14 ~17 ~24 log  
+fill ~14 ~17 ~25 ~14 ~19 ~25 log  
+fill ~15 ~17 ~15 ~17 ~17 ~15 log  
+fill ~15 ~17 ~25 ~17 ~17 ~25 log  
+fill ~18 ~17 ~15 ~18 ~19 ~15 log  
+fill ~18 ~17 ~25 ~18 ~19 ~25 log  
+fill ~19 ~17 ~15 ~21 ~17 ~15 log  
+fill ~19 ~17 ~25 ~21 ~17 ~25 log  
+fill ~22 ~17 ~15 ~22 ~19 ~15 log  
+fill ~22 ~17 ~25 ~22 ~19 ~25 log  
+fill ~23 ~17 ~15 ~25 ~17 ~15 log  
+fill ~23 ~17 ~25 ~25 ~17 ~25 log  
+fill ~26 ~17 ~15 ~26 ~19 ~15 log 
+setblock ~26 ~17 ~16 log 9  
+fill ~26 ~17 ~17 ~26 ~18 ~17 log  
+fill ~26 ~17 ~23 ~26 ~18 ~23 log 
+setblock ~26 ~17 ~24 log 9  
+fill ~26 ~17 ~25 ~26 ~19 ~25 log  
+fill ~27 ~17 ~16 ~45 ~17 ~16 spruce_stairs  
+fill ~27 ~17 ~24 ~45 ~17 ~24 spruce_stairs  
+fill ~45 ~17 ~20 ~45 ~19 ~20 planks 
+setblock ~46 ~17 ~16 stone_stairs 2 
+setblock ~46 ~17 ~17 stone_stairs 7  
+fill ~46 ~17 ~20 ~52 ~17 ~20 stone_slab 
+setblock ~46 ~17 ~23 stone_stairs 6 
+setblock ~46 ~17 ~24 stone_stairs 3 
+setblock ~53 ~17 ~20 stone_stairs 0 
+setblock ~54 ~17 ~20 cobblestone 0 
+setblock ~55 ~17 ~20 stone_stairs 5 
+setblock ~13 ~18 ~14 stone_stairs 6 
+setblock ~13 ~18 ~26 stone_stairs 7  
+fill ~14 ~18 ~16 ~14 ~18 ~18 fence 
+setblock ~14 ~18 ~20 fence 1  
+fill ~14 ~18 ~22 ~14 ~18 ~24 fence  
+fill ~15 ~18 ~15 ~17 ~18 ~15 fence  
+fill ~15 ~18 ~25 ~17 ~18 ~25 fence 
+setblock ~18 ~18 ~14 stone_stairs 6 
+setblock ~18 ~18 ~26 stone_stairs 7  
+fill ~19 ~18 ~15 ~21 ~18 ~15 fence  
+fill ~19 ~18 ~25 ~21 ~18 ~25 fence 
+setblock ~22 ~18 ~14 stone_stairs 6 
+setblock ~22 ~18 ~26 stone_stairs 7  
+fill ~23 ~18 ~15 ~25 ~18 ~15 fence  
+fill ~23 ~18 ~25 ~25 ~18 ~25 fence 
+setblock ~26 ~18 ~16 planks 1 
+setblock ~26 ~18 ~24 planks 1 
+setblock ~27 ~18 ~14 stone_stairs 6  
+fill ~27 ~18 ~17 ~32 ~18 ~17 spruce_stairs  
+fill ~27 ~18 ~23 ~32 ~18 ~23 spruce_stairs 
+setblock ~27 ~18 ~26 stone_stairs 7  
+fill ~33 ~18 ~17 ~33 ~21 ~17 log  
+fill ~33 ~18 ~23 ~33 ~21 ~23 log 
+setblock ~34 ~18 ~17 planks 1 
+setblock ~34 ~18 ~23 planks 1  
+fill ~35 ~18 ~17 ~35 ~21 ~17 log  
+fill ~35 ~18 ~23 ~35 ~21 ~23 log 
+setblock ~36 ~18 ~17 planks 1 
+setblock ~36 ~18 ~23 planks 1  
+fill ~37 ~18 ~17 ~37 ~21 ~17 log  
+fill ~37 ~18 ~23 ~37 ~21 ~23 log 
+setblock ~38 ~18 ~17 planks 1 
+setblock ~38 ~18 ~23 planks 1  
+fill ~39 ~18 ~17 ~39 ~21 ~17 log  
+fill ~39 ~18 ~23 ~39 ~21 ~23 log 
+setblock ~40 ~18 ~17 planks 1 
+setblock ~40 ~18 ~23 planks 1  
+fill ~41 ~18 ~17 ~41 ~21 ~17 log  
+fill ~41 ~18 ~23 ~41 ~21 ~23 log  
+fill ~42 ~18 ~17 ~45 ~18 ~17 spruce_stairs  
+fill ~42 ~18 ~23 ~45 ~18 ~23 spruce_stairs 
+setblock ~45 ~18 ~18 log 1 
+setblock ~45 ~18 ~22 log 1 
+setblock ~46 ~18 ~17 stone_stairs 2 
+setblock ~46 ~18 ~18 stone_stairs 7 
+setblock ~46 ~18 ~22 stone_stairs 6 
+setblock ~46 ~18 ~23 stone_stairs 3 
+setblock ~54 ~18 ~20 stone_stairs 0 
+setblock ~55 ~18 ~20 cobblestone 0 
+setblock ~56 ~18 ~20 stone_stairs 5  
+fill ~13 ~19 ~14 ~27 ~19 ~14 stone_stairs 
+setblock ~13 ~19 ~15 stone_stairs 7 
+setblock ~13 ~19 ~25 stone_stairs 6  
+fill ~13 ~19 ~26 ~27 ~19 ~26 stone_stairs  
+fill ~14 ~19 ~16 ~14 ~19 ~18 log 
+setblock ~14 ~19 ~20 log 9  
+fill ~14 ~19 ~22 ~14 ~19 ~24 log  
+fill ~15 ~19 ~15 ~17 ~19 ~15 log  
+fill ~15 ~19 ~25 ~17 ~19 ~25 log  
+fill ~19 ~19 ~15 ~21 ~19 ~15 log  
+fill ~19 ~19 ~25 ~21 ~19 ~25 log  
+fill ~23 ~19 ~15 ~25 ~19 ~15 log  
+fill ~23 ~19 ~25 ~25 ~19 ~25 log  
+fill ~26 ~19 ~16 ~26 ~19 ~24 log  
+fill ~27 ~19 ~18 ~32 ~19 ~18 spruce_stairs  
+fill ~27 ~19 ~22 ~32 ~19 ~22 spruce_stairs 
+setblock ~27 ~19 ~25 stone_stairs 6  
+fill ~33 ~19 ~18 ~33 ~20 ~18 planks  
+fill ~33 ~19 ~22 ~33 ~20 ~22 planks 
+setblock ~34 ~19 ~17 spruce_stairs 6 
+setblock ~34 ~19 ~23 spruce_stairs 7 
+setblock ~36 ~19 ~17 spruce_stairs 6 
+setblock ~36 ~19 ~23 spruce_stairs 7 
+setblock ~38 ~19 ~17 spruce_stairs 6 
+setblock ~38 ~19 ~23 spruce_stairs 7 
+setblock ~40 ~19 ~17 spruce_stairs 6 
+setblock ~40 ~19 ~23 spruce_stairs 7  
+fill ~41 ~19 ~18 ~41 ~20 ~18 planks  
+fill ~41 ~19 ~22 ~41 ~20 ~22 planks  
+fill ~42 ~19 ~18 ~45 ~19 ~18 spruce_stairs  
+fill ~42 ~19 ~22 ~45 ~19 ~22 spruce_stairs 
+setblock ~46 ~19 ~18 stone_stairs 2 
+setblock ~46 ~19 ~19 stone_stairs 7 
+setblock ~46 ~19 ~21 stone_stairs 6 
+setblock ~46 ~19 ~22 stone_stairs 3 
+setblock ~55 ~19 ~20 stone_stairs 0 
+setblock ~56 ~19 ~20 cobblestone 0 
+setblock ~57 ~19 ~20 stone_stairs 0 
+setblock ~13 ~20 ~15 cobblestone 0 
+setblock ~13 ~20 ~25 cobblestone 0  
+fill ~14 ~20 ~15 ~26 ~20 ~15 planks  
+fill ~14 ~20 ~16 ~14 ~21 ~16 log  
+fill ~14 ~20 ~17 ~14 ~20 ~18 planks  
+fill ~14 ~20 ~20 ~14 ~23 ~20 planks  
+fill ~14 ~20 ~22 ~14 ~20 ~23 planks  
+fill ~14 ~20 ~24 ~14 ~21 ~24 log  
+fill ~14 ~20 ~25 ~26 ~20 ~25 planks  
+fill ~26 ~20 ~16 ~26 ~21 ~16 log  
+fill ~26 ~20 ~17 ~26 ~20 ~18 planks  
+fill ~26 ~20 ~19 ~26 ~26 ~19 log  
+fill ~26 ~20 ~20 ~26 ~23 ~20 planks  
+fill ~26 ~20 ~21 ~26 ~26 ~21 log  
+fill ~26 ~20 ~22 ~26 ~20 ~23 planks  
+fill ~26 ~20 ~24 ~26 ~21 ~24 log 
+setblock ~27 ~20 ~15 cobblestone 0  
+fill ~27 ~20 ~19 ~32 ~20 ~19 spruce_stairs  
+fill ~27 ~20 ~21 ~32 ~20 ~21 spruce_stairs 
+setblock ~27 ~20 ~25 cobblestone 0 
+setblock ~33 ~20 ~16 stone_stairs 6 
+setblock ~33 ~20 ~19 planks 1 
+setblock ~33 ~20 ~21 planks 1 
+setblock ~33 ~20 ~24 stone_stairs 7 
+setblock ~34 ~20 ~17 fence 1 
+setblock ~34 ~20 ~23 fence 1 
+setblock ~35 ~20 ~16 stone_stairs 6 
+setblock ~35 ~20 ~24 stone_stairs 7 
+setblock ~36 ~20 ~17 fence 1 
+setblock ~36 ~20 ~23 fence 1 
+setblock ~38 ~20 ~17 fence 1 
+setblock ~38 ~20 ~23 fence 1 
+setblock ~39 ~20 ~16 stone_stairs 6 
+setblock ~39 ~20 ~24 stone_stairs 7 
+setblock ~40 ~20 ~17 fence 1 
+setblock ~40 ~20 ~23 fence 1 
+setblock ~41 ~20 ~16 stone_stairs 6 
+setblock ~41 ~20 ~19 planks 1 
+setblock ~41 ~20 ~21 planks 1 
+setblock ~41 ~20 ~24 stone_stairs 7  
+fill ~42 ~20 ~19 ~45 ~20 ~19 spruce_stairs  
+fill ~42 ~20 ~21 ~45 ~20 ~21 spruce_stairs 
+setblock ~45 ~20 ~20 log 1 
+setblock ~46 ~20 ~19 stone_stairs 2 
+setblock ~46 ~20 ~20 stone_stairs 5 
+setblock ~46 ~20 ~21 stone_stairs 3 
+setblock ~56 ~20 ~20 stone_stairs 4 
+setblock ~57 ~20 ~20 stone_stairs 1 
+setblock ~13 ~21 ~15 stone_stairs 2 
+setblock ~13 ~21 ~16 stone_stairs 7 
+setblock ~13 ~21 ~24 stone_stairs 6 
+setblock ~13 ~21 ~25 stone_stairs 3  
+fill ~14 ~21 ~15 ~26 ~21 ~15 spruce_stairs  
+fill ~14 ~21 ~17 ~14 ~21 ~18 log  
+fill ~14 ~21 ~22 ~14 ~21 ~23 log  
+fill ~14 ~21 ~25 ~26 ~21 ~25 spruce_stairs  
+fill ~26 ~21 ~17 ~26 ~21 ~18 log  
+fill ~26 ~21 ~22 ~26 ~21 ~23 log 
+setblock ~27 ~21 ~15 stone_stairs 2 
+setblock ~27 ~21 ~16 stone_stairs 7  
+fill ~27 ~21 ~20 ~32 ~21 ~20 stone_slab 
+setblock ~27 ~21 ~24 stone_stairs 6 
+setblock ~27 ~21 ~25 stone_stairs 3  
+fill ~32 ~21 ~16 ~42 ~21 ~16 stone_stairs 
+setblock ~32 ~21 ~17 stone_stairs 7 
+setblock ~32 ~21 ~23 stone_stairs 6  
+fill ~32 ~21 ~24 ~42 ~21 ~24 stone_stairs  
+fill ~33 ~21 ~18 ~33 ~21 ~19 log  
+fill ~33 ~21 ~20 ~33 ~25 ~20 log  
+fill ~33 ~21 ~21 ~33 ~21 ~22 log 
+setblock ~34 ~21 ~17 log 5 
+setblock ~34 ~21 ~23 log 5 
+setblock ~36 ~21 ~17 log 5 
+setblock ~36 ~21 ~23 log 5 
+setblock ~38 ~21 ~17 log 5 
+setblock ~38 ~21 ~23 log 5 
+setblock ~40 ~21 ~17 log 5 
+setblock ~40 ~21 ~23 log 5  
+fill ~41 ~21 ~18 ~41 ~21 ~19 log  
+fill ~41 ~21 ~20 ~41 ~25 ~20 log  
+fill ~41 ~21 ~21 ~41 ~21 ~22 log 
+setblock ~42 ~21 ~17 stone_stairs 7  
+fill ~42 ~21 ~20 ~45 ~21 ~20 stone_slab 
+setblock ~42 ~21 ~23 stone_stairs 6 
+setblock ~46 ~21 ~20 stone_stairs 0 
+setblock ~47 ~21 ~20 stone_stairs 5 
+setblock ~13 ~22 ~16 cobblestone 0 
+setblock ~13 ~22 ~24 cobblestone 0  
+fill ~14 ~22 ~16 ~26 ~22 ~16 planks  
+fill ~14 ~22 ~17 ~14 ~23 ~17 log  
+fill ~14 ~22 ~18 ~14 ~23 ~18 planks  
+fill ~14 ~22 ~22 ~14 ~23 ~22 planks  
+fill ~14 ~22 ~23 ~14 ~23 ~23 log  
+fill ~14 ~22 ~24 ~26 ~22 ~24 planks  
+fill ~26 ~22 ~17 ~26 ~23 ~17 log  
+fill ~26 ~22 ~18 ~26 ~23 ~18 planks  
+fill ~26 ~22 ~22 ~26 ~23 ~22 planks  
+fill ~26 ~22 ~23 ~26 ~23 ~23 log 
+setblock ~27 ~22 ~16 cobblestone 0 
+setblock ~27 ~22 ~24 cobblestone 0 
+setblock ~32 ~22 ~17 cobblestone 0 
+setblock ~32 ~22 ~23 cobblestone 0  
+fill ~33 ~22 ~17 ~41 ~22 ~17 planks  
+fill ~33 ~22 ~18 ~33 ~23 ~18 log  
+fill ~33 ~22 ~19 ~33 ~23 ~19 planks  
+fill ~33 ~22 ~21 ~33 ~23 ~21 planks  
+fill ~33 ~22 ~22 ~33 ~23 ~22 log  
+fill ~33 ~22 ~23 ~41 ~22 ~23 planks  
+fill ~41 ~22 ~18 ~41 ~23 ~18 log  
+fill ~41 ~22 ~19 ~41 ~23 ~19 planks  
+fill ~41 ~22 ~21 ~41 ~23 ~21 planks  
+fill ~41 ~22 ~22 ~41 ~23 ~22 log 
+setblock ~42 ~22 ~17 cobblestone 0 
+setblock ~42 ~22 ~23 cobblestone 0 
+setblock ~47 ~22 ~20 cobblestone 0 
+setblock ~13 ~23 ~16 stone_stairs 2 
+setblock ~13 ~23 ~17 stone_stairs 7 
+setblock ~13 ~23 ~23 stone_stairs 6 
+setblock ~13 ~23 ~24 stone_stairs 3  
+fill ~14 ~23 ~16 ~26 ~23 ~16 spruce_stairs  
+fill ~14 ~23 ~24 ~26 ~23 ~24 spruce_stairs 
+setblock ~27 ~23 ~16 stone_stairs 2 
+setblock ~27 ~23 ~17 stone_stairs 7 
+setblock ~27 ~23 ~23 stone_stairs 6 
+setblock ~27 ~23 ~24 stone_stairs 3 
+setblock ~32 ~23 ~17 stone_stairs 2 
+setblock ~32 ~23 ~18 stone_stairs 7 
+setblock ~32 ~23 ~22 stone_stairs 6 
+setblock ~32 ~23 ~23 stone_stairs 3  
+fill ~33 ~23 ~17 ~41 ~23 ~17 spruce_stairs  
+fill ~33 ~23 ~23 ~41 ~23 ~23 spruce_stairs 
+setblock ~42 ~23 ~17 stone_stairs 2 
+setblock ~42 ~23 ~18 stone_stairs 7 
+setblock ~42 ~23 ~22 stone_stairs 6 
+setblock ~42 ~23 ~23 stone_stairs 3 
+setblock ~46 ~23 ~20 stone_stairs 4 
+setblock ~47 ~23 ~20 stone_stairs 1 
+setblock ~13 ~24 ~17 cobblestone 0 
+setblock ~13 ~24 ~23 cobblestone 0  
+fill ~14 ~24 ~17 ~16 ~24 ~17 planks  
+fill ~14 ~24 ~18 ~14 ~25 ~18 log 
+setblock ~14 ~24 ~20 log 9  
+fill ~14 ~24 ~22 ~14 ~25 ~22 log  
+fill ~14 ~24 ~23 ~16 ~24 ~23 planks  
+fill ~17 ~24 ~17 ~17 ~28 ~17 log  
+fill ~17 ~24 ~23 ~17 ~28 ~23 log 
+setblock ~18 ~24 ~17 log 5 
+setblock ~18 ~24 ~23 log 5  
+fill ~19 ~24 ~17 ~19 ~28 ~17 log  
+fill ~19 ~24 ~23 ~19 ~28 ~23 log 
+setblock ~20 ~24 ~17 log 5 
+setblock ~20 ~24 ~23 log 5  
+fill ~21 ~24 ~17 ~21 ~28 ~17 log  
+fill ~21 ~24 ~23 ~21 ~28 ~23 log 
+setblock ~22 ~24 ~17 log 5 
+setblock ~22 ~24 ~23 log 5  
+fill ~23 ~24 ~17 ~23 ~28 ~17 log  
+fill ~23 ~24 ~23 ~23 ~28 ~23 log  
+fill ~24 ~24 ~17 ~26 ~24 ~17 planks  
+fill ~24 ~24 ~23 ~26 ~24 ~23 planks 
+setblock ~26 ~24 ~18 log 1 
+setblock ~26 ~24 ~20 log 9  
+fill ~26 ~24 ~22 ~26 ~25 ~22 log 
+setblock ~27 ~24 ~17 cobblestone 0 
+setblock ~27 ~24 ~23 cobblestone 0 
+setblock ~32 ~24 ~18 stone_stairs 2 
+setblock ~32 ~24 ~19 stone_stairs 7 
+setblock ~32 ~24 ~21 stone_stairs 6 
+setblock ~32 ~24 ~22 stone_stairs 3  
+fill ~33 ~24 ~18 ~41 ~24 ~18 spruce_stairs 
+setblock ~33 ~24 ~19 log 1 
+setblock ~33 ~24 ~21 log 1  
+fill ~33 ~24 ~22 ~41 ~24 ~22 spruce_stairs 
+setblock ~41 ~24 ~19 log 1 
+setblock ~41 ~24 ~21 log 1 
+setblock ~42 ~24 ~18 stone_stairs 2 
+setblock ~42 ~24 ~19 stone_stairs 7 
+setblock ~42 ~24 ~21 stone_stairs 6 
+setblock ~42 ~24 ~22 stone_stairs 3 
+setblock ~13 ~25 ~17 stone_stairs 2 
+setblock ~13 ~25 ~18 stone_stairs 7 
+setblock ~13 ~25 ~22 stone_stairs 6 
+setblock ~13 ~25 ~23 stone_stairs 3  
+fill ~14 ~25 ~17 ~16 ~25 ~17 spruce_stairs  
+fill ~14 ~25 ~20 ~14 ~26 ~20 planks  
+fill ~14 ~25 ~23 ~16 ~25 ~23 spruce_stairs 
+setblock ~18 ~25 ~17 planks 1 
+setblock ~18 ~25 ~23 planks 1 
+setblock ~20 ~25 ~17 planks 1 
+setblock ~20 ~25 ~23 planks 1 
+setblock ~22 ~25 ~17 planks 1 
+setblock ~22 ~25 ~23 planks 1  
+fill ~24 ~25 ~17 ~26 ~25 ~17 spruce_stairs  
+fill ~24 ~25 ~23 ~26 ~25 ~23 spruce_stairs  
+fill ~26 ~25 ~20 ~26 ~26 ~20 planks 
+setblock ~27 ~25 ~17 stone_stairs 2 
+setblock ~27 ~25 ~18 cobblestone 0 
+setblock ~27 ~25 ~22 stone_stairs 6 
+setblock ~27 ~25 ~23 stone_stairs 3 
+setblock ~32 ~25 ~19 stone_stairs 2 
+setblock ~32 ~25 ~20 stone_stairs 4 
+setblock ~32 ~25 ~21 stone_stairs 3  
+fill ~33 ~25 ~19 ~41 ~25 ~19 spruce_stairs  
+fill ~33 ~25 ~21 ~41 ~25 ~21 spruce_stairs 
+setblock ~42 ~25 ~19 stone_stairs 2 
+setblock ~42 ~25 ~20 stone_stairs 5 
+setblock ~42 ~25 ~21 stone_stairs 3 
+setblock ~13 ~26 ~18 stone_stairs 2 
+setblock ~13 ~26 ~19 stone_stairs 7 
+setblock ~13 ~26 ~21 stone_stairs 6 
+setblock ~13 ~26 ~22 stone_stairs 3  
+fill ~14 ~26 ~18 ~16 ~26 ~18 spruce_stairs  
+fill ~14 ~26 ~22 ~16 ~26 ~22 spruce_stairs 
+setblock ~17 ~26 ~18 log 1 
+setblock ~17 ~26 ~22 log 1 
+setblock ~18 ~26 ~17 spruce_stairs 6 
+setblock ~18 ~26 ~23 spruce_stairs 7 
+setblock ~20 ~26 ~17 spruce_stairs 6 
+setblock ~20 ~26 ~23 spruce_stairs 7 
+setblock ~22 ~26 ~17 spruce_stairs 6 
+setblock ~22 ~26 ~23 spruce_stairs 7 
+setblock ~23 ~26 ~18 log 1 
+setblock ~23 ~26 ~22 log 1  
+fill ~24 ~26 ~18 ~26 ~26 ~18 spruce_stairs  
+fill ~24 ~26 ~22 ~26 ~26 ~22 spruce_stairs 
+setblock ~27 ~26 ~18 stone_stairs 2 
+setblock ~27 ~26 ~19 stone_stairs 7 
+setblock ~27 ~26 ~21 stone_stairs 6 
+setblock ~27 ~26 ~22 stone_stairs 3 
+setblock ~31 ~26 ~20 stone_stairs 4 
+setblock ~32 ~26 ~20 stone_stairs 1  
+fill ~33 ~26 ~20 ~41 ~26 ~20 stone_slab 
+setblock ~42 ~26 ~20 stone_stairs 0 
+setblock ~43 ~26 ~20 stone_stairs 5 
+setblock ~13 ~27 ~19 stone_stairs 2 
+setblock ~13 ~27 ~20 stone_stairs 4 
+setblock ~13 ~27 ~21 stone_stairs 3  
+fill ~14 ~27 ~19 ~16 ~27 ~19 spruce_stairs 
+setblock ~14 ~27 ~20 log 1  
+fill ~14 ~27 ~21 ~16 ~27 ~21 spruce_stairs 
+setblock ~16 ~27 ~16 stone_stairs 6 
+setblock ~16 ~27 ~24 stone_stairs 7  
+fill ~17 ~27 ~18 ~17 ~28 ~18 fence 
+setblock ~17 ~27 ~19 log 1 
+setblock ~17 ~27 ~21 log 1  
+fill ~17 ~27 ~22 ~17 ~28 ~22 fence 
+setblock ~18 ~27 ~17 fence 1 
+setblock ~18 ~27 ~23 fence 1 
+setblock ~19 ~27 ~16 stone_stairs 6 
+setblock ~19 ~27 ~24 stone_stairs 7 
+setblock ~20 ~27 ~17 fence 1 
+setblock ~20 ~27 ~23 fence 1 
+setblock ~21 ~27 ~16 stone_stairs 6 
+setblock ~21 ~27 ~24 stone_stairs 7 
+setblock ~22 ~27 ~17 fence 1 
+setblock ~22 ~27 ~23 fence 1  
+fill ~23 ~27 ~18 ~23 ~28 ~18 fence 
+setblock ~23 ~27 ~19 log 1 
+setblock ~23 ~27 ~21 log 1  
+fill ~23 ~27 ~22 ~23 ~28 ~22 fence 
+setblock ~24 ~27 ~16 stone_stairs 6  
+fill ~24 ~27 ~19 ~26 ~27 ~19 spruce_stairs  
+fill ~24 ~27 ~21 ~26 ~27 ~21 spruce_stairs 
+setblock ~24 ~27 ~24 stone_stairs 7 
+setblock ~26 ~27 ~20 log 1 
+setblock ~27 ~27 ~19 stone_stairs 2 
+setblock ~27 ~27 ~20 stone_stairs 5 
+setblock ~27 ~27 ~21 stone_stairs 3 
+setblock ~30 ~27 ~20 stone_stairs 0 
+setblock ~31 ~27 ~20 stone_stairs 1 
+setblock ~43 ~27 ~20 stone_stairs 0 
+setblock ~44 ~27 ~20 stone_stairs 1 
+setblock ~12 ~28 ~20 stone_stairs 4 
+setblock ~13 ~28 ~20 stone_stairs 1  
+fill ~14 ~28 ~20 ~16 ~28 ~20 stone_slab  
+fill ~16 ~28 ~16 ~24 ~28 ~16 stone_stairs 
+setblock ~16 ~28 ~17 stone_stairs 7 
+setblock ~16 ~28 ~23 stone_stairs 6  
+fill ~16 ~28 ~24 ~24 ~28 ~24 stone_stairs  
+fill ~17 ~28 ~19 ~17 ~29 ~19 fence  
+fill ~17 ~28 ~20 ~17 ~31 ~20 log  
+fill ~17 ~28 ~21 ~17 ~29 ~21 fence 
+setblock ~18 ~28 ~17 log 5 
+setblock ~18 ~28 ~23 log 5 
+setblock ~20 ~28 ~17 log 5 
+setblock ~20 ~28 ~23 log 5 
+setblock ~22 ~28 ~17 log 5 
+setblock ~22 ~28 ~23 log 5  
+fill ~23 ~28 ~19 ~23 ~29 ~19 fence  
+fill ~23 ~28 ~20 ~23 ~31 ~20 log  
+fill ~23 ~28 ~21 ~23 ~29 ~21 fence 
+setblock ~24 ~28 ~17 stone_stairs 7  
+fill ~24 ~28 ~20 ~26 ~28 ~20 stone_slab 
+setblock ~24 ~28 ~23 stone_stairs 6 
+setblock ~27 ~28 ~20 stone_stairs 0 
+setblock ~28 ~28 ~20 stone_stairs 5 
+setblock ~11 ~29 ~20 stone_stairs 0 
+setblock ~12 ~29 ~20 stone_stairs 1 
+setblock ~16 ~29 ~17 stone_stairs 2 
+setblock ~16 ~29 ~18 stone_stairs 7 
+setblock ~16 ~29 ~22 stone_stairs 6 
+setblock ~16 ~29 ~23 stone_stairs 3  
+fill ~17 ~29 ~17 ~23 ~29 ~17 spruce_stairs 
+setblock ~17 ~29 ~18 log 1 
+setblock ~17 ~29 ~22 log 1  
+fill ~17 ~29 ~23 ~23 ~29 ~23 spruce_stairs 
+setblock ~23 ~29 ~18 log 1 
+setblock ~23 ~29 ~22 log 1 
+setblock ~24 ~29 ~17 stone_stairs 2 
+setblock ~24 ~29 ~18 stone_stairs 7 
+setblock ~24 ~29 ~22 stone_stairs 6 
+setblock ~24 ~29 ~23 stone_stairs 3 
+setblock ~28 ~29 ~20 stone_stairs 0 
+setblock ~29 ~29 ~20 stone_stairs 1 
+setblock ~16 ~30 ~18 stone_stairs 2 
+setblock ~16 ~30 ~19 stone_stairs 7 
+setblock ~16 ~30 ~21 stone_stairs 6 
+setblock ~16 ~30 ~22 stone_stairs 3  
+fill ~17 ~30 ~18 ~23 ~30 ~18 spruce_stairs 
+setblock ~17 ~30 ~19 log 1 
+setblock ~17 ~30 ~21 log 1  
+fill ~17 ~30 ~22 ~23 ~30 ~22 spruce_stairs 
+setblock ~23 ~30 ~19 log 1 
+setblock ~23 ~30 ~21 log 1 
+setblock ~24 ~30 ~18 stone_stairs 2 
+setblock ~24 ~30 ~19 stone_stairs 7 
+setblock ~24 ~30 ~21 stone_stairs 6 
+setblock ~24 ~30 ~22 stone_stairs 3 
+setblock ~16 ~31 ~19 stone_stairs 2 
+setblock ~16 ~31 ~20 stone_stairs 4 
+setblock ~16 ~31 ~21 stone_stairs 3  
+fill ~17 ~31 ~19 ~23 ~31 ~19 spruce_stairs  
+fill ~17 ~31 ~21 ~23 ~31 ~21 spruce_stairs 
+setblock ~24 ~31 ~19 stone_stairs 2 
+setblock ~24 ~31 ~20 stone_stairs 5 
+setblock ~24 ~31 ~21 stone_stairs 3 
+setblock ~15 ~32 ~20 stone_stairs 4 
+setblock ~16 ~32 ~20 stone_stairs 1  
+fill ~17 ~32 ~20 ~23 ~32 ~20 stone_slab 
+setblock ~24 ~32 ~20 stone_stairs 0 
+setblock ~25 ~32 ~20 stone_stairs 5 
+setblock ~14 ~33 ~20 stone_stairs 0 
+setblock ~15 ~33 ~20 stone_stairs 1 
+setblock ~25 ~33 ~20 stone_stairs 0 
+setblock ~26 ~33 ~20 stone_stairs 1   

@@ -1,0 +1,304 @@
+fill ~1~0~1 ~47~0~1 minecraft:coal_block
+fill ~4~5~1 ~14~5~2 minecraft:stained_hardened_clay 14
+fill ~6~3~1 ~7~4~1 minecraft:stained_hardened_clay 14
+setblock ~7~2~1 minecraft:stained_hardened_clay 14
+fill ~8~1~1 ~8~1~6 minecraft:stone 0
+fill ~8~2~1 ~10~2~1 minecraft:stone 2
+fill ~8~3~1 ~9~3~1 minecraft:glass
+setblock ~8~4~1 minecraft:glass
+setblock ~9~1~1 minecraft:stone_block_slab 8
+fill ~9~4~1 ~15~4~1 minecraft:stained_hardened_clay 14
+fill ~10~1~1 ~10~1~6 minecraft:stone 0
+fill ~10~3~1 ~11~3~1 minecraft:stained_hardened_clay 14
+setblock ~11~2~1 minecraft:stained_hardened_clay 14
+fill ~12~1~1 ~12~1~6 minecraft:stone 0
+fill ~12~2~1 ~13~2~1 minecraft:stone 2
+fill ~12~3~1 ~14~3~1 minecraft:glass
+setblock ~13~1~1 minecraft:stone_block_slab 8
+fill ~14~1~1 ~14~1~6 minecraft:stone 0
+fill ~14~2~1 ~15~2~1 minecraft:stained_hardened_clay 14
+setblock ~15~3~1 minecraft:stained_hardened_clay 14
+fill ~21~2~1 ~21~4~1 minecraft:stained_hardened_clay 3
+fill ~22~1~1 ~22~1~6 minecraft:stone 0
+fill ~22~2~1 ~24~2~1 minecraft:stone 2
+fill ~22~3~1 ~22~4~1 minecraft:stained_hardened_clay 3
+setblock ~23~1~1 minecraft:stone_block_slab 8
+fill ~23~3~1 ~24~3~1 minecraft:glass
+fill ~23~4~1 ~31~4~1 minecraft:stained_hardened_clay 3
+fill ~24~1~1 ~24~1~6 minecraft:stone 0
+fill ~25~2~1 ~28~2~1 minecraft:stained_hardened_clay 3
+setblock ~25~3~1 minecraft:stained_hardened_clay 3
+fill ~26~3~1 ~27~3~1 minecraft:glass
+setblock ~28~3~1 minecraft:stained_hardened_clay 3
+fill ~29~1~1 ~29~1~6 minecraft:stone 0
+fill ~29~2~1 ~31~2~1 minecraft:stone 2
+fill ~29~3~1 ~30~3~1 minecraft:glass
+setblock ~30~1~1 minecraft:stone_block_slab 8
+fill ~31~1~1 ~31~1~6 minecraft:stone 0
+setblock ~31~3~1 minecraft:stained_hardened_clay 3
+setblock ~37~1~1 minecraft:stone 0
+fill ~37~2~1 ~39~2~1 minecraft:stone 2
+setblock ~37~3~1 minecraft:obsidian
+setblock ~38~1~1 minecraft:stone_block_slab 8
+setblock ~38~3~1 minecraft:stained_glass_pane 15
+fill ~38~4~1 ~44~4~1 minecraft:obsidian
+setblock ~39~1~1 minecraft:stone 0
+setblock ~39~3~1 minecraft:glass_pane
+fill ~40~2~1 ~41~3~1 minecraft:obsidian
+setblock ~42~1~1 minecraft:stone 0
+fill ~42~2~1 ~44~2~1 minecraft:stone 2
+setblock ~42~3~1 minecraft:stained_glass_pane 15
+setblock ~43~1~1 minecraft:stone_block_slab 8
+setblock ~43~3~1 minecraft:glass_pane
+setblock ~44~1~1 minecraft:stone 0
+fill ~44~3~1 ~45~3~1 minecraft:obsidian
+fill ~2~0~2 ~2~0~5 minecraft:wooden_slab 0
+fill ~4~1~2 ~7~1~5 minecraft:stone 0
+setblock ~4~2~2 minecraft:cobblestone_wall 0
+fill ~4~3~2 ~4~4~2 minecraft:cobblestone_wall 0
+fill ~5~0~2 ~5~0~5 minecraft:wooden_slab 0
+setblock ~5~2~2 minecraft:cobblestone_wall 0
+fill ~6~2~2 ~6~4~2 minecraft:iron_block
+fill ~7~2~2 ~7~4~2 minecraft:fence 0
+fill ~8~0~2 ~8~0~5 minecraft:wooden_slab 0
+setblock ~8~2~2 minecraft:bed 1
+setblock ~8~4~2 minecraft:bed 1
+fill ~9~1~2 ~9~1~5 minecraft:stone 0
+fill ~10~2~2 ~10~4~2 minecraft:ladder 3
+fill ~11~0~2 ~11~0~5 minecraft:wooden_slab 0
+fill ~11~1~2 ~11~1~5 minecraft:stone 0
+fill ~11~2~2 ~11~2~5 minecraft:carpet 3
+setblock ~12~2~2 minecraft:nether_brick_stairs 1
+fill ~13~1~2 ~13~1~5 minecraft:stone 0
+setblock ~13~2~2 minecraft:nether_brick_stairs 3
+fill ~14~0~2 ~14~0~5 minecraft:wooden_slab 0
+setblock ~14~2~2 minecraft:nether_brick_stairs 0
+fill ~15~1~2 ~16~1~5 minecraft:stone 0
+fill ~15~2~2 ~15~2~5 minecraft:carpet 3
+setblock ~15~3~2 minecraft:wooden_button 4
+fill ~15~4~2 ~15~4~6 minecraft:stained_hardened_clay 14
+fill ~16~2~2 ~16~3~2 minecraft:iron_block
+fill ~17~0~2 ~17~0~5 minecraft:wooden_slab 0
+fill ~17~2~2 ~17~3~2 minecraft:stained_glass_pane 15
+fill ~19~2~2 ~19~3~2 minecraft:stained_glass_pane 15
+fill ~20~0~2 ~20~0~5 minecraft:wooden_slab 0
+fill ~20~1~2 ~21~1~5 minecraft:stone 0
+fill ~20~2~2 ~20~3~2 minecraft:iron_block
+setblock ~21~2~2 minecraft:carpet 0
+setblock ~21~3~2 minecraft:wooden_button 5
+fill ~21~4~2 ~21~4~6 minecraft:stained_hardened_clay 3
+setblock ~22~2~2 minecraft:fence 0
+setblock ~22~3~2 minecraft:wooden_pressure_plate 0
+fill ~22~5~2 ~30~5~2 minecraft:stained_hardened_clay 3
+fill ~23~0~2 ~23~0~5 minecraft:wooden_slab 0
+fill ~23~1~2 ~23~1~5 minecraft:stone 0
+setblock ~23~2~2 minecraft:nether_brick_stairs 1
+setblock ~24~2~2 minecraft:fence 0
+setblock ~24~3~2 minecraft:carpet 0
+fill ~25~1~2 ~28~1~5 minecraft:stone 0
+setblock ~25~2~2 minecraft:nether_brick_stairs 0
+fill ~26~0~2 ~26~0~5 minecraft:wooden_slab 0
+setblock ~26~2~2 minecraft:nether_brick_stairs 1
+setblock ~27~2~2 minecraft:fence 0
+setblock ~27~3~2 minecraft:carpet 0
+setblock ~28~2~2 minecraft:nether_brick_stairs 0
+fill ~29~0~2 ~29~0~5 minecraft:wooden_slab 0
+fill ~29~2~2 ~30~2~2 minecraft:fence 0
+fill ~29~3~2 ~30~3~2 minecraft:wooden_pressure_plate 0
+fill ~30~1~2 ~30~1~5 minecraft:stone 0
+setblock ~31~2~2 minecraft:carpet 0
+setblock ~31~3~2 minecraft:wooden_button 4
+fill ~31~4~2 ~31~4~6 minecraft:stained_hardened_clay 3
+fill ~32~0~2 ~32~0~5 minecraft:wooden_slab 0
+fill ~32~1~2 ~32~1~5 minecraft:stone 0
+fill ~32~2~2 ~32~3~2 minecraft:iron_block
+fill ~33~2~2 ~33~3~2 minecraft:stained_glass_pane 15
+fill ~35~0~2 ~35~0~5 minecraft:wooden_slab 0
+fill ~35~2~2 ~35~3~2 minecraft:stained_glass_pane 15
+fill ~36~2~2 ~36~3~2 minecraft:iron_block
+fill ~37~1~2 ~44~1~5 minecraft:obsidian
+fill ~37~2~2 ~37~3~2 minecraft:stained_glass_pane 15
+fill ~37~4~2 ~37~4~5 minecraft:stone 0
+fill ~38~0~2 ~38~0~5 minecraft:wooden_slab 0
+fill ~38~2~2 ~39~2~2 minecraft:nether_brick_stairs 3
+fill ~38~4~2 ~39~4~2 minecraft:wooden_button 3
+fill ~38~5~2 ~44~5~2 minecraft:stone 0
+fill ~40~2~2 ~41~4~2 minecraft:lever 3
+fill ~41~0~2 ~41~0~5 minecraft:wooden_slab 0
+setblock ~42~2~2 minecraft:nether_brick_stairs 1
+fill ~42~4~2 ~43~4~2 minecraft:wooden_button 3
+fill ~44~0~2 ~44~0~5 minecraft:wooden_slab 0
+setblock ~44~2~2 minecraft:lever 6
+fill ~44~4~2 ~44~4~5 minecraft:lever 2
+fill ~45~2~2 ~45~2~5 minecraft:obsidian
+setblock ~45~3~2 minecraft:glass_pane
+fill ~45~4~2 ~45~4~5 minecraft:obsidian
+fill ~47~0~2 ~47~0~5 minecraft:wooden_slab 0
+fill ~4~2~3 ~4~2~4 minecraft:cobblestone_wall 0
+fill ~4~5~3 ~4~5~6 minecraft:stained_hardened_clay 14
+fill ~5~4~3 ~5~4~4 minecraft:wooden_button 4
+fill ~5~5~3 ~5~5~4 minecraft:beacon
+fill ~5~6~3 ~5~6~4 minecraft:stone_block_slab 0
+fill ~6~2~3 ~6~2~4 minecraft:iron_door 0
+fill ~6~4~3 ~6~4~5 minecraft:iron_block
+fill ~6~5~3 ~7~5~6 minecraft:stained_hardened_clay 14
+fill ~7~2~3 ~10~2~4 minecraft:carpet 3
+fill ~7~4~3 ~7~4~4 minecraft:wooden_button 5
+fill ~8~5~3 ~8~5~4 minecraft:beacon
+fill ~8~6~3 ~8~6~4 minecraft:stone_block_slab 0
+fill ~9~5~3 ~12~5~6 minecraft:stained_hardened_clay 14
+fill ~12~2~3 ~14~2~4 minecraft:carpet 3
+fill ~13~5~3 ~13~5~4 minecraft:beacon
+fill ~13~6~3 ~13~6~4 minecraft:stone_block_slab 0
+fill ~14~5~3 ~14~5~6 minecraft:stained_hardened_clay 14
+fill ~16~2~3 ~16~2~4 minecraft:iron_door 2
+fill ~16~4~3 ~16~4~4 minecraft:stained_hardened_clay 14
+fill ~17~1~3 ~19~1~4 minecraft:double_stone_block_slab 0
+fill ~17~4~3 ~17~4~4 minecraft:wooden_button 5
+fill ~19~4~3 ~19~4~4 minecraft:wooden_button 4
+fill ~20~2~3 ~20~2~4 minecraft:iron_door 0
+fill ~20~4~3 ~20~4~4 minecraft:stained_hardened_clay 11
+setblock ~21~2~3 minecraft:carpet 14
+setblock ~22~2~3 minecraft:carpet 0
+fill ~22~5~3 ~22~5~5 minecraft:stained_hardened_clay 3
+setblock ~23~2~3 minecraft:carpet 14
+fill ~23~5~3 ~23~5~4 minecraft:beacon
+fill ~23~6~3 ~23~6~4 minecraft:stone_block_slab 0
+setblock ~24~2~3 minecraft:carpet 0
+fill ~24~5~3 ~28~5~5 minecraft:stained_hardened_clay 3
+setblock ~25~2~3 minecraft:carpet 14
+setblock ~26~2~3 minecraft:carpet 0
+setblock ~27~2~3 minecraft:carpet 14
+setblock ~28~2~3 minecraft:carpet 0
+setblock ~29~2~3 minecraft:carpet 14
+fill ~29~5~3 ~29~5~4 minecraft:beacon
+fill ~29~6~3 ~29~6~4 minecraft:stone_block_slab 0
+setblock ~30~2~3 minecraft:carpet 0
+fill ~30~5~3 ~30~5~5 minecraft:stained_hardened_clay 3
+setblock ~31~2~3 minecraft:carpet 14
+fill ~32~2~3 ~32~2~4 minecraft:iron_door 2
+fill ~32~4~3 ~32~4~4 minecraft:stained_hardened_clay 3
+fill ~33~1~3 ~35~1~4 minecraft:double_stone_block_slab 0
+fill ~33~4~3 ~33~4~4 minecraft:wooden_button 5
+fill ~35~4~3 ~35~4~4 minecraft:wooden_button 4
+fill ~36~1~3 ~36~1~4 minecraft:obsidian
+fill ~36~2~3 ~36~2~4 minecraft:iron_door 0
+fill ~36~4~3 ~36~4~4 minecraft:stone 0
+fill ~37~2~3 ~37~2~4 minecraft:stone_pressure_plate 0
+fill ~37~3~3 ~37~3~4 minecraft:wooden_button 0
+fill ~38~2~3 ~41~2~4 minecraft:carpet 7
+fill ~38~5~3 ~38~5~5 minecraft:stone 0
+fill ~39~5~3 ~39~5~4 minecraft:beacon
+fill ~39~6~3 ~39~6~4 minecraft:stone_block_slab 5
+fill ~40~5~3 ~44~5~5 minecraft:stone 0
+setblock ~42~2~3 minecraft:lever 6
+fill ~43~2~3 ~43~2~4 minecraft:carpet 7
+fill ~44~2~3 ~44~2~4 minecraft:lever 2
+fill ~44~3~3 ~44~3~4 minecraft:wooden_button 4
+fill ~45~3~3 ~45~3~4 minecraft:obsidian
+fill ~46~2~3 ~46~3~4 minecraft:sea_lantern
+setblock ~21~2~4 minecraft:carpet 0
+setblock ~22~2~4 minecraft:carpet 14
+setblock ~23~2~4 minecraft:carpet 0
+setblock ~24~2~4 minecraft:carpet 14
+setblock ~25~2~4 minecraft:carpet 0
+setblock ~26~2~4 minecraft:carpet 14
+setblock ~27~2~4 minecraft:carpet 0
+setblock ~28~2~4 minecraft:carpet 14
+setblock ~29~2~4 minecraft:carpet 0
+setblock ~30~2~4 minecraft:carpet 14
+setblock ~31~2~4 minecraft:carpet 0
+setblock ~42~2~4 minecraft:carpet 7
+setblock ~4~2~5 minecraft:cobblestone_wall 0
+fill ~4~3~5 ~4~4~5 minecraft:cobblestone_wall 0
+setblock ~5~2~5 minecraft:cobblestone_wall 0
+fill ~5~5~5 ~5~5~6 minecraft:stained_hardened_clay 14
+fill ~6~2~5 ~6~3~5 minecraft:iron_block
+fill ~7~2~5 ~7~4~5 minecraft:fence 0
+setblock ~8~2~5 minecraft:bed 1
+setblock ~8~4~5 minecraft:bed 1
+fill ~8~5~5 ~8~5~6 minecraft:stained_hardened_clay 14
+fill ~10~2~5 ~10~4~5 minecraft:ladder 2
+fill ~12~2~5 ~14~2~5 minecraft:fence 0
+fill ~12~3~5 ~14~3~5 minecraft:wooden_pressure_plate 0
+fill ~13~5~5 ~13~5~6 minecraft:stained_hardened_clay 14
+setblock ~15~3~5 minecraft:wooden_button 4
+fill ~16~2~5 ~16~3~5 minecraft:iron_block
+fill ~17~2~5 ~17~3~5 minecraft:stained_glass_pane 15
+fill ~19~2~5 ~19~3~5 minecraft:stained_glass_pane 15
+fill ~20~2~5 ~20~3~5 minecraft:iron_block
+setblock ~21~2~5 minecraft:carpet 14
+setblock ~21~3~5 minecraft:wooden_button 5
+setblock ~22~2~5 minecraft:fence 0
+setblock ~22~3~5 minecraft:wooden_pressure_plate 0
+setblock ~23~2~5 minecraft:nether_brick_stairs 1
+setblock ~23~5~5 minecraft:stained_hardened_clay 3
+setblock ~24~2~5 minecraft:fence 0
+setblock ~24~3~5 minecraft:carpet 0
+setblock ~25~2~5 minecraft:nether_brick_stairs 0
+setblock ~26~2~5 minecraft:nether_brick_stairs 1
+setblock ~27~2~5 minecraft:fence 0
+setblock ~27~3~5 minecraft:carpet 0
+setblock ~28~2~5 minecraft:nether_brick_stairs 0
+fill ~29~2~5 ~30~2~5 minecraft:fence 0
+fill ~29~3~5 ~30~3~5 minecraft:wooden_pressure_plate 0
+setblock ~29~5~5 minecraft:stained_hardened_clay 3
+setblock ~31~2~5 minecraft:carpet 14
+setblock ~31~3~5 minecraft:wooden_button 4
+fill ~32~2~5 ~32~3~5 minecraft:iron_block
+fill ~33~2~5 ~33~3~5 minecraft:stained_glass_pane 15
+fill ~35~2~5 ~35~3~5 minecraft:stained_glass_pane 15
+fill ~36~2~5 ~36~3~5 minecraft:iron_block
+fill ~37~2~5 ~37~3~5 minecraft:stained_glass_pane 15
+fill ~38~2~5 ~40~2~5 minecraft:lever 4
+fill ~38~4~5 ~39~4~5 minecraft:wooden_button 2
+setblock ~39~5~5 minecraft:stone 0
+fill ~40~3~5 ~40~4~5 minecraft:lever 4
+fill ~41~2~5 ~44~2~5 minecraft:fence 0
+fill ~41~3~5 ~44~3~5 minecraft:stone_pressure_plate 0
+fill ~42~4~5 ~43~4~5 minecraft:wooden_button 2
+setblock ~45~3~5 minecraft:glass_pane
+fill ~0~0~6 ~47~0~6 minecraft:coal_block
+fill ~6~3~6 ~7~4~6 minecraft:stained_hardened_clay 14
+setblock ~7~2~6 minecraft:stained_hardened_clay 14
+fill ~8~2~6 ~10~2~6 minecraft:stone 2
+fill ~8~3~6 ~9~3~6 minecraft:glass
+setblock ~8~4~6 minecraft:glass
+setblock ~9~1~6 minecraft:stone_block_slab 8
+fill ~9~4~6 ~14~4~6 minecraft:stained_hardened_clay 14
+fill ~10~3~6 ~11~3~6 minecraft:stained_hardened_clay 14
+setblock ~11~2~6 minecraft:stained_hardened_clay 14
+fill ~12~2~6 ~14~2~6 minecraft:stone 2
+fill ~12~3~6 ~14~3~6 minecraft:glass
+setblock ~13~1~6 minecraft:stone_block_slab 8
+fill ~15~2~6 ~15~3~6 minecraft:stained_hardened_clay 14
+fill ~21~2~6 ~21~3~6 minecraft:stained_hardened_clay 3
+fill ~22~2~6 ~24~2~6 minecraft:stone 2
+fill ~22~3~6 ~22~4~6 minecraft:stained_hardened_clay 3
+setblock ~23~1~6 minecraft:stone_block_slab 8
+fill ~23~3~6 ~24~3~6 minecraft:glass
+fill ~23~4~6 ~30~4~6 minecraft:stained_hardened_clay 3
+fill ~25~2~6 ~28~2~6 minecraft:stained_hardened_clay 3
+setblock ~25~3~6 minecraft:stained_hardened_clay 3
+fill ~26~3~6 ~27~3~6 minecraft:glass
+setblock ~28~3~6 minecraft:stained_hardened_clay 3
+fill ~29~2~6 ~31~2~6 minecraft:stone 2
+fill ~29~3~6 ~30~3~6 minecraft:glass
+setblock ~30~1~6 minecraft:stone_block_slab 8
+setblock ~31~3~6 minecraft:stained_hardened_clay 3
+setblock ~37~1~6 minecraft:stone 0
+fill ~37~2~6 ~39~2~6 minecraft:stone 2
+setblock ~37~3~6 minecraft:obsidian
+setblock ~38~1~6 minecraft:stone_block_slab 8
+setblock ~38~3~6 minecraft:stained_glass_pane 15
+fill ~38~4~6 ~44~4~6 minecraft:obsidian
+setblock ~39~1~6 minecraft:stone 0
+setblock ~39~3~6 minecraft:glass_pane
+fill ~40~2~6 ~41~3~6 minecraft:obsidian
+setblock ~42~1~6 minecraft:stone 0
+fill ~42~2~6 ~44~2~6 minecraft:stone 2
+setblock ~42~3~6 minecraft:stained_glass_pane 15
+setblock ~43~1~6 minecraft:stone_block_slab 8
+setblock ~43~3~6 minecraft:glass_pane
+setblock ~44~1~6 minecraft:stone 0
+fill ~44~3~6 ~45~3~6 minecraft:obsidian

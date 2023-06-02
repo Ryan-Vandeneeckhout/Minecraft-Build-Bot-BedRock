@@ -1,0 +1,1842 @@
+setblock ~2~0~3 minecraft:stone_block_slab 0
+setblock ~3~0~3 minecraft:double_stone_block_slab 0
+setblock ~23~0~3 minecraft:double_stone_block_slab 0
+setblock ~24~0~3 minecraft:stone_block_slab 0
+setblock ~2~0~4 minecraft:double_stone_block_slab 0
+fill ~3~0~4 ~4~0~5 minecraft:cobblestone
+fill ~3~1~4 ~4~1~5 minecraft:stone_block_slab 0
+setblock ~10~8~4 minecraft:wool 11
+fill ~10~15~4 ~15~15~6 minecraft:wool 14
+fill ~11~8~4 ~12~8~4 minecraft:wool 5
+fill ~11~14~4 ~11~14~6 minecraft:wool 14
+fill ~11~16~4 ~11~16~6 minecraft:wool 14
+setblock ~13~8~4 minecraft:glowstone
+setblock ~13~11~4 minecraft:wool 5
+fill ~14~8~4 ~15~8~4 minecraft:wool 1
+setblock ~14~11~4 minecraft:wool 14
+fill ~14~14~4 ~14~14~6 minecraft:wool 14
+fill ~14~16~4 ~14~16~6 minecraft:wool 14
+fill ~16~11~4 ~16~11~7 minecraft:wool 14
+fill ~22~0~4 ~23~0~5 minecraft:cobblestone
+fill ~22~1~4 ~23~1~5 minecraft:stone_block_slab 0
+setblock ~24~0~4 minecraft:double_stone_block_slab 0
+fill ~5~0~5 ~5~0~6 minecraft:cobblestone
+setblock ~5~1~5 minecraft:stone_block_slab 0
+fill ~8~11~5 ~8~11~6 minecraft:wool 1
+setblock ~9~8~5 minecraft:wool 5
+setblock ~9~11~5 minecraft:wool 4
+setblock ~10~11~5 minecraft:wool 14
+setblock ~10~14~5 minecraft:wool 14
+setblock ~10~16~5 minecraft:wool 14
+setblock ~11~8~5 minecraft:wool 5
+fill ~12~7~5 ~12~7~10 minecraft:log 1
+fill ~12~8~5 ~13~8~5 minecraft:leaves 1
+setblock ~12~11~5 minecraft:wool 14
+fill ~12~14~5 ~13~14~5 minecraft:wool 14
+fill ~12~16~5 ~13~16~5 minecraft:wool 14
+setblock ~13~9~5 minecraft:leaves 1
+fill ~13~48~5 ~13~48~7 minecraft:glowstone
+fill ~14~7~5 ~14~7~10 minecraft:log 1
+setblock ~14~8~5 minecraft:wool 4
+setblock ~14~11~5 minecraft:wool 1
+fill ~14~12~5 ~17~12~7 minecraft:wool 14
+fill ~15~11~5 ~15~11~7 minecraft:wool 14
+fill ~15~13~5 ~15~13~7 minecraft:wool 14
+setblock ~15~14~5 minecraft:wool 14
+setblock ~15~16~5 minecraft:wool 14
+fill ~17~8~5 ~17~8~6 minecraft:glowstone
+fill ~17~10~5 ~17~11~7 minecraft:wool 14
+fill ~18~11~5 ~18~11~8 minecraft:wool 14
+fill ~21~0~5 ~21~0~6 minecraft:cobblestone
+setblock ~21~1~5 minecraft:stone_block_slab 0
+setblock ~4~0~6 minecraft:cobblestone
+setblock ~4~1~6 minecraft:stone_block_slab 0
+setblock ~5~1~6 minecraft:double_stone_block_slab 0
+fill ~6~1~6 ~6~1~7 minecraft:cobblestone
+setblock ~6~2~6 minecraft:stone_block_slab 0
+fill ~7~8~6 ~7~8~8 minecraft:leaves 1
+fill ~8~8~6 ~8~8~7 minecraft:wool 5
+fill ~8~15~6 ~9~15~8 minecraft:wool 14
+fill ~8~17~6 ~10~17~8 minecraft:wool 14
+fill ~9~14~6 ~9~14~8 minecraft:wool 14
+fill ~9~16~6 ~9~16~8 minecraft:wool 14
+fill ~9~18~6 ~9~18~10 minecraft:wool 14
+fill ~10~8~6 ~10~8~7 minecraft:wool 5
+fill ~11~3~6 ~15~3~6 minecraft:cobblestone
+setblock ~11~8~6 minecraft:wool 11
+setblock ~11~11~6 minecraft:glowstone
+fill ~11~12~6 ~13~12~6 minecraft:leaves 1
+fill ~11~17~6 ~16~17~7 minecraft:leaves 1
+fill ~11~19~6 ~12~19~6 minecraft:wool 4
+fill ~11~21~6 ~15~21~10 minecraft:leaves 1
+setblock ~12~8~6 minecraft:wool 1
+fill ~12~9~6 ~12~9~10 minecraft:leaves 1
+setblock ~12~11~6 minecraft:leaves 1
+fill ~12~13~6 ~13~13~10 minecraft:leaves 1
+setblock ~13~8~6 minecraft:leaves 1
+fill ~13~9~6 ~13~9~11 minecraft:log 1
+fill ~13~10~6 ~13~10~10 minecraft:leaves 1
+setblock ~13~11~6 minecraft:wool 1
+fill ~13~14~6 ~13~14~10 minecraft:log 1
+fill ~13~19~6 ~13~19~10 minecraft:leaves 1
+setblock ~14~8~6 minecraft:wool 11
+fill ~14~9~6 ~14~9~10 minecraft:leaves 1
+setblock ~14~11~6 minecraft:wool 14
+setblock ~14~13~6 minecraft:wool 14
+fill ~14~18~6 ~14~19~6 minecraft:glowstone
+setblock ~15~19~6 minecraft:wool 4
+setblock ~16~10~6 minecraft:wool 14
+setblock ~16~13~6 minecraft:wool 14
+setblock ~16~15~6 minecraft:wool 14
+fill ~17~15~6 ~17~15~7 minecraft:leaves 1
+fill ~18~8~6 ~18~8~8 minecraft:leaves 1
+fill ~18~10~6 ~19~10~7 minecraft:wool 14
+fill ~18~12~6 ~19~12~7 minecraft:wool 14
+fill ~19~11~6 ~20~11~8 minecraft:wool 14
+fill ~20~1~6 ~20~1~8 minecraft:cobblestone
+setblock ~20~2~6 minecraft:stone_block_slab 0
+setblock ~21~1~6 minecraft:double_stone_block_slab 0
+setblock ~22~0~6 minecraft:cobblestone
+setblock ~22~1~6 minecraft:stone_block_slab 0
+setblock ~5~1~7 minecraft:cobblestone
+setblock ~5~2~7 minecraft:stone_block_slab 0
+setblock ~6~2~7 minecraft:double_stone_block_slab 0
+setblock ~6~8~7 minecraft:wool 11
+setblock ~6~11~7 minecraft:wool 5
+fill ~7~2~7 ~8~2~7 minecraft:cobblestone
+setblock ~7~3~7 minecraft:stone_block_slab 0
+setblock ~7~9~7 minecraft:leaves 1
+fill ~7~11~7 ~8~11~7 minecraft:wool 11
+setblock ~7~15~7 minecraft:leaves 1
+setblock ~8~3~7 minecraft:double_stone_block_slab 0
+setblock ~8~14~7 minecraft:wool 14
+setblock ~8~16~7 minecraft:wool 14
+fill ~8~18~7 ~8~18~12 minecraft:wool 14
+fill ~9~3~7 ~10~3~7 minecraft:cobblestone
+setblock ~9~8~7 minecraft:wool 1
+setblock ~9~11~7 minecraft:wool 4
+fill ~9~12~7 ~10~12~7 minecraft:leaves 1
+fill ~9~21~7 ~10~21~12 minecraft:leaves 1
+setblock ~10~11~7 minecraft:wool 14
+fill ~10~14~7 ~10~16~7 minecraft:wool 14
+fill ~10~18~7 ~11~18~7 minecraft:wool 14
+setblock ~10~19~7 minecraft:leaves 1
+fill ~11~2~7 ~15~2~7 minecraft:cobblestone
+setblock ~11~8~7 minecraft:wool 1
+fill ~11~11~7 ~11~11~8 minecraft:leaves 1
+fill ~11~12~7 ~13~12~11 minecraft:log 1
+fill ~11~13~7 ~11~13~11 minecraft:leaves 1
+setblock ~11~15~7 minecraft:wool 4
+setblock ~11~19~7 minecraft:glowstone
+fill ~11~25~7 ~15~25~10 minecraft:leaves 1
+setblock ~12~8~7 minecraft:wool 5
+setblock ~12~11~7 minecraft:wool 14
+setblock ~12~14~7 minecraft:leaves 1
+setblock ~12~15~7 minecraft:wool 14
+setblock ~12~18~7 minecraft:wool 5
+setblock ~12~19~7 minecraft:wool 1
+fill ~13~8~7 ~14~8~7 minecraft:glowstone
+setblock ~13~11~7 minecraft:wool 4
+fill ~13~15~7 ~13~15~8 minecraft:wool 4
+fill ~13~18~7 ~15~18~7 minecraft:leaves 1
+setblock ~13~22~7 minecraft:leaves 1
+fill ~13~23~7 ~14~23~7 minecraft:wool 1
+setblock ~13~26~7 minecraft:leaves 1
+fill ~13~47~7 ~13~47~11 minecraft:glowstone
+fill ~13~49~7 ~13~49~11 minecraft:glowstone
+fill ~14~11~7 ~14~11~8 minecraft:leaves 1
+fill ~14~13~7 ~14~13~10 minecraft:leaves 1
+setblock ~14~14~7 minecraft:leaves 1
+setblock ~14~15~7 minecraft:wool 14
+setblock ~14~19~7 minecraft:wool 1
+setblock ~15~8~7 minecraft:wool 1
+setblock ~15~15~7 minecraft:wool 11
+fill ~16~3~7 ~17~3~7 minecraft:cobblestone
+fill ~16~8~7 ~17~8~7 minecraft:wool 4
+setblock ~16~15~7 minecraft:wool 4
+fill ~16~21~7 ~17~21~12 minecraft:leaves 1
+fill ~17~17~7 ~17~17~9 minecraft:leaves 1
+fill ~18~2~7 ~19~2~7 minecraft:cobblestone
+setblock ~18~3~7 minecraft:double_stone_block_slab 0
+fill ~18~15~7 ~19~15~7 minecraft:leaves 1
+setblock ~19~1~7 minecraft:cobblestone
+setblock ~19~3~7 minecraft:stone_block_slab 0
+setblock ~19~8~7 minecraft:wool 5
+setblock ~19~9~7 minecraft:leaves 1
+setblock ~20~2~7 minecraft:double_stone_block_slab 0
+fill ~20~8~7 ~20~8~9 minecraft:leaves 1
+setblock ~20~10~7 minecraft:wool 14
+setblock ~20~12~7 minecraft:wool 14
+setblock ~21~1~7 minecraft:cobblestone
+setblock ~21~2~7 minecraft:stone_block_slab 0
+setblock ~5~8~8 minecraft:wool 11
+setblock ~5~11~8 minecraft:wool 5
+fill ~6~2~8 ~7~2~8 minecraft:cobblestone
+setblock ~6~3~8 minecraft:stone_block_slab 0
+setblock ~6~8~8 minecraft:wool 5
+setblock ~6~9~8 minecraft:leaves 1
+fill ~6~15~8 ~6~15~10 minecraft:leaves 1
+setblock ~7~3~8 minecraft:double_stone_block_slab 0
+setblock ~7~9~8 minecraft:log 1
+setblock ~7~10~8 minecraft:leaves 1
+setblock ~7~11~8 minecraft:wool 1
+setblock ~7~15~8 minecraft:log 1
+setblock ~7~16~8 minecraft:leaves 1
+fill ~7~18~8 ~7~18~12 minecraft:wool 14
+fill ~7~21~8 ~8~21~15 minecraft:leaves 1
+setblock ~8~3~8 minecraft:cobblestone
+setblock ~8~8~8 minecraft:glowstone
+setblock ~8~9~8 minecraft:leaves 1
+setblock ~8~11~8 minecraft:leaves 1
+setblock ~8~12~8 minecraft:leaves 1
+fill ~8~19~8 ~9~19~9 minecraft:wool 14
+setblock ~8~22~8 minecraft:leaves 1
+fill ~9~2~8 ~10~2~8 minecraft:cobblestone
+setblock ~9~11~8 minecraft:wool 1
+fill ~9~12~8 ~10~12~20 minecraft:log 1
+fill ~9~13~8 ~10~13~12 minecraft:leaves 1
+fill ~9~23~8 ~11~23~8 minecraft:glowstone
+fill ~9~25~8 ~10~25~12 minecraft:leaves 1
+setblock ~10~11~8 minecraft:wool 11
+setblock ~10~15~8 minecraft:wool 14
+fill ~10~16~8 ~16~16~8 minecraft:leaves 1
+fill ~10~18~8 ~10~18~9 minecraft:leaves 1
+setblock ~10~19~8 minecraft:wool 4
+fill ~11~1~8 ~15~1~8 minecraft:cobblestone
+setblock ~11~8~8 minecraft:wool 5
+setblock ~11~14~8 minecraft:leaves 1
+setblock ~11~15~8 minecraft:leaves 1
+fill ~11~17~8 ~12~17~8 minecraft:leaves 1
+setblock ~11~18~8 minecraft:wool 1
+fill ~11~19~8 ~11~20~8 minecraft:leaves 1
+setblock ~11~27~8 minecraft:leaves 1
+fill ~11~29~8 ~15~29~10 minecraft:leaves 1
+setblock ~12~8~8 minecraft:leaves 1
+setblock ~12~11~8 minecraft:wool 11
+setblock ~12~15~8 minecraft:glowstone
+fill ~12~18~8 ~12~19~8 minecraft:leaves 1
+fill ~12~20~8 ~15~20~8 minecraft:leaves 1
+fill ~12~22~8 ~12~22~10 minecraft:leaves 1
+setblock ~12~23~8 minecraft:wool 1
+fill ~12~26~8 ~12~26~10 minecraft:leaves 1
+setblock ~12~27~8 minecraft:log 1
+setblock ~13~8~8 minecraft:wool 5
+setblock ~13~11~8 minecraft:leaves 1
+fill ~13~17~8 ~13~17~10 minecraft:log 1
+setblock ~13~18~8 minecraft:glowstone
+fill ~13~22~8 ~13~22~10 minecraft:log 1
+fill ~13~23~8 ~14~23~8 minecraft:glowstone
+fill ~13~26~8 ~13~26~10 minecraft:log 1
+setblock ~13~27~8 minecraft:wool 1
+fill ~13~43~8 ~13~43~10 minecraft:glowstone
+fill ~13~48~8 ~13~48~11 minecraft:gold_block
+fill ~13~53~8 ~13~53~10 minecraft:glowstone
+fill ~14~8~8 ~15~8~8 minecraft:wool 4
+fill ~14~12~8 ~17~12~11 minecraft:log 1
+fill ~14~15~8 ~14~15~9 minecraft:leaves 1
+fill ~14~17~8 ~16~17~8 minecraft:leaves 1
+fill ~14~18~8 ~14~18~10 minecraft:leaves 1
+setblock ~14~19~8 minecraft:leaves 1
+fill ~14~22~8 ~14~22~10 minecraft:leaves 1
+fill ~14~26~8 ~14~26~10 minecraft:leaves 1
+setblock ~14~27~8 minecraft:wool 5
+fill ~14~33~8 ~16~33~10 minecraft:wool 14
+fill ~15~11~8 ~15~11~9 minecraft:wool 11
+fill ~15~13~8 ~17~13~11 minecraft:leaves 1
+setblock ~15~14~8 minecraft:leaves 1
+setblock ~15~15~8 minecraft:glowstone
+setblock ~15~18~8 minecraft:wool 4
+setblock ~15~19~8 minecraft:glowstone
+fill ~15~23~8 ~15~23~9 minecraft:leaves 1
+setblock ~15~27~8 minecraft:glowstone
+fill ~15~32~8 ~15~32~10 minecraft:wool 14
+fill ~15~34~8 ~15~34~10 minecraft:wool 14
+fill ~16~2~8 ~17~2~8 minecraft:cobblestone
+setblock ~16~8~8 minecraft:glowstone
+setblock ~16~11~8 minecraft:wool 5
+setblock ~16~15~8 minecraft:wool 1
+setblock ~16~19~8 minecraft:wool 4
+fill ~16~25~8 ~17~25~12 minecraft:leaves 1
+setblock ~17~8~8 minecraft:wool 1
+setblock ~17~11~8 minecraft:leaves 1
+setblock ~17~15~8 minecraft:leaves 1
+setblock ~17~19~8 minecraft:wool 1
+setblock ~18~3~8 minecraft:cobblestone
+setblock ~18~9~8 minecraft:leaves 1
+setblock ~18~12~8 minecraft:leaves 1
+setblock ~18~15~8 minecraft:leaves 1
+fill ~18~17~8 ~18~17~10 minecraft:leaves 1
+fill ~18~21~8 ~19~21~20 minecraft:leaves 1
+setblock ~18~22~8 minecraft:leaves 1
+fill ~19~2~8 ~20~2~8 minecraft:cobblestone
+setblock ~19~3~8 minecraft:double_stone_block_slab 0
+setblock ~19~8~8 minecraft:leaves 1
+setblock ~19~9~8 minecraft:log 1
+setblock ~19~10~8 minecraft:wool 14
+setblock ~19~12~8 minecraft:wool 14
+setblock ~19~15~8 minecraft:log 1
+setblock ~19~16~8 minecraft:leaves 1
+setblock ~20~3~8 minecraft:stone_block_slab 0
+setblock ~20~9~8 minecraft:leaves 1
+fill ~20~15~8 ~20~15~10 minecraft:leaves 1
+fill ~21~8~8 ~21~8~9 minecraft:wool 11
+fill ~21~11~8 ~23~11~10 minecraft:wool 14
+fill ~22~10~8 ~22~10~10 minecraft:wool 14
+fill ~22~12~8 ~22~12~10 minecraft:wool 14
+fill ~4~8~9 ~4~8~10 minecraft:wool 1
+setblock ~4~11~9 minecraft:wool 4
+fill ~5~15~9 ~5~15~10 minecraft:leaves 1
+setblock ~6~2~9 minecraft:cobblestone
+setblock ~6~3~9 minecraft:double_stone_block_slab 0
+setblock ~7~3~9 minecraft:cobblestone
+setblock ~7~8~9 minecraft:wool 4
+setblock ~7~9~9 minecraft:leaves 1
+fill ~7~11~9 ~7~11~10 minecraft:glowstone
+setblock ~7~12~9 minecraft:leaves 1
+setblock ~7~15~9 minecraft:leaves 1
+fill ~7~17~9 ~9~17~9 minecraft:wool 14
+fill ~7~19~9 ~7~19~12 minecraft:wool 14
+setblock ~7~22~9 minecraft:leaves 1
+setblock ~8~2~9 minecraft:cobblestone
+setblock ~8~8~9 minecraft:leaves 1
+setblock ~8~9~9 minecraft:log 1
+setblock ~8~10~9 minecraft:leaves 1
+setblock ~8~11~9 minecraft:wool 4
+fill ~8~12~9 ~8~12~19 minecraft:log 1
+fill ~8~13~9 ~8~13~19 minecraft:leaves 1
+setblock ~8~15~9 minecraft:wool 14
+setblock ~8~22~9 minecraft:log 1
+fill ~8~23~9 ~9~23~9 minecraft:wool 5
+setblock ~8~25~9 minecraft:leaves 1
+fill ~9~1~9 ~10~1~9 minecraft:cobblestone
+setblock ~9~8~9 minecraft:wool 1
+setblock ~9~9~9 minecraft:leaves 1
+fill ~9~11~9 ~10~11~9 minecraft:leaves 1
+setblock ~9~15~9 minecraft:glowstone
+setblock ~9~16~9 minecraft:leaves 1
+setblock ~9~22~9 minecraft:leaves 1
+setblock ~9~26~9 minecraft:leaves 1
+setblock ~9~27~9 minecraft:glowstone
+fill ~9~29~9 ~10~29~12 minecraft:leaves 1
+setblock ~10~8~9 minecraft:wool 11
+setblock ~10~14~9 minecraft:leaves 1
+setblock ~10~15~9 minecraft:wool 1
+fill ~10~19~9 ~10~20~9 minecraft:leaves 1
+fill ~10~23~9 ~11~23~9 minecraft:glowstone
+fill ~10~27~9 ~10~27~10 minecraft:wool 11
+fill ~11~0~9 ~15~0~19 minecraft:cobblestone
+setblock ~11~8~9 minecraft:wool 4
+setblock ~11~11~9 minecraft:wool 5
+setblock ~11~15~9 minecraft:wool 11
+setblock ~11~18~9 minecraft:wool 11
+setblock ~11~19~9 minecraft:wool 5
+fill ~11~20~9 ~15~20~11 minecraft:log 1
+fill ~11~27~9 ~11~27~10 minecraft:glowstone
+setblock ~11~31~9 minecraft:wool 4
+setblock ~11~33~9 minecraft:leaves 1
+fill ~11~34~9 ~14~34~9 minecraft:wool 14
+setblock ~12~8~9 minecraft:glowstone
+fill ~12~11~9 ~12~11~10 minecraft:glowstone
+setblock ~12~15~9 minecraft:wool 14
+setblock ~12~18~9 minecraft:wool 4
+setblock ~12~19~9 minecraft:wool 1
+setblock ~12~23~9 minecraft:wool 11
+setblock ~12~27~9 minecraft:wool 1
+fill ~12~33~9 ~12~33~10 minecraft:wool 14
+fill ~12~35~9 ~12~35~10 minecraft:wool 14
+setblock ~13~8~9 minecraft:wool 11
+setblock ~13~11~9 minecraft:wool 1
+setblock ~13~15~9 minecraft:wool 11
+setblock ~13~18~9 minecraft:wool 11
+fill ~13~23~9 ~14~23~9 minecraft:leaves 1
+setblock ~13~27~9 minecraft:wool 4
+setblock ~13~30~9 minecraft:leaves 1
+fill ~13~31~9 ~13~31~10 minecraft:wool 4
+setblock ~13~33~9 minecraft:leaves 1
+setblock ~13~42~9 minecraft:glowstone
+fill ~13~44~9 ~13~44~11 minecraft:glowstone
+fill ~13~52~9 ~13~52~11 minecraft:glowstone
+setblock ~13~54~9 minecraft:glowstone
+fill ~14~8~9 ~17~8~10 minecraft:leaves 1
+setblock ~14~11~9 minecraft:wool 5
+setblock ~14~19~9 minecraft:glowstone
+setblock ~14~24~9 minecraft:glowstone
+setblock ~14~27~9 minecraft:wool 11
+setblock ~14~31~9 minecraft:glowstone
+setblock ~14~32~9 minecraft:wool 14
+setblock ~15~15~9 minecraft:wool 4
+setblock ~15~18~9 minecraft:wool 11
+setblock ~15~19~9 minecraft:leaves 1
+fill ~15~27~9 ~15~27~10 minecraft:leaves 1
+fill ~15~31~9 ~17~31~11 minecraft:wool 14
+fill ~16~1~9 ~17~1~9 minecraft:cobblestone
+setblock ~16~11~9 minecraft:leaves 1
+setblock ~16~14~9 minecraft:leaves 1
+fill ~16~15~9 ~16~15~12 minecraft:leaves 1
+setblock ~16~20~9 minecraft:leaves 1
+setblock ~16~23~9 minecraft:wool 4
+setblock ~16~27~9 minecraft:wool 1
+fill ~16~29~9 ~17~29~12 minecraft:leaves 1
+fill ~16~30~9 ~16~30~11 minecraft:wool 14
+fill ~16~32~9 ~16~32~11 minecraft:wool 14
+setblock ~16~34~9 minecraft:wool 14
+setblock ~17~9~9 minecraft:leaves 1
+setblock ~17~11~9 minecraft:glowstone
+setblock ~17~15~9 minecraft:wool 5
+setblock ~17~16~9 minecraft:leaves 1
+setblock ~17~22~9 minecraft:leaves 1
+setblock ~17~23~9 minecraft:wool 5
+setblock ~17~26~9 minecraft:leaves 1
+fill ~17~27~9 ~17~27~11 minecraft:leaves 1
+setblock ~18~2~9 minecraft:cobblestone
+fill ~18~8~9 ~19~8~9 minecraft:wool 5
+setblock ~18~9~9 minecraft:log 1
+setblock ~18~10~9 minecraft:leaves 1
+setblock ~18~11~9 minecraft:wool 1
+fill ~18~12~9 ~18~12~19 minecraft:log 1
+fill ~18~13~9 ~18~13~19 minecraft:leaves 1
+setblock ~18~15~9 minecraft:glowstone
+setblock ~18~18~9 minecraft:leaves 1
+setblock ~18~19~9 minecraft:glowstone
+setblock ~18~22~9 minecraft:log 1
+fill ~18~23~9 ~18~23~10 minecraft:leaves 1
+fill ~18~25~9 ~18~25~13 minecraft:leaves 1
+setblock ~19~3~9 minecraft:cobblestone
+setblock ~19~9~9 minecraft:leaves 1
+setblock ~19~11~9 minecraft:wool 5
+setblock ~19~12~9 minecraft:leaves 1
+setblock ~19~15~9 minecraft:leaves 1
+fill ~19~17~9 ~19~17~13 minecraft:leaves 1
+setblock ~19~22~9 minecraft:leaves 1
+setblock ~20~2~9 minecraft:cobblestone
+setblock ~20~3~9 minecraft:double_stone_block_slab 0
+setblock ~21~10~9 minecraft:wool 14
+setblock ~21~12~9 minecraft:wool 14
+setblock ~23~10~9 minecraft:wool 14
+setblock ~23~12~9 minecraft:wool 14
+setblock ~5~8~10 minecraft:wool 11
+setblock ~5~11~10 minecraft:wool 1
+fill ~6~3~10 ~6~3~11 minecraft:cobblestone
+setblock ~6~11~10 minecraft:wool 4
+fill ~6~12~10 ~6~12~11 minecraft:leaves 1
+setblock ~6~17~10 minecraft:leaves 1
+fill ~6~18~10 ~6~18~14 minecraft:wool 14
+fill ~6~21~10 ~6~21~13 minecraft:leaves 1
+fill ~7~2~10 ~7~2~11 minecraft:cobblestone
+setblock ~7~8~10 minecraft:wool 11
+fill ~7~12~10 ~7~12~18 minecraft:log 1
+fill ~7~13~10 ~7~13~18 minecraft:leaves 1
+setblock ~7~15~10 minecraft:glowstone
+fill ~7~17~10 ~8~17~11 minecraft:wool 14
+fill ~7~25~10 ~8~25~14 minecraft:leaves 1
+fill ~8~1~10 ~8~1~11 minecraft:cobblestone
+fill ~8~8~10 ~9~8~10 minecraft:glowstone
+setblock ~8~9~10 minecraft:leaves 1
+setblock ~8~11~10 minecraft:wool 11
+fill ~8~15~10 ~8~15~11 minecraft:leaves 1
+setblock ~8~16~10 minecraft:leaves 1
+fill ~8~19~10 ~8~19~11 minecraft:wool 14
+setblock ~8~22~10 minecraft:leaves 1
+setblock ~8~23~10 minecraft:wool 5
+setblock ~8~26~10 minecraft:leaves 1
+setblock ~8~27~10 minecraft:wool 4
+fill ~8~29~10 ~8~29~18 minecraft:leaves 1
+fill ~9~0~10 ~10~0~18 minecraft:cobblestone
+setblock ~9~9~10 minecraft:log 1
+setblock ~9~10~10 minecraft:leaves 1
+setblock ~9~11~10 minecraft:leaves 1
+setblock ~9~14~10 minecraft:leaves 1
+setblock ~9~15~10 minecraft:wool 11
+setblock ~9~17~10 minecraft:log 1
+fill ~9~19~10 ~9~20~10 minecraft:leaves 1
+setblock ~9~22~10 minecraft:log 1
+setblock ~9~23~10 minecraft:wool 11
+setblock ~9~26~10 minecraft:log 1
+fill ~9~27~10 ~9~27~11 minecraft:leaves 1
+fill ~9~35~10 ~11~35~11 minecraft:wool 14
+setblock ~10~8~10 minecraft:wool 1
+setblock ~10~9~10 minecraft:leaves 1
+fill ~10~11~10 ~10~11~12 minecraft:glowstone
+setblock ~10~15~10 minecraft:wool 5
+fill ~10~18~10 ~11~19~10 minecraft:leaves 1
+fill ~10~20~10 ~10~20~18 minecraft:log 1
+setblock ~10~22~10 minecraft:leaves 1
+fill ~10~23~10 ~13~23~10 minecraft:leaves 1
+setblock ~10~26~10 minecraft:leaves 1
+fill ~10~31~10 ~11~31~11 minecraft:leaves 1
+fill ~10~33~10 ~10~33~12 minecraft:leaves 1
+fill ~10~34~10 ~13~34~10 minecraft:wool 14
+fill ~10~36~10 ~10~36~12 minecraft:wool 14
+setblock ~11~8~10 minecraft:glowstone
+setblock ~11~11~10 minecraft:leaves 1
+setblock ~11~15~10 minecraft:glowstone
+setblock ~11~33~10 minecraft:wool 14
+fill ~12~8~10 ~13~8~10 minecraft:leaves 1
+setblock ~12~10~10 minecraft:leaves 1
+fill ~12~18~10 ~12~19~10 minecraft:wool 5
+fill ~12~24~10 ~14~24~10 minecraft:leaves 1
+setblock ~12~27~10 minecraft:wool 4
+fill ~12~28~10 ~14~28~10 minecraft:leaves 1
+setblock ~12~30~10 minecraft:leaves 1
+setblock ~12~31~10 minecraft:wool 5
+setblock ~13~11~10 minecraft:leaves 1
+setblock ~13~15~10 minecraft:glowstone
+setblock ~13~18~10 minecraft:wool 1
+setblock ~13~27~10 minecraft:leaves 1
+setblock ~13~30~10 minecraft:log 1
+setblock ~13~33~10 minecraft:wool 14
+setblock ~13~35~10 minecraft:wool 14
+fill ~13~45~10 ~13~45~13 minecraft:glowstone
+fill ~13~51~10 ~13~51~13 minecraft:glowstone
+setblock ~14~10~10 minecraft:leaves 1
+setblock ~14~11~10 minecraft:wool 4
+setblock ~14~15~10 minecraft:wool 11
+setblock ~14~19~10 minecraft:wool 5
+fill ~14~23~10 ~14~23~11 minecraft:log 1
+setblock ~14~27~10 minecraft:glowstone
+setblock ~14~30~10 minecraft:leaves 1
+setblock ~14~31~10 minecraft:leaves 1
+fill ~14~34~10 ~14~35~10 minecraft:leaves 1
+fill ~15~11~10 ~16~11~10 minecraft:wool 5
+setblock ~15~15~10 minecraft:leaves 1
+setblock ~15~19~10 minecraft:glowstone
+setblock ~15~23~10 minecraft:wool 5
+setblock ~15~30~10 minecraft:wool 14
+fill ~15~35~10 ~15~35~11 minecraft:leaves 1
+fill ~16~0~10 ~17~0~18 minecraft:cobblestone
+setblock ~16~9~10 minecraft:leaves 1
+setblock ~16~19~10 minecraft:wool 4
+fill ~16~20~10 ~16~20~18 minecraft:log 1
+setblock ~16~22~10 minecraft:leaves 1
+setblock ~16~23~10 minecraft:glowstone
+setblock ~16~26~10 minecraft:leaves 1
+setblock ~16~27~10 minecraft:leaves 1
+setblock ~17~9~10 minecraft:log 1
+setblock ~17~10~10 minecraft:leaves 1
+setblock ~17~11~10 minecraft:wool 14
+setblock ~17~14~10 minecraft:leaves 1
+setblock ~17~15~10 minecraft:wool 1
+setblock ~17~17~10 minecraft:log 1
+setblock ~17~18~10 minecraft:wool 1
+setblock ~17~20~10 minecraft:leaves 1
+setblock ~17~22~10 minecraft:log 1
+setblock ~17~23~10 minecraft:wool 11
+setblock ~17~26~10 minecraft:log 1
+setblock ~17~30~10 minecraft:wool 14
+setblock ~17~32~10 minecraft:wool 14
+fill ~18~1~10 ~18~1~11 minecraft:cobblestone
+setblock ~18~8~10 minecraft:glowstone
+setblock ~18~9~10 minecraft:leaves 1
+fill ~18~11~10 ~18~11~14 minecraft:leaves 1
+setblock ~18~15~10 minecraft:wool 5
+setblock ~18~16~10 minecraft:leaves 1
+setblock ~18~18~10 minecraft:wool 5
+setblock ~18~22~10 minecraft:leaves 1
+setblock ~18~26~10 minecraft:leaves 1
+setblock ~18~27~10 minecraft:wool 4
+fill ~18~29~10 ~18~29~12 minecraft:leaves 1
+fill ~19~2~10 ~19~2~11 minecraft:cobblestone
+fill ~19~8~10 ~20~8~10 minecraft:wool 5
+setblock ~19~11~10 minecraft:wool 14
+fill ~19~12~10 ~19~12~18 minecraft:log 1
+fill ~19~13~10 ~19~13~18 minecraft:leaves 1
+setblock ~19~15~10 minecraft:leaves 1
+fill ~19~18~10 ~19~19~10 minecraft:wool 4
+fill ~19~23~10 ~19~23~11 minecraft:leaves 1
+fill ~19~25~10 ~19~25~13 minecraft:leaves 1
+fill ~20~3~10 ~20~3~11 minecraft:cobblestone
+setblock ~20~11~10 minecraft:glowstone
+fill ~20~12~10 ~20~12~11 minecraft:leaves 1
+setblock ~20~16~10 minecraft:glowstone
+fill ~20~17~10 ~20~17~18 minecraft:leaves 1
+fill ~20~21~10 ~20~21~18 minecraft:leaves 1
+fill ~21~8~10 ~21~8~15 minecraft:leaves 1
+setblock ~21~15~10 minecraft:leaves 1
+setblock ~3~8~11 minecraft:glowstone
+fill ~4~8~11 ~4~8~13 minecraft:leaves 1
+setblock ~4~15~11 minecraft:leaves 1
+fill ~5~8~11 ~5~8~12 minecraft:glowstone
+setblock ~5~11~11 minecraft:wool 11
+setblock ~5~15~11 minecraft:wool 14
+fill ~5~17~11 ~5~17~17 minecraft:leaves 1
+setblock ~6~11~11 minecraft:wool 5
+setblock ~6~15~11 minecraft:wool 1
+setblock ~6~17~11 minecraft:wool 14
+fill ~6~19~11 ~6~19~14 minecraft:wool 14
+setblock ~7~8~11 minecraft:wool 5
+fill ~7~11~11 ~8~11~11 minecraft:leaves 1
+setblock ~7~15~11 minecraft:wool 14
+fill ~7~16~11 ~7~16~17 minecraft:leaves 1
+fill ~7~23~11 ~9~23~11 minecraft:leaves 1
+fill ~8~8~11 ~8~8~15 minecraft:leaves 1
+setblock ~8~14~11 minecraft:leaves 1
+setblock ~8~20~11 minecraft:leaves 1
+fill ~8~27~11 ~8~27~12 minecraft:leaves 1
+setblock ~9~8~11 minecraft:wool 4
+setblock ~9~9~11 minecraft:leaves 1
+setblock ~9~11~11 minecraft:wool 11
+setblock ~9~15~11 minecraft:wool 4
+fill ~9~18~11 ~9~19~11 minecraft:wool 11
+fill ~9~20~11 ~9~20~17 minecraft:log 1
+setblock ~9~22~11 minecraft:leaves 1
+setblock ~9~26~11 minecraft:leaves 1
+setblock ~9~28~11 minecraft:glowstone
+setblock ~9~31~11 minecraft:wool 1
+fill ~9~33~11 ~9~33~17 minecraft:leaves 1
+fill ~9~34~11 ~11~34~11 minecraft:wool 14
+setblock ~9~36~11 minecraft:wool 14
+setblock ~10~8~11 minecraft:glowstone
+setblock ~10~9~11 minecraft:log 1
+fill ~10~10~11 ~11~10~11 minecraft:leaves 1
+setblock ~10~14~11 minecraft:log 1
+fill ~10~15~11 ~11~15~11 minecraft:leaves 1
+setblock ~10~17~11 minecraft:log 1
+fill ~10~18~11 ~10~18~12 minecraft:leaves 1
+setblock ~10~19~11 minecraft:glowstone
+setblock ~10~22~11 minecraft:log 1
+setblock ~10~23~11 minecraft:wool 5
+setblock ~10~26~11 minecraft:log 1
+fill ~10~27~11 ~10~27~12 minecraft:leaves 1
+fill ~10~30~11 ~11~30~11 minecraft:leaves 1
+setblock ~11~8~11 minecraft:leaves 1
+setblock ~11~9~11 minecraft:leaves 1
+setblock ~11~11~11 minecraft:wool 5
+setblock ~11~18~11 minecraft:wool 1
+setblock ~11~19~11 minecraft:wool 11
+fill ~11~21~11 ~11~22~11 minecraft:leaves 1
+setblock ~11~23~11 minecraft:glowstone
+fill ~11~24~11 ~11~26~11 minecraft:leaves 1
+setblock ~11~27~11 minecraft:wool 11
+fill ~11~28~11 ~11~29~11 minecraft:leaves 1
+setblock ~11~33~11 minecraft:leaves 1
+setblock ~11~36~11 minecraft:wool 14
+fill ~12~1~11 ~14~8~11 minecraft:log 1
+fill ~12~9~11 ~12~11~11 minecraft:log 1
+fill ~12~13~11 ~14~19~11 minecraft:log 1
+fill ~12~21~11 ~14~22~11 minecraft:log 1
+fill ~12~23~11 ~13~35~11 minecraft:log 1
+fill ~12~36~11 ~14~37~11 minecraft:leaves 1
+fill ~13~10~11 ~14~11~11 minecraft:log 1
+setblock ~13~46~11 minecraft:glowstone
+setblock ~13~50~11 minecraft:glowstone
+setblock ~14~9~11 minecraft:log 1
+fill ~14~24~11 ~14~35~11 minecraft:log 1
+fill ~15~8~11 ~19~8~11 minecraft:leaves 1
+fill ~15~9~11 ~15~10~11 minecraft:leaves 1
+setblock ~15~11~11 minecraft:glowstone
+setblock ~15~15~11 minecraft:wool 5
+setblock ~15~18~11 minecraft:wool 5
+fill ~15~19~11 ~16~19~11 minecraft:leaves 1
+setblock ~15~21~11 minecraft:leaves 1
+setblock ~15~23~11 minecraft:wool 1
+fill ~15~24~11 ~15~26~11 minecraft:leaves 1
+setblock ~15~27~11 minecraft:glowstone
+fill ~15~28~11 ~15~30~11 minecraft:leaves 1
+fill ~15~33~11 ~17~33~11 minecraft:leaves 1
+fill ~15~34~11 ~16~34~11 minecraft:leaves 1
+setblock ~16~9~11 minecraft:log 1
+fill ~16~10~11 ~16~10~12 minecraft:leaves 1
+setblock ~16~11~11 minecraft:wool 11
+setblock ~16~14~11 minecraft:log 1
+setblock ~16~17~11 minecraft:log 1
+setblock ~16~18~11 minecraft:glowstone
+setblock ~16~22~11 minecraft:log 1
+fill ~16~23~11 ~17~23~11 minecraft:wool 4
+setblock ~16~26~11 minecraft:log 1
+setblock ~16~27~11 minecraft:wool 4
+fill ~16~35~11 ~16~35~12 minecraft:leaves 1
+setblock ~17~9~11 minecraft:leaves 1
+fill ~17~11~11 ~17~11~14 minecraft:leaves 1
+fill ~17~15~11 ~18~15~11 minecraft:wool 4
+setblock ~17~18~11 minecraft:wool 4
+setblock ~17~19~11 minecraft:wool 11
+fill ~17~20~11 ~17~20~17 minecraft:log 1
+setblock ~17~22~11 minecraft:leaves 1
+setblock ~17~26~11 minecraft:leaves 1
+setblock ~18~14~11 minecraft:leaves 1
+setblock ~18~19~11 minecraft:glowstone
+setblock ~18~20~11 minecraft:leaves 1
+setblock ~18~23~11 minecraft:wool 1
+fill ~18~27~11 ~18~27~13 minecraft:leaves 1
+fill ~18~30~11 ~18~30~19 minecraft:wool 14
+fill ~18~31~11 ~19~31~14 minecraft:wool 14
+fill ~18~32~11 ~18~32~13 minecraft:wool 14
+setblock ~19~11~11 minecraft:leaves 1
+setblock ~19~15~11 minecraft:glowstone
+fill ~19~16~11 ~19~16~17 minecraft:leaves 1
+setblock ~19~19~11 minecraft:wool 1
+setblock ~20~8~11 minecraft:wool 4
+setblock ~20~11~11 minecraft:wool 1
+setblock ~20~15~11 minecraft:wool 1
+setblock ~20~19~11 minecraft:leaves 1
+setblock ~21~11~11 minecraft:wool 14
+fill ~21~17~11 ~21~17~17 minecraft:leaves 1
+setblock ~22~8~11 minecraft:leaves 1
+setblock ~22~11~11 minecraft:wool 4
+fill ~3~8~12 ~3~8~13 minecraft:leaves 1
+setblock ~3~11~12 minecraft:glowstone
+fill ~4~19~12 ~5~19~14 minecraft:wool 14
+fill ~5~3~12 ~5~3~16 minecraft:cobblestone
+setblock ~5~11~12 minecraft:glowstone
+fill ~5~12~12 ~5~12~16 minecraft:leaves 1
+setblock ~5~15~12 minecraft:glowstone
+fill ~5~18~12 ~5~18~14 minecraft:wool 14
+fill ~5~20~12 ~5~20~15 minecraft:wool 14
+setblock ~5~21~12 minecraft:leaves 1
+fill ~6~2~12 ~6~2~16 minecraft:cobblestone
+setblock ~6~8~12 minecraft:wool 11
+fill ~6~11~12 ~7~11~12 minecraft:leaves 1
+fill ~6~12~12 ~6~12~16 minecraft:log 1
+fill ~6~13~12 ~6~13~16 minecraft:leaves 1
+setblock ~6~15~12 minecraft:wool 11
+fill ~6~17~12 ~6~17~18 minecraft:leaves 1
+setblock ~6~23~12 minecraft:wool 11
+fill ~6~25~12 ~6~25~14 minecraft:leaves 1
+fill ~7~1~12 ~7~1~16 minecraft:cobblestone
+setblock ~7~8~12 minecraft:wool 4
+fill ~7~14~12 ~7~14~13 minecraft:leaves 1
+fill ~7~15~12 ~8~15~12 minecraft:wool 5
+setblock ~7~17~12 minecraft:wool 14
+fill ~7~20~12 ~7~20~15 minecraft:leaves 1
+fill ~7~29~12 ~7~29~16 minecraft:leaves 1
+fill ~8~0~12 ~8~0~16 minecraft:cobblestone
+setblock ~8~11~12 minecraft:wool 11
+fill ~8~19~12 ~9~19~14 minecraft:leaves 1
+fill ~8~20~12 ~8~20~16 minecraft:log 1
+setblock ~8~23~12 minecraft:wool 5
+setblock ~8~31~12 minecraft:wool 11
+fill ~8~33~12 ~8~33~16 minecraft:leaves 1
+fill ~9~8~12 ~9~8~13 minecraft:leaves 1
+setblock ~9~11~12 minecraft:glowstone
+setblock ~9~18~12 minecraft:glowstone
+fill ~9~23~12 ~10~23~12 minecraft:wool 4
+setblock ~9~27~12 minecraft:wool 4
+fill ~9~31~12 ~9~31~13 minecraft:leaves 1
+fill ~9~34~12 ~9~34~16 minecraft:leaves 1
+fill ~9~35~12 ~10~35~12 minecraft:wool 14
+setblock ~10~8~12 minecraft:wool 5
+fill ~10~9~12 ~10~10~12 minecraft:leaves 1
+setblock ~10~15~12 minecraft:wool 11
+setblock ~10~19~12 minecraft:wool 5
+setblock ~10~22~12 minecraft:leaves 1
+setblock ~10~24~12 minecraft:leaves 1
+setblock ~10~26~12 minecraft:leaves 1
+setblock ~10~28~12 minecraft:leaves 1
+setblock ~10~30~12 minecraft:leaves 1
+setblock ~10~31~12 minecraft:wool 5
+setblock ~10~34~12 minecraft:wool 14
+fill ~10~37~12 ~10~37~13 minecraft:wool 14
+fill ~11~1~12 ~11~35~12 minecraft:log 1
+fill ~11~36~12 ~12~37~12 minecraft:leaves 1
+fill ~12~35~12 ~12~35~14 minecraft:log 1
+fill ~12~38~12 ~14~39~12 minecraft:leaves 1
+setblock ~13~36~12 minecraft:glowstone
+fill ~13~37~12 ~15~37~13 minecraft:leaves 1
+fill ~13~46~12 ~13~46~13 minecraft:gold_block
+setblock ~13~47~12 minecraft:gold_block
+setblock ~13~48~12 minecraft:stained_hardened_clay 4
+fill ~13~49~12 ~13~50~12 minecraft:gold_block
+fill ~14~35~12 ~15~35~12 minecraft:log 1
+fill ~14~36~12 ~15~36~12 minecraft:leaves 1
+fill ~15~1~12 ~15~34~12 minecraft:log 1
+setblock ~16~8~12 minecraft:glowstone
+setblock ~16~9~12 minecraft:leaves 1
+setblock ~16~11~12 minecraft:leaves 1
+fill ~16~12~12 ~17~12~20 minecraft:log 1
+fill ~16~13~12 ~17~13~12 minecraft:leaves 1
+setblock ~16~18~12 minecraft:leaves 1
+setblock ~16~19~12 minecraft:wool 4
+setblock ~16~22~12 minecraft:leaves 1
+setblock ~16~23~12 minecraft:wool 4
+setblock ~16~24~12 minecraft:leaves 1
+setblock ~16~26~12 minecraft:leaves 1
+setblock ~16~27~12 minecraft:leaves 1
+setblock ~16~28~12 minecraft:leaves 1
+setblock ~16~30~12 minecraft:leaves 1
+setblock ~16~31~12 minecraft:leaves 1
+fill ~16~33~12 ~18~33~12 minecraft:leaves 1
+fill ~16~34~12 ~17~34~12 minecraft:leaves 1
+setblock ~17~8~12 minecraft:leaves 1
+fill ~17~15~12 ~17~15~13 minecraft:leaves 1
+setblock ~17~18~12 minecraft:wool 1
+setblock ~17~19~12 minecraft:leaves 1
+setblock ~17~23~12 minecraft:glowstone
+setblock ~17~27~12 minecraft:wool 1
+fill ~17~30~12 ~17~30~15 minecraft:wool 14
+fill ~17~31~12 ~17~31~14 minecraft:wool 14
+setblock ~17~32~12 minecraft:wool 14
+fill ~17~35~12 ~17~35~16 minecraft:leaves 1
+fill ~18~0~12 ~18~0~16 minecraft:cobblestone
+setblock ~18~8~12 minecraft:wool 4
+setblock ~18~15~12 minecraft:wool 1
+setblock ~18~18~12 minecraft:wool 11
+setblock ~18~19~12 minecraft:wool 1
+fill ~18~20~12 ~18~20~16 minecraft:log 1
+fill ~19~1~12 ~19~1~16 minecraft:cobblestone
+setblock ~19~8~12 minecraft:wool 5
+setblock ~19~11~12 minecraft:glowstone
+setblock ~19~14~12 minecraft:leaves 1
+fill ~19~15~12 ~19~15~13 minecraft:leaves 1
+setblock ~19~18~12 minecraft:leaves 1
+setblock ~19~19~12 minecraft:wool 11
+fill ~19~20~12 ~19~20~16 minecraft:leaves 1
+setblock ~19~23~12 minecraft:glowstone
+fill ~19~27~12 ~19~27~13 minecraft:leaves 1
+fill ~19~29~12 ~19~29~13 minecraft:leaves 1
+fill ~19~30~12 ~19~30~18 minecraft:wool 14
+setblock ~19~32~12 minecraft:wool 14
+fill ~20~2~12 ~20~2~16 minecraft:cobblestone
+fill ~20~8~12 ~20~8~14 minecraft:leaves 1
+setblock ~20~11~12 minecraft:wool 11
+fill ~20~12~12 ~20~12~16 minecraft:log 1
+fill ~20~13~12 ~20~13~16 minecraft:leaves 1
+setblock ~20~15~12 minecraft:glowstone
+setblock ~20~18~12 minecraft:wool 5
+fill ~20~19~12 ~21~19~12 minecraft:glowstone
+setblock ~20~23~12 minecraft:wool 11
+fill ~20~25~12 ~20~25~13 minecraft:leaves 1
+fill ~21~3~12 ~21~3~16 minecraft:cobblestone
+fill ~21~11~12 ~22~11~12 minecraft:wool 1
+fill ~21~12~12 ~21~12~16 minecraft:leaves 1
+fill ~21~15~12 ~22~15~12 minecraft:wool 11
+fill ~21~21~12 ~21~21~16 minecraft:leaves 1
+setblock ~22~8~12 minecraft:glowstone
+fill ~4~7~13 ~9~7~13 minecraft:log 1
+setblock ~4~11~13 minecraft:glowstone
+setblock ~4~18~13 minecraft:wool 14
+fill ~4~20~13 ~4~20~15 minecraft:wool 14
+fill ~5~8~13 ~6~8~13 minecraft:wool 4
+fill ~5~9~13 ~9~9~13 minecraft:leaves 1
+setblock ~5~11~13 minecraft:wool 4
+fill ~5~13~13 ~5~13~15 minecraft:leaves 1
+setblock ~5~15~13 minecraft:wool 14
+setblock ~5~16~13 minecraft:glowstone
+fill ~5~21~13 ~5~21~18 minecraft:wool 14
+fill ~6~11~13 ~6~11~17 minecraft:leaves 1
+setblock ~6~14~13 minecraft:leaves 1
+setblock ~6~15~13 minecraft:wool 4
+fill ~6~20~13 ~6~20~18 minecraft:wool 14
+fill ~6~22~13 ~9~22~13 minecraft:leaves 1
+fill ~6~23~13 ~7~23~14 minecraft:wool 5
+setblock ~7~8~13 minecraft:wool 11
+setblock ~7~11~13 minecraft:wool 11
+setblock ~7~15~13 minecraft:wool 1
+setblock ~7~17~13 minecraft:leaves 1
+fill ~7~18~13 ~7~19~13 minecraft:wool 11
+fill ~7~26~13 ~9~26~13 minecraft:leaves 1
+setblock ~7~27~13 minecraft:wool 1
+fill ~8~11~13 ~9~11~13 minecraft:leaves 1
+setblock ~8~15~13 minecraft:wool 11
+setblock ~8~18~13 minecraft:leaves 1
+fill ~8~23~13 ~9~23~13 minecraft:leaves 1
+setblock ~8~27~13 minecraft:wool 4
+setblock ~8~31~13 minecraft:wool 1
+fill ~9~10~13 ~9~10~15 minecraft:leaves 1
+fill ~9~13~13 ~9~13~20 minecraft:leaves 1
+setblock ~9~15~13 minecraft:glowstone
+setblock ~9~18~13 minecraft:wool 1
+fill ~9~21~13 ~9~21~21 minecraft:leaves 1
+fill ~9~24~13 ~9~25~15 minecraft:leaves 1
+setblock ~9~27~13 minecraft:leaves 1
+fill ~9~28~13 ~9~29~15 minecraft:leaves 1
+setblock ~9~30~13 minecraft:leaves 1
+fill ~9~35~13 ~9~35~16 minecraft:leaves 1
+fill ~10~1~13 ~10~11~15 minecraft:log 1
+fill ~10~13~13 ~10~19~15 minecraft:log 1
+fill ~10~21~13 ~10~35~15 minecraft:log 1
+fill ~10~36~13 ~11~36~13 minecraft:leaves 1
+fill ~10~38~13 ~10~38~14 minecraft:wool 14
+setblock ~11~35~13 minecraft:log 1
+fill ~11~37~13 ~12~37~16 minecraft:leaves 1
+fill ~11~38~13 ~12~39~13 minecraft:leaves 1
+fill ~12~36~13 ~12~36~14 minecraft:glowstone
+fill ~12~40~13 ~14~40~15 minecraft:leaves 1
+fill ~12~41~13 ~14~41~13 minecraft:leaves 1
+setblock ~13~38~13 minecraft:log 1
+fill ~13~39~13 ~15~39~13 minecraft:leaves 1
+fill ~13~42~13 ~13~44~13 minecraft:glowstone
+setblock ~13~47~13 minecraft:stained_hardened_clay 4
+setblock ~13~48~13 minecraft:wool 4
+setblock ~13~49~13 minecraft:stained_hardened_clay 4
+setblock ~13~50~13 minecraft:gold_block
+fill ~13~52~13 ~13~55~13 minecraft:glowstone
+fill ~14~36~13 ~14~36~15 minecraft:log 1
+fill ~14~38~13 ~15~38~13 minecraft:leaves 1
+fill ~15~35~13 ~16~35~13 minecraft:log 1
+fill ~15~36~13 ~16~36~13 minecraft:leaves 1
+fill ~16~1~13 ~16~11~15 minecraft:log 1
+fill ~16~13~13 ~16~19~15 minecraft:log 1
+fill ~16~21~13 ~16~34~15 minecraft:log 1
+fill ~16~37~13 ~16~37~15 minecraft:leaves 1
+fill ~17~7~13 ~22~7~13 minecraft:log 1
+fill ~17~8~13 ~18~8~13 minecraft:wool 11
+fill ~17~9~13 ~21~9~13 minecraft:leaves 1
+fill ~17~10~13 ~17~10~15 minecraft:leaves 1
+fill ~17~13~13 ~17~13~20 minecraft:leaves 1
+fill ~17~18~13 ~17~18~14 minecraft:leaves 1
+setblock ~17~19~13 minecraft:wool 4
+fill ~17~21~13 ~17~21~21 minecraft:leaves 1
+fill ~17~22~13 ~20~22~13 minecraft:leaves 1
+setblock ~17~23~13 minecraft:leaves 1
+fill ~17~24~13 ~17~25~15 minecraft:leaves 1
+fill ~17~26~13 ~19~26~13 minecraft:leaves 1
+setblock ~17~27~13 minecraft:log 1
+fill ~17~28~13 ~17~28~15 minecraft:leaves 1
+setblock ~17~29~13 minecraft:leaves 1
+fill ~17~33~13 ~18~33~16 minecraft:leaves 1
+fill ~17~34~13 ~17~34~16 minecraft:leaves 1
+setblock ~18~15~13 minecraft:log 1
+fill ~18~18~13 ~19~18~13 minecraft:wool 4
+fill ~18~19~13 ~19~19~13 minecraft:leaves 1
+fill ~18~23~13 ~18~23~14 minecraft:wool 1
+fill ~18~29~13 ~18~29~19 minecraft:wool 14
+setblock ~19~8~13 minecraft:wool 4
+fill ~19~11~13 ~19~11~14 minecraft:leaves 1
+fill ~19~23~13 ~19~23~14 minecraft:leaves 1
+setblock ~20~11~13 minecraft:wool 5
+setblock ~20~14~13 minecraft:leaves 1
+setblock ~20~15~13 minecraft:leaves 1
+setblock ~20~18~13 minecraft:leaves 1
+setblock ~20~19~13 minecraft:glowstone
+setblock ~20~23~13 minecraft:wool 5
+setblock ~21~11~13 minecraft:leaves 1
+fill ~21~13~13 ~21~13~15 minecraft:leaves 1
+fill ~21~15~13 ~22~15~13 minecraft:wool 1
+setblock ~21~19~13 minecraft:wool 11
+fill ~22~8~13 ~22~8~15 minecraft:leaves 1
+setblock ~22~11~13 minecraft:wool 1
+setblock ~23~8~13 minecraft:glowstone
+setblock ~3~8~14 minecraft:wool 11
+setblock ~3~11~14 minecraft:wool 11
+setblock ~4~8~14 minecraft:wool 1
+setblock ~4~9~14 minecraft:leaves 1
+setblock ~4~11~14 minecraft:wool 1
+setblock ~4~15~14 minecraft:wool 5
+setblock ~4~21~14 minecraft:wool 14
+fill ~5~8~14 ~5~8~15 minecraft:leaves 1
+fill ~5~9~14 ~9~9~14 minecraft:log 1
+fill ~5~10~14 ~8~10~14 minecraft:leaves 1
+setblock ~5~11~14 minecraft:wool 11
+fill ~5~14~14 ~9~14~14 minecraft:log 1
+fill ~5~15~14 ~6~15~14 minecraft:leaves 1
+setblock ~5~22~14 minecraft:leaves 1
+setblock ~6~8~14 minecraft:glowstone
+setblock ~6~21~14 minecraft:wool 14
+fill ~6~22~14 ~9~22~14 minecraft:log 1
+setblock ~6~26~14 minecraft:leaves 1
+setblock ~7~8~14 minecraft:wool 5
+fill ~7~11~14 ~8~11~14 minecraft:leaves 1
+setblock ~7~15~14 minecraft:wool 4
+fill ~7~17~14 ~9~17~14 minecraft:log 1
+fill ~7~18~14 ~7~19~14 minecraft:leaves 1
+fill ~7~26~14 ~9~26~14 minecraft:log 1
+fill ~7~27~14 ~8~27~14 minecraft:leaves 1
+setblock ~8~15~14 minecraft:wool 1
+setblock ~8~18~14 minecraft:wool 1
+fill ~8~23~14 ~9~23~14 minecraft:glowstone
+setblock ~8~30~14 minecraft:leaves 1
+setblock ~8~31~14 minecraft:leaves 1
+setblock ~9~8~14 minecraft:wool 11
+setblock ~9~11~14 minecraft:glowstone
+setblock ~9~15~14 minecraft:leaves 1
+setblock ~9~18~14 minecraft:leaves 1
+setblock ~9~27~14 minecraft:wool 4
+setblock ~9~30~14 minecraft:log 1
+setblock ~9~31~14 minecraft:wool 1
+fill ~10~36~14 ~10~37~15 minecraft:leaves 1
+setblock ~10~39~14 minecraft:wool 14
+setblock ~11~7~14 minecraft:glowstone
+setblock ~11~15~14 minecraft:glowstone
+setblock ~11~21~14 minecraft:glowstone
+setblock ~11~29~14 minecraft:glowstone
+setblock ~11~36~14 minecraft:log 1
+fill ~11~38~14 ~11~39~14 minecraft:leaves 1
+setblock ~12~38~14 minecraft:log 1
+fill ~12~39~14 ~13~39~15 minecraft:leaves 1
+fill ~12~41~14 ~12~41~15 minecraft:leaves 1
+fill ~12~42~14 ~12~43~14 minecraft:leaves 1
+setblock ~13~36~14 minecraft:glowstone
+fill ~13~37~14 ~13~37~17 minecraft:leaves 1
+setblock ~13~38~14 minecraft:log 1
+fill ~13~41~14 ~13~45~14 minecraft:gold_block
+setblock ~13~46~14 minecraft:stained_hardened_clay 4
+setblock ~13~47~14 minecraft:wool 4
+setblock ~13~48~14 minecraft:redstone_block
+setblock ~13~49~14 minecraft:wool 4
+setblock ~13~50~14 minecraft:stained_hardened_clay 4
+fill ~13~51~14 ~13~54~14 minecraft:gold_block
+fill ~13~55~14 ~13~55~15 minecraft:glowstone
+fill ~13~56~14 ~13~57~14 minecraft:glowstone
+fill ~14~35~14 ~14~35~17 minecraft:log 1
+fill ~14~37~14 ~14~39~14 minecraft:log 1
+fill ~14~41~14 ~14~43~14 minecraft:leaves 1
+setblock ~15~18~14 minecraft:glowstone
+setblock ~15~28~14 minecraft:glowstone
+setblock ~15~36~14 minecraft:log 1
+fill ~15~37~14 ~15~37~16 minecraft:leaves 1
+fill ~15~38~14 ~15~39~15 minecraft:leaves 1
+fill ~16~35~14 ~16~35~15 minecraft:log 1
+fill ~16~36~14 ~16~36~15 minecraft:leaves 1
+fill ~17~8~14 ~17~8~15 minecraft:wool 11
+fill ~17~9~14 ~21~9~14 minecraft:log 1
+fill ~17~14~14 ~21~14~14 minecraft:log 1
+setblock ~17~15~14 minecraft:wool 5
+fill ~17~17~14 ~19~17~14 minecraft:log 1
+fill ~17~19~14 ~18~19~14 minecraft:leaves 1
+fill ~17~22~14 ~20~22~14 minecraft:log 1
+setblock ~17~23~14 minecraft:wool 11
+fill ~17~26~14 ~19~26~14 minecraft:log 1
+fill ~17~27~14 ~17~27~15 minecraft:leaves 1
+setblock ~17~29~14 minecraft:wool 14
+setblock ~18~8~14 minecraft:leaves 1
+fill ~18~10~14 ~21~10~14 minecraft:leaves 1
+fill ~18~15~14 ~18~15~15 minecraft:leaves 1
+setblock ~18~18~14 minecraft:wool 5
+fill ~18~25~14 ~20~25~16 minecraft:leaves 1
+setblock ~18~27~14 minecraft:log 1
+setblock ~19~8~14 minecraft:glowstone
+setblock ~19~15~14 minecraft:glowstone
+fill ~19~18~14 ~19~18~15 minecraft:leaves 1
+setblock ~19~19~14 minecraft:wool 4
+fill ~19~27~14 ~19~27~15 minecraft:glowstone
+fill ~19~29~14 ~19~29~19 minecraft:wool 14
+fill ~20~11~14 ~20~11~15 minecraft:leaves 1
+setblock ~20~15~14 minecraft:wool 1
+setblock ~20~18~14 minecraft:wool 5
+setblock ~20~23~14 minecraft:wool 11
+setblock ~20~26~14 minecraft:leaves 1
+setblock ~21~11~14 minecraft:wool 1
+setblock ~21~15~14 minecraft:glowstone
+setblock ~21~19~14 minecraft:glowstone
+setblock ~21~22~14 minecraft:leaves 1
+setblock ~22~9~14 minecraft:leaves 1
+fill ~22~11~14 ~22~12~14 minecraft:glowstone
+setblock ~23~8~14 minecraft:wool 1
+setblock ~23~11~14 minecraft:wool 1
+setblock ~3~8~15 minecraft:wool 4
+setblock ~3~11~15 minecraft:glowstone
+fill ~4~7~15 ~9~7~15 minecraft:log 1
+setblock ~4~8~15 minecraft:glowstone
+fill ~4~11~15 ~5~11~15 minecraft:leaves 1
+setblock ~4~15~15 minecraft:wool 4
+fill ~5~9~15 ~9~9~15 minecraft:leaves 1
+setblock ~5~15~15 minecraft:wool 14
+fill ~5~19~15 ~5~19~16 minecraft:wool 14
+setblock ~6~8~15 minecraft:wool 4
+setblock ~6~14~15 minecraft:leaves 1
+setblock ~6~15~15 minecraft:log 1
+setblock ~6~18~15 minecraft:leaves 1
+setblock ~6~19~15 minecraft:wool 11
+fill ~6~21~15 ~6~22~15 minecraft:leaves 1
+setblock ~6~23~15 minecraft:wool 14
+fill ~6~25~15 ~8~25~16 minecraft:leaves 1
+setblock ~7~8~15 minecraft:wool 1
+setblock ~7~11~15 minecraft:glowstone
+fill ~7~15~15 ~7~15~16 minecraft:leaves 1
+fill ~7~17~15 ~7~17~19 minecraft:leaves 1
+setblock ~7~18~15 minecraft:wool 1
+setblock ~7~19~15 minecraft:log 1
+fill ~7~22~15 ~9~22~15 minecraft:leaves 1
+fill ~7~23~15 ~7~23~16 minecraft:leaves 1
+fill ~7~26~15 ~9~26~15 minecraft:leaves 1
+setblock ~7~27~15 minecraft:wool 5
+setblock ~8~11~15 minecraft:wool 11
+fill ~8~15~15 ~9~15~15 minecraft:wool 11
+setblock ~8~19~15 minecraft:glowstone
+fill ~8~23~15 ~8~23~16 minecraft:wool 5
+setblock ~8~27~15 minecraft:wool 1
+setblock ~8~31~15 minecraft:wool 1
+setblock ~9~8~15 minecraft:wool 5
+fill ~9~11~15 ~9~11~16 minecraft:leaves 1
+setblock ~9~18~15 minecraft:wool 5
+setblock ~9~19~15 minecraft:wool 4
+setblock ~9~23~15 minecraft:wool 11
+fill ~9~27~15 ~9~27~16 minecraft:wool 11
+setblock ~9~30~15 minecraft:leaves 1
+setblock ~9~31~15 minecraft:wool 5
+fill ~11~35~15 ~11~35~16 minecraft:log 1
+fill ~11~36~15 ~11~36~16 minecraft:leaves 1
+fill ~11~38~15 ~11~39~15 minecraft:wool 14
+fill ~12~36~15 ~13~36~15 minecraft:log 1
+setblock ~13~38~15 minecraft:log 1
+setblock ~13~41~15 minecraft:leaves 1
+fill ~13~43~15 ~13~45~15 minecraft:glowstone
+fill ~13~46~15 ~13~46~16 minecraft:gold_block
+setblock ~13~47~15 minecraft:stained_hardened_clay 4
+setblock ~13~48~15 minecraft:wool 4
+setblock ~13~49~15 minecraft:stained_hardened_clay 4
+fill ~13~50~15 ~13~50~16 minecraft:gold_block
+fill ~13~51~15 ~13~51~18 minecraft:glowstone
+fill ~13~52~15 ~13~54~15 minecraft:glowstone
+fill ~14~37~15 ~14~37~17 minecraft:leaves 1
+fill ~14~38~15 ~14~39~16 minecraft:leaves 1
+fill ~14~41~15 ~14~41~16 minecraft:wool 14
+setblock ~14~42~15 minecraft:wool 14
+fill ~15~35~15 ~15~35~16 minecraft:log 1
+fill ~15~36~15 ~15~36~16 minecraft:leaves 1
+fill ~17~7~15 ~22~7~15 minecraft:log 1
+fill ~17~9~15 ~21~9~15 minecraft:leaves 1
+fill ~17~11~15 ~18~11~15 minecraft:wool 11
+setblock ~17~15~15 minecraft:leaves 1
+setblock ~17~18~15 minecraft:wool 5
+setblock ~17~19~15 minecraft:wool 11
+fill ~17~22~15 ~20~22~15 minecraft:leaves 1
+setblock ~17~23~15 minecraft:wool 4
+fill ~17~26~15 ~19~26~15 minecraft:leaves 1
+fill ~17~29~15 ~17~29~16 minecraft:leaves 1
+setblock ~18~8~15 minecraft:wool 5
+fill ~18~18~15 ~18~19~15 minecraft:wool 1
+setblock ~18~23~15 minecraft:leaves 1
+setblock ~18~27~15 minecraft:wool 4
+fill ~18~31~15 ~18~31~16 minecraft:wool 14
+setblock ~19~8~15 minecraft:leaves 1
+setblock ~19~11~15 minecraft:wool 1
+setblock ~19~15~15 minecraft:wool 5
+fill ~19~17~15 ~19~17~19 minecraft:leaves 1
+setblock ~19~19~15 minecraft:wool 5
+setblock ~19~23~15 minecraft:wool 5
+fill ~19~28~15 ~19~28~18 minecraft:wool 14
+setblock ~20~8~15 minecraft:wool 1
+setblock ~20~14~15 minecraft:leaves 1
+fill ~20~15~15 ~20~15~16 minecraft:wool 11
+setblock ~20~18~15 minecraft:wool 1
+setblock ~20~19~15 minecraft:wool 4
+setblock ~20~23~15 minecraft:leaves 1
+fill ~20~29~15 ~20~29~17 minecraft:wool 14
+fill ~21~11~15 ~22~11~16 minecraft:leaves 1
+setblock ~23~8~15 minecraft:leaves 1
+setblock ~23~11~15 minecraft:wool 4
+setblock ~4~8~16 minecraft:wool 4
+setblock ~4~11~16 minecraft:wool 5
+setblock ~4~15~16 minecraft:glowstone
+setblock ~5~8~16 minecraft:wool 5
+setblock ~5~11~16 minecraft:leaves 1
+setblock ~5~15~16 minecraft:wool 5
+setblock ~6~8~16 minecraft:glowstone
+setblock ~6~15~16 minecraft:leaves 1
+setblock ~6~18~16 minecraft:glowstone
+fill ~6~19~16 ~8~19~18 minecraft:wool 14
+fill ~6~21~16 ~7~21~19 minecraft:wool 14
+fill ~6~22~16 ~6~22~20 minecraft:wool 14
+setblock ~6~23~16 minecraft:glowstone
+setblock ~7~11~16 minecraft:wool 1
+setblock ~7~14~16 minecraft:leaves 1
+fill ~7~18~16 ~7~18~18 minecraft:wool 14
+fill ~7~20~16 ~7~20~18 minecraft:wool 14
+setblock ~7~27~16 minecraft:wool 11
+setblock ~8~8~16 minecraft:wool 11
+setblock ~8~11~16 minecraft:leaves 1
+setblock ~8~15~16 minecraft:wool 4
+setblock ~8~18~16 minecraft:glowstone
+fill ~8~21~16 ~8~21~18 minecraft:leaves 1
+setblock ~8~27~16 minecraft:glowstone
+setblock ~8~31~16 minecraft:leaves 1
+setblock ~9~15~16 minecraft:wool 1
+fill ~9~18~16 ~10~18~16 minecraft:wool 11
+setblock ~9~19~16 minecraft:glowstone
+setblock ~9~23~16 minecraft:wool 4
+fill ~9~25~16 ~10~25~18 minecraft:leaves 1
+fill ~9~29~16 ~10~29~19 minecraft:leaves 1
+setblock ~9~31~16 minecraft:log 1
+setblock ~10~8~16 minecraft:wool 4
+fill ~10~9~16 ~10~10~16 minecraft:leaves 1
+setblock ~10~11~16 minecraft:leaves 1
+fill ~10~13~16 ~10~13~20 minecraft:leaves 1
+setblock ~10~15~16 minecraft:glowstone
+setblock ~10~19~16 minecraft:leaves 1
+fill ~10~21~16 ~10~21~21 minecraft:leaves 1
+setblock ~10~22~16 minecraft:leaves 1
+setblock ~10~23~16 minecraft:wool 5
+setblock ~10~24~16 minecraft:leaves 1
+setblock ~10~26~16 minecraft:leaves 1
+setblock ~10~27~16 minecraft:wool 5
+setblock ~10~28~16 minecraft:leaves 1
+fill ~10~30~16 ~10~30~17 minecraft:leaves 1
+fill ~10~31~16 ~10~31~17 minecraft:wool 11
+fill ~10~33~16 ~10~33~18 minecraft:leaves 1
+fill ~10~34~16 ~10~35~17 minecraft:leaves 1
+fill ~11~1~16 ~11~34~16 minecraft:log 1
+fill ~12~35~16 ~12~35~17 minecraft:log 1
+fill ~12~36~16 ~12~36~17 minecraft:leaves 1
+fill ~12~38~16 ~13~38~16 minecraft:leaves 1
+fill ~12~39~16 ~12~40~16 minecraft:wool 14
+setblock ~13~36~16 minecraft:log 1
+setblock ~13~39~16 minecraft:leaves 1
+fill ~13~40~16 ~14~40~16 minecraft:wool 14
+setblock ~13~41~16 minecraft:wool 14
+fill ~13~45~16 ~13~45~18 minecraft:glowstone
+setblock ~13~47~16 minecraft:gold_block
+setblock ~13~48~16 minecraft:stained_hardened_clay 4
+setblock ~13~49~16 minecraft:gold_block
+fill ~14~36~16 ~14~36~17 minecraft:leaves 1
+fill ~15~1~16 ~15~34~16 minecraft:log 1
+fill ~16~8~16 ~16~8~17 minecraft:wool 1
+fill ~16~9~16 ~16~10~16 minecraft:leaves 1
+fill ~16~11~16 ~17~11~16 minecraft:wool 4
+fill ~16~13~16 ~16~13~20 minecraft:leaves 1
+fill ~16~18~16 ~18~18~16 minecraft:leaves 1
+setblock ~16~19~16 minecraft:wool 11
+fill ~16~21~16 ~16~21~21 minecraft:leaves 1
+setblock ~16~22~16 minecraft:leaves 1
+fill ~16~23~16 ~16~23~17 minecraft:leaves 1
+fill ~16~24~16 ~16~26~16 minecraft:leaves 1
+fill ~16~27~16 ~16~27~17 minecraft:wool 5
+fill ~16~28~16 ~16~30~16 minecraft:leaves 1
+setblock ~16~31~16 minecraft:wool 11
+fill ~16~33~16 ~16~33~18 minecraft:leaves 1
+fill ~16~34~16 ~16~35~17 minecraft:leaves 1
+fill ~17~8~16 ~18~8~17 minecraft:leaves 1
+setblock ~17~15~16 minecraft:wool 5
+setblock ~17~19~16 minecraft:wool 4
+setblock ~17~23~16 minecraft:wool 5
+setblock ~17~24~16 minecraft:glowstone
+fill ~17~25~16 ~17~25~20 minecraft:leaves 1
+setblock ~17~27~16 minecraft:wool 11
+setblock ~17~31~16 minecraft:wool 4
+setblock ~18~11~16 minecraft:wool 1
+setblock ~18~15~16 minecraft:wool 1
+setblock ~18~19~16 minecraft:glowstone
+setblock ~18~23~16 minecraft:wool 4
+fill ~18~28~16 ~18~28~19 minecraft:wool 14
+setblock ~19~8~16 minecraft:wool 11
+setblock ~19~11~16 minecraft:leaves 1
+setblock ~19~14~16 minecraft:leaves 1
+fill ~19~15~16 ~19~15~17 minecraft:leaves 1
+setblock ~19~18~16 minecraft:wool 11
+setblock ~19~19~16 minecraft:leaves 1
+fill ~19~23~16 ~19~23~17 minecraft:glowstone
+setblock ~19~27~16 minecraft:wool 11
+setblock ~20~8~16 minecraft:glowstone
+fill ~20~11~16 ~20~11~17 minecraft:wool 1
+setblock ~20~18~16 minecraft:leaves 1
+fill ~20~19~16 ~21~19~16 minecraft:wool 11
+setblock ~20~23~16 minecraft:wool 4
+setblock ~20~28~16 minecraft:wool 14
+setblock ~20~30~16 minecraft:wool 14
+setblock ~21~8~16 minecraft:wool 1
+fill ~21~15~16 ~22~15~16 minecraft:wool 1
+setblock ~21~18~16 minecraft:glowstone
+setblock ~22~8~16 minecraft:wool 4
+setblock ~23~8~16 minecraft:glowstone
+setblock ~23~11~16 minecraft:wool 1
+setblock ~3~8~17 minecraft:glowstone
+setblock ~3~11~17 minecraft:wool 1
+setblock ~5~11~17 minecraft:wool 1
+setblock ~5~20~17 minecraft:wool 14
+setblock ~5~22~17 minecraft:wool 14
+fill ~6~3~17 ~6~3~18 minecraft:cobblestone
+setblock ~6~8~17 minecraft:wool 1
+fill ~6~12~17 ~6~12~18 minecraft:leaves 1
+setblock ~6~15~17 minecraft:wool 4
+setblock ~6~18~17 minecraft:wool 14
+fill ~7~2~17 ~7~2~18 minecraft:cobblestone
+fill ~7~8~17 ~8~8~17 minecraft:leaves 1
+setblock ~7~11~17 minecraft:glowstone
+fill ~7~15~17 ~9~15~17 minecraft:wool 11
+fill ~7~22~17 ~7~23~20 minecraft:wool 14
+fill ~7~25~17 ~8~25~18 minecraft:leaves 1
+fill ~8~1~17 ~8~1~18 minecraft:cobblestone
+fill ~8~11~17 ~10~11~17 minecraft:wool 4
+setblock ~8~14~17 minecraft:leaves 1
+setblock ~8~18~17 minecraft:wool 14
+setblock ~8~20~17 minecraft:wool 14
+setblock ~8~23~17 minecraft:wool 11
+setblock ~8~26~17 minecraft:glowstone
+fill ~8~27~17 ~9~27~17 minecraft:leaves 1
+setblock ~9~8~17 minecraft:wool 4
+setblock ~9~9~17 minecraft:leaves 1
+setblock ~9~18~17 minecraft:wool 5
+setblock ~9~19~17 minecraft:leaves 1
+setblock ~9~22~17 minecraft:leaves 1
+setblock ~9~23~17 minecraft:wool 14
+setblock ~9~26~17 minecraft:leaves 1
+setblock ~9~31~17 minecraft:leaves 1
+fill ~10~8~17 ~10~8~18 minecraft:glowstone
+setblock ~10~9~17 minecraft:log 1
+fill ~10~10~17 ~11~10~17 minecraft:leaves 1
+setblock ~10~14~17 minecraft:log 1
+fill ~10~15~17 ~10~15~18 minecraft:wool 5
+fill ~10~17~17 ~10~17~19 minecraft:log 1
+fill ~10~18~17 ~11~18~18 minecraft:leaves 1
+setblock ~10~19~17 minecraft:wool 11
+setblock ~10~22~17 minecraft:log 1
+setblock ~10~23~17 minecraft:leaves 1
+setblock ~10~26~17 minecraft:log 1
+fill ~10~27~17 ~10~27~18 minecraft:wool 11
+setblock ~11~8~17 minecraft:wool 11
+setblock ~11~9~17 minecraft:leaves 1
+setblock ~11~11~17 minecraft:wool 11
+fill ~11~12~17 ~15~12~21 minecraft:log 1
+fill ~11~13~17 ~11~13~21 minecraft:leaves 1
+setblock ~11~15~17 minecraft:leaves 1
+fill ~11~19~17 ~11~19~21 minecraft:leaves 1
+fill ~11~20~17 ~15~20~19 minecraft:log 1
+fill ~11~21~17 ~11~21~22 minecraft:leaves 1
+setblock ~11~22~17 minecraft:leaves 1
+setblock ~11~23~17 minecraft:wool 4
+fill ~11~24~17 ~11~26~17 minecraft:leaves 1
+setblock ~11~27~17 minecraft:wool 14
+fill ~11~28~17 ~11~30~17 minecraft:leaves 1
+fill ~11~31~17 ~11~31~18 minecraft:wool 1
+fill ~11~33~17 ~11~33~19 minecraft:leaves 1
+fill ~11~34~17 ~11~35~18 minecraft:leaves 1
+fill ~12~1~17 ~14~11~17 minecraft:log 1
+fill ~12~13~17 ~14~19~17 minecraft:log 1
+fill ~12~21~17 ~14~34~17 minecraft:log 1
+setblock ~12~37~17 minecraft:leaves 1
+setblock ~13~35~17 minecraft:log 1
+setblock ~13~36~17 minecraft:leaves 1
+fill ~13~44~17 ~13~44~19 minecraft:glowstone
+fill ~13~46~17 ~13~47~17 minecraft:glowstone
+fill ~13~48~17 ~13~48~20 minecraft:gold_block
+fill ~13~49~17 ~13~49~21 minecraft:glowstone
+setblock ~13~50~17 minecraft:glowstone
+fill ~13~52~17 ~13~52~19 minecraft:glowstone
+setblock ~15~8~17 minecraft:glowstone
+fill ~15~9~17 ~15~10~17 minecraft:leaves 1
+fill ~15~11~17 ~18~11~17 minecraft:leaves 1
+fill ~15~13~17 ~15~13~21 minecraft:leaves 1
+setblock ~15~15~17 minecraft:glowstone
+fill ~15~18~17 ~16~18~17 minecraft:wool 5
+setblock ~15~19~17 minecraft:wool 5
+fill ~15~21~17 ~15~21~22 minecraft:leaves 1
+setblock ~15~22~17 minecraft:leaves 1
+setblock ~15~23~17 minecraft:leaves 1
+fill ~15~24~17 ~15~26~17 minecraft:leaves 1
+setblock ~15~27~17 minecraft:wool 5
+fill ~15~28~17 ~15~30~17 minecraft:leaves 1
+setblock ~15~31~17 minecraft:wool 11
+fill ~15~33~17 ~15~33~19 minecraft:leaves 1
+fill ~15~34~17 ~15~35~18 minecraft:leaves 1
+setblock ~16~9~17 minecraft:log 1
+setblock ~16~10~17 minecraft:leaves 1
+setblock ~16~14~17 minecraft:log 1
+setblock ~16~15~17 minecraft:wool 11
+setblock ~16~17~17 minecraft:log 1
+setblock ~16~19~17 minecraft:leaves 1
+setblock ~16~22~17 minecraft:log 1
+fill ~16~25~17 ~16~25~18 minecraft:leaves 1
+setblock ~16~26~17 minecraft:log 1
+fill ~16~29~17 ~16~29~19 minecraft:leaves 1
+setblock ~16~30~17 minecraft:leaves 1
+setblock ~16~31~17 minecraft:wool 14
+setblock ~17~9~17 minecraft:leaves 1
+fill ~17~15~17 ~17~15~18 minecraft:wool 1
+fill ~17~18~17 ~18~18~17 minecraft:leaves 1
+setblock ~17~19~17 minecraft:wool 1
+setblock ~17~22~17 minecraft:leaves 1
+setblock ~17~23~17 minecraft:wool 1
+setblock ~17~26~17 minecraft:leaves 1
+setblock ~17~27~17 minecraft:wool 1
+fill ~17~29~17 ~17~29~19 minecraft:wool 14
+setblock ~17~31~17 minecraft:wool 11
+setblock ~17~33~17 minecraft:leaves 1
+fill ~18~1~17 ~18~1~18 minecraft:cobblestone
+setblock ~18~14~17 minecraft:leaves 1
+setblock ~18~15~17 minecraft:glowstone
+fill ~18~19~17 ~18~20~17 minecraft:leaves 1
+fill ~18~25~17 ~19~25~18 minecraft:leaves 1
+fill ~19~2~17 ~19~2~18 minecraft:cobblestone
+fill ~19~8~17 ~19~8~20 minecraft:leaves 1
+setblock ~19~11~17 minecraft:wool 11
+setblock ~19~18~17 minecraft:leaves 1
+setblock ~19~19~17 minecraft:glowstone
+fill ~20~3~17 ~20~3~18 minecraft:cobblestone
+setblock ~20~8~17 minecraft:wool 5
+fill ~20~12~17 ~20~12~18 minecraft:leaves 1
+setblock ~20~19~17 minecraft:leaves 1
+setblock ~21~8~17 minecraft:wool 11
+setblock ~21~11~17 minecraft:leaves 1
+setblock ~22~11~17 minecraft:wool 1
+setblock ~23~11~17 minecraft:leaves 1
+fill ~4~8~18 ~5~8~18 minecraft:glowstone
+fill ~4~11~18 ~4~11~19 minecraft:wool 5
+fill ~5~15~18 ~6~15~18 minecraft:leaves 1
+setblock ~6~11~18 minecraft:wool 5
+setblock ~7~8~18 minecraft:glowstone
+setblock ~7~11~18 minecraft:wool 11
+setblock ~7~15~18 minecraft:leaves 1
+fill ~8~8~18 ~9~8~18 minecraft:leaves 1
+setblock ~8~9~18 minecraft:leaves 1
+fill ~8~11~18 ~9~11~19 minecraft:leaves 1
+setblock ~8~15~18 minecraft:wool 11
+fill ~8~16~18 ~9~16~18 minecraft:leaves 1
+fill ~8~17~18 ~8~17~20 minecraft:leaves 1
+setblock ~8~18~18 minecraft:leaves 1
+fill ~8~22~18 ~8~22~20 minecraft:wool 14
+setblock ~8~23~18 minecraft:glowstone
+setblock ~8~26~18 minecraft:leaves 1
+setblock ~8~27~18 minecraft:leaves 1
+setblock ~9~9~18 minecraft:log 1
+setblock ~9~10~18 minecraft:leaves 1
+setblock ~9~14~18 minecraft:leaves 1
+setblock ~9~15~18 minecraft:leaves 1
+setblock ~9~17~18 minecraft:log 1
+setblock ~9~18~18 minecraft:log 1
+fill ~9~19~18 ~10~19~18 minecraft:wool 4
+setblock ~9~20~18 minecraft:leaves 1
+setblock ~9~22~18 minecraft:log 1
+setblock ~9~23~18 minecraft:wool 1
+setblock ~9~26~18 minecraft:log 1
+setblock ~9~27~18 minecraft:wool 1
+setblock ~10~9~18 minecraft:leaves 1
+fill ~10~11~18 ~10~11~19 minecraft:wool 5
+setblock ~10~22~18 minecraft:leaves 1
+setblock ~10~23~18 minecraft:wool 4
+setblock ~10~26~18 minecraft:leaves 1
+setblock ~10~31~18 minecraft:wool 5
+setblock ~11~8~18 minecraft:wool 1
+setblock ~11~11~18 minecraft:glowstone
+setblock ~11~15~18 minecraft:wool 11
+fill ~11~25~18 ~15~25~18 minecraft:leaves 1
+setblock ~11~27~18 minecraft:wool 1
+setblock ~11~28~18 minecraft:glowstone
+fill ~11~29~18 ~15~29~20 minecraft:leaves 1
+fill ~12~7~18 ~12~7~23 minecraft:log 1
+setblock ~12~8~18 minecraft:glowstone
+fill ~12~9~18 ~12~9~22 minecraft:leaves 1
+fill ~12~10~18 ~14~10~18 minecraft:leaves 1
+setblock ~12~11~18 minecraft:leaves 1
+fill ~12~13~18 ~14~13~22 minecraft:leaves 1
+setblock ~12~15~18 minecraft:wool 5
+fill ~12~17~18 ~13~17~18 minecraft:log 1
+setblock ~12~18~18 minecraft:leaves 1
+fill ~12~19~18 ~13~19~18 minecraft:wool 4
+fill ~12~21~18 ~14~21~22 minecraft:leaves 1
+setblock ~12~22~18 minecraft:leaves 1
+setblock ~12~23~18 minecraft:wool 5
+fill ~12~24~18 ~14~24~18 minecraft:leaves 1
+setblock ~12~26~18 minecraft:leaves 1
+setblock ~12~27~18 minecraft:glowstone
+fill ~12~28~18 ~14~28~18 minecraft:leaves 1
+setblock ~12~30~18 minecraft:leaves 1
+setblock ~12~31~18 minecraft:wool 1
+fill ~12~33~18 ~14~33~19 minecraft:leaves 1
+fill ~12~34~18 ~14~35~18 minecraft:leaves 1
+fill ~13~8~18 ~13~8~19 minecraft:wool 1
+fill ~13~9~18 ~13~9~22 minecraft:log 1
+fill ~13~11~18 ~14~11~18 minecraft:wool 11
+fill ~13~14~18 ~13~14~22 minecraft:log 1
+setblock ~13~15~18 minecraft:glowstone
+setblock ~13~18~18 minecraft:wool 1
+fill ~13~22~18 ~13~22~19 minecraft:log 1
+setblock ~13~23~18 minecraft:wool 11
+setblock ~13~26~18 minecraft:log 1
+setblock ~13~27~18 minecraft:wool 14
+setblock ~13~30~18 minecraft:log 1
+fill ~13~31~18 ~16~31~18 minecraft:leaves 1
+fill ~13~43~18 ~13~43~20 minecraft:glowstone
+fill ~13~47~18 ~13~47~21 minecraft:glowstone
+fill ~13~53~18 ~13~53~20 minecraft:glowstone
+fill ~14~7~18 ~14~7~23 minecraft:log 1
+setblock ~14~8~18 minecraft:wool 5
+fill ~14~9~18 ~14~9~19 minecraft:leaves 1
+fill ~14~15~18 ~15~15~18 minecraft:leaves 1
+fill ~14~18~18 ~15~18~18 minecraft:leaves 1
+setblock ~14~19~18 minecraft:glowstone
+fill ~14~22~18 ~14~22~21 minecraft:leaves 1
+fill ~14~23~18 ~14~23~21 minecraft:leaves 1
+fill ~14~26~18 ~14~26~19 minecraft:leaves 1
+setblock ~14~27~18 minecraft:wool 5
+setblock ~14~30~18 minecraft:leaves 1
+setblock ~15~8~18 minecraft:wool 4
+setblock ~15~11~18 minecraft:wool 1
+setblock ~15~19~18 minecraft:wool 11
+fill ~15~23~18 ~15~23~19 minecraft:wool 1
+setblock ~15~27~18 minecraft:wool 1
+setblock ~16~8~18 minecraft:leaves 1
+setblock ~16~9~18 minecraft:leaves 1
+setblock ~16~11~18 minecraft:wool 11
+setblock ~16~15~18 minecraft:wool 4
+setblock ~16~18~18 minecraft:wool 5
+setblock ~16~19~18 minecraft:log 1
+setblock ~16~22~18 minecraft:leaves 1
+setblock ~16~23~18 minecraft:glowstone
+setblock ~16~26~18 minecraft:leaves 1
+fill ~16~27~18 ~18~27~20 minecraft:wool 14
+fill ~17~8~18 ~17~8~19 minecraft:wool 5
+setblock ~17~9~18 minecraft:log 1
+setblock ~17~10~18 minecraft:leaves 1
+setblock ~17~11~18 minecraft:wool 1
+setblock ~17~14~18 minecraft:leaves 1
+setblock ~17~17~18 minecraft:log 1
+setblock ~17~18~18 minecraft:wool 4
+setblock ~17~19~18 minecraft:glowstone
+setblock ~17~20~18 minecraft:leaves 1
+setblock ~17~22~18 minecraft:log 1
+setblock ~17~23~18 minecraft:leaves 1
+fill ~17~26~18 ~17~26~20 minecraft:wool 14
+fill ~17~28~18 ~17~28~20 minecraft:wool 14
+setblock ~17~30~18 minecraft:wool 14
+setblock ~18~8~18 minecraft:wool 1
+setblock ~18~9~18 minecraft:leaves 1
+fill ~18~11~18 ~18~11~19 minecraft:glowstone
+setblock ~18~15~18 minecraft:wool 11
+fill ~18~16~18 ~18~17~18 minecraft:leaves 1
+fill ~18~18~18 ~18~18~19 minecraft:leaves 1
+setblock ~18~19~18 minecraft:wool 5
+setblock ~18~22~18 minecraft:leaves 1
+fill ~18~23~18 ~18~23~19 minecraft:wool 1
+setblock ~18~26~18 minecraft:leaves 1
+setblock ~19~11~18 minecraft:wool 1
+setblock ~19~15~18 minecraft:wool 1
+setblock ~19~18~18 minecraft:wool 4
+setblock ~19~23~18 minecraft:wool 5
+setblock ~20~8~18 minecraft:wool 1
+setblock ~20~11~18 minecraft:wool 4
+setblock ~20~15~18 minecraft:wool 11
+setblock ~21~11~18 minecraft:wool 11
+setblock ~21~15~18 minecraft:leaves 1
+setblock ~22~8~18 minecraft:wool 5
+setblock ~22~11~18 minecraft:wool 4
+setblock ~5~8~19 minecraft:wool 11
+fill ~6~2~19 ~6~2~20 minecraft:cobblestone
+setblock ~6~3~19 minecraft:double_stone_block_slab 0
+fill ~6~8~19 ~6~8~20 minecraft:glowstone
+fill ~6~11~19 ~7~11~19 minecraft:glowstone
+fill ~6~15~19 ~7~15~19 minecraft:leaves 1
+setblock ~6~23~19 minecraft:wool 14
+setblock ~7~3~19 minecraft:cobblestone
+fill ~7~8~19 ~7~8~20 minecraft:wool 4
+setblock ~7~9~19 minecraft:leaves 1
+setblock ~7~12~19 minecraft:leaves 1
+setblock ~8~2~19 minecraft:cobblestone
+setblock ~8~8~19 minecraft:leaves 1
+setblock ~8~9~19 minecraft:log 1
+setblock ~8~10~19 minecraft:leaves 1
+setblock ~8~15~19 minecraft:leaves 1
+setblock ~8~16~19 minecraft:glowstone
+fill ~8~18~19 ~8~19~19 minecraft:wool 5
+setblock ~8~21~19 minecraft:wool 14
+fill ~8~23~19 ~13~23~21 minecraft:wool 14
+fill ~8~25~19 ~9~25~19 minecraft:leaves 1
+fill ~9~1~19 ~10~1~19 minecraft:cobblestone
+setblock ~9~8~19 minecraft:wool 5
+setblock ~9~9~19 minecraft:leaves 1
+setblock ~9~15~19 minecraft:wool 5
+fill ~9~16~19 ~9~18~19 minecraft:leaves 1
+fill ~9~19~19 ~9~19~20 minecraft:leaves 1
+fill ~9~22~19 ~9~22~21 minecraft:wool 14
+fill ~9~24~19 ~12~24~21 minecraft:wool 14
+setblock ~9~26~19 minecraft:leaves 1
+setblock ~9~27~19 minecraft:wool 14
+setblock ~10~8~19 minecraft:wool 1
+setblock ~10~14~19 minecraft:leaves 1
+fill ~10~15~19 ~10~15~20 minecraft:glowstone
+setblock ~10~18~19 minecraft:log 1
+fill ~10~19~19 ~10~20~19 minecraft:leaves 1
+fill ~10~25~19 ~10~25~21 minecraft:wool 14
+fill ~11~8~19 ~11~8~21 minecraft:glowstone
+setblock ~11~11~19 minecraft:wool 11
+fill ~11~18~19 ~12~18~19 minecraft:wool 11
+setblock ~11~25~19 minecraft:leaves 1
+fill ~11~26~19 ~13~26~21 minecraft:wool 14
+fill ~11~27~19 ~12~27~20 minecraft:wool 14
+setblock ~12~8~19 minecraft:wool 5
+fill ~12~11~19 ~12~11~20 minecraft:wool 1
+setblock ~12~15~19 minecraft:wool 11
+fill ~12~19~19 ~14~19~19 minecraft:leaves 1
+fill ~12~22~19 ~12~22~21 minecraft:wool 14
+fill ~12~25~19 ~12~25~22 minecraft:wool 14
+setblock ~12~31~19 minecraft:wool 4
+fill ~13~10~19 ~13~10~22 minecraft:leaves 1
+setblock ~13~11~19 minecraft:glowstone
+setblock ~13~15~19 minecraft:wool 5
+fill ~13~17~19 ~13~17~20 minecraft:log 1
+fill ~13~18~19 ~13~18~20 minecraft:leaves 1
+setblock ~13~25~19 minecraft:leaves 1
+setblock ~13~27~19 minecraft:wool 5
+setblock ~13~30~19 minecraft:leaves 1
+setblock ~13~31~19 minecraft:wool 14
+setblock ~13~42~19 minecraft:glowstone
+setblock ~13~54~19 minecraft:glowstone
+fill ~14~8~19 ~15~8~20 minecraft:leaves 1
+setblock ~14~11~19 minecraft:wool 1
+setblock ~14~15~19 minecraft:leaves 1
+fill ~14~18~19 ~14~18~20 minecraft:wool 1
+fill ~14~25~19 ~16~25~21 minecraft:wool 14
+setblock ~14~27~19 minecraft:wool 4
+setblock ~14~31~19 minecraft:leaves 1
+setblock ~15~11~19 minecraft:wool 11
+setblock ~15~15~19 minecraft:wool 11
+fill ~15~18~19 ~16~18~19 minecraft:leaves 1
+fill ~15~19~19 ~15~19~20 minecraft:wool 4
+fill ~15~24~19 ~15~24~21 minecraft:wool 14
+fill ~15~26~19 ~16~26~20 minecraft:wool 14
+setblock ~15~27~19 minecraft:wool 14
+setblock ~15~31~19 minecraft:wool 14
+fill ~16~1~19 ~17~1~19 minecraft:cobblestone
+setblock ~16~8~19 minecraft:wool 4
+fill ~16~11~19 ~17~11~19 minecraft:glowstone
+setblock ~16~14~19 minecraft:leaves 1
+setblock ~16~15~19 minecraft:glowstone
+fill ~16~19~19 ~16~20~19 minecraft:leaves 1
+setblock ~16~28~19 minecraft:wool 14
+setblock ~17~9~19 minecraft:leaves 1
+setblock ~17~15~19 minecraft:wool 4
+fill ~17~16~19 ~17~18~19 minecraft:leaves 1
+fill ~17~19~19 ~18~19~19 minecraft:leaves 1
+setblock ~17~22~19 minecraft:leaves 1
+setblock ~17~23~19 minecraft:wool 1
+setblock ~18~2~19 minecraft:cobblestone
+fill ~18~8~19 ~18~8~20 minecraft:leaves 1
+setblock ~18~9~19 minecraft:log 1
+setblock ~18~10~19 minecraft:leaves 1
+fill ~18~15~19 ~19~15~19 minecraft:glowstone
+fill ~18~17~19 ~18~17~20 minecraft:leaves 1
+setblock ~18~22~19 minecraft:log 1
+setblock ~18~25~19 minecraft:leaves 1
+setblock ~18~26~19 minecraft:wool 14
+setblock ~19~3~19 minecraft:cobblestone
+setblock ~19~9~19 minecraft:leaves 1
+fill ~19~11~19 ~19~11~21 minecraft:leaves 1
+setblock ~19~12~19 minecraft:leaves 1
+setblock ~19~22~19 minecraft:leaves 1
+fill ~20~2~19 ~20~2~20 minecraft:cobblestone
+setblock ~20~3~19 minecraft:double_stone_block_slab 0
+setblock ~20~8~19 minecraft:leaves 1
+setblock ~20~11~19 minecraft:glowstone
+setblock ~20~15~19 minecraft:leaves 1
+fill ~21~8~19 ~22~8~19 minecraft:glowstone
+setblock ~21~11~19 minecraft:wool 1
+setblock ~21~15~19 minecraft:wool 11
+setblock ~22~11~19 minecraft:wool 11
+setblock ~6~3~20 minecraft:stone_block_slab 0
+setblock ~6~9~20 minecraft:leaves 1
+setblock ~6~15~20 minecraft:leaves 1
+fill ~7~2~20 ~7~2~21 minecraft:cobblestone
+setblock ~7~3~20 minecraft:double_stone_block_slab 0
+setblock ~7~9~20 minecraft:log 1
+setblock ~7~10~20 minecraft:leaves 1
+setblock ~7~11~20 minecraft:wool 5
+setblock ~7~15~20 minecraft:log 1
+setblock ~7~16~20 minecraft:leaves 1
+setblock ~7~21~20 minecraft:wool 14
+setblock ~8~3~20 minecraft:cobblestone
+setblock ~8~8~20 minecraft:wool 4
+setblock ~8~9~20 minecraft:leaves 1
+setblock ~8~11~20 minecraft:wool 1
+setblock ~8~12~20 minecraft:leaves 1
+fill ~8~15~20 ~8~15~21 minecraft:leaves 1
+setblock ~8~19~20 minecraft:wool 11
+setblock ~8~21~20 minecraft:leaves 1
+setblock ~8~24~20 minecraft:wool 14
+fill ~9~2~20 ~10~2~20 minecraft:cobblestone
+setblock ~9~11~20 minecraft:leaves 1
+setblock ~9~15~20 minecraft:leaves 1
+fill ~9~17~20 ~12~17~21 minecraft:leaves 1
+setblock ~9~25~20 minecraft:wool 14
+setblock ~10~11~20 minecraft:wool 11
+fill ~10~16~20 ~16~16~20 minecraft:leaves 1
+fill ~10~18~20 ~12~18~20 minecraft:leaves 1
+setblock ~10~19~20 minecraft:leaves 1
+fill ~10~22~20 ~11~22~20 minecraft:wool 14
+fill ~11~1~20 ~15~1~20 minecraft:cobblestone
+fill ~11~11~20 ~11~11~21 minecraft:wool 4
+setblock ~11~14~20 minecraft:leaves 1
+setblock ~11~15~20 minecraft:wool 5
+fill ~11~20~20 ~15~20~20 minecraft:leaves 1
+fill ~11~25~20 ~11~25~22 minecraft:wool 14
+setblock ~12~8~20 minecraft:glowstone
+fill ~12~15~20 ~13~15~20 minecraft:leaves 1
+setblock ~12~19~20 minecraft:wool 5
+setblock ~13~8~20 minecraft:wool 11
+setblock ~13~11~20 minecraft:log 1
+setblock ~13~19~20 minecraft:leaves 1
+setblock ~13~22~20 minecraft:wool 14
+fill ~13~24~20 ~14~24~21 minecraft:wool 14
+fill ~13~25~20 ~13~25~22 minecraft:wool 14
+setblock ~13~27~20 minecraft:wool 14
+fill ~14~11~20 ~15~11~20 minecraft:leaves 1
+setblock ~14~15~20 minecraft:wool 5
+fill ~14~17~20 ~17~17~21 minecraft:leaves 1
+setblock ~14~19~20 minecraft:wool 5
+fill ~14~26~20 ~14~26~21 minecraft:wool 14
+setblock ~14~27~20 minecraft:wool 11
+setblock ~15~14~20 minecraft:leaves 1
+setblock ~15~15~20 minecraft:leaves 1
+setblock ~15~18~20 minecraft:wool 5
+fill ~15~23~20 ~15~23~21 minecraft:leaves 1
+fill ~16~2~20 ~17~2~20 minecraft:cobblestone
+setblock ~16~8~20 minecraft:glowstone
+setblock ~16~11~20 minecraft:wool 1
+setblock ~16~15~20 minecraft:wool 1
+setblock ~16~18~20 minecraft:leaves 1
+setblock ~16~19~20 minecraft:wool 5
+setblock ~16~24~20 minecraft:wool 14
+setblock ~17~8~20 minecraft:leaves 1
+setblock ~17~11~20 minecraft:glowstone
+setblock ~17~15~20 minecraft:wool 11
+setblock ~17~19~20 minecraft:leaves 1
+setblock ~18~3~20 minecraft:cobblestone
+setblock ~18~9~20 minecraft:leaves 1
+setblock ~18~11~20 minecraft:leaves 1
+setblock ~18~12~20 minecraft:leaves 1
+fill ~18~15~20 ~18~15~21 minecraft:wool 5
+setblock ~18~22~20 minecraft:leaves 1
+fill ~19~2~20 ~19~2~21 minecraft:cobblestone
+setblock ~19~3~20 minecraft:double_stone_block_slab 0
+setblock ~19~9~20 minecraft:log 1
+setblock ~19~10~20 minecraft:leaves 1
+setblock ~19~15~20 minecraft:log 1
+setblock ~19~16~20 minecraft:leaves 1
+fill ~20~1~20 ~20~1~22 minecraft:cobblestone
+setblock ~20~3~20 minecraft:stone_block_slab 0
+setblock ~20~8~20 minecraft:wool 1
+setblock ~20~9~20 minecraft:leaves 1
+fill ~20~11~20 ~21~11~20 minecraft:leaves 1
+setblock ~20~15~20 minecraft:leaves 1
+fill ~5~1~21 ~6~1~21 minecraft:cobblestone
+setblock ~5~2~21 minecraft:stone_block_slab 0
+setblock ~6~2~21 minecraft:double_stone_block_slab 0
+setblock ~6~8~21 minecraft:wool 4
+setblock ~6~11~21 minecraft:wool 11
+setblock ~7~3~21 minecraft:stone_block_slab 0
+fill ~7~8~21 ~7~8~22 minecraft:wool 1
+setblock ~7~9~21 minecraft:leaves 1
+fill ~7~11~21 ~7~11~22 minecraft:glowstone
+setblock ~7~15~21 minecraft:leaves 1
+setblock ~8~2~21 minecraft:cobblestone
+setblock ~8~3~21 minecraft:double_stone_block_slab 0
+fill ~9~3~21 ~10~3~21 minecraft:cobblestone
+setblock ~9~11~21 minecraft:glowstone
+fill ~9~12~21 ~10~12~21 minecraft:leaves 1
+fill ~9~15~21 ~9~15~22 minecraft:leaves 1
+setblock ~10~8~21 minecraft:wool 4
+fill ~10~11~21 ~10~11~22 minecraft:leaves 1
+fill ~10~15~21 ~12~15~21 minecraft:leaves 1
+setblock ~10~19~21 minecraft:leaves 1
+fill ~11~2~21 ~15~2~21 minecraft:cobblestone
+setblock ~11~18~21 minecraft:leaves 1
+setblock ~12~8~21 minecraft:leaves 1
+fill ~12~11~21 ~12~11~22 minecraft:glowstone
+setblock ~12~14~21 minecraft:leaves 1
+setblock ~12~18~21 minecraft:glowstone
+fill ~12~19~21 ~13~19~21 minecraft:wool 1
+setblock ~12~27~21 minecraft:wool 14
+setblock ~13~8~21 minecraft:wool 5
+setblock ~13~11~21 minecraft:wool 11
+setblock ~13~15~21 minecraft:glowstone
+fill ~13~17~21 ~13~17~22 minecraft:leaves 1
+setblock ~13~18~21 minecraft:wool 1
+setblock ~13~22~21 minecraft:log 1
+fill ~13~48~21 ~13~48~23 minecraft:glowstone
+setblock ~14~8~21 minecraft:wool 1
+fill ~14~9~21 ~14~9~22 minecraft:leaves 1
+fill ~14~11~21 ~14~11~23 minecraft:leaves 1
+setblock ~14~14~21 minecraft:leaves 1
+setblock ~14~15~21 minecraft:leaves 1
+setblock ~14~18~21 minecraft:wool 4
+setblock ~14~27~21 minecraft:glowstone
+setblock ~15~8~21 minecraft:leaves 1
+setblock ~15~11~21 minecraft:wool 11
+setblock ~15~15~21 minecraft:glowstone
+setblock ~15~18~21 minecraft:leaves 1
+setblock ~15~19~21 minecraft:glowstone
+setblock ~15~26~21 minecraft:wool 14
+fill ~16~3~21 ~17~3~21 minecraft:cobblestone
+setblock ~16~8~21 minecraft:wool 11
+fill ~16~11~21 ~17~11~21 minecraft:leaves 1
+fill ~16~12~21 ~17~12~21 minecraft:leaves 1
+setblock ~16~13~21 minecraft:glowstone
+setblock ~16~19~21 minecraft:leaves 1
+setblock ~17~8~21 minecraft:wool 4
+setblock ~17~15~21 minecraft:glowstone
+setblock ~18~2~21 minecraft:cobblestone
+setblock ~18~3~21 minecraft:double_stone_block_slab 0
+fill ~18~8~21 ~18~8~22 minecraft:leaves 1
+setblock ~18~11~21 minecraft:glowstone
+setblock ~19~1~21 minecraft:cobblestone
+setblock ~19~3~21 minecraft:stone_block_slab 0
+setblock ~19~8~21 minecraft:wool 11
+setblock ~19~9~21 minecraft:leaves 1
+setblock ~19~15~21 minecraft:leaves 1
+setblock ~20~2~21 minecraft:double_stone_block_slab 0
+setblock ~20~8~21 minecraft:wool 4
+setblock ~20~11~21 minecraft:glowstone
+setblock ~21~1~21 minecraft:cobblestone
+setblock ~21~2~21 minecraft:stone_block_slab 0
+fill ~4~0~22 ~5~0~23 minecraft:cobblestone
+fill ~4~1~22 ~4~1~24 minecraft:stone_block_slab 0
+setblock ~5~1~22 minecraft:double_stone_block_slab 0
+setblock ~6~1~22 minecraft:cobblestone
+setblock ~6~2~22 minecraft:stone_block_slab 0
+setblock ~8~8~22 minecraft:glowstone
+fill ~8~11~22 ~9~11~22 minecraft:wool 4
+fill ~10~17~22 ~12~17~22 minecraft:leaves 1
+fill ~10~24~22 ~13~24~22 minecraft:wool 14
+fill ~11~3~22 ~15~3~22 minecraft:cobblestone
+setblock ~11~8~22 minecraft:wool 4
+setblock ~11~11~22 minecraft:leaves 1
+fill ~11~12~22 ~15~12~22 minecraft:leaves 1
+setblock ~11~15~22 minecraft:leaves 1
+setblock ~11~19~22 minecraft:wool 11
+setblock ~11~23~22 minecraft:wool 14
+setblock ~12~8~22 minecraft:wool 1
+fill ~12~14~22 ~12~15~22 minecraft:glowstone
+setblock ~12~19~22 minecraft:glowstone
+setblock ~13~8~22 minecraft:wool 11
+setblock ~13~11~22 minecraft:wool 1
+setblock ~13~15~22 minecraft:wool 11
+setblock ~13~19~22 minecraft:wool 1
+setblock ~13~22~22 minecraft:leaves 1
+setblock ~13~26~22 minecraft:wool 14
+fill ~14~8~22 ~14~8~23 minecraft:leaves 1
+setblock ~14~15~22 minecraft:glowstone
+fill ~14~17~22 ~16~17~22 minecraft:leaves 1
+setblock ~14~19~22 minecraft:wool 5
+setblock ~14~25~22 minecraft:wool 14
+setblock ~15~8~22 minecraft:wool 11
+setblock ~15~11~22 minecraft:wool 1
+fill ~15~15~22 ~16~15~22 minecraft:wool 4
+setblock ~15~19~22 minecraft:wool 11
+fill ~16~8~22 ~16~8~24 minecraft:leaves 1
+setblock ~16~11~22 minecraft:wool 11
+setblock ~17~11~22 minecraft:wool 4
+setblock ~17~15~22 minecraft:leaves 1
+setblock ~18~15~22 minecraft:wool 4
+setblock ~19~8~22 minecraft:wool 5
+setblock ~19~11~22 minecraft:wool 11
+setblock ~20~2~22 minecraft:stone_block_slab 0
+fill ~21~0~22 ~22~0~23 minecraft:cobblestone
+setblock ~21~1~22 minecraft:double_stone_block_slab 0
+fill ~22~1~22 ~22~1~24 minecraft:stone_block_slab 0
+fill ~3~0~23 ~3~0~24 minecraft:cobblestone
+fill ~3~1~23 ~3~1~24 minecraft:stone_block_slab 0
+setblock ~5~1~23 minecraft:stone_block_slab 0
+setblock ~8~11~23 minecraft:wool 5
+setblock ~9~11~23 minecraft:wool 11
+setblock ~10~8~23 minecraft:glowstone
+fill ~10~11~23 ~11~11~23 minecraft:wool 4
+setblock ~11~8~23 minecraft:wool 5
+setblock ~12~8~23 minecraft:leaves 1
+fill ~12~11~23 ~13~11~23 minecraft:leaves 1
+setblock ~13~8~23 minecraft:glowstone
+setblock ~13~9~23 minecraft:leaves 1
+setblock ~15~8~23 minecraft:leaves 1
+setblock ~15~11~23 minecraft:glowstone
+setblock ~15~15~23 minecraft:glowstone
+setblock ~17~8~23 minecraft:wool 5
+setblock ~17~11~23 minecraft:wool 5
+setblock ~18~8~23 minecraft:wool 4
+setblock ~21~1~23 minecraft:stone_block_slab 0
+fill ~23~0~23 ~23~0~24 minecraft:cobblestone
+fill ~23~1~23 ~23~1~24 minecraft:stone_block_slab 0
+setblock ~2~0~24 minecraft:double_stone_block_slab 0
+setblock ~4~0~24 minecraft:cobblestone
+setblock ~10~8~24 minecraft:wool 4
+fill ~10~11~24 ~11~11~24 minecraft:leaves 1
+setblock ~11~8~24 minecraft:glowstone
+setblock ~12~8~24 minecraft:wool 5
+setblock ~12~11~24 minecraft:log 1
+setblock ~13~8~24 minecraft:wool 1
+setblock ~13~11~24 minecraft:leaves 1
+fill ~14~8~24 ~15~8~24 minecraft:wool 5
+setblock ~14~11~24 minecraft:wool 11
+setblock ~16~11~24 minecraft:wool 1
+setblock ~22~0~24 minecraft:cobblestone
+setblock ~24~0~24 minecraft:double_stone_block_slab 0
+setblock ~2~0~25 minecraft:stone_block_slab 0
+setblock ~3~0~25 minecraft:double_stone_block_slab 0
+setblock ~23~0~25 minecraft:double_stone_block_slab 0
+setblock ~24~0~25 minecraft:stone_block_slab 0

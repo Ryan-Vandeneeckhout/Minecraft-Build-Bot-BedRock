@@ -1,0 +1,2632 @@
+fill ~20~4~1 ~31~4~1 minecraft:stone_block_slab 13
+fill ~20~4~2 ~21~4~3 minecraft:stone_block_slab 13
+fill ~21~5~2 ~30~5~3 minecraft:stone 5
+fill ~22~0~2 ~24~0~14 minecraft:stone 0
+fill ~22~1~2 ~24~2~3 minecraft:stone 0
+fill ~22~3~2 ~24~4~3 minecraft:monster_egg 2
+fill ~22~6~2 ~29~6~3 minecraft:stone 5
+fill ~23~7~2 ~28~7~3 minecraft:stone 5
+fill ~25~4~2 ~29~4~3 minecraft:monster_egg 2
+fill ~25~8~2 ~26~8~3 minecraft:stone 5
+fill ~27~0~2 ~29~0~14 minecraft:stone 0
+fill ~27~1~2 ~29~2~3 minecraft:stone 0
+fill ~27~3~2 ~29~3~3 minecraft:monster_egg 2
+fill ~30~4~2 ~31~4~3 minecraft:stone_block_slab 13
+fill ~4~0~4 ~21~0~14 minecraft:stone 0
+fill ~4~1~4 ~24~1~14 minecraft:stone 6
+fill ~4~2~4 ~24~2~14 minecraft:stone 0
+fill ~4~3~4 ~24~3~14 minecraft:stone 6
+fill ~4~4~4 ~47~4~14 minecraft:stone 0
+fill ~4~5~4 ~47~5~14 minecraft:stone 6
+fill ~4~6~4 ~47~6~14 minecraft:stone 0
+fill ~4~7~4 ~47~7~14 minecraft:stone 6
+fill ~4~8~4 ~47~8~14 minecraft:stone 0
+fill ~4~9~4 ~47~9~14 minecraft:stone 6
+fill ~4~16~4 ~47~16~14 minecraft:stone 0
+fill ~4~17~4 ~47~17~14 minecraft:stone 6
+fill ~4~18~4 ~47~18~14 minecraft:stone 0
+fill ~4~19~4 ~47~19~14 minecraft:stone 6
+fill ~4~20~4 ~47~20~14 minecraft:stone 0
+fill ~4~65~4 ~11~65~11 minecraft:stone 0
+fill ~4~66~4 ~47~66~14 minecraft:stone 6
+fill ~4~67~4 ~5~72~5 minecraft:stone 6
+fill ~6~21~4 ~8~21~45 minecraft:stone 6
+fill ~6~22~4 ~8~22~5 minecraft:stone 6
+fill ~12~21~4 ~14~21~45 minecraft:stone 6
+fill ~12~22~4 ~14~22~5 minecraft:stone 6
+fill ~12~63~4 ~39~65~8 minecraft:stone 6
+fill ~12~67~4 ~13~70~7 minecraft:stone 6
+fill ~12~71~4 ~13~72~5 minecraft:stone 6
+fill ~18~21~4 ~20~21~14 minecraft:stone 6
+fill ~18~22~4 ~20~22~5 minecraft:stone 6
+fill ~20~67~4 ~21~70~7 minecraft:stone 6
+fill ~20~71~4 ~21~72~5 minecraft:stone 6
+fill ~24~21~4 ~26~21~14 minecraft:stone 6
+fill ~24~22~4 ~26~22~5 minecraft:stone 6
+fill ~27~1~4 ~47~1~14 minecraft:stone 6
+fill ~27~2~4 ~47~2~14 minecraft:stone 0
+fill ~27~3~4 ~47~3~14 minecraft:stone 6
+fill ~30~0~4 ~47~0~14 minecraft:stone 0
+fill ~30~21~4 ~32~21~14 minecraft:stone 6
+fill ~30~22~4 ~32~22~5 minecraft:stone 6
+fill ~30~67~4 ~31~70~7 minecraft:stone 6
+fill ~30~71~4 ~31~72~5 minecraft:stone 6
+fill ~36~21~4 ~38~21~14 minecraft:stone 6
+fill ~36~22~4 ~38~22~5 minecraft:stone 6
+fill ~38~67~4 ~39~70~7 minecraft:stone 6
+fill ~38~71~4 ~39~72~5 minecraft:stone 6
+fill ~40~65~4 ~47~65~11 minecraft:stone 0
+fill ~42~21~4 ~44~21~45 minecraft:stone 6
+fill ~42~22~4 ~44~22~5 minecraft:stone 6
+fill ~46~67~4 ~47~72~5 minecraft:stone 6
+fill ~6~23~5 ~8~23~45 minecraft:stone 6
+fill ~6~24~5 ~8~24~5 minecraft:stone 6
+fill ~7~12~5 ~12~13~5 minecraft:stone 6
+fill ~8~11~5 ~11~11~46 minecraft:stone 6
+fill ~8~14~5 ~11~14~5 minecraft:stone 6
+fill ~9~10~5 ~10~10~5 minecraft:stone 6
+fill ~9~15~5 ~10~15~46 minecraft:stone 6
+fill ~11~57~5 ~16~58~7 minecraft:stone 6
+fill ~12~23~5 ~14~23~45 minecraft:stone 6
+fill ~12~24~5 ~14~24~5 minecraft:stone 6
+fill ~15~12~5 ~20~13~5 minecraft:stone 6
+fill ~16~11~5 ~19~11~14 minecraft:stone 6
+fill ~16~14~5 ~19~14~5 minecraft:stone 6
+fill ~17~10~5 ~18~10~5 minecraft:stone 6
+fill ~17~15~5 ~18~15~14 minecraft:stone 6
+fill ~18~23~5 ~20~23~14 minecraft:stone 6
+fill ~18~24~5 ~20~24~5 minecraft:stone 6
+fill ~19~57~5 ~24~57~14 minecraft:stone 6
+fill ~19~58~5 ~24~58~7 minecraft:stone 6
+fill ~23~12~5 ~28~13~5 minecraft:stone 6
+fill ~24~11~5 ~27~11~14 minecraft:stone 6
+fill ~24~14~5 ~27~14~5 minecraft:stone 6
+fill ~24~23~5 ~26~23~14 minecraft:stone 6
+fill ~24~24~5 ~26~24~5 minecraft:stone 6
+fill ~25~10~5 ~26~10~5 minecraft:stone 6
+fill ~25~15~5 ~26~15~14 minecraft:stone 6
+fill ~27~57~5 ~32~57~14 minecraft:stone 6
+fill ~27~58~5 ~32~58~7 minecraft:stone 6
+fill ~30~23~5 ~32~23~14 minecraft:stone 6
+fill ~30~24~5 ~32~24~5 minecraft:stone 6
+fill ~31~12~5 ~36~13~5 minecraft:stone 6
+fill ~32~11~5 ~35~11~14 minecraft:stone 6
+fill ~32~14~5 ~35~14~5 minecraft:stone 6
+fill ~33~10~5 ~34~10~5 minecraft:stone 6
+fill ~33~15~5 ~34~15~14 minecraft:stone 6
+fill ~35~57~5 ~40~58~7 minecraft:stone 6
+fill ~36~23~5 ~38~23~14 minecraft:stone 6
+fill ~36~24~5 ~38~24~5 minecraft:stone 6
+fill ~39~12~5 ~44~13~5 minecraft:stone 6
+fill ~40~11~5 ~43~11~46 minecraft:stone 6
+fill ~40~14~5 ~43~14~5 minecraft:stone 6
+fill ~41~10~5 ~42~10~5 minecraft:stone 6
+fill ~41~15~5 ~42~15~46 minecraft:stone 6
+fill ~42~23~5 ~44~23~45 minecraft:stone 6
+fill ~42~24~5 ~44~24~5 minecraft:stone 6
+fill ~6~10~6 ~45~10~14 minecraft:stone 0
+fill ~6~11~6 ~7~11~45 minecraft:stone 6
+fill ~6~12~6 ~45~12~14 minecraft:stone 0
+fill ~6~13~6 ~45~13~14 minecraft:stone 6
+fill ~6~14~6 ~45~14~14 minecraft:stone 0
+fill ~6~15~6 ~8~15~45 minecraft:stone 6
+fill ~6~22~6 ~45~22~14 minecraft:stone 0
+fill ~6~24~6 ~45~24~14 minecraft:stone 0
+fill ~6~25~6 ~45~25~14 minecraft:stone 6
+fill ~6~26~6 ~45~26~14 minecraft:stone 0
+fill ~6~39~6 ~45~40~7 minecraft:stonebrick 0
+fill ~6~63~6 ~11~63~11 minecraft:stone 0
+fill ~6~64~6 ~11~64~45 minecraft:stone 6
+fill ~6~67~6 ~11~70~7 minecraft:stone 6
+fill ~9~21~6 ~11~21~45 minecraft:stone 6
+fill ~9~23~6 ~11~23~45 minecraft:stone 6
+fill ~10~61~6 ~11~61~7 minecraft:stone 0
+fill ~10~62~6 ~41~62~7 minecraft:stone 6
+fill ~11~15~6 ~16~15~14 minecraft:stone 6
+fill ~12~11~6 ~15~11~14 minecraft:stone 6
+fill ~12~29~6 ~39~29~14 minecraft:stone 6
+fill ~12~30~6 ~39~30~7 minecraft:stone 6
+fill ~12~31~6 ~15~31~14 minecraft:stone 6
+fill ~12~32~6 ~15~38~8 minecraft:stone 6
+fill ~12~41~6 ~15~41~14 minecraft:stone 6
+fill ~12~42~6 ~15~56~8 minecraft:stone 6
+fill ~12~59~6 ~39~59~14 minecraft:stone 6
+fill ~12~60~6 ~39~61~7 minecraft:stone 6
+fill ~14~67~6 ~19~70~7 minecraft:stone 6
+fill ~15~21~6 ~17~21~14 minecraft:stone 6
+fill ~15~23~6 ~17~23~14 minecraft:stone 6
+fill ~16~37~6 ~39~37~14 minecraft:stone 6
+fill ~16~38~6 ~39~38~8 minecraft:stone 6
+fill ~16~41~6 ~19~41~7 minecraft:stonebrick 0
+fill ~16~45~6 ~39~45~14 minecraft:stone 6
+fill ~16~46~6 ~39~46~7 minecraft:stone 6
+fill ~19~15~6 ~24~15~14 minecraft:stone 6
+fill ~20~11~6 ~23~11~14 minecraft:stone 6
+fill ~20~41~6 ~23~41~14 minecraft:stone 6
+fill ~20~42~6 ~23~44~8 minecraft:stone 6
+fill ~20~47~6 ~23~47~14 minecraft:stone 6
+fill ~20~48~6 ~23~56~8 minecraft:stone 6
+fill ~21~21~6 ~23~21~14 minecraft:stone 6
+fill ~21~23~6 ~23~23~14 minecraft:stone 6
+fill ~22~67~6 ~29~70~7 minecraft:stone 6
+fill ~24~41~6 ~27~41~7 minecraft:stonebrick 0
+fill ~27~15~6 ~32~15~14 minecraft:stone 6
+fill ~27~21~6 ~29~21~14 minecraft:stone 6
+fill ~27~23~6 ~29~23~14 minecraft:stone 6
+fill ~28~11~6 ~31~11~14 minecraft:stone 6
+fill ~28~41~6 ~31~41~14 minecraft:stone 6
+fill ~28~42~6 ~31~44~8 minecraft:stone 6
+fill ~28~47~6 ~31~47~14 minecraft:stone 6
+fill ~28~48~6 ~31~56~8 minecraft:stone 6
+fill ~32~41~6 ~35~41~7 minecraft:stonebrick 0
+fill ~32~67~6 ~37~70~7 minecraft:stone 6
+fill ~33~21~6 ~35~21~14 minecraft:stone 6
+fill ~33~23~6 ~35~23~14 minecraft:stone 6
+fill ~35~15~6 ~40~15~14 minecraft:stone 6
+fill ~36~11~6 ~39~11~14 minecraft:stone 6
+fill ~36~31~6 ~39~31~14 minecraft:stone 6
+fill ~36~32~6 ~39~36~8 minecraft:stone 6
+fill ~36~41~6 ~39~41~14 minecraft:stone 6
+fill ~36~42~6 ~39~44~8 minecraft:stone 6
+fill ~36~47~6 ~39~47~14 minecraft:stone 6
+fill ~36~48~6 ~39~56~8 minecraft:stone 6
+fill ~39~21~6 ~41~21~45 minecraft:stone 6
+fill ~39~23~6 ~41~23~45 minecraft:stone 6
+fill ~40~61~6 ~41~61~7 minecraft:stone 0
+fill ~40~63~6 ~45~63~11 minecraft:stone 0
+fill ~40~64~6 ~45~64~45 minecraft:stone 6
+fill ~40~67~6 ~45~70~7 minecraft:stone 6
+fill ~43~15~6 ~45~15~45 minecraft:stone 6
+fill ~44~11~6 ~45~11~45 minecraft:stone 6
+fill ~45~21~6 ~47~21~8 minecraft:stone 6
+fill ~45~23~6 ~46~23~8 minecraft:stone 6
+fill ~46~22~6 ~47~22~8 minecraft:stone 6
+fill ~46~24~6 ~46~24~8 minecraft:stone 6
+fill ~4~21~7 ~5~22~9 minecraft:stone 6
+fill ~5~12~7 ~5~13~12 minecraft:stone 6
+fill ~5~23~7 ~5~24~9 minecraft:stone 6
+fill ~46~12~7 ~46~13~12 minecraft:stone 6
+fill ~47~256~7 ~50~257~18 minecraft:oxidized_copper
+fill ~47~258~7 ~50~259~8 minecraft:oxidized_copper
+fill ~5~11~8 ~5~11~11 minecraft:stone 6
+fill ~5~14~8 ~5~14~11 minecraft:stone 6
+fill ~6~39~8 ~16~40~8 minecraft:stonebrick 0
+fill ~6~67~8 ~7~70~45 minecraft:stone 6
+fill ~8~27~8 ~43~27~14 minecraft:stone 6
+fill ~8~28~8 ~43~28~14 minecraft:stone 0
+fill ~8~29~8 ~11~38~8 minecraft:stonebrick 0
+fill ~8~41~8 ~11~62~8 minecraft:stonebrick 0
+fill ~8~68~8 ~45~69~14 minecraft:stone 6
+fill ~12~30~8 ~15~30~8 minecraft:stone 6
+fill ~12~57~8 ~18~57~14 minecraft:stone 6
+fill ~12~58~8 ~15~58~8 minecraft:stone 6
+fill ~12~60~8 ~15~62~8 minecraft:stone 6
+fill ~16~30~8 ~35~30~14 minecraft:stone 0
+fill ~16~31~8 ~35~31~14 minecraft:stone 6
+fill ~16~32~8 ~35~32~14 minecraft:stone 0
+fill ~16~33~8 ~35~33~14 minecraft:stone 6
+fill ~16~34~8 ~35~34~14 minecraft:stone 0
+fill ~16~35~8 ~35~35~14 minecraft:stone 6
+fill ~16~36~8 ~35~36~14 minecraft:stone 0
+fill ~16~41~8 ~19~41~14 minecraft:stone 6
+fill ~16~42~8 ~19~42~14 minecraft:stone 0
+fill ~16~43~8 ~19~43~14 minecraft:stone 6
+fill ~16~44~8 ~19~44~14 minecraft:stone 0
+fill ~16~46~8 ~19~46~14 minecraft:stone 0
+fill ~16~47~8 ~19~47~14 minecraft:stone 6
+fill ~16~48~8 ~19~48~14 minecraft:stone 0
+fill ~16~49~8 ~19~49~14 minecraft:stone 6
+fill ~16~50~8 ~19~50~14 minecraft:stone 0
+fill ~16~51~8 ~19~51~14 minecraft:stone 6
+fill ~16~52~8 ~19~52~14 minecraft:stone 0
+fill ~16~53~8 ~19~53~14 minecraft:stone 6
+fill ~16~54~8 ~19~54~14 minecraft:stone 0
+fill ~16~55~8 ~19~55~14 minecraft:stone 6
+fill ~16~56~8 ~19~56~14 minecraft:stone 0
+fill ~16~58~8 ~19~58~14 minecraft:stone 0
+fill ~16~60~8 ~19~60~14 minecraft:stone 0
+fill ~16~61~8 ~39~61~14 minecraft:stone 6
+fill ~16~62~8 ~19~62~14 minecraft:stone 0
+fill ~17~39~8 ~34~39~14 minecraft:stone 6
+fill ~17~40~8 ~34~40~8 minecraft:stone 6
+fill ~20~46~8 ~23~46~8 minecraft:stone 6
+fill ~20~58~8 ~23~58~8 minecraft:stone 6
+fill ~20~60~8 ~23~60~8 minecraft:stone 6
+fill ~20~62~8 ~23~62~8 minecraft:stone 6
+fill ~24~41~8 ~27~41~14 minecraft:stone 6
+fill ~24~42~8 ~27~42~14 minecraft:stone 0
+fill ~24~43~8 ~27~43~14 minecraft:stone 6
+fill ~24~44~8 ~27~44~14 minecraft:stone 0
+fill ~24~46~8 ~27~46~14 minecraft:stone 0
+fill ~24~47~8 ~24~47~14 minecraft:stone 6
+fill ~24~48~8 ~24~48~14 minecraft:stone 0
+fill ~24~49~8 ~24~49~14 minecraft:stone 6
+fill ~24~50~8 ~24~50~14 minecraft:stone 0
+fill ~24~51~8 ~27~51~14 minecraft:stone 6
+fill ~24~52~8 ~27~52~14 minecraft:stone 0
+fill ~24~53~8 ~27~53~14 minecraft:stone 6
+fill ~24~54~8 ~27~54~14 minecraft:stone 0
+fill ~24~55~8 ~27~55~14 minecraft:stone 6
+fill ~24~56~8 ~27~56~14 minecraft:stone 0
+fill ~24~58~8 ~27~58~14 minecraft:stone 0
+fill ~24~60~8 ~27~60~14 minecraft:stone 0
+fill ~24~62~8 ~27~62~14 minecraft:stone 0
+fill ~25~47~8 ~26~50~8 minecraft:tinted_glass
+fill ~25~57~8 ~26~57~14 minecraft:stone 6
+fill ~27~47~8 ~27~47~14 minecraft:stone 6
+fill ~27~48~8 ~27~48~14 minecraft:stone 0
+fill ~27~49~8 ~27~49~14 minecraft:stone 6
+fill ~27~50~8 ~27~50~14 minecraft:stone 0
+fill ~28~46~8 ~31~46~8 minecraft:stone 6
+fill ~28~58~8 ~31~58~8 minecraft:stone 6
+fill ~28~60~8 ~31~60~8 minecraft:stone 6
+fill ~28~62~8 ~31~62~8 minecraft:stone 6
+fill ~32~41~8 ~35~41~14 minecraft:stone 6
+fill ~32~42~8 ~35~42~14 minecraft:stone 0
+fill ~32~43~8 ~35~43~14 minecraft:stone 6
+fill ~32~44~8 ~35~44~14 minecraft:stone 0
+fill ~32~46~8 ~35~46~14 minecraft:stone 0
+fill ~32~47~8 ~35~47~14 minecraft:stone 6
+fill ~32~48~8 ~35~48~14 minecraft:stone 0
+fill ~32~49~8 ~35~49~14 minecraft:stone 6
+fill ~32~50~8 ~35~50~14 minecraft:stone 0
+fill ~32~51~8 ~35~51~14 minecraft:stone 6
+fill ~32~52~8 ~35~52~14 minecraft:stone 0
+fill ~32~53~8 ~35~53~14 minecraft:stone 6
+fill ~32~54~8 ~35~54~14 minecraft:stone 0
+fill ~32~55~8 ~35~55~14 minecraft:stone 6
+fill ~32~56~8 ~35~56~14 minecraft:stone 0
+fill ~32~58~8 ~35~58~14 minecraft:stone 0
+fill ~32~60~8 ~35~60~14 minecraft:stone 0
+fill ~32~62~8 ~35~62~14 minecraft:stone 0
+fill ~33~57~8 ~39~57~14 minecraft:stone 6
+fill ~35~39~8 ~45~40~8 minecraft:stonebrick 0
+fill ~36~30~8 ~39~30~8 minecraft:stone 6
+fill ~36~46~8 ~39~46~8 minecraft:stone 6
+fill ~36~58~8 ~39~58~8 minecraft:stone 6
+fill ~36~60~8 ~39~60~8 minecraft:stone 6
+fill ~36~62~8 ~39~62~8 minecraft:stone 6
+fill ~40~29~8 ~42~29~42 minecraft:stone 6
+fill ~40~30~8 ~42~30~42 minecraft:stone 0
+fill ~40~31~8 ~42~31~42 minecraft:stone 6
+fill ~40~32~8 ~42~32~42 minecraft:stone 0
+fill ~40~33~8 ~42~33~42 minecraft:stone 6
+fill ~40~34~8 ~42~34~42 minecraft:stone 0
+fill ~40~35~8 ~42~35~42 minecraft:stone 6
+fill ~40~36~8 ~42~36~42 minecraft:stone 0
+fill ~40~37~8 ~42~37~42 minecraft:stone 6
+fill ~40~38~8 ~42~38~42 minecraft:stone 0
+fill ~40~41~8 ~43~62~8 minecraft:stonebrick 0
+fill ~43~29~8 ~43~38~11 minecraft:stonebrick 0
+fill ~44~67~8 ~45~67~45 minecraft:stone 6
+fill ~44~70~8 ~45~70~45 minecraft:stone 6
+fill ~46~11~8 ~46~11~11 minecraft:stone 6
+fill ~46~14~8 ~46~14~11 minecraft:stone 6
+fill ~5~10~9 ~5~10~10 minecraft:stone 6
+fill ~5~15~9 ~5~15~10 minecraft:stone 6
+fill ~6~39~9 ~8~40~16 minecraft:stonebrick 0
+fill ~8~29~9 ~11~29~39 minecraft:stone 6
+fill ~8~30~9 ~15~30~11 minecraft:stone 0
+fill ~8~31~9 ~11~31~39 minecraft:stone 6
+fill ~8~32~9 ~15~32~11 minecraft:stone 0
+fill ~8~33~9 ~15~33~14 minecraft:stone 6
+fill ~8~34~9 ~15~34~11 minecraft:stone 0
+fill ~8~35~9 ~15~35~14 minecraft:stone 6
+fill ~8~36~9 ~15~36~11 minecraft:stone 0
+fill ~8~37~9 ~15~37~14 minecraft:stone 6
+fill ~8~38~9 ~39~38~11 minecraft:stone 0
+fill ~8~41~9 ~8~62~11 minecraft:stonebrick 0
+fill ~9~39~9 ~16~39~14 minecraft:stone 6
+fill ~9~40~9 ~42~40~14 minecraft:stone 0
+fill ~9~41~9 ~11~41~42 minecraft:stone 6
+fill ~9~42~9 ~15~42~14 minecraft:stone 0
+fill ~9~43~9 ~15~43~14 minecraft:stone 6
+fill ~9~44~9 ~15~44~14 minecraft:stone 0
+fill ~9~45~9 ~15~45~14 minecraft:stone 6
+fill ~9~46~9 ~15~46~14 minecraft:stone 0
+fill ~9~47~9 ~15~47~14 minecraft:stone 6
+fill ~9~48~9 ~15~48~14 minecraft:stone 0
+fill ~9~49~9 ~15~49~14 minecraft:stone 6
+fill ~9~50~9 ~15~50~14 minecraft:stone 0
+fill ~9~51~9 ~15~51~14 minecraft:stone 6
+fill ~9~52~9 ~15~52~14 minecraft:stone 0
+fill ~9~53~9 ~15~53~14 minecraft:stone 6
+fill ~9~54~9 ~15~54~14 minecraft:stone 0
+fill ~9~55~9 ~15~55~14 minecraft:stone 6
+fill ~9~56~9 ~15~56~14 minecraft:stone 0
+fill ~9~57~9 ~11~57~42 minecraft:stone 6
+fill ~9~58~9 ~15~58~14 minecraft:stone 0
+fill ~9~59~9 ~11~59~42 minecraft:stone 6
+fill ~9~60~9 ~15~60~14 minecraft:stone 0
+fill ~9~61~9 ~15~61~14 minecraft:stone 6
+fill ~9~62~9 ~15~62~14 minecraft:stone 0
+fill ~12~63~9 ~39~63~11 minecraft:stone 0
+fill ~12~64~9 ~39~64~14 minecraft:stone 6
+fill ~12~65~9 ~39~65~11 minecraft:stone 0
+fill ~20~42~9 ~23~42~14 minecraft:stone 0
+fill ~20~43~9 ~23~43~14 minecraft:stone 6
+fill ~20~44~9 ~23~44~14 minecraft:stone 0
+fill ~20~46~9 ~23~46~14 minecraft:stone 0
+fill ~20~48~9 ~23~48~14 minecraft:stone 0
+fill ~20~49~9 ~23~49~14 minecraft:stone 6
+fill ~20~50~9 ~23~50~14 minecraft:stone 0
+fill ~20~51~9 ~23~51~14 minecraft:stone 6
+fill ~20~52~9 ~23~52~14 minecraft:stone 0
+fill ~20~53~9 ~23~53~14 minecraft:stone 6
+fill ~20~54~9 ~23~54~14 minecraft:stone 0
+fill ~20~55~9 ~23~55~14 minecraft:stone 6
+fill ~20~56~9 ~23~56~14 minecraft:stone 0
+fill ~20~58~9 ~23~58~14 minecraft:stone 0
+fill ~20~60~9 ~23~60~14 minecraft:stone 0
+fill ~20~62~9 ~23~62~14 minecraft:stone 0
+fill ~25~47~9 ~26~47~14 minecraft:stone 6
+fill ~25~48~9 ~26~48~14 minecraft:stone 0
+fill ~25~49~9 ~26~49~14 minecraft:stone 6
+fill ~25~50~9 ~26~50~14 minecraft:stone 0
+fill ~28~42~9 ~31~42~14 minecraft:stone 0
+fill ~28~43~9 ~31~43~14 minecraft:stone 6
+fill ~28~44~9 ~31~44~14 minecraft:stone 0
+fill ~28~46~9 ~31~46~14 minecraft:stone 0
+fill ~28~48~9 ~31~48~14 minecraft:stone 0
+fill ~28~49~9 ~31~49~14 minecraft:stone 6
+fill ~28~50~9 ~31~50~14 minecraft:stone 0
+fill ~28~51~9 ~31~51~14 minecraft:stone 6
+fill ~28~52~9 ~31~52~14 minecraft:stone 0
+fill ~28~53~9 ~31~53~14 minecraft:stone 6
+fill ~28~54~9 ~31~54~14 minecraft:stone 0
+fill ~28~55~9 ~31~55~14 minecraft:stone 6
+fill ~28~56~9 ~31~56~14 minecraft:stone 0
+fill ~28~58~9 ~31~58~14 minecraft:stone 0
+fill ~28~60~9 ~31~60~14 minecraft:stone 0
+fill ~28~62~9 ~31~62~14 minecraft:stone 0
+fill ~35~39~9 ~42~39~14 minecraft:stone 6
+fill ~36~30~9 ~39~30~14 minecraft:stone 0
+fill ~36~32~9 ~39~32~14 minecraft:stone 0
+fill ~36~33~9 ~39~33~14 minecraft:stone 6
+fill ~36~34~9 ~39~34~14 minecraft:stone 0
+fill ~36~35~9 ~39~35~14 minecraft:stone 6
+fill ~36~36~9 ~39~36~14 minecraft:stone 0
+fill ~36~42~9 ~42~42~14 minecraft:stone 0
+fill ~36~43~9 ~42~43~14 minecraft:stone 6
+fill ~36~44~9 ~42~44~14 minecraft:stone 0
+fill ~36~46~9 ~42~46~14 minecraft:stone 0
+fill ~36~48~9 ~42~48~14 minecraft:stone 0
+fill ~36~49~9 ~42~49~14 minecraft:stone 6
+fill ~36~50~9 ~42~50~14 minecraft:stone 0
+fill ~36~51~9 ~42~51~14 minecraft:stone 6
+fill ~36~52~9 ~42~52~14 minecraft:stone 0
+fill ~36~53~9 ~42~53~14 minecraft:stone 6
+fill ~36~54~9 ~42~54~14 minecraft:stone 0
+fill ~36~55~9 ~42~55~14 minecraft:stone 6
+fill ~36~56~9 ~42~56~14 minecraft:stone 0
+fill ~36~58~9 ~42~58~14 minecraft:stone 0
+fill ~36~60~9 ~42~60~14 minecraft:stone 0
+fill ~36~62~9 ~42~62~14 minecraft:stone 0
+fill ~40~41~9 ~42~41~42 minecraft:stone 6
+fill ~40~45~9 ~42~45~42 minecraft:stone 6
+fill ~40~47~9 ~42~47~42 minecraft:stone 6
+fill ~40~57~9 ~42~57~42 minecraft:stone 6
+fill ~40~59~9 ~42~59~42 minecraft:stone 6
+fill ~40~61~9 ~42~61~42 minecraft:stone 6
+fill ~43~39~9 ~45~40~16 minecraft:stonebrick 0
+fill ~43~41~9 ~43~62~11 minecraft:stonebrick 0
+fill ~45~21~9 ~45~21~47 minecraft:stone 6
+fill ~45~23~9 ~45~23~46 minecraft:stone 6
+fill ~45~256~9 ~46~257~16 minecraft:oxidized_copper
+fill ~45~258~9 ~46~259~10 minecraft:oxidized_copper
+fill ~46~10~9 ~46~10~10 minecraft:stone 6
+fill ~46~15~9 ~46~15~10 minecraft:stone 6
+fill ~47~246~9 ~50~247~16 minecraft:oxidized_copper
+fill ~47~254~9 ~50~255~16 minecraft:oxidized_copper
+fill ~49~242~9 ~50~243~16 minecraft:oxidized_copper
+fill ~51~244~9 ~52~245~14 minecraft:oxidized_copper
+fill ~51~248~9 ~52~249~14 minecraft:oxidized_copper
+fill ~51~256~9 ~52~257~16 minecraft:oxidized_copper
+fill ~51~258~9 ~52~259~10 minecraft:oxidized_copper
+fill ~6~61~10 ~7~61~11 minecraft:stone 0
+fill ~6~62~10 ~7~62~41 minecraft:stone 6
+fill ~22~74~10 ~22~74~11 minecraft:stone_block_slab 13
+fill ~23~70~10 ~24~70~14 minecraft:stone 0
+fill ~23~71~10 ~24~72~11 minecraft:stone 0
+fill ~23~73~10 ~24~74~11 minecraft:monster_egg 2
+fill ~23~75~10 ~23~75~14 minecraft:stone 6
+fill ~24~75~10 ~27~75~11 minecraft:stone 5
+fill ~24~76~10 ~24~76~11 minecraft:stone 6
+fill ~25~74~10 ~28~74~11 minecraft:monster_egg 2
+fill ~25~76~10 ~26~76~11 minecraft:stone 5
+fill ~25~77~10 ~26~77~14 minecraft:stone 6
+fill ~27~70~10 ~28~70~14 minecraft:stone 0
+fill ~27~71~10 ~28~72~11 minecraft:stone 0
+fill ~27~73~10 ~28~73~11 minecraft:monster_egg 2
+fill ~27~76~10 ~27~76~11 minecraft:stone 6
+fill ~28~75~10 ~28~75~14 minecraft:stone 6
+fill ~29~74~10 ~29~74~11 minecraft:stone_block_slab 13
+fill ~44~61~10 ~45~61~11 minecraft:stone 0
+fill ~44~62~10 ~45~62~41 minecraft:stone 6
+fill ~5~57~11 ~7~58~16 minecraft:stone 6
+fill ~14~85~11 ~37~85~14 minecraft:stone 6
+fill ~14~86~11 ~37~86~40 minecraft:oxidized_copper
+fill ~43~256~11 ~44~259~14 minecraft:oxidized_copper
+fill ~44~57~11 ~46~58~16 minecraft:stone 6
+fill ~45~244~11 ~50~245~14 minecraft:oxidized_copper
+fill ~45~246~11 ~46~246~14 minecraft:oxidized_copper
+fill ~45~247~11 ~46~248~12 minecraft:oxidized_copper
+fill ~45~254~11 ~46~255~14 minecraft:oxidized_copper
+fill ~46~249~11 ~50~249~12 minecraft:oxidized_copper
+fill ~47~242~11 ~48~243~18 minecraft:oxidized_copper
+fill ~47~248~11 ~50~248~14 minecraft:oxidized_copper
+fill ~48~236~11 ~49~241~11 minecraft:oxidized_copper
+fill ~48~250~11 ~49~253~11 minecraft:oxidized_copper
+fill ~48~258~11 ~49~261~11 minecraft:oxidized_copper
+fill ~48~262~11 ~49~265~11 minecraft:gold_block
+fill ~49~266~11 ~50~269~12 minecraft:gold_block
+fill ~51~242~11 ~52~243~16 minecraft:oxidized_copper
+fill ~51~246~11 ~52~247~14 minecraft:oxidized_copper
+fill ~51~250~11 ~52~252~12 minecraft:oxidized_copper
+fill ~51~253~11 ~51~255~12 minecraft:oxidized_copper
+fill ~52~254~11 ~52~255~14 minecraft:oxidized_copper
+fill ~53~256~11 ~54~259~14 minecraft:oxidized_copper
+fill ~4~63~12 ~47~63~14 minecraft:stone 6
+fill ~4~64~12 ~5~65~39 minecraft:stone 6
+fill ~4~67~12 ~5~72~13 minecraft:stone 6
+fill ~6~29~12 ~7~30~39 minecraft:stone 6
+fill ~6~31~12 ~7~38~15 minecraft:stone 6
+fill ~6~41~12 ~8~56~15 minecraft:stone 6
+fill ~6~59~12 ~8~59~39 minecraft:stone 6
+fill ~6~60~12 ~8~61~15 minecraft:stone 6
+fill ~6~65~12 ~47~65~14 minecraft:stone 6
+fill ~8~30~12 ~8~30~15 minecraft:stone 6
+fill ~8~32~12 ~8~32~15 minecraft:stone 6
+fill ~8~34~12 ~8~34~15 minecraft:stone 6
+fill ~8~36~12 ~8~36~15 minecraft:stone 6
+fill ~8~38~12 ~8~38~39 minecraft:stone 6
+fill ~8~57~12 ~8~57~39 minecraft:stone 6
+fill ~8~58~12 ~8~58~15 minecraft:stone 6
+fill ~8~62~12 ~8~62~15 minecraft:stone 6
+fill ~9~30~12 ~15~30~14 minecraft:stone 0
+fill ~9~32~12 ~15~32~14 minecraft:stone 0
+fill ~9~34~12 ~15~34~14 minecraft:stone 0
+fill ~9~36~12 ~15~36~14 minecraft:stone 0
+fill ~9~38~12 ~39~38~14 minecraft:stone 0
+fill ~12~70~12 ~22~70~14 minecraft:stone 0
+fill ~12~71~12 ~24~71~14 minecraft:stone 6
+fill ~12~72~12 ~24~72~14 minecraft:stone 0
+fill ~12~73~12 ~24~73~14 minecraft:stone 6
+fill ~12~74~12 ~39~74~14 minecraft:stone 0
+fill ~12~75~12 ~22~75~14 minecraft:stone 6
+fill ~12~76~12 ~39~76~14 minecraft:stone 0
+fill ~12~77~12 ~24~77~14 minecraft:stone 6
+fill ~12~78~12 ~39~78~14 minecraft:stone 0
+fill ~12~79~12 ~39~79~14 minecraft:stone 6
+fill ~13~85~12 ~13~85~39 minecraft:stone 6
+fill ~13~86~12 ~13~86~39 minecraft:oxidized_copper
+fill ~15~84~12 ~36~84~14 minecraft:stone 0
+fill ~15~87~12 ~36~87~39 minecraft:oxidized_copper
+fill ~24~75~12 ~27~75~14 minecraft:stone 6
+fill ~27~71~12 ~39~71~14 minecraft:stone 6
+fill ~27~72~12 ~39~72~14 minecraft:stone 0
+fill ~27~73~12 ~39~73~14 minecraft:stone 6
+fill ~27~77~12 ~39~77~14 minecraft:stone 6
+fill ~29~70~12 ~39~70~14 minecraft:stone 0
+fill ~29~75~12 ~39~75~14 minecraft:stone 6
+fill ~38~85~12 ~38~85~39 minecraft:stone 6
+fill ~38~86~12 ~38~86~39 minecraft:oxidized_copper
+fill ~43~29~12 ~45~29~39 minecraft:stone 6
+fill ~43~30~12 ~45~38~15 minecraft:stone 6
+fill ~43~41~12 ~45~56~15 minecraft:stone 6
+fill ~43~57~12 ~43~57~39 minecraft:stone 6
+fill ~43~58~12 ~43~62~15 minecraft:stone 6
+fill ~44~59~12 ~45~61~39 minecraft:stone 6
+fill ~46~21~12 ~47~22~14 minecraft:stone 6
+fill ~46~23~12 ~46~24~14 minecraft:stone 6
+fill ~46~64~12 ~47~64~39 minecraft:stone 6
+fill ~46~67~12 ~47~72~13 minecraft:stone 6
+fill ~46~266~12 ~47~267~15 minecraft:gold_block
+fill ~47~236~12 ~47~241~12 minecraft:oxidized_copper
+fill ~47~250~12 ~47~253~13 minecraft:oxidized_copper
+fill ~47~258~12 ~47~261~13 minecraft:oxidized_copper
+fill ~47~262~12 ~47~265~13 minecraft:gold_block
+fill ~48~265~12 ~50~265~13 minecraft:gold_block
+fill ~50~236~12 ~50~241~12 minecraft:oxidized_copper
+fill ~50~250~12 ~50~253~13 minecraft:oxidized_copper
+fill ~50~258~12 ~50~261~13 minecraft:oxidized_copper
+fill ~50~262~12 ~50~264~13 minecraft:gold_block
+fill ~4~21~13 ~5~22~15 minecraft:stone 6
+fill ~5~23~13 ~5~24~15 minecraft:stone 6
+fill ~12~85~13 ~12~85~38 minecraft:stone 6
+fill ~12~86~13 ~12~86~38 minecraft:oxidized_copper
+fill ~14~84~13 ~14~84~38 minecraft:stone 0
+fill ~14~87~13 ~14~87~38 minecraft:oxidized_copper
+fill ~15~88~13 ~36~93~38 minecraft:oxidized_copper
+fill ~17~138~13 ~28~142~14 minecraft:oxidized_copper
+fill ~17~143~13 ~27~143~14 minecraft:oxidized_copper
+fill ~17~144~13 ~26~152~14 minecraft:oxidized_copper
+fill ~17~153~13 ~25~153~14 minecraft:oxidized_copper
+fill ~17~154~13 ~24~157~14 minecraft:oxidized_copper
+fill ~19~136~13 ~28~137~14 minecraft:oxidized_copper
+fill ~19~158~13 ~24~158~14 minecraft:oxidized_copper
+fill ~19~159~13 ~23~159~14 minecraft:oxidized_copper
+fill ~19~160~13 ~22~170~14 minecraft:oxidized_copper
+fill ~21~134~13 ~26~135~16 minecraft:oxidized_copper
+fill ~23~132~13 ~26~133~16 minecraft:oxidized_copper
+fill ~27~226~13 ~28~227~33 minecraft:oxidized_copper
+fill ~37~84~13 ~37~84~38 minecraft:stone 0
+fill ~37~87~13 ~37~87~39 minecraft:oxidized_copper
+fill ~39~85~13 ~39~85~38 minecraft:stone 6
+fill ~39~86~13 ~39~86~38 minecraft:oxidized_copper
+fill ~45~240~13 ~46~243~16 minecraft:oxidized_copper
+fill ~45~266~13 ~45~267~14 minecraft:gold_block
+fill ~46~247~13 ~46~247~14 minecraft:oxidized_copper
+fill ~47~249~13 ~50~249~14 minecraft:oxidized_copper
+fill ~48~236~13 ~49~241~13 minecraft:oxidized_copper
+fill ~48~266~13 ~48~267~14 minecraft:gold_block
+fill ~51~240~13 ~52~241~16 minecraft:oxidized_copper
+fill ~51~254~13 ~51~255~14 minecraft:oxidized_copper
+fill ~11~85~14 ~11~85~37 minecraft:stone 6
+fill ~11~86~14 ~11~86~37 minecraft:oxidized_copper
+fill ~13~84~14 ~13~84~37 minecraft:stone 0
+fill ~13~87~14 ~13~87~37 minecraft:oxidized_copper
+fill ~14~80~14 ~37~80~14 minecraft:stone 0
+fill ~14~81~14 ~37~81~14 minecraft:stone 6
+fill ~14~82~14 ~37~82~14 minecraft:stone 0
+fill ~14~83~14 ~37~83~14 minecraft:stone 6
+fill ~14~88~14 ~14~93~37 minecraft:oxidized_copper
+fill ~19~171~14 ~22~171~16 minecraft:oxidized_copper
+fill ~37~88~14 ~37~93~37 minecraft:oxidized_copper
+fill ~38~84~14 ~38~84~37 minecraft:stone 0
+fill ~38~87~14 ~38~87~38 minecraft:oxidized_copper
+fill ~40~85~14 ~40~85~37 minecraft:stone 6
+fill ~40~86~14 ~40~86~37 minecraft:oxidized_copper
+fill ~45~268~14 ~46~271~15 minecraft:gold_block
+fill ~48~250~14 ~49~253~14 minecraft:oxidized_copper
+fill ~48~258~14 ~49~261~14 minecraft:oxidized_copper
+fill ~48~262~14 ~49~265~14 minecraft:gold_block
+fill ~3~166~15 ~6~167~18 minecraft:oxidized_copper
+fill ~4~0~15 ~14~0~24 minecraft:stone 0
+fill ~4~1~15 ~14~1~24 minecraft:stone 6
+fill ~4~2~15 ~14~2~24 minecraft:stone 0
+fill ~4~3~15 ~14~3~24 minecraft:stone 6
+fill ~4~4~15 ~14~4~47 minecraft:stone 0
+fill ~4~5~15 ~14~5~47 minecraft:stone 6
+fill ~4~6~15 ~14~6~47 minecraft:stone 0
+fill ~4~7~15 ~14~7~47 minecraft:stone 6
+fill ~4~8~15 ~14~8~47 minecraft:stone 0
+fill ~4~9~15 ~14~9~47 minecraft:stone 6
+fill ~4~16~15 ~14~16~47 minecraft:stone 0
+fill ~4~17~15 ~14~17~47 minecraft:stone 6
+fill ~4~18~15 ~14~18~47 minecraft:stone 0
+fill ~4~19~15 ~14~19~47 minecraft:stone 6
+fill ~4~20~15 ~14~20~47 minecraft:stone 0
+fill ~4~63~15 ~14~63~39 minecraft:stone 6
+fill ~4~66~15 ~14~66~47 minecraft:stone 6
+fill ~5~12~15 ~5~13~20 minecraft:stone 6
+fill ~5~164~15 ~6~165~34 minecraft:oxidized_copper
+fill ~5~168~15 ~8~169~16 minecraft:oxidized_copper
+fill ~6~10~15 ~14~10~45 minecraft:stone 0
+fill ~6~12~15 ~14~12~45 minecraft:stone 0
+fill ~6~13~15 ~14~13~45 minecraft:stone 6
+fill ~6~14~15 ~14~14~45 minecraft:stone 0
+fill ~6~22~15 ~14~22~45 minecraft:stone 0
+fill ~6~24~15 ~14~24~45 minecraft:stone 0
+fill ~6~25~15 ~14~25~45 minecraft:stone 6
+fill ~6~26~15 ~14~26~45 minecraft:stone 0
+fill ~6~65~15 ~14~65~39 minecraft:stone 6
+fill ~8~27~15 ~14~27~43 minecraft:stone 6
+fill ~8~28~15 ~14~28~43 minecraft:stone 0
+fill ~8~33~15 ~14~33~39 minecraft:stone 6
+fill ~8~35~15 ~14~35~39 minecraft:stone 6
+fill ~8~37~15 ~14~37~39 minecraft:stone 6
+fill ~8~68~15 ~14~69~45 minecraft:stone 6
+fill ~9~30~15 ~14~30~42 minecraft:stone 0
+fill ~9~32~15 ~14~32~42 minecraft:stone 0
+fill ~9~34~15 ~14~34~42 minecraft:stone 0
+fill ~9~36~15 ~14~36~42 minecraft:stone 0
+fill ~9~38~15 ~14~38~42 minecraft:stone 0
+fill ~9~39~15 ~14~39~42 minecraft:stone 6
+fill ~9~40~15 ~14~40~42 minecraft:stone 0
+fill ~9~42~15 ~14~42~42 minecraft:stone 0
+fill ~9~43~15 ~14~43~42 minecraft:stone 6
+fill ~9~44~15 ~14~44~42 minecraft:stone 0
+fill ~9~45~15 ~14~45~42 minecraft:stone 6
+fill ~9~46~15 ~14~46~42 minecraft:stone 0
+fill ~9~47~15 ~14~47~24 minecraft:stone 6
+fill ~9~48~15 ~14~48~24 minecraft:stone 0
+fill ~9~49~15 ~14~49~24 minecraft:stone 6
+fill ~9~50~15 ~14~50~24 minecraft:stone 0
+fill ~9~51~15 ~14~51~42 minecraft:stone 6
+fill ~9~52~15 ~14~52~42 minecraft:stone 0
+fill ~9~53~15 ~14~53~42 minecraft:stone 6
+fill ~9~54~15 ~14~54~42 minecraft:stone 0
+fill ~9~55~15 ~14~55~42 minecraft:stone 6
+fill ~9~56~15 ~14~56~42 minecraft:stone 0
+fill ~9~58~15 ~14~58~42 minecraft:stone 0
+fill ~9~60~15 ~14~60~42 minecraft:stone 0
+fill ~9~61~15 ~14~61~42 minecraft:stone 6
+fill ~9~62~15 ~14~62~42 minecraft:stone 0
+fill ~11~15~15 ~14~15~45 minecraft:stone 6
+fill ~12~11~15 ~14~11~45 minecraft:stone 6
+fill ~12~29~15 ~14~29~45 minecraft:stone 6
+fill ~12~31~15 ~14~31~45 minecraft:stone 6
+fill ~12~41~15 ~14~41~45 minecraft:stone 6
+fill ~12~57~15 ~14~57~46 minecraft:stone 6
+fill ~12~59~15 ~14~59~45 minecraft:stone 6
+fill ~12~64~15 ~14~64~47 minecraft:stone 6
+fill ~12~70~15 ~14~70~24 minecraft:stone 0
+fill ~12~71~15 ~14~71~24 minecraft:stone 6
+fill ~12~72~15 ~14~72~24 minecraft:stone 0
+fill ~12~73~15 ~14~73~24 minecraft:stone 6
+fill ~12~74~15 ~14~74~39 minecraft:stone 0
+fill ~12~75~15 ~14~75~39 minecraft:stone 6
+fill ~12~76~15 ~14~76~39 minecraft:stone 0
+fill ~12~77~15 ~14~77~39 minecraft:stone 6
+fill ~12~78~15 ~14~78~39 minecraft:stone 0
+fill ~12~79~15 ~14~79~39 minecraft:stone 6
+fill ~12~84~15 ~12~84~36 minecraft:stone 0
+fill ~12~87~15 ~12~87~36 minecraft:oxidized_copper
+fill ~13~88~15 ~13~93~36 minecraft:oxidized_copper
+fill ~14~80~15 ~14~80~37 minecraft:stone 0
+fill ~14~81~15 ~14~81~37 minecraft:stone 6
+fill ~14~82~15 ~14~82~37 minecraft:stone 0
+fill ~14~83~15 ~14~83~37 minecraft:stone 6
+fill ~14~85~15 ~16~85~15 minecraft:stone 6
+fill ~15~136~15 ~18~137~16 minecraft:oxidized_copper
+fill ~15~138~15 ~16~158~16 minecraft:oxidized_copper
+fill ~16~159~15 ~18~159~16 minecraft:oxidized_copper
+fill ~17~132~15 ~22~133~16 minecraft:oxidized_copper
+fill ~17~134~15 ~20~135~16 minecraft:oxidized_copper
+fill ~17~158~15 ~18~158~16 minecraft:oxidized_copper
+fill ~17~160~15 ~18~168~16 minecraft:oxidized_copper
+fill ~18~169~15 ~18~169~18 minecraft:oxidized_copper
+fill ~19~130~15 ~32~130~16 minecraft:oxidized_copper
+fill ~19~131~15 ~31~131~16 minecraft:oxidized_copper
+fill ~19~166~15 ~26~167~16 minecraft:oxidized_copper
+fill ~19~170~15 ~24~170~16 minecraft:oxidized_copper
+fill ~19~172~15 ~24~174~16 minecraft:oxidized_copper
+fill ~19~175~15 ~23~175~16 minecraft:oxidized_copper
+fill ~19~176~15 ~22~178~16 minecraft:oxidized_copper
+fill ~21~128~15 ~32~129~16 minecraft:oxidized_copper
+fill ~21~179~15 ~22~180~16 minecraft:oxidized_copper
+fill ~23~126~15 ~32~127~16 minecraft:oxidized_copper
+fill ~23~158~15 ~30~158~16 minecraft:oxidized_copper
+fill ~23~159~15 ~29~159~16 minecraft:oxidized_copper
+fill ~23~160~15 ~28~162~16 minecraft:oxidized_copper
+fill ~23~163~15 ~27~163~16 minecraft:oxidized_copper
+fill ~23~164~15 ~26~165~16 minecraft:oxidized_copper
+fill ~23~168~15 ~26~168~16 minecraft:oxidized_copper
+fill ~23~169~15 ~25~169~16 minecraft:oxidized_copper
+fill ~23~171~15 ~24~171~16 minecraft:oxidized_copper
+fill ~23~180~15 ~28~180~16 minecraft:oxidized_copper
+fill ~23~181~15 ~27~181~16 minecraft:oxidized_copper
+fill ~23~182~15 ~26~184~16 minecraft:oxidized_copper
+fill ~25~124~15 ~32~125~16 minecraft:oxidized_copper
+fill ~25~152~15 ~32~154~16 minecraft:oxidized_copper
+fill ~25~155~15 ~31~155~16 minecraft:oxidized_copper
+fill ~25~156~15 ~30~157~16 minecraft:oxidized_copper
+fill ~25~176~15 ~30~176~16 minecraft:oxidized_copper
+fill ~25~177~15 ~29~177~16 minecraft:oxidized_copper
+fill ~25~178~15 ~28~179~16 minecraft:oxidized_copper
+fill ~27~132~15 ~30~135~16 minecraft:oxidized_copper
+fill ~27~138~15 ~28~151~16 minecraft:oxidized_copper
+fill ~27~172~15 ~34~172~16 minecraft:oxidized_copper
+fill ~27~173~15 ~33~173~16 minecraft:oxidized_copper
+fill ~27~174~15 ~32~175~16 minecraft:oxidized_copper
+fill ~29~136~15 ~30~136~18 minecraft:oxidized_copper
+fill ~29~137~15 ~29~137~18 minecraft:oxidized_copper
+fill ~29~144~15 ~30~151~16 minecraft:oxidized_copper
+fill ~29~170~15 ~37~170~16 minecraft:oxidized_copper
+fill ~29~171~15 ~35~171~16 minecraft:oxidized_copper
+fill ~29~182~15 ~38~182~16 minecraft:oxidized_copper
+fill ~29~183~15 ~37~183~16 minecraft:oxidized_copper
+fill ~29~184~15 ~36~185~16 minecraft:oxidized_copper
+fill ~31~148~15 ~32~151~16 minecraft:oxidized_copper
+fill ~31~166~15 ~38~169~16 minecraft:oxidized_copper
+fill ~31~180~15 ~38~181~16 minecraft:oxidized_copper
+fill ~31~186~15 ~36~186~16 minecraft:oxidized_copper
+fill ~31~187~15 ~35~187~16 minecraft:oxidized_copper
+fill ~31~188~15 ~34~188~16 minecraft:oxidized_copper
+fill ~33~164~15 ~38~165~16 minecraft:oxidized_copper
+fill ~33~178~15 ~36~179~16 minecraft:oxidized_copper
+fill ~33~189~15 ~34~190~16 minecraft:oxidized_copper
+fill ~35~85~15 ~37~85~15 minecraft:stone 6
+fill ~35~162~15 ~38~163~16 minecraft:oxidized_copper
+fill ~37~0~15 ~47~0~24 minecraft:stone 0
+fill ~37~1~15 ~47~1~24 minecraft:stone 6
+fill ~37~2~15 ~47~2~24 minecraft:stone 0
+fill ~37~3~15 ~47~3~24 minecraft:stone 6
+fill ~37~4~15 ~47~4~47 minecraft:stone 0
+fill ~37~5~15 ~47~5~47 minecraft:stone 6
+fill ~37~6~15 ~47~6~47 minecraft:stone 0
+fill ~37~7~15 ~47~7~47 minecraft:stone 6
+fill ~37~8~15 ~47~8~47 minecraft:stone 0
+fill ~37~9~15 ~47~9~47 minecraft:stone 6
+fill ~37~10~15 ~45~10~45 minecraft:stone 0
+fill ~37~11~15 ~39~11~45 minecraft:stone 6
+fill ~37~12~15 ~45~12~45 minecraft:stone 0
+fill ~37~13~15 ~46~13~20 minecraft:stone 6
+fill ~37~14~15 ~45~14~45 minecraft:stone 0
+fill ~37~15~15 ~40~15~45 minecraft:stone 6
+fill ~37~16~15 ~47~16~47 minecraft:stone 0
+fill ~37~17~15 ~47~17~47 minecraft:stone 6
+fill ~37~18~15 ~47~18~47 minecraft:stone 0
+fill ~37~19~15 ~47~19~47 minecraft:stone 6
+fill ~37~20~15 ~47~20~47 minecraft:stone 0
+fill ~37~21~15 ~38~21~47 minecraft:stone 6
+fill ~37~22~15 ~45~22~45 minecraft:stone 0
+fill ~37~23~15 ~38~23~46 minecraft:stone 6
+fill ~37~24~15 ~45~24~45 minecraft:stone 0
+fill ~37~25~15 ~45~25~45 minecraft:stone 6
+fill ~37~26~15 ~45~26~45 minecraft:stone 0
+fill ~37~27~15 ~43~27~43 minecraft:stone 6
+fill ~37~28~15 ~43~28~43 minecraft:stone 0
+fill ~37~29~15 ~39~29~45 minecraft:stone 6
+fill ~37~30~15 ~39~30~42 minecraft:stone 0
+fill ~37~31~15 ~39~31~45 minecraft:stone 6
+fill ~37~32~15 ~39~32~42 minecraft:stone 0
+fill ~37~33~15 ~39~33~45 minecraft:stone 6
+fill ~37~34~15 ~39~34~42 minecraft:stone 0
+fill ~37~35~15 ~39~35~45 minecraft:stone 6
+fill ~37~36~15 ~39~36~42 minecraft:stone 0
+fill ~37~37~15 ~39~37~45 minecraft:stone 6
+fill ~37~38~15 ~39~38~42 minecraft:stone 0
+fill ~37~39~15 ~42~39~42 minecraft:stone 6
+fill ~37~40~15 ~42~40~42 minecraft:stone 0
+fill ~37~41~15 ~39~41~45 minecraft:stone 6
+fill ~37~42~15 ~42~42~42 minecraft:stone 0
+fill ~37~43~15 ~42~43~42 minecraft:stone 6
+fill ~37~44~15 ~42~44~42 minecraft:stone 0
+fill ~37~45~15 ~39~45~45 minecraft:stone 6
+fill ~37~46~15 ~42~46~42 minecraft:stone 0
+fill ~37~47~15 ~39~47~45 minecraft:stone 6
+fill ~37~48~15 ~42~48~42 minecraft:stone 0
+fill ~37~49~15 ~42~49~42 minecraft:stone 6
+fill ~37~50~15 ~42~50~42 minecraft:stone 0
+fill ~37~51~15 ~42~51~42 minecraft:stone 6
+fill ~37~52~15 ~42~52~42 minecraft:stone 0
+fill ~37~53~15 ~42~53~42 minecraft:stone 6
+fill ~37~54~15 ~42~54~42 minecraft:stone 0
+fill ~37~55~15 ~42~55~42 minecraft:stone 6
+fill ~37~56~15 ~42~56~42 minecraft:stone 0
+fill ~37~57~15 ~39~57~46 minecraft:stone 6
+fill ~37~58~15 ~42~58~42 minecraft:stone 0
+fill ~37~59~15 ~39~59~45 minecraft:stone 6
+fill ~37~60~15 ~42~60~42 minecraft:stone 0
+fill ~37~61~15 ~39~61~45 minecraft:stone 6
+fill ~37~62~15 ~42~62~42 minecraft:stone 0
+fill ~37~63~15 ~47~63~39 minecraft:stone 6
+fill ~37~64~15 ~39~64~47 minecraft:stone 6
+fill ~37~65~15 ~47~66~39 minecraft:stone 6
+fill ~37~68~15 ~45~69~45 minecraft:stone 6
+fill ~37~70~15 ~39~70~24 minecraft:stone 0
+fill ~37~71~15 ~39~71~24 minecraft:stone 6
+fill ~37~72~15 ~39~72~24 minecraft:stone 0
+fill ~37~73~15 ~39~73~24 minecraft:stone 6
+fill ~37~74~15 ~39~74~39 minecraft:stone 0
+fill ~37~75~15 ~39~75~39 minecraft:stone 6
+fill ~37~76~15 ~39~76~39 minecraft:stone 0
+fill ~37~77~15 ~39~77~39 minecraft:stone 6
+fill ~37~78~15 ~39~78~39 minecraft:stone 0
+fill ~37~79~15 ~39~79~39 minecraft:stone 6
+fill ~37~80~15 ~37~80~37 minecraft:stone 0
+fill ~37~81~15 ~37~81~37 minecraft:stone 6
+fill ~37~82~15 ~37~82~37 minecraft:stone 0
+fill ~37~83~15 ~37~83~37 minecraft:stone 6
+fill ~37~190~15 ~42~190~16 minecraft:oxidized_copper
+fill ~37~191~15 ~41~191~16 minecraft:oxidized_copper
+fill ~37~192~15 ~40~194~16 minecraft:oxidized_copper
+fill ~37~195~15 ~39~195~16 minecraft:oxidized_copper
+fill ~37~196~15 ~38~198~18 minecraft:oxidized_copper
+fill ~38~88~15 ~38~93~36 minecraft:oxidized_copper
+fill ~39~84~15 ~39~84~36 minecraft:stone 0
+fill ~39~87~15 ~39~87~37 minecraft:oxidized_copper
+fill ~39~186~15 ~42~189~16 minecraft:oxidized_copper
+fill ~39~202~15 ~44~202~16 minecraft:oxidized_copper
+fill ~39~203~15 ~43~203~16 minecraft:oxidized_copper
+fill ~39~204~15 ~42~206~16 minecraft:oxidized_copper
+fill ~41~196~15 ~46~200~16 minecraft:oxidized_copper
+fill ~41~201~15 ~45~201~16 minecraft:oxidized_copper
+fill ~43~194~15 ~46~195~16 minecraft:oxidized_copper
+fill ~43~212~15 ~44~213~24 minecraft:oxidized_copper
+fill ~43~214~15 ~44~215~22 minecraft:oxidized_copper
+fill ~43~216~15 ~46~219~16 minecraft:oxidized_copper
+fill ~44~224~15 ~49~227~20 minecraft:oxidized_copper
+fill ~45~220~15 ~46~223~20 minecraft:oxidized_copper
+fill ~45~228~15 ~48~229~20 minecraft:oxidized_copper
+fill ~45~230~15 ~48~239~18 minecraft:oxidized_copper
+fill ~45~258~15 ~46~259~16 minecraft:oxidized_copper
+fill ~46~12~15 ~46~12~20 minecraft:stone 6
+fill ~47~222~15 ~48~223~20 minecraft:oxidized_copper
+fill ~47~240~15 ~50~241~18 minecraft:oxidized_copper
+fill ~47~244~15 ~50~245~16 minecraft:oxidized_copper
+fill ~49~234~15 ~50~239~16 minecraft:oxidized_copper
+fill ~49~248~15 ~50~249~16 minecraft:oxidized_copper
+fill ~51~258~15 ~52~259~16 minecraft:oxidized_copper
+fill ~5~11~16 ~5~11~19 minecraft:stone 6
+fill ~5~14~16 ~5~14~19 minecraft:stone 6
+fill ~6~37~16 ~7~38~39 minecraft:stone 6
+fill ~6~41~16 ~7~41~19 minecraft:stonebrick 0
+fill ~6~45~16 ~8~45~39 minecraft:stone 6
+fill ~6~46~16 ~7~46~39 minecraft:stone 6
+fill ~6~60~16 ~7~61~39 minecraft:stone 6
+fill ~8~30~16 ~8~30~35 minecraft:stone 0
+fill ~8~32~16 ~8~32~35 minecraft:stone 0
+fill ~8~34~16 ~8~34~35 minecraft:stone 0
+fill ~8~36~16 ~8~36~35 minecraft:stone 0
+fill ~8~41~16 ~8~41~39 minecraft:stone 6
+fill ~8~42~16 ~8~42~19 minecraft:stone 0
+fill ~8~43~16 ~8~43~39 minecraft:stone 6
+fill ~8~44~16 ~8~44~19 minecraft:stone 0
+fill ~8~46~16 ~8~46~19 minecraft:stone 0
+fill ~8~47~16 ~8~47~24 minecraft:stone 6
+fill ~8~48~16 ~8~48~19 minecraft:stone 0
+fill ~8~49~16 ~8~49~24 minecraft:stone 6
+fill ~8~50~16 ~8~50~19 minecraft:stone 0
+fill ~8~51~16 ~8~51~39 minecraft:stone 6
+fill ~8~52~16 ~8~52~19 minecraft:stone 0
+fill ~8~53~16 ~8~53~39 minecraft:stone 6
+fill ~8~54~16 ~8~54~19 minecraft:stone 0
+fill ~8~55~16 ~8~55~39 minecraft:stone 6
+fill ~8~56~16 ~8~56~19 minecraft:stone 0
+fill ~8~58~16 ~8~58~19 minecraft:stone 0
+fill ~8~60~16 ~8~60~19 minecraft:stone 0
+fill ~8~61~16 ~8~61~39 minecraft:stone 6
+fill ~8~62~16 ~8~62~19 minecraft:stone 0
+fill ~14~85~16 ~15~85~16 minecraft:stone 6
+fill ~19~179~16 ~20~179~18 minecraft:oxidized_copper
+fill ~20~226~16 ~21~227~17 minecraft:oxidized_copper
+fill ~21~181~16 ~22~181~16 minecraft:oxidized_copper
+fill ~23~185~16 ~26~185~18 minecraft:oxidized_copper
+fill ~31~189~16 ~32~189~16 minecraft:oxidized_copper
+fill ~33~191~16 ~34~191~16 minecraft:oxidized_copper
+fill ~34~226~16 ~35~227~17 minecraft:oxidized_copper
+fill ~36~85~16 ~37~85~16 minecraft:stone 6
+fill ~37~199~16 ~38~199~18 minecraft:oxidized_copper
+fill ~39~207~16 ~42~207~16 minecraft:oxidized_copper
+fill ~43~30~16 ~43~30~35 minecraft:stone 0
+fill ~43~31~16 ~43~31~42 minecraft:stone 6
+fill ~43~32~16 ~43~32~35 minecraft:stone 0
+fill ~43~33~16 ~43~33~42 minecraft:stone 6
+fill ~43~34~16 ~43~34~35 minecraft:stone 0
+fill ~43~35~16 ~43~35~42 minecraft:stone 6
+fill ~43~36~16 ~43~36~35 minecraft:stone 0
+fill ~43~37~16 ~45~38~39 minecraft:stone 6
+fill ~43~41~16 ~43~41~39 minecraft:stone 6
+fill ~43~42~16 ~43~42~19 minecraft:stone 0
+fill ~43~43~16 ~43~43~39 minecraft:stone 6
+fill ~43~44~16 ~43~44~19 minecraft:stone 0
+fill ~43~45~16 ~45~45~39 minecraft:stone 6
+fill ~43~46~16 ~43~46~19 minecraft:stone 0
+fill ~43~47~16 ~43~47~24 minecraft:stone 6
+fill ~43~48~16 ~43~48~19 minecraft:stone 0
+fill ~43~49~16 ~43~49~24 minecraft:stone 6
+fill ~43~50~16 ~43~50~19 minecraft:stone 0
+fill ~43~51~16 ~43~51~39 minecraft:stone 6
+fill ~43~52~16 ~43~52~19 minecraft:stone 0
+fill ~43~53~16 ~43~53~39 minecraft:stone 6
+fill ~43~54~16 ~43~54~19 minecraft:stone 0
+fill ~43~55~16 ~43~55~39 minecraft:stone 6
+fill ~43~56~16 ~43~56~19 minecraft:stone 0
+fill ~43~58~16 ~43~58~19 minecraft:stone 0
+fill ~43~59~16 ~43~59~39 minecraft:stone 6
+fill ~43~60~16 ~43~60~19 minecraft:stone 0
+fill ~43~61~16 ~43~61~39 minecraft:stone 6
+fill ~43~62~16 ~43~62~19 minecraft:stone 0
+fill ~44~30~16 ~45~30~39 minecraft:stone 6
+fill ~44~41~16 ~45~41~19 minecraft:stonebrick 0
+fill ~44~46~16 ~45~46~39 minecraft:stone 6
+fill ~46~11~16 ~46~11~19 minecraft:stone 6
+fill ~46~14~16 ~46~14~19 minecraft:stone 6
+fill ~3~164~17 ~4~165~22 minecraft:oxidized_copper
+fill ~3~168~17 ~6~169~30 minecraft:oxidized_copper
+fill ~5~10~17 ~5~10~18 minecraft:stone 6
+fill ~5~15~17 ~5~15~18 minecraft:stone 6
+fill ~5~162~17 ~8~163~30 minecraft:oxidized_copper
+fill ~5~170~17 ~8~171~18 minecraft:oxidized_copper
+fill ~6~39~17 ~7~40~43 minecraft:stonebrick 0
+fill ~7~164~17 ~8~165~34 minecraft:oxidized_copper
+fill ~8~39~17 ~8~40~34 minecraft:stone 6
+fill ~13~136~17 ~14~155~20 minecraft:oxidized_copper
+fill ~14~85~17 ~14~85~40 minecraft:stone 6
+fill ~15~128~17 ~20~129~18 minecraft:oxidized_copper
+fill ~15~130~17 ~18~131~18 minecraft:oxidized_copper
+fill ~15~132~17 ~16~135~18 minecraft:oxidized_copper
+fill ~15~156~17 ~16~169~18 minecraft:oxidized_copper
+fill ~17~94~17 ~22~95~18 minecraft:oxidized_copper
+fill ~17~118~17 ~32~123~18 minecraft:oxidized_copper
+fill ~17~124~17 ~24~125~18 minecraft:oxidized_copper
+fill ~17~126~17 ~22~127~18 minecraft:oxidized_copper
+fill ~17~168~17 ~18~168~18 minecraft:oxidized_copper
+fill ~17~169~17 ~17~178~18 minecraft:oxidized_copper
+fill ~18~170~17 ~18~178~18 minecraft:oxidized_copper
+fill ~19~96~17 ~22~99~18 minecraft:oxidized_copper
+fill ~19~100~17 ~20~101~18 minecraft:oxidized_copper
+fill ~19~114~17 ~30~117~18 minecraft:oxidized_copper
+fill ~19~178~17 ~20~178~18 minecraft:oxidized_copper
+fill ~19~180~17 ~20~184~18 minecraft:oxidized_copper
+fill ~21~112~17 ~30~113~18 minecraft:oxidized_copper
+fill ~21~182~17 ~22~186~18 minecraft:oxidized_copper
+fill ~22~226~17 ~22~227~19 minecraft:oxidized_copper
+fill ~23~174~17 ~26~175~18 minecraft:oxidized_copper
+fill ~23~176~17 ~24~179~18 minecraft:oxidized_copper
+fill ~23~184~17 ~24~184~18 minecraft:oxidized_copper
+fill ~23~186~17 ~24~186~20 minecraft:oxidized_copper
+fill ~25~110~17 ~28~111~18 minecraft:oxidized_copper
+fill ~25~168~17 ~30~169~18 minecraft:oxidized_copper
+fill ~25~170~17 ~28~171~18 minecraft:oxidized_copper
+fill ~25~172~17 ~26~173~18 minecraft:oxidized_copper
+fill ~27~162~17 ~34~163~18 minecraft:oxidized_copper
+fill ~27~164~17 ~32~165~18 minecraft:oxidized_copper
+fill ~27~166~17 ~30~167~18 minecraft:oxidized_copper
+fill ~27~180~17 ~30~181~18 minecraft:oxidized_copper
+fill ~27~182~17 ~28~187~18 minecraft:oxidized_copper
+fill ~29~94~17 ~32~95~20 minecraft:oxidized_copper
+fill ~29~96~17 ~30~97~20 minecraft:oxidized_copper
+fill ~29~138~17 ~34~143~18 minecraft:oxidized_copper
+fill ~29~158~17 ~38~161~18 minecraft:oxidized_copper
+fill ~29~176~17 ~38~177~18 minecraft:oxidized_copper
+fill ~29~178~17 ~32~179~18 minecraft:oxidized_copper
+fill ~29~186~17 ~30~189~18 minecraft:oxidized_copper
+fill ~30~137~17 ~34~137~18 minecraft:oxidized_copper
+fill ~31~124~17 ~34~124~18 minecraft:oxidized_copper
+fill ~31~125~17 ~33~125~18 minecraft:oxidized_copper
+fill ~31~126~17 ~32~136~18 minecraft:oxidized_copper
+fill ~31~144~17 ~36~147~18 minecraft:oxidized_copper
+fill ~31~154~17 ~34~157~18 minecraft:oxidized_copper
+fill ~31~190~17 ~32~191~18 minecraft:oxidized_copper
+fill ~33~122~17 ~34~123~22 minecraft:oxidized_copper
+fill ~33~136~17 ~34~136~18 minecraft:oxidized_copper
+fill ~33~148~17 ~36~150~18 minecraft:oxidized_copper
+fill ~33~151~17 ~35~151~18 minecraft:oxidized_copper
+fill ~33~152~17 ~34~153~18 minecraft:oxidized_copper
+fill ~33~172~17 ~38~175~18 minecraft:oxidized_copper
+fill ~33~192~17 ~36~194~18 minecraft:oxidized_copper
+fill ~33~226~17 ~33~227~19 minecraft:oxidized_copper
+fill ~35~156~17 ~36~157~18 minecraft:oxidized_copper
+fill ~35~170~17 ~38~171~18 minecraft:oxidized_copper
+fill ~35~186~17 ~38~189~18 minecraft:oxidized_copper
+fill ~35~190~17 ~36~191~18 minecraft:oxidized_copper
+fill ~35~195~17 ~36~196~18 minecraft:oxidized_copper
+fill ~37~85~17 ~37~85~40 minecraft:stone 6
+fill ~37~168~17 ~38~169~18 minecraft:oxidized_copper
+fill ~37~178~17 ~40~179~18 minecraft:oxidized_copper
+fill ~37~182~17 ~42~185~18 minecraft:oxidized_copper
+fill ~37~200~17 ~40~202~18 minecraft:oxidized_copper
+fill ~39~162~17 ~40~162~34 minecraft:oxidized_copper
+fill ~39~163~17 ~40~163~30 minecraft:oxidized_copper
+fill ~39~164~17 ~40~166~18 minecraft:oxidized_copper
+fill ~39~167~17 ~39~167~30 minecraft:oxidized_copper
+fill ~39~180~17 ~40~181~18 minecraft:oxidized_copper
+fill ~39~194~17 ~42~195~18 minecraft:oxidized_copper
+fill ~39~196~17 ~40~199~18 minecraft:oxidized_copper
+fill ~39~203~17 ~40~207~18 minecraft:oxidized_copper
+fill ~41~190~17 ~46~193~18 minecraft:oxidized_copper
+fill ~41~208~17 ~44~211~18 minecraft:oxidized_copper
+fill ~41~212~17 ~42~213~22 minecraft:oxidized_copper
+fill ~43~39~17 ~43~40~34 minecraft:stone 6
+fill ~43~184~17 ~44~189~18 minecraft:oxidized_copper
+fill ~43~202~17 ~46~205~18 minecraft:oxidized_copper
+fill ~43~206~17 ~44~207~18 minecraft:oxidized_copper
+fill ~43~216~17 ~44~219~20 minecraft:oxidized_copper
+fill ~43~220~17 ~44~221~18 minecraft:oxidized_copper
+fill ~44~39~17 ~45~40~45 minecraft:stonebrick 0
+fill ~45~199~17 ~47~199~20 minecraft:oxidized_copper
+fill ~45~200~17 ~46~201~18 minecraft:oxidized_copper
+fill ~45~210~17 ~46~213~24 minecraft:oxidized_copper
+fill ~45~214~17 ~46~215~22 minecraft:oxidized_copper
+fill ~45~217~17 ~48~219~20 minecraft:oxidized_copper
+fill ~46~10~17 ~46~10~18 minecraft:stone 6
+fill ~46~15~17 ~46~15~18 minecraft:stone 6
+fill ~47~192~17 ~48~198~18 minecraft:oxidized_copper
+fill ~47~216~17 ~48~216~20 minecraft:oxidized_copper
+fill ~47~220~17 ~48~221~20 minecraft:oxidized_copper
+fill ~47~258~17 ~50~259~18 minecraft:oxidized_copper
+fill ~49~236~17 ~50~239~18 minecraft:oxidized_copper
+fill ~17~179~18 ~18~179~18 minecraft:oxidized_copper
+fill ~19~185~18 ~20~185~20 minecraft:oxidized_copper
+fill ~21~187~18 ~24~187~20 minecraft:oxidized_copper
+fill ~21~226~18 ~21~227~18 minecraft:oxidized_copper
+fill ~23~226~18 ~23~227~24 minecraft:oxidized_copper
+fill ~32~226~18 ~32~227~24 minecraft:oxidized_copper
+fill ~33~195~18 ~34~195~20 minecraft:oxidized_copper
+fill ~34~226~18 ~34~227~18 minecraft:oxidized_copper
+fill ~35~197~18 ~36~197~20 minecraft:oxidized_copper
+fill ~37~203~18 ~38~203~26 minecraft:oxidized_copper
+fill ~39~208~18 ~40~208~26 minecraft:oxidized_copper
+fill ~46~21~18 ~47~22~20 minecraft:stone 6
+fill ~46~23~18 ~46~24~20 minecraft:stone 6
+fill ~3~162~19 ~4~163~30 minecraft:oxidized_copper
+fill ~3~167~19 ~7~167~19 minecraft:oxidized_copper
+fill ~3~170~19 ~6~174~30 minecraft:oxidized_copper
+fill ~4~21~19 ~5~22~21 minecraft:stone 6
+fill ~4~166~19 ~8~166~19 minecraft:oxidized_copper
+fill ~4~175~19 ~5~175~30 minecraft:oxidized_copper
+fill ~5~23~19 ~5~24~21 minecraft:stone 6
+fill ~5~57~19 ~7~58~24 minecraft:stone 6
+fill ~5~160~19 ~10~160~34 minecraft:oxidized_copper
+fill ~5~161~19 ~9~161~34 minecraft:oxidized_copper
+fill ~7~155~19 ~10~159~19 minecraft:oxidized_copper
+fill ~8~154~19 ~10~154~19 minecraft:oxidized_copper
+fill ~9~152~19 ~10~153~28 minecraft:oxidized_copper
+fill ~13~128~19 ~14~131~22 minecraft:oxidized_copper
+fill ~13~132~19 ~14~135~20 minecraft:oxidized_copper
+fill ~13~156~19 ~14~157~24 minecraft:oxidized_copper
+fill ~13~158~19 ~14~161~22 minecraft:oxidized_copper
+fill ~15~118~19 ~16~123~22 minecraft:oxidized_copper
+fill ~15~124~19 ~16~127~20 minecraft:oxidized_copper
+fill ~15~162~19 ~16~180~20 minecraft:oxidized_copper
+fill ~16~181~19 ~18~181~20 minecraft:oxidized_copper
+fill ~17~94~19 ~18~97~28 minecraft:oxidized_copper
+fill ~17~98~19 ~18~99~24 minecraft:oxidized_copper
+fill ~17~100~19 ~18~103~22 minecraft:oxidized_copper
+fill ~17~114~19 ~18~117~20 minecraft:oxidized_copper
+fill ~17~180~19 ~18~180~20 minecraft:oxidized_copper
+fill ~17~182~19 ~18~184~20 minecraft:oxidized_copper
+fill ~19~102~19 ~22~111~20 minecraft:oxidized_copper
+fill ~19~112~19 ~20~113~20 minecraft:oxidized_copper
+fill ~19~184~19 ~20~184~20 minecraft:oxidized_copper
+fill ~19~186~19 ~22~186~20 minecraft:oxidized_copper
+fill ~21~96~19 ~22~101~20 minecraft:oxidized_copper
+fill ~21~188~19 ~24~188~20 minecraft:oxidized_copper
+fill ~23~94~19 ~24~95~20 minecraft:oxidized_copper
+fill ~23~104~19 ~30~109~20 minecraft:oxidized_copper
+fill ~23~110~19 ~24~111~20 minecraft:oxidized_copper
+fill ~23~216~19 ~24~217~22 minecraft:oxidized_copper
+fill ~23~218~19 ~32~221~20 minecraft:oxidized_copper
+fill ~23~222~19 ~23~223~20 minecraft:concrete 15
+fill ~23~224~19 ~32~225~20 minecraft:oxidized_copper
+fill ~24~226~19 ~26~227~24 minecraft:oxidized_copper
+fill ~25~102~19 ~30~103~20 minecraft:oxidized_copper
+fill ~25~186~19 ~28~187~20 minecraft:oxidized_copper
+fill ~25~217~19 ~26~217~22 minecraft:oxidized_copper
+fill ~25~222~19 ~25~223~20 minecraft:concrete 15
+fill ~27~94~19 ~28~101~20 minecraft:oxidized_copper
+fill ~27~188~19 ~28~189~20 minecraft:oxidized_copper
+fill ~27~206~19 ~28~208~22 minecraft:oxidized_copper
+fill ~27~222~19 ~28~223~20 minecraft:concrete 15
+fill ~29~98~19 ~30~101~20 minecraft:oxidized_copper
+fill ~29~110~19 ~32~111~20 minecraft:oxidized_copper
+fill ~29~190~19 ~30~191~20 minecraft:oxidized_copper
+fill ~29~217~19 ~32~217~22 minecraft:oxidized_copper
+fill ~29~226~19 ~31~227~24 minecraft:oxidized_copper
+fill ~30~222~19 ~30~223~20 minecraft:concrete 15
+fill ~31~96~19 ~32~97~20 minecraft:oxidized_copper
+fill ~31~105~19 ~32~105~22 minecraft:oxidized_copper
+fill ~31~106~19 ~32~109~20 minecraft:oxidized_copper
+fill ~31~112~19 ~32~119~20 minecraft:oxidized_copper
+fill ~31~192~19 ~32~193~20 minecraft:oxidized_copper
+fill ~31~216~19 ~32~216~22 minecraft:oxidized_copper
+fill ~32~222~19 ~32~223~20 minecraft:concrete 15
+fill ~33~94~19 ~34~95~22 minecraft:oxidized_copper
+fill ~33~118~19 ~36~120~20 minecraft:oxidized_copper
+fill ~33~121~19 ~35~121~20 minecraft:oxidized_copper
+fill ~33~124~19 ~34~135~20 minecraft:oxidized_copper
+fill ~33~194~19 ~34~194~20 minecraft:oxidized_copper
+fill ~33~196~19 ~36~196~20 minecraft:oxidized_copper
+fill ~33~197~19 ~34~197~30 minecraft:oxidized_copper
+fill ~33~198~19 ~36~198~20 minecraft:oxidized_copper
+fill ~34~199~19 ~36~199~20 minecraft:oxidized_copper
+fill ~35~132~19 ~36~143~20 minecraft:oxidized_copper
+fill ~35~148~19 ~36~155~20 minecraft:oxidized_copper
+fill ~35~200~19 ~36~201~26 minecraft:oxidized_copper
+fill ~35~202~19 ~36~202~22 minecraft:oxidized_copper
+fill ~36~203~19 ~36~203~22 minecraft:oxidized_copper
+fill ~37~140~19 ~38~146~20 minecraft:oxidized_copper
+fill ~37~147~19 ~37~147~24 minecraft:oxidized_copper
+fill ~37~152~19 ~38~157~20 minecraft:oxidized_copper
+fill ~37~204~19 ~38~206~22 minecraft:oxidized_copper
+fill ~38~207~19 ~40~207~20 minecraft:oxidized_copper
+fill ~39~156~19 ~40~161~20 minecraft:oxidized_copper
+fill ~39~166~19 ~42~166~20 minecraft:oxidized_copper
+fill ~39~168~19 ~40~169~30 minecraft:oxidized_copper
+fill ~39~170~19 ~40~171~22 minecraft:oxidized_copper
+fill ~39~172~19 ~40~177~20 minecraft:oxidized_copper
+fill ~39~206~19 ~40~206~20 minecraft:oxidized_copper
+fill ~40~167~19 ~41~167~20 minecraft:oxidized_copper
+fill ~41~160~19 ~42~160~31 minecraft:oxidized_copper
+fill ~41~161~19 ~42~161~29 minecraft:oxidized_copper
+fill ~41~162~19 ~42~162~27 minecraft:oxidized_copper
+fill ~41~163~19 ~42~163~25 minecraft:oxidized_copper
+fill ~41~164~19 ~42~164~23 minecraft:oxidized_copper
+fill ~41~165~19 ~42~165~21 minecraft:oxidized_copper
+fill ~41~178~19 ~42~181~20 minecraft:oxidized_copper
+fill ~41~209~19 ~46~209~24 minecraft:oxidized_copper
+fill ~41~210~19 ~44~211~22 minecraft:oxidized_copper
+fill ~41~214~19 ~42~215~20 minecraft:oxidized_copper
+fill ~43~180~19 ~44~181~30 minecraft:oxidized_copper
+fill ~43~182~19 ~44~183~20 minecraft:oxidized_copper
+fill ~44~57~19 ~46~58~24 minecraft:stone 6
+fill ~45~184~19 ~46~185~28 minecraft:oxidized_copper
+fill ~45~186~19 ~46~189~20 minecraft:oxidized_copper
+fill ~45~206~19 ~46~208~20 minecraft:oxidized_copper
+fill ~47~190~19 ~48~191~26 minecraft:oxidized_copper
+fill ~47~200~19 ~50~200~20 minecraft:oxidized_copper
+fill ~47~201~19 ~48~205~20 minecraft:oxidized_copper
+fill ~47~210~19 ~48~215~22 minecraft:oxidized_copper
+fill ~47~230~19 ~48~233~20 minecraft:oxidized_copper
+fill ~48~199~19 ~50~199~20 minecraft:oxidized_copper
+fill ~49~192~19 ~50~198~22 minecraft:oxidized_copper
+fill ~1~4~20 ~3~4~21 minecraft:stone_block_slab 13
+fill ~4~67~20 ~5~72~21 minecraft:stone 6
+fill ~4~167~20 ~7~167~34 minecraft:oxidized_copper
+fill ~5~166~20 ~8~166~34 minecraft:oxidized_copper
+fill ~6~41~20 ~7~44~23 minecraft:stone 6
+fill ~6~47~20 ~7~56~23 minecraft:stone 6
+fill ~7~156~20 ~10~159~24 minecraft:oxidized_copper
+fill ~8~42~20 ~8~42~23 minecraft:stone 6
+fill ~8~44~20 ~8~44~23 minecraft:stone 6
+fill ~8~46~20 ~8~46~23 minecraft:stone 6
+fill ~8~48~20 ~8~48~23 minecraft:stone 6
+fill ~8~50~20 ~8~50~23 minecraft:stone 6
+fill ~8~52~20 ~8~52~23 minecraft:stone 6
+fill ~8~54~20 ~8~54~23 minecraft:stone 6
+fill ~8~56~20 ~8~56~23 minecraft:stone 6
+fill ~8~58~20 ~8~58~23 minecraft:stone 6
+fill ~8~60~20 ~8~60~23 minecraft:stone 6
+fill ~8~62~20 ~8~62~23 minecraft:stone 6
+fill ~8~155~20 ~10~155~32 minecraft:oxidized_copper
+fill ~9~154~20 ~10~154~32 minecraft:oxidized_copper
+fill ~17~185~20 ~18~185~22 minecraft:oxidized_copper
+fill ~19~187~20 ~20~187~22 minecraft:oxidized_copper
+fill ~21~189~20 ~24~189~20 minecraft:oxidized_copper
+fill ~27~209~20 ~28~209~22 minecraft:oxidized_copper
+fill ~39~209~20 ~40~209~25 minecraft:oxidized_copper
+fill ~43~42~20 ~45~42~23 minecraft:stone 6
+fill ~43~44~20 ~45~44~23 minecraft:stone 6
+fill ~43~46~20 ~43~46~23 minecraft:stone 6
+fill ~43~48~20 ~45~48~23 minecraft:stone 6
+fill ~43~50~20 ~45~50~23 minecraft:stone 6
+fill ~43~52~20 ~45~52~23 minecraft:stone 6
+fill ~43~54~20 ~45~54~23 minecraft:stone 6
+fill ~43~56~20 ~45~56~23 minecraft:stone 6
+fill ~43~58~20 ~43~58~23 minecraft:stone 6
+fill ~43~60~20 ~43~60~23 minecraft:stone 6
+fill ~43~62~20 ~43~62~23 minecraft:stone 6
+fill ~44~41~20 ~45~41~23 minecraft:stone 6
+fill ~44~43~20 ~45~43~23 minecraft:stone 6
+fill ~44~47~20 ~45~47~23 minecraft:stone 6
+fill ~44~49~20 ~45~49~23 minecraft:stone 6
+fill ~44~51~20 ~45~51~23 minecraft:stone 6
+fill ~44~53~20 ~45~53~23 minecraft:stone 6
+fill ~44~55~20 ~45~55~23 minecraft:stone 6
+fill ~46~67~20 ~47~72~21 minecraft:stone 6
+fill ~48~4~20 ~50~4~21 minecraft:stone_block_slab 13
+fill ~49~201~20 ~50~201~26 minecraft:oxidized_copper
+fill ~2~5~21 ~3~5~30 minecraft:stone 5
+setblock ~3~167~21 minecraft:oxidized_copper
+setblock ~4~166~21 minecraft:oxidized_copper
+setblock ~7~155~21 minecraft:oxidized_copper
+setblock ~8~154~21 minecraft:oxidized_copper
+fill ~11~132~21 ~12~137~28 minecraft:oxidized_copper
+fill ~11~138~21 ~12~149~26 minecraft:oxidized_copper
+fill ~13~124~21 ~14~127~24 minecraft:oxidized_copper
+fill ~13~150~21 ~14~155~22 minecraft:oxidized_copper
+fill ~13~162~21 ~14~165~34 minecraft:oxidized_copper
+fill ~13~170~21 ~14~171~30 minecraft:oxidized_copper
+fill ~13~172~21 ~14~175~28 minecraft:oxidized_copper
+fill ~13~176~21 ~14~180~26 minecraft:oxidized_copper
+fill ~14~181~21 ~16~181~22 minecraft:oxidized_copper
+fill ~15~108~21 ~18~113~22 minecraft:oxidized_copper
+fill ~15~114~21 ~16~115~24 minecraft:oxidized_copper
+fill ~15~116~21 ~16~117~22 minecraft:oxidized_copper
+fill ~15~166~21 ~16~169~22 minecraft:oxidized_copper
+fill ~15~180~21 ~16~180~22 minecraft:oxidized_copper
+fill ~15~182~21 ~16~184~22 minecraft:oxidized_copper
+fill ~16~185~21 ~16~185~24 minecraft:oxidized_copper
+fill ~17~104~21 ~18~107~22 minecraft:oxidized_copper
+fill ~17~184~21 ~18~184~22 minecraft:oxidized_copper
+fill ~17~186~21 ~20~186~22 minecraft:oxidized_copper
+fill ~19~188~21 ~20~189~22 minecraft:oxidized_copper
+fill ~21~190~21 ~28~191~22 minecraft:oxidized_copper
+fill ~21~216~21 ~22~219~22 minecraft:oxidized_copper
+fill ~21~220~21 ~22~221~22 minecraft:concrete 15
+fill ~21~222~21 ~34~223~21 minecraft:oxidized_copper
+fill ~23~96~21 ~26~101~22 minecraft:oxidized_copper
+fill ~23~102~21 ~24~103~22 minecraft:oxidized_copper
+fill ~23~214~21 ~32~215~24 minecraft:oxidized_copper
+fill ~23~224~21 ~24~225~22 minecraft:oxidized_copper
+fill ~25~94~21 ~26~95~22 minecraft:oxidized_copper
+fill ~25~188~21 ~26~189~22 minecraft:oxidized_copper
+fill ~25~202~21 ~30~203~26 minecraft:oxidized_copper
+fill ~25~204~21 ~30~205~22 minecraft:oxidized_copper
+fill ~25~206~21 ~26~210~22 minecraft:oxidized_copper
+fill ~25~216~21 ~30~216~22 minecraft:oxidized_copper
+fill ~25~225~21 ~32~225~30 minecraft:oxidized_copper
+fill ~26~200~21 ~29~201~36 minecraft:oxidized_copper
+fill ~26~211~21 ~29~211~24 minecraft:oxidized_copper
+fill ~27~210~21 ~30~210~24 minecraft:oxidized_copper
+fill ~27~212~21 ~28~213~24 minecraft:oxidized_copper
+fill ~27~217~21 ~28~217~22 minecraft:oxidized_copper
+fill ~29~192~21 ~30~193~22 minecraft:oxidized_copper
+fill ~29~206~21 ~30~209~22 minecraft:oxidized_copper
+fill ~31~98~21 ~34~99~22 minecraft:oxidized_copper
+fill ~31~100~21 ~32~104~22 minecraft:oxidized_copper
+fill ~31~194~21 ~32~195~22 minecraft:oxidized_copper
+fill ~31~224~21 ~32~224~22 minecraft:oxidized_copper
+fill ~33~96~21 ~34~97~22 minecraft:oxidized_copper
+fill ~33~105~21 ~34~107~24 minecraft:oxidized_copper
+fill ~33~108~21 ~34~121~22 minecraft:oxidized_copper
+fill ~33~196~21 ~34~196~30 minecraft:oxidized_copper
+fill ~33~198~21 ~34~199~24 minecraft:oxidized_copper
+fill ~33~216~21 ~34~219~22 minecraft:oxidized_copper
+fill ~33~220~21 ~34~221~22 minecraft:concrete 15
+fill ~35~94~21 ~36~95~28 minecraft:oxidized_copper
+fill ~35~124~21 ~36~131~22 minecraft:oxidized_copper
+fill ~37~13~21 ~45~13~45 minecraft:stone 6
+fill ~37~130~21 ~38~133~30 minecraft:oxidized_copper
+fill ~37~134~21 ~38~135~24 minecraft:oxidized_copper
+fill ~37~136~21 ~38~139~22 minecraft:oxidized_copper
+fill ~37~142~21 ~40~142~22 minecraft:oxidized_copper
+fill ~37~143~21 ~39~143~22 minecraft:oxidized_copper
+fill ~37~144~21 ~38~145~32 minecraft:oxidized_copper
+fill ~37~146~21 ~38~146~24 minecraft:oxidized_copper
+fill ~37~148~21 ~38~151~22 minecraft:oxidized_copper
+fill ~38~147~21 ~38~147~24 minecraft:oxidized_copper
+fill ~38~207~21 ~38~207~22 minecraft:oxidized_copper
+fill ~39~138~21 ~40~139~32 minecraft:oxidized_copper
+fill ~39~140~21 ~40~140~25 minecraft:oxidized_copper
+fill ~39~141~21 ~40~141~23 minecraft:oxidized_copper
+fill ~39~150~21 ~40~151~24 minecraft:oxidized_copper
+fill ~39~152~21 ~40~155~22 minecraft:oxidized_copper
+fill ~39~164~21 ~40~166~30 minecraft:oxidized_copper
+fill ~40~167~21 ~40~167~30 minecraft:oxidized_copper
+fill ~41~154~21 ~42~159~22 minecraft:oxidized_copper
+fill ~41~172~21 ~42~175~30 minecraft:oxidized_copper
+fill ~41~176~21 ~42~177~22 minecraft:oxidized_copper
+fill ~43~178~21 ~44~179~28 minecraft:oxidized_copper
+fill ~45~182~21 ~46~183~26 minecraft:oxidized_copper
+fill ~45~216~21 ~46~219~22 minecraft:oxidized_copper
+fill ~47~186~21 ~48~189~24 minecraft:oxidized_copper
+fill ~47~202~21 ~48~203~28 minecraft:oxidized_copper
+fill ~47~204~21 ~48~204~26 minecraft:oxidized_copper
+fill ~47~205~21 ~48~207~24 minecraft:oxidized_copper
+fill ~47~208~21 ~48~209~22 minecraft:oxidized_copper
+fill ~48~5~21 ~49~5~21 minecraft:stone 6
+fill ~49~199~21 ~50~200~26 minecraft:oxidized_copper
+fill ~1~4~22 ~1~4~31 minecraft:stone_block_slab 13
+fill ~2~0~22 ~3~2~24 minecraft:stone 0
+fill ~2~3~22 ~3~4~24 minecraft:monster_egg 2
+fill ~2~6~22 ~3~6~29 minecraft:stone 5
+fill ~10~74~22 ~11~74~22 minecraft:stone_block_slab 13
+fill ~17~187~22 ~18~187~24 minecraft:oxidized_copper
+fill ~21~192~22 ~22~192~28 minecraft:oxidized_copper
+fill ~21~222~22 ~22~223~22 minecraft:oxidized_copper
+fill ~33~222~22 ~34~223~22 minecraft:oxidized_copper
+fill ~40~74~22 ~42~74~22 minecraft:stone_block_slab 13
+fill ~48~0~22 ~49~2~24 minecraft:stone 0
+fill ~48~3~22 ~49~4~24 minecraft:monster_egg 2
+fill ~48~5~22 ~49~5~29 minecraft:stone 5
+fill ~48~6~22 ~49~6~22 minecraft:stone 6
+fill ~49~202~22 ~50~202~26 minecraft:oxidized_copper
+fill ~50~4~22 ~50~4~31 minecraft:stone_block_slab 13
+fill ~2~7~23 ~3~7~28 minecraft:stone 5
+setblock ~3~167~23 minecraft:oxidized_copper
+setblock ~4~166~23 minecraft:oxidized_copper
+fill ~5~12~23 ~5~13~28 minecraft:stone 6
+fill ~5~158~23 ~6~159~32 minecraft:oxidized_copper
+setblock ~7~155~23 minecraft:oxidized_copper
+setblock ~8~154~23 minecraft:oxidized_copper
+fill ~10~70~23 ~11~72~24 minecraft:stone 0
+fill ~10~73~23 ~11~74~24 minecraft:monster_egg 2
+fill ~10~75~23 ~11~75~23 minecraft:stone 6
+fill ~11~128~23 ~12~131~28 minecraft:oxidized_copper
+fill ~11~150~23 ~12~151~28 minecraft:oxidized_copper
+fill ~11~152~23 ~12~159~24 minecraft:oxidized_copper
+fill ~13~116~23 ~14~117~30 minecraft:oxidized_copper
+fill ~13~118~23 ~14~121~26 minecraft:oxidized_copper
+fill ~13~122~23 ~14~123~24 minecraft:oxidized_copper
+fill ~13~160~23 ~14~161~34 minecraft:oxidized_copper
+fill ~13~166~23 ~14~167~32 minecraft:oxidized_copper
+fill ~13~168~23 ~14~169~30 minecraft:oxidized_copper
+fill ~13~181~23 ~14~184~26 minecraft:oxidized_copper
+fill ~14~185~23 ~15~185~24 minecraft:oxidized_copper
+fill ~15~100~23 ~16~111~26 minecraft:oxidized_copper
+fill ~15~112~23 ~16~113~24 minecraft:oxidized_copper
+fill ~15~184~23 ~16~184~24 minecraft:oxidized_copper
+fill ~15~186~23 ~18~186~24 minecraft:oxidized_copper
+fill ~15~187~23 ~16~188~26 minecraft:oxidized_copper
+fill ~16~189~23 ~18~189~24 minecraft:oxidized_copper
+fill ~17~188~23 ~18~188~24 minecraft:oxidized_copper
+fill ~17~226~23 ~22~227~24 minecraft:oxidized_copper
+fill ~19~190~23 ~24~191~24 minecraft:oxidized_copper
+fill ~19~216~23 ~20~217~26 minecraft:oxidized_copper
+fill ~19~218~23 ~20~219~24 minecraft:oxidized_copper
+fill ~19~220~23 ~20~221~24 minecraft:concrete 15
+fill ~19~222~23 ~20~223~26 minecraft:oxidized_copper
+fill ~21~214~23 ~22~215~24 minecraft:oxidized_copper
+fill ~21~224~23 ~22~225~28 minecraft:oxidized_copper
+fill ~23~204~23 ~24~209~26 minecraft:oxidized_copper
+fill ~23~210~23 ~26~210~24 minecraft:oxidized_copper
+fill ~23~211~23 ~25~211~24 minecraft:oxidized_copper
+fill ~23~225~23 ~24~225~30 minecraft:oxidized_copper
+fill ~24~212~23 ~25~213~25 minecraft:oxidized_copper
+fill ~25~192~23 ~28~193~24 minecraft:oxidized_copper
+fill ~25~200~23 ~25~201~36 minecraft:oxidized_copper
+fill ~29~194~23 ~30~195~24 minecraft:oxidized_copper
+fill ~30~200~23 ~30~201~36 minecraft:oxidized_copper
+fill ~30~211~23 ~32~211~24 minecraft:oxidized_copper
+fill ~30~212~23 ~31~213~25 minecraft:oxidized_copper
+fill ~31~195~23 ~32~195~32 minecraft:oxidized_copper
+fill ~31~204~23 ~32~209~26 minecraft:oxidized_copper
+fill ~31~210~23 ~32~210~24 minecraft:oxidized_copper
+fill ~33~98~23 ~34~99~28 minecraft:oxidized_copper
+fill ~33~100~23 ~34~103~26 minecraft:oxidized_copper
+fill ~33~104~23 ~34~104~24 minecraft:oxidized_copper
+fill ~33~214~23 ~34~215~24 minecraft:oxidized_copper
+fill ~33~224~23 ~34~225~28 minecraft:oxidized_copper
+fill ~33~226~23 ~38~227~24 minecraft:oxidized_copper
+fill ~35~96~23 ~36~97~28 minecraft:oxidized_copper
+fill ~35~107~23 ~36~107~28 minecraft:oxidized_copper
+fill ~35~108~23 ~36~111~26 minecraft:oxidized_copper
+fill ~35~112~23 ~36~123~24 minecraft:oxidized_copper
+fill ~35~216~23 ~36~217~26 minecraft:oxidized_copper
+fill ~35~218~23 ~36~219~24 minecraft:oxidized_copper
+fill ~35~220~23 ~36~221~24 minecraft:concrete 15
+fill ~35~222~23 ~36~223~26 minecraft:oxidized_copper
+fill ~37~120~23 ~38~129~24 minecraft:oxidized_copper
+fill ~37~140~23 ~38~143~30 minecraft:oxidized_copper
+fill ~37~202~23 ~38~202~26 minecraft:oxidized_copper
+fill ~39~136~23 ~40~137~30 minecraft:oxidized_copper
+fill ~39~148~23 ~40~149~30 minecraft:oxidized_copper
+fill ~39~204~23 ~40~207~26 minecraft:oxidized_copper
+fill ~40~70~23 ~41~72~24 minecraft:stone 0
+fill ~40~73~23 ~41~74~24 minecraft:monster_egg 2
+fill ~40~75~23 ~41~75~23 minecraft:stone 6
+fill ~41~152~23 ~42~153~24 minecraft:oxidized_copper
+fill ~41~170~23 ~42~171~28 minecraft:oxidized_copper
+fill ~42~74~23 ~42~74~29 minecraft:stone_block_slab 13
+fill ~43~154~23 ~44~155~28 minecraft:oxidized_copper
+fill ~43~156~23 ~44~157~26 minecraft:oxidized_copper
+fill ~43~158~23 ~44~159~24 minecraft:oxidized_copper
+fill ~43~176~23 ~44~177~26 minecraft:oxidized_copper
+fill ~43~210~23 ~44~211~24 minecraft:oxidized_copper
+fill ~45~204~23 ~46~204~28 minecraft:oxidized_copper
+fill ~45~205~23 ~46~206~26 minecraft:oxidized_copper
+fill ~45~207~23 ~46~208~24 minecraft:oxidized_copper
+fill ~46~12~23 ~46~13~28 minecraft:stone 6
+fill ~47~192~23 ~48~193~26 minecraft:oxidized_copper
+fill ~48~6~23 ~49~6~28 minecraft:stone 5
+fill ~48~7~23 ~49~7~24 minecraft:stone 6
+fill ~49~194~23 ~50~198~24 minecraft:oxidized_copper
+fill ~5~11~24 ~5~11~27 minecraft:stone 6
+fill ~5~14~24 ~5~14~27 minecraft:stone 6
+fill ~6~41~24 ~7~41~27 minecraft:stonebrick 0
+fill ~8~42~24 ~8~42~27 minecraft:stone 0
+fill ~8~44~24 ~8~44~27 minecraft:stone 0
+fill ~8~46~24 ~8~46~27 minecraft:stone 0
+setblock ~8~48~24 minecraft:stone 0
+setblock ~8~50~24 minecraft:stone 0
+fill ~8~52~24 ~8~52~27 minecraft:stone 0
+fill ~8~54~24 ~8~54~27 minecraft:stone 0
+fill ~8~56~24 ~8~56~27 minecraft:stone 0
+fill ~8~58~24 ~8~58~27 minecraft:stone 0
+fill ~8~60~24 ~8~60~27 minecraft:stone 0
+fill ~8~62~24 ~8~62~27 minecraft:stone 0
+fill ~10~75~24 ~11~75~27 minecraft:stone 5
+fill ~10~76~24 ~11~76~24 minecraft:stone 6
+fill ~21~193~24 ~22~193~28 minecraft:oxidized_copper
+fill ~40~75~24 ~41~75~27 minecraft:stone 5
+fill ~40~76~24 ~41~76~24 minecraft:stone 6
+fill ~43~42~24 ~43~42~27 minecraft:stone 0
+fill ~43~44~24 ~43~44~27 minecraft:stone 0
+fill ~43~46~24 ~43~46~27 minecraft:stone 0
+setblock ~43~48~24 minecraft:stone 0
+setblock ~43~50~24 minecraft:stone 0
+fill ~43~52~24 ~43~52~27 minecraft:stone 0
+fill ~43~54~24 ~43~54~27 minecraft:stone 0
+fill ~43~56~24 ~43~56~27 minecraft:stone 0
+fill ~43~58~24 ~43~58~27 minecraft:stone 0
+fill ~43~60~24 ~43~60~27 minecraft:stone 0
+fill ~43~62~24 ~43~62~27 minecraft:stone 0
+fill ~44~41~24 ~45~41~27 minecraft:stonebrick 0
+fill ~46~11~24 ~46~11~27 minecraft:stone 6
+fill ~46~14~24 ~46~14~27 minecraft:stone 6
+fill ~46~21~24 ~47~22~26 minecraft:stone 6
+fill ~46~23~24 ~46~24~26 minecraft:stone 6
+fill ~49~203~24 ~50~203~26 minecraft:oxidized_copper
+fill ~2~4~25 ~3~4~29 minecraft:monster_egg 2
+fill ~2~8~25 ~3~8~26 minecraft:stone 5
+setblock ~3~167~25 minecraft:oxidized_copper
+fill ~4~21~25 ~5~22~27 minecraft:stone 6
+setblock ~4~166~25 minecraft:oxidized_copper
+fill ~5~10~25 ~5~10~26 minecraft:stone 6
+fill ~5~15~25 ~5~15~26 minecraft:stone 6
+fill ~5~23~25 ~5~24~27 minecraft:stone 6
+fill ~7~155~25 ~7~159~25 minecraft:oxidized_copper
+fill ~8~47~25 ~8~50~26 minecraft:tinted_glass
+setblock ~8~154~25 minecraft:oxidized_copper
+fill ~8~156~25 ~8~159~32 minecraft:oxidized_copper
+fill ~9~158~25 ~12~159~28 minecraft:oxidized_copper
+fill ~10~47~25 ~14~47~42 minecraft:stone 6
+fill ~10~48~25 ~14~48~42 minecraft:stone 0
+fill ~10~49~25 ~14~49~42 minecraft:stone 6
+fill ~10~50~25 ~14~50~42 minecraft:stone 0
+fill ~10~74~25 ~11~74~28 minecraft:monster_egg 2
+fill ~10~76~25 ~11~76~26 minecraft:stone 5
+fill ~10~77~25 ~11~77~26 minecraft:stone 6
+fill ~11~122~25 ~12~127~28 minecraft:oxidized_copper
+fill ~13~112~25 ~14~115~28 minecraft:oxidized_copper
+fill ~13~185~25 ~14~186~38 minecraft:oxidized_copper
+fill ~14~187~25 ~14~187~38 minecraft:oxidized_copper
+fill ~15~98~25 ~16~99~26 minecraft:oxidized_copper
+fill ~15~189~25 ~16~190~26 minecraft:oxidized_copper
+fill ~16~191~25 ~18~191~28 minecraft:oxidized_copper
+fill ~17~190~25 ~18~190~28 minecraft:oxidized_copper
+fill ~19~192~25 ~20~193~28 minecraft:oxidized_copper
+fill ~19~214~25 ~20~215~28 minecraft:oxidized_copper
+fill ~19~218~25 ~20~219~26 minecraft:concrete 15
+fill ~19~220~25 ~20~221~28 minecraft:oxidized_copper
+fill ~21~210~25 ~22~211~28 minecraft:oxidized_copper
+fill ~21~212~25 ~23~213~26 minecraft:oxidized_copper
+fill ~23~192~25 ~24~193~26 minecraft:oxidized_copper
+fill ~23~202~25 ~24~203~36 minecraft:oxidized_copper
+fill ~25~194~25 ~28~199~26 minecraft:oxidized_copper
+fill ~25~226~25 ~26~227~26 minecraft:oxidized_copper
+fill ~26~212~25 ~26~213~25 minecraft:oxidized_copper
+fill ~28~212~25 ~29~213~25 minecraft:oxidized_copper
+fill ~29~196~25 ~30~199~26 minecraft:oxidized_copper
+fill ~29~226~25 ~30~227~26 minecraft:oxidized_copper
+fill ~31~202~25 ~32~203~36 minecraft:oxidized_copper
+fill ~32~212~25 ~34~213~26 minecraft:oxidized_copper
+fill ~33~210~25 ~34~211~28 minecraft:oxidized_copper
+fill ~35~104~25 ~36~106~28 minecraft:oxidized_copper
+fill ~35~198~25 ~36~199~28 minecraft:oxidized_copper
+fill ~35~214~25 ~36~215~28 minecraft:oxidized_copper
+fill ~35~218~25 ~36~219~26 minecraft:concrete 15
+fill ~35~220~25 ~36~221~28 minecraft:oxidized_copper
+fill ~37~112~25 ~38~113~28 minecraft:oxidized_copper
+fill ~37~114~25 ~38~119~26 minecraft:oxidized_copper
+fill ~37~128~25 ~40~128~30 minecraft:oxidized_copper
+fill ~37~129~25 ~39~129~30 minecraft:oxidized_copper
+fill ~39~120~25 ~40~121~28 minecraft:oxidized_copper
+fill ~39~122~25 ~40~127~26 minecraft:oxidized_copper
+fill ~39~134~25 ~40~135~28 minecraft:oxidized_copper
+fill ~39~146~25 ~40~147~28 minecraft:oxidized_copper
+fill ~40~74~25 ~41~74~28 minecraft:monster_egg 2
+fill ~40~76~25 ~41~76~26 minecraft:stone 5
+fill ~40~77~25 ~41~77~26 minecraft:stone 6
+fill ~41~150~25 ~42~151~28 minecraft:oxidized_copper
+fill ~41~158~25 ~42~159~32 minecraft:oxidized_copper
+fill ~41~208~25 ~44~208~28 minecraft:oxidized_copper
+fill ~41~209~25 ~44~209~27 minecraft:oxidized_copper
+fill ~43~47~25 ~43~50~26 minecraft:tinted_glass
+fill ~43~152~25 ~44~153~28 minecraft:oxidized_copper
+fill ~45~186~25 ~46~189~28 minecraft:oxidized_copper
+fill ~45~202~25 ~46~203~28 minecraft:oxidized_copper
+fill ~45~207~25 ~45~207~26 minecraft:oxidized_copper
+fill ~46~10~25 ~46~10~26 minecraft:stone 6
+fill ~46~15~25 ~46~15~26 minecraft:stone 6
+fill ~47~194~25 ~48~197~28 minecraft:oxidized_copper
+fill ~47~205~25 ~47~205~26 minecraft:oxidized_copper
+fill ~48~4~25 ~49~4~29 minecraft:monster_egg 2
+fill ~48~7~25 ~49~7~26 minecraft:stone 5
+fill ~48~8~25 ~49~8~26 minecraft:stone 6
+fill ~49~198~25 ~50~198~26 minecraft:oxidized_copper
+fill ~49~204~25 ~49~204~26 minecraft:oxidized_copper
+fill ~7~156~26 ~7~159~32 minecraft:oxidized_copper
+fill ~17~192~26 ~18~192~28 minecraft:oxidized_copper
+fill ~19~194~26 ~22~194~35 minecraft:oxidized_copper
+fill ~24~212~26 ~24~213~26 minecraft:oxidized_copper
+fill ~24~226~26 ~24~227~28 minecraft:oxidized_copper
+fill ~31~212~26 ~31~213~26 minecraft:oxidized_copper
+fill ~31~226~26 ~31~227~28 minecraft:oxidized_copper
+fill ~2~0~27 ~14~0~29 minecraft:stone 0
+fill ~2~1~27 ~3~2~29 minecraft:stone 0
+fill ~2~3~27 ~3~3~29 minecraft:monster_egg 2
+setblock ~3~167~27 minecraft:oxidized_copper
+fill ~4~1~27 ~14~1~47 minecraft:stone 6
+fill ~4~2~27 ~14~2~47 minecraft:stone 0
+fill ~4~3~27 ~14~3~47 minecraft:stone 6
+setblock ~4~166~27 minecraft:oxidized_copper
+fill ~5~57~27 ~7~58~32 minecraft:stone 6
+setblock ~7~155~27 minecraft:oxidized_copper
+fill ~8~47~27 ~9~47~39 minecraft:stone 6
+fill ~8~48~27 ~9~48~27 minecraft:stone 0
+fill ~8~49~27 ~9~49~39 minecraft:stone 6
+fill ~8~50~27 ~9~50~27 minecraft:stone 0
+setblock ~8~154~27 minecraft:oxidized_copper
+fill ~10~70~27 ~14~70~28 minecraft:stone 0
+fill ~10~71~27 ~11~72~28 minecraft:stone 0
+fill ~10~73~27 ~11~73~28 minecraft:monster_egg 2
+fill ~10~76~27 ~11~76~27 minecraft:stone 6
+fill ~11~118~27 ~12~121~28 minecraft:oxidized_copper
+fill ~11~144~27 ~12~149~28 minecraft:oxidized_copper
+fill ~11~176~27 ~12~184~30 minecraft:oxidized_copper
+fill ~12~71~27 ~14~71~39 minecraft:stone 6
+fill ~12~72~27 ~14~72~39 minecraft:stone 0
+fill ~12~73~27 ~14~73~39 minecraft:stone 6
+fill ~12~185~27 ~12~185~36 minecraft:oxidized_copper
+fill ~13~108~27 ~14~111~28 minecraft:oxidized_copper
+fill ~13~138~27 ~14~143~30 minecraft:oxidized_copper
+fill ~13~187~27 ~13~188~36 minecraft:oxidized_copper
+fill ~14~188~27 ~14~189~36 minecraft:oxidized_copper
+fill ~15~104~27 ~16~107~28 minecraft:oxidized_copper
+fill ~15~190~27 ~16~190~38 minecraft:oxidized_copper
+fill ~17~98~27 ~18~103~30 minecraft:oxidized_copper
+fill ~19~212~27 ~20~213~30 minecraft:oxidized_copper
+fill ~19~216~27 ~20~217~28 minecraft:concrete 15
+fill ~19~218~27 ~20~219~30 minecraft:oxidized_copper
+fill ~21~204~27 ~22~209~28 minecraft:oxidized_copper
+fill ~21~222~27 ~22~223~30 minecraft:oxidized_copper
+fill ~23~193~27 ~24~193~32 minecraft:oxidized_copper
+fill ~23~198~27 ~30~199~30 minecraft:oxidized_copper
+fill ~23~200~27 ~24~201~34 minecraft:oxidized_copper
+fill ~23~226~27 ~23~227~29 minecraft:oxidized_copper
+fill ~25~194~27 ~26~197~32 minecraft:oxidized_copper
+fill ~25~226~27 ~25~227~27 minecraft:oxidized_copper
+fill ~27~197~27 ~30~197~32 minecraft:oxidized_copper
+fill ~30~196~27 ~30~196~32 minecraft:oxidized_copper
+fill ~30~226~27 ~30~227~27 minecraft:oxidized_copper
+fill ~31~200~27 ~32~201~34 minecraft:oxidized_copper
+fill ~32~226~27 ~32~227~29 minecraft:oxidized_copper
+fill ~33~204~27 ~34~209~28 minecraft:oxidized_copper
+fill ~33~222~27 ~34~223~30 minecraft:oxidized_copper
+fill ~35~100~27 ~36~101~30 minecraft:oxidized_copper
+fill ~35~102~27 ~36~103~28 minecraft:oxidized_copper
+fill ~35~212~27 ~36~213~30 minecraft:oxidized_copper
+fill ~35~216~27 ~36~217~28 minecraft:concrete 15
+fill ~35~218~27 ~36~219~30 minecraft:oxidized_copper
+fill ~37~0~27 ~49~0~29 minecraft:stone 0
+fill ~37~1~27 ~47~1~47 minecraft:stone 6
+fill ~37~2~27 ~49~2~29 minecraft:stone 0
+fill ~37~3~27 ~47~3~47 minecraft:stone 6
+fill ~37~70~27 ~41~70~28 minecraft:stone 0
+fill ~37~71~27 ~39~71~39 minecraft:stone 6
+fill ~37~72~27 ~41~72~28 minecraft:stone 0
+fill ~37~73~27 ~39~73~39 minecraft:stone 6
+fill ~37~94~27 ~38~95~30 minecraft:oxidized_copper
+fill ~37~107~27 ~38~109~30 minecraft:oxidized_copper
+fill ~37~110~27 ~38~111~28 minecraft:oxidized_copper
+fill ~37~200~27 ~38~201~28 minecraft:oxidized_copper
+fill ~39~114~27 ~40~117~30 minecraft:oxidized_copper
+fill ~39~118~27 ~40~119~28 minecraft:oxidized_copper
+fill ~39~126~27 ~42~126~30 minecraft:oxidized_copper
+fill ~39~127~27 ~41~127~30 minecraft:oxidized_copper
+fill ~39~202~27 ~44~203~28 minecraft:oxidized_copper
+fill ~40~71~27 ~41~71~28 minecraft:stone 0
+fill ~40~73~27 ~41~73~28 minecraft:monster_egg 2
+fill ~40~76~27 ~41~76~27 minecraft:stone 6
+fill ~40~129~27 ~40~129~30 minecraft:oxidized_copper
+fill ~41~122~27 ~42~122~32 minecraft:oxidized_copper
+fill ~41~123~27 ~42~125~30 minecraft:oxidized_copper
+fill ~41~156~27 ~42~157~32 minecraft:oxidized_copper
+fill ~41~176~27 ~42~177~32 minecraft:oxidized_copper
+fill ~41~204~27 ~44~207~28 minecraft:oxidized_copper
+fill ~43~47~27 ~43~47~39 minecraft:stone 6
+setblock ~43~48~27 minecraft:stone 0
+fill ~43~49~27 ~43~49~39 minecraft:stone 6
+setblock ~43~50~27 minecraft:stone 0
+fill ~43~182~27 ~44~183~30 minecraft:oxidized_copper
+fill ~44~57~27 ~46~58~32 minecraft:stone 6
+fill ~45~190~27 ~46~193~30 minecraft:oxidized_copper
+fill ~45~198~27 ~48~201~28 minecraft:oxidized_copper
+fill ~45~205~27 ~45~205~28 minecraft:oxidized_copper
+fill ~47~204~27 ~47~204~28 minecraft:oxidized_copper
+fill ~48~1~27 ~49~1~29 minecraft:stone 0
+fill ~48~3~27 ~49~3~29 minecraft:monster_egg 2
+fill ~48~7~27 ~49~7~28 minecraft:stone 6
+fill ~6~41~28 ~7~44~31 minecraft:stone 6
+fill ~6~47~28 ~7~56~31 minecraft:stone 6
+fill ~8~42~28 ~8~42~31 minecraft:stone 6
+fill ~8~44~28 ~8~44~31 minecraft:stone 6
+fill ~8~46~28 ~8~46~31 minecraft:stone 6
+fill ~8~48~28 ~8~48~31 minecraft:stone 6
+fill ~8~50~28 ~8~50~31 minecraft:stone 6
+fill ~8~52~28 ~8~52~31 minecraft:stone 6
+fill ~8~54~28 ~8~54~31 minecraft:stone 6
+fill ~8~56~28 ~8~56~31 minecraft:stone 6
+fill ~8~58~28 ~8~58~31 minecraft:stone 6
+fill ~8~60~28 ~8~60~31 minecraft:stone 6
+fill ~8~62~28 ~8~62~31 minecraft:stone 6
+fill ~9~48~28 ~9~48~42 minecraft:stone 0
+fill ~9~50~28 ~9~50~42 minecraft:stone 0
+fill ~10~75~28 ~11~75~28 minecraft:stone 6
+fill ~17~193~28 ~18~193~35 minecraft:oxidized_copper
+fill ~19~195~28 ~22~195~33 minecraft:oxidized_copper
+fill ~22~226~28 ~22~227~30 minecraft:oxidized_copper
+fill ~33~226~28 ~33~227~30 minecraft:oxidized_copper
+fill ~39~140~28 ~40~140~32 minecraft:oxidized_copper
+fill ~40~75~28 ~41~75~28 minecraft:stone 6
+fill ~43~42~28 ~45~42~31 minecraft:stone 6
+fill ~43~44~28 ~45~44~31 minecraft:stone 6
+fill ~43~46~28 ~43~46~31 minecraft:stone 6
+fill ~43~48~28 ~45~48~31 minecraft:stone 6
+fill ~43~50~28 ~45~50~31 minecraft:stone 6
+fill ~43~52~28 ~45~52~31 minecraft:stone 6
+fill ~43~54~28 ~45~54~31 minecraft:stone 6
+fill ~43~56~28 ~45~56~31 minecraft:stone 6
+fill ~43~58~28 ~43~58~31 minecraft:stone 6
+fill ~43~60~28 ~43~60~31 minecraft:stone 6
+fill ~43~62~28 ~43~62~31 minecraft:stone 6
+fill ~44~41~28 ~45~41~31 minecraft:stone 6
+fill ~44~43~28 ~45~43~31 minecraft:stone 6
+fill ~44~47~28 ~45~47~31 minecraft:stone 6
+fill ~44~49~28 ~45~49~31 minecraft:stone 6
+fill ~44~51~28 ~45~51~31 minecraft:stone 6
+fill ~44~53~28 ~45~53~31 minecraft:stone 6
+fill ~44~55~28 ~45~55~31 minecraft:stone 6
+fill ~1~154~29 ~4~156~32 minecraft:oxidized_copper
+fill ~1~157~29 ~3~157~32 minecraft:oxidized_copper
+fill ~1~158~29 ~2~161~36 minecraft:oxidized_copper
+fill ~1~162~29 ~2~162~34 minecraft:oxidized_copper
+fill ~2~163~29 ~2~163~34 minecraft:oxidized_copper
+fill ~3~150~29 ~10~151~32 minecraft:oxidized_copper
+fill ~3~152~29 ~8~152~31 minecraft:oxidized_copper
+fill ~3~153~29 ~5~153~31 minecraft:oxidized_copper
+fill ~3~160~29 ~4~161~34 minecraft:oxidized_copper
+fill ~3~164~29 ~4~165~36 minecraft:oxidized_copper
+setblock ~3~167~29 minecraft:oxidized_copper
+setblock ~4~166~29 minecraft:oxidized_copper
+fill ~5~148~29 ~8~149~34 minecraft:oxidized_copper
+setblock ~7~155~29 minecraft:oxidized_copper
+fill ~8~153~29 ~8~153~31 minecraft:oxidized_copper
+setblock ~8~154~29 minecraft:oxidized_copper
+fill ~9~158~29 ~10~159~30 minecraft:oxidized_copper
+fill ~10~74~29 ~11~74~29 minecraft:stone_block_slab 13
+fill ~11~148~29 ~12~149~30 minecraft:oxidized_copper
+fill ~11~160~29 ~12~161~34 minecraft:oxidized_copper
+fill ~11~162~29 ~12~162~32 minecraft:oxidized_copper
+fill ~11~172~29 ~12~175~30 minecraft:oxidized_copper
+fill ~12~70~29 ~14~70~39 minecraft:stone 0
+fill ~13~114~29 ~16~115~30 minecraft:oxidized_copper
+fill ~13~118~29 ~14~137~30 minecraft:oxidized_copper
+fill ~13~144~29 ~14~147~32 minecraft:oxidized_copper
+fill ~15~108~29 ~16~113~30 minecraft:oxidized_copper
+fill ~15~191~29 ~16~191~37 minecraft:oxidized_copper
+fill ~15~192~29 ~16~192~34 minecraft:oxidized_copper
+fill ~16~193~29 ~16~193~34 minecraft:oxidized_copper
+fill ~17~104~29 ~18~107~30 minecraft:oxidized_copper
+fill ~19~94~29 ~20~99~30 minecraft:oxidized_copper
+fill ~19~204~29 ~20~205~32 minecraft:oxidized_copper
+fill ~19~206~29 ~20~207~30 minecraft:oxidized_copper
+fill ~19~210~29 ~20~211~30 minecraft:oxidized_copper
+fill ~19~214~29 ~20~215~30 minecraft:concrete 15
+fill ~19~216~29 ~20~217~30 minecraft:oxidized_copper
+fill ~21~196~29 ~22~203~30 minecraft:oxidized_copper
+fill ~21~208~29 ~22~209~32 minecraft:oxidized_copper
+fill ~21~212~29 ~22~213~30 minecraft:oxidized_copper
+fill ~21~220~29 ~22~221~32 minecraft:oxidized_copper
+fill ~21~226~29 ~21~227~31 minecraft:oxidized_copper
+fill ~23~224~29 ~24~224~30 minecraft:oxidized_copper
+fill ~25~202~29 ~30~203~38 minecraft:oxidized_copper
+fill ~31~224~29 ~32~224~30 minecraft:oxidized_copper
+fill ~33~200~29 ~34~203~34 minecraft:oxidized_copper
+fill ~33~208~29 ~34~209~32 minecraft:oxidized_copper
+fill ~33~212~29 ~34~213~30 minecraft:oxidized_copper
+fill ~33~220~29 ~34~221~32 minecraft:oxidized_copper
+fill ~34~226~29 ~34~227~31 minecraft:oxidized_copper
+fill ~35~98~29 ~36~99~30 minecraft:oxidized_copper
+fill ~35~197~29 ~36~197~32 minecraft:oxidized_copper
+fill ~35~204~29 ~36~205~32 minecraft:oxidized_copper
+fill ~35~206~29 ~36~207~30 minecraft:oxidized_copper
+fill ~35~210~29 ~36~211~30 minecraft:oxidized_copper
+fill ~35~214~29 ~36~215~30 minecraft:concrete 15
+fill ~35~216~29 ~36~217~30 minecraft:oxidized_copper
+fill ~37~70~29 ~39~70~39 minecraft:stone 0
+fill ~37~72~29 ~39~72~39 minecraft:stone 0
+fill ~37~96~29 ~38~97~32 minecraft:oxidized_copper
+fill ~37~102~29 ~38~105~32 minecraft:oxidized_copper
+fill ~37~106~29 ~38~106~30 minecraft:oxidized_copper
+fill ~37~134~29 ~38~135~32 minecraft:oxidized_copper
+fill ~37~146~29 ~38~147~32 minecraft:oxidized_copper
+fill ~37~162~29 ~38~163~30 minecraft:oxidized_copper
+fill ~37~198~29 ~44~199~30 minecraft:oxidized_copper
+fill ~39~110~29 ~40~111~32 minecraft:oxidized_copper
+fill ~39~112~29 ~40~113~30 minecraft:oxidized_copper
+fill ~39~150~29 ~40~151~32 minecraft:oxidized_copper
+fill ~39~160~29 ~40~161~34 minecraft:oxidized_copper
+fill ~39~170~29 ~40~171~30 minecraft:oxidized_copper
+fill ~39~200~29 ~44~201~30 minecraft:oxidized_copper
+fill ~40~74~29 ~41~74~29 minecraft:stone_block_slab 13
+fill ~41~118~29 ~42~121~32 minecraft:oxidized_copper
+fill ~41~152~29 ~42~155~30 minecraft:oxidized_copper
+fill ~41~178~29 ~42~179~32 minecraft:oxidized_copper
+fill ~41~196~29 ~46~197~30 minecraft:oxidized_copper
+fill ~43~184~29 ~44~187~32 minecraft:oxidized_copper
+fill ~43~194~29 ~46~195~30 minecraft:oxidized_copper
+fill ~45~188~29 ~46~189~30 minecraft:oxidized_copper
+fill ~48~6~29 ~49~6~29 minecraft:stone 6
+fill ~2~4~30 ~3~4~31 minecraft:stone_block_slab 13
+fill ~4~0~30 ~14~0~47 minecraft:stone 0
+fill ~4~67~30 ~5~72~31 minecraft:stone 6
+fill ~11~163~30 ~12~163~32 minecraft:oxidized_copper
+fill ~20~226~30 ~20~227~31 minecraft:oxidized_copper
+fill ~35~226~30 ~35~227~31 minecraft:oxidized_copper
+fill ~37~0~30 ~47~0~47 minecraft:stone 0
+fill ~37~2~30 ~47~2~47 minecraft:stone 0
+fill ~39~141~30 ~40~141~32 minecraft:oxidized_copper
+fill ~46~21~30 ~47~22~32 minecraft:stone 6
+fill ~46~23~30 ~46~24~32 minecraft:stone 6
+fill ~46~67~30 ~47~72~31 minecraft:stone 6
+fill ~48~4~30 ~49~4~31 minecraft:stone_block_slab 13
+fill ~48~5~30 ~49~5~30 minecraft:stone 6
+fill ~1~163~31 ~1~163~34 minecraft:oxidized_copper
+fill ~1~164~31 ~2~164~32 minecraft:oxidized_copper
+fill ~2~165~31 ~2~165~32 minecraft:oxidized_copper
+fill ~3~158~31 ~4~159~32 minecraft:oxidized_copper
+fill ~3~166~31 ~4~166~34 minecraft:oxidized_copper
+fill ~3~167~31 ~3~167~34 minecraft:oxidized_copper
+fill ~4~21~31 ~5~22~33 minecraft:stone 6
+fill ~4~157~31 ~6~157~32 minecraft:oxidized_copper
+fill ~5~12~31 ~5~13~36 minecraft:stone 6
+fill ~5~23~31 ~5~24~33 minecraft:stone 6
+fill ~5~154~31 ~8~154~32 minecraft:oxidized_copper
+fill ~5~155~31 ~7~155~32 minecraft:oxidized_copper
+fill ~5~156~31 ~6~156~32 minecraft:oxidized_copper
+fill ~6~153~31 ~7~153~31 minecraft:oxidized_copper
+fill ~7~162~31 ~10~163~34 minecraft:oxidized_copper
+fill ~9~148~31 ~10~149~34 minecraft:oxidized_copper
+fill ~9~164~31 ~12~164~34 minecraft:oxidized_copper
+fill ~9~165~31 ~11~165~34 minecraft:oxidized_copper
+fill ~9~166~31 ~9~166~34 minecraft:oxidized_copper
+fill ~9~172~31 ~10~177~34 minecraft:oxidized_copper
+fill ~10~161~31 ~10~161~34 minecraft:oxidized_copper
+fill ~11~150~31 ~12~151~34 minecraft:oxidized_copper
+fill ~11~154~31 ~12~155~32 minecraft:oxidized_copper
+fill ~11~168~31 ~12~171~32 minecraft:oxidized_copper
+fill ~11~178~31 ~12~184~32 minecraft:oxidized_copper
+fill ~13~130~31 ~14~135~32 minecraft:oxidized_copper
+fill ~13~142~31 ~14~143~32 minecraft:oxidized_copper
+fill ~13~148~31 ~14~149~34 minecraft:oxidized_copper
+fill ~15~116~31 ~18~119~32 minecraft:oxidized_copper
+fill ~15~120~31 ~16~129~32 minecraft:oxidized_copper
+fill ~15~136~31 ~16~141~34 minecraft:oxidized_copper
+fill ~17~105~31 ~22~105~32 minecraft:oxidized_copper
+fill ~17~106~31 ~20~115~32 minecraft:oxidized_copper
+fill ~19~100~31 ~24~101~32 minecraft:oxidized_copper
+fill ~19~102~31 ~22~104~32 minecraft:oxidized_copper
+fill ~19~202~31 ~22~203~34 minecraft:oxidized_copper
+fill ~21~94~31 ~28~95~32 minecraft:oxidized_copper
+fill ~21~96~31 ~26~97~32 minecraft:oxidized_copper
+fill ~21~98~31 ~24~99~32 minecraft:oxidized_copper
+fill ~21~200~31 ~22~201~36 minecraft:oxidized_copper
+fill ~21~206~31 ~22~207~34 minecraft:oxidized_copper
+fill ~21~210~31 ~24~211~32 minecraft:oxidized_copper
+fill ~21~212~31 ~22~213~32 minecraft:concrete 15
+fill ~21~214~31 ~24~215~32 minecraft:oxidized_copper
+fill ~21~216~31 ~22~219~32 minecraft:oxidized_copper
+fill ~23~192~31 ~32~192~32 minecraft:oxidized_copper
+fill ~23~212~31 ~24~213~34 minecraft:oxidized_copper
+fill ~23~222~31 ~24~223~32 minecraft:oxidized_copper
+fill ~25~193~31 ~32~193~32 minecraft:oxidized_copper
+fill ~25~198~31 ~30~199~34 minecraft:oxidized_copper
+fill ~25~224~31 ~30~225~32 minecraft:oxidized_copper
+fill ~27~190~31 ~30~191~32 minecraft:oxidized_copper
+fill ~27~194~31 ~34~194~32 minecraft:oxidized_copper
+fill ~27~195~31 ~30~195~32 minecraft:oxidized_copper
+fill ~27~196~31 ~29~196~32 minecraft:oxidized_copper
+fill ~29~188~31 ~30~189~32 minecraft:oxidized_copper
+fill ~31~212~31 ~32~213~34 minecraft:oxidized_copper
+fill ~31~214~31 ~34~215~32 minecraft:oxidized_copper
+fill ~31~222~31 ~32~223~32 minecraft:oxidized_copper
+fill ~33~195~31 ~34~195~32 minecraft:oxidized_copper
+fill ~33~206~31 ~34~207~34 minecraft:oxidized_copper
+fill ~33~210~31 ~34~211~32 minecraft:oxidized_copper
+fill ~33~212~31 ~34~213~32 minecraft:concrete 15
+fill ~33~216~31 ~34~219~32 minecraft:oxidized_copper
+fill ~35~94~31 ~36~95~32 minecraft:oxidized_copper
+fill ~35~126~31 ~40~126~32 minecraft:oxidized_copper
+fill ~35~127~31 ~39~127~32 minecraft:oxidized_copper
+fill ~35~128~31 ~38~128~32 minecraft:oxidized_copper
+fill ~35~129~31 ~38~129~31 minecraft:oxidized_copper
+fill ~35~130~31 ~36~133~32 minecraft:oxidized_copper
+fill ~35~196~31 ~40~196~32 minecraft:oxidized_copper
+fill ~35~198~31 ~36~203~32 minecraft:oxidized_copper
+fill ~37~98~31 ~38~101~34 minecraft:oxidized_copper
+fill ~37~124~31 ~40~124~34 minecraft:oxidized_copper
+fill ~37~125~31 ~40~125~33 minecraft:oxidized_copper
+fill ~37~136~31 ~38~137~34 minecraft:oxidized_copper
+fill ~37~141~31 ~38~143~31 minecraft:oxidized_copper
+fill ~37~148~31 ~38~151~32 minecraft:oxidized_copper
+fill ~37~164~31 ~38~164~36 minecraft:oxidized_copper
+fill ~37~165~31 ~38~166~34 minecraft:oxidized_copper
+fill ~37~167~31 ~38~171~32 minecraft:oxidized_copper
+fill ~37~197~31 ~40~197~32 minecraft:oxidized_copper
+fill ~39~105~31 ~40~107~38 minecraft:oxidized_copper
+fill ~39~108~31 ~40~109~34 minecraft:oxidized_copper
+fill ~39~120~31 ~40~120~36 minecraft:oxidized_copper
+fill ~39~121~31 ~40~123~34 minecraft:oxidized_copper
+fill ~39~142~31 ~40~142~32 minecraft:oxidized_copper
+fill ~39~143~31 ~39~143~32 minecraft:oxidized_copper
+fill ~39~152~31 ~40~153~32 minecraft:oxidized_copper
+fill ~39~163~31 ~39~163~34 minecraft:oxidized_copper
+fill ~39~172~31 ~40~175~32 minecraft:oxidized_copper
+fill ~39~194~31 ~42~195~32 minecraft:oxidized_copper
+fill ~41~112~31 ~42~114~36 minecraft:oxidized_copper
+fill ~41~115~31 ~42~117~34 minecraft:oxidized_copper
+fill ~41~123~31 ~41~123~32 minecraft:oxidized_copper
+fill ~41~154~31 ~42~155~32 minecraft:oxidized_copper
+fill ~41~180~31 ~42~183~32 minecraft:oxidized_copper
+fill ~41~190~31 ~44~193~32 minecraft:oxidized_copper
+fill ~43~188~31 ~44~189~32 minecraft:oxidized_copper
+fill ~46~12~31 ~46~13~36 minecraft:stone 6
+fill ~3~152~32 ~4~153~34 minecraft:oxidized_copper
+fill ~5~11~32 ~5~11~35 minecraft:stone 6
+fill ~5~14~32 ~5~14~35 minecraft:stone 6
+fill ~6~41~32 ~7~41~35 minecraft:stonebrick 0
+fill ~8~42~32 ~8~42~35 minecraft:stone 0
+fill ~8~44~32 ~8~44~35 minecraft:stone 0
+fill ~8~46~32 ~8~46~35 minecraft:stone 0
+fill ~8~48~32 ~8~48~35 minecraft:stone 0
+fill ~8~50~32 ~8~50~35 minecraft:stone 0
+fill ~8~52~32 ~8~52~35 minecraft:stone 0
+fill ~8~54~32 ~8~54~35 minecraft:stone 0
+fill ~8~56~32 ~8~56~35 minecraft:stone 0
+fill ~8~58~32 ~8~58~35 minecraft:stone 0
+fill ~8~60~32 ~8~60~35 minecraft:stone 0
+fill ~8~62~32 ~8~62~35 minecraft:stone 0
+fill ~35~129~32 ~36~129~32 minecraft:oxidized_copper
+fill ~37~142~32 ~38~142~34 minecraft:oxidized_copper
+fill ~37~143~32 ~38~143~32 minecraft:oxidized_copper
+fill ~43~42~32 ~43~42~35 minecraft:stone 0
+fill ~43~44~32 ~43~44~35 minecraft:stone 0
+fill ~43~46~32 ~43~46~35 minecraft:stone 0
+fill ~43~48~32 ~43~48~35 minecraft:stone 0
+fill ~43~50~32 ~43~50~35 minecraft:stone 0
+fill ~43~52~32 ~43~52~35 minecraft:stone 0
+fill ~43~54~32 ~43~54~35 minecraft:stone 0
+fill ~43~56~32 ~43~56~35 minecraft:stone 0
+fill ~43~58~32 ~43~58~35 minecraft:stone 0
+fill ~43~60~32 ~43~60~35 minecraft:stone 0
+fill ~43~62~32 ~43~62~35 minecraft:stone 0
+fill ~44~41~32 ~45~41~35 minecraft:stonebrick 0
+fill ~46~11~32 ~46~11~35 minecraft:stone 6
+fill ~46~14~32 ~46~14~35 minecraft:stone 6
+fill ~1~156~33 ~2~157~34 minecraft:oxidized_copper
+fill ~3~154~33 ~4~155~36 minecraft:oxidized_copper
+fill ~5~10~33 ~5~10~34 minecraft:stone 6
+fill ~5~15~33 ~5~15~34 minecraft:stone 6
+fill ~5~150~33 ~10~151~34 minecraft:oxidized_copper
+fill ~8~167~33 ~12~167~34 minecraft:oxidized_copper
+fill ~9~168~33 ~10~171~34 minecraft:oxidized_copper
+fill ~9~178~33 ~10~179~36 minecraft:oxidized_copper
+fill ~10~166~33 ~12~166~34 minecraft:oxidized_copper
+fill ~11~180~33 ~12~181~40 minecraft:oxidized_copper
+fill ~11~182~33 ~12~182~39 minecraft:oxidized_copper
+fill ~11~183~33 ~12~183~37 minecraft:oxidized_copper
+fill ~11~184~33 ~12~184~36 minecraft:oxidized_copper
+fill ~12~165~33 ~12~165~34 minecraft:oxidized_copper
+fill ~13~150~33 ~14~151~34 minecraft:oxidized_copper
+fill ~15~130~33 ~16~135~34 minecraft:oxidized_copper
+fill ~15~142~33 ~16~147~34 minecraft:oxidized_copper
+fill ~17~120~33 ~22~121~34 minecraft:oxidized_copper
+fill ~17~122~33 ~20~125~34 minecraft:oxidized_copper
+fill ~17~126~33 ~18~129~34 minecraft:oxidized_copper
+fill ~19~116~33 ~22~119~34 minecraft:oxidized_copper
+fill ~19~198~33 ~20~201~34 minecraft:oxidized_copper
+fill ~21~105~33 ~26~107~34 minecraft:oxidized_copper
+fill ~21~108~33 ~24~113~34 minecraft:oxidized_copper
+fill ~21~114~33 ~22~115~34 minecraft:oxidized_copper
+fill ~21~204~33 ~22~205~34 minecraft:oxidized_copper
+fill ~23~102~33 ~28~103~34 minecraft:oxidized_copper
+fill ~23~104~33 ~26~104~34 minecraft:oxidized_copper
+fill ~23~190~33 ~26~191~36 minecraft:oxidized_copper
+fill ~23~192~33 ~25~192~36 minecraft:oxidized_copper
+fill ~23~193~33 ~23~193~36 minecraft:oxidized_copper
+fill ~23~208~33 ~24~209~36 minecraft:oxidized_copper
+fill ~23~210~33 ~24~211~34 minecraft:oxidized_copper
+fill ~23~216~33 ~24~221~34 minecraft:oxidized_copper
+fill ~25~98~33 ~28~101~34 minecraft:oxidized_copper
+fill ~25~214~33 ~30~215~34 minecraft:oxidized_copper
+fill ~25~222~33 ~30~223~34 minecraft:oxidized_copper
+fill ~27~96~33 ~30~97~34 minecraft:oxidized_copper
+fill ~27~188~33 ~28~188~36 minecraft:oxidized_copper
+fill ~27~189~33 ~28~189~34 minecraft:oxidized_copper
+fill ~29~94~33 ~34~95~34 minecraft:oxidized_copper
+fill ~29~134~33 ~36~135~34 minecraft:oxidized_copper
+fill ~29~136~33 ~32~137~34 minecraft:oxidized_copper
+fill ~29~138~33 ~30~139~34 minecraft:oxidized_copper
+fill ~29~152~33 ~38~153~34 minecraft:oxidized_copper
+fill ~29~184~33 ~32~187~34 minecraft:oxidized_copper
+fill ~31~128~33 ~34~133~34 minecraft:oxidized_copper
+fill ~31~150~33 ~36~151~34 minecraft:oxidized_copper
+fill ~31~154~33 ~34~155~34 minecraft:oxidized_copper
+fill ~31~156~33 ~32~157~34 minecraft:oxidized_copper
+fill ~31~178~33 ~34~179~34 minecraft:oxidized_copper
+fill ~31~180~33 ~32~183~34 minecraft:oxidized_copper
+fill ~31~188~33 ~32~191~34 minecraft:oxidized_copper
+fill ~31~208~33 ~32~209~36 minecraft:oxidized_copper
+fill ~31~210~33 ~32~211~34 minecraft:oxidized_copper
+fill ~31~216~33 ~32~221~34 minecraft:oxidized_copper
+fill ~33~124~33 ~36~124~36 minecraft:oxidized_copper
+fill ~33~125~33 ~36~125~35 minecraft:oxidized_copper
+fill ~33~126~33 ~37~126~34 minecraft:oxidized_copper
+fill ~33~127~33 ~35~127~34 minecraft:oxidized_copper
+fill ~33~144~33 ~36~144~36 minecraft:oxidized_copper
+fill ~33~145~33 ~36~149~34 minecraft:oxidized_copper
+fill ~33~172~33 ~38~175~34 minecraft:oxidized_copper
+fill ~33~176~33 ~34~177~34 minecraft:oxidized_copper
+fill ~33~190~33 ~34~193~34 minecraft:oxidized_copper
+fill ~33~204~33 ~34~205~34 minecraft:oxidized_copper
+fill ~35~96~33 ~36~97~34 minecraft:oxidized_copper
+fill ~35~168~33 ~36~168~36 minecraft:oxidized_copper
+fill ~35~169~33 ~36~171~34 minecraft:oxidized_copper
+fill ~35~194~33 ~38~195~34 minecraft:oxidized_copper
+fill ~35~200~33 ~36~203~34 minecraft:oxidized_copper
+fill ~37~138~33 ~38~141~34 minecraft:oxidized_copper
+fill ~37~143~33 ~37~143~34 minecraft:oxidized_copper
+fill ~37~167~33 ~37~167~34 minecraft:oxidized_copper
+fill ~39~102~33 ~40~104~36 minecraft:oxidized_copper
+fill ~39~118~33 ~40~119~36 minecraft:oxidized_copper
+fill ~39~154~33 ~40~159~34 minecraft:oxidized_copper
+fill ~39~174~33 ~40~181~34 minecraft:oxidized_copper
+fill ~39~190~33 ~40~193~34 minecraft:oxidized_copper
+fill ~41~110~33 ~42~111~36 minecraft:oxidized_copper
+fill ~41~182~33 ~42~189~34 minecraft:oxidized_copper
+fill ~46~10~33 ~46~10~34 minecraft:stone 6
+fill ~46~15~33 ~46~15~34 minecraft:stone 6
+fill ~37~125~34 ~38~125~35 minecraft:oxidized_copper
+fill ~3~156~35 ~4~157~36 minecraft:oxidized_copper
+fill ~3~162~35 ~4~163~38 minecraft:oxidized_copper
+fill ~5~57~35 ~7~58~40 minecraft:stone 6
+fill ~5~152~35 ~16~153~36 minecraft:oxidized_copper
+fill ~5~166~35 ~6~167~38 minecraft:oxidized_copper
+fill ~7~168~35 ~8~171~40 minecraft:oxidized_copper
+fill ~7~172~35 ~8~173~38 minecraft:oxidized_copper
+fill ~8~39~35 ~8~40~43 minecraft:stonebrick 0
+fill ~9~174~35 ~10~175~40 minecraft:oxidized_copper
+fill ~9~176~35 ~10~177~38 minecraft:oxidized_copper
+fill ~15~85~35 ~15~85~40 minecraft:stone 6
+fill ~15~148~35 ~18~151~36 minecraft:oxidized_copper
+fill ~17~130~35 ~22~135~36 minecraft:oxidized_copper
+fill ~17~136~35 ~20~145~36 minecraft:oxidized_copper
+fill ~17~146~35 ~18~147~36 minecraft:oxidized_copper
+fill ~17~190~35 ~18~191~38 minecraft:oxidized_copper
+fill ~17~192~35 ~18~192~37 minecraft:oxidized_copper
+fill ~19~126~35 ~24~127~36 minecraft:oxidized_copper
+fill ~19~128~35 ~22~129~36 minecraft:oxidized_copper
+fill ~21~122~35 ~24~125~36 minecraft:oxidized_copper
+fill ~21~202~35 ~22~203~36 minecraft:oxidized_copper
+fill ~23~114~35 ~26~117~36 minecraft:oxidized_copper
+fill ~23~118~35 ~24~121~36 minecraft:oxidized_copper
+fill ~23~204~35 ~24~207~36 minecraft:oxidized_copper
+fill ~25~107~35 ~28~113~36 minecraft:oxidized_copper
+fill ~25~210~35 ~30~213~36 minecraft:oxidized_copper
+fill ~25~216~35 ~30~221~36 minecraft:oxidized_copper
+fill ~27~104~35 ~30~105~36 minecraft:oxidized_copper
+fill ~27~106~35 ~28~106~36 minecraft:oxidized_copper
+fill ~27~134~35 ~30~134~36 minecraft:oxidized_copper
+fill ~27~135~35 ~29~135~36 minecraft:oxidized_copper
+fill ~27~136~35 ~28~136~38 minecraft:oxidized_copper
+fill ~27~137~35 ~28~141~36 minecraft:oxidized_copper
+fill ~27~184~35 ~30~184~36 minecraft:oxidized_copper
+fill ~27~185~35 ~29~185~36 minecraft:oxidized_copper
+fill ~27~186~35 ~28~187~36 minecraft:oxidized_copper
+fill ~27~189~35 ~27~189~36 minecraft:oxidized_copper
+fill ~29~98~35 ~36~99~36 minecraft:oxidized_copper
+fill ~29~100~35 ~30~103~36 minecraft:oxidized_copper
+fill ~29~124~35 ~32~128~36 minecraft:oxidized_copper
+fill ~29~129~35 ~31~129~36 minecraft:oxidized_copper
+fill ~29~130~35 ~30~133~36 minecraft:oxidized_copper
+fill ~29~140~35 ~36~141~36 minecraft:oxidized_copper
+fill ~29~142~35 ~30~145~36 minecraft:oxidized_copper
+fill ~29~152~35 ~30~154~38 minecraft:oxidized_copper
+fill ~29~155~35 ~30~161~36 minecraft:oxidized_copper
+fill ~29~178~35 ~32~178~36 minecraft:oxidized_copper
+fill ~29~179~35 ~31~179~36 minecraft:oxidized_copper
+fill ~29~180~35 ~30~183~36 minecraft:oxidized_copper
+fill ~31~96~35 ~34~97~36 minecraft:oxidized_copper
+fill ~31~120~35 ~38~123~36 minecraft:oxidized_copper
+fill ~31~138~35 ~36~139~36 minecraft:oxidized_copper
+fill ~31~148~35 ~32~150~38 minecraft:oxidized_copper
+fill ~31~151~35 ~31~151~38 minecraft:oxidized_copper
+fill ~31~158~35 ~38~159~36 minecraft:oxidized_copper
+fill ~31~172~35 ~34~172~36 minecraft:oxidized_copper
+fill ~31~173~35 ~33~173~36 minecraft:oxidized_copper
+fill ~31~174~35 ~32~177~36 minecraft:oxidized_copper
+fill ~31~204~35 ~32~207~36 minecraft:oxidized_copper
+fill ~32~119~35 ~38~119~36 minecraft:oxidized_copper
+fill ~33~118~35 ~38~118~36 minecraft:oxidized_copper
+fill ~33~126~35 ~34~126~36 minecraft:oxidized_copper
+fill ~33~127~35 ~33~127~36 minecraft:oxidized_copper
+fill ~33~136~35 ~36~137~36 minecraft:oxidized_copper
+fill ~33~142~35 ~36~143~36 minecraft:oxidized_copper
+fill ~33~145~35 ~35~145~36 minecraft:oxidized_copper
+fill ~33~146~35 ~34~146~36 minecraft:oxidized_copper
+fill ~33~147~35 ~33~147~36 minecraft:oxidized_copper
+fill ~33~156~35 ~38~157~36 minecraft:oxidized_copper
+fill ~33~168~35 ~34~168~38 minecraft:oxidized_copper
+fill ~33~169~35 ~35~169~36 minecraft:oxidized_copper
+fill ~33~170~35 ~34~171~36 minecraft:oxidized_copper
+fill ~33~180~35 ~38~189~36 minecraft:oxidized_copper
+fill ~33~202~35 ~34~203~36 minecraft:oxidized_copper
+fill ~35~154~35 ~38~155~36 minecraft:oxidized_copper
+fill ~35~160~35 ~38~163~36 minecraft:oxidized_copper
+fill ~35~164~35 ~36~167~36 minecraft:oxidized_copper
+fill ~35~176~35 ~38~179~36 minecraft:oxidized_copper
+fill ~35~190~35 ~38~193~36 minecraft:oxidized_copper
+fill ~36~85~35 ~36~85~40 minecraft:stone 6
+fill ~37~100~35 ~38~103~38 minecraft:oxidized_copper
+fill ~37~124~35 ~38~124~36 minecraft:oxidized_copper
+fill ~37~165~35 ~37~165~36 minecraft:oxidized_copper
+fill ~39~114~35 ~40~116~38 minecraft:oxidized_copper
+fill ~39~117~35 ~40~117~37 minecraft:oxidized_copper
+fill ~39~182~35 ~40~189~36 minecraft:oxidized_copper
+fill ~41~108~35 ~42~109~36 minecraft:oxidized_copper
+fill ~41~115~35 ~41~115~36 minecraft:oxidized_copper
+fill ~43~39~35 ~43~40~45 minecraft:stonebrick 0
+fill ~44~57~35 ~46~58~40 minecraft:stone 6
+fill ~6~31~36 ~7~36~39 minecraft:stone 6
+fill ~6~41~36 ~7~44~39 minecraft:stone 6
+fill ~6~47~36 ~7~56~39 minecraft:stone 6
+fill ~8~30~36 ~8~30~39 minecraft:stone 6
+fill ~8~32~36 ~8~32~39 minecraft:stone 6
+fill ~8~34~36 ~8~34~39 minecraft:stone 6
+fill ~8~36~36 ~8~36~39 minecraft:stone 6
+fill ~8~42~36 ~8~42~39 minecraft:stone 6
+fill ~8~44~36 ~8~44~39 minecraft:stone 6
+fill ~8~46~36 ~8~46~39 minecraft:stone 6
+fill ~8~48~36 ~8~48~39 minecraft:stone 6
+fill ~8~50~36 ~8~50~39 minecraft:stone 6
+fill ~8~52~36 ~8~52~39 minecraft:stone 6
+fill ~8~54~36 ~8~54~39 minecraft:stone 6
+fill ~8~56~36 ~8~56~39 minecraft:stone 6
+fill ~8~58~36 ~8~58~39 minecraft:stone 6
+fill ~8~60~36 ~8~60~39 minecraft:stone 6
+fill ~8~62~36 ~8~62~39 minecraft:stone 6
+fill ~16~85~36 ~16~85~40 minecraft:stone 6
+fill ~19~193~36 ~22~193~37 minecraft:oxidized_copper
+fill ~23~189~36 ~26~189~37 minecraft:oxidized_copper
+fill ~33~125~36 ~34~125~36 minecraft:oxidized_copper
+fill ~35~85~36 ~35~85~40 minecraft:stone 6
+fill ~43~30~36 ~43~30~39 minecraft:stone 6
+fill ~43~32~36 ~45~32~39 minecraft:stone 6
+fill ~43~34~36 ~45~34~39 minecraft:stone 6
+fill ~43~36~36 ~45~36~39 minecraft:stone 6
+fill ~43~42~36 ~45~42~39 minecraft:stone 6
+fill ~43~44~36 ~45~44~39 minecraft:stone 6
+fill ~43~46~36 ~43~46~39 minecraft:stone 6
+fill ~43~48~36 ~45~48~39 minecraft:stone 6
+fill ~43~50~36 ~45~50~39 minecraft:stone 6
+fill ~43~52~36 ~45~52~39 minecraft:stone 6
+fill ~43~54~36 ~45~54~39 minecraft:stone 6
+fill ~43~56~36 ~45~56~39 minecraft:stone 6
+fill ~43~58~36 ~43~58~39 minecraft:stone 6
+fill ~43~60~36 ~43~60~39 minecraft:stone 6
+fill ~43~62~36 ~43~62~39 minecraft:stone 6
+fill ~44~31~36 ~45~31~39 minecraft:stone 6
+fill ~44~33~36 ~45~33~39 minecraft:stone 6
+fill ~44~35~36 ~45~35~39 minecraft:stone 6
+fill ~44~41~36 ~45~41~39 minecraft:stone 6
+fill ~44~43~36 ~45~43~39 minecraft:stone 6
+fill ~44~47~36 ~45~47~39 minecraft:stone 6
+fill ~44~49~36 ~45~49~39 minecraft:stone 6
+fill ~44~51~36 ~45~51~39 minecraft:stone 6
+fill ~44~53~36 ~45~53~39 minecraft:stone 6
+fill ~44~55~36 ~45~55~39 minecraft:stone 6
+fill ~46~21~36 ~47~22~38 minecraft:stone 6
+fill ~46~23~36 ~46~24~38 minecraft:stone 6
+fill ~3~158~37 ~4~161~38 minecraft:oxidized_copper
+fill ~4~21~37 ~5~22~39 minecraft:stone 6
+fill ~5~23~37 ~5~24~39 minecraft:stone 6
+fill ~5~154~37 ~8~155~38 minecraft:oxidized_copper
+fill ~5~156~37 ~6~157~38 minecraft:oxidized_copper
+fill ~5~164~37 ~6~165~38 minecraft:oxidized_copper
+fill ~7~152~37 ~12~153~38 minecraft:oxidized_copper
+fill ~11~178~37 ~12~178~42 minecraft:oxidized_copper
+fill ~11~179~37 ~12~179~41 minecraft:oxidized_copper
+fill ~13~154~37 ~20~155~38 minecraft:oxidized_copper
+fill ~13~182~37 ~14~184~42 minecraft:oxidized_copper
+fill ~15~0~37 ~24~0~47 minecraft:stone 0
+fill ~15~1~37 ~24~1~47 minecraft:stone 6
+fill ~15~2~37 ~24~2~47 minecraft:stone 0
+fill ~15~3~37 ~24~3~47 minecraft:stone 6
+fill ~15~4~37 ~36~4~47 minecraft:stone 0
+fill ~15~5~37 ~36~5~47 minecraft:stone 6
+fill ~15~6~37 ~36~6~47 minecraft:stone 0
+fill ~15~7~37 ~36~7~47 minecraft:stone 6
+fill ~15~8~37 ~36~8~47 minecraft:stone 0
+fill ~15~9~37 ~36~9~47 minecraft:stone 6
+fill ~15~10~37 ~36~10~45 minecraft:stone 0
+fill ~15~11~37 ~36~11~45 minecraft:stone 6
+fill ~15~12~37 ~36~12~45 minecraft:stone 0
+fill ~15~13~37 ~36~13~45 minecraft:stone 6
+fill ~15~14~37 ~36~14~45 minecraft:stone 0
+fill ~15~15~37 ~36~15~45 minecraft:stone 6
+fill ~15~16~37 ~36~16~47 minecraft:stone 0
+fill ~15~17~37 ~36~17~47 minecraft:stone 6
+fill ~15~18~37 ~36~18~47 minecraft:stone 0
+fill ~15~19~37 ~36~19~47 minecraft:stone 6
+fill ~15~20~37 ~36~20~47 minecraft:stone 0
+fill ~15~21~37 ~36~21~45 minecraft:stone 6
+fill ~15~22~37 ~36~22~45 minecraft:stone 0
+fill ~15~23~37 ~36~23~45 minecraft:stone 6
+fill ~15~24~37 ~36~24~45 minecraft:stone 0
+fill ~15~25~37 ~36~25~45 minecraft:stone 6
+fill ~15~26~37 ~36~26~45 minecraft:stone 0
+fill ~15~27~37 ~36~27~43 minecraft:stone 6
+fill ~15~28~37 ~36~28~43 minecraft:stone 0
+fill ~15~29~37 ~36~29~45 minecraft:stone 6
+fill ~15~30~37 ~36~30~42 minecraft:stone 0
+fill ~15~31~37 ~36~31~43 minecraft:stone 6
+fill ~15~32~37 ~36~32~42 minecraft:stone 0
+fill ~15~33~37 ~36~33~43 minecraft:stone 6
+fill ~15~34~37 ~36~34~42 minecraft:stone 0
+fill ~15~35~37 ~36~35~43 minecraft:stone 6
+fill ~15~36~37 ~36~36~42 minecraft:stone 0
+fill ~15~37~37 ~36~37~45 minecraft:stone 6
+fill ~15~38~37 ~36~38~42 minecraft:stone 0
+fill ~15~39~37 ~36~39~42 minecraft:stone 6
+fill ~15~40~37 ~36~40~42 minecraft:stone 0
+fill ~15~41~37 ~36~41~43 minecraft:stone 6
+fill ~15~42~37 ~36~42~42 minecraft:stone 0
+fill ~15~43~37 ~36~43~43 minecraft:stone 6
+fill ~15~44~37 ~36~44~42 minecraft:stone 0
+fill ~15~45~37 ~36~45~45 minecraft:stone 6
+fill ~15~46~37 ~36~46~42 minecraft:stone 0
+fill ~15~47~37 ~36~47~42 minecraft:stone 6
+fill ~15~48~37 ~36~48~42 minecraft:stone 0
+fill ~15~49~37 ~36~49~42 minecraft:stone 6
+fill ~15~50~37 ~36~50~42 minecraft:stone 0
+fill ~15~51~37 ~36~51~43 minecraft:stone 6
+fill ~15~52~37 ~36~52~42 minecraft:stone 0
+fill ~15~53~37 ~36~53~43 minecraft:stone 6
+fill ~15~54~37 ~36~54~42 minecraft:stone 0
+fill ~15~55~37 ~36~55~43 minecraft:stone 6
+fill ~15~56~37 ~36~56~42 minecraft:stone 0
+fill ~15~57~37 ~36~57~43 minecraft:stone 6
+fill ~15~58~37 ~36~58~42 minecraft:stone 0
+fill ~15~59~37 ~36~59~45 minecraft:stone 6
+fill ~15~60~37 ~36~60~42 minecraft:stone 0
+fill ~15~61~37 ~36~61~45 minecraft:stone 6
+fill ~15~62~37 ~36~62~42 minecraft:stone 0
+fill ~15~63~37 ~36~66~39 minecraft:stone 6
+fill ~15~68~37 ~36~69~45 minecraft:stone 6
+fill ~15~70~37 ~24~70~39 minecraft:stone 0
+fill ~15~71~37 ~24~71~39 minecraft:stone 6
+fill ~15~72~37 ~24~72~39 minecraft:stone 0
+fill ~15~73~37 ~24~73~39 minecraft:stone 6
+fill ~15~74~37 ~36~74~39 minecraft:stone 0
+fill ~15~75~37 ~36~75~39 minecraft:stone 6
+fill ~15~76~37 ~36~76~39 minecraft:stone 0
+fill ~15~77~37 ~36~77~39 minecraft:stone 6
+fill ~15~78~37 ~36~78~39 minecraft:stone 0
+fill ~15~79~37 ~36~79~39 minecraft:stone 6
+fill ~15~80~37 ~36~80~37 minecraft:stone 0
+fill ~15~81~37 ~36~81~37 minecraft:stone 6
+fill ~15~82~37 ~36~82~37 minecraft:stone 0
+fill ~15~83~37 ~36~83~37 minecraft:stone 6
+fill ~15~84~37 ~36~84~39 minecraft:stone 0
+fill ~15~188~37 ~16~188~40 minecraft:oxidized_copper
+fill ~15~189~37 ~16~189~39 minecraft:oxidized_copper
+fill ~17~85~37 ~34~85~40 minecraft:stone 6
+fill ~17~152~37 ~20~153~38 minecraft:oxidized_copper
+fill ~17~156~37 ~18~157~38 minecraft:oxidized_copper
+fill ~19~146~37 ~24~147~38 minecraft:oxidized_copper
+fill ~19~148~37 ~22~151~38 minecraft:oxidized_copper
+fill ~19~190~37 ~24~190~38 minecraft:oxidized_copper
+fill ~19~191~37 ~24~191~37 minecraft:oxidized_copper
+fill ~19~192~37 ~22~192~38 minecraft:oxidized_copper
+fill ~21~136~37 ~26~145~38 minecraft:oxidized_copper
+fill ~23~128~37 ~28~135~38 minecraft:oxidized_copper
+fill ~23~188~37 ~26~188~38 minecraft:oxidized_copper
+fill ~25~118~37 ~32~120~38 minecraft:oxidized_copper
+fill ~25~121~37 ~31~121~38 minecraft:oxidized_copper
+fill ~25~122~37 ~30~124~38 minecraft:oxidized_copper
+fill ~25~125~37 ~29~125~38 minecraft:oxidized_copper
+fill ~25~126~37 ~28~127~38 minecraft:oxidized_copper
+fill ~25~160~37 ~28~165~38 minecraft:oxidized_copper
+fill ~25~166~37 ~26~167~38 minecraft:oxidized_copper
+fill ~25~184~37 ~28~184~38 minecraft:oxidized_copper
+fill ~25~185~37 ~27~185~38 minecraft:oxidized_copper
+fill ~25~186~37 ~26~187~38 minecraft:oxidized_copper
+fill ~25~201~37 ~29~201~37 minecraft:oxidized_copper
+fill ~25~204~37 ~30~209~38 minecraft:oxidized_copper
+fill ~27~0~37 ~36~0~47 minecraft:stone 0
+fill ~27~1~37 ~36~1~47 minecraft:stone 6
+fill ~27~2~37 ~36~2~47 minecraft:stone 0
+fill ~27~3~37 ~36~3~47 minecraft:stone 6
+fill ~27~70~37 ~36~70~39 minecraft:stone 0
+fill ~27~71~37 ~36~71~39 minecraft:stone 6
+fill ~27~72~37 ~36~72~39 minecraft:stone 0
+fill ~27~73~37 ~36~73~39 minecraft:stone 6
+fill ~27~114~37 ~38~116~38 minecraft:oxidized_copper
+fill ~27~117~37 ~38~117~37 minecraft:oxidized_copper
+fill ~27~137~37 ~27~137~38 minecraft:oxidized_copper
+fill ~27~142~37 ~28~159~38 minecraft:oxidized_copper
+fill ~27~176~37 ~30~178~38 minecraft:oxidized_copper
+fill ~27~179~37 ~29~179~38 minecraft:oxidized_copper
+fill ~27~180~37 ~28~183~38 minecraft:oxidized_copper
+fill ~29~106~37 ~32~113~38 minecraft:oxidized_copper
+fill ~29~146~37 ~32~147~38 minecraft:oxidized_copper
+fill ~29~148~37 ~30~151~38 minecraft:oxidized_copper
+fill ~29~155~37 ~29~155~38 minecraft:oxidized_copper
+fill ~29~162~37 ~34~163~38 minecraft:oxidized_copper
+fill ~29~172~37 ~32~172~38 minecraft:oxidized_copper
+fill ~29~173~37 ~31~173~38 minecraft:oxidized_copper
+fill ~29~174~37 ~30~175~38 minecraft:oxidized_copper
+fill ~31~100~37 ~32~105~38 minecraft:oxidized_copper
+fill ~31~142~37 ~32~145~38 minecraft:oxidized_copper
+fill ~31~160~37 ~34~161~38 minecraft:oxidized_copper
+fill ~31~164~37 ~34~167~38 minecraft:oxidized_copper
+fill ~31~168~37 ~32~171~38 minecraft:oxidized_copper
+fill ~33~98~37 ~36~99~38 minecraft:oxidized_copper
+fill ~33~110~37 ~34~112~40 minecraft:oxidized_copper
+fill ~33~113~37 ~34~113~39 minecraft:oxidized_copper
+fill ~33~169~37 ~33~169~38 minecraft:oxidized_copper
+fill ~35~118~37 ~38~118~38 minecraft:oxidized_copper
+fill ~35~119~37 ~38~119~37 minecraft:oxidized_copper
+fill ~39~104~37 ~40~104~38 minecraft:oxidized_copper
+fill ~39~108~37 ~40~113~38 minecraft:oxidized_copper
+fill ~4~67~38 ~5~72~39 minecraft:stone 6
+fill ~19~191~38 ~22~191~38 minecraft:oxidized_copper
+fill ~23~189~38 ~24~189~38 minecraft:oxidized_copper
+fill ~27~117~38 ~32~117~38 minecraft:oxidized_copper
+fill ~35~117~38 ~38~117~38 minecraft:oxidized_copper
+setblock ~38~88~38 minecraft:oxidized_copper
+fill ~46~67~38 ~47~72~39 minecraft:stone 6
+fill ~5~12~39 ~5~13~44 minecraft:stone 6
+fill ~5~158~39 ~8~159~40 minecraft:oxidized_copper
+fill ~5~160~39 ~6~163~40 minecraft:oxidized_copper
+fill ~7~156~39 ~16~157~40 minecraft:oxidized_copper
+fill ~7~164~39 ~8~167~42 minecraft:oxidized_copper
+fill ~9~154~39 ~12~155~40 minecraft:oxidized_copper
+fill ~9~172~39 ~10~173~40 minecraft:oxidized_copper
+fill ~11~176~39 ~12~177~42 minecraft:oxidized_copper
+fill ~14~185~39 ~14~185~42 minecraft:oxidized_copper
+fill ~15~158~39 ~26~159~40 minecraft:oxidized_copper
+fill ~15~186~39 ~15~186~42 minecraft:oxidized_copper
+fill ~15~187~39 ~24~187~39 minecraft:oxidized_copper
+fill ~17~160~39 ~26~160~40 minecraft:oxidized_copper
+fill ~17~161~39 ~25~161~40 minecraft:oxidized_copper
+fill ~17~188~39 ~22~188~40 minecraft:oxidized_copper
+fill ~17~189~39 ~22~189~39 minecraft:oxidized_copper
+fill ~19~156~39 ~26~157~40 minecraft:oxidized_copper
+fill ~19~162~39 ~24~163~40 minecraft:oxidized_copper
+fill ~21~152~39 ~26~155~40 minecraft:oxidized_copper
+fill ~21~164~39 ~24~165~40 minecraft:oxidized_copper
+fill ~21~186~39 ~24~186~40 minecraft:oxidized_copper
+fill ~23~148~39 ~26~151~40 minecraft:oxidized_copper
+fill ~23~166~39 ~24~185~40 minecraft:oxidized_copper
+fill ~25~146~39 ~26~147~40 minecraft:oxidized_copper
+fill ~25~168~39 ~30~170~40 minecraft:oxidized_copper
+fill ~25~171~39 ~30~171~39 minecraft:oxidized_copper
+fill ~25~172~39 ~28~176~40 minecraft:oxidized_copper
+fill ~25~177~39 ~28~177~39 minecraft:oxidized_copper
+fill ~25~178~39 ~26~182~40 minecraft:oxidized_copper
+fill ~25~183~39 ~26~183~39 minecraft:oxidized_copper
+fill ~27~166~39 ~30~167~40 minecraft:oxidized_copper
+fill ~29~164~39 ~30~165~40 minecraft:oxidized_copper
+fill ~33~100~39 ~36~101~40 minecraft:oxidized_copper
+fill ~33~102~39 ~34~106~42 minecraft:oxidized_copper
+fill ~33~107~39 ~38~109~40 minecraft:oxidized_copper
+fill ~35~104~39 ~38~106~40 minecraft:oxidized_copper
+fill ~35~110~39 ~38~114~40 minecraft:oxidized_copper
+fill ~35~115~39 ~38~115~39 minecraft:oxidized_copper
+fill ~37~102~39 ~38~103~40 minecraft:oxidized_copper
+fill ~46~12~39 ~46~13~44 minecraft:stone 6
+fill ~4~65~40 ~47~65~42 minecraft:stone 0
+fill ~5~11~40 ~5~11~43 minecraft:stone 6
+fill ~5~14~40 ~5~14~43 minecraft:stone 6
+fill ~6~61~40 ~7~61~41 minecraft:stone 0
+fill ~6~63~40 ~45~63~42 minecraft:stone 0
+fill ~8~29~40 ~8~38~42 minecraft:stonebrick 0
+fill ~8~41~40 ~8~62~43 minecraft:stonebrick 0
+fill ~9~29~40 ~11~29~43 minecraft:stone 6
+fill ~9~31~40 ~11~31~43 minecraft:stone 6
+fill ~9~33~40 ~14~33~43 minecraft:stone 6
+fill ~9~35~40 ~14~35~43 minecraft:stone 6
+fill ~9~37~40 ~14~37~43 minecraft:stone 6
+fill ~9~47~40 ~9~47~42 minecraft:stone 6
+fill ~9~49~40 ~9~49~42 minecraft:stone 6
+fill ~15~64~40 ~36~64~47 minecraft:stone 6
+fill ~15~66~40 ~47~66~47 minecraft:stone 6
+fill ~15~187~40 ~22~187~40 minecraft:oxidized_copper
+fill ~20~186~40 ~20~186~42 minecraft:oxidized_copper
+fill ~22~74~40 ~22~74~41 minecraft:stone_block_slab 13
+fill ~23~70~40 ~24~72~41 minecraft:stone 0
+fill ~23~73~40 ~24~74~41 minecraft:monster_egg 2
+fill ~23~75~40 ~23~75~41 minecraft:stone 6
+fill ~24~75~40 ~27~75~41 minecraft:stone 5
+fill ~24~76~40 ~24~76~41 minecraft:stone 6
+fill ~25~74~40 ~28~74~41 minecraft:monster_egg 2
+fill ~25~76~40 ~26~76~41 minecraft:stone 5
+fill ~25~77~40 ~26~77~41 minecraft:stone 6
+fill ~25~171~40 ~28~171~40 minecraft:oxidized_copper
+fill ~25~177~40 ~26~177~40 minecraft:oxidized_copper
+fill ~27~70~40 ~28~72~41 minecraft:stone 0
+fill ~27~73~40 ~28~73~41 minecraft:monster_egg 2
+fill ~27~76~40 ~27~76~41 minecraft:stone 6
+fill ~28~75~40 ~28~75~41 minecraft:stone 6
+fill ~29~74~40 ~29~74~41 minecraft:stone_block_slab 13
+fill ~43~29~40 ~43~29~42 minecraft:stone 6
+fill ~43~30~40 ~43~30~42 minecraft:stone 0
+fill ~43~32~40 ~43~32~42 minecraft:stone 0
+fill ~43~34~40 ~43~34~42 minecraft:stone 0
+fill ~43~36~40 ~43~36~42 minecraft:stone 0
+fill ~43~37~40 ~43~37~42 minecraft:stone 6
+fill ~43~38~40 ~43~38~42 minecraft:stone 0
+fill ~43~41~40 ~43~62~43 minecraft:stonebrick 0
+fill ~44~61~40 ~45~61~41 minecraft:stone 0
+fill ~46~11~40 ~46~11~43 minecraft:stone 6
+fill ~46~14~40 ~46~14~43 minecraft:stone 6
+fill ~5~10~41 ~5~10~42 minecraft:stone 6
+fill ~5~15~41 ~5~15~42 minecraft:stone 6
+fill ~7~160~41 ~10~161~42 minecraft:oxidized_copper
+fill ~7~162~41 ~8~163~42 minecraft:oxidized_copper
+fill ~9~158~41 ~14~159~42 minecraft:oxidized_copper
+fill ~9~168~41 ~10~171~42 minecraft:oxidized_copper
+fill ~11~172~41 ~12~173~44 minecraft:oxidized_copper
+fill ~11~174~41 ~12~175~42 minecraft:oxidized_copper
+fill ~13~178~41 ~14~178~44 minecraft:oxidized_copper
+fill ~13~179~41 ~14~179~43 minecraft:oxidized_copper
+fill ~13~180~41 ~14~181~42 minecraft:oxidized_copper
+fill ~15~160~41 ~16~163~42 minecraft:oxidized_copper
+fill ~15~184~41 ~22~184~42 minecraft:oxidized_copper
+fill ~15~185~41 ~22~185~41 minecraft:oxidized_copper
+fill ~15~187~41 ~20~187~41 minecraft:oxidized_copper
+fill ~16~186~41 ~19~186~42 minecraft:oxidized_copper
+fill ~17~162~41 ~18~165~42 minecraft:oxidized_copper
+fill ~19~164~41 ~20~169~42 minecraft:oxidized_copper
+fill ~19~182~41 ~22~183~42 minecraft:oxidized_copper
+fill ~21~166~41 ~22~181~42 minecraft:oxidized_copper
+fill ~33~107~41 ~36~107~41 minecraft:oxidized_copper
+fill ~35~102~41 ~36~106~42 minecraft:oxidized_copper
+fill ~46~10~41 ~46~10~42 minecraft:stone 6
+fill ~46~15~41 ~46~15~42 minecraft:stone 6
+fill ~15~185~42 ~20~185~42 minecraft:oxidized_copper
+fill ~46~21~42 ~47~22~44 minecraft:stone 6
+fill ~46~23~42 ~46~24~44 minecraft:stone 6
+fill ~4~21~43 ~5~22~45 minecraft:stone 6
+fill ~4~65~43 ~11~65~47 minecraft:stone 0
+fill ~5~23~43 ~5~24~45 minecraft:stone 6
+fill ~6~63~43 ~11~63~45 minecraft:stone 0
+setblock ~8~29~43 minecraft:stone 6
+fill ~8~30~43 ~11~30~43 minecraft:stone 0
+setblock ~8~31~43 minecraft:stone 6
+fill ~8~32~43 ~11~32~43 minecraft:stone 0
+setblock ~8~33~43 minecraft:stone 6
+fill ~8~34~43 ~11~34~43 minecraft:stone 0
+setblock ~8~35~43 minecraft:stone 6
+fill ~8~36~43 ~11~36~43 minecraft:stone 0
+setblock ~8~37~43 minecraft:stone 6
+fill ~8~38~43 ~11~38~43 minecraft:stone 0
+fill ~9~39~43 ~16~40~45 minecraft:stonebrick 0
+fill ~9~41~43 ~11~62~43 minecraft:stonebrick 0
+fill ~9~162~43 ~14~165~44 minecraft:oxidized_copper
+fill ~9~166~43 ~10~167~44 minecraft:oxidized_copper
+fill ~11~160~43 ~14~161~44 minecraft:oxidized_copper
+fill ~11~168~43 ~12~169~46 minecraft:oxidized_copper
+fill ~11~170~43 ~12~171~44 minecraft:oxidized_copper
+fill ~12~30~43 ~15~30~45 minecraft:stone 6
+fill ~12~32~43 ~15~32~45 minecraft:stone 6
+fill ~12~34~43 ~15~34~45 minecraft:stone 6
+fill ~12~36~43 ~15~36~45 minecraft:stone 6
+fill ~12~38~43 ~39~38~45 minecraft:stone 6
+fill ~12~42~43 ~15~42~45 minecraft:stone 6
+fill ~12~43~43 ~14~56~45 minecraft:stone 6
+fill ~12~58~43 ~15~58~46 minecraft:stone 6
+fill ~12~60~43 ~15~60~45 minecraft:stone 6
+fill ~12~61~43 ~14~63~45 minecraft:stone 6
+fill ~12~65~43 ~39~65~47 minecraft:stone 6
+fill ~13~174~43 ~20~177~44 minecraft:oxidized_copper
+fill ~15~44~43 ~15~44~45 minecraft:stone 6
+fill ~15~46~43 ~15~50~45 minecraft:stone 6
+fill ~15~52~43 ~15~52~45 minecraft:stone 6
+fill ~15~54~43 ~15~54~45 minecraft:stone 6
+fill ~15~56~43 ~15~56~45 minecraft:stone 6
+fill ~15~62~43 ~15~63~45 minecraft:stone 6
+fill ~15~164~43 ~16~167~44 minecraft:oxidized_copper
+fill ~15~178~43 ~20~180~44 minecraft:oxidized_copper
+fill ~15~181~43 ~20~181~43 minecraft:oxidized_copper
+fill ~15~182~43 ~18~182~44 minecraft:oxidized_copper
+fill ~15~183~43 ~18~183~43 minecraft:oxidized_copper
+fill ~16~30~43 ~35~30~43 minecraft:stone 0
+fill ~16~32~43 ~35~32~43 minecraft:stone 0
+fill ~16~34~43 ~35~34~43 minecraft:stone 0
+fill ~16~36~43 ~35~36~43 minecraft:stone 0
+fill ~16~42~43 ~19~42~43 minecraft:stone 0
+fill ~16~44~43 ~19~44~43 minecraft:stone 0
+fill ~16~46~43 ~19~46~43 minecraft:stone 0
+fill ~16~47~43 ~24~47~43 minecraft:stone 6
+fill ~16~48~43 ~19~48~43 minecraft:stone 0
+fill ~16~49~43 ~24~49~43 minecraft:stone 6
+fill ~16~50~43 ~19~50~43 minecraft:stone 0
+fill ~16~52~43 ~19~52~43 minecraft:stone 0
+fill ~16~54~43 ~19~54~43 minecraft:stone 0
+fill ~16~56~43 ~19~56~43 minecraft:stone 0
+fill ~16~58~43 ~19~58~43 minecraft:stone 0
+fill ~16~60~43 ~19~60~43 minecraft:stone 0
+fill ~16~62~43 ~19~62~43 minecraft:stone 0
+fill ~16~63~43 ~39~63~47 minecraft:stone 6
+fill ~17~39~43 ~34~40~43 minecraft:stone 6
+fill ~17~166~43 ~18~173~44 minecraft:oxidized_copper
+fill ~19~170~43 ~20~173~44 minecraft:oxidized_copper
+fill ~20~42~43 ~23~42~45 minecraft:stone 6
+fill ~20~44~43 ~23~44~45 minecraft:stone 6
+fill ~20~46~43 ~23~46~45 minecraft:stone 6
+fill ~20~48~43 ~23~48~45 minecraft:stone 6
+fill ~20~50~43 ~23~50~45 minecraft:stone 6
+fill ~20~52~43 ~23~52~45 minecraft:stone 6
+fill ~20~54~43 ~23~54~45 minecraft:stone 6
+fill ~20~56~43 ~23~56~45 minecraft:stone 6
+fill ~20~58~43 ~23~58~46 minecraft:stone 6
+fill ~20~60~43 ~23~60~45 minecraft:stone 6
+fill ~20~62~43 ~23~62~45 minecraft:stone 6
+fill ~24~42~43 ~27~42~43 minecraft:stone 0
+fill ~24~44~43 ~27~44~43 minecraft:stone 0
+fill ~24~46~43 ~27~46~43 minecraft:stone 0
+setblock ~24~48~43 minecraft:stone 0
+setblock ~24~50~43 minecraft:stone 0
+fill ~24~52~43 ~27~52~43 minecraft:stone 0
+fill ~24~54~43 ~27~54~43 minecraft:stone 0
+fill ~24~56~43 ~27~56~43 minecraft:stone 0
+fill ~24~58~43 ~27~58~43 minecraft:stone 0
+fill ~24~60~43 ~27~60~43 minecraft:stone 0
+fill ~24~62~43 ~27~62~43 minecraft:stone 0
+fill ~25~47~43 ~26~50~43 minecraft:tinted_glass
+fill ~27~47~43 ~36~47~43 minecraft:stone 6
+setblock ~27~48~43 minecraft:stone 0
+fill ~27~49~43 ~39~49~43 minecraft:stone 6
+setblock ~27~50~43 minecraft:stone 0
+fill ~28~42~43 ~31~42~45 minecraft:stone 6
+fill ~28~44~43 ~31~44~45 minecraft:stone 6
+fill ~28~46~43 ~31~46~45 minecraft:stone 6
+fill ~28~48~43 ~31~48~45 minecraft:stone 6
+fill ~28~50~43 ~31~50~45 minecraft:stone 6
+fill ~28~52~43 ~31~52~45 minecraft:stone 6
+fill ~28~54~43 ~31~54~45 minecraft:stone 6
+fill ~28~56~43 ~31~56~45 minecraft:stone 6
+fill ~28~58~43 ~31~58~46 minecraft:stone 6
+fill ~28~60~43 ~31~60~45 minecraft:stone 6
+fill ~28~62~43 ~31~62~45 minecraft:stone 6
+fill ~32~42~43 ~35~42~43 minecraft:stone 0
+fill ~32~44~43 ~35~44~43 minecraft:stone 0
+fill ~32~46~43 ~35~46~43 minecraft:stone 0
+fill ~32~48~43 ~35~48~43 minecraft:stone 0
+fill ~32~50~43 ~35~50~43 minecraft:stone 0
+fill ~32~52~43 ~35~52~43 minecraft:stone 0
+fill ~32~54~43 ~35~54~43 minecraft:stone 0
+fill ~32~56~43 ~35~56~43 minecraft:stone 0
+fill ~32~58~43 ~35~58~43 minecraft:stone 0
+fill ~32~60~43 ~35~60~43 minecraft:stone 0
+fill ~32~62~43 ~35~62~43 minecraft:stone 0
+fill ~35~39~43 ~42~40~45 minecraft:stonebrick 0
+fill ~36~30~43 ~39~30~45 minecraft:stone 6
+fill ~36~32~43 ~39~32~45 minecraft:stone 6
+fill ~36~34~43 ~39~34~45 minecraft:stone 6
+fill ~36~36~43 ~39~36~45 minecraft:stone 6
+fill ~36~42~43 ~39~42~45 minecraft:stone 6
+fill ~36~44~43 ~39~44~45 minecraft:stone 6
+fill ~36~46~43 ~39~46~45 minecraft:stone 6
+fill ~36~48~43 ~39~48~45 minecraft:stone 6
+fill ~36~50~43 ~39~50~45 minecraft:stone 6
+fill ~36~52~43 ~39~52~45 minecraft:stone 6
+fill ~36~54~43 ~39~54~45 minecraft:stone 6
+fill ~36~56~43 ~39~56~45 minecraft:stone 6
+fill ~36~58~43 ~39~58~46 minecraft:stone 6
+fill ~36~60~43 ~39~60~45 minecraft:stone 6
+fill ~36~62~43 ~39~62~45 minecraft:stone 6
+fill ~37~43~43 ~39~43~45 minecraft:stone 6
+fill ~37~51~43 ~39~51~45 minecraft:stone 6
+fill ~37~53~43 ~39~53~45 minecraft:stone 6
+fill ~37~55~43 ~39~55~45 minecraft:stone 6
+fill ~40~29~43 ~43~38~43 minecraft:stonebrick 0
+fill ~40~41~43 ~42~62~43 minecraft:stonebrick 0
+fill ~40~63~43 ~45~63~45 minecraft:stone 0
+fill ~40~65~43 ~47~65~47 minecraft:stone 0
+fill ~6~39~44 ~8~40~45 minecraft:monster_egg 2
+fill ~8~67~44 ~43~67~45 minecraft:stone 6
+fill ~8~70~44 ~43~70~45 minecraft:stone 6
+fill ~10~61~44 ~11~61~45 minecraft:stone 0
+fill ~10~62~44 ~11~62~45 minecraft:stone 6
+fill ~11~57~44 ~11~58~46 minecraft:stone 6
+fill ~12~33~44 ~15~33~45 minecraft:stone 6
+fill ~12~35~44 ~15~35~45 minecraft:stone 6
+fill ~12~37~44 ~14~37~45 minecraft:stone 6
+fill ~15~31~44 ~15~31~45 minecraft:stone 6
+fill ~15~41~44 ~15~41~45 minecraft:stone 6
+fill ~15~43~44 ~15~43~45 minecraft:stone 6
+fill ~15~51~44 ~15~51~45 minecraft:stone 6
+fill ~15~53~44 ~15~53~45 minecraft:stone 6
+fill ~15~55~44 ~15~55~45 minecraft:stone 6
+fill ~15~57~44 ~16~57~46 minecraft:stone 6
+fill ~15~181~44 ~18~181~44 minecraft:oxidized_copper
+fill ~16~30~44 ~35~30~45 minecraft:stone 6
+fill ~16~41~44 ~19~41~45 minecraft:stonebrick 0
+fill ~16~46~44 ~19~46~45 minecraft:stone 6
+fill ~16~58~44 ~16~58~46 minecraft:stone 6
+fill ~16~60~44 ~19~60~45 minecraft:stone 6
+fill ~16~62~44 ~19~62~45 minecraft:stone 6
+fill ~17~39~44 ~34~40~45 minecraft:stonebrick 0
+fill ~19~57~44 ~24~57~46 minecraft:stone 6
+fill ~19~58~44 ~19~58~46 minecraft:stone 6
+fill ~20~41~44 ~23~41~45 minecraft:stone 6
+fill ~20~43~44 ~23~43~45 minecraft:stone 6
+fill ~20~47~44 ~23~47~45 minecraft:stone 6
+fill ~20~49~44 ~23~49~45 minecraft:stone 6
+fill ~20~51~44 ~23~51~45 minecraft:stone 6
+fill ~20~53~44 ~23~53~45 minecraft:stone 6
+fill ~20~55~44 ~23~55~45 minecraft:stone 6
+fill ~24~41~44 ~27~41~45 minecraft:stonebrick 0
+fill ~24~46~44 ~27~46~45 minecraft:stone 6
+fill ~24~58~44 ~24~58~46 minecraft:stone 6
+fill ~24~60~44 ~27~60~45 minecraft:stone 6
+fill ~24~62~44 ~27~62~45 minecraft:stone 6
+fill ~27~57~44 ~32~57~46 minecraft:stone 6
+fill ~27~58~44 ~27~58~46 minecraft:stone 6
+fill ~28~41~44 ~31~41~45 minecraft:stone 6
+fill ~28~43~44 ~31~43~45 minecraft:stone 6
+fill ~28~47~44 ~31~47~45 minecraft:stone 6
+fill ~28~49~44 ~31~49~45 minecraft:stone 6
+fill ~28~51~44 ~31~51~45 minecraft:stone 6
+fill ~28~53~44 ~31~53~45 minecraft:stone 6
+fill ~28~55~44 ~31~55~45 minecraft:stone 6
+fill ~32~41~44 ~35~41~45 minecraft:stonebrick 0
+fill ~32~46~44 ~35~46~45 minecraft:stone 6
+fill ~32~58~44 ~32~58~46 minecraft:stone 6
+fill ~32~60~44 ~35~60~45 minecraft:stone 6
+fill ~32~62~44 ~35~62~45 minecraft:stone 6
+fill ~35~57~44 ~36~57~46 minecraft:stone 6
+fill ~35~58~44 ~35~58~46 minecraft:stone 6
+fill ~36~31~44 ~36~31~45 minecraft:stone 6
+fill ~36~33~44 ~36~33~45 minecraft:stone 6
+fill ~36~35~44 ~36~35~45 minecraft:stone 6
+fill ~36~41~44 ~36~41~45 minecraft:stone 6
+fill ~36~43~44 ~36~43~45 minecraft:stone 6
+fill ~36~47~44 ~36~47~45 minecraft:stone 6
+fill ~36~49~44 ~39~49~45 minecraft:stone 6
+fill ~36~51~44 ~36~51~45 minecraft:stone 6
+fill ~36~53~44 ~36~53~45 minecraft:stone 6
+fill ~36~55~44 ~36~55~45 minecraft:stone 6
+fill ~40~57~44 ~40~58~46 minecraft:stone 6
+fill ~40~61~44 ~41~61~45 minecraft:stone 0
+fill ~40~62~44 ~41~62~45 minecraft:stone 6
+fill ~11~166~45 ~14~167~46 minecraft:oxidized_copper
+fill ~13~168~45 ~16~173~46 minecraft:oxidized_copper
+fill ~4~67~46 ~5~72~47 minecraft:stone 6
+fill ~7~12~46 ~12~13~46 minecraft:stone 6
+fill ~7~21~46 ~9~22~47 minecraft:stone 6
+fill ~7~23~46 ~9~24~46 minecraft:stone 6
+fill ~8~14~46 ~11~14~46 minecraft:stone 6
+fill ~9~10~46 ~10~10~46 minecraft:stone 6
+fill ~12~63~46 ~15~63~47 minecraft:stone 6
+fill ~12~67~46 ~13~72~47 minecraft:stone 6
+fill ~13~21~46 ~15~22~47 minecraft:stone 6
+fill ~13~23~46 ~15~24~46 minecraft:stone 6
+fill ~15~12~46 ~20~13~46 minecraft:stone 6
+fill ~16~11~46 ~19~11~46 minecraft:stone 6
+fill ~16~14~46 ~19~14~46 minecraft:stone 6
+fill ~17~10~46 ~18~10~46 minecraft:stone 6
+fill ~17~15~46 ~18~15~46 minecraft:stone 6
+fill ~19~21~46 ~21~22~47 minecraft:stone 6
+fill ~19~23~46 ~21~24~46 minecraft:stone 6
+fill ~20~67~46 ~21~72~47 minecraft:stone 6
+fill ~23~12~46 ~28~13~46 minecraft:stone 6
+fill ~24~11~46 ~27~11~46 minecraft:stone 6
+fill ~24~14~46 ~27~14~46 minecraft:stone 6
+fill ~25~10~46 ~26~10~46 minecraft:stone 6
+fill ~25~15~46 ~26~15~46 minecraft:stone 6
+fill ~25~21~46 ~27~22~47 minecraft:stone 6
+fill ~25~23~46 ~27~24~46 minecraft:stone 6
+fill ~30~67~46 ~31~72~47 minecraft:stone 6
+fill ~31~12~46 ~36~13~46 minecraft:stone 6
+fill ~31~21~46 ~33~22~47 minecraft:stone 6
+fill ~31~23~46 ~33~24~46 minecraft:stone 6
+fill ~32~11~46 ~35~11~46 minecraft:stone 6
+fill ~32~14~46 ~35~14~46 minecraft:stone 6
+fill ~33~10~46 ~34~10~46 minecraft:stone 6
+fill ~33~15~46 ~34~15~46 minecraft:stone 6
+fill ~37~22~46 ~39~22~47 minecraft:stone 6
+fill ~37~24~46 ~39~24~46 minecraft:stone 6
+fill ~38~67~46 ~39~72~47 minecraft:stone 6
+fill ~39~12~46 ~44~13~46 minecraft:stone 6
+fill ~39~21~46 ~39~21~47 minecraft:stone 6
+setblock ~39~23~46 minecraft:stone 6
+fill ~40~14~46 ~43~14~46 minecraft:stone 6
+fill ~41~10~46 ~42~10~46 minecraft:stone 6
+fill ~43~21~46 ~44~22~47 minecraft:stone 6
+fill ~43~23~46 ~44~24~46 minecraft:stone 6
+fill ~45~22~46 ~45~22~47 minecraft:stone 6
+setblock ~45~24~46 minecraft:stone 6
+fill ~46~67~46 ~47~72~47 minecraft:stone 6
+fill ~20~4~48 ~21~4~50 minecraft:stone_block_slab 13
+fill ~21~5~48 ~30~5~49 minecraft:stone 5
+fill ~22~0~48 ~24~2~49 minecraft:stone 0
+fill ~22~3~48 ~24~4~49 minecraft:monster_egg 2
+fill ~22~6~48 ~29~6~49 minecraft:stone 5
+fill ~23~7~48 ~28~7~49 minecraft:stone 5
+fill ~25~4~48 ~29~4~49 minecraft:monster_egg 2
+fill ~25~8~48 ~26~8~49 minecraft:stone 5
+fill ~27~0~48 ~29~2~49 minecraft:stone 0
+fill ~27~3~48 ~29~3~49 minecraft:monster_egg 2
+fill ~30~4~48 ~31~4~50 minecraft:stone_block_slab 13
+fill ~22~4~50 ~29~4~50 minecraft:stone_block_slab 13

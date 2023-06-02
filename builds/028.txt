@@ -1,0 +1,3317 @@
+fill ~53 ~-3 ~16 ~93 ~-3 ~16 planks 1
+fill ~100 ~-3 ~16 ~100 ~3 ~16 planks 1
+fill ~102 ~-3 ~16 ~103 ~-3 ~16 planks 1
+fill ~106 ~-3 ~16 ~107 ~-3 ~16 planks 1
+fill ~38 ~-2 ~16 ~95 ~-2 ~16 planks 1
+fill ~54 ~-2 ~15 ~78 ~-2 ~15 planks 1
+fill ~54 ~-2 ~17 ~78 ~-2 ~17 planks 1
+fill ~98 ~-2 ~16 ~103 ~-2 ~16 planks 1
+fill ~106 ~-2 ~16 ~107 ~-2 ~16 planks 1
+fill ~34 ~-1 ~16 ~102 ~-1 ~16 planks 1
+fill ~39 ~-1 ~15 ~86 ~-1 ~15 planks 1
+fill ~39 ~-1 ~17 ~87 ~-1 ~17 planks 1
+fill ~56 ~-1 ~14 ~76 ~-1 ~14 planks 1
+fill ~56 ~-1 ~18 ~76 ~-1 ~18 planks 1
+fill ~61 ~-1 ~13 ~72 ~-1 ~13 planks 1
+fill ~61 ~-1 ~19 ~72 ~-1 ~19 planks 1
+fill ~105 ~-1 ~16 ~106 ~-1 ~16 planks 1
+fill ~33 ~0 ~16 ~54 ~0 ~16 planks 1
+fill ~36 ~0 ~15 ~54 ~0 ~15 planks 1
+fill ~36 ~0 ~17 ~54 ~0 ~17 planks 1
+fill ~42 ~0 ~14 ~42 ~1 ~14 planks 1
+fill ~46 ~0 ~14 ~56 ~0 ~14 planks 1
+fill ~46 ~0 ~18 ~56 ~0 ~18 planks 1
+fill ~47 ~0 ~13 ~60 ~0 ~13 planks 1
+fill ~48 ~0 ~19 ~60 ~0 ~19 planks 1
+fill ~51 ~0 ~12 ~83 ~0 ~12 planks 1
+fill ~51 ~0 ~20 ~83 ~0 ~20 planks 1
+fill ~55 ~0 ~11 ~77 ~0 ~11 planks 1
+fill ~55 ~0 ~21 ~77 ~0 ~21 planks 1
+fill ~62 ~0 ~14 ~62 ~2 ~14 log 1
+fill ~62 ~0 ~18 ~62 ~2 ~18 log 1
+fill ~66 ~0 ~14 ~66 ~2 ~14 log 1
+fill ~66 ~0 ~18 ~66 ~2 ~18 log 1
+fill ~67 ~0 ~13 ~67 ~6 ~13 log 1
+fill ~67 ~0 ~14 ~67 ~0 ~17 hay_block 8
+fill ~67 ~0 ~19 ~67 ~6 ~19 log 1
+fill ~68 ~0 ~13 ~69 ~0 ~13 hay_block 4
+fill ~68 ~0 ~14 ~69 ~0 ~14 hay_block 4
+fill ~68 ~0 ~15 ~70 ~0 ~15 hay_block 4
+setblock ~68 ~0 ~16 hay_block 0
+setblock ~68 ~0 ~17 hay_block 8
+fill ~69 ~0 ~16 ~69 ~1 ~16 hay_block 4
+fill ~70 ~0 ~13 ~71 ~0 ~13 hay_block 0
+fill ~70 ~0 ~14 ~70 ~1 ~14 hay_block 0
+setblock ~70 ~0 ~16 hay_block 0
+setblock ~71 ~0 ~14 hay_block 4
+setblock ~71 ~0 ~15 hay_block 0
+setblock ~72 ~0 ~14 hay_block 0
+fill ~73 ~0 ~13 ~84 ~0 ~13 planks 1
+fill ~73 ~0 ~19 ~84 ~0 ~19 planks 1
+fill ~77 ~0 ~14 ~86 ~0 ~14 planks 1
+fill ~77 ~0 ~18 ~86 ~0 ~18 planks 1
+fill ~79 ~0 ~15 ~94 ~0 ~15 planks 1
+fill ~79 ~0 ~16 ~102 ~0 ~16 planks 1
+fill ~79 ~0 ~17 ~94 ~0 ~17 planks 1
+fill ~105 ~0 ~16 ~106 ~0 ~16 planks 1
+fill ~32 ~1 ~16 ~41 ~1 ~16 planks 1
+fill ~34 ~1 ~15 ~41 ~1 ~15 planks 1
+fill ~34 ~1 ~17 ~41 ~1 ~17 planks 1
+fill ~41 ~1 ~14 ~41 ~2 ~14 planks 1
+fill ~41 ~1 ~18 ~45 ~1 ~18 planks 1
+fill ~42 ~1 ~13 ~47 ~1 ~13 planks 1
+fill ~42 ~1 ~15 ~47 ~1 ~15 tnt 1
+fill ~42 ~1 ~16 ~47 ~1 ~16 tnt 1
+fill ~42 ~1 ~17 ~47 ~1 ~17 tnt 1
+fill ~42 ~1 ~19 ~47 ~1 ~19 planks 1
+fill ~43 ~1 ~14 ~45 ~1 ~14 planks 1
+fill ~44 ~1 ~12 ~50 ~1 ~12 planks 1
+fill ~44 ~1 ~20 ~50 ~1 ~20 planks 1
+fill ~46 ~1 ~14 ~47 ~1 ~14 tnt 1
+fill ~46 ~1 ~18 ~47 ~1 ~18 tnt 1
+fill ~47 ~1 ~11 ~54 ~1 ~11 planks 1
+fill ~47 ~1 ~21 ~54 ~1 ~21 planks 1
+fill ~51 ~1 ~10 ~81 ~1 ~10 planks 1
+fill ~51 ~1 ~13 ~51 ~6 ~13 log 1
+fill ~51 ~1 ~19 ~51 ~6 ~19 log 1
+fill ~51 ~1 ~22 ~69 ~1 ~22 planks 1
+fill ~58 ~1 ~9 ~74 ~1 ~9 planks 1
+fill ~58 ~1 ~23 ~74 ~1 ~23 planks 1
+fill ~59 ~1 ~13 ~59 ~6 ~13 log 1
+fill ~59 ~1 ~19 ~59 ~6 ~19 log 1
+fill ~67 ~1 ~14 ~69 ~1 ~14 hay_block 4
+fill ~67 ~1 ~15 ~67 ~2 ~15 hay_block 0
+fill ~67 ~1 ~16 ~67 ~2 ~16 hay_block 8
+fill ~67 ~1 ~17 ~67 ~2 ~17 hay_block 8
+fill ~68 ~1 ~15 ~69 ~1 ~15 hay_block 4
+fill ~68 ~1 ~16 ~68 ~1 ~14 hay_block 4
+setblock ~69 ~1 ~13 hay_block 0
+setblock ~70 ~1 ~13 hay_block 4
+setblock ~70 ~1 ~15 hay_block 0
+fill ~71 ~1 ~22 ~81 ~1 ~22 planks 1
+fill ~75 ~1 ~13 ~75 ~6 ~13 log 1
+fill ~75 ~1 ~19 ~75 ~6 ~19 log 1
+fill ~78 ~1 ~11 ~85 ~1 ~11 planks 1
+fill ~78 ~1 ~21 ~85 ~1 ~21 planks 1
+setblock ~83 ~1 ~13 log 1
+fill ~83 ~1 ~19 ~83 ~6 ~19 log 1
+fill ~84 ~1 ~12 ~88 ~1 ~12 planks 1
+fill ~84 ~1 ~20 ~88 ~1 ~20 planks 1
+fill ~85 ~1 ~13 ~90 ~1 ~13 planks 1
+fill ~85 ~1 ~19 ~90 ~1 ~19 planks 1
+fill ~87 ~1 ~14 ~91 ~1 ~14 planks 1
+fill ~87 ~1 ~15 ~97 ~1 ~15 planks 1
+fill ~87 ~1 ~17 ~97 ~1 ~17 planks 1
+fill ~87 ~1 ~18 ~91 ~1 ~18 planks 1
+fill ~88 ~1 ~16 ~102 ~1 ~16 planks 1
+fill ~105 ~1 ~16 ~106 ~1 ~16 planks 1
+fill ~30 ~2 ~16 ~40 ~2 ~16 planks 1
+fill ~32 ~2 ~15 ~40 ~2 ~15 planks 1
+fill ~32 ~2 ~17 ~40 ~2 ~17 planks 1
+fill ~37 ~2 ~14 ~41 ~2 ~14 planks 1
+fill ~38 ~2 ~13 ~42 ~2 ~13 planks 1
+fill ~38 ~2 ~18 ~41 ~2 ~18 planks 1
+fill ~38 ~2 ~19 ~42 ~2 ~19 planks 1
+fill ~40 ~2 ~20 ~44 ~2 ~20 planks 1
+fill ~41 ~2 ~12 ~44 ~2 ~12 planks 1
+fill ~42 ~2 ~14 ~43 ~2 ~14 tnt 1
+fill ~42 ~2 ~15 ~45 ~2 ~15 tnt 1
+fill ~42 ~2 ~16 ~45 ~2 ~16 tnt 1
+fill ~42 ~2 ~18 ~43 ~2 ~18 tnt 1
+fill ~43 ~2 ~11 ~47 ~2 ~11 planks 1
+fill ~43 ~2 ~17 ~45 ~2 ~17 tnt 1
+fill ~43 ~2 ~21 ~47 ~2 ~21 planks 1
+setblock ~44 ~2 ~13 log 1
+setblock ~44 ~2 ~19 log 1
+fill ~45 ~2 ~10 ~51 ~2 ~10 planks 1
+setblock ~45 ~2 ~18 tnt 1
+setblock ~45 ~2 ~20 tnt 1
+fill ~45 ~2 ~22 ~51 ~2 ~22 planks 1
+fill ~49 ~2 ~9 ~58 ~2 ~9 planks 1
+fill ~49 ~2 ~23 ~58 ~2 ~23 planks 1
+fill ~56 ~2 ~8 ~76 ~2 ~8 planks 1
+fill ~56 ~2 ~24 ~76 ~2 ~24 planks 1
+fill ~67 ~2 ~14 ~68 ~2 ~14 hay_block 4
+setblock ~68 ~2 ~13 hay_block 4
+setblock ~68 ~2 ~15 hay_block 4
+fill ~75 ~2 ~9 ~83 ~2 ~9 planks 1
+fill ~75 ~2 ~23 ~83 ~2 ~23 planks 1
+fill ~82 ~2 ~10 ~87 ~2 ~10 planks 1
+fill ~82 ~2 ~22 ~87 ~2 ~22 planks 1
+setblock ~83 ~2 ~13 log 9
+fill ~86 ~2 ~11 ~90 ~2 ~11 planks 1
+fill ~86 ~2 ~21 ~90 ~2 ~21 planks 1
+fill ~89 ~2 ~12 ~92 ~2 ~12 planks 1
+fill ~89 ~2 ~20 ~92 ~2 ~20 planks 1
+fill ~91 ~2 ~13 ~94 ~2 ~13 planks 1
+fill ~91 ~2 ~19 ~94 ~2 ~19 planks 1
+fill ~92 ~2 ~14 ~95 ~2 ~14 planks 1
+fill ~92 ~2 ~18 ~95 ~2 ~18 planks 1
+fill ~93 ~2 ~15 ~99 ~2 ~15 planks 1
+fill ~93 ~2 ~16 ~102 ~2 ~16 planks 1
+fill ~93 ~2 ~17 ~99 ~2 ~17 planks 1
+fill ~105 ~2 ~16 ~105 ~4 ~16 planks 1
+fill ~29 ~3 ~16 ~32 ~3 ~16 planks 1
+fill ~31 ~3 ~15 ~33 ~3 ~15 planks 1
+fill ~31 ~3 ~17 ~33 ~3 ~17 planks 1
+fill ~33 ~3 ~14 ~34 ~3 ~14 nether_brick 0
+fill ~33 ~3 ~16 ~61 ~3 ~16 planks 0
+fill ~33 ~3 ~18 ~34 ~3 ~18 nether_brick 0
+fill ~34 ~3 ~13 ~36 ~3 ~13 nether_brick 0
+fill ~34 ~3 ~15 ~61 ~3 ~15 planks 0
+fill ~34 ~3 ~17 ~61 ~3 ~17 planks 0
+fill ~34 ~3 ~19 ~36 ~3 ~19 nether_brick 0
+fill ~35 ~3 ~14 ~61 ~3 ~14 planks 0
+fill ~35 ~3 ~18 ~61 ~3 ~18 planks 0
+fill ~36 ~3 ~12 ~38 ~3 ~12 nether_brick 0
+fill ~36 ~3 ~20 ~38 ~3 ~20 nether_brick 0
+fill ~37 ~3 ~13 ~44 ~3 ~13 planks 0
+fill ~37 ~3 ~19 ~42 ~3 ~19 planks 0
+fill ~39 ~3 ~11 ~40 ~3 ~11 nether_brick 0
+fill ~39 ~3 ~12 ~94 ~3 ~12 planks 0
+fill ~39 ~3 ~20 ~94 ~3 ~20 planks 0
+fill ~39 ~3 ~21 ~40 ~3 ~21 nether_brick 0
+fill ~41 ~3 ~10 ~44 ~3 ~10 nether_brick 0
+fill ~41 ~3 ~11 ~91 ~3 ~11 planks 0
+fill ~41 ~3 ~21 ~91 ~3 ~21 planks 0
+fill ~41 ~3 ~22 ~44 ~3 ~22 nether_brick 0
+fill ~43 ~3 ~19 ~43 ~6 ~19 log 1
+fill ~44 ~3 ~19 ~50 ~3 ~19 planks 0
+fill ~45 ~3 ~9 ~49 ~3 ~9 nether_brick 0
+fill ~45 ~3 ~10 ~87 ~3 ~10 planks 0
+fill ~45 ~3 ~22 ~87 ~3 ~22 planks 0
+fill ~45 ~3 ~23 ~49 ~3 ~23 nether_brick 0
+fill ~46 ~3 ~13 ~50 ~3 ~13 planks 0
+fill ~50 ~3 ~8 ~58 ~3 ~8 nether_brick 0
+fill ~50 ~3 ~9 ~82 ~3 ~9 planks 0
+fill ~50 ~3 ~23 ~82 ~3 ~23 planks 0
+fill ~50 ~3 ~24 ~58 ~3 ~24 nether_brick 0
+fill ~52 ~3 ~13 ~58 ~3 ~13 planks 0
+fill ~52 ~3 ~19 ~58 ~3 ~19 planks 0
+fill ~58 ~3 ~7 ~74 ~3 ~7 nether_brick 0
+fill ~58 ~3 ~25 ~74 ~3 ~25 nether_brick 0
+fill ~59 ~3 ~8 ~73 ~3 ~8 planks 0
+fill ~59 ~3 ~24 ~73 ~3 ~24 planks 0
+fill ~60 ~3 ~13 ~66 ~3 ~13 planks 0
+fill ~60 ~3 ~19 ~66 ~3 ~19 planks 0
+setblock ~62 ~3 ~14 stonebrick 3
+fill ~62 ~3 ~15 ~62 ~3 ~17 log 5
+setblock ~62 ~3 ~18 stonebrick 3
+fill ~63 ~3 ~14 ~65 ~3 ~14 log 9
+fill ~63 ~3 ~18 ~65 ~3 ~18 log 9
+setblock ~66 ~3 ~14 stonebrick 3
+setblock ~66 ~3 ~18 stonebrick 3
+fill ~67 ~3 ~14 ~97 ~3 ~14 planks 0
+fill ~67 ~3 ~18 ~97 ~3 ~18 planks 0
+fill ~68 ~3 ~13 ~74 ~3 ~13 planks 0
+fill ~68 ~3 ~15 ~98 ~3 ~15 planks 0
+fill ~68 ~3 ~16 ~99 ~3 ~16 planks 0
+fill ~68 ~3 ~17 ~98 ~3 ~17 planks 0
+fill ~68 ~3 ~19 ~74 ~3 ~19 planks 0
+fill ~74 ~3 ~8 ~82 ~3 ~8 nether_brick 0
+fill ~74 ~3 ~24 ~82 ~3 ~24 nether_brick 0
+fill ~76 ~3 ~13 ~82 ~3 ~13 planks 0
+fill ~76 ~3 ~19 ~82 ~3 ~19 planks 0
+fill ~83 ~3 ~9 ~87 ~3 ~9 nether_brick 0
+fill ~83 ~3 ~13 ~83 ~6 ~13 log 1
+fill ~83 ~3 ~23 ~87 ~3 ~23 nether_brick 0
+fill ~84 ~3 ~13 ~90 ~3 ~13 planks 0
+fill ~84 ~3 ~19 ~90 ~3 ~19 planks 0
+fill ~88 ~3 ~10 ~91 ~3 ~10 nether_brick 0
+fill ~88 ~3 ~22 ~91 ~3 ~22 nether_brick 0
+fill ~91 ~3 ~13 ~91 ~6 ~13 log 1
+fill ~91 ~3 ~19 ~91 ~6 ~19 log 1
+fill ~92 ~3 ~11 ~94 ~3 ~11 nether_brick 0
+fill ~92 ~3 ~13 ~95 ~3 ~13 planks 0
+fill ~92 ~3 ~19 ~95 ~3 ~19 planks 0
+fill ~92 ~3 ~21 ~94 ~3 ~21 nether_brick 0
+setblock ~95 ~3 ~12 nether_brick 0
+setblock ~95 ~3 ~20 nether_brick 0
+fill ~96 ~3 ~13 ~97 ~3 ~13 nether_brick 0
+fill ~96 ~3 ~19 ~97 ~3 ~19 nether_brick 0
+setblock ~98 ~3 ~14 nether_brick 0
+setblock ~98 ~3 ~18 nether_brick 0
+fill ~99 ~3 ~15 ~101 ~3 ~15 planks 1
+fill ~99 ~3 ~17 ~101 ~3 ~17 planks 1
+fill ~101 ~3 ~16 ~102 ~3 ~16 planks 1
+fill ~28 ~4 ~16 ~30 ~4 ~16 planks 1
+fill ~30 ~4 ~15 ~31 ~4 ~15 planks 1
+fill ~30 ~4 ~17 ~31 ~4 ~17 planks 1
+fill ~31 ~4 ~16 ~33 ~4 ~16 planks 0
+setblock ~32 ~4 ~14 nether_brick 0
+fill ~32 ~4 ~15 ~33 ~4 ~15 planks 0
+fill ~32 ~4 ~17 ~33 ~4 ~17 planks 0
+setblock ~32 ~4 ~18 nether_brick 0
+fill ~33 ~4 ~13 ~34 ~4 ~13 planks 0
+fill ~33 ~4 ~14 ~33 ~4 ~13 planks 0
+fill ~33 ~4 ~18 ~33 ~4 ~19 planks 0
+fill ~34 ~4 ~12 ~36 ~4 ~12 planks 0
+fill ~34 ~4 ~19 ~34 ~4 ~20 planks 0
+fill ~35 ~4 ~13 ~35 ~6 ~13 log 1
+fill ~35 ~4 ~19 ~35 ~6 ~19 log 1
+fill ~35 ~4 ~20 ~36 ~4 ~20 planks 0
+fill ~36 ~4 ~11 ~39 ~4 ~11 planks 0
+fill ~36 ~4 ~21 ~39 ~4 ~21 planks 0
+fill ~39 ~4 ~10 ~41 ~4 ~10 planks 0
+fill ~39 ~4 ~22 ~41 ~4 ~22 planks 0
+fill ~41 ~4 ~11 ~41 ~6 ~11 log 1
+fill ~41 ~4 ~13 ~41 ~6 ~13 log 1
+fill ~41 ~4 ~19 ~41 ~6 ~19 log 1
+fill ~41 ~4 ~21 ~41 ~6 ~21 log 1
+fill ~42 ~4 ~9 ~42 ~10 ~9 nether_brick 0
+fill ~42 ~4 ~10 ~42 ~6 ~10 nether_brick 0
+fill ~42 ~4 ~11 ~42 ~6 ~11 planks 1
+fill ~42 ~4 ~12 ~42 ~6 ~12 planks 1
+fill ~42 ~4 ~20 ~42 ~6 ~20 planks 1
+fill ~42 ~4 ~21 ~42 ~6 ~21 planks 1
+fill ~42 ~4 ~22 ~42 ~6 ~22 nether_brick 0
+fill ~42 ~4 ~23 ~42 ~10 ~23 nether_brick 0
+fill ~43 ~4 ~10 ~43 ~7 ~10 planks 0
+fill ~43 ~4 ~13 ~43 ~6 ~13 log 1
+fill ~43 ~4 ~16 ~43 ~6 ~16 log 1
+fill ~43 ~4 ~22 ~43 ~7 ~22 planks 0
+fill ~45 ~4 ~10 ~45 ~7 ~10 planks 0
+fill ~45 ~4 ~22 ~45 ~7 ~22 planks 0
+fill ~46 ~4 ~8 ~46 ~10 ~8 nether_brick 0
+fill ~46 ~4 ~9 ~46 ~6 ~9 nether_brick 0
+fill ~46 ~4 ~23 ~46 ~6 ~23 nether_brick 0
+fill ~46 ~4 ~24 ~46 ~10 ~24 nether_brick 0
+fill ~47 ~4 ~9 ~47 ~7 ~9 planks 0
+fill ~47 ~4 ~23 ~47 ~7 ~23 planks 0
+fill ~49 ~4 ~9 ~49 ~7 ~9 planks 0
+fill ~49 ~4 ~23 ~49 ~7 ~23 planks 0
+fill ~50 ~4 ~7 ~50 ~9 ~7 nether_brick 0
+fill ~50 ~4 ~8 ~50 ~6 ~8 nether_brick 0
+fill ~50 ~4 ~24 ~50 ~6 ~24 nether_brick 0
+fill ~50 ~4 ~25 ~50 ~9 ~25 nether_brick 0
+fill ~51 ~4 ~8 ~51 ~9 ~8 planks 0
+fill ~51 ~4 ~24 ~51 ~9 ~24 planks 0
+fill ~53 ~4 ~8 ~53 ~7 ~8 planks 0
+fill ~53 ~4 ~24 ~53 ~7 ~24 planks 0
+fill ~54 ~4 ~7 ~54 ~8 ~7 nether_brick 0
+fill ~54 ~4 ~8 ~54 ~6 ~8 nether_brick 0
+fill ~54 ~4 ~24 ~54 ~6 ~24 nether_brick 0
+fill ~54 ~4 ~25 ~54 ~8 ~25 nether_brick 0
+fill ~55 ~4 ~8 ~55 ~7 ~8 planks 0
+fill ~55 ~4 ~24 ~55 ~7 ~24 planks 0
+fill ~57 ~4 ~8 ~57 ~7 ~8 planks 0
+fill ~57 ~4 ~24 ~57 ~7 ~24 planks 0
+fill ~58 ~4 ~6 ~58 ~8 ~6 nether_brick 0
+fill ~58 ~4 ~7 ~58 ~6 ~7 nether_brick 0
+fill ~58 ~4 ~8 ~58 ~6 ~8 nether_brick 0
+fill ~58 ~4 ~24 ~58 ~6 ~24 nether_brick 0
+fill ~58 ~4 ~25 ~58 ~6 ~25 nether_brick 0
+fill ~58 ~4 ~26 ~58 ~8 ~26 nether_brick 0
+fill ~59 ~4 ~7 ~59 ~7 ~7 planks 0
+fill ~59 ~4 ~25 ~59 ~7 ~25 planks 0
+fill ~61 ~4 ~7 ~61 ~7 ~7 planks 0
+fill ~61 ~4 ~25 ~61 ~7 ~25 planks 0
+fill ~62 ~4 ~6 ~62 ~8 ~6 nether_brick 0
+fill ~62 ~4 ~7 ~62 ~6 ~7 nether_brick 0
+fill ~62 ~4 ~14 ~62 ~6 ~14 log 1
+fill ~62 ~4 ~18 ~62 ~6 ~18 log 1
+fill ~62 ~4 ~25 ~62 ~6 ~25 nether_brick 0
+fill ~62 ~4 ~26 ~62 ~8 ~26 nether_brick 0
+fill ~63 ~4 ~7 ~63 ~7 ~7 planks 0
+fill ~63 ~4 ~25 ~63 ~7 ~25 planks 0
+fill ~65 ~4 ~7 ~65 ~7 ~7 planks 0
+fill ~65 ~4 ~25 ~65 ~7 ~25 planks 0
+fill ~66 ~4 ~6 ~66 ~7 ~6 nether_brick 0
+fill ~66 ~4 ~7 ~66 ~6 ~7 nether_brick 0
+fill ~66 ~4 ~14 ~66 ~6 ~14 log 1
+fill ~66 ~4 ~18 ~66 ~6 ~18 log 1
+fill ~66 ~4 ~25 ~66 ~6 ~25 nether_brick 0
+fill ~66 ~4 ~26 ~66 ~7 ~26 nether_brick 0
+fill ~67 ~4 ~7 ~67 ~7 ~7 planks 0
+fill ~67 ~4 ~25 ~67 ~7 ~25 planks 0
+fill ~69 ~4 ~7 ~69 ~7 ~7 planks 0
+fill ~69 ~4 ~25 ~69 ~7 ~25 planks 0
+fill ~70 ~4 ~6 ~70 ~7 ~6 nether_brick 0
+fill ~70 ~4 ~7 ~70 ~6 ~7 nether_brick 0
+fill ~70 ~4 ~25 ~70 ~6 ~25 nether_brick 0
+fill ~70 ~4 ~26 ~70 ~7 ~26 nether_brick 0
+fill ~71 ~4 ~7 ~71 ~7 ~7 planks 0
+fill ~71 ~4 ~25 ~71 ~7 ~25 planks 0
+fill ~73 ~4 ~7 ~73 ~7 ~7 planks 0
+fill ~73 ~4 ~25 ~73 ~7 ~25 planks 0
+fill ~74 ~4 ~6 ~74 ~7 ~6 nether_brick 0
+fill ~74 ~4 ~7 ~74 ~6 ~7 nether_brick 0
+fill ~74 ~4 ~8 ~74 ~6 ~8 nether_brick 0
+fill ~74 ~4 ~24 ~74 ~6 ~24 nether_brick 0
+fill ~74 ~4 ~25 ~74 ~6 ~25 nether_brick 0
+fill ~74 ~4 ~26 ~74 ~7 ~26 nether_brick 0
+fill ~75 ~4 ~8 ~75 ~7 ~8 planks 0
+fill ~75 ~4 ~24 ~75 ~7 ~24 planks 0
+fill ~77 ~4 ~8 ~77 ~7 ~8 planks 0
+fill ~77 ~4 ~24 ~77 ~7 ~24 planks 0
+fill ~78 ~4 ~7 ~78 ~8 ~7 nether_brick 0
+fill ~78 ~4 ~8 ~78 ~6 ~8 nether_brick 0
+fill ~78 ~4 ~24 ~78 ~6 ~24 nether_brick 0
+fill ~78 ~4 ~25 ~78 ~8 ~25 nether_brick 0
+fill ~79 ~4 ~8 ~79 ~7 ~8 planks 0
+fill ~79 ~4 ~24 ~79 ~7 ~24 planks 0
+fill ~81 ~4 ~8 ~81 ~7 ~8 planks 0
+fill ~81 ~4 ~24 ~81 ~7 ~24 planks 0
+fill ~82 ~4 ~7 ~82 ~8 ~7 nether_brick 0
+fill ~82 ~4 ~8 ~82 ~6 ~8 nether_brick 0
+fill ~82 ~4 ~24 ~82 ~6 ~24 nether_brick 0
+fill ~82 ~4 ~25 ~82 ~8 ~25 nether_brick 0
+fill ~83 ~4 ~9 ~83 ~7 ~9 planks 0
+fill ~83 ~4 ~23 ~83 ~7 ~23 planks 0
+fill ~85 ~4 ~9 ~85 ~7 ~9 planks 0
+fill ~85 ~4 ~23 ~85 ~7 ~23 planks 0
+fill ~86 ~4 ~8 ~86 ~8 ~8 nether_brick 0
+fill ~86 ~4 ~9 ~86 ~6 ~9 nether_brick 0
+fill ~86 ~4 ~23 ~86 ~6 ~23 nether_brick 0
+fill ~86 ~4 ~24 ~86 ~8 ~24 nether_brick 0
+fill ~87 ~4 ~10 ~87 ~7 ~10 planks 0
+fill ~87 ~4 ~22 ~87 ~7 ~22 planks 0
+fill ~89 ~4 ~10 ~89 ~6 ~10 planks 0
+fill ~89 ~4 ~22 ~89 ~6 ~22 planks 0
+fill ~90 ~4 ~9 ~90 ~7 ~9 nether_brick 0
+fill ~90 ~4 ~10 ~90 ~6 ~10 nether_brick 0
+fill ~90 ~4 ~22 ~90 ~6 ~22 nether_brick 0
+fill ~90 ~4 ~23 ~90 ~7 ~23 nether_brick 0
+fill ~91 ~4 ~11 ~91 ~7 ~11 planks 0
+fill ~91 ~4 ~21 ~91 ~7 ~21 planks 0
+fill ~93 ~4 ~11 ~93 ~7 ~11 planks 0
+fill ~93 ~4 ~21 ~93 ~7 ~21 planks 0
+fill ~94 ~4 ~10 ~94 ~6 ~10 nether_brick 0
+fill ~94 ~4 ~11 ~94 ~6 ~11 nether_brick 0
+fill ~94 ~4 ~21 ~94 ~6 ~21 nether_brick 0
+fill ~94 ~4 ~22 ~94 ~6 ~22 nether_brick 0
+fill ~95 ~4 ~11 ~99 ~4 ~11 planks 0
+fill ~95 ~4 ~21 ~99 ~4 ~21 planks 0
+fill ~98 ~4 ~12 ~101 ~4 ~12 planks 0
+fill ~98 ~4 ~20 ~101 ~4 ~20 planks 0
+fill ~99 ~4 ~13 ~99 ~6 ~13 log 1
+fill ~99 ~4 ~19 ~99 ~6 ~19 log 1
+fill ~101 ~4 ~13 ~101 ~4 ~14 planks 0
+fill ~101 ~4 ~18 ~102 ~4 ~18 planks 0
+fill ~101 ~4 ~19 ~101 ~4 ~18 planks 0
+fill ~102 ~4 ~14 ~102 ~7 ~14 planks 0
+fill ~102 ~4 ~15 ~102 ~7 ~15 planks 0
+fill ~102 ~4 ~16 ~102 ~7 ~16 planks 0
+fill ~102 ~4 ~17 ~102 ~7 ~17 planks 0
+fill ~103 ~4 ~16 ~103 ~5 ~16 planks 1
+setblock ~8 ~5 ~12 wool 8
+fill ~8 ~5 ~19 ~9 ~5 ~19 wool 8
+setblock ~9 ~5 ~11 wool 8
+fill ~10 ~5 ~20 ~11 ~5 ~20 wool 8
+setblock ~12 ~5 ~21 wool 8
+fill ~25 ~5 ~16 ~29 ~5 ~16 planks 1
+fill ~28 ~5 ~15 ~30 ~5 ~15 planks 1
+fill ~28 ~5 ~17 ~30 ~5 ~17 planks 1
+fill ~30 ~5 ~16 ~30 ~9 ~16 planks 0
+setblock ~31 ~5 ~14 nether_brick 0
+setblock ~31 ~5 ~15 planks 0
+setblock ~31 ~5 ~17 planks 0
+setblock ~31 ~5 ~18 nether_brick 0
+fill ~32 ~5 ~13 ~33 ~5 ~13 planks 0
+fill ~32 ~5 ~14 ~32 ~5 ~13 planks 0
+fill ~32 ~5 ~18 ~32 ~5 ~19 planks 0
+fill ~33 ~5 ~12 ~34 ~5 ~12 planks 0
+fill ~33 ~5 ~19 ~33 ~5 ~20 planks 0
+fill ~34 ~5 ~20 ~35 ~5 ~20 planks 0
+fill ~35 ~5 ~11 ~39 ~5 ~11 planks 0
+fill ~35 ~5 ~21 ~39 ~5 ~21 planks 0
+setblock ~36 ~5 ~13 torch 1
+setblock ~36 ~5 ~19 torch 1
+fill ~37 ~5 ~10 ~41 ~5 ~10 planks 0
+fill ~37 ~5 ~22 ~41 ~5 ~22 planks 0
+fill ~40 ~5 ~9 ~41 ~5 ~9 planks 0
+setblock ~40 ~5 ~11 torch 3
+setblock ~40 ~5 ~21 torch 4
+fill ~40 ~5 ~23 ~41 ~5 ~23 planks 0
+fill ~95 ~5 ~10 ~95 ~6 ~10 planks 0
+fill ~95 ~5 ~11 ~100 ~5 ~11 planks 0
+fill ~95 ~5 ~21 ~100 ~5 ~21 planks 0
+fill ~95 ~5 ~22 ~95 ~6 ~22 planks 0
+fill ~102 ~5 ~13 ~102 ~6 ~13 planks 0
+fill ~102 ~5 ~18 ~102 ~7 ~18 planks 0
+fill ~102 ~5 ~19 ~102 ~6 ~19 planks 0
+fill ~2 ~6 ~15 ~2 ~6 ~17 wool 8
+setblock ~3 ~6 ~14 wool 8
+fill ~3 ~6 ~18 ~4 ~6 ~18 wool 8
+fill ~4 ~6 ~13 ~5 ~6 ~13 wool 8
+fill ~5 ~6 ~19 ~7 ~6 ~19 wool 8
+fill ~6 ~6 ~12 ~7 ~6 ~12 wool 8
+fill ~8 ~6 ~20 ~9 ~6 ~20 wool 0
+fill ~10 ~6 ~21 ~11 ~6 ~21 wool 8
+fill ~21 ~6 ~16 ~28 ~6 ~16 planks 1
+fill ~24 ~6 ~15 ~28 ~6 ~15 planks 1
+fill ~24 ~6 ~17 ~28 ~6 ~17 planks 1
+fill ~27 ~6 ~14 ~30 ~6 ~14 planks 1
+fill ~27 ~6 ~18 ~30 ~6 ~18 planks 1
+fill ~29 ~6 ~15 ~30 ~6 ~15 planks 0
+fill ~29 ~6 ~16 ~29 ~6 ~17 planks 0
+fill ~30 ~6 ~17 ~30 ~9 ~17 planks 0
+setblock ~31 ~6 ~13 nether_brick 0
+fill ~31 ~6 ~14 ~31 ~7 ~14 planks 0
+fill ~31 ~6 ~18 ~31 ~7 ~18 planks 0
+setblock ~31 ~6 ~19 nether_brick 0
+fill ~32 ~6 ~12 ~34 ~6 ~12 planks 0
+fill ~32 ~6 ~13 ~32 ~9 ~13 planks 0
+fill ~32 ~6 ~19 ~32 ~9 ~19 planks 0
+fill ~32 ~6 ~20 ~34 ~6 ~20 planks 0
+fill ~34 ~6 ~11 ~35 ~6 ~11 planks 0
+fill ~34 ~6 ~21 ~35 ~6 ~21 planks 0
+fill ~36 ~6 ~10 ~41 ~6 ~10 planks 0
+fill ~36 ~6 ~22 ~41 ~6 ~22 planks 0
+fill ~39 ~6 ~9 ~41 ~6 ~9 planks 0
+fill ~39 ~6 ~23 ~41 ~6 ~23 planks 0
+setblock ~41 ~6 ~12 log 5
+setblock ~41 ~6 ~20 log 5
+setblock ~42 ~6 ~13 log 9
+setblock ~42 ~6 ~19 log 9
+fill ~43 ~6 ~14 ~43 ~6 ~15 log 5
+fill ~43 ~6 ~17 ~43 ~6 ~18 log 5
+fill ~44 ~6 ~10 ~44 ~7 ~10 planks 0
+fill ~44 ~6 ~22 ~44 ~7 ~22 planks 0
+fill ~48 ~6 ~9 ~48 ~7 ~9 planks 0
+fill ~48 ~6 ~23 ~48 ~7 ~23 planks 0
+fill ~52 ~6 ~8 ~52 ~8 ~8 planks 0
+fill ~52 ~6 ~24 ~52 ~8 ~24 planks 0
+fill ~56 ~6 ~8 ~56 ~7 ~8 planks 0
+fill ~56 ~6 ~24 ~56 ~7 ~24 planks 0
+fill ~60 ~6 ~7 ~60 ~7 ~7 planks 0
+fill ~60 ~6 ~25 ~60 ~7 ~25 planks 0
+fill ~64 ~6 ~7 ~64 ~7 ~7 planks 0
+fill ~64 ~6 ~25 ~64 ~7 ~25 planks 0
+fill ~68 ~6 ~7 ~68 ~7 ~7 planks 0
+fill ~68 ~6 ~25 ~68 ~7 ~25 planks 0
+fill ~72 ~6 ~7 ~72 ~7 ~7 planks 0
+fill ~72 ~6 ~25 ~72 ~7 ~25 planks 0
+fill ~76 ~6 ~8 ~76 ~7 ~8 planks 0
+fill ~76 ~6 ~24 ~76 ~7 ~24 planks 0
+fill ~80 ~6 ~8 ~80 ~7 ~8 planks 0
+fill ~80 ~6 ~24 ~80 ~7 ~24 planks 0
+fill ~84 ~6 ~9 ~84 ~7 ~9 planks 0
+fill ~84 ~6 ~23 ~84 ~7 ~23 planks 0
+fill ~88 ~6 ~10 ~88 ~7 ~10 planks 0
+fill ~88 ~6 ~22 ~88 ~7 ~22 planks 0
+fill ~92 ~6 ~11 ~92 ~7 ~11 planks 0
+fill ~92 ~6 ~21 ~92 ~7 ~21 planks 0
+fill ~95 ~6 ~11 ~101 ~6 ~11 planks 0
+fill ~95 ~6 ~21 ~101 ~6 ~21 planks 0
+fill ~96 ~6 ~10 ~97 ~6 ~10 planks 0
+fill ~96 ~6 ~22 ~97 ~6 ~22 planks 0
+setblock ~101 ~6 ~12 torch 3
+setblock ~101 ~6 ~20 torch 4
+setblock ~102 ~6 ~12 planks 0
+setblock ~102 ~6 ~20 planks 0
+fill ~1 ~7 ~15 ~1 ~11 ~15 wool 0
+fill ~1 ~7 ~16 ~1 ~11 ~16 wool 0
+fill ~1 ~7 ~17 ~1 ~11 ~17 wool 0
+setblock ~2 ~7 ~14 wool 0
+setblock ~2 ~7 ~18 wool 0
+setblock ~3 ~7 ~13 wool 0
+fill ~3 ~7 ~19 ~4 ~7 ~19 wool 0
+fill ~4 ~7 ~12 ~5 ~7 ~12 wool 0
+fill ~5 ~7 ~11 ~6 ~7 ~11 wool 8
+fill ~5 ~7 ~20 ~7 ~7 ~20 wool 0
+fill ~8 ~7 ~21 ~9 ~7 ~21 wool 8
+fill ~17 ~7 ~16 ~19 ~7 ~16 planks 1
+fill ~20 ~7 ~15 ~23 ~7 ~15 planks 1
+fill ~20 ~7 ~17 ~23 ~7 ~17 planks 1
+fill ~24 ~7 ~14 ~26 ~7 ~14 planks 1
+fill ~24 ~7 ~18 ~26 ~7 ~18 planks 1
+fill ~27 ~7 ~13 ~30 ~7 ~13 planks 1
+fill ~27 ~7 ~19 ~30 ~7 ~19 planks 1
+fill ~29 ~7 ~14 ~29 ~8 ~14 log 1
+fill ~29 ~7 ~18 ~29 ~8 ~18 log 1
+fill ~30 ~7 ~14 ~30 ~9 ~14 planks 0
+fill ~30 ~7 ~15 ~47 ~7 ~15 planks 0
+fill ~30 ~7 ~18 ~30 ~9 ~18 planks 0
+fill ~31 ~7 ~12 ~32 ~7 ~12 nether_brick 0
+fill ~31 ~7 ~13 ~31 ~9 ~13 planks 0
+fill ~31 ~7 ~16 ~47 ~7 ~16 planks 0
+fill ~31 ~7 ~17 ~47 ~7 ~17 planks 0
+fill ~31 ~7 ~19 ~31 ~9 ~19 planks 0
+fill ~31 ~7 ~20 ~32 ~7 ~20 nether_brick 0
+fill ~32 ~7 ~14 ~47 ~7 ~14 planks 0
+fill ~32 ~7 ~18 ~47 ~7 ~18 planks 0
+setblock ~33 ~7 ~11 nether_brick 0
+fill ~33 ~7 ~12 ~47 ~7 ~12 planks 0
+fill ~33 ~7 ~13 ~47 ~7 ~13 planks 0
+fill ~33 ~7 ~19 ~47 ~7 ~19 planks 0
+fill ~33 ~7 ~20 ~47 ~7 ~20 planks 0
+setblock ~33 ~7 ~21 nether_brick 0
+fill ~34 ~7 ~11 ~47 ~7 ~11 planks 0
+fill ~34 ~7 ~21 ~47 ~7 ~21 planks 0
+fill ~35 ~7 ~10 ~47 ~7 ~10 planks 0
+fill ~35 ~7 ~22 ~47 ~7 ~22 planks 0
+fill ~38 ~7 ~9 ~41 ~7 ~9 planks 0
+fill ~38 ~7 ~23 ~41 ~7 ~23 planks 0
+setblock ~43 ~7 ~9 planks 0
+setblock ~43 ~7 ~23 planks 0
+fill ~45 ~7 ~9 ~87 ~7 ~9 planks 0
+fill ~45 ~7 ~23 ~87 ~7 ~23 planks 0
+setblock ~47 ~7 ~8 planks 0
+setblock ~47 ~7 ~24 planks 0
+fill ~48 ~7 ~10 ~48 ~7 ~22 log 5
+fill ~49 ~7 ~8 ~83 ~7 ~8 planks 0
+fill ~49 ~7 ~10 ~88 ~7 ~10 planks 0
+fill ~49 ~7 ~11 ~88 ~7 ~11 planks 0
+fill ~49 ~7 ~12 ~88 ~7 ~12 planks 0
+fill ~49 ~7 ~13 ~88 ~7 ~13 planks 0
+fill ~49 ~7 ~14 ~61 ~7 ~14 planks 0
+fill ~49 ~7 ~15 ~61 ~7 ~15 planks 0
+fill ~49 ~7 ~16 ~61 ~7 ~16 planks 0
+fill ~49 ~7 ~17 ~61 ~7 ~17 planks 0
+fill ~49 ~7 ~18 ~61 ~7 ~18 planks 0
+fill ~49 ~7 ~19 ~88 ~7 ~19 planks 0
+fill ~49 ~7 ~20 ~88 ~7 ~20 planks 0
+fill ~49 ~7 ~21 ~88 ~7 ~21 planks 0
+fill ~49 ~7 ~22 ~88 ~7 ~22 planks 0
+fill ~49 ~7 ~24 ~83 ~7 ~24 planks 0
+setblock ~51 ~7 ~7 planks 0
+setblock ~51 ~7 ~25 planks 0
+setblock ~53 ~7 ~7 planks 0
+setblock ~53 ~7 ~25 planks 0
+setblock ~55 ~7 ~7 planks 0
+setblock ~55 ~7 ~25 planks 0
+fill ~57 ~7 ~7 ~77 ~7 ~7 planks 0
+fill ~57 ~7 ~25 ~77 ~7 ~25 planks 0
+fill ~59 ~7 ~6 ~74 ~7 ~6 nether_brick 0
+fill ~59 ~7 ~26 ~74 ~7 ~26 nether_brick 0
+setblock ~62 ~7 ~14 stonebrick 3
+fill ~62 ~7 ~15 ~62 ~7 ~17 log 5
+setblock ~62 ~7 ~18 stonebrick 3
+fill ~63 ~7 ~14 ~65 ~7 ~14 log 9
+fill ~63 ~7 ~18 ~65 ~7 ~18 log 9
+setblock ~66 ~7 ~14 stonebrick 3
+setblock ~66 ~7 ~18 stonebrick 3
+fill ~67 ~7 ~14 ~88 ~7 ~14 planks 0
+fill ~67 ~7 ~15 ~88 ~7 ~15 planks 0
+fill ~67 ~7 ~16 ~88 ~7 ~16 planks 0
+fill ~67 ~7 ~17 ~88 ~7 ~17 planks 0
+fill ~67 ~7 ~18 ~88 ~7 ~18 planks 0
+setblock ~79 ~7 ~7 planks 0
+setblock ~79 ~7 ~25 planks 0
+setblock ~81 ~7 ~7 planks 0
+setblock ~81 ~7 ~25 planks 0
+fill ~85 ~7 ~8 ~85 ~9 ~8 planks 0
+fill ~85 ~7 ~24 ~85 ~9 ~24 planks 0
+setblock ~89 ~7 ~9 nether_brick 0
+fill ~89 ~7 ~10 ~89 ~7 ~22 log 5
+setblock ~89 ~7 ~23 nether_brick 0
+fill ~90 ~7 ~10 ~94 ~7 ~10 planks 0
+fill ~90 ~7 ~11 ~90 ~7 ~22 planks 0
+fill ~91 ~7 ~9 ~94 ~7 ~9 nether_brick 0
+fill ~91 ~7 ~12 ~101 ~7 ~12 planks 0
+fill ~91 ~7 ~13 ~101 ~7 ~13 planks 0
+fill ~91 ~7 ~14 ~102 ~7 ~14 planks 0
+fill ~91 ~7 ~15 ~102 ~7 ~15 planks 0
+fill ~91 ~7 ~16 ~102 ~7 ~16 planks 0
+fill ~91 ~7 ~17 ~102 ~7 ~17 planks 0
+fill ~91 ~7 ~18 ~102 ~7 ~18 planks 0
+fill ~91 ~7 ~19 ~101 ~7 ~19 planks 0
+fill ~91 ~7 ~20 ~101 ~7 ~20 planks 0
+fill ~91 ~7 ~22 ~94 ~7 ~22 planks 0
+fill ~91 ~7 ~23 ~94 ~7 ~23 nether_brick 0
+fill ~94 ~7 ~11 ~97 ~7 ~11 planks 0
+fill ~94 ~7 ~21 ~97 ~7 ~21 planks 0
+fill ~95 ~7 ~10 ~99 ~7 ~10 nether_brick 0
+fill ~95 ~7 ~22 ~99 ~7 ~22 nether_brick 0
+fill ~98 ~7 ~11 ~101 ~7 ~11 nether_brick 0
+fill ~98 ~7 ~21 ~101 ~7 ~21 nether_brick 0
+fill ~102 ~7 ~12 ~102 ~7 ~13 nether_brick 0
+fill ~102 ~7 ~19 ~102 ~7 ~20 nether_brick 0
+fill ~103 ~7 ~14 ~103 ~7 ~18 nether_brick 0
+fill ~1 ~8 ~14 ~1 ~10 ~14 wool 0
+fill ~1 ~8 ~18 ~1 ~10 ~18 wool 0
+setblock ~2 ~8 ~13 wool 0
+setblock ~2 ~8 ~19 wool 0
+setblock ~3 ~8 ~12 wool 0
+fill ~3 ~8 ~20 ~4 ~8 ~20 wool 0
+setblock ~4 ~8 ~11 wool 8
+fill ~5 ~8 ~21 ~6 ~8 ~21 wool 0
+setblock ~7 ~8 ~21 wool 8
+setblock ~18 ~8 ~15 planks 1
+setblock ~18 ~8 ~17 planks 1
+fill ~19 ~8 ~14 ~21 ~8 ~14 planks 1
+fill ~19 ~8 ~18 ~21 ~8 ~18 planks 1
+fill ~22 ~8 ~13 ~24 ~8 ~13 planks 1
+fill ~22 ~8 ~19 ~24 ~8 ~19 planks 1
+fill ~25 ~8 ~12 ~30 ~8 ~12 planks 1
+fill ~25 ~8 ~20 ~30 ~8 ~20 planks 1
+fill ~30 ~8 ~11 ~33 ~8 ~11 planks 1
+setblock ~30 ~8 ~13 planks 0
+fill ~30 ~8 ~15 ~30 ~9 ~15 planks 0
+setblock ~30 ~8 ~19 planks 0
+fill ~30 ~8 ~21 ~33 ~8 ~21 planks 1
+fill ~31 ~8 ~12 ~34 ~8 ~12 planks 0
+fill ~31 ~8 ~20 ~34 ~8 ~20 planks 0
+setblock ~34 ~8 ~11 nether_brick 0
+setblock ~34 ~8 ~21 nether_brick 0
+fill ~35 ~8 ~10 ~36 ~8 ~10 nether_brick 0
+fill ~35 ~8 ~11 ~37 ~8 ~11 planks 0
+fill ~35 ~8 ~21 ~37 ~8 ~21 planks 0
+fill ~35 ~8 ~22 ~36 ~8 ~22 nether_brick 0
+fill ~37 ~8 ~10 ~42 ~8 ~10 planks 0
+fill ~37 ~8 ~22 ~42 ~8 ~22 planks 0
+fill ~38 ~8 ~9 ~41 ~8 ~9 planks 0
+fill ~38 ~8 ~23 ~41 ~8 ~23 planks 0
+setblock ~44 ~8 ~9 planks 0
+setblock ~44 ~8 ~23 planks 0
+fill ~46 ~8 ~9 ~46 ~10 ~9 planks 0
+fill ~46 ~8 ~23 ~46 ~10 ~23 planks 0
+setblock ~48 ~8 ~8 planks 0
+fill ~48 ~8 ~13 ~48 ~10 ~13 log 1
+fill ~48 ~8 ~16 ~48 ~10 ~16 log 1
+fill ~48 ~8 ~19 ~48 ~10 ~19 log 1
+setblock ~48 ~8 ~24 planks 0
+fill ~49 ~8 ~9 ~51 ~8 ~9 planks 1
+fill ~49 ~8 ~10 ~49 ~10 ~10 planks 1
+fill ~49 ~8 ~11 ~49 ~10 ~11 planks 1
+fill ~49 ~8 ~12 ~51 ~8 ~12 planks 1
+fill ~49 ~8 ~20 ~51 ~8 ~20 planks 1
+fill ~49 ~8 ~21 ~49 ~10 ~21 planks 1
+fill ~49 ~8 ~22 ~49 ~10 ~22 planks 1
+fill ~49 ~8 ~23 ~51 ~8 ~23 planks 1
+setblock ~50 ~8 ~8 nether_brick 0
+setblock ~50 ~8 ~24 nether_brick 0
+setblock ~52 ~8 ~7 planks 0
+setblock ~52 ~8 ~9 log 9
+setblock ~52 ~8 ~12 log 9
+setblock ~52 ~8 ~13 planks 0
+setblock ~52 ~8 ~19 planks 0
+setblock ~52 ~8 ~20 log 9
+setblock ~52 ~8 ~23 log 9
+setblock ~52 ~8 ~25 planks 0
+setblock ~53 ~8 ~8 log 1
+setblock ~53 ~8 ~13 log 1
+setblock ~53 ~8 ~19 log 1
+setblock ~53 ~8 ~24 log 1
+fill ~55 ~8 ~6 ~62 ~8 ~6 nether_brick 0
+fill ~55 ~8 ~26 ~62 ~8 ~26 nether_brick 0
+fill ~58 ~8 ~16 ~59 ~8 ~16 log 1
+fill ~59 ~8 ~15 ~59 ~9 ~15 log 1
+fill ~59 ~8 ~17 ~59 ~9 ~17 log 1
+setblock ~62 ~8 ~14 log 1
+setblock ~62 ~8 ~18 log 1
+fill ~63 ~8 ~6 ~67 ~8 ~6 log 9
+fill ~63 ~8 ~26 ~67 ~8 ~26 log 9
+setblock ~66 ~8 ~14 log 1
+setblock ~66 ~8 ~18 log 1
+setblock ~67 ~8 ~14 torch 1
+setblock ~67 ~8 ~18 torch 1
+setblock ~68 ~8 ~6 log 1
+setblock ~68 ~8 ~26 log 1
+setblock ~72 ~8 ~6 log 1
+setblock ~72 ~8 ~26 log 1
+fill ~73 ~8 ~6 ~77 ~8 ~6 log 9
+fill ~73 ~8 ~26 ~77 ~8 ~26 log 9
+fill ~75 ~8 ~16 ~77 ~8 ~16 log 1
+fill ~76 ~8 ~15 ~76 ~9 ~15 log 1
+fill ~76 ~8 ~17 ~76 ~9 ~17 log 1
+fill ~79 ~8 ~7 ~85 ~8 ~7 nether_brick 0
+fill ~79 ~8 ~25 ~85 ~8 ~25 nether_brick 0
+setblock ~82 ~8 ~13 torch 2
+setblock ~82 ~8 ~19 torch 2
+setblock ~83 ~8 ~8 log 1
+setblock ~83 ~8 ~13 log 1
+setblock ~83 ~8 ~19 log 1
+setblock ~83 ~8 ~24 log 1
+setblock ~84 ~8 ~8 planks 0
+setblock ~84 ~8 ~9 log 9
+setblock ~84 ~8 ~12 log 9
+setblock ~84 ~8 ~13 planks 0
+setblock ~84 ~8 ~19 planks 0
+setblock ~84 ~8 ~20 log 9
+setblock ~84 ~8 ~23 log 9
+setblock ~84 ~8 ~24 planks 0
+fill ~85 ~8 ~9 ~88 ~8 ~9 planks 1
+fill ~85 ~8 ~12 ~88 ~8 ~12 planks 1
+fill ~85 ~8 ~20 ~88 ~8 ~20 planks 1
+fill ~85 ~8 ~23 ~88 ~8 ~23 planks 1
+fill ~87 ~8 ~8 ~88 ~8 ~8 nether_brick 0
+fill ~87 ~8 ~24 ~88 ~8 ~24 nether_brick 0
+fill ~88 ~8 ~10 ~88 ~11 ~10 planks 1
+fill ~88 ~8 ~11 ~88 ~11 ~11 planks 1
+fill ~88 ~8 ~21 ~88 ~11 ~21 planks 1
+fill ~88 ~8 ~22 ~88 ~11 ~22 planks 1
+fill ~89 ~8 ~8 ~101 ~8 ~8 log 9
+fill ~89 ~8 ~9 ~89 ~10 ~9 bookshelf 0
+fill ~89 ~8 ~10 ~89 ~10 ~10 bookshelf 0
+fill ~89 ~8 ~11 ~89 ~10 ~11 bookshelf 0
+fill ~89 ~8 ~12 ~89 ~10 ~12 bookshelf 0
+fill ~89 ~8 ~13 ~89 ~11 ~13 log 1
+fill ~89 ~8 ~16 ~89 ~11 ~16 log 1
+fill ~89 ~8 ~19 ~89 ~11 ~19 log 1
+fill ~89 ~8 ~20 ~89 ~10 ~20 bookshelf 0
+fill ~89 ~8 ~21 ~89 ~10 ~21 bookshelf 0
+fill ~89 ~8 ~22 ~89 ~10 ~22 bookshelf 0
+fill ~89 ~8 ~23 ~89 ~10 ~23 bookshelf 0
+fill ~89 ~8 ~24 ~101 ~8 ~24 log 9
+fill ~102 ~8 ~8 ~102 ~11 ~8 log 1
+setblock ~102 ~8 ~9 planks 0
+setblock ~102 ~8 ~23 planks 0
+fill ~102 ~8 ~24 ~102 ~11 ~24 log 1
+fill ~103 ~8 ~9 ~104 ~8 ~9 log 9
+fill ~103 ~8 ~10 ~104 ~8 ~10 planks 0
+fill ~103 ~8 ~22 ~104 ~8 ~22 planks 0
+fill ~103 ~8 ~23 ~104 ~8 ~23 log 9
+fill ~105 ~8 ~10 ~105 ~11 ~10 log 1
+fill ~105 ~8 ~11 ~105 ~8 ~12 planks 0
+fill ~105 ~8 ~20 ~105 ~8 ~21 planks 0
+fill ~105 ~8 ~22 ~105 ~11 ~22 log 1
+fill ~106 ~8 ~11 ~106 ~8 ~12 log 5
+setblock ~106 ~8 ~13 planks 0
+setblock ~106 ~8 ~19 planks 0
+fill ~106 ~8 ~20 ~106 ~8 ~21 log 5
+fill ~107 ~8 ~13 ~107 ~8 ~19 log 5
+setblock ~1 ~9 ~13 wool 0
+setblock ~1 ~9 ~19 wool 0
+setblock ~2 ~9 ~12 wool 0
+fill ~2 ~9 ~20 ~3 ~9 ~20 wool 0
+setblock ~3 ~9 ~11 wool 8
+fill ~4 ~9 ~21 ~5 ~9 ~21 wool 0
+fill ~6 ~9 ~21 ~6 ~10 ~21 wool 8
+setblock ~13 ~9 ~16 planks 1
+fill ~26 ~9 ~11 ~34 ~9 ~11 planks 1
+fill ~26 ~9 ~21 ~34 ~9 ~21 planks 1
+fill ~27 ~9 ~16 ~29 ~9 ~16 log 9
+setblock ~29 ~9 ~15 log 5
+setblock ~29 ~9 ~17 log 5
+fill ~33 ~9 ~12 ~34 ~9 ~12 planks 0
+fill ~33 ~9 ~20 ~34 ~9 ~20 planks 0
+fill ~35 ~9 ~10 ~36 ~9 ~10 planks 1
+fill ~35 ~9 ~11 ~37 ~9 ~11 planks 0
+fill ~35 ~9 ~21 ~37 ~9 ~21 planks 0
+fill ~35 ~9 ~22 ~36 ~9 ~22 planks 1
+setblock ~37 ~9 ~10 nether_brick 0
+setblock ~37 ~9 ~22 nether_brick 0
+fill ~38 ~9 ~10 ~42 ~9 ~10 planks 0
+fill ~38 ~9 ~22 ~42 ~9 ~22 planks 0
+fill ~40 ~9 ~9 ~41 ~9 ~9 planks 0
+fill ~40 ~9 ~23 ~41 ~9 ~23 planks 0
+setblock ~43 ~9 ~9 planks 0
+setblock ~43 ~9 ~23 planks 0
+setblock ~45 ~9 ~9 planks 0
+setblock ~45 ~9 ~23 planks 0
+setblock ~47 ~9 ~8 planks 0
+setblock ~47 ~9 ~24 planks 0
+fill ~49 ~9 ~8 ~51 ~9 ~8 planks 0
+fill ~49 ~9 ~9 ~50 ~9 ~9 planks 1
+fill ~49 ~9 ~12 ~50 ~9 ~12 planks 1
+setblock ~49 ~9 ~16 torch 1
+fill ~49 ~9 ~20 ~50 ~9 ~20 planks 1
+fill ~49 ~9 ~23 ~50 ~9 ~23 planks 1
+fill ~49 ~9 ~24 ~51 ~9 ~24 planks 0
+setblock ~49 ~9 ~25 nether_brick 0
+fill ~51 ~9 ~7 ~53 ~9 ~7 nether_brick 0
+setblock ~51 ~9 ~9 log 9
+setblock ~51 ~9 ~12 log 9
+setblock ~51 ~9 ~13 planks 0
+setblock ~51 ~9 ~19 planks 0
+setblock ~51 ~9 ~20 log 9
+setblock ~51 ~9 ~23 log 9
+fill ~51 ~9 ~25 ~53 ~9 ~25 nether_brick 0
+setblock ~52 ~9 ~8 log 1
+setblock ~52 ~9 ~13 log 1
+setblock ~52 ~9 ~19 log 1
+setblock ~52 ~9 ~24 log 1
+setblock ~54 ~9 ~7 log 9
+setblock ~54 ~9 ~25 log 9
+fill ~55 ~9 ~6 ~62 ~9 ~6 log 9
+setblock ~55 ~9 ~7 torch 1
+setblock ~55 ~9 ~25 torch 1
+fill ~55 ~9 ~26 ~62 ~9 ~26 log 9
+fill ~58 ~9 ~16 ~59 ~9 ~16 log 1
+fill ~75 ~9 ~16 ~77 ~9 ~16 log 1
+setblock ~77 ~9 ~7 torch 2
+setblock ~77 ~9 ~25 torch 2
+fill ~78 ~9 ~7 ~85 ~9 ~7 log 9
+fill ~78 ~9 ~25 ~85 ~9 ~25 log 9
+setblock ~84 ~9 ~8 log 1
+setblock ~84 ~9 ~13 log 1
+setblock ~84 ~9 ~19 log 1
+setblock ~84 ~9 ~24 log 1
+setblock ~85 ~9 ~9 log 9
+setblock ~85 ~9 ~12 log 9
+setblock ~85 ~9 ~13 planks 0
+setblock ~85 ~9 ~19 planks 0
+setblock ~85 ~9 ~20 log 9
+setblock ~85 ~9 ~23 log 9
+fill ~86 ~9 ~8 ~88 ~9 ~8 log 9
+fill ~86 ~9 ~9 ~88 ~9 ~9 planks 1
+fill ~86 ~9 ~12 ~88 ~9 ~12 planks 1
+fill ~86 ~9 ~20 ~88 ~9 ~20 planks 1
+fill ~86 ~9 ~23 ~88 ~9 ~23 planks 1
+fill ~86 ~9 ~24 ~88 ~9 ~24 log 9
+setblock ~88 ~9 ~16 torch 2
+fill ~89 ~9 ~8 ~89 ~11 ~8 log 1
+fill ~89 ~9 ~24 ~89 ~11 ~24 log 1
+fill ~90 ~9 ~8 ~91 ~9 ~8 planks 0
+fill ~90 ~9 ~24 ~91 ~9 ~24 planks 0
+fill ~93 ~9 ~8 ~93 ~11 ~8 planks 0
+fill ~93 ~9 ~24 ~93 ~11 ~24 planks 0
+fill ~95 ~9 ~8 ~95 ~11 ~8 planks 0
+fill ~95 ~9 ~24 ~95 ~11 ~24 planks 0
+fill ~97 ~9 ~8 ~97 ~11 ~8 planks 0
+fill ~97 ~9 ~24 ~97 ~11 ~24 planks 0
+fill ~99 ~9 ~8 ~99 ~11 ~8 planks 0
+fill ~99 ~9 ~24 ~99 ~11 ~24 planks 0
+fill ~101 ~9 ~8 ~101 ~11 ~8 planks 0
+fill ~101 ~9 ~24 ~101 ~11 ~24 planks 0
+fill ~102 ~9 ~9 ~102 ~11 ~9 planks 1
+fill ~102 ~9 ~23 ~102 ~11 ~23 planks 1
+fill ~103 ~9 ~10 ~104 ~9 ~10 planks 1
+fill ~103 ~9 ~22 ~104 ~9 ~22 planks 1
+fill ~105 ~9 ~11 ~105 ~11 ~11 planks 1
+fill ~105 ~9 ~12 ~105 ~11 ~12 planks 1
+fill ~105 ~9 ~20 ~105 ~11 ~20 planks 1
+fill ~105 ~9 ~21 ~105 ~11 ~21 planks 1
+fill ~106 ~9 ~13 ~106 ~11 ~13 planks 1
+fill ~106 ~9 ~19 ~106 ~11 ~19 planks 1
+fill ~107 ~9 ~13 ~107 ~11 ~13 log 1
+fill ~107 ~9 ~14 ~107 ~12 ~14 planks 0
+setblock ~107 ~9 ~16 planks 0
+fill ~107 ~9 ~18 ~107 ~12 ~18 planks 0
+fill ~107 ~9 ~19 ~107 ~11 ~19 log 1
+setblock ~2 ~10 ~13 wool 0
+setblock ~2 ~10 ~19 wool 0
+setblock ~3 ~10 ~12 wool 0
+fill ~3 ~10 ~20 ~4 ~10 ~20 wool 0
+setblock ~4 ~10 ~11 wool 8
+setblock ~5 ~10 ~21 wool 0
+fill ~21 ~10 ~16 ~24 ~10 ~16 planks 3
+fill ~26 ~10 ~16 ~29 ~10 ~16 log 9
+fill ~30 ~10 ~11 ~34 ~10 ~11 planks 1
+fill ~30 ~10 ~14 ~30 ~10 ~18 nether_brick 0
+fill ~30 ~10 ~21 ~34 ~10 ~21 planks 1
+fill ~31 ~10 ~13 ~32 ~10 ~13 nether_brick 0
+fill ~31 ~10 ~19 ~32 ~10 ~19 nether_brick 0
+fill ~32 ~10 ~10 ~37 ~10 ~10 planks 1
+fill ~32 ~10 ~22 ~37 ~10 ~22 planks 1
+fill ~33 ~10 ~12 ~34 ~10 ~12 nether_brick 0
+fill ~33 ~10 ~20 ~34 ~10 ~20 nether_brick 0
+fill ~35 ~10 ~11 ~37 ~10 ~11 nether_brick 0
+fill ~35 ~10 ~21 ~37 ~10 ~21 nether_brick 0
+fill ~38 ~10 ~10 ~41 ~10 ~10 nether_brick 0
+fill ~38 ~10 ~22 ~41 ~10 ~22 nether_brick 0
+fill ~42 ~10 ~10 ~42 ~11 ~10 planks 0
+fill ~42 ~10 ~22 ~42 ~11 ~22 planks 0
+fill ~43 ~10 ~9 ~45 ~10 ~9 nether_brick 0
+fill ~43 ~10 ~23 ~45 ~10 ~23 nether_brick 0
+fill ~47 ~10 ~8 ~48 ~10 ~8 nether_brick 0
+fill ~47 ~10 ~24 ~48 ~10 ~24 nether_brick 0
+fill ~49 ~10 ~7 ~53 ~10 ~7 log 9
+fill ~49 ~10 ~8 ~50 ~10 ~8 planks 3
+fill ~49 ~10 ~9 ~49 ~8 ~9 planks 1
+fill ~49 ~10 ~12 ~49 ~8 ~12 planks 1
+fill ~49 ~10 ~20 ~49 ~8 ~20 planks 1
+fill ~49 ~10 ~23 ~49 ~8 ~23 planks 1
+fill ~49 ~10 ~24 ~50 ~10 ~24 planks 3
+fill ~49 ~10 ~25 ~53 ~10 ~25 log 9
+setblock ~50 ~10 ~9 log 9
+setblock ~50 ~10 ~12 log 9
+setblock ~50 ~10 ~13 planks 0
+setblock ~50 ~10 ~19 planks 0
+setblock ~50 ~10 ~20 log 9
+setblock ~50 ~10 ~23 log 9
+setblock ~51 ~10 ~8 log 1
+setblock ~51 ~10 ~13 log 1
+setblock ~51 ~10 ~19 log 1
+setblock ~51 ~10 ~24 log 1
+setblock ~58 ~10 ~16 quartz_block 0
+setblock ~59 ~10 ~15 quartz_block 0
+fill ~59 ~10 ~16 ~59 ~74 ~16 log 1
+setblock ~59 ~10 ~17 quartz_block 0
+setblock ~75 ~10 ~16 quartz_block 0
+setblock ~76 ~10 ~15 quartz_block 0
+fill ~76 ~10 ~16 ~76 ~65 ~16 log 1
+setblock ~76 ~10 ~17 quartz_block 0
+setblock ~77 ~10 ~16 quartz_block 0
+setblock ~85 ~10 ~8 log 1
+setblock ~85 ~10 ~13 log 1
+setblock ~85 ~10 ~19 log 1
+setblock ~85 ~10 ~24 log 1
+setblock ~86 ~10 ~8 planks 0
+setblock ~86 ~10 ~9 log 9
+setblock ~86 ~10 ~12 log 9
+setblock ~86 ~10 ~13 planks 0
+setblock ~86 ~10 ~19 planks 0
+setblock ~86 ~10 ~20 log 9
+setblock ~86 ~10 ~23 log 9
+setblock ~86 ~10 ~24 planks 0
+fill ~87 ~10 ~9 ~88 ~10 ~9 planks 1
+fill ~87 ~10 ~12 ~88 ~10 ~12 planks 1
+fill ~87 ~10 ~20 ~88 ~10 ~20 planks 1
+fill ~87 ~10 ~23 ~88 ~10 ~23 planks 1
+fill ~90 ~10 ~8 ~91 ~10 ~8 planks 0
+fill ~90 ~10 ~24 ~91 ~10 ~24 planks 0
+fill ~103 ~10 ~10 ~104 ~10 ~10 planks 1
+fill ~103 ~10 ~22 ~104 ~10 ~22 planks 1
+fill ~2 ~11 ~14 ~2 ~12 ~14 wool 0
+setblock ~2 ~11 ~18 wool 0
+fill ~3 ~11 ~13 ~3 ~12 ~13 wool 0
+setblock ~3 ~11 ~19 wool 0
+fill ~4 ~11 ~12 ~4 ~12 ~12 wool 0
+fill ~4 ~11 ~20 ~6 ~11 ~20 wool 0
+fill ~5 ~11 ~11 ~5 ~12 ~11 wool 8
+setblock ~7 ~11 ~21 wool 8
+fill ~19 ~11 ~16 ~21 ~11 ~16 planks 3
+fill ~23 ~11 ~16 ~25 ~11 ~16 log 9
+fill ~30 ~11 ~14 ~30 ~11 ~18 log 5
+fill ~31 ~11 ~13 ~32 ~11 ~13 log 9
+fill ~31 ~11 ~14 ~49 ~11 ~14 planks 0
+fill ~31 ~11 ~15 ~50 ~11 ~15 planks 0
+fill ~31 ~11 ~16 ~50 ~11 ~16 planks 0
+fill ~31 ~11 ~17 ~50 ~11 ~17 planks 0
+fill ~31 ~11 ~18 ~49 ~11 ~18 planks 0
+fill ~31 ~11 ~19 ~32 ~11 ~19 log 9
+fill ~33 ~11 ~12 ~34 ~11 ~12 log 9
+fill ~33 ~11 ~13 ~49 ~11 ~13 planks 0
+fill ~33 ~11 ~19 ~49 ~11 ~19 planks 0
+fill ~33 ~11 ~20 ~34 ~11 ~20 log 9
+fill ~35 ~11 ~11 ~37 ~11 ~11 log 9
+fill ~35 ~11 ~12 ~48 ~11 ~12 planks 0
+fill ~35 ~11 ~20 ~48 ~11 ~20 planks 0
+fill ~35 ~11 ~21 ~37 ~11 ~21 log 9
+fill ~36 ~11 ~10 ~37 ~11 ~10 planks 1
+fill ~36 ~11 ~22 ~37 ~11 ~22 planks 1
+fill ~38 ~11 ~10 ~41 ~11 ~10 log 9
+fill ~38 ~11 ~11 ~48 ~11 ~11 planks 0
+fill ~38 ~11 ~21 ~48 ~11 ~21 planks 0
+fill ~38 ~11 ~22 ~41 ~11 ~22 log 9
+fill ~42 ~11 ~9 ~46 ~11 ~9 log 9
+fill ~42 ~11 ~23 ~46 ~11 ~23 log 9
+fill ~43 ~11 ~10 ~48 ~11 ~10 planks 0
+fill ~43 ~11 ~22 ~48 ~11 ~22 planks 0
+fill ~47 ~11 ~8 ~48 ~11 ~8 log 9
+fill ~47 ~11 ~9 ~48 ~11 ~9 planks 0
+fill ~47 ~11 ~23 ~48 ~11 ~23 planks 0
+fill ~47 ~11 ~24 ~48 ~11 ~24 log 9
+setblock ~49 ~11 ~8 planks 0
+setblock ~49 ~11 ~9 log 9
+setblock ~49 ~11 ~12 log 9
+setblock ~49 ~11 ~20 log 9
+setblock ~49 ~11 ~23 log 9
+setblock ~49 ~11 ~24 planks 0
+setblock ~50 ~11 ~8 log 1
+setblock ~50 ~11 ~13 log 1
+setblock ~50 ~11 ~14 log 5
+setblock ~50 ~11 ~18 log 5
+setblock ~50 ~11 ~19 log 1
+setblock ~50 ~11 ~24 log 1
+fill ~51 ~11 ~15 ~51 ~11 ~17 log 5
+setblock ~58 ~11 ~16 log 1
+setblock ~59 ~11 ~15 log 1
+setblock ~59 ~11 ~17 log 1
+setblock ~75 ~11 ~16 log 1
+setblock ~76 ~11 ~15 log 1
+setblock ~76 ~11 ~17 log 1
+setblock ~77 ~11 ~16 log 1
+setblock ~86 ~11 ~8 log 1
+setblock ~86 ~11 ~13 log 1
+setblock ~86 ~11 ~19 log 1
+setblock ~86 ~11 ~24 log 1
+setblock ~87 ~11 ~8 planks 0
+setblock ~87 ~11 ~9 log 9
+setblock ~87 ~11 ~12 log 9
+setblock ~87 ~11 ~13 planks 0
+setblock ~87 ~11 ~19 planks 0
+setblock ~87 ~11 ~20 log 9
+setblock ~87 ~11 ~23 log 9
+setblock ~87 ~11 ~24 planks 0
+setblock ~88 ~11 ~9 planks 1
+setblock ~88 ~11 ~12 planks 1
+setblock ~88 ~11 ~20 planks 1
+setblock ~88 ~11 ~23 planks 1
+fill ~89 ~11 ~9 ~89 ~11 ~12 log 5
+fill ~89 ~11 ~14 ~89 ~11 ~15 log 5
+fill ~89 ~11 ~17 ~89 ~11 ~18 log 5
+fill ~89 ~11 ~20 ~89 ~11 ~23 log 5
+fill ~90 ~11 ~8 ~91 ~11 ~8 planks 0
+fill ~90 ~11 ~24 ~91 ~11 ~24 planks 0
+setblock ~103 ~11 ~8 planks 0
+fill ~103 ~11 ~10 ~104 ~11 ~10 planks 1
+fill ~103 ~11 ~22 ~104 ~11 ~22 planks 1
+fill ~107 ~11 ~16 ~107 ~12 ~16 planks 0
+fill ~2 ~12 ~15 ~2 ~12 ~17 wool 0
+setblock ~3 ~12 ~18 wool 0
+setblock ~4 ~12 ~19 wool 0
+fill ~5 ~12 ~20 ~7 ~12 ~20 wool 0
+setblock ~8 ~12 ~21 wool 8
+fill ~17 ~12 ~16 ~18 ~12 ~16 planks 3
+fill ~20 ~12 ~16 ~22 ~12 ~16 log 9
+fill ~42 ~12 ~16 ~44 ~12 ~16 log 1
+fill ~43 ~12 ~15 ~43 ~13 ~15 log 1
+fill ~43 ~12 ~17 ~43 ~13 ~17 log 1
+setblock ~49 ~12 ~8 log 1
+setblock ~49 ~12 ~13 log 1
+setblock ~49 ~12 ~19 log 1
+setblock ~49 ~12 ~24 log 1
+fill ~86 ~12 ~15 ~86 ~12 ~17 log 5
+setblock ~87 ~12 ~8 log 1
+setblock ~87 ~12 ~13 log 1
+setblock ~87 ~12 ~14 log 5
+fill ~87 ~12 ~15 ~94 ~12 ~15 planks 0
+fill ~87 ~12 ~16 ~94 ~12 ~16 planks 0
+fill ~87 ~12 ~17 ~94 ~12 ~17 planks 0
+setblock ~87 ~12 ~18 log 5
+setblock ~87 ~12 ~19 log 1
+setblock ~87 ~12 ~24 log 1
+setblock ~88 ~12 ~8 planks 0
+setblock ~88 ~12 ~9 log 9
+setblock ~88 ~12 ~12 log 9
+fill ~88 ~12 ~13 ~94 ~12 ~13 planks 0
+fill ~88 ~12 ~14 ~94 ~12 ~14 planks 0
+fill ~88 ~12 ~18 ~94 ~12 ~18 planks 0
+fill ~88 ~12 ~19 ~94 ~12 ~19 planks 0
+setblock ~88 ~12 ~20 log 9
+setblock ~88 ~12 ~23 log 9
+setblock ~88 ~12 ~24 planks 0
+fill ~89 ~12 ~8 ~102 ~12 ~8 log 9
+fill ~89 ~12 ~9 ~94 ~12 ~9 planks 0
+fill ~89 ~12 ~10 ~94 ~12 ~10 planks 0
+fill ~89 ~12 ~11 ~94 ~12 ~11 planks 0
+fill ~89 ~12 ~12 ~94 ~12 ~12 planks 0
+fill ~89 ~12 ~20 ~94 ~12 ~20 planks 0
+fill ~89 ~12 ~21 ~94 ~12 ~21 planks 0
+fill ~89 ~12 ~22 ~94 ~12 ~22 planks 0
+fill ~89 ~12 ~23 ~94 ~12 ~23 planks 0
+fill ~89 ~12 ~24 ~102 ~12 ~24 log 9
+fill ~95 ~12 ~9 ~95 ~12 ~23 log 5
+fill ~96 ~12 ~9 ~102 ~12 ~9 planks 0
+fill ~96 ~12 ~10 ~109 ~12 ~10 planks 0
+fill ~96 ~12 ~11 ~109 ~12 ~11 planks 0
+fill ~96 ~12 ~12 ~109 ~12 ~12 planks 0
+fill ~96 ~12 ~13 ~109 ~12 ~13 planks 0
+fill ~96 ~12 ~14 ~110 ~12 ~14 planks 0
+fill ~96 ~12 ~15 ~110 ~12 ~15 planks 0
+fill ~96 ~12 ~16 ~110 ~12 ~16 planks 0
+fill ~96 ~12 ~17 ~110 ~12 ~17 planks 0
+fill ~96 ~12 ~18 ~110 ~12 ~18 planks 0
+fill ~96 ~12 ~19 ~109 ~12 ~19 planks 0
+fill ~96 ~12 ~20 ~109 ~12 ~20 planks 0
+fill ~96 ~12 ~21 ~109 ~12 ~21 planks 0
+fill ~96 ~12 ~22 ~109 ~12 ~22 planks 0
+fill ~96 ~12 ~23 ~102 ~12 ~23 planks 0
+fill ~103 ~12 ~9 ~109 ~12 ~9 log 9
+fill ~103 ~12 ~23 ~109 ~12 ~23 log 9
+fill ~110 ~12 ~10 ~110 ~12 ~13 log 5
+fill ~110 ~12 ~19 ~110 ~12 ~22 log 5
+fill ~111 ~12 ~14 ~111 ~12 ~18 log 5
+fill ~3 ~13 ~14 ~3 ~13 ~17 wool 0
+setblock ~4 ~13 ~13 wool 0
+setblock ~4 ~13 ~18 wool 0
+setblock ~5 ~13 ~12 wool 0
+fill ~5 ~13 ~19 ~7 ~13 ~19 wool 0
+setblock ~6 ~13 ~11 wool 8
+setblock ~8 ~13 ~20 wool 0
+setblock ~9 ~13 ~21 wool 8
+fill ~12 ~13 ~16 ~13 ~13 ~16 planks 1
+fill ~14 ~13 ~16 ~15 ~13 ~16 planks 0
+fill ~17 ~13 ~16 ~19 ~13 ~16 log 9
+fill ~42 ~13 ~16 ~42 ~12 ~16 log 1
+setblock ~44 ~13 ~16 log 1
+setblock ~88 ~13 ~8 log 1
+setblock ~88 ~13 ~13 log 1
+setblock ~88 ~13 ~16 anvil 3
+setblock ~88 ~13 ~19 log 1
+setblock ~88 ~13 ~24 log 1
+setblock ~93 ~13 ~9 log 1
+setblock ~93 ~13 ~14 log 1
+setblock ~93 ~13 ~18 log 1
+setblock ~93 ~13 ~23 log 1
+setblock ~94 ~13 ~8 log 1
+setblock ~94 ~13 ~9 planks 0
+setblock ~94 ~13 ~10 log 9
+setblock ~94 ~13 ~13 log 9
+fill ~94 ~13 ~14 ~95 ~13 ~14 planks 0
+fill ~94 ~13 ~18 ~95 ~13 ~18 planks 0
+setblock ~94 ~13 ~19 log 9
+setblock ~94 ~13 ~22 log 9
+setblock ~94 ~13 ~23 planks 0
+setblock ~94 ~13 ~24 log 1
+fill ~95 ~13 ~10 ~109 ~13 ~10 planks 1
+fill ~95 ~13 ~13 ~97 ~13 ~13 planks 1
+fill ~95 ~13 ~15 ~95 ~15 ~15 log 1
+fill ~95 ~13 ~17 ~95 ~15 ~17 log 1
+fill ~95 ~13 ~19 ~97 ~13 ~19 planks 1
+fill ~95 ~13 ~22 ~109 ~13 ~22 planks 1
+fill ~97 ~13 ~11 ~97 ~15 ~11 planks 1
+fill ~97 ~13 ~12 ~97 ~15 ~12 planks 1
+fill ~97 ~13 ~20 ~97 ~15 ~20 planks 1
+fill ~97 ~13 ~21 ~97 ~15 ~21 planks 1
+fill ~98 ~13 ~9 ~98 ~15 ~9 log 1
+fill ~98 ~13 ~11 ~100 ~13 ~11 planks 0
+fill ~98 ~13 ~12 ~98 ~16 ~12 planks 0
+fill ~98 ~13 ~13 ~98 ~16 ~13 planks 0
+fill ~98 ~13 ~14 ~98 ~15 ~14 log 1
+fill ~98 ~13 ~18 ~98 ~15 ~18 log 1
+fill ~98 ~13 ~19 ~98 ~16 ~19 planks 0
+fill ~98 ~13 ~20 ~98 ~16 ~20 planks 0
+fill ~98 ~13 ~21 ~100 ~13 ~21 planks 0
+fill ~98 ~13 ~23 ~98 ~15 ~23 log 1
+setblock ~101 ~13 ~9 planks 0
+fill ~101 ~13 ~11 ~101 ~15 ~11 log 1
+fill ~101 ~13 ~21 ~101 ~15 ~21 log 1
+setblock ~101 ~13 ~23 planks 0
+setblock ~102 ~13 ~9 log 1
+setblock ~102 ~13 ~23 log 1
+setblock ~103 ~13 ~9 planks 0
+setblock ~103 ~13 ~23 planks 0
+fill ~107 ~13 ~11 ~107 ~15 ~11 log 1
+fill ~107 ~13 ~21 ~107 ~15 ~21 log 1
+fill ~108 ~13 ~11 ~110 ~13 ~11 planks 0
+fill ~108 ~13 ~21 ~110 ~13 ~21 planks 0
+fill ~109 ~13 ~9 ~109 ~16 ~9 log 1
+fill ~109 ~13 ~23 ~109 ~16 ~23 log 1
+fill ~110 ~13 ~10 ~110 ~15 ~10 log 1
+fill ~110 ~13 ~12 ~110 ~15 ~12 planks 0
+fill ~110 ~13 ~13 ~110 ~15 ~13 planks 0
+fill ~110 ~13 ~14 ~110 ~15 ~14 log 1
+fill ~110 ~13 ~18 ~110 ~15 ~18 log 1
+fill ~110 ~13 ~19 ~110 ~15 ~19 planks 0
+fill ~110 ~13 ~20 ~110 ~15 ~20 planks 0
+fill ~110 ~13 ~22 ~110 ~15 ~22 log 1
+setblock ~111 ~13 ~13 log 5
+fill ~111 ~13 ~14 ~111 ~22 ~14 planks 0
+fill ~111 ~13 ~15 ~111 ~23 ~15 planks 0
+fill ~111 ~13 ~16 ~111 ~23 ~16 planks 0
+fill ~111 ~13 ~17 ~111 ~23 ~17 planks 0
+fill ~111 ~13 ~18 ~111 ~22 ~18 planks 0
+setblock ~111 ~13 ~19 log 5
+fill ~4 ~14 ~14 ~4 ~14 ~17 wool 8
+setblock ~5 ~14 ~13 wool 8
+fill ~5 ~14 ~18 ~7 ~14 ~18 wool 8
+setblock ~6 ~14 ~12 wool 8
+setblock ~7 ~14 ~11 wool 8
+setblock ~8 ~14 ~19 wool 8
+setblock ~9 ~14 ~20 wool 8
+setblock ~10 ~14 ~21 wool 8
+fill ~12 ~14 ~16 ~16 ~14 ~16 log 9
+setblock ~12 ~14 ~19 planks 0
+setblock ~42 ~14 ~16 quartz_block 0
+setblock ~43 ~14 ~15 quartz_block 0
+setblock ~43 ~14 ~17 quartz_block 0
+setblock ~44 ~14 ~16 quartz_block 0
+fill ~58 ~14 ~15 ~58 ~14 ~17 log 5
+fill ~59 ~14 ~12 ~59 ~14 ~14 log 5
+fill ~59 ~14 ~18 ~59 ~14 ~20 log 5
+fill ~60 ~14 ~9 ~60 ~14 ~11 log 5
+fill ~60 ~14 ~21 ~60 ~14 ~23 log 5
+fill ~61 ~14 ~6 ~61 ~14 ~8 log 5
+fill ~61 ~14 ~24 ~61 ~14 ~26 log 5
+fill ~62 ~14 ~3 ~62 ~14 ~5 log 5
+fill ~62 ~14 ~27 ~62 ~14 ~29 log 5
+fill ~63 ~14 ~0 ~63 ~14 ~2 log 5
+fill ~63 ~14 ~30 ~63 ~14 ~32 log 5
+fill ~75 ~14 ~15 ~75 ~14 ~17 log 5
+fill ~76 ~14 ~12 ~76 ~14 ~14 log 5
+fill ~76 ~14 ~18 ~76 ~14 ~20 log 5
+fill ~77 ~14 ~9 ~77 ~14 ~11 log 5
+fill ~77 ~14 ~21 ~77 ~14 ~23 log 5
+fill ~78 ~14 ~6 ~78 ~14 ~8 log 5
+fill ~78 ~14 ~24 ~78 ~14 ~26 log 5
+fill ~79 ~14 ~3 ~79 ~14 ~5 log 5
+fill ~79 ~14 ~27 ~79 ~14 ~29 log 5
+fill ~80 ~14 ~0 ~80 ~14 ~2 log 5
+fill ~80 ~14 ~30 ~80 ~14 ~32 log 5
+setblock ~94 ~14 ~9 log 1
+setblock ~94 ~14 ~14 log 1
+setblock ~94 ~14 ~18 log 1
+setblock ~94 ~14 ~23 log 1
+setblock ~95 ~14 ~9 planks 0
+setblock ~95 ~14 ~10 log 9
+setblock ~95 ~14 ~13 log 9
+setblock ~95 ~14 ~14 planks 0
+setblock ~95 ~14 ~18 planks 0
+setblock ~95 ~14 ~19 log 9
+setblock ~95 ~14 ~22 log 9
+setblock ~95 ~14 ~23 planks 0
+fill ~96 ~14 ~10 ~109 ~14 ~10 planks 1
+fill ~96 ~14 ~13 ~97 ~14 ~13 planks 1
+fill ~96 ~14 ~19 ~97 ~14 ~19 planks 1
+fill ~96 ~14 ~22 ~109 ~14 ~22 planks 1
+fill ~98 ~14 ~11 ~100 ~14 ~11 planks 0
+fill ~98 ~14 ~21 ~100 ~14 ~21 planks 0
+setblock ~102 ~14 ~9 planks 0
+setblock ~102 ~14 ~23 planks 0
+setblock ~103 ~14 ~9 log 1
+setblock ~103 ~14 ~23 log 1
+setblock ~104 ~14 ~9 planks 0
+setblock ~104 ~14 ~23 planks 0
+fill ~108 ~14 ~11 ~110 ~14 ~11 planks 0
+fill ~108 ~14 ~21 ~110 ~14 ~21 planks 0
+fill ~111 ~14 ~11 ~111 ~14 ~12 log 5
+fill ~111 ~14 ~13 ~111 ~21 ~13 planks 0
+fill ~111 ~14 ~19 ~111 ~21 ~19 planks 0
+fill ~111 ~14 ~20 ~111 ~14 ~21 log 5
+fill ~8 ~15 ~10 ~8 ~15 ~12 log 5
+fill ~9 ~15 ~13 ~9 ~15 ~15 log 5
+fill ~9 ~15 ~16 ~11 ~15 ~16 log 9
+fill ~10 ~15 ~17 ~10 ~15 ~19 log 5
+fill ~11 ~15 ~20 ~11 ~15 ~22 log 5
+fill ~42 ~15 ~16 ~44 ~15 ~16 log 1
+setblock ~43 ~15 ~15 log 1
+setblock ~43 ~15 ~17 log 1
+fill ~51 ~15 ~14 ~51 ~15 ~18 wool 8
+fill ~52 ~15 ~11 ~52 ~15 ~13 wool 8
+fill ~52 ~15 ~19 ~52 ~15 ~21 wool 8
+fill ~53 ~15 ~8 ~53 ~15 ~10 wool 8
+fill ~53 ~15 ~22 ~53 ~15 ~24 wool 8
+fill ~54 ~15 ~6 ~54 ~15 ~7 wool 8
+fill ~54 ~15 ~25 ~54 ~15 ~26 wool 8
+setblock ~55 ~15 ~5 wool 8
+setblock ~55 ~15 ~27 wool 8
+setblock ~56 ~15 ~4 wool 8
+setblock ~56 ~15 ~28 wool 8
+fill ~57 ~15 ~3 ~58 ~15 ~3 wool 8
+fill ~57 ~15 ~29 ~58 ~15 ~29 wool 8
+fill ~59 ~15 ~2 ~61 ~15 ~2 wool 8
+fill ~59 ~15 ~30 ~61 ~15 ~30 wool 8
+setblock ~62 ~15 ~1 wool 8
+setblock ~62 ~15 ~31 wool 8
+fill ~68 ~15 ~14 ~68 ~15 ~18 wool 8
+fill ~69 ~15 ~11 ~69 ~15 ~13 wool 8
+fill ~69 ~15 ~19 ~69 ~15 ~21 wool 8
+fill ~70 ~15 ~8 ~70 ~15 ~10 wool 8
+fill ~70 ~15 ~22 ~70 ~15 ~24 wool 8
+fill ~71 ~15 ~6 ~71 ~15 ~7 wool 8
+fill ~71 ~15 ~25 ~71 ~15 ~26 wool 8
+setblock ~72 ~15 ~5 wool 8
+setblock ~72 ~15 ~27 wool 8
+setblock ~73 ~15 ~4 wool 8
+setblock ~73 ~15 ~28 wool 8
+fill ~74 ~15 ~3 ~75 ~15 ~3 wool 8
+fill ~74 ~15 ~29 ~75 ~15 ~29 wool 8
+fill ~76 ~15 ~2 ~78 ~15 ~2 wool 8
+fill ~76 ~15 ~30 ~78 ~15 ~30 wool 8
+setblock ~79 ~15 ~1 wool 8
+setblock ~79 ~15 ~31 wool 8
+setblock ~95 ~15 ~9 log 1
+setblock ~95 ~15 ~14 log 1
+setblock ~95 ~15 ~18 log 1
+setblock ~95 ~15 ~23 log 1
+setblock ~96 ~15 ~9 planks 0
+setblock ~96 ~15 ~10 log 9
+setblock ~96 ~15 ~13 log 9
+setblock ~96 ~15 ~14 planks 0
+setblock ~96 ~15 ~18 planks 0
+setblock ~96 ~15 ~19 log 9
+setblock ~96 ~15 ~22 log 9
+setblock ~96 ~15 ~23 planks 0
+fill ~97 ~15 ~10 ~109 ~15 ~10 planks 1
+setblock ~97 ~15 ~13 planks 1
+setblock ~97 ~15 ~19 planks 1
+fill ~97 ~15 ~22 ~109 ~15 ~22 planks 1
+fill ~98 ~15 ~11 ~100 ~15 ~11 planks 0
+fill ~98 ~15 ~21 ~100 ~15 ~21 planks 0
+fill ~103 ~15 ~9 ~103 ~16 ~9 planks 0
+fill ~103 ~15 ~23 ~103 ~16 ~23 planks 0
+setblock ~104 ~15 ~9 log 1
+setblock ~104 ~15 ~23 log 1
+setblock ~105 ~15 ~9 planks 0
+setblock ~105 ~15 ~23 planks 0
+fill ~108 ~15 ~11 ~111 ~15 ~11 planks 0
+fill ~108 ~15 ~21 ~111 ~15 ~21 planks 0
+setblock ~111 ~15 ~10 log 1
+fill ~111 ~15 ~12 ~111 ~20 ~12 planks 0
+fill ~111 ~15 ~20 ~111 ~20 ~20 planks 0
+setblock ~111 ~15 ~22 log 1
+fill ~6 ~16 ~16 ~8 ~16 ~16 log 9
+fill ~43 ~16 ~16 ~43 ~51 ~16 log 1
+fill ~50 ~16 ~14 ~50 ~16 ~18 wool 0
+fill ~51 ~16 ~11 ~51 ~16 ~13 wool 0
+fill ~51 ~16 ~19 ~51 ~16 ~21 wool 0
+fill ~52 ~16 ~8 ~52 ~16 ~10 wool 0
+fill ~52 ~16 ~22 ~52 ~16 ~24 wool 0
+fill ~53 ~16 ~6 ~53 ~16 ~7 wool 0
+fill ~53 ~16 ~25 ~53 ~16 ~26 wool 0
+setblock ~54 ~16 ~5 wool 0
+setblock ~54 ~16 ~27 wool 0
+setblock ~55 ~16 ~4 wool 0
+setblock ~55 ~16 ~28 wool 0
+fill ~56 ~16 ~3 ~57 ~16 ~3 wool 0
+fill ~56 ~16 ~29 ~58 ~16 ~29 wool 0
+fill ~58 ~16 ~2 ~60 ~16 ~2 wool 0
+fill ~58 ~16 ~30 ~60 ~16 ~30 wool 0
+setblock ~61 ~16 ~1 wool 8
+setblock ~61 ~16 ~31 wool 8
+fill ~67 ~16 ~14 ~67 ~16 ~18 wool 0
+fill ~68 ~16 ~11 ~68 ~16 ~13 wool 0
+fill ~68 ~16 ~19 ~68 ~16 ~21 wool 0
+fill ~69 ~16 ~8 ~69 ~16 ~10 wool 0
+fill ~69 ~16 ~22 ~69 ~16 ~24 wool 0
+fill ~70 ~16 ~6 ~70 ~16 ~7 wool 0
+fill ~70 ~16 ~25 ~70 ~16 ~26 wool 0
+setblock ~71 ~16 ~5 wool 0
+setblock ~71 ~16 ~27 wool 0
+setblock ~72 ~16 ~4 wool 0
+setblock ~72 ~16 ~28 wool 0
+fill ~73 ~16 ~3 ~74 ~16 ~3 wool 0
+fill ~73 ~16 ~29 ~74 ~16 ~29 wool 0
+fill ~75 ~16 ~2 ~77 ~16 ~2 wool 0
+fill ~75 ~16 ~30 ~77 ~16 ~30 wool 0
+setblock ~78 ~16 ~1 wool 8
+setblock ~78 ~16 ~31 wool 8
+fill ~95 ~16 ~15 ~95 ~16 ~17 log 5
+setblock ~96 ~16 ~9 log 1
+setblock ~96 ~16 ~14 log 1
+fill ~96 ~16 ~15 ~111 ~16 ~15 planks 0
+fill ~96 ~16 ~16 ~111 ~16 ~16 planks 0
+fill ~96 ~16 ~17 ~111 ~16 ~17 planks 0
+setblock ~96 ~16 ~18 log 1
+setblock ~96 ~16 ~23 log 1
+setblock ~97 ~16 ~9 planks 0
+setblock ~97 ~16 ~10 log 9
+setblock ~97 ~16 ~13 log 9
+fill ~97 ~16 ~14 ~109 ~16 ~14 planks 0
+fill ~97 ~16 ~18 ~109 ~16 ~18 planks 0
+setblock ~97 ~16 ~19 log 9
+setblock ~97 ~16 ~22 log 9
+setblock ~97 ~16 ~23 planks 0
+fill ~98 ~16 ~9 ~100 ~16 ~9 log 9
+fill ~98 ~16 ~10 ~109 ~16 ~10 planks 0
+fill ~98 ~16 ~11 ~109 ~16 ~11 planks 0
+fill ~98 ~16 ~21 ~109 ~16 ~21 planks 0
+fill ~98 ~16 ~22 ~109 ~16 ~22 planks 0
+fill ~98 ~16 ~23 ~100 ~16 ~23 log 9
+fill ~99 ~16 ~12 ~109 ~16 ~12 planks 0
+fill ~99 ~16 ~13 ~109 ~16 ~13 planks 0
+fill ~99 ~16 ~19 ~109 ~16 ~19 planks 0
+fill ~99 ~16 ~20 ~109 ~16 ~20 planks 0
+fill ~101 ~16 ~9 ~104 ~16 ~9 planks 0
+fill ~101 ~16 ~23 ~104 ~16 ~23 planks 0
+setblock ~105 ~16 ~9 log 1
+setblock ~105 ~16 ~23 log 1
+fill ~106 ~16 ~9 ~108 ~16 ~9 log 9
+fill ~106 ~16 ~23 ~108 ~16 ~23 log 9
+setblock ~110 ~16 ~9 log 9
+fill ~110 ~16 ~10 ~110 ~16 ~14 log 5
+fill ~110 ~16 ~18 ~110 ~16 ~22 log 5
+setblock ~110 ~16 ~23 log 9
+fill ~111 ~16 ~9 ~111 ~17 ~9 log 1
+fill ~111 ~16 ~10 ~111 ~22 ~10 planks 0
+fill ~111 ~16 ~11 ~111 ~21 ~11 planks 0
+fill ~111 ~16 ~21 ~111 ~21 ~21 planks 0
+fill ~111 ~16 ~22 ~111 ~22 ~22 planks 0
+fill ~111 ~16 ~23 ~111 ~17 ~23 log 1
+fill ~49 ~17 ~14 ~49 ~21 ~14 wool 0
+fill ~49 ~17 ~15 ~49 ~22 ~15 wool 0
+fill ~49 ~17 ~16 ~49 ~22 ~16 wool 0
+fill ~49 ~17 ~17 ~49 ~22 ~17 wool 0
+fill ~49 ~17 ~18 ~49 ~21 ~18 wool 0
+fill ~50 ~17 ~11 ~50 ~21 ~11 wool 0
+fill ~50 ~17 ~12 ~50 ~21 ~12 wool 0
+fill ~50 ~17 ~13 ~50 ~21 ~13 wool 0
+fill ~50 ~17 ~19 ~50 ~21 ~19 wool 0
+fill ~50 ~17 ~20 ~50 ~21 ~20 wool 0
+fill ~50 ~17 ~21 ~50 ~21 ~21 wool 0
+fill ~51 ~17 ~8 ~51 ~21 ~8 wool 0
+fill ~51 ~17 ~9 ~51 ~21 ~9 wool 0
+fill ~51 ~17 ~10 ~51 ~21 ~10 wool 0
+fill ~51 ~17 ~22 ~51 ~21 ~22 wool 0
+fill ~51 ~17 ~23 ~51 ~21 ~23 wool 0
+fill ~51 ~17 ~24 ~51 ~21 ~24 wool 0
+fill ~52 ~17 ~6 ~52 ~21 ~6 wool 0
+fill ~52 ~17 ~7 ~52 ~21 ~7 wool 0
+fill ~52 ~17 ~25 ~52 ~21 ~25 wool 0
+fill ~52 ~17 ~26 ~52 ~21 ~26 wool 0
+fill ~53 ~17 ~5 ~53 ~21 ~5 wool 0
+fill ~53 ~17 ~27 ~53 ~21 ~27 wool 0
+fill ~54 ~17 ~4 ~54 ~21 ~4 wool 0
+fill ~54 ~17 ~28 ~54 ~21 ~28 wool 0
+fill ~55 ~17 ~3 ~56 ~17 ~3 wool 0
+fill ~55 ~17 ~29 ~56 ~17 ~29 wool 0
+fill ~57 ~17 ~2 ~59 ~17 ~2 wool 0
+fill ~57 ~17 ~30 ~59 ~17 ~30 wool 0
+setblock ~60 ~17 ~1 wool 8
+setblock ~60 ~17 ~31 wool 8
+fill ~66 ~17 ~14 ~66 ~21 ~14 wool 0
+fill ~66 ~17 ~15 ~66 ~22 ~15 wool 0
+fill ~66 ~17 ~16 ~66 ~22 ~16 wool 0
+fill ~66 ~17 ~17 ~66 ~22 ~17 wool 0
+fill ~66 ~17 ~18 ~66 ~21 ~18 wool 0
+fill ~67 ~17 ~11 ~67 ~21 ~11 wool 0
+fill ~67 ~17 ~12 ~67 ~21 ~12 wool 0
+fill ~67 ~17 ~13 ~67 ~21 ~13 wool 0
+fill ~67 ~17 ~19 ~67 ~21 ~19 wool 0
+fill ~67 ~17 ~20 ~67 ~21 ~20 wool 0
+fill ~67 ~17 ~21 ~67 ~21 ~21 wool 0
+fill ~68 ~17 ~8 ~68 ~21 ~8 wool 0
+fill ~68 ~17 ~9 ~68 ~21 ~9 wool 0
+fill ~68 ~17 ~10 ~68 ~21 ~10 wool 0
+fill ~68 ~17 ~22 ~68 ~21 ~22 wool 0
+fill ~68 ~17 ~23 ~68 ~21 ~23 wool 0
+fill ~68 ~17 ~24 ~68 ~21 ~24 wool 0
+fill ~69 ~17 ~6 ~69 ~21 ~6 wool 0
+fill ~69 ~17 ~7 ~69 ~21 ~7 wool 0
+fill ~69 ~17 ~25 ~69 ~21 ~25 wool 0
+fill ~69 ~17 ~26 ~69 ~21 ~26 wool 0
+fill ~70 ~17 ~5 ~70 ~21 ~5 wool 0
+fill ~70 ~17 ~27 ~70 ~21 ~27 wool 0
+fill ~71 ~17 ~4 ~71 ~21 ~4 wool 0
+fill ~71 ~17 ~28 ~71 ~21 ~28 wool 0
+fill ~72 ~17 ~3 ~73 ~17 ~3 wool 0
+fill ~72 ~17 ~29 ~73 ~17 ~29 wool 0
+fill ~74 ~17 ~2 ~76 ~17 ~2 wool 0
+fill ~74 ~17 ~30 ~76 ~17 ~30 wool 0
+setblock ~77 ~17 ~1 wool 8
+setblock ~77 ~17 ~31 wool 8
+setblock ~97 ~17 ~9 log 1
+setblock ~97 ~17 ~14 log 1
+setblock ~97 ~17 ~18 log 1
+setblock ~97 ~17 ~23 log 1
+fill ~101 ~17 ~9 ~103 ~17 ~9 log 9
+fill ~101 ~17 ~23 ~103 ~17 ~23 log 9
+fill ~102 ~17 ~16 ~104 ~17 ~16 log 1
+fill ~103 ~17 ~15 ~103 ~18 ~15 log 1
+fill ~103 ~17 ~17 ~103 ~18 ~17 log 1
+fill ~104 ~17 ~9 ~105 ~17 ~9 planks 0
+fill ~104 ~17 ~23 ~105 ~17 ~23 planks 0
+setblock ~106 ~17 ~9 log 1
+setblock ~106 ~17 ~23 log 1
+fill ~107 ~17 ~9 ~110 ~17 ~9 planks 0
+fill ~107 ~17 ~23 ~110 ~17 ~23 planks 0
+fill ~13 ~18 ~16 ~27 ~18 ~16 wool 8
+fill ~42 ~18 ~15 ~42 ~18 ~17 log 5
+fill ~43 ~18 ~12 ~43 ~18 ~14 log 5
+fill ~43 ~18 ~18 ~43 ~18 ~20 log 5
+fill ~44 ~18 ~9 ~44 ~18 ~11 log 5
+fill ~44 ~18 ~21 ~44 ~18 ~23 log 5
+fill ~45 ~18 ~6 ~45 ~18 ~8 log 5
+fill ~45 ~18 ~24 ~45 ~18 ~26 log 5
+fill ~46 ~18 ~3 ~46 ~18 ~5 log 5
+fill ~46 ~18 ~27 ~46 ~18 ~29 log 5
+fill ~49 ~18 ~13 ~49 ~20 ~13 wool 0
+fill ~49 ~18 ~19 ~49 ~20 ~19 wool 0
+fill ~50 ~18 ~10 ~50 ~20 ~10 wool 0
+fill ~50 ~18 ~22 ~50 ~20 ~22 wool 0
+fill ~51 ~18 ~7 ~51 ~20 ~7 wool 0
+fill ~51 ~18 ~25 ~51 ~20 ~25 wool 0
+fill ~55 ~18 ~3 ~56 ~18 ~3 wool 0
+fill ~55 ~18 ~29 ~56 ~18 ~29 wool 0
+fill ~56 ~18 ~2 ~58 ~18 ~2 wool 0
+fill ~56 ~18 ~30 ~58 ~18 ~30 wool 0
+fill ~59 ~18 ~1 ~59 ~20 ~1 wool 8
+fill ~59 ~18 ~31 ~59 ~20 ~31 wool 8
+fill ~66 ~18 ~13 ~66 ~20 ~13 wool 0
+fill ~66 ~18 ~19 ~66 ~20 ~19 wool 0
+fill ~67 ~18 ~10 ~67 ~20 ~10 wool 0
+fill ~67 ~18 ~22 ~67 ~20 ~22 wool 0
+fill ~68 ~18 ~7 ~68 ~20 ~7 wool 0
+fill ~68 ~18 ~25 ~68 ~20 ~25 wool 0
+fill ~72 ~18 ~3 ~73 ~18 ~3 wool 0
+fill ~72 ~18 ~29 ~73 ~18 ~29 wool 0
+fill ~73 ~18 ~2 ~75 ~18 ~2 wool 0
+fill ~73 ~18 ~30 ~75 ~18 ~30 wool 0
+fill ~76 ~18 ~1 ~76 ~20 ~1 wool 8
+fill ~76 ~18 ~31 ~76 ~20 ~31 wool 8
+fill ~102 ~18 ~16 ~104 ~18 ~16 log 1
+fill ~104 ~18 ~9 ~106 ~18 ~9 log 9
+fill ~104 ~18 ~23 ~106 ~18 ~23 log 9
+fill ~107 ~18 ~9 ~111 ~18 ~9 planks 0
+fill ~107 ~18 ~23 ~111 ~18 ~23 planks 0
+fill ~109 ~18 ~8 ~110 ~18 ~8 planks 0
+fill ~109 ~18 ~24 ~110 ~18 ~24 planks 0
+setblock ~110 ~18 ~10 torch 3
+setblock ~110 ~18 ~16 torch 2
+setblock ~110 ~18 ~22 torch 4
+fill ~111 ~18 ~8 ~111 ~20 ~8 log 1
+fill ~111 ~18 ~24 ~111 ~20 ~24 log 1
+fill ~15 ~19 ~16 ~16 ~19 ~16 wool 8
+fill ~16 ~19 ~17 ~27 ~19 ~17 wool 0
+fill ~28 ~19 ~16 ~29 ~19 ~16 wool 8
+fill ~37 ~19 ~14 ~37 ~19 ~18 wool 8
+fill ~38 ~19 ~11 ~38 ~19 ~13 wool 8
+fill ~38 ~19 ~19 ~38 ~19 ~21 wool 8
+fill ~39 ~19 ~9 ~39 ~19 ~10 wool 8
+fill ~39 ~19 ~22 ~39 ~19 ~23 wool 8
+setblock ~40 ~19 ~8 wool 8
+setblock ~40 ~19 ~24 wool 8
+setblock ~41 ~19 ~7 wool 8
+setblock ~41 ~19 ~25 wool 8
+setblock ~42 ~19 ~6 wool 8
+setblock ~42 ~19 ~26 wool 8
+fill ~43 ~19 ~5 ~44 ~19 ~5 wool 8
+fill ~43 ~19 ~27 ~44 ~19 ~27 wool 8
+setblock ~45 ~19 ~4 wool 8
+setblock ~45 ~19 ~28 wool 8
+fill ~55 ~19 ~3 ~56 ~19 ~3 wool 0
+fill ~55 ~19 ~29 ~56 ~19 ~29 wool 0
+fill ~56 ~19 ~2 ~58 ~19 ~2 wool 0
+fill ~56 ~19 ~30 ~58 ~19 ~30 wool 0
+fill ~72 ~19 ~3 ~73 ~19 ~3 wool 0
+fill ~72 ~19 ~29 ~73 ~19 ~29 wool 0
+fill ~73 ~19 ~2 ~75 ~19 ~2 wool 0
+fill ~73 ~19 ~30 ~75 ~19 ~30 wool 0
+setblock ~102 ~19 ~16 quartz_block 0
+setblock ~103 ~19 ~15 quartz_block 0
+fill ~103 ~19 ~16 ~103 ~55 ~16 log 1
+setblock ~103 ~19 ~17 quartz_block 0
+setblock ~104 ~19 ~16 quartz_block 0
+fill ~107 ~19 ~8 ~109 ~19 ~8 log 9
+fill ~107 ~19 ~9 ~107 ~17 ~9 planks 0
+fill ~107 ~19 ~23 ~107 ~17 ~23 planks 0
+fill ~107 ~19 ~24 ~109 ~19 ~24 log 9
+fill ~110 ~19 ~8 ~110 ~19 ~9 planks 0
+fill ~110 ~19 ~23 ~111 ~19 ~23 planks 0
+fill ~110 ~19 ~24 ~110 ~19 ~23 planks 0
+fill ~111 ~19 ~9 ~111 ~20 ~9 planks 0
+setblock ~12 ~20 ~16 wool 8
+fill ~17 ~20 ~16 ~18 ~20 ~16 wool 8
+fill ~19 ~20 ~17 ~20 ~20 ~17 wool 0
+fill ~21 ~20 ~18 ~27 ~20 ~18 wool 0
+fill ~28 ~20 ~17 ~29 ~20 ~17 wool 0
+setblock ~30 ~20 ~16 wool 8
+fill ~36 ~20 ~14 ~36 ~21 ~14 wool 0
+fill ~36 ~20 ~15 ~36 ~20 ~18 wool 0
+fill ~37 ~20 ~11 ~37 ~21 ~11 wool 0
+fill ~37 ~20 ~12 ~37 ~20 ~13 wool 0
+fill ~37 ~20 ~19 ~37 ~20 ~21 wool 0
+fill ~38 ~20 ~9 ~38 ~21 ~9 wool 0
+fill ~38 ~20 ~10 ~38 ~20 ~9 wool 0
+fill ~38 ~20 ~22 ~38 ~20 ~23 wool 0
+setblock ~39 ~20 ~8 wool 0
+setblock ~39 ~20 ~24 wool 0
+setblock ~40 ~20 ~7 wool 0
+setblock ~40 ~20 ~25 wool 0
+setblock ~41 ~20 ~6 wool 0
+setblock ~41 ~20 ~26 wool 0
+fill ~42 ~20 ~5 ~43 ~20 ~5 wool 0
+fill ~42 ~20 ~27 ~43 ~20 ~27 wool 0
+setblock ~44 ~20 ~4 wool 8
+setblock ~44 ~20 ~28 wool 8
+fill ~55 ~20 ~3 ~56 ~20 ~3 wool 0
+fill ~55 ~20 ~29 ~56 ~20 ~29 wool 0
+fill ~56 ~20 ~2 ~58 ~20 ~2 wool 0
+fill ~56 ~20 ~30 ~58 ~20 ~30 wool 0
+fill ~72 ~20 ~3 ~73 ~20 ~3 wool 0
+fill ~72 ~20 ~29 ~73 ~20 ~29 wool 0
+fill ~73 ~20 ~2 ~75 ~20 ~2 wool 0
+fill ~73 ~20 ~30 ~75 ~20 ~30 wool 0
+setblock ~102 ~20 ~16 log 1
+setblock ~103 ~20 ~15 log 1
+setblock ~103 ~20 ~17 log 1
+setblock ~104 ~20 ~16 log 1
+setblock ~110 ~20 ~8 log 9
+setblock ~110 ~20 ~9 torch 3
+setblock ~110 ~20 ~23 torch 4
+setblock ~110 ~20 ~24 log 9
+setblock ~111 ~20 ~23 planks 0
+fill ~13 ~21 ~16 ~14 ~21 ~16 wool 8
+fill ~19 ~21 ~16 ~20 ~21 ~16 wool 8
+fill ~21 ~21 ~17 ~22 ~21 ~17 wool 0
+fill ~23 ~21 ~18 ~29 ~21 ~18 wool 0
+fill ~30 ~21 ~17 ~30 ~22 ~17 wool 0
+fill ~31 ~21 ~16 ~31 ~22 ~16 wool 8
+fill ~35 ~21 ~15 ~35 ~25 ~15 wool 0
+fill ~35 ~21 ~16 ~35 ~25 ~16 wool 0
+fill ~35 ~21 ~17 ~35 ~25 ~17 wool 0
+fill ~36 ~21 ~12 ~36 ~25 ~12 wool 0
+fill ~36 ~21 ~13 ~36 ~25 ~13 wool 0
+fill ~36 ~21 ~18 ~36 ~21 ~20 wool 0
+fill ~37 ~21 ~10 ~37 ~25 ~10 wool 0
+fill ~37 ~21 ~21 ~37 ~21 ~22 wool 0
+fill ~38 ~21 ~8 ~38 ~25 ~8 wool 0
+fill ~38 ~21 ~23 ~38 ~21 ~24 wool 0
+fill ~39 ~21 ~7 ~39 ~25 ~7 wool 0
+fill ~39 ~21 ~25 ~39 ~25 ~25 wool 0
+fill ~40 ~21 ~6 ~40 ~25 ~6 wool 0
+fill ~40 ~21 ~26 ~40 ~25 ~26 wool 0
+fill ~41 ~21 ~5 ~42 ~21 ~5 wool 0
+fill ~41 ~21 ~27 ~42 ~21 ~27 wool 0
+setblock ~43 ~21 ~4 wool 8
+setblock ~43 ~21 ~28 wool 8
+fill ~55 ~21 ~3 ~56 ~21 ~3 wool 0
+fill ~55 ~21 ~29 ~56 ~21 ~29 wool 0
+fill ~57 ~21 ~2 ~59 ~21 ~2 wool 0
+fill ~57 ~21 ~30 ~59 ~21 ~30 wool 0
+setblock ~60 ~21 ~1 wool 8
+setblock ~60 ~21 ~31 wool 8
+fill ~72 ~21 ~3 ~73 ~21 ~3 wool 0
+fill ~72 ~21 ~29 ~73 ~21 ~29 wool 0
+fill ~74 ~21 ~2 ~76 ~21 ~2 wool 0
+fill ~74 ~21 ~30 ~76 ~21 ~30 wool 0
+setblock ~77 ~21 ~1 wool 8
+setblock ~77 ~21 ~31 wool 8
+fill ~111 ~21 ~9 ~111 ~22 ~9 log 1
+setblock ~111 ~21 ~12 log 5
+setblock ~111 ~21 ~20 log 5
+fill ~111 ~21 ~23 ~111 ~22 ~23 log 1
+setblock ~114 ~21 ~11 glowstone 0
+setblock ~114 ~21 ~21 glowstone 0
+fill ~14 ~22 ~16 ~16 ~22 ~16 wool 8
+fill ~21 ~22 ~16 ~22 ~22 ~16 wool 8
+fill ~23 ~22 ~17 ~24 ~22 ~17 wool 0
+fill ~25 ~22 ~18 ~29 ~22 ~18 wool 0
+fill ~35 ~22 ~14 ~35 ~24 ~14 wool 0
+fill ~35 ~22 ~18 ~35 ~24 ~18 wool 0
+fill ~36 ~22 ~11 ~36 ~24 ~11 wool 0
+fill ~36 ~22 ~19 ~36 ~25 ~19 wool 0
+fill ~36 ~22 ~20 ~36 ~25 ~20 wool 0
+fill ~36 ~22 ~21 ~36 ~24 ~21 wool 0
+fill ~37 ~22 ~9 ~37 ~24 ~9 wool 0
+fill ~37 ~22 ~22 ~37 ~25 ~22 wool 0
+fill ~37 ~22 ~23 ~37 ~24 ~23 wool 0
+fill ~38 ~22 ~24 ~38 ~25 ~24 wool 0
+fill ~41 ~22 ~5 ~41 ~25 ~5 wool 0
+fill ~41 ~22 ~27 ~41 ~25 ~27 wool 0
+fill ~42 ~22 ~4 ~42 ~24 ~4 wool 8
+fill ~42 ~22 ~28 ~42 ~24 ~28 wool 8
+fill ~50 ~22 ~14 ~50 ~22 ~18 wool 0
+fill ~51 ~22 ~11 ~51 ~22 ~13 wool 0
+fill ~51 ~22 ~19 ~51 ~23 ~19 wool 0
+fill ~51 ~22 ~20 ~51 ~23 ~20 wool 0
+fill ~51 ~22 ~21 ~51 ~22 ~19 wool 0
+fill ~52 ~22 ~8 ~52 ~22 ~10 wool 0
+fill ~52 ~22 ~22 ~52 ~23 ~22 wool 0
+fill ~52 ~22 ~23 ~52 ~23 ~23 wool 0
+fill ~52 ~22 ~24 ~52 ~22 ~22 wool 0
+fill ~53 ~22 ~6 ~53 ~22 ~7 wool 0
+fill ~53 ~22 ~25 ~53 ~23 ~25 wool 0
+fill ~53 ~22 ~26 ~53 ~22 ~25 wool 0
+fill ~54 ~22 ~5 ~54 ~23 ~5 wool 0
+fill ~54 ~22 ~27 ~54 ~23 ~27 wool 0
+fill ~55 ~22 ~4 ~55 ~23 ~4 wool 0
+fill ~55 ~22 ~28 ~55 ~23 ~28 wool 0
+fill ~56 ~22 ~3 ~57 ~22 ~3 wool 0
+fill ~56 ~22 ~29 ~57 ~22 ~29 wool 0
+fill ~58 ~22 ~2 ~60 ~22 ~2 wool 0
+fill ~58 ~22 ~30 ~60 ~22 ~30 wool 0
+fill ~61 ~22 ~1 ~61 ~23 ~1 wool 8
+fill ~61 ~22 ~31 ~61 ~23 ~31 wool 8
+fill ~67 ~22 ~14 ~67 ~22 ~18 wool 0
+fill ~68 ~22 ~11 ~68 ~22 ~13 wool 0
+fill ~68 ~22 ~19 ~68 ~23 ~19 wool 0
+fill ~68 ~22 ~20 ~68 ~23 ~20 wool 0
+fill ~68 ~22 ~21 ~68 ~22 ~19 wool 0
+fill ~69 ~22 ~8 ~69 ~22 ~10 wool 0
+fill ~69 ~22 ~22 ~69 ~23 ~22 wool 0
+fill ~69 ~22 ~23 ~69 ~23 ~23 wool 0
+fill ~69 ~22 ~24 ~69 ~22 ~22 wool 0
+fill ~70 ~22 ~6 ~70 ~22 ~7 wool 0
+fill ~70 ~22 ~25 ~70 ~23 ~25 wool 0
+fill ~70 ~22 ~26 ~70 ~22 ~25 wool 0
+fill ~71 ~22 ~5 ~71 ~23 ~5 wool 0
+fill ~71 ~22 ~27 ~71 ~23 ~27 wool 0
+fill ~72 ~22 ~4 ~72 ~23 ~4 wool 0
+fill ~72 ~22 ~28 ~72 ~23 ~28 wool 0
+fill ~73 ~22 ~3 ~74 ~22 ~3 wool 0
+fill ~73 ~22 ~29 ~74 ~22 ~29 wool 0
+fill ~75 ~22 ~2 ~77 ~22 ~2 wool 0
+fill ~75 ~22 ~30 ~77 ~22 ~30 wool 0
+fill ~78 ~22 ~1 ~78 ~23 ~1 wool 8
+fill ~78 ~22 ~31 ~78 ~23 ~31 wool 8
+setblock ~111 ~22 ~11 log 5
+setblock ~111 ~22 ~13 log 5
+setblock ~111 ~22 ~19 log 5
+setblock ~111 ~22 ~21 log 5
+fill ~15 ~23 ~16 ~17 ~23 ~16 wool 8
+fill ~23 ~23 ~16 ~24 ~23 ~16 wool 8
+fill ~25 ~23 ~17 ~26 ~23 ~17 wool 0
+fill ~27 ~23 ~18 ~30 ~23 ~18 wool 0
+fill ~31 ~23 ~17 ~31 ~26 ~17 wool 0
+fill ~32 ~23 ~16 ~32 ~27 ~16 wool 8
+fill ~50 ~23 ~15 ~50 ~23 ~17 wool 0
+fill ~51 ~23 ~12 ~51 ~23 ~14 wool 0
+fill ~51 ~23 ~18 ~51 ~24 ~18 wool 0
+fill ~52 ~23 ~9 ~52 ~23 ~11 wool 0
+fill ~52 ~23 ~21 ~52 ~24 ~21 wool 0
+fill ~53 ~23 ~7 ~53 ~23 ~8 wool 0
+fill ~53 ~23 ~24 ~53 ~24 ~24 wool 0
+fill ~54 ~23 ~6 ~54 ~24 ~6 wool 0
+fill ~54 ~23 ~26 ~54 ~24 ~26 wool 0
+fill ~56 ~23 ~3 ~57 ~23 ~3 wool 0
+fill ~56 ~23 ~29 ~57 ~23 ~29 wool 0
+fill ~58 ~23 ~2 ~60 ~23 ~2 wool 0
+fill ~58 ~23 ~30 ~60 ~23 ~30 wool 0
+fill ~67 ~23 ~15 ~67 ~23 ~17 wool 0
+fill ~68 ~23 ~12 ~68 ~23 ~14 wool 0
+fill ~68 ~23 ~18 ~68 ~24 ~18 wool 0
+fill ~69 ~23 ~9 ~69 ~23 ~11 wool 0
+fill ~69 ~23 ~21 ~69 ~24 ~21 wool 0
+fill ~70 ~23 ~7 ~70 ~23 ~8 wool 0
+fill ~70 ~23 ~24 ~70 ~24 ~24 wool 0
+fill ~71 ~23 ~6 ~71 ~24 ~6 wool 0
+fill ~71 ~23 ~26 ~71 ~24 ~26 wool 0
+fill ~73 ~23 ~3 ~74 ~23 ~3 wool 0
+fill ~73 ~23 ~29 ~74 ~23 ~29 wool 0
+fill ~75 ~23 ~2 ~77 ~23 ~2 wool 0
+fill ~75 ~23 ~30 ~77 ~23 ~30 wool 0
+fill ~102 ~23 ~15 ~102 ~23 ~17 log 5
+fill ~103 ~23 ~12 ~103 ~23 ~14 log 5
+fill ~103 ~23 ~18 ~103 ~23 ~20 log 5
+fill ~104 ~23 ~9 ~104 ~23 ~11 log 5
+fill ~104 ~23 ~21 ~104 ~23 ~23 log 5
+fill ~105 ~23 ~6 ~105 ~23 ~8 log 5
+fill ~105 ~23 ~24 ~105 ~23 ~26 log 5
+fill ~106 ~23 ~3 ~106 ~23 ~5 log 5
+fill ~106 ~23 ~27 ~106 ~23 ~29 log 5
+setblock ~111 ~23 ~10 log 5
+setblock ~111 ~23 ~14 log 5
+setblock ~111 ~23 ~18 log 5
+setblock ~111 ~23 ~22 log 5
+fill ~16 ~24 ~16 ~19 ~24 ~16 wool 8
+fill ~25 ~24 ~16 ~26 ~24 ~16 wool 8
+fill ~27 ~24 ~17 ~28 ~24 ~17 wool 0
+fill ~29 ~24 ~18 ~30 ~24 ~18 wool 0
+fill ~51 ~24 ~14 ~51 ~24 ~18 wool 0
+fill ~52 ~24 ~11 ~52 ~24 ~13 wool 0
+fill ~52 ~24 ~19 ~52 ~25 ~19 wool 0
+fill ~52 ~24 ~20 ~52 ~25 ~20 wool 0
+fill ~53 ~24 ~8 ~53 ~24 ~10 wool 0
+fill ~53 ~24 ~22 ~53 ~25 ~22 wool 0
+fill ~53 ~24 ~23 ~53 ~25 ~23 wool 0
+fill ~54 ~24 ~7 ~54 ~25 ~7 wool 0
+fill ~54 ~24 ~25 ~54 ~25 ~25 wool 0
+fill ~55 ~24 ~5 ~55 ~25 ~5 wool 0
+fill ~55 ~24 ~27 ~55 ~25 ~27 wool 0
+fill ~56 ~24 ~4 ~56 ~25 ~4 wool 0
+fill ~56 ~24 ~28 ~56 ~25 ~28 wool 0
+fill ~57 ~24 ~3 ~58 ~24 ~3 wool 0
+fill ~57 ~24 ~29 ~58 ~24 ~29 wool 0
+fill ~59 ~24 ~2 ~61 ~24 ~2 wool 0
+fill ~59 ~24 ~30 ~61 ~24 ~30 wool 0
+fill ~62 ~24 ~1 ~62 ~25 ~1 wool 8
+fill ~62 ~24 ~31 ~62 ~25 ~31 wool 8
+fill ~68 ~24 ~14 ~68 ~24 ~18 wool 0
+fill ~69 ~24 ~11 ~69 ~24 ~13 wool 0
+fill ~69 ~24 ~19 ~69 ~25 ~19 wool 0
+fill ~69 ~24 ~20 ~69 ~25 ~20 wool 0
+fill ~70 ~24 ~8 ~70 ~24 ~10 wool 0
+fill ~70 ~24 ~22 ~70 ~25 ~22 wool 0
+fill ~70 ~24 ~23 ~70 ~25 ~23 wool 0
+fill ~71 ~24 ~7 ~71 ~25 ~7 wool 0
+fill ~71 ~24 ~25 ~71 ~25 ~25 wool 0
+fill ~72 ~24 ~5 ~72 ~25 ~5 wool 0
+fill ~72 ~24 ~27 ~72 ~25 ~27 wool 0
+fill ~73 ~24 ~4 ~73 ~25 ~4 wool 0
+fill ~73 ~24 ~28 ~73 ~25 ~28 wool 0
+fill ~74 ~24 ~3 ~75 ~24 ~3 wool 0
+fill ~74 ~24 ~29 ~75 ~24 ~29 wool 0
+fill ~76 ~24 ~2 ~78 ~24 ~2 wool 0
+fill ~76 ~24 ~30 ~78 ~24 ~30 wool 0
+fill ~79 ~24 ~1 ~79 ~25 ~1 wool 8
+fill ~79 ~24 ~31 ~79 ~25 ~31 wool 8
+fill ~97 ~24 ~14 ~97 ~24 ~18 wool 8
+fill ~98 ~24 ~11 ~98 ~24 ~13 wool 8
+fill ~98 ~24 ~19 ~98 ~24 ~21 wool 8
+fill ~99 ~24 ~9 ~99 ~24 ~10 wool 8
+fill ~99 ~24 ~22 ~99 ~24 ~23 wool 8
+setblock ~100 ~24 ~8 wool 8
+setblock ~100 ~24 ~24 wool 8
+setblock ~101 ~24 ~7 wool 8
+setblock ~101 ~24 ~25 wool 8
+setblock ~102 ~24 ~6 wool 8
+setblock ~102 ~24 ~26 wool 8
+fill ~103 ~24 ~5 ~104 ~24 ~5 wool 8
+fill ~103 ~24 ~27 ~104 ~24 ~27 wool 8
+setblock ~105 ~24 ~4 wool 8
+setblock ~105 ~24 ~28 wool 8
+fill ~111 ~24 ~15 ~111 ~24 ~17 log 5
+setblock ~17 ~25 ~16 wool 8
+fill ~18 ~25 ~17 ~19 ~25 ~17 wool 0
+setblock ~20 ~25 ~16 wool 8
+fill ~27 ~25 ~16 ~28 ~25 ~16 wool 8
+fill ~29 ~25 ~17 ~31 ~25 ~17 wool 0
+fill ~36 ~25 ~14 ~36 ~26 ~14 wool 0
+fill ~36 ~25 ~18 ~36 ~26 ~18 wool 0
+fill ~37 ~25 ~11 ~37 ~26 ~11 wool 0
+fill ~37 ~25 ~21 ~37 ~26 ~21 wool 0
+fill ~38 ~25 ~9 ~38 ~26 ~9 wool 0
+fill ~38 ~25 ~23 ~38 ~26 ~23 wool 0
+fill ~42 ~25 ~5 ~42 ~27 ~5 wool 0
+fill ~42 ~25 ~27 ~42 ~27 ~27 wool 0
+setblock ~43 ~25 ~4 wool 8
+setblock ~43 ~25 ~28 wool 8
+fill ~51 ~25 ~15 ~51 ~25 ~17 wool 0
+fill ~52 ~25 ~12 ~52 ~25 ~14 wool 0
+fill ~52 ~25 ~18 ~52 ~26 ~18 wool 0
+fill ~53 ~25 ~9 ~53 ~25 ~11 wool 0
+fill ~53 ~25 ~21 ~53 ~26 ~21 wool 0
+fill ~54 ~25 ~8 ~54 ~26 ~8 wool 0
+fill ~54 ~25 ~24 ~54 ~26 ~24 wool 0
+fill ~55 ~25 ~6 ~55 ~26 ~6 wool 0
+fill ~55 ~25 ~26 ~55 ~26 ~26 wool 0
+fill ~57 ~25 ~3 ~58 ~25 ~3 wool 0
+fill ~57 ~25 ~29 ~58 ~25 ~29 wool 0
+fill ~59 ~25 ~2 ~61 ~25 ~2 wool 0
+fill ~59 ~25 ~30 ~61 ~25 ~30 wool 0
+fill ~68 ~25 ~15 ~68 ~25 ~17 wool 0
+fill ~69 ~25 ~12 ~69 ~25 ~14 wool 0
+fill ~69 ~25 ~18 ~69 ~26 ~18 wool 0
+fill ~70 ~25 ~9 ~70 ~25 ~11 wool 0
+fill ~70 ~25 ~21 ~70 ~26 ~21 wool 0
+fill ~71 ~25 ~8 ~71 ~26 ~8 wool 0
+fill ~71 ~25 ~24 ~71 ~26 ~24 wool 0
+fill ~72 ~25 ~6 ~72 ~26 ~6 wool 0
+fill ~72 ~25 ~26 ~72 ~26 ~26 wool 0
+fill ~74 ~25 ~3 ~75 ~25 ~3 wool 0
+fill ~74 ~25 ~29 ~75 ~25 ~29 wool 0
+fill ~76 ~25 ~2 ~78 ~25 ~2 wool 0
+fill ~76 ~25 ~30 ~78 ~25 ~30 wool 0
+fill ~96 ~25 ~14 ~96 ~26 ~14 wool 0
+fill ~96 ~25 ~15 ~96 ~25 ~18 wool 0
+fill ~97 ~25 ~11 ~97 ~26 ~11 wool 0
+fill ~97 ~25 ~12 ~97 ~25 ~13 wool 0
+fill ~97 ~25 ~19 ~97 ~25 ~21 wool 0
+fill ~98 ~25 ~9 ~98 ~26 ~9 wool 0
+fill ~98 ~25 ~10 ~98 ~25 ~9 wool 0
+fill ~98 ~25 ~22 ~98 ~25 ~23 wool 0
+setblock ~99 ~25 ~8 wool 0
+setblock ~99 ~25 ~24 wool 0
+setblock ~100 ~25 ~7 wool 0
+setblock ~100 ~25 ~25 wool 0
+setblock ~101 ~25 ~6 wool 0
+setblock ~101 ~25 ~26 wool 0
+fill ~102 ~25 ~5 ~103 ~25 ~5 wool 0
+fill ~102 ~25 ~27 ~103 ~25 ~27 wool 0
+setblock ~104 ~25 ~4 wool 8
+setblock ~104 ~25 ~28 wool 8
+setblock ~18 ~26 ~16 wool 8
+fill ~19 ~26 ~17 ~20 ~26 ~17 wool 0
+fill ~21 ~26 ~16 ~22 ~26 ~16 wool 8
+fill ~29 ~26 ~16 ~30 ~26 ~16 wool 8
+fill ~36 ~26 ~15 ~36 ~27 ~15 wool 0
+fill ~36 ~26 ~16 ~36 ~27 ~16 wool 0
+fill ~36 ~26 ~17 ~36 ~27 ~17 wool 0
+fill ~37 ~26 ~12 ~37 ~27 ~12 wool 0
+fill ~37 ~26 ~13 ~37 ~27 ~13 wool 0
+fill ~37 ~26 ~19 ~37 ~27 ~19 wool 0
+fill ~37 ~26 ~20 ~37 ~27 ~20 wool 0
+fill ~38 ~26 ~10 ~38 ~27 ~10 wool 0
+fill ~38 ~26 ~22 ~38 ~27 ~22 wool 0
+fill ~39 ~26 ~8 ~39 ~27 ~8 wool 0
+fill ~39 ~26 ~24 ~39 ~27 ~24 wool 0
+fill ~40 ~26 ~7 ~40 ~27 ~7 wool 0
+fill ~40 ~26 ~25 ~40 ~27 ~25 wool 0
+fill ~41 ~26 ~6 ~41 ~27 ~6 wool 0
+fill ~41 ~26 ~26 ~41 ~27 ~26 wool 0
+fill ~43 ~26 ~5 ~43 ~28 ~5 wool 0
+fill ~43 ~26 ~27 ~43 ~28 ~27 wool 0
+fill ~44 ~26 ~4 ~44 ~27 ~4 wool 8
+fill ~44 ~26 ~28 ~44 ~27 ~28 wool 8
+fill ~52 ~26 ~14 ~52 ~26 ~18 wool 0
+fill ~53 ~26 ~11 ~53 ~26 ~13 wool 0
+fill ~53 ~26 ~19 ~53 ~26 ~21 wool 0
+fill ~54 ~26 ~9 ~54 ~26 ~10 wool 0
+fill ~54 ~26 ~22 ~54 ~26 ~24 wool 0
+setblock ~55 ~26 ~7 wool 0
+setblock ~55 ~26 ~25 wool 0
+setblock ~56 ~26 ~5 wool 0
+setblock ~56 ~26 ~27 wool 0
+setblock ~57 ~26 ~4 wool 0
+setblock ~57 ~26 ~28 wool 0
+fill ~58 ~26 ~3 ~59 ~26 ~3 wool 0
+fill ~58 ~26 ~29 ~59 ~26 ~29 wool 0
+fill ~60 ~26 ~2 ~62 ~26 ~2 wool 0
+fill ~60 ~26 ~30 ~62 ~26 ~30 wool 0
+setblock ~63 ~26 ~1 wool 8
+setblock ~63 ~26 ~31 wool 8
+fill ~69 ~26 ~14 ~69 ~26 ~18 wool 0
+fill ~70 ~26 ~11 ~70 ~26 ~13 wool 0
+fill ~70 ~26 ~19 ~70 ~26 ~21 wool 0
+fill ~71 ~26 ~9 ~71 ~26 ~10 wool 0
+fill ~71 ~26 ~22 ~71 ~26 ~24 wool 0
+setblock ~72 ~26 ~7 wool 0
+setblock ~72 ~26 ~25 wool 0
+setblock ~73 ~26 ~5 wool 0
+setblock ~73 ~26 ~27 wool 0
+setblock ~74 ~26 ~4 wool 0
+setblock ~74 ~26 ~28 wool 0
+fill ~75 ~26 ~3 ~76 ~26 ~3 wool 0
+fill ~75 ~26 ~29 ~76 ~26 ~29 wool 0
+fill ~77 ~26 ~2 ~79 ~26 ~2 wool 0
+fill ~77 ~26 ~30 ~79 ~26 ~30 wool 0
+setblock ~80 ~26 ~1 wool 8
+setblock ~80 ~26 ~31 wool 8
+fill ~95 ~26 ~15 ~95 ~30 ~15 wool 0
+fill ~95 ~26 ~16 ~95 ~30 ~16 wool 0
+fill ~95 ~26 ~17 ~95 ~30 ~17 wool 0
+fill ~96 ~26 ~12 ~96 ~30 ~12 wool 0
+fill ~96 ~26 ~13 ~96 ~30 ~13 wool 0
+fill ~96 ~26 ~18 ~96 ~26 ~20 wool 0
+fill ~97 ~26 ~10 ~97 ~30 ~10 wool 0
+fill ~97 ~26 ~21 ~97 ~26 ~22 wool 0
+fill ~98 ~26 ~8 ~98 ~30 ~8 wool 0
+fill ~98 ~26 ~23 ~98 ~26 ~24 wool 0
+fill ~99 ~26 ~7 ~99 ~30 ~7 wool 0
+fill ~99 ~26 ~25 ~99 ~30 ~25 wool 0
+fill ~100 ~26 ~6 ~100 ~30 ~6 wool 0
+fill ~100 ~26 ~26 ~100 ~30 ~26 wool 0
+fill ~101 ~26 ~5 ~102 ~26 ~5 wool 0
+fill ~101 ~26 ~27 ~102 ~26 ~27 wool 0
+setblock ~103 ~26 ~4 wool 8
+setblock ~103 ~26 ~28 wool 8
+setblock ~19 ~27 ~16 wool 8
+fill ~20 ~27 ~17 ~22 ~27 ~17 wool 0
+fill ~23 ~27 ~16 ~25 ~27 ~16 wool 8
+setblock ~31 ~27 ~16 wool 8
+fill ~37 ~27 ~14 ~37 ~28 ~14 wool 0
+fill ~37 ~27 ~18 ~37 ~28 ~18 wool 0
+fill ~38 ~27 ~11 ~38 ~28 ~11 wool 0
+fill ~38 ~27 ~21 ~38 ~28 ~21 wool 0
+fill ~39 ~27 ~9 ~39 ~28 ~9 wool 0
+fill ~39 ~27 ~23 ~39 ~28 ~23 wool 0
+fill ~53 ~27 ~14 ~54 ~27 ~14 wool 0
+fill ~53 ~27 ~15 ~54 ~27 ~15 wool 0
+fill ~53 ~27 ~16 ~54 ~27 ~16 wool 0
+fill ~53 ~27 ~17 ~54 ~27 ~17 wool 0
+fill ~53 ~27 ~18 ~54 ~27 ~18 wool 0
+fill ~54 ~27 ~11 ~55 ~27 ~11 wool 0
+fill ~54 ~27 ~12 ~55 ~27 ~12 wool 0
+fill ~54 ~27 ~13 ~55 ~27 ~13 wool 0
+fill ~54 ~27 ~19 ~55 ~27 ~19 wool 0
+fill ~54 ~27 ~20 ~55 ~27 ~20 wool 0
+fill ~54 ~27 ~21 ~55 ~27 ~21 wool 0
+fill ~55 ~27 ~8 ~56 ~27 ~8 wool 0
+fill ~55 ~27 ~9 ~56 ~27 ~9 wool 0
+fill ~55 ~27 ~10 ~56 ~27 ~10 wool 0
+fill ~55 ~27 ~22 ~56 ~27 ~22 wool 0
+fill ~55 ~27 ~23 ~56 ~27 ~23 wool 0
+fill ~55 ~27 ~24 ~56 ~27 ~24 wool 0
+fill ~56 ~27 ~6 ~57 ~27 ~6 wool 0
+fill ~56 ~27 ~7 ~57 ~27 ~7 wool 0
+fill ~56 ~27 ~25 ~57 ~27 ~25 wool 0
+fill ~56 ~27 ~26 ~57 ~27 ~26 wool 0
+fill ~57 ~27 ~5 ~58 ~27 ~5 wool 0
+fill ~57 ~27 ~27 ~58 ~27 ~27 wool 0
+fill ~58 ~27 ~4 ~59 ~27 ~4 wool 0
+fill ~58 ~27 ~28 ~59 ~27 ~28 wool 0
+fill ~59 ~27 ~3 ~61 ~27 ~3 wool 0
+fill ~59 ~27 ~29 ~61 ~27 ~29 wool 0
+fill ~61 ~27 ~2 ~64 ~27 ~2 wool 0
+fill ~61 ~27 ~30 ~64 ~27 ~30 wool 0
+fill ~64 ~27 ~1 ~65 ~27 ~1 wool 8
+fill ~64 ~27 ~31 ~65 ~27 ~31 wool 8
+fill ~70 ~27 ~14 ~71 ~27 ~14 wool 0
+fill ~70 ~27 ~15 ~71 ~27 ~15 wool 0
+fill ~70 ~27 ~16 ~71 ~27 ~16 wool 0
+fill ~70 ~27 ~17 ~71 ~27 ~17 wool 0
+fill ~70 ~27 ~18 ~71 ~27 ~18 wool 0
+fill ~71 ~27 ~11 ~72 ~27 ~11 wool 0
+fill ~71 ~27 ~12 ~72 ~27 ~12 wool 0
+fill ~71 ~27 ~13 ~72 ~27 ~13 wool 0
+fill ~71 ~27 ~19 ~72 ~27 ~19 wool 0
+fill ~71 ~27 ~20 ~72 ~27 ~20 wool 0
+fill ~71 ~27 ~21 ~72 ~27 ~21 wool 0
+fill ~72 ~27 ~8 ~73 ~27 ~8 wool 0
+fill ~72 ~27 ~9 ~73 ~27 ~9 wool 0
+fill ~72 ~27 ~10 ~73 ~27 ~10 wool 0
+fill ~72 ~27 ~22 ~73 ~27 ~22 wool 0
+fill ~72 ~27 ~23 ~73 ~27 ~23 wool 0
+fill ~72 ~27 ~24 ~73 ~27 ~24 wool 0
+fill ~73 ~27 ~6 ~74 ~27 ~6 wool 0
+fill ~73 ~27 ~7 ~74 ~27 ~7 wool 0
+fill ~73 ~27 ~25 ~74 ~27 ~25 wool 0
+fill ~73 ~27 ~26 ~74 ~27 ~26 wool 0
+fill ~74 ~27 ~5 ~75 ~27 ~5 wool 0
+fill ~74 ~27 ~27 ~75 ~27 ~27 wool 0
+fill ~75 ~27 ~4 ~76 ~27 ~4 wool 0
+fill ~75 ~27 ~28 ~76 ~27 ~28 wool 0
+fill ~76 ~27 ~3 ~78 ~27 ~3 wool 0
+fill ~76 ~27 ~29 ~78 ~27 ~29 wool 0
+fill ~78 ~27 ~2 ~81 ~27 ~2 wool 0
+fill ~78 ~27 ~30 ~81 ~27 ~30 wool 0
+fill ~81 ~27 ~1 ~82 ~27 ~1 wool 8
+fill ~81 ~27 ~31 ~82 ~27 ~31 wool 8
+fill ~95 ~27 ~14 ~95 ~29 ~14 wool 0
+fill ~95 ~27 ~18 ~95 ~29 ~18 wool 0
+fill ~96 ~27 ~11 ~96 ~29 ~11 wool 0
+fill ~96 ~27 ~19 ~96 ~30 ~19 wool 0
+fill ~96 ~27 ~20 ~96 ~30 ~20 wool 0
+fill ~96 ~27 ~21 ~96 ~29 ~21 wool 0
+fill ~97 ~27 ~9 ~97 ~29 ~9 wool 0
+fill ~97 ~27 ~22 ~97 ~30 ~22 wool 0
+fill ~97 ~27 ~23 ~97 ~29 ~23 wool 0
+fill ~98 ~27 ~24 ~98 ~30 ~24 wool 0
+fill ~101 ~27 ~5 ~101 ~30 ~5 wool 0
+fill ~101 ~27 ~27 ~101 ~30 ~27 wool 0
+fill ~102 ~27 ~4 ~102 ~29 ~4 wool 8
+fill ~102 ~27 ~28 ~102 ~29 ~28 wool 8
+setblock ~20 ~28 ~16 wool 8
+setblock ~21 ~28 ~17 wool 0
+setblock ~22 ~28 ~18 wool 0
+fill ~23 ~28 ~17 ~25 ~28 ~17 wool 0
+fill ~26 ~28 ~16 ~28 ~28 ~16 wool 8
+fill ~37 ~28 ~15 ~37 ~28 ~18 wool 0
+fill ~38 ~28 ~12 ~38 ~28 ~13 wool 0
+fill ~38 ~28 ~19 ~38 ~28 ~21 wool 0
+setblock ~39 ~28 ~10 wool 0
+setblock ~39 ~28 ~22 wool 0
+setblock ~40 ~28 ~8 wool 0
+setblock ~40 ~28 ~24 wool 0
+setblock ~41 ~28 ~7 wool 0
+setblock ~41 ~28 ~25 wool 0
+setblock ~42 ~28 ~6 wool 0
+setblock ~42 ~28 ~26 wool 0
+fill ~44 ~28 ~5 ~44 ~29 ~5 wool 0
+fill ~44 ~28 ~27 ~44 ~29 ~27 wool 0
+setblock ~45 ~28 ~4 wool 8
+setblock ~45 ~28 ~28 wool 8
+fill ~55 ~28 ~14 ~57 ~28 ~14 wool 0
+fill ~55 ~28 ~15 ~56 ~28 ~15 wool 0
+fill ~55 ~28 ~16 ~56 ~28 ~16 wool 0
+fill ~55 ~28 ~17 ~56 ~28 ~17 wool 0
+fill ~55 ~28 ~18 ~57 ~28 ~18 wool 0
+fill ~56 ~28 ~11 ~58 ~28 ~11 wool 0
+fill ~56 ~28 ~12 ~57 ~28 ~12 wool 0
+fill ~56 ~28 ~13 ~57 ~28 ~13 wool 0
+fill ~56 ~28 ~19 ~57 ~28 ~19 wool 0
+fill ~56 ~28 ~20 ~57 ~28 ~20 wool 0
+fill ~56 ~28 ~21 ~58 ~28 ~21 wool 0
+fill ~57 ~28 ~8 ~59 ~28 ~8 wool 0
+fill ~57 ~28 ~9 ~58 ~28 ~9 wool 0
+fill ~57 ~28 ~10 ~58 ~28 ~10 wool 0
+fill ~57 ~28 ~22 ~58 ~28 ~22 wool 0
+fill ~57 ~28 ~23 ~58 ~28 ~23 wool 0
+fill ~57 ~28 ~24 ~59 ~28 ~24 wool 0
+fill ~58 ~28 ~6 ~59 ~28 ~6 wool 0
+fill ~58 ~28 ~7 ~59 ~28 ~7 wool 0
+fill ~58 ~28 ~25 ~59 ~28 ~25 wool 0
+fill ~58 ~28 ~26 ~59 ~28 ~26 wool 0
+fill ~59 ~28 ~5 ~60 ~28 ~5 wool 0
+fill ~59 ~28 ~27 ~60 ~28 ~27 wool 0
+fill ~60 ~28 ~4 ~61 ~28 ~4 wool 0
+fill ~60 ~28 ~28 ~61 ~28 ~28 wool 0
+fill ~62 ~28 ~3 ~64 ~28 ~3 wool 0
+fill ~62 ~28 ~29 ~64 ~28 ~29 wool 0
+setblock ~65 ~28 ~2 wool 0
+setblock ~65 ~28 ~30 wool 0
+fill ~66 ~28 ~1 ~67 ~28 ~1 wool 8
+fill ~66 ~28 ~31 ~67 ~28 ~31 wool 8
+fill ~72 ~28 ~14 ~74 ~28 ~14 wool 0
+fill ~72 ~28 ~15 ~73 ~28 ~15 wool 0
+fill ~72 ~28 ~16 ~73 ~28 ~16 wool 0
+fill ~72 ~28 ~17 ~73 ~28 ~17 wool 0
+fill ~72 ~28 ~18 ~74 ~28 ~18 wool 0
+fill ~73 ~28 ~11 ~75 ~28 ~11 wool 0
+fill ~73 ~28 ~12 ~74 ~28 ~12 wool 0
+fill ~73 ~28 ~13 ~74 ~28 ~13 wool 0
+fill ~73 ~28 ~19 ~74 ~28 ~19 wool 0
+fill ~73 ~28 ~20 ~74 ~28 ~20 wool 0
+fill ~73 ~28 ~21 ~75 ~28 ~21 wool 0
+fill ~74 ~28 ~8 ~76 ~28 ~8 wool 0
+fill ~74 ~28 ~9 ~75 ~28 ~9 wool 0
+fill ~74 ~28 ~10 ~75 ~28 ~10 wool 0
+fill ~74 ~28 ~22 ~75 ~28 ~22 wool 0
+fill ~74 ~28 ~23 ~75 ~28 ~23 wool 0
+fill ~74 ~28 ~24 ~76 ~28 ~24 wool 0
+fill ~75 ~28 ~6 ~76 ~28 ~6 wool 0
+fill ~75 ~28 ~7 ~76 ~28 ~7 wool 0
+fill ~75 ~28 ~25 ~76 ~28 ~25 wool 0
+fill ~75 ~28 ~26 ~76 ~28 ~26 wool 0
+fill ~76 ~28 ~5 ~77 ~28 ~5 wool 0
+fill ~76 ~28 ~27 ~77 ~28 ~27 wool 0
+fill ~77 ~28 ~4 ~78 ~28 ~4 wool 0
+fill ~77 ~28 ~28 ~78 ~28 ~28 wool 0
+fill ~79 ~28 ~3 ~81 ~28 ~3 wool 0
+fill ~79 ~28 ~29 ~81 ~28 ~29 wool 0
+setblock ~82 ~28 ~2 wool 0
+setblock ~82 ~28 ~30 wool 0
+fill ~83 ~28 ~1 ~84 ~28 ~1 wool 8
+fill ~83 ~28 ~31 ~84 ~28 ~31 wool 8
+setblock ~21 ~29 ~16 wool 8
+setblock ~22 ~29 ~17 wool 0
+fill ~23 ~29 ~18 ~25 ~29 ~18 wool 0
+fill ~26 ~29 ~17 ~28 ~29 ~17 wool 0
+fill ~29 ~29 ~16 ~30 ~29 ~16 wool 8
+fill ~38 ~29 ~14 ~38 ~29 ~18 wool 0
+fill ~39 ~29 ~11 ~39 ~29 ~13 wool 0
+fill ~39 ~29 ~19 ~39 ~29 ~21 wool 0
+fill ~40 ~29 ~9 ~40 ~29 ~10 wool 0
+fill ~40 ~29 ~22 ~40 ~29 ~23 wool 0
+setblock ~41 ~29 ~8 wool 0
+setblock ~41 ~29 ~24 wool 0
+setblock ~42 ~29 ~7 wool 0
+setblock ~42 ~29 ~25 wool 0
+setblock ~43 ~29 ~6 wool 0
+setblock ~43 ~29 ~26 wool 0
+fill ~45 ~29 ~5 ~45 ~30 ~5 wool 0
+fill ~45 ~29 ~27 ~45 ~30 ~27 wool 0
+setblock ~46 ~29 ~4 wool 8
+setblock ~46 ~29 ~28 wool 8
+fill ~57 ~29 ~15 ~57 ~29 ~17 wool 8
+fill ~58 ~29 ~12 ~58 ~29 ~14 wool 8
+fill ~58 ~29 ~18 ~58 ~29 ~20 wool 8
+fill ~59 ~29 ~9 ~59 ~29 ~11 wool 8
+fill ~59 ~29 ~21 ~59 ~29 ~23 wool 8
+fill ~60 ~29 ~6 ~60 ~29 ~8 wool 8
+fill ~60 ~29 ~24 ~60 ~29 ~26 wool 8
+setblock ~61 ~29 ~5 wool 8
+setblock ~61 ~29 ~27 wool 8
+fill ~62 ~29 ~4 ~64 ~29 ~4 wool 8
+fill ~62 ~29 ~28 ~64 ~29 ~28 wool 8
+setblock ~65 ~29 ~3 wool 8
+setblock ~65 ~29 ~29 wool 8
+fill ~66 ~29 ~2 ~67 ~29 ~2 wool 8
+fill ~66 ~29 ~30 ~67 ~29 ~30 wool 8
+setblock ~68 ~29 ~1 wool 8
+setblock ~68 ~29 ~31 wool 8
+fill ~74 ~29 ~15 ~74 ~29 ~17 wool 8
+fill ~75 ~29 ~12 ~75 ~29 ~14 wool 8
+fill ~75 ~29 ~18 ~75 ~29 ~20 wool 8
+fill ~76 ~29 ~9 ~76 ~29 ~11 wool 8
+fill ~76 ~29 ~21 ~76 ~29 ~23 wool 8
+fill ~77 ~29 ~6 ~77 ~29 ~8 wool 8
+fill ~77 ~29 ~24 ~77 ~29 ~26 wool 8
+setblock ~78 ~29 ~5 wool 8
+setblock ~78 ~29 ~27 wool 8
+fill ~79 ~29 ~4 ~81 ~29 ~4 wool 8
+fill ~79 ~29 ~28 ~81 ~29 ~28 wool 8
+setblock ~82 ~29 ~3 wool 8
+setblock ~82 ~29 ~29 wool 8
+fill ~83 ~29 ~2 ~84 ~29 ~2 wool 8
+fill ~83 ~29 ~30 ~84 ~29 ~30 wool 8
+setblock ~85 ~29 ~1 wool 8
+setblock ~85 ~29 ~31 wool 8
+setblock ~22 ~30 ~16 wool 8
+setblock ~23 ~30 ~17 wool 0
+fill ~24 ~30 ~18 ~28 ~30 ~18 wool 0
+fill ~29 ~30 ~17 ~30 ~30 ~17 wool 0
+fill ~31 ~30 ~16 ~32 ~30 ~16 wool 8
+fill ~39 ~30 ~14 ~41 ~30 ~14 wool 0
+fill ~39 ~30 ~15 ~40 ~30 ~15 wool 0
+fill ~39 ~30 ~16 ~40 ~30 ~16 wool 0
+fill ~39 ~30 ~17 ~40 ~30 ~17 wool 0
+fill ~39 ~30 ~18 ~41 ~30 ~18 wool 0
+fill ~40 ~30 ~11 ~42 ~30 ~11 wool 0
+fill ~40 ~30 ~12 ~41 ~30 ~12 wool 0
+fill ~40 ~30 ~13 ~41 ~30 ~13 wool 0
+fill ~40 ~30 ~19 ~41 ~30 ~19 wool 0
+fill ~40 ~30 ~20 ~41 ~30 ~20 wool 0
+fill ~40 ~30 ~21 ~42 ~30 ~21 wool 0
+fill ~41 ~30 ~9 ~42 ~30 ~9 wool 0
+fill ~41 ~30 ~10 ~42 ~30 ~10 wool 0
+fill ~41 ~30 ~22 ~42 ~30 ~22 wool 0
+fill ~41 ~30 ~23 ~42 ~30 ~23 wool 0
+fill ~42 ~30 ~8 ~43 ~30 ~8 wool 0
+fill ~42 ~30 ~24 ~43 ~30 ~24 wool 0
+fill ~43 ~30 ~7 ~44 ~30 ~7 wool 0
+fill ~43 ~30 ~25 ~44 ~30 ~25 wool 0
+fill ~44 ~30 ~6 ~45 ~30 ~6 wool 0
+fill ~44 ~30 ~26 ~45 ~30 ~26 wool 0
+fill ~46 ~30 ~5 ~47 ~30 ~5 wool 0
+fill ~46 ~30 ~27 ~47 ~30 ~27 wool 0
+fill ~47 ~30 ~4 ~48 ~30 ~4 wool 8
+fill ~47 ~30 ~28 ~48 ~30 ~28 wool 8
+fill ~58 ~30 ~15 ~58 ~30 ~17 log 5
+fill ~59 ~30 ~12 ~59 ~30 ~14 log 5
+fill ~59 ~30 ~18 ~59 ~30 ~20 log 5
+fill ~60 ~30 ~9 ~60 ~30 ~11 log 5
+fill ~60 ~30 ~21 ~60 ~30 ~23 log 5
+fill ~61 ~30 ~6 ~61 ~30 ~8 log 5
+fill ~61 ~30 ~24 ~61 ~30 ~26 log 5
+fill ~62 ~30 ~5 ~64 ~30 ~5 log 9
+fill ~62 ~30 ~27 ~64 ~30 ~27 log 9
+setblock ~65 ~30 ~4 log 9
+setblock ~65 ~30 ~28 log 9
+fill ~66 ~30 ~3 ~67 ~30 ~3 log 9
+fill ~66 ~30 ~29 ~67 ~30 ~29 log 9
+setblock ~68 ~30 ~2 log 5
+setblock ~68 ~30 ~30 log 5
+fill ~75 ~30 ~15 ~75 ~30 ~17 log 5
+fill ~76 ~30 ~12 ~76 ~30 ~14 log 5
+fill ~76 ~30 ~18 ~76 ~30 ~20 log 5
+fill ~77 ~30 ~9 ~77 ~30 ~11 log 5
+fill ~77 ~30 ~21 ~77 ~30 ~23 log 5
+fill ~78 ~30 ~6 ~78 ~30 ~8 log 5
+fill ~78 ~30 ~24 ~78 ~30 ~26 log 5
+fill ~79 ~30 ~5 ~81 ~30 ~5 log 9
+fill ~79 ~30 ~27 ~81 ~30 ~27 log 9
+setblock ~82 ~30 ~4 log 9
+setblock ~82 ~30 ~28 log 9
+fill ~83 ~30 ~3 ~84 ~30 ~3 log 9
+fill ~83 ~30 ~29 ~84 ~30 ~29 log 9
+setblock ~85 ~30 ~2 log 5
+setblock ~85 ~30 ~30 log 5
+fill ~96 ~30 ~14 ~96 ~31 ~14 wool 0
+fill ~96 ~30 ~18 ~96 ~31 ~18 wool 0
+fill ~97 ~30 ~11 ~97 ~31 ~11 wool 0
+fill ~97 ~30 ~21 ~97 ~31 ~21 wool 0
+fill ~98 ~30 ~9 ~98 ~31 ~9 wool 0
+fill ~98 ~30 ~23 ~98 ~31 ~23 wool 0
+fill ~102 ~30 ~5 ~102 ~32 ~5 wool 0
+fill ~102 ~30 ~27 ~102 ~32 ~27 wool 0
+setblock ~103 ~30 ~4 wool 8
+setblock ~103 ~30 ~28 wool 8
+setblock ~23 ~31 ~16 wool 8
+setblock ~24 ~31 ~17 wool 0
+fill ~25 ~31 ~18 ~30 ~31 ~18 wool 0
+fill ~31 ~31 ~17 ~32 ~31 ~17 wool 0
+fill ~32 ~31 ~16 ~34 ~31 ~16 wool 8
+fill ~41 ~31 ~15 ~41 ~31 ~17 wool 8
+fill ~42 ~31 ~12 ~42 ~31 ~14 wool 8
+fill ~42 ~31 ~18 ~42 ~31 ~20 wool 8
+fill ~43 ~31 ~9 ~43 ~31 ~11 wool 8
+fill ~43 ~31 ~21 ~43 ~31 ~23 wool 8
+setblock ~44 ~31 ~8 wool 8
+setblock ~44 ~31 ~24 wool 8
+setblock ~45 ~31 ~7 wool 8
+setblock ~45 ~31 ~25 wool 8
+fill ~46 ~31 ~6 ~47 ~31 ~6 wool 8
+fill ~46 ~31 ~26 ~47 ~31 ~26 wool 8
+setblock ~48 ~31 ~5 wool 8
+setblock ~48 ~31 ~27 wool 8
+setblock ~49 ~31 ~4 wool 8
+setblock ~49 ~31 ~28 wool 8
+fill ~96 ~31 ~15 ~96 ~32 ~15 wool 0
+fill ~96 ~31 ~16 ~96 ~32 ~16 wool 0
+fill ~96 ~31 ~17 ~96 ~32 ~17 wool 0
+fill ~97 ~31 ~12 ~97 ~32 ~12 wool 0
+fill ~97 ~31 ~13 ~97 ~32 ~13 wool 0
+fill ~97 ~31 ~19 ~97 ~32 ~19 wool 0
+fill ~97 ~31 ~20 ~97 ~32 ~20 wool 0
+fill ~98 ~31 ~10 ~98 ~32 ~10 wool 0
+fill ~98 ~31 ~22 ~98 ~32 ~22 wool 0
+fill ~99 ~31 ~8 ~99 ~32 ~8 wool 0
+fill ~99 ~31 ~24 ~99 ~32 ~24 wool 0
+fill ~100 ~31 ~7 ~100 ~32 ~7 wool 0
+fill ~100 ~31 ~25 ~100 ~32 ~25 wool 0
+fill ~101 ~31 ~6 ~101 ~32 ~6 wool 0
+fill ~101 ~31 ~26 ~101 ~32 ~26 wool 0
+fill ~103 ~31 ~5 ~103 ~33 ~5 wool 0
+fill ~103 ~31 ~27 ~103 ~33 ~27 wool 0
+fill ~104 ~31 ~4 ~104 ~32 ~4 wool 8
+fill ~104 ~31 ~28 ~104 ~32 ~28 wool 8
+setblock ~24 ~32 ~16 wool 8
+setblock ~25 ~32 ~17 wool 0
+fill ~26 ~32 ~18 ~32 ~32 ~18 wool 0
+fill ~32 ~32 ~17 ~33 ~32 ~17 wool 0
+fill ~34 ~32 ~16 ~34 ~34 ~16 wool 8
+fill ~42 ~32 ~15 ~42 ~32 ~17 log 5
+fill ~43 ~32 ~12 ~43 ~32 ~14 log 5
+fill ~43 ~32 ~18 ~43 ~32 ~20 log 5
+fill ~44 ~32 ~9 ~44 ~32 ~11 log 5
+fill ~44 ~32 ~21 ~44 ~32 ~23 log 5
+setblock ~45 ~32 ~8 log 5
+setblock ~45 ~32 ~24 log 5
+fill ~46 ~32 ~7 ~47 ~32 ~7 log 9
+fill ~46 ~32 ~25 ~47 ~32 ~25 log 9
+setblock ~48 ~32 ~6 log 9
+setblock ~48 ~32 ~26 log 9
+setblock ~49 ~32 ~5 log 5
+setblock ~49 ~32 ~27 log 5
+fill ~58 ~32 ~15 ~58 ~32 ~17 log 5
+fill ~59 ~32 ~12 ~59 ~32 ~14 log 5
+fill ~59 ~32 ~18 ~59 ~32 ~20 log 5
+fill ~60 ~32 ~9 ~60 ~32 ~11 log 5
+fill ~60 ~32 ~21 ~60 ~32 ~23 log 5
+fill ~61 ~32 ~6 ~61 ~32 ~8 log 5
+fill ~61 ~32 ~24 ~61 ~32 ~26 log 5
+fill ~62 ~32 ~3 ~62 ~32 ~5 log 5
+fill ~62 ~32 ~27 ~62 ~32 ~29 log 5
+fill ~75 ~32 ~15 ~75 ~32 ~17 log 5
+fill ~76 ~32 ~12 ~76 ~32 ~14 log 5
+fill ~76 ~32 ~18 ~76 ~32 ~20 log 5
+fill ~77 ~32 ~9 ~77 ~32 ~11 log 5
+fill ~77 ~32 ~21 ~77 ~32 ~23 log 5
+fill ~78 ~32 ~6 ~78 ~32 ~8 log 5
+fill ~78 ~32 ~24 ~78 ~32 ~26 log 5
+fill ~79 ~32 ~3 ~79 ~32 ~5 log 5
+fill ~79 ~32 ~27 ~79 ~32 ~29 log 5
+fill ~97 ~32 ~14 ~97 ~33 ~14 wool 0
+fill ~97 ~32 ~18 ~97 ~33 ~18 wool 0
+fill ~98 ~32 ~11 ~98 ~33 ~11 wool 0
+fill ~98 ~32 ~21 ~98 ~33 ~21 wool 0
+fill ~99 ~32 ~9 ~99 ~33 ~9 wool 0
+fill ~99 ~32 ~23 ~99 ~33 ~23 wool 0
+setblock ~25 ~33 ~16 wool 8
+setblock ~26 ~33 ~17 wool 0
+fill ~27 ~33 ~18 ~32 ~33 ~18 wool 0
+setblock ~33 ~33 ~17 wool 0
+fill ~53 ~33 ~14 ~53 ~33 ~18 wool 8
+fill ~54 ~33 ~11 ~54 ~33 ~13 wool 8
+fill ~54 ~33 ~19 ~54 ~33 ~21 wool 8
+fill ~55 ~33 ~9 ~55 ~33 ~10 wool 8
+fill ~55 ~33 ~22 ~55 ~33 ~23 wool 8
+setblock ~56 ~33 ~8 wool 8
+setblock ~56 ~33 ~24 wool 8
+setblock ~57 ~33 ~7 wool 8
+setblock ~57 ~33 ~25 wool 8
+setblock ~58 ~33 ~6 wool 8
+setblock ~58 ~33 ~26 wool 8
+fill ~59 ~33 ~5 ~60 ~33 ~5 wool 8
+fill ~59 ~33 ~27 ~60 ~33 ~27 wool 8
+setblock ~61 ~33 ~4 wool 8
+setblock ~61 ~33 ~28 wool 8
+fill ~70 ~33 ~14 ~70 ~33 ~18 wool 8
+fill ~71 ~33 ~11 ~71 ~33 ~13 wool 8
+fill ~71 ~33 ~19 ~71 ~33 ~21 wool 8
+fill ~72 ~33 ~9 ~72 ~33 ~10 wool 8
+fill ~72 ~33 ~22 ~72 ~33 ~23 wool 8
+setblock ~73 ~33 ~8 wool 8
+setblock ~73 ~33 ~24 wool 8
+setblock ~74 ~33 ~7 wool 8
+setblock ~74 ~33 ~25 wool 8
+setblock ~75 ~33 ~6 wool 8
+setblock ~75 ~33 ~26 wool 8
+fill ~76 ~33 ~5 ~77 ~33 ~5 wool 8
+fill ~76 ~33 ~27 ~77 ~33 ~27 wool 8
+setblock ~78 ~33 ~4 wool 8
+setblock ~78 ~33 ~28 wool 8
+fill ~97 ~33 ~15 ~97 ~33 ~18 wool 0
+fill ~98 ~33 ~12 ~98 ~33 ~13 wool 0
+fill ~98 ~33 ~19 ~98 ~33 ~21 wool 0
+setblock ~99 ~33 ~10 wool 0
+setblock ~99 ~33 ~22 wool 0
+setblock ~100 ~33 ~8 wool 0
+setblock ~100 ~33 ~24 wool 0
+setblock ~101 ~33 ~7 wool 0
+setblock ~101 ~33 ~25 wool 0
+setblock ~102 ~33 ~6 wool 0
+setblock ~102 ~33 ~26 wool 0
+fill ~104 ~33 ~5 ~104 ~34 ~5 wool 0
+fill ~104 ~33 ~27 ~104 ~34 ~27 wool 0
+setblock ~105 ~33 ~4 wool 8
+setblock ~105 ~33 ~28 wool 8
+setblock ~26 ~34 ~16 wool 8
+setblock ~27 ~34 ~17 wool 0
+fill ~28 ~34 ~18 ~31 ~34 ~18 wool 0
+fill ~32 ~34 ~17 ~32 ~35 ~17 wool 0
+fill ~33 ~34 ~16 ~33 ~36 ~16 wool 8
+fill ~42 ~34 ~15 ~42 ~34 ~17 log 5
+fill ~43 ~34 ~12 ~43 ~34 ~14 log 5
+fill ~43 ~34 ~18 ~43 ~34 ~20 log 5
+fill ~44 ~34 ~9 ~44 ~34 ~11 log 5
+fill ~44 ~34 ~21 ~44 ~34 ~23 log 5
+fill ~45 ~34 ~6 ~45 ~34 ~8 log 5
+fill ~45 ~34 ~24 ~45 ~34 ~26 log 5
+fill ~52 ~34 ~14 ~52 ~35 ~14 wool 0
+fill ~52 ~34 ~15 ~52 ~34 ~18 wool 0
+fill ~53 ~34 ~11 ~53 ~35 ~11 wool 0
+fill ~53 ~34 ~12 ~53 ~34 ~13 wool 0
+fill ~53 ~34 ~19 ~53 ~34 ~21 wool 0
+fill ~54 ~34 ~9 ~54 ~35 ~9 wool 0
+fill ~54 ~34 ~10 ~54 ~34 ~9 wool 0
+fill ~54 ~34 ~22 ~54 ~34 ~23 wool 0
+setblock ~55 ~34 ~8 wool 0
+setblock ~55 ~34 ~24 wool 0
+setblock ~56 ~34 ~7 wool 0
+setblock ~56 ~34 ~25 wool 0
+setblock ~57 ~34 ~6 wool 0
+setblock ~57 ~34 ~26 wool 0
+fill ~58 ~34 ~5 ~59 ~34 ~5 wool 0
+fill ~58 ~34 ~27 ~59 ~34 ~27 wool 0
+setblock ~60 ~34 ~4 wool 8
+setblock ~60 ~34 ~28 wool 8
+fill ~69 ~34 ~14 ~69 ~35 ~14 wool 0
+fill ~69 ~34 ~15 ~69 ~34 ~18 wool 0
+fill ~70 ~34 ~11 ~70 ~35 ~11 wool 0
+fill ~70 ~34 ~12 ~70 ~34 ~13 wool 0
+fill ~70 ~34 ~19 ~70 ~34 ~21 wool 0
+fill ~71 ~34 ~9 ~71 ~35 ~9 wool 0
+fill ~71 ~34 ~10 ~71 ~34 ~9 wool 0
+fill ~71 ~34 ~22 ~71 ~34 ~23 wool 0
+setblock ~72 ~34 ~8 wool 0
+setblock ~72 ~34 ~24 wool 0
+setblock ~73 ~34 ~7 wool 0
+setblock ~73 ~34 ~25 wool 0
+setblock ~74 ~34 ~6 wool 0
+setblock ~74 ~34 ~26 wool 0
+fill ~75 ~34 ~5 ~76 ~34 ~5 wool 0
+fill ~75 ~34 ~27 ~76 ~34 ~27 wool 0
+setblock ~77 ~34 ~4 wool 8
+setblock ~77 ~34 ~28 wool 8
+fill ~98 ~34 ~14 ~98 ~34 ~18 wool 0
+fill ~99 ~34 ~11 ~99 ~34 ~13 wool 0
+fill ~99 ~34 ~19 ~99 ~34 ~21 wool 0
+fill ~100 ~34 ~9 ~100 ~34 ~10 wool 0
+fill ~100 ~34 ~22 ~100 ~34 ~23 wool 0
+setblock ~101 ~34 ~8 wool 0
+setblock ~101 ~34 ~24 wool 0
+setblock ~102 ~34 ~7 wool 0
+setblock ~102 ~34 ~25 wool 0
+setblock ~103 ~34 ~6 wool 0
+setblock ~103 ~34 ~26 wool 0
+fill ~105 ~34 ~5 ~105 ~35 ~5 wool 0
+fill ~105 ~34 ~27 ~105 ~35 ~27 wool 0
+setblock ~106 ~34 ~4 wool 8
+setblock ~106 ~34 ~28 wool 8
+setblock ~27 ~35 ~16 wool 8
+setblock ~28 ~35 ~17 wool 0
+fill ~29 ~35 ~18 ~31 ~35 ~18 wool 0
+fill ~39 ~35 ~13 ~39 ~35 ~19 wool 8
+fill ~40 ~35 ~10 ~40 ~35 ~12 wool 8
+fill ~40 ~35 ~20 ~40 ~35 ~22 wool 8
+setblock ~41 ~35 ~9 wool 8
+setblock ~41 ~35 ~23 wool 8
+fill ~42 ~35 ~8 ~43 ~35 ~8 wool 8
+fill ~42 ~35 ~24 ~43 ~35 ~24 wool 8
+setblock ~44 ~35 ~7 wool 8
+setblock ~44 ~35 ~25 wool 8
+fill ~51 ~35 ~15 ~51 ~39 ~15 wool 0
+fill ~51 ~35 ~16 ~51 ~39 ~16 wool 0
+fill ~51 ~35 ~17 ~51 ~39 ~17 wool 0
+fill ~52 ~35 ~12 ~52 ~39 ~12 wool 0
+fill ~52 ~35 ~13 ~52 ~39 ~13 wool 0
+fill ~52 ~35 ~18 ~52 ~35 ~20 wool 0
+fill ~53 ~35 ~10 ~53 ~39 ~10 wool 0
+fill ~53 ~35 ~21 ~53 ~35 ~22 wool 0
+fill ~54 ~35 ~8 ~54 ~39 ~8 wool 0
+fill ~54 ~35 ~23 ~54 ~35 ~24 wool 0
+fill ~55 ~35 ~7 ~55 ~39 ~7 wool 0
+fill ~55 ~35 ~25 ~55 ~39 ~25 wool 0
+fill ~56 ~35 ~6 ~56 ~39 ~6 wool 0
+fill ~56 ~35 ~26 ~56 ~39 ~26 wool 0
+fill ~57 ~35 ~5 ~58 ~35 ~5 wool 0
+fill ~57 ~35 ~27 ~58 ~35 ~27 wool 0
+setblock ~59 ~35 ~4 wool 8
+setblock ~59 ~35 ~28 wool 8
+fill ~68 ~35 ~15 ~68 ~39 ~15 wool 0
+fill ~68 ~35 ~16 ~68 ~39 ~16 wool 0
+fill ~68 ~35 ~17 ~68 ~39 ~17 wool 0
+fill ~69 ~35 ~12 ~69 ~39 ~12 wool 0
+fill ~69 ~35 ~13 ~69 ~39 ~13 wool 0
+fill ~69 ~35 ~18 ~69 ~35 ~20 wool 0
+fill ~70 ~35 ~10 ~70 ~39 ~10 wool 0
+fill ~70 ~35 ~21 ~70 ~35 ~22 wool 0
+fill ~71 ~35 ~8 ~71 ~39 ~8 wool 0
+fill ~71 ~35 ~23 ~71 ~35 ~24 wool 0
+fill ~72 ~35 ~7 ~72 ~39 ~7 wool 0
+fill ~72 ~35 ~25 ~72 ~39 ~25 wool 0
+fill ~73 ~35 ~6 ~73 ~39 ~6 wool 0
+fill ~73 ~35 ~26 ~73 ~39 ~26 wool 0
+fill ~74 ~35 ~5 ~75 ~35 ~5 wool 0
+fill ~74 ~35 ~27 ~75 ~35 ~27 wool 0
+setblock ~76 ~35 ~4 wool 8
+setblock ~76 ~35 ~28 wool 8
+fill ~99 ~35 ~14 ~101 ~35 ~14 wool 0
+fill ~99 ~35 ~15 ~100 ~35 ~15 wool 0
+fill ~99 ~35 ~16 ~100 ~35 ~16 wool 0
+fill ~99 ~35 ~17 ~100 ~35 ~17 wool 0
+fill ~99 ~35 ~18 ~101 ~35 ~18 wool 0
+fill ~100 ~35 ~11 ~102 ~35 ~11 wool 0
+fill ~100 ~35 ~12 ~101 ~35 ~12 wool 0
+fill ~100 ~35 ~13 ~101 ~35 ~13 wool 0
+fill ~100 ~35 ~19 ~101 ~35 ~19 wool 0
+fill ~100 ~35 ~20 ~101 ~35 ~20 wool 0
+fill ~100 ~35 ~21 ~102 ~35 ~21 wool 0
+fill ~101 ~35 ~9 ~102 ~35 ~9 wool 0
+fill ~101 ~35 ~10 ~102 ~35 ~10 wool 0
+fill ~101 ~35 ~22 ~102 ~35 ~22 wool 0
+fill ~101 ~35 ~23 ~102 ~35 ~23 wool 0
+fill ~102 ~35 ~8 ~103 ~35 ~8 wool 0
+fill ~102 ~35 ~24 ~103 ~35 ~24 wool 0
+fill ~103 ~35 ~7 ~104 ~35 ~7 wool 0
+fill ~103 ~35 ~25 ~104 ~35 ~25 wool 0
+fill ~104 ~35 ~6 ~105 ~35 ~6 wool 0
+fill ~104 ~35 ~26 ~105 ~35 ~26 wool 0
+fill ~106 ~35 ~5 ~107 ~35 ~5 wool 0
+fill ~106 ~35 ~27 ~107 ~35 ~27 wool 0
+fill ~107 ~35 ~4 ~108 ~35 ~4 wool 8
+fill ~107 ~35 ~28 ~108 ~35 ~28 wool 8
+setblock ~28 ~36 ~16 wool 8
+setblock ~29 ~36 ~17 wool 0
+setblock ~30 ~36 ~18 wool 0
+fill ~31 ~36 ~17 ~31 ~37 ~17 wool 0
+fill ~32 ~36 ~16 ~32 ~38 ~16 wool 8
+fill ~38 ~36 ~13 ~38 ~37 ~13 wool 0
+fill ~38 ~36 ~14 ~38 ~36 ~19 wool 0
+fill ~39 ~36 ~10 ~39 ~37 ~10 wool 0
+fill ~39 ~36 ~11 ~39 ~36 ~12 wool 0
+fill ~39 ~36 ~20 ~39 ~36 ~22 wool 0
+setblock ~40 ~36 ~9 wool 0
+setblock ~40 ~36 ~23 wool 0
+fill ~41 ~36 ~8 ~42 ~36 ~8 wool 0
+fill ~41 ~36 ~24 ~42 ~36 ~24 wool 0
+setblock ~43 ~36 ~7 wool 8
+setblock ~43 ~36 ~25 wool 8
+fill ~51 ~36 ~14 ~51 ~38 ~14 wool 0
+fill ~51 ~36 ~18 ~51 ~38 ~18 wool 0
+fill ~52 ~36 ~11 ~52 ~38 ~11 wool 0
+fill ~52 ~36 ~19 ~52 ~39 ~19 wool 0
+fill ~52 ~36 ~20 ~52 ~39 ~20 wool 0
+fill ~52 ~36 ~21 ~52 ~38 ~21 wool 0
+fill ~53 ~36 ~9 ~53 ~38 ~9 wool 0
+fill ~53 ~36 ~22 ~53 ~39 ~22 wool 0
+fill ~53 ~36 ~23 ~53 ~38 ~23 wool 0
+fill ~54 ~36 ~24 ~54 ~39 ~24 wool 0
+fill ~57 ~36 ~5 ~57 ~39 ~5 wool 0
+fill ~57 ~36 ~27 ~57 ~39 ~27 wool 0
+fill ~58 ~36 ~4 ~58 ~38 ~4 wool 8
+fill ~58 ~36 ~28 ~58 ~38 ~28 wool 8
+fill ~68 ~36 ~14 ~68 ~38 ~14 wool 0
+fill ~68 ~36 ~18 ~68 ~38 ~18 wool 0
+fill ~69 ~36 ~11 ~69 ~38 ~11 wool 0
+fill ~69 ~36 ~19 ~69 ~39 ~19 wool 0
+fill ~69 ~36 ~20 ~69 ~39 ~20 wool 0
+fill ~69 ~36 ~21 ~69 ~38 ~21 wool 0
+fill ~70 ~36 ~9 ~70 ~38 ~9 wool 0
+fill ~70 ~36 ~22 ~70 ~39 ~22 wool 0
+fill ~70 ~36 ~23 ~70 ~38 ~23 wool 0
+fill ~71 ~36 ~24 ~71 ~39 ~24 wool 0
+fill ~74 ~36 ~5 ~74 ~39 ~5 wool 0
+fill ~74 ~36 ~27 ~74 ~39 ~27 wool 0
+fill ~75 ~36 ~4 ~75 ~38 ~4 wool 8
+fill ~75 ~36 ~28 ~75 ~38 ~28 wool 8
+fill ~101 ~36 ~15 ~101 ~36 ~17 wool 8
+fill ~102 ~36 ~12 ~102 ~36 ~14 wool 8
+fill ~102 ~36 ~18 ~102 ~36 ~20 wool 8
+fill ~103 ~36 ~9 ~103 ~36 ~11 wool 8
+fill ~103 ~36 ~21 ~103 ~36 ~23 wool 8
+setblock ~104 ~36 ~8 wool 8
+setblock ~104 ~36 ~24 wool 8
+setblock ~105 ~36 ~7 wool 8
+setblock ~105 ~36 ~25 wool 8
+fill ~106 ~36 ~6 ~107 ~36 ~6 wool 8
+fill ~106 ~36 ~26 ~107 ~36 ~26 wool 8
+setblock ~108 ~36 ~5 wool 8
+setblock ~108 ~36 ~27 wool 8
+setblock ~109 ~36 ~4 wool 8
+setblock ~109 ~36 ~28 wool 8
+setblock ~29 ~37 ~16 wool 8
+setblock ~30 ~37 ~17 wool 0
+fill ~37 ~37 ~14 ~37 ~41 ~14 wool 0
+fill ~37 ~37 ~15 ~37 ~42 ~15 wool 0
+fill ~37 ~37 ~16 ~37 ~42 ~16 wool 0
+fill ~37 ~37 ~17 ~37 ~42 ~17 wool 0
+fill ~37 ~37 ~18 ~37 ~41 ~18 wool 0
+fill ~38 ~37 ~11 ~38 ~41 ~11 wool 0
+fill ~38 ~37 ~12 ~38 ~41 ~12 wool 0
+fill ~38 ~37 ~19 ~38 ~37 ~21 wool 0
+fill ~39 ~37 ~9 ~39 ~41 ~9 wool 0
+fill ~39 ~37 ~22 ~39 ~37 ~23 wool 0
+fill ~40 ~37 ~8 ~41 ~37 ~8 wool 0
+fill ~40 ~37 ~24 ~41 ~37 ~24 wool 0
+setblock ~42 ~37 ~7 wool 8
+setblock ~42 ~37 ~25 wool 8
+fill ~102 ~37 ~15 ~102 ~37 ~17 log 5
+fill ~103 ~37 ~12 ~103 ~37 ~14 log 5
+fill ~103 ~37 ~18 ~103 ~37 ~20 log 5
+fill ~104 ~37 ~9 ~104 ~37 ~11 log 5
+fill ~104 ~37 ~21 ~104 ~37 ~23 log 5
+setblock ~105 ~37 ~8 log 5
+setblock ~105 ~37 ~24 log 5
+fill ~106 ~37 ~7 ~107 ~37 ~7 log 9
+fill ~106 ~37 ~25 ~107 ~37 ~25 log 9
+setblock ~108 ~37 ~6 log 9
+setblock ~108 ~37 ~26 log 9
+setblock ~109 ~37 ~5 log 5
+setblock ~109 ~37 ~27 log 5
+fill ~30 ~38 ~16 ~32 ~38 ~16 wool 8
+fill ~37 ~38 ~13 ~37 ~40 ~13 wool 0
+fill ~37 ~38 ~19 ~37 ~40 ~19 wool 0
+fill ~38 ~38 ~10 ~38 ~40 ~10 wool 0
+fill ~38 ~38 ~20 ~38 ~41 ~20 wool 0
+fill ~38 ~38 ~21 ~38 ~41 ~21 wool 0
+fill ~38 ~38 ~22 ~38 ~40 ~22 wool 0
+fill ~39 ~38 ~23 ~39 ~41 ~23 wool 0
+fill ~40 ~38 ~8 ~40 ~41 ~8 wool 0
+fill ~40 ~38 ~24 ~40 ~41 ~24 wool 0
+fill ~41 ~38 ~7 ~41 ~40 ~7 wool 8
+fill ~41 ~38 ~25 ~41 ~40 ~25 wool 8
+setblock ~31 ~39 ~16 wool 8
+fill ~52 ~39 ~14 ~52 ~40 ~14 wool 0
+fill ~52 ~39 ~18 ~52 ~40 ~18 wool 0
+fill ~53 ~39 ~11 ~53 ~40 ~11 wool 0
+fill ~53 ~39 ~21 ~53 ~40 ~21 wool 0
+fill ~54 ~39 ~9 ~54 ~40 ~9 wool 0
+fill ~54 ~39 ~23 ~54 ~40 ~23 wool 0
+fill ~58 ~39 ~5 ~58 ~41 ~5 wool 0
+fill ~58 ~39 ~27 ~58 ~41 ~27 wool 0
+setblock ~59 ~39 ~4 wool 8
+setblock ~59 ~39 ~28 wool 8
+fill ~69 ~39 ~14 ~69 ~40 ~14 wool 0
+fill ~69 ~39 ~18 ~69 ~40 ~18 wool 0
+fill ~70 ~39 ~11 ~70 ~40 ~11 wool 0
+fill ~70 ~39 ~21 ~70 ~40 ~21 wool 0
+fill ~71 ~39 ~9 ~71 ~40 ~9 wool 0
+fill ~71 ~39 ~23 ~71 ~40 ~23 wool 0
+fill ~75 ~39 ~5 ~75 ~41 ~5 wool 0
+fill ~75 ~39 ~27 ~75 ~41 ~27 wool 0
+setblock ~76 ~39 ~4 wool 8
+setblock ~76 ~39 ~28 wool 8
+fill ~102 ~39 ~15 ~102 ~39 ~17 log 5
+fill ~103 ~39 ~12 ~103 ~39 ~14 log 5
+fill ~103 ~39 ~18 ~103 ~39 ~20 log 5
+fill ~104 ~39 ~9 ~104 ~39 ~11 log 5
+fill ~104 ~39 ~21 ~104 ~39 ~23 log 5
+fill ~105 ~39 ~6 ~105 ~39 ~8 log 5
+fill ~105 ~39 ~24 ~105 ~39 ~26 log 5
+fill ~52 ~40 ~15 ~52 ~41 ~15 wool 0
+fill ~52 ~40 ~16 ~52 ~41 ~16 wool 0
+fill ~52 ~40 ~17 ~52 ~41 ~17 wool 0
+fill ~53 ~40 ~12 ~53 ~41 ~12 wool 0
+fill ~53 ~40 ~13 ~53 ~41 ~13 wool 0
+fill ~53 ~40 ~19 ~53 ~41 ~19 wool 0
+fill ~53 ~40 ~20 ~53 ~41 ~20 wool 0
+fill ~54 ~40 ~10 ~54 ~41 ~10 wool 0
+fill ~54 ~40 ~22 ~54 ~41 ~22 wool 0
+fill ~55 ~40 ~8 ~55 ~41 ~8 wool 0
+fill ~55 ~40 ~24 ~55 ~41 ~24 wool 0
+fill ~56 ~40 ~7 ~56 ~41 ~7 wool 0
+fill ~56 ~40 ~25 ~56 ~41 ~25 wool 0
+fill ~57 ~40 ~6 ~57 ~41 ~6 wool 0
+fill ~57 ~40 ~26 ~57 ~41 ~26 wool 0
+fill ~59 ~40 ~5 ~59 ~42 ~5 wool 0
+fill ~59 ~40 ~27 ~59 ~42 ~27 wool 0
+fill ~60 ~40 ~4 ~60 ~41 ~4 wool 8
+fill ~60 ~40 ~28 ~60 ~41 ~28 wool 8
+fill ~69 ~40 ~15 ~69 ~41 ~15 wool 0
+fill ~69 ~40 ~16 ~69 ~41 ~16 wool 0
+fill ~69 ~40 ~17 ~69 ~41 ~17 wool 0
+fill ~70 ~40 ~12 ~70 ~41 ~12 wool 0
+fill ~70 ~40 ~13 ~70 ~41 ~13 wool 0
+fill ~70 ~40 ~19 ~70 ~41 ~19 wool 0
+fill ~70 ~40 ~20 ~70 ~41 ~20 wool 0
+fill ~71 ~40 ~10 ~71 ~41 ~10 wool 0
+fill ~71 ~40 ~22 ~71 ~41 ~22 wool 0
+fill ~72 ~40 ~8 ~72 ~41 ~8 wool 0
+fill ~72 ~40 ~24 ~72 ~41 ~24 wool 0
+fill ~73 ~40 ~7 ~73 ~41 ~7 wool 0
+fill ~73 ~40 ~25 ~73 ~41 ~25 wool 0
+fill ~74 ~40 ~6 ~74 ~41 ~6 wool 0
+fill ~74 ~40 ~26 ~74 ~41 ~26 wool 0
+fill ~76 ~40 ~5 ~76 ~42 ~5 wool 0
+fill ~76 ~40 ~27 ~76 ~42 ~27 wool 0
+fill ~77 ~40 ~4 ~77 ~41 ~4 wool 8
+fill ~77 ~40 ~28 ~77 ~41 ~28 wool 8
+fill ~99 ~40 ~13 ~99 ~40 ~19 wool 8
+fill ~100 ~40 ~10 ~100 ~40 ~12 wool 8
+fill ~100 ~40 ~20 ~100 ~40 ~22 wool 8
+setblock ~101 ~40 ~9 wool 8
+setblock ~101 ~40 ~23 wool 8
+fill ~102 ~40 ~8 ~103 ~40 ~8 wool 8
+fill ~102 ~40 ~24 ~103 ~40 ~24 wool 8
+setblock ~104 ~40 ~7 wool 8
+setblock ~104 ~40 ~25 wool 8
+fill ~38 ~41 ~13 ~38 ~42 ~13 wool 0
+fill ~38 ~41 ~19 ~38 ~42 ~19 wool 0
+fill ~39 ~41 ~10 ~39 ~42 ~10 wool 0
+fill ~39 ~41 ~22 ~39 ~42 ~22 wool 0
+fill ~41 ~41 ~8 ~41 ~43 ~8 wool 0
+fill ~41 ~41 ~24 ~41 ~43 ~24 wool 0
+setblock ~42 ~41 ~7 wool 8
+setblock ~42 ~41 ~25 wool 8
+fill ~53 ~41 ~14 ~53 ~42 ~14 wool 0
+fill ~53 ~41 ~18 ~53 ~42 ~18 wool 0
+fill ~54 ~41 ~11 ~54 ~42 ~11 wool 0
+fill ~54 ~41 ~21 ~54 ~42 ~21 wool 0
+fill ~55 ~41 ~9 ~55 ~42 ~9 wool 0
+fill ~55 ~41 ~23 ~55 ~42 ~23 wool 0
+fill ~70 ~41 ~14 ~70 ~42 ~14 wool 0
+fill ~70 ~41 ~18 ~70 ~42 ~18 wool 0
+fill ~71 ~41 ~11 ~71 ~42 ~11 wool 0
+fill ~71 ~41 ~21 ~71 ~42 ~21 wool 0
+fill ~72 ~41 ~9 ~72 ~42 ~9 wool 0
+fill ~72 ~41 ~23 ~72 ~42 ~23 wool 0
+fill ~98 ~41 ~13 ~98 ~42 ~13 wool 0
+fill ~98 ~41 ~14 ~98 ~41 ~19 wool 0
+fill ~99 ~41 ~10 ~99 ~42 ~10 wool 0
+fill ~99 ~41 ~11 ~99 ~41 ~12 wool 0
+fill ~99 ~41 ~20 ~99 ~41 ~22 wool 0
+setblock ~100 ~41 ~9 wool 0
+setblock ~100 ~41 ~23 wool 0
+fill ~101 ~41 ~8 ~102 ~41 ~8 wool 0
+fill ~101 ~41 ~24 ~102 ~41 ~24 wool 0
+setblock ~103 ~41 ~7 wool 8
+setblock ~103 ~41 ~25 wool 8
+fill ~38 ~42 ~14 ~38 ~43 ~14 wool 0
+fill ~38 ~42 ~18 ~38 ~43 ~18 wool 0
+fill ~39 ~42 ~11 ~39 ~43 ~11 wool 0
+fill ~39 ~42 ~12 ~39 ~43 ~12 wool 0
+fill ~39 ~42 ~20 ~39 ~43 ~20 wool 0
+fill ~39 ~42 ~21 ~39 ~43 ~21 wool 0
+fill ~40 ~42 ~9 ~40 ~43 ~9 wool 0
+fill ~40 ~42 ~23 ~40 ~43 ~23 wool 0
+fill ~42 ~42 ~8 ~42 ~44 ~8 wool 0
+fill ~42 ~42 ~24 ~42 ~44 ~24 wool 0
+fill ~43 ~42 ~7 ~43 ~43 ~7 wool 8
+fill ~43 ~42 ~25 ~43 ~43 ~25 wool 8
+setblock ~47 ~42 ~6 glowstone 0
+setblock ~47 ~42 ~26 glowstone 0
+fill ~53 ~42 ~15 ~53 ~42 ~18 wool 0
+fill ~54 ~42 ~12 ~54 ~42 ~13 wool 0
+fill ~54 ~42 ~19 ~54 ~42 ~21 wool 0
+setblock ~55 ~42 ~10 wool 0
+setblock ~55 ~42 ~22 wool 0
+setblock ~56 ~42 ~8 wool 0
+setblock ~56 ~42 ~24 wool 0
+setblock ~57 ~42 ~7 wool 0
+setblock ~57 ~42 ~25 wool 0
+setblock ~58 ~42 ~6 wool 0
+setblock ~58 ~42 ~26 wool 0
+fill ~60 ~42 ~5 ~60 ~43 ~5 wool 0
+fill ~60 ~42 ~27 ~60 ~43 ~27 wool 0
+setblock ~61 ~42 ~4 wool 8
+setblock ~61 ~42 ~28 wool 8
+fill ~70 ~42 ~15 ~70 ~42 ~18 wool 0
+fill ~71 ~42 ~12 ~71 ~42 ~13 wool 0
+fill ~71 ~42 ~19 ~71 ~42 ~21 wool 0
+setblock ~72 ~42 ~10 wool 0
+setblock ~72 ~42 ~22 wool 0
+setblock ~73 ~42 ~8 wool 0
+setblock ~73 ~42 ~24 wool 0
+setblock ~74 ~42 ~7 wool 0
+setblock ~74 ~42 ~25 wool 0
+setblock ~75 ~42 ~6 wool 0
+setblock ~75 ~42 ~26 wool 0
+fill ~77 ~42 ~5 ~77 ~43 ~5 wool 0
+fill ~77 ~42 ~27 ~77 ~43 ~27 wool 0
+setblock ~78 ~42 ~4 wool 8
+setblock ~78 ~42 ~28 wool 8
+fill ~97 ~42 ~14 ~97 ~46 ~14 wool 0
+fill ~97 ~42 ~15 ~97 ~47 ~15 wool 0
+fill ~97 ~42 ~16 ~97 ~47 ~16 wool 0
+fill ~97 ~42 ~17 ~97 ~47 ~17 wool 0
+fill ~97 ~42 ~18 ~97 ~46 ~18 wool 0
+fill ~98 ~42 ~11 ~98 ~46 ~11 wool 0
+fill ~98 ~42 ~12 ~98 ~46 ~12 wool 0
+fill ~98 ~42 ~19 ~98 ~42 ~21 wool 0
+fill ~99 ~42 ~9 ~99 ~46 ~9 wool 0
+fill ~99 ~42 ~22 ~99 ~42 ~23 wool 0
+fill ~100 ~42 ~8 ~101 ~42 ~8 wool 0
+fill ~100 ~42 ~24 ~101 ~42 ~24 wool 0
+setblock ~102 ~42 ~7 wool 8
+setblock ~102 ~42 ~25 wool 8
+fill ~38 ~43 ~15 ~38 ~43 ~18 wool 0
+fill ~39 ~43 ~13 ~39 ~44 ~13 wool 0
+fill ~39 ~43 ~19 ~39 ~44 ~19 wool 0
+fill ~40 ~43 ~10 ~40 ~44 ~10 wool 0
+fill ~40 ~43 ~22 ~40 ~44 ~22 wool 0
+fill ~54 ~43 ~14 ~54 ~43 ~18 wool 0
+fill ~55 ~43 ~11 ~55 ~43 ~13 wool 0
+fill ~55 ~43 ~19 ~55 ~43 ~21 wool 0
+fill ~56 ~43 ~9 ~56 ~43 ~10 wool 0
+fill ~56 ~43 ~22 ~56 ~43 ~23 wool 0
+setblock ~57 ~43 ~8 wool 0
+setblock ~57 ~43 ~24 wool 0
+setblock ~58 ~43 ~7 wool 0
+setblock ~58 ~43 ~25 wool 0
+setblock ~59 ~43 ~6 wool 0
+setblock ~59 ~43 ~26 wool 0
+fill ~61 ~43 ~5 ~61 ~44 ~5 wool 0
+fill ~61 ~43 ~27 ~61 ~44 ~27 wool 0
+setblock ~62 ~43 ~4 wool 8
+setblock ~62 ~43 ~28 wool 8
+fill ~71 ~43 ~14 ~71 ~43 ~18 wool 0
+fill ~72 ~43 ~11 ~72 ~43 ~13 wool 0
+fill ~72 ~43 ~19 ~72 ~43 ~21 wool 0
+fill ~73 ~43 ~9 ~73 ~43 ~10 wool 0
+fill ~73 ~43 ~22 ~73 ~43 ~23 wool 0
+setblock ~74 ~43 ~8 wool 0
+setblock ~74 ~43 ~24 wool 0
+setblock ~75 ~43 ~7 wool 0
+setblock ~75 ~43 ~25 wool 0
+setblock ~76 ~43 ~6 wool 0
+setblock ~76 ~43 ~26 wool 0
+fill ~78 ~43 ~5 ~78 ~44 ~5 wool 0
+fill ~78 ~43 ~27 ~78 ~44 ~27 wool 0
+setblock ~79 ~43 ~4 wool 8
+setblock ~79 ~43 ~28 wool 8
+fill ~97 ~43 ~13 ~97 ~45 ~13 wool 0
+fill ~97 ~43 ~19 ~97 ~45 ~19 wool 0
+fill ~98 ~43 ~10 ~98 ~45 ~10 wool 0
+fill ~98 ~43 ~20 ~98 ~46 ~20 wool 0
+fill ~98 ~43 ~21 ~98 ~46 ~21 wool 0
+fill ~98 ~43 ~22 ~98 ~45 ~22 wool 0
+fill ~99 ~43 ~23 ~99 ~46 ~23 wool 0
+fill ~100 ~43 ~8 ~100 ~46 ~8 wool 0
+fill ~100 ~43 ~24 ~100 ~46 ~24 wool 0
+fill ~101 ~43 ~7 ~101 ~45 ~7 wool 8
+fill ~101 ~43 ~25 ~101 ~45 ~25 wool 8
+fill ~39 ~44 ~14 ~41 ~44 ~14 wool 0
+fill ~39 ~44 ~15 ~40 ~44 ~15 wool 0
+fill ~39 ~44 ~16 ~40 ~44 ~16 wool 0
+fill ~39 ~44 ~17 ~40 ~44 ~17 wool 0
+fill ~39 ~44 ~18 ~41 ~44 ~18 wool 0
+fill ~40 ~44 ~11 ~42 ~44 ~11 wool 0
+fill ~40 ~44 ~12 ~41 ~44 ~12 wool 0
+fill ~40 ~44 ~13 ~41 ~44 ~13 wool 0
+fill ~40 ~44 ~19 ~41 ~44 ~19 wool 0
+fill ~40 ~44 ~20 ~41 ~44 ~20 wool 0
+fill ~40 ~44 ~21 ~42 ~44 ~21 wool 0
+fill ~41 ~44 ~9 ~43 ~44 ~9 wool 0
+fill ~41 ~44 ~10 ~42 ~44 ~10 wool 0
+fill ~41 ~44 ~22 ~42 ~44 ~22 wool 0
+fill ~41 ~44 ~23 ~43 ~44 ~23 wool 0
+fill ~43 ~44 ~8 ~44 ~44 ~8 wool 0
+fill ~43 ~44 ~24 ~44 ~44 ~24 wool 0
+fill ~44 ~44 ~7 ~45 ~44 ~7 wool 8
+fill ~44 ~44 ~25 ~45 ~44 ~25 wool 8
+fill ~55 ~44 ~14 ~57 ~44 ~14 wool 0
+fill ~55 ~44 ~15 ~56 ~44 ~15 wool 0
+fill ~55 ~44 ~16 ~56 ~44 ~16 wool 0
+fill ~55 ~44 ~17 ~56 ~44 ~17 wool 0
+fill ~55 ~44 ~18 ~57 ~44 ~18 wool 0
+fill ~56 ~44 ~11 ~58 ~44 ~11 wool 0
+fill ~56 ~44 ~12 ~57 ~44 ~12 wool 0
+fill ~56 ~44 ~13 ~57 ~44 ~13 wool 0
+fill ~56 ~44 ~19 ~57 ~44 ~19 wool 0
+fill ~56 ~44 ~20 ~57 ~44 ~20 wool 0
+fill ~56 ~44 ~21 ~58 ~44 ~21 wool 0
+fill ~57 ~44 ~9 ~58 ~44 ~9 wool 0
+fill ~57 ~44 ~10 ~58 ~44 ~10 wool 0
+fill ~57 ~44 ~22 ~58 ~44 ~22 wool 0
+fill ~57 ~44 ~23 ~58 ~44 ~23 wool 0
+fill ~58 ~44 ~8 ~59 ~44 ~8 wool 0
+fill ~58 ~44 ~24 ~59 ~44 ~24 wool 0
+fill ~59 ~44 ~7 ~60 ~44 ~7 wool 0
+fill ~59 ~44 ~25 ~60 ~44 ~25 wool 0
+fill ~60 ~44 ~6 ~61 ~44 ~6 wool 0
+fill ~60 ~44 ~26 ~61 ~44 ~26 wool 0
+fill ~62 ~44 ~5 ~63 ~44 ~5 wool 0
+fill ~62 ~44 ~27 ~63 ~44 ~27 wool 0
+fill ~63 ~44 ~4 ~64 ~44 ~4 wool 8
+fill ~63 ~44 ~28 ~64 ~44 ~28 wool 8
+fill ~72 ~44 ~14 ~74 ~44 ~14 wool 0
+fill ~72 ~44 ~15 ~73 ~44 ~15 wool 0
+fill ~72 ~44 ~16 ~73 ~44 ~16 wool 0
+fill ~72 ~44 ~17 ~73 ~44 ~17 wool 0
+fill ~72 ~44 ~18 ~74 ~44 ~18 wool 0
+fill ~73 ~44 ~11 ~75 ~44 ~11 wool 0
+fill ~73 ~44 ~12 ~74 ~44 ~12 wool 0
+fill ~73 ~44 ~13 ~74 ~44 ~13 wool 0
+fill ~73 ~44 ~19 ~74 ~44 ~19 wool 0
+fill ~73 ~44 ~20 ~74 ~44 ~20 wool 0
+fill ~73 ~44 ~21 ~75 ~44 ~21 wool 0
+fill ~74 ~44 ~9 ~75 ~44 ~9 wool 0
+fill ~74 ~44 ~10 ~75 ~44 ~10 wool 0
+fill ~74 ~44 ~22 ~75 ~44 ~22 wool 0
+fill ~74 ~44 ~23 ~75 ~44 ~23 wool 0
+fill ~75 ~44 ~8 ~76 ~44 ~8 wool 0
+fill ~75 ~44 ~24 ~76 ~44 ~24 wool 0
+fill ~76 ~44 ~7 ~77 ~44 ~7 wool 0
+fill ~76 ~44 ~25 ~77 ~44 ~25 wool 0
+fill ~77 ~44 ~6 ~78 ~44 ~6 wool 0
+fill ~77 ~44 ~26 ~78 ~44 ~26 wool 0
+fill ~79 ~44 ~5 ~80 ~44 ~5 wool 0
+fill ~79 ~44 ~27 ~80 ~44 ~27 wool 0
+fill ~80 ~44 ~4 ~81 ~44 ~4 wool 8
+fill ~80 ~44 ~28 ~81 ~44 ~28 wool 8
+fill ~41 ~45 ~15 ~41 ~45 ~17 wool 8
+fill ~42 ~45 ~12 ~42 ~45 ~14 wool 8
+fill ~42 ~45 ~18 ~42 ~45 ~20 wool 8
+fill ~43 ~45 ~10 ~43 ~45 ~11 wool 8
+fill ~43 ~45 ~21 ~43 ~45 ~22 wool 8
+setblock ~44 ~45 ~9 wool 8
+setblock ~44 ~45 ~23 wool 8
+setblock ~45 ~45 ~8 wool 8
+setblock ~45 ~45 ~24 wool 8
+setblock ~46 ~45 ~7 wool 8
+setblock ~46 ~45 ~25 wool 8
+fill ~57 ~45 ~15 ~57 ~45 ~17 wool 8
+fill ~58 ~45 ~12 ~58 ~45 ~14 wool 8
+fill ~58 ~45 ~18 ~58 ~45 ~20 wool 8
+fill ~59 ~45 ~9 ~59 ~45 ~11 wool 8
+fill ~59 ~45 ~21 ~59 ~45 ~23 wool 8
+fill ~60 ~45 ~7 ~61 ~45 ~7 wool 8
+fill ~60 ~45 ~8 ~60 ~45 ~7 wool 8
+fill ~60 ~45 ~24 ~60 ~45 ~25 wool 8
+setblock ~61 ~45 ~25 wool 8
+fill ~62 ~45 ~6 ~63 ~45 ~6 wool 8
+fill ~62 ~45 ~26 ~63 ~45 ~26 wool 8
+setblock ~64 ~45 ~5 wool 8
+setblock ~64 ~45 ~27 wool 8
+setblock ~65 ~45 ~4 wool 8
+setblock ~65 ~45 ~28 wool 8
+fill ~74 ~45 ~15 ~74 ~45 ~17 wool 8
+fill ~75 ~45 ~12 ~75 ~45 ~14 wool 8
+fill ~75 ~45 ~18 ~75 ~45 ~20 wool 8
+fill ~76 ~45 ~9 ~76 ~45 ~11 wool 8
+fill ~76 ~45 ~21 ~76 ~45 ~23 wool 8
+fill ~77 ~45 ~7 ~78 ~45 ~7 wool 8
+fill ~77 ~45 ~8 ~77 ~45 ~7 wool 8
+fill ~77 ~45 ~24 ~77 ~45 ~25 wool 8
+setblock ~78 ~45 ~25 wool 8
+fill ~79 ~45 ~6 ~80 ~45 ~6 wool 8
+fill ~79 ~45 ~26 ~80 ~45 ~26 wool 8
+setblock ~81 ~45 ~5 wool 8
+setblock ~81 ~45 ~27 wool 8
+setblock ~82 ~45 ~4 wool 8
+setblock ~82 ~45 ~28 wool 8
+fill ~42 ~46 ~15 ~42 ~46 ~17 log 5
+fill ~43 ~46 ~12 ~43 ~46 ~14 log 5
+fill ~43 ~46 ~18 ~43 ~46 ~20 log 5
+fill ~44 ~46 ~10 ~44 ~46 ~11 log 5
+fill ~44 ~46 ~21 ~44 ~46 ~22 log 5
+setblock ~45 ~46 ~9 log 9
+setblock ~45 ~46 ~23 log 9
+setblock ~46 ~46 ~8 log 9
+setblock ~46 ~46 ~24 log 9
+setblock ~47 ~46 ~7 log 5
+setblock ~47 ~46 ~25 log 5
+fill ~58 ~46 ~15 ~58 ~46 ~17 log 5
+fill ~59 ~46 ~12 ~59 ~46 ~14 log 5
+fill ~59 ~46 ~18 ~59 ~46 ~20 log 5
+fill ~60 ~46 ~9 ~60 ~46 ~11 log 5
+fill ~60 ~46 ~21 ~60 ~46 ~23 log 5
+setblock ~61 ~46 ~8 log 5
+setblock ~61 ~46 ~24 log 5
+fill ~62 ~46 ~7 ~63 ~46 ~7 log 9
+fill ~62 ~46 ~25 ~63 ~46 ~25 log 9
+setblock ~64 ~46 ~6 log 9
+setblock ~64 ~46 ~26 log 9
+setblock ~65 ~46 ~5 log 5
+setblock ~65 ~46 ~27 log 5
+setblock ~66 ~46 ~4 log 5
+setblock ~66 ~46 ~28 log 5
+fill ~75 ~46 ~15 ~75 ~46 ~17 log 5
+fill ~76 ~46 ~12 ~76 ~46 ~14 log 5
+fill ~76 ~46 ~18 ~76 ~46 ~20 log 5
+fill ~77 ~46 ~9 ~77 ~46 ~11 log 5
+fill ~77 ~46 ~21 ~77 ~46 ~23 log 5
+setblock ~78 ~46 ~8 log 5
+setblock ~78 ~46 ~24 log 5
+fill ~79 ~46 ~7 ~80 ~46 ~7 log 9
+fill ~79 ~46 ~25 ~80 ~46 ~25 log 9
+setblock ~81 ~46 ~6 log 9
+setblock ~81 ~46 ~26 log 9
+setblock ~82 ~46 ~5 log 5
+setblock ~82 ~46 ~27 log 5
+setblock ~83 ~46 ~4 log 5
+setblock ~83 ~46 ~28 log 5
+fill ~98 ~46 ~13 ~98 ~47 ~13 wool 0
+fill ~98 ~46 ~19 ~98 ~47 ~19 wool 0
+fill ~99 ~46 ~10 ~99 ~47 ~10 wool 0
+fill ~99 ~46 ~22 ~99 ~47 ~22 wool 0
+fill ~101 ~46 ~8 ~101 ~48 ~8 wool 0
+fill ~101 ~46 ~24 ~101 ~48 ~24 wool 0
+setblock ~102 ~46 ~7 wool 8
+setblock ~102 ~46 ~25 wool 8
+fill ~98 ~47 ~14 ~98 ~48 ~14 wool 0
+fill ~98 ~47 ~18 ~98 ~48 ~18 wool 0
+fill ~99 ~47 ~11 ~99 ~48 ~11 wool 0
+fill ~99 ~47 ~12 ~99 ~48 ~12 wool 0
+fill ~99 ~47 ~20 ~99 ~48 ~20 wool 0
+fill ~99 ~47 ~21 ~99 ~48 ~21 wool 0
+fill ~100 ~47 ~9 ~100 ~48 ~9 wool 0
+fill ~100 ~47 ~23 ~100 ~48 ~23 wool 0
+fill ~102 ~47 ~8 ~102 ~49 ~8 wool 0
+fill ~102 ~47 ~24 ~102 ~49 ~24 wool 0
+fill ~103 ~47 ~7 ~103 ~48 ~7 wool 8
+fill ~103 ~47 ~25 ~103 ~48 ~25 wool 8
+setblock ~107 ~47 ~6 glowstone 0
+setblock ~107 ~47 ~26 glowstone 0
+fill ~58 ~48 ~15 ~58 ~48 ~17 log 5
+fill ~59 ~48 ~12 ~59 ~48 ~14 log 5
+fill ~59 ~48 ~18 ~59 ~48 ~20 log 5
+fill ~60 ~48 ~9 ~60 ~48 ~11 log 5
+fill ~60 ~48 ~21 ~60 ~48 ~23 log 5
+fill ~61 ~48 ~6 ~61 ~48 ~8 log 5
+fill ~61 ~48 ~24 ~61 ~48 ~26 log 5
+fill ~75 ~48 ~15 ~75 ~48 ~17 log 5
+fill ~76 ~48 ~12 ~76 ~48 ~14 log 5
+fill ~76 ~48 ~18 ~76 ~48 ~20 log 5
+fill ~77 ~48 ~9 ~77 ~48 ~11 log 5
+fill ~77 ~48 ~21 ~77 ~48 ~23 log 5
+fill ~78 ~48 ~6 ~78 ~48 ~8 log 5
+fill ~78 ~48 ~24 ~78 ~48 ~26 log 5
+fill ~98 ~48 ~15 ~98 ~48 ~18 wool 0
+fill ~99 ~48 ~13 ~99 ~49 ~13 wool 0
+fill ~99 ~48 ~19 ~99 ~49 ~19 wool 0
+fill ~100 ~48 ~10 ~100 ~49 ~10 wool 0
+fill ~100 ~48 ~22 ~100 ~49 ~22 wool 0
+fill ~55 ~49 ~13 ~55 ~49 ~19 wool 8
+fill ~56 ~49 ~10 ~56 ~49 ~12 wool 8
+fill ~56 ~49 ~20 ~56 ~49 ~22 wool 8
+setblock ~57 ~49 ~9 wool 8
+setblock ~57 ~49 ~23 wool 8
+fill ~58 ~49 ~8 ~59 ~49 ~8 wool 8
+fill ~58 ~49 ~24 ~59 ~49 ~24 wool 8
+setblock ~60 ~49 ~7 wool 8
+setblock ~60 ~49 ~25 wool 8
+fill ~72 ~49 ~13 ~72 ~49 ~19 wool 8
+fill ~73 ~49 ~10 ~73 ~49 ~12 wool 8
+fill ~73 ~49 ~20 ~73 ~49 ~22 wool 8
+setblock ~74 ~49 ~9 wool 8
+setblock ~74 ~49 ~23 wool 8
+fill ~75 ~49 ~8 ~76 ~49 ~8 wool 8
+fill ~75 ~49 ~24 ~76 ~49 ~24 wool 8
+setblock ~77 ~49 ~7 wool 8
+setblock ~77 ~49 ~25 wool 8
+fill ~99 ~49 ~14 ~101 ~49 ~14 wool 0
+fill ~99 ~49 ~15 ~100 ~49 ~15 wool 0
+fill ~99 ~49 ~16 ~100 ~49 ~16 wool 0
+fill ~99 ~49 ~17 ~100 ~49 ~17 wool 0
+fill ~99 ~49 ~18 ~101 ~49 ~18 wool 0
+fill ~100 ~49 ~11 ~102 ~49 ~11 wool 0
+fill ~100 ~49 ~12 ~101 ~49 ~12 wool 0
+fill ~100 ~49 ~13 ~101 ~49 ~13 wool 0
+fill ~100 ~49 ~19 ~101 ~49 ~19 wool 0
+fill ~100 ~49 ~20 ~101 ~49 ~20 wool 0
+fill ~100 ~49 ~21 ~102 ~49 ~21 wool 0
+fill ~101 ~49 ~9 ~103 ~49 ~9 wool 0
+fill ~101 ~49 ~10 ~102 ~49 ~10 wool 0
+fill ~101 ~49 ~22 ~102 ~49 ~22 wool 0
+fill ~101 ~49 ~23 ~103 ~49 ~23 wool 0
+fill ~103 ~49 ~8 ~104 ~49 ~8 wool 0
+fill ~103 ~49 ~24 ~104 ~49 ~24 wool 0
+fill ~104 ~49 ~7 ~105 ~49 ~7 wool 8
+fill ~104 ~49 ~25 ~105 ~49 ~25 wool 8
+fill ~54 ~50 ~13 ~54 ~51 ~13 wool 0
+fill ~54 ~50 ~14 ~54 ~50 ~19 wool 0
+fill ~55 ~50 ~10 ~55 ~51 ~10 wool 0
+fill ~55 ~50 ~11 ~55 ~50 ~12 wool 0
+fill ~55 ~50 ~20 ~55 ~50 ~22 wool 0
+setblock ~56 ~50 ~9 wool 0
+setblock ~56 ~50 ~23 wool 0
+fill ~57 ~50 ~8 ~58 ~50 ~8 wool 0
+fill ~57 ~50 ~24 ~58 ~50 ~24 wool 0
+setblock ~59 ~50 ~7 wool 8
+setblock ~59 ~50 ~25 wool 8
+fill ~71 ~50 ~13 ~71 ~51 ~13 wool 0
+fill ~71 ~50 ~14 ~71 ~50 ~19 wool 0
+fill ~72 ~50 ~10 ~72 ~51 ~10 wool 0
+fill ~72 ~50 ~11 ~72 ~50 ~12 wool 0
+fill ~72 ~50 ~20 ~72 ~50 ~22 wool 0
+setblock ~73 ~50 ~9 wool 0
+setblock ~73 ~50 ~23 wool 0
+fill ~74 ~50 ~8 ~75 ~50 ~8 wool 0
+fill ~74 ~50 ~24 ~75 ~50 ~24 wool 0
+setblock ~76 ~50 ~7 wool 8
+setblock ~76 ~50 ~25 wool 8
+fill ~101 ~50 ~15 ~101 ~50 ~17 wool 8
+fill ~102 ~50 ~12 ~102 ~50 ~14 wool 8
+fill ~102 ~50 ~18 ~102 ~50 ~20 wool 8
+fill ~103 ~50 ~10 ~103 ~50 ~11 wool 8
+fill ~103 ~50 ~21 ~103 ~50 ~22 wool 8
+setblock ~104 ~50 ~9 wool 8
+setblock ~104 ~50 ~23 wool 8
+setblock ~105 ~50 ~8 wool 8
+setblock ~105 ~50 ~24 wool 8
+setblock ~106 ~50 ~7 wool 8
+setblock ~106 ~50 ~25 wool 8
+fill ~53 ~51 ~14 ~53 ~55 ~14 wool 0
+fill ~53 ~51 ~15 ~53 ~56 ~15 wool 0
+fill ~53 ~51 ~16 ~53 ~56 ~16 wool 0
+fill ~53 ~51 ~17 ~53 ~56 ~17 wool 0
+fill ~53 ~51 ~18 ~53 ~55 ~18 wool 0
+fill ~54 ~51 ~11 ~54 ~55 ~11 wool 0
+fill ~54 ~51 ~12 ~54 ~55 ~12 wool 0
+fill ~54 ~51 ~19 ~54 ~51 ~21 wool 0
+fill ~55 ~51 ~9 ~55 ~55 ~9 wool 0
+fill ~55 ~51 ~22 ~55 ~51 ~23 wool 0
+fill ~56 ~51 ~8 ~57 ~51 ~8 wool 0
+fill ~56 ~51 ~24 ~57 ~51 ~24 wool 0
+setblock ~58 ~51 ~7 wool 8
+setblock ~58 ~51 ~25 wool 8
+fill ~70 ~51 ~14 ~70 ~55 ~14 wool 0
+fill ~70 ~51 ~15 ~70 ~56 ~15 wool 0
+fill ~70 ~51 ~16 ~70 ~56 ~16 wool 0
+fill ~70 ~51 ~17 ~70 ~56 ~17 wool 0
+fill ~70 ~51 ~18 ~70 ~55 ~18 wool 0
+fill ~71 ~51 ~11 ~71 ~55 ~11 wool 0
+fill ~71 ~51 ~12 ~71 ~55 ~12 wool 0
+fill ~71 ~51 ~19 ~71 ~51 ~21 wool 0
+fill ~72 ~51 ~9 ~72 ~55 ~9 wool 0
+fill ~72 ~51 ~22 ~72 ~51 ~23 wool 0
+fill ~73 ~51 ~8 ~74 ~51 ~8 wool 0
+fill ~73 ~51 ~24 ~74 ~51 ~24 wool 0
+setblock ~75 ~51 ~7 wool 8
+setblock ~75 ~51 ~25 wool 8
+fill ~102 ~51 ~15 ~102 ~51 ~17 log 5
+fill ~103 ~51 ~12 ~103 ~51 ~14 log 5
+fill ~103 ~51 ~18 ~103 ~51 ~20 log 5
+fill ~104 ~51 ~10 ~104 ~51 ~11 log 5
+fill ~104 ~51 ~21 ~104 ~51 ~22 log 5
+setblock ~105 ~51 ~9 log 9
+setblock ~105 ~51 ~23 log 9
+setblock ~106 ~51 ~8 log 9
+setblock ~106 ~51 ~24 log 9
+setblock ~107 ~51 ~7 log 5
+setblock ~107 ~51 ~25 log 5
+fill ~53 ~52 ~13 ~53 ~54 ~13 wool 0
+fill ~53 ~52 ~19 ~53 ~54 ~19 wool 0
+fill ~54 ~52 ~10 ~54 ~54 ~10 wool 0
+fill ~54 ~52 ~20 ~54 ~55 ~20 wool 0
+fill ~54 ~52 ~21 ~54 ~55 ~21 wool 0
+fill ~54 ~52 ~22 ~54 ~54 ~22 wool 0
+fill ~55 ~52 ~23 ~55 ~55 ~23 wool 0
+fill ~56 ~52 ~8 ~56 ~55 ~8 wool 0
+fill ~56 ~52 ~24 ~56 ~55 ~24 wool 0
+fill ~57 ~52 ~7 ~57 ~54 ~7 wool 8
+fill ~57 ~52 ~25 ~57 ~54 ~25 wool 8
+fill ~70 ~52 ~13 ~70 ~54 ~13 wool 0
+fill ~70 ~52 ~19 ~70 ~54 ~19 wool 0
+fill ~71 ~52 ~10 ~71 ~54 ~10 wool 0
+fill ~71 ~52 ~20 ~71 ~55 ~20 wool 0
+fill ~71 ~52 ~21 ~71 ~55 ~21 wool 0
+fill ~71 ~52 ~22 ~71 ~54 ~22 wool 0
+fill ~72 ~52 ~23 ~72 ~55 ~23 wool 0
+fill ~73 ~52 ~8 ~73 ~55 ~8 wool 0
+fill ~73 ~52 ~24 ~73 ~55 ~24 wool 0
+fill ~74 ~52 ~7 ~74 ~54 ~7 wool 8
+fill ~74 ~52 ~25 ~74 ~54 ~25 wool 8
+setblock ~44 ~53 ~16 wool 0
+fill ~45 ~53 ~15 ~45 ~55 ~15 wool 14
+setblock ~46 ~53 ~15 wool 0
+fill ~47 ~53 ~14 ~48 ~53 ~14 wool 0
+fill ~49 ~53 ~13 ~50 ~53 ~13 wool 0
+setblock ~44 ~54 ~16 wool 14
+setblock ~46 ~54 ~15 wool 14
+fill ~47 ~54 ~14 ~48 ~54 ~14 wool 14
+setblock ~43 ~55 ~16 wool 0
+setblock ~44 ~55 ~15 wool 0
+setblock ~46 ~55 ~15 wool 0
+fill ~54 ~55 ~13 ~54 ~56 ~13 wool 0
+fill ~54 ~55 ~19 ~54 ~56 ~19 wool 0
+fill ~55 ~55 ~10 ~55 ~56 ~10 wool 0
+fill ~55 ~55 ~22 ~55 ~56 ~22 wool 0
+fill ~57 ~55 ~8 ~57 ~57 ~8 wool 0
+fill ~57 ~55 ~24 ~57 ~57 ~24 wool 0
+setblock ~58 ~55 ~7 wool 8
+setblock ~58 ~55 ~25 wool 8
+fill ~71 ~55 ~13 ~71 ~56 ~13 wool 0
+fill ~71 ~55 ~19 ~71 ~56 ~19 wool 0
+fill ~72 ~55 ~10 ~72 ~56 ~10 wool 0
+fill ~72 ~55 ~22 ~72 ~56 ~22 wool 0
+fill ~74 ~55 ~8 ~74 ~57 ~8 wool 0
+fill ~74 ~55 ~24 ~74 ~57 ~24 wool 0
+setblock ~75 ~55 ~7 wool 8
+setblock ~75 ~55 ~25 wool 8
+fill ~54 ~56 ~14 ~54 ~57 ~14 wool 0
+fill ~54 ~56 ~18 ~54 ~57 ~18 wool 0
+fill ~55 ~56 ~11 ~55 ~57 ~11 wool 0
+fill ~55 ~56 ~12 ~55 ~57 ~12 wool 0
+fill ~55 ~56 ~20 ~55 ~57 ~20 wool 0
+fill ~55 ~56 ~21 ~55 ~57 ~21 wool 0
+fill ~56 ~56 ~9 ~56 ~57 ~9 wool 0
+fill ~56 ~56 ~23 ~56 ~57 ~23 wool 0
+fill ~58 ~56 ~8 ~58 ~58 ~8 wool 0
+fill ~58 ~56 ~24 ~58 ~58 ~24 wool 0
+fill ~59 ~56 ~7 ~59 ~57 ~7 wool 8
+fill ~59 ~56 ~25 ~59 ~57 ~25 wool 8
+setblock ~63 ~56 ~6 glowstone 0
+setblock ~63 ~56 ~26 glowstone 0
+fill ~71 ~56 ~14 ~71 ~57 ~14 wool 0
+fill ~71 ~56 ~18 ~71 ~57 ~18 wool 0
+fill ~72 ~56 ~11 ~72 ~57 ~11 wool 0
+fill ~72 ~56 ~12 ~72 ~57 ~12 wool 0
+fill ~72 ~56 ~20 ~72 ~57 ~20 wool 0
+fill ~72 ~56 ~21 ~72 ~57 ~21 wool 0
+fill ~73 ~56 ~9 ~73 ~57 ~9 wool 0
+fill ~73 ~56 ~23 ~73 ~57 ~23 wool 0
+fill ~75 ~56 ~8 ~75 ~58 ~8 wool 0
+fill ~75 ~56 ~24 ~75 ~58 ~24 wool 0
+fill ~76 ~56 ~7 ~76 ~57 ~7 wool 8
+fill ~76 ~56 ~25 ~76 ~57 ~25 wool 8
+setblock ~80 ~56 ~6 glowstone 0
+setblock ~80 ~56 ~26 glowstone 0
+fill ~54 ~57 ~15 ~54 ~57 ~18 wool 0
+fill ~55 ~57 ~13 ~55 ~58 ~13 wool 0
+fill ~55 ~57 ~19 ~55 ~58 ~19 wool 0
+fill ~56 ~57 ~10 ~56 ~58 ~10 wool 0
+fill ~56 ~57 ~22 ~56 ~58 ~22 wool 0
+fill ~71 ~57 ~15 ~71 ~57 ~18 wool 0
+fill ~72 ~57 ~13 ~72 ~58 ~13 wool 0
+fill ~72 ~57 ~19 ~72 ~58 ~19 wool 0
+fill ~73 ~57 ~10 ~73 ~58 ~10 wool 0
+fill ~73 ~57 ~22 ~73 ~58 ~22 wool 0
+setblock ~104 ~57 ~16 wool 0
+fill ~105 ~57 ~15 ~105 ~59 ~15 wool 14
+setblock ~106 ~57 ~15 wool 0
+fill ~107 ~57 ~14 ~108 ~57 ~14 wool 0
+fill ~109 ~57 ~13 ~110 ~57 ~13 wool 0
+fill ~55 ~58 ~14 ~57 ~58 ~14 wool 0
+fill ~55 ~58 ~15 ~56 ~58 ~15 wool 0
+fill ~55 ~58 ~16 ~56 ~58 ~16 wool 0
+fill ~55 ~58 ~17 ~56 ~58 ~17 wool 0
+fill ~55 ~58 ~18 ~57 ~58 ~18 wool 0
+fill ~56 ~58 ~11 ~58 ~58 ~11 wool 0
+fill ~56 ~58 ~12 ~57 ~58 ~12 wool 0
+fill ~56 ~58 ~13 ~57 ~58 ~13 wool 0
+fill ~56 ~58 ~19 ~57 ~58 ~19 wool 0
+fill ~56 ~58 ~20 ~57 ~58 ~20 wool 0
+fill ~56 ~58 ~21 ~58 ~58 ~21 wool 0
+fill ~57 ~58 ~9 ~59 ~58 ~9 wool 0
+fill ~57 ~58 ~10 ~58 ~58 ~10 wool 0
+fill ~57 ~58 ~22 ~58 ~58 ~22 wool 0
+fill ~57 ~58 ~23 ~59 ~58 ~23 wool 0
+fill ~59 ~58 ~8 ~60 ~58 ~8 wool 0
+fill ~59 ~58 ~24 ~60 ~58 ~24 wool 0
+fill ~60 ~58 ~7 ~61 ~58 ~7 wool 8
+fill ~60 ~58 ~25 ~61 ~58 ~25 wool 8
+fill ~72 ~58 ~14 ~74 ~58 ~14 wool 0
+fill ~72 ~58 ~15 ~73 ~58 ~15 wool 0
+fill ~72 ~58 ~16 ~73 ~58 ~16 wool 0
+fill ~72 ~58 ~17 ~73 ~58 ~17 wool 0
+fill ~72 ~58 ~18 ~74 ~58 ~18 wool 0
+fill ~73 ~58 ~11 ~75 ~58 ~11 wool 0
+fill ~73 ~58 ~12 ~74 ~58 ~12 wool 0
+fill ~73 ~58 ~13 ~74 ~58 ~13 wool 0
+fill ~73 ~58 ~19 ~74 ~58 ~19 wool 0
+fill ~73 ~58 ~20 ~74 ~58 ~20 wool 0
+fill ~73 ~58 ~21 ~75 ~58 ~21 wool 0
+fill ~74 ~58 ~9 ~76 ~58 ~9 wool 0
+fill ~74 ~58 ~10 ~75 ~58 ~10 wool 0
+fill ~74 ~58 ~22 ~75 ~58 ~22 wool 0
+fill ~74 ~58 ~23 ~76 ~58 ~23 wool 0
+fill ~76 ~58 ~8 ~77 ~58 ~8 wool 0
+fill ~76 ~58 ~24 ~77 ~58 ~24 wool 0
+fill ~77 ~58 ~7 ~78 ~58 ~7 wool 8
+fill ~77 ~58 ~25 ~78 ~58 ~25 wool 8
+setblock ~104 ~58 ~16 wool 14
+setblock ~106 ~58 ~15 wool 14
+fill ~107 ~58 ~14 ~108 ~58 ~14 wool 14
+fill ~57 ~59 ~15 ~57 ~59 ~17 wool 8
+fill ~58 ~59 ~12 ~58 ~59 ~14 wool 8
+fill ~58 ~59 ~18 ~58 ~59 ~20 wool 8
+fill ~59 ~59 ~10 ~59 ~59 ~11 wool 8
+fill ~59 ~59 ~21 ~59 ~59 ~22 wool 8
+setblock ~60 ~59 ~9 wool 8
+setblock ~60 ~59 ~23 wool 8
+setblock ~61 ~59 ~8 wool 8
+setblock ~61 ~59 ~24 wool 8
+setblock ~62 ~59 ~7 wool 8
+setblock ~62 ~59 ~25 wool 8
+fill ~74 ~59 ~15 ~74 ~59 ~17 wool 8
+fill ~75 ~59 ~12 ~75 ~59 ~14 wool 8
+fill ~75 ~59 ~18 ~75 ~59 ~20 wool 8
+fill ~76 ~59 ~10 ~76 ~59 ~11 wool 8
+fill ~76 ~59 ~21 ~76 ~59 ~22 wool 8
+setblock ~77 ~59 ~9 wool 8
+setblock ~77 ~59 ~23 wool 8
+setblock ~78 ~59 ~8 wool 8
+setblock ~78 ~59 ~24 wool 8
+setblock ~79 ~59 ~7 wool 8
+setblock ~79 ~59 ~25 wool 8
+setblock ~103 ~59 ~16 wool 0
+setblock ~104 ~59 ~15 wool 0
+setblock ~106 ~59 ~15 wool 0
+fill ~58 ~60 ~15 ~58 ~60 ~17 log 5
+fill ~59 ~60 ~12 ~59 ~60 ~14 log 5
+fill ~59 ~60 ~18 ~59 ~60 ~20 log 5
+fill ~60 ~60 ~10 ~60 ~60 ~11 log 5
+fill ~60 ~60 ~21 ~60 ~60 ~22 log 5
+setblock ~61 ~60 ~9 log 9
+setblock ~61 ~60 ~23 log 9
+setblock ~62 ~60 ~8 log 9
+setblock ~62 ~60 ~24 log 9
+setblock ~63 ~60 ~7 log 5
+setblock ~63 ~60 ~25 log 5
+fill ~75 ~60 ~15 ~75 ~60 ~17 log 5
+fill ~76 ~60 ~12 ~76 ~60 ~14 log 5
+fill ~76 ~60 ~18 ~76 ~60 ~20 log 5
+fill ~77 ~60 ~10 ~77 ~60 ~11 log 5
+fill ~77 ~60 ~21 ~77 ~60 ~22 log 5
+setblock ~78 ~60 ~9 log 9
+setblock ~78 ~60 ~23 log 9
+setblock ~79 ~60 ~8 log 9
+setblock ~79 ~60 ~24 log 9
+setblock ~80 ~60 ~7 log 5
+setblock ~80 ~60 ~25 log 5
+setblock ~77 ~67 ~16 wool 0
+fill ~78 ~67 ~15 ~78 ~69 ~15 wool 14
+setblock ~79 ~67 ~15 wool 0
+fill ~80 ~67 ~14 ~81 ~67 ~14 wool 0
+fill ~82 ~67 ~13 ~83 ~67 ~13 wool 0
+setblock ~77 ~68 ~16 wool 14
+setblock ~79 ~68 ~15 wool 14
+fill ~80 ~68 ~14 ~81 ~68 ~14 wool 14
+fill ~58 ~69 ~15 ~58 ~69 ~17 log 5
+fill ~59 ~69 ~14 ~60 ~69 ~14 log 9
+fill ~59 ~69 ~18 ~60 ~69 ~18 log 9
+setblock ~76 ~69 ~16 wool 0
+setblock ~77 ~69 ~15 wool 0
+setblock ~79 ~69 ~15 wool 0
+setblock ~60 ~76 ~16 wool 0
+fill ~61 ~76 ~15 ~61 ~78 ~15 wool 14
+setblock ~62 ~76 ~15 wool 0
+fill ~63 ~76 ~14 ~64 ~76 ~14 wool 0
+fill ~65 ~76 ~13 ~66 ~76 ~13 wool 0
+setblock ~60 ~77 ~16 wool 14
+setblock ~62 ~77 ~15 wool 14
+fill ~63 ~77 ~14 ~64 ~77 ~14 wool 14
+setblock ~59 ~78 ~16 wool 0
+setblock ~60 ~78 ~15 wool 0
+setblock ~62 ~78 ~15 wool 0

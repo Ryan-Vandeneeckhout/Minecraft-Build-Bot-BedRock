@@ -1,0 +1,1804 @@
+fill ~0~77~1 ~6~78~1 minecraft:concrete 15
+fill ~0~79~1 ~2~84~1 minecraft:concrete 15
+fill ~1~76~1 ~6~76~1 minecraft:concrete 15
+fill ~1~85~1 ~124~85~1 minecraft:concrete 15
+fill ~3~79~1 ~3~80~1 minecraft:concrete 0
+setblock ~3~81~1 minecraft:wool 8
+fill ~3~82~1 ~4~82~1 minecraft:concrete 0
+fill ~3~83~1 ~124~84~1 minecraft:concrete 15
+fill ~4~64~1 ~13~65~1 minecraft:concrete 15
+fill ~4~66~1 ~6~75~1 minecraft:concrete 15
+fill ~4~79~1 ~6~79~1 minecraft:concrete 8
+fill ~4~80~1 ~5~81~1 minecraft:concrete 0
+setblock ~5~82~1 minecraft:wool 8
+fill ~6~63~1 ~11~63~1 minecraft:concrete 15
+setblock ~6~80~1 minecraft:concrete 8
+setblock ~6~81~1 minecraft:wool 8
+setblock ~6~82~1 minecraft:concrete 0
+fill ~7~66~1 ~11~66~1 minecraft:concrete 7
+fill ~7~67~1 ~11~67~1 minecraft:concrete 0
+fill ~7~68~1 ~9~69~1 minecraft:concrete 0
+setblock ~7~70~1 minecraft:wool 8
+fill ~7~71~1 ~7~77~1 minecraft:concrete 0
+fill ~7~78~1 ~7~79~1 minecraft:wool 8
+fill ~7~80~1 ~12~81~1 minecraft:concrete 0
+setblock ~7~82~1 minecraft:wool 8
+fill ~8~70~1 ~11~70~1 minecraft:concrete 0
+fill ~8~71~1 ~9~71~1 minecraft:wool 8
+fill ~8~72~1 ~10~72~1 minecraft:concrete 0
+fill ~8~73~1 ~10~73~1 minecraft:wool 8
+fill ~8~74~1 ~11~74~1 minecraft:concrete 0
+fill ~8~75~1 ~10~76~1 minecraft:concrete 0
+fill ~8~77~1 ~8~79~1 minecraft:concrete 0
+fill ~8~82~1 ~14~82~1 minecraft:concrete 0
+setblock ~9~77~1 minecraft:wool 8
+fill ~9~78~1 ~9~79~1 minecraft:concrete 0
+setblock ~10~68~1 minecraft:wool 8
+fill ~10~69~1 ~11~69~1 minecraft:concrete 0
+fill ~10~71~1 ~11~71~1 minecraft:concrete 0
+fill ~10~77~1 ~11~77~1 minecraft:concrete 0
+setblock ~10~78~1 minecraft:wool 8
+setblock ~10~79~1 minecraft:concrete 0
+setblock ~11~68~1 minecraft:concrete 0
+setblock ~11~72~1 minecraft:concrete 8
+setblock ~11~73~1 minecraft:concrete 0
+setblock ~11~75~1 minecraft:wool 8
+setblock ~11~76~1 minecraft:concrete 0
+setblock ~11~78~1 minecraft:concrete 0
+setblock ~11~79~1 minecraft:concrete 15
+fill ~12~66~1 ~18~78~1 minecraft:concrete 15
+fill ~12~79~1 ~14~79~1 minecraft:concrete 0
+fill ~13~80~1 ~14~80~1 minecraft:wool 8
+fill ~13~81~1 ~14~81~1 minecraft:concrete 0
+setblock ~14~65~1 minecraft:concrete 15
+fill ~15~79~1 ~15~82~1 minecraft:concrete 8
+fill ~16~64~1 ~75~65~1 minecraft:concrete 15
+fill ~16~79~1 ~18~82~1 minecraft:concrete 15
+fill ~18~63~1 ~23~63~1 minecraft:concrete 15
+fill ~19~66~1 ~21~66~1 minecraft:wool 7
+fill ~19~67~1 ~21~70~1 minecraft:concrete 0
+setblock ~19~71~1 minecraft:concrete 0
+setblock ~19~72~1 minecraft:concrete 7
+setblock ~19~73~1 minecraft:wool 8
+fill ~19~74~1 ~22~74~1 minecraft:concrete 0
+fill ~19~75~1 ~19~82~1 minecraft:concrete 0
+setblock ~20~71~1 minecraft:concrete 8
+setblock ~20~72~1 minecraft:wool 8
+fill ~20~73~1 ~31~73~1 minecraft:concrete 0
+setblock ~20~75~1 minecraft:wool 7
+fill ~20~76~1 ~20~82~1 minecraft:concrete 0
+fill ~21~71~1 ~23~72~1 minecraft:concrete 0
+fill ~21~75~1 ~23~75~1 minecraft:wool 8
+setblock ~21~76~1 minecraft:wool 8
+fill ~21~77~1 ~21~82~1 minecraft:concrete 0
+setblock ~22~66~1 minecraft:concrete 7
+setblock ~22~67~1 minecraft:concrete 8
+setblock ~22~68~1 minecraft:concrete 7
+setblock ~22~69~1 minecraft:concrete 8
+fill ~22~70~1 ~23~70~1 minecraft:concrete 0
+fill ~22~76~1 ~25~76~1 minecraft:concrete 0
+setblock ~22~77~1 minecraft:concrete 8
+setblock ~22~78~1 minecraft:wool 8
+fill ~22~79~1 ~23~79~1 minecraft:concrete 0
+setblock ~22~80~1 minecraft:wool 8
+fill ~22~81~1 ~23~82~1 minecraft:concrete 0
+setblock ~23~66~1 minecraft:wool 7
+fill ~23~67~1 ~23~69~1 minecraft:concrete 0
+fill ~23~74~1 ~25~74~1 minecraft:wool 8
+fill ~23~77~1 ~23~78~1 minecraft:concrete 0
+setblock ~23~80~1 minecraft:concrete 0
+fill ~24~66~1 ~26~72~1 minecraft:concrete 15
+fill ~24~75~1 ~25~75~1 minecraft:concrete 0
+fill ~24~77~1 ~26~82~1 minecraft:concrete 15
+fill ~26~63~1 ~32~63~1 minecraft:concrete 15
+fill ~26~74~1 ~31~74~1 minecraft:concrete 0
+fill ~26~75~1 ~26~76~1 minecraft:wool 8
+fill ~27~66~1 ~31~66~1 minecraft:wool 7
+fill ~27~67~1 ~29~67~1 minecraft:concrete 0
+fill ~27~68~1 ~28~68~1 minecraft:concrete 0
+fill ~27~69~1 ~27~70~1 minecraft:wool 8
+fill ~27~71~1 ~27~72~1 minecraft:concrete 0
+fill ~27~75~1 ~28~75~1 minecraft:concrete 0
+setblock ~27~76~1 minecraft:concrete 8
+fill ~27~77~1 ~28~78~1 minecraft:concrete 0
+fill ~27~79~1 ~27~82~1 minecraft:concrete 0
+fill ~28~69~1 ~29~69~1 minecraft:concrete 0
+setblock ~28~70~1 minecraft:concrete 8
+setblock ~28~71~1 minecraft:wool 8
+fill ~28~72~1 ~31~72~1 minecraft:concrete 0
+setblock ~28~76~1 minecraft:concrete 0
+setblock ~28~79~1 minecraft:wool 15
+fill ~28~80~1 ~31~82~1 minecraft:concrete 0
+setblock ~29~68~1 minecraft:wool 8
+fill ~29~70~1 ~31~71~1 minecraft:concrete 0
+setblock ~29~75~1 minecraft:concrete 0
+fill ~29~76~1 ~30~76~1 minecraft:wool 8
+fill ~29~77~1 ~29~78~1 minecraft:wool 8
+fill ~29~79~1 ~30~79~1 minecraft:concrete 0
+fill ~30~67~1 ~31~67~1 minecraft:wool 8
+setblock ~30~68~1 minecraft:wool 7
+fill ~30~69~1 ~31~69~1 minecraft:wool 8
+setblock ~30~75~1 minecraft:wool 8
+setblock ~30~77~1 minecraft:concrete 8
+setblock ~30~78~1 minecraft:wool 8
+setblock ~31~68~1 minecraft:wool 8
+fill ~31~75~1 ~31~76~1 minecraft:concrete 0
+setblock ~31~77~1 minecraft:wool 8
+setblock ~31~78~1 minecraft:concrete 0
+setblock ~31~79~1 minecraft:wool 8
+fill ~32~66~1 ~34~82~1 minecraft:concrete 15
+fill ~35~63~1 ~47~63~1 minecraft:concrete 15
+setblock ~35~66~1 minecraft:wool 7
+fill ~35~67~1 ~46~67~1 minecraft:concrete 0
+fill ~35~68~1 ~35~74~1 minecraft:concrete 0
+setblock ~35~75~1 minecraft:concrete 8
+fill ~35~76~1 ~36~76~1 minecraft:concrete 0
+fill ~35~77~1 ~43~78~1 minecraft:concrete 15
+fill ~35~79~1 ~36~82~1 minecraft:concrete 0
+fill ~36~66~1 ~39~66~1 minecraft:concrete 7
+fill ~36~68~1 ~37~68~1 minecraft:wool 8
+fill ~36~69~1 ~48~70~1 minecraft:concrete 0
+fill ~36~71~1 ~38~74~1 minecraft:concrete 0
+setblock ~36~75~1 minecraft:wool 7
+fill ~37~75~1 ~41~75~1 minecraft:concrete 0
+setblock ~37~76~1 minecraft:wool 8
+fill ~37~79~1 ~37~80~1 minecraft:wool 8
+fill ~37~81~1 ~37~82~1 minecraft:concrete 0
+setblock ~38~68~1 minecraft:wool 7
+fill ~38~76~1 ~41~76~1 minecraft:concrete 0
+fill ~38~79~1 ~38~80~1 minecraft:concrete 0
+setblock ~38~81~1 minecraft:concrete 0
+fill ~38~82~1 ~46~82~1 minecraft:concrete 0
+setblock ~39~68~1 minecraft:concrete 8
+fill ~39~71~1 ~43~72~1 minecraft:concrete 15
+fill ~39~73~1 ~39~74~1 minecraft:concrete 0
+fill ~39~79~1 ~40~79~1 minecraft:wool 8
+fill ~39~80~1 ~48~80~1 minecraft:concrete 0
+fill ~39~81~1 ~42~81~1 minecraft:concrete 0
+fill ~40~66~1 ~43~66~1 minecraft:wool 7
+setblock ~40~68~1 minecraft:concrete 0
+setblock ~40~73~1 minecraft:wool 8
+fill ~40~74~1 ~41~74~1 minecraft:concrete 0
+fill ~41~68~1 ~44~68~1 minecraft:wool 8
+setblock ~41~73~1 minecraft:concrete 0
+fill ~41~79~1 ~42~79~1 minecraft:concrete 0
+fill ~42~73~1 ~43~76~1 minecraft:concrete 15
+setblock ~43~79~1 minecraft:wool 8
+fill ~43~81~1 ~44~81~1 minecraft:wool 8
+fill ~44~66~1 ~45~66~1 minecraft:concrete 7
+setblock ~44~71~1 minecraft:wool 8
+setblock ~44~72~1 minecraft:concrete 8
+fill ~44~73~1 ~44~76~1 minecraft:concrete 0
+fill ~44~77~1 ~44~78~1 minecraft:wool 8
+fill ~44~79~1 ~46~79~1 minecraft:concrete 0
+fill ~45~68~1 ~48~68~1 minecraft:concrete 0
+fill ~45~71~1 ~48~71~1 minecraft:concrete 0
+fill ~45~72~1 ~45~73~1 minecraft:wool 8
+fill ~45~74~1 ~48~74~1 minecraft:concrete 0
+fill ~45~75~1 ~45~77~1 minecraft:concrete 0
+setblock ~45~78~1 minecraft:wool 8
+fill ~45~81~1 ~46~81~1 minecraft:concrete 0
+setblock ~46~66~1 minecraft:wool 7
+fill ~46~72~1 ~48~72~1 minecraft:concrete 0
+fill ~46~73~1 ~47~73~1 minecraft:wool 8
+setblock ~46~75~1 minecraft:wool 8
+fill ~46~76~1 ~48~78~1 minecraft:concrete 0
+setblock ~47~66~1 minecraft:wool 15
+setblock ~47~67~1 minecraft:concrete 8
+fill ~47~75~1 ~48~75~1 minecraft:concrete 0
+setblock ~47~79~1 minecraft:wool 8
+fill ~47~81~1 ~48~81~1 minecraft:wool 8
+setblock ~47~82~1 minecraft:concrete 8
+fill ~48~53~1 ~49~53~1 minecraft:concrete 15
+fill ~48~54~1 ~48~55~1 minecraft:concrete 15
+fill ~48~57~1 ~48~58~1 minecraft:concrete 15
+fill ~48~66~1 ~51~67~1 minecraft:concrete 15
+setblock ~48~73~1 minecraft:concrete 0
+setblock ~48~79~1 minecraft:concrete 0
+fill ~48~82~1 ~51~82~1 minecraft:concrete 15
+fill ~49~52~1 ~55~52~1 minecraft:concrete 15
+setblock ~49~54~1 minecraft:concrete 4
+fill ~49~55~1 ~49~56~1 minecraft:concrete 15
+fill ~49~57~1 ~53~57~1 minecraft:concrete 4
+fill ~49~58~1 ~55~58~1 minecraft:concrete 15
+fill ~49~68~1 ~51~81~1 minecraft:concrete 15
+fill ~50~53~1 ~54~53~1 minecraft:concrete 4
+fill ~50~54~1 ~54~54~1 minecraft:concrete 15
+fill ~50~55~1 ~53~55~1 minecraft:concrete 4
+fill ~50~56~1 ~52~56~1 minecraft:concrete 15
+fill ~52~63~1 ~57~63~1 minecraft:concrete 15
+setblock ~52~66~1 minecraft:concrete 7
+setblock ~52~67~1 minecraft:wool 8
+setblock ~52~68~1 minecraft:concrete 0
+fill ~52~69~1 ~52~82~1 minecraft:wool 8
+setblock ~53~56~1 minecraft:wool 15
+setblock ~53~66~1 minecraft:wool 7
+fill ~53~67~1 ~56~67~1 minecraft:concrete 0
+setblock ~53~68~1 minecraft:concrete 0
+fill ~53~69~1 ~54~69~1 minecraft:concrete 0
+setblock ~53~70~1 minecraft:wool 8
+fill ~53~71~1 ~56~71~1 minecraft:concrete 0
+fill ~53~72~1 ~55~79~1 minecraft:concrete 0
+fill ~53~80~1 ~53~81~1 minecraft:wool 8
+fill ~53~82~1 ~56~82~1 minecraft:concrete 0
+setblock ~54~55~1 minecraft:concrete 15
+setblock ~54~56~1 minecraft:concrete 4
+fill ~54~57~1 ~56~57~1 minecraft:concrete 15
+setblock ~54~66~1 minecraft:concrete 7
+fill ~54~68~1 ~56~68~1 minecraft:concrete 0
+fill ~54~70~1 ~56~70~1 minecraft:concrete 0
+fill ~54~80~1 ~56~80~1 minecraft:concrete 0
+fill ~54~81~1 ~57~81~1 minecraft:wool 8
+setblock ~55~53~1 minecraft:concrete 15
+fill ~55~56~1 ~57~56~1 minecraft:concrete 15
+fill ~55~59~1 ~55~60~1 minecraft:concrete 15
+setblock ~55~66~1 minecraft:wool 7
+setblock ~55~69~1 minecraft:wool 8
+fill ~56~58~1 ~56~59~1 minecraft:concrete 4
+fill ~56~60~1 ~73~60~1 minecraft:concrete 15
+fill ~56~66~1 ~57~66~1 minecraft:concrete 7
+setblock ~56~69~1 minecraft:concrete 0
+fill ~56~72~1 ~56~76~1 minecraft:wool 8
+fill ~56~77~1 ~56~79~1 minecraft:concrete 0
+setblock ~57~57~1 minecraft:concrete 4
+fill ~57~58~1 ~60~58~1 minecraft:concrete 15
+fill ~57~59~1 ~58~59~1 minecraft:concrete 15
+fill ~57~67~1 ~57~71~1 minecraft:wool 8
+setblock ~57~72~1 minecraft:concrete 8
+fill ~57~73~1 ~57~78~1 minecraft:wool 8
+setblock ~57~79~1 minecraft:concrete 8
+setblock ~57~80~1 minecraft:wool 8
+setblock ~57~82~1 minecraft:wool 8
+setblock ~58~57~1 minecraft:concrete 15
+fill ~58~66~1 ~60~82~1 minecraft:concrete 15
+fill ~59~59~1 ~63~59~1 minecraft:concrete 4
+fill ~60~52~1 ~62~52~1 minecraft:concrete 15
+fill ~60~53~1 ~60~57~1 minecraft:concrete 15
+fill ~60~63~1 ~73~63~1 minecraft:concrete 15
+fill ~61~53~1 ~61~58~1 minecraft:concrete 4
+fill ~61~66~1 ~62~66~1 minecraft:concrete 7
+fill ~61~67~1 ~62~70~1 minecraft:concrete 0
+fill ~61~71~1 ~62~71~1 minecraft:wool 8
+fill ~61~72~1 ~63~72~1 minecraft:concrete 0
+setblock ~61~73~1 minecraft:concrete 15
+fill ~61~74~1 ~72~74~1 minecraft:concrete 0
+fill ~61~75~1 ~64~78~1 minecraft:concrete 0
+fill ~61~79~1 ~63~80~1 minecraft:concrete 0
+fill ~61~81~1 ~61~82~1 minecraft:concrete 0
+fill ~62~53~1 ~62~58~1 minecraft:concrete 15
+fill ~62~73~1 ~63~73~1 minecraft:wool 8
+setblock ~62~81~1 minecraft:wool 8
+fill ~62~82~1 ~64~82~1 minecraft:concrete 0
+fill ~63~58~1 ~64~58~1 minecraft:concrete 15
+setblock ~63~66~1 minecraft:wool 7
+setblock ~63~67~1 minecraft:wool 8
+fill ~63~68~1 ~64~68~1 minecraft:concrete 0
+fill ~63~69~1 ~63~71~1 minecraft:concrete 0
+fill ~63~81~1 ~65~81~1 minecraft:concrete 0
+fill ~64~53~1 ~65~53~1 minecraft:concrete 15
+fill ~64~54~1 ~64~57~1 minecraft:concrete 15
+setblock ~64~59~1 minecraft:concrete 15
+fill ~64~66~1 ~65~66~1 minecraft:concrete 7
+fill ~64~67~1 ~65~67~1 minecraft:concrete 0
+setblock ~64~69~1 minecraft:wool 8
+fill ~64~70~1 ~65~71~1 minecraft:concrete 0
+setblock ~64~72~1 minecraft:concrete 8
+fill ~64~73~1 ~69~73~1 minecraft:concrete 0
+setblock ~64~79~1 minecraft:wool 7
+fill ~64~80~1 ~66~80~1 minecraft:concrete 0
+fill ~65~52~1 ~73~52~1 minecraft:concrete 15
+fill ~65~54~1 ~65~56~1 minecraft:concrete 4
+setblock ~65~57~1 minecraft:concrete 15
+setblock ~65~58~1 minecraft:concrete 4
+setblock ~65~59~1 minecraft:wool 15
+setblock ~65~68~1 minecraft:wool 8
+setblock ~65~69~1 minecraft:concrete 0
+setblock ~65~72~1 minecraft:concrete 0
+setblock ~65~75~1 minecraft:wool 8
+fill ~65~76~1 ~66~76~1 minecraft:wool 7
+fill ~65~77~1 ~65~78~1 minecraft:wool 8
+setblock ~65~79~1 minecraft:concrete 8
+fill ~65~82~1 ~66~82~1 minecraft:wool 8
+setblock ~66~53~1 minecraft:concrete 4
+fill ~66~54~1 ~66~56~1 minecraft:wool 15
+setblock ~66~57~1 minecraft:concrete 4
+setblock ~66~58~1 minecraft:wool 15
+setblock ~66~59~1 minecraft:concrete 4
+fill ~66~66~1 ~67~72~1 minecraft:concrete 15
+fill ~66~75~1 ~72~75~1 minecraft:concrete 0
+fill ~66~77~1 ~67~78~1 minecraft:concrete 15
+setblock ~66~79~1 minecraft:concrete 0
+setblock ~66~81~1 minecraft:wool 8
+fill ~67~53~1 ~70~53~1 minecraft:concrete 4
+fill ~67~54~1 ~68~54~1 minecraft:concrete 15
+fill ~67~55~1 ~67~56~1 minecraft:concrete 15
+fill ~67~57~1 ~70~57~1 minecraft:concrete 4
+fill ~67~58~1 ~68~58~1 minecraft:concrete 15
+fill ~67~59~1 ~70~59~1 minecraft:concrete 4
+setblock ~67~76~1 minecraft:wool 8
+setblock ~67~79~1 minecraft:concrete 0
+setblock ~67~80~1 minecraft:wool 8
+fill ~67~81~1 ~69~81~1 minecraft:concrete 0
+setblock ~67~82~1 minecraft:concrete 0
+setblock ~68~56~1 minecraft:concrete 15
+fill ~68~66~1 ~69~66~1 minecraft:concrete 7
+fill ~68~67~1 ~72~68~1 minecraft:concrete 0
+setblock ~68~69~1 minecraft:concrete 8
+setblock ~68~70~1 minecraft:wool 8
+fill ~68~71~1 ~72~71~1 minecraft:concrete 0
+setblock ~68~72~1 minecraft:wool 8
+fill ~68~76~1 ~72~78~1 minecraft:concrete 0
+fill ~68~79~1 ~69~79~1 minecraft:wool 8
+fill ~68~80~1 ~70~80~1 minecraft:concrete 0
+setblock ~68~82~1 minecraft:wool 8
+fill ~69~54~1 ~69~56~1 minecraft:wool 15
+setblock ~69~58~1 minecraft:wool 15
+fill ~69~69~1 ~70~70~1 minecraft:concrete 0
+fill ~69~72~1 ~70~72~1 minecraft:concrete 0
+fill ~69~82~1 ~72~82~1 minecraft:concrete 0
+fill ~70~54~1 ~70~56~1 minecraft:concrete 4
+setblock ~70~58~1 minecraft:concrete 4
+setblock ~70~66~1 minecraft:wool 7
+setblock ~70~73~1 minecraft:wool 8
+fill ~70~79~1 ~72~79~1 minecraft:concrete 0
+setblock ~70~81~1 minecraft:wool 0
+fill ~71~53~1 ~71~59~1 minecraft:concrete 15
+setblock ~71~66~1 minecraft:concrete 7
+setblock ~71~69~1 minecraft:concrete 0
+fill ~71~70~1 ~72~70~1 minecraft:concrete 0
+setblock ~71~72~1 minecraft:wool 7
+fill ~71~73~1 ~72~73~1 minecraft:concrete 0
+setblock ~71~80~1 minecraft:wool 8
+fill ~71~81~1 ~72~81~1 minecraft:concrete 0
+fill ~72~53~1 ~72~59~1 minecraft:concrete 4
+setblock ~72~66~1 minecraft:wool 7
+setblock ~72~69~1 minecraft:concrete 0
+setblock ~72~72~1 minecraft:concrete 7
+setblock ~72~80~1 minecraft:concrete 0
+fill ~73~53~1 ~73~55~1 minecraft:concrete 15
+setblock ~73~56~1 minecraft:concrete 4
+fill ~73~57~1 ~73~59~1 minecraft:concrete 15
+fill ~73~66~1 ~75~82~1 minecraft:concrete 15
+fill ~74~55~1 ~75~56~1 minecraft:concrete 15
+setblock ~74~57~1 minecraft:concrete 4
+fill ~74~58~1 ~74~59~1 minecraft:concrete 15
+fill ~75~52~1 ~77~52~1 minecraft:concrete 15
+fill ~75~53~1 ~75~54~1 minecraft:concrete 15
+setblock ~75~57~1 minecraft:concrete 15
+fill ~75~58~1 ~76~58~1 minecraft:concrete 4
+setblock ~75~59~1 minecraft:wool 15
+fill ~75~60~1 ~77~60~1 minecraft:concrete 15
+fill ~76~53~1 ~76~57~1 minecraft:concrete 4
+setblock ~76~59~1 minecraft:concrete 4
+fill ~76~76~1 ~79~78~1 minecraft:concrete 15
+fill ~76~79~1 ~80~80~1 minecraft:concrete 0
+fill ~76~81~1 ~78~82~1 minecraft:concrete 0
+fill ~77~53~1 ~77~59~1 minecraft:concrete 15
+fill ~77~64~1 ~86~65~1 minecraft:concrete 15
+fill ~77~66~1 ~79~75~1 minecraft:concrete 15
+fill ~79~63~1 ~84~63~1 minecraft:concrete 15
+setblock ~79~81~1 minecraft:concrete 0
+setblock ~79~82~1 minecraft:concrete 0
+fill ~80~66~1 ~84~66~1 minecraft:wool 7
+fill ~80~67~1 ~84~67~1 minecraft:concrete 0
+fill ~80~68~1 ~80~70~1 minecraft:wool 8
+fill ~80~71~1 ~80~75~1 minecraft:concrete 0
+setblock ~80~76~1 minecraft:concrete 8
+fill ~80~77~1 ~81~78~1 minecraft:concrete 0
+fill ~80~81~1 ~87~81~1 minecraft:concrete 0
+fill ~80~82~1 ~81~82~1 minecraft:wool 8
+fill ~81~68~1 ~81~69~1 minecraft:concrete 0
+setblock ~81~70~1 minecraft:concrete 7
+setblock ~81~71~1 minecraft:wool 8
+fill ~81~72~1 ~84~74~1 minecraft:concrete 0
+fill ~81~75~1 ~82~75~1 minecraft:concrete 0
+setblock ~81~76~1 minecraft:concrete 0
+setblock ~81~79~1 minecraft:wool 7
+fill ~81~80~1 ~87~80~1 minecraft:concrete 0
+setblock ~82~68~1 minecraft:wool 8
+fill ~82~69~1 ~84~71~1 minecraft:concrete 0
+fill ~82~76~1 ~82~77~1 minecraft:wool 8
+fill ~82~78~1 ~84~78~1 minecraft:concrete 0
+fill ~82~79~1 ~83~79~1 minecraft:concrete 0
+fill ~82~82~1 ~87~82~1 minecraft:concrete 0
+setblock ~83~68~1 minecraft:wool 7
+setblock ~83~75~1 minecraft:wool 8
+fill ~83~76~1 ~84~76~1 minecraft:concrete 0
+setblock ~83~77~1 minecraft:concrete 0
+setblock ~84~68~1 minecraft:concrete 0
+setblock ~84~75~1 minecraft:concrete 0
+setblock ~84~77~1 minecraft:concrete 8
+fill ~84~79~1 ~85~79~1 minecraft:wool 8
+fill ~85~66~1 ~87~78~1 minecraft:concrete 15
+fill ~86~79~1 ~87~79~1 minecraft:concrete 0
+setblock ~87~65~1 minecraft:concrete 15
+fill ~88~76~1 ~91~78~1 minecraft:concrete 15
+fill ~88~79~1 ~88~82~1 minecraft:concrete 8
+fill ~89~64~1 ~124~65~1 minecraft:concrete 15
+fill ~89~66~1 ~91~75~1 minecraft:concrete 15
+fill ~89~79~1 ~91~82~1 minecraft:concrete 15
+fill ~91~63~1 ~105~63~1 minecraft:concrete 15
+setblock ~92~66~1 minecraft:wool 7
+fill ~92~67~1 ~102~67~1 minecraft:concrete 0
+setblock ~92~68~1 minecraft:concrete 7
+fill ~92~69~1 ~100~70~1 minecraft:concrete 0
+fill ~92~71~1 ~93~76~1 minecraft:concrete 0
+setblock ~92~77~1 minecraft:wool 8
+fill ~92~78~1 ~96~78~1 minecraft:concrete 0
+fill ~92~79~1 ~94~79~1 minecraft:wool 8
+fill ~92~80~1 ~96~80~1 minecraft:concrete 0
+fill ~92~81~1 ~95~82~1 minecraft:concrete 0
+fill ~93~66~1 ~94~66~1 minecraft:concrete 7
+setblock ~93~68~1 minecraft:concrete 0
+setblock ~93~77~1 minecraft:concrete 8
+setblock ~94~68~1 minecraft:concrete 8
+setblock ~94~71~1 minecraft:wool 8
+fill ~94~72~1 ~96~72~1 minecraft:concrete 0
+setblock ~94~73~1 minecraft:wool 8
+fill ~94~74~1 ~96~75~1 minecraft:concrete 0
+fill ~94~76~1 ~94~77~1 minecraft:concrete 0
+fill ~95~66~1 ~96~66~1 minecraft:wool 7
+setblock ~95~68~1 minecraft:concrete 0
+fill ~95~71~1 ~96~71~1 minecraft:concrete 0
+fill ~95~73~1 ~96~73~1 minecraft:concrete 0
+setblock ~95~76~1 minecraft:wool 8
+fill ~95~77~1 ~96~77~1 minecraft:concrete 0
+fill ~95~79~1 ~96~79~1 minecraft:concrete 0
+fill ~96~68~1 ~97~68~1 minecraft:wool 8
+setblock ~96~76~1 minecraft:concrete 8
+setblock ~96~81~1 minecraft:wool 8
+setblock ~96~82~1 minecraft:concrete 0
+fill ~97~66~1 ~98~66~1 minecraft:concrete 7
+fill ~97~71~1 ~99~82~1 minecraft:concrete 15
+fill ~98~68~1 ~104~68~1 minecraft:concrete 0
+setblock ~99~66~1 minecraft:wool 7
+setblock ~100~66~1 minecraft:concrete 7
+fill ~100~71~1 ~101~72~1 minecraft:concrete 0
+setblock ~100~73~1 minecraft:wool 8
+fill ~100~74~1 ~104~74~1 minecraft:concrete 0
+fill ~100~75~1 ~102~75~1 minecraft:concrete 0
+fill ~100~76~1 ~101~78~1 minecraft:concrete 0
+setblock ~100~79~1 minecraft:wool 8
+fill ~100~80~1 ~101~82~1 minecraft:concrete 0
+setblock ~101~66~1 minecraft:wool 7
+fill ~101~69~1 ~103~69~1 minecraft:wool 8
+setblock ~101~70~1 minecraft:concrete 0
+fill ~101~73~1 ~104~73~1 minecraft:concrete 0
+setblock ~101~79~1 minecraft:concrete 0
+setblock ~102~66~1 minecraft:concrete 7
+setblock ~102~70~1 minecraft:wool 8
+setblock ~102~71~1 minecraft:concrete 8
+fill ~102~72~1 ~104~72~1 minecraft:wool 8
+fill ~102~76~1 ~103~76~1 minecraft:concrete 8
+fill ~102~77~1 ~102~78~1 minecraft:concrete 0
+fill ~102~79~1 ~102~81~1 minecraft:wool 8
+fill ~102~82~1 ~104~82~1 minecraft:concrete 0
+fill ~103~66~1 ~104~66~1 minecraft:wool 7
+setblock ~103~67~1 minecraft:wool 8
+fill ~103~70~1 ~104~70~1 minecraft:concrete 0
+setblock ~103~71~1 minecraft:concrete 0
+setblock ~103~75~1 minecraft:concrete 8
+fill ~103~77~1 ~103~78~1 minecraft:wool 8
+fill ~103~79~1 ~104~80~1 minecraft:concrete 0
+setblock ~103~81~1 minecraft:concrete 0
+setblock ~104~67~1 minecraft:concrete 0
+setblock ~104~69~1 minecraft:concrete 0
+setblock ~104~71~1 minecraft:wool 8
+setblock ~104~75~1 minecraft:wool 8
+fill ~104~76~1 ~104~78~1 minecraft:concrete 0
+setblock ~104~81~1 minecraft:wool 8
+fill ~105~66~1 ~107~82~1 minecraft:concrete 15
+fill ~108~63~1 ~122~63~1 minecraft:concrete 15
+fill ~108~66~1 ~109~66~1 minecraft:concrete 7
+fill ~108~67~1 ~108~82~1 minecraft:wool 8
+fill ~109~67~1 ~115~67~1 minecraft:concrete 0
+fill ~109~68~1 ~110~69~1 minecraft:concrete 0
+fill ~109~70~1 ~109~71~1 minecraft:concrete 0
+fill ~109~72~1 ~110~72~1 minecraft:wool 8
+setblock ~109~73~1 minecraft:wool 8
+fill ~109~74~1 ~112~74~1 minecraft:concrete 0
+fill ~109~75~1 ~109~76~1 minecraft:wool 8
+fill ~109~77~1 ~112~78~1 minecraft:concrete 0
+fill ~109~79~1 ~109~80~1 minecraft:concrete 0
+setblock ~109~81~1 minecraft:wool 8
+fill ~109~82~1 ~112~82~1 minecraft:concrete 0
+fill ~110~66~1 ~111~66~1 minecraft:wool 7
+setblock ~110~70~1 minecraft:wool 8
+fill ~110~71~1 ~111~71~1 minecraft:concrete 0
+fill ~110~73~1 ~112~73~1 minecraft:concrete 0
+fill ~110~75~1 ~112~76~1 minecraft:concrete 0
+fill ~110~79~1 ~110~80~1 minecraft:wool 8
+setblock ~110~81~1 minecraft:concrete 0
+setblock ~111~68~1 minecraft:wool 8
+fill ~111~69~1 ~116~69~1 minecraft:concrete 0
+fill ~111~70~1 ~112~70~1 minecraft:concrete 0
+fill ~111~72~1 ~112~72~1 minecraft:concrete 0
+fill ~111~79~1 ~112~79~1 minecraft:concrete 8
+fill ~111~80~1 ~117~80~1 minecraft:concrete 0
+fill ~111~81~1 ~112~81~1 minecraft:wool 8
+fill ~112~66~1 ~115~66~1 minecraft:concrete 7
+setblock ~112~68~1 minecraft:concrete 0
+fill ~112~71~1 ~113~71~1 minecraft:wool 8
+setblock ~113~68~1 minecraft:wool 8
+setblock ~113~70~1 minecraft:wool 8
+fill ~113~72~1 ~113~78~1 minecraft:wool 8
+setblock ~113~79~1 minecraft:wool 15
+fill ~113~81~1 ~114~81~1 minecraft:concrete 0
+setblock ~113~82~1 minecraft:wool 8
+fill ~114~68~1 ~116~68~1 minecraft:concrete 0
+fill ~114~70~1 ~122~70~1 minecraft:concrete 0
+fill ~114~71~1 ~117~78~1 minecraft:concrete 15
+fill ~114~79~1 ~115~79~1 minecraft:concrete 0
+fill ~114~82~1 ~117~82~1 minecraft:concrete 0
+setblock ~115~81~1 minecraft:wool 8
+setblock ~116~66~1 minecraft:wool 7
+setblock ~116~67~1 minecraft:wool 8
+setblock ~116~79~1 minecraft:wool 8
+fill ~116~81~1 ~117~81~1 minecraft:concrete 0
+fill ~117~66~1 ~119~66~1 minecraft:concrete 7
+fill ~117~67~1 ~122~67~1 minecraft:concrete 0
+fill ~117~68~1 ~118~68~1 minecraft:wool 8
+setblock ~117~69~1 minecraft:wool 8
+fill ~117~79~1 ~118~79~1 minecraft:concrete 8
+fill ~118~69~1 ~120~69~1 minecraft:concrete 0
+fill ~118~71~1 ~122~71~1 minecraft:concrete 0
+setblock ~118~72~1 minecraft:wool 8
+fill ~118~73~1 ~118~74~1 minecraft:concrete 0
+fill ~118~75~1 ~118~76~1 minecraft:concrete 8
+fill ~118~77~1 ~118~78~1 minecraft:wool 8
+fill ~118~80~1 ~118~82~1 minecraft:wool 8
+fill ~119~68~1 ~122~68~1 minecraft:concrete 0
+fill ~119~72~1 ~120~72~1 minecraft:concrete 0
+setblock ~119~73~1 minecraft:wool 8
+fill ~119~74~1 ~122~75~1 minecraft:concrete 0
+setblock ~119~76~1 minecraft:wool 7
+fill ~119~77~1 ~122~78~1 minecraft:concrete 0
+fill ~119~79~1 ~120~80~1 minecraft:concrete 0
+setblock ~119~81~1 minecraft:wool 8
+fill ~119~82~1 ~122~82~1 minecraft:concrete 0
+setblock ~120~66~1 minecraft:wool 7
+fill ~120~73~1 ~122~73~1 minecraft:concrete 0
+fill ~120~76~1 ~121~76~1 minecraft:wool 8
+fill ~120~81~1 ~122~81~1 minecraft:concrete 0
+fill ~121~66~1 ~122~66~1 minecraft:concrete 7
+setblock ~121~69~1 minecraft:wool 8
+setblock ~121~72~1 minecraft:wool 8
+setblock ~121~79~1 minecraft:concrete 8
+fill ~121~80~1 ~122~80~1 minecraft:concrete 0
+setblock ~122~69~1 minecraft:concrete 0
+setblock ~122~72~1 minecraft:concrete 0
+setblock ~122~76~1 minecraft:concrete 0
+setblock ~122~79~1 minecraft:wool 8
+fill ~123~66~1 ~124~82~1 minecraft:concrete 15
+fill ~31~0~6 ~38~3~9 minecraft:stained_hardened_clay 4
+fill ~31~4~6 ~34~7~13 minecraft:stained_hardened_clay 4
+fill ~31~8~6 ~34~11~9 minecraft:stained_hardened_clay 4
+fill ~31~12~6 ~34~15~9 minecraft:stained_hardened_clay 8
+fill ~31~16~6 ~34~43~9 minecraft:stained_hardened_clay 4
+fill ~31~44~6 ~38~47~9 minecraft:stained_hardened_clay 8
+fill ~31~48~6 ~34~63~9 minecraft:stained_hardened_clay 4
+fill ~35~4~6 ~38~7~9 minecraft:stained_hardened_clay 1
+fill ~35~8~6 ~38~11~9 minecraft:stained_hardened_clay 8
+fill ~35~12~6 ~54~15~9 minecraft:stained_hardened_clay 0
+fill ~35~16~6 ~46~19~9 minecraft:stained_hardened_clay 0
+fill ~35~20~6 ~38~23~9 minecraft:stained_hardened_clay 8
+fill ~35~24~6 ~38~43~9 minecraft:stained_hardened_clay 4
+fill ~35~48~6 ~46~55~9 minecraft:stained_hardened_clay 0
+fill ~35~56~6 ~38~59~9 minecraft:stained_hardened_clay 8
+fill ~35~60~6 ~38~63~9 minecraft:stained_hardened_clay 4
+fill ~39~0~6 ~42~7~9 minecraft:stained_hardened_clay 8
+fill ~39~8~6 ~50~11~9 minecraft:stained_hardened_clay 0
+fill ~39~20~6 ~46~23~9 minecraft:stained_hardened_clay 0
+fill ~39~24~6 ~42~27~9 minecraft:stained_hardened_clay 8
+fill ~39~28~6 ~42~39~9 minecraft:stained_hardened_clay 4
+fill ~39~40~6 ~42~43~9 minecraft:stained_hardened_clay 8
+fill ~39~44~6 ~46~47~9 minecraft:stained_hardened_clay 0
+fill ~39~56~6 ~50~59~9 minecraft:stained_hardened_clay 0
+fill ~39~60~6 ~42~63~9 minecraft:stained_hardened_clay 8
+fill ~43~0~6 ~46~3~29 minecraft:stained_hardened_clay 0
+fill ~43~4~6 ~46~7~9 minecraft:stained_hardened_clay 0
+fill ~43~24~6 ~46~27~9 minecraft:stained_hardened_clay 0
+fill ~43~28~6 ~46~31~9 minecraft:stained_hardened_clay 8
+fill ~43~32~6 ~46~35~9 minecraft:stained_hardened_clay 4
+fill ~43~36~6 ~46~39~9 minecraft:stained_hardened_clay 8
+fill ~43~40~6 ~46~43~9 minecraft:stained_hardened_clay 0
+fill ~43~60~6 ~46~63~29 minecraft:stained_hardened_clay 0
+fill ~47~0~6 ~50~7~9 minecraft:stained_hardened_clay 8
+fill ~47~16~6 ~54~19~9 minecraft:wool 7
+fill ~47~20~6 ~50~23~9 minecraft:wool 7
+fill ~47~24~6 ~50~31~9 minecraft:wool 8
+fill ~47~32~6 ~54~51~9 minecraft:wool 0
+fill ~47~52~6 ~54~55~9 minecraft:stained_hardened_clay 0
+fill ~47~60~6 ~50~63~9 minecraft:stained_hardened_clay 8
+fill ~51~0~6 ~70~7~9 minecraft:stained_hardened_clay 4
+fill ~51~8~6 ~54~11~9 minecraft:stained_hardened_clay 8
+fill ~51~20~6 ~82~23~9 minecraft:wool 0
+fill ~51~24~6 ~54~31~9 minecraft:wool 0
+fill ~51~56~6 ~54~59~9 minecraft:stained_hardened_clay 8
+fill ~51~60~6 ~70~63~9 minecraft:stained_hardened_clay 4
+fill ~55~8~6 ~66~11~9 minecraft:stained_hardened_clay 4
+fill ~55~12~6 ~58~15~9 minecraft:stained_hardened_clay 8
+fill ~55~16~6 ~62~19~9 minecraft:wool 8
+fill ~55~24~6 ~58~27~9 minecraft:stained_hardened_clay 1
+fill ~55~28~6 ~82~31~9 minecraft:wool 0
+fill ~55~32~6 ~58~35~9 minecraft:stained_hardened_clay 14
+fill ~55~36~6 ~82~39~9 minecraft:wool 0
+fill ~55~40~6 ~58~43~9 minecraft:stained_hardened_clay 13
+fill ~55~44~6 ~82~51~9 minecraft:wool 0
+fill ~55~52~6 ~58~55~9 minecraft:stained_hardened_clay 8
+fill ~55~56~6 ~66~59~9 minecraft:stained_hardened_clay 4
+fill ~59~12~6 ~62~15~9 minecraft:stained_hardened_clay 4
+fill ~59~24~6 ~62~27~9 minecraft:wool 0
+fill ~59~32~6 ~62~35~9 minecraft:wool 0
+fill ~59~40~6 ~62~43~9 minecraft:wool 0
+fill ~59~52~6 ~62~55~9 minecraft:stained_hardened_clay 4
+fill ~63~12~6 ~66~15~9 minecraft:stained_hardened_clay 8
+fill ~63~16~6 ~82~19~9 minecraft:wool 0
+fill ~63~24~6 ~66~27~9 minecraft:stained_hardened_clay 6
+fill ~63~32~6 ~66~35~9 minecraft:stained_hardened_clay 6
+fill ~63~40~6 ~66~43~9 minecraft:stained_hardened_clay 14
+fill ~63~52~6 ~66~55~9 minecraft:stained_hardened_clay 8
+fill ~67~8~6 ~70~11~9 minecraft:stained_hardened_clay 8
+fill ~67~12~6 ~94~15~9 minecraft:stained_hardened_clay 0
+fill ~67~24~6 ~70~27~9 minecraft:wool 0
+fill ~67~32~6 ~70~35~9 minecraft:wool 0
+fill ~67~40~6 ~70~43~9 minecraft:wool 0
+fill ~67~52~6 ~86~55~9 minecraft:stained_hardened_clay 0
+fill ~67~56~6 ~70~59~9 minecraft:stained_hardened_clay 8
+fill ~71~0~6 ~74~7~9 minecraft:stained_hardened_clay 8
+fill ~71~8~6 ~90~11~9 minecraft:stained_hardened_clay 0
+fill ~71~24~6 ~74~27~9 minecraft:stained_hardened_clay 1
+fill ~71~32~6 ~74~35~9 minecraft:stained_hardened_clay 4
+fill ~71~40~6 ~74~43~9 minecraft:stained_hardened_clay 6
+fill ~71~56~6 ~82~59~9 minecraft:stained_hardened_clay 0
+fill ~71~60~6 ~74~63~9 minecraft:stained_hardened_clay 8
+fill ~75~0~6 ~78~3~17 minecraft:stained_hardened_clay 0
+fill ~75~4~6 ~86~7~9 minecraft:stained_hardened_clay 0
+fill ~75~24~6 ~82~27~9 minecraft:wool 0
+fill ~75~32~6 ~82~35~9 minecraft:wool 0
+fill ~75~40~6 ~82~43~9 minecraft:wool 0
+fill ~75~60~6 ~78~63~17 minecraft:stained_hardened_clay 0
+fill ~79~0~6 ~82~3~9 minecraft:stained_hardened_clay 8
+fill ~79~60~6 ~82~63~9 minecraft:stained_hardened_clay 8
+fill ~83~0~6 ~98~3~9 minecraft:stained_hardened_clay 4
+fill ~83~16~6 ~90~19~9 minecraft:stained_hardened_clay 0
+fill ~83~20~6 ~86~23~9 minecraft:stained_hardened_clay 0
+fill ~83~24~6 ~86~27~9 minecraft:stained_hardened_clay 8
+fill ~83~28~6 ~98~31~9 minecraft:stained_hardened_clay 4
+fill ~83~32~6 ~86~35~9 minecraft:stained_hardened_clay 8
+fill ~83~36~6 ~86~51~9 minecraft:stained_hardened_clay 0
+fill ~83~56~6 ~86~59~9 minecraft:stained_hardened_clay 8
+fill ~83~60~6 ~98~63~9 minecraft:stained_hardened_clay 4
+fill ~87~4~6 ~90~7~9 minecraft:stained_hardened_clay 8
+fill ~87~20~6 ~90~23~9 minecraft:stained_hardened_clay 8
+fill ~87~24~6 ~98~27~9 minecraft:stained_hardened_clay 4
+fill ~87~32~6 ~98~35~9 minecraft:stained_hardened_clay 4
+fill ~87~36~6 ~90~39~9 minecraft:stained_hardened_clay 8
+fill ~87~40~6 ~90~51~9 minecraft:stained_hardened_clay 0
+fill ~87~52~6 ~90~55~9 minecraft:stained_hardened_clay 8
+fill ~87~56~6 ~98~59~9 minecraft:stained_hardened_clay 4
+fill ~91~4~6 ~98~7~9 minecraft:stained_hardened_clay 4
+fill ~91~8~6 ~94~11~9 minecraft:stained_hardened_clay 8
+fill ~91~16~6 ~94~19~9 minecraft:stained_hardened_clay 8
+fill ~91~20~6 ~98~23~9 minecraft:stained_hardened_clay 4
+fill ~91~36~6 ~98~39~9 minecraft:stained_hardened_clay 4
+fill ~91~40~6 ~94~43~9 minecraft:stained_hardened_clay 8
+fill ~91~44~6 ~94~47~9 minecraft:stained_hardened_clay 0
+fill ~91~48~6 ~94~51~9 minecraft:stained_hardened_clay 8
+fill ~91~52~6 ~98~55~9 minecraft:stained_hardened_clay 4
+fill ~95~8~6 ~98~11~9 minecraft:stained_hardened_clay 4
+fill ~95~12~6 ~98~15~9 minecraft:stained_hardened_clay 8
+fill ~95~16~6 ~98~19~9 minecraft:stained_hardened_clay 4
+fill ~95~40~6 ~98~43~9 minecraft:stained_hardened_clay 4
+fill ~95~44~6 ~98~47~9 minecraft:stained_hardened_clay 8
+fill ~95~48~6 ~98~51~9 minecraft:stained_hardened_clay 4
+fill ~31~0~10 ~34~3~13 minecraft:stained_hardened_clay 4
+fill ~31~8~10 ~34~11~13 minecraft:stained_hardened_clay 8
+fill ~31~12~10 ~34~15~37 minecraft:stained_hardened_clay 0
+fill ~31~16~10 ~34~19~13 minecraft:stained_hardened_clay 8
+fill ~31~20~10 ~34~39~13 minecraft:stained_hardened_clay 4
+fill ~31~40~10 ~34~43~13 minecraft:stained_hardened_clay 8
+fill ~31~44~10 ~34~47~21 minecraft:stained_hardened_clay 0
+fill ~31~48~10 ~34~51~13 minecraft:stained_hardened_clay 8
+fill ~31~52~10 ~34~63~13 minecraft:stained_hardened_clay 4
+fill ~35~0~10 ~38~3~13 minecraft:stained_hardened_clay 8
+fill ~35~60~10 ~38~63~13 minecraft:stained_hardened_clay 8
+fill ~39~0~10 ~42~3~25 minecraft:stained_hardened_clay 0
+fill ~39~60~10 ~42~63~25 minecraft:stained_hardened_clay 0
+fill ~47~0~10 ~50~3~17 minecraft:stained_hardened_clay 0
+fill ~47~60~10 ~50~63~17 minecraft:stained_hardened_clay 0
+fill ~51~0~10 ~54~3~13 minecraft:stained_hardened_clay 8
+fill ~51~60~10 ~54~63~13 minecraft:stained_hardened_clay 8
+fill ~55~0~10 ~66~3~13 minecraft:stained_hardened_clay 4
+fill ~55~60~10 ~66~63~13 minecraft:stained_hardened_clay 4
+fill ~67~0~10 ~70~3~13 minecraft:stained_hardened_clay 8
+fill ~67~60~10 ~70~63~13 minecraft:stained_hardened_clay 8
+fill ~71~0~10 ~74~3~17 minecraft:stained_hardened_clay 0
+fill ~71~60~10 ~74~63~17 minecraft:stained_hardened_clay 0
+fill ~79~0~10 ~82~3~17 minecraft:stained_hardened_clay 0
+fill ~79~60~10 ~82~63~17 minecraft:stained_hardened_clay 0
+fill ~83~0~10 ~86~3~13 minecraft:stained_hardened_clay 8
+fill ~83~60~10 ~86~63~13 minecraft:stained_hardened_clay 8
+fill ~87~0~10 ~98~3~13 minecraft:stained_hardened_clay 4
+fill ~87~60~10 ~98~63~13 minecraft:stained_hardened_clay 4
+fill ~95~4~10 ~98~7~13 minecraft:stained_hardened_clay 4
+fill ~95~8~10 ~98~11~13 minecraft:stained_hardened_clay 8
+fill ~95~12~10 ~98~15~37 minecraft:stained_hardened_clay 0
+fill ~95~16~10 ~98~19~13 minecraft:stained_hardened_clay 8
+fill ~95~20~10 ~98~39~13 minecraft:stained_hardened_clay 4
+fill ~95~40~10 ~98~43~13 minecraft:stained_hardened_clay 8
+fill ~95~44~10 ~98~47~21 minecraft:stained_hardened_clay 0
+fill ~95~48~10 ~98~51~13 minecraft:stained_hardened_clay 8
+fill ~95~52~10 ~98~59~13 minecraft:stained_hardened_clay 4
+fill ~31~0~14 ~34~7~17 minecraft:stained_hardened_clay 8
+fill ~31~8~14 ~34~11~33 minecraft:stained_hardened_clay 0
+fill ~31~16~14 ~34~19~21 minecraft:stained_hardened_clay 0
+fill ~31~20~14 ~34~23~17 minecraft:stained_hardened_clay 8
+fill ~31~24~14 ~34~35~17 minecraft:stained_hardened_clay 4
+fill ~31~36~14 ~34~39~17 minecraft:stained_hardened_clay 8
+fill ~31~40~14 ~34~43~21 minecraft:stained_hardened_clay 0
+fill ~31~48~14 ~34~51~21 minecraft:stained_hardened_clay 0
+fill ~31~52~14 ~34~55~17 minecraft:stained_hardened_clay 8
+fill ~31~56~14 ~34~59~17 minecraft:stained_hardened_clay 4
+fill ~31~60~14 ~34~63~17 minecraft:stained_hardened_clay 8
+fill ~35~0~14 ~38~3~21 minecraft:stained_hardened_clay 0
+fill ~35~60~14 ~38~63~21 minecraft:stained_hardened_clay 0
+fill ~51~0~14 ~54~3~17 minecraft:stained_hardened_clay 0
+fill ~51~60~14 ~54~63~17 minecraft:stained_hardened_clay 0
+fill ~55~0~14 ~58~3~17 minecraft:stained_hardened_clay 8
+fill ~55~60~14 ~58~63~17 minecraft:stained_hardened_clay 8
+fill ~59~0~14 ~62~3~17 minecraft:stained_hardened_clay 4
+fill ~59~60~14 ~62~63~17 minecraft:stained_hardened_clay 4
+fill ~63~0~14 ~66~3~17 minecraft:stained_hardened_clay 8
+fill ~63~60~14 ~66~63~17 minecraft:stained_hardened_clay 8
+fill ~67~0~14 ~70~3~17 minecraft:stained_hardened_clay 0
+fill ~67~60~14 ~70~63~17 minecraft:stained_hardened_clay 0
+fill ~83~0~14 ~86~3~33 minecraft:stained_hardened_clay 0
+fill ~83~60~14 ~86~63~33 minecraft:stained_hardened_clay 0
+fill ~87~0~14 ~90~3~17 minecraft:stained_hardened_clay 8
+fill ~87~60~14 ~90~63~17 minecraft:stained_hardened_clay 8
+fill ~91~0~14 ~98~3~17 minecraft:stained_hardened_clay 4
+fill ~91~60~14 ~98~63~17 minecraft:stained_hardened_clay 4
+fill ~95~4~14 ~98~7~17 minecraft:stained_hardened_clay 8
+fill ~95~8~14 ~98~11~33 minecraft:stained_hardened_clay 0
+fill ~95~16~14 ~98~19~21 minecraft:stained_hardened_clay 0
+fill ~95~20~14 ~98~23~17 minecraft:stained_hardened_clay 8
+fill ~95~24~14 ~98~35~17 minecraft:stained_hardened_clay 4
+fill ~95~36~14 ~98~39~17 minecraft:stained_hardened_clay 8
+fill ~95~40~14 ~98~43~21 minecraft:stained_hardened_clay 0
+fill ~95~48~14 ~98~51~21 minecraft:stained_hardened_clay 0
+fill ~95~52~14 ~98~55~17 minecraft:stained_hardened_clay 8
+fill ~95~56~14 ~98~59~17 minecraft:stained_hardened_clay 4
+fill ~31~0~18 ~34~3~21 minecraft:stained_hardened_clay 4
+fill ~31~4~18 ~34~7~29 minecraft:stained_hardened_clay 0
+fill ~31~20~18 ~34~23~21 minecraft:stained_hardened_clay 0
+fill ~31~24~18 ~34~27~21 minecraft:stained_hardened_clay 8
+fill ~31~28~18 ~34~31~21 minecraft:stained_hardened_clay 4
+fill ~31~32~18 ~34~35~21 minecraft:stained_hardened_clay 8
+fill ~31~36~18 ~34~39~21 minecraft:stained_hardened_clay 0
+fill ~31~52~18 ~34~55~37 minecraft:stained_hardened_clay 0
+fill ~31~56~18 ~34~59~21 minecraft:stained_hardened_clay 8
+fill ~31~60~18 ~34~63~21 minecraft:stained_hardened_clay 4
+fill ~47~0~18 ~82~3~25 minecraft:wool 0
+fill ~47~60~18 ~82~63~25 minecraft:wool 0
+fill ~87~0~18 ~90~3~29 minecraft:stained_hardened_clay 0
+fill ~87~60~18 ~90~63~29 minecraft:stained_hardened_clay 0
+fill ~91~0~18 ~94~3~21 minecraft:stained_hardened_clay 8
+fill ~91~60~18 ~94~63~21 minecraft:stained_hardened_clay 8
+fill ~95~0~18 ~98~3~21 minecraft:stained_hardened_clay 4
+fill ~95~4~18 ~98~7~29 minecraft:stained_hardened_clay 0
+fill ~95~20~18 ~98~23~21 minecraft:stained_hardened_clay 0
+fill ~95~24~18 ~98~27~21 minecraft:stained_hardened_clay 8
+fill ~95~28~18 ~98~31~21 minecraft:stained_hardened_clay 4
+fill ~95~32~18 ~98~35~21 minecraft:stained_hardened_clay 8
+fill ~95~36~18 ~98~39~21 minecraft:stained_hardened_clay 0
+fill ~95~52~18 ~98~55~37 minecraft:stained_hardened_clay 0
+fill ~95~56~18 ~98~59~21 minecraft:stained_hardened_clay 8
+fill ~95~60~18 ~98~63~21 minecraft:stained_hardened_clay 4
+fill ~31~0~22 ~38~3~25 minecraft:stained_hardened_clay 8
+fill ~31~16~22 ~34~23~41 minecraft:wool 0
+fill ~31~24~22 ~34~51~29 minecraft:wool 0
+fill ~31~56~22 ~34~59~33 minecraft:stained_hardened_clay 0
+fill ~31~60~22 ~38~63~25 minecraft:stained_hardened_clay 8
+fill ~91~0~22 ~94~3~25 minecraft:stained_hardened_clay 0
+fill ~91~60~22 ~94~63~25 minecraft:stained_hardened_clay 0
+fill ~95~0~22 ~98~3~25 minecraft:stained_hardened_clay 8
+fill ~95~16~22 ~98~23~41 minecraft:wool 0
+fill ~95~24~22 ~98~51~29 minecraft:wool 0
+fill ~95~56~22 ~98~59~33 minecraft:stained_hardened_clay 0
+fill ~95~60~22 ~98~63~25 minecraft:stained_hardened_clay 8
+fill ~31~0~26 ~34~3~29 minecraft:stained_hardened_clay 0
+fill ~31~60~26 ~34~63~29 minecraft:stained_hardened_clay 0
+fill ~35~0~26 ~38~3~45 minecraft:stained_hardened_clay 4
+fill ~35~60~26 ~38~63~45 minecraft:stained_hardened_clay 4
+fill ~39~0~26 ~42~3~29 minecraft:stained_hardened_clay 8
+fill ~39~60~26 ~42~63~29 minecraft:stained_hardened_clay 8
+fill ~47~0~26 ~54~3~37 minecraft:wool 0
+fill ~47~60~26 ~54~63~37 minecraft:wool 0
+fill ~55~0~26 ~58~3~29 minecraft:stained_hardened_clay 13
+fill ~55~60~26 ~58~63~29 minecraft:stained_hardened_clay 13
+fill ~59~0~26 ~62~3~49 minecraft:wool 0
+fill ~59~60~26 ~62~63~49 minecraft:wool 0
+fill ~63~0~26 ~66~3~29 minecraft:stained_hardened_clay 14
+fill ~63~60~26 ~66~63~29 minecraft:stained_hardened_clay 14
+fill ~67~0~26 ~70~3~53 minecraft:wool 0
+fill ~67~60~26 ~70~63~53 minecraft:wool 0
+fill ~71~0~26 ~74~3~29 minecraft:stained_hardened_clay 6
+fill ~71~60~26 ~74~63~29 minecraft:stained_hardened_clay 6
+fill ~75~0~26 ~82~3~53 minecraft:wool 0
+fill ~75~60~26 ~82~63~53 minecraft:wool 0
+fill ~91~0~26 ~94~3~29 minecraft:stained_hardened_clay 8
+fill ~91~60~26 ~94~63~29 minecraft:stained_hardened_clay 8
+fill ~95~0~26 ~98~3~29 minecraft:stained_hardened_clay 0
+fill ~95~60~26 ~98~63~29 minecraft:stained_hardened_clay 0
+fill ~31~0~30 ~34~7~33 minecraft:stained_hardened_clay 8
+fill ~31~24~30 ~34~27~33 minecraft:stained_hardened_clay 1
+fill ~31~28~30 ~34~31~53 minecraft:wool 0
+fill ~31~32~30 ~34~35~33 minecraft:stained_hardened_clay 4
+fill ~31~36~30 ~34~39~57 minecraft:wool 0
+fill ~31~40~30 ~34~43~33 minecraft:stained_hardened_clay 6
+fill ~31~44~30 ~34~51~57 minecraft:wool 0
+fill ~31~60~30 ~34~63~33 minecraft:stained_hardened_clay 8
+fill ~39~0~30 ~42~3~41 minecraft:stained_hardened_clay 4
+fill ~39~60~30 ~42~63~41 minecraft:stained_hardened_clay 4
+fill ~43~0~30 ~46~3~33 minecraft:stained_hardened_clay 8
+fill ~43~60~30 ~46~63~33 minecraft:stained_hardened_clay 8
+fill ~55~0~30 ~58~3~33 minecraft:wool 0
+fill ~55~60~30 ~58~63~33 minecraft:wool 0
+fill ~63~0~30 ~66~3~33 minecraft:wool 0
+fill ~63~60~30 ~66~63~33 minecraft:wool 0
+fill ~71~0~30 ~74~3~33 minecraft:wool 0
+fill ~71~60~30 ~74~63~33 minecraft:wool 0
+fill ~87~0~30 ~90~3~33 minecraft:stained_hardened_clay 8
+fill ~87~60~30 ~90~63~33 minecraft:stained_hardened_clay 8
+fill ~91~0~30 ~94~3~49 minecraft:stained_hardened_clay 4
+fill ~91~60~30 ~94~63~49 minecraft:stained_hardened_clay 4
+fill ~95~0~30 ~98~7~33 minecraft:stained_hardened_clay 8
+fill ~95~24~30 ~98~27~33 minecraft:stained_hardened_clay 1
+fill ~95~28~30 ~98~31~53 minecraft:wool 0
+fill ~95~32~30 ~98~35~33 minecraft:stained_hardened_clay 4
+fill ~95~36~30 ~98~39~57 minecraft:wool 0
+fill ~95~40~30 ~98~43~33 minecraft:stained_hardened_clay 6
+fill ~95~44~30 ~98~51~57 minecraft:wool 0
+fill ~95~60~30 ~98~63~33 minecraft:stained_hardened_clay 8
+fill ~31~0~34 ~34~7~53 minecraft:stained_hardened_clay 4
+fill ~31~8~34 ~34~11~37 minecraft:stained_hardened_clay 8
+fill ~31~24~34 ~34~27~37 minecraft:wool 0
+fill ~31~32~34 ~34~35~37 minecraft:wool 0
+fill ~31~40~34 ~34~43~37 minecraft:wool 0
+fill ~31~56~34 ~34~59~37 minecraft:stained_hardened_clay 8
+fill ~31~60~34 ~34~63~53 minecraft:stained_hardened_clay 4
+fill ~43~0~34 ~46~3~37 minecraft:stained_hardened_clay 4
+fill ~43~60~34 ~46~63~37 minecraft:stained_hardened_clay 4
+fill ~55~0~34 ~58~3~37 minecraft:stained_hardened_clay 14
+fill ~55~60~34 ~58~63~37 minecraft:stained_hardened_clay 14
+fill ~63~0~34 ~66~3~37 minecraft:stained_hardened_clay 6
+fill ~63~60~34 ~66~63~37 minecraft:stained_hardened_clay 6
+fill ~71~0~34 ~74~3~37 minecraft:stained_hardened_clay 4
+fill ~71~60~34 ~74~63~37 minecraft:stained_hardened_clay 4
+fill ~83~0~34 ~86~3~37 minecraft:stained_hardened_clay 8
+fill ~83~60~34 ~86~63~37 minecraft:stained_hardened_clay 8
+fill ~87~0~34 ~90~3~45 minecraft:stained_hardened_clay 4
+fill ~87~60~34 ~90~63~45 minecraft:stained_hardened_clay 4
+fill ~95~0~34 ~98~7~53 minecraft:stained_hardened_clay 4
+fill ~95~8~34 ~98~11~37 minecraft:stained_hardened_clay 8
+fill ~95~24~34 ~98~27~37 minecraft:wool 0
+fill ~95~32~34 ~98~35~37 minecraft:wool 0
+fill ~95~40~34 ~98~43~37 minecraft:wool 0
+fill ~95~56~34 ~98~59~37 minecraft:stained_hardened_clay 8
+fill ~95~60~34 ~98~63~53 minecraft:stained_hardened_clay 4
+fill ~31~8~38 ~34~11~49 minecraft:stained_hardened_clay 4
+fill ~31~12~38 ~34~15~41 minecraft:stained_hardened_clay 8
+fill ~31~24~38 ~34~27~41 minecraft:stained_hardened_clay 6
+fill ~31~32~38 ~34~35~41 minecraft:stained_hardened_clay 6
+fill ~31~40~38 ~34~43~41 minecraft:stained_hardened_clay 14
+fill ~31~52~38 ~34~55~41 minecraft:stained_hardened_clay 8
+fill ~31~56~38 ~34~59~49 minecraft:stained_hardened_clay 4
+fill ~43~0~38 ~46~3~41 minecraft:stained_hardened_clay 8
+fill ~43~60~38 ~46~63~41 minecraft:stained_hardened_clay 8
+fill ~47~0~38 ~50~3~45 minecraft:wool 8
+fill ~47~60~38 ~50~63~45 minecraft:wool 8
+fill ~51~0~38 ~58~3~41 minecraft:wool 0
+fill ~51~60~38 ~58~63~41 minecraft:wool 0
+fill ~63~0~38 ~66~3~41 minecraft:wool 0
+fill ~63~60~38 ~66~63~41 minecraft:wool 0
+fill ~71~0~38 ~74~3~41 minecraft:wool 0
+fill ~71~60~38 ~74~63~41 minecraft:wool 0
+fill ~83~0~38 ~86~3~41 minecraft:stained_hardened_clay 4
+fill ~83~60~38 ~86~63~41 minecraft:stained_hardened_clay 4
+fill ~95~8~38 ~98~11~49 minecraft:stained_hardened_clay 4
+fill ~95~12~38 ~98~15~41 minecraft:stained_hardened_clay 8
+fill ~95~24~38 ~98~27~41 minecraft:stained_hardened_clay 6
+fill ~95~32~38 ~98~35~41 minecraft:stained_hardened_clay 6
+fill ~95~40~38 ~98~43~41 minecraft:stained_hardened_clay 14
+fill ~95~52~38 ~98~55~41 minecraft:stained_hardened_clay 8
+fill ~95~56~38 ~98~59~49 minecraft:stained_hardened_clay 4
+fill ~31~12~42 ~34~15~45 minecraft:stained_hardened_clay 4
+fill ~31~16~42 ~34~19~49 minecraft:wool 8
+fill ~31~20~42 ~34~23~53 minecraft:wool 0
+fill ~31~24~42 ~34~27~45 minecraft:wool 0
+fill ~31~32~42 ~34~35~45 minecraft:wool 0
+fill ~31~40~42 ~34~43~45 minecraft:wool 0
+fill ~31~52~42 ~34~55~45 minecraft:stained_hardened_clay 4
+fill ~39~0~42 ~42~3~45 minecraft:stained_hardened_clay 8
+fill ~39~60~42 ~42~63~45 minecraft:stained_hardened_clay 8
+fill ~43~0~42 ~46~3~65 minecraft:stained_hardened_clay 0
+fill ~43~60~42 ~46~63~65 minecraft:stained_hardened_clay 0
+fill ~51~0~42 ~54~3~49 minecraft:wool 0
+fill ~51~60~42 ~54~63~49 minecraft:wool 0
+fill ~55~0~42 ~58~3~45 minecraft:stained_hardened_clay 1
+fill ~55~60~42 ~58~63~45 minecraft:stained_hardened_clay 1
+fill ~63~0~42 ~66~3~45 minecraft:stained_hardened_clay 6
+fill ~63~60~42 ~66~63~45 minecraft:stained_hardened_clay 6
+fill ~71~0~42 ~74~3~45 minecraft:stained_hardened_clay 1
+fill ~71~60~42 ~74~63~45 minecraft:stained_hardened_clay 1
+fill ~83~0~42 ~86~3~45 minecraft:stained_hardened_clay 8
+fill ~83~60~42 ~86~63~45 minecraft:stained_hardened_clay 8
+fill ~95~12~42 ~98~15~45 minecraft:stained_hardened_clay 4
+fill ~95~16~42 ~98~19~49 minecraft:wool 8
+fill ~95~20~42 ~98~23~53 minecraft:wool 0
+fill ~95~24~42 ~98~27~45 minecraft:wool 0
+fill ~95~32~42 ~98~35~45 minecraft:wool 0
+fill ~95~40~42 ~98~43~45 minecraft:wool 0
+fill ~95~52~42 ~98~55~45 minecraft:stained_hardened_clay 4
+fill ~31~12~46 ~34~15~49 minecraft:stained_hardened_clay 8
+fill ~31~24~46 ~34~27~49 minecraft:stained_hardened_clay 1
+fill ~31~32~46 ~34~35~49 minecraft:stained_hardened_clay 14
+fill ~31~40~46 ~34~43~49 minecraft:stained_hardened_clay 13
+fill ~31~52~46 ~34~55~49 minecraft:stained_hardened_clay 8
+fill ~35~0~46 ~38~3~49 minecraft:stained_hardened_clay 8
+fill ~35~60~46 ~38~63~49 minecraft:stained_hardened_clay 8
+fill ~39~0~46 ~42~3~61 minecraft:stained_hardened_clay 0
+fill ~39~60~46 ~42~63~61 minecraft:stained_hardened_clay 0
+fill ~47~0~46 ~50~3~53 minecraft:wool 7
+fill ~47~60~46 ~50~63~53 minecraft:wool 7
+fill ~55~0~46 ~58~3~49 minecraft:wool 0
+fill ~55~60~46 ~58~63~49 minecraft:wool 0
+fill ~63~0~46 ~66~3~53 minecraft:wool 0
+fill ~63~60~46 ~66~63~53 minecraft:wool 0
+fill ~71~0~46 ~74~3~53 minecraft:wool 0
+fill ~71~60~46 ~74~63~53 minecraft:wool 0
+fill ~83~0~46 ~86~3~65 minecraft:stained_hardened_clay 0
+fill ~83~60~46 ~86~63~65 minecraft:stained_hardened_clay 0
+fill ~87~0~46 ~90~3~49 minecraft:stained_hardened_clay 8
+fill ~87~60~46 ~90~63~49 minecraft:stained_hardened_clay 8
+fill ~95~12~46 ~98~15~49 minecraft:stained_hardened_clay 8
+fill ~95~24~46 ~98~27~49 minecraft:stained_hardened_clay 1
+fill ~95~32~46 ~98~35~49 minecraft:stained_hardened_clay 14
+fill ~95~40~46 ~98~43~49 minecraft:stained_hardened_clay 13
+fill ~95~52~46 ~98~55~49 minecraft:stained_hardened_clay 8
+fill ~31~8~50 ~34~11~53 minecraft:stained_hardened_clay 8
+fill ~31~12~50 ~34~15~69 minecraft:stained_hardened_clay 0
+fill ~31~16~50 ~34~19~57 minecraft:wool 7
+fill ~31~24~50 ~34~27~53 minecraft:wool 0
+fill ~31~32~50 ~34~35~57 minecraft:wool 0
+fill ~31~40~50 ~34~43~57 minecraft:wool 0
+fill ~31~52~50 ~34~55~69 minecraft:stained_hardened_clay 0
+fill ~31~56~50 ~34~59~53 minecraft:stained_hardened_clay 8
+fill ~35~0~50 ~38~3~57 minecraft:stained_hardened_clay 0
+fill ~35~60~50 ~38~63~57 minecraft:stained_hardened_clay 0
+fill ~51~0~50 ~54~3~53 minecraft:wool 7
+fill ~51~60~50 ~54~63~53 minecraft:wool 7
+fill ~55~0~50 ~62~3~53 minecraft:wool 8
+fill ~55~60~50 ~62~63~53 minecraft:wool 8
+fill ~87~0~50 ~90~3~61 minecraft:stained_hardened_clay 0
+fill ~87~60~50 ~90~63~61 minecraft:stained_hardened_clay 0
+fill ~91~0~50 ~94~3~53 minecraft:stained_hardened_clay 8
+fill ~91~60~50 ~94~63~53 minecraft:stained_hardened_clay 8
+fill ~95~8~50 ~98~11~53 minecraft:stained_hardened_clay 8
+fill ~95~12~50 ~98~15~69 minecraft:stained_hardened_clay 0
+fill ~95~16~50 ~98~19~57 minecraft:wool 7
+fill ~95~24~50 ~98~27~53 minecraft:wool 0
+fill ~95~32~50 ~98~35~57 minecraft:wool 0
+fill ~95~40~50 ~98~43~57 minecraft:wool 0
+fill ~95~52~50 ~98~55~69 minecraft:stained_hardened_clay 0
+fill ~95~56~50 ~98~59~53 minecraft:stained_hardened_clay 8
+fill ~31~0~54 ~34~7~57 minecraft:stained_hardened_clay 8
+fill ~31~8~54 ~34~11~65 minecraft:stained_hardened_clay 0
+fill ~31~20~54 ~34~23~57 minecraft:wool 7
+fill ~31~24~54 ~34~31~57 minecraft:wool 8
+fill ~31~56~54 ~34~59~65 minecraft:stained_hardened_clay 0
+fill ~31~60~54 ~34~63~57 minecraft:stained_hardened_clay 8
+fill ~47~0~54 ~54~3~57 minecraft:stained_hardened_clay 0
+fill ~47~60~54 ~54~63~57 minecraft:stained_hardened_clay 0
+fill ~55~0~54 ~58~3~57 minecraft:stained_hardened_clay 8
+fill ~55~60~54 ~58~63~57 minecraft:stained_hardened_clay 8
+fill ~59~0~54 ~62~3~73 minecraft:stained_hardened_clay 4
+fill ~59~60~54 ~62~63~73 minecraft:stained_hardened_clay 4
+fill ~63~0~54 ~66~3~57 minecraft:stained_hardened_clay 8
+fill ~63~60~54 ~66~63~57 minecraft:stained_hardened_clay 8
+fill ~67~0~54 ~82~3~57 minecraft:stained_hardened_clay 0
+fill ~67~60~54 ~82~63~57 minecraft:stained_hardened_clay 0
+fill ~91~0~54 ~94~3~57 minecraft:stained_hardened_clay 0
+fill ~91~60~54 ~94~63~57 minecraft:stained_hardened_clay 0
+fill ~95~0~54 ~98~7~57 minecraft:stained_hardened_clay 8
+fill ~95~8~54 ~98~11~65 minecraft:stained_hardened_clay 0
+fill ~95~20~54 ~98~23~57 minecraft:wool 7
+fill ~95~24~54 ~98~31~57 minecraft:wool 8
+fill ~95~56~54 ~98~59~65 minecraft:stained_hardened_clay 0
+fill ~95~60~54 ~98~63~57 minecraft:stained_hardened_clay 8
+fill ~31~0~58 ~34~7~61 minecraft:stained_hardened_clay 0
+fill ~31~16~58 ~34~19~69 minecraft:stained_hardened_clay 0
+fill ~31~20~58 ~34~23~65 minecraft:stained_hardened_clay 0
+fill ~31~24~58 ~34~27~61 minecraft:stained_hardened_clay 0
+fill ~31~28~58 ~34~31~61 minecraft:stained_hardened_clay 8
+fill ~31~32~58 ~34~35~73 minecraft:stained_hardened_clay 4
+fill ~31~36~58 ~34~39~61 minecraft:stained_hardened_clay 8
+fill ~31~40~58 ~34~51~61 minecraft:stained_hardened_clay 0
+fill ~31~60~58 ~34~63~61 minecraft:stained_hardened_clay 0
+fill ~35~0~58 ~38~3~61 minecraft:stained_hardened_clay 8
+fill ~35~60~58 ~38~63~61 minecraft:stained_hardened_clay 8
+fill ~47~0~58 ~50~3~61 minecraft:stained_hardened_clay 0
+fill ~47~60~58 ~50~63~61 minecraft:stained_hardened_clay 0
+fill ~51~0~58 ~54~3~61 minecraft:stained_hardened_clay 8
+fill ~51~60~58 ~54~63~61 minecraft:stained_hardened_clay 8
+fill ~55~0~58 ~58~3~73 minecraft:stained_hardened_clay 4
+fill ~55~60~58 ~58~63~73 minecraft:stained_hardened_clay 4
+fill ~63~0~58 ~66~3~73 minecraft:stained_hardened_clay 4
+fill ~63~60~58 ~66~63~73 minecraft:stained_hardened_clay 4
+fill ~67~0~58 ~70~3~61 minecraft:stained_hardened_clay 8
+fill ~67~60~58 ~70~63~61 minecraft:stained_hardened_clay 8
+fill ~71~0~58 ~82~3~61 minecraft:stained_hardened_clay 0
+fill ~71~60~58 ~82~63~61 minecraft:stained_hardened_clay 0
+fill ~91~0~58 ~94~3~61 minecraft:stained_hardened_clay 8
+fill ~91~60~58 ~94~63~61 minecraft:stained_hardened_clay 8
+fill ~95~0~58 ~98~7~61 minecraft:stained_hardened_clay 0
+fill ~95~16~58 ~98~19~69 minecraft:stained_hardened_clay 0
+fill ~95~20~58 ~98~23~65 minecraft:stained_hardened_clay 0
+fill ~95~24~58 ~98~27~61 minecraft:stained_hardened_clay 0
+fill ~95~28~58 ~98~31~61 minecraft:stained_hardened_clay 8
+fill ~95~32~58 ~98~35~73 minecraft:stained_hardened_clay 4
+fill ~95~36~58 ~98~39~61 minecraft:stained_hardened_clay 8
+fill ~95~40~58 ~98~51~61 minecraft:stained_hardened_clay 0
+fill ~95~60~58 ~98~63~61 minecraft:stained_hardened_clay 0
+fill ~31~0~62 ~34~7~65 minecraft:stained_hardened_clay 8
+fill ~31~24~62 ~34~27~65 minecraft:stained_hardened_clay 8
+fill ~31~28~62 ~34~31~73 minecraft:stained_hardened_clay 4
+fill ~31~36~62 ~34~39~73 minecraft:stained_hardened_clay 4
+fill ~31~40~62 ~34~43~65 minecraft:stained_hardened_clay 8
+fill ~31~44~62 ~34~51~65 minecraft:stained_hardened_clay 0
+fill ~31~60~62 ~34~63~65 minecraft:stained_hardened_clay 8
+fill ~35~0~62 ~38~3~73 minecraft:stained_hardened_clay 4
+fill ~35~60~62 ~38~63~73 minecraft:stained_hardened_clay 4
+fill ~39~0~62 ~42~3~65 minecraft:stained_hardened_clay 8
+fill ~39~60~62 ~42~63~65 minecraft:stained_hardened_clay 8
+fill ~47~0~62 ~50~3~65 minecraft:stained_hardened_clay 8
+fill ~47~60~62 ~50~63~65 minecraft:stained_hardened_clay 8
+fill ~51~0~62 ~54~3~73 minecraft:stained_hardened_clay 4
+fill ~51~60~62 ~54~63~73 minecraft:stained_hardened_clay 4
+fill ~67~0~62 ~70~3~73 minecraft:stained_hardened_clay 4
+fill ~67~60~62 ~70~63~73 minecraft:stained_hardened_clay 4
+fill ~71~0~62 ~74~3~65 minecraft:stained_hardened_clay 8
+fill ~71~60~62 ~74~63~65 minecraft:stained_hardened_clay 8
+fill ~75~0~62 ~82~3~65 minecraft:stained_hardened_clay 0
+fill ~75~60~62 ~82~63~65 minecraft:stained_hardened_clay 0
+fill ~87~0~62 ~90~3~65 minecraft:stained_hardened_clay 8
+fill ~87~60~62 ~90~63~65 minecraft:stained_hardened_clay 8
+fill ~91~0~62 ~94~3~73 minecraft:stained_hardened_clay 4
+fill ~91~60~62 ~94~63~73 minecraft:stained_hardened_clay 4
+fill ~95~0~62 ~98~7~65 minecraft:stained_hardened_clay 8
+fill ~95~24~62 ~98~27~65 minecraft:stained_hardened_clay 8
+fill ~95~28~62 ~98~31~73 minecraft:stained_hardened_clay 4
+fill ~95~36~62 ~98~39~73 minecraft:stained_hardened_clay 4
+fill ~95~40~62 ~98~43~65 minecraft:stained_hardened_clay 8
+fill ~95~44~62 ~98~51~65 minecraft:stained_hardened_clay 0
+fill ~95~60~62 ~98~63~65 minecraft:stained_hardened_clay 8
+fill ~31~0~66 ~34~3~73 minecraft:stained_hardened_clay 4
+fill ~31~4~66 ~34~7~69 minecraft:stained_hardened_clay 1
+fill ~31~8~66 ~34~11~69 minecraft:stained_hardened_clay 8
+fill ~31~20~66 ~34~23~69 minecraft:stained_hardened_clay 8
+fill ~31~24~66 ~34~27~73 minecraft:stained_hardened_clay 4
+fill ~31~40~66 ~34~43~73 minecraft:stained_hardened_clay 4
+fill ~31~44~66 ~34~47~69 minecraft:stained_hardened_clay 8
+fill ~31~48~66 ~34~51~69 minecraft:stained_hardened_clay 0
+fill ~31~56~66 ~34~59~69 minecraft:stained_hardened_clay 8
+fill ~31~60~66 ~34~63~73 minecraft:stained_hardened_clay 4
+fill ~39~0~66 ~42~3~69 minecraft:stained_hardened_clay 4
+fill ~39~60~66 ~42~63~69 minecraft:stained_hardened_clay 4
+fill ~43~0~66 ~46~3~69 minecraft:stained_hardened_clay 8
+fill ~43~60~66 ~46~63~69 minecraft:stained_hardened_clay 8
+fill ~47~0~66 ~50~3~69 minecraft:stained_hardened_clay 4
+fill ~47~60~66 ~50~63~69 minecraft:stained_hardened_clay 4
+fill ~71~0~66 ~74~3~69 minecraft:stained_hardened_clay 4
+fill ~71~60~66 ~74~63~69 minecraft:stained_hardened_clay 4
+fill ~75~0~66 ~78~3~69 minecraft:stained_hardened_clay 8
+fill ~75~60~66 ~78~63~69 minecraft:stained_hardened_clay 8
+fill ~79~0~66 ~82~3~69 minecraft:stained_hardened_clay 0
+fill ~79~60~66 ~82~63~69 minecraft:stained_hardened_clay 0
+fill ~83~0~66 ~86~3~69 minecraft:stained_hardened_clay 8
+fill ~83~60~66 ~86~63~69 minecraft:stained_hardened_clay 8
+fill ~87~0~66 ~90~3~73 minecraft:stained_hardened_clay 4
+fill ~87~60~66 ~90~63~73 minecraft:stained_hardened_clay 4
+fill ~95~0~66 ~98~3~73 minecraft:stained_hardened_clay 4
+fill ~95~4~66 ~98~7~69 minecraft:stained_hardened_clay 1
+fill ~95~8~66 ~98~11~69 minecraft:stained_hardened_clay 8
+fill ~95~20~66 ~98~23~69 minecraft:stained_hardened_clay 8
+fill ~95~24~66 ~98~27~73 minecraft:stained_hardened_clay 4
+fill ~95~40~66 ~98~43~73 minecraft:stained_hardened_clay 4
+fill ~95~44~66 ~98~47~69 minecraft:stained_hardened_clay 8
+fill ~95~48~66 ~98~51~69 minecraft:stained_hardened_clay 0
+fill ~95~56~66 ~98~59~69 minecraft:stained_hardened_clay 8
+fill ~95~60~66 ~98~63~73 minecraft:stained_hardened_clay 4
+fill ~31~4~70 ~34~11~73 minecraft:stained_hardened_clay 4
+fill ~31~12~70 ~34~15~73 minecraft:stained_hardened_clay 8
+fill ~31~16~70 ~34~23~73 minecraft:stained_hardened_clay 4
+fill ~31~44~70 ~34~47~73 minecraft:stained_hardened_clay 4
+fill ~31~48~70 ~34~55~73 minecraft:stained_hardened_clay 8
+fill ~31~56~70 ~34~59~73 minecraft:stained_hardened_clay 4
+fill ~35~4~70 ~38~7~73 minecraft:stained_hardened_clay 1
+fill ~35~8~70 ~38~11~73 minecraft:stained_hardened_clay 8
+fill ~35~12~70 ~54~15~73 minecraft:stained_hardened_clay 0
+fill ~35~16~70 ~46~19~73 minecraft:stained_hardened_clay 0
+fill ~35~20~70 ~38~23~73 minecraft:stained_hardened_clay 8
+fill ~35~24~70 ~38~43~73 minecraft:stained_hardened_clay 4
+fill ~35~44~70 ~38~47~73 minecraft:stained_hardened_clay 8
+fill ~35~48~70 ~46~55~73 minecraft:stained_hardened_clay 0
+fill ~35~56~70 ~38~59~73 minecraft:stained_hardened_clay 8
+fill ~39~0~70 ~42~7~73 minecraft:stained_hardened_clay 8
+fill ~39~8~70 ~50~11~73 minecraft:stained_hardened_clay 0
+fill ~39~20~70 ~46~23~73 minecraft:stained_hardened_clay 0
+fill ~39~24~70 ~42~27~73 minecraft:stained_hardened_clay 8
+fill ~39~28~70 ~42~39~73 minecraft:stained_hardened_clay 4
+fill ~39~40~70 ~42~43~73 minecraft:stained_hardened_clay 8
+fill ~39~44~70 ~46~47~73 minecraft:stained_hardened_clay 0
+fill ~39~56~70 ~50~59~73 minecraft:stained_hardened_clay 0
+fill ~39~60~70 ~42~63~73 minecraft:stained_hardened_clay 8
+fill ~43~0~70 ~46~7~73 minecraft:stained_hardened_clay 0
+fill ~43~24~70 ~46~27~73 minecraft:stained_hardened_clay 0
+fill ~43~28~70 ~46~31~73 minecraft:stained_hardened_clay 8
+fill ~43~32~70 ~46~35~73 minecraft:stained_hardened_clay 4
+fill ~43~36~70 ~46~39~73 minecraft:stained_hardened_clay 8
+fill ~43~40~70 ~46~43~73 minecraft:stained_hardened_clay 0
+fill ~43~60~70 ~46~63~73 minecraft:stained_hardened_clay 0
+fill ~47~0~70 ~50~7~73 minecraft:stained_hardened_clay 8
+fill ~47~16~70 ~66~23~73 minecraft:wool 0
+fill ~47~24~70 ~54~51~73 minecraft:wool 0
+fill ~47~52~70 ~54~55~73 minecraft:stained_hardened_clay 0
+fill ~47~60~70 ~50~63~73 minecraft:stained_hardened_clay 8
+fill ~51~4~70 ~70~7~73 minecraft:stained_hardened_clay 4
+fill ~51~8~70 ~54~11~73 minecraft:stained_hardened_clay 8
+fill ~51~56~70 ~54~59~73 minecraft:stained_hardened_clay 8
+fill ~55~8~70 ~66~11~73 minecraft:stained_hardened_clay 4
+fill ~55~12~70 ~58~15~73 minecraft:stained_hardened_clay 8
+fill ~55~24~70 ~58~27~73 minecraft:stained_hardened_clay 1
+fill ~55~28~70 ~78~31~73 minecraft:wool 0
+fill ~55~32~70 ~58~35~73 minecraft:stained_hardened_clay 14
+fill ~55~36~70 ~82~39~73 minecraft:wool 0
+fill ~55~40~70 ~58~43~73 minecraft:stained_hardened_clay 13
+fill ~55~44~70 ~82~51~73 minecraft:wool 0
+fill ~55~52~70 ~58~55~73 minecraft:stained_hardened_clay 8
+fill ~55~56~70 ~66~59~73 minecraft:stained_hardened_clay 4
+fill ~59~12~70 ~62~15~73 minecraft:stained_hardened_clay 4
+fill ~59~24~70 ~62~27~73 minecraft:wool 0
+fill ~59~32~70 ~62~35~73 minecraft:wool 0
+fill ~59~40~70 ~62~43~73 minecraft:wool 0
+fill ~59~52~70 ~62~55~73 minecraft:stained_hardened_clay 4
+fill ~63~12~70 ~66~15~73 minecraft:stained_hardened_clay 8
+fill ~63~24~70 ~66~27~73 minecraft:stained_hardened_clay 6
+fill ~63~32~70 ~66~35~73 minecraft:stained_hardened_clay 6
+fill ~63~40~70 ~66~43~73 minecraft:stained_hardened_clay 14
+fill ~63~52~70 ~66~55~73 minecraft:stained_hardened_clay 8
+fill ~67~8~70 ~70~11~73 minecraft:stained_hardened_clay 8
+fill ~67~12~70 ~94~15~73 minecraft:stained_hardened_clay 0
+fill ~67~16~70 ~74~19~73 minecraft:wool 8
+fill ~67~20~70 ~78~23~73 minecraft:wool 0
+fill ~67~24~70 ~70~27~73 minecraft:wool 0
+fill ~67~32~70 ~70~35~73 minecraft:wool 0
+fill ~67~40~70 ~70~43~73 minecraft:wool 0
+fill ~67~52~70 ~86~55~73 minecraft:stained_hardened_clay 0
+fill ~67~56~70 ~70~59~73 minecraft:stained_hardened_clay 8
+fill ~71~0~70 ~74~7~73 minecraft:stained_hardened_clay 8
+fill ~71~8~70 ~90~11~73 minecraft:stained_hardened_clay 0
+fill ~71~24~70 ~74~27~73 minecraft:stained_hardened_clay 1
+fill ~71~32~70 ~74~35~73 minecraft:stained_hardened_clay 4
+fill ~71~40~70 ~74~43~73 minecraft:stained_hardened_clay 6
+fill ~71~56~70 ~82~59~73 minecraft:stained_hardened_clay 0
+fill ~71~60~70 ~74~63~73 minecraft:stained_hardened_clay 8
+fill ~75~0~70 ~78~7~73 minecraft:stained_hardened_clay 0
+fill ~75~16~70 ~82~19~73 minecraft:wool 7
+fill ~75~24~70 ~78~27~73 minecraft:wool 0
+fill ~75~32~70 ~82~35~73 minecraft:wool 0
+fill ~75~40~70 ~82~43~73 minecraft:wool 0
+fill ~75~60~70 ~78~63~73 minecraft:stained_hardened_clay 0
+fill ~79~0~70 ~82~3~73 minecraft:stained_hardened_clay 8
+fill ~79~4~70 ~86~7~73 minecraft:stained_hardened_clay 0
+fill ~79~20~70 ~82~23~73 minecraft:wool 7
+fill ~79~24~70 ~82~31~73 minecraft:wool 8
+fill ~79~60~70 ~82~63~73 minecraft:stained_hardened_clay 8
+fill ~83~0~70 ~86~3~73 minecraft:stained_hardened_clay 4
+fill ~83~16~70 ~90~19~73 minecraft:stained_hardened_clay 0
+fill ~83~20~70 ~86~23~73 minecraft:stained_hardened_clay 0
+fill ~83~24~70 ~86~27~73 minecraft:stained_hardened_clay 8
+fill ~83~28~70 ~94~31~73 minecraft:stained_hardened_clay 4
+fill ~83~32~70 ~86~35~73 minecraft:stained_hardened_clay 8
+fill ~83~36~70 ~86~51~73 minecraft:stained_hardened_clay 0
+fill ~83~56~70 ~86~59~73 minecraft:stained_hardened_clay 8
+fill ~83~60~70 ~86~63~73 minecraft:stained_hardened_clay 4
+fill ~87~4~70 ~90~7~73 minecraft:stained_hardened_clay 8
+fill ~87~20~70 ~90~23~73 minecraft:stained_hardened_clay 8
+fill ~87~24~70 ~94~27~73 minecraft:stained_hardened_clay 4
+fill ~87~32~70 ~94~35~73 minecraft:stained_hardened_clay 4
+fill ~87~36~70 ~90~39~73 minecraft:stained_hardened_clay 8
+fill ~87~40~70 ~90~51~73 minecraft:stained_hardened_clay 0
+fill ~87~52~70 ~90~55~73 minecraft:stained_hardened_clay 8
+fill ~87~56~70 ~98~59~73 minecraft:stained_hardened_clay 4
+fill ~91~4~70 ~98~7~73 minecraft:stained_hardened_clay 4
+fill ~91~8~70 ~94~11~73 minecraft:stained_hardened_clay 8
+fill ~91~16~70 ~94~19~73 minecraft:stained_hardened_clay 8
+fill ~91~20~70 ~98~23~73 minecraft:stained_hardened_clay 4
+fill ~91~36~70 ~94~39~73 minecraft:stained_hardened_clay 4
+fill ~91~40~70 ~94~43~73 minecraft:stained_hardened_clay 8
+fill ~91~44~70 ~94~47~73 minecraft:stained_hardened_clay 0
+fill ~91~48~70 ~98~51~73 minecraft:stained_hardened_clay 8
+fill ~91~52~70 ~94~55~73 minecraft:stained_hardened_clay 4
+fill ~95~8~70 ~98~11~73 minecraft:stained_hardened_clay 4
+fill ~95~12~70 ~98~15~73 minecraft:stained_hardened_clay 8
+fill ~95~16~70 ~98~19~73 minecraft:stained_hardened_clay 4
+fill ~95~44~70 ~98~47~73 minecraft:stained_hardened_clay 4
+fill ~95~52~70 ~98~55~73 minecraft:stained_hardened_clay 8
+fill ~0~65~75 ~36~65~75 minecraft:concrete 15
+fill ~0~66~75 ~2~84~75 minecraft:concrete 15
+fill ~1~64~75 ~36~64~75 minecraft:concrete 15
+fill ~1~85~75 ~124~85~75 minecraft:concrete 15
+fill ~3~63~75 ~17~63~75 minecraft:concrete 15
+fill ~3~66~75 ~4~66~75 minecraft:concrete 7
+fill ~3~67~75 ~8~67~75 minecraft:concrete 0
+fill ~3~68~75 ~6~68~75 minecraft:concrete 0
+fill ~3~69~75 ~3~78~75 minecraft:concrete 0
+setblock ~3~79~75 minecraft:wool 8
+fill ~3~80~75 ~6~80~75 minecraft:concrete 0
+fill ~3~81~75 ~5~82~75 minecraft:concrete 0
+fill ~3~83~75 ~124~84~75 minecraft:concrete 15
+setblock ~4~69~75 minecraft:wool 8
+fill ~4~70~75 ~11~70~75 minecraft:concrete 0
+fill ~4~71~75 ~7~71~75 minecraft:concrete 0
+setblock ~4~72~75 minecraft:wool 8
+fill ~4~73~75 ~5~75~75 minecraft:concrete 0
+fill ~4~76~75 ~5~76~75 minecraft:wool 8
+fill ~4~77~75 ~6~78~75 minecraft:concrete 0
+setblock ~4~79~75 minecraft:concrete 8
+setblock ~5~66~75 minecraft:wool 7
+fill ~5~69~75 ~7~69~75 minecraft:concrete 0
+fill ~5~72~75 ~6~72~75 minecraft:concrete 0
+fill ~5~79~75 ~6~79~75 minecraft:concrete 0
+fill ~6~66~75 ~8~66~75 minecraft:concrete 7
+setblock ~6~73~75 minecraft:wool 8
+fill ~6~74~75 ~7~74~75 minecraft:concrete 0
+setblock ~6~75~75 minecraft:concrete 0
+setblock ~6~76~75 minecraft:wool 7
+fill ~6~81~75 ~7~81~75 minecraft:wool 8
+setblock ~6~82~75 minecraft:concrete 0
+fill ~7~68~75 ~8~68~75 minecraft:wool 8
+setblock ~7~72~75 minecraft:wool 8
+setblock ~7~73~75 minecraft:concrete 0
+fill ~7~75~75 ~7~76~75 minecraft:concrete 8
+fill ~7~77~75 ~7~78~75 minecraft:wool 8
+fill ~7~79~75 ~8~79~75 minecraft:concrete 8
+setblock ~7~80~75 minecraft:wool 8
+setblock ~7~82~75 minecraft:wool 8
+setblock ~8~69~75 minecraft:wool 8
+fill ~8~71~75 ~11~78~75 minecraft:concrete 15
+fill ~8~80~75 ~14~80~75 minecraft:concrete 0
+fill ~8~81~75 ~9~82~75 minecraft:concrete 0
+setblock ~9~66~75 minecraft:wool 7
+setblock ~9~67~75 minecraft:wool 8
+fill ~9~68~75 ~11~69~75 minecraft:concrete 0
+setblock ~9~79~75 minecraft:wool 8
+fill ~10~66~75 ~13~66~75 minecraft:concrete 7
+fill ~10~67~75 ~16~67~75 minecraft:concrete 0
+fill ~10~79~75 ~11~79~75 minecraft:concrete 0
+setblock ~10~81~75 minecraft:wool 8
+fill ~10~82~75 ~11~82~75 minecraft:concrete 0
+fill ~11~81~75 ~12~81~75 minecraft:concrete 0
+setblock ~12~68~75 minecraft:wool 8
+fill ~12~69~75 ~16~69~75 minecraft:concrete 0
+fill ~12~70~75 ~12~78~75 minecraft:wool 8
+setblock ~12~79~75 minecraft:wool 15
+setblock ~12~82~75 minecraft:wool 8
+setblock ~13~68~75 minecraft:concrete 0
+fill ~13~70~75 ~14~70~75 minecraft:concrete 0
+setblock ~13~71~75 minecraft:wool 8
+fill ~13~72~75 ~14~78~75 minecraft:concrete 0
+fill ~13~79~75 ~14~79~75 minecraft:concrete 8
+fill ~13~81~75 ~14~81~75 minecraft:wool 8
+fill ~13~82~75 ~16~82~75 minecraft:concrete 0
+fill ~14~66~75 ~15~66~75 minecraft:wool 7
+setblock ~14~68~75 minecraft:wool 8
+fill ~14~71~75 ~16~71~75 minecraft:concrete 0
+fill ~15~68~75 ~16~68~75 minecraft:concrete 0
+setblock ~15~70~75 minecraft:wool 8
+fill ~15~72~75 ~17~72~75 minecraft:wool 8
+fill ~15~73~75 ~15~78~75 minecraft:concrete 0
+fill ~15~79~75 ~15~80~75 minecraft:wool 8
+setblock ~15~81~75 minecraft:concrete 0
+fill ~16~66~75 ~17~66~75 minecraft:concrete 7
+setblock ~16~70~75 minecraft:concrete 0
+fill ~16~73~75 ~17~73~75 minecraft:wool 8
+setblock ~16~74~75 minecraft:concrete 0
+fill ~16~75~75 ~17~76~75 minecraft:wool 8
+fill ~16~77~75 ~16~80~75 minecraft:concrete 0
+fill ~16~81~75 ~17~81~75 minecraft:wool 8
+fill ~17~67~75 ~17~71~75 minecraft:wool 8
+setblock ~17~74~75 minecraft:wool 8
+fill ~17~77~75 ~17~80~75 minecraft:wool 8
+setblock ~17~82~75 minecraft:wool 8
+fill ~18~66~75 ~20~82~75 minecraft:concrete 15
+fill ~20~63~75 ~34~63~75 minecraft:concrete 15
+fill ~21~66~75 ~22~66~75 minecraft:wool 7
+fill ~21~67~75 ~21~70~75 minecraft:concrete 0
+fill ~21~71~75 ~21~72~75 minecraft:wool 8
+fill ~21~73~75 ~24~74~75 minecraft:concrete 0
+setblock ~21~75~75 minecraft:wool 8
+fill ~21~76~75 ~21~80~75 minecraft:concrete 0
+setblock ~21~81~75 minecraft:wool 8
+fill ~21~82~75 ~25~82~75 minecraft:concrete 0
+setblock ~22~67~75 minecraft:wool 8
+fill ~22~68~75 ~27~68~75 minecraft:concrete 0
+fill ~22~69~75 ~24~69~75 minecraft:wool 8
+fill ~22~70~75 ~22~71~75 minecraft:concrete 0
+fill ~22~72~75 ~23~72~75 minecraft:wool 8
+fill ~22~75~75 ~22~76~75 minecraft:concrete 8
+fill ~22~77~75 ~22~78~75 minecraft:wool 8
+fill ~22~79~75 ~22~81~75 minecraft:concrete 0
+setblock ~23~66~75 minecraft:concrete 7
+fill ~23~67~75 ~33~67~75 minecraft:concrete 0
+setblock ~23~70~75 minecraft:wool 8
+setblock ~23~71~75 minecraft:concrete 8
+fill ~23~75~75 ~25~75~75 minecraft:concrete 0
+setblock ~23~76~75 minecraft:concrete 8
+fill ~23~77~75 ~25~78~75 minecraft:concrete 0
+fill ~23~79~75 ~23~81~75 minecraft:wool 8
+setblock ~24~66~75 minecraft:wool 7
+fill ~24~70~75 ~33~70~75 minecraft:concrete 0
+fill ~24~71~75 ~25~72~75 minecraft:concrete 0
+fill ~24~76~75 ~25~76~75 minecraft:concrete 0
+fill ~24~79~75 ~24~81~75 minecraft:concrete 0
+setblock ~25~66~75 minecraft:concrete 7
+fill ~25~69~75 ~33~69~75 minecraft:concrete 0
+setblock ~25~73~75 minecraft:wool 8
+setblock ~25~74~75 minecraft:concrete 0
+setblock ~25~79~75 minecraft:wool 8
+fill ~25~80~75 ~25~81~75 minecraft:concrete 0
+setblock ~26~66~75 minecraft:wool 7
+fill ~26~71~75 ~28~82~75 minecraft:concrete 15
+fill ~27~66~75 ~28~66~75 minecraft:concrete 7
+fill ~28~68~75 ~29~68~75 minecraft:wool 8
+fill ~29~66~75 ~30~66~75 minecraft:wool 7
+fill ~29~71~75 ~30~75~75 minecraft:concrete 0
+setblock ~29~76~75 minecraft:concrete 8
+fill ~29~77~75 ~31~78~75 minecraft:concrete 0
+fill ~29~79~75 ~30~80~75 minecraft:concrete 0
+setblock ~29~81~75 minecraft:wool 8
+fill ~29~82~75 ~33~82~75 minecraft:concrete 0
+setblock ~30~68~75 minecraft:concrete 0
+setblock ~30~76~75 minecraft:wool 8
+fill ~30~81~75 ~33~81~75 minecraft:concrete 0
+fill ~31~66~75 ~32~66~75 minecraft:concrete 7
+setblock ~31~68~75 minecraft:concrete 8
+setblock ~31~71~75 minecraft:wool 8
+fill ~31~72~75 ~33~72~75 minecraft:concrete 0
+setblock ~31~73~75 minecraft:wool 8
+fill ~31~74~75 ~33~76~75 minecraft:concrete 0
+fill ~31~79~75 ~33~79~75 minecraft:wool 8
+fill ~31~80~75 ~33~80~75 minecraft:concrete 0
+setblock ~32~68~75 minecraft:concrete 0
+fill ~32~71~75 ~33~71~75 minecraft:concrete 0
+fill ~32~73~75 ~33~73~75 minecraft:concrete 0
+setblock ~32~77~75 minecraft:concrete 8
+fill ~32~78~75 ~33~78~75 minecraft:concrete 0
+setblock ~33~66~75 minecraft:wool 7
+setblock ~33~68~75 minecraft:concrete 7
+setblock ~33~77~75 minecraft:wool 8
+fill ~34~66~75 ~36~82~75 minecraft:concrete 15
+fill ~37~76~75 ~40~78~75 minecraft:concrete 15
+fill ~37~79~75 ~37~82~75 minecraft:concrete 8
+fill ~38~65~75 ~48~65~75 minecraft:concrete 15
+fill ~38~66~75 ~40~75~75 minecraft:concrete 15
+fill ~38~79~75 ~39~82~75 minecraft:concrete 0
+fill ~39~64~75 ~48~64~75 minecraft:concrete 15
+fill ~40~79~75 ~41~79~75 minecraft:wool 8
+fill ~40~80~75 ~49~80~75 minecraft:concrete 0
+fill ~40~81~75 ~45~81~75 minecraft:concrete 0
+fill ~40~82~75 ~43~82~75 minecraft:concrete 0
+fill ~41~63~75 ~46~63~75 minecraft:concrete 15
+fill ~41~66~75 ~45~66~75 minecraft:wool 7
+fill ~41~67~75 ~45~67~75 minecraft:concrete 0
+fill ~41~68~75 ~41~76~75 minecraft:concrete 0
+setblock ~41~77~75 minecraft:concrete 8
+fill ~41~78~75 ~45~78~75 minecraft:concrete 0
+setblock ~42~68~75 minecraft:wool 7
+fill ~42~69~75 ~44~69~75 minecraft:concrete 0
+fill ~42~70~75 ~43~74~75 minecraft:concrete 0
+setblock ~42~75~75 minecraft:wool 8
+fill ~42~76~75 ~42~77~75 minecraft:concrete 0
+fill ~42~79~75 ~43~79~75 minecraft:concrete 0
+setblock ~43~68~75 minecraft:wool 8
+fill ~43~75~75 ~45~75~75 minecraft:concrete 0
+fill ~43~76~75 ~43~77~75 minecraft:wool 8
+setblock ~44~68~75 minecraft:concrete 0
+setblock ~44~70~75 minecraft:concrete 7
+setblock ~44~71~75 minecraft:wool 8
+fill ~44~72~75 ~45~74~75 minecraft:concrete 0
+fill ~44~76~75 ~44~77~75 minecraft:concrete 0
+setblock ~44~79~75 minecraft:wool 7
+fill ~44~82~75 ~45~82~75 minecraft:wool 8
+fill ~45~68~75 ~45~70~75 minecraft:wool 8
+setblock ~45~71~75 minecraft:concrete 0
+setblock ~45~76~75 minecraft:concrete 8
+setblock ~45~77~75 minecraft:concrete 0
+fill ~45~79~75 ~49~79~75 minecraft:concrete 0
+fill ~46~66~75 ~48~78~75 minecraft:concrete 15
+setblock ~46~81~75 minecraft:concrete 0
+fill ~46~82~75 ~49~82~75 minecraft:concrete 0
+fill ~47~81~75 ~49~81~75 minecraft:concrete 0
+fill ~48~52~75 ~50~52~75 minecraft:concrete 15
+fill ~48~53~75 ~48~60~75 minecraft:concrete 15
+fill ~49~53~75 ~49~59~75 minecraft:concrete 4
+fill ~49~60~75 ~50~60~75 minecraft:concrete 15
+fill ~49~76~75 ~52~78~75 minecraft:concrete 15
+fill ~50~53~75 ~50~57~75 minecraft:concrete 15
+setblock ~50~58~75 minecraft:concrete 4
+setblock ~50~59~75 minecraft:wool 15
+fill ~50~64~75 ~109~65~75 minecraft:concrete 15
+fill ~50~66~75 ~52~75~75 minecraft:concrete 15
+fill ~50~79~75 ~52~82~75 minecraft:concrete 15
+fill ~51~55~75 ~52~55~75 minecraft:concrete 15
+setblock ~51~56~75 minecraft:concrete 15
+setblock ~51~57~75 minecraft:concrete 4
+fill ~51~58~75 ~52~59~75 minecraft:concrete 15
+fill ~52~52~75 ~60~52~75 minecraft:concrete 15
+fill ~52~53~75 ~52~54~75 minecraft:concrete 15
+fill ~52~56~75 ~53~56~75 minecraft:concrete 4
+setblock ~52~57~75 minecraft:concrete 15
+fill ~52~60~75 ~70~60~75 minecraft:concrete 15
+fill ~52~63~75 ~65~63~75 minecraft:concrete 15
+fill ~53~53~75 ~53~55~75 minecraft:concrete 4
+fill ~53~57~75 ~53~59~75 minecraft:concrete 4
+setblock ~53~66~75 minecraft:wool 7
+fill ~53~67~75 ~57~68~75 minecraft:concrete 0
+fill ~53~69~75 ~53~71~75 minecraft:concrete 0
+setblock ~53~72~75 minecraft:concrete 7
+fill ~53~73~75 ~54~79~75 minecraft:concrete 0
+fill ~53~80~75 ~53~82~75 minecraft:concrete 0
+fill ~54~53~75 ~54~59~75 minecraft:concrete 15
+setblock ~54~66~75 minecraft:concrete 7
+setblock ~54~69~75 minecraft:concrete 0
+fill ~54~70~75 ~56~71~75 minecraft:concrete 0
+setblock ~54~72~75 minecraft:wool 7
+setblock ~54~80~75 minecraft:wool 8
+fill ~54~81~75 ~54~82~75 minecraft:concrete 0
+fill ~55~53~75 ~58~53~75 minecraft:concrete 4
+fill ~55~54~75 ~55~59~75 minecraft:concrete 4
+setblock ~55~66~75 minecraft:wool 7
+fill ~55~69~75 ~56~69~75 minecraft:concrete 0
+fill ~55~72~75 ~56~72~75 minecraft:concrete 0
+setblock ~55~73~75 minecraft:wool 8
+fill ~55~74~75 ~64~74~75 minecraft:concrete 0
+fill ~55~75~75 ~59~75~75 minecraft:concrete 0
+fill ~55~76~75 ~57~78~75 minecraft:concrete 0
+fill ~55~79~75 ~55~80~75 minecraft:concrete 0
+setblock ~55~81~75 minecraft:wool 0
+fill ~55~82~75 ~56~82~75 minecraft:concrete 0
+fill ~56~54~75 ~56~56~75 minecraft:wool 15
+fill ~56~57~75 ~58~57~75 minecraft:concrete 4
+setblock ~56~58~75 minecraft:wool 15
+fill ~56~59~75 ~58~59~75 minecraft:concrete 4
+fill ~56~66~75 ~57~66~75 minecraft:concrete 7
+fill ~56~73~75 ~61~73~75 minecraft:concrete 0
+fill ~56~79~75 ~57~79~75 minecraft:wool 8
+fill ~56~80~75 ~57~81~75 minecraft:concrete 0
+fill ~57~54~75 ~58~54~75 minecraft:concrete 15
+fill ~57~56~75 ~58~56~75 minecraft:concrete 15
+fill ~57~58~75 ~58~58~75 minecraft:concrete 15
+setblock ~57~69~75 minecraft:concrete 8
+setblock ~57~70~75 minecraft:wool 8
+setblock ~57~71~75 minecraft:concrete 0
+setblock ~57~72~75 minecraft:wool 8
+setblock ~57~82~75 minecraft:wool 8
+setblock ~58~55~75 minecraft:concrete 15
+fill ~58~66~75 ~59~72~75 minecraft:concrete 15
+setblock ~58~76~75 minecraft:wool 8
+fill ~58~77~75 ~59~78~75 minecraft:concrete 15
+setblock ~58~79~75 minecraft:concrete 0
+setblock ~58~80~75 minecraft:wool 8
+fill ~58~81~75 ~58~82~75 minecraft:concrete 0
+setblock ~59~53~75 minecraft:concrete 4
+fill ~59~54~75 ~59~56~75 minecraft:wool 15
+setblock ~59~57~75 minecraft:concrete 4
+setblock ~59~58~75 minecraft:wool 15
+setblock ~59~59~75 minecraft:concrete 4
+fill ~59~76~75 ~60~76~75 minecraft:wool 7
+setblock ~59~79~75 minecraft:concrete 0
+fill ~59~80~75 ~64~80~75 minecraft:concrete 0
+fill ~59~81~75 ~59~82~75 minecraft:wool 8
+fill ~60~53~75 ~61~53~75 minecraft:concrete 15
+fill ~60~54~75 ~60~56~75 minecraft:concrete 4
+fill ~60~57~75 ~61~57~75 minecraft:concrete 15
+setblock ~60~58~75 minecraft:concrete 4
+setblock ~60~59~75 minecraft:wool 15
+fill ~60~66~75 ~61~66~75 minecraft:concrete 7
+fill ~60~67~75 ~61~67~75 minecraft:concrete 0
+setblock ~60~68~75 minecraft:wool 8
+fill ~60~69~75 ~60~72~75 minecraft:concrete 0
+setblock ~60~75~75 minecraft:wool 8
+fill ~60~77~75 ~60~78~75 minecraft:wool 8
+setblock ~60~79~75 minecraft:concrete 8
+fill ~60~81~75 ~62~81~75 minecraft:concrete 0
+setblock ~60~82~75 minecraft:wool 8
+fill ~61~54~75 ~61~56~75 minecraft:concrete 15
+fill ~61~58~75 ~63~58~75 minecraft:concrete 15
+setblock ~61~59~75 minecraft:concrete 15
+fill ~61~68~75 ~64~68~75 minecraft:concrete 0
+setblock ~61~69~75 minecraft:wool 8
+fill ~61~70~75 ~64~70~75 minecraft:concrete 0
+fill ~61~71~75 ~62~71~75 minecraft:concrete 0
+setblock ~61~72~75 minecraft:concrete 8
+fill ~61~75~75 ~64~78~75 minecraft:concrete 0
+setblock ~61~79~75 minecraft:wool 7
+fill ~61~82~75 ~64~82~75 minecraft:concrete 0
+fill ~62~59~75 ~66~59~75 minecraft:concrete 4
+setblock ~62~66~75 minecraft:wool 7
+setblock ~62~67~75 minecraft:wool 8
+fill ~62~69~75 ~64~69~75 minecraft:concrete 0
+fill ~62~72~75 ~64~72~75 minecraft:concrete 0
+fill ~62~73~75 ~63~73~75 minecraft:wool 8
+fill ~62~79~75 ~64~79~75 minecraft:concrete 0
+fill ~63~52~75 ~65~52~75 minecraft:concrete 15
+fill ~63~53~75 ~63~57~75 minecraft:concrete 15
+fill ~63~66~75 ~64~66~75 minecraft:concrete 7
+fill ~63~67~75 ~64~67~75 minecraft:concrete 0
+fill ~63~71~75 ~64~71~75 minecraft:wool 8
+setblock ~63~81~75 minecraft:wool 8
+fill ~64~53~75 ~64~58~75 minecraft:concrete 4
+fill ~64~73~75 ~67~73~75 minecraft:concrete 15
+setblock ~64~81~75 minecraft:concrete 0
+fill ~65~53~75 ~65~58~75 minecraft:concrete 15
+fill ~65~66~75 ~67~72~75 minecraft:concrete 15
+fill ~65~74~75 ~67~82~75 minecraft:concrete 15
+fill ~66~58~75 ~68~58~75 minecraft:concrete 15
+setblock ~67~57~75 minecraft:concrete 15
+fill ~67~59~75 ~68~59~75 minecraft:concrete 15
+fill ~68~56~75 ~70~56~75 minecraft:concrete 15
+setblock ~68~57~75 minecraft:concrete 4
+fill ~68~63~75 ~73~63~75 minecraft:concrete 15
+fill ~68~66~75 ~69~66~75 minecraft:concrete 7
+fill ~68~67~75 ~68~71~75 minecraft:wool 8
+setblock ~68~72~75 minecraft:concrete 8
+fill ~68~73~75 ~69~76~75 minecraft:wool 8
+fill ~68~77~75 ~68~78~75 minecraft:wool 8
+setblock ~68~79~75 minecraft:concrete 8
+fill ~68~80~75 ~68~82~75 minecraft:wool 8
+fill ~69~57~75 ~71~57~75 minecraft:concrete 15
+fill ~69~58~75 ~69~59~75 minecraft:concrete 4
+fill ~69~67~75 ~72~67~75 minecraft:concrete 0
+fill ~69~68~75 ~71~68~75 minecraft:concrete 0
+fill ~69~69~75 ~69~71~75 minecraft:concrete 0
+setblock ~69~72~75 minecraft:wool 8
+fill ~69~77~75 ~72~79~75 minecraft:concrete 0
+fill ~69~80~75 ~71~80~75 minecraft:concrete 0
+fill ~69~81~75 ~73~81~75 minecraft:wool 8
+fill ~69~82~75 ~72~82~75 minecraft:concrete 0
+fill ~70~52~75 ~76~52~75 minecraft:concrete 15
+setblock ~70~53~75 minecraft:concrete 15
+fill ~70~58~75 ~77~58~75 minecraft:concrete 15
+setblock ~70~59~75 minecraft:concrete 15
+setblock ~70~66~75 minecraft:wool 7
+setblock ~70~69~75 minecraft:wool 8
+fill ~70~70~75 ~71~76~75 minecraft:concrete 0
+fill ~71~53~75 ~75~53~75 minecraft:concrete 4
+fill ~71~54~75 ~75~54~75 minecraft:concrete 15
+setblock ~71~55~75 minecraft:concrete 15
+setblock ~71~56~75 minecraft:concrete 4
+setblock ~71~66~75 minecraft:concrete 7
+fill ~71~69~75 ~72~69~75 minecraft:concrete 0
+fill ~72~55~75 ~75~55~75 minecraft:concrete 4
+setblock ~72~56~75 minecraft:wool 15
+fill ~72~57~75 ~76~57~75 minecraft:concrete 4
+setblock ~72~66~75 minecraft:wool 7
+setblock ~72~68~75 minecraft:concrete 0
+fill ~72~70~75 ~73~70~75 minecraft:wool 8
+fill ~72~71~75 ~72~76~75 minecraft:concrete 0
+fill ~72~80~75 ~73~80~75 minecraft:wool 8
+fill ~73~56~75 ~76~56~75 minecraft:concrete 15
+setblock ~73~66~75 minecraft:concrete 7
+setblock ~73~67~75 minecraft:wool 8
+setblock ~73~68~75 minecraft:concrete 0
+setblock ~73~69~75 minecraft:wool 8
+fill ~73~71~75 ~73~79~75 minecraft:wool 8
+setblock ~73~82~75 minecraft:wool 8
+fill ~74~66~75 ~77~67~75 minecraft:concrete 15
+fill ~74~68~75 ~76~82~75 minecraft:concrete 15
+fill ~76~53~75 ~77~53~75 minecraft:concrete 15
+setblock ~76~54~75 minecraft:concrete 4
+fill ~76~55~75 ~77~55~75 minecraft:concrete 15
+setblock ~77~54~75 minecraft:concrete 15
+setblock ~77~57~75 minecraft:concrete 15
+fill ~77~68~75 ~80~71~75 minecraft:concrete 0
+fill ~77~72~75 ~79~72~75 minecraft:concrete 0
+fill ~77~73~75 ~77~80~75 minecraft:concrete 0
+fill ~77~81~75 ~78~81~75 minecraft:wool 8
+setblock ~77~82~75 minecraft:concrete 15
+fill ~78~63~75 ~90~63~75 minecraft:concrete 15
+setblock ~78~66~75 minecraft:wool 15
+setblock ~78~67~75 minecraft:concrete 8
+fill ~78~73~75 ~80~73~75 minecraft:wool 8
+fill ~78~74~75 ~81~74~75 minecraft:concrete 0
+fill ~78~75~75 ~78~78~75 minecraft:concrete 0
+setblock ~78~79~75 minecraft:wool 8
+fill ~78~80~75 ~87~80~75 minecraft:concrete 0
+setblock ~78~82~75 minecraft:concrete 8
+setblock ~79~66~75 minecraft:wool 7
+fill ~79~67~75 ~90~67~75 minecraft:concrete 0
+setblock ~79~75~75 minecraft:wool 8
+fill ~79~76~75 ~81~76~75 minecraft:concrete 0
+fill ~79~77~75 ~80~77~75 minecraft:concrete 0
+fill ~79~78~75 ~79~79~75 minecraft:concrete 0
+fill ~79~81~75 ~80~82~75 minecraft:concrete 0
+fill ~80~66~75 ~81~66~75 minecraft:concrete 7
+setblock ~80~72~75 minecraft:wool 8
+fill ~80~75~75 ~81~75~75 minecraft:concrete 0
+fill ~80~78~75 ~81~78~75 minecraft:wool 8
+fill ~80~79~75 ~81~79~75 minecraft:concrete 0
+fill ~81~68~75 ~84~68~75 minecraft:wool 8
+fill ~81~69~75 ~90~70~75 minecraft:concrete 0
+setblock ~81~71~75 minecraft:wool 8
+setblock ~81~72~75 minecraft:concrete 8
+setblock ~81~73~75 minecraft:concrete 0
+setblock ~81~77~75 minecraft:wool 8
+fill ~81~81~75 ~82~81~75 minecraft:wool 8
+fill ~81~82~75 ~90~82~75 minecraft:concrete 0
+fill ~82~66~75 ~85~66~75 minecraft:wool 7
+fill ~82~71~75 ~86~72~75 minecraft:concrete 15
+fill ~82~73~75 ~83~78~75 minecraft:concrete 15
+setblock ~82~79~75 minecraft:wool 8
+fill ~83~79~75 ~84~79~75 minecraft:concrete 0
+fill ~83~81~75 ~86~81~75 minecraft:concrete 0
+fill ~84~73~75 ~84~76~75 minecraft:concrete 0
+fill ~84~77~75 ~93~78~75 minecraft:concrete 15
+setblock ~85~68~75 minecraft:concrete 0
+setblock ~85~73~75 minecraft:wool 8
+fill ~85~74~75 ~90~74~75 minecraft:concrete 0
+fill ~85~75~75 ~88~75~75 minecraft:concrete 0
+fill ~85~76~75 ~87~76~75 minecraft:concrete 0
+fill ~85~79~75 ~86~79~75 minecraft:wool 8
+fill ~86~66~75 ~89~66~75 minecraft:concrete 7
+setblock ~86~68~75 minecraft:concrete 8
+fill ~86~73~75 ~90~73~75 minecraft:concrete 0
+setblock ~87~68~75 minecraft:wool 7
+fill ~87~71~75 ~90~72~75 minecraft:concrete 0
+setblock ~87~79~75 minecraft:concrete 0
+setblock ~87~81~75 minecraft:concrete 0
+fill ~88~68~75 ~89~68~75 minecraft:wool 8
+setblock ~88~76~75 minecraft:wool 8
+fill ~88~79~75 ~88~80~75 minecraft:wool 8
+fill ~88~81~75 ~90~81~75 minecraft:concrete 0
+setblock ~89~75~75 minecraft:wool 7
+fill ~89~76~75 ~90~76~75 minecraft:concrete 0
+fill ~89~79~75 ~90~80~75 minecraft:concrete 0
+setblock ~90~66~75 minecraft:wool 7
+setblock ~90~68~75 minecraft:concrete 0
+setblock ~90~75~75 minecraft:concrete 8
+fill ~91~66~75 ~93~76~75 minecraft:concrete 15
+fill ~91~79~75 ~93~82~75 minecraft:concrete 15
+fill ~93~63~75 ~99~63~75 minecraft:concrete 15
+fill ~94~66~75 ~98~66~75 minecraft:wool 7
+fill ~94~67~75 ~95~67~75 minecraft:wool 8
+fill ~94~68~75 ~94~69~75 minecraft:wool 8
+fill ~94~70~75 ~96~74~75 minecraft:concrete 0
+fill ~94~75~75 ~94~76~75 minecraft:concrete 0
+setblock ~94~77~75 minecraft:wool 8
+setblock ~94~78~75 minecraft:concrete 0
+setblock ~94~79~75 minecraft:wool 8
+fill ~94~80~75 ~98~82~75 minecraft:concrete 0
+setblock ~95~68~75 minecraft:wool 7
+setblock ~95~69~75 minecraft:wool 8
+fill ~95~75~75 ~95~76~75 minecraft:wool 8
+setblock ~95~77~75 minecraft:concrete 8
+fill ~95~78~75 ~96~78~75 minecraft:wool 8
+fill ~95~79~75 ~96~79~75 minecraft:concrete 0
+fill ~96~67~75 ~98~67~75 minecraft:concrete 0
+setblock ~96~68~75 minecraft:wool 8
+fill ~96~69~75 ~97~69~75 minecraft:concrete 0
+setblock ~96~75~75 minecraft:concrete 0
+fill ~96~76~75 ~96~77~75 minecraft:wool 8
+fill ~97~68~75 ~98~68~75 minecraft:concrete 0
+setblock ~97~70~75 minecraft:concrete 8
+setblock ~97~71~75 minecraft:wool 8
+fill ~97~72~75 ~98~75~75 minecraft:concrete 0
+fill ~97~76~75 ~97~78~75 minecraft:concrete 0
+setblock ~97~79~75 minecraft:wool 15
+fill ~98~69~75 ~98~70~75 minecraft:wool 8
+setblock ~98~71~75 minecraft:concrete 0
+setblock ~98~76~75 minecraft:concrete 8
+fill ~98~77~75 ~98~79~75 minecraft:concrete 0
+fill ~99~66~75 ~101~72~75 minecraft:concrete 15
+fill ~99~73~75 ~105~73~75 minecraft:concrete 0
+setblock ~99~74~75 minecraft:concrete 0
+fill ~99~75~75 ~99~76~75 minecraft:wool 8
+fill ~99~77~75 ~101~82~75 minecraft:concrete 15
+fill ~100~74~75 ~102~74~75 minecraft:wool 8
+fill ~100~75~75 ~101~76~75 minecraft:concrete 0
+fill ~102~63~75 ~107~63~75 minecraft:concrete 15
+setblock ~102~66~75 minecraft:wool 7
+fill ~102~67~75 ~102~72~75 minecraft:concrete 0
+fill ~102~75~75 ~104~75~75 minecraft:wool 8
+fill ~102~76~75 ~103~76~75 minecraft:concrete 0
+fill ~102~77~75 ~102~82~75 minecraft:concrete 0
+setblock ~103~66~75 minecraft:concrete 7
+setblock ~103~67~75 minecraft:concrete 8
+setblock ~103~68~75 minecraft:concrete 7
+setblock ~103~69~75 minecraft:concrete 8
+fill ~103~70~75 ~106~70~75 minecraft:concrete 0
+fill ~103~71~75 ~104~72~75 minecraft:concrete 0
+fill ~103~74~75 ~106~74~75 minecraft:concrete 0
+setblock ~103~77~75 minecraft:concrete 8
+setblock ~103~78~75 minecraft:wool 8
+fill ~103~79~75 ~106~79~75 minecraft:concrete 0
+setblock ~103~80~75 minecraft:wool 8
+fill ~103~81~75 ~106~82~75 minecraft:concrete 0
+fill ~104~66~75 ~106~66~75 minecraft:wool 7
+fill ~104~67~75 ~106~69~75 minecraft:concrete 0
+setblock ~104~76~75 minecraft:wool 8
+fill ~104~77~75 ~106~78~75 minecraft:concrete 0
+fill ~104~80~75 ~106~80~75 minecraft:concrete 0
+setblock ~105~71~75 minecraft:concrete 8
+setblock ~105~72~75 minecraft:wool 8
+setblock ~105~75~75 minecraft:wool 7
+fill ~105~76~75 ~106~76~75 minecraft:concrete 0
+setblock ~106~71~75 minecraft:concrete 0
+setblock ~106~72~75 minecraft:concrete 7
+setblock ~106~73~75 minecraft:wool 8
+setblock ~106~75~75 minecraft:concrete 0
+fill ~107~66~75 ~113~78~75 minecraft:concrete 15
+fill ~107~79~75 ~109~82~75 minecraft:concrete 15
+fill ~110~79~75 ~110~82~75 minecraft:concrete 8
+fill ~111~65~75 ~121~65~75 minecraft:concrete 15
+fill ~111~79~75 ~113~79~75 minecraft:concrete 0
+fill ~111~80~75 ~112~80~75 minecraft:wool 8
+fill ~111~81~75 ~118~81~75 minecraft:concrete 0
+fill ~111~82~75 ~117~82~75 minecraft:concrete 0
+fill ~112~64~75 ~121~64~75 minecraft:concrete 15
+fill ~113~80~75 ~118~80~75 minecraft:concrete 0
+fill ~114~63~75 ~119~63~75 minecraft:concrete 15
+fill ~114~66~75 ~118~66~75 minecraft:concrete 7
+fill ~114~67~75 ~118~67~75 minecraft:concrete 0
+fill ~114~68~75 ~114~71~75 minecraft:concrete 0
+setblock ~114~72~75 minecraft:concrete 8
+fill ~114~73~75 ~114~74~75 minecraft:concrete 0
+setblock ~114~75~75 minecraft:wool 8
+fill ~114~76~75 ~118~76~75 minecraft:concrete 0
+fill ~114~77~75 ~115~77~75 minecraft:concrete 0
+setblock ~114~78~75 minecraft:concrete 0
+setblock ~114~79~75 minecraft:concrete 15
+setblock ~115~68~75 minecraft:wool 8
+fill ~115~69~75 ~118~69~75 minecraft:concrete 0
+fill ~115~70~75 ~117~70~75 minecraft:concrete 0
+fill ~115~71~75 ~115~72~75 minecraft:concrete 0
+fill ~115~73~75 ~117~73~75 minecraft:wool 8
+fill ~115~74~75 ~118~75~75 minecraft:concrete 0
+setblock ~115~78~75 minecraft:wool 8
+fill ~115~79~75 ~117~79~75 minecraft:concrete 0
+fill ~116~68~75 ~118~68~75 minecraft:concrete 0
+fill ~116~71~75 ~117~71~75 minecraft:wool 8
+fill ~116~72~75 ~118~72~75 minecraft:concrete 0
+setblock ~116~77~75 minecraft:wool 8
+fill ~116~78~75 ~117~78~75 minecraft:concrete 0
+fill ~117~77~75 ~118~77~75 minecraft:concrete 0
+setblock ~118~70~75 minecraft:wool 8
+setblock ~118~71~75 minecraft:concrete 0
+setblock ~118~73~75 minecraft:concrete 0
+fill ~118~78~75 ~118~79~75 minecraft:wool 8
+setblock ~118~82~75 minecraft:wool 8
+fill ~119~66~75 ~121~78~75 minecraft:concrete 15
+fill ~119~79~75 ~121~79~75 minecraft:concrete 8
+setblock ~119~80~75 minecraft:concrete 8
+setblock ~119~81~75 minecraft:wool 8
+setblock ~119~82~75 minecraft:concrete 0
+fill ~120~80~75 ~122~80~75 minecraft:concrete 0
+fill ~120~81~75 ~121~81~75 minecraft:concrete 0
+setblock ~120~82~75 minecraft:wool 8
+fill ~121~82~75 ~122~82~75 minecraft:concrete 0
+fill ~122~76~75 ~124~78~75 minecraft:concrete 15
+setblock ~122~79~75 minecraft:concrete 0
+setblock ~122~81~75 minecraft:wool 8
+fill ~123~79~75 ~124~82~75 minecraft:concrete 15

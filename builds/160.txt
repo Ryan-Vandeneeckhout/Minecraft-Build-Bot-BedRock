@@ -1,0 +1,526 @@
+fill ~10~8~0 ~10~8~1 minecraft:fence 5
+fill ~18~6~0 ~18~6~1 minecraft:fence 5
+fill ~26~8~0 ~26~8~1 minecraft:fence 5
+fill ~34~6~0 ~34~6~1 minecraft:fence 5
+setblock ~9~8~1 minecraft:fence 5
+setblock ~10~3~1 minecraft:spruce_stairs 5
+setblock ~10~4~1 minecraft:spruce_stairs 4
+setblock ~10~5~1 minecraft:spruce_stairs 0
+setblock ~10~7~1 minecraft:fence 5
+setblock ~10~9~1 minecraft:fence 5
+setblock ~11~4~1 minecraft:wooden_slab 9
+fill ~11~5~1 ~13~5~3 minecraft:planks 1
+setblock ~12~4~1 minecraft:double_wooden_slab 1
+setblock ~13~4~1 minecraft:wooden_slab 9
+setblock ~14~4~1 minecraft:spruce_stairs 1
+setblock ~14~5~1 minecraft:spruce_stairs 2
+setblock ~15~3~1 minecraft:spruce_stairs 1
+setblock ~15~4~1 minecraft:stained_glass_pane 4
+fill ~16~3~1 ~16~4~1 minecraft:iron_bars
+setblock ~17~3~1 minecraft:stained_glass_pane 4
+setblock ~17~6~1 minecraft:fence 5
+setblock ~18~1~1 minecraft:spruce_stairs 5
+setblock ~18~2~1 minecraft:spruce_stairs 4
+setblock ~18~3~1 minecraft:spruce_stairs 0
+setblock ~18~5~1 minecraft:fence 5
+setblock ~18~7~1 minecraft:fence 5
+setblock ~19~2~1 minecraft:wooden_slab 9
+fill ~19~3~1 ~21~3~2 minecraft:planks 1
+setblock ~20~2~1 minecraft:double_wooden_slab 1
+setblock ~21~2~1 minecraft:wooden_slab 9
+setblock ~22~1~1 minecraft:spruce_stairs 5
+setblock ~22~2~1 minecraft:spruce_stairs 1
+setblock ~22~3~1 minecraft:spruce_stairs 2
+setblock ~23~3~1 minecraft:stained_glass_pane 4
+fill ~24~3~1 ~24~4~1 minecraft:iron_bars
+setblock ~25~4~1 minecraft:stained_glass_pane 4
+setblock ~25~8~1 minecraft:fence 5
+setblock ~26~3~1 minecraft:spruce_stairs 5
+setblock ~26~4~1 minecraft:spruce_stairs 4
+setblock ~26~5~1 minecraft:spruce_stairs 0
+setblock ~26~7~1 minecraft:fence 5
+setblock ~26~9~1 minecraft:fence 5
+setblock ~27~4~1 minecraft:wooden_slab 9
+fill ~27~5~1 ~29~5~2 minecraft:planks 1
+setblock ~28~4~1 minecraft:double_wooden_slab 1
+setblock ~29~4~1 minecraft:wooden_slab 9
+setblock ~30~4~1 minecraft:spruce_stairs 1
+setblock ~30~5~1 minecraft:spruce_stairs 2
+setblock ~31~3~1 minecraft:spruce_stairs 1
+setblock ~31~4~1 minecraft:stained_glass_pane 4
+fill ~32~3~1 ~32~4~1 minecraft:iron_bars
+setblock ~33~3~1 minecraft:stained_glass_pane 4
+setblock ~33~6~1 minecraft:fence 5
+setblock ~34~1~1 minecraft:spruce_stairs 5
+setblock ~34~2~1 minecraft:spruce_stairs 4
+setblock ~34~3~1 minecraft:spruce_stairs 0
+setblock ~34~5~1 minecraft:fence 5
+setblock ~34~7~1 minecraft:fence 5
+setblock ~35~2~1 minecraft:wooden_slab 9
+fill ~35~3~1 ~37~3~2 minecraft:planks 1
+setblock ~36~2~1 minecraft:double_wooden_slab 1
+setblock ~37~2~1 minecraft:wooden_slab 9
+setblock ~38~2~1 minecraft:spruce_stairs 1
+setblock ~38~3~1 minecraft:spruce_stairs 2
+setblock ~39~1~1 minecraft:spruce_stairs 1
+setblock ~39~3~1 minecraft:stained_glass_pane 4
+fill ~40~3~1 ~40~3~3 minecraft:iron_bars
+setblock ~45~2~1 minecraft:stained_hardened_clay 14
+setblock ~45~3~1 minecraft:stone_block_slab 6
+setblock ~46~2~1 minecraft:quartz_stairs 6
+setblock ~46~3~1 minecraft:quartz_stairs 0
+fill ~47~2~1 ~49~2~1 minecraft:stained_hardened_clay 14
+setblock ~47~3~1 minecraft:quartz_stairs 1
+setblock ~48~3~1 minecraft:stone_block_slab 6
+setblock ~49~3~1 minecraft:quartz_stairs 5
+setblock ~50~2~1 minecraft:quartz_stairs 6
+setblock ~50~3~1 minecraft:quartz_stairs 2
+setblock ~51~3~1 minecraft:stained_hardened_clay 14
+setblock ~51~4~1 minecraft:stone_block_slab 6
+fill ~9~4~2 ~9~4~3 minecraft:iron_bars
+setblock ~9~6~2 minecraft:wooden_slab 9
+setblock ~9~7~2 minecraft:spruce_stairs 0
+setblock ~10~4~2 minecraft:stained_glass_pane 4
+setblock ~10~5~2 minecraft:spruce_stairs 4
+fill ~10~6~2 ~10~7~2 minecraft:planks 1
+fill ~11~4~2 ~13~4~2 minecraft:planks 1
+setblock ~11~6~2 minecraft:spruce_stairs 1
+fill ~13~6~2 ~14~6~2 minecraft:wooden_slab 1
+setblock ~14~4~2 minecraft:wooden_slab 9
+setblock ~14~5~2 minecraft:planks 1
+setblock ~15~5~2 minecraft:spruce_stairs 5
+setblock ~17~4~2 minecraft:wooden_slab 9
+setblock ~17~5~2 minecraft:spruce_stairs 0
+setblock ~18~3~2 minecraft:spruce_stairs 4
+fill ~18~4~2 ~18~5~2 minecraft:planks 1
+fill ~19~2~2 ~21~2~2 minecraft:planks 1
+setblock ~19~4~2 minecraft:spruce_stairs 1
+fill ~21~4~2 ~22~4~2 minecraft:wooden_slab 1
+setblock ~22~2~2 minecraft:wooden_slab 9
+setblock ~22~3~2 minecraft:planks 1
+setblock ~23~3~2 minecraft:spruce_stairs 5
+setblock ~25~6~2 minecraft:wooden_slab 9
+setblock ~25~7~2 minecraft:spruce_stairs 0
+setblock ~26~5~2 minecraft:spruce_stairs 4
+fill ~26~6~2 ~26~7~2 minecraft:planks 1
+fill ~27~4~2 ~29~4~2 minecraft:planks 1
+setblock ~27~6~2 minecraft:spruce_stairs 1
+fill ~29~6~2 ~30~6~2 minecraft:wooden_slab 1
+setblock ~30~4~2 minecraft:wooden_slab 9
+setblock ~30~5~2 minecraft:planks 1
+setblock ~31~5~2 minecraft:spruce_stairs 5
+setblock ~33~4~2 minecraft:wooden_slab 9
+setblock ~33~5~2 minecraft:spruce_stairs 0
+setblock ~34~3~2 minecraft:spruce_stairs 4
+fill ~34~4~2 ~34~5~2 minecraft:planks 1
+fill ~35~2~2 ~37~2~2 minecraft:planks 1
+setblock ~35~4~2 minecraft:spruce_stairs 1
+fill ~37~4~2 ~38~4~2 minecraft:wooden_slab 1
+setblock ~38~2~2 minecraft:wooden_slab 9
+setblock ~38~3~2 minecraft:planks 1
+setblock ~39~3~2 minecraft:spruce_stairs 5
+fill ~41~3~2 ~42~3~2 minecraft:iron_bars
+setblock ~44~1~2 minecraft:stone_block_slab 14
+setblock ~44~2~2 minecraft:quartz_stairs 4
+fill ~45~1~2 ~45~1~3 minecraft:stained_hardened_clay 14
+fill ~45~2~2 ~48~2~2 minecraft:wooden_slab 1
+setblock ~46~1~2 minecraft:quartz_stairs 6
+fill ~47~1~2 ~49~1~3 minecraft:stained_hardened_clay 14
+fill ~49~2~2 ~50~2~8 minecraft:planks 1
+setblock ~50~1~2 minecraft:quartz_stairs 6
+fill ~50~3~2 ~50~3~8 minecraft:stained_hardened_clay 14
+setblock ~50~4~2 minecraft:stone_block_slab 6
+fill ~51~1~2 ~51~1~3 minecraft:stained_hardened_clay 14
+fill ~51~2~2 ~52~2~2 minecraft:stained_hardened_clay 14
+fill ~52~3~2 ~53~3~8 minecraft:stained_hardened_clay 14
+setblock ~52~4~2 minecraft:quartz_stairs 0
+setblock ~53~4~2 minecraft:stained_hardened_clay 14
+setblock ~53~5~2 minecraft:stone_block_slab 6
+fill ~2~6~3 ~2~6~4 minecraft:fence 5
+fill ~8~3~3 ~8~3~4 minecraft:iron_bars
+setblock ~8~4~3 minecraft:iron_bars
+fill ~9~8~3 ~10~8~3 minecraft:fence 5
+setblock ~10~3~3 minecraft:spruce_stairs 5
+setblock ~10~4~3 minecraft:spruce_stairs 4
+setblock ~10~5~3 minecraft:spruce_stairs 3
+setblock ~10~7~3 minecraft:fence 5
+setblock ~10~9~3 minecraft:fence 5
+setblock ~11~4~3 minecraft:wooden_slab 9
+setblock ~12~4~3 minecraft:double_wooden_slab 1
+setblock ~13~4~3 minecraft:wooden_slab 9
+setblock ~14~4~3 minecraft:planks 1
+setblock ~14~5~3 minecraft:spruce_stairs 3
+setblock ~15~3~3 minecraft:spruce_stairs 1
+setblock ~15~4~3 minecraft:stained_glass_pane 4
+fill ~16~3~3 ~17~3~3 minecraft:iron_bars
+setblock ~16~4~3 minecraft:iron_bars
+fill ~17~6~3 ~18~6~3 minecraft:fence 5
+setblock ~18~3~3 minecraft:stained_glass_pane 4
+setblock ~18~5~3 minecraft:fence 5
+setblock ~18~7~3 minecraft:fence 5
+setblock ~19~1~3 minecraft:spruce_stairs 1
+setblock ~19~2~3 minecraft:spruce_stairs 5
+setblock ~19~3~3 minecraft:spruce_stairs 3
+setblock ~20~2~3 minecraft:double_wooden_slab 1
+fill ~20~3~3 ~21~3~3 minecraft:planks 1
+setblock ~21~2~3 minecraft:wooden_slab 9
+setblock ~22~2~3 minecraft:planks 1
+setblock ~22~3~3 minecraft:spruce_stairs 3
+setblock ~23~1~3 minecraft:spruce_stairs 1
+setblock ~23~3~3 minecraft:stained_glass_pane 4
+fill ~24~3~3 ~24~4~3 minecraft:iron_bars
+setblock ~25~4~3 minecraft:stained_glass_pane 4
+fill ~25~8~3 ~26~8~3 minecraft:fence 5
+setblock ~26~3~3 minecraft:spruce_stairs 5
+setblock ~26~4~3 minecraft:spruce_stairs 4
+setblock ~26~7~3 minecraft:fence 5
+setblock ~26~9~3 minecraft:fence 5
+setblock ~27~4~3 minecraft:spruce_stairs 5
+setblock ~27~5~3 minecraft:spruce_stairs 3
+setblock ~28~4~3 minecraft:double_wooden_slab 1
+fill ~28~5~3 ~29~5~3 minecraft:planks 1
+setblock ~29~4~3 minecraft:wooden_slab 9
+setblock ~30~4~3 minecraft:planks 1
+setblock ~30~5~3 minecraft:spruce_stairs 3
+setblock ~31~3~3 minecraft:spruce_stairs 1
+setblock ~31~4~3 minecraft:stained_glass_pane 4
+fill ~32~4~3 ~33~4~3 minecraft:iron_bars
+setblock ~33~3~3 minecraft:iron_bars
+fill ~33~6~3 ~34~6~3 minecraft:fence 5
+setblock ~34~3~3 minecraft:stained_glass_pane 4
+setblock ~34~5~3 minecraft:fence 5
+setblock ~34~7~3 minecraft:fence 5
+setblock ~35~1~3 minecraft:spruce_stairs 1
+setblock ~35~2~3 minecraft:spruce_stairs 5
+setblock ~35~3~3 minecraft:spruce_stairs 3
+setblock ~36~2~3 minecraft:double_wooden_slab 1
+fill ~36~3~3 ~37~3~3 minecraft:planks 1
+setblock ~37~2~3 minecraft:wooden_slab 9
+setblock ~38~1~3 minecraft:spruce_stairs 5
+setblock ~38~2~3 minecraft:spruce_stairs 1
+setblock ~38~3~3 minecraft:spruce_stairs 3
+setblock ~39~3~3 minecraft:stained_glass_pane 4
+setblock ~42~3~3 minecraft:stained_glass_pane 4
+setblock ~43~0~3 minecraft:stone_block_slab 8
+setblock ~43~2~3 minecraft:quartz_stairs 6
+setblock ~43~3~3 minecraft:double_stone_block_slab 6
+fill ~44~0~3 ~45~0~3 minecraft:stone_block_slab 0
+fill ~44~1~3 ~44~1~4 minecraft:stained_hardened_clay 14
+setblock ~46~0~3 minecraft:double_stone_block_slab 0
+setblock ~46~1~3 minecraft:stained_hardened_clay 14
+setblock ~46~2~3 minecraft:dark_oak_stairs 0
+fill ~47~0~3 ~49~0~3 minecraft:stone_block_slab 0
+fill ~47~2~3 ~48~2~3 minecraft:planks 5
+setblock ~47~3~3 minecraft:wooden_slab 5
+fill ~48~3~3 ~48~3~7 minecraft:planks 5
+setblock ~48~4~3 minecraft:wooden_slab 5
+setblock ~50~0~3 minecraft:double_stone_block_slab 0
+setblock ~50~1~3 minecraft:stained_hardened_clay 14
+setblock ~50~4~3 minecraft:quartz_stairs 2
+fill ~51~0~3 ~52~0~3 minecraft:stone_block_slab 0
+fill ~51~2~3 ~52~2~6 minecraft:planks 1
+fill ~51~3~3 ~51~3~6 minecraft:stained_hardened_clay 14
+fill ~52~1~3 ~52~1~7 minecraft:stained_hardened_clay 14
+setblock ~53~0~3 minecraft:stone_block_slab 8
+fill ~53~2~3 ~53~2~4 minecraft:stained_hardened_clay 14
+fill ~54~4~3 ~54~4~4 minecraft:stained_hardened_clay 14
+setblock ~54~5~3 minecraft:quartz_stairs 2
+setblock ~1~6~4 minecraft:fence 5
+setblock ~2~1~4 minecraft:spruce_stairs 5
+setblock ~2~2~4 minecraft:spruce_stairs 4
+setblock ~2~3~4 minecraft:spruce_stairs 0
+setblock ~2~5~4 minecraft:fence 5
+setblock ~2~7~4 minecraft:fence 5
+setblock ~3~2~4 minecraft:wooden_slab 9
+fill ~3~3~4 ~5~3~5 minecraft:planks 1
+setblock ~4~2~4 minecraft:double_wooden_slab 1
+setblock ~5~2~4 minecraft:wooden_slab 9
+setblock ~6~1~4 minecraft:spruce_stairs 5
+setblock ~6~2~4 minecraft:spruce_stairs 1
+setblock ~6~3~4 minecraft:spruce_stairs 2
+setblock ~7~3~4 minecraft:stained_glass_pane 4
+setblock ~10~8~4 minecraft:fence 5
+setblock ~18~6~4 minecraft:fence 5
+setblock ~26~8~4 minecraft:fence 5
+setblock ~34~6~4 minecraft:fence 5
+fill ~43~1~4 ~43~2~6 minecraft:stone_block_slab 14
+setblock ~45~0~4 minecraft:wooden_slab 12
+fill ~45~1~4 ~51~1~6 minecraft:planks 1
+fill ~45~2~4 ~45~3~4 minecraft:fence 5
+fill ~46~0~4 ~46~0~6 minecraft:stone_block_slab 14
+fill ~47~0~4 ~49~0~4 minecraft:wooden_slab 12
+fill ~47~2~4 ~47~2~6 minecraft:snow_layer 1
+fill ~48~2~4 ~48~2~7 minecraft:planks 5
+fill ~48~4~4 ~48~4~6 minecraft:planks 5
+fill ~50~0~4 ~50~0~6 minecraft:stone_block_slab 14
+fill ~50~4~4 ~51~4~4 minecraft:stained_hardened_clay 14
+setblock ~50~5~4 minecraft:quartz_stairs 2
+setblock ~51~0~4 minecraft:wooden_slab 12
+setblock ~53~1~4 minecraft:stained_hardened_clay 14
+setblock ~54~3~4 minecraft:stained_hardened_clay 14
+setblock ~54~5~4 minecraft:stone_block_slab 14
+setblock ~54~6~4 minecraft:stone_block_slab 6
+setblock ~1~4~5 minecraft:wooden_slab 9
+setblock ~1~5~5 minecraft:spruce_stairs 0
+setblock ~2~3~5 minecraft:spruce_stairs 4
+fill ~2~4~5 ~2~5~5 minecraft:planks 1
+fill ~3~2~5 ~5~2~5 minecraft:planks 1
+setblock ~3~4~5 minecraft:spruce_stairs 1
+fill ~5~4~5 ~6~4~5 minecraft:wooden_slab 1
+setblock ~6~2~5 minecraft:wooden_slab 9
+setblock ~6~3~5 minecraft:planks 1
+setblock ~7~3~5 minecraft:spruce_stairs 5
+setblock ~44~1~5 minecraft:double_stone_block_slab 6
+setblock ~45~0~5 minecraft:stone_block_slab 14
+fill ~47~0~5 ~49~0~5 minecraft:stone_block_slab 14
+fill ~50~4~5 ~50~4~6 minecraft:stained_hardened_clay 14
+setblock ~50~5~5 minecraft:stone_block_slab 14
+fill ~51~0~5 ~52~0~5 minecraft:stone_block_slab 14
+setblock ~53~1~5 minecraft:quartz_stairs 5
+setblock ~53~2~5 minecraft:double_stone_block_slab 6
+setblock ~54~3~5 minecraft:quartz_stairs 5
+setblock ~54~4~5 minecraft:quartz_stairs 1
+setblock ~54~5~5 minecraft:quartz_stairs 5
+fill ~1~6~6 ~2~6~6 minecraft:fence 5
+setblock ~2~5~6 minecraft:fence 5
+setblock ~2~7~6 minecraft:fence 5
+setblock ~3~1~6 minecraft:spruce_stairs 1
+setblock ~3~2~6 minecraft:spruce_stairs 5
+setblock ~3~3~6 minecraft:spruce_stairs 3
+setblock ~4~2~6 minecraft:double_wooden_slab 1
+fill ~4~3~6 ~5~3~6 minecraft:planks 1
+setblock ~5~2~6 minecraft:wooden_slab 9
+setblock ~6~2~6 minecraft:planks 1
+setblock ~6~3~6 minecraft:spruce_stairs 3
+setblock ~7~1~6 minecraft:spruce_stairs 1
+setblock ~7~3~6 minecraft:stained_glass_pane 4
+fill ~8~3~6 ~8~3~7 minecraft:iron_bars
+fill ~10~8~6 ~10~8~7 minecraft:fence 5
+fill ~18~6~6 ~18~6~7 minecraft:fence 5
+fill ~26~8~6 ~26~8~7 minecraft:fence 5
+fill ~34~6~6 ~34~6~7 minecraft:fence 5
+fill ~44~1~6 ~44~1~7 minecraft:stained_hardened_clay 14
+setblock ~45~0~6 minecraft:wooden_slab 12
+fill ~45~2~6 ~45~3~6 minecraft:fence 5
+fill ~47~0~6 ~49~0~6 minecraft:wooden_slab 12
+setblock ~50~5~6 minecraft:quartz_stairs 3
+setblock ~51~0~6 minecraft:wooden_slab 12
+fill ~53~1~6 ~53~2~6 minecraft:stained_hardened_clay 14
+fill ~54~3~6 ~54~4~7 minecraft:stained_hardened_clay 14
+setblock ~54~5~6 minecraft:stone_block_slab 14
+setblock ~54~6~6 minecraft:stone_block_slab 6
+setblock ~2~6~7 minecraft:fence 5
+fill ~8~4~7 ~9~4~7 minecraft:iron_bars
+setblock ~9~8~7 minecraft:fence 5
+setblock ~10~3~7 minecraft:spruce_stairs 5
+setblock ~10~4~7 minecraft:spruce_stairs 4
+setblock ~10~5~7 minecraft:spruce_stairs 0
+setblock ~10~7~7 minecraft:fence 5
+setblock ~10~9~7 minecraft:fence 5
+setblock ~11~4~7 minecraft:wooden_slab 9
+fill ~11~5~7 ~13~5~8 minecraft:planks 1
+setblock ~12~4~7 minecraft:double_wooden_slab 1
+setblock ~13~4~7 minecraft:wooden_slab 9
+setblock ~14~3~7 minecraft:spruce_stairs 4
+setblock ~14~4~7 minecraft:spruce_stairs 5
+setblock ~14~5~7 minecraft:spruce_stairs 2
+setblock ~15~4~7 minecraft:stained_glass_pane 4
+fill ~16~3~7 ~16~4~7 minecraft:iron_bars
+setblock ~17~3~7 minecraft:stained_glass_pane 4
+setblock ~17~6~7 minecraft:fence 5
+setblock ~18~1~7 minecraft:spruce_stairs 5
+setblock ~18~2~7 minecraft:spruce_stairs 4
+setblock ~18~3~7 minecraft:spruce_stairs 0
+setblock ~18~5~7 minecraft:fence 5
+setblock ~18~7~7 minecraft:fence 5
+setblock ~19~2~7 minecraft:wooden_slab 9
+fill ~19~3~7 ~21~3~8 minecraft:planks 1
+setblock ~20~2~7 minecraft:double_wooden_slab 1
+setblock ~21~2~7 minecraft:wooden_slab 9
+setblock ~22~2~7 minecraft:spruce_stairs 1
+setblock ~22~3~7 minecraft:spruce_stairs 2
+setblock ~23~1~7 minecraft:spruce_stairs 1
+setblock ~23~3~7 minecraft:stained_glass_pane 4
+fill ~24~3~7 ~24~4~7 minecraft:iron_bars
+setblock ~25~4~7 minecraft:stained_glass_pane 4
+setblock ~25~8~7 minecraft:fence 5
+setblock ~26~3~7 minecraft:spruce_stairs 5
+setblock ~26~4~7 minecraft:spruce_stairs 4
+setblock ~26~5~7 minecraft:spruce_stairs 0
+setblock ~26~7~7 minecraft:fence 5
+setblock ~26~9~7 minecraft:fence 5
+setblock ~27~4~7 minecraft:wooden_slab 9
+fill ~27~5~7 ~29~5~8 minecraft:planks 1
+setblock ~28~4~7 minecraft:double_wooden_slab 1
+setblock ~29~4~7 minecraft:wooden_slab 9
+setblock ~30~4~7 minecraft:spruce_stairs 1
+setblock ~30~5~7 minecraft:spruce_stairs 2
+setblock ~31~3~7 minecraft:spruce_stairs 1
+setblock ~31~4~7 minecraft:stained_glass_pane 4
+setblock ~32~0~7 minecraft:snow_layer 0
+fill ~32~3~7 ~32~4~7 minecraft:iron_bars
+setblock ~33~3~7 minecraft:stained_glass_pane 4
+setblock ~33~6~7 minecraft:fence 5
+setblock ~34~1~7 minecraft:spruce_stairs 5
+setblock ~34~2~7 minecraft:spruce_stairs 4
+setblock ~34~3~7 minecraft:spruce_stairs 0
+setblock ~34~5~7 minecraft:fence 5
+setblock ~34~7~7 minecraft:fence 5
+setblock ~35~2~7 minecraft:wooden_slab 9
+fill ~35~3~7 ~37~3~8 minecraft:planks 1
+setblock ~36~2~7 minecraft:double_wooden_slab 1
+setblock ~37~2~7 minecraft:wooden_slab 9
+setblock ~38~2~7 minecraft:spruce_stairs 1
+setblock ~38~3~7 minecraft:spruce_stairs 2
+setblock ~39~1~7 minecraft:spruce_stairs 1
+setblock ~39~3~7 minecraft:stained_glass_pane 4
+fill ~40~3~7 ~40~3~9 minecraft:iron_bars
+setblock ~42~3~7 minecraft:stained_glass_pane 4
+setblock ~43~0~7 minecraft:stone_block_slab 8
+setblock ~43~2~7 minecraft:quartz_stairs 7
+setblock ~43~3~7 minecraft:double_stone_block_slab 6
+fill ~44~0~7 ~45~0~7 minecraft:stone_block_slab 0
+fill ~45~1~7 ~51~1~7 minecraft:stained_hardened_clay 14
+setblock ~46~0~7 minecraft:double_stone_block_slab 0
+setblock ~46~2~7 minecraft:dark_oak_stairs 0
+fill ~47~0~7 ~49~0~7 minecraft:stone_block_slab 0
+setblock ~47~2~7 minecraft:planks 5
+setblock ~47~3~7 minecraft:wooden_slab 5
+setblock ~48~4~7 minecraft:wooden_slab 5
+setblock ~50~0~7 minecraft:double_stone_block_slab 0
+setblock ~50~4~7 minecraft:quartz_stairs 3
+fill ~51~0~7 ~52~0~7 minecraft:stone_block_slab 0
+setblock ~51~2~7 minecraft:planks 1
+fill ~52~2~7 ~53~2~7 minecraft:stained_hardened_clay 14
+setblock ~53~0~7 minecraft:stone_block_slab 8
+setblock ~54~5~7 minecraft:quartz_stairs 3
+setblock ~9~4~8 minecraft:iron_bars
+setblock ~9~6~8 minecraft:wooden_slab 9
+setblock ~9~7~8 minecraft:spruce_stairs 0
+setblock ~10~4~8 minecraft:stained_glass_pane 4
+setblock ~10~5~8 minecraft:spruce_stairs 4
+fill ~10~6~8 ~10~7~8 minecraft:planks 1
+fill ~11~4~8 ~13~4~8 minecraft:planks 1
+setblock ~11~6~8 minecraft:spruce_stairs 1
+fill ~13~6~8 ~14~6~8 minecraft:wooden_slab 1
+setblock ~14~4~8 minecraft:wooden_slab 9
+setblock ~14~5~8 minecraft:planks 1
+setblock ~15~5~8 minecraft:spruce_stairs 5
+setblock ~17~4~8 minecraft:wooden_slab 9
+setblock ~17~5~8 minecraft:spruce_stairs 0
+setblock ~18~3~8 minecraft:spruce_stairs 4
+fill ~18~4~8 ~18~5~8 minecraft:planks 1
+fill ~19~2~8 ~21~2~8 minecraft:planks 1
+setblock ~19~4~8 minecraft:spruce_stairs 1
+fill ~21~4~8 ~22~4~8 minecraft:wooden_slab 1
+setblock ~22~2~8 minecraft:wooden_slab 9
+setblock ~22~3~8 minecraft:planks 1
+setblock ~23~3~8 minecraft:spruce_stairs 5
+setblock ~25~6~8 minecraft:wooden_slab 9
+setblock ~25~7~8 minecraft:spruce_stairs 0
+setblock ~26~5~8 minecraft:spruce_stairs 4
+fill ~26~6~8 ~26~7~8 minecraft:planks 1
+fill ~27~4~8 ~29~4~8 minecraft:planks 1
+setblock ~27~6~8 minecraft:spruce_stairs 1
+fill ~29~6~8 ~30~6~8 minecraft:wooden_slab 1
+setblock ~30~4~8 minecraft:wooden_slab 9
+setblock ~30~5~8 minecraft:planks 1
+setblock ~31~5~8 minecraft:spruce_stairs 5
+setblock ~33~4~8 minecraft:wooden_slab 9
+setblock ~33~5~8 minecraft:spruce_stairs 0
+setblock ~34~3~8 minecraft:spruce_stairs 4
+fill ~34~4~8 ~34~5~8 minecraft:planks 1
+fill ~35~2~8 ~37~2~8 minecraft:planks 1
+setblock ~35~4~8 minecraft:spruce_stairs 1
+fill ~37~4~8 ~38~4~8 minecraft:wooden_slab 1
+setblock ~38~2~8 minecraft:wooden_slab 9
+setblock ~38~3~8 minecraft:planks 1
+setblock ~39~3~8 minecraft:spruce_stairs 5
+fill ~41~3~8 ~42~3~8 minecraft:iron_bars
+setblock ~44~1~8 minecraft:stone_block_slab 14
+setblock ~44~2~8 minecraft:quartz_stairs 4
+setblock ~45~1~8 minecraft:stained_hardened_clay 14
+fill ~45~2~8 ~48~2~8 minecraft:wooden_slab 1
+setblock ~46~1~8 minecraft:quartz_stairs 7
+fill ~47~1~8 ~49~1~8 minecraft:stained_hardened_clay 14
+setblock ~50~1~8 minecraft:quartz_stairs 7
+setblock ~50~4~8 minecraft:stone_block_slab 6
+fill ~51~1~8 ~51~2~8 minecraft:stained_hardened_clay 14
+setblock ~52~2~8 minecraft:stained_hardened_clay 14
+setblock ~52~4~8 minecraft:quartz_stairs 0
+setblock ~53~4~8 minecraft:stained_hardened_clay 14
+setblock ~53~5~8 minecraft:stone_block_slab 6
+fill ~9~8~9 ~10~8~9 minecraft:fence 5
+setblock ~10~3~9 minecraft:spruce_stairs 5
+setblock ~10~4~9 minecraft:spruce_stairs 4
+fill ~10~5~9 ~11~5~9 minecraft:spruce_stairs 3
+setblock ~10~7~9 minecraft:fence 5
+setblock ~10~9~9 minecraft:fence 5
+setblock ~11~4~9 minecraft:wooden_slab 9
+setblock ~12~4~9 minecraft:double_wooden_slab 1
+fill ~12~5~9 ~13~5~9 minecraft:planks 1
+setblock ~13~4~9 minecraft:wooden_slab 9
+setblock ~14~3~9 minecraft:spruce_stairs 4
+setblock ~14~4~9 minecraft:spruce_stairs 5
+setblock ~14~5~9 minecraft:spruce_stairs 3
+setblock ~15~4~9 minecraft:stained_glass_pane 4
+fill ~16~3~9 ~17~3~9 minecraft:iron_bars
+setblock ~16~4~9 minecraft:iron_bars
+fill ~17~6~9 ~18~6~9 minecraft:fence 5
+setblock ~18~3~9 minecraft:stained_glass_pane 4
+setblock ~18~5~9 minecraft:fence 5
+setblock ~18~7~9 minecraft:fence 5
+setblock ~19~1~9 minecraft:spruce_stairs 1
+setblock ~19~2~9 minecraft:spruce_stairs 5
+setblock ~19~3~9 minecraft:spruce_stairs 3
+setblock ~20~2~9 minecraft:double_wooden_slab 1
+fill ~20~3~9 ~21~3~9 minecraft:planks 1
+setblock ~21~2~9 minecraft:wooden_slab 9
+setblock ~22~1~9 minecraft:spruce_stairs 5
+setblock ~22~2~9 minecraft:spruce_stairs 1
+setblock ~22~3~9 minecraft:spruce_stairs 3
+setblock ~23~3~9 minecraft:stained_glass_pane 4
+fill ~24~3~9 ~24~4~9 minecraft:iron_bars
+setblock ~25~4~9 minecraft:iron_bars
+fill ~25~8~9 ~26~8~9 minecraft:fence 5
+setblock ~26~3~9 minecraft:spruce_stairs 0
+setblock ~26~4~9 minecraft:stained_glass_pane 4
+setblock ~26~7~9 minecraft:fence 5
+setblock ~26~9~9 minecraft:fence 5
+setblock ~27~4~9 minecraft:spruce_stairs 5
+setblock ~27~5~9 minecraft:spruce_stairs 3
+setblock ~28~4~9 minecraft:double_wooden_slab 1
+fill ~28~5~9 ~29~5~9 minecraft:planks 1
+setblock ~29~4~9 minecraft:wooden_slab 9
+setblock ~30~3~9 minecraft:spruce_stairs 4
+setblock ~30~4~9 minecraft:spruce_stairs 5
+setblock ~30~5~9 minecraft:spruce_stairs 3
+setblock ~31~4~9 minecraft:stained_glass_pane 4
+fill ~32~3~9 ~33~3~9 minecraft:iron_bars
+setblock ~32~4~9 minecraft:iron_bars
+fill ~33~6~9 ~34~6~9 minecraft:fence 5
+setblock ~34~3~9 minecraft:stained_glass_pane 4
+setblock ~34~5~9 minecraft:fence 5
+setblock ~34~7~9 minecraft:fence 5
+setblock ~35~1~9 minecraft:spruce_stairs 1
+setblock ~35~2~9 minecraft:spruce_stairs 5
+setblock ~35~3~9 minecraft:spruce_stairs 3
+setblock ~36~2~9 minecraft:double_wooden_slab 1
+fill ~36~3~9 ~37~3~9 minecraft:planks 1
+setblock ~37~2~9 minecraft:wooden_slab 9
+setblock ~38~2~9 minecraft:planks 1
+setblock ~38~3~9 minecraft:spruce_stairs 3
+setblock ~39~1~9 minecraft:spruce_stairs 1
+setblock ~39~3~9 minecraft:stained_glass_pane 4
+setblock ~45~2~9 minecraft:stained_hardened_clay 14
+setblock ~45~3~9 minecraft:stone_block_slab 6
+setblock ~46~2~9 minecraft:quartz_stairs 7
+setblock ~46~3~9 minecraft:quartz_stairs 0
+fill ~47~2~9 ~49~2~9 minecraft:stained_hardened_clay 14
+setblock ~47~3~9 minecraft:quartz_stairs 1
+setblock ~48~3~9 minecraft:stone_block_slab 6
+setblock ~49~3~9 minecraft:quartz_stairs 5
+setblock ~50~2~9 minecraft:quartz_stairs 7
+setblock ~50~3~9 minecraft:quartz_stairs 3
+setblock ~51~3~9 minecraft:stained_hardened_clay 14
+setblock ~51~4~9 minecraft:stone_block_slab 6

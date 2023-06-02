@@ -1,0 +1,244 @@
+fill ~1~0~0 ~3~0~0 minecraft:stone_block_slab 9
+fill ~1~1~0 ~16~2~0 minecraft:sandstone 0
+fill ~1~3~0 ~1~3~2 minecraft:sandstone_stairs 0
+fill ~2~3~0 ~15~3~0 minecraft:sandstone 0
+fill ~4~0~0 ~13~0~0 minecraft:sandstone_stairs 6
+setblock ~4~4~0 minecraft:sandstone_stairs 2
+fill ~5~4~0 ~13~4~0 minecraft:sandstone 0
+fill ~5~5~0 ~5~5~3 minecraft:sandstone_stairs 0
+fill ~6~5~0 ~12~5~0 minecraft:sandstone_stairs 2
+fill ~14~0~0 ~16~0~0 minecraft:stone_block_slab 9
+fill ~16~3~0 ~16~3~2 minecraft:sandstone_stairs 1
+fill ~1~0~1 ~5~0~6 minecraft:sandstone 0
+fill ~1~1~1 ~5~2~1 minecraft:sandstone 0
+fill ~2~3~1 ~5~3~1 minecraft:sandstone 0
+fill ~4~4~1 ~5~4~2 minecraft:sandstone 0
+fill ~6~5~1 ~11~5~14 minecraft:sandstone 0
+fill ~12~0~1 ~16~0~6 minecraft:sandstone 0
+fill ~12~1~1 ~16~2~1 minecraft:sandstone 0
+fill ~12~3~1 ~15~3~1 minecraft:sandstone 0
+fill ~12~4~1 ~13~4~2 minecraft:sandstone 0
+fill ~12~5~1 ~12~5~3 minecraft:sandstone_stairs 1
+fill ~1~1~2 ~4~1~6 minecraft:sandstone 0
+fill ~1~2~2 ~4~2~2 minecraft:sandstone 0
+fill ~2~3~2 ~4~3~2 minecraft:sandstone 0
+fill ~5~1~2 ~5~3~2 minecraft:glowstone
+fill ~12~1~2 ~12~3~2 minecraft:glowstone
+fill ~13~1~2 ~16~1~6 minecraft:sandstone 0
+fill ~13~2~2 ~16~2~2 minecraft:sandstone 0
+fill ~13~3~2 ~15~3~2 minecraft:sandstone 0
+fill ~1~2~3 ~3~2~3 minecraft:stone_block_slab 1
+fill ~4~2~3 ~5~3~3 minecraft:sandstone 0
+setblock ~4~4~3 minecraft:sandstone_stairs 3
+setblock ~5~1~3 minecraft:sandstone 0
+fill ~5~4~3 ~5~4~14 minecraft:sandstone 0
+fill ~12~1~3 ~12~4~3 minecraft:sandstone 0
+fill ~13~2~3 ~13~3~14 minecraft:sandstone 0
+setblock ~13~4~3 minecraft:sandstone_stairs 3
+fill ~14~2~3 ~16~2~3 minecraft:stone_block_slab 1
+fill ~4~2~4 ~4~3~14 minecraft:sandstone 0
+fill ~4~4~4 ~4~4~11 minecraft:stone_block_slab 1
+fill ~5~1~4 ~5~2~5 minecraft:water 8
+fill ~5~3~4 ~5~3~5 minecraft:water 0
+fill ~5~5~4 ~5~5~5 minecraft:sandstone 0
+fill ~6~0~4 ~6~0~5 minecraft:sandstone_stairs 5
+fill ~6~1~4 ~6~1~5 minecraft:stone_block_slab 1
+fill ~6~3~4 ~6~3~5 minecraft:stone_block_slab 9
+fill ~6~4~4 ~6~4~5 minecraft:sandstone_stairs 1
+fill ~11~0~4 ~11~0~5 minecraft:sandstone_stairs 4
+fill ~11~1~4 ~11~1~5 minecraft:stone_block_slab 1
+fill ~11~3~4 ~11~3~5 minecraft:stone_block_slab 9
+fill ~11~4~4 ~11~4~5 minecraft:sandstone_stairs 0
+fill ~12~1~4 ~12~2~5 minecraft:water 8
+fill ~12~3~4 ~12~3~5 minecraft:water 0
+fill ~12~4~4 ~12~4~14 minecraft:sandstone 0
+fill ~12~5~4 ~12~5~5 minecraft:sandstone 0
+fill ~13~4~4 ~13~4~11 minecraft:stone_block_slab 1
+fill ~5~1~6 ~5~3~6 minecraft:sandstone 0
+fill ~5~5~6 ~5~5~7 minecraft:sandstone_stairs 0
+setblock ~6~0~6 minecraft:sandstone_stairs 6
+setblock ~6~4~6 minecraft:stone_block_slab 1
+setblock ~11~0~6 minecraft:sandstone_stairs 6
+setblock ~11~4~6 minecraft:stone_block_slab 1
+fill ~12~1~6 ~12~3~6 minecraft:sandstone 0
+fill ~12~5~6 ~12~5~7 minecraft:sandstone_stairs 1
+setblock ~1~0~7 minecraft:sandstone_stairs 3
+setblock ~2~0~7 minecraft:stone_block_slab 1
+setblock ~3~0~7 minecraft:sandstone_stairs 3
+fill ~4~0~7 ~6~0~7 minecraft:sandstone 0
+fill ~4~1~7 ~4~1~21 minecraft:sandstone 0
+fill ~5~1~7 ~5~3~7 minecraft:glowstone
+fill ~6~1~7 ~6~3~7 minecraft:stained_glass 3
+setblock ~6~4~7 minecraft:sandstone 0
+fill ~11~0~7 ~13~0~7 minecraft:sandstone 0
+fill ~11~1~7 ~11~3~7 minecraft:stained_glass 3
+setblock ~11~4~7 minecraft:sandstone 1
+fill ~12~1~7 ~12~3~7 minecraft:glowstone
+fill ~13~1~7 ~13~1~21 minecraft:sandstone 0
+setblock ~14~0~7 minecraft:sandstone_stairs 3
+setblock ~15~0~7 minecraft:stone_block_slab 1
+setblock ~16~0~7 minecraft:sandstone_stairs 3
+fill ~4~0~8 ~5~0~13 minecraft:sandstone 0
+fill ~5~1~8 ~5~3~8 minecraft:sandstone 0
+fill ~5~5~8 ~5~5~14 minecraft:sandstone 0
+setblock ~5~6~8 minecraft:sandstone_stairs 4
+fill ~5~7~8 ~12~10~13 minecraft:sandstone 0
+fill ~5~11~8 ~12~12~12 minecraft:sandstone 0
+setblock ~5~13~8 minecraft:sandstone_stairs 0
+setblock ~6~0~8 minecraft:sandstone_stairs 7
+setblock ~6~4~8 minecraft:stone_block_slab 1
+fill ~6~6~8 ~11~6~15 minecraft:sandstone 0
+fill ~6~13~8 ~11~13~15 minecraft:sandstone 0
+setblock ~11~0~8 minecraft:sandstone_stairs 7
+setblock ~11~4~8 minecraft:stone_block_slab 1
+fill ~12~0~8 ~13~0~13 minecraft:sandstone 0
+fill ~12~1~8 ~12~3~8 minecraft:sandstone 0
+fill ~12~5~8 ~12~5~14 minecraft:sandstone 0
+setblock ~12~6~8 minecraft:sandstone_stairs 5
+setblock ~12~13~8 minecraft:sandstone_stairs 1
+fill ~5~1~9 ~5~2~10 minecraft:water 8
+fill ~5~3~9 ~5~3~10 minecraft:water 0
+fill ~5~6~9 ~5~6~14 minecraft:sandstone 0
+fill ~5~13~9 ~5~13~14 minecraft:sandstone 0
+fill ~6~0~9 ~6~0~10 minecraft:sandstone_stairs 5
+fill ~6~1~9 ~6~1~10 minecraft:stone_block_slab 1
+fill ~6~3~9 ~6~3~10 minecraft:stone_block_slab 9
+fill ~6~4~9 ~6~4~10 minecraft:sandstone_stairs 1
+fill ~11~0~9 ~11~0~10 minecraft:sandstone_stairs 4
+fill ~11~1~9 ~11~1~10 minecraft:stone_block_slab 1
+fill ~11~3~9 ~11~3~10 minecraft:stone_block_slab 9
+fill ~11~4~9 ~11~4~10 minecraft:sandstone_stairs 0
+fill ~12~1~9 ~12~2~10 minecraft:water 8
+fill ~12~3~9 ~12~3~10 minecraft:water 0
+fill ~12~6~9 ~12~6~14 minecraft:sandstone 0
+fill ~12~13~9 ~12~13~14 minecraft:sandstone 0
+fill ~3~9~11 ~4~9~11 minecraft:sandstone_stairs 6
+fill ~3~10~11 ~4~13~12 minecraft:sandstone 0
+setblock ~3~14~11 minecraft:sandstone_stairs 0
+fill ~4~14~11 ~13~14~12 minecraft:sandstone 0
+fill ~5~1~11 ~5~3~11 minecraft:sandstone 0
+fill ~12~1~11 ~12~3~11 minecraft:sandstone 0
+fill ~13~9~11 ~14~9~11 minecraft:sandstone_stairs 6
+fill ~13~10~11 ~14~13~12 minecraft:sandstone 0
+setblock ~14~14~11 minecraft:sandstone_stairs 1
+setblock ~2~6~12 minecraft:sandstone_stairs 6
+fill ~2~7~12 ~2~13~12 minecraft:sandstone 0
+setblock ~2~14~12 minecraft:sandstone_stairs 0
+fill ~3~7~12 ~4~7~12 minecraft:sandstone_stairs 6
+fill ~3~8~12 ~4~9~12 minecraft:sandstone 0
+setblock ~3~14~12 minecraft:sandstone 0
+setblock ~3~15~12 minecraft:stone_block_slab 1
+setblock ~4~4~12 minecraft:sandstone_stairs 2
+setblock ~4~15~12 minecraft:sandstone_stairs 0
+fill ~5~1~12 ~5~3~12 minecraft:glowstone
+fill ~5~15~12 ~12~15~12 minecraft:sandstone 0
+fill ~12~1~12 ~12~3~12 minecraft:glowstone
+setblock ~13~4~12 minecraft:sandstone_stairs 2
+fill ~13~7~12 ~14~7~12 minecraft:sandstone_stairs 6
+fill ~13~8~12 ~15~9~12 minecraft:sandstone 0
+setblock ~13~15~12 minecraft:sandstone_stairs 1
+setblock ~14~14~12 minecraft:sandstone 0
+setblock ~14~15~12 minecraft:stone_block_slab 1
+setblock ~15~6~12 minecraft:sandstone_stairs 6
+setblock ~15~7~12 minecraft:sandstone 0
+fill ~15~10~12 ~15~13~12 minecraft:sandstone 0
+setblock ~15~14~12 minecraft:sandstone_stairs 1
+setblock ~2~6~13 minecraft:sandstone_stairs 7
+fill ~2~7~13 ~4~7~13 minecraft:sandstone_stairs 3
+fill ~3~6~13 ~4~6~13 minecraft:sandstone_stairs 6
+setblock ~4~4~13 minecraft:sandstone 0
+fill ~5~1~13 ~5~1~16 minecraft:sandstone 0
+fill ~5~2~13 ~5~3~14 minecraft:sandstone 0
+fill ~5~11~13 ~10~12~13 minecraft:sandstone 0
+setblock ~6~0~13 minecraft:sandstone_stairs 1
+setblock ~6~1~13 minecraft:sandstone_stairs 5
+setblock ~6~2~13 minecraft:sandstone_stairs 1
+setblock ~6~3~13 minecraft:sandstone_stairs 5
+fill ~6~4~13 ~11~4~14 minecraft:sandstone 0
+fill ~7~0~13 ~7~0~21 minecraft:sandstone 0
+setblock ~7~1~13 minecraft:wooden_button 1
+setblock ~7~3~13 minecraft:sandstone_stairs 4
+fill ~8~0~13 ~9~0~13 minecraft:sandstone_stairs 7
+fill ~8~1~13 ~9~3~13 minecraft:sandstone 0
+fill ~10~0~13 ~10~0~21 minecraft:sandstone 0
+setblock ~10~1~13 minecraft:wooden_button 1
+setblock ~10~3~13 minecraft:sandstone_stairs 5
+setblock ~11~0~13 minecraft:sandstone_stairs 0
+setblock ~11~1~13 minecraft:sandstone_stairs 4
+setblock ~11~2~13 minecraft:sandstone_stairs 0
+setblock ~11~3~13 minecraft:sandstone_stairs 4
+fill ~11~11~13 ~11~11~14 minecraft:coal_block
+fill ~11~12~13 ~12~12~13 minecraft:sandstone 0
+fill ~12~1~13 ~12~1~16 minecraft:sandstone 0
+fill ~12~2~13 ~12~3~14 minecraft:sandstone 0
+fill ~12~11~13 ~12~11~15 minecraft:sandstone 0
+setblock ~13~4~13 minecraft:sandstone 0
+fill ~13~6~13 ~14~6~13 minecraft:sandstone_stairs 6
+fill ~13~7~13 ~15~7~13 minecraft:sandstone_stairs 3
+setblock ~15~6~13 minecraft:sandstone_stairs 7
+setblock ~3~5~14 minecraft:sandstone_stairs 4
+fill ~3~6~14 ~4~6~14 minecraft:sandstone_stairs 3
+fill ~4~0~14 ~4~0~21 minecraft:sandstone 0
+setblock ~4~4~14 minecraft:sandstone_stairs 3
+setblock ~4~5~14 minecraft:sandstone 0
+fill ~5~0~14 ~6~0~14 minecraft:sandstone 1
+fill ~5~7~14 ~6~10~15 minecraft:sandstone 0
+fill ~5~11~14 ~5~12~15 minecraft:sandstone 0
+fill ~6~1~14 ~7~1~16 minecraft:sandstone 0
+fill ~6~2~14 ~7~3~14 minecraft:sandstone 0
+fill ~6~11~14 ~6~12~14 minecraft:coal_block
+fill ~7~7~14 ~7~9~14 minecraft:coal_block
+fill ~7~10~14 ~7~10~15 minecraft:sandstone 0
+setblock ~7~11~14 minecraft:sandstone 2
+setblock ~7~12~14 minecraft:coal_block
+fill ~8~2~14 ~9~2~14 minecraft:sandstone_stairs 7
+fill ~8~3~14 ~11~3~14 minecraft:sandstone 0
+fill ~8~7~14 ~9~7~15 minecraft:sandstone 0
+fill ~8~8~14 ~10~9~14 minecraft:coal_block
+fill ~8~10~14 ~9~10~14 minecraft:coal_block
+fill ~8~11~14 ~9~12~15 minecraft:sandstone 0
+fill ~10~1~14 ~11~1~16 minecraft:sandstone 0
+fill ~10~2~14 ~11~2~14 minecraft:sandstone 0
+setblock ~10~7~14 minecraft:coal_block
+fill ~10~10~14 ~12~10~15 minecraft:sandstone 0
+setblock ~10~11~14 minecraft:sandstone 2
+fill ~10~12~14 ~11~12~14 minecraft:coal_block
+fill ~11~0~14 ~12~0~14 minecraft:sandstone 1
+fill ~11~7~14 ~12~9~15 minecraft:sandstone 0
+fill ~12~12~14 ~12~12~15 minecraft:sandstone 0
+fill ~13~0~14 ~13~0~21 minecraft:sandstone 0
+setblock ~13~4~14 minecraft:sandstone_stairs 3
+setblock ~13~5~14 minecraft:sandstone 0
+fill ~13~6~14 ~14~6~14 minecraft:sandstone_stairs 3
+setblock ~14~5~14 minecraft:sandstone_stairs 5
+setblock ~3~4~15 minecraft:sandstone_stairs 4
+setblock ~3~5~15 minecraft:sandstone_stairs 0
+setblock ~4~3~15 minecraft:sandstone_stairs 7
+setblock ~4~4~15 minecraft:sandstone 0
+setblock ~4~5~15 minecraft:sandstone_stairs 3
+fill ~5~2~15 ~6~2~21 minecraft:stone_block_slab 1
+setblock ~5~6~15 minecraft:sandstone_stairs 4
+setblock ~5~13~15 minecraft:sandstone_stairs 0
+setblock ~7~7~15 minecraft:stone_block_slab 1
+fill ~8~10~15 ~9~10~15 minecraft:stone_block_slab 9
+setblock ~10~7~15 minecraft:stone_block_slab 1
+fill ~11~2~15 ~12~2~20 minecraft:stone_block_slab 1
+setblock ~12~6~15 minecraft:sandstone_stairs 5
+setblock ~12~13~15 minecraft:sandstone_stairs 1
+setblock ~13~3~15 minecraft:sandstone_stairs 7
+setblock ~13~4~15 minecraft:sandstone 0
+setblock ~13~5~15 minecraft:sandstone_stairs 3
+setblock ~14~4~15 minecraft:sandstone_stairs 5
+setblock ~14~5~15 minecraft:sandstone_stairs 1
+fill ~7~1~17 ~7~1~21 minecraft:sandstone 0
+fill ~10~1~17 ~10~1~21 minecraft:sandstone 0
+fill ~5~0~21 ~6~1~21 minecraft:sandstone 0
+fill ~11~0~21 ~12~1~21 minecraft:sandstone 0
+setblock ~4~0~22 minecraft:stone_block_slab 1
+setblock ~5~0~22 minecraft:sandstone_stairs 3
+setblock ~6~0~22 minecraft:stone_block_slab 1
+setblock ~7~0~22 minecraft:sandstone_stairs 3
+setblock ~10~0~22 minecraft:sandstone_stairs 3
+setblock ~11~0~22 minecraft:stone_block_slab 1
+setblock ~12~0~22 minecraft:sandstone_stairs 3
+setblock ~13~0~22 minecraft:stone_block_slab 1

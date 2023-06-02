@@ -1,0 +1,1655 @@
+    
+fill ~44 ~10 ~43 ~46 ~10 ~43 stained_glass_pane 15  
+fill ~44 ~10 ~44 ~44 ~10 ~45 stained_glass_pane 15 
+setblock ~45 ~10 ~44 glass 0  
+fill ~45 ~10 ~45 ~46 ~10 ~45 stained_glass_pane 15 
+setblock ~46 ~10 ~44 stained_glass_pane 15 
+setblock ~43 ~11 ~44 iron_bars 0 
+setblock ~44 ~11 ~43 iron_bars 0  
+fill ~44 ~11 ~44 ~46 ~11 ~44 concrete 7 
+setblock ~44 ~11 ~45 iron_bars 0 
+setblock ~45 ~11 ~43 concrete 7 
+setblock ~45 ~11 ~45 concrete 7 
+setblock ~46 ~11 ~43 iron_bars 0 
+setblock ~46 ~11 ~45 iron_bars 0 
+setblock ~47 ~11 ~44 iron_bars 0 
+setblock ~44 ~12 ~44 iron_bars 0 
+setblock ~45 ~12 ~43 iron_bars 0 
+setblock ~45 ~12 ~44 concrete 7 
+setblock ~45 ~12 ~45 iron_bars 0 
+setblock ~46 ~12 ~43 concrete 7 
+setblock ~46 ~12 ~45 concrete 7 
+setblock ~47 ~12 ~43 iron_bars 0 
+setblock ~47 ~12 ~44 concrete 7 
+setblock ~47 ~12 ~45 iron_bars 0 
+setblock ~48 ~12 ~44 iron_bars 0  
+fill ~44 ~13 ~43 ~48 ~13 ~43 quartz_block 0  
+fill ~44 ~13 ~44 ~45 ~13 ~44 quartz_block 0  
+fill ~44 ~13 ~45 ~48 ~13 ~45 quartz_block 0  
+fill ~45 ~13 ~42 ~47 ~13 ~42 quartz_block 0  
+fill ~45 ~13 ~46 ~47 ~13 ~46 quartz_block 0  
+fill ~47 ~13 ~44 ~48 ~13 ~44 quartz_block 0  
+fill ~34 ~14 ~44 ~36 ~14 ~44 stone_slab 14 
+setblock ~35 ~14 ~43 stone_slab 14 
+setblock ~35 ~14 ~45 stone_slab 14 
+setblock ~43 ~14 ~44 grass_path 5  
+fill ~44 ~14 ~43 ~44 ~14 ~45 concrete 7  
+fill ~45 ~14 ~42 ~47 ~14 ~42 concrete 7  
+fill ~45 ~14 ~46 ~47 ~14 ~46 concrete 7 
+setblock ~46 ~14 ~41 grass_path 3 
+setblock ~46 ~14 ~47 grass_path 2 
+setblock ~47 ~14 ~43 torch 5  
+fill ~48 ~14 ~43 ~48 ~14 ~45 concrete 7 
+setblock ~49 ~14 ~44 grass_path 4  
+fill ~33 ~15 ~43 ~33 ~15 ~45 quartz_stairs 4  
+fill ~34 ~15 ~42 ~36 ~15 ~42 quartz_stairs 6  
+fill ~34 ~15 ~43 ~36 ~15 ~43 glass 0  
+fill ~34 ~15 ~44 ~36 ~15 ~44 glass 0  
+fill ~34 ~15 ~45 ~36 ~15 ~45 glass 0  
+fill ~34 ~15 ~46 ~36 ~15 ~46 quartz_stairs 7  
+fill ~37 ~15 ~43 ~37 ~15 ~45 quartz_stairs 5  
+fill ~44 ~15 ~43 ~44 ~25 ~43 quartz_block 0  
+fill ~44 ~15 ~44 ~44 ~24 ~44 quartz_stairs 0  
+fill ~44 ~15 ~45 ~44 ~25 ~45 quartz_block 0  
+fill ~45 ~15 ~42 ~45 ~25 ~42 quartz_block 0  
+fill ~45 ~15 ~46 ~45 ~25 ~46 quartz_block 0  
+fill ~46 ~15 ~42 ~46 ~24 ~42 quartz_stairs 2  
+fill ~46 ~15 ~46 ~46 ~24 ~46 quartz_stairs 3  
+fill ~47 ~15 ~42 ~47 ~25 ~42 quartz_block 0  
+fill ~47 ~15 ~46 ~47 ~25 ~46 quartz_block 0  
+fill ~48 ~15 ~43 ~48 ~25 ~43 quartz_block 0  
+fill ~48 ~15 ~44 ~48 ~24 ~44 quartz_stairs 1  
+fill ~48 ~15 ~45 ~48 ~25 ~45 quartz_block 0 
+setblock ~32 ~16 ~44 grass_path 5  
+fill ~33 ~16 ~43 ~33 ~16 ~45 concrete 7  
+fill ~34 ~16 ~42 ~36 ~16 ~42 concrete 7  
+fill ~34 ~16 ~46 ~36 ~16 ~46 concrete 7 
+setblock ~35 ~16 ~41 grass_path 3 
+setblock ~35 ~16 ~47 grass_path 2  
+fill ~37 ~16 ~43 ~37 ~16 ~45 concrete 7 
+setblock ~38 ~16 ~44 grass_path 4  
+fill ~33 ~17 ~43 ~33 ~17 ~45 quartz_block 0  
+fill ~34 ~17 ~42 ~36 ~17 ~42 quartz_block 0  
+fill ~34 ~17 ~46 ~36 ~17 ~46 quartz_block 0  
+fill ~37 ~17 ~43 ~37 ~17 ~45 quartz_block 0  
+fill ~55 ~17 ~-7 ~55 ~34 ~-7 iron_bars 0  
+fill ~55 ~17 ~-6 ~55 ~34 ~-6 iron_bars 0  
+fill ~55 ~17 ~-5 ~55 ~34 ~-5 iron_bars 0  
+fill ~55 ~17 ~-4 ~55 ~34 ~-4 iron_bars 0  
+fill ~55 ~17 ~-3 ~55 ~34 ~-3 iron_bars 0  
+fill ~55 ~17 ~11 ~55 ~34 ~11 iron_bars 0  
+fill ~55 ~17 ~12 ~55 ~34 ~12 iron_bars 0  
+fill ~55 ~17 ~13 ~55 ~34 ~13 iron_bars 0  
+fill ~55 ~17 ~14 ~55 ~34 ~14 iron_bars 0  
+fill ~55 ~17 ~15 ~55 ~34 ~15 iron_bars 0  
+fill ~55 ~17 ~73 ~55 ~34 ~73 iron_bars 0  
+fill ~55 ~17 ~74 ~55 ~34 ~74 iron_bars 0  
+fill ~55 ~17 ~75 ~55 ~34 ~75 iron_bars 0  
+fill ~55 ~17 ~76 ~55 ~34 ~76 iron_bars 0  
+fill ~55 ~17 ~77 ~55 ~34 ~77 iron_bars 0  
+fill ~55 ~17 ~91 ~55 ~34 ~91 iron_bars 0  
+fill ~55 ~17 ~92 ~55 ~34 ~92 iron_bars 0  
+fill ~55 ~17 ~93 ~55 ~34 ~93 iron_bars 0  
+fill ~55 ~17 ~94 ~55 ~34 ~94 iron_bars 0  
+fill ~55 ~17 ~95 ~55 ~34 ~95 iron_bars 0  
+fill ~33 ~18 ~43 ~33 ~26 ~43 quartz_stairs 0  
+fill ~33 ~18 ~44 ~33 ~27 ~44 quartz_block 0  
+fill ~33 ~18 ~45 ~33 ~26 ~45 quartz_stairs 0  
+fill ~34 ~18 ~42 ~34 ~26 ~42 quartz_stairs 2  
+fill ~34 ~18 ~46 ~34 ~26 ~46 quartz_stairs 3  
+fill ~35 ~18 ~42 ~35 ~27 ~42 quartz_block 0  
+fill ~35 ~18 ~46 ~35 ~27 ~46 quartz_block 0  
+fill ~36 ~18 ~42 ~36 ~26 ~42 quartz_stairs 2  
+fill ~36 ~18 ~46 ~36 ~26 ~46 quartz_stairs 3  
+fill ~37 ~18 ~43 ~37 ~26 ~43 quartz_stairs 1  
+fill ~37 ~18 ~44 ~37 ~27 ~44 quartz_block 0  
+fill ~37 ~18 ~45 ~37 ~26 ~45 quartz_stairs 1 
+setblock ~77 ~22 ~47 grass_path 0  
+fill ~77 ~23 ~47 ~77 ~30 ~47 iron_bars 0 
+setblock ~44 ~25 ~44 quartz_block 0 
+setblock ~46 ~25 ~42 quartz_block 0 
+setblock ~46 ~25 ~46 quartz_block 0 
+setblock ~48 ~25 ~44 quartz_block 0 
+setblock ~43 ~26 ~44 grass_path 5  
+fill ~44 ~26 ~43 ~44 ~26 ~45 concrete 7  
+fill ~45 ~26 ~42 ~47 ~26 ~42 concrete 7  
+fill ~45 ~26 ~46 ~47 ~26 ~46 concrete 7 
+setblock ~46 ~26 ~41 grass_path 3 
+setblock ~46 ~26 ~47 grass_path 2  
+fill ~46 ~26 ~50 ~46 ~26 ~51 iron_bars 0  
+fill ~48 ~26 ~43 ~48 ~26 ~45 concrete 7 
+setblock ~49 ~26 ~44 grass_path 4  
+fill ~74 ~26 ~21 ~74 ~29 ~21 iron_bars 0  
+fill ~74 ~26 ~22 ~74 ~28 ~22 iron_bars 0 
+setblock ~33 ~27 ~43 quartz_block 0 
+setblock ~33 ~27 ~45 quartz_block 0 
+setblock ~34 ~27 ~42 quartz_block 0 
+setblock ~34 ~27 ~46 quartz_block 0 
+setblock ~36 ~27 ~42 quartz_block 0 
+setblock ~36 ~27 ~46 quartz_block 0 
+setblock ~37 ~27 ~43 quartz_block 0 
+setblock ~37 ~27 ~45 quartz_block 0  
+fill ~44 ~27 ~43 ~44 ~27 ~45 quartz_stairs 0  
+fill ~45 ~27 ~42 ~47 ~27 ~42 quartz_stairs 2  
+fill ~45 ~27 ~46 ~47 ~27 ~46 quartz_stairs 3  
+fill ~46 ~27 ~50 ~46 ~27 ~51 glass 0  
+fill ~48 ~27 ~43 ~48 ~27 ~45 quartz_stairs 1 
+setblock ~72 ~27 ~31 grass_path 0 
+setblock ~72 ~27 ~38 grass_path 0 
+setblock ~72 ~27 ~50 grass_path 0 
+setblock ~72 ~27 ~55 grass_path 0 
+setblock ~32 ~28 ~44 grass_path 5  
+fill ~33 ~28 ~43 ~33 ~28 ~45 concrete 7  
+fill ~34 ~28 ~42 ~36 ~28 ~42 concrete 7  
+fill ~34 ~28 ~46 ~36 ~28 ~46 concrete 7 
+setblock ~35 ~28 ~41 grass_path 3 
+setblock ~35 ~28 ~47 grass_path 2  
+fill ~37 ~28 ~43 ~37 ~28 ~45 concrete 7 
+setblock ~38 ~28 ~44 grass_path 4 
+setblock ~41 ~28 ~44 grass_path 0  
+fill ~42 ~28 ~43 ~42 ~28 ~45 quartz_block 0 
+setblock ~43 ~28 ~43 quartz_stairs 6  
+fill ~43 ~28 ~44 ~44 ~28 ~44 quartz_block 0 
+setblock ~43 ~28 ~45 quartz_stairs 7 
+setblock ~44 ~28 ~43 quartz_stairs 4 
+setblock ~44 ~28 ~45 quartz_stairs 4  
+fill ~45 ~28 ~43 ~47 ~28 ~43 concrete 7  
+fill ~45 ~28 ~44 ~45 ~28 ~45 concrete 7  
+fill ~45 ~28 ~49 ~47 ~28 ~49 quartz_block 0  
+fill ~45 ~28 ~50 ~47 ~28 ~50 quartz_block 0  
+fill ~45 ~28 ~51 ~47 ~28 ~51 quartz_block 0 
+setblock ~46 ~28 ~44 stone_slab 14  
+fill ~46 ~28 ~45 ~47 ~28 ~45 concrete 7 
+setblock ~47 ~28 ~44 concrete 7 
+setblock ~48 ~28 ~43 quartz_stairs 5  
+fill ~48 ~28 ~44 ~50 ~28 ~44 quartz_block 0 
+setblock ~48 ~28 ~45 quartz_stairs 5 
+setblock ~49 ~28 ~43 quartz_stairs 6 
+setblock ~49 ~28 ~45 quartz_stairs 7 
+setblock ~50 ~28 ~43 quartz_block 0 
+setblock ~50 ~28 ~45 quartz_block 0 
+setblock ~51 ~28 ~44 grass_path 0  
+fill ~52 ~28 ~43 ~54 ~28 ~43 quartz_block 0  
+fill ~52 ~28 ~44 ~66 ~28 ~44 quartz_block 0  
+fill ~52 ~28 ~45 ~54 ~28 ~45 quartz_block 0  
+fill ~55 ~28 ~43 ~57 ~28 ~43 quartz_stairs 6  
+fill ~55 ~28 ~45 ~57 ~28 ~45 quartz_stairs 7  
+fill ~58 ~28 ~43 ~60 ~28 ~43 quartz_block 0  
+fill ~58 ~28 ~45 ~60 ~28 ~45 quartz_block 0  
+fill ~61 ~28 ~43 ~63 ~28 ~43 quartz_stairs 6  
+fill ~61 ~28 ~45 ~63 ~28 ~45 quartz_stairs 7  
+fill ~64 ~28 ~43 ~66 ~28 ~43 quartz_block 0  
+fill ~64 ~28 ~45 ~66 ~28 ~45 quartz_block 0 
+setblock ~67 ~28 ~44 grass_path 0  
+fill ~68 ~28 ~43 ~68 ~28 ~45 quartz_block 0  
+fill ~69 ~28 ~43 ~75 ~28 ~43 quartz_stairs 6  
+fill ~69 ~28 ~44 ~76 ~28 ~44 quartz_block 0  
+fill ~69 ~28 ~45 ~75 ~28 ~45 quartz_stairs 7  
+fill ~71 ~28 ~29 ~73 ~28 ~29 quartz_block 0 
+setblock ~71 ~28 ~30 quartz_stairs 4 
+setblock ~71 ~28 ~31 concrete 7  
+fill ~71 ~28 ~32 ~71 ~28 ~37 quartz_stairs 4 
+setblock ~71 ~28 ~38 concrete 7 
+setblock ~71 ~28 ~39 quartz_stairs 4  
+fill ~71 ~28 ~40 ~73 ~28 ~40 quartz_block 0  
+fill ~71 ~28 ~48 ~73 ~28 ~48 quartz_block 0 
+setblock ~71 ~28 ~49 quartz_stairs 4 
+setblock ~71 ~28 ~50 concrete 7  
+fill ~71 ~28 ~51 ~71 ~28 ~54 quartz_stairs 4 
+setblock ~71 ~28 ~55 concrete 7 
+setblock ~71 ~28 ~56 quartz_stairs 4  
+fill ~71 ~28 ~57 ~73 ~28 ~57 quartz_block 0 
+setblock ~72 ~28 ~18 grass_path 0 
+setblock ~72 ~28 ~28 grass_path 0  
+fill ~72 ~28 ~30 ~72 ~28 ~40 quartz_block 0 
+setblock ~72 ~28 ~41 grass_path 0 
+setblock ~72 ~28 ~47 grass_path 0  
+fill ~72 ~28 ~49 ~72 ~28 ~57 quartz_block 0 
+setblock ~72 ~28 ~58 grass_path 0  
+fill ~73 ~28 ~23 ~74 ~28 ~23 stone_slab 14  
+fill ~73 ~28 ~24 ~73 ~28 ~23 stone_slab 14 
+setblock ~73 ~28 ~30 quartz_stairs 5 
+setblock ~73 ~28 ~31 concrete 7  
+fill ~73 ~28 ~32 ~73 ~28 ~37 quartz_stairs 5 
+setblock ~73 ~28 ~38 concrete 7 
+setblock ~73 ~28 ~39 quartz_stairs 5 
+setblock ~73 ~28 ~49 quartz_stairs 5 
+setblock ~73 ~28 ~50 concrete 7  
+fill ~73 ~28 ~51 ~73 ~28 ~54 quartz_stairs 5 
+setblock ~73 ~28 ~55 concrete 7 
+setblock ~73 ~28 ~56 quartz_stairs 5  
+fill ~76 ~28 ~43 ~76 ~29 ~43 quartz_block 0  
+fill ~76 ~28 ~45 ~76 ~29 ~45 quartz_block 0 
+setblock ~77 ~28 ~44 grass_path 0 
+setblock ~-8 ~29 ~35 stone_slab 6 
+setblock ~-8 ~29 ~36 stone_slab 14 
+setblock ~-8 ~29 ~52 stone_slab 14 
+setblock ~-8 ~29 ~53 stone_slab 6 
+setblock ~-6 ~29 ~44 grass_path 0 
+setblock ~1 ~29 ~44 grass_path 0  
+fill ~33 ~29 ~43 ~33 ~29 ~45 quartz_stairs 0  
+fill ~34 ~29 ~42 ~36 ~29 ~42 quartz_stairs 2 
+setblock ~34 ~29 ~43 quartz_block 0 
+setblock ~34 ~29 ~45 quartz_block 0  
+fill ~34 ~29 ~46 ~36 ~29 ~46 quartz_stairs 3 
+setblock ~36 ~29 ~43 quartz_block 0 
+setblock ~36 ~29 ~45 quartz_block 0  
+fill ~37 ~29 ~43 ~37 ~29 ~45 quartz_stairs 1  
+fill ~41 ~29 ~43 ~41 ~29 ~45 concrete 7  
+fill ~42 ~29 ~42 ~50 ~29 ~42 quartz_block 0  
+fill ~42 ~29 ~46 ~50 ~29 ~46 quartz_block 0  
+fill ~43 ~29 ~50 ~43 ~29 ~51 glass 0  
+fill ~44 ~29 ~49 ~48 ~29 ~49 quartz_block 0  
+fill ~44 ~29 ~50 ~44 ~29 ~51 quartz_block 0  
+fill ~45 ~29 ~51 ~48 ~29 ~51 quartz_block 0 
+setblock ~46 ~29 ~41 stone_slab 14 
+setblock ~46 ~29 ~48 grass_path 0 
+setblock ~46 ~29 ~52 grass_path 0  
+fill ~46 ~29 ~53 ~46 ~29 ~56 stone_slab 14 
+setblock ~46 ~29 ~57 grass_path 0 
+setblock ~48 ~29 ~50 quartz_block 0  
+fill ~51 ~29 ~43 ~51 ~29 ~45 concrete 7  
+fill ~52 ~29 ~42 ~66 ~29 ~42 quartz_block 0  
+fill ~52 ~29 ~46 ~66 ~29 ~46 quartz_block 0  
+fill ~67 ~29 ~43 ~67 ~29 ~45 concrete 7  
+fill ~68 ~29 ~42 ~76 ~29 ~42 quartz_block 0  
+fill ~68 ~29 ~46 ~76 ~29 ~46 quartz_block 0 
+setblock ~70 ~29 ~29 quartz_block 0  
+fill ~70 ~29 ~30 ~70 ~29 ~39 concrete 7 
+setblock ~70 ~29 ~40 quartz_block 0 
+setblock ~70 ~29 ~48 quartz_block 0  
+fill ~70 ~29 ~49 ~70 ~29 ~56 concrete 7 
+setblock ~70 ~29 ~57 quartz_block 0  
+fill ~71 ~29 ~17 ~73 ~29 ~17 stone_slab 14  
+fill ~71 ~29 ~18 ~71 ~29 ~19 stone_slab 14 
+setblock ~71 ~29 ~21 stained_glass_pane 15 
+setblock ~71 ~29 ~24 stained_glass_pane 15  
+fill ~71 ~29 ~28 ~73 ~29 ~28 concrete 7  
+fill ~71 ~29 ~41 ~73 ~29 ~41 concrete 7  
+fill ~71 ~29 ~47 ~73 ~29 ~47 concrete 7  
+fill ~71 ~29 ~58 ~73 ~29 ~58 concrete 7 
+setblock ~72 ~29 ~18 glass 0 
+setblock ~72 ~29 ~19 quartz_stairs 7 
+setblock ~72 ~29 ~20 stone_slab 14  
+fill ~72 ~29 ~21 ~73 ~29 ~21 quartz_block 0 
+setblock ~72 ~29 ~22 quartz_stairs 4  
+fill ~72 ~29 ~23 ~73 ~29 ~23 quartz_block 0  
+fill ~72 ~29 ~24 ~74 ~29 ~24 quartz_block 0 
+setblock ~72 ~29 ~25 quartz_stairs 0  
+fill ~72 ~29 ~26 ~74 ~29 ~26 quartz_block 0 
+setblock ~72 ~29 ~27 concrete 7 
+setblock ~73 ~29 ~18 quartz_stairs 7 
+setblock ~73 ~29 ~19 stone_slab 14 
+setblock ~73 ~29 ~22 concrete 7 
+setblock ~73 ~29 ~25 concrete 7 
+setblock ~74 ~29 ~22 quartz_block 0 
+setblock ~74 ~29 ~23 quartz_stairs 1 
+setblock ~74 ~29 ~25 quartz_stairs 5 
+setblock ~74 ~29 ~29 quartz_block 0  
+fill ~74 ~29 ~30 ~74 ~29 ~39 concrete 7 
+setblock ~74 ~29 ~40 quartz_block 0 
+setblock ~74 ~29 ~48 quartz_block 0  
+fill ~74 ~29 ~49 ~74 ~29 ~56 concrete 7 
+setblock ~74 ~29 ~57 quartz_block 0 
+setblock ~75 ~29 ~22 stained_glass_pane 15 
+setblock ~75 ~29 ~24 stained_glass_pane 15  
+fill ~76 ~29 ~44 ~77 ~29 ~44 quartz_block 0  
+fill ~77 ~29 ~43 ~77 ~33 ~43 quartz_block 0  
+fill ~77 ~29 ~45 ~77 ~33 ~45 quartz_block 0 
+setblock ~78 ~29 ~44 iron_bars 0 
+setblock ~79 ~29 ~43 iron_bars 0  
+fill ~79 ~29 ~44 ~79 ~31 ~44 concrete 7 
+setblock ~79 ~29 ~45 iron_bars 0 
+setblock ~80 ~29 ~44 stained_glass_pane 15  
+fill ~-11 ~30 ~43 ~-7 ~30 ~43 quartz_block 0  
+fill ~-11 ~30 ~45 ~-7 ~30 ~45 quartz_block 0  
+fill ~-10 ~30 ~44 ~-7 ~30 ~44 quartz_block 0 
+setblock ~-8 ~30 ~37 stone_slab 6 
+setblock ~-8 ~30 ~38 stone_slab 14 
+setblock ~-8 ~30 ~50 stone_slab 14 
+setblock ~-8 ~30 ~51 stone_slab 6  
+fill ~-6 ~30 ~43 ~-6 ~30 ~45 concrete 7  
+fill ~-5 ~30 ~43 ~0 ~30 ~43 quartz_stairs 6  
+fill ~-5 ~30 ~44 ~-2 ~30 ~44 concrete 7  
+fill ~-5 ~30 ~45 ~0 ~30 ~45 quartz_stairs 7  
+fill ~-1 ~30 ~44 ~1 ~30 ~44 quartz_block 0 
+setblock ~1 ~30 ~43 quartz_block 0 
+setblock ~1 ~30 ~45 quartz_block 0 
+setblock ~2 ~30 ~44 grass_path 0 
+setblock ~8 ~30 ~44 grass_path 0 
+setblock ~11 ~30 ~44 concrete 7 
+setblock ~12 ~30 ~43 concrete 7 
+setblock ~12 ~30 ~45 concrete 7 
+setblock ~13 ~30 ~44 concrete 7 
+setblock ~16 ~30 ~44 grass_path 0  
+fill ~17 ~30 ~43 ~30 ~30 ~43 quartz_block 0  
+fill ~17 ~30 ~44 ~17 ~30 ~45 quartz_block 0  
+fill ~18 ~30 ~44 ~19 ~30 ~44 concrete 7  
+fill ~18 ~30 ~45 ~30 ~30 ~45 quartz_block 0 
+setblock ~20 ~30 ~42 quartz_stairs 6  
+fill ~20 ~30 ~44 ~27 ~30 ~44 iron_bars 0 
+setblock ~20 ~30 ~46 quartz_stairs 7 
+setblock ~21 ~30 ~42 concrete 7 
+setblock ~21 ~30 ~46 concrete 7 
+setblock ~26 ~30 ~42 concrete 7 
+setblock ~26 ~30 ~46 concrete 7 
+setblock ~27 ~30 ~42 quartz_stairs 6 
+setblock ~27 ~30 ~46 quartz_stairs 7  
+fill ~28 ~30 ~44 ~30 ~30 ~44 quartz_block 0 
+setblock ~34 ~30 ~44 concrete 7 
+setblock ~35 ~30 ~43 concrete 7 
+setblock ~35 ~30 ~45 concrete 7 
+setblock ~36 ~30 ~44 concrete 7 
+setblock ~39 ~30 ~44 grass_path 0  
+fill ~40 ~30 ~43 ~40 ~30 ~45 concrete 7  
+fill ~41 ~30 ~42 ~41 ~32 ~42 concrete 7  
+fill ~41 ~30 ~46 ~41 ~32 ~46 concrete 7  
+fill ~42 ~30 ~41 ~42 ~32 ~41 quartz_block 0  
+fill ~42 ~30 ~47 ~42 ~32 ~47 quartz_block 0  
+fill ~43 ~30 ~41 ~44 ~30 ~41 quartz_stairs 6  
+fill ~43 ~30 ~47 ~45 ~30 ~47 quartz_stairs 7  
+fill ~43 ~30 ~49 ~45 ~30 ~49 quartz_block 0  
+fill ~43 ~30 ~50 ~43 ~32 ~50 quartz_block 0  
+fill ~43 ~30 ~51 ~45 ~30 ~51 quartz_block 0  
+fill ~45 ~30 ~40 ~45 ~30 ~41 quartz_block 0  
+fill ~45 ~30 ~52 ~47 ~30 ~52 concrete 7  
+fill ~45 ~30 ~53 ~45 ~30 ~56 stone_slab 14  
+fill ~45 ~30 ~57 ~47 ~30 ~57 concrete 7  
+fill ~46 ~30 ~40 ~46 ~32 ~40 glass 0 
+setblock ~46 ~30 ~41 stone_slab 6 
+setblock ~46 ~30 ~47 quartz_block 0 
+setblock ~46 ~30 ~48 concrete 7 
+setblock ~46 ~30 ~49 torch 5  
+fill ~46 ~30 ~53 ~46 ~30 ~56 stone_slab 6  
+fill ~47 ~30 ~40 ~47 ~30 ~41 quartz_block 0  
+fill ~47 ~30 ~47 ~49 ~30 ~47 quartz_stairs 7  
+fill ~47 ~30 ~49 ~49 ~30 ~49 quartz_block 0  
+fill ~47 ~30 ~51 ~49 ~30 ~51 quartz_block 0  
+fill ~47 ~30 ~53 ~47 ~30 ~56 stone_slab 14  
+fill ~48 ~30 ~41 ~49 ~30 ~41 quartz_stairs 6  
+fill ~49 ~30 ~50 ~49 ~32 ~50 quartz_block 0  
+fill ~50 ~30 ~41 ~50 ~32 ~41 quartz_block 0  
+fill ~50 ~30 ~47 ~50 ~32 ~47 quartz_block 0  
+fill ~51 ~30 ~42 ~51 ~32 ~42 concrete 7  
+fill ~51 ~30 ~46 ~51 ~32 ~46 concrete 7  
+fill ~52 ~30 ~41 ~54 ~30 ~41 quartz_block 0  
+fill ~52 ~30 ~47 ~54 ~30 ~47 quartz_block 0  
+fill ~55 ~30 ~41 ~57 ~30 ~41 quartz_stairs 6  
+fill ~55 ~30 ~47 ~57 ~30 ~47 quartz_stairs 7  
+fill ~58 ~30 ~41 ~60 ~30 ~41 quartz_block 0  
+fill ~58 ~30 ~47 ~60 ~30 ~47 quartz_block 0  
+fill ~61 ~30 ~41 ~63 ~30 ~41 quartz_stairs 6  
+fill ~61 ~30 ~47 ~63 ~30 ~47 quartz_stairs 7  
+fill ~64 ~30 ~41 ~66 ~30 ~41 quartz_block 0  
+fill ~64 ~30 ~47 ~66 ~30 ~47 quartz_block 0  
+fill ~67 ~30 ~42 ~67 ~32 ~42 concrete 7  
+fill ~67 ~30 ~46 ~67 ~32 ~46 concrete 7  
+fill ~68 ~30 ~41 ~68 ~32 ~41 quartz_block 0  
+fill ~68 ~30 ~47 ~68 ~32 ~47 quartz_block 0  
+fill ~69 ~30 ~29 ~69 ~32 ~29 quartz_block 0 
+setblock ~69 ~30 ~30 quartz_stairs 4 
+setblock ~69 ~30 ~31 concrete 7  
+fill ~69 ~30 ~32 ~69 ~30 ~37 quartz_stairs 4 
+setblock ~69 ~30 ~38 concrete 7 
+setblock ~69 ~30 ~39 quartz_stairs 4  
+fill ~69 ~30 ~40 ~69 ~32 ~40 quartz_block 0 
+setblock ~69 ~30 ~41 quartz_stairs 6 
+setblock ~69 ~30 ~47 quartz_stairs 7  
+fill ~69 ~30 ~48 ~69 ~32 ~48 quartz_block 0 
+setblock ~69 ~30 ~49 quartz_stairs 4 
+setblock ~69 ~30 ~50 concrete 7  
+fill ~69 ~30 ~51 ~69 ~30 ~54 quartz_stairs 4 
+setblock ~69 ~30 ~55 concrete 7 
+setblock ~69 ~30 ~56 quartz_stairs 4  
+fill ~69 ~30 ~57 ~69 ~32 ~57 quartz_block 0  
+fill ~70 ~30 ~28 ~70 ~32 ~28 concrete 7  
+fill ~70 ~30 ~41 ~70 ~32 ~41 concrete 7 
+setblock ~70 ~30 ~47 concrete 7  
+fill ~70 ~30 ~58 ~70 ~32 ~58 concrete 7 
+setblock ~71 ~30 ~19 iron_bars 0 
+setblock ~71 ~30 ~28 quartz_stairs 1  
+fill ~71 ~30 ~29 ~73 ~30 ~29 glass 0  
+fill ~71 ~30 ~57 ~73 ~30 ~57 glass 0 
+setblock ~71 ~30 ~58 quartz_stairs 1  
+fill ~72 ~30 ~22 ~73 ~30 ~22 stone_slab 6 
+setblock ~72 ~30 ~23 iron_bars 0  
+fill ~72 ~30 ~28 ~72 ~32 ~28 quartz_block 0  
+fill ~72 ~30 ~58 ~72 ~32 ~58 quartz_block 0  
+fill ~73 ~30 ~17 ~73 ~30 ~18 iron_bars 0  
+fill ~73 ~30 ~23 ~73 ~30 ~25 stone_slab 6 
+setblock ~73 ~30 ~28 quartz_stairs 0 
+setblock ~73 ~30 ~58 quartz_stairs 0 
+setblock ~74 ~30 ~24 grass_path 0  
+fill ~74 ~30 ~28 ~74 ~32 ~28 concrete 7  
+fill ~74 ~30 ~41 ~74 ~32 ~41 concrete 7 
+setblock ~74 ~30 ~47 concrete 7  
+fill ~74 ~30 ~58 ~74 ~32 ~58 concrete 7  
+fill ~75 ~30 ~29 ~75 ~32 ~29 quartz_block 0 
+setblock ~75 ~30 ~30 quartz_stairs 5 
+setblock ~75 ~30 ~31 concrete 7  
+fill ~75 ~30 ~32 ~75 ~30 ~37 quartz_stairs 5 
+setblock ~75 ~30 ~38 concrete 7 
+setblock ~75 ~30 ~39 quartz_stairs 5  
+fill ~75 ~30 ~40 ~75 ~32 ~40 quartz_block 0 
+setblock ~75 ~30 ~41 quartz_stairs 6 
+setblock ~75 ~30 ~47 quartz_stairs 7  
+fill ~75 ~30 ~48 ~75 ~32 ~48 quartz_block 0 
+setblock ~75 ~30 ~49 quartz_stairs 5 
+setblock ~75 ~30 ~50 concrete 7  
+fill ~75 ~30 ~51 ~75 ~30 ~54 quartz_stairs 5 
+setblock ~75 ~30 ~55 concrete 7 
+setblock ~75 ~30 ~56 quartz_stairs 5  
+fill ~75 ~30 ~57 ~75 ~32 ~57 quartz_block 0  
+fill ~76 ~30 ~41 ~76 ~32 ~41 quartz_block 0  
+fill ~76 ~30 ~42 ~77 ~30 ~42 quartz_block 0  
+fill ~76 ~30 ~46 ~77 ~30 ~46 quartz_block 0  
+fill ~76 ~30 ~47 ~76 ~32 ~47 quartz_block 0 
+setblock ~77 ~30 ~44 quartz_block 0 
+setblock ~78 ~30 ~43 iron_bars 0 
+setblock ~78 ~30 ~44 concrete 7 
+setblock ~78 ~30 ~45 iron_bars 0 
+setblock ~79 ~30 ~43 concrete 7 
+setblock ~79 ~30 ~45 concrete 7 
+setblock ~80 ~30 ~43 stained_glass_pane 15 
+setblock ~80 ~30 ~44 glass 0 
+setblock ~80 ~30 ~45 stained_glass_pane 15  
+fill ~-10 ~31 ~42 ~-7 ~31 ~42 quartz_block 0  
+fill ~-10 ~31 ~43 ~-10 ~32 ~43 stained_glass_pane 15  
+fill ~-10 ~31 ~44 ~-10 ~30 ~44 quartz_block 0  
+fill ~-10 ~31 ~45 ~-10 ~32 ~45 stained_glass_pane 15  
+fill ~-10 ~31 ~46 ~-7 ~31 ~46 quartz_block 0  
+fill ~-9 ~31 ~43 ~-9 ~32 ~43 quartz_block 0 
+setblock ~-9 ~31 ~44 bed 8  
+fill ~-9 ~31 ~45 ~-9 ~32 ~45 quartz_block 0 
+setblock ~-8 ~31 ~39 stone_slab 6 
+setblock ~-8 ~31 ~40 stone_slab 14 
+setblock ~-8 ~31 ~44 bed 0 
+setblock ~-8 ~31 ~45 ender_chest 5 
+setblock ~-8 ~31 ~48 stone_slab 14 
+setblock ~-8 ~31 ~49 stone_slab 6 
+setblock ~-7 ~31 ~41 stone_slab 14 
+setblock ~-7 ~31 ~47 stone_slab 14 
+setblock ~-6 ~31 ~42 concrete 7  
+fill ~-6 ~31 ~43 ~-6 ~32 ~43 iron_bars 0  
+fill ~-6 ~31 ~44 ~-6 ~32 ~44 iron_bars 0  
+fill ~-6 ~31 ~45 ~-6 ~32 ~45 iron_bars 0 
+setblock ~-6 ~31 ~46 concrete 7  
+fill ~-5 ~31 ~42 ~0 ~31 ~42 quartz_stairs 6  
+fill ~-5 ~31 ~46 ~0 ~31 ~46 quartz_stairs 7 
+setblock ~1 ~31 ~42 quartz_block 0 
+setblock ~1 ~31 ~46 quartz_block 0  
+fill ~2 ~31 ~43 ~2 ~31 ~45 concrete 7  
+fill ~3 ~31 ~43 ~7 ~31 ~43 quartz_stairs 6  
+fill ~3 ~31 ~44 ~7 ~31 ~44 quartz_block 0  
+fill ~3 ~31 ~45 ~7 ~31 ~45 quartz_stairs 7  
+fill ~8 ~31 ~43 ~8 ~31 ~45 concrete 7 
+setblock ~9 ~31 ~44 quartz_block 0 
+setblock ~10 ~31 ~44 stone_slab 14 
+setblock ~11 ~31 ~44 quartz_block 0  
+fill ~12 ~31 ~43 ~12 ~35 ~43 quartz_block 0 
+setblock ~12 ~31 ~44 grass_path 0  
+fill ~12 ~31 ~45 ~12 ~35 ~45 quartz_block 0 
+setblock ~13 ~31 ~44 quartz_block 0 
+setblock ~14 ~31 ~44 stone_slab 14 
+setblock ~15 ~31 ~44 quartz_block 0  
+fill ~16 ~31 ~43 ~16 ~31 ~45 concrete 7  
+fill ~17 ~31 ~42 ~30 ~31 ~42 quartz_block 0  
+fill ~17 ~31 ~46 ~30 ~31 ~46 quartz_block 0 
+setblock ~20 ~31 ~41 quartz_stairs 6  
+fill ~20 ~31 ~43 ~20 ~31 ~46 quartz_block 0 
+setblock ~20 ~31 ~47 quartz_stairs 7 
+setblock ~21 ~31 ~41 concrete 7  
+fill ~21 ~31 ~44 ~27 ~31 ~44 quartz_block 0 
+setblock ~21 ~31 ~47 concrete 7 
+setblock ~26 ~31 ~41 concrete 7 
+setblock ~26 ~31 ~47 concrete 7 
+setblock ~27 ~31 ~41 quartz_stairs 6 
+setblock ~27 ~31 ~43 quartz_block 0 
+setblock ~27 ~31 ~45 quartz_block 0 
+setblock ~27 ~31 ~47 quartz_stairs 7 
+setblock ~30 ~31 ~45 quartz_stairs 0  
+fill ~31 ~31 ~43 ~31 ~31 ~45 concrete 7 
+setblock ~32 ~31 ~44 quartz_block 0 
+setblock ~33 ~31 ~44 stone_slab 14 
+setblock ~34 ~31 ~44 double_stone_slab 6  
+fill ~35 ~31 ~43 ~35 ~35 ~43 quartz_block 0  
+fill ~35 ~31 ~45 ~35 ~35 ~45 quartz_block 0 
+setblock ~36 ~31 ~44 double_stone_slab 6 
+setblock ~37 ~31 ~44 stone_slab 14 
+setblock ~38 ~31 ~44 quartz_block 0  
+fill ~39 ~31 ~43 ~39 ~31 ~45 concrete 7  
+fill ~40 ~31 ~42 ~40 ~33 ~42 concrete 7  
+fill ~40 ~31 ~46 ~40 ~33 ~46 concrete 7 
+setblock ~41 ~31 ~41 grass_path 3 
+setblock ~41 ~31 ~47 grass_path 2  
+fill ~42 ~31 ~50 ~42 ~31 ~51 glass 0  
+fill ~43 ~31 ~41 ~44 ~31 ~41 quartz_block 0  
+fill ~43 ~31 ~47 ~45 ~31 ~47 quartz_block 0  
+fill ~43 ~31 ~49 ~44 ~31 ~49 quartz_block 0  
+fill ~43 ~31 ~51 ~44 ~31 ~51 quartz_block 0 
+setblock ~44 ~31 ~48 grass_path 5 
+setblock ~44 ~31 ~52 grass_path 5  
+fill ~44 ~31 ~53 ~44 ~31 ~56 stained_glass_pane 0 
+setblock ~44 ~31 ~57 grass_path 5 
+setblock ~45 ~31 ~40 glass 0 
+setblock ~45 ~31 ~48 concrete 7  
+fill ~45 ~31 ~52 ~45 ~32 ~52 concrete 7  
+fill ~45 ~31 ~53 ~45 ~31 ~56 double_stone_slab 6  
+fill ~45 ~31 ~57 ~45 ~32 ~57 concrete 7 
+setblock ~46 ~31 ~57 stained_glass_pane 15 
+setblock ~47 ~31 ~40 glass 0  
+fill ~47 ~31 ~47 ~50 ~31 ~47 quartz_block 0 
+setblock ~47 ~31 ~48 concrete 7  
+fill ~47 ~31 ~52 ~47 ~32 ~52 concrete 7  
+fill ~47 ~31 ~53 ~47 ~31 ~56 double_stone_slab 6  
+fill ~47 ~31 ~57 ~47 ~32 ~57 concrete 7  
+fill ~48 ~31 ~41 ~50 ~31 ~41 quartz_block 0 
+setblock ~48 ~31 ~48 grass_path 4  
+fill ~48 ~31 ~49 ~49 ~31 ~49 quartz_block 0  
+fill ~48 ~31 ~51 ~49 ~31 ~51 quartz_block 0 
+setblock ~48 ~31 ~52 grass_path 4  
+fill ~48 ~31 ~53 ~48 ~31 ~56 stained_glass_pane 0 
+setblock ~48 ~31 ~57 grass_path 4 
+setblock ~51 ~31 ~41 grass_path 3 
+setblock ~51 ~31 ~47 grass_path 2  
+fill ~52 ~31 ~41 ~54 ~31 ~41 quartz_block 0  
+fill ~52 ~31 ~47 ~54 ~31 ~47 quartz_block 0  
+fill ~55 ~31 ~41 ~57 ~31 ~41 iron_bars 0  
+fill ~55 ~31 ~42 ~57 ~31 ~42 concrete 7  
+fill ~55 ~31 ~46 ~57 ~31 ~46 concrete 7  
+fill ~55 ~31 ~47 ~57 ~31 ~47 iron_bars 0  
+fill ~58 ~31 ~41 ~60 ~31 ~41 concrete 7  
+fill ~58 ~31 ~47 ~60 ~31 ~47 concrete 7  
+fill ~61 ~31 ~41 ~63 ~31 ~41 iron_bars 0  
+fill ~61 ~31 ~42 ~63 ~31 ~42 concrete 7  
+fill ~61 ~31 ~46 ~63 ~31 ~46 concrete 7  
+fill ~61 ~31 ~47 ~63 ~31 ~47 iron_bars 0  
+fill ~64 ~31 ~41 ~66 ~31 ~41 quartz_block 0  
+fill ~64 ~31 ~47 ~66 ~31 ~47 quartz_block 0 
+setblock ~67 ~31 ~41 grass_path 3 
+setblock ~67 ~31 ~47 grass_path 2 
+setblock ~69 ~31 ~28 grass_path 5  
+fill ~69 ~31 ~30 ~69 ~31 ~41 quartz_block 0  
+fill ~69 ~31 ~47 ~76 ~31 ~47 quartz_block 0  
+fill ~69 ~31 ~49 ~69 ~31 ~57 quartz_block 0 
+setblock ~69 ~31 ~58 grass_path 5 
+setblock ~71 ~31 ~28 quartz_block 0  
+fill ~71 ~31 ~29 ~73 ~31 ~29 glass 0  
+fill ~71 ~31 ~57 ~73 ~31 ~57 glass 0 
+setblock ~71 ~31 ~58 quartz_block 0 
+setblock ~73 ~31 ~28 quartz_block 0 
+setblock ~73 ~31 ~58 quartz_block 0 
+setblock ~75 ~31 ~28 grass_path 4  
+fill ~75 ~31 ~30 ~75 ~31 ~41 quartz_block 0  
+fill ~75 ~31 ~49 ~75 ~31 ~57 quartz_block 0 
+setblock ~75 ~31 ~58 grass_path 4  
+fill ~76 ~31 ~42 ~77 ~31 ~42 quartz_block 0  
+fill ~76 ~31 ~46 ~77 ~31 ~46 quartz_block 0 
+setblock ~78 ~31 ~43 concrete 7 
+setblock ~78 ~31 ~45 concrete 7 
+setblock ~79 ~31 ~43 iron_bars 0 
+setblock ~79 ~31 ~45 iron_bars 0 
+setblock ~80 ~31 ~44 stained_glass_pane 15  
+fill ~-11 ~32 ~41 ~-7 ~32 ~41 quartz_block 0  
+fill ~-11 ~32 ~47 ~-7 ~32 ~47 quartz_block 0 
+setblock ~-10 ~32 ~42 stained_glass_pane 15  
+fill ~-10 ~32 ~44 ~-10 ~34 ~44 concrete 7 
+setblock ~-10 ~32 ~46 stained_glass_pane 15 
+setblock ~-9 ~32 ~42 quartz_block 0 
+setblock ~-9 ~32 ~46 quartz_block 0  
+fill ~-8 ~32 ~40 ~-8 ~34 ~40 iron_bars 0  
+fill ~-8 ~32 ~48 ~-8 ~34 ~48 iron_bars 0  
+fill ~-6 ~32 ~41 ~-6 ~34 ~41 concrete 7 
+setblock ~-6 ~32 ~42 iron_bars 0 
+setblock ~-6 ~32 ~46 iron_bars 0  
+fill ~-6 ~32 ~47 ~-6 ~34 ~47 concrete 7  
+fill ~-5 ~32 ~41 ~0 ~32 ~41 quartz_stairs 6  
+fill ~-5 ~32 ~47 ~0 ~32 ~47 quartz_stairs 7  
+fill ~1 ~32 ~41 ~1 ~34 ~41 quartz_block 0  
+fill ~1 ~32 ~47 ~1 ~34 ~47 quartz_block 0  
+fill ~2 ~32 ~42 ~2 ~34 ~42 concrete 7  
+fill ~2 ~32 ~46 ~2 ~34 ~46 concrete 7  
+fill ~3 ~32 ~42 ~7 ~32 ~42 quartz_stairs 6  
+fill ~3 ~32 ~46 ~7 ~32 ~46 quartz_stairs 7  
+fill ~8 ~32 ~42 ~8 ~34 ~42 concrete 7  
+fill ~8 ~32 ~46 ~8 ~34 ~46 concrete 7  
+fill ~9 ~32 ~43 ~9 ~34 ~43 quartz_block 0  
+fill ~9 ~32 ~44 ~15 ~32 ~44 stone_slab 6  
+fill ~9 ~32 ~45 ~9 ~34 ~45 quartz_block 0  
+fill ~10 ~32 ~43 ~11 ~32 ~43 stone_slab 14  
+fill ~10 ~32 ~45 ~11 ~32 ~45 stone_slab 14  
+fill ~13 ~32 ~43 ~14 ~32 ~43 stone_slab 14  
+fill ~13 ~32 ~45 ~14 ~32 ~45 stone_slab 14  
+fill ~15 ~32 ~43 ~15 ~34 ~43 quartz_block 0  
+fill ~15 ~32 ~45 ~15 ~34 ~45 quartz_block 0  
+fill ~16 ~32 ~42 ~16 ~34 ~42 concrete 7  
+fill ~16 ~32 ~46 ~16 ~34 ~46 concrete 7  
+fill ~17 ~32 ~41 ~30 ~32 ~41 quartz_block 0  
+fill ~17 ~32 ~47 ~30 ~32 ~47 quartz_block 0  
+fill ~20 ~32 ~42 ~20 ~35 ~42 quartz_block 0  
+fill ~20 ~32 ~46 ~20 ~35 ~46 quartz_block 0  
+fill ~27 ~32 ~42 ~27 ~35 ~42 quartz_block 0  
+fill ~27 ~32 ~46 ~27 ~35 ~46 quartz_block 0 
+setblock ~30 ~32 ~46 quartz_stairs 0  
+fill ~31 ~32 ~42 ~31 ~34 ~42 concrete 7  
+fill ~31 ~32 ~46 ~31 ~34 ~46 concrete 7  
+fill ~32 ~32 ~43 ~32 ~34 ~43 quartz_block 0  
+fill ~32 ~32 ~44 ~38 ~32 ~44 stone_slab 6  
+fill ~32 ~32 ~45 ~32 ~34 ~45 quartz_block 0  
+fill ~33 ~32 ~43 ~34 ~32 ~43 stone_slab 14  
+fill ~33 ~32 ~45 ~34 ~32 ~45 stone_slab 14  
+fill ~36 ~32 ~43 ~37 ~32 ~43 stone_slab 14  
+fill ~36 ~32 ~45 ~37 ~32 ~45 stone_slab 14  
+fill ~38 ~32 ~43 ~38 ~34 ~43 quartz_block 0  
+fill ~38 ~32 ~45 ~38 ~34 ~45 quartz_block 0  
+fill ~39 ~32 ~42 ~39 ~34 ~42 concrete 7  
+fill ~39 ~32 ~46 ~39 ~34 ~46 concrete 7 
+setblock ~42 ~32 ~50 snow_layer 0  
+fill ~43 ~32 ~41 ~44 ~32 ~41 quartz_stairs 2  
+fill ~43 ~32 ~47 ~45 ~32 ~47 quartz_stairs 3  
+fill ~43 ~32 ~49 ~45 ~32 ~49 quartz_block 0  
+fill ~43 ~32 ~51 ~45 ~32 ~51 quartz_block 0  
+fill ~45 ~32 ~40 ~45 ~32 ~41 quartz_block 0  
+fill ~45 ~32 ~53 ~45 ~32 ~56 stone_slab 6 
+setblock ~46 ~32 ~41 stone_slab 14 
+setblock ~46 ~32 ~47 quartz_block 0 
+setblock ~46 ~32 ~48 concrete 7 
+setblock ~46 ~32 ~52 concrete 7  
+fill ~46 ~32 ~53 ~46 ~32 ~56 stone_slab 14 
+setblock ~46 ~32 ~57 concrete 7  
+fill ~47 ~32 ~40 ~47 ~32 ~41 quartz_block 0  
+fill ~47 ~32 ~47 ~49 ~32 ~47 quartz_stairs 3  
+fill ~47 ~32 ~49 ~49 ~32 ~49 quartz_block 0  
+fill ~47 ~32 ~51 ~49 ~32 ~51 quartz_block 0  
+fill ~47 ~32 ~53 ~47 ~32 ~56 stone_slab 6  
+fill ~48 ~32 ~41 ~49 ~32 ~41 quartz_stairs 2  
+fill ~52 ~32 ~41 ~54 ~32 ~41 quartz_block 0  
+fill ~52 ~32 ~47 ~54 ~32 ~47 quartz_block 0  
+fill ~55 ~32 ~41 ~57 ~32 ~41 quartz_stairs 2  
+fill ~55 ~32 ~47 ~57 ~32 ~47 quartz_stairs 3  
+fill ~58 ~32 ~41 ~60 ~32 ~41 quartz_block 0  
+fill ~58 ~32 ~47 ~60 ~32 ~47 quartz_block 0  
+fill ~61 ~32 ~41 ~63 ~32 ~41 quartz_stairs 2  
+fill ~61 ~32 ~47 ~63 ~32 ~47 quartz_stairs 3  
+fill ~64 ~32 ~41 ~66 ~32 ~41 quartz_block 0  
+fill ~64 ~32 ~47 ~66 ~32 ~47 quartz_block 0 
+setblock ~69 ~32 ~30 quartz_stairs 0 
+setblock ~69 ~32 ~31 concrete 7  
+fill ~69 ~32 ~32 ~69 ~32 ~37 quartz_stairs 0 
+setblock ~69 ~32 ~38 concrete 7 
+setblock ~69 ~32 ~39 quartz_stairs 0 
+setblock ~69 ~32 ~41 quartz_stairs 2 
+setblock ~69 ~32 ~47 quartz_stairs 3 
+setblock ~69 ~32 ~49 quartz_stairs 0 
+setblock ~69 ~32 ~50 concrete 7  
+fill ~69 ~32 ~51 ~69 ~32 ~54 quartz_stairs 0 
+setblock ~69 ~32 ~55 concrete 7 
+setblock ~69 ~32 ~56 quartz_stairs 0 
+setblock ~70 ~32 ~47 concrete 7 
+setblock ~71 ~32 ~28 quartz_stairs 5  
+fill ~71 ~32 ~29 ~73 ~32 ~29 glass 0  
+fill ~71 ~32 ~57 ~73 ~32 ~57 glass 0 
+setblock ~71 ~32 ~58 quartz_stairs 5 
+setblock ~73 ~32 ~28 quartz_stairs 4 
+setblock ~73 ~32 ~58 quartz_stairs 4 
+setblock ~74 ~32 ~29 concrete 7 
+setblock ~74 ~32 ~47 concrete 7 
+setblock ~74 ~32 ~57 concrete 7 
+setblock ~75 ~32 ~30 quartz_stairs 1 
+setblock ~75 ~32 ~31 concrete 7  
+fill ~75 ~32 ~32 ~75 ~32 ~37 quartz_stairs 1 
+setblock ~75 ~32 ~38 concrete 7 
+setblock ~75 ~32 ~39 quartz_stairs 1 
+setblock ~75 ~32 ~41 quartz_stairs 2 
+setblock ~75 ~32 ~47 quartz_stairs 3 
+setblock ~75 ~32 ~49 quartz_stairs 1 
+setblock ~75 ~32 ~50 concrete 7  
+fill ~75 ~32 ~51 ~75 ~32 ~54 quartz_stairs 1 
+setblock ~75 ~32 ~55 concrete 7 
+setblock ~75 ~32 ~56 quartz_stairs 1  
+fill ~76 ~32 ~42 ~77 ~32 ~42 quartz_block 0  
+fill ~76 ~32 ~46 ~77 ~32 ~46 quartz_block 0  
+fill ~77 ~32 ~44 ~77 ~33 ~44 quartz_block 0 
+setblock ~78 ~32 ~43 iron_bars 0 
+setblock ~78 ~32 ~44 concrete 7 
+setblock ~78 ~32 ~45 iron_bars 0 
+setblock ~79 ~32 ~44 iron_bars 0  
+fill ~-10 ~33 ~41 ~-7 ~33 ~41 quartz_block 0  
+fill ~-10 ~33 ~42 ~-10 ~33 ~41 quartz_block 0 
+setblock ~-10 ~33 ~43 concrete 7 
+setblock ~-10 ~33 ~45 concrete 7  
+fill ~-10 ~33 ~46 ~-10 ~33 ~47 quartz_block 0 
+setblock ~-9 ~33 ~44 grass_path 4  
+fill ~-9 ~33 ~47 ~-7 ~33 ~47 quartz_block 0 
+setblock ~-6 ~33 ~40 grass_path 3  
+fill ~-6 ~33 ~42 ~-6 ~33 ~47 concrete 7 
+setblock ~-6 ~33 ~48 grass_path 2  
+fill ~-5 ~33 ~41 ~-2 ~33 ~41 concrete 7  
+fill ~-5 ~33 ~47 ~-2 ~33 ~47 concrete 7  
+fill ~-1 ~33 ~41 ~1 ~33 ~41 quartz_block 0  
+fill ~-1 ~33 ~47 ~1 ~33 ~47 quartz_block 0 
+setblock ~1 ~33 ~40 grass_path 3 
+setblock ~1 ~33 ~48 grass_path 2 
+setblock ~2 ~33 ~41 grass_path 3 
+setblock ~2 ~33 ~47 grass_path 2  
+fill ~3 ~33 ~22 ~7 ~33 ~22 daylight_detector_inverted 3  
+fill ~3 ~33 ~23 ~7 ~33 ~23 daylight_detector_inverted 3  
+fill ~3 ~33 ~24 ~7 ~33 ~24 daylight_detector_inverted 3  
+fill ~3 ~33 ~25 ~4 ~33 ~25 daylight_detector_inverted 3  
+fill ~3 ~33 ~26 ~4 ~33 ~26 daylight_detector_inverted 3  
+fill ~3 ~33 ~27 ~4 ~33 ~27 daylight_detector_inverted 3  
+fill ~3 ~33 ~28 ~4 ~33 ~28 daylight_detector_inverted 3  
+fill ~3 ~33 ~29 ~4 ~33 ~29 daylight_detector_inverted 3  
+fill ~3 ~33 ~30 ~4 ~33 ~30 daylight_detector_inverted 3  
+fill ~3 ~33 ~31 ~4 ~33 ~31 daylight_detector_inverted 3  
+fill ~3 ~33 ~32 ~4 ~33 ~32 daylight_detector_inverted 3  
+fill ~3 ~33 ~33 ~4 ~33 ~33 daylight_detector_inverted 3  
+fill ~3 ~33 ~34 ~4 ~33 ~34 daylight_detector_inverted 3  
+fill ~3 ~33 ~35 ~4 ~33 ~35 daylight_detector_inverted 3  
+fill ~3 ~33 ~36 ~4 ~33 ~36 daylight_detector_inverted 3  
+fill ~3 ~33 ~37 ~4 ~33 ~37 daylight_detector_inverted 3  
+fill ~3 ~33 ~38 ~4 ~33 ~38 daylight_detector_inverted 3  
+fill ~3 ~33 ~39 ~4 ~33 ~39 daylight_detector_inverted 3  
+fill ~3 ~33 ~40 ~4 ~33 ~40 daylight_detector_inverted 3  
+fill ~3 ~33 ~42 ~7 ~33 ~42 quartz_block 0  
+fill ~3 ~33 ~46 ~7 ~33 ~46 quartz_block 0  
+fill ~3 ~33 ~48 ~4 ~33 ~48 daylight_detector_inverted 3  
+fill ~3 ~33 ~49 ~4 ~33 ~49 daylight_detector_inverted 3  
+fill ~3 ~33 ~50 ~4 ~33 ~50 daylight_detector_inverted 3  
+fill ~3 ~33 ~51 ~4 ~33 ~51 daylight_detector_inverted 3  
+fill ~3 ~33 ~52 ~4 ~33 ~52 daylight_detector_inverted 3  
+fill ~3 ~33 ~53 ~4 ~33 ~53 daylight_detector_inverted 3  
+fill ~3 ~33 ~54 ~4 ~33 ~54 daylight_detector_inverted 3  
+fill ~3 ~33 ~55 ~4 ~33 ~55 daylight_detector_inverted 3  
+fill ~3 ~33 ~56 ~4 ~33 ~56 daylight_detector_inverted 3  
+fill ~3 ~33 ~57 ~4 ~33 ~57 daylight_detector_inverted 3  
+fill ~3 ~33 ~58 ~4 ~33 ~58 daylight_detector_inverted 3  
+fill ~3 ~33 ~59 ~4 ~33 ~59 daylight_detector_inverted 3   
+
+KittysCommands:   
+fill ~3 ~33 ~60 ~4 ~33 ~60 daylight_detector_inverted 3  
+fill ~3 ~33 ~61 ~4 ~33 ~61 daylight_detector_inverted 3  
+fill ~3 ~33 ~62 ~4 ~33 ~62 daylight_detector_inverted 3  
+fill ~3 ~33 ~63 ~4 ~33 ~63 daylight_detector_inverted 3  
+fill ~3 ~33 ~64 ~7 ~33 ~64 daylight_detector_inverted 3  
+fill ~3 ~33 ~65 ~7 ~33 ~65 daylight_detector_inverted 3  
+fill ~3 ~33 ~66 ~7 ~33 ~66 daylight_detector_inverted 3  
+fill ~5 ~33 ~25 ~5 ~33 ~41 stone_slab 6  
+fill ~5 ~33 ~47 ~5 ~33 ~63 stone_slab 6  
+fill ~6 ~33 ~25 ~7 ~33 ~25 daylight_detector_inverted 3  
+fill ~6 ~33 ~26 ~7 ~33 ~26 daylight_detector_inverted 3  
+fill ~6 ~33 ~27 ~7 ~33 ~27 daylight_detector_inverted 3  
+fill ~6 ~33 ~28 ~7 ~33 ~28 daylight_detector_inverted 3  
+fill ~6 ~33 ~29 ~7 ~33 ~29 daylight_detector_inverted 3  
+fill ~6 ~33 ~30 ~7 ~33 ~30 daylight_detector_inverted 3  
+fill ~6 ~33 ~31 ~7 ~33 ~31 daylight_detector_inverted 3  
+fill ~6 ~33 ~32 ~7 ~33 ~32 daylight_detector_inverted 3  
+fill ~6 ~33 ~33 ~7 ~33 ~33 daylight_detector_inverted 3  
+fill ~6 ~33 ~34 ~7 ~33 ~34 daylight_detector_inverted 3  
+fill ~6 ~33 ~35 ~7 ~33 ~35 daylight_detector_inverted 3  
+fill ~6 ~33 ~36 ~7 ~33 ~36 daylight_detector_inverted 3  
+fill ~6 ~33 ~37 ~7 ~33 ~37 daylight_detector_inverted 3  
+fill ~6 ~33 ~38 ~7 ~33 ~38 daylight_detector_inverted 3  
+fill ~6 ~33 ~39 ~7 ~33 ~39 daylight_detector_inverted 3  
+fill ~6 ~33 ~40 ~7 ~33 ~40 daylight_detector_inverted 3  
+fill ~6 ~33 ~48 ~7 ~33 ~48 daylight_detector_inverted 3  
+fill ~6 ~33 ~49 ~7 ~33 ~49 daylight_detector_inverted 3  
+fill ~6 ~33 ~50 ~7 ~33 ~50 daylight_detector_inverted 3  
+fill ~6 ~33 ~51 ~7 ~33 ~51 daylight_detector_inverted 3  
+fill ~6 ~33 ~52 ~7 ~33 ~52 daylight_detector_inverted 3  
+fill ~6 ~33 ~53 ~7 ~33 ~53 daylight_detector_inverted 3  
+fill ~6 ~33 ~54 ~7 ~33 ~54 daylight_detector_inverted 3  
+fill ~6 ~33 ~55 ~7 ~33 ~55 daylight_detector_inverted 3  
+fill ~6 ~33 ~56 ~7 ~33 ~56 daylight_detector_inverted 3  
+fill ~6 ~33 ~57 ~7 ~33 ~57 daylight_detector_inverted 3  
+fill ~6 ~33 ~58 ~7 ~33 ~58 daylight_detector_inverted 3  
+fill ~6 ~33 ~59 ~7 ~33 ~59 daylight_detector_inverted 3  
+fill ~6 ~33 ~60 ~7 ~33 ~60 daylight_detector_inverted 3  
+fill ~6 ~33 ~61 ~7 ~33 ~61 daylight_detector_inverted 3  
+fill ~6 ~33 ~62 ~7 ~33 ~62 daylight_detector_inverted 3  
+fill ~6 ~33 ~63 ~7 ~33 ~63 daylight_detector_inverted 3 
+setblock ~8 ~33 ~41 grass_path 3 
+setblock ~8 ~33 ~47 grass_path 2 
+setblock ~9 ~33 ~42 quartz_block 0 
+setblock ~9 ~33 ~46 quartz_block 0  
+fill ~10 ~33 ~42 ~11 ~33 ~42 stained_glass_pane 0  
+fill ~10 ~33 ~43 ~15 ~33 ~43 quartz_block 0  
+fill ~10 ~33 ~45 ~15 ~33 ~45 quartz_block 0  
+fill ~10 ~33 ~46 ~11 ~33 ~46 stained_glass_pane 0 
+setblock ~12 ~33 ~42 quartz_block 0 
+setblock ~12 ~33 ~46 quartz_block 0  
+fill ~13 ~33 ~42 ~14 ~33 ~42 stained_glass_pane 0  
+fill ~13 ~33 ~46 ~14 ~33 ~46 stained_glass_pane 0 
+setblock ~15 ~33 ~42 quartz_block 0 
+setblock ~15 ~33 ~46 quartz_block 0 
+setblock ~16 ~33 ~41 grass_path 3 
+setblock ~16 ~33 ~47 grass_path 2  
+fill ~17 ~33 ~41 ~17 ~34 ~41 quartz_block 0  
+fill ~17 ~33 ~47 ~17 ~34 ~47 quartz_block 0  
+fill ~18 ~33 ~41 ~19 ~33 ~41 concrete 7  
+fill ~18 ~33 ~47 ~19 ~33 ~47 concrete 7  
+fill ~20 ~33 ~41 ~27 ~33 ~41 iron_bars 0  
+fill ~20 ~33 ~47 ~27 ~33 ~47 iron_bars 0  
+fill ~21 ~33 ~42 ~27 ~33 ~42 quartz_block 0  
+fill ~21 ~33 ~46 ~27 ~33 ~46 quartz_block 0  
+fill ~28 ~33 ~28 ~30 ~33 ~28 daylight_detector_inverted 3  
+fill ~28 ~33 ~29 ~30 ~33 ~29 daylight_detector_inverted 3  
+fill ~28 ~33 ~30 ~30 ~33 ~30 daylight_detector_inverted 3  
+fill ~28 ~33 ~31 ~28 ~33 ~39 daylight_detector_inverted 3  
+fill ~28 ~33 ~41 ~30 ~33 ~41 quartz_block 0  
+fill ~28 ~33 ~47 ~30 ~33 ~47 quartz_block 0  
+fill ~28 ~33 ~49 ~28 ~33 ~60 daylight_detector_inverted 3  
+fill ~29 ~33 ~31 ~29 ~33 ~40 stone_slab 6  
+fill ~29 ~33 ~48 ~29 ~33 ~57 stone_slab 6  
+fill ~29 ~33 ~58 ~30 ~33 ~58 daylight_detector_inverted 3  
+fill ~29 ~33 ~59 ~30 ~33 ~59 daylight_detector_inverted 3  
+fill ~29 ~33 ~60 ~30 ~33 ~60 daylight_detector_inverted 3  
+fill ~30 ~33 ~31 ~30 ~33 ~39 daylight_detector_inverted 3  
+fill ~30 ~33 ~49 ~30 ~33 ~60 daylight_detector_inverted 3 
+setblock ~31 ~33 ~41 grass_path 3 
+setblock ~31 ~33 ~47 grass_path 2 
+setblock ~32 ~33 ~42 quartz_block 0 
+setblock ~32 ~33 ~46 quartz_block 0  
+fill ~33 ~33 ~42 ~34 ~33 ~42 stained_glass_pane 0  
+fill ~33 ~33 ~43 ~38 ~33 ~43 quartz_block 0  
+fill ~33 ~33 ~45 ~38 ~33 ~45 quartz_block 0  
+fill ~33 ~33 ~46 ~34 ~33 ~46 stained_glass_pane 0 
+setblock ~35 ~33 ~42 quartz_block 0 
+setblock ~35 ~33 ~46 quartz_block 0  
+fill ~36 ~33 ~42 ~37 ~33 ~42 stained_glass_pane 0  
+fill ~36 ~33 ~46 ~37 ~33 ~46 stained_glass_pane 0 
+setblock ~38 ~33 ~42 quartz_block 0 
+setblock ~38 ~33 ~46 quartz_block 0 
+setblock ~39 ~33 ~41 grass_path 3 
+setblock ~39 ~33 ~47 grass_path 2  
+fill ~41 ~33 ~43 ~41 ~33 ~45 concrete 7  
+fill ~42 ~33 ~42 ~50 ~33 ~42 quartz_block 0  
+fill ~42 ~33 ~46 ~50 ~33 ~46 quartz_block 0 
+setblock ~43 ~33 ~50 snow_layer 0  
+fill ~44 ~33 ~49 ~48 ~33 ~49 quartz_block 0  
+fill ~44 ~33 ~50 ~44 ~33 ~51 quartz_block 0  
+fill ~45 ~33 ~51 ~48 ~33 ~51 quartz_block 0 
+setblock ~46 ~33 ~40 grass_path 0 
+setblock ~46 ~33 ~41 stone_slab 6 
+setblock ~46 ~33 ~48 grass_path 0 
+setblock ~46 ~33 ~52 grass_path 0  
+fill ~46 ~33 ~53 ~46 ~33 ~56 stone_slab 6 
+setblock ~46 ~33 ~57 grass_path 0 
+setblock ~48 ~33 ~50 quartz_block 0 
+setblock ~49 ~33 ~50 snow_layer 0  
+fill ~51 ~33 ~43 ~51 ~33 ~45 concrete 7  
+fill ~52 ~33 ~42 ~66 ~33 ~42 quartz_block 0  
+fill ~52 ~33 ~46 ~66 ~33 ~46 quartz_block 0  
+fill ~58 ~33 ~41 ~60 ~33 ~41 snow_layer 0  
+fill ~58 ~33 ~47 ~60 ~33 ~47 snow_layer 0 
+setblock ~64 ~33 ~41 snow_layer 0 
+setblock ~64 ~33 ~47 snow_layer 0  
+fill ~67 ~33 ~43 ~67 ~33 ~45 concrete 7  
+fill ~68 ~33 ~42 ~76 ~33 ~42 quartz_block 0  
+fill ~68 ~33 ~46 ~76 ~33 ~46 quartz_block 0 
+setblock ~70 ~33 ~29 quartz_block 0  
+fill ~70 ~33 ~30 ~70 ~33 ~39 concrete 7 
+setblock ~70 ~33 ~40 quartz_block 0 
+setblock ~70 ~33 ~48 quartz_block 0  
+fill ~70 ~33 ~49 ~70 ~33 ~56 concrete 7 
+setblock ~70 ~33 ~57 quartz_block 0  
+fill ~71 ~33 ~28 ~73 ~33 ~28 concrete 7  
+fill ~71 ~33 ~41 ~73 ~33 ~41 concrete 7  
+fill ~71 ~33 ~47 ~73 ~33 ~47 concrete 7  
+fill ~71 ~33 ~58 ~73 ~33 ~58 concrete 7 
+setblock ~74 ~33 ~29 quartz_block 0  
+fill ~74 ~33 ~30 ~74 ~33 ~39 concrete 7 
+setblock ~74 ~33 ~40 quartz_block 0 
+setblock ~74 ~33 ~48 quartz_block 0  
+fill ~74 ~33 ~49 ~74 ~33 ~56 concrete 7 
+setblock ~74 ~33 ~57 quartz_block 0 
+setblock ~76 ~33 ~41 snow_layer 0  
+fill ~76 ~33 ~43 ~76 ~34 ~43 quartz_block 0  
+fill ~76 ~33 ~44 ~76 ~34 ~44 quartz_block 0  
+fill ~76 ~33 ~45 ~76 ~34 ~45 quartz_block 0 
+setblock ~76 ~33 ~47 snow_layer 0 
+setblock ~77 ~33 ~42 snow_layer 0 
+setblock ~77 ~33 ~46 snow_layer 0 
+setblock ~78 ~33 ~44 iron_bars 0  
+fill ~-11 ~34 ~41 ~-7 ~34 ~41 quartz_block 0  
+fill ~-11 ~34 ~47 ~-7 ~34 ~47 quartz_block 0  
+fill ~-10 ~34 ~42 ~-10 ~34 ~43 stained_glass_pane 15  
+fill ~-10 ~34 ~45 ~-10 ~35 ~45 stained_glass_pane 15  
+fill ~-10 ~34 ~46 ~-10 ~34 ~45 stained_glass_pane 15  
+fill ~-9 ~34 ~42 ~-9 ~35 ~42 quartz_block 0  
+fill ~-9 ~34 ~43 ~-9 ~36 ~43 quartz_block 0  
+fill ~-9 ~34 ~45 ~-9 ~36 ~45 quartz_block 0  
+fill ~-9 ~34 ~46 ~-9 ~35 ~46 quartz_block 0  
+fill ~-6 ~34 ~42 ~-6 ~34 ~46 iron_bars 0  
+fill ~-5 ~34 ~41 ~0 ~34 ~41 quartz_stairs 2  
+fill ~-5 ~34 ~47 ~0 ~34 ~47 quartz_stairs 3  
+fill ~3 ~34 ~42 ~7 ~34 ~42 quartz_stairs 2  
+fill ~3 ~34 ~46 ~7 ~34 ~46 quartz_stairs 3  
+fill ~9 ~34 ~44 ~11 ~34 ~44 stone_slab 14  
+fill ~10 ~34 ~43 ~11 ~34 ~43 stone_slab 6  
+fill ~10 ~34 ~45 ~11 ~34 ~45 stone_slab 6 
+setblock ~12 ~34 ~42 snow_layer 0 
+setblock ~12 ~34 ~46 snow_layer 0  
+fill ~13 ~34 ~43 ~14 ~34 ~43 stone_slab 6  
+fill ~13 ~34 ~44 ~15 ~34 ~44 stone_slab 14  
+fill ~13 ~34 ~45 ~14 ~34 ~45 stone_slab 6  
+fill ~18 ~34 ~41 ~30 ~34 ~41 quartz_block 0  
+fill ~18 ~34 ~47 ~30 ~34 ~47 quartz_block 0  
+fill ~32 ~34 ~44 ~34 ~34 ~44 stone_slab 14  
+fill ~33 ~34 ~43 ~34 ~34 ~43 stone_slab 6  
+fill ~33 ~34 ~45 ~34 ~34 ~45 stone_slab 6  
+fill ~36 ~34 ~43 ~37 ~34 ~43 stone_slab 6  
+fill ~36 ~34 ~44 ~38 ~34 ~44 stone_slab 14  
+fill ~36 ~34 ~45 ~37 ~34 ~45 stone_slab 6  
+fill ~40 ~34 ~43 ~40 ~34 ~45 concrete 7 
+setblock ~41 ~34 ~44 grass_path 0  
+fill ~42 ~34 ~43 ~42 ~34 ~45 quartz_block 0  
+fill ~43 ~34 ~43 ~45 ~34 ~43 quartz_stairs 2  
+fill ~43 ~34 ~44 ~50 ~34 ~44 quartz_block 0  
+fill ~43 ~34 ~45 ~45 ~34 ~45 quartz_stairs 3 
+setblock ~44 ~34 ~46 snow_layer 0  
+fill ~45 ~34 ~49 ~47 ~34 ~49 quartz_block 0  
+fill ~45 ~34 ~50 ~47 ~34 ~50 quartz_block 0  
+fill ~45 ~34 ~51 ~47 ~34 ~51 quartz_block 0 
+setblock ~46 ~34 ~43 quartz_block 0 
+setblock ~46 ~34 ~45 quartz_block 0  
+fill ~47 ~34 ~42 ~48 ~34 ~42 iron_bars 0  
+fill ~47 ~34 ~43 ~49 ~34 ~43 quartz_stairs 2  
+fill ~47 ~34 ~45 ~49 ~34 ~45 quartz_stairs 3  
+fill ~47 ~34 ~46 ~48 ~34 ~46 iron_bars 0  
+fill ~48 ~34 ~50 ~48 ~34 ~51 glass 0 
+setblock ~50 ~34 ~43 quartz_block 0 
+setblock ~50 ~34 ~45 quartz_block 0 
+setblock ~51 ~34 ~44 grass_path 0  
+fill ~52 ~34 ~23 ~52 ~39 ~23 quartz_block 0  
+fill ~52 ~34 ~43 ~54 ~34 ~43 quartz_block 0  
+fill ~52 ~34 ~44 ~66 ~34 ~44 quartz_block 0  
+fill ~52 ~34 ~45 ~54 ~34 ~45 quartz_block 0  
+fill ~52 ~34 ~65 ~52 ~39 ~65 quartz_block 0  
+fill ~55 ~34 ~43 ~57 ~34 ~43 quartz_stairs 2  
+fill ~55 ~34 ~45 ~57 ~34 ~45 quartz_stairs 3 
+setblock ~56 ~34 ~42 snow_layer 0 
+setblock ~56 ~34 ~46 snow_layer 0  
+fill ~58 ~34 ~42 ~64 ~34 ~42 snow_layer 0  
+fill ~58 ~34 ~43 ~60 ~34 ~43 quartz_block 0  
+fill ~58 ~34 ~45 ~60 ~34 ~45 quartz_block 0  
+fill ~58 ~34 ~46 ~64 ~34 ~46 snow_layer 0  
+fill ~61 ~34 ~43 ~63 ~34 ~43 quartz_stairs 2  
+fill ~61 ~34 ~45 ~63 ~34 ~45 quartz_stairs 3  
+fill ~64 ~34 ~43 ~66 ~34 ~43 quartz_block 0  
+fill ~64 ~34 ~45 ~66 ~34 ~45 quartz_block 0 
+setblock ~67 ~34 ~44 grass_path 0  
+fill ~68 ~34 ~43 ~68 ~34 ~45 quartz_block 0  
+fill ~69 ~34 ~43 ~71 ~34 ~43 quartz_stairs 2  
+fill ~69 ~34 ~44 ~70 ~34 ~44 quartz_block 0  
+fill ~69 ~34 ~45 ~71 ~34 ~45 quartz_stairs 3 
+setblock ~70 ~34 ~32 quartz_stairs 4 
+setblock ~70 ~34 ~42 snow_layer 0 
+setblock ~70 ~34 ~46 snow_layer 0  
+fill ~71 ~34 ~29 ~73 ~34 ~29 quartz_block 0  
+fill ~71 ~34 ~30 ~73 ~34 ~30 quartz_block 0  
+fill ~71 ~34 ~31 ~73 ~34 ~31 concrete 7  
+fill ~71 ~34 ~32 ~71 ~34 ~33 concrete 7  
+fill ~71 ~34 ~34 ~73 ~34 ~34 quartz_block 0  
+fill ~71 ~34 ~35 ~71 ~34 ~37 quartz_stairs 0 
+setblock ~71 ~34 ~38 concrete 7 
+setblock ~71 ~34 ~39 quartz_stairs 0  
+fill ~71 ~34 ~40 ~73 ~34 ~40 quartz_block 0 
+setblock ~71 ~34 ~44 concrete 7  
+fill ~71 ~34 ~48 ~73 ~34 ~48 quartz_block 0 
+setblock ~71 ~34 ~49 quartz_stairs 0 
+setblock ~71 ~34 ~50 concrete 7  
+fill ~71 ~34 ~51 ~71 ~34 ~54 quartz_stairs 0 
+setblock ~71 ~34 ~55 concrete 7 
+setblock ~71 ~34 ~56 quartz_stairs 0  
+fill ~71 ~34 ~57 ~73 ~34 ~57 quartz_block 0 
+setblock ~72 ~34 ~28 grass_path 0 
+setblock ~72 ~34 ~32 quartz_block 0  
+fill ~72 ~34 ~33 ~73 ~34 ~33 concrete 7  
+fill ~72 ~34 ~35 ~72 ~34 ~40 quartz_block 0 
+setblock ~72 ~34 ~41 grass_path 0 
+setblock ~72 ~34 ~43 concrete 7  
+fill ~72 ~34 ~44 ~72 ~35 ~44 glass 0 
+setblock ~72 ~34 ~45 concrete 7 
+setblock ~72 ~34 ~47 grass_path 0  
+fill ~72 ~34 ~49 ~72 ~34 ~57 quartz_block 0 
+setblock ~72 ~34 ~58 grass_path 0 
+setblock ~73 ~34 ~32 concrete 7  
+fill ~73 ~34 ~35 ~73 ~34 ~37 quartz_stairs 1 
+setblock ~73 ~34 ~38 concrete 7 
+setblock ~73 ~34 ~39 quartz_stairs 1  
+fill ~73 ~34 ~43 ~75 ~34 ~43 quartz_stairs 2 
+setblock ~73 ~34 ~44 concrete 7  
+fill ~73 ~34 ~45 ~75 ~34 ~45 quartz_stairs 3 
+setblock ~73 ~34 ~49 quartz_stairs 1 
+setblock ~73 ~34 ~50 concrete 7  
+fill ~73 ~34 ~51 ~73 ~34 ~54 quartz_stairs 1 
+setblock ~73 ~34 ~55 concrete 7 
+setblock ~73 ~34 ~56 quartz_stairs 1 
+setblock ~74 ~34 ~32 quartz_stairs 5  
+fill ~74 ~34 ~42 ~76 ~34 ~42 snow_layer 0  
+fill ~74 ~34 ~44 ~76 ~34 ~44 quartz_block 0  
+fill ~74 ~34 ~46 ~76 ~34 ~46 snow_layer 0 
+setblock ~77 ~34 ~44 grass_path 0 
+setblock ~-10 ~35 ~42 quartz_block 0 
+setblock ~-10 ~35 ~43 stained_glass_pane 15  
+fill ~-10 ~35 ~44 ~-10 ~36 ~44 quartz_block 0 
+setblock ~-10 ~35 ~46 quartz_block 0 
+setblock ~-8 ~35 ~39 stone_slab 14 
+setblock ~-8 ~35 ~40 stone_slab 6  
+fill ~-8 ~35 ~42 ~-7 ~35 ~42 quartz_block 0  
+fill ~-8 ~35 ~46 ~-7 ~35 ~46 quartz_block 0 
+setblock ~-8 ~35 ~47 snow_layer 0 
+setblock ~-8 ~35 ~48 stone_slab 6 
+setblock ~-8 ~35 ~49 stone_slab 14 
+setblock ~-6 ~35 ~42 concrete 7  
+fill ~-6 ~35 ~43 ~-6 ~35 ~45 iron_bars 0 
+setblock ~-6 ~35 ~46 concrete 7  
+fill ~-5 ~35 ~42 ~0 ~35 ~42 quartz_stairs 2  
+fill ~-5 ~35 ~46 ~0 ~35 ~46 quartz_stairs 3 
+setblock ~1 ~35 ~42 quartz_block 0 
+setblock ~1 ~35 ~46 quartz_block 0  
+fill ~2 ~35 ~43 ~2 ~35 ~45 concrete 7  
+fill ~3 ~35 ~43 ~7 ~35 ~43 quartz_stairs 2  
+fill ~3 ~35 ~44 ~7 ~35 ~44 quartz_block 0  
+fill ~3 ~35 ~45 ~7 ~35 ~45 quartz_stairs 3  
+fill ~8 ~35 ~43 ~8 ~35 ~45 concrete 7 
+setblock ~9 ~35 ~44 quartz_block 0 
+setblock ~10 ~35 ~44 stone_slab 6 
+setblock ~11 ~35 ~44 quartz_block 0 
+setblock ~13 ~35 ~44 quartz_block 0 
+setblock ~14 ~35 ~44 stone_slab 6 
+setblock ~15 ~35 ~44 quartz_block 0  
+fill ~16 ~35 ~43 ~16 ~35 ~45 concrete 7  
+fill ~17 ~35 ~42 ~30 ~35 ~42 quartz_block 0  
+fill ~17 ~35 ~46 ~30 ~35 ~46 quartz_block 0 
+setblock ~19 ~35 ~41 snow_layer 0 
+setblock ~19 ~35 ~47 snow_layer 0 
+setblock ~20 ~35 ~41 quartz_stairs 2  
+fill ~20 ~35 ~43 ~20 ~36 ~43 quartz_block 0  
+fill ~20 ~35 ~44 ~27 ~35 ~44 quartz_block 0  
+fill ~20 ~35 ~45 ~20 ~36 ~45 quartz_block 0 
+setblock ~20 ~35 ~47 quartz_stairs 3 
+setblock ~21 ~35 ~41 concrete 7 
+setblock ~21 ~35 ~47 concrete 7  
+fill ~22 ~35 ~41 ~25 ~35 ~41 snow_layer 0  
+fill ~22 ~35 ~47 ~25 ~35 ~47 snow_layer 0  
+fill ~24 ~35 ~23 ~51 ~35 ~23 iron_bars 0  
+fill ~24 ~35 ~65 ~51 ~35 ~65 iron_bars 0 
+setblock ~26 ~35 ~41 concrete 7 
+setblock ~26 ~35 ~47 concrete 7 
+setblock ~27 ~35 ~41 quartz_stairs 2  
+fill ~27 ~35 ~43 ~27 ~36 ~43 quartz_block 0  
+fill ~27 ~35 ~45 ~27 ~36 ~45 quartz_block 0 
+setblock ~27 ~35 ~47 quartz_stairs 3 
+setblock ~28 ~35 ~47 snow_layer 0  
+fill ~31 ~35 ~43 ~31 ~35 ~45 concrete 7 
+setblock ~32 ~35 ~44 quartz_block 0 
+setblock ~33 ~35 ~44 stone_slab 6 
+setblock ~34 ~35 ~44 double_stone_slab 6 
+setblock ~36 ~35 ~44 double_stone_slab 6 
+setblock ~37 ~35 ~44 stone_slab 6 
+setblock ~38 ~35 ~44 quartz_block 0  
+fill ~39 ~35 ~43 ~39 ~35 ~45 concrete 7 
+setblock ~45 ~35 ~44 concrete 7 
+setblock ~46 ~35 ~43 concrete 7 
+setblock ~46 ~35 ~45 concrete 7  
+fill ~47 ~35 ~42 ~48 ~35 ~42 iron_bars 0 
+setblock ~47 ~35 ~44 concrete 7  
+fill ~47 ~35 ~46 ~48 ~35 ~46 iron_bars 0  
+fill ~47 ~35 ~50 ~48 ~35 ~50 snow_layer 0 
+setblock ~48 ~35 ~51 snow_layer 0 
+setblock ~53 ~35 ~23 stone_slab 14 
+setblock ~53 ~35 ~65 stone_slab 14  
+fill ~55 ~35 ~-6 ~55 ~35 ~-4 concrete 7  
+fill ~55 ~35 ~12 ~55 ~35 ~14 concrete 7 
+setblock ~55 ~35 ~16 stone_slab 14  
+fill ~55 ~35 ~17 ~55 ~39 ~17 quartz_block 0  
+fill ~55 ~35 ~18 ~55 ~35 ~71 quartz_block 0 
+setblock ~55 ~35 ~72 stone_slab 14  
+fill ~55 ~35 ~74 ~55 ~35 ~76 concrete 7  
+fill ~55 ~35 ~92 ~55 ~35 ~94 concrete 7 
+setblock ~56 ~35 ~44 snow_layer 0  
+fill ~58 ~35 ~43 ~60 ~35 ~43 snow_layer 0  
+fill ~58 ~35 ~45 ~60 ~35 ~45 snow_layer 0 
+setblock ~59 ~35 ~44 stained_glass_pane 0  
+fill ~60 ~35 ~44 ~63 ~35 ~44 snow_layer 0 
+setblock ~64 ~35 ~43 snow_layer 0 
+setblock ~64 ~35 ~45 snow_layer 0  
+fill ~70 ~35 ~31 ~70 ~35 ~33 quartz_block 0  
+fill ~71 ~35 ~30 ~73 ~35 ~30 quartz_block 0  
+fill ~71 ~35 ~34 ~73 ~35 ~34 quartz_block 0  
+fill ~71 ~35 ~43 ~73 ~35 ~43 stained_glass_pane 15  
+fill ~71 ~35 ~44 ~71 ~35 ~45 stained_glass_pane 15  
+fill ~72 ~35 ~29 ~72 ~41 ~29 stained_glass_pane 15  
+fill ~72 ~35 ~35 ~72 ~41 ~35 stained_glass_pane 15 
+setblock ~72 ~35 ~38 grass_path 0  
+fill ~72 ~35 ~45 ~73 ~35 ~45 stained_glass_pane 15 
+setblock ~72 ~35 ~50 grass_path 0 
+setblock ~72 ~35 ~55 grass_path 0 
+setblock ~73 ~35 ~44 stained_glass_pane 15  
+fill ~74 ~35 ~31 ~74 ~35 ~33 quartz_block 0  
+fill ~74 ~35 ~44 ~75 ~35 ~44 snow_layer 0 
+setblock ~76 ~35 ~43 snow_layer 0 
+setblock ~76 ~35 ~45 snow_layer 0  
+fill ~-11 ~36 ~43 ~-7 ~36 ~43 quartz_block 0  
+fill ~-11 ~36 ~45 ~-7 ~36 ~45 quartz_block 0  
+fill ~-9 ~36 ~44 ~-7 ~36 ~44 quartz_block 0 
+setblock ~-8 ~36 ~37 stone_slab 14 
+setblock ~-8 ~36 ~38 stone_slab 6 
+setblock ~-8 ~36 ~50 stone_slab 6 
+setblock ~-8 ~36 ~51 stone_slab 14  
+fill ~-6 ~36 ~43 ~-6 ~36 ~45 concrete 7  
+fill ~-5 ~36 ~43 ~0 ~36 ~43 quartz_stairs 2  
+fill ~-5 ~36 ~44 ~-2 ~36 ~44 concrete 7  
+fill ~-5 ~36 ~45 ~0 ~36 ~45 quartz_stairs 3  
+fill ~-1 ~36 ~44 ~1 ~36 ~44 quartz_block 0 
+setblock ~1 ~36 ~43 quartz_block 0 
+setblock ~1 ~36 ~45 quartz_block 0 
+setblock ~2 ~36 ~44 grass_path 0 
+setblock ~8 ~36 ~44 grass_path 0 
+setblock ~11 ~36 ~44 concrete 7 
+setblock ~12 ~36 ~43 concrete 7 
+setblock ~12 ~36 ~45 concrete 7 
+setblock ~13 ~36 ~44 concrete 7 
+setblock ~16 ~36 ~44 grass_path 0  
+fill ~17 ~36 ~43 ~30 ~36 ~43 quartz_block 0  
+fill ~17 ~36 ~44 ~17 ~36 ~45 quartz_block 0  
+fill ~18 ~36 ~44 ~19 ~36 ~44 concrete 7  
+fill ~18 ~36 ~45 ~30 ~36 ~45 quartz_block 0 
+setblock ~19 ~36 ~42 snow_layer 0 
+setblock ~19 ~36 ~46 snow_layer 0 
+setblock ~20 ~36 ~42 quartz_stairs 2  
+fill ~20 ~36 ~44 ~27 ~36 ~44 iron_bars 0 
+setblock ~20 ~36 ~46 quartz_stairs 3 
+setblock ~21 ~36 ~42 concrete 7 
+setblock ~21 ~36 ~46 concrete 7  
+fill ~23 ~36 ~42 ~24 ~36 ~42 snow_layer 0  
+fill ~23 ~36 ~46 ~24 ~36 ~46 snow_layer 0 
+setblock ~27 ~36 ~42 quartz_stairs 2 
+setblock ~27 ~36 ~46 quartz_stairs 3 
+setblock ~28 ~36 ~42 snow_layer 0  
+fill ~28 ~36 ~44 ~30 ~36 ~44 quartz_block 0 
+setblock ~28 ~36 ~46 snow_layer 0 
+setblock ~31 ~36 ~44 grass_path 0 
+setblock ~34 ~36 ~44 concrete 7 
+setblock ~35 ~36 ~43 concrete 7 
+setblock ~35 ~36 ~45 concrete 7 
+setblock ~36 ~36 ~44 concrete 7 
+setblock ~39 ~36 ~44 grass_path 0  
+fill ~45 ~36 ~42 ~45 ~36 ~43 quartz_stairs 4 
+setblock ~45 ~36 ~44 quartz_block 0  
+fill ~45 ~36 ~45 ~45 ~36 ~46 quartz_stairs 4  
+fill ~46 ~36 ~42 ~47 ~36 ~42 iron_bars 0  
+fill ~46 ~36 ~43 ~46 ~38 ~43 quartz_block 0  
+fill ~46 ~36 ~45 ~46 ~38 ~45 quartz_block 0  
+fill ~46 ~36 ~46 ~47 ~36 ~46 iron_bars 0 
+setblock ~47 ~36 ~43 quartz_stairs 5  
+fill ~47 ~36 ~44 ~47 ~37 ~44 quartz_block 0 
+setblock ~47 ~36 ~45 quartz_stairs 5 
+setblock ~54 ~36 ~-9 quartz_stairs 6  
+fill ~54 ~36 ~-8 ~56 ~36 ~-8 quartz_block 0  
+fill ~54 ~36 ~-7 ~54 ~36 ~-2 quartz_block 0  
+fill ~54 ~36 ~-1 ~54 ~36 ~9 stone_slab 6  
+fill ~54 ~36 ~10 ~56 ~36 ~10 quartz_block 0  
+fill ~54 ~36 ~11 ~54 ~36 ~16 quartz_block 0 
+setblock ~54 ~36 ~17 concrete 7 
+setblock ~54 ~36 ~23 concrete 7  
+fill ~54 ~36 ~24 ~54 ~36 ~28 quartz_stairs 4 
+setblock ~54 ~36 ~29 concrete 7  
+fill ~54 ~36 ~30 ~54 ~36 ~34 quartz_stairs 4 
+setblock ~54 ~36 ~35 concrete 7 
+setblock ~54 ~36 ~41 concrete 7  
+fill ~54 ~36 ~42 ~54 ~36 ~46 quartz_stairs 4 
+setblock ~54 ~36 ~47 concrete 7 
+setblock ~54 ~36 ~53 concrete 7  
+fill ~54 ~36 ~54 ~54 ~36 ~58 quartz_stairs 4 
+setblock ~54 ~36 ~59 concrete 7  
+fill ~54 ~36 ~60 ~54 ~36 ~64 quartz_stairs 4 
+setblock ~54 ~36 ~65 concrete 7 
+setblock ~54 ~36 ~71 concrete 7  
+fill ~54 ~36 ~72 ~56 ~36 ~72 quartz_block 0  
+fill ~54 ~36 ~73 ~54 ~36 ~78 quartz_block 0  
+fill ~54 ~36 ~79 ~54 ~36 ~89 stone_slab 6  
+fill ~54 ~36 ~90 ~56 ~36 ~90 quartz_block 0  
+fill ~54 ~36 ~91 ~54 ~36 ~96 quartz_block 0 
+setblock ~54 ~36 ~97 quartz_stairs 7 
+setblock ~55 ~36 ~-11 quartz_stairs 2  
+fill ~55 ~36 ~-10 ~55 ~38 ~-10 quartz_block 0  
+fill ~55 ~36 ~-9 ~55 ~36 ~-10 quartz_block 0  
+fill ~55 ~36 ~-2 ~56 ~36 ~-2 quartz_block 0  
+fill ~55 ~36 ~4 ~55 ~38 ~4 quartz_block 0 
+setblock ~55 ~36 ~14 stone_slab 14 
+setblock ~55 ~36 ~15 stone_slab 6  
+fill ~55 ~36 ~16 ~56 ~36 ~16 quartz_block 0  
+fill ~55 ~36 ~23 ~55 ~39 ~23 quartz_block 0  
+fill ~55 ~36 ~29 ~55 ~39 ~29 quartz_block 0  
+fill ~55 ~36 ~35 ~55 ~39 ~35 quartz_block 0  
+fill ~55 ~36 ~41 ~55 ~39 ~41 quartz_block 0  
+fill ~55 ~36 ~47 ~55 ~39 ~47 quartz_block 0  
+fill ~55 ~36 ~53 ~55 ~39 ~53 quartz_block 0  
+fill ~55 ~36 ~59 ~55 ~39 ~59 quartz_block 0  
+fill ~55 ~36 ~65 ~55 ~39 ~65 quartz_block 0  
+fill ~55 ~36 ~71 ~55 ~39 ~71 quartz_block 0 
+setblock ~55 ~36 ~73 stone_slab 6 
+setblock ~55 ~36 ~74 stone_slab 14  
+fill ~55 ~36 ~78 ~56 ~36 ~78 quartz_block 0  
+fill ~55 ~36 ~84 ~55 ~38 ~84 quartz_block 0  
+fill ~55 ~36 ~96 ~56 ~36 ~96 quartz_block 0  
+fill ~55 ~36 ~97 ~55 ~36 ~98 quartz_block 0 
+setblock ~55 ~36 ~99 quartz_stairs 3 
+setblock ~56 ~36 ~-9 quartz_stairs 6  
+fill ~56 ~36 ~-7 ~56 ~36 ~-2 quartz_block 0  
+fill ~56 ~36 ~-1 ~56 ~36 ~9 stone_slab 6  
+fill ~56 ~36 ~11 ~56 ~36 ~16 quartz_block 0 
+setblock ~56 ~36 ~17 concrete 7 
+setblock ~56 ~36 ~23 concrete 7 
+setblock ~56 ~36 ~29 concrete 7 
+setblock ~56 ~36 ~35 concrete 7 
+setblock ~56 ~36 ~41 concrete 7 
+setblock ~56 ~36 ~47 concrete 7 
+setblock ~56 ~36 ~53 concrete 7 
+setblock ~56 ~36 ~59 concrete 7 
+setblock ~56 ~36 ~65 concrete 7 
+setblock ~56 ~36 ~71 concrete 7  
+fill ~56 ~36 ~73 ~56 ~36 ~78 quartz_block 0  
+fill ~56 ~36 ~79 ~56 ~36 ~89 stone_slab 6  
+fill ~56 ~36 ~91 ~56 ~36 ~96 quartz_block 0 
+setblock ~56 ~36 ~97 quartz_stairs 7  
+fill ~70 ~36 ~31 ~70 ~42 ~31 quartz_stairs 0  
+fill ~70 ~36 ~32 ~70 ~40 ~32 quartz_block 0  
+fill ~70 ~36 ~33 ~70 ~42 ~33 quartz_stairs 0  
+fill ~71 ~36 ~30 ~71 ~42 ~30 quartz_stairs 2  
+fill ~71 ~36 ~34 ~71 ~42 ~34 quartz_stairs 3  
+fill ~72 ~36 ~30 ~72 ~40 ~30 quartz_block 0  
+fill ~72 ~36 ~34 ~72 ~40 ~34 quartz_block 0  
+fill ~73 ~36 ~30 ~73 ~42 ~30 quartz_stairs 2  
+fill ~73 ~36 ~34 ~73 ~42 ~34 quartz_stairs 3  
+fill ~74 ~36 ~31 ~74 ~42 ~31 quartz_stairs 1  
+fill ~74 ~36 ~32 ~74 ~40 ~32 quartz_block 0  
+fill ~74 ~36 ~33 ~74 ~42 ~33 quartz_stairs 1 
+setblock ~-15 ~37 ~-9 grass_path 5 
+setblock ~-15 ~37 ~9 grass_path 5 
+setblock ~-15 ~37 ~79 grass_path 5 
+setblock ~-15 ~37 ~97 grass_path 5  
+fill ~-14 ~37 ~-15 ~-14 ~37 ~-10 stone_slab 6 
+setblock ~-14 ~37 ~-9 concrete 7  
+fill ~-14 ~37 ~-8 ~-14 ~37 ~-3 stone_slab 6  
+fill ~-14 ~37 ~3 ~-14 ~37 ~8 stone_slab 6 
+setblock ~-14 ~37 ~9 concrete 7  
+fill ~-14 ~37 ~10 ~-14 ~37 ~15 stone_slab 6  
+fill ~-14 ~37 ~73 ~-14 ~37 ~78 stone_slab 6 
+setblock ~-14 ~37 ~79 concrete 7  
+fill ~-14 ~37 ~80 ~-14 ~37 ~85 stone_slab 6  
+fill ~-14 ~37 ~91 ~-14 ~37 ~96 stone_slab 6 
+setblock ~-14 ~37 ~97 concrete 7  
+fill ~-14 ~37 ~98 ~-14 ~37 ~103 stone_slab 6  
+fill ~-13 ~37 ~-15 ~51 ~37 ~-15 daylight_detector_inverted 3  
+fill ~-13 ~37 ~-14 ~51 ~37 ~-14 daylight_detector_inverted 3  
+fill ~-13 ~37 ~-13 ~51 ~37 ~-13 daylight_detector_inverted 3  
+fill ~-13 ~37 ~-12 ~51 ~37 ~-12 daylight_detector_inverted 3  
+fill ~-13 ~37 ~-11 ~51 ~37 ~-11 daylight_detector_inverted 3  
+fill ~-13 ~37 ~-10 ~51 ~37 ~-10 daylight_detector_inverted 3  
+fill ~-13 ~37 ~-9 ~51 ~37 ~-9 iron_bars 0  
+fill ~-13 ~37 ~-8 ~51 ~37 ~-8 daylight_detector_inverted 3  
+fill ~-13 ~37 ~-7 ~51 ~37 ~-7 daylight_detector_inverted 3  
+fill ~-13 ~37 ~-6 ~51 ~37 ~-6 daylight_detector_inverted 3  
+fill ~-13 ~37 ~-5 ~51 ~37 ~-5 daylight_detector_inverted 3  
+fill ~-13 ~37 ~-4 ~51 ~37 ~-4 daylight_detector_inverted 3  
+fill ~-13 ~37 ~-3 ~51 ~37 ~-3 daylight_detector_inverted 3  
+fill ~-13 ~37 ~3 ~51 ~37 ~3 daylight_detector_inverted 3  
+fill ~-13 ~37 ~4 ~51 ~37 ~4 daylight_detector_inverted 3  
+fill ~-13 ~37 ~5 ~51 ~37 ~5 daylight_detector_inverted 3  
+fill ~-13 ~37 ~6 ~51 ~37 ~6 daylight_detector_inverted 3  
+fill ~-13 ~37 ~7 ~51 ~37 ~7 daylight_detector_inverted 3  
+fill ~-13 ~37 ~8 ~51 ~37 ~8 daylight_detector_inverted 3  
+fill ~-13 ~37 ~9 ~51 ~37 ~9 iron_bars 0  
+fill ~-13 ~37 ~10 ~51 ~37 ~10 daylight_detector_inverted 3  
+fill ~-13 ~37 ~11 ~51 ~37 ~11 daylight_detector_inverted 3  
+fill ~-13 ~37 ~12 ~51 ~37 ~12 daylight_detector_inverted 3  
+fill ~-13 ~37 ~13 ~51 ~37 ~13 daylight_detector_inverted 3  
+fill ~-13 ~37 ~14 ~51 ~37 ~14 daylight_detector_inverted 3  
+fill ~-13 ~37 ~15 ~51 ~37 ~15 daylight_detector_inverted 3  
+fill ~-13 ~37 ~73 ~51 ~37 ~73 daylight_detector_inverted 3  
+fill ~-13 ~37 ~74 ~51 ~37 ~74 daylight_detector_inverted 3  
+fill ~-13 ~37 ~75 ~51 ~37 ~75 daylight_detector_inverted 3  
+fill ~-13 ~37 ~76 ~51 ~37 ~76 daylight_detector_inverted 3  
+fill ~-13 ~37 ~77 ~51 ~37 ~77 daylight_detector_inverted 3  
+fill ~-13 ~37 ~78 ~51 ~37 ~78 daylight_detector_inverted 3  
+fill ~-13 ~37 ~79 ~51 ~37 ~79 iron_bars 0  
+fill ~-13 ~37 ~80 ~51 ~37 ~80 daylight_detector_inverted 3  
+fill ~-13 ~37 ~81 ~51 ~37 ~81 daylight_detector_inverted 3  
+fill ~-13 ~37 ~82 ~51 ~37 ~82 daylight_detector_inverted 3  
+fill ~-13 ~37 ~83 ~51 ~37 ~83 daylight_detector_inverted 3  
+fill ~-13 ~37 ~84 ~51 ~37 ~84 daylight_detector_inverted 3  
+fill ~-13 ~37 ~85 ~51 ~37 ~85 daylight_detector_inverted 3  
+fill ~-13 ~37 ~91 ~51 ~37 ~91 daylight_detector_inverted 3  
+fill ~-13 ~37 ~92 ~51 ~37 ~92 daylight_detector_inverted 3  
+fill ~-13 ~37 ~93 ~51 ~37 ~93 daylight_detector_inverted 3  
+fill ~-13 ~37 ~94 ~51 ~37 ~94 daylight_detector_inverted 3  
+fill ~-13 ~37 ~95 ~51 ~37 ~95 daylight_detector_inverted 3  
+fill ~-13 ~37 ~96 ~51 ~37 ~96 daylight_detector_inverted 3  
+fill ~-13 ~37 ~97 ~51 ~37 ~97 iron_bars 0  
+fill ~-13 ~37 ~98 ~51 ~37 ~98 daylight_detector_inverted 3  
+fill ~-13 ~37 ~99 ~51 ~37 ~99 daylight_detector_inverted 3  
+fill ~-13 ~37 ~100 ~51 ~37 ~100 daylight_detector_inverted 3  
+fill ~-13 ~37 ~101 ~51 ~37 ~101 daylight_detector_inverted 3  
+fill ~-13 ~37 ~102 ~51 ~37 ~102 daylight_detector_inverted 3  
+fill ~-13 ~37 ~103 ~51 ~37 ~103 daylight_detector_inverted 3  
+fill ~-9 ~37 ~43 ~-8 ~37 ~43 iron_bars 0 
+setblock ~-8 ~37 ~35 stone_slab 14 
+setblock ~-8 ~37 ~36 stone_slab 6 
+setblock ~-8 ~37 ~52 stone_slab 6 
+setblock ~-8 ~37 ~53 stone_slab 14 
+setblock ~-6 ~37 ~44 grass_path 0  
+fill ~0 ~37 ~45 ~1 ~37 ~45 iron_bars 0 
+setblock ~1 ~37 ~44 grass_path 0 
+setblock ~21 ~37 ~44 grass_path 0  
+fill ~24 ~37 ~23 ~51 ~37 ~23 iron_bars 0  
+fill ~24 ~37 ~65 ~51 ~37 ~65 iron_bars 0  
+fill ~25 ~37 ~44 ~25 ~44 ~44 iron_bars 0 
+setblock ~26 ~37 ~44 grass_path 0  
+fill ~45 ~37 ~42 ~45 ~38 ~42 quartz_block 0  
+fill ~45 ~37 ~43 ~45 ~37 ~45 quartz_stairs 7  
+fill ~45 ~37 ~46 ~45 ~38 ~46 quartz_block 0  
+fill ~46 ~37 ~42 ~47 ~37 ~42 iron_bars 0  
+fill ~46 ~37 ~44 ~46 ~38 ~44 quartz_block 0  
+fill ~46 ~37 ~46 ~47 ~37 ~46 iron_bars 0 
+setblock ~47 ~37 ~43 quartz_block 0 
+setblock ~47 ~37 ~45 quartz_block 0  
+fill ~52 ~37 ~-15 ~52 ~37 ~-10 stone_slab 6  
+fill ~52 ~37 ~-9 ~58 ~37 ~-9 concrete 7  
+fill ~52 ~37 ~-8 ~52 ~37 ~-3 stone_slab 6  
+fill ~52 ~37 ~3 ~52 ~37 ~8 stone_slab 6  
+fill ~52 ~37 ~9 ~58 ~37 ~9 concrete 7  
+fill ~52 ~37 ~10 ~52 ~37 ~15 stone_slab 6  
+fill ~52 ~37 ~73 ~52 ~37 ~78 stone_slab 6  
+fill ~52 ~37 ~79 ~58 ~37 ~79 concrete 7  
+fill ~52 ~37 ~80 ~52 ~37 ~85 stone_slab 6  
+fill ~52 ~37 ~91 ~52 ~37 ~96 stone_slab 6  
+fill ~52 ~37 ~97 ~58 ~37 ~97 concrete 7  
+fill ~52 ~37 ~98 ~52 ~37 ~103 stone_slab 6  
+fill ~53 ~37 ~17 ~57 ~37 ~17 quartz_block 0  
+fill ~53 ~37 ~18 ~53 ~37 ~71 quartz_block 0  
+fill ~54 ~37 ~-8 ~54 ~38 ~-8 quartz_block 0  
+fill ~54 ~37 ~-2 ~54 ~38 ~-2 quartz_block 0  
+fill ~54 ~37 ~10 ~54 ~38 ~10 quartz_block 0  
+fill ~54 ~37 ~16 ~54 ~38 ~16 quartz_block 0 
+setblock ~54 ~37 ~23 quartz_block 0 
+setblock ~54 ~37 ~29 quartz_block 0 
+setblock ~54 ~37 ~35 quartz_block 0 
+setblock ~54 ~37 ~41 quartz_block 0 
+setblock ~54 ~37 ~47 quartz_block 0 
+setblock ~54 ~37 ~53 quartz_block 0 
+setblock ~54 ~37 ~59 quartz_block 0  
+fill ~54 ~37 ~60 ~54 ~37 ~61 snow_layer 0 
+setblock ~54 ~37 ~63 snow_layer 0 
+setblock ~54 ~37 ~65 quartz_block 0  
+fill ~54 ~37 ~71 ~54 ~37 ~72 quartz_block 0  
+fill ~54 ~37 ~78 ~54 ~38 ~78 quartz_block 0  
+fill ~54 ~37 ~90 ~54 ~38 ~90 quartz_block 0  
+fill ~54 ~37 ~96 ~54 ~38 ~96 quartz_block 0  
+fill ~55 ~37 ~-8 ~55 ~37 ~3 iron_bars 0  
+fill ~55 ~37 ~5 ~55 ~37 ~8 iron_bars 0  
+fill ~55 ~37 ~10 ~55 ~37 ~16 iron_bars 0  
+fill ~55 ~37 ~18 ~55 ~37 ~22 iron_bars 0  
+fill ~55 ~37 ~25 ~55 ~37 ~28 iron_bars 0  
+fill ~55 ~37 ~30 ~55 ~37 ~34 iron_bars 0  
+fill ~55 ~37 ~36 ~55 ~37 ~40 iron_bars 0  
+fill ~55 ~37 ~42 ~55 ~37 ~46 iron_bars 0  
+fill ~55 ~37 ~48 ~55 ~37 ~52 iron_bars 0  
+fill ~55 ~37 ~54 ~55 ~37 ~58 iron_bars 0  
+fill ~55 ~37 ~60 ~55 ~37 ~63 iron_bars 0  
+fill ~55 ~37 ~66 ~55 ~37 ~70 iron_bars 0  
+fill ~55 ~37 ~72 ~55 ~37 ~78 iron_bars 0  
+fill ~55 ~37 ~80 ~55 ~37 ~83 iron_bars 0  
+fill ~55 ~37 ~85 ~55 ~37 ~96 iron_bars 0  
+fill ~55 ~37 ~98 ~55 ~38 ~98 quartz_block 0  
+fill ~56 ~37 ~-8 ~56 ~38 ~-8 quartz_block 0  
+fill ~56 ~37 ~-2 ~56 ~38 ~-2 quartz_block 0  
+fill ~56 ~37 ~10 ~56 ~38 ~10 quartz_block 0  
+fill ~56 ~37 ~16 ~56 ~38 ~16 quartz_block 0  
+fill ~56 ~37 ~23 ~57 ~37 ~23 quartz_block 0  
+fill ~56 ~37 ~29 ~57 ~37 ~29 quartz_block 0  
+fill ~56 ~37 ~35 ~57 ~37 ~35 quartz_block 0  
+fill ~56 ~37 ~41 ~57 ~37 ~41 quartz_block 0  
+fill ~56 ~37 ~47 ~57 ~37 ~47 quartz_block 0  
+fill ~56 ~37 ~53 ~57 ~37 ~53 quartz_block 0  
+fill ~56 ~37 ~59 ~57 ~37 ~59 quartz_block 0  
+fill ~56 ~37 ~65 ~57 ~37 ~65 quartz_block 0  
+fill ~56 ~37 ~71 ~57 ~37 ~71 quartz_block 0  
+fill ~56 ~37 ~72 ~56 ~38 ~72 quartz_block 0  
+fill ~56 ~37 ~78 ~56 ~38 ~78 quartz_block 0  
+fill ~56 ~37 ~90 ~56 ~38 ~90 quartz_block 0  
+fill ~56 ~37 ~96 ~56 ~38 ~96 quartz_block 0  
+fill ~57 ~37 ~18 ~57 ~37 ~71 quartz_block 0  
+fill ~58 ~37 ~-15 ~58 ~37 ~-10 stone_slab 6  
+fill ~58 ~37 ~-8 ~58 ~37 ~-3 stone_slab 6  
+fill ~58 ~37 ~3 ~58 ~37 ~8 stone_slab 6  
+fill ~58 ~37 ~10 ~58 ~37 ~15 stone_slab 6  
+fill ~58 ~37 ~73 ~58 ~37 ~78 stone_slab 6  
+fill ~58 ~37 ~80 ~58 ~37 ~85 stone_slab 6  
+fill ~58 ~37 ~91 ~58 ~37 ~96 stone_slab 6  
+fill ~58 ~37 ~98 ~58 ~37 ~103 stone_slab 6  
+fill ~59 ~37 ~-15 ~123 ~37 ~-15 daylight_detector_inverted 3  
+fill ~59 ~37 ~-14 ~123 ~37 ~-14 daylight_detector_inverted 3  
+fill ~59 ~37 ~-13 ~123 ~37 ~-13 daylight_detector_inverted 3  
+fill ~59 ~37 ~-12 ~123 ~37 ~-12 daylight_detector_inverted 3  
+fill ~59 ~37 ~-11 ~123 ~37 ~-11 daylight_detector_inverted 3  
+fill ~59 ~37 ~-10 ~123 ~37 ~-10 daylight_detector_inverted 3  
+fill ~59 ~37 ~-9 ~123 ~37 ~-9 iron_bars 0  
+fill ~59 ~37 ~-8 ~123 ~37 ~-8 daylight_detector_inverted 3  
+fill ~59 ~37 ~-7 ~123 ~37 ~-7 daylight_detector_inverted 3  
+fill ~59 ~37 ~-6 ~123 ~37 ~-6 daylight_detector_inverted 3  
+fill ~59 ~37 ~-5 ~123 ~37 ~-5 daylight_detector_inverted 3  
+fill ~59 ~37 ~-4 ~123 ~37 ~-4 daylight_detector_inverted 3  
+fill ~59 ~37 ~-3 ~123 ~37 ~-3 daylight_detector_inverted 3  
+fill ~59 ~37 ~3 ~123 ~37 ~3 daylight_detector_inverted 3  
+fill ~59 ~37 ~4 ~123 ~37 ~4 daylight_detector_inverted 3  
+fill ~59 ~37 ~5 ~123 ~37 ~5 daylight_detector_inverted 3  
+fill ~59 ~37 ~6 ~123 ~37 ~6 daylight_detector_inverted 3  
+fill ~59 ~37 ~7 ~123 ~37 ~7 daylight_detector_inverted 3  
+fill ~59 ~37 ~8 ~123 ~37 ~8 daylight_detector_inverted 3  
+fill ~59 ~37 ~9 ~123 ~37 ~9 iron_bars 0  
+fill ~59 ~37 ~10 ~123 ~37 ~10 daylight_detector_inverted 3  
+fill ~59 ~37 ~11 ~123 ~37 ~11 daylight_detector_inverted 3  
+fill ~59 ~37 ~12 ~123 ~37 ~12 daylight_detector_inverted 3  
+fill ~59 ~37 ~13 ~123 ~37 ~13 daylight_detector_inverted 3  
+fill ~59 ~37 ~14 ~123 ~37 ~14 daylight_detector_inverted 3  
+fill ~59 ~37 ~15 ~123 ~37 ~15 daylight_detector_inverted 3  
+fill ~59 ~37 ~73 ~123 ~37 ~73 daylight_detector_inverted 3  
+fill ~59 ~37 ~74 ~123 ~37 ~74 daylight_detector_inverted 3  
+fill ~59 ~37 ~75 ~123 ~37 ~75 daylight_detector_inverted 3  
+fill ~59 ~37 ~76 ~123 ~37 ~76 daylight_detector_inverted 3  
+fill ~59 ~37 ~77 ~123 ~37 ~77 daylight_detector_inverted 3  
+fill ~59 ~37 ~78 ~123 ~37 ~78 daylight_detector_inverted 3  
+fill ~59 ~37 ~79 ~123 ~37 ~79 iron_bars 0  
+fill ~59 ~37 ~80 ~123 ~37 ~80 daylight_detector_inverted 3  
+fill ~59 ~37 ~81 ~123 ~37 ~81 daylight_detector_inverted 3  
+fill ~59 ~37 ~82 ~123 ~37 ~82 daylight_detector_inverted 3  
+fill ~59 ~37 ~83 ~123 ~37 ~83 daylight_detector_inverted 3  
+fill ~59 ~37 ~84 ~123 ~37 ~84 daylight_detector_inverted 3  
+fill ~59 ~37 ~85 ~123 ~37 ~85 daylight_detector_inverted 3  
+fill ~59 ~37 ~91 ~123 ~37 ~91 daylight_detector_inverted 3  
+fill ~59 ~37 ~92 ~123 ~37 ~92 daylight_detector_inverted 3   
+
+KittysCommands:   
+fill ~59 ~37 ~93 ~123 ~37 ~93 daylight_detector_inverted 3  
+fill ~59 ~37 ~94 ~123 ~37 ~94 daylight_detector_inverted 3  
+fill ~59 ~37 ~95 ~123 ~37 ~95 daylight_detector_inverted 3  
+fill ~59 ~37 ~96 ~123 ~37 ~96 daylight_detector_inverted 3  
+fill ~59 ~37 ~97 ~123 ~37 ~97 iron_bars 0  
+fill ~59 ~37 ~98 ~123 ~37 ~98 daylight_detector_inverted 3  
+fill ~59 ~37 ~99 ~123 ~37 ~99 daylight_detector_inverted 3  
+fill ~59 ~37 ~100 ~123 ~37 ~100 daylight_detector_inverted 3  
+fill ~59 ~37 ~101 ~123 ~37 ~101 daylight_detector_inverted 3  
+fill ~59 ~37 ~102 ~123 ~37 ~102 daylight_detector_inverted 3  
+fill ~59 ~37 ~103 ~123 ~37 ~103 daylight_detector_inverted 3  
+fill ~124 ~37 ~-15 ~124 ~37 ~-10 stone_slab 6 
+setblock ~124 ~37 ~-9 concrete 7  
+fill ~124 ~37 ~-8 ~124 ~37 ~-3 stone_slab 6  
+fill ~124 ~37 ~3 ~124 ~37 ~8 stone_slab 6 
+setblock ~124 ~37 ~9 concrete 7  
+fill ~124 ~37 ~10 ~124 ~37 ~15 stone_slab 6  
+fill ~124 ~37 ~73 ~124 ~37 ~78 stone_slab 6 
+setblock ~124 ~37 ~79 concrete 7  
+fill ~124 ~37 ~80 ~124 ~37 ~85 stone_slab 6  
+fill ~124 ~37 ~91 ~124 ~37 ~96 stone_slab 6 
+setblock ~124 ~37 ~97 concrete 7  
+fill ~124 ~37 ~98 ~124 ~37 ~103 stone_slab 6 
+setblock ~125 ~37 ~-9 grass_path 4 
+setblock ~125 ~37 ~9 grass_path 4 
+setblock ~125 ~37 ~79 grass_path 4 
+setblock ~125 ~37 ~97 grass_path 4  
+fill ~-9 ~38 ~43 ~-8 ~38 ~43 iron_bars 0 
+setblock ~-8 ~38 ~53 snow_layer 0  
+fill ~0 ~38 ~45 ~1 ~38 ~45 iron_bars 0  
+fill ~45 ~38 ~43 ~45 ~38 ~45 quartz_stairs 6  
+fill ~46 ~38 ~42 ~47 ~38 ~42 iron_bars 0  
+fill ~46 ~38 ~46 ~47 ~38 ~46 iron_bars 0  
+fill ~47 ~38 ~43 ~47 ~38 ~46 iron_bars 0 
+setblock ~52 ~38 ~-9 snow_layer 0 
+setblock ~52 ~38 ~9 snow_layer 0 
+setblock ~52 ~38 ~79 snow_layer 0 
+setblock ~52 ~38 ~97 snow_layer 0  
+fill ~53 ~38 ~18 ~53 ~38 ~21 snow_layer 0  
+fill ~53 ~38 ~33 ~53 ~38 ~34 snow_layer 0  
+fill ~53 ~38 ~36 ~53 ~38 ~40 snow_layer 0  
+fill ~53 ~38 ~42 ~53 ~38 ~46 snow_layer 0  
+fill ~53 ~38 ~48 ~53 ~38 ~52 snow_layer 0  
+fill ~53 ~38 ~54 ~53 ~38 ~58 snow_layer 0  
+fill ~53 ~38 ~60 ~53 ~38 ~61 snow_layer 0 
+setblock ~53 ~38 ~64 snow_layer 0  
+fill ~53 ~38 ~66 ~53 ~38 ~70 snow_layer 0 
+setblock ~54 ~38 ~-9 quartz_stairs 2  
+fill ~54 ~38 ~-7 ~54 ~38 ~-2 quartz_block 0  
+fill ~54 ~38 ~-1 ~54 ~38 ~9 stone_slab 14  
+fill ~54 ~38 ~11 ~54 ~38 ~16 quartz_block 0 
+setblock ~54 ~38 ~17 concrete 7 
+setblock ~54 ~38 ~23 concrete 7 
+setblock ~54 ~38 ~29 concrete 7  
+fill ~54 ~38 ~30 ~54 ~38 ~34 quartz_stairs 0 
+setblock ~54 ~38 ~35 concrete 7  
+fill ~54 ~38 ~36 ~54 ~38 ~40 quartz_stairs 0 
+setblock ~54 ~38 ~41 concrete 7  
+fill ~54 ~38 ~42 ~54 ~38 ~46 quartz_stairs 0 
+setblock ~54 ~38 ~47 concrete 7  
+fill ~54 ~38 ~48 ~54 ~38 ~52 quartz_stairs 0 
+setblock ~54 ~38 ~53 concrete 7  
+fill ~54 ~38 ~54 ~54 ~38 ~58 quartz_stairs 0 
+setblock ~54 ~38 ~59 concrete 7 
+setblock ~54 ~38 ~65 concrete 7 
+setblock ~54 ~38 ~71 concrete 7  
+fill ~54 ~38 ~72 ~56 ~38 ~72 quartz_block 0  
+fill ~54 ~38 ~73 ~54 ~38 ~78 quartz_block 0  
+fill ~54 ~38 ~79 ~54 ~38 ~89 stone_slab 14  
+fill ~54 ~38 ~91 ~54 ~38 ~96 quartz_block 0 
+setblock ~54 ~38 ~97 quartz_stairs 3 
+setblock ~55 ~38 ~-11 quartz_stairs 6  
+fill ~55 ~38 ~-9 ~55 ~38 ~-8 quartz_block 0 
+setblock ~55 ~38 ~-2 quartz_block 0 
+setblock ~55 ~38 ~10 quartz_block 0 
+setblock ~55 ~38 ~14 stone_slab 6 
+setblock ~55 ~38 ~15 stone_slab 14 
+setblock ~55 ~38 ~16 quartz_block 0 
+setblock ~55 ~38 ~46 crafting_table 0 
+setblock ~55 ~38 ~73 stone_slab 14 
+setblock ~55 ~38 ~74 stone_slab 6 
+setblock ~55 ~38 ~78 quartz_block 0 
+setblock ~55 ~38 ~90 quartz_block 0  
+fill ~55 ~38 ~96 ~55 ~38 ~98 quartz_block 0 
+setblock ~55 ~38 ~99 quartz_stairs 7 
+setblock ~56 ~38 ~-9 quartz_stairs 2  
+fill ~56 ~38 ~-7 ~56 ~38 ~-2 quartz_block 0  
+fill ~56 ~38 ~-1 ~56 ~38 ~9 stone_slab 14  
+fill ~56 ~38 ~11 ~56 ~38 ~16 quartz_block 0 
+setblock ~56 ~38 ~17 concrete 7 
+setblock ~56 ~38 ~23 concrete 7 
+setblock ~56 ~38 ~29 concrete 7 
+setblock ~56 ~38 ~35 concrete 7  
+fill ~56 ~38 ~36 ~56 ~38 ~40 quartz_stairs 1 
+setblock ~56 ~38 ~41 concrete 7  
+fill ~56 ~38 ~42 ~56 ~38 ~46 quartz_stairs 1 
+setblock ~56 ~38 ~47 concrete 7  
+fill ~56 ~38 ~48 ~56 ~38 ~52 quartz_stairs 1 
+setblock ~56 ~38 ~53 concrete 7 
+setblock ~56 ~38 ~59 concrete 7 
+setblock ~56 ~38 ~65 concrete 7 
+setblock ~56 ~38 ~71 concrete 7  
+fill ~56 ~38 ~73 ~56 ~38 ~78 quartz_block 0  
+fill ~56 ~38 ~79 ~56 ~38 ~89 stone_slab 14  
+fill ~56 ~38 ~91 ~56 ~38 ~96 quartz_block 0 
+setblock ~56 ~38 ~97 quartz_stairs 3 
+setblock ~57 ~38 ~18 snow_layer 0  
+fill ~57 ~38 ~30 ~57 ~38 ~34 snow_layer 0  
+fill ~57 ~38 ~36 ~57 ~38 ~40 snow_layer 0  
+fill ~57 ~38 ~42 ~57 ~38 ~46 snow_layer 0  
+fill ~57 ~38 ~48 ~57 ~38 ~52 snow_layer 0  
+fill ~57 ~38 ~54 ~57 ~38 ~58 snow_layer 0  
+fill ~57 ~38 ~60 ~57 ~38 ~62 snow_layer 0 
+setblock ~57 ~38 ~64 snow_layer 0 
+setblock ~57 ~38 ~68 snow_layer 0 
+setblock ~57 ~38 ~70 snow_layer 0 
+setblock ~58 ~38 ~-9 snow_layer 0 
+setblock ~58 ~38 ~9 snow_layer 0 
+setblock ~58 ~38 ~79 snow_layer 0 
+setblock ~58 ~38 ~97 snow_layer 0  
+fill ~-10 ~39 ~43 ~-7 ~39 ~43 iron_bars 0  
+fill ~0 ~39 ~45 ~1 ~39 ~45 iron_bars 0  
+fill ~24 ~39 ~23 ~51 ~39 ~23 iron_bars 0  
+fill ~24 ~39 ~65 ~51 ~39 ~65 iron_bars 0  
+fill ~45 ~39 ~42 ~45 ~43 ~42 iron_bars 0 
+setblock ~45 ~39 ~46 grass_path 0  
+fill ~46 ~39 ~43 ~46 ~39 ~44 snow_layer 0 
+setblock ~53 ~39 ~23 stone_slab 6 
+setblock ~53 ~39 ~65 stone_slab 6 
+setblock ~54 ~39 ~14 snow_layer 0 
+setblock ~54 ~39 ~74 snow_layer 0 
+setblock ~55 ~39 ~-8 grass_path 0 
+setblock ~55 ~39 ~-2 grass_path 0 
+setblock ~55 ~39 ~4 grass_path 0 
+setblock ~55 ~39 ~10 grass_path 0 
+setblock ~55 ~39 ~16 stone_slab 6  
+fill ~55 ~39 ~18 ~55 ~39 ~71 quartz_block 0 
+setblock ~55 ~39 ~72 stone_slab 6 
+setblock ~55 ~39 ~78 grass_path 0 
+setblock ~55 ~39 ~84 grass_path 0 
+setblock ~55 ~39 ~90 grass_path 0 
+setblock ~55 ~39 ~96 grass_path 0 
+setblock ~56 ~39 ~14 snow_layer 0 
+setblock ~56 ~39 ~74 snow_layer 0  
+fill ~0 ~40 ~45 ~1 ~40 ~45 iron_bars 0 
+setblock ~52 ~40 ~23 quartz_stairs 1 
+setblock ~52 ~40 ~65 quartz_stairs 1 
+setblock ~55 ~40 ~17 grass_path 0 
+setblock ~55 ~40 ~23 grass_path 0 
+setblock ~55 ~40 ~29 grass_path 0 
+setblock ~55 ~40 ~35 grass_path 0 
+setblock ~55 ~40 ~41 grass_path 0 
+setblock ~55 ~40 ~47 grass_path 0 
+setblock ~55 ~40 ~53 grass_path 0 
+setblock ~55 ~40 ~59 grass_path 0 
+setblock ~55 ~40 ~65 grass_path 0 
+setblock ~55 ~40 ~71 grass_path 0 
+setblock ~70 ~41 ~32 concrete 7 
+setblock ~72 ~41 ~30 concrete 7 
+setblock ~72 ~41 ~34 concrete 7 
+setblock ~74 ~41 ~32 concrete 7 
+setblock ~70 ~42 ~32 stained_glass_pane 15  
+fill ~71 ~42 ~31 ~73 ~42 ~31 concrete 7  
+fill ~71 ~42 ~32 ~71 ~42 ~33 concrete 7 
+setblock ~72 ~42 ~30 stained_glass_pane 15 
+setblock ~72 ~42 ~32 glass 0  
+fill ~72 ~42 ~33 ~73 ~42 ~33 concrete 7 
+setblock ~72 ~42 ~34 stained_glass_pane 15 
+setblock ~73 ~42 ~32 concrete 7 
+setblock ~74 ~42 ~32 stained_glass_pane 15 
+setblock ~71 ~43 ~31 stone_slab 6 
+setblock ~71 ~43 ~33 stone_slab 6 
+setblock ~73 ~43 ~31 stone_slab 6 
+setblock ~73 ~43 ~33 stone_slab 6 
+setblock ~44 ~44 ~42 stone_slab 14 
+setblock ~45 ~44 ~41 stone_slab 14 
+setblock ~45 ~44 ~42 stone_slab 6 
+setblock ~45 ~44 ~43 stone_slab 14 
+setblock ~46 ~44 ~42 stone_slab 14    

@@ -1,0 +1,4326 @@
+    
+fill ~2 ~0 ~12 ~2 ~0 ~14 stone_slab 0 
+setblock ~3 ~0 ~11 stone_slab 0  
+fill ~3 ~0 ~12 ~3 ~0 ~14 stained_hardened_clay 8 
+setblock ~3 ~0 ~15 stone_slab 0  
+fill ~4 ~0 ~10 ~6 ~0 ~10 dirt 1 
+setblock ~4 ~0 ~11 concrete_powder 13 
+setblock ~4 ~0 ~12 grass 0 
+setblock ~4 ~0 ~13 stained_hardened_clay 5  
+fill ~4 ~0 ~14 ~4 ~0 ~15 stained_hardened_clay 8 
+setblock ~4 ~0 ~16 stone_slab 0  
+fill ~4 ~0 ~17 ~4 ~0 ~18 pink_glazed_terracotta 0 
+setblock ~4 ~0 ~19 stained_glass_pane 9  
+fill ~5 ~0 ~9 ~5 ~0 ~9 planks 1  
+fill ~5 ~0 ~11 ~20 ~0 ~11 dirt 0  
+fill ~5 ~0 ~12 ~12 ~0 ~12 dirt 0  
+fill ~5 ~0 ~13 ~12 ~0 ~13 dirt 0 
+setblock ~5 ~0 ~14 planks 1 
+setblock ~5 ~0 ~15 grass 0 
+setblock ~5 ~0 ~16 stained_hardened_clay 5 
+setblock ~5 ~0 ~17 stone_slab 0  
+fill ~5 ~0 ~18 ~5 ~0 ~19 stained_glass_pane 3  
+fill ~6 ~0 ~5 ~8 ~0 ~5 dirt 1 
+setblock ~6 ~0 ~6 stained_hardened_clay 8  
+fill ~6 ~0 ~7 ~6 ~0 ~8 concrete_powder 13 
+setblock ~6 ~0 ~9 dirt 1  
+fill ~6 ~0 ~14 ~12 ~0 ~14 dirt 0  
+fill ~6 ~0 ~15 ~6 ~0 ~16 stained_glass_pane 9 
+setblock ~6 ~0 ~17 stained_glass_pane 3 
+setblock ~6 ~0 ~18 pink_glazed_terracotta 3 
+setblock ~6 ~0 ~19 stained_glass_pane 9 
+setblock ~7 ~0 ~6 dirt 1 
+setblock ~7 ~0 ~7 planks 1 
+setblock ~7 ~0 ~8 dirt 1  
+fill ~7 ~0 ~9 ~11 ~0 ~9 dirt 0  
+fill ~7 ~0 ~10 ~10 ~0 ~10 dirt 0 
+setblock ~7 ~0 ~15 grass 0  
+fill ~7 ~0 ~16 ~8 ~0 ~16 pink_glazed_terracotta 3 
+setblock ~7 ~0 ~17 stained_glass_pane 11 
+setblock ~7 ~0 ~18 pink_glazed_terracotta 0 
+setblock ~7 ~0 ~19 stained_glass_pane 3 
+setblock ~7 ~0 ~20 stained_glass_pane 9  
+fill ~8 ~0 ~6 ~8 ~0 ~7 stained_hardened_clay 8  
+fill ~8 ~0 ~8 ~10 ~0 ~8 dirt 0  
+fill ~8 ~0 ~15 ~9 ~0 ~15 dirt 1 
+setblock ~8 ~0 ~17 pink_glazed_terracotta 3  
+fill ~8 ~0 ~18 ~8 ~0 ~18 stained_hardened_clay 8  
+fill ~8 ~0 ~19 ~8 ~1 ~19 planks 1  
+fill ~9 ~0 ~7 ~13 ~0 ~7 planks 1  
+fill ~9 ~0 ~16 ~9 ~3 ~16 dirt 1  
+fill ~9 ~0 ~17 ~9 ~2 ~17 dirt 1  
+fill ~9 ~0 ~18 ~13 ~0 ~18 dirt 0  
+fill ~9 ~0 ~19 ~9 ~2 ~19 dirt 1  
+fill ~9 ~0 ~20 ~9 ~3 ~20 stained_hardened_clay 8  
+fill ~10 ~0 ~15 ~12 ~0 ~15 dirt 0  
+fill ~10 ~0 ~16 ~10 ~4 ~16 dirt 0  
+fill ~10 ~0 ~17 ~13 ~0 ~17 dirt 0  
+fill ~10 ~0 ~19 ~12 ~0 ~19 dirt 0  
+fill ~10 ~0 ~20 ~12 ~0 ~20 dirt 1  
+fill ~10 ~0 ~21 ~10 ~1 ~21 planks 1  
+fill ~10 ~0 ~22 ~10 ~0 ~22 stained_hardened_clay 8 
+setblock ~10 ~0 ~23 stained_hardened_clay 8  
+fill ~11 ~0 ~6 ~12 ~0 ~6 planks 1 
+setblock ~11 ~0 ~8 planks 1  
+fill ~11 ~0 ~10 ~11 ~1 ~10 stone 1  
+fill ~11 ~0 ~16 ~11 ~0 ~16 stone 1  
+fill ~11 ~0 ~21 ~11 ~0 ~22 stone 1 
+setblock ~11 ~0 ~23 dirt 1 
+setblock ~11 ~0 ~24 planks 1  
+fill ~12 ~0 ~5 ~14 ~0 ~5 stone 0  
+fill ~12 ~0 ~8 ~12 ~0 ~8 dirt 0  
+fill ~12 ~0 ~9 ~12 ~1 ~9 dirt 1  
+fill ~12 ~0 ~10 ~12 ~0 ~9 dirt 1  
+fill ~12 ~0 ~16 ~13 ~0 ~16 planks 1  
+fill ~12 ~0 ~21 ~18 ~0 ~21 dirt 0  
+fill ~12 ~0 ~22 ~19 ~0 ~22 dirt 0  
+fill ~12 ~0 ~23 ~19 ~0 ~23 dirt 0 
+setblock ~12 ~0 ~24 stained_hardened_clay 8  
+fill ~13 ~0 ~6 ~18 ~0 ~6 stone 0 
+setblock ~13 ~0 ~8 stone 1  
+fill ~13 ~0 ~9 ~13 ~0 ~11 dirt 0 
+setblock ~13 ~0 ~12 dirt 1  
+fill ~13 ~0 ~13 ~13 ~0 ~14 stone 1  
+fill ~13 ~0 ~15 ~14 ~0 ~15 planks 1 
+setblock ~13 ~0 ~19 dirt 1 
+setblock ~13 ~0 ~20 stone 1  
+fill ~13 ~0 ~24 ~13 ~4 ~24 planks 1  
+fill ~13 ~0 ~25 ~13 ~1 ~25 planks 1 
+setblock ~14 ~0 ~4 planks 1  
+fill ~14 ~0 ~7 ~17 ~0 ~7 stone 0  
+fill ~14 ~0 ~8 ~14 ~0 ~9 dirt 1  
+fill ~14 ~0 ~10 ~20 ~0 ~10 dirt 0 
+setblock ~14 ~0 ~12 stone 1  
+fill ~14 ~0 ~13 ~14 ~0 ~15 planks 1  
+fill ~14 ~0 ~16 ~14 ~0 ~16 stone 1  
+fill ~14 ~0 ~17 ~14 ~0 ~17 stone 1  
+fill ~14 ~0 ~18 ~14 ~1 ~18 dirt 1  
+fill ~14 ~0 ~19 ~14 ~6 ~19 dirt 0 
+setblock ~14 ~0 ~20 dirt 1  
+fill ~14 ~0 ~24 ~19 ~0 ~24 sand 0 
+setblock ~14 ~0 ~25 stained_hardened_clay 8 
+setblock ~14 ~0 ~26 planks 1 
+setblock ~14 ~0 ~27 dirt 1  
+fill ~14 ~0 ~28 ~15 ~0 ~28 planks 1 
+setblock ~15 ~0 ~3 stone 1  
+fill ~15 ~0 ~4 ~16 ~0 ~4 dirt 1  
+fill ~15 ~0 ~5 ~16 ~0 ~5 stone 1  
+fill ~15 ~0 ~8 ~16 ~0 ~8 stone 0  
+fill ~15 ~0 ~9 ~15 ~0 ~9 stone 0  
+fill ~15 ~0 ~12 ~20 ~0 ~12 dirt 0  
+fill ~15 ~0 ~13 ~20 ~0 ~13 dirt 0  
+fill ~15 ~0 ~14 ~20 ~0 ~14 dirt 0  
+fill ~15 ~0 ~15 ~20 ~0 ~15 dirt 0  
+fill ~15 ~0 ~16 ~20 ~0 ~16 dirt 0 
+setblock ~15 ~0 ~17 stone 0  
+fill ~15 ~0 ~18 ~17 ~0 ~18 planks 1 
+setblock ~15 ~0 ~19 stone 1  
+fill ~15 ~0 ~20 ~15 ~7 ~20 dirt 0 
+setblock ~15 ~0 ~25 dirt 1  
+fill ~15 ~0 ~26 ~15 ~1 ~26 stone 1  
+fill ~15 ~0 ~27 ~15 ~0 ~26 stone 1 
+setblock ~15 ~0 ~29 dirt 1  
+fill ~15 ~0 ~30 ~16 ~0 ~30 planks 1  
+fill ~16 ~0 ~2 ~17 ~0 ~2 dirt 1  
+fill ~16 ~0 ~3 ~16 ~2 ~3 planks 1  
+fill ~16 ~0 ~9 ~20 ~0 ~9 dirt 0  
+fill ~16 ~0 ~17 ~16 ~1 ~17 planks 1  
+fill ~16 ~0 ~19 ~17 ~0 ~19 planks 1  
+fill ~16 ~0 ~20 ~16 ~0 ~20 dirt 1  
+fill ~16 ~0 ~25 ~18 ~0 ~25 sand 0  
+fill ~16 ~0 ~26 ~17 ~0 ~26 dirt 1 
+setblock ~16 ~0 ~27 planks 1  
+fill ~16 ~0 ~28 ~16 ~0 ~29 stone 1 
+setblock ~16 ~0 ~31 stone 1  
+fill ~17 ~0 ~3 ~18 ~0 ~3 dirt 0  
+fill ~17 ~0 ~4 ~18 ~0 ~4 dirt 0  
+fill ~17 ~0 ~5 ~18 ~0 ~5 dirt 1  
+fill ~17 ~0 ~8 ~20 ~0 ~8 dirt 0  
+fill ~17 ~0 ~17 ~20 ~0 ~17 dirt 0  
+fill ~17 ~0 ~20 ~17 ~7 ~20 dirt 0 
+setblock ~17 ~0 ~27 dirt 0 
+setblock ~17 ~0 ~28 dirt 1  
+fill ~17 ~0 ~29 ~17 ~1 ~29 planks 1  
+fill ~17 ~0 ~30 ~17 ~1 ~30 dirt 1  
+fill ~17 ~0 ~31 ~18 ~0 ~31 planks 1  
+fill ~18 ~0 ~2 ~18 ~1 ~2 planks 1  
+fill ~18 ~0 ~7 ~20 ~0 ~7 dirt 0  
+fill ~18 ~0 ~18 ~18 ~1 ~18 dirt 0 
+setblock ~18 ~0 ~19 dirt 1 
+setblock ~18 ~0 ~20 planks 1  
+fill ~18 ~0 ~26 ~20 ~0 ~26 dirt 0  
+fill ~18 ~0 ~27 ~18 ~2 ~27 planks 1  
+fill ~18 ~0 ~28 ~18 ~1 ~28 planks 1  
+fill ~18 ~0 ~29 ~18 ~0 ~30 stone 1 
+setblock ~19 ~0 ~2 dirt 1  
+fill ~19 ~0 ~3 ~22 ~0 ~3 stone 1  
+fill ~19 ~0 ~4 ~20 ~0 ~4 planks 1  
+fill ~19 ~0 ~5 ~19 ~0 ~4 planks 1  
+fill ~19 ~0 ~6 ~20 ~0 ~6 dirt 0  
+fill ~19 ~0 ~18 ~20 ~0 ~18 stone 0 
+setblock ~19 ~0 ~19 planks 1 
+setblock ~19 ~0 ~20 stone 1 
+setblock ~19 ~0 ~21 dirt 1  
+fill ~19 ~0 ~25 ~19 ~0 ~25 planks 1 
+setblock ~19 ~0 ~27 dirt 0 
+setblock ~19 ~0 ~28 dirt 1 
+setblock ~19 ~0 ~29 planks 1  
+fill ~19 ~0 ~30 ~22 ~0 ~30 dirt 1 
+setblock ~19 ~0 ~31 dirt 0  
+fill ~20 ~0 ~2 ~23 ~0 ~2 stone 1  
+fill ~20 ~0 ~5 ~20 ~1 ~5 dirt 1  
+fill ~20 ~0 ~19 ~21 ~0 ~19 stone 0  
+fill ~20 ~0 ~20 ~22 ~0 ~20 stone 0  
+fill ~20 ~0 ~21 ~22 ~0 ~21 stone 0  
+fill ~20 ~0 ~22 ~22 ~0 ~22 stone 0  
+fill ~20 ~0 ~23 ~22 ~0 ~23 stone 0  
+fill ~20 ~0 ~24 ~22 ~0 ~24 stone 0  
+fill ~20 ~0 ~25 ~20 ~0 ~25 dirt 1  
+fill ~20 ~0 ~27 ~20 ~0 ~27 planks 1  
+fill ~20 ~0 ~28 ~20 ~0 ~29 dirt 0  
+fill ~20 ~0 ~31 ~20 ~0 ~31 stone 1  
+fill ~21 ~0 ~4 ~22 ~0 ~4 dirt 0  
+fill ~21 ~0 ~5 ~22 ~0 ~5 dirt 0 
+setblock ~21 ~0 ~6 stone 1  
+fill ~21 ~0 ~7 ~28 ~0 ~7 sand 0  
+fill ~21 ~0 ~8 ~28 ~0 ~8 sand 0  
+fill ~21 ~0 ~9 ~28 ~0 ~9 sand 0  
+fill ~21 ~0 ~10 ~28 ~0 ~10 sand 0  
+fill ~21 ~0 ~11 ~28 ~0 ~11 sand 0  
+fill ~21 ~0 ~12 ~29 ~0 ~12 sand 0  
+fill ~21 ~0 ~13 ~29 ~0 ~13 sand 0  
+fill ~21 ~0 ~14 ~29 ~0 ~14 sand 0  
+fill ~21 ~0 ~15 ~29 ~0 ~15 sand 0  
+fill ~21 ~0 ~16 ~29 ~0 ~16 sand 0  
+fill ~21 ~0 ~17 ~28 ~0 ~17 sand 0  
+fill ~21 ~0 ~18 ~28 ~0 ~18 sand 0  
+fill ~21 ~0 ~25 ~22 ~0 ~25 dirt 0  
+fill ~21 ~0 ~26 ~21 ~0 ~27 stone 1 
+setblock ~21 ~0 ~28 dirt 1  
+fill ~21 ~0 ~29 ~24 ~0 ~29 stone 1 
+setblock ~22 ~0 ~6 dirt 0  
+fill ~22 ~0 ~19 ~28 ~0 ~19 sand 0  
+fill ~22 ~0 ~26 ~22 ~1 ~26 dirt 0  
+fill ~22 ~0 ~27 ~24 ~0 ~27 stone 1  
+fill ~22 ~0 ~28 ~23 ~0 ~28 dirt 0 
+setblock ~23 ~0 ~3 planks 1  
+fill ~23 ~0 ~4 ~23 ~0 ~4 dirt 1  
+fill ~23 ~0 ~5 ~23 ~0 ~5 planks 1  
+fill ~23 ~0 ~6 ~27 ~0 ~6 sand 0  
+fill ~23 ~0 ~20 ~28 ~0 ~20 sand 0  
+fill ~23 ~0 ~21 ~26 ~0 ~21 sand 0  
+fill ~23 ~0 ~22 ~25 ~0 ~22 sand 0  
+fill ~23 ~0 ~23 ~24 ~0 ~23 sand 0  
+fill ~23 ~0 ~24 ~24 ~0 ~24 sand 0  
+fill ~23 ~0 ~25 ~23 ~1 ~25 stone 0 
+setblock ~23 ~0 ~26 dirt 1  
+fill ~23 ~0 ~30 ~23 ~1 ~30 stone 1  
+fill ~24 ~0 ~2 ~25 ~0 ~2 dirt 0  
+fill ~24 ~0 ~3 ~24 ~1 ~3 dirt 1  
+fill ~24 ~0 ~4 ~24 ~0 ~4 planks 1  
+fill ~24 ~0 ~5 ~25 ~0 ~5 dirt 0  
+fill ~24 ~0 ~25 ~24 ~0 ~25 sand 0 
+setblock ~24 ~0 ~26 stone 0  
+fill ~24 ~0 ~28 ~24 ~1 ~28 dirt 1  
+fill ~24 ~0 ~30 ~24 ~1 ~30 dirt 0  
+fill ~25 ~0 ~1 ~25 ~1 ~1 planks 1  
+fill ~25 ~0 ~3 ~31 ~0 ~3 stone 1  
+fill ~25 ~0 ~4 ~25 ~2 ~4 dirt 0  
+fill ~25 ~0 ~23 ~25 ~0 ~23 stone 0  
+fill ~25 ~0 ~24 ~25 ~0 ~25 stone 1 
+setblock ~25 ~0 ~26 dirt 1 
+setblock ~25 ~0 ~27 dirt 0 
+setblock ~25 ~0 ~28 stone 1  
+fill ~25 ~0 ~29 ~27 ~0 ~29 planks 1  
+fill ~25 ~0 ~30 ~25 ~0 ~29 planks 1 
+setblock ~26 ~0 ~1 dirt 1  
+fill ~26 ~0 ~2 ~26 ~0 ~2 planks 1  
+fill ~26 ~0 ~4 ~27 ~0 ~4 dirt 1  
+fill ~26 ~0 ~5 ~26 ~1 ~5 planks 1  
+fill ~26 ~0 ~22 ~27 ~0 ~22 stone 0 
+setblock ~26 ~0 ~23 planks 1  
+fill ~26 ~0 ~24 ~27 ~0 ~24 dirt 1  
+fill ~26 ~0 ~25 ~27 ~0 ~25 dirt 0  
+fill ~26 ~0 ~26 ~26 ~0 ~27 stone 1 
+setblock ~26 ~0 ~28 planks 1  
+fill ~26 ~0 ~30 ~26 ~1 ~30 stone 1 
+setblock ~27 ~0 ~1 dirt 0 
+setblock ~27 ~0 ~2 dirt 1 
+setblock ~27 ~0 ~5 dirt 0  
+fill ~27 ~0 ~21 ~28 ~0 ~21 stone 0  
+fill ~27 ~0 ~23 ~28 ~0 ~23 dirt 1  
+fill ~27 ~0 ~26 ~28 ~0 ~26 dirt 0 
+setblock ~27 ~0 ~27 planks 1  
+fill ~27 ~0 ~28 ~27 ~0 ~28 stone 1  
+fill ~28 ~0 ~1 ~28 ~0 ~1 stone 1  
+fill ~28 ~0 ~2 ~28 ~1 ~2 planks 1 
+setblock ~28 ~0 ~4 stone 1  
+fill ~28 ~0 ~5 ~29 ~0 ~5 dirt 1 
+setblock ~28 ~0 ~6 dirt 0 
+setblock ~28 ~0 ~22 dirt 0  
+fill ~28 ~0 ~24 ~28 ~1 ~24 dirt 0 
+setblock ~28 ~0 ~25 stone 1 
+setblock ~28 ~0 ~27 stone 1 
+setblock ~28 ~0 ~28 dirt 1 
+setblock ~29 ~0 ~1 planks 1 
+setblock ~29 ~0 ~2 stone 1  
+fill ~29 ~0 ~4 ~30 ~0 ~4 planks 1  
+fill ~29 ~0 ~6 ~30 ~0 ~6 stone 1  
+fill ~29 ~0 ~7 ~29 ~0 ~7 stone 0  
+fill ~29 ~0 ~8 ~29 ~0 ~8 stone 0  
+fill ~29 ~0 ~9 ~29 ~0 ~9 stone 0  
+fill ~29 ~0 ~10 ~30 ~0 ~10 dirt 0  
+fill ~29 ~0 ~11 ~29 ~0 ~10 dirt 0  
+fill ~29 ~0 ~17 ~29 ~1 ~17 stone 0  
+fill ~29 ~0 ~18 ~29 ~1 ~18 dirt 1 
+setblock ~29 ~0 ~19 planks 1  
+fill ~29 ~0 ~20 ~29 ~1 ~20 dirt 1  
+fill ~29 ~0 ~21 ~29 ~0 ~21 dirt 1  
+fill ~29 ~0 ~22 ~30 ~0 ~22 planks 1  
+fill ~29 ~0 ~23 ~31 ~0 ~23 planks 1  
+fill ~29 ~0 ~24 ~29 ~3 ~24 dirt 1 
+setblock ~29 ~0 ~25 dirt 0 
+setblock ~29 ~0 ~26 dirt 1  
+fill ~30 ~0 ~2 ~30 ~0 ~2 planks 1  
+fill ~30 ~0 ~5 ~30 ~0 ~5 planks 1 
+setblock ~30 ~0 ~7 stone 1 
+setblock ~30 ~0 ~8 dirt 0 
+setblock ~30 ~0 ~9 stone 1 
+setblock ~30 ~0 ~11 dirt 1  
+fill ~30 ~0 ~12 ~31 ~0 ~12 dirt 0  
+fill ~30 ~0 ~13 ~30 ~4 ~13 planks 1 
+setblock ~30 ~0 ~14 stone 1  
+fill ~30 ~0 ~15 ~30 ~0 ~16 dirt 1  
+fill ~30 ~0 ~17 ~30 ~0 ~18 planks 1  
+fill ~30 ~0 ~19 ~30 ~1 ~19 dirt 0  
+fill ~30 ~0 ~20 ~30 ~0 ~19 dirt 0  
+fill ~30 ~0 ~21 ~32 ~0 ~21 stone 1 
+setblock ~30 ~0 ~24 planks 1  
+fill ~30 ~0 ~25 ~30 ~2 ~25 dirt 1 
+setblock ~30 ~0 ~26 planks 1 
+setblock ~31 ~0 ~4 stone 1  
+fill ~31 ~0 ~5 ~32 ~0 ~5 dirt 0  
+fill ~31 ~0 ~6 ~31 ~0 ~6 dirt 1  
+fill ~31 ~0 ~7 ~31 ~1 ~7 planks 1  
+fill ~31 ~0 ~8 ~31 ~0 ~7 planks 1  
+fill ~31 ~0 ~9 ~32 ~0 ~9 dirt 1  
+fill ~31 ~0 ~10 ~31 ~0 ~9 dirt 1 
+setblock ~31 ~0 ~11 dirt 0 
+setblock ~31 ~0 ~13 dirt 0 
+setblock ~31 ~0 ~14 dirt 1 
+setblock ~31 ~0 ~15 dirt 0  
+fill ~31 ~0 ~16 ~31 ~0 ~16 planks 1 
+setblock ~31 ~0 ~17 dirt 1  
+fill ~31 ~0 ~18 ~32 ~0 ~18 stone 1 
+setblock ~31 ~0 ~19 dirt 1  
+fill ~31 ~0 ~20 ~31 ~1 ~20 planks 1  
+fill ~31 ~0 ~22 ~32 ~0 ~22 dirt 1  
+fill ~31 ~0 ~24 ~32 ~0 ~24 dirt 0  
+fill ~31 ~0 ~25 ~31 ~1 ~25 planks 1 
+setblock ~32 ~0 ~6 dirt 0  
+fill ~32 ~0 ~7 ~32 ~0 ~7 stone 1  
+fill ~32 ~0 ~8 ~32 ~2 ~8 dirt 1 
+setblock ~32 ~0 ~10 dirt 0  
+fill ~32 ~0 ~11 ~32 ~1 ~11 dirt 1  
+fill ~32 ~0 ~12 ~32 ~1 ~12 dirt 1 
+setblock ~32 ~0 ~13 planks 1 
+setblock ~32 ~0 ~14 dirt 0  
+fill ~32 ~0 ~15 ~32 ~0 ~21 stone 1 
+setblock ~32 ~0 ~23 stone 1 
+setblock ~33 ~0 ~6 planks 1  
+fill ~33 ~0 ~7 ~33 ~3 ~7 dirt 0 
+setblock ~33 ~0 ~8 planks 1  
+fill ~33 ~0 ~9 ~33 ~0 ~9 stone 1 
+setblock ~33 ~0 ~10 dirt 1 
+setblock ~33 ~0 ~13 dirt 1  
+fill ~33 ~0 ~14 ~33 ~0 ~15 planks 1  
+fill ~33 ~0 ~16 ~34 ~0 ~16 stone 1  
+fill ~33 ~0 ~17 ~34 ~0 ~17 stone 1 
+setblock ~33 ~0 ~18 dirt 0  
+fill ~33 ~0 ~19 ~33 ~0 ~19 dirt 1 
+setblock ~33 ~0 ~20 stone 1 
+setblock ~33 ~0 ~21 dirt 0  
+fill ~33 ~0 ~22 ~33 ~0 ~23 planks 1  
+fill ~34 ~0 ~14 ~34 ~1 ~14 dirt 1  
+fill ~34 ~0 ~15 ~34 ~3 ~15 dirt 0 
+setblock ~34 ~0 ~18 dirt 1 
+setblock ~34 ~0 ~19 stone 1 
+setblock ~34 ~0 ~20 dirt 0  
+fill ~4 ~1 ~10 ~5 ~1 ~10 stained_hardened_clay 8  
+fill ~4 ~1 ~11 ~5 ~1 ~11 stained_hardened_clay 8  
+fill ~4 ~1 ~12 ~4 ~1 ~14 stone_slab 0 
+setblock ~4 ~1 ~18 stained_glass_pane 3  
+fill ~5 ~1 ~12 ~5 ~1 ~13 stained_hardened_clay 8  
+fill ~5 ~1 ~14 ~6 ~1 ~14 stone_slab 0  
+fill ~5 ~1 ~15 ~6 ~1 ~15 pink_glazed_terracotta 3  
+fill ~5 ~1 ~17 ~6 ~1 ~17 pink_glazed_terracotta 0  
+fill ~6 ~1 ~8 ~7 ~1 ~8 concrete_powder 13 
+setblock ~6 ~1 ~9 grass 0 
+setblock ~6 ~1 ~10 planks 1 
+setblock ~6 ~1 ~11 dirt 1 
+setblock ~6 ~1 ~12 planks 1 
+setblock ~6 ~1 ~13 grass 0 
+setblock ~7 ~1 ~7 stained_hardened_clay 5  
+fill ~7 ~1 ~9 ~7 ~2 ~9 stained_hardened_clay 8 
+setblock ~7 ~1 ~10 dirt 1  
+fill ~7 ~1 ~11 ~13 ~1 ~11 dirt 0  
+fill ~7 ~1 ~12 ~12 ~1 ~12 dirt 0 
+setblock ~7 ~1 ~13 dirt 1 
+setblock ~7 ~1 ~14 planks 1  
+fill ~7 ~1 ~15 ~8 ~1 ~15 pink_glazed_terracotta 0 
+setblock ~7 ~1 ~16 stained_glass_pane 9 
+setblock ~7 ~1 ~18 stained_glass_pane 3 
+setblock ~8 ~1 ~7 dirt 1  
+fill ~8 ~1 ~8 ~8 ~2 ~8 stained_hardened_clay 8  
+fill ~8 ~1 ~9 ~11 ~1 ~9 dirt 0  
+fill ~8 ~1 ~10 ~10 ~1 ~10 dirt 0  
+fill ~8 ~1 ~13 ~13 ~1 ~13 dirt 0  
+fill ~8 ~1 ~14 ~12 ~1 ~14 dirt 0 
+setblock ~8 ~1 ~16 pink_glazed_terracotta 3  
+fill ~8 ~1 ~18 ~9 ~1 ~18 dirt 1  
+fill ~9 ~1 ~7 ~10 ~1 ~7 planks 1  
+fill ~9 ~1 ~8 ~10 ~1 ~8 planks 1  
+fill ~9 ~1 ~15 ~9 ~4 ~15 stained_hardened_clay 5  
+fill ~10 ~1 ~15 ~14 ~1 ~15 dirt 0  
+fill ~10 ~1 ~17 ~14 ~1 ~17 dirt 0  
+fill ~10 ~1 ~18 ~13 ~1 ~18 dirt 0  
+fill ~10 ~1 ~19 ~15 ~1 ~19 dirt 0 
+setblock ~10 ~1 ~20 planks 1  
+fill ~10 ~1 ~22 ~11 ~1 ~22 dirt 1  
+fill ~10 ~1 ~23 ~11 ~1 ~23 planks 1  
+fill ~11 ~1 ~6 ~12 ~1 ~6 stone 1  
+fill ~11 ~1 ~7 ~13 ~1 ~7 stone 1  
+fill ~11 ~1 ~8 ~11 ~3 ~8 dirt 0  
+fill ~11 ~1 ~16 ~12 ~1 ~16 dirt 0 
+setblock ~11 ~1 ~20 stained_hardened_clay 8 
+setblock ~11 ~1 ~21 dirt 1 
+setblock ~11 ~1 ~24 dirt 1 
+setblock ~12 ~1 ~5 dirt 0 
+setblock ~12 ~1 ~8 planks 1 
+setblock ~12 ~1 ~10 stone 1  
+fill ~12 ~1 ~20 ~18 ~1 ~20 dirt 0  
+fill ~12 ~1 ~21 ~20 ~1 ~21 dirt 0  
+fill ~12 ~1 ~22 ~20 ~1 ~22 dirt 0 
+setblock ~12 ~1 ~23 stained_hardened_clay 8  
+fill ~12 ~1 ~24 ~12 ~2 ~24 planks 1 
+setblock ~13 ~1 ~5 stone 1 
+setblock ~13 ~1 ~6 dirt 0  
+fill ~13 ~1 ~8 ~13 ~2 ~8 dirt 1  
+fill ~13 ~1 ~9 ~13 ~1 ~10 planks 1  
+fill ~13 ~1 ~12 ~13 ~2 ~12 planks 1  
+fill ~13 ~1 ~14 ~14 ~1 ~14 dirt 1 
+setblock ~13 ~1 ~16 dirt 1  
+fill ~13 ~1 ~23 ~19 ~1 ~23 dirt 0 
+setblock ~14 ~1 ~4 dirt 0  
+fill ~14 ~1 ~5 ~15 ~1 ~5 dirt 1  
+fill ~14 ~1 ~6 ~16 ~1 ~6 stone 1 
+setblock ~14 ~1 ~7 planks 1  
+fill ~14 ~1 ~8 ~15 ~1 ~8 dirt 0  
+fill ~14 ~1 ~9 ~14 ~3 ~9 dirt 0  
+fill ~14 ~1 ~10 ~20 ~1 ~10 dirt 0 
+setblock ~14 ~1 ~11 planks 1  
+fill ~14 ~1 ~12 ~14 ~3 ~12 dirt 1 
+setblock ~14 ~1 ~13 stone 1 
+setblock ~14 ~1 ~16 planks 1  
+fill ~14 ~1 ~24 ~19 ~1 ~24 sand 0  
+fill ~14 ~1 ~25 ~14 ~2 ~25 dirt 1 
+setblock ~15 ~1 ~3 dirt 1 
+setblock ~15 ~1 ~4 planks 1 
+setblock ~15 ~1 ~7 dirt 1 
+setblock ~15 ~1 ~9 planks 1  
+fill ~15 ~1 ~11 ~20 ~1 ~11 dirt 0  
+fill ~15 ~1 ~12 ~15 ~4 ~12 stone 0  
+fill ~15 ~1 ~13 ~15 ~3 ~13 stone 0  
+fill ~15 ~1 ~14 ~15 ~1 ~16 stone 0 
+setblock ~15 ~1 ~17 dirt 1  
+fill ~15 ~1 ~18 ~15 ~6 ~18 dirt 0  
+fill ~15 ~1 ~25 ~16 ~1 ~25 stained_hardened_clay 8 
+setblock ~15 ~1 ~27 dirt 0 
+setblock ~15 ~1 ~28 stone 1 
+setblock ~16 ~1 ~2 stone 1 
+setblock ~16 ~1 ~4 dirt 0  
+fill ~16 ~1 ~5 ~16 ~2 ~5 planks 1  
+fill ~16 ~1 ~7 ~18 ~1 ~7 stone 0  
+fill ~16 ~1 ~8 ~16 ~1 ~7 stone 0  
+fill ~16 ~1 ~9 ~20 ~1 ~9 dirt 0  
+fill ~16 ~1 ~12 ~20 ~1 ~12 dirt 0  
+fill ~16 ~1 ~13 ~20 ~1 ~13 dirt 0  
+fill ~16 ~1 ~14 ~20 ~1 ~14 dirt 0  
+fill ~16 ~1 ~15 ~20 ~1 ~15 dirt 0 
+setblock ~16 ~1 ~16 stone 1  
+fill ~16 ~1 ~18 ~16 ~2 ~18 planks 1 
+setblock ~16 ~1 ~19 dirt 1 
+setblock ~16 ~1 ~26 dirt 0 
+setblock ~16 ~1 ~27 stone 1 
+setblock ~16 ~1 ~28 planks 1  
+fill ~16 ~1 ~29 ~16 ~1 ~30 stone 1 
+setblock ~17 ~1 ~2 planks 1  
+fill ~17 ~1 ~3 ~17 ~0 ~3 dirt 0 
+setblock ~17 ~1 ~4 planks 1  
+fill ~17 ~1 ~5 ~17 ~0 ~5 dirt 1  
+fill ~17 ~1 ~6 ~17 ~2 ~6 planks 1  
+fill ~17 ~1 ~8 ~20 ~1 ~8 dirt 0  
+fill ~17 ~1 ~16 ~20 ~1 ~16 dirt 0 
+setblock ~17 ~1 ~17 planks 1  
+fill ~17 ~1 ~18 ~17 ~1 ~23 dirt 0 
+setblock ~17 ~1 ~25 planks 1  
+fill ~17 ~1 ~26 ~17 ~2 ~26 dirt 1 
+setblock ~17 ~1 ~27 planks 1  
+fill ~17 ~1 ~28 ~17 ~2 ~28 dirt 0 
+setblock ~18 ~1 ~3 dirt 1  
+fill ~18 ~1 ~4 ~18 ~1 ~6 stone 1  
+fill ~18 ~1 ~17 ~20 ~1 ~17 dirt 0 
+setblock ~18 ~1 ~19 stone 1  
+fill ~18 ~1 ~25 ~19 ~1 ~25 sand 0  
+fill ~18 ~1 ~26 ~18 ~2 ~26 planks 1  
+fill ~18 ~1 ~29 ~18 ~2 ~29 planks 1  
+fill ~18 ~1 ~30 ~19 ~1 ~30 dirt 1  
+fill ~19 ~1 ~2 ~20 ~1 ~2 stone 1  
+fill ~19 ~1 ~3 ~20 ~1 ~3 dirt 0 
+setblock ~19 ~1 ~4 dirt 1  
+fill ~19 ~1 ~5 ~19 ~1 ~6 stone 1  
+fill ~19 ~1 ~7 ~20 ~1 ~7 dirt 0  
+fill ~19 ~1 ~18 ~19 ~2 ~18 dirt 1  
+fill ~19 ~1 ~19 ~20 ~1 ~19 dirt 0  
+fill ~19 ~1 ~20 ~20 ~1 ~20 dirt 1  
+fill ~19 ~1 ~26 ~19 ~6 ~26 dirt 1 
+setblock ~19 ~1 ~27 planks 1  
+fill ~19 ~1 ~28 ~19 ~2 ~28 dirt 0  
+fill ~19 ~1 ~29 ~19 ~1 ~28 dirt 0 
+setblock ~20 ~1 ~4 dirt 0  
+fill ~20 ~1 ~6 ~21 ~1 ~6 dirt 0  
+fill ~20 ~1 ~18 ~20 ~4 ~18 stone 0 
+setblock ~20 ~1 ~23 planks 1  
+fill ~20 ~1 ~24 ~23 ~1 ~24 stone 0  
+fill ~20 ~1 ~25 ~20 ~1 ~26 planks 1  
+fill ~20 ~1 ~27 ~20 ~3 ~27 dirt 0 
+setblock ~20 ~1 ~28 dirt 1  
+fill ~20 ~1 ~29 ~22 ~1 ~29 planks 1 
+setblock ~20 ~1 ~30 stone 1 
+setblock ~21 ~1 ~2 planks 1 
+setblock ~21 ~1 ~3 dirt 1 
+setblock ~21 ~1 ~4 planks 1  
+fill ~21 ~1 ~5 ~21 ~3 ~5 stone 1  
+fill ~21 ~1 ~7 ~28 ~1 ~7 sand 0  
+fill ~21 ~1 ~8 ~28 ~1 ~8 sand 0  
+fill ~21 ~1 ~9 ~28 ~1 ~9 sand 0  
+fill ~21 ~1 ~10 ~28 ~1 ~10 sand 0  
+fill ~21 ~1 ~11 ~28 ~1 ~11 sand 0  
+fill ~21 ~1 ~12 ~29 ~1 ~12 sand 0  
+fill ~21 ~1 ~13 ~29 ~1 ~13 sand 0  
+fill ~21 ~1 ~14 ~29 ~1 ~14 sand 0  
+fill ~21 ~1 ~15 ~29 ~1 ~15 sand 0  
+fill ~21 ~1 ~16 ~29 ~1 ~16 sand 0  
+fill ~21 ~1 ~17 ~28 ~1 ~17 sand 0  
+fill ~21 ~1 ~18 ~28 ~1 ~18 sand 0  
+fill ~21 ~1 ~19 ~21 ~3 ~19 stone 0  
+fill ~21 ~1 ~20 ~22 ~1 ~20 stone 0  
+fill ~21 ~1 ~21 ~22 ~1 ~21 stone 0  
+fill ~21 ~1 ~22 ~22 ~1 ~22 stone 0  
+fill ~21 ~1 ~23 ~22 ~1 ~23 stone 0  
+fill ~21 ~1 ~25 ~21 ~2 ~25 stone 1  
+fill ~21 ~1 ~26 ~21 ~2 ~26 dirt 1  
+fill ~21 ~1 ~27 ~21 ~2 ~27 dirt 1  
+fill ~21 ~1 ~28 ~21 ~2 ~28 stone 1 
+setblock ~22 ~1 ~2 dirt 0 
+setblock ~22 ~1 ~3 stone 1  
+fill ~22 ~1 ~4 ~22 ~2 ~4 dirt 1 
+setblock ~22 ~1 ~5 dirt 0 
+setblock ~22 ~1 ~6 planks 1  
+fill ~22 ~1 ~19 ~28 ~1 ~19 sand 0 
+setblock ~22 ~1 ~25 planks 1  
+fill ~22 ~1 ~27 ~22 ~0 ~27 stone 1  
+fill ~22 ~1 ~28 ~23 ~1 ~28 planks 1 
+setblock ~22 ~1 ~30 dirt 1  
+fill ~23 ~1 ~2 ~23 ~1 ~3 dirt 1  
+fill ~23 ~1 ~4 ~23 ~1 ~5 stone 1 
+setblock ~23 ~1 ~6 dirt 0  
+fill ~23 ~1 ~20 ~28 ~1 ~20 sand 0  
+fill ~23 ~1 ~21 ~26 ~1 ~21 sand 0  
+fill ~23 ~1 ~22 ~25 ~1 ~22 sand 0  
+fill ~23 ~1 ~23 ~24 ~1 ~23 sand 0  
+fill ~23 ~1 ~26 ~24 ~1 ~26 planks 1 
+setblock ~23 ~1 ~27 dirt 0  
+fill ~23 ~1 ~29 ~25 ~1 ~29 dirt 0  
+fill ~24 ~1 ~2 ~24 ~3 ~2 planks 1 
+setblock ~24 ~1 ~4 dirt 0  
+fill ~24 ~1 ~5 ~24 ~2 ~5 dirt 1  
+fill ~24 ~1 ~6 ~24 ~1 ~5 dirt 1  
+fill ~24 ~1 ~24 ~24 ~7 ~24 sand 0  
+fill ~24 ~1 ~25 ~24 ~2 ~25 dirt 0 
+setblock ~24 ~1 ~27 dirt 1  
+fill ~25 ~1 ~2 ~25 ~2 ~2 stone 1  
+fill ~25 ~1 ~3 ~26 ~1 ~3 dirt 0 
+setblock ~25 ~1 ~5 dirt 0  
+fill ~25 ~1 ~6 ~25 ~5 ~6 stone 0  
+fill ~25 ~1 ~23 ~26 ~1 ~23 stone 1 
+setblock ~25 ~1 ~24 planks 1 
+setblock ~25 ~1 ~25 dirt 1  
+fill ~25 ~1 ~26 ~26 ~1 ~26 dirt 0 
+setblock ~25 ~1 ~27 stone 1 
+setblock ~25 ~1 ~28 dirt 0  
+fill ~25 ~1 ~30 ~25 ~2 ~30 dirt 1 
+setblock ~26 ~1 ~1 dirt 0 
+setblock ~26 ~1 ~2 dirt 1  
+fill ~26 ~1 ~4 ~27 ~1 ~4 dirt 1  
+fill ~26 ~1 ~6 ~27 ~1 ~6 sand 0  
+fill ~26 ~1 ~22 ~27 ~1 ~22 stone 1  
+fill ~26 ~1 ~24 ~26 ~0 ~24 dirt 1 
+setblock ~26 ~1 ~25 stone 1  
+fill ~26 ~1 ~27 ~27 ~1 ~27 dirt 1  
+fill ~26 ~1 ~28 ~26 ~1 ~27 dirt 1 
+setblock ~26 ~1 ~29 stone 1 
+setblock ~27 ~1 ~1 dirt 1 
+setblock ~27 ~1 ~2 dirt 0  
+fill ~27 ~1 ~3 ~29 ~1 ~3 dirt 1 
+setblock ~27 ~1 ~5 stone 1  
+fill ~27 ~1 ~21 ~28 ~1 ~21 stone 0  
+fill ~27 ~1 ~23 ~27 ~0 ~23 dirt 1  
+fill ~27 ~1 ~24 ~27 ~1 ~26 planks 1  
+fill ~27 ~1 ~28 ~27 ~3 ~28 dirt 0  
+fill ~27 ~1 ~29 ~27 ~2 ~29 planks 1  
+fill ~28 ~1 ~1 ~28 ~3 ~1 planks 1 
+setblock ~28 ~1 ~4 dirt 0  
+fill ~28 ~1 ~5 ~30 ~1 ~5 dirt 1 
+setblock ~28 ~1 ~6 planks 1  
+fill ~28 ~1 ~22 ~30 ~1 ~22 dirt 1 
+setblock ~28 ~1 ~23 dirt 0  
+fill ~28 ~1 ~25 ~28 ~3 ~25 dirt 0  
+fill ~28 ~1 ~26 ~28 ~1 ~27 planks 1 
+setblock ~28 ~1 ~28 stone 1  
+fill ~29 ~1 ~1 ~29 ~1 ~2 dirt 0 
+setblock ~29 ~1 ~4 stone 1 
+setblock ~29 ~1 ~6 dirt 0  
+fill ~29 ~1 ~7 ~31 ~1 ~7 planks 1  
+fill ~29 ~1 ~8 ~29 ~2 ~8 dirt 0 
+setblock ~29 ~1 ~9 dirt 1 
+setblock ~29 ~1 ~10 planks 1 
+setblock ~29 ~1 ~11 dirt 1 
+setblock ~29 ~1 ~19 dirt 1 
+setblock ~29 ~1 ~21 stone 1  
+fill ~29 ~1 ~23 ~30 ~1 ~23 stone 1 
+setblock ~29 ~1 ~25 planks 1 
+setblock ~30 ~1 ~2 dirt 1  
+fill ~30 ~1 ~3 ~31 ~1 ~3 stone 1  
+fill ~30 ~1 ~4 ~30 ~3 ~4 dirt 1  
+fill ~30 ~1 ~6 ~30 ~2 ~6 stone 1 
+setblock ~30 ~1 ~8 stone 1  
+fill ~30 ~1 ~9 ~30 ~1 ~10 dirt 0  
+fill ~30 ~1 ~11 ~31 ~1 ~11 stone 1 
+setblock ~30 ~1 ~12 dirt 1 
+setblock ~30 ~1 ~14 dirt 1  
+fill ~30 ~1 ~15 ~30 ~1 ~18 stone 1  
+fill ~30 ~1 ~20 ~30 ~2 ~20 dirt 1  
+fill ~30 ~1 ~21 ~31 ~1 ~21 dirt 0  
+fill ~30 ~1 ~24 ~30 ~2 ~24 dirt 0 
+setblock ~31 ~1 ~4 dirt 0  
+fill ~31 ~1 ~5 ~31 ~2 ~5 stone 1 
+setblock ~31 ~1 ~6 dirt 0 
+setblock ~31 ~1 ~8 dirt 1  
+fill ~31 ~1 ~9 ~33 ~1 ~9 planks 1  
+fill ~31 ~1 ~10 ~32 ~1 ~10 stone 1  
+fill ~31 ~1 ~12 ~31 ~2 ~12 stone 1 
+setblock ~31 ~1 ~13 planks 1 
+setblock ~31 ~1 ~14 stone 1 
+setblock ~31 ~1 ~15 planks 1  
+fill ~31 ~1 ~16 ~31 ~1 ~17 stone 1  
+fill ~31 ~1 ~18 ~32 ~1 ~18 dirt 0  
+fill ~31 ~1 ~19 ~32 ~1 ~19 dirt 0  
+fill ~31 ~1 ~22 ~31 ~2 ~22 stone 1 
+setblock ~31 ~1 ~23 dirt 1 
+setblock ~31 ~1 ~24 stone 1  
+fill ~32 ~1 ~5 ~32 ~4 ~5 dirt 1  
+fill ~32 ~1 ~6 ~32 ~2 ~6 dirt 1  
+fill ~32 ~1 ~7 ~32 ~1 ~5 dirt 1  
+fill ~32 ~1 ~13 ~32 ~1 ~15 dirt 1 
+setblock ~32 ~1 ~16 planks 1 
+setblock ~32 ~1 ~17 dirt 0 
+setblock ~32 ~1 ~20 stone 1 
+setblock ~32 ~1 ~21 dirt 1 
+setblock ~32 ~1 ~22 planks 1  
+fill ~32 ~1 ~23 ~33 ~1 ~23 dirt 0 
+setblock ~32 ~1 ~24 planks 1 
+setblock ~33 ~1 ~6 stone 1 
+setblock ~33 ~1 ~8 dirt 1 
+setblock ~33 ~1 ~10 planks 1 
+setblock ~33 ~1 ~13 stone 1 
+setblock ~33 ~1 ~14 dirt 0 
+setblock ~33 ~1 ~15 planks 1  
+fill ~33 ~1 ~16 ~34 ~1 ~16 dirt 1  
+fill ~33 ~1 ~17 ~33 ~2 ~17 planks 1  
+fill ~33 ~1 ~18 ~33 ~1 ~19 planks 1 
+setblock ~33 ~1 ~20 dirt 1 
+setblock ~33 ~1 ~21 planks 1 
+setblock ~33 ~1 ~22 dirt 1  
+fill ~34 ~1 ~17 ~34 ~1 ~18 dirt 0 
+setblock ~5 ~2 ~11 stone_slab 0  
+fill ~5 ~2 ~17 ~6 ~2 ~17 stained_glass_pane 9  
+fill ~6 ~2 ~10 ~7 ~2 ~10 stained_hardened_clay 8  
+fill ~6 ~2 ~11 ~8 ~2 ~11 stained_hardened_clay 8  
+fill ~6 ~2 ~12 ~6 ~2 ~13 stone_slab 0 
+setblock ~6 ~2 ~15 pink_glazed_terracotta 3 
+setblock ~7 ~2 ~8 stained_hardened_clay 8  
+fill ~7 ~2 ~12 ~7 ~3 ~12 stained_hardened_clay 8  
+fill ~7 ~2 ~13 ~7 ~3 ~13 stained_hardened_clay 8  
+fill ~7 ~2 ~14 ~7 ~3 ~14 stained_glass_pane 3 
+setblock ~7 ~2 ~15 stained_glass_pane 11  
+fill ~7 ~2 ~16 ~8 ~2 ~16 pink_glazed_terracotta 0  
+fill ~7 ~2 ~17 ~8 ~2 ~17 pink_glazed_terracotta 0  
+fill ~8 ~2 ~9 ~9 ~2 ~9 stained_hardened_clay 8  
+fill ~8 ~2 ~10 ~9 ~2 ~10 dirt 1  
+fill ~8 ~2 ~12 ~12 ~2 ~12 dirt 0  
+fill ~8 ~2 ~13 ~12 ~2 ~13 dirt 0 
+setblock ~8 ~2 ~14 stained_hardened_clay 5 
+setblock ~8 ~2 ~15 stained_glass_pane 3 
+setblock ~8 ~2 ~18 stained_glass_pane 11 
+setblock ~9 ~2 ~8 stained_hardened_clay 8  
+fill ~9 ~2 ~11 ~12 ~2 ~11 dirt 0  
+fill ~9 ~2 ~14 ~12 ~2 ~14 dirt 0 
+setblock ~9 ~2 ~18 planks 1 
+setblock ~10 ~2 ~8 planks 1  
+fill ~10 ~2 ~9 ~11 ~2 ~9 dirt 0 
+setblock ~10 ~2 ~10 stone 1  
+fill ~10 ~2 ~15 ~12 ~2 ~15 dirt 0  
+fill ~10 ~2 ~17 ~13 ~2 ~17 dirt 0  
+fill ~10 ~2 ~18 ~15 ~2 ~18 dirt 0  
+fill ~10 ~2 ~19 ~19 ~2 ~19 dirt 0  
+fill ~10 ~2 ~20 ~10 ~5 ~20 stained_hardened_clay 8  
+fill ~11 ~2 ~6 ~11 ~3 ~6 stone 1  
+fill ~11 ~2 ~7 ~11 ~1 ~7 stone 1 
+setblock ~11 ~2 ~10 planks 1  
+fill ~11 ~2 ~16 ~15 ~2 ~16 dirt 0 
+setblock ~11 ~2 ~20 dirt 1  
+fill ~11 ~2 ~21 ~11 ~7 ~21 stained_hardened_clay 8  
+fill ~11 ~2 ~22 ~11 ~7 ~22 stained_hardened_clay 8  
+fill ~11 ~2 ~23 ~11 ~2 ~21 stained_hardened_clay 8  
+fill ~12 ~2 ~6 ~12 ~3 ~6 dirt 0  
+fill ~12 ~2 ~7 ~12 ~3 ~7 dirt 1  
+fill ~12 ~2 ~8 ~12 ~2 ~9 stone 1  
+fill ~12 ~2 ~10 ~20 ~2 ~10 dirt 0  
+fill ~12 ~2 ~20 ~20 ~2 ~20 dirt 0  
+fill ~12 ~2 ~21 ~19 ~2 ~21 dirt 0  
+fill ~12 ~2 ~22 ~19 ~2 ~22 dirt 0 
+setblock ~12 ~2 ~23 dirt 1 
+setblock ~13 ~2 ~5 dirt 1 
+setblock ~13 ~2 ~6 planks 1  
+fill ~13 ~2 ~7 ~14 ~2 ~7 dirt 0  
+fill ~13 ~2 ~9 ~13 ~3 ~9 stone 1 
+setblock ~13 ~2 ~11 stone 1 
+setblock ~13 ~2 ~13 stone 1  
+fill ~13 ~2 ~14 ~13 ~1 ~14 dirt 1  
+fill ~13 ~2 ~15 ~13 ~3 ~15 dirt 1  
+fill ~13 ~2 ~23 ~20 ~2 ~23 dirt 0  
+fill ~13 ~2 ~25 ~13 ~3 ~25 stained_hardened_clay 8 
+setblock ~14 ~2 ~5 planks 1 
+setblock ~14 ~2 ~6 dirt 0  
+fill ~14 ~2 ~8 ~15 ~2 ~8 stone 1  
+fill ~14 ~2 ~11 ~14 ~3 ~11 dirt 0 
+setblock ~14 ~2 ~13 dirt 1  
+fill ~14 ~2 ~14 ~15 ~2 ~14 stone 1  
+fill ~14 ~2 ~15 ~15 ~2 ~15 planks 1  
+fill ~14 ~2 ~17 ~15 ~2 ~17 planks 1  
+fill ~14 ~2 ~24 ~19 ~2 ~24 sand 0  
+fill ~15 ~2 ~3 ~15 ~3 ~3 planks 1  
+fill ~15 ~2 ~4 ~15 ~2 ~5 dirt 0 
+setblock ~15 ~2 ~6 dirt 1 
+setblock ~15 ~2 ~7 planks 1 
+setblock ~15 ~2 ~9 dirt 1  
+fill ~15 ~2 ~11 ~15 ~3 ~11 stone 1  
+fill ~15 ~2 ~25 ~17 ~2 ~25 stained_hardened_clay 8 
+setblock ~16 ~2 ~4 planks 1 
+setblock ~16 ~2 ~6 stone 1 
+setblock ~16 ~2 ~7 dirt 0 
+setblock ~16 ~2 ~8 dirt 1  
+fill ~16 ~2 ~9 ~20 ~2 ~9 dirt 0  
+fill ~16 ~2 ~11 ~20 ~2 ~11 dirt 0  
+fill ~16 ~2 ~12 ~16 ~6 ~12 stone 0  
+fill ~16 ~2 ~13 ~16 ~4 ~13 stone 0  
+fill ~16 ~2 ~14 ~16 ~3 ~14 stone 0  
+fill ~16 ~2 ~15 ~16 ~3 ~15 stone 0  
+fill ~16 ~2 ~16 ~16 ~3 ~16 stone 0  
+fill ~16 ~2 ~17 ~16 ~3 ~17 stone 1 
+setblock ~16 ~2 ~27 planks 1  
+fill ~17 ~2 ~2 ~17 ~3 ~2 dirt 0 
+setblock ~17 ~2 ~3 planks 1 
+setblock ~17 ~2 ~4 dirt 1 
+setblock ~17 ~2 ~5 dirt 0 
+setblock ~17 ~2 ~7 dirt 1  
+fill ~17 ~2 ~8 ~20 ~2 ~8 dirt 0  
+fill ~17 ~2 ~12 ~20 ~2 ~12 dirt 0  
+fill ~17 ~2 ~13 ~20 ~2 ~13 dirt 0  
+fill ~17 ~2 ~14 ~20 ~2 ~14 dirt 0  
+fill ~17 ~2 ~15 ~20 ~2 ~15 dirt 0  
+fill ~17 ~2 ~16 ~20 ~2 ~16 dirt 0  
+fill ~17 ~2 ~17 ~18 ~2 ~17 dirt 1  
+fill ~17 ~2 ~18 ~19 ~2 ~18 dirt 1 
+setblock ~17 ~2 ~27 dirt 1 
+setblock ~17 ~2 ~29 stone 1 
+setblock ~18 ~2 ~2 dirt 1 
+setblock ~18 ~2 ~3 stone 1 
+setblock ~18 ~2 ~4 planks 1 
+setblock ~18 ~2 ~5 stone 1  
+fill ~18 ~2 ~6 ~18 ~3 ~6 dirt 1 
+setblock ~18 ~2 ~7 stone 0  
+fill ~18 ~2 ~25 ~18 ~3 ~25 planks 1 
+setblock ~18 ~2 ~28 dirt 0  
+fill ~19 ~2 ~2 ~19 ~2 ~3 planks 1  
+fill ~19 ~2 ~4 ~19 ~3 ~4 dirt 0 
+setblock ~19 ~2 ~5 planks 1  
+fill ~19 ~2 ~6 ~19 ~3 ~6 dirt 0  
+fill ~19 ~2 ~7 ~19 ~0 ~7 dirt 0  
+fill ~19 ~2 ~17 ~19 ~3 ~17 stone 0 
+setblock ~19 ~2 ~25 sand 0  
+fill ~19 ~2 ~27 ~19 ~5 ~27 dirt 1  
+fill ~19 ~2 ~29 ~21 ~2 ~29 stone 1  
+fill ~20 ~2 ~3 ~20 ~3 ~3 stone 1 
+setblock ~20 ~2 ~4 planks 1 
+setblock ~20 ~2 ~5 dirt 0 
+setblock ~20 ~2 ~6 planks 1  
+fill ~20 ~2 ~7 ~21 ~2 ~7 stone 1 
+setblock ~20 ~2 ~17 dirt 0 
+setblock ~20 ~2 ~19 planks 1  
+fill ~20 ~2 ~21 ~20 ~5 ~21 dirt 1 
+setblock ~20 ~2 ~22 planks 1 
+setblock ~20 ~2 ~24 planks 1 
+setblock ~20 ~2 ~25 dirt 1 
+setblock ~20 ~2 ~26 dirt 0  
+fill ~20 ~2 ~28 ~20 ~4 ~28 stone 1  
+fill ~21 ~2 ~3 ~23 ~2 ~3 planks 1 
+setblock ~21 ~2 ~4 dirt 1  
+fill ~21 ~2 ~6 ~23 ~2 ~6 dirt 1  
+fill ~21 ~2 ~8 ~28 ~2 ~8 sand 0  
+fill ~21 ~2 ~9 ~28 ~2 ~9 sand 0  
+fill ~21 ~2 ~10 ~28 ~2 ~10 sand 0  
+fill ~21 ~2 ~11 ~28 ~2 ~11 sand 0  
+fill ~21 ~2 ~12 ~29 ~2 ~12 sand 0  
+fill ~21 ~2 ~13 ~28 ~2 ~13 sand 0  
+fill ~21 ~2 ~14 ~28 ~2 ~14 sand 0  
+fill ~21 ~2 ~15 ~28 ~2 ~15 sand 0  
+fill ~21 ~2 ~16 ~28 ~2 ~16 sand 0  
+fill ~21 ~2 ~17 ~28 ~2 ~17 sand 0  
+fill ~21 ~2 ~18 ~21 ~5 ~18 stone 0  
+fill ~21 ~2 ~20 ~22 ~2 ~20 stone 0  
+fill ~21 ~2 ~21 ~21 ~4 ~21 planks 1  
+fill ~21 ~2 ~22 ~21 ~3 ~22 stone 1  
+fill ~21 ~2 ~23 ~21 ~3 ~23 planks 1 
+setblock ~21 ~2 ~24 dirt 0 
+setblock ~22 ~2 ~2 stone 1  
+fill ~22 ~2 ~5 ~23 ~2 ~5 stone 1  
+fill ~22 ~2 ~7 ~23 ~2 ~7 dirt 1  
+fill ~22 ~2 ~18 ~28 ~2 ~18 sand 0  
+fill ~22 ~2 ~19 ~22 ~6 ~19 stone 0  
+fill ~22 ~2 ~21 ~22 ~2 ~24 stone 0 
+setblock ~22 ~2 ~25 dirt 0  
+fill ~22 ~2 ~26 ~24 ~2 ~26 stone 1  
+fill ~22 ~2 ~27 ~23 ~2 ~27 planks 1  
+fill ~22 ~2 ~28 ~22 ~3 ~28 dirt 1  
+fill ~22 ~2 ~29 ~23 ~2 ~29 planks 1  
+fill ~23 ~2 ~2 ~23 ~3 ~2 dirt 0  
+fill ~23 ~2 ~4 ~23 ~3 ~4 planks 1  
+fill ~23 ~2 ~19 ~28 ~2 ~19 sand 0  
+fill ~23 ~2 ~20 ~28 ~2 ~20 sand 0  
+fill ~23 ~2 ~21 ~26 ~2 ~21 sand 0  
+fill ~23 ~2 ~22 ~25 ~2 ~22 sand 0  
+fill ~23 ~2 ~23 ~24 ~2 ~23 sand 0  
+fill ~23 ~2 ~24 ~23 ~3 ~24 stone 0 
+setblock ~23 ~2 ~25 stone 1 
+setblock ~23 ~2 ~28 planks 1 
+setblock ~23 ~2 ~30 dirt 1  
+fill ~24 ~2 ~3 ~25 ~2 ~3 dirt 0 
+setblock ~24 ~2 ~4 stone 1 
+setblock ~24 ~2 ~6 dirt 0  
+fill ~24 ~2 ~7 ~25 ~2 ~7 stone 0 
+setblock ~24 ~2 ~27 stone 1 
+setblock ~24 ~2 ~28 dirt 0  
+fill ~24 ~2 ~29 ~24 ~3 ~29 dirt 1 
+setblock ~24 ~2 ~30 stone 1 
+setblock ~25 ~2 ~5 stone 1  
+fill ~25 ~2 ~23 ~25 ~3 ~23 stone 1  
+fill ~25 ~2 ~24 ~25 ~3 ~24 stone 1 
+setblock ~25 ~2 ~25 planks 1  
+fill ~25 ~2 ~26 ~25 ~2 ~27 dirt 1 
+setblock ~25 ~2 ~28 planks 1  
+fill ~25 ~2 ~29 ~26 ~2 ~29 dirt 0 
+setblock ~26 ~2 ~1 dirt 1  
+fill ~26 ~2 ~2 ~26 ~3 ~2 planks 1 
+setblock ~26 ~2 ~3 dirt 1 
+setblock ~26 ~2 ~4 stone 1  
+fill ~26 ~2 ~5 ~26 ~2 ~6 dirt 0  
+fill ~26 ~2 ~7 ~27 ~2 ~7 sand 0  
+fill ~26 ~2 ~22 ~27 ~2 ~22 dirt 1  
+fill ~26 ~2 ~23 ~26 ~2 ~24 planks 1 
+setblock ~26 ~2 ~25 dirt 1  
+fill ~26 ~2 ~26 ~26 ~2 ~27 planks 1 
+setblock ~26 ~2 ~28 stone 1 
+setblock ~27 ~2 ~1 planks 1 
+setblock ~27 ~2 ~2 dirt 1  
+fill ~27 ~2 ~3 ~28 ~2 ~3 planks 1  
+fill ~27 ~2 ~4 ~28 ~2 ~4 dirt 1  
+fill ~27 ~2 ~5 ~27 ~3 ~5 dirt 1 
+setblock ~27 ~2 ~6 dirt 0  
+fill ~27 ~2 ~21 ~28 ~2 ~21 stone 0  
+fill ~27 ~2 ~23 ~31 ~2 ~23 stone 1 
+setblock ~27 ~2 ~24 dirt 0  
+fill ~27 ~2 ~25 ~27 ~3 ~25 planks 1 
+setblock ~27 ~2 ~26 stone 1  
+fill ~27 ~2 ~27 ~27 ~4 ~27 planks 1 
+setblock ~28 ~2 ~2 dirt 0  
+fill ~28 ~2 ~5 ~28 ~3 ~5 planks 1 
+setblock ~28 ~2 ~6 stone 1 
+setblock ~28 ~2 ~7 dirt 0  
+fill ~28 ~2 ~22 ~28 ~3 ~22 dirt 0 
+setblock ~28 ~2 ~24 planks 1  
+fill ~28 ~2 ~26 ~28 ~3 ~26 dirt 0 
+setblock ~28 ~2 ~27 stone 1  
+fill ~29 ~2 ~2 ~30 ~2 ~2 planks 1 
+setblock ~29 ~2 ~3 dirt 0  
+fill ~29 ~2 ~4 ~29 ~3 ~4 planks 1 
+setblock ~29 ~2 ~5 dirt 1  
+fill ~29 ~2 ~6 ~29 ~3 ~6 planks 1  
+fill ~29 ~2 ~7 ~30 ~2 ~7 planks 1  
+fill ~29 ~2 ~9 ~29 ~2 ~11 dirt 0 
+setblock ~29 ~2 ~13 dirt 1 
+setblock ~29 ~2 ~14 stone 1 
+setblock ~29 ~2 ~15 dirt 0 
+setblock ~29 ~2 ~16 planks 1 
+setblock ~29 ~2 ~17 stone 1  
+fill ~29 ~2 ~18 ~30 ~2 ~18 dirt 0 
+setblock ~29 ~2 ~19 stone 1 
+setblock ~29 ~2 ~20 dirt 0  
+fill ~29 ~2 ~21 ~30 ~2 ~21 dirt 1  
+fill ~29 ~2 ~22 ~29 ~3 ~22 stone 1  
+fill ~29 ~2 ~25 ~29 ~3 ~25 dirt 1  
+fill ~30 ~2 ~3 ~30 ~5 ~3 stone 1  
+fill ~30 ~2 ~5 ~30 ~3 ~5 planks 1 
+setblock ~30 ~2 ~8 dirt 1 
+setblock ~30 ~2 ~9 stone 1  
+fill ~30 ~2 ~10 ~30 ~4 ~10 dirt 1  
+fill ~30 ~2 ~11 ~30 ~4 ~11 dirt 1  
+fill ~30 ~2 ~12 ~30 ~3 ~12 planks 1  
+fill ~30 ~2 ~14 ~30 ~3 ~14 dirt 0  
+fill ~30 ~2 ~15 ~31 ~2 ~15 dirt 1  
+fill ~30 ~2 ~16 ~30 ~2 ~18 dirt 0 
+setblock ~30 ~2 ~19 planks 1  
+fill ~30 ~2 ~22 ~30 ~3 ~22 dirt 1  
+fill ~31 ~2 ~4 ~31 ~3 ~4 dirt 1  
+fill ~31 ~2 ~6 ~31 ~7 ~6 dirt 1  
+fill ~31 ~2 ~7 ~31 ~2 ~6 dirt 1  
+fill ~31 ~2 ~8 ~31 ~3 ~8 planks 1  
+fill ~31 ~2 ~9 ~32 ~2 ~9 planks 1  
+fill ~31 ~2 ~10 ~31 ~3 ~10 stone 1 
+setblock ~31 ~2 ~11 planks 1  
+fill ~31 ~2 ~13 ~32 ~2 ~13 dirt 0 
+setblock ~31 ~2 ~14 dirt 1 
+setblock ~31 ~2 ~16 dirt 1  
+fill ~31 ~2 ~17 ~33 ~2 ~17 planks 1  
+fill ~31 ~2 ~18 ~31 ~2 ~19 dirt 1  
+fill ~31 ~2 ~20 ~32 ~2 ~20 dirt 0 
+setblock ~31 ~2 ~21 stone 1 
+setblock ~31 ~2 ~24 planks 1 
+setblock ~31 ~2 ~25 stone 1  
+fill ~32 ~2 ~7 ~32 ~4 ~7 planks 1  
+fill ~32 ~2 ~10 ~32 ~3 ~10 dirt 0 
+setblock ~32 ~2 ~11 stone 1  
+fill ~32 ~2 ~14 ~32 ~2 ~16 stone 1  
+fill ~32 ~2 ~18 ~34 ~2 ~18 dirt 0  
+fill ~32 ~2 ~19 ~33 ~2 ~19 stone 1  
+fill ~32 ~2 ~21 ~32 ~3 ~21 dirt 0  
+fill ~32 ~2 ~22 ~32 ~4 ~22 stone 1
+fill ~32 ~2 ~23 ~32 ~3 ~23 planks 1 
+setblock ~32 ~2 ~24 dirt 1 
+setblock ~33 ~2 ~8 dirt 0  
+fill ~33 ~2 ~9 ~33 ~3 ~9 dirt 1  
+fill ~33 ~2 ~13 ~33 ~3 ~13 dirt 1  
+fill ~33 ~2 ~14 ~33 ~2 ~13 dirt 1 
+setblock ~33 ~2 ~15 dirt 0  
+fill ~33 ~2 ~16 ~33 ~3 ~16 dirt 1  
+fill ~33 ~2 ~20 ~33 ~3 ~20 planks 1 
+setblock ~33 ~2 ~21 stone 1 
+setblock ~33 ~2 ~22 planks 1  
+fill ~34 ~2 ~16 ~34 ~2 ~17 stone 1 
+setblock ~7 ~3 ~11 stone_slab 0 
+setblock ~7 ~3 ~15 stained_glass_pane 9  
+fill ~7 ~3 ~17 ~7 ~2 ~17 pink_glazed_terracotta 0  
+fill ~8 ~3 ~10 ~9 ~3 ~10 stone_slab 0  
+fill ~8 ~3 ~11 ~11 ~3 ~11 stained_hardened_clay 8  
+fill ~8 ~3 ~12 ~9 ~3 ~12 stained_hardened_clay 8  
+fill ~8 ~3 ~13 ~8 ~3 ~14 concrete_powder 13  
+fill ~8 ~3 ~16 ~8 ~4 ~16 pink_glazed_terracotta 3 
+setblock ~8 ~3 ~17 stained_glass_pane 3  
+fill ~9 ~3 ~13 ~9 ~4 ~13 stained_hardened_clay 8  
+fill ~9 ~3 ~14 ~12 ~3 ~14 dirt 0  
+fill ~9 ~3 ~17 ~9 ~5 ~17 stained_hardened_clay 8  
+fill ~9 ~3 ~18 ~9 ~3 ~17 stained_hardened_clay 8 
+setblock ~9 ~3 ~19 planks 1 
+setblock ~10 ~3 ~8 dirt 1 
+setblock ~10 ~3 ~9 stone 1 
+setblock ~10 ~3 ~10 stained_hardened_clay 8 
+setblock ~10 ~3 ~12 dirt 1  
+fill ~10 ~3 ~13 ~13 ~3 ~13 dirt 0  
+fill ~10 ~3 ~15 ~12 ~3 ~15 dirt 0  
+fill ~10 ~3 ~17 ~13 ~3 ~17 dirt 0  
+fill ~10 ~3 ~18 ~16 ~3 ~18 dirt 0 
+setblock ~10 ~3 ~19 dirt 1 
+setblock ~11 ~3 ~7 planks 1 
+setblock ~11 ~3 ~9 planks 1 
+setblock ~11 ~3 ~10 stone 1 
+setblock ~11 ~3 ~12 planks 1  
+fill ~11 ~3 ~16 ~15 ~3 ~16 dirt 0  
+fill ~11 ~3 ~19 ~20 ~3 ~19 dirt 0 
+setblock ~11 ~3 ~20 planks 1 
+setblock ~11 ~3 ~23 concrete_powder 13  
+fill ~12 ~3 ~8 ~12 ~3 ~9 dirt 1  
+fill ~12 ~3 ~10 ~12 ~2 ~10 dirt 0 
+setblock ~12 ~3 ~11 planks 1  
+fill ~12 ~3 ~12 ~12 ~4 ~12 dirt 0  
+fill ~12 ~3 ~20 ~19 ~3 ~20 dirt 0  
+fill ~12 ~3 ~21 ~19 ~3 ~21 dirt 0  
+fill ~12 ~3 ~22 ~19 ~3 ~22 dirt 0 
+setblock ~12 ~3 ~23 planks 1 
+setblock ~12 ~3 ~24 dirt 1  
+fill ~13 ~3 ~5 ~13 ~3 ~6 stone 1 
+setblock ~13 ~3 ~7 dirt 1 
+setblock ~13 ~3 ~8 dirt 0  
+fill ~13 ~3 ~10 ~13 ~3 ~12 dirt 1  
+fill ~13 ~3 ~14 ~14 ~3 ~14 planks 1  
+fill ~13 ~3 ~23 ~19 ~3 ~23 dirt 0 
+setblock ~14 ~3 ~5 dirt 0 
+setblock ~14 ~3 ~6 dirt 1  
+fill ~14 ~3 ~7 ~15 ~3 ~7 dirt 0  
+fill ~14 ~3 ~8 ~15 ~3 ~8 dirt 1 
+setblock ~14 ~3 ~10 dirt 0 
+setblock ~14 ~3 ~13 stone 1  
+fill ~14 ~3 ~15 ~15 ~3 ~15 stone 1 
+setblock ~14 ~3 ~17 stone 1  
+fill ~14 ~3 ~24 ~19 ~3 ~24 sand 0 
+setblock ~14 ~3 ~25 planks 1  
+fill ~15 ~3 ~4 ~16 ~3 ~4 dirt 1  
+fill ~15 ~3 ~5 ~15 ~5 ~5 planks 1 
+setblock ~15 ~3 ~6 stone 1  
+fill ~15 ~3 ~9 ~16 ~3 ~9 stone 1  
+fill ~15 ~3 ~10 ~15 ~5 ~10 stone 1 
+setblock ~15 ~3 ~14 dirt 1  
+fill ~15 ~3 ~17 ~15 ~4 ~17 dirt 1  
+fill ~15 ~3 ~25 ~16 ~3 ~25 stained_hardened_clay 8 
+setblock ~16 ~3 ~3 dirt 0 
+setblock ~16 ~3 ~5 dirt 0  
+fill ~16 ~3 ~6 ~16 ~4 ~6 planks 1  
+fill ~16 ~3 ~7 ~17 ~3 ~7 planks 1 
+setblock ~16 ~3 ~8 dirt 0  
+fill ~16 ~3 ~10 ~20 ~3 ~10 dirt 0  
+fill ~16 ~3 ~11 ~20 ~3 ~11 dirt 0 
+setblock ~17 ~3 ~3 dirt 1 
+setblock ~17 ~3 ~4 planks 1  
+fill ~17 ~3 ~5 ~17 ~3 ~6 dirt 1 
+setblock ~17 ~3 ~8 planks 1  
+fill ~17 ~3 ~9 ~20 ~3 ~9 dirt 0  
+fill ~17 ~3 ~12 ~20 ~3 ~12 dirt 0  
+fill ~17 ~3 ~13 ~20 ~3 ~13 dirt 0  
+fill ~17 ~3 ~14 ~20 ~3 ~14 dirt 0  
+fill ~17 ~3 ~15 ~20 ~3 ~15 dirt 0  
+fill ~17 ~3 ~16 ~19 ~3 ~16 stone 0  
+fill ~17 ~3 ~17 ~17 ~4 ~17 planks 1  
+fill ~17 ~3 ~18 ~17 ~4 ~18 dirt 1  
+fill ~17 ~3 ~25 ~17 ~4 ~25 planks 1  
+fill ~17 ~3 ~26 ~17 ~5 ~26 stone 1  
+fill ~17 ~3 ~27 ~18 ~3 ~27 stone 1 
+setblock ~18 ~3 ~2 stone 1 
+setblock ~18 ~3 ~3 planks 1  
+fill ~18 ~3 ~4 ~18 ~3 ~5 dirt 0  
+fill ~18 ~3 ~7 ~18 ~4 ~7 stone 1  
+fill ~18 ~3 ~8 ~19 ~3 ~8 stone 0  
+fill ~18 ~3 ~17 ~18 ~3 ~18 stone 1  
+fill ~18 ~3 ~26 ~18 ~5 ~26 dirt 1  
+fill ~18 ~3 ~28 ~20 ~3 ~28 stone 1  
+fill ~19 ~3 ~2 ~19 ~3 ~3 dirt 1 
+setblock ~19 ~3 ~5 dirt 0  
+fill ~19 ~3 ~7 ~19 ~4 ~7 dirt 1 
+setblock ~19 ~3 ~18 planks 1  
+fill ~19 ~3 ~25 ~20 ~3 ~25 planks 1 
+setblock ~20 ~3 ~4 stone 1 
+setblock ~20 ~3 ~5 dirt 1  
+fill ~20 ~3 ~6 ~20 ~3 ~7 stone 1 
+setblock ~20 ~3 ~8 dirt 0  
+fill ~20 ~3 ~16 ~20 ~7 ~16 dirt 0  
+fill ~20 ~3 ~17 ~21 ~3 ~17 stone 0 
+setblock ~20 ~3 ~20 dirt 1 
+setblock ~20 ~3 ~22 stone 1  
+fill ~20 ~3 ~23 ~20 ~4 ~23 dirt 1  
+fill ~20 ~3 ~24 ~20 ~4 ~24 stone 1 
+setblock ~20 ~3 ~26 planks 1 
+setblock ~20 ~3 ~29 stone 1 
+setblock ~21 ~3 ~3 dirt 1 
+setblock ~21 ~3 ~4 planks 1 
+setblock ~21 ~3 ~6 dirt 0  
+fill ~21 ~3 ~7 ~23 ~3 ~7 dirt 1  
+fill ~21 ~3 ~8 ~28 ~3 ~8 sand 0  
+fill ~21 ~3 ~9 ~28 ~3 ~9 sand 0  
+fill ~21 ~3 ~10 ~28 ~3 ~10 sand 0  
+fill ~21 ~3 ~11 ~28 ~3 ~11 sand 0  
+fill ~21 ~3 ~12 ~29 ~3 ~12 sand 0  
+fill ~21 ~3 ~13 ~28 ~3 ~13 sand 0  
+fill ~21 ~3 ~14 ~28 ~3 ~14 sand 0  
+fill ~21 ~3 ~15 ~28 ~3 ~15 sand 0  
+fill ~21 ~3 ~16 ~28 ~3 ~16 sand 0 
+setblock ~21 ~3 ~20 planks 1 
+setblock ~21 ~3 ~24 dirt 1 
+setblock ~21 ~3 ~25 dirt 0 
+setblock ~21 ~3 ~26 stone 1 
+setblock ~21 ~3 ~27 dirt 0  
+fill ~21 ~3 ~28 ~21 ~3 ~29 planks 1 
+setblock ~22 ~3 ~2 dirt 1 
+setblock ~22 ~3 ~3 stone 1 
+setblock ~22 ~3 ~4 dirt 0 
+setblock ~22 ~3 ~5 planks 1 
+setblock ~22 ~3 ~6 stone 1  
+fill ~22 ~3 ~17 ~28 ~3 ~17 sand 0  
+fill ~22 ~3 ~18 ~22 ~6 ~18 stone 0  
+fill ~22 ~3 ~20 ~23 ~3 ~20 stone 0 
+setblock ~22 ~3 ~21 stone 1  
+fill ~22 ~3 ~22 ~22 ~3 ~23 dirt 0 
+setblock ~22 ~3 ~24 planks 1 
+setblock ~22 ~3 ~25 dirt 1  
+fill ~22 ~3 ~26 ~22 ~3 ~27 planks 1 
+setblock ~22 ~3 ~29 dirt 1 
+setblock ~23 ~3 ~3 planks 1  
+fill ~23 ~3 ~5 ~23 ~3 ~6 dirt 0  
+fill ~23 ~3 ~18 ~28 ~3 ~18 sand 0  
+fill ~23 ~3 ~19 ~23 ~7 ~19 stone 0  
+fill ~23 ~3 ~21 ~23 ~3 ~24 stone 0 
+setblock ~23 ~3 ~25 dirt 0  
+fill ~23 ~3 ~26 ~23 ~4 ~26 stone 1  
+fill ~23 ~3 ~27 ~23 ~4 ~27 stone 1  
+fill ~23 ~3 ~28 ~23 ~3 ~26 stone 1 
+setblock ~23 ~3 ~29 planks 1 
+setblock ~23 ~3 ~30 stone 1 
+setblock ~24 ~3 ~3 stone 1 
+setblock ~24 ~3 ~4 dirt 0 
+setblock ~24 ~3 ~5 stone 1 
+setblock ~24 ~3 ~6 dirt 1  
+fill ~24 ~3 ~7 ~25 ~3 ~7 stone 0  
+fill ~24 ~3 ~19 ~28 ~3 ~19 sand 0  
+fill ~24 ~3 ~20 ~28 ~3 ~20 sand 0  
+fill ~24 ~3 ~21 ~26 ~3 ~21 sand 0  
+fill ~24 ~3 ~22 ~25 ~3 ~22 sand 0  
+fill ~24 ~3 ~23 ~24 ~9 ~23 sand 0  
+fill ~24 ~3 ~25 ~24 ~4 ~25 stone 1  
+fill ~24 ~3 ~26 ~24 ~4 ~26 dirt 0  
+fill ~24 ~3 ~27 ~24 ~4 ~27 dirt 1  
+fill ~24 ~3 ~28 ~24 ~4 ~28 planks 1 
+setblock ~24 ~3 ~30 dirt 1 
+setblock ~25 ~3 ~2 planks 1  
+fill ~25 ~3 ~3 ~25 ~3 ~4 dirt 1 
+setblock ~25 ~3 ~5 dirt 0 
+setblock ~25 ~3 ~25 dirt 0 
+setblock ~25 ~3 ~26 stone 1 
+setblock ~25 ~3 ~27 dirt 0 
+setblock ~25 ~3 ~28 stone 1  
+fill ~25 ~3 ~29 ~25 ~6 ~29 planks 1 
+setblock ~25 ~3 ~30 stone 1 
+setblock ~26 ~3 ~1 planks 1  
+fill ~26 ~3 ~3 ~26 ~3 ~5 planks 1 
+setblock ~26 ~3 ~6 stone 1  
+fill ~26 ~3 ~7 ~27 ~3 ~7 sand 0  
+fill ~26 ~3 ~22 ~28 ~3 ~22 dirt 0  
+fill ~26 ~3 ~23 ~26 ~4 ~23 stone 1 
+setblock ~26 ~3 ~24 dirt 1 
+setblock ~26 ~3 ~25 planks 1 
+setblock ~26 ~3 ~26 dirt 0  
+fill ~26 ~3 ~27 ~26 ~4 ~27 stone 1 
+setblock ~26 ~3 ~28 dirt 1 
+setblock ~26 ~3 ~29 dirt 0 
+setblock ~27 ~3 ~1 dirt 0  
+fill ~27 ~3 ~2 ~27 ~3 ~3 stone 1  
+fill ~27 ~3 ~4 ~29 ~3 ~4 planks 1  
+fill ~27 ~3 ~6 ~28 ~3 ~6 dirt 1  
+fill ~27 ~3 ~21 ~28 ~3 ~21 stone 0  
+fill ~27 ~3 ~23 ~28 ~3 ~23 planks 1  
+fill ~27 ~3 ~24 ~27 ~3 ~23 planks 1  
+fill ~27 ~3 ~26 ~27 ~4 ~26 dirt 1 
+setblock ~27 ~3 ~29 dirt 1 
+setblock ~28 ~3 ~2 planks 1 
+setblock ~28 ~3 ~3 dirt 0  
+fill ~28 ~3 ~7 ~29 ~3 ~7 dirt 1 
+setblock ~28 ~3 ~24 dirt 0 
+setblock ~28 ~3 ~27 dirt 0  
+fill ~29 ~3 ~2 ~30 ~3 ~2 stone 1  
+fill ~29 ~3 ~3 ~29 ~4 ~3 dirt 1 
+setblock ~29 ~3 ~5 dirt 0 
+setblock ~29 ~3 ~8 dirt 1  
+fill ~29 ~3 ~9 ~30 ~3 ~9 planks 1 
+setblock ~29 ~3 ~10 dirt 1  
+fill ~29 ~3 ~11 ~29 ~5 ~11 dirt 0  
+fill ~29 ~3 ~13 ~29 ~4 ~13 stone 1 
+setblock ~29 ~3 ~14 dirt 0 
+setblock ~29 ~3 ~15 stone 1 
+setblock ~29 ~3 ~16 dirt 0  
+fill ~29 ~3 ~17 ~29 ~3 ~18 dirt 1  
+fill ~29 ~3 ~19 ~30 ~3 ~19 dirt 0 
+setblock ~29 ~3 ~20 stone 1  
+fill ~29 ~3 ~21 ~30 ~3 ~21 dirt 0  
+fill ~29 ~3 ~23 ~29 ~4 ~23 dirt 1  
+fill ~30 ~3 ~6 ~30 ~3 ~9 planks 1  
+fill ~30 ~3 ~15 ~31 ~3 ~15 planks 1  
+fill ~30 ~3 ~16 ~30 ~4 ~16 planks 1  
+fill ~30 ~3 ~17 ~30 ~3 ~15 planks 1 
+setblock ~30 ~3 ~18 stone 1 
+setblock ~30 ~3 ~20 planks 1 
+setblock ~30 ~3 ~23 stone 1  
+fill ~30 ~3 ~24 ~31 ~3 ~24 dirt 1  
+fill ~30 ~3 ~25 ~30 ~5 ~25 stone 1 
+setblock ~31 ~3 ~5 planks 1 
+setblock ~31 ~3 ~7 planks 1 
+setblock ~31 ~3 ~9 dirt 0  
+fill ~31 ~3 ~11 ~31 ~3 ~12 dirt 1  
+fill ~31 ~3 ~13 ~31 ~3 ~15 planks 1  
+fill ~31 ~3 ~16 ~31 ~3 ~17 dirt 0 
+setblock ~31 ~3 ~18 planks 1  
+fill ~31 ~3 ~19 ~32 ~3 ~19 dirt 1  
+fill ~31 ~3 ~20 ~32 ~3 ~20 dirt 1  
+fill ~31 ~3 ~21 ~31 ~3 ~22 planks 1  
+fill ~31 ~3 ~23 ~31 ~7 ~23 dirt 0 
+setblock ~31 ~3 ~25 planks 1 
+setblock ~32 ~3 ~6 stone 1 
+setblock ~32 ~3 ~8 dirt 0  
+fill ~32 ~3 ~9 ~32 ~5 ~9 dirt 1 
+setblock ~32 ~3 ~11 dirt 0 
+setblock ~32 ~3 ~13 stone 1 
+setblock ~32 ~3 ~14 dirt 1  
+fill ~32 ~3 ~15 ~33 ~3 ~15 stone 1  
+fill ~32 ~3 ~16 ~32 ~3 ~15 stone 1 
+setblock ~32 ~3 ~17 dirt 1  
+fill ~32 ~3 ~18 ~32 ~1 ~18 dirt 0 
+setblock ~32 ~3 ~24 planks 1 
+setblock ~33 ~3 ~8 stone 1 
+setblock ~33 ~3 ~14 stone 1  
+fill ~33 ~3 ~17 ~33 ~4 ~17 dirt 0  
+fill ~33 ~3 ~18 ~33 ~4 ~18 stone 1 
+setblock ~33 ~3 ~19 dirt 0  
+fill ~33 ~3 ~21 ~33 ~4 ~21 dirt 0  
+fill ~33 ~3 ~22 ~33 ~3 ~21 dirt 0  
+fill ~34 ~3 ~16 ~34 ~3 ~18 planks 1 
+setblock ~7 ~4 ~16 pink_glazed_terracotta 0 
+setblock ~7 ~4 ~17 stained_glass_pane 11 
+setblock ~8 ~4 ~13 stone_slab 0  
+fill ~8 ~4 ~14 ~8 ~4 ~15 pink_glazed_terracotta 0 
+setblock ~8 ~4 ~17 pink_glazed_terracotta 0 
+setblock ~9 ~4 ~14 stained_hardened_clay 8 
+setblock ~9 ~4 ~16 stained_hardened_clay 5 
+setblock ~9 ~4 ~18 dirt 1  
+fill ~9 ~4 ~19 ~10 ~4 ~19 stained_hardened_clay 8  
+fill ~10 ~4 ~12 ~11 ~4 ~12 stone_slab 0  
+fill ~10 ~4 ~13 ~11 ~4 ~13 stained_hardened_clay 8 
+setblock ~10 ~4 ~14 planks 1 
+setblock ~10 ~4 ~15 dirt 1  
+fill ~10 ~4 ~17 ~14 ~4 ~17 dirt 0  
+fill ~10 ~4 ~18 ~16 ~4 ~18 dirt 0 
+setblock ~11 ~4 ~8 stone 1  
+fill ~11 ~4 ~9 ~11 ~5 ~9 dirt 0  
+fill ~11 ~4 ~10 ~12 ~4 ~10 planks 1 
+setblock ~11 ~4 ~14 stained_hardened_clay 8  
+fill ~11 ~4 ~15 ~13 ~4 ~15 dirt 0  
+fill ~11 ~4 ~16 ~13 ~4 ~16 dirt 0  
+fill ~11 ~4 ~19 ~18 ~4 ~19 dirt 0 
+setblock ~11 ~4 ~20 dirt 1  
+fill ~11 ~4 ~23 ~11 ~5 ~23 dirt 1 
+setblock ~12 ~4 ~7 stone 1 
+setblock ~12 ~4 ~8 planks 1  
+fill ~12 ~4 ~9 ~12 ~5 ~9 dirt 1 
+setblock ~12 ~4 ~11 stone 1  
+fill ~12 ~4 ~13 ~12 ~5 ~13 dirt 1 
+setblock ~12 ~4 ~14 dirt 0  
+fill ~12 ~4 ~20 ~18 ~4 ~20 dirt 0  
+fill ~12 ~4 ~21 ~19 ~4 ~21 dirt 0  
+fill ~12 ~4 ~22 ~19 ~4 ~22 dirt 0  
+fill ~12 ~4 ~23 ~12 ~4 ~24 stained_hardened_clay 8  
+fill ~13 ~4 ~6 ~14 ~4 ~6 stone 1 
+setblock ~13 ~4 ~7 planks 1 
+setblock ~13 ~4 ~8 dirt 1 
+setblock ~13 ~4 ~9 dirt 0 
+setblock ~13 ~4 ~10 stone 1 
+setblock ~13 ~4 ~11 planks 1  
+fill ~13 ~4 ~12 ~14 ~4 ~12 dirt 0 
+setblock ~13 ~4 ~13 stained_hardened_clay 5  
+fill ~13 ~4 ~14 ~13 ~3 ~14 planks 1  
+fill ~13 ~4 ~23 ~19 ~4 ~23 dirt 0 
+setblock ~13 ~4 ~25 planks 1 
+setblock ~14 ~4 ~5 planks 1  
+fill ~14 ~4 ~7 ~15 ~4 ~7 stone 1 
+setblock ~14 ~4 ~8 dirt 0  
+fill ~14 ~4 ~9 ~15 ~4 ~9 dirt 1  
+fill ~14 ~4 ~10 ~14 ~5 ~10 dirt 1  
+fill ~14 ~4 ~11 ~14 ~5 ~11 stone 1 
+setblock ~14 ~4 ~13 dirt 1  
+fill ~14 ~4 ~14 ~15 ~4 ~14 stone 1 
+setblock ~14 ~4 ~15 planks 1 
+setblock ~14 ~4 ~16 stone 1 
+setblock ~14 ~4 ~24 planks 1  
+fill ~14 ~4 ~25 ~16 ~4 ~25 stained_hardened_clay 8 
+setblock ~15 ~4 ~6 dirt 0 
+setblock ~15 ~4 ~8 stone 1 
+setblock ~15 ~4 ~11 dirt 1 
+setblock ~15 ~4 ~13 planks 1  
+fill ~15 ~4 ~15 ~15 ~5 ~15 stone 1 
+setblock ~15 ~4 ~16 dirt 0 
+setblock ~15 ~4 ~24 stained_hardened_clay 8  
+fill ~16 ~4 ~4 ~16 ~5 ~4 stone 1  
+fill ~16 ~4 ~5 ~16 ~4 ~4 stone 1  
+fill ~16 ~4 ~7 ~17 ~4 ~7 dirt 0 
+setblock ~16 ~4 ~8 planks 1 
+setblock ~16 ~4 ~9 stone 1  
+fill ~16 ~4 ~10 ~20 ~4 ~10 dirt 0  
+fill ~16 ~4 ~11 ~20 ~4 ~11 dirt 0 
+setblock ~16 ~4 ~14 dirt 1  
+fill ~16 ~4 ~15 ~16 ~5 ~15 planks 1  
+fill ~16 ~4 ~16 ~18 ~4 ~16 stone 1 
+setblock ~16 ~4 ~17 dirt 1  
+fill ~16 ~4 ~24 ~19 ~4 ~24 sand 0  
+fill ~17 ~4 ~3 ~17 ~5 ~3 dirt 0 
+setblock ~17 ~4 ~4 dirt 1  
+fill ~17 ~4 ~5 ~17 ~5 ~5 planks 1 
+setblock ~17 ~4 ~6 stone 1  
+fill ~17 ~4 ~8 ~18 ~4 ~8 stone 1 
+setblock ~17 ~4 ~9 planks 1  
+fill ~17 ~4 ~12 ~20 ~4 ~12 dirt 0  
+fill ~17 ~4 ~13 ~20 ~4 ~13 dirt 0  
+fill ~17 ~4 ~14 ~20 ~4 ~14 dirt 0  
+fill ~17 ~4 ~15 ~20 ~4 ~15 dirt 0 
+setblock ~18 ~4 ~3 stone 1  
+fill ~18 ~4 ~4 ~19 ~4 ~4 planks 1  
+fill ~18 ~4 ~5 ~18 ~5 ~5 stone 1  
+fill ~18 ~4 ~6 ~18 ~5 ~6 dirt 0  
+fill ~18 ~4 ~9 ~19 ~4 ~9 stone 0  
+fill ~18 ~4 ~17 ~19 ~4 ~17 dirt 0 
+setblock ~18 ~4 ~18 dirt 1  
+fill ~18 ~4 ~25 ~19 ~4 ~25 stained_hardened_clay 8  
+fill ~18 ~4 ~27 ~18 ~5 ~27 stone 1 
+setblock ~19 ~4 ~3 dirt 0 
+setblock ~19 ~4 ~5 dirt 1  
+fill ~19 ~4 ~6 ~19 ~6 ~6 stone 1  
+fill ~19 ~4 ~8 ~20 ~4 ~8 stone 0 
+setblock ~19 ~4 ~16 stone 0  
+fill ~19 ~4 ~18 ~19 ~4 ~19 stone 1 
+setblock ~19 ~4 ~20 dirt 1  
+fill ~19 ~4 ~28 ~19 ~5 ~28 stone 1 
+setblock ~20 ~4 ~3 planks 1  
+fill ~20 ~4 ~4 ~21 ~4 ~4 dirt 0 
+setblock ~20 ~4 ~5 stone 1 
+setblock ~20 ~4 ~6 dirt 1  
+fill ~20 ~4 ~7 ~20 ~5 ~7 dirt 0  
+fill ~20 ~4 ~9 ~20 ~10 ~9 dirt 0  
+fill ~20 ~4 ~17 ~21 ~4 ~17 stone 0 
+setblock ~20 ~4 ~20 dirt 0 
+setblock ~20 ~4 ~22 dirt 1  
+fill ~20 ~4 ~25 ~20 ~5 ~25 stone 1  
+fill ~20 ~4 ~26 ~21 ~4 ~26 dirt 1 
+setblock ~20 ~4 ~27 planks 1 
+setblock ~21 ~4 ~3 stone 1  
+fill ~21 ~4 ~5 ~22 ~4 ~5 dirt 1  
+fill ~21 ~4 ~6 ~21 ~6 ~6 planks 1 
+setblock ~21 ~4 ~7 stone 1  
+fill ~21 ~4 ~8 ~28 ~4 ~8 sand 0  
+fill ~21 ~4 ~9 ~28 ~4 ~9 sand 0  
+fill ~21 ~4 ~10 ~28 ~4 ~10 sand 0  
+fill ~21 ~4 ~11 ~28 ~4 ~11 sand 0  
+fill ~21 ~4 ~12 ~29 ~4 ~12 sand 0  
+fill ~21 ~4 ~13 ~28 ~4 ~13 sand 0  
+fill ~21 ~4 ~14 ~28 ~4 ~14 sand 0  
+fill ~21 ~4 ~15 ~28 ~4 ~15 sand 0  
+fill ~21 ~4 ~16 ~28 ~4 ~16 sand 0 
+setblock ~21 ~4 ~19 dirt 0  
+fill ~21 ~4 ~20 ~22 ~4 ~20 stone 1  
+fill ~21 ~4 ~22 ~21 ~5 ~22 dirt 0  
+fill ~21 ~4 ~23 ~21 ~5 ~23 stone 1 
+setblock ~21 ~4 ~24 planks 1  
+fill ~21 ~4 ~25 ~21 ~5 ~25 dirt 1  
+fill ~21 ~4 ~27 ~21 ~5 ~27 dirt 1  
+fill ~21 ~4 ~28 ~21 ~6 ~28 dirt 1  
+fill ~21 ~4 ~29 ~21 ~5 ~29 stone 1  
+fill ~22 ~4 ~3 ~25 ~4 ~3 dirt 0  
+fill ~22 ~4 ~4 ~22 ~6 ~4 planks 1  
+fill ~22 ~4 ~6 ~22 ~6 ~6 dirt 1  
+fill ~22 ~4 ~7 ~23 ~4 ~7 dirt 0  
+fill ~22 ~4 ~17 ~28 ~4 ~17 sand 0  
+fill ~22 ~4 ~21 ~23 ~4 ~21 planks 1  
+fill ~22 ~4 ~22 ~23 ~4 ~22 dirt 1  
+fill ~22 ~4 ~23 ~22 ~5 ~23 dirt 0  
+fill ~22 ~4 ~24 ~22 ~4 ~23 dirt 0  
+fill ~22 ~4 ~25 ~25 ~4 ~25 stone 1 
+setblock ~22 ~4 ~26 dirt 0 
+setblock ~22 ~4 ~27 planks 1  
+fill ~22 ~4 ~28 ~23 ~4 ~28 dirt 0  
+fill ~22 ~4 ~29 ~22 ~6 ~29 planks 1 
+setblock ~23 ~4 ~4 dirt 1 
+setblock ~23 ~4 ~5 stone 1 
+setblock ~23 ~4 ~6 planks 1  
+fill ~23 ~4 ~18 ~28 ~4 ~18 sand 0  
+fill ~23 ~4 ~20 ~23 ~7 ~20 stone 0 
+setblock ~23 ~4 ~23 stone 1 
+setblock ~23 ~4 ~24 planks 1  
+fill ~23 ~4 ~29 ~24 ~4 ~29 dirt 0  
+fill ~24 ~4 ~2 ~24 ~5 ~2 dirt 1  
+fill ~24 ~4 ~4 ~25 ~4 ~4 planks 1  
+fill ~24 ~4 ~5 ~25 ~4 ~5 dirt 1 
+setblock ~24 ~4 ~6 stone 1  
+fill ~24 ~4 ~7 ~25 ~4 ~7 stone 0  
+fill ~24 ~4 ~19 ~28 ~4 ~19 sand 0  
+fill ~24 ~4 ~20 ~28 ~4 ~20 sand 0  
+fill ~24 ~4 ~21 ~26 ~4 ~21 sand 0  
+fill ~24 ~4 ~22 ~25 ~4 ~22 sand 0 
+setblock ~25 ~4 ~2 stone 1 
+setblock ~25 ~4 ~23 dirt 0 
+setblock ~25 ~4 ~24 dirt 1 
+setblock ~25 ~4 ~26 planks 1 
+setblock ~25 ~4 ~27 stone 1 
+setblock ~25 ~4 ~28 planks 1  
+fill ~26 ~4 ~2 ~27 ~4 ~2 dirt 1  
+fill ~26 ~4 ~3 ~26 ~4 ~4 stone 1  
+fill ~26 ~4 ~5 ~27 ~4 ~5 planks 1 
+setblock ~26 ~4 ~6 dirt 1  
+fill ~26 ~4 ~7 ~27 ~4 ~7 sand 0  
+fill ~26 ~4 ~22 ~27 ~4 ~22 dirt 0  
+fill ~26 ~4 ~24 ~26 ~4 ~25 dirt 0 
+setblock ~26 ~4 ~26 dirt 1 
+setblock ~26 ~4 ~28 dirt 0 
+setblock ~26 ~4 ~29 dirt 1  
+fill ~27 ~4 ~3 ~27 ~4 ~5 planks 1  
+fill ~27 ~4 ~6 ~30 ~4 ~6 stone 1  
+fill ~27 ~4 ~21 ~28 ~4 ~21 stone 0  
+fill ~27 ~4 ~23 ~27 ~4 ~25 stone 1  
+fill ~27 ~4 ~28 ~27 ~5 ~28 planks 1  
+fill ~28 ~4 ~2 ~28 ~5 ~2 dirt 0  
+fill ~28 ~4 ~3 ~28 ~6 ~3 dirt 1  
+fill ~28 ~4 ~4 ~28 ~4 ~5 dirt 0  
+fill ~28 ~4 ~7 ~29 ~4 ~7 planks 1 
+setblock ~28 ~4 ~22 planks 1  
+fill ~28 ~4 ~23 ~28 ~6 ~23 dirt 1 
+setblock ~28 ~4 ~24 stone 1  
+fill ~28 ~4 ~25 ~28 ~4 ~26 dirt 1  
+fill ~28 ~4 ~27 ~28 ~7 ~27 planks 1  
+fill ~29 ~4 ~4 ~29 ~5 ~4 dirt 1  
+fill ~29 ~4 ~5 ~30 ~4 ~5 dirt 1 
+setblock ~29 ~4 ~8 stone 1 
+setblock ~29 ~4 ~9 dirt 0 
+setblock ~29 ~4 ~10 planks 1 
+setblock ~29 ~4 ~14 stone 1 
+setblock ~29 ~4 ~15 planks 1 
+setblock ~29 ~4 ~16 stone 1 
+setblock ~29 ~4 ~17 dirt 0 
+setblock ~29 ~4 ~18 stone 0  
+fill ~29 ~4 ~19 ~30 ~4 ~19 dirt 1  
+fill ~29 ~4 ~20 ~29 ~4 ~19 dirt 1 
+setblock ~29 ~4 ~21 stone 1 
+setblock ~29 ~4 ~22 dirt 0  
+fill ~29 ~4 ~24 ~30 ~4 ~24 dirt 0  
+fill ~29 ~4 ~25 ~29 ~4 ~24 dirt 0 
+setblock ~30 ~4 ~4 dirt 0 
+setblock ~30 ~4 ~7 stone 1  
+fill ~30 ~4 ~8 ~30 ~5 ~8 dirt 0  
+fill ~30 ~4 ~9 ~30 ~5 ~9 dirt 1 
+setblock ~30 ~4 ~12 stone 1  
+fill ~30 ~4 ~14 ~31 ~4 ~14 planks 1 
+setblock ~30 ~4 ~15 dirt 0  
+fill ~30 ~4 ~17 ~31 ~4 ~17 dirt 1 
+setblock ~30 ~4 ~18 planks 1 
+setblock ~30 ~4 ~20 stone 1 
+setblock ~30 ~4 ~21 planks 1 
+setblock ~30 ~4 ~22 stone 1 
+setblock ~30 ~4 ~23 dirt 1 
+setblock ~31 ~4 ~4 planks 1 
+setblock ~31 ~4 ~5 dirt 0  
+fill ~31 ~4 ~7 ~31 ~5 ~7 dirt 1  
+fill ~31 ~4 ~8 ~31 ~4 ~6 dirt 1  
+fill ~31 ~4 ~9 ~31 ~4 ~10 planks 1 
+setblock ~31 ~4 ~12 dirt 1 
+setblock ~31 ~4 ~13 dirt 0  
+fill ~31 ~4 ~15 ~31 ~5 ~15 dirt 1  
+fill ~31 ~4 ~16 ~31 ~5 ~16 stone 1  
+fill ~31 ~4 ~18 ~31 ~5 ~18 dirt 0  
+fill ~31 ~4 ~19 ~33 ~4 ~19 planks 1  
+fill ~31 ~4 ~20 ~32 ~4 ~20 planks 1 
+setblock ~31 ~4 ~21 stone 1 
+setblock ~31 ~4 ~22 dirt 0 
+setblock ~31 ~4 ~24 dirt 1  
+fill ~32 ~4 ~6 ~32 ~7 ~6 planks 1 
+setblock ~32 ~4 ~8 stone 1 
+setblock ~32 ~4 ~14 dirt 0 
+setblock ~32 ~4 ~15 stone 1 
+setblock ~32 ~4 ~16 dirt 1  
+fill ~32 ~4 ~17 ~32 ~4 ~18 stone 1 
+setblock ~32 ~4 ~21 planks 1 
+setblock ~32 ~4 ~23 dirt 0 
+setblock ~33 ~4 ~15 dirt 1 
+setblock ~33 ~4 ~16 dirt 0 
+setblock ~33 ~4 ~20 stone 1 
+setblock ~33 ~4 ~22 dirt 1 
+setblock ~34 ~4 ~17 planks 1 
+setblock ~34 ~4 ~18 dirt 1  
+fill ~7 ~5 ~14 ~8 ~5 ~14 stained_glass_pane 9  
+fill ~7 ~5 ~16 ~8 ~5 ~16 stained_glass_pane 11 
+setblock ~7 ~5 ~17 stained_glass_pane 9  
+fill ~8 ~5 ~15 ~8 ~6 ~15 pink_glazed_terracotta 0 
+setblock ~8 ~5 ~17 pink_glazed_terracotta 3  
+fill ~9 ~5 ~15 ~11 ~5 ~15 stone_slab 0  
+fill ~9 ~5 ~16 ~9 ~5 ~15 stone_slab 0  
+fill ~9 ~5 ~18 ~9 ~5 ~19 stained_hardened_clay 8  
+fill ~10 ~5 ~14 ~11 ~5 ~14 stone_slab 0  
+fill ~10 ~5 ~16 ~11 ~5 ~16 double_stone_slab 0  
+fill ~10 ~5 ~17 ~13 ~5 ~17 dirt 0  
+fill ~10 ~5 ~18 ~16 ~5 ~18 dirt 0 
+setblock ~10 ~5 ~19 concrete_powder 13  
+fill ~11 ~5 ~8 ~12 ~5 ~8 dirt 1 
+setblock ~11 ~5 ~10 dirt 1 
+setblock ~11 ~5 ~19 grass 0 
+setblock ~11 ~5 ~20 concrete_powder 13  
+fill ~12 ~5 ~7 ~13 ~5 ~7 dirt 1  
+fill ~12 ~5 ~10 ~12 ~6 ~10 stone 1 
+setblock ~12 ~5 ~11 planks 1 
+setblock ~12 ~5 ~12 stone 1  
+fill ~12 ~5 ~14 ~12 ~5 ~15 stained_hardened_clay 8 
+setblock ~12 ~5 ~16 dirt 0  
+fill ~12 ~5 ~19 ~19 ~5 ~19 dirt 0  
+fill ~12 ~5 ~20 ~19 ~5 ~20 dirt 0  
+fill ~12 ~5 ~21 ~19 ~5 ~21 dirt 0  
+fill ~12 ~5 ~22 ~12 ~5 ~24 dirt 1 
+setblock ~13 ~5 ~6 planks 1 
+setblock ~13 ~5 ~8 planks 1  
+fill ~13 ~5 ~9 ~15 ~5 ~9 dirt 1 
+setblock ~13 ~5 ~10 dirt 0  
+fill ~13 ~5 ~11 ~13 ~5 ~12 dirt 1  
+fill ~13 ~5 ~13 ~14 ~5 ~13 stone 1  
+fill ~13 ~5 ~14 ~13 ~5 ~15 dirt 1 
+setblock ~13 ~5 ~16 stone 1  
+fill ~13 ~5 ~22 ~19 ~5 ~22 dirt 0  
+fill ~13 ~5 ~23 ~14 ~5 ~23 dirt 0  
+fill ~13 ~5 ~24 ~16 ~5 ~24 dirt 1 
+setblock ~14 ~5 ~5 stone 1 
+setblock ~14 ~5 ~6 dirt 0 
+setblock ~14 ~5 ~7 planks 1  
+fill ~14 ~5 ~8 ~14 ~6 ~8 stone 1  
+fill ~14 ~5 ~12 ~15 ~5 ~12 dirt 0  
+fill ~14 ~5 ~14 ~15 ~5 ~14 planks 1 
+setblock ~14 ~5 ~15 dirt 1  
+fill ~14 ~5 ~16 ~15 ~5 ~16 planks 1 
+setblock ~14 ~5 ~17 dirt 1 
+setblock ~15 ~5 ~6 stone 1 
+setblock ~15 ~5 ~7 dirt 0 
+setblock ~15 ~5 ~8 planks 1  
+fill ~15 ~5 ~11 ~20 ~5 ~11 dirt 0  
+fill ~15 ~5 ~13 ~15 ~6 ~13 dirt 1 
+setblock ~15 ~5 ~17 stone 1 
+setblock ~15 ~5 ~23 dirt 1 
+setblock ~15 ~5 ~25 planks 1 
+setblock ~16 ~5 ~5 planks 1 
+setblock ~16 ~5 ~6 dirt 0  
+fill ~16 ~5 ~7 ~16 ~6 ~7 dirt 1 
+setblock ~16 ~5 ~8 dirt 0 
+setblock ~16 ~5 ~9 planks 1  
+fill ~16 ~5 ~10 ~20 ~5 ~10 dirt 0 
+setblock ~16 ~5 ~13 planks 1 
+setblock ~16 ~5 ~14 stone 1  
+fill ~16 ~5 ~16 ~20 ~5 ~16 dirt 0 
+setblock ~16 ~5 ~17 planks 1  
+fill ~16 ~5 ~23 ~20 ~5 ~23 dirt 0  
+fill ~16 ~5 ~25 ~17 ~5 ~25 stained_hardened_clay 8 
+setblock ~17 ~5 ~4 planks 1  
+fill ~17 ~5 ~6 ~17 ~7 ~6 planks 1  
+fill ~17 ~5 ~7 ~17 ~7 ~7 dirt 0 
+setblock ~17 ~5 ~8 planks 1 
+setblock ~17 ~5 ~9 dirt 0  
+fill ~17 ~5 ~12 ~20 ~5 ~12 dirt 0  
+fill ~17 ~5 ~13 ~18 ~5 ~13 stone 0  
+fill ~17 ~5 ~14 ~17 ~7 ~14 dirt 0 
+setblock ~17 ~5 ~15 stone 1 
+setblock ~17 ~5 ~17 dirt 0  
+fill ~17 ~5 ~18 ~18 ~5 ~18 planks 1  
+fill ~17 ~5 ~24 ~19 ~5 ~24 sand 0 
+setblock ~18 ~5 ~3 dirt 0 
+setblock ~18 ~5 ~4 stone 1  
+fill ~18 ~5 ~7 ~18 ~5 ~8 dirt 1  
+fill ~18 ~5 ~9 ~19 ~5 ~9 stone 0 
+setblock ~18 ~5 ~14 stone 0  
+fill ~18 ~5 ~15 ~20 ~5 ~15 dirt 0  
+fill ~18 ~5 ~17 ~19 ~5 ~17 planks 1 
+setblock ~18 ~5 ~25 planks 1  
+fill ~19 ~5 ~3 ~20 ~5 ~3 stone 1  
+fill ~19 ~5 ~4 ~19 ~6 ~4 dirt 0  
+fill ~19 ~5 ~5 ~19 ~5 ~4 dirt 0 
+setblock ~19 ~5 ~7 stone 1  
+fill ~19 ~5 ~8 ~20 ~5 ~8 stone 0  
+fill ~19 ~5 ~13 ~20 ~5 ~13 dirt 0  
+fill ~19 ~5 ~14 ~20 ~5 ~14 dirt 0 
+setblock ~19 ~5 ~18 dirt 1  
+fill ~19 ~5 ~25 ~19 ~8 ~25 dirt 1  
+fill ~20 ~5 ~4 ~20 ~6 ~4 dirt 1  
+fill ~20 ~5 ~5 ~20 ~5 ~4 dirt 1 
+setblock ~20 ~5 ~6 stone 1 
+setblock ~20 ~5 ~17 stone 1 
+setblock ~20 ~5 ~18 dirt 0 
+setblock ~20 ~5 ~20 dirt 1 
+setblock ~20 ~5 ~22 planks 1  
+fill ~20 ~5 ~24 ~21 ~5 ~24 dirt 1  
+fill ~20 ~5 ~26 ~21 ~5 ~26 stone 1  
+fill ~20 ~5 ~27 ~20 ~6 ~27 dirt 1  
+fill ~21 ~5 ~3 ~21 ~6 ~3 planks 1  
+fill ~21 ~5 ~4 ~21 ~5 ~7 planks 1  
+fill ~21 ~5 ~8 ~27 ~5 ~8 sand 0  
+fill ~21 ~5 ~9 ~27 ~5 ~9 sand 0  
+fill ~21 ~5 ~10 ~28 ~5 ~10 sand 0  
+fill ~21 ~5 ~11 ~28 ~5 ~11 sand 0  
+fill ~21 ~5 ~12 ~29 ~5 ~12 sand 0  
+fill ~21 ~5 ~13 ~28 ~5 ~13 sand 0  
+fill ~21 ~5 ~14 ~28 ~5 ~14 sand 0  
+fill ~21 ~5 ~15 ~28 ~5 ~15 sand 0  
+fill ~21 ~5 ~16 ~28 ~5 ~16 sand 0 
+setblock ~21 ~5 ~17 stone 0 
+setblock ~21 ~5 ~19 planks 1  
+fill ~21 ~5 ~20 ~22 ~5 ~20 stone 1  
+fill ~21 ~5 ~21 ~23 ~5 ~21 dirt 0  
+fill ~22 ~5 ~3 ~22 ~4 ~3 dirt 0 
+setblock ~22 ~5 ~5 stone 1 
+setblock ~22 ~5 ~7 stone 1  
+fill ~22 ~5 ~17 ~28 ~5 ~17 sand 0  
+fill ~22 ~5 ~22 ~23 ~5 ~22 dirt 1 
+setblock ~22 ~5 ~24 planks 1 
+setblock ~22 ~5 ~25 dirt 0  
+fill ~22 ~5 ~26 ~23 ~5 ~26 planks 1  
+fill ~22 ~5 ~27 ~23 ~5 ~27 dirt 1  
+fill ~22 ~5 ~28 ~24 ~5 ~28 stone 1  
+fill ~23 ~5 ~3 ~24 ~5 ~3 stone 1 
+setblock ~23 ~5 ~5 dirt 0  
+fill ~23 ~5 ~6 ~23 ~6 ~6 stone 1 
+setblock ~23 ~5 ~7 dirt 1  
+fill ~23 ~5 ~18 ~28 ~5 ~18 sand 0 
+setblock ~23 ~5 ~23 dirt 1  
+fill ~23 ~5 ~24 ~23 ~6 ~24 stone 1 
+setblock ~23 ~5 ~25 dirt 1 
+setblock ~23 ~5 ~29 dirt 1  
+fill ~24 ~5 ~4 ~24 ~6 ~4 dirt 1  
+fill ~24 ~5 ~5 ~24 ~7 ~5 dirt 1 
+setblock ~24 ~5 ~6 dirt 0  
+fill ~24 ~5 ~7 ~25 ~5 ~7 stone 0  
+fill ~24 ~5 ~19 ~28 ~5 ~19 sand 0  
+fill ~24 ~5 ~20 ~27 ~5 ~20 sand 0  
+fill ~24 ~5 ~21 ~26 ~5 ~21 sand 0  
+fill ~24 ~5 ~22 ~25 ~5 ~22 sand 0  
+fill ~24 ~5 ~25 ~24 ~6 ~25 planks 1  
+fill ~24 ~5 ~26 ~25 ~5 ~26 stone 1  
+fill ~24 ~5 ~27 ~24 ~6 ~27 planks 1 
+setblock ~24 ~5 ~29 planks 1  
+fill ~25 ~5 ~2 ~26 ~5 ~2 dirt 0 
+setblock ~25 ~5 ~3 dirt 1  
+fill ~25 ~5 ~4 ~25 ~5 ~5 planks 1 
+setblock ~25 ~5 ~23 dirt 1 
+setblock ~25 ~5 ~24 planks 1 
+setblock ~25 ~5 ~25 dirt 0  
+fill ~25 ~5 ~27 ~25 ~5 ~28 dirt 1 
+setblock ~26 ~5 ~3 planks 1  
+fill ~26 ~5 ~4 ~26 ~6 ~4 stone 1  
+fill ~26 ~5 ~5 ~26 ~6 ~5 planks 1 
+setblock ~26 ~5 ~6 dirt 0  
+fill ~26 ~5 ~7 ~27 ~5 ~7 sand 0 
+setblock ~26 ~5 ~22 planks 1 
+setblock ~26 ~5 ~23 dirt 0  
+fill ~26 ~5 ~24 ~28 ~5 ~24 dirt 1  
+fill ~26 ~5 ~25 ~26 ~6 ~25 planks 1 
+setblock ~26 ~5 ~26 dirt 0 
+setblock ~26 ~5 ~27 planks 1  
+fill ~26 ~5 ~28 ~26 ~5 ~29 stone 1 
+setblock ~27 ~5 ~2 dirt 1 
+setblock ~27 ~5 ~3 stone 1  
+fill ~27 ~5 ~4 ~29 ~5 ~4 dirt 1  
+fill ~27 ~5 ~5 ~27 ~5 ~4 dirt 1  
+fill ~27 ~5 ~6 ~27 ~6 ~6 planks 1  
+fill ~27 ~5 ~21 ~28 ~5 ~21 stone 0  
+fill ~27 ~5 ~22 ~28 ~5 ~22 dirt 0 
+setblock ~27 ~5 ~23 dirt 1  
+fill ~27 ~5 ~25 ~27 ~6 ~25 dirt 1  
+fill ~27 ~5 ~26 ~28 ~5 ~26 planks 1 
+setblock ~27 ~5 ~27 dirt 1  
+fill ~28 ~5 ~5 ~29 ~5 ~5 planks 1 
+setblock ~28 ~5 ~6 dirt 0 
+setblock ~28 ~5 ~7 dirt 1  
+fill ~28 ~5 ~8 ~29 ~5 ~8 planks 1 
+setblock ~28 ~5 ~9 dirt 0 
+setblock ~28 ~5 ~20 stone 0 
+setblock ~28 ~5 ~25 planks 1 
+setblock ~29 ~5 ~3 stone 1  
+fill ~29 ~5 ~6 ~30 ~5 ~6 stone 1  
+fill ~29 ~5 ~7 ~29 ~5 ~6 stone 1 
+setblock ~29 ~5 ~9 stone 1 
+setblock ~29 ~5 ~10 dirt 0  
+fill ~29 ~5 ~13 ~29 ~6 ~13 planks 1  
+fill ~29 ~5 ~14 ~29 ~5 ~13 planks 1 
+setblock ~29 ~5 ~15 stone 1  
+fill ~29 ~5 ~16 ~30 ~5 ~16 dirt 1  
+fill ~29 ~5 ~17 ~29 ~6 ~17 dirt 1 
+setblock ~29 ~5 ~18 planks 1 
+setblock ~29 ~5 ~19 stone 1  
+fill ~29 ~5 ~20 ~30 ~5 ~20 dirt 0 
+setblock ~29 ~5 ~21 planks 1 
+setblock ~29 ~5 ~22 stone 1  
+fill ~29 ~5 ~23 ~29 ~6 ~23 planks 1 
+setblock ~29 ~5 ~24 stone 1 
+setblock ~29 ~5 ~25 dirt 1 
+setblock ~30 ~5 ~4 planks 1 
+setblock ~30 ~5 ~5 dirt 1 
+setblock ~30 ~5 ~7 dirt 1 
+setblock ~30 ~5 ~10 stone 1  
+fill ~30 ~5 ~11 ~30 ~6 ~11 dirt 0  
+fill ~30 ~5 ~12 ~30 ~5 ~13 dirt 0  
+fill ~30 ~5 ~14 ~30 ~6 ~14 dirt 1  
+fill ~30 ~5 ~15 ~30 ~5 ~14 dirt 1 
+setblock ~30 ~5 ~17 planks 1 
+setblock ~30 ~5 ~18 dirt 0 
+setblock ~30 ~5 ~19 planks 1  
+fill ~30 ~5 ~21 ~31 ~5 ~21 dirt 0  
+fill ~30 ~5 ~22 ~31 ~5 ~22 planks 1 
+setblock ~30 ~5 ~23 stone 1  
+fill ~30 ~5 ~24 ~31 ~5 ~24 dirt 0 
+setblock ~31 ~5 ~4 stone 1  
+fill ~31 ~5 ~5 ~32 ~5 ~5 planks 1  
+fill ~31 ~5 ~8 ~31 ~5 ~9 stone 1  
+fill ~31 ~5 ~10 ~31 ~6 ~10 dirt 0  
+fill ~31 ~5 ~12 ~31 ~6 ~12 stone 1  
+fill ~31 ~5 ~13 ~31 ~5 ~12 stone 1 
+setblock ~31 ~5 ~14 dirt 0  
+fill ~31 ~5 ~17 ~32 ~5 ~17 dirt 1  
+fill ~31 ~5 ~19 ~32 ~5 ~19 stone 1 
+setblock ~31 ~5 ~20 dirt 1 
+setblock ~32 ~5 ~7 dirt 1 
+setblock ~32 ~5 ~8 dirt 0  
+fill ~32 ~5 ~14 ~32 ~5 ~15 dirt 1 
+setblock ~32 ~5 ~16 dirt 0  
+fill ~32 ~5 ~18 ~33 ~5 ~18 dirt 0 
+setblock ~32 ~5 ~20 dirt 0 
+setblock ~32 ~5 ~21 dirt 1 
+setblock ~32 ~5 ~22 dirt 0 
+setblock ~32 ~5 ~23 stone 1 
+setblock ~33 ~5 ~15 dirt 0  
+fill ~33 ~5 ~16 ~33 ~5 ~17 stone 1 
+setblock ~33 ~5 ~19 dirt 1  
+fill ~33 ~5 ~20 ~33 ~5 ~22 planks 1 
+setblock ~34 ~5 ~17 dirt 0 
+setblock ~7 ~6 ~16 pink_glazed_terracotta 3 
+setblock ~7 ~6 ~17 pink_glazed_terracotta 0 
+setblock ~8 ~6 ~14 pink_glazed_terracotta 0 
+setblock ~8 ~6 ~16 stained_glass_pane 9  
+fill ~9 ~6 ~19 ~10 ~6 ~19 stained_hardened_clay 8 
+setblock ~10 ~6 ~17 stone_slab 0  
+fill ~10 ~6 ~18 ~11 ~6 ~18 stained_hardened_clay 8  
+fill ~11 ~6 ~16 ~12 ~6 ~16 stone_slab 0  
+fill ~11 ~6 ~17 ~13 ~6 ~17 stained_hardened_clay 8  
+fill ~11 ~6 ~19 ~12 ~6 ~19 dirt 1  
+fill ~11 ~6 ~20 ~11 ~7 ~20 stained_hardened_clay 8 
+setblock ~11 ~6 ~23 planks 1  
+fill ~12 ~6 ~8 ~12 ~7 ~8 dirt 0  
+fill ~12 ~6 ~9 ~12 ~7 ~9 stone 1  
+fill ~12 ~6 ~11 ~12 ~8 ~11 dirt 0  
+fill ~12 ~6 ~12 ~12 ~6 ~11 dirt 0 
+setblock ~12 ~6 ~13 grass 0 
+setblock ~12 ~6 ~18 dirt 1  
+fill ~12 ~6 ~20 ~18 ~6 ~20 dirt 0  
+fill ~12 ~6 ~21 ~18 ~6 ~21 dirt 0 
+setblock ~12 ~6 ~22 concrete_powder 13 
+setblock ~12 ~6 ~23 grass 0 
+setblock ~12 ~6 ~24 concrete_powder 13  
+fill ~13 ~6 ~7 ~13 ~7 ~7 dirt 0  
+fill ~13 ~6 ~8 ~13 ~7 ~8 stone 1  
+fill ~13 ~6 ~9 ~13 ~7 ~9 planks 1 
+setblock ~13 ~6 ~10 dirt 1  
+fill ~13 ~6 ~11 ~13 ~6 ~12 stone 1 
+setblock ~13 ~6 ~13 dirt 0  
+fill ~13 ~6 ~14 ~13 ~7 ~14 stone 0  
+fill ~13 ~6 ~15 ~13 ~8 ~15 stone 0 
+setblock ~13 ~6 ~16 dirt 0 
+setblock ~13 ~6 ~18 stone 1 
+setblock ~13 ~6 ~19 dirt 0  
+fill ~13 ~6 ~22 ~18 ~6 ~22 dirt 0 
+setblock ~13 ~6 ~23 planks 1  
+fill ~13 ~6 ~24 ~13 ~5 ~24 dirt 1  
+fill ~14 ~6 ~5 ~14 ~8 ~5 planks 1  
+fill ~14 ~6 ~6 ~14 ~7 ~6 stone 1  
+fill ~14 ~6 ~7 ~14 ~10 ~7 stone 1  
+fill ~14 ~6 ~9 ~14 ~6 ~10 stone 1 
+setblock ~14 ~6 ~11 planks 1  
+fill ~14 ~6 ~12 ~14 ~6 ~13 stone 1  
+fill ~14 ~6 ~14 ~15 ~6 ~14 dirt 1  
+fill ~14 ~6 ~15 ~15 ~6 ~15 dirt 0  
+fill ~14 ~6 ~16 ~15 ~6 ~16 stone 1  
+fill ~14 ~6 ~17 ~14 ~6 ~16 stone 1 
+setblock ~14 ~6 ~18 dirt 0  
+fill ~14 ~6 ~23 ~15 ~6 ~23 stained_hardened_clay 8  
+fill ~15 ~6 ~5 ~16 ~6 ~5 dirt 0  
+fill ~15 ~6 ~6 ~16 ~6 ~6 dirt 1 
+setblock ~15 ~6 ~7 planks 1 
+setblock ~15 ~6 ~8 dirt 1 
+setblock ~15 ~6 ~9 dirt 0  
+fill ~15 ~6 ~10 ~15 ~7 ~10 planks 1 
+setblock ~15 ~6 ~11 dirt 1 
+setblock ~15 ~6 ~12 planks 1  
+fill ~15 ~6 ~17 ~16 ~6 ~17 dirt 1  
+fill ~15 ~6 ~19 ~17 ~6 ~19 dirt 0  
+fill ~15 ~6 ~24 ~15 ~8 ~24 stained_hardened_clay 8  
+fill ~16 ~6 ~8 ~17 ~6 ~8 stone 1  
+fill ~16 ~6 ~9 ~17 ~6 ~9 dirt 1  
+fill ~16 ~6 ~10 ~20 ~6 ~10 dirt 0  
+fill ~16 ~6 ~11 ~20 ~6 ~11 dirt 0 
+setblock ~16 ~6 ~13 dirt 1 
+setblock ~16 ~6 ~14 planks 1 
+setblock ~16 ~6 ~15 dirt 1 
+setblock ~16 ~6 ~16 planks 1 
+setblock ~16 ~6 ~18 stone 1  
+fill ~16 ~6 ~23 ~18 ~6 ~23 dirt 0 
+setblock ~16 ~6 ~24 planks 1  
+fill ~16 ~6 ~25 ~17 ~6 ~25 stained_hardened_clay 8 
+setblock ~17 ~6 ~5 stone 1  
+fill ~17 ~6 ~12 ~18 ~6 ~12 stone 0  
+fill ~17 ~6 ~13 ~19 ~6 ~13 stone 0  
+fill ~17 ~6 ~15 ~18 ~6 ~15 dirt 0  
+fill ~17 ~6 ~16 ~17 ~6 ~14 dirt 0  
+fill ~17 ~6 ~17 ~18 ~6 ~17 stone 1  
+fill ~17 ~6 ~18 ~17 ~7 ~18 dirt 1  
+fill ~17 ~6 ~24 ~18 ~6 ~24 sand 0 
+setblock ~18 ~6 ~4 planks 1  
+fill ~18 ~6 ~5 ~18 ~7 ~5 dirt 1  
+fill ~18 ~6 ~6 ~18 ~6 ~7 stone 1  
+fill ~18 ~6 ~8 ~18 ~7 ~8 planks 1  
+fill ~18 ~6 ~9 ~19 ~6 ~9 stone 0 
+setblock ~18 ~6 ~14 dirt 1 
+setblock ~18 ~6 ~16 dirt 1  
+fill ~18 ~6 ~18 ~19 ~6 ~18 planks 1  
+fill ~18 ~6 ~19 ~18 ~6 ~18 planks 1 
+setblock ~18 ~6 ~25 dirt 1  
+fill ~18 ~6 ~26 ~18 ~8 ~26 stone 1 
+setblock ~19 ~6 ~5 stone 1 
+setblock ~19 ~6 ~7 dirt 0  
+fill ~19 ~6 ~8 ~20 ~6 ~8 stone 0  
+fill ~19 ~6 ~12 ~20 ~6 ~12 dirt 0 
+setblock ~19 ~6 ~14 stone 0  
+fill ~19 ~6 ~15 ~19 ~6 ~18 planks 1 
+setblock ~19 ~6 ~19 stone 1 
+setblock ~19 ~6 ~20 dirt 1  
+fill ~19 ~6 ~24 ~19 ~7 ~24 dirt 1 
+setblock ~19 ~6 ~27 stone 1  
+fill ~20 ~6 ~3 ~20 ~7 ~3 planks 1 
+setblock ~20 ~6 ~5 planks 1  
+fill ~20 ~6 ~6 ~20 ~6 ~7 dirt 1  
+fill ~20 ~6 ~13 ~20 ~6 ~16 dirt 0 
+setblock ~20 ~6 ~17 dirt 1 
+setblock ~20 ~6 ~18 stone 1  
+fill ~20 ~6 ~24 ~23 ~6 ~24 stone 1 
+setblock ~20 ~6 ~25 dirt 1 
+setblock ~20 ~6 ~26 dirt 0 
+setblock ~21 ~6 ~4 dirt 1  
+fill ~21 ~6 ~5 ~21 ~7 ~5 dirt 0 
+setblock ~21 ~6 ~7 stone 1  
+fill ~21 ~6 ~8 ~27 ~6 ~8 sand 0  
+fill ~21 ~6 ~9 ~27 ~6 ~9 sand 0  
+fill ~21 ~6 ~10 ~28 ~6 ~10 sand 0  
+fill ~21 ~6 ~11 ~29 ~6 ~11 sand 0  
+fill ~21 ~6 ~12 ~29 ~6 ~12 sand 0  
+fill ~21 ~6 ~13 ~28 ~6 ~13 sand 0  
+fill ~21 ~6 ~14 ~28 ~6 ~14 sand 0  
+fill ~21 ~6 ~15 ~28 ~6 ~15 sand 0  
+fill ~21 ~6 ~16 ~28 ~6 ~16 sand 0  
+fill ~21 ~6 ~17 ~21 ~6 ~18 dirt 0 
+setblock ~21 ~6 ~19 dirt 1  
+fill ~21 ~6 ~21 ~22 ~6 ~21 dirt 1  
+fill ~21 ~6 ~22 ~21 ~6 ~21 dirt 1  
+fill ~21 ~6 ~25 ~22 ~6 ~25 stone 1  
+fill ~21 ~6 ~26 ~23 ~6 ~26 planks 1 
+setblock ~21 ~6 ~27 dirt 0 
+setblock ~22 ~6 ~3 planks 1  
+fill ~22 ~6 ~5 ~23 ~6 ~5 planks 1 
+setblock ~22 ~6 ~7 planks 1  
+fill ~22 ~6 ~17 ~28 ~6 ~17 sand 0 
+setblock ~22 ~6 ~20 stone 1 
+setblock ~22 ~6 ~22 planks 1 
+setblock ~22 ~6 ~23 stone 1  
+fill ~22 ~6 ~27 ~23 ~6 ~27 dirt 1  
+fill ~22 ~6 ~28 ~22 ~6 ~27 dirt 1  
+fill ~23 ~6 ~3 ~23 ~5 ~3 stone 1 
+setblock ~23 ~6 ~7 dirt 0  
+fill ~23 ~6 ~18 ~28 ~6 ~18 sand 0  
+fill ~23 ~6 ~21 ~23 ~7 ~21 stone 1  
+fill ~23 ~6 ~22 ~23 ~6 ~21 stone 1  
+fill ~23 ~6 ~23 ~23 ~7 ~23 planks 1 
+setblock ~23 ~6 ~25 dirt 0  
+fill ~23 ~6 ~28 ~23 ~7 ~28 planks 1 
+setblock ~23 ~6 ~29 dirt 0 
+setblock ~24 ~6 ~2 dirt 0 
+setblock ~24 ~6 ~3 planks 1  
+fill ~24 ~6 ~6 ~24 ~8 ~6 stone 1  
+fill ~24 ~6 ~7 ~25 ~6 ~7 stone 0  
+fill ~24 ~6 ~19 ~28 ~6 ~19 sand 0  
+fill ~24 ~6 ~20 ~27 ~6 ~20 sand 0  
+fill ~24 ~6 ~21 ~26 ~6 ~21 sand 0  
+fill ~24 ~6 ~22 ~25 ~6 ~22 sand 0 
+setblock ~24 ~6 ~26 dirt 1  
+fill ~24 ~6 ~28 ~24 ~8 ~28 dirt 0 
+setblock ~24 ~6 ~29 stone 1 
+setblock ~25 ~6 ~2 planks 1  
+fill ~25 ~6 ~3 ~25 ~7 ~3 stone 1  
+fill ~25 ~6 ~4 ~25 ~6 ~6 dirt 0  
+fill ~25 ~6 ~23 ~25 ~9 ~23 stone 0  
+fill ~25 ~6 ~24 ~27 ~6 ~24 dirt 0  
+fill ~25 ~6 ~25 ~25 ~7 ~25 planks 1  
+fill ~25 ~6 ~26 ~25 ~6 ~27 dirt 0 
+setblock ~25 ~6 ~28 stone 1  
+fill ~26 ~6 ~3 ~28 ~6 ~3 dirt 1 
+setblock ~26 ~6 ~6 dirt 1  
+fill ~26 ~6 ~7 ~27 ~6 ~7 sand 0  
+fill ~26 ~6 ~22 ~27 ~6 ~22 stone 0 
+setblock ~26 ~6 ~23 stone 1  
+fill ~26 ~6 ~26 ~26 ~8 ~26 dirt 1
+fill ~26 ~6 ~27 ~27 ~6 ~27 dirt 0  
+fill ~26 ~6 ~28 ~26 ~6 ~29 planks 1 
+setblock ~27 ~6 ~4 dirt 1 
+setblock ~27 ~6 ~5 dirt 0  
+fill ~27 ~6 ~21 ~27 ~15 ~21 stone 0 
+setblock ~27 ~6 ~23 dirt 0  
+fill ~27 ~6 ~26 ~27 ~7 ~26 dirt 0 
+setblock ~27 ~6 ~28 stone 1  
+fill ~28 ~6 ~4 ~28 ~8 ~4 dirt 0 
+setblock ~28 ~6 ~5 stone 1  
+fill ~28 ~6 ~6 ~29 ~6 ~6 dirt 1 
+setblock ~28 ~6 ~7 planks 1  
+fill ~28 ~6 ~8 ~28 ~6 ~9 dirt 1  
+fill ~28 ~6 ~20 ~29 ~6 ~20 dirt 1  
+fill ~28 ~6 ~21 ~28 ~6 ~20 dirt 1 
+setblock ~28 ~6 ~22 stone 1  
+fill ~28 ~6 ~24 ~29 ~6 ~24 dirt 1  
+fill ~28 ~6 ~25 ~29 ~6 ~25 dirt 0  
+fill ~28 ~6 ~26 ~28 ~7 ~26 dirt 1  
+fill ~29 ~6 ~3 ~30 ~6 ~3 dirt 0  
+fill ~29 ~6 ~4 ~29 ~9 ~4 stone 1  
+fill ~29 ~6 ~7 ~29 ~7 ~7 dirt 1 
+setblock ~29 ~6 ~8 dirt 0  
+fill ~29 ~6 ~9 ~31 ~6 ~9 planks 1 
+setblock ~29 ~6 ~10 stone 1 
+setblock ~29 ~6 ~14 dirt 0 
+setblock ~29 ~6 ~15 planks 1  
+fill ~29 ~6 ~16 ~29 ~5 ~16 dirt 1 
+setblock ~29 ~6 ~18 dirt 0  
+fill ~29 ~6 ~19 ~29 ~7 ~19 planks 1  
+fill ~29 ~6 ~21 ~29 ~7 ~21 dirt 0 
+setblock ~29 ~6 ~22 dirt 1 
+setblock ~30 ~6 ~4 dirt 1 
+setblock ~30 ~6 ~5 stone 1  
+fill ~30 ~6 ~7 ~30 ~6 ~8 stone 1 
+setblock ~30 ~6 ~10 dirt 1 
+setblock ~30 ~6 ~12 stone 1 
+setblock ~30 ~6 ~13 dirt 1 
+setblock ~30 ~6 ~15 stone 1 
+setblock ~30 ~6 ~16 planks 1 
+setblock ~30 ~6 ~17 dirt 0  
+fill ~30 ~6 ~18 ~33 ~6 ~18 planks 1  
+fill ~30 ~6 ~19 ~30 ~8 ~19 dirt 1 
+setblock ~30 ~6 ~20 dirt 0  
+fill ~30 ~6 ~21 ~30 ~7 ~21 stone 1  
+fill ~30 ~6 ~22 ~30 ~6 ~21 stone 1 
+setblock ~30 ~6 ~23 dirt 1 
+setblock ~30 ~6 ~24 stone 1 
+setblock ~30 ~6 ~25 planks 1 
+setblock ~31 ~6 ~4 dirt 0 
+setblock ~31 ~6 ~5 dirt 1 
+setblock ~31 ~6 ~7 planks 1 
+setblock ~31 ~6 ~13 planks 1 
+setblock ~31 ~6 ~14 stone 1 
+setblock ~31 ~6 ~15 planks 1 
+setblock ~31 ~6 ~16 dirt 0 
+setblock ~31 ~6 ~17 planks 1 
+setblock ~31 ~6 ~19 planks 1 
+setblock ~31 ~6 ~20 stone 1 
+setblock ~31 ~6 ~21 dirt 1 
+setblock ~31 ~6 ~22 planks 1 
+setblock ~31 ~6 ~24 dirt 0  
+fill ~32 ~6 ~5 ~32 ~7 ~5 planks 1 
+setblock ~32 ~6 ~7 dirt 0 
+setblock ~32 ~6 ~8 planks 1 
+setblock ~32 ~6 ~9 stone 1  
+fill ~32 ~6 ~15 ~32 ~7 ~15 stone 1  
+fill ~32 ~6 ~16 ~32 ~6 ~15 stone 1  
+fill ~32 ~6 ~17 ~32 ~8 ~17 dirt 1 
+setblock ~32 ~6 ~19 dirt 1 
+setblock ~32 ~6 ~20 planks 1  
+fill ~32 ~6 ~21 ~32 ~7 ~21 dirt 0 
+setblock ~32 ~6 ~22 dirt 1  
+fill ~33 ~6 ~16 ~33 ~6 ~18 planks 1 
+setblock ~33 ~6 ~19 stone 1  
+fill ~33 ~6 ~20 ~33 ~7 ~20 dirt 1  
+fill ~33 ~6 ~21 ~33 ~6 ~22 planks 1 
+setblock ~8 ~7 ~15 stained_glass_pane 11 
+setblock ~8 ~7 ~16 pink_glazed_terracotta 0  
+fill ~9 ~7 ~14 ~9 ~8 ~14 stained_glass_pane 11 
+setblock ~9 ~7 ~15 pink_glazed_terracotta 0 
+setblock ~11 ~7 ~19 stone_slab 0 
+setblock ~12 ~7 ~10 planks 1 
+setblock ~12 ~7 ~12 planks 1  
+fill ~12 ~7 ~18 ~13 ~7 ~18 stone_slab 0  
+fill ~12 ~7 ~19 ~13 ~7 ~19 stained_hardened_clay 8  
+fill ~12 ~7 ~20 ~13 ~7 ~20 stained_hardened_clay 5  
+fill ~12 ~7 ~21 ~13 ~7 ~21 concrete_powder 13 
+setblock ~12 ~7 ~22 stained_hardened_clay 8 
+setblock ~12 ~7 ~23 concrete_powder 13 
+setblock ~13 ~7 ~10 dirt 0  
+fill ~13 ~7 ~11 ~13 ~8 ~11 planks 1 
+setblock ~13 ~7 ~12 dirt 0 
+setblock ~13 ~7 ~13 planks 1 
+setblock ~13 ~7 ~16 planks 1 
+setblock ~13 ~7 ~22 concrete_powder 13  
+fill ~13 ~7 ~23 ~14 ~7 ~23 stained_hardened_clay 8 
+setblock ~14 ~7 ~8 dirt 0 
+setblock ~14 ~7 ~9 dirt 1 
+setblock ~14 ~7 ~10 stone 1 
+setblock ~14 ~7 ~11 dirt 1 
+setblock ~14 ~7 ~12 planks 1  
+fill ~14 ~7 ~13 ~16 ~7 ~13 dirt 0  
+fill ~14 ~7 ~14 ~15 ~7 ~14 planks 1  
+fill ~14 ~7 ~15 ~15 ~7 ~15 dirt 0 
+setblock ~14 ~7 ~16 stone 1  
+fill ~14 ~7 ~17 ~14 ~10 ~17 stained_hardened_clay 8  
+fill ~14 ~7 ~18 ~14 ~10 ~18 stained_hardened_clay 8  
+fill ~14 ~7 ~19 ~14 ~8 ~19 dirt 1  
+fill ~14 ~7 ~20 ~14 ~7 ~22 dirt 0 
+setblock ~15 ~7 ~5 dirt 1  
+fill ~15 ~7 ~6 ~16 ~7 ~6 dirt 0  
+fill ~15 ~7 ~7 ~15 ~7 ~6 dirt 0 
+setblock ~15 ~7 ~8 stone 1  
+fill ~15 ~7 ~9 ~17 ~7 ~9 planks 1  
+fill ~15 ~7 ~11 ~15 ~8 ~11 planks 1 
+setblock ~15 ~7 ~12 dirt 0 
+setblock ~15 ~7 ~16 concrete_powder 13  
+fill ~15 ~7 ~17 ~16 ~7 ~17 planks 1  
+fill ~15 ~7 ~18 ~15 ~9 ~18 dirt 1  
+fill ~15 ~7 ~19 ~15 ~1 ~19 dirt 0  
+fill ~15 ~7 ~21 ~15 ~7 ~22 dirt 0 
+setblock ~15 ~7 ~23 dirt 1  
+fill ~16 ~7 ~5 ~17 ~7 ~5 planks 1 
+setblock ~16 ~7 ~7 stone 1  
+fill ~16 ~7 ~8 ~16 ~8 ~8 dirt 0  
+fill ~16 ~7 ~10 ~17 ~7 ~10 planks 1 
+setblock ~16 ~7 ~11 stone 1 
+setblock ~16 ~7 ~12 planks 1 
+setblock ~16 ~7 ~14 dirt 0 
+setblock ~16 ~7 ~15 planks 1  
+fill ~16 ~7 ~16 ~16 ~8 ~16 stone 1 
+setblock ~16 ~7 ~18 dirt 0 
+setblock ~16 ~7 ~19 concrete_powder 13 
+setblock ~16 ~7 ~20 dirt 0 
+setblock ~16 ~7 ~21 grass 0  
+fill ~16 ~7 ~22 ~18 ~7 ~22 dirt 0  
+fill ~16 ~7 ~23 ~18 ~7 ~23 dirt 0 
+setblock ~16 ~7 ~24 dirt 1  
+fill ~16 ~7 ~25 ~17 ~7 ~25 stained_hardened_clay 8  
+fill ~17 ~7 ~8 ~17 ~8 ~8 dirt 1  
+fill ~17 ~7 ~11 ~18 ~7 ~11 stone 0  
+fill ~17 ~7 ~12 ~19 ~7 ~12 stone 0  
+fill ~17 ~7 ~13 ~18 ~7 ~13 stone 1 
+setblock ~17 ~7 ~15 stone 1  
+fill ~17 ~7 ~16 ~17 ~8 ~16 planks 1  
+fill ~17 ~7 ~17 ~17 ~8 ~17 stone 1 
+setblock ~17 ~7 ~19 planks 1  
+fill ~17 ~7 ~21 ~18 ~7 ~21 dirt 0  
+fill ~17 ~7 ~24 ~18 ~7 ~24 sand 0  
+fill ~18 ~7 ~4 ~19 ~7 ~4 stone 1  
+fill ~18 ~7 ~6 ~18 ~8 ~6 dirt 1  
+fill ~18 ~7 ~7 ~18 ~7 ~5 dirt 1  
+fill ~18 ~7 ~9 ~18 ~7 ~10 dirt 0  
+fill ~18 ~7 ~14 ~18 ~7 ~15 planks 1  
+fill ~18 ~7 ~16 ~20 ~7 ~16 dirt 0  
+fill ~18 ~7 ~17 ~20 ~7 ~17 dirt 0 
+setblock ~18 ~7 ~18 dirt 1  
+fill ~18 ~7 ~19 ~18 ~9 ~19 dirt 0  
+fill ~18 ~7 ~20 ~18 ~9 ~20 dirt 0 
+setblock ~18 ~7 ~25 planks 1  
+fill ~19 ~7 ~5 ~20 ~7 ~5 dirt 1  
+fill ~19 ~7 ~6 ~20 ~7 ~6 planks 1  
+fill ~19 ~7 ~7 ~20 ~7 ~7 stone 1  
+fill ~19 ~7 ~8 ~19 ~8 ~8 dirt 0 
+setblock ~19 ~7 ~9 stone 0  
+fill ~19 ~7 ~10 ~20 ~7 ~10 dirt 0  
+fill ~19 ~7 ~11 ~20 ~7 ~11 dirt 0  
+fill ~19 ~7 ~13 ~20 ~7 ~13 stone 0 
+setblock ~19 ~7 ~14 dirt 1 
+setblock ~19 ~7 ~15 dirt 0 
+setblock ~19 ~7 ~18 planks 1 
+setblock ~19 ~7 ~19 dirt 1 
+setblock ~19 ~7 ~20 stone 1  
+fill ~19 ~7 ~26 ~19 ~8 ~26 stone 1  
+fill ~20 ~7 ~4 ~20 ~8 ~4 planks 1 
+setblock ~20 ~7 ~8 stone 0  
+fill ~20 ~7 ~12 ~20 ~10 ~12 dirt 0  
+fill ~20 ~7 ~14 ~20 ~16 ~14 stone 0  
+fill ~20 ~7 ~15 ~20 ~8 ~15 stone 1  
+fill ~20 ~7 ~18 ~21 ~7 ~18 dirt 1  
+fill ~20 ~7 ~19 ~20 ~7 ~20 dirt 0  
+fill ~20 ~7 ~24 ~21 ~7 ~24 dirt 1 
+setblock ~20 ~7 ~25 dirt 0 
+setblock ~20 ~7 ~26 dirt 1 
+setblock ~20 ~7 ~27 planks 1  
+fill ~21 ~7 ~3 ~21 ~8 ~3 stone 1 
+setblock ~21 ~7 ~4 dirt 0  
+fill ~21 ~7 ~6 ~21 ~8 ~6 dirt 0 
+setblock ~21 ~7 ~7 dirt 1  
+fill ~21 ~7 ~8 ~27 ~7 ~8 sand 0  
+fill ~21 ~7 ~9 ~27 ~7 ~9 sand 0  
+fill ~21 ~7 ~10 ~28 ~7 ~10 sand 0  
+fill ~21 ~7 ~11 ~29 ~7 ~11 sand 0  
+fill ~21 ~7 ~12 ~28 ~7 ~12 sand 0  
+fill ~21 ~7 ~13 ~28 ~7 ~13 sand 0  
+fill ~21 ~7 ~14 ~28 ~7 ~14 sand 0  
+fill ~21 ~7 ~15 ~28 ~7 ~15 sand 0  
+fill ~21 ~7 ~16 ~28 ~7 ~16 sand 0 
+setblock ~21 ~7 ~17 stone 1  
+fill ~21 ~7 ~19 ~21 ~8 ~19 stone 1  
+fill ~21 ~7 ~20 ~21 ~7 ~21 stone 1 
+setblock ~21 ~7 ~22 planks 1 
+setblock ~21 ~7 ~23 dirt 1  
+fill ~21 ~7 ~25 ~21 ~7 ~26 planks 1  
+fill ~21 ~7 ~27 ~22 ~7 ~27 stone 1 
+setblock ~21 ~7 ~28 planks 1 
+setblock ~22 ~7 ~3 dirt 1  
+fill ~22 ~7 ~4 ~22 ~7 ~6 stone 1 
+setblock ~22 ~7 ~7 dirt 0  
+fill ~22 ~7 ~17 ~28 ~7 ~17 sand 0  
+fill ~22 ~7 ~18 ~22 ~7 ~20 dirt 0  
+fill ~22 ~7 ~21 ~22 ~8 ~21 planks 1 
+setblock ~22 ~7 ~22 dirt 1 
+setblock ~22 ~7 ~23 planks 1  
+fill ~22 ~7 ~24 ~22 ~7 ~25 stone 1  
+fill ~22 ~7 ~26 ~22 ~8 ~26 planks 1  
+fill ~22 ~7 ~28 ~22 ~8 ~28 dirt 0  
+fill ~22 ~7 ~29 ~22 ~7 ~28 dirt 0  
+fill ~23 ~7 ~3 ~23 ~8 ~3 dirt 0 
+setblock ~23 ~7 ~4 planks 1 
+setblock ~23 ~7 ~5 dirt 0 
+setblock ~23 ~7 ~6 dirt 1 
+setblock ~23 ~7 ~7 stone 1  
+fill ~23 ~7 ~18 ~28 ~7 ~18 sand 0 
+setblock ~23 ~7 ~22 planks 1  
+fill ~23 ~7 ~24 ~23 ~7 ~25 planks 1  
+fill ~23 ~7 ~26 ~24 ~7 ~26 stone 1  
+fill ~23 ~7 ~27 ~23 ~8 ~27 planks 1 
+setblock ~23 ~7 ~29 planks 1  
+fill ~24 ~7 ~2 ~25 ~7 ~2 dirt 1  
+fill ~24 ~7 ~3 ~24 ~7 ~2 dirt 1 
+setblock ~24 ~7 ~4 dirt 0  
+fill ~24 ~7 ~7 ~27 ~7 ~7 sand 0  
+fill ~24 ~7 ~19 ~27 ~7 ~19 sand 0  
+fill ~24 ~7 ~20 ~26 ~7 ~20 sand 0  
+fill ~24 ~7 ~21 ~26 ~7 ~21 sand 0  
+fill ~24 ~7 ~22 ~25 ~7 ~22 sand 0  
+fill ~24 ~7 ~25 ~24 ~8 ~25 stone 1 
+setblock ~24 ~7 ~27 dirt 1 
+setblock ~24 ~7 ~29 dirt 0 
+setblock ~25 ~7 ~4 stone 1  
+fill ~25 ~7 ~5 ~26 ~7 ~5 dirt 1 
+setblock ~25 ~7 ~6 stone 1  
+fill ~25 ~7 ~24 ~25 ~8 ~24 dirt 1  
+fill ~25 ~7 ~26 ~25 ~7 ~27 planks 1  
+fill ~25 ~7 ~28 ~26 ~7 ~28 dirt 0  
+fill ~25 ~7 ~29 ~26 ~7 ~29 stone 1  
+fill ~26 ~7 ~3 ~27 ~7 ~3 dirt 1  
+fill ~26 ~7 ~4 ~28 ~7 ~4 dirt 0 
+setblock ~26 ~7 ~6 planks 1  
+fill ~26 ~7 ~22 ~27 ~7 ~22 stone 0  
+fill ~26 ~7 ~23 ~26 ~7 ~24 planks 1  
+fill ~26 ~7 ~25 ~26 ~8 ~25 stone 1  
+fill ~26 ~7 ~27 ~26 ~8 ~27 dirt 1  
+fill ~27 ~7 ~5 ~28 ~7 ~5 planks 1  
+fill ~27 ~7 ~6 ~28 ~7 ~6 dirt 0  
+fill ~27 ~7 ~20 ~27 ~15 ~20 stone 0  
+fill ~27 ~7 ~23 ~28 ~7 ~23 stone 1  
+fill ~27 ~7 ~24 ~29 ~7 ~24 stone 1 
+setblock ~27 ~7 ~25 dirt 0 
+setblock ~27 ~7 ~27 dirt 0  
+fill ~27 ~7 ~28 ~27 ~9 ~28 dirt 1  
+fill ~28 ~7 ~3 ~29 ~7 ~3 planks 1 
+setblock ~28 ~7 ~7 dirt 1 
+setblock ~28 ~7 ~8 stone 0 
+setblock ~28 ~7 ~9 stone 1 
+setblock ~28 ~7 ~19 dirt 0 
+setblock ~28 ~7 ~20 dirt 1 
+setblock ~28 ~7 ~21 stone 1 
+setblock ~28 ~7 ~22 planks 1  
+fill ~28 ~7 ~25 ~28 ~8 ~25 dirt 1 
+setblock ~29 ~7 ~6 planks 1 
+setblock ~29 ~7 ~8 stone 1  
+fill ~29 ~7 ~9 ~29 ~6 ~9 planks 1  
+fill ~29 ~7 ~10 ~29 ~8 ~10 planks 1 
+setblock ~29 ~7 ~12 dirt 0  
+fill ~29 ~7 ~13 ~29 ~7 ~14 stone 1  
+fill ~29 ~7 ~15 ~30 ~7 ~15 dirt 0 
+setblock ~29 ~7 ~16 planks 1  
+fill ~29 ~7 ~17 ~29 ~9 ~17 dirt 0 
+setblock ~29 ~7 ~18 planks 1  
+fill ~29 ~7 ~20 ~29 ~9 ~20 dirt 0  
+fill ~29 ~7 ~22 ~29 ~8 ~22 stone 1  
+fill ~29 ~7 ~23 ~29 ~9 ~23 dirt 0 
+setblock ~29 ~7 ~25 planks 1 
+setblock ~30 ~7 ~3 stone 1  
+fill ~30 ~7 ~4 ~30 ~8 ~4 planks 1  
+fill ~30 ~7 ~5 ~32 ~7 ~5 planks 1  
+fill ~30 ~7 ~7 ~31 ~7 ~7 dirt 0  
+fill ~30 ~7 ~8 ~30 ~7 ~9 dirt 1 
+setblock ~30 ~7 ~10 stone 1  
+fill ~30 ~7 ~11 ~30 ~8 ~11 planks 1  
+fill ~30 ~7 ~12 ~31 ~7 ~12 planks 1  
+fill ~30 ~7 ~13 ~30 ~7 ~11 planks 1 
+setblock ~30 ~7 ~14 stone 1  
+fill ~30 ~7 ~16 ~31 ~7 ~16 dirt 1 
+setblock ~30 ~7 ~17 planks 1 
+setblock ~30 ~7 ~18 dirt 0 
+setblock ~30 ~7 ~20 stone 1  
+fill ~30 ~7 ~22 ~30 ~8 ~22 planks 1 
+setblock ~30 ~7 ~23 stone 1 
+setblock ~30 ~7 ~24 dirt 1 
+setblock ~31 ~7 ~4 stone 1  
+fill ~31 ~7 ~8 ~31 ~7 ~10 planks 1  
+fill ~31 ~7 ~13 ~31 ~7 ~14 dirt 0 
+setblock ~31 ~7 ~15 stone 1  
+fill ~31 ~7 ~17 ~31 ~8 ~17 dirt 1  
+fill ~31 ~7 ~18 ~31 ~8 ~18 stone 1  
+fill ~31 ~7 ~19 ~31 ~7 ~18 stone 1  
+fill ~31 ~7 ~20 ~31 ~7 ~21 planks 1 
+setblock ~31 ~7 ~22 dirt 1  
+fill ~32 ~7 ~7 ~32 ~10 ~7 planks 1 
+setblock ~32 ~7 ~8 stone 1 
+setblock ~32 ~7 ~9 dirt 1  
+fill ~32 ~7 ~16 ~33 ~7 ~16 dirt 0  
+fill ~32 ~7 ~18 ~32 ~7 ~19 planks 1 
+setblock ~32 ~7 ~20 stone 1  
+fill ~32 ~7 ~22 ~32 ~8 ~22 dirt 0 
+setblock ~33 ~7 ~17 planks 1  
+fill ~33 ~7 ~18 ~33 ~7 ~19 dirt 0 
+setblock ~7 ~8 ~15 pink_glazed_terracotta 3 
+setblock ~8 ~8 ~14 pink_glazed_terracotta 3 
+setblock ~8 ~8 ~15 stained_glass_pane 3 
+setblock ~8 ~8 ~16 stained_glass_pane 9  
+fill ~8 ~8 ~18 ~8 ~10 ~18 stained_glass_pane 9 
+setblock ~9 ~8 ~15 stained_glass_pane 11  
+fill ~12 ~8 ~9 ~12 ~9 ~9 dirt 0  
+fill ~12 ~8 ~10 ~12 ~8 ~9 dirt 0  
+fill ~12 ~8 ~20 ~14 ~8 ~20 stone_slab 0  
+fill ~12 ~8 ~21 ~12 ~8 ~20 stone_slab 0 
+setblock ~13 ~8 ~8 planks 1 
+setblock ~13 ~8 ~9 dirt 1 
+setblock ~13 ~8 ~10 planks 1 
+setblock ~13 ~8 ~12 dirt 1  
+fill ~13 ~8 ~21 ~14 ~8 ~21 stained_hardened_clay 8  
+fill ~13 ~8 ~22 ~13 ~8 ~23 stained_hardened_clay 8  
+fill ~14 ~8 ~6 ~15 ~8 ~6 planks 1 
+setblock ~14 ~8 ~8 stone 1 
+setblock ~14 ~8 ~9 planks 1  
+fill ~14 ~8 ~10 ~14 ~9 ~10 dirt 0  
+fill ~14 ~8 ~11 ~14 ~8 ~12 dirt 0 
+setblock ~14 ~8 ~13 stone 1  
+fill ~14 ~8 ~14 ~14 ~14 ~14 stone 0 
+setblock ~14 ~8 ~15 grass 0  
+fill ~14 ~8 ~16 ~14 ~11 ~16 stained_hardened_clay 8 
+setblock ~14 ~8 ~22 stained_hardened_clay 5 
+setblock ~14 ~8 ~23 stained_hardened_clay 8 
+setblock ~15 ~8 ~5 dirt 0  
+fill ~15 ~8 ~7 ~15 ~9 ~7 stone 1  
+fill ~15 ~8 ~8 ~15 ~9 ~8 planks 1  
+fill ~15 ~8 ~9 ~15 ~8 ~10 dirt 1 
+setblock ~15 ~8 ~12 planks 1  
+fill ~15 ~8 ~13 ~15 ~8 ~15 dirt 1 
+setblock ~15 ~8 ~16 stone 1 
+setblock ~15 ~8 ~17 grass 0  
+fill ~15 ~8 ~19 ~16 ~8 ~19 stained_hardened_clay 5  
+fill ~15 ~8 ~20 ~16 ~8 ~20 stained_hardened_clay 5  
+fill ~15 ~8 ~21 ~15 ~8 ~22 concrete_powder 13 
+setblock ~15 ~8 ~23 grass 0  
+fill ~16 ~8 ~5 ~16 ~7 ~5 planks 1  
+fill ~16 ~8 ~6 ~16 ~9 ~6 dirt 0  
+fill ~16 ~8 ~7 ~17 ~8 ~7 planks 1  
+fill ~16 ~8 ~9 ~17 ~8 ~9 dirt 0  
+fill ~16 ~8 ~10 ~16 ~9 ~10 stone 1 
+setblock ~16 ~8 ~11 dirt 0  
+fill ~16 ~8 ~12 ~16 ~9 ~12 dirt 1  
+fill ~16 ~8 ~13 ~16 ~11 ~13 stone 1  
+fill ~16 ~8 ~14 ~17 ~8 ~14 stone 1 
+setblock ~16 ~8 ~15 dirt 1 
+setblock ~16 ~8 ~17 dirt 0 
+setblock ~16 ~8 ~18 grass 0  
+fill ~16 ~8 ~21 ~16 ~8 ~22 stained_hardened_clay 5 
+setblock ~16 ~8 ~23 concrete_powder 13 
+setblock ~16 ~8 ~24 dirt 0  
+fill ~16 ~8 ~25 ~18 ~8 ~25 stained_hardened_clay 8 
+setblock ~17 ~8 ~5 dirt 0 
+setblock ~17 ~8 ~6 dirt 1 
+setblock ~17 ~8 ~10 dirt 1 
+setblock ~17 ~8 ~11 planks 1  
+fill ~17 ~8 ~12 ~19 ~8 ~12 stone 0 
+setblock ~17 ~8 ~13 dirt 1  
+fill ~17 ~8 ~15 ~17 ~9 ~15 dirt 0 
+setblock ~17 ~8 ~18 planks 1 
+setblock ~17 ~8 ~19 stone 1  
+fill ~17 ~8 ~21 ~18 ~8 ~21 dirt 0  
+fill ~17 ~8 ~22 ~19 ~8 ~22 dirt 0  
+fill ~17 ~8 ~23 ~19 ~8 ~23 dirt 0 
+setblock ~17 ~8 ~24 planks 1  
+fill ~18 ~8 ~4 ~20 ~8 ~4 planks 1  
+fill ~18 ~8 ~5 ~19 ~8 ~5 stone 1  
+fill ~18 ~8 ~7 ~18 ~8 ~8 dirt 0  
+fill ~18 ~8 ~9 ~19 ~8 ~9 stone 1  
+fill ~18 ~8 ~10 ~18 ~8 ~9 stone 1  
+fill ~18 ~8 ~11 ~18 ~14 ~11 stone 0 
+setblock ~18 ~8 ~13 stone 1 
+setblock ~18 ~8 ~14 dirt 1 
+setblock ~18 ~8 ~15 planks 1  
+fill ~18 ~8 ~16 ~18 ~7 ~16 dirt 0  
+fill ~18 ~8 ~17 ~18 ~9 ~17 planks 1  
+fill ~18 ~8 ~18 ~18 ~9 ~18 stone 1  
+fill ~18 ~8 ~24 ~19 ~8 ~24 stained_hardened_clay 8 
+setblock ~19 ~8 ~6 stone 1  
+fill ~19 ~8 ~7 ~20 ~8 ~7 dirt 1  
+fill ~19 ~8 ~10 ~20 ~8 ~10 dirt 0  
+fill ~19 ~8 ~11 ~20 ~8 ~11 dirt 0  
+fill ~19 ~8 ~13 ~20 ~8 ~13 stone 0 
+setblock ~19 ~8 ~14 planks 1  
+fill ~19 ~8 ~15 ~19 ~8 ~18 dirt 1  
+fill ~19 ~8 ~19 ~21 ~8 ~19 stone 1 
+setblock ~19 ~8 ~20 dirt 0  
+fill ~19 ~8 ~21 ~20 ~8 ~21 stone 1 
+setblock ~20 ~8 ~3 dirt 1 
+setblock ~20 ~8 ~5 dirt 0 
+setblock ~20 ~8 ~6 dirt 1  
+fill ~20 ~8 ~8 ~20 ~9 ~8 planks 1 
+setblock ~20 ~8 ~16 dirt 1  
+fill ~20 ~8 ~17 ~20 ~9 ~17 planks 1  
+fill ~20 ~8 ~18 ~20 ~8 ~17 planks 1  
+fill ~20 ~8 ~20 ~21 ~8 ~20 dirt 1 
+setblock ~20 ~8 ~22 stone 1 
+setblock ~20 ~8 ~23 dirt 1  
+fill ~20 ~8 ~24 ~21 ~8 ~24 stone 1  
+fill ~20 ~8 ~25 ~20 ~8 ~26 stone 1 
+setblock ~21 ~8 ~4 stone 1 
+setblock ~21 ~8 ~5 planks 1  
+fill ~21 ~8 ~7 ~21 ~9 ~7 dirt 0  
+fill ~21 ~8 ~8 ~22 ~8 ~8 stone 0  
+fill ~21 ~8 ~9 ~27 ~8 ~9 sand 0  
+fill ~21 ~8 ~10 ~28 ~8 ~10 sand 0  
+fill ~21 ~8 ~11 ~28 ~8 ~11 sand 0  
+fill ~21 ~8 ~12 ~27 ~8 ~12 sand 0  
+fill ~21 ~8 ~13 ~27 ~8 ~13 sand 0  
+fill ~21 ~8 ~14 ~27 ~8 ~14 sand 0  
+fill ~21 ~8 ~15 ~27 ~8 ~15 sand 0  
+fill ~21 ~8 ~16 ~27 ~8 ~16 sand 0  
+fill ~21 ~8 ~17 ~28 ~8 ~17 sand 0 
+setblock ~21 ~8 ~18 dirt 0 
+setblock ~21 ~8 ~21 dirt 0 
+setblock ~21 ~8 ~22 dirt 1  
+fill ~21 ~8 ~23 ~21 ~9 ~23 dirt 0  
+fill ~21 ~8 ~25 ~21 ~8 ~26 dirt 0  
+fill ~21 ~8 ~27 ~21 ~9 ~27 planks 1 
+setblock ~21 ~8 ~28 dirt 0 
+setblock ~22 ~8 ~3 planks 1  
+fill ~22 ~8 ~4 ~22 ~8 ~5 dirt 1 
+setblock ~22 ~8 ~6 stone 1  
+fill ~22 ~8 ~7 ~23 ~8 ~7 dirt 1  
+fill ~22 ~8 ~18 ~28 ~8 ~18 sand 0 
+setblock ~22 ~8 ~19 dirt 1 
+setblock ~22 ~8 ~20 dirt 0 
+setblock ~22 ~8 ~22 planks 1  
+fill ~22 ~8 ~23 ~23 ~8 ~23 dirt 1  
+fill ~22 ~8 ~24 ~23 ~8 ~24 dirt 0  
+fill ~22 ~8 ~25 ~22 ~10 ~25 stone 1 
+setblock ~22 ~8 ~27 dirt 0 
+setblock ~23 ~8 ~4 dirt 0  
+fill ~23 ~8 ~5 ~27 ~8 ~5 stone 1 
+setblock ~23 ~8 ~6 planks 1  
+fill ~23 ~8 ~8 ~27 ~8 ~8 sand 0  
+fill ~23 ~8 ~19 ~27 ~8 ~19 sand 0  
+fill ~23 ~8 ~20 ~26 ~8 ~20 sand 0  
+fill ~23 ~8 ~21 ~26 ~8 ~21 sand 0 
+setblock ~23 ~8 ~22 stone 1  
+fill ~23 ~8 ~25 ~23 ~9 ~25 dirt 1  
+fill ~23 ~8 ~26 ~23 ~7 ~26 stone 1  
+fill ~23 ~8 ~28 ~23 ~8 ~29 stone 1 
+setblock ~24 ~8 ~2 planks 1  
+fill ~24 ~8 ~3 ~24 ~9 ~3 dirt 0 
+setblock ~24 ~8 ~4 stone 1  
+fill ~24 ~8 ~7 ~27 ~8 ~7 sand 0  
+fill ~24 ~8 ~22 ~25 ~8 ~22 sand 0 
+setblock ~24 ~8 ~24 stone 0  
+fill ~24 ~8 ~26 ~27 ~8 ~26 dirt 1 
+setblock ~24 ~8 ~27 stone 1 
+setblock ~24 ~8 ~29 planks 1 
+setblock ~25 ~8 ~3 dirt 1 
+setblock ~25 ~8 ~4 dirt 0  
+fill ~25 ~8 ~6 ~26 ~8 ~6 dirt 0 
+setblock ~25 ~8 ~25 stone 1 
+setblock ~25 ~8 ~27 dirt 1  
+fill ~25 ~8 ~28 ~26 ~8 ~28 dirt 0  
+fill ~25 ~8 ~29 ~25 ~8 ~28 dirt 0 
+setblock ~26 ~8 ~3 dirt 0  
+fill ~26 ~8 ~4 ~26 ~11 ~4 stone 1  
+fill ~26 ~8 ~22 ~27 ~8 ~22 stone 0  
+fill ~26 ~8 ~23 ~27 ~8 ~23 stone 1  
+fill ~26 ~8 ~24 ~28 ~8 ~24 stone 1  
+fill ~27 ~8 ~3 ~28 ~8 ~3 dirt 1 
+setblock ~27 ~8 ~4 planks 1 
+setblock ~27 ~8 ~6 dirt 1 
+setblock ~27 ~8 ~25 stone 1  
+fill ~27 ~8 ~27 ~28 ~8 ~27 stone 1  
+fill ~28 ~8 ~5 ~29 ~8 ~5 planks 1  
+fill ~28 ~8 ~6 ~29 ~8 ~6 dirt 0  
+fill ~28 ~8 ~7 ~28 ~8 ~8 stone 1  
+fill ~28 ~8 ~9 ~29 ~8 ~9 dirt 1  
+fill ~28 ~8 ~12 ~28 ~9 ~12 planks 1  
+fill ~28 ~8 ~13 ~28 ~8 ~12 planks 1  
+fill ~28 ~8 ~14 ~29 ~8 ~14 stone 1  
+fill ~28 ~8 ~15 ~28 ~8 ~14 stone 1 
+setblock ~28 ~8 ~16 planks 1  
+fill ~28 ~8 ~19 ~30 ~8 ~19 dirt 1  
+fill ~28 ~8 ~20 ~28 ~10 ~20 dirt 0  
+fill ~28 ~8 ~21 ~28 ~8 ~20 dirt 0 
+setblock ~28 ~8 ~22 stone 1 
+setblock ~28 ~8 ~23 dirt 1 
+setblock ~28 ~8 ~26 stone 1 
+setblock ~29 ~8 ~3 dirt 0  
+fill ~29 ~8 ~7 ~29 ~9 ~7 dirt 0 
+setblock ~29 ~8 ~8 planks 1 
+setblock ~29 ~8 ~11 planks 1 
+setblock ~29 ~8 ~12 stone 1  
+fill ~29 ~8 ~13 ~30 ~8 ~13 dirt 1 
+setblock ~29 ~8 ~15 planks 1  
+fill ~29 ~8 ~16 ~29 ~9 ~16 stone 1  
+fill ~29 ~8 ~18 ~32 ~8 ~18 stone 1  
+fill ~29 ~8 ~21 ~29 ~9 ~21 stone 1 
+setblock ~29 ~8 ~24 dirt 1 
+setblock ~29 ~8 ~25 stone 1  
+fill ~30 ~8 ~5 ~31 ~8 ~5 dirt 0 
+setblock ~30 ~8 ~6 stone 1 
+setblock ~30 ~8 ~7 dirt 1  
+fill ~30 ~8 ~8 ~31 ~8 ~8 stone 1  
+fill ~30 ~8 ~9 ~30 ~8 ~8 stone 1 
+setblock ~30 ~8 ~10 dirt 1 
+setblock ~30 ~8 ~12 dirt 1  
+fill ~30 ~8 ~14 ~30 ~11 ~14 planks 1  
+fill ~30 ~8 ~15 ~31 ~8 ~15 dirt 0  
+fill ~30 ~8 ~16 ~33 ~8 ~16 dirt 0 
+setblock ~30 ~8 ~17 dirt 1 
+setblock ~30 ~8 ~20 planks 1  
+fill ~30 ~8 ~21 ~32 ~8 ~21 dirt 1  
+fill ~30 ~8 ~23 ~30 ~9 ~23 dirt 0  
+fill ~30 ~8 ~24 ~30 ~8 ~23 dirt 0 
+setblock ~31 ~8 ~4 dirt 1  
+fill ~31 ~8 ~6 ~31 ~9 ~6 planks 1 
+setblock ~31 ~8 ~7 dirt 0  
+fill ~31 ~8 ~9 ~32 ~8 ~9 planks 1  
+fill ~31 ~8 ~10 ~31 ~8 ~9 planks 1 
+setblock ~31 ~8 ~13 stone 1 
+setblock ~31 ~8 ~14 dirt 0 
+setblock ~31 ~8 ~19 dirt 0 
+setblock ~31 ~8 ~20 dirt 1 
+setblock ~31 ~8 ~22 planks 1 
+setblock ~31 ~8 ~23 stone 1 
+setblock ~32 ~8 ~6 dirt 0 
+setblock ~32 ~8 ~8 dirt 0 
+setblock ~32 ~8 ~19 stone 1 
+setblock ~32 ~8 ~20 dirt 0 
+setblock ~33 ~8 ~17 dirt 1 
+setblock ~33 ~8 ~19 planks 1 
+setblock ~8 ~9 ~16 stained_glass_pane 3  
+fill ~9 ~9 ~13 ~9 ~9 ~14 stained_glass_pane 9 
+setblock ~9 ~9 ~15 pink_glazed_terracotta 0 
+setblock ~9 ~9 ~16 pink_glazed_terracotta 3  
+fill ~13 ~9 ~8 ~13 ~11 ~8 stone 1 
+setblock ~13 ~9 ~9 planks 1 
+setblock ~13 ~9 ~10 dirt 1 
+setblock ~13 ~9 ~11 dirt 0  
+fill ~13 ~9 ~12 ~13 ~10 ~12 stone 1 
+setblock ~14 ~9 ~6 dirt 1 
+setblock ~14 ~9 ~8 dirt 1 
+setblock ~14 ~9 ~9 stone 1  
+fill ~14 ~9 ~11 ~14 ~10 ~11 dirt 1  
+fill ~14 ~9 ~12 ~14 ~11 ~12 dirt 0  
+fill ~14 ~9 ~13 ~14 ~9 ~12 dirt 0  
+fill ~14 ~9 ~15 ~14 ~14 ~15 stone 0 
+setblock ~14 ~9 ~19 grass 0  
+fill ~14 ~9 ~22 ~15 ~9 ~22 stone_slab 0 
+setblock ~15 ~9 ~5 dirt 1  
+fill ~15 ~9 ~6 ~15 ~13 ~6 dirt 0 
+setblock ~15 ~9 ~9 dirt 0  
+fill ~15 ~9 ~10 ~15 ~10 ~10 stone 1 
+setblock ~15 ~9 ~11 dirt 0  
+fill ~15 ~9 ~12 ~15 ~9 ~13 stone 1  
+fill ~15 ~9 ~15 ~17 ~9 ~15 dirt 0  
+fill ~15 ~9 ~16 ~15 ~10 ~16 dirt 0  
+fill ~15 ~9 ~17 ~15 ~10 ~17 stained_hardened_clay 5  
+fill ~15 ~9 ~19 ~16 ~9 ~19 stained_hardened_clay 5  
+fill ~15 ~9 ~20 ~16 ~9 ~20 stained_hardened_clay 8 
+setblock ~15 ~9 ~21 stone_slab 0 
+setblock ~15 ~9 ~23 stone_slab 0 
+setblock ~16 ~9 ~5 stone 1  
+fill ~16 ~9 ~7 ~16 ~8 ~7 planks 1 
+setblock ~16 ~9 ~8 dirt 1 
+setblock ~16 ~9 ~9 planks 1 
+setblock ~16 ~9 ~11 dirt 1  
+fill ~16 ~9 ~14 ~17 ~9 ~14 planks 1  
+fill ~16 ~9 ~16 ~17 ~9 ~16 dirt 1  
+fill ~16 ~9 ~17 ~16 ~9 ~16 dirt 1  
+fill ~16 ~9 ~18 ~17 ~9 ~18 dirt 0  
+fill ~16 ~9 ~21 ~16 ~9 ~24 stained_hardened_clay 8 
+setblock ~17 ~9 ~5 planks 1 
+setblock ~17 ~9 ~6 stone 1  
+fill ~17 ~9 ~7 ~17 ~9 ~10 dirt 0  
+fill ~17 ~9 ~11 ~17 ~11 ~11 stone 1  
+fill ~17 ~9 ~12 ~19 ~9 ~12 stone 0 
+setblock ~17 ~9 ~13 stone 1  
+fill ~17 ~9 ~19 ~17 ~9 ~21 dirt 0  
+fill ~17 ~9 ~22 ~18 ~9 ~22 stained_hardened_clay 8  
+fill ~17 ~9 ~23 ~18 ~9 ~23 stained_hardened_clay 8  
+fill ~17 ~9 ~24 ~18 ~9 ~24 stained_hardened_clay 8 
+setblock ~18 ~9 ~4 dirt 1  
+fill ~18 ~9 ~5 ~19 ~9 ~5 dirt 0  
+fill ~18 ~9 ~6 ~18 ~10 ~6 dirt 0  
+fill ~18 ~9 ~7 ~19 ~9 ~7 dirt 1 
+setblock ~18 ~9 ~8 planks 1 
+setblock ~18 ~9 ~9 stone 1 
+setblock ~18 ~9 ~10 dirt 1 
+setblock ~18 ~9 ~13 dirt 1 
+setblock ~18 ~9 ~14 dirt 0  
+fill ~18 ~9 ~15 ~18 ~10 ~15 dirt 1 
+setblock ~18 ~9 ~16 planks 1 
+setblock ~18 ~9 ~21 dirt 0  
+fill ~19 ~9 ~4 ~20 ~9 ~4 dirt 0  
+fill ~19 ~9 ~6 ~21 ~9 ~6 planks 1 
+setblock ~19 ~9 ~8 dirt 1 
+setblock ~19 ~9 ~9 planks 1  
+fill ~19 ~9 ~10 ~20 ~9 ~10 dirt 0  
+fill ~19 ~9 ~11 ~20 ~9 ~11 dirt 0  
+fill ~19 ~9 ~13 ~20 ~9 ~13 stone 0 
+setblock ~19 ~9 ~14 dirt 1 
+setblock ~19 ~9 ~15 planks 1 
+setblock ~19 ~9 ~16 stone 1  
+fill ~19 ~9 ~17 ~19 ~9 ~19 dirt 1  
+fill ~19 ~9 ~20 ~19 ~10 ~20 stone 1  
+fill ~19 ~9 ~21 ~20 ~9 ~21 stone 1  
+fill ~19 ~9 ~22 ~19 ~9 ~20 stone 1  
+fill ~19 ~9 ~23 ~20 ~9 ~23 planks 1 
+setblock ~19 ~9 ~24 stained_hardened_clay 5 
+setblock ~19 ~9 ~25 stone 1 
+setblock ~20 ~9 ~3 stone 1  
+fill ~20 ~9 ~5 ~20 ~10 ~5 planks 1 
+setblock ~20 ~9 ~7 dirt 0 
+setblock ~20 ~9 ~15 dirt 1 
+setblock ~20 ~9 ~16 dirt 0 
+setblock ~20 ~9 ~18 dirt 0  
+fill ~20 ~9 ~19 ~21 ~9 ~19 planks 1 
+setblock ~20 ~9 ~20 dirt 0  
+fill ~20 ~9 ~22 ~21 ~9 ~22 planks 1  
+fill ~20 ~9 ~24 ~20 ~8 ~24 stone 1  
+fill ~20 ~9 ~25 ~20 ~9 ~26 dirt 0  
+fill ~21 ~9 ~3 ~21 ~9 ~4 planks 1 
+setblock ~21 ~9 ~5 dirt 1  
+fill ~21 ~9 ~8 ~22 ~9 ~8 stone 1  
+fill ~21 ~9 ~9 ~27 ~9 ~9 sand 0  
+fill ~21 ~9 ~10 ~27 ~9 ~10 sand 0  
+fill ~21 ~9 ~11 ~27 ~9 ~11 sand 0  
+fill ~21 ~9 ~12 ~26 ~9 ~12 sand 0  
+fill ~21 ~9 ~13 ~26 ~9 ~13 sand 0  
+fill ~21 ~9 ~14 ~26 ~9 ~14 sand 0  
+fill ~21 ~9 ~15 ~26 ~9 ~15 sand 0  
+fill ~21 ~9 ~16 ~26 ~9 ~16 sand 0  
+fill ~21 ~9 ~17 ~27 ~9 ~17 sand 0  
+fill ~21 ~9 ~18 ~28 ~9 ~18 sand 0 
+setblock ~21 ~9 ~20 stone 1 
+setblock ~21 ~9 ~21 planks 1 
+setblock ~21 ~9 ~24 dirt 0 
+setblock ~21 ~9 ~25 planks 1 
+setblock ~21 ~9 ~26 stone 1  
+fill ~21 ~9 ~28 ~22 ~9 ~28 dirt 1  
+fill ~22 ~9 ~3 ~22 ~9 ~4 stone 1 
+setblock ~22 ~9 ~5 planks 1  
+fill ~22 ~9 ~6 ~22 ~9 ~7 dirt 0  
+fill ~22 ~9 ~19 ~27 ~9 ~19 sand 0  
+fill ~22 ~9 ~20 ~26 ~9 ~20 sand 0  
+fill ~22 ~9 ~21 ~26 ~9 ~21 sand 0 
+setblock ~22 ~9 ~22 dirt 0  
+fill ~22 ~9 ~23 ~22 ~8 ~23 dirt 1  
+fill ~22 ~9 ~24 ~22 ~10 ~24 stone 1  
+fill ~22 ~9 ~26 ~23 ~9 ~26 dirt 0 
+setblock ~22 ~9 ~27 planks 1  
+fill ~23 ~9 ~3 ~23 ~9 ~4 dirt 1  
+fill ~23 ~9 ~5 ~23 ~8 ~5 stone 1  
+fill ~23 ~9 ~6 ~24 ~9 ~6 dirt 1  
+fill ~23 ~9 ~7 ~24 ~9 ~7 planks 1  
+fill ~23 ~9 ~8 ~27 ~9 ~8 sand 0  
+fill ~23 ~9 ~22 ~25 ~9 ~22 sand 0  
+fill ~23 ~9 ~23 ~23 ~9 ~8 sand 0  
+fill ~23 ~9 ~24 ~24 ~9 ~24 planks 1  
+fill ~23 ~9 ~27 ~23 ~9 ~28 dirt 0 
+setblock ~23 ~9 ~29 dirt 1 
+setblock ~24 ~9 ~2 dirt 0  
+fill ~24 ~9 ~4 ~25 ~9 ~4 planks 1 
+setblock ~24 ~9 ~5 dirt 0 
+setblock ~24 ~9 ~25 dirt 0  
+fill ~24 ~9 ~26 ~24 ~11 ~26 stone 1  
+fill ~24 ~9 ~27 ~24 ~11 ~27 dirt 1  
+fill ~24 ~9 ~28 ~24 ~9 ~27 dirt 1 
+setblock ~24 ~9 ~29 dirt 0 
+setblock ~25 ~9 ~3 dirt 0  
+fill ~25 ~9 ~5 ~25 ~10 ~5 planks 1  
+fill ~25 ~9 ~6 ~25 ~10 ~6 dirt 0 
+setblock ~25 ~9 ~7 dirt 1  
+fill ~25 ~9 ~24 ~25 ~10 ~24 dirt 0  
+fill ~25 ~9 ~25 ~25 ~10 ~25 dirt 1 
+setblock ~25 ~9 ~26 planks 1 
+setblock ~25 ~9 ~27 dirt 0 
+setblock ~25 ~9 ~28 stone 1 
+setblock ~25 ~9 ~29 dirt 1 
+setblock ~26 ~9 ~3 dirt 1 
+setblock ~26 ~9 ~5 dirt 0  
+fill ~26 ~9 ~6 ~28 ~9 ~6 planks 1  
+fill ~26 ~9 ~7 ~26 ~9 ~6 planks 1  
+fill ~26 ~9 ~22 ~27 ~9 ~22 stone 0  
+fill ~26 ~9 ~23 ~26 ~11 ~23 planks 1  
+fill ~26 ~9 ~24 ~27 ~9 ~24 stone 1  
+fill ~26 ~9 ~25 ~26 ~10 ~25 dirt 0  
+fill ~26 ~9 ~26 ~26 ~9 ~25 dirt 0 
+setblock ~26 ~9 ~27 planks 1  
+fill ~26 ~9 ~28 ~26 ~10 ~28 dirt 0  
+fill ~27 ~9 ~3 ~27 ~10 ~3 stone 1 
+setblock ~27 ~9 ~4 dirt 1  
+fill ~27 ~9 ~5 ~28 ~9 ~5 stone 1  
+fill ~27 ~9 ~7 ~30 ~9 ~7 dirt 0  
+fill ~27 ~9 ~12 ~27 ~9 ~13 planks 1  
+fill ~27 ~9 ~14 ~27 ~9 ~16 dirt 1  
+fill ~27 ~9 ~23 ~28 ~9 ~23 stone 1  
+fill ~27 ~9 ~25 ~27 ~11 ~25 dirt 1 
+setblock ~27 ~9 ~26 planks 1  
+fill ~27 ~9 ~27 ~27 ~8 ~27 stone 1  
+fill ~28 ~9 ~3 ~28 ~11 ~3 dirt 0  
+fill ~28 ~9 ~4 ~28 ~10 ~4 planks 1 
+setblock ~28 ~9 ~8 planks 1  
+fill ~28 ~9 ~9 ~28 ~10 ~9 stone 1  
+fill ~28 ~9 ~10 ~29 ~9 ~10 dirt 1  
+fill ~28 ~9 ~11 ~29 ~9 ~11 dirt 0 
+setblock ~28 ~9 ~13 dirt 0  
+fill ~28 ~9 ~14 ~28 ~10 ~14 stone 1 
+setblock ~28 ~9 ~15 dirt 1  
+fill ~28 ~9 ~16 ~28 ~11 ~16 stone 1  
+fill ~28 ~9 ~17 ~28 ~10 ~17 dirt 0 
+setblock ~28 ~9 ~19 planks 1  
+fill ~28 ~9 ~21 ~28 ~9 ~22 dirt 1 
+setblock ~28 ~9 ~24 dirt 1  
+fill ~28 ~9 ~25 ~29 ~9 ~25 planks 1  
+fill ~28 ~9 ~26 ~28 ~9 ~27 dirt 0 
+setblock ~29 ~9 ~3 planks 1  
+fill ~29 ~9 ~5 ~29 ~9 ~6 dirt 1  
+fill ~29 ~9 ~8 ~30 ~9 ~8 stone 1  
+fill ~29 ~9 ~9 ~30 ~9 ~9 dirt 0 
+setblock ~29 ~9 ~12 planks 1  
+fill ~29 ~9 ~13 ~29 ~12 ~13 stone 1 
+setblock ~29 ~9 ~14 planks 1  
+fill ~29 ~9 ~15 ~30 ~9 ~15 dirt 0  
+fill ~29 ~9 ~18 ~29 ~8 ~18 stone 1  
+fill ~29 ~9 ~19 ~29 ~10 ~19 dirt 1 
+setblock ~29 ~9 ~22 planks 1 
+setblock ~29 ~9 ~24 planks 1 
+setblock ~30 ~9 ~4 dirt 0  
+fill ~30 ~9 ~5 ~30 ~10 ~5 planks 1 
+setblock ~30 ~9 ~6 dirt 1 
+setblock ~30 ~9 ~10 planks 1 
+setblock ~30 ~9 ~11 dirt 1  
+fill ~30 ~9 ~12 ~30 ~11 ~12 stone 1 
+setblock ~30 ~9 ~13 planks 1  
+fill ~30 ~9 ~16 ~30 ~9 ~17 planks 1  
+fill ~30 ~9 ~18 ~31 ~9 ~18 dirt 0  
+fill ~30 ~9 ~19 ~30 ~10 ~19 dirt 0  
+fill ~30 ~9 ~20 ~30 ~9 ~21 dirt 0 
+setblock ~30 ~9 ~22 dirt 1 
+setblock ~30 ~9 ~24 stone 1  
+fill ~31 ~9 ~4 ~31 ~9 ~5 stone 1 
+setblock ~31 ~9 ~7 dirt 1 
+setblock ~31 ~9 ~8 dirt 0  
+fill ~31 ~9 ~9 ~32 ~9 ~9 planks 1 
+setblock ~31 ~9 ~10 dirt 0 
+setblock ~31 ~9 ~13 dirt 1 
+setblock ~31 ~9 ~14 stone 1 
+setblock ~31 ~9 ~15 dirt 1  
+fill ~31 ~9 ~16 ~31 ~11 ~16 dirt 0  
+fill ~31 ~9 ~17 ~32 ~9 ~17 stone 1 
+setblock ~31 ~9 ~19 stone 1  
+fill ~31 ~9 ~20 ~31 ~9 ~21 planks 1  
+fill ~31 ~9 ~22 ~31 ~10 ~22 stone 1 
+setblock ~31 ~9 ~23 dirt 0 
+setblock ~32 ~9 ~6 dirt 1 
+setblock ~32 ~9 ~8 stone 1  
+fill ~32 ~9 ~16 ~32 ~10 ~16 dirt 1 
+setblock ~32 ~9 ~18 stone 1  
+fill ~32 ~9 ~19 ~32 ~9 ~20 dirt 1 
+setblock ~32 ~9 ~21 dirt 0 
+setblock ~33 ~9 ~19 stone 1 
+setblock ~8 ~10 ~17 pink_glazed_terracotta 3 
+setblock ~9 ~10 ~17 pink_glazed_terracotta 0  
+fill ~10 ~10 ~13 ~10 ~10 ~14 pink_glazed_terracotta 0 
+setblock ~10 ~10 ~15 stained_glass_pane 9  
+fill ~13 ~10 ~9 ~14 ~10 ~9 dirt 0  
+fill ~13 ~10 ~10 ~13 ~10 ~9 dirt 0  
+fill ~13 ~10 ~11 ~13 ~12 ~11 stone 1  
+fill ~14 ~10 ~8 ~14 ~13 ~8 dirt 0  
+fill ~14 ~10 ~10 ~14 ~11 ~10 stone 1 
+setblock ~14 ~10 ~13 grass 0 
+setblock ~15 ~10 ~7 dirt 1 
+setblock ~15 ~10 ~8 stone 1  
+fill ~15 ~10 ~9 ~15 ~11 ~9 planks 1 
+setblock ~15 ~10 ~11 dirt 1  
+fill ~15 ~10 ~13 ~15 ~12 ~13 dirt 0  
+fill ~15 ~10 ~14 ~15 ~11 ~14 dirt 0  
+fill ~15 ~10 ~15 ~16 ~10 ~15 dirt 0  
+fill ~15 ~10 ~18 ~18 ~10 ~18 stained_hardened_clay 8  
+fill ~15 ~10 ~19 ~17 ~10 ~19 stone_slab 0  
+fill ~16 ~10 ~6 ~17 ~10 ~6 planks 1 
+setblock ~16 ~10 ~7 dirt 0  
+fill ~16 ~10 ~8 ~17 ~10 ~8 planks 1  
+fill ~16 ~10 ~9 ~16 ~11 ~9 stone 1  
+fill ~16 ~10 ~10 ~16 ~10 ~11 planks 1  
+fill ~16 ~10 ~12 ~16 ~12 ~12 dirt 0 
+setblock ~16 ~10 ~14 dirt 1  
+fill ~16 ~10 ~16 ~18 ~10 ~16 dirt 0  
+fill ~16 ~10 ~17 ~17 ~10 ~17 grass 0  
+fill ~17 ~10 ~5 ~17 ~11 ~5 dirt 1  
+fill ~17 ~10 ~7 ~18 ~10 ~7 stone 1 
+setblock ~17 ~10 ~9 dirt 1  
+fill ~17 ~10 ~10 ~18 ~10 ~10 stone 1  
+fill ~17 ~10 ~12 ~19 ~10 ~12 stone 0 
+setblock ~17 ~10 ~13 dirt 0  
+fill ~17 ~10 ~14 ~18 ~10 ~14 stone 1 
+setblock ~17 ~10 ~15 planks 1  
+fill ~17 ~10 ~20 ~17 ~10 ~21 stone_slab 0  
+fill ~18 ~10 ~4 ~18 ~10 ~5 planks 1  
+fill ~18 ~10 ~8 ~19 ~10 ~8 dirt 0 
+setblock ~18 ~10 ~9 planks 1  
+fill ~18 ~10 ~13 ~18 ~11 ~13 planks 1 
+setblock ~18 ~10 ~17 stained_hardened_clay 8  
+fill ~18 ~10 ~19 ~18 ~10 ~21 stained_hardened_clay 8 
+setblock ~19 ~10 ~4 dirt 1 
+setblock ~19 ~10 ~5 stone 1  
+fill ~19 ~10 ~6 ~19 ~9 ~6 planks 1 
+setblock ~19 ~10 ~7 dirt 1  
+fill ~19 ~10 ~9 ~19 ~11 ~9 dirt 0  
+fill ~19 ~10 ~10 ~19 ~16 ~10 stone 0  
+fill ~19 ~10 ~11 ~19 ~16 ~11 stone 0  
+fill ~19 ~10 ~13 ~20 ~10 ~13 stone 0  
+fill ~19 ~10 ~14 ~19 ~10 ~15 dirt 0 
+setblock ~19 ~10 ~16 dirt 1 
+setblock ~19 ~10 ~17 planks 1 
+setblock ~19 ~10 ~18 dirt 0 
+setblock ~19 ~10 ~19 dirt 1  
+fill ~19 ~10 ~21 ~20 ~10 ~21 dirt 0  
+fill ~19 ~10 ~22 ~19 ~10 ~21 dirt 0 
+setblock ~19 ~10 ~23 grass 0  
+fill ~19 ~10 ~24 ~19 ~11 ~24 dirt 0 
+setblock ~20 ~10 ~4 stone 1 
+setblock ~20 ~10 ~6 dirt 0  
+fill ~20 ~10 ~7 ~20 ~12 ~7 planks 1 
+setblock ~20 ~10 ~8 dirt 1  
+fill ~20 ~10 ~10 ~20 ~10 ~12 dirt 0 
+setblock ~20 ~10 ~15 planks 1 
+setblock ~20 ~10 ~16 stone 1  
+fill ~20 ~10 ~17 ~20 ~11 ~17 dirt 1  
+fill ~20 ~10 ~18 ~20 ~11 ~18 planks 1  
+fill ~20 ~10 ~19 ~20 ~11 ~19 planks 1 
+setblock ~20 ~10 ~20 stone 1  
+fill ~20 ~10 ~22 ~20 ~11 ~22 dirt 1 
+setblock ~20 ~10 ~23 dirt 0  
+fill ~20 ~10 ~24 ~20 ~10 ~26 dirt 1 
+setblock ~21 ~10 ~4 planks 1  
+fill ~21 ~10 ~5 ~23 ~10 ~5 dirt 0  
+fill ~21 ~10 ~6 ~22 ~10 ~6 dirt 1  
+fill ~21 ~10 ~7 ~21 ~11 ~7 dirt 1  
+fill ~21 ~10 ~8 ~22 ~10 ~8 dirt 0  
+fill ~21 ~10 ~9 ~26 ~10 ~9 sand 0  
+fill ~21 ~10 ~10 ~26 ~10 ~10 sand 0  
+fill ~21 ~10 ~11 ~27 ~10 ~11 sand 0  
+fill ~21 ~10 ~12 ~26 ~10 ~12 sand 0  
+fill ~21 ~10 ~13 ~26 ~10 ~13 sand 0  
+fill ~21 ~10 ~14 ~26 ~10 ~14 sand 0  
+fill ~21 ~10 ~15 ~26 ~10 ~15 sand 0  
+fill ~21 ~10 ~16 ~26 ~10 ~16 sand 0  
+fill ~21 ~10 ~17 ~27 ~10 ~17 sand 0  
+fill ~21 ~10 ~18 ~21 ~10 ~19 dirt 0 
+setblock ~21 ~10 ~20 planks 1  
+fill ~21 ~10 ~21 ~22 ~10 ~21 dirt 1 
+setblock ~21 ~10 ~22 stone 1  
+fill ~21 ~10 ~23 ~21 ~11 ~23 dirt 1 
+setblock ~21 ~10 ~24 planks 1 
+setblock ~21 ~10 ~25 stone 1 
+setblock ~21 ~10 ~26 planks 1 
+setblock ~21 ~10 ~27 dirt 0 
+setblock ~22 ~10 ~4 dirt 1  
+fill ~22 ~10 ~7 ~23 ~10 ~7 dirt 0  
+fill ~22 ~10 ~18 ~28 ~10 ~18 sand 0  
+fill ~22 ~10 ~19 ~22 ~10 ~20 stone 1  
+fill ~22 ~10 ~22 ~22 ~11 ~22 planks 1 
+setblock ~22 ~10 ~23 dirt 0  
+fill ~22 ~10 ~26 ~22 ~10 ~27 dirt 1  
+fill ~22 ~10 ~28 ~22 ~11 ~28 stone 1 
+setblock ~23 ~10 ~3 dirt 0  
+fill ~23 ~10 ~4 ~23 ~11 ~4 stone 1  
+fill ~23 ~10 ~6 ~23 ~11 ~6 dirt 0  
+fill ~23 ~10 ~8 ~26 ~10 ~8 sand 0  
+fill ~23 ~10 ~19 ~27 ~10 ~19 sand 0  
+fill ~23 ~10 ~20 ~26 ~10 ~20 sand 0  
+fill ~23 ~10 ~21 ~26 ~10 ~21 sand 0  
+fill ~23 ~10 ~22 ~25 ~10 ~22 sand 0  
+fill ~23 ~10 ~23 ~23 ~10 ~24 dirt 1 
+setblock ~23 ~10 ~25 stone 1  
+fill ~23 ~10 ~26 ~23 ~10 ~28 planks 1  
+fill ~23 ~10 ~29 ~23 ~11 ~29 stone 1  
+fill ~24 ~10 ~3 ~25 ~10 ~3 dirt 1  
+fill ~24 ~10 ~4 ~25 ~10 ~4 planks 1  
+fill ~24 ~10 ~5 ~24 ~11 ~5 dirt 1  
+fill ~24 ~10 ~6 ~24 ~12 ~6 stone 1  
+fill ~24 ~10 ~7 ~24 ~10 ~6 stone 1 
+setblock ~24 ~10 ~23 stone 1 
+setblock ~24 ~10 ~24 dirt 0 
+setblock ~24 ~10 ~25 planks 1 
+setblock ~24 ~10 ~28 stone 1  
+fill ~24 ~10 ~29 ~25 ~10 ~29 planks 1  
+fill ~25 ~10 ~7 ~25 ~11 ~7 planks 1 
+setblock ~25 ~10 ~23 planks 1  
+fill ~25 ~10 ~26 ~25 ~12 ~26 dirt 1  
+fill ~25 ~10 ~27 ~26 ~10 ~27 dirt 1  
+fill ~25 ~10 ~28 ~25 ~12 ~28 dirt 0 
+setblock ~26 ~10 ~3 planks 1 
+setblock ~26 ~10 ~5 dirt 1  
+fill ~26 ~10 ~6 ~28 ~10 ~6 stone 1  
+fill ~26 ~10 ~7 ~26 ~12 ~7 dirt 0  
+fill ~26 ~10 ~22 ~27 ~10 ~22 stone 0 
+setblock ~26 ~10 ~24 dirt 1  
+fill ~26 ~10 ~26 ~28 ~10 ~26 stone 1  
+fill ~27 ~10 ~4 ~27 ~11 ~4 dirt 0  
+fill ~27 ~10 ~5 ~27 ~10 ~4 dirt 0  
+fill ~27 ~10 ~7 ~27 ~11 ~7 stone 1  
+fill ~27 ~10 ~8 ~27 ~10 ~10 planks 1  
+fill ~27 ~10 ~12 ~27 ~10 ~16 dirt 0 
+setblock ~27 ~10 ~23 dirt 0  
+fill ~27 ~10 ~24 ~28 ~10 ~24 stone 1 
+setblock ~27 ~10 ~27 dirt 0 
+setblock ~28 ~10 ~5 planks 1  
+fill ~28 ~10 ~7 ~28 ~11 ~7 planks 1   
+
+KittysCommands:  
+setblock ~28 ~10 ~8 dirt 0  
+fill ~28 ~10 ~10 ~29 ~10 ~10 dirt 1  
+fill ~28 ~10 ~11 ~28 ~10 ~10 dirt 1  
+fill ~28 ~10 ~12 ~28 ~11 ~12 stone 1 
+setblock ~28 ~10 ~13 planks 1 
+setblock ~28 ~10 ~15 dirt 0 
+setblock ~28 ~10 ~19 stone 1  
+fill ~28 ~10 ~21 ~28 ~11 ~21 planks 1  
+fill ~28 ~10 ~22 ~28 ~10 ~21 planks 1 
+setblock ~28 ~10 ~23 stone 1  
+fill ~28 ~10 ~25 ~28 ~12 ~25 dirt 1 
+setblock ~28 ~10 ~27 stone 1  
+fill ~29 ~10 ~3 ~29 ~11 ~3 dirt 1  
+fill ~29 ~10 ~4 ~29 ~10 ~5 dirt 0  
+fill ~29 ~10 ~6 ~29 ~10 ~7 dirt 1  
+fill ~29 ~10 ~8 ~30 ~10 ~8 planks 1 
+setblock ~29 ~10 ~9 stone 1  
+fill ~29 ~10 ~11 ~29 ~12 ~11 stone 1  
+fill ~29 ~10 ~12 ~29 ~11 ~12 dirt 1  
+fill ~29 ~10 ~14 ~29 ~10 ~15 dirt 1  
+fill ~29 ~10 ~16 ~29 ~10 ~17 planks 1  
+fill ~29 ~10 ~18 ~30 ~10 ~18 dirt 1 
+setblock ~29 ~10 ~20 stone 1  
+fill ~29 ~10 ~21 ~29 ~12 ~21 dirt 1  
+fill ~29 ~10 ~22 ~30 ~10 ~22 dirt 0  
+fill ~29 ~10 ~23 ~29 ~11 ~23 dirt 1  
+fill ~29 ~10 ~24 ~29 ~10 ~23 dirt 1 
+setblock ~29 ~10 ~25 planks 1 
+setblock ~30 ~10 ~4 planks 1  
+fill ~30 ~10 ~6 ~31 ~10 ~6 stone 1  
+fill ~30 ~10 ~7 ~32 ~10 ~7 planks 1 
+setblock ~30 ~10 ~9 dirt 0 
+setblock ~30 ~10 ~10 stone 1 
+setblock ~30 ~10 ~11 planks 1 
+setblock ~30 ~10 ~13 dirt 1  
+fill ~30 ~10 ~15 ~30 ~11 ~15 stone 1  
+fill ~30 ~10 ~16 ~30 ~10 ~18 dirt 1  
+fill ~30 ~10 ~20 ~30 ~11 ~20 planks 1 
+setblock ~30 ~10 ~21 stone 1  
+fill ~30 ~10 ~23 ~30 ~10 ~24 planks 1 
+setblock ~31 ~10 ~4 dirt 1 
+setblock ~31 ~10 ~5 stone 1  
+fill ~31 ~10 ~8 ~32 ~10 ~8 dirt 1  
+fill ~31 ~10 ~9 ~31 ~6 ~9 planks 1  
+fill ~31 ~10 ~10 ~31 ~10 ~9 planks 1 
+setblock ~31 ~10 ~14 dirt 0 
+setblock ~31 ~10 ~15 planks 1  
+fill ~31 ~10 ~17 ~31 ~13 ~17 planks 1  
+fill ~31 ~10 ~18 ~31 ~12 ~18 planks 1 
+setblock ~31 ~10 ~19 dirt 0 
+setblock ~31 ~10 ~20 dirt 1 
+setblock ~31 ~10 ~21 dirt 0 
+setblock ~31 ~10 ~23 stone 1  
+fill ~32 ~10 ~18 ~32 ~11 ~18 dirt 1  
+fill ~32 ~10 ~19 ~32 ~10 ~20 stone 1 
+setblock ~33 ~10 ~19 dirt 1 
+setblock ~9 ~11 ~17 stained_glass_pane 11 
+setblock ~10 ~11 ~14 stained_glass_pane 9 
+setblock ~10 ~11 ~15 pink_glazed_terracotta 0 
+setblock ~10 ~11 ~17 stained_glass_pane 9  
+fill ~13 ~11 ~9 ~14 ~11 ~9 dirt 0  
+fill ~13 ~11 ~10 ~13 ~14 ~10 stone 1  
+fill ~14 ~11 ~11 ~16 ~11 ~11 dirt 0 
+setblock ~14 ~11 ~13 stained_hardened_clay 5  
+fill ~15 ~11 ~7 ~15 ~11 ~8 dirt 0 
+setblock ~15 ~11 ~10 planks 1  
+fill ~15 ~11 ~12 ~15 ~12 ~12 dirt 0  
+fill ~15 ~11 ~15 ~15 ~9 ~15 dirt 0  
+fill ~15 ~11 ~16 ~16 ~11 ~16 stained_hardened_clay 8  
+fill ~15 ~11 ~17 ~17 ~11 ~17 stone_slab 0  
+fill ~16 ~11 ~6 ~17 ~11 ~6 dirt 0 
+setblock ~16 ~11 ~7 stone 1 
+setblock ~16 ~11 ~8 dirt 1  
+fill ~16 ~11 ~10 ~17 ~11 ~10 dirt 0 
+setblock ~16 ~11 ~14 dirt 0 
+setblock ~16 ~11 ~15 concrete_powder 13  
+fill ~17 ~11 ~7 ~17 ~12 ~7 dirt 1 
+setblock ~17 ~11 ~8 planks 1  
+fill ~17 ~11 ~9 ~19 ~11 ~9 dirt 0  
+fill ~17 ~11 ~12 ~20 ~11 ~12 stone 0  
+fill ~17 ~11 ~13 ~17 ~11 ~14 dirt 1 
+setblock ~17 ~11 ~15 stained_hardened_clay 5 
+setblock ~17 ~11 ~16 concrete_powder 13  
+fill ~18 ~11 ~4 ~20 ~11 ~4 dirt 0  
+fill ~18 ~11 ~5 ~18 ~12 ~5 stone 1  
+fill ~18 ~11 ~6 ~21 ~11 ~6 stone 1 
+setblock ~18 ~11 ~7 dirt 0  
+fill ~18 ~11 ~8 ~18 ~12 ~8 stone 1 
+setblock ~18 ~11 ~10 planks 1 
+setblock ~18 ~11 ~14 dirt 0 
+setblock ~18 ~11 ~15 planks 1  
+fill ~18 ~11 ~16 ~18 ~13 ~16 dirt 0 
+setblock ~18 ~11 ~17 stained_hardened_clay 5  
+fill ~19 ~11 ~5 ~19 ~12 ~5 dirt 0  
+fill ~19 ~11 ~7 ~19 ~14 ~7 planks 1 
+setblock ~19 ~11 ~8 dirt 1  
+fill ~19 ~11 ~13 ~20 ~11 ~13 stone 0 
+setblock ~19 ~11 ~14 stone 1 
+setblock ~19 ~11 ~15 dirt 1 
+setblock ~19 ~11 ~16 stone 1  
+fill ~19 ~11 ~17 ~19 ~12 ~17 dirt 0 
+setblock ~19 ~11 ~18 dirt 1 
+setblock ~19 ~11 ~19 planks 1  
+fill ~19 ~11 ~20 ~19 ~11 ~21 grass 0  
+fill ~19 ~11 ~22 ~19 ~12 ~22 stone 1 
+setblock ~19 ~11 ~23 dirt 0  
+fill ~20 ~11 ~5 ~21 ~11 ~5 stone 1 
+setblock ~20 ~11 ~8 dirt 0  
+fill ~20 ~11 ~9 ~20 ~15 ~9 stone 0  
+fill ~20 ~11 ~10 ~20 ~16 ~10 stone 0  
+fill ~20 ~11 ~11 ~20 ~16 ~11 stone 0 
+setblock ~20 ~11 ~15 stone 1 
+setblock ~20 ~11 ~16 dirt 0  
+fill ~20 ~11 ~20 ~20 ~13 ~20 planks 1 
+setblock ~20 ~11 ~21 stone 1  
+fill ~20 ~11 ~23 ~20 ~12 ~23 planks 1  
+fill ~20 ~11 ~24 ~20 ~14 ~24 dirt 0 
+setblock ~20 ~11 ~25 planks 1 
+setblock ~20 ~11 ~26 dirt 1 
+setblock ~21 ~11 ~4 dirt 1  
+fill ~21 ~11 ~8 ~21 ~12 ~8 stone 1  
+fill ~21 ~11 ~9 ~26 ~11 ~9 sand 0  
+fill ~21 ~11 ~10 ~26 ~11 ~10 sand 0  
+fill ~21 ~11 ~11 ~27 ~11 ~11 sand 0  
+fill ~21 ~11 ~12 ~26 ~11 ~12 sand 0  
+fill ~21 ~11 ~13 ~26 ~11 ~13 sand 0  
+fill ~21 ~11 ~14 ~21 ~16 ~14 stone 0  
+fill ~21 ~11 ~15 ~21 ~16 ~15 stone 0 
+setblock ~21 ~11 ~16 stone 1 
+setblock ~21 ~11 ~17 planks 1  
+fill ~21 ~11 ~18 ~22 ~11 ~18 stone 1  
+fill ~21 ~11 ~19 ~22 ~11 ~19 planks 1 
+setblock ~21 ~11 ~20 stone 1  
+fill ~21 ~11 ~21 ~22 ~11 ~21 planks 1  
+fill ~21 ~11 ~22 ~21 ~12 ~22 dirt 0 
+setblock ~21 ~11 ~24 stone 1  
+fill ~21 ~11 ~25 ~22 ~11 ~25 dirt 1 
+setblock ~21 ~11 ~26 stone 1 
+setblock ~21 ~11 ~27 planks 1 
+setblock ~22 ~11 ~4 dirt 0  
+fill ~22 ~11 ~5 ~22 ~11 ~7 planks 1  
+fill ~22 ~11 ~8 ~22 ~12 ~8 dirt 0  
+fill ~22 ~11 ~14 ~26 ~11 ~14 sand 0  
+fill ~22 ~11 ~15 ~26 ~11 ~15 sand 0  
+fill ~22 ~11 ~16 ~26 ~11 ~16 sand 0  
+fill ~22 ~11 ~17 ~27 ~11 ~17 sand 0 
+setblock ~22 ~11 ~20 dirt 0 
+setblock ~22 ~11 ~23 stone 1 
+setblock ~22 ~11 ~24 dirt 0 
+setblock ~22 ~11 ~26 planks 1 
+setblock ~22 ~11 ~27 dirt 0 
+setblock ~23 ~11 ~3 planks 1 
+setblock ~23 ~11 ~5 dirt 1  
+fill ~23 ~11 ~7 ~23 ~12 ~7 dirt 0 
+setblock ~23 ~11 ~8 stone 1  
+fill ~23 ~11 ~18 ~28 ~11 ~18 sand 0  
+fill ~23 ~11 ~19 ~23 ~17 ~19 stone 0  
+fill ~23 ~11 ~20 ~23 ~16 ~20 stone 0  
+fill ~23 ~11 ~21 ~23 ~16 ~21 stone 0  
+fill ~23 ~11 ~22 ~23 ~16 ~22 stone 0  
+fill ~23 ~11 ~23 ~23 ~16 ~23 stone 0 
+setblock ~23 ~11 ~24 dirt 1 
+setblock ~23 ~11 ~25 planks 1 
+setblock ~23 ~11 ~26 stone 1 
+setblock ~23 ~11 ~27 dirt 1 
+setblock ~23 ~11 ~28 stone 1  
+fill ~24 ~11 ~3 ~24 ~12 ~3 dirt 1  
+fill ~24 ~11 ~4 ~25 ~11 ~4 dirt 1 
+setblock ~24 ~11 ~7 planks 1  
+fill ~24 ~11 ~8 ~26 ~11 ~8 sand 0  
+fill ~24 ~11 ~19 ~27 ~11 ~19 sand 0  
+fill ~24 ~11 ~20 ~26 ~11 ~20 sand 0  
+fill ~24 ~11 ~21 ~26 ~11 ~21 sand 0  
+fill ~24 ~11 ~22 ~25 ~11 ~22 sand 0  
+fill ~24 ~11 ~23 ~24 ~11 ~24 planks 1 
+setblock ~24 ~11 ~25 stone 1 
+setblock ~24 ~11 ~28 dirt 1 
+setblock ~24 ~11 ~29 stone 1 
+setblock ~25 ~11 ~3 stone 1 
+setblock ~25 ~11 ~5 dirt 0  
+fill ~25 ~11 ~6 ~26 ~11 ~6 planks 1 
+setblock ~25 ~11 ~23 dirt 0  
+fill ~25 ~11 ~24 ~27 ~11 ~24 stone 1 
+setblock ~25 ~11 ~25 planks 1  
+fill ~25 ~11 ~27 ~25 ~10 ~27 dirt 1 
+setblock ~25 ~11 ~29 dirt 1 
+setblock ~26 ~11 ~3 dirt 1 
+setblock ~26 ~11 ~5 stone 1  
+fill ~26 ~11 ~22 ~27 ~11 ~22 stone 0 
+setblock ~26 ~11 ~25 stone 1  
+fill ~26 ~11 ~26 ~26 ~11 ~28 planks 1  
+fill ~27 ~11 ~3 ~27 ~12 ~3 planks 1 
+setblock ~27 ~11 ~5 dirt 1 
+setblock ~27 ~11 ~6 dirt 0  
+fill ~27 ~11 ~8 ~27 ~13 ~8 dirt 1 
+setblock ~27 ~11 ~9 dirt 0 
+setblock ~27 ~11 ~10 stone 1 
+setblock ~27 ~11 ~12 planks 1  
+fill ~27 ~11 ~13 ~27 ~13 ~13 dirt 1  
+fill ~27 ~11 ~14 ~27 ~11 ~13 dirt 1 
+setblock ~27 ~11 ~15 dirt 0  
+fill ~27 ~11 ~16 ~27 ~12 ~16 stone 1  
+fill ~27 ~11 ~23 ~29 ~11 ~23 dirt 1  
+fill ~27 ~11 ~26 ~27 ~13 ~26 dirt 1 
+setblock ~27 ~11 ~27 planks 1 
+setblock ~28 ~11 ~4 dirt 0  
+fill ~28 ~11 ~5 ~28 ~12 ~5 stone 1  
+fill ~28 ~11 ~6 ~29 ~11 ~6 stone 1  
+fill ~28 ~11 ~8 ~28 ~11 ~9 planks 1  
+fill ~28 ~11 ~10 ~28 ~14 ~10 dirt 0 
+setblock ~28 ~11 ~11 planks 1 
+setblock ~28 ~11 ~13 stone 1 
+setblock ~28 ~11 ~14 planks 1 
+setblock ~28 ~11 ~15 dirt 1  
+fill ~28 ~11 ~17 ~28 ~12 ~17 dirt 1  
+fill ~28 ~11 ~19 ~29 ~11 ~19 dirt 0  
+fill ~28 ~11 ~20 ~29 ~11 ~20 dirt 1  
+fill ~28 ~11 ~22 ~29 ~11 ~22 dirt 1  
+fill ~28 ~11 ~24 ~29 ~11 ~24 planks 1 
+setblock ~28 ~11 ~26 dirt 0  
+fill ~29 ~11 ~4 ~29 ~11 ~5 dirt 1 
+setblock ~29 ~11 ~7 dirt 0 
+setblock ~29 ~11 ~8 dirt 1 
+setblock ~29 ~11 ~9 dirt 0  
+fill ~29 ~11 ~10 ~30 ~11 ~10 planks 1 
+setblock ~29 ~11 ~14 stone 1  
+fill ~29 ~11 ~15 ~29 ~12 ~15 dirt 0  
+fill ~29 ~11 ~16 ~29 ~11 ~17 stone 1 
+setblock ~29 ~11 ~18 planks 1 
+setblock ~29 ~11 ~25 dirt 1 
+setblock ~30 ~11 ~4 dirt 0 
+setblock ~30 ~11 ~5 stone 1  
+fill ~30 ~11 ~6 ~31 ~11 ~6 dirt 0  
+fill ~30 ~11 ~7 ~31 ~11 ~7 dirt 1 
+setblock ~30 ~11 ~8 dirt 0  
+fill ~30 ~11 ~9 ~31 ~11 ~9 stone 1 
+setblock ~30 ~11 ~11 dirt 0 
+setblock ~30 ~11 ~13 planks 1  
+fill ~30 ~11 ~16 ~30 ~11 ~17 planks 1 
+setblock ~30 ~11 ~18 stone 1 
+setblock ~30 ~11 ~19 dirt 1  
+fill ~30 ~11 ~21 ~30 ~12 ~21 planks 1  
+fill ~30 ~11 ~22 ~30 ~11 ~23 stone 1 
+setblock ~30 ~11 ~24 dirt 0 
+setblock ~31 ~11 ~4 stone 1  
+fill ~31 ~11 ~5 ~31 ~12 ~5 dirt 1 
+setblock ~31 ~11 ~8 stone 1 
+setblock ~31 ~11 ~10 stone 1  
+fill ~31 ~11 ~14 ~31 ~11 ~15 stone 1  
+fill ~31 ~11 ~19 ~31 ~11 ~21 stone 1 
+setblock ~31 ~11 ~22 planks 1 
+setblock ~31 ~11 ~23 dirt 0 
+setblock ~32 ~11 ~7 stone 1 
+setblock ~32 ~11 ~8 planks 1  
+fill ~32 ~11 ~19 ~32 ~11 ~20 planks 1 
+setblock ~33 ~11 ~19 dirt 0 
+setblock ~9 ~12 ~17 stained_glass_pane 9 
+setblock ~10 ~12 ~14 pink_glazed_terracotta 0 
+setblock ~10 ~12 ~15 pink_glazed_terracotta 3 
+setblock ~10 ~12 ~17 pink_glazed_terracotta 3 
+setblock ~13 ~12 ~9 stone 1 
+setblock ~14 ~12 ~9 dirt 1 
+setblock ~14 ~12 ~10 stained_hardened_clay 5  
+fill ~14 ~12 ~11 ~16 ~12 ~11 dirt 0 
+setblock ~14 ~12 ~12 stained_hardened_clay 5 
+setblock ~14 ~12 ~13 dirt 0 
+setblock ~15 ~12 ~7 dirt 1  
+fill ~15 ~12 ~8 ~16 ~12 ~8 dirt 0 
+setblock ~15 ~12 ~9 stone 1  
+fill ~15 ~12 ~14 ~16 ~12 ~14 stained_hardened_clay 8  
+fill ~15 ~12 ~15 ~16 ~12 ~15 stone_slab 0  
+fill ~16 ~12 ~6 ~16 ~11 ~6 dirt 0  
+fill ~16 ~12 ~7 ~16 ~13 ~7 planks 1 
+setblock ~16 ~12 ~9 dirt 1  
+fill ~16 ~12 ~10 ~17 ~12 ~10 dirt 0 
+setblock ~16 ~12 ~13 dirt 0  
+fill ~17 ~12 ~5 ~17 ~13 ~5 dirt 0 
+setblock ~17 ~12 ~6 dirt 1  
+fill ~17 ~12 ~8 ~17 ~13 ~8 stone 1 
+setblock ~17 ~12 ~9 planks 1 
+setblock ~17 ~12 ~11 dirt 1 
+setblock ~17 ~12 ~12 concrete_powder 13  
+fill ~17 ~12 ~13 ~21 ~12 ~13 stone 0 
+setblock ~17 ~12 ~14 dirt 0 
+setblock ~17 ~12 ~15 stone 1 
+setblock ~17 ~12 ~16 planks 1  
+fill ~18 ~12 ~6 ~20 ~12 ~6 stone 1  
+fill ~18 ~12 ~7 ~18 ~13 ~7 dirt 1 
+setblock ~18 ~12 ~9 dirt 1 
+setblock ~18 ~12 ~10 stone 1  
+fill ~18 ~12 ~12 ~21 ~12 ~12 stone 0 
+setblock ~18 ~12 ~14 planks 1 
+setblock ~18 ~12 ~15 dirt 0  
+fill ~19 ~12 ~8 ~19 ~12 ~9 stone 1  
+fill ~19 ~12 ~14 ~19 ~16 ~14 stone 0  
+fill ~19 ~12 ~15 ~19 ~12 ~16 planks 1  
+fill ~19 ~12 ~18 ~19 ~13 ~18 dirt 0 
+setblock ~19 ~12 ~19 stone 1 
+setblock ~19 ~12 ~20 dirt 1 
+setblock ~19 ~12 ~21 concrete_powder 13 
+setblock ~19 ~12 ~23 grass 0  
+fill ~20 ~12 ~4 ~20 ~13 ~4 dirt 0  
+fill ~20 ~12 ~5 ~20 ~14 ~5 stone 1 
+setblock ~20 ~12 ~8 planks 1  
+fill ~20 ~12 ~15 ~20 ~16 ~15 stone 0 
+setblock ~20 ~12 ~16 planks 1  
+fill ~20 ~12 ~17 ~21 ~12 ~17 stone 1  
+fill ~20 ~12 ~18 ~20 ~12 ~17 stone 1  
+fill ~20 ~12 ~19 ~21 ~12 ~19 dirt 0 
+setblock ~20 ~12 ~21 dirt 1 
+setblock ~20 ~12 ~22 stone 1 
+setblock ~20 ~12 ~25 stone 1  
+fill ~20 ~12 ~26 ~20 ~15 ~26 dirt 0 
+setblock ~21 ~12 ~4 stone 1  
+fill ~21 ~12 ~5 ~21 ~13 ~5 dirt 1 
+setblock ~21 ~12 ~6 dirt 0  
+fill ~21 ~12 ~7 ~22 ~12 ~7 planks 1  
+fill ~21 ~12 ~9 ~22 ~12 ~9 stone 0  
+fill ~21 ~12 ~10 ~21 ~16 ~10 stone 0  
+fill ~21 ~12 ~11 ~21 ~16 ~11 stone 0  
+fill ~21 ~12 ~16 ~21 ~17 ~16 stone 0 
+setblock ~21 ~12 ~18 planks 1 
+setblock ~21 ~12 ~20 dirt 1 
+setblock ~21 ~12 ~21 stone 1 
+setblock ~21 ~12 ~23 stone 1  
+fill ~21 ~12 ~24 ~21 ~12 ~26 dirt 1  
+fill ~21 ~12 ~27 ~21 ~15 ~27 dirt 0 
+setblock ~22 ~12 ~4 planks 1  
+fill ~22 ~12 ~5 ~24 ~12 ~5 stone 1  
+fill ~22 ~12 ~6 ~22 ~13 ~6 dirt 1  
+fill ~22 ~12 ~10 ~26 ~12 ~10 sand 0  
+fill ~22 ~12 ~11 ~27 ~12 ~11 sand 0  
+fill ~22 ~12 ~12 ~26 ~12 ~12 sand 0  
+fill ~22 ~12 ~13 ~26 ~12 ~13 sand 0  
+fill ~22 ~12 ~14 ~26 ~12 ~14 sand 0  
+fill ~22 ~12 ~15 ~26 ~12 ~15 sand 0  
+fill ~22 ~12 ~16 ~26 ~12 ~16 sand 0  
+fill ~22 ~12 ~17 ~27 ~12 ~17 sand 0  
+fill ~22 ~12 ~18 ~22 ~16 ~18 stone 0  
+fill ~22 ~12 ~19 ~22 ~16 ~19 stone 0  
+fill ~22 ~12 ~20 ~22 ~16 ~20 stone 0  
+fill ~22 ~12 ~21 ~22 ~16 ~21 stone 0  
+fill ~22 ~12 ~22 ~22 ~16 ~22 stone 0  
+fill ~22 ~12 ~23 ~22 ~17 ~23 stone 0  
+fill ~22 ~12 ~24 ~22 ~17 ~24 stone 0  
+fill ~22 ~12 ~25 ~22 ~13 ~25 stone 1 
+setblock ~22 ~12 ~26 dirt 0  
+fill ~22 ~12 ~27 ~25 ~12 ~27 planks 1 
+setblock ~23 ~12 ~3 stone 1  
+fill ~23 ~12 ~4 ~23 ~13 ~4 dirt 1 
+setblock ~23 ~12 ~6 stone 1 
+setblock ~23 ~12 ~8 planks 1  
+fill ~23 ~12 ~9 ~26 ~12 ~9 sand 0  
+fill ~23 ~12 ~18 ~27 ~12 ~18 sand 0 
+setblock ~23 ~12 ~24 planks 1  
+fill ~23 ~12 ~25 ~25 ~12 ~25 dirt 0 
+setblock ~23 ~12 ~26 planks 1 
+setblock ~23 ~12 ~28 dirt 1 
+setblock ~24 ~12 ~4 stone 1  
+fill ~24 ~12 ~7 ~25 ~12 ~7 dirt 1  
+fill ~24 ~12 ~8 ~26 ~12 ~8 sand 0  
+fill ~24 ~12 ~19 ~26 ~12 ~19 sand 0  
+fill ~24 ~12 ~20 ~26 ~12 ~20 sand 0  
+fill ~24 ~12 ~21 ~25 ~12 ~21 sand 0  
+fill ~24 ~12 ~22 ~25 ~12 ~22 sand 0 
+setblock ~24 ~12 ~23 dirt 0  
+fill ~24 ~12 ~24 ~24 ~13 ~24 stone 1 
+setblock ~24 ~12 ~26 dirt 1  
+fill ~24 ~12 ~28 ~24 ~13 ~28 stone 1  
+fill ~25 ~12 ~3 ~25 ~12 ~7 dirt 1 
+setblock ~25 ~12 ~23 dirt 1 
+setblock ~25 ~12 ~24 planks 1  
+fill ~26 ~12 ~3 ~26 ~13 ~3 planks 1  
+fill ~26 ~12 ~4 ~26 ~12 ~6 planks 1  
+fill ~26 ~12 ~21 ~26 ~16 ~21 stone 0  
+fill ~26 ~12 ~22 ~27 ~12 ~22 stone 0 
+setblock ~26 ~12 ~23 dirt 0 
+setblock ~26 ~12 ~24 stone 1  
+fill ~26 ~12 ~25 ~27 ~12 ~25 planks 1  
+fill ~26 ~12 ~26 ~26 ~13 ~26 stone 1  
+fill ~26 ~12 ~27 ~26 ~13 ~27 stone 1  
+fill ~27 ~12 ~4 ~28 ~12 ~4 stone 1  
+fill ~27 ~12 ~5 ~27 ~13 ~5 stone 1 
+setblock ~27 ~12 ~6 dirt 1 
+setblock ~27 ~12 ~7 planks 1 
+setblock ~27 ~12 ~9 planks 1 
+setblock ~27 ~12 ~10 dirt 1  
+fill ~27 ~12 ~12 ~27 ~13 ~12 stone 1  
+fill ~27 ~12 ~14 ~27 ~13 ~14 planks 1 
+setblock ~27 ~12 ~15 dirt 1  
+fill ~27 ~12 ~19 ~27 ~15 ~19 stone 0 
+setblock ~27 ~12 ~23 stone 1 
+setblock ~27 ~12 ~24 planks 1 
+setblock ~27 ~12 ~27 dirt 1  
+fill ~28 ~12 ~6 ~30 ~12 ~6 planks 1 
+setblock ~28 ~12 ~7 dirt 1  
+fill ~28 ~12 ~8 ~29 ~12 ~8 stone 1 
+setblock ~28 ~12 ~9 dirt 0  
+fill ~28 ~12 ~11 ~28 ~12 ~12 dirt 1  
+fill ~28 ~12 ~13 ~28 ~13 ~13 planks 1  
+fill ~28 ~12 ~14 ~28 ~13 ~14 stone 1 
+setblock ~28 ~12 ~15 dirt 0  
+fill ~28 ~12 ~16 ~29 ~12 ~16 planks 1  
+fill ~28 ~12 ~18 ~28 ~12 ~20 dirt 1 
+setblock ~28 ~12 ~21 stone 1  
+fill ~28 ~12 ~22 ~28 ~13 ~22 planks 1 
+setblock ~28 ~12 ~23 dirt 1 
+setblock ~28 ~12 ~24 stone 1 
+setblock ~28 ~12 ~26 stone 1  
+fill ~29 ~12 ~4 ~29 ~13 ~4 planks 1  
+fill ~29 ~12 ~5 ~31 ~12 ~5 dirt 1  
+fill ~29 ~12 ~7 ~30 ~12 ~7 stone 1  
+fill ~29 ~12 ~9 ~30 ~12 ~9 stone 1 
+setblock ~29 ~12 ~10 dirt 0 
+setblock ~29 ~12 ~12 planks 1 
+setblock ~29 ~12 ~14 dirt 1 
+setblock ~29 ~12 ~17 dirt 1  
+fill ~29 ~12 ~18 ~29 ~13 ~18 dirt 0  
+fill ~29 ~12 ~19 ~29 ~14 ~19 dirt 1  
+fill ~29 ~12 ~20 ~29 ~13 ~20 dirt 1  
+fill ~29 ~12 ~22 ~30 ~12 ~22 dirt 0 
+setblock ~29 ~12 ~23 planks 1 
+setblock ~29 ~12 ~24 dirt 0  
+fill ~30 ~12 ~4 ~31 ~12 ~4 dirt 1  
+fill ~30 ~12 ~8 ~31 ~12 ~8 planks 1 
+setblock ~30 ~12 ~10 stone 1  
+fill ~30 ~12 ~11 ~30 ~12 ~12 dirt 1  
+fill ~30 ~12 ~13 ~30 ~13 ~13 stone 1  
+fill ~30 ~12 ~14 ~30 ~12 ~13 stone 1 
+setblock ~30 ~12 ~15 dirt 1 
+setblock ~30 ~12 ~16 dirt 0  
+fill ~30 ~12 ~17 ~30 ~13 ~17 planks 1  
+fill ~30 ~12 ~18 ~30 ~13 ~18 planks 1  
+fill ~30 ~12 ~19 ~30 ~12 ~20 stone 1  
+fill ~30 ~12 ~23 ~31 ~12 ~23 dirt 1  
+fill ~30 ~12 ~24 ~30 ~12 ~23 dirt 1  
+fill ~31 ~12 ~6 ~31 ~12 ~7 dirt 1 
+setblock ~31 ~12 ~15 stone 1 
+setblock ~31 ~12 ~16 planks 1 
+setblock ~31 ~12 ~19 dirt 0  
+fill ~31 ~12 ~20 ~32 ~12 ~20 planks 1 
+setblock ~31 ~12 ~21 stone 1 
+setblock ~31 ~12 ~22 dirt 1 
+setblock ~32 ~12 ~18 dirt 0  
+fill ~32 ~12 ~19 ~32 ~13 ~19 dirt 1  
+fill ~9 ~13 ~13 ~10 ~13 ~13 stained_glass_pane 9 
+setblock ~9 ~13 ~14 stained_glass_pane 3 
+setblock ~10 ~13 ~14 pink_glazed_terracotta 3 
+setblock ~11 ~13 ~14 stained_glass_pane 9 
+setblock ~11 ~13 ~15 stained_glass_pane 3 
+setblock ~11 ~13 ~17 stained_glass_pane 11 
+setblock ~12 ~13 ~15 stained_glass_pane 11  
+fill ~14 ~13 ~9 ~16 ~13 ~9 dirt 0  
+fill ~14 ~13 ~10 ~16 ~13 ~10 dirt 0  
+fill ~14 ~13 ~11 ~16 ~13 ~11 dirt 0  
+fill ~14 ~13 ~12 ~14 ~13 ~8 dirt 0 
+setblock ~14 ~13 ~13 concrete_powder 13  
+fill ~15 ~13 ~7 ~15 ~14 ~7 dirt 0  
+fill ~15 ~13 ~8 ~16 ~13 ~8 dirt 0  
+fill ~15 ~13 ~12 ~16 ~13 ~12 stained_hardened_clay 8  
+fill ~15 ~13 ~13 ~16 ~13 ~13 stone_slab 0 
+setblock ~16 ~13 ~6 planks 1  
+fill ~17 ~13 ~6 ~17 ~13 ~8 stone 1 
+setblock ~17 ~13 ~9 dirt 1 
+setblock ~17 ~13 ~10 planks 1  
+fill ~17 ~13 ~11 ~17 ~13 ~12 concrete 13  
+fill ~17 ~13 ~13 ~17 ~14 ~13 stained_hardened_clay 13  
+fill ~17 ~13 ~14 ~17 ~14 ~14 concrete 13 
+setblock ~17 ~13 ~15 dirt 0 
+setblock ~17 ~13 ~16 stained_hardened_clay 5 
+setblock ~18 ~13 ~5 dirt 1 
+setblock ~18 ~13 ~6 stained_hardened_clay 5 
+setblock ~18 ~13 ~8 planks 1  
+fill ~18 ~13 ~9 ~22 ~13 ~9 stone 0  
+fill ~18 ~13 ~10 ~18 ~14 ~10 stone 0  
+fill ~18 ~13 ~12 ~21 ~13 ~12 stone 0  
+fill ~18 ~13 ~13 ~21 ~13 ~13 stone 0  
+fill ~18 ~13 ~14 ~18 ~14 ~14 stone 0 
+setblock ~18 ~13 ~15 planks 1 
+setblock ~18 ~13 ~17 grass 0  
+fill ~18 ~13 ~19 ~19 ~13 ~19 dirt 0 
+setblock ~19 ~13 ~5 stone 1 
+setblock ~19 ~13 ~6 planks 1 
+setblock ~19 ~13 ~8 dirt 0  
+fill ~19 ~13 ~15 ~19 ~16 ~15 stone 0 
+setblock ~19 ~13 ~16 stone 1  
+fill ~19 ~13 ~17 ~20 ~13 ~17 dirt 1 
+setblock ~19 ~13 ~20 planks 1 
+setblock ~19 ~13 ~21 dirt 1  
+fill ~19 ~13 ~22 ~20 ~13 ~22 grass 0 
+setblock ~19 ~13 ~23 dirt 0 
+setblock ~20 ~13 ~6 dirt 1  
+fill ~20 ~13 ~7 ~21 ~13 ~7 dirt 0 
+setblock ~20 ~13 ~8 stone 1  
+fill ~20 ~13 ~16 ~20 ~19 ~16 stone 0 
+setblock ~20 ~13 ~18 dirt 0 
+setblock ~20 ~13 ~19 planks 1 
+setblock ~20 ~13 ~21 stone 1 
+setblock ~20 ~13 ~23 grass 0 
+setblock ~20 ~13 ~25 dirt 0 
+setblock ~21 ~13 ~4 dirt 1 
+setblock ~21 ~13 ~6 planks 1 
+setblock ~21 ~13 ~8 planks 1  
+fill ~21 ~13 ~17 ~22 ~13 ~17 stone 0  
+fill ~21 ~13 ~18 ~21 ~16 ~18 stone 0  
+fill ~21 ~13 ~19 ~21 ~15 ~19 stone 0  
+fill ~21 ~13 ~20 ~21 ~15 ~20 stone 0  
+fill ~21 ~13 ~21 ~21 ~15 ~21 stone 0  
+fill ~21 ~13 ~22 ~21 ~15 ~22 stone 0  
+fill ~21 ~13 ~23 ~21 ~16 ~23 stone 0  
+fill ~21 ~13 ~24 ~21 ~16 ~24 stone 0  
+fill ~21 ~13 ~25 ~21 ~14 ~25 stone 0  
+fill ~21 ~13 ~26 ~21 ~14 ~26 dirt 0  
+fill ~22 ~13 ~4 ~22 ~15 ~4 dirt 0 
+setblock ~22 ~13 ~5 dirt 1  
+fill ~22 ~13 ~7 ~22 ~14 ~7 dirt 1  
+fill ~22 ~13 ~8 ~22 ~13 ~5 dirt 1  
+fill ~22 ~13 ~10 ~26 ~13 ~10 sand 0  
+fill ~22 ~13 ~11 ~27 ~13 ~11 sand 0  
+fill ~22 ~13 ~12 ~26 ~13 ~12 sand 0  
+fill ~22 ~13 ~13 ~26 ~13 ~13 sand 0  
+fill ~22 ~13 ~14 ~26 ~13 ~14 sand 0  
+fill ~22 ~13 ~15 ~23 ~13 ~15 sand 0  
+fill ~22 ~13 ~16 ~26 ~13 ~16 sand 0 
+setblock ~22 ~13 ~26 planks 1  
+fill ~22 ~13 ~27 ~22 ~14 ~27 stone 1  
+fill ~23 ~13 ~3 ~23 ~14 ~3 dirt 1  
+fill ~23 ~13 ~5 ~23 ~14 ~5 stone 1  
+fill ~23 ~13 ~6 ~24 ~13 ~6 planks 1  
+fill ~23 ~13 ~7 ~25 ~13 ~7 planks 1 
+setblock ~23 ~13 ~8 dirt 0  
+fill ~23 ~13 ~9 ~26 ~13 ~9 sand 0  
+fill ~23 ~13 ~17 ~27 ~13 ~17 sand 0  
+fill ~23 ~13 ~18 ~23 ~16 ~18 stone 0 
+setblock ~23 ~13 ~24 dirt 0  
+fill ~23 ~13 ~25 ~23 ~14 ~25 planks 1  
+fill ~23 ~13 ~26 ~23 ~13 ~27 dirt 1 
+setblock ~23 ~13 ~28 planks 1  
+fill ~24 ~13 ~3 ~25 ~13 ~3 dirt 0  
+fill ~24 ~13 ~4 ~24 ~14 ~4 dirt 0  
+fill ~24 ~13 ~5 ~24 ~13 ~3 dirt 0  
+fill ~24 ~13 ~8 ~26 ~13 ~8 sand 0  
+fill ~24 ~13 ~18 ~27 ~13 ~18 sand 0  
+fill ~24 ~13 ~19 ~24 ~16 ~19 stone 0  
+fill ~24 ~13 ~20 ~24 ~16 ~20 stone 0  
+fill ~24 ~13 ~21 ~27 ~13 ~21 stone 0  
+fill ~24 ~13 ~22 ~27 ~13 ~22 stone 0 
+setblock ~24 ~13 ~23 stone 1 
+setblock ~24 ~13 ~25 dirt 0 
+setblock ~24 ~13 ~26 stone 1 
+setblock ~24 ~13 ~27 dirt 1  
+fill ~25 ~13 ~4 ~27 ~13 ~4 stone 1 
+setblock ~25 ~13 ~5 planks 1 
+setblock ~25 ~13 ~6 dirt 1  
+fill ~25 ~13 ~15 ~26 ~13 ~15 sand 0  
+fill ~25 ~13 ~19 ~26 ~13 ~19 sand 0  
+fill ~25 ~13 ~20 ~26 ~13 ~20 sand 0  
+fill ~25 ~13 ~23 ~25 ~13 ~24 dirt 0 
+setblock ~25 ~13 ~25 dirt 1 
+setblock ~25 ~13 ~26 dirt 0  
+fill ~25 ~13 ~27 ~25 ~14 ~27 planks 1 
+setblock ~25 ~13 ~28 stone 1 
+setblock ~26 ~13 ~5 dirt 1  
+fill ~26 ~13 ~6 ~27 ~13 ~6 stone 1  
+fill ~26 ~13 ~7 ~26 ~16 ~7 dirt 1  
+fill ~26 ~13 ~23 ~28 ~13 ~23 planks 1  
+fill ~26 ~13 ~24 ~26 ~13 ~25 planks 1 
+setblock ~27 ~13 ~3 dirt 0 
+setblock ~27 ~13 ~7 dirt 0 
+setblock ~27 ~13 ~9 stone 1  
+fill ~27 ~13 ~10 ~27 ~14 ~10 dirt 0  
+fill ~27 ~13 ~15 ~27 ~13 ~16 dirt 0  
+fill ~27 ~13 ~24 ~28 ~13 ~24 dirt 1  
+fill ~27 ~13 ~25 ~27 ~13 ~24 dirt 1  
+fill ~27 ~13 ~27 ~27 ~14 ~27 stone 1 
+setblock ~28 ~13 ~4 planks 1 
+setblock ~28 ~13 ~5 dirt 0  
+fill ~28 ~13 ~6 ~28 ~14 ~6 planks 1  
+fill ~28 ~13 ~7 ~28 ~13 ~6 planks 1 
+setblock ~28 ~13 ~8 dirt 0  
+fill ~28 ~13 ~9 ~29 ~13 ~9 dirt 1  
+fill ~28 ~13 ~11 ~29 ~13 ~11 planks 1  
+fill ~28 ~13 ~12 ~28 ~13 ~11 planks 1  
+fill ~28 ~13 ~15 ~28 ~14 ~15 dirt 1  
+fill ~28 ~13 ~16 ~29 ~13 ~16 dirt 1  
+fill ~28 ~13 ~17 ~29 ~13 ~17 stone 1  
+fill ~28 ~13 ~18 ~28 ~15 ~18 dirt 0 
+setblock ~28 ~13 ~19 stone 1  
+fill ~28 ~13 ~20 ~28 ~15 ~20 dirt 1 
+setblock ~28 ~13 ~21 planks 1 
+setblock ~28 ~13 ~25 dirt 0 
+setblock ~28 ~13 ~26 planks 1  
+fill ~29 ~13 ~5 ~29 ~14 ~5 dirt 1  
+fill ~29 ~13 ~6 ~29 ~14 ~6 dirt 1  
+fill ~29 ~13 ~7 ~29 ~12 ~7 stone 1  
+fill ~29 ~13 ~8 ~29 ~13 ~7 stone 1 
+setblock ~29 ~13 ~10 planks 1  
+fill ~29 ~13 ~12 ~30 ~13 ~12 dirt 0  
+fill ~29 ~13 ~13 ~29 ~13 ~14 dirt 0  
+fill ~29 ~13 ~15 ~30 ~13 ~15 stone 1 
+setblock ~29 ~13 ~21 dirt 0  
+fill ~29 ~13 ~22 ~29 ~14 ~22 dirt 1 
+setblock ~29 ~13 ~23 dirt 0 
+setblock ~29 ~13 ~24 planks 1  
+fill ~30 ~13 ~4 ~31 ~13 ~4 dirt 1  
+fill ~30 ~13 ~5 ~31 ~13 ~5 stone 1  
+fill ~30 ~13 ~6 ~31 ~13 ~6 dirt 0 
+setblock ~30 ~13 ~7 planks 1 
+setblock ~30 ~13 ~8 dirt 1 
+setblock ~30 ~13 ~9 planks 1 
+setblock ~30 ~13 ~10 dirt 1 
+setblock ~30 ~13 ~11 stone 1 
+setblock ~30 ~13 ~14 dirt 1 
+setblock ~30 ~13 ~16 planks 1  
+fill ~30 ~13 ~19 ~31 ~13 ~19 planks 1  
+fill ~30 ~13 ~20 ~30 ~13 ~21 dirt 1 
+setblock ~30 ~13 ~22 stone 1 
+setblock ~30 ~13 ~23 planks 1 
+setblock ~30 ~13 ~24 dirt 0  
+fill ~31 ~13 ~7 ~31 ~15 ~7 stone 1 
+setblock ~31 ~13 ~8 dirt 0 
+setblock ~31 ~13 ~15 planks 1 
+setblock ~31 ~13 ~16 dirt 1 
+setblock ~31 ~13 ~18 dirt 1  
+fill ~31 ~13 ~20 ~31 ~15 ~20 dirt 0  
+fill ~31 ~13 ~21 ~31 ~14 ~21 dirt 1 
+setblock ~31 ~13 ~22 dirt 0  
+fill ~32 ~13 ~18 ~32 ~14 ~18 planks 1 
+setblock ~32 ~13 ~20 planks 1 
+setblock ~7 ~14 ~12 stained_glass_pane 9  
+fill ~9 ~14 ~13 ~9 ~15 ~13 pink_glazed_terracotta 3 
+setblock ~9 ~14 ~19 stained_glass_pane 9 
+setblock ~11 ~14 ~14 stained_glass_pane 3  
+fill ~11 ~14 ~15 ~11 ~14 ~16 pink_glazed_terracotta 0 
+setblock ~11 ~14 ~17 pink_glazed_terracotta 3  
+fill ~14 ~14 ~8 ~14 ~14 ~11 grass 0 
+setblock ~15 ~14 ~6 grass 0  
+fill ~15 ~14 ~8 ~16 ~14 ~8 dirt 0  
+fill ~15 ~14 ~9 ~16 ~14 ~9 stained_hardened_clay 5  
+fill ~15 ~14 ~10 ~16 ~14 ~10 stained_hardened_clay 8  
+fill ~15 ~14 ~11 ~16 ~14 ~11 stone_slab 0  
+fill ~16 ~14 ~6 ~16 ~14 ~8 dirt 0  
+fill ~17 ~14 ~6 ~17 ~16 ~6 grass 0 
+setblock ~17 ~14 ~7 dirt 1  
+fill ~17 ~14 ~8 ~23 ~14 ~8 stone 0  
+fill ~17 ~14 ~9 ~17 ~15 ~9 concrete 13 
+setblock ~17 ~14 ~10 dirt 0  
+fill ~17 ~14 ~11 ~17 ~15 ~11 grass 0 
+setblock ~17 ~14 ~12 concrete 13 
+setblock ~17 ~14 ~15 stained_hardened_clay 13  
+fill ~17 ~14 ~16 ~17 ~14 ~17 dirt 0 
+setblock ~17 ~14 ~18 grass 0 
+setblock ~18 ~14 ~6 dirt 0 
+setblock ~18 ~14 ~7 planks 1  
+fill ~18 ~14 ~9 ~22 ~14 ~9 stone 0  
+fill ~18 ~14 ~12 ~21 ~14 ~12 stone 0  
+fill ~18 ~14 ~13 ~21 ~14 ~13 stone 0  
+fill ~18 ~14 ~15 ~18 ~14 ~16 stone 0  
+fill ~18 ~14 ~17 ~18 ~14 ~18 concrete_powder 13  
+fill ~18 ~14 ~19 ~18 ~15 ~19 dirt 0 
+setblock ~19 ~14 ~5 dirt 0 
+setblock ~19 ~14 ~6 grass 0  
+fill ~19 ~14 ~16 ~19 ~19 ~16 stone 0  
+fill ~19 ~14 ~17 ~22 ~14 ~17 stone 0  
+fill ~19 ~14 ~18 ~23 ~14 ~18 stone 0  
+fill ~19 ~14 ~19 ~19 ~15 ~19 stained_hardened_clay 13  
+fill ~19 ~14 ~20 ~19 ~15 ~20 dirt 0 
+setblock ~19 ~14 ~22 stained_hardened_clay 13 
+setblock ~19 ~14 ~23 concrete_powder 13 
+setblock ~20 ~14 ~6 planks 1  
+fill ~20 ~14 ~7 ~20 ~13 ~7 dirt 0 
+setblock ~20 ~14 ~19 stone 0 
+setblock ~20 ~14 ~20 concrete_powder 13  
+fill ~20 ~14 ~21 ~20 ~15 ~21 dirt 0 
+setblock ~20 ~14 ~22 grass 0  
+fill ~20 ~14 ~23 ~20 ~15 ~23 dirt 0 
+setblock ~20 ~14 ~25 stained_hardened_clay 13  
+fill ~21 ~14 ~5 ~21 ~16 ~5 planks 1 
+setblock ~21 ~14 ~6 dirt 1 
+setblock ~21 ~14 ~7 planks 1 
+setblock ~22 ~14 ~5 dirt 0 
+setblock ~22 ~14 ~6 planks 1  
+fill ~22 ~14 ~10 ~26 ~14 ~10 sand 0  
+fill ~22 ~14 ~11 ~27 ~14 ~11 sand 0  
+fill ~22 ~14 ~12 ~27 ~14 ~12 sand 0  
+fill ~22 ~14 ~13 ~27 ~14 ~13 sand 0  
+fill ~22 ~14 ~14 ~27 ~14 ~14 sand 0  
+fill ~22 ~14 ~15 ~27 ~14 ~15 sand 0  
+fill ~22 ~14 ~16 ~27 ~14 ~16 sand 0 
+setblock ~22 ~14 ~25 planks 1 
+setblock ~22 ~14 ~26 dirt 1  
+fill ~23 ~14 ~4 ~23 ~15 ~4 stone 1  
+fill ~23 ~14 ~6 ~24 ~14 ~6 dirt 0  
+fill ~23 ~14 ~7 ~23 ~13 ~7 planks 1  
+fill ~23 ~14 ~9 ~26 ~14 ~9 sand 0  
+fill ~23 ~14 ~17 ~27 ~14 ~17 sand 0 
+setblock ~23 ~14 ~24 planks 1  
+fill ~23 ~14 ~26 ~23 ~15 ~26 planks 1  
+fill ~23 ~14 ~27 ~24 ~14 ~27 stone 1 
+setblock ~24 ~14 ~3 stone 1 
+setblock ~24 ~14 ~5 planks 1 
+setblock ~24 ~14 ~7 dirt 0  
+fill ~24 ~14 ~8 ~25 ~14 ~8 sand 0  
+fill ~24 ~14 ~18 ~27 ~14 ~18 sand 0  
+fill ~24 ~14 ~21 ~27 ~14 ~21 stone 0  
+fill ~24 ~14 ~22 ~26 ~14 ~22 stone 0 
+setblock ~24 ~14 ~23 planks 1 
+setblock ~24 ~14 ~24 dirt 0  
+fill ~24 ~14 ~25 ~24 ~14 ~26 dirt 1  
+fill ~24 ~14 ~28 ~24 ~15 ~28 dirt 0  
+fill ~25 ~14 ~3 ~25 ~14 ~4 dirt 1 
+setblock ~25 ~14 ~5 dirt 0  
+fill ~25 ~14 ~6 ~26 ~14 ~6 stone 1  
+fill ~25 ~14 ~7 ~25 ~14 ~6 stone 1  
+fill ~25 ~14 ~19 ~26 ~14 ~19 sand 0  
+fill ~25 ~14 ~20 ~27 ~14 ~20 stone 0  
+fill ~25 ~14 ~23 ~25 ~14 ~24 stone 1 
+setblock ~25 ~14 ~25 dirt 0 
+setblock ~25 ~14 ~26 planks 1  
+fill ~26 ~14 ~3 ~26 ~14 ~4 stone 1 
+setblock ~26 ~14 ~5 planks 1  
+fill ~26 ~14 ~8 ~26 ~17 ~8 stone 0 
+setblock ~26 ~14 ~23 dirt 0 
+setblock ~26 ~14 ~24 dirt 1 
+setblock ~26 ~14 ~25 planks 1  
+fill ~26 ~14 ~26 ~26 ~14 ~27 dirt 0  
+fill ~27 ~14 ~4 ~30 ~14 ~4 stone 1 
+setblock ~27 ~14 ~5 dirt 0 
+setblock ~27 ~14 ~6 dirt 1 
+setblock ~27 ~14 ~7 planks 1 
+setblock ~27 ~14 ~8 stone 1 
+setblock ~27 ~14 ~9 dirt 1  
+fill ~27 ~14 ~22 ~27 ~16 ~22 stained_hardened_clay 13 
+setblock ~27 ~14 ~23 dirt 1  
+fill ~27 ~14 ~24 ~27 ~15 ~24 stone 1 
+setblock ~27 ~14 ~25 dirt 0 
+setblock ~27 ~14 ~26 planks 1  
+fill ~28 ~14 ~5 ~28 ~15 ~5 planks 1  
+fill ~28 ~14 ~7 ~28 ~16 ~7 dirt 0  
+fill ~28 ~14 ~8 ~28 ~15 ~8 planks 1  
+fill ~28 ~14 ~9 ~29 ~14 ~9 planks 1  
+fill ~28 ~14 ~11 ~30 ~14 ~11 planks 1  
+fill ~28 ~14 ~12 ~29 ~14 ~12 dirt 1 
+setblock ~28 ~14 ~13 stone 1 
+setblock ~28 ~14 ~14 dirt 0 
+setblock ~28 ~14 ~16 stone 1  
+fill ~28 ~14 ~17 ~28 ~15 ~17 dirt 1  
+fill ~28 ~14 ~19 ~28 ~15 ~19 dirt 0 
+setblock ~28 ~14 ~21 dirt 0  
+fill ~28 ~14 ~22 ~28 ~15 ~22 stone 1  
+fill ~28 ~14 ~23 ~28 ~15 ~23 dirt 0  
+fill ~28 ~14 ~24 ~28 ~14 ~25 dirt 1  
+fill ~29 ~14 ~7 ~29 ~15 ~7 planks 1 
+setblock ~29 ~14 ~8 dirt 0 
+setblock ~29 ~14 ~10 dirt 1  
+fill ~29 ~14 ~13 ~30 ~14 ~13 dirt 1  
+fill ~29 ~14 ~14 ~30 ~14 ~14 stone 1  
+fill ~29 ~14 ~15 ~29 ~13 ~15 stone 1 
+setblock ~29 ~14 ~16 dirt 0  
+fill ~29 ~14 ~17 ~29 ~14 ~18 stone 1 
+setblock ~29 ~14 ~20 planks 1 
+setblock ~29 ~14 ~21 stone 1 
+setblock ~29 ~14 ~23 dirt 1 
+setblock ~29 ~14 ~24 stone 1  
+fill ~30 ~14 ~5 ~31 ~14 ~5 dirt 0  
+fill ~30 ~14 ~6 ~30 ~15 ~6 dirt 1  
+fill ~30 ~14 ~7 ~30 ~16 ~7 dirt 1  
+fill ~30 ~14 ~8 ~30 ~15 ~8 stone 1 
+setblock ~30 ~14 ~9 dirt 1 
+setblock ~30 ~14 ~10 planks 1  
+fill ~30 ~14 ~12 ~30 ~15 ~12 planks 1  
+fill ~30 ~14 ~15 ~30 ~14 ~17 dirt 1  
+fill ~30 ~14 ~18 ~30 ~16 ~18 stone 1  
+fill ~30 ~14 ~19 ~31 ~14 ~19 dirt 0 
+setblock ~30 ~14 ~20 stone 1  
+fill ~30 ~14 ~21 ~30 ~15 ~21 dirt 0  
+fill ~30 ~14 ~22 ~31 ~14 ~22 dirt 1 
+setblock ~30 ~14 ~23 stone 1  
+fill ~30 ~14 ~24 ~30 ~15 ~24 dirt 1  
+fill ~31 ~14 ~6 ~31 ~15 ~6 stone 1 
+setblock ~31 ~14 ~8 planks 1  
+fill ~31 ~14 ~15 ~31 ~16 ~15 dirt 0 
+setblock ~31 ~14 ~16 planks 1  
+fill ~31 ~14 ~17 ~31 ~15 ~17 dirt 1 
+setblock ~31 ~14 ~18 planks 1 
+setblock ~32 ~14 ~19 planks 1  
+fill ~10 ~15 ~14 ~11 ~15 ~14 pink_glazed_terracotta 0 
+setblock ~11 ~15 ~15 stained_glass_pane 11 
+setblock ~11 ~15 ~16 pink_glazed_terracotta 3  
+fill ~12 ~15 ~14 ~12 ~16 ~14 stained_glass_pane 11  
+fill ~12 ~15 ~15 ~12 ~16 ~15 pink_glazed_terracotta 0  
+fill ~13 ~15 ~14 ~13 ~17 ~14 stone 0  
+fill ~13 ~15 ~15 ~13 ~17 ~15 stone 0  
+fill ~15 ~15 ~7 ~15 ~15 ~8 grass 0  
+fill ~15 ~15 ~9 ~16 ~15 ~9 stone_slab 0 
+setblock ~16 ~15 ~6 stained_hardened_clay 5 
+setblock ~16 ~15 ~7 dirt 0  
+fill ~16 ~15 ~8 ~17 ~15 ~8 stained_hardened_clay 5 
+setblock ~17 ~15 ~7 grass 0 
+setblock ~17 ~15 ~10 stained_hardened_clay 13 
+setblock ~17 ~15 ~12 grass 0  
+fill ~17 ~15 ~13 ~18 ~15 ~13 concrete 13  
+fill ~17 ~15 ~14 ~17 ~15 ~15 dirt 0 
+setblock ~17 ~15 ~16 stained_hardened_clay 13 
+setblock ~17 ~15 ~17 concrete_powder 13  
+fill ~18 ~15 ~6 ~19 ~15 ~6 concrete_powder 13 
+setblock ~18 ~15 ~7 concrete 13  
+fill ~18 ~15 ~8 ~23 ~15 ~8 stone 0  
+fill ~18 ~15 ~9 ~18 ~16 ~9 concrete 13 
+setblock ~18 ~15 ~10 stained_hardened_clay 5 
+setblock ~18 ~15 ~11 concrete 13 
+setblock ~18 ~15 ~12 concrete_powder 13 
+setblock ~18 ~15 ~14 concrete 13 
+setblock ~18 ~15 ~15 concrete_powder 13 
+setblock ~18 ~15 ~16 stone 0 
+setblock ~18 ~15 ~17 dirt 0  
+fill ~18 ~15 ~18 ~18 ~16 ~18 concrete_powder 13 
+setblock ~19 ~15 ~5 stained_hardened_clay 13 
+setblock ~19 ~15 ~7 concrete_powder 13  
+fill ~19 ~15 ~9 ~19 ~16 ~9 stone 0  
+fill ~19 ~15 ~12 ~21 ~15 ~12 stone 0  
+fill ~19 ~15 ~13 ~21 ~15 ~13 stone 0  
+fill ~19 ~15 ~17 ~22 ~15 ~17 stone 0  
+fill ~19 ~15 ~18 ~20 ~15 ~18 dirt 0 
+setblock ~20 ~15 ~5 stained_hardened_clay 5 
+setblock ~20 ~15 ~6 grass 0 
+setblock ~20 ~15 ~7 concrete 13  
+fill ~20 ~15 ~19 ~20 ~16 ~19 concrete_powder 13 
+setblock ~20 ~15 ~20 stained_hardened_clay 13 
+setblock ~20 ~15 ~22 dirt 0 
+setblock ~20 ~15 ~24 concrete_powder 13 
+setblock ~20 ~15 ~25 dirt 0 
+setblock ~21 ~15 ~6 dirt 0  
+fill ~21 ~15 ~7 ~24 ~15 ~7 stone 0  
+fill ~21 ~15 ~9 ~22 ~15 ~9 stone 0 
+setblock ~21 ~15 ~25 grass 0  
+fill ~21 ~15 ~26 ~22 ~15 ~26 stained_hardened_clay 13  
+fill ~22 ~15 ~5 ~22 ~15 ~6 stone 1  
+fill ~22 ~15 ~10 ~24 ~15 ~10 sand 0  
+fill ~22 ~15 ~11 ~22 ~0 ~11 sand 0  
+fill ~22 ~15 ~13 ~22 ~16 ~13 sand 0  
+fill ~22 ~15 ~14 ~24 ~15 ~14 sand 0  
+fill ~22 ~15 ~15 ~23 ~15 ~15 sand 0  
+fill ~22 ~15 ~16 ~27 ~15 ~16 sand 0  
+fill ~22 ~15 ~25 ~22 ~17 ~25 stone 0 
+setblock ~22 ~15 ~27 grass 0  
+fill ~23 ~15 ~3 ~24 ~15 ~3 grass 0  
+fill ~23 ~15 ~5 ~24 ~15 ~5 dirt 0 
+setblock ~23 ~15 ~6 dirt 1  
+fill ~23 ~15 ~9 ~25 ~15 ~9 sand 0  
+fill ~23 ~15 ~17 ~27 ~15 ~17 sand 0  
+fill ~23 ~15 ~24 ~23 ~16 ~24 stone 0 
+setblock ~23 ~15 ~25 dirt 1 
+setblock ~23 ~15 ~27 dirt 0  
+fill ~24 ~15 ~4 ~24 ~16 ~4 planks 1 
+setblock ~24 ~15 ~6 stone 1  
+fill ~24 ~15 ~8 ~24 ~16 ~8 sand 0  
+fill ~24 ~15 ~12 ~28 ~15 ~12 sand 0  
+fill ~24 ~15 ~13 ~24 ~15 ~12 sand 0  
+fill ~24 ~15 ~18 ~27 ~15 ~18 sand 0  
+fill ~24 ~15 ~21 ~27 ~15 ~21 stone 0  
+fill ~24 ~15 ~22 ~26 ~15 ~22 stone 0  
+fill ~24 ~15 ~23 ~26 ~15 ~23 stone 0  
+fill ~24 ~15 ~24 ~25 ~15 ~24 dirt 1  
+fill ~24 ~15 ~25 ~25 ~15 ~25 planks 1 
+setblock ~24 ~15 ~26 stone 1  
+fill ~24 ~15 ~27 ~24 ~16 ~27 planks 1  
+fill ~25 ~15 ~3 ~26 ~15 ~3 planks 1  
+fill ~25 ~15 ~4 ~26 ~15 ~4 stone 1 
+setblock ~25 ~15 ~5 planks 1  
+fill ~25 ~15 ~6 ~25 ~16 ~6 dirt 1  
+fill ~25 ~15 ~7 ~25 ~15 ~6 dirt 1  
+fill ~25 ~15 ~8 ~25 ~16 ~8 stone 0  
+fill ~25 ~15 ~19 ~27 ~15 ~19 stone 0  
+fill ~25 ~15 ~20 ~27 ~15 ~20 stone 0 
+setblock ~25 ~15 ~26 dirt 1 
+setblock ~25 ~15 ~27 stone 1 
+setblock ~26 ~15 ~5 dirt 0 
+setblock ~26 ~15 ~6 stone 1  
+fill ~26 ~15 ~9 ~26 ~16 ~9 stone 0  
+fill ~26 ~15 ~10 ~27 ~15 ~10 sand 0  
+fill ~26 ~15 ~11 ~28 ~15 ~11 sand 0 
+setblock ~26 ~15 ~24 planks 1  
+fill ~26 ~15 ~25 ~27 ~15 ~25 stone 1 
+setblock ~26 ~15 ~26 planks 1 
+setblock ~26 ~15 ~27 dirt 0  
+fill ~27 ~15 ~4 ~27 ~16 ~4 dirt 0  
+fill ~27 ~15 ~5 ~27 ~15 ~6 planks 1  
+fill ~27 ~15 ~7 ~27 ~16 ~7 stone 1  
+fill ~27 ~15 ~8 ~27 ~16 ~8 dirt 1 
+setblock ~27 ~15 ~9 stone 1  
+fill ~27 ~15 ~23 ~27 ~16 ~23 concrete_powder 13 
+setblock ~27 ~15 ~26 dirt 1  
+fill ~28 ~15 ~4 ~29 ~15 ~4 planks 1 
+setblock ~28 ~15 ~6 dirt 1  
+fill ~28 ~15 ~9 ~28 ~16 ~9 dirt 0   
+
+KittysCommands:  
+setblock ~28 ~15 ~10 dirt 1  
+fill ~28 ~15 ~13 ~28 ~16 ~13 sand 0  
+fill ~28 ~15 ~14 ~28 ~17 ~14 sand 0 
+setblock ~28 ~15 ~16 dirt 0 
+setblock ~28 ~15 ~21 planks 1 
+setblock ~28 ~15 ~24 dirt 0  
+fill ~29 ~15 ~5 ~29 ~17 ~5 stone 1 
+setblock ~29 ~15 ~6 dirt 0 
+setblock ~29 ~15 ~8 dirt 1  
+fill ~29 ~15 ~9 ~29 ~15 ~10 planks 1  
+fill ~29 ~15 ~11 ~29 ~16 ~11 dirt 0  
+fill ~29 ~15 ~12 ~29 ~15 ~13 dirt 1 
+setblock ~29 ~15 ~14 planks 1  
+fill ~29 ~15 ~15 ~31 ~15 ~15 dirt 0 
+setblock ~29 ~15 ~16 dirt 1  
+fill ~29 ~15 ~17 ~29 ~16 ~17 planks 1 
+setblock ~29 ~15 ~18 dirt 0 
+setblock ~29 ~15 ~19 planks 1  
+fill ~29 ~15 ~20 ~29 ~16 ~20 stone 1  
+fill ~29 ~15 ~21 ~29 ~16 ~21 dirt 1 
+setblock ~29 ~15 ~22 stone 1 
+setblock ~29 ~15 ~23 planks 1 
+setblock ~29 ~15 ~24 grass 0 
+setblock ~30 ~15 ~4 stone 1 
+setblock ~30 ~15 ~5 planks 1  
+fill ~30 ~15 ~9 ~30 ~15 ~10 dirt 0 
+setblock ~30 ~15 ~11 dirt 1 
+setblock ~30 ~15 ~13 dirt 1 
+setblock ~30 ~15 ~14 dirt 0 
+setblock ~30 ~15 ~16 planks 1 
+setblock ~30 ~15 ~17 stone 1  
+fill ~30 ~15 ~19 ~30 ~14 ~19 dirt 0  
+fill ~30 ~15 ~20 ~30 ~15 ~19 dirt 0 
+setblock ~30 ~15 ~22 planks 1 
+setblock ~30 ~15 ~23 dirt 0 
+setblock ~31 ~15 ~5 stone 1  
+fill ~31 ~15 ~8 ~31 ~17 ~8 stone 1 
+setblock ~31 ~15 ~16 dirt 0 
+setblock ~31 ~15 ~19 planks 1 
+setblock ~31 ~15 ~21 stone 1 
+setblock ~31 ~15 ~22 dirt 0 
+setblock ~9 ~16 ~13 pink_glazed_terracotta 0  
+fill ~16 ~16 ~7 ~16 ~16 ~8 stone_slab 0 
+setblock ~17 ~16 ~7 stained_hardened_clay 5 
+setblock ~17 ~16 ~8 stone_slab 0  
+fill ~17 ~16 ~10 ~17 ~16 ~11 dirt 0  
+fill ~17 ~16 ~13 ~17 ~15 ~13 concrete 13 
+setblock ~17 ~16 ~15 stained_hardened_clay 13  
+fill ~17 ~16 ~16 ~17 ~16 ~17 concrete 13 
+setblock ~18 ~16 ~7 grass 0  
+fill ~18 ~16 ~8 ~18 ~17 ~8 concrete_powder 13  
+fill ~18 ~16 ~10 ~18 ~17 ~10 concrete_powder 13 
+setblock ~18 ~16 ~11 stained_hardened_clay 13 
+setblock ~18 ~16 ~12 grass 0 
+setblock ~18 ~16 ~13 stained_hardened_clay 13  
+fill ~18 ~16 ~14 ~18 ~17 ~14 concrete_powder 13  
+fill ~18 ~16 ~15 ~18 ~17 ~15 grass 0 
+setblock ~18 ~16 ~16 concrete_powder 13  
+fill ~18 ~16 ~17 ~19 ~16 ~17 concrete 13 
+setblock ~19 ~16 ~6 stone_slab 8  
+fill ~19 ~16 ~7 ~19 ~16 ~8 stained_hardened_clay 13  
+fill ~19 ~16 ~12 ~20 ~16 ~12 stone 0  
+fill ~19 ~16 ~13 ~21 ~16 ~13 stone 0 
+setblock ~19 ~16 ~18 concrete_powder 13  
+fill ~20 ~16 ~5 ~20 ~16 ~7 concrete_powder 13  
+fill ~20 ~16 ~8 ~20 ~18 ~8 grass 0  
+fill ~20 ~16 ~9 ~20 ~18 ~9 grass 0  
+fill ~20 ~16 ~17 ~22 ~16 ~17 stone 0  
+fill ~20 ~16 ~18 ~20 ~17 ~18 stained_hardened_clay 13 
+setblock ~20 ~16 ~20 grass 0  
+fill ~20 ~16 ~21 ~20 ~16 ~22 stained_hardened_clay 13 
+setblock ~20 ~16 ~23 grass 0 
+setblock ~20 ~16 ~24 dirt 0  
+fill ~20 ~16 ~25 ~20 ~17 ~25 stained_hardened_clay 13  
+fill ~21 ~16 ~6 ~21 ~17 ~6 concrete_powder 13  
+fill ~21 ~16 ~7 ~25 ~16 ~7 stone 0  
+fill ~21 ~16 ~8 ~23 ~16 ~8 stone 0  
+fill ~21 ~16 ~9 ~22 ~16 ~9 stone 0 
+setblock ~21 ~16 ~19 dirt 0 
+setblock ~21 ~16 ~20 stained_hardened_clay 13 
+setblock ~21 ~16 ~21 concrete_powder 13 
+setblock ~21 ~16 ~22 grass 0 
+setblock ~21 ~16 ~25 concrete 13  
+fill ~21 ~16 ~26 ~21 ~17 ~26 dirt 0  
+fill ~22 ~16 ~5 ~22 ~17 ~5 grass 0  
+fill ~22 ~16 ~6 ~24 ~16 ~6 stone 0  
+fill ~22 ~16 ~14 ~22 ~0 ~14 sand 0  
+fill ~22 ~16 ~15 ~26 ~16 ~15 sand 0  
+fill ~22 ~16 ~16 ~27 ~16 ~16 sand 0  
+fill ~22 ~16 ~26 ~22 ~17 ~26 grass 0 
+setblock ~22 ~16 ~27 dirt 0  
+fill ~23 ~16 ~4 ~23 ~16 ~5 planks 1  
+fill ~23 ~16 ~9 ~24 ~16 ~9 sand 0  
+fill ~23 ~16 ~17 ~23 ~0 ~17 sand 0  
+fill ~23 ~16 ~25 ~23 ~16 ~26 stone 0  
+fill ~23 ~16 ~27 ~23 ~17 ~27 stained_hardened_clay 13 
+setblock ~24 ~16 ~5 stone 1  
+fill ~24 ~16 ~14 ~29 ~16 ~14 sand 0  
+fill ~24 ~16 ~18 ~27 ~16 ~18 sand 0  
+fill ~24 ~16 ~21 ~26 ~16 ~21 stone 0  
+fill ~24 ~16 ~22 ~26 ~16 ~22 stone 0  
+fill ~24 ~16 ~23 ~26 ~16 ~23 stone 0  
+fill ~24 ~16 ~24 ~26 ~16 ~24 stone 0  
+fill ~24 ~16 ~25 ~26 ~16 ~25 dirt 1  
+fill ~24 ~16 ~26 ~24 ~16 ~25 dirt 1  
+fill ~25 ~16 ~3 ~26 ~16 ~3 grass 0  
+fill ~25 ~16 ~4 ~25 ~16 ~5 dirt 0  
+fill ~25 ~16 ~13 ~28 ~16 ~13 sand 0  
+fill ~25 ~16 ~17 ~27 ~16 ~17 sand 0  
+fill ~25 ~16 ~19 ~26 ~16 ~19 stone 0  
+fill ~25 ~16 ~20 ~25 ~14 ~20 stone 0 
+setblock ~25 ~16 ~26 stone 1  
+fill ~25 ~16 ~27 ~26 ~16 ~27 planks 1 
+setblock ~26 ~16 ~4 planks 1  
+fill ~26 ~16 ~5 ~27 ~16 ~5 dirt 1 
+setblock ~26 ~16 ~6 planks 1  
+fill ~26 ~16 ~12 ~28 ~16 ~12 sand 0 
+setblock ~26 ~16 ~20 concrete_powder 13 
+setblock ~26 ~16 ~26 dirt 0 
+setblock ~27 ~16 ~6 stone 1 
+setblock ~27 ~16 ~9 dirt 1  
+fill ~27 ~16 ~10 ~28 ~16 ~10 sand 0  
+fill ~27 ~16 ~21 ~28 ~16 ~21 concrete_powder 13  
+fill ~27 ~16 ~24 ~27 ~17 ~24 dirt 0 
+setblock ~27 ~16 ~25 stone 1 
+setblock ~27 ~16 ~26 planks 1 
+setblock ~28 ~16 ~5 stone 1 
+setblock ~28 ~16 ~6 planks 1 
+setblock ~28 ~16 ~8 stone 1 
+setblock ~28 ~16 ~11 sand 0  
+fill ~28 ~16 ~16 ~29 ~16 ~16 stone 1 
+setblock ~28 ~16 ~20 planks 1 
+setblock ~28 ~16 ~22 concrete_powder 13  
+fill ~29 ~16 ~6 ~29 ~17 ~6 stone 1  
+fill ~29 ~16 ~7 ~29 ~16 ~5 stone 1  
+fill ~29 ~16 ~8 ~30 ~16 ~8 planks 1 
+setblock ~29 ~16 ~9 dirt 0 
+setblock ~29 ~16 ~10 dirt 1  
+fill ~29 ~16 ~12 ~29 ~16 ~13 dirt 0  
+fill ~29 ~16 ~15 ~30 ~16 ~15 planks 1 
+setblock ~29 ~16 ~19 dirt 0 
+setblock ~29 ~16 ~22 planks 1 
+setblock ~29 ~16 ~23 grass 0 
+setblock ~30 ~16 ~5 stone 1  
+fill ~30 ~16 ~6 ~31 ~16 ~6 planks 1 
+setblock ~30 ~16 ~9 planks 1 
+setblock ~30 ~16 ~10 dirt 0 
+setblock ~30 ~16 ~14 planks 1 
+setblock ~30 ~16 ~16 dirt 1 
+setblock ~30 ~16 ~17 dirt 0 
+setblock ~30 ~16 ~20 dirt 1 
+setblock ~30 ~16 ~21 stone 1 
+setblock ~30 ~16 ~22 dirt 0 
+setblock ~31 ~16 ~7 dirt 0 
+setblock ~31 ~16 ~16 stone 1 
+setblock ~31 ~16 ~21 dirt 1 
+setblock ~8 ~17 ~16 stained_glass_pane 9 
+setblock ~11 ~17 ~13 stained_glass_pane 3 
+setblock ~11 ~17 ~14 pink_glazed_terracotta 0 
+setblock ~11 ~17 ~16 pink_glazed_terracotta 0  
+fill ~12 ~17 ~13 ~16 ~17 ~13 stone 0 
+setblock ~12 ~17 ~14 pink_glazed_terracotta 3 
+setblock ~12 ~17 ~15 stained_glass_pane 3  
+fill ~12 ~17 ~16 ~16 ~17 ~16 stone 0 
+setblock ~12 ~17 ~17 stained_glass_pane 11  
+fill ~14 ~17 ~14 ~17 ~17 ~14 stone 0  
+fill ~14 ~17 ~15 ~17 ~17 ~15 stone 0 
+setblock ~17 ~17 ~10 stained_hardened_clay 5  
+fill ~17 ~17 ~11 ~18 ~17 ~11 grass 0 
+setblock ~17 ~17 ~16 concrete_powder 13  
+fill ~18 ~17 ~6 ~19 ~17 ~6 stone_slab 0  
+fill ~18 ~17 ~7 ~19 ~17 ~7 stone_slab 0 
+setblock ~18 ~17 ~9 grass 0 
+setblock ~18 ~17 ~12 concrete 13 
+setblock ~18 ~17 ~13 concrete_powder 13 
+setblock ~18 ~17 ~16 stained_hardened_clay 13 
+setblock ~18 ~17 ~17 grass 0 
+setblock ~19 ~17 ~8 concrete_powder 13 
+setblock ~19 ~17 ~9 stained_hardened_clay 5  
+fill ~19 ~17 ~10 ~20 ~17 ~10 concrete_powder 13  
+fill ~19 ~17 ~11 ~19 ~17 ~10 concrete_powder 13  
+fill ~19 ~17 ~12 ~29 ~17 ~12 grass 0 
+setblock ~19 ~17 ~13 concrete 13 
+setblock ~19 ~17 ~14 concrete_powder 13  
+fill ~19 ~17 ~15 ~21 ~17 ~15 concrete 13 
+setblock ~19 ~17 ~17 stained_hardened_clay 13  
+fill ~19 ~17 ~18 ~19 ~18 ~18 concrete 13  
+fill ~20 ~17 ~6 ~20 ~17 ~7 double_stone_slab 0  
+fill ~20 ~17 ~11 ~29 ~17 ~11 grass 0  
+fill ~20 ~17 ~13 ~26 ~17 ~13 grass 0  
+fill ~20 ~17 ~14 ~20 ~17 ~11 grass 0  
+fill ~20 ~17 ~17 ~20 ~14 ~17 stone 0  
+fill ~20 ~17 ~19 ~21 ~17 ~19 grass 0 
+setblock ~20 ~17 ~22 dirt 0 
+setblock ~20 ~17 ~23 concrete_powder 13 
+setblock ~20 ~17 ~24 grass 0 
+setblock ~21 ~17 ~5 grass 0  
+fill ~21 ~17 ~7 ~22 ~17 ~7 concrete_powder 13  
+fill ~21 ~17 ~8 ~22 ~17 ~8 grass 0  
+fill ~21 ~17 ~9 ~27 ~17 ~9 grass 0  
+fill ~21 ~17 ~10 ~28 ~17 ~10 grass 0 
+setblock ~21 ~17 ~14 sand 0  
+fill ~21 ~17 ~17 ~21 ~17 ~19 grass 0 
+setblock ~21 ~17 ~20 dirt 0  
+fill ~21 ~17 ~21 ~21 ~17 ~22 stained_hardened_clay 13  
+fill ~21 ~17 ~23 ~21 ~19 ~23 grass 0 
+setblock ~21 ~17 ~24 concrete 13 
+setblock ~21 ~17 ~25 grass 0 
+setblock ~22 ~17 ~6 concrete_powder 13  
+fill ~22 ~17 ~14 ~25 ~17 ~14 grass 0  
+fill ~22 ~17 ~15 ~22 ~0 ~15 sand 0  
+fill ~22 ~17 ~16 ~22 ~0 ~16 sand 0 
+setblock ~22 ~17 ~17 concrete 13 
+setblock ~22 ~17 ~18 grass 0 
+setblock ~22 ~17 ~19 concrete 13 
+setblock ~22 ~17 ~20 concrete_powder 13 
+setblock ~22 ~17 ~21 grass 0 
+setblock ~22 ~17 ~22 concrete_powder 13 
+setblock ~22 ~17 ~27 stained_hardened_clay 13  
+fill ~23 ~17 ~4 ~24 ~17 ~4 concrete 13  
+fill ~23 ~17 ~5 ~23 ~17 ~7 stained_hardened_clay 13 
+setblock ~23 ~17 ~8 sand 0  
+fill ~23 ~17 ~15 ~24 ~17 ~15 grass 0  
+fill ~23 ~17 ~16 ~25 ~17 ~16 grass 0  
+fill ~23 ~17 ~17 ~26 ~17 ~17 grass 0 
+setblock ~23 ~17 ~18 concrete 13  
+fill ~23 ~17 ~20 ~23 ~17 ~21 stained_hardened_clay 13  
+fill ~23 ~17 ~22 ~23 ~18 ~22 concrete 13 
+setblock ~23 ~17 ~23 grass 0 
+setblock ~23 ~17 ~24 dirt 0  
+fill ~23 ~17 ~25 ~24 ~17 ~25 grass 0 
+setblock ~23 ~17 ~26 stone 0  
+fill ~24 ~17 ~5 ~24 ~17 ~6 concrete 13 
+setblock ~24 ~17 ~7 stained_hardened_clay 13  
+fill ~24 ~17 ~8 ~25 ~17 ~8 grass 0  
+fill ~24 ~17 ~18 ~24 ~0 ~18 sand 0 
+setblock ~24 ~17 ~19 stained_hardened_clay 13 
+setblock ~24 ~17 ~20 grass 0 
+setblock ~24 ~17 ~21 concrete_powder 13  
+fill ~24 ~17 ~22 ~24 ~18 ~22 stained_hardened_clay 13  
+fill ~24 ~17 ~23 ~25 ~17 ~23 dirt 0 
+setblock ~24 ~17 ~24 stained_hardened_clay 13  
+fill ~24 ~17 ~26 ~24 ~18 ~26 concrete_powder 13  
+fill ~24 ~17 ~27 ~25 ~17 ~27 dirt 0  
+fill ~25 ~17 ~4 ~26 ~17 ~4 stone 1 
+setblock ~25 ~17 ~5 dirt 0 
+setblock ~25 ~17 ~6 stained_hardened_clay 13 
+setblock ~25 ~17 ~7 concrete_powder 13  
+fill ~25 ~17 ~15 ~27 ~17 ~15 sand 0 
+setblock ~25 ~17 ~18 concrete 13  
+fill ~25 ~17 ~19 ~25 ~18 ~19 grass 0  
+fill ~25 ~17 ~20 ~26 ~17 ~20 stained_hardened_clay 13  
+fill ~25 ~17 ~21 ~25 ~18 ~21 grass 0 
+setblock ~25 ~17 ~22 concrete_powder 13  
+fill ~25 ~17 ~24 ~25 ~18 ~24 dirt 0  
+fill ~25 ~17 ~25 ~25 ~17 ~23 dirt 0  
+fill ~25 ~17 ~26 ~27 ~17 ~26 stained_hardened_clay 13 
+setblock ~26 ~17 ~5 stone 1 
+setblock ~26 ~17 ~6 dirt 1  
+fill ~26 ~17 ~7 ~26 ~18 ~7 grass 0  
+fill ~26 ~17 ~14 ~28 ~17 ~14 sand 0  
+fill ~26 ~17 ~16 ~28 ~17 ~16 sand 0  
+fill ~26 ~17 ~18 ~26 ~17 ~20 stained_hardened_clay 13 
+setblock ~26 ~17 ~21 concrete_powder 13  
+fill ~26 ~17 ~22 ~26 ~17 ~25 grass 0  
+fill ~27 ~17 ~4 ~27 ~17 ~6 planks 1 
+setblock ~27 ~17 ~7 dirt 0 
+setblock ~27 ~17 ~8 stained_hardened_clay 13 
+setblock ~27 ~17 ~13 sand 0 
+setblock ~27 ~17 ~17 sand 0  
+fill ~27 ~17 ~18 ~28 ~17 ~18 concrete 13  
+fill ~27 ~17 ~19 ~27 ~17 ~20 concrete 13 
+setblock ~27 ~17 ~22 concrete_powder 13 
+setblock ~27 ~17 ~23 grass 0 
+setblock ~27 ~17 ~25 stained_hardened_clay 13 
+setblock ~28 ~17 ~5 dirt 1 
+setblock ~28 ~17 ~6 dirt 0 
+setblock ~28 ~17 ~7 dirt 1 
+setblock ~28 ~17 ~8 concrete_powder 13 
+setblock ~28 ~17 ~9 stone 1  
+fill ~28 ~17 ~13 ~29 ~17 ~13 grass 0  
+fill ~28 ~17 ~17 ~31 ~17 ~17 grass 0 
+setblock ~28 ~17 ~19 grass 0 
+setblock ~28 ~17 ~20 concrete_powder 13  
+fill ~29 ~17 ~7 ~29 ~17 ~9 planks 1 
+setblock ~29 ~17 ~10 sand 0 
+setblock ~29 ~17 ~14 grass 0 
+setblock ~29 ~17 ~15 sand 0  
+fill ~29 ~17 ~16 ~31 ~17 ~16 grass 0  
+fill ~29 ~17 ~18 ~29 ~17 ~19 concrete_powder 13 
+setblock ~29 ~17 ~20 grass 0  
+fill ~30 ~17 ~6 ~30 ~16 ~6 planks 1 
+setblock ~30 ~17 ~7 stone 1 
+setblock ~30 ~17 ~8 planks 1 
+setblock ~30 ~17 ~9 dirt 1 
+setblock ~30 ~17 ~10 grass 0 
+setblock ~30 ~17 ~15 grass 0  
+fill ~30 ~17 ~18 ~31 ~17 ~18 grass 0 
+setblock ~30 ~17 ~19 stained_hardened_clay 13 
+setblock ~31 ~17 ~7 grass 0 
+setblock ~31 ~17 ~9 grass 0  
+fill ~12 ~18 ~13 ~18 ~18 ~13 stone 0  
+fill ~12 ~18 ~16 ~20 ~18 ~16 stone 0  
+fill ~13 ~18 ~14 ~13 ~18 ~15 pink_glazed_terracotta 0 
+setblock ~14 ~18 ~14 stained_glass_pane 3 
+setblock ~14 ~18 ~15 pink_glazed_terracotta 0 
+setblock ~15 ~18 ~14 pink_glazed_terracotta 0 
+setblock ~15 ~18 ~15 stained_glass_pane 11 
+setblock ~16 ~18 ~14 pink_glazed_terracotta 3 
+setblock ~16 ~18 ~15 pink_glazed_terracotta 0 
+setblock ~17 ~18 ~14 stained_glass_pane 11 
+setblock ~17 ~18 ~15 pink_glazed_terracotta 3  
+fill ~18 ~18 ~14 ~20 ~18 ~14 stone 0  
+fill ~18 ~18 ~15 ~20 ~18 ~15 stone 0 
+setblock ~18 ~18 ~17 stained_hardened_clay 13  
+fill ~19 ~18 ~8 ~19 ~18 ~9 grass 0 
+setblock ~19 ~18 ~10 concrete_powder 13  
+fill ~19 ~18 ~11 ~20 ~18 ~11 grass 0  
+fill ~19 ~18 ~12 ~20 ~18 ~12 grass 0  
+fill ~19 ~18 ~13 ~20 ~18 ~13 grass 0  
+fill ~19 ~18 ~17 ~20 ~18 ~17 concrete 13 
+setblock ~20 ~18 ~10 grass 0  
+fill ~20 ~18 ~18 ~20 ~18 ~19 grass 0 
+setblock ~20 ~18 ~23 stained_hardened_clay 13  
+fill ~21 ~18 ~6 ~24 ~18 ~6 stone_slab 0  
+fill ~21 ~18 ~7 ~21 ~18 ~6 stone_slab 0  
+fill ~21 ~18 ~8 ~27 ~18 ~8 planks 0  
+fill ~21 ~18 ~9 ~27 ~18 ~9 planks 0  
+fill ~21 ~18 ~10 ~27 ~18 ~10 planks 0  
+fill ~21 ~18 ~11 ~27 ~18 ~11 planks 0  
+fill ~21 ~18 ~12 ~27 ~18 ~12 planks 0  
+fill ~21 ~18 ~13 ~27 ~18 ~13 planks 0  
+fill ~21 ~18 ~14 ~27 ~18 ~14 planks 0  
+fill ~21 ~18 ~15 ~27 ~18 ~15 planks 0 
+setblock ~21 ~18 ~16 sand 0  
+fill ~21 ~18 ~17 ~27 ~18 ~17 planks 0  
+fill ~21 ~18 ~18 ~27 ~18 ~18 planks 0  
+fill ~21 ~18 ~19 ~27 ~18 ~19 grass 0 
+setblock ~21 ~18 ~20 concrete 13  
+fill ~21 ~18 ~22 ~22 ~18 ~22 stained_hardened_clay 13 
+setblock ~21 ~18 ~24 concrete_powder 13 
+setblock ~21 ~18 ~25 stained_hardened_clay 13  
+fill ~21 ~18 ~26 ~22 ~18 ~26 concrete_powder 13 
+setblock ~22 ~18 ~7 concrete_powder 13  
+fill ~22 ~18 ~16 ~27 ~18 ~16 planks 0 
+setblock ~22 ~18 ~20 grass 0  
+fill ~22 ~18 ~21 ~23 ~18 ~21 stained_hardened_clay 13  
+fill ~22 ~18 ~23 ~23 ~18 ~23 concrete 13 
+setblock ~22 ~18 ~24 stained_hardened_clay 13  
+fill ~22 ~18 ~25 ~22 ~19 ~25 grass 0 
+setblock ~22 ~18 ~27 concrete_powder 13  
+fill ~23 ~18 ~7 ~24 ~18 ~7 stone_slab 0  
+fill ~23 ~18 ~20 ~23 ~19 ~20 concrete 13  
+fill ~23 ~18 ~24 ~23 ~19 ~24 concrete_powder 13  
+fill ~23 ~18 ~25 ~23 ~19 ~25 dirt 0 
+setblock ~23 ~18 ~26 grass 0  
+fill ~23 ~18 ~27 ~25 ~18 ~27 dirt 0 
+setblock ~24 ~18 ~5 grass 0  
+fill ~24 ~18 ~20 ~25 ~18 ~20 concrete_powder 13 
+setblock ~24 ~18 ~21 grass 0  
+fill ~24 ~18 ~23 ~24 ~19 ~23 dirt 0  
+fill ~24 ~18 ~24 ~24 ~18 ~23 dirt 0 
+setblock ~24 ~18 ~25 concrete_powder 13 
+setblock ~25 ~18 ~4 grass 0 
+setblock ~25 ~18 ~5 concrete_powder 13  
+fill ~25 ~18 ~6 ~29 ~18 ~6 grass 0  
+fill ~25 ~18 ~7 ~25 ~18 ~6 grass 0  
+fill ~25 ~18 ~22 ~25 ~19 ~22 grass 0  
+fill ~25 ~18 ~23 ~26 ~18 ~23 stained_hardened_clay 13  
+fill ~25 ~18 ~25 ~27 ~18 ~25 grass 0 
+setblock ~25 ~18 ~26 concrete_powder 13 
+setblock ~26 ~18 ~4 concrete 13 
+setblock ~26 ~18 ~5 stained_hardened_clay 13 
+setblock ~26 ~18 ~21 concrete 13 
+setblock ~26 ~18 ~22 dirt 0 
+setblock ~26 ~18 ~24 concrete_powder 13  
+fill ~26 ~18 ~26 ~26 ~19 ~26 dirt 0  
+fill ~27 ~18 ~5 ~28 ~18 ~5 grass 0  
+fill ~27 ~18 ~7 ~28 ~18 ~7 grass 0  
+fill ~28 ~18 ~8 ~28 ~18 ~9 grass 0  
+fill ~28 ~18 ~11 ~28 ~18 ~14 grass 0  
+fill ~28 ~18 ~16 ~28 ~18 ~18 grass 0  
+fill ~16 ~19 ~13 ~20 ~19 ~13 stone 0  
+fill ~16 ~19 ~16 ~20 ~19 ~16 stone 0  
+fill ~18 ~19 ~14 ~20 ~19 ~14 stained_glass_pane 11  
+fill ~18 ~19 ~15 ~18 ~19 ~14 stained_glass_pane 11 
+setblock ~19 ~19 ~15 pink_glazed_terracotta 3 
+setblock ~20 ~19 ~15 pink_glazed_terracotta 0 
+setblock ~21 ~19 ~8 hay_block 4  
+fill ~21 ~19 ~9 ~21 ~21 ~9 hay_block 0  
+fill ~21 ~19 ~10 ~21 ~19 ~11 leaves 15 
+setblock ~21 ~19 ~12 dirt 0  
+fill ~21 ~19 ~13 ~21 ~19 ~18 double_stone_slab 0  
+fill ~21 ~19 ~22 ~21 ~17 ~22 stained_hardened_clay 13 
+setblock ~22 ~19 ~8 hay_block 0 
+setblock ~22 ~19 ~10 stone_brick_stairs 1  
+fill ~22 ~19 ~11 ~26 ~19 ~11 stained_hardened_clay 9  
+fill ~22 ~19 ~12 ~22 ~25 ~12 stained_hardened_clay 9 
+setblock ~22 ~19 ~13 stone_brick_stairs 1  
+fill ~22 ~19 ~14 ~22 ~22 ~14 stained_hardened_clay 9  
+fill ~22 ~19 ~15 ~22 ~25 ~15 stained_hardened_clay 9  
+fill ~22 ~19 ~16 ~22 ~22 ~16 stained_hardened_clay 9 
+setblock ~22 ~19 ~17 dirt 0  
+fill ~22 ~19 ~18 ~27 ~19 ~18 double_stone_slab 0 
+setblock ~22 ~19 ~21 concrete_powder 13 
+setblock ~22 ~19 ~22 concrete 13  
+fill ~22 ~19 ~23 ~22 ~19 ~25 grass 0 
+setblock ~22 ~19 ~26 concrete_powder 13  
+fill ~23 ~19 ~8 ~23 ~21 ~8 cobblestone_wall 0 
+setblock ~23 ~19 ~10 stone_slab 8  
+fill ~23 ~19 ~16 ~23 ~25 ~16 ladder 2  
+fill ~23 ~19 ~17 ~26 ~19 ~17 stained_hardened_clay 9  
+fill ~23 ~19 ~21 ~23 ~19 ~22 grass 0 
+setblock ~23 ~19 ~23 concrete_powder 13  
+fill ~23 ~19 ~26 ~25 ~19 ~26 stained_hardened_clay 13 
+setblock ~23 ~19 ~27 grass 0 
+setblock ~24 ~19 ~8 stone_brick_stairs 1 
+setblock ~24 ~19 ~10 stone_brick_stairs 0 
+setblock ~24 ~19 ~15 double_stone_slab 0 
+setblock ~24 ~19 ~16 enchanting_table 0  
+fill ~24 ~19 ~21 ~24 ~19 ~22 concrete_powder 13 
+setblock ~24 ~19 ~24 grass 0 
+setblock ~24 ~19 ~25 stained_hardened_clay 13  
+fill ~24 ~19 ~27 ~25 ~19 ~27 dirt 0 
+setblock ~25 ~19 ~8 fence 5  
+fill ~25 ~19 ~25 ~25 ~18 ~25 grass 0 
+setblock ~26 ~19 ~8 stone_brick_stairs 0  
+fill ~26 ~19 ~12 ~26 ~20 ~12 stained_hardened_clay 9  
+fill ~26 ~19 ~13 ~26 ~22 ~13 stained_hardened_clay 9  
+fill ~26 ~19 ~14 ~26 ~20 ~14 stained_hardened_clay 9  
+fill ~26 ~19 ~15 ~26 ~22 ~15 stained_hardened_clay 9 
+setblock ~26 ~19 ~16 stone_brick_stairs 0  
+fill ~27 ~19 ~8 ~27 ~21 ~8 cobblestone_wall 0 
+setblock ~27 ~19 ~12 stone_brick_stairs 2  
+fill ~27 ~19 ~13 ~27 ~19 ~18 double_stone_slab 0  
+fill ~21 ~20 ~11 ~21 ~23 ~11 leaves 15  
+fill ~21 ~20 ~12 ~21 ~25 ~12 stained_hardened_clay 9 
+setblock ~21 ~20 ~13 spruce_door 2 
+setblock ~21 ~20 ~16 cauldron 6  
+fill ~21 ~20 ~17 ~21 ~22 ~17 iron_bars 0 
+setblock ~22 ~20 ~10 leaves 15  
+fill ~22 ~20 ~11 ~26 ~20 ~11 stained_hardened_clay 9  
+fill ~22 ~20 ~17 ~26 ~20 ~17 stained_hardened_clay 9 
+setblock ~23 ~20 ~18 trapdoor 13 
+setblock ~24 ~20 ~18 fence 0 
+setblock ~25 ~20 ~8 carpet 7 
+setblock ~25 ~20 ~18 trapdoor 13 
+setblock ~26 ~20 ~18 fence 0 
+setblock ~21 ~21 ~13 spruce_door 9 
+setblock ~21 ~21 ~16 trapdoor 4  
+fill ~22 ~21 ~11 ~26 ~21 ~11 stained_hardened_clay 9  
+fill ~22 ~21 ~17 ~26 ~21 ~17 stained_hardened_clay 9 
+setblock ~22 ~21 ~18 trapdoor 13 
+setblock ~23 ~21 ~18 leaves 11 
+setblock ~24 ~21 ~16 cobblestone_wall 0 
+setblock ~24 ~21 ~18 trapdoor 13 
+setblock ~26 ~21 ~12 stained_glass_pane 15 
+setblock ~26 ~21 ~14 stained_glass_pane 15 
+setblock ~26 ~21 ~18 leaves 11  
+fill ~21 ~22 ~13 ~21 ~22 ~17 iron_bars 0  
+fill ~22 ~22 ~8 ~27 ~22 ~8 iron_trapdoor 0  
+fill ~22 ~22 ~9 ~26 ~22 ~9 iron_trapdoor 0  
+fill ~22 ~22 ~10 ~26 ~22 ~10 stained_hardened_clay 9  
+fill ~22 ~22 ~11 ~22 ~19 ~11 stained_hardened_clay 9  
+fill ~22 ~22 ~13 ~22 ~25 ~13 stained_hardened_clay 9  
+fill ~22 ~22 ~17 ~26 ~22 ~17 stained_hardened_clay 9  
+fill ~23 ~22 ~11 ~25 ~22 ~11 planks 0  
+fill ~23 ~22 ~12 ~25 ~22 ~12 planks 0  
+fill ~23 ~22 ~13 ~25 ~22 ~13 planks 0  
+fill ~23 ~22 ~14 ~25 ~22 ~14 planks 0  
+fill ~23 ~22 ~15 ~25 ~22 ~15 planks 0 
+setblock ~23 ~22 ~18 trapdoor 13  
+fill ~24 ~22 ~16 ~25 ~22 ~16 planks 0 
+setblock ~24 ~22 ~18 fence 0 
+setblock ~25 ~22 ~18 trapdoor 13  
+fill ~26 ~22 ~11 ~26 ~22 ~17 stained_hardened_clay 9 
+setblock ~26 ~22 ~18 fence 0  
+fill ~27 ~22 ~9 ~27 ~22 ~10 iron_trapdoor 3  
+fill ~27 ~22 ~11 ~27 ~22 ~16 iron_trapdoor 1 
+setblock ~19 ~23 ~12 stone_slab 13 
+setblock ~20 ~23 ~12 stone_brick_stairs 4  
+fill ~22 ~23 ~10 ~26 ~23 ~10 double_stone_slab 0  
+fill ~22 ~23 ~11 ~22 ~23 ~10 double_stone_slab 0 
+setblock ~22 ~23 ~14 double_stone_slab 0 
+setblock ~22 ~23 ~16 double_stone_slab 0  
+fill ~22 ~23 ~17 ~26 ~23 ~17 stained_hardened_clay 9 
+setblock ~22 ~23 ~18 trapdoor 13  
+fill ~23 ~23 ~11 ~24 ~23 ~11 furnace 3  
+fill ~23 ~23 ~12 ~25 ~23 ~12 trapdoor 5  
+fill ~23 ~23 ~13 ~24 ~23 ~13 quartz_stairs 6  
+fill ~23 ~23 ~14 ~25 ~23 ~14 carpet 15  
+fill ~23 ~23 ~15 ~24 ~23 ~15 carpet 15 
+setblock ~23 ~23 ~18 fence 0 
+setblock ~24 ~23 ~16 carpet 15 
+setblock ~24 ~23 ~18 leaves 11 
+setblock ~25 ~23 ~11 quartz_stairs 6 
+setblock ~25 ~23 ~13 trapdoor 11 
+setblock ~25 ~23 ~15 fence 2 
+setblock ~25 ~23 ~16 birch_stairs 2  
+fill ~26 ~23 ~11 ~26 ~23 ~16 double_stone_slab 0 
+setblock ~26 ~23 ~18 trapdoor 13 
+setblock ~22 ~24 ~10 pink_glazed_terracotta 7 
+setblock ~22 ~24 ~11 stained_glass_pane 7  
+fill ~22 ~24 ~14 ~22 ~25 ~14 stained_glass_pane 0  
+fill ~22 ~24 ~16 ~22 ~25 ~16 stained_glass_pane 0  
+fill ~22 ~24 ~17 ~26 ~24 ~17 stained_hardened_clay 9 
+setblock ~22 ~24 ~18 fence 0 
+setblock ~23 ~24 ~10 stained_glass_pane 7  
+fill ~23 ~24 ~11 ~24 ~24 ~11 rail 1 
+setblock ~23 ~24 ~18 trapdoor 13 
+setblock ~24 ~24 ~10 pink_glazed_terracotta 7 
+setblock ~24 ~24 ~18 fence 0 
+setblock ~25 ~24 ~10 stained_glass_pane 7 
+setblock ~25 ~24 ~11 flower_pot 0 
+setblock ~25 ~24 ~15 carpet 0 
+setblock ~25 ~24 ~18 trapdoor 13 
+setblock ~26 ~24 ~10 pink_glazed_terracotta 7 
+setblock ~26 ~24 ~11 stained_glass_pane 7 
+setblock ~26 ~24 ~12 pink_glazed_terracotta 7 
+setblock ~26 ~24 ~13 stained_glass_pane 7 
+setblock ~26 ~24 ~14 pink_glazed_terracotta 7 
+setblock ~26 ~24 ~15 stained_glass_pane 7 
+setblock ~26 ~24 ~16 pink_glazed_terracotta 7 
+setblock ~26 ~24 ~18 vine 4  
+fill ~21 ~25 ~9 ~27 ~25 ~9 stained_hardened_clay 9  
+fill ~21 ~25 ~10 ~27 ~25 ~10 stained_hardened_clay 9  
+fill ~21 ~25 ~11 ~22 ~25 ~11 stained_hardened_clay 9  
+fill ~22 ~25 ~8 ~26 ~25 ~8 vine 1  
+fill ~22 ~25 ~17 ~27 ~25 ~17 stained_hardened_clay 9 
+setblock ~22 ~25 ~18 trapdoor 13 
+setblock ~23 ~25 ~11 quartz_stairs 6 
+setblock ~23 ~25 ~18 fence 0 
+setblock ~24 ~25 ~11 redstone_lamp 0 
+setblock ~24 ~25 ~18 trapdoor 13 
+setblock ~25 ~25 ~11 quartz_stairs 6  
+fill ~25 ~25 ~18 ~26 ~25 ~18 leaves 11  
+fill ~26 ~25 ~11 ~27 ~25 ~11 stained_hardened_clay 9  
+fill ~26 ~25 ~12 ~27 ~25 ~12 stained_hardened_clay 9  
+fill ~26 ~25 ~13 ~27 ~25 ~13 stained_hardened_clay 9  
+fill ~26 ~25 ~14 ~27 ~25 ~14 stained_hardened_clay 9  
+fill ~26 ~25 ~15 ~27 ~25 ~15 stained_hardened_clay 9  
+fill ~26 ~25 ~16 ~27 ~25 ~16 stained_hardened_clay 9  
+fill ~21 ~26 ~8 ~27 ~26 ~8 double_stone_slab 0  
+fill ~21 ~26 ~9 ~27 ~26 ~9 double_stone_slab 0  
+fill ~21 ~26 ~10 ~27 ~26 ~10 double_stone_slab 0  
+fill ~21 ~26 ~11 ~27 ~26 ~11 double_stone_slab 0  
+fill ~21 ~26 ~12 ~27 ~26 ~12 double_stone_slab 0  
+fill ~21 ~26 ~13 ~27 ~26 ~13 double_stone_slab 0  
+fill ~21 ~26 ~14 ~27 ~26 ~14 double_stone_slab 0  
+fill ~21 ~26 ~15 ~27 ~26 ~15 double_stone_slab 0  
+fill ~21 ~26 ~16 ~27 ~26 ~16 double_stone_slab 0  
+fill ~21 ~26 ~17 ~27 ~26 ~17 double_stone_slab 0  
+fill ~21 ~26 ~18 ~27 ~26 ~18 double_stone_slab 0  
+fill ~22 ~27 ~8 ~23 ~27 ~8 iron_bars 0 
+setblock ~22 ~27 ~10 dispenser 5 
+setblock ~22 ~27 ~11 dispenser 2 
+setblock ~22 ~27 ~15 dispenser 3 
+setblock ~22 ~27 ~16 dispenser 2  
+fill ~23 ~27 ~10 ~25 ~27 ~10 cobblestone_wall 0  
+fill ~23 ~27 ~15 ~23 ~27 ~16 cobblestone_wall 0  
+fill ~24 ~27 ~16 ~25 ~27 ~16 cobblestone_wall 0  
+fill ~25 ~27 ~8 ~26 ~27 ~8 iron_bars 0  
+fill ~26 ~27 ~13 ~26 ~27 ~15 cobblestone_wall 0  
+fill ~27 ~27 ~9 ~27 ~27 ~10 iron_bars 0 
+setblock ~22 ~28 ~10 rail 6 
+setblock ~22 ~28 ~11 rail 9 
+setblock ~22 ~28 ~15 rail 6 
+setblock ~22 ~28 ~16 rail 9  
+fill ~23 ~28 ~10 ~23 ~27 ~10 cobblestone_wall 0  
+fill ~23 ~28 ~16 ~25 ~28 ~16 cobblestone_wall 0  
+fill ~24 ~28 ~10 ~24 ~28 ~12 stained_hardened_clay 4 
+setblock ~25 ~28 ~10 cobblestone_wall 0 
+setblock ~26 ~28 ~13 redstone_torch 5  
+fill ~26 ~28 ~14 ~26 ~28 ~15 cobblestone_wall 0  
+fill ~23 ~29 ~9 ~25 ~29 ~9 stained_hardened_clay 4  
+fill ~23 ~29 ~10 ~23 ~30 ~10 stained_hardened_clay 4  
+fill ~23 ~29 ~11 ~23 ~30 ~11 stained_hardened_clay 4  
+fill ~23 ~29 ~12 ~23 ~30 ~12 stained_hardened_clay 4  
+fill ~23 ~29 ~16 ~25 ~29 ~16 cobblestone_wall 0  
+fill ~24 ~29 ~10 ~24 ~29 ~12 stained_hardened_clay 0  
+fill ~24 ~29 ~13 ~24 ~29 ~15 stained_hardened_clay 4  
+fill ~25 ~29 ~10 ~25 ~30 ~10 stained_hardened_clay 4  
+fill ~25 ~29 ~11 ~25 ~30 ~11 stained_hardened_clay 4  
+fill ~25 ~29 ~12 ~25 ~30 ~12 stained_hardened_clay 4 
+setblock ~26 ~29 ~14 redstone_torch 5 
+setblock ~26 ~29 ~15 cobblestone_wall 0  
+fill ~23 ~30 ~9 ~23 ~29 ~9 stained_hardened_clay 4  
+fill ~23 ~30 ~13 ~23 ~31 ~13 stained_hardened_clay 4  
+fill ~23 ~30 ~14 ~23 ~32 ~14 stained_hardened_clay 4  
+fill ~23 ~30 ~15 ~23 ~32 ~15 stained_hardened_clay 4  
+fill ~23 ~30 ~16 ~23 ~27 ~16 cobblestone_wall 0  
+fill ~24 ~30 ~8 ~24 ~30 ~12 wool 14  
+fill ~24 ~30 ~13 ~24 ~30 ~15 stained_hardened_clay 0  
+fill ~24 ~30 ~16 ~24 ~30 ~17 stained_hardened_clay 4 
+setblock ~25 ~30 ~9 stained_hardened_clay 4  
+fill ~25 ~30 ~13 ~25 ~31 ~13 stained_hardened_clay 4  
+fill ~25 ~30 ~14 ~25 ~32 ~14 stained_hardened_clay 4  
+fill ~25 ~30 ~15 ~25 ~32 ~15 stained_hardened_clay 4 
+setblock ~25 ~30 ~16 cobblestone_wall 0 
+setblock ~26 ~30 ~15 redstone_torch 5  
+fill ~23 ~31 ~16 ~23 ~33 ~16 stained_hardened_clay 4  
+fill ~23 ~31 ~17 ~23 ~34 ~17 stained_hardened_clay 4  
+fill ~24 ~31 ~9 ~24 ~31 ~12 stained_hardened_clay 4  
+fill ~24 ~31 ~13 ~24 ~31 ~15 wool 14  
+fill ~24 ~31 ~16 ~24 ~31 ~17 stained_hardened_clay 0  
+fill ~24 ~31 ~18 ~24 ~33 ~18 stained_hardened_clay 4  
+fill ~25 ~31 ~16 ~25 ~33 ~16 stained_hardened_clay 4  
+fill ~25 ~31 ~17 ~25 ~34 ~17 stained_hardened_clay 4  
+fill ~23 ~32 ~18 ~23 ~34 ~18 stained_hardened_clay 4  
+fill ~24 ~32 ~13 ~24 ~32 ~15 stained_hardened_clay 4  
+fill ~24 ~32 ~16 ~24 ~32 ~17 wool 14  
+fill ~25 ~32 ~18 ~25 ~34 ~18 stained_hardened_clay 4  
+fill ~24 ~33 ~15 ~24 ~33 ~16 stained_hardened_clay 4  
+fill ~24 ~33 ~17 ~24 ~34 ~17 wool 14 
+setblock ~24 ~34 ~16 stained_hardened_clay 4  
+fill ~24 ~34 ~18 ~24 ~34 ~19 wool 14  
+fill ~24 ~35 ~17 ~24 ~35 ~18 stained_hardened_clay 4 
+setblock ~41 ~47 ~32 glass 0    

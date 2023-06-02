@@ -1,0 +1,1546 @@
+setblock ~8 ~0 ~14 chest 3  
+setblock ~15 ~0 ~9 chest 3  
+setblock ~14 ~0 ~9 chest 3  
+setblock ~13 ~0 ~12 chest 5  
+setblock ~15 ~0 ~11 furnace 2  
+setblock ~14 ~0 ~11 furnace 2  
+setblock ~12 ~0 ~13 chest 3  
+setblock ~13 ~0 ~18 chest 5  
+setblock ~12 ~0 ~17 chest 2  
+setblock ~18 ~0 ~13 chest 3  
+setblock ~17 ~0 ~12 chest 4  
+setblock ~22 ~0 ~15 chest 4  
+setblock ~18 ~0 ~17 chest 2  
+setblock ~17 ~0 ~18 chest 4  
+fill ~5 ~-1 ~6 ~12 ~-1 ~6 grass 0  
+fill ~5 ~-1 ~7 ~11 ~-1 ~7 grass 0  
+fill ~5 ~-1 ~8 ~12 ~-1 ~8 grass 0  
+fill ~5 ~-1 ~9 ~11 ~-1 ~9 grass 0  
+fill ~5 ~-1 ~10 ~12 ~-1 ~10 grass 0  
+fill ~5 ~-1 ~11 ~11 ~-1 ~11 grass 0  
+fill ~5 ~-1 ~12 ~6 ~-1 ~12 grass 0  
+fill ~5 ~-1 ~13 ~5 ~-1 ~6 grass 0 
+setblock ~5 ~-1 ~14 stone_brick_stairs 5 
+setblock ~5 ~-1 ~15 stonebrick 0 
+setblock ~5 ~-1 ~16 stone_brick_stairs 5  
+fill ~5 ~-1 ~17 ~5 ~-1 ~24 grass 0 
+setblock ~6 ~-1 ~13 stonebrick 0  
+fill ~6 ~-1 ~14 ~6 ~-1 ~16 stone_slab 13 
+setblock ~6 ~-1 ~17 stonebrick 0  
+fill ~6 ~-1 ~18 ~10 ~-1 ~18 grass 0  
+fill ~6 ~-1 ~19 ~11 ~-1 ~19 grass 0  
+fill ~6 ~-1 ~20 ~12 ~-1 ~20 grass 0  
+fill ~6 ~-1 ~21 ~11 ~-1 ~21 grass 0  
+fill ~6 ~-1 ~22 ~12 ~-1 ~22 grass 0  
+fill ~6 ~-1 ~23 ~12 ~-1 ~23 grass 0  
+fill ~6 ~-1 ~24 ~12 ~-1 ~24 grass 0 
+setblock ~7 ~-1 ~12 stonebrick 0  
+fill ~7 ~-1 ~13 ~7 ~3 ~13 log 1  
+fill ~7 ~-1 ~14 ~7 ~0 ~14 stonebrick 0 
+setblock ~7 ~-1 ~15 cobblestone 0  
+fill ~7 ~-1 ~16 ~7 ~0 ~16 stonebrick 0  
+fill ~7 ~-1 ~17 ~11 ~-1 ~17 dirt 0  
+fill ~8 ~-1 ~12 ~10 ~-1 ~12 grass 0  
+fill ~8 ~-1 ~13 ~11 ~-1 ~13 dirt 0  
+fill ~8 ~-1 ~14 ~12 ~-1 ~14 planks 2  
+fill ~8 ~-1 ~15 ~10 ~-1 ~15 planks 2  
+fill ~8 ~-1 ~16 ~12 ~-1 ~16 planks 2  
+fill ~11 ~-1 ~12 ~12 ~-1 ~12 dirt 0 
+setblock ~11 ~-1 ~15 planks 3  
+fill ~11 ~-1 ~18 ~12 ~-1 ~18 dirt 0 
+setblock ~12 ~-1 ~7 stonebrick 0  
+fill ~12 ~-1 ~9 ~13 ~-1 ~9 dirt 0  
+fill ~12 ~-1 ~11 ~13 ~-1 ~11 dirt 0  
+fill ~12 ~-1 ~13 ~13 ~-1 ~13 planks 2 
+setblock ~12 ~-1 ~15 planks 2  
+fill ~12 ~-1 ~17 ~13 ~-1 ~17 planks 2  
+fill ~12 ~-1 ~19 ~13 ~-1 ~19 dirt 0  
+fill ~12 ~-1 ~21 ~13 ~-1 ~21 dirt 0  
+fill ~13 ~-1 ~6 ~17 ~-1 ~6 dirt 0  
+fill ~13 ~-1 ~7 ~13 ~3 ~7 log 1 
+setblock ~13 ~-1 ~8 dirt 0 
+setblock ~13 ~-1 ~10 dirt 0  
+fill ~13 ~-1 ~12 ~17 ~-1 ~12 planks 2  
+fill ~13 ~-1 ~14 ~13 ~-1 ~16 stone_brick_stairs 1  
+fill ~13 ~-1 ~18 ~17 ~-1 ~18 planks 2 
+setblock ~13 ~-1 ~20 dirt 0  
+fill ~13 ~-1 ~22 ~13 ~-1 ~24 dirt 0  
+fill ~14 ~-1 ~7 ~14 ~0 ~7 stonebrick 0  
+fill ~14 ~-1 ~8 ~16 ~-1 ~8 planks 2  
+fill ~14 ~-1 ~9 ~16 ~-1 ~9 planks 2  
+fill ~14 ~-1 ~10 ~16 ~-1 ~10 planks 2  
+fill ~14 ~-1 ~11 ~15 ~-1 ~11 planks 2  
+fill ~14 ~-1 ~13 ~16 ~-1 ~13 stone_brick_stairs 3 
+setblock ~14 ~-1 ~14 stonebrick 3 
+setblock ~14 ~-1 ~15 stone_brick_stairs 1 
+setblock ~14 ~-1 ~16 stonebrick 3  
+fill ~14 ~-1 ~17 ~16 ~-1 ~17 stone_brick_stairs 2  
+fill ~14 ~-1 ~19 ~14 ~-1 ~22 planks 2  
+fill ~14 ~-1 ~23 ~17 ~-1 ~23 dirt 0  
+fill ~14 ~-1 ~24 ~17 ~-1 ~24 dirt 0  
+fill ~15 ~-1 ~7 ~17 ~-1 ~7 dirt 0 
+setblock ~15 ~-1 ~14 stone_brick_stairs 3 
+setblock ~15 ~-1 ~15 diamond_block 0 
+setblock ~15 ~-1 ~16 stone_brick_stairs 2 
+setblock ~15 ~-1 ~19 planks 3  
+fill ~15 ~-1 ~20 ~16 ~-1 ~20 planks 2  
+fill ~15 ~-1 ~21 ~16 ~-1 ~21 planks 2  
+fill ~15 ~-1 ~22 ~16 ~-1 ~22 planks 2 
+setblock ~16 ~-1 ~11 planks 3 
+setblock ~16 ~-1 ~14 stonebrick 3  
+fill ~16 ~-1 ~15 ~17 ~-1 ~15 stone_brick_stairs 0 
+setblock ~16 ~-1 ~16 stonebrick 3 
+setblock ~16 ~-1 ~19 planks 2  
+fill ~17 ~-1 ~8 ~18 ~-1 ~8 dirt 0  
+fill ~17 ~-1 ~9 ~17 ~-1 ~11 dirt 0  
+fill ~17 ~-1 ~13 ~18 ~-1 ~13 planks 2 
+setblock ~17 ~-1 ~14 stone_brick_stairs 0 
+setblock ~17 ~-1 ~16 stone_brick_stairs 0  
+fill ~17 ~-1 ~17 ~18 ~-1 ~17 planks 2  
+fill ~17 ~-1 ~19 ~18 ~-1 ~19 dirt 0  
+fill ~17 ~-1 ~20 ~17 ~-1 ~24 dirt 0  
+fill ~18 ~-1 ~6 ~26 ~-1 ~6 grass 0 
+setblock ~18 ~-1 ~7 stonebrick 0  
+fill ~18 ~-1 ~9 ~26 ~-1 ~9 grass 0  
+fill ~18 ~-1 ~10 ~18 ~-1 ~12 dirt 0  
+fill ~18 ~-1 ~14 ~24 ~-1 ~14 planks 2  
+fill ~18 ~-1 ~15 ~18 ~-1 ~17 planks 2  
+fill ~18 ~-1 ~18 ~19 ~-1 ~18 dirt 0  
+fill ~18 ~-1 ~20 ~26 ~-1 ~20 grass 0  
+fill ~18 ~-1 ~21 ~26 ~-1 ~21 grass 0  
+fill ~18 ~-1 ~22 ~26 ~-1 ~22 grass 0  
+fill ~18 ~-1 ~23 ~26 ~-1 ~23 grass 0  
+fill ~18 ~-1 ~24 ~26 ~-1 ~24 grass 0  
+fill ~19 ~-1 ~7 ~26 ~-1 ~7 grass 0  
+fill ~19 ~-1 ~8 ~26 ~-1 ~8 grass 0  
+fill ~19 ~-1 ~10 ~26 ~-1 ~10 grass 0  
+fill ~19 ~-1 ~11 ~26 ~-1 ~11 grass 0  
+fill ~19 ~-1 ~12 ~19 ~-1 ~13 dirt 0 
+setblock ~19 ~-1 ~15 planks 3  
+fill ~19 ~-1 ~16 ~24 ~-1 ~16 planks 2  
+fill ~19 ~-1 ~17 ~26 ~-1 ~17 dirt 0  
+fill ~19 ~-1 ~19 ~26 ~-1 ~19 grass 0  
+fill ~20 ~-1 ~12 ~21 ~-1 ~12 grass 0  
+fill ~20 ~-1 ~13 ~26 ~-1 ~13 dirt 0  
+fill ~20 ~-1 ~15 ~24 ~-1 ~15 planks 2  
+fill ~20 ~-1 ~18 ~26 ~-1 ~18 grass 0 
+setblock ~22 ~-1 ~12 dirt 0  
+fill ~23 ~-1 ~12 ~26 ~-1 ~12 grass 0  
+fill ~25 ~-1 ~14 ~26 ~-1 ~14 dirt 0  
+fill ~25 ~-1 ~15 ~26 ~-1 ~15 dirt 0  
+fill ~25 ~-1 ~16 ~26 ~-1 ~16 dirt 0  
+fill ~5 ~0 ~14 ~6 ~0 ~14 iron_bars 0  
+fill ~5 ~0 ~16 ~6 ~0 ~16 iron_bars 0 
+setblock ~6 ~0 ~13 stone_brick_stairs 0 
+setblock ~6 ~0 ~17 stone_brick_stairs 0 
+setblock ~7 ~0 ~12 stone_brick_stairs 2 
+setblock ~7 ~0 ~15 wooden_door 2  
+fill ~7 ~0 ~17 ~7 ~3 ~17 log 1 
+setblock ~7 ~0 ~18 stone_brick_stairs 3 
+setblock ~8 ~0 ~12 stone_stairs 6 
+setblock ~8 ~0 ~13 stonebrick 0 
+setblock ~8 ~0 ~16 fence 0 
+setblock ~8 ~0 ~17 stonebrick 0 
+setblock ~8 ~0 ~18 stone_stairs 7 
+setblock ~9 ~0 ~12 stone_slab 13 
+setblock ~9 ~0 ~13 stone_stairs 2  
+fill ~9 ~0 ~15 ~10 ~0 ~15 carpet 12 
+setblock ~9 ~0 ~17 stone_stairs 3 
+setblock ~9 ~0 ~18 stone_slab 13 
+setblock ~10 ~0 ~12 stone_stairs 6 
+setblock ~10 ~0 ~13 stonebrick 0 
+setblock ~10 ~0 ~17 stonebrick 0 
+setblock ~10 ~0 ~18 stone_stairs 7 
+setblock ~11 ~0 ~9 stone_brick_stairs 0 
+setblock ~11 ~0 ~11 fence 0 
+setblock ~11 ~0 ~12 stone_brick_stairs 2  
+fill ~11 ~0 ~13 ~11 ~3 ~13 log 1 
+setblock ~11 ~0 ~14 oak_stairs 3 
+setblock ~11 ~0 ~16 oak_stairs 2  
+fill ~11 ~0 ~17 ~11 ~3 ~17 log 1 
+setblock ~11 ~0 ~18 stone_brick_stairs 3 
+setblock ~11 ~0 ~19 fence 0 
+setblock ~11 ~0 ~21 stone_brick_stairs 0 
+setblock ~12 ~0 ~7 stone_brick_stairs 0 
+setblock ~12 ~0 ~8 stone_stairs 4 
+setblock ~12 ~0 ~10 stone_stairs 4 
+setblock ~12 ~0 ~11 stone_brick_stairs 0  
+fill ~12 ~0 ~12 ~12 ~3 ~12 log 1  
+fill ~12 ~0 ~18 ~12 ~3 ~18 log 1 
+setblock ~12 ~0 ~19 stone_brick_stairs 0 
+setblock ~12 ~0 ~20 stone_stairs 4 
+setblock ~12 ~0 ~22 stone_stairs 4 
+setblock ~12 ~0 ~23 stone_brick_stairs 0 
+setblock ~13 ~0 ~6 stone_brick_stairs 2 
+setblock ~13 ~0 ~8 stonebrick 0 
+setblock ~13 ~0 ~9 stone_stairs 0 
+setblock ~13 ~0 ~10 stonebrick 0  
+fill ~13 ~0 ~11 ~13 ~3 ~11 log 1  
+fill ~13 ~0 ~19 ~13 ~3 ~19 log 1 
+setblock ~13 ~0 ~20 stonebrick 0 
+setblock ~13 ~0 ~21 stone_stairs 0 
+setblock ~13 ~0 ~22 stonebrick 0  
+fill ~13 ~0 ~23 ~13 ~3 ~23 log 1 
+setblock ~13 ~0 ~24 stone_brick_stairs 3 
+setblock ~14 ~0 ~6 stone_stairs 6  
+fill ~14 ~0 ~8 ~14 ~2 ~8 bookshelf 0 
+setblock ~14 ~0 ~19 oak_stairs 1 
+setblock ~14 ~0 ~22 crafting_table 0 
+setblock ~14 ~0 ~23 stonebrick 0 
+setblock ~14 ~0 ~24 stone_stairs 7 
+setblock ~15 ~0 ~6 stone_slab 13 
+setblock ~15 ~0 ~7 stone_stairs 2 
+setblock ~15 ~0 ~15 torch 5 
+setblock ~15 ~0 ~21 oak_stairs 3 
+setblock ~15 ~0 ~22 fence 0 
+setblock ~15 ~0 ~23 stone_stairs 3 
+setblock ~15 ~0 ~24 stone_slab 13 
+setblock ~16 ~0 ~6 stone_stairs 6 
+setblock ~16 ~0 ~7 stonebrick 0 
+setblock ~16 ~0 ~19 oak_stairs 0 
+setblock ~16 ~0 ~22 crafting_table 0 
+setblock ~16 ~0 ~23 stonebrick 0 
+setblock ~16 ~0 ~24 stone_stairs 7 
+setblock ~17 ~0 ~6 stone_brick_stairs 2  
+fill ~17 ~0 ~7 ~17 ~3 ~7 log 1 
+setblock ~17 ~0 ~8 stonebrick 0 
+setblock ~17 ~0 ~9 stone_stairs 1 
+setblock ~17 ~0 ~10 stonebrick 0  
+fill ~17 ~0 ~11 ~17 ~3 ~11 log 1  
+fill ~17 ~0 ~19 ~17 ~3 ~19 log 1 
+setblock ~17 ~0 ~20 stonebrick 0 
+setblock ~17 ~0 ~21 stone_stairs 1 
+setblock ~17 ~0 ~22 stonebrick 0  
+fill ~17 ~0 ~23 ~17 ~3 ~23 log 1 
+setblock ~17 ~0 ~24 stone_brick_stairs 3 
+setblock ~18 ~0 ~7 stone_brick_stairs 1 
+setblock ~18 ~0 ~8 stone_stairs 5 
+setblock ~18 ~0 ~9 stone_slab 13 
+setblock ~18 ~0 ~10 stone_stairs 5 
+setblock ~18 ~0 ~11 stone_brick_stairs 1  
+fill ~18 ~0 ~12 ~18 ~3 ~12 log 1  
+fill ~18 ~0 ~18 ~18 ~3 ~18 log 1 
+setblock ~18 ~0 ~19 stone_brick_stairs 1 
+setblock ~18 ~0 ~20 stone_stairs 5 
+setblock ~18 ~0 ~21 stone_slab 13 
+setblock ~18 ~0 ~22 stone_stairs 5 
+setblock ~18 ~0 ~23 stone_brick_stairs 1 
+setblock ~19 ~0 ~11 fence 0 
+setblock ~19 ~0 ~12 stone_brick_stairs 2  
+fill ~19 ~0 ~13 ~19 ~3 ~13 log 1 
+setblock ~19 ~0 ~14 oak_stairs 3 
+setblock ~19 ~0 ~16 oak_stairs 2  
+fill ~19 ~0 ~17 ~19 ~3 ~17 log 1 
+setblock ~19 ~0 ~18 stone_brick_stairs 3 
+setblock ~19 ~0 ~19 fence 0 
+setblock ~20 ~0 ~12 stone_stairs 6 
+setblock ~20 ~0 ~13 stonebrick 0  
+fill ~20 ~0 ~14 ~20 ~2 ~14 bookshelf 0  
+fill ~20 ~0 ~16 ~20 ~2 ~16 bookshelf 0 
+setblock ~20 ~0 ~17 stonebrick 0 
+setblock ~20 ~0 ~18 stone_stairs 7 
+setblock ~21 ~0 ~12 stone_slab 13 
+setblock ~21 ~0 ~13 stone_stairs 2 
+setblock ~21 ~0 ~17 stone_stairs 3 
+setblock ~21 ~0 ~18 stone_slab 13 
+setblock ~22 ~0 ~11 stone_slab 5 
+setblock ~22 ~0 ~12 stone_stairs 6 
+setblock ~22 ~0 ~13 stonebrick 0 
+setblock ~22 ~0 ~17 stonebrick 0 
+setblock ~22 ~0 ~18 stone_stairs 7 
+setblock ~23 ~0 ~12 stone_slab 13 
+setblock ~23 ~0 ~13 stone_stairs 2 
+setblock ~23 ~0 ~14 carpet 12 
+setblock ~23 ~0 ~15 bed 3 
+setblock ~23 ~0 ~16 carpet 12 
+setblock ~23 ~0 ~17 stone_stairs 3 
+setblock ~23 ~0 ~18 stone_slab 13 
+setblock ~24 ~0 ~12 stone_stairs 6 
+setblock ~24 ~0 ~13 stonebrick 0 
+setblock ~24 ~0 ~14 fence 0 
+setblock ~24 ~0 ~15 bed 11 
+setblock ~24 ~0 ~16 crafting_table 0 
+setblock ~24 ~0 ~17 stonebrick 0 
+setblock ~24 ~0 ~18 stone_stairs 7 
+setblock ~25 ~0 ~12 stone_brick_stairs 2  
+fill ~25 ~0 ~13 ~25 ~3 ~13 log 1 
+setblock ~25 ~0 ~14 stonebrick 0 
+setblock ~25 ~0 ~15 stone_stairs 1 
+setblock ~25 ~0 ~16 stonebrick 0  
+fill ~25 ~0 ~17 ~25 ~3 ~17 log 1 
+setblock ~25 ~0 ~18 stone_brick_stairs 3 
+setblock ~26 ~0 ~13 stone_brick_stairs 1 
+setblock ~26 ~0 ~14 stone_stairs 5 
+setblock ~26 ~0 ~15 stone_slab 13 
+setblock ~26 ~0 ~16 stone_stairs 5 
+setblock ~26 ~0 ~17 stone_brick_stairs 1 
+setblock ~6 ~1 ~13 cobblestone_wall 0 
+setblock ~6 ~1 ~14 stone_brick_stairs 0 
+setblock ~6 ~1 ~16 stone_brick_stairs 0 
+setblock ~6 ~1 ~17 cobblestone_wall 0 
+setblock ~7 ~1 ~12 cobblestone_wall 0  
+fill ~7 ~1 ~14 ~7 ~2 ~14 cobblestone 0 
+setblock ~7 ~1 ~15 wooden_door 8  
+fill ~7 ~1 ~16 ~7 ~2 ~16 cobblestone 0 
+setblock ~7 ~1 ~18 cobblestone_wall 0 
+setblock ~8 ~1 ~12 fence 0  
+fill ~8 ~1 ~13 ~8 ~2 ~13 cobblestone 0 
+setblock ~8 ~1 ~16 wooden_pressure_plate 0  
+fill ~8 ~1 ~17 ~8 ~2 ~17 cobblestone 0 
+setblock ~8 ~1 ~18 fence 0 
+setblock ~9 ~1 ~13 glass_pane 0 
+setblock ~9 ~1 ~17 glass_pane 0 
+setblock ~10 ~1 ~12 fence 0  
+fill ~10 ~1 ~13 ~10 ~2 ~13 cobblestone 0 
+setblock ~10 ~1 ~16 tripwire_hook 2  
+fill ~10 ~1 ~17 ~10 ~2 ~17 cobblestone 0 
+setblock ~10 ~1 ~18 fence 0  
+fill ~11 ~1 ~11 ~11 ~2 ~11 wool 13 
+setblock ~11 ~1 ~12 cobblestone_wall 0 
+setblock ~11 ~1 ~14 fence 0 
+setblock ~11 ~1 ~16 fence 0 
+setblock ~11 ~1 ~18 cobblestone_wall 0  
+fill ~11 ~1 ~19 ~11 ~2 ~19 wool 13 
+setblock ~12 ~1 ~7 cobblestone_wall 0 
+setblock ~12 ~1 ~8 fence 0 
+setblock ~12 ~1 ~9 red_flower 0 
+setblock ~12 ~1 ~10 fence 0 
+setblock ~12 ~1 ~11 cobblestone_wall 0 
+setblock ~12 ~1 ~19 cobblestone_wall 0 
+setblock ~12 ~1 ~20 fence 0 
+setblock ~12 ~1 ~21 red_flower 0 
+setblock ~12 ~1 ~22 fence 0 
+setblock ~12 ~1 ~23 cobblestone_wall 0 
+setblock ~13 ~1 ~6 cobblestone_wall 0  
+fill ~13 ~1 ~8 ~13 ~2 ~8 cobblestone 0 
+setblock ~13 ~1 ~9 glass_pane 0  
+fill ~13 ~1 ~10 ~13 ~2 ~10 cobblestone 0  
+fill ~13 ~1 ~20 ~13 ~2 ~20 cobblestone 0 
+setblock ~13 ~1 ~21 glass_pane 0  
+fill ~13 ~1 ~22 ~13 ~2 ~22 cobblestone 0 
+setblock ~13 ~1 ~24 cobblestone_wall 0 
+setblock ~14 ~1 ~6 fence 0  
+fill ~14 ~1 ~7 ~14 ~2 ~7 cobblestone 0  
+fill ~14 ~1 ~11 ~15 ~1 ~11 stone_pressure_plate 0 
+setblock ~14 ~1 ~19 fence 0 
+setblock ~14 ~1 ~22 fence 0  
+fill ~14 ~1 ~23 ~14 ~2 ~23 cobblestone 0 
+setblock ~14 ~1 ~24 fence 0 
+setblock ~15 ~1 ~7 glass_pane 0 
+setblock ~15 ~1 ~22 wooden_pressure_plate 0 
+setblock ~15 ~1 ~23 glass_pane 0 
+setblock ~16 ~1 ~6 fence 0  
+fill ~16 ~1 ~7 ~16 ~2 ~7 cobblestone 0 
+setblock ~16 ~1 ~19 fence 0 
+setblock ~16 ~1 ~22 fence 0  
+fill ~16 ~1 ~23 ~16 ~2 ~23 cobblestone 0 
+setblock ~16 ~1 ~24 fence 0 
+setblock ~17 ~1 ~6 cobblestone_wall 0  
+fill ~17 ~1 ~8 ~17 ~2 ~8 cobblestone 0 
+setblock ~17 ~1 ~9 glass_pane 0  
+fill ~17 ~1 ~10 ~17 ~2 ~10 cobblestone 0  
+fill ~17 ~1 ~20 ~17 ~2 ~20 cobblestone 0 
+setblock ~17 ~1 ~21 glass_pane 0  
+fill ~17 ~1 ~22 ~17 ~2 ~22 cobblestone 0 
+setblock ~17 ~1 ~24 cobblestone_wall 0 
+setblock ~18 ~1 ~7 cobblestone_wall 0 
+setblock ~18 ~1 ~8 fence 0 
+setblock ~18 ~1 ~10 fence 0 
+setblock ~18 ~1 ~11 cobblestone_wall 0 
+setblock ~18 ~1 ~19 cobblestone_wall 0 
+setblock ~18 ~1 ~20 fence 0 
+setblock ~18 ~1 ~22 fence 0 
+setblock ~18 ~1 ~23 cobblestone_wall 0  
+fill ~19 ~1 ~11 ~19 ~2 ~11 wool 13 
+setblock ~19 ~1 ~12 cobblestone_wall 0 
+setblock ~19 ~1 ~14 fence 0 
+setblock ~19 ~1 ~16 fence 0 
+setblock ~19 ~1 ~18 cobblestone_wall 0  
+fill ~19 ~1 ~19 ~19 ~2 ~19 wool 13 
+setblock ~20 ~1 ~12 fence 0  
+fill ~20 ~1 ~13 ~20 ~2 ~13 cobblestone 0  
+fill ~20 ~1 ~17 ~20 ~2 ~17 cobblestone 0 
+setblock ~20 ~1 ~18 fence 0 
+setblock ~21 ~1 ~13 glass_pane 0 
+setblock ~21 ~1 ~17 glass_pane 0 
+setblock ~22 ~1 ~12 fence 0  
+fill ~22 ~1 ~13 ~22 ~2 ~13 cobblestone 0  
+fill ~22 ~1 ~17 ~22 ~2 ~17 cobblestone 0 
+setblock ~22 ~1 ~18 fence 0 
+setblock ~23 ~1 ~13 glass_pane 0 
+setblock ~23 ~1 ~17 glass_pane 0 
+setblock ~24 ~1 ~12 fence 0  
+fill ~24 ~1 ~13 ~24 ~2 ~13 cobblestone 0 
+setblock ~24 ~1 ~14 wooden_pressure_plate 0 
+setblock ~24 ~1 ~16 flower_pot 2  
+fill ~24 ~1 ~17 ~24 ~2 ~17 cobblestone 0 
+setblock ~24 ~1 ~18 fence 0 
+setblock ~25 ~1 ~12 cobblestone_wall 0  
+fill ~25 ~1 ~14 ~25 ~2 ~14 cobblestone 0 
+setblock ~25 ~1 ~15 glass_pane 0  
+fill ~25 ~1 ~16 ~25 ~2 ~16 cobblestone 0 
+setblock ~25 ~1 ~18 cobblestone_wall 0 
+setblock ~26 ~1 ~13 cobblestone_wall 0 
+setblock ~26 ~1 ~14 fence 0 
+setblock ~26 ~1 ~16 fence 0 
+setblock ~26 ~1 ~17 cobblestone_wall 0 
+setblock ~6 ~2 ~13 stone_brick_stairs 4 
+setblock ~6 ~2 ~14 fence 0 
+setblock ~6 ~2 ~16 fence 0 
+setblock ~6 ~2 ~17 stone_brick_stairs 4 
+setblock ~7 ~2 ~12 stone_brick_stairs 6 
+setblock ~7 ~2 ~15 stone_brick_stairs 4 
+setblock ~7 ~2 ~18 stone_brick_stairs 7 
+setblock ~8 ~2 ~12 cobblestone_wall 0 
+setblock ~8 ~2 ~18 cobblestone_wall 0 
+setblock ~9 ~2 ~13 stone_brick_stairs 6 
+setblock ~9 ~2 ~14 web 0 
+setblock ~9 ~2 ~17 stone_brick_stairs 7 
+setblock ~10 ~2 ~11 wooden_button 2 
+setblock ~10 ~2 ~12 cobblestone_wall 0 
+setblock ~10 ~2 ~18 cobblestone_wall 0 
+setblock ~10 ~2 ~19 wooden_button 2 
+setblock ~11 ~2 ~10 wooden_button 4 
+setblock ~11 ~2 ~12 stone_brick_stairs 6 
+setblock ~11 ~2 ~14 oak_stairs 7 
+setblock ~11 ~2 ~15 fence_gate 1 
+setblock ~11 ~2 ~16 oak_stairs 6 
+setblock ~11 ~2 ~18 stone_brick_stairs 7 
+setblock ~11 ~2 ~20 wooden_button 3 
+setblock ~12 ~2 ~7 stone_brick_stairs 4 
+setblock ~12 ~2 ~8 cobblestone_wall 0 
+setblock ~12 ~2 ~10 cobblestone_wall 0 
+setblock ~12 ~2 ~11 stone_brick_stairs 4 
+setblock ~12 ~2 ~13 oak_stairs 7 
+setblock ~12 ~2 ~14 web 0 
+setblock ~12 ~2 ~17 oak_stairs 6 
+setblock ~12 ~2 ~19 stone_brick_stairs 4 
+setblock ~12 ~2 ~20 cobblestone_wall 0 
+setblock ~12 ~2 ~22 cobblestone_wall 0 
+setblock ~12 ~2 ~23 stone_brick_stairs 4 
+setblock ~13 ~2 ~6 stone_brick_stairs 6 
+setblock ~13 ~2 ~9 stone_brick_stairs 4 
+setblock ~13 ~2 ~12 oak_stairs 5 
+setblock ~13 ~2 ~18 oak_stairs 5 
+setblock ~13 ~2 ~21 stone_brick_stairs 4 
+setblock ~13 ~2 ~24 stone_brick_stairs 7 
+setblock ~14 ~2 ~6 cobblestone_wall 0 
+setblock ~14 ~2 ~11 oak_stairs 5  
+fill ~14 ~2 ~14 ~16 ~2 ~14 stone_slab 13  
+fill ~14 ~2 ~15 ~14 ~2 ~16 stone_slab 13 
+setblock ~14 ~2 ~19 oak_stairs 5 
+setblock ~14 ~2 ~22 bookshelf 0 
+setblock ~14 ~2 ~24 cobblestone_wall 0 
+setblock ~15 ~2 ~7 stone_brick_stairs 6 
+setblock ~15 ~2 ~11 fence_gate 2  
+fill ~15 ~2 ~16 ~16 ~2 ~16 stone_slab 13 
+setblock ~15 ~2 ~19 fence_gate 0 
+setblock ~15 ~2 ~22 web 0 
+setblock ~15 ~2 ~23 stone_brick_stairs 7 
+setblock ~16 ~2 ~6 cobblestone_wall 0 
+setblock ~16 ~2 ~8 web 0 
+setblock ~16 ~2 ~11 oak_stairs 4 
+setblock ~16 ~2 ~15 stone_slab 13 
+setblock ~16 ~2 ~19 oak_stairs 4 
+setblock ~16 ~2 ~22 bookshelf 0 
+setblock ~16 ~2 ~24 cobblestone_wall 0 
+setblock ~17 ~2 ~6 stone_brick_stairs 6 
+setblock ~17 ~2 ~9 stone_brick_stairs 5 
+setblock ~17 ~2 ~12 oak_stairs 4 
+setblock ~17 ~2 ~18 oak_stairs 4 
+setblock ~17 ~2 ~21 stone_brick_stairs 5 
+setblock ~17 ~2 ~24 stone_brick_stairs 7 
+setblock ~18 ~2 ~7 stone_brick_stairs 5 
+setblock ~18 ~2 ~8 cobblestone_wall 0 
+setblock ~18 ~2 ~10 cobblestone_wall 0 
+setblock ~18 ~2 ~11 stone_brick_stairs 5 
+setblock ~18 ~2 ~13 oak_stairs 7 
+setblock ~18 ~2 ~17 oak_stairs 6 
+setblock ~18 ~2 ~19 stone_brick_stairs 5 
+setblock ~18 ~2 ~20 cobblestone_wall 0 
+setblock ~18 ~2 ~22 cobblestone_wall 0 
+setblock ~18 ~2 ~23 stone_brick_stairs 5 
+setblock ~19 ~2 ~12 stone_brick_stairs 6 
+setblock ~19 ~2 ~14 oak_stairs 7 
+setblock ~19 ~2 ~15 fence_gate 3 
+setblock ~19 ~2 ~16 oak_stairs 6 
+setblock ~19 ~2 ~18 stone_brick_stairs 7 
+setblock ~19 ~2 ~20 wooden_button 3 
+setblock ~20 ~2 ~12 cobblestone_wall 0 
+setblock ~20 ~2 ~18 cobblestone_wall 0 
+setblock ~20 ~2 ~19 wooden_button 1 
+setblock ~21 ~2 ~13 stone_brick_stairs 6 
+setblock ~21 ~2 ~14 web 0 
+setblock ~21 ~2 ~17 stone_brick_stairs 7 
+setblock ~22 ~2 ~12 cobblestone_wall 0 
+setblock ~22 ~2 ~18 cobblestone_wall 0 
+setblock ~23 ~2 ~13 stone_brick_stairs 6 
+setblock ~23 ~2 ~17 stone_brick_stairs 7 
+setblock ~24 ~2 ~12 cobblestone_wall 0 
+setblock ~24 ~2 ~14 web 0 
+setblock ~24 ~2 ~18 cobblestone_wall 0  
+fill ~25 ~2 ~12 ~25 ~5 ~12 wool 13 
+setblock ~25 ~2 ~15 stone_brick_stairs 5  
+fill ~25 ~2 ~18 ~25 ~5 ~18 wool 13 
+setblock ~26 ~2 ~13 stone_brick_stairs 5 
+setblock ~26 ~2 ~14 cobblestone_wall 0 
+setblock ~26 ~2 ~16 cobblestone_wall 0 
+setblock ~26 ~2 ~17 stone_brick_stairs 5 
+setblock ~5 ~3 ~13 stone_button 2 
+setblock ~5 ~3 ~17 stone_button 2 
+setblock ~6 ~3 ~13 log 5 
+setblock ~6 ~3 ~14 cobblestone_wall 0 
+setblock ~6 ~3 ~16 cobblestone_wall 0 
+setblock ~6 ~3 ~17 log 5  
+fill ~7 ~3 ~12 ~7 ~4 ~12 wool 13  
+fill ~7 ~3 ~14 ~7 ~3 ~16 log 9  
+fill ~7 ~3 ~18 ~7 ~4 ~18 wool 13 
+setblock ~8 ~3 ~12 stone_slab 5  
+fill ~8 ~3 ~13 ~10 ~3 ~13 log 5  
+fill ~8 ~3 ~14 ~10 ~3 ~14 wooden_slab 9  
+fill ~8 ~3 ~15 ~10 ~3 ~15 wooden_slab 9  
+fill ~8 ~3 ~16 ~10 ~3 ~16 wooden_slab 9  
+fill ~8 ~3 ~17 ~10 ~3 ~17 log 5 
+setblock ~8 ~3 ~18 stone_slab 5 
+setblock ~9 ~3 ~12 stone_slab 13 
+setblock ~9 ~3 ~18 stone_slab 13  
+fill ~10 ~3 ~12 ~10 ~4 ~12 stone_slab 5  
+fill ~10 ~3 ~18 ~10 ~4 ~18 stone_slab 5 
+setblock ~11 ~3 ~11 stone_slab 13 
+setblock ~11 ~3 ~12 wool 13  
+fill ~11 ~3 ~14 ~12 ~3 ~14 log 9  
+fill ~11 ~3 ~15 ~12 ~3 ~15 log 9  
+fill ~11 ~3 ~16 ~12 ~3 ~16 log 9 
+setblock ~11 ~3 ~18 wool 13 
+setblock ~11 ~3 ~19 stone_slab 13  
+fill ~12 ~3 ~7 ~12 ~4 ~7 wool 13 
+setblock ~12 ~3 ~8 stone_slab 5 
+setblock ~12 ~3 ~9 stone_slab 13  
+fill ~12 ~3 ~10 ~12 ~4 ~10 stone_slab 5 
+setblock ~12 ~3 ~11 wool 13 
+setblock ~12 ~3 ~13 log 9 
+setblock ~12 ~3 ~17 log 9 
+setblock ~12 ~3 ~19 wool 13  
+fill ~12 ~3 ~20 ~12 ~4 ~20 stone_slab 5 
+setblock ~12 ~3 ~21 stone_slab 13 
+setblock ~12 ~3 ~22 stone_slab 5  
+fill ~12 ~3 ~23 ~12 ~4 ~23 wool 13 
+setblock ~13 ~3 ~5 stone_button 4 
+setblock ~13 ~3 ~6 log 9  
+fill ~13 ~3 ~8 ~13 ~3 ~10 log 9  
+fill ~13 ~3 ~12 ~17 ~3 ~12 log 5 
+setblock ~13 ~3 ~13 wooden_slab 9  
+fill ~13 ~3 ~15 ~14 ~3 ~15 iron_bars 0 
+setblock ~13 ~3 ~17 wooden_slab 9  
+fill ~13 ~3 ~18 ~17 ~3 ~18 log 5  
+fill ~13 ~3 ~20 ~13 ~3 ~22 log 9 
+setblock ~13 ~3 ~24 log 9 
+setblock ~13 ~3 ~25 stone_button 3 
+setblock ~14 ~3 ~6 stone_slab 5  
+fill ~14 ~3 ~7 ~16 ~3 ~7 log 5 
+setblock ~14 ~3 ~8 double_wooden_slab 1  
+fill ~14 ~3 ~9 ~16 ~3 ~9 wooden_slab 9  
+fill ~14 ~3 ~10 ~16 ~3 ~10 wooden_slab 9  
+fill ~14 ~3 ~11 ~16 ~3 ~11 log 5 
+setblock ~14 ~3 ~17 web 0  
+fill ~14 ~3 ~19 ~16 ~3 ~19 log 5  
+fill ~14 ~3 ~20 ~16 ~3 ~20 wooden_slab 9  
+fill ~14 ~3 ~21 ~16 ~3 ~21 wooden_slab 9 
+setblock ~14 ~3 ~22 double_wooden_slab 1  
+fill ~14 ~3 ~23 ~16 ~3 ~23 log 5 
+setblock ~14 ~3 ~24 stone_slab 5 
+setblock ~15 ~3 ~6 stone_slab 13  
+fill ~15 ~3 ~8 ~16 ~3 ~8 wooden_slab 9  
+fill ~15 ~3 ~13 ~15 ~3 ~14 iron_bars 0  
+fill ~15 ~3 ~16 ~15 ~3 ~17 iron_bars 0 
+setblock ~15 ~3 ~22 wooden_slab 9 
+setblock ~15 ~3 ~24 stone_slab 13 
+setblock ~16 ~3 ~6 stone_slab 5  
+fill ~16 ~3 ~15 ~17 ~3 ~15 iron_bars 0 
+setblock ~16 ~3 ~22 double_wooden_slab 1 
+setblock ~16 ~3 ~24 stone_slab 5 
+setblock ~17 ~3 ~5 stone_button 4 
+setblock ~17 ~3 ~6 log 9  
+fill ~17 ~3 ~8 ~17 ~3 ~10 log 9 
+setblock ~17 ~3 ~13 wooden_slab 9 
+setblock ~17 ~3 ~17 wooden_slab 9  
+fill ~17 ~3 ~20 ~17 ~3 ~22 log 9 
+setblock ~17 ~3 ~24 log 9 
+setblock ~17 ~3 ~25 stone_button 3  
+fill ~18 ~3 ~7 ~18 ~4 ~7 wool 13 
+setblock ~18 ~3 ~8 stone_slab 5 
+setblock ~18 ~3 ~9 stone_slab 13  
+fill ~18 ~3 ~10 ~18 ~4 ~10 stone_slab 5 
+setblock ~18 ~3 ~11 wool 13  
+fill ~18 ~3 ~13 ~18 ~3 ~17 log 9 
+setblock ~18 ~3 ~19 wool 13 
+setblock ~18 ~3 ~20 double_stone_slab 5 
+setblock ~18 ~3 ~21 stone_slab 13 
+setblock ~18 ~3 ~22 stone_slab 5  
+fill ~18 ~3 ~23 ~18 ~4 ~23 wool 13 
+setblock ~19 ~3 ~11 stone_slab 13 
+setblock ~19 ~3 ~12 wool 13  
+fill ~19 ~3 ~14 ~19 ~3 ~16 log 9 
+setblock ~19 ~3 ~18 wool 13 
+setblock ~19 ~3 ~19 stone_slab 5 
+setblock ~20 ~3 ~12 double_stone_slab 5  
+fill ~20 ~3 ~13 ~24 ~3 ~13 log 5  
+fill ~20 ~3 ~14 ~24 ~3 ~14 wooden_slab 9  
+fill ~20 ~3 ~15 ~24 ~3 ~15 wooden_slab 9  
+fill ~20 ~3 ~16 ~24 ~3 ~16 wooden_slab 9  
+fill ~20 ~3 ~17 ~24 ~3 ~17 log 5 
+setblock ~20 ~3 ~18 stone_slab 5 
+setblock ~21 ~3 ~12 stone_slab 13 
+setblock ~21 ~3 ~18 stone_slab 13 
+setblock ~22 ~3 ~12 stone_slab 5 
+setblock ~22 ~3 ~18 stone_slab 5 
+setblock ~23 ~3 ~12 stone_slab 13 
+setblock ~23 ~3 ~18 stone_slab 13  
+fill ~24 ~3 ~12 ~24 ~4 ~12 wool 13  
+fill ~24 ~3 ~18 ~24 ~4 ~18 wool 13  
+fill ~25 ~3 ~14 ~25 ~3 ~16 log 9 
+setblock ~26 ~3 ~13 log 5  
+fill ~26 ~3 ~14 ~26 ~4 ~14 stone_slab 5 
+setblock ~26 ~3 ~15 stone_slab 13  
+fill ~26 ~3 ~16 ~26 ~4 ~16 stone_slab 5 
+setblock ~26 ~3 ~17 log 5 
+setblock ~27 ~3 ~13 stone_button 1 
+setblock ~27 ~3 ~17 stone_button 1 
+setblock ~6 ~4 ~12 stone_brick_stairs 4 
+setblock ~6 ~4 ~13 iron_bars 0 
+setblock ~6 ~4 ~14 stone_stairs 2 
+setblock ~6 ~4 ~15 stone_slab 13 
+setblock ~6 ~4 ~16 stone_stairs 3 
+setblock ~6 ~4 ~17 iron_bars 0 
+setblock ~6 ~4 ~18 stone_brick_stairs 4 
+setblock ~7 ~4 ~11 wooden_button 4  
+fill ~7 ~4 ~13 ~7 ~4 ~14 planks 1  
+fill ~7 ~4 ~15 ~7 ~7 ~15 log 1  
+fill ~7 ~4 ~16 ~7 ~5 ~16 planks 1  
+fill ~7 ~4 ~17 ~7 ~4 ~16 planks 1 
+setblock ~7 ~4 ~19 wooden_button 3 
+setblock ~8 ~4 ~12 wool 13 
+setblock ~8 ~4 ~18 wool 13 
+setblock ~9 ~4 ~12 stone_brick_stairs 4  
+fill ~9 ~4 ~13 ~11 ~4 ~13 wool 13  
+fill ~9 ~4 ~17 ~11 ~4 ~17 wool 13 
+setblock ~9 ~4 ~18 stone_brick_stairs 4 
+setblock ~11 ~4 ~7 wooden_button 2 
+setblock ~11 ~4 ~12 stone_button 4 
+setblock ~11 ~4 ~18 stone_button 3 
+setblock ~11 ~4 ~23 wooden_button 2 
+setblock ~12 ~4 ~6 stone_brick_stairs 6 
+setblock ~12 ~4 ~8 wool 13 
+setblock ~12 ~4 ~9 stone_brick_stairs 6 
+setblock ~12 ~4 ~11 stone_button 2 
+setblock ~12 ~4 ~12 wool 13 
+setblock ~12 ~4 ~15 planks 1 
+setblock ~12 ~4 ~18 wool 13 
+setblock ~12 ~4 ~19 stone_button 2 
+setblock ~12 ~4 ~21 stone_brick_stairs 7 
+setblock ~12 ~4 ~22 wool 13 
+setblock ~12 ~4 ~24 stone_brick_stairs 7 
+setblock ~13 ~4 ~6 iron_bars 0  
+fill ~13 ~4 ~7 ~14 ~4 ~7 planks 1  
+fill ~13 ~4 ~9 ~13 ~4 ~11 wool 13  
+fill ~13 ~4 ~13 ~14 ~4 ~13 planks 1  
+fill ~13 ~4 ~14 ~13 ~5 ~14 planks 1 
+setblock ~13 ~4 ~15 web 0  
+fill ~13 ~4 ~16 ~13 ~5 ~16 planks 1  
+fill ~13 ~4 ~17 ~14 ~4 ~17 planks 1  
+fill ~13 ~4 ~19 ~13 ~4 ~21 wool 13  
+fill ~13 ~4 ~23 ~14 ~4 ~23 planks 1 
+setblock ~13 ~4 ~24 iron_bars 0 
+setblock ~14 ~4 ~6 stone_slab 13 
+setblock ~14 ~4 ~24 stone_slab 13 
+setblock ~15 ~4 ~6 anvil 3  
+fill ~15 ~4 ~7 ~15 ~7 ~7 log 1 
+setblock ~15 ~4 ~12 planks 1 
+setblock ~15 ~4 ~18 planks 1  
+fill ~15 ~4 ~23 ~15 ~7 ~23 log 1 
+setblock ~15 ~4 ~24 anvil 1 
+setblock ~16 ~4 ~6 stone_slab 13  
+fill ~16 ~4 ~7 ~17 ~4 ~7 planks 1  
+fill ~16 ~4 ~13 ~17 ~4 ~13 planks 1  
+fill ~16 ~4 ~17 ~17 ~4 ~17 planks 1  
+fill ~16 ~4 ~23 ~17 ~4 ~23 planks 1 
+setblock ~16 ~4 ~24 stone_slab 13 
+setblock ~17 ~4 ~6 iron_bars 0  
+fill ~17 ~4 ~9 ~17 ~4 ~11 wool 13  
+fill ~17 ~4 ~14 ~17 ~5 ~14 planks 1  
+fill ~17 ~4 ~16 ~17 ~5 ~16 planks 1  
+fill ~17 ~4 ~19 ~17 ~4 ~21 wool 13 
+setblock ~17 ~4 ~24 iron_bars 0 
+setblock ~18 ~4 ~6 stone_brick_stairs 6 
+setblock ~18 ~4 ~8 wool 13 
+setblock ~18 ~4 ~9 stone_brick_stairs 6 
+setblock ~18 ~4 ~11 stone_button 1 
+setblock ~18 ~4 ~12 wool 13 
+setblock ~18 ~4 ~15 planks 1 
+setblock ~18 ~4 ~18 wool 13 
+setblock ~18 ~4 ~19 stone_button 1 
+setblock ~18 ~4 ~21 stone_brick_stairs 7 
+setblock ~18 ~4 ~22 wool 13 
+setblock ~18 ~4 ~24 stone_brick_stairs 7 
+setblock ~19 ~4 ~12 stone_button 4  
+fill ~19 ~4 ~13 ~21 ~4 ~13 wool 13  
+fill ~19 ~4 ~17 ~21 ~4 ~17 wool 13 
+setblock ~19 ~4 ~18 stone_button 3 
+setblock ~19 ~4 ~23 wooden_button 1 
+setblock ~20 ~4 ~12 trapdoor 12 
+setblock ~20 ~4 ~18 trapdoor 13 
+setblock ~21 ~4 ~12 stone_slab 5 
+setblock ~21 ~4 ~14 wooden_slab 9 
+setblock ~21 ~4 ~18 wooden_slab 8  
+fill ~22 ~4 ~12 ~25 ~4 ~12 wool 13  
+fill ~22 ~4 ~18 ~25 ~4 ~18 wool 13 
+setblock ~25 ~4 ~11 stone_button 4  
+fill ~25 ~4 ~13 ~25 ~5 ~13 planks 1  
+fill ~25 ~4 ~14 ~25 ~6 ~14 planks 1  
+fill ~25 ~4 ~15 ~25 ~8 ~15 log 1  
+fill ~25 ~4 ~16 ~25 ~6 ~16 planks 1  
+fill ~25 ~4 ~17 ~25 ~5 ~17 planks 1 
+setblock ~25 ~4 ~19 stone_button 3 
+setblock ~26 ~4 ~12 stone_brick_stairs 5 
+setblock ~26 ~4 ~13 anvil 1 
+setblock ~26 ~4 ~15 anvil 0 
+setblock ~26 ~4 ~17 anvil 3 
+setblock ~26 ~4 ~18 stone_brick_stairs 5 
+setblock ~5 ~5 ~13 stone_brick_stairs 4 
+setblock ~5 ~5 ~17 stone_brick_stairs 4 
+setblock ~6 ~5 ~12 stone_brick_stairs 2  
+fill ~6 ~5 ~13 ~8 ~5 ~13 wool 13 
+setblock ~6 ~5 ~14 iron_bars 0 
+setblock ~6 ~5 ~15 anvil 2 
+setblock ~6 ~5 ~16 iron_bars 0  
+fill ~6 ~5 ~17 ~8 ~5 ~17 wool 13 
+setblock ~6 ~5 ~18 stone_brick_stairs 3 
+setblock ~7 ~5 ~12 stone_brick_stairs 5 
+setblock ~7 ~5 ~14 planks 1 
+setblock ~7 ~5 ~18 stone_brick_stairs 4 
+setblock ~8 ~5 ~12 stone_slab 5 
+setblock ~8 ~5 ~18 stone_slab 5 
+setblock ~9 ~5 ~13 wooden_slab 0  
+fill ~9 ~5 ~14 ~11 ~5 ~14 wool 13  
+fill ~9 ~5 ~16 ~11 ~5 ~16 wool 13 
+setblock ~9 ~5 ~17 wooden_slab 0 
+setblock ~10 ~5 ~13 iron_bars 0 
+setblock ~10 ~5 ~17 iron_bars 0 
+setblock ~11 ~5 ~13 wooden_slab 0 
+setblock ~11 ~5 ~17 wooden_slab 0 
+setblock ~12 ~5 ~6 stone_brick_stairs 0 
+setblock ~12 ~5 ~7 stone_brick_stairs 6 
+setblock ~12 ~5 ~8 stone_slab 5 
+setblock ~12 ~5 ~12 wooden_slab 8 
+setblock ~12 ~5 ~13 wool 13 
+setblock ~12 ~5 ~17 wool 13 
+setblock ~12 ~5 ~18 wooden_slab 8 
+setblock ~12 ~5 ~22 stone_slab 5 
+setblock ~12 ~5 ~23 stone_brick_stairs 7 
+setblock ~12 ~5 ~24 stone_brick_stairs 0 
+setblock ~13 ~5 ~5 stone_brick_stairs 6  
+fill ~13 ~5 ~6 ~13 ~5 ~8 wool 13 
+setblock ~13 ~5 ~9 wooden_slab 0 
+setblock ~13 ~5 ~10 iron_bars 0 
+setblock ~13 ~5 ~11 wooden_slab 0 
+setblock ~13 ~5 ~12 wool 13 
+setblock ~13 ~5 ~13 log 5  
+fill ~13 ~5 ~15 ~13 ~6 ~15 planks 1 
+setblock ~13 ~5 ~17 log 9 
+setblock ~13 ~5 ~18 wool 13 
+setblock ~13 ~5 ~19 wooden_slab 0 
+setblock ~13 ~5 ~20 iron_bars 0 
+setblock ~13 ~5 ~21 wooden_slab 0  
+fill ~13 ~5 ~22 ~13 ~5 ~24 wool 13 
+setblock ~13 ~5 ~25 stone_brick_stairs 7 
+setblock ~14 ~5 ~6 iron_bars 0 
+setblock ~14 ~5 ~7 planks 1  
+fill ~14 ~5 ~9 ~14 ~6 ~9 wool 13  
+fill ~14 ~5 ~10 ~14 ~5 ~11 wool 13  
+fill ~14 ~5 ~13 ~16 ~5 ~13 planks 1  
+fill ~14 ~5 ~17 ~16 ~5 ~17 planks 1  
+fill ~14 ~5 ~19 ~14 ~5 ~21 wool 13 
+setblock ~14 ~5 ~23 planks 1 
+setblock ~14 ~5 ~24 iron_bars 0 
+setblock ~15 ~5 ~6 fence 0 
+setblock ~15 ~5 ~24 fence 0 
+setblock ~16 ~5 ~6 iron_bars 0  
+fill ~16 ~5 ~7 ~16 ~4 ~7 planks 1  
+fill ~16 ~5 ~9 ~16 ~6 ~9 wool 13  
+fill ~16 ~5 ~10 ~16 ~5 ~11 wool 13 
+setblock ~16 ~5 ~15 web 0  
+fill ~16 ~5 ~19 ~16 ~5 ~21 wool 13  
+fill ~16 ~5 ~23 ~16 ~4 ~23 planks 1 
+setblock ~16 ~5 ~24 iron_bars 0 
+setblock ~17 ~5 ~5 stone_brick_stairs 6  
+fill ~17 ~5 ~6 ~17 ~5 ~8 wool 13 
+setblock ~17 ~5 ~9 wooden_slab 0 
+setblock ~17 ~5 ~10 iron_bars 0 
+setblock ~17 ~5 ~11 wooden_slab 0 
+setblock ~17 ~5 ~12 wool 13 
+setblock ~17 ~5 ~13 log 9  
+fill ~17 ~5 ~15 ~17 ~6 ~15 planks 1 
+setblock ~17 ~5 ~17 log 5 
+setblock ~17 ~5 ~18 wool 13 
+setblock ~17 ~5 ~19 wooden_slab 0 
+setblock ~17 ~5 ~20 iron_bars 0 
+setblock ~17 ~5 ~21 wooden_slab 0  
+fill ~17 ~5 ~22 ~17 ~5 ~24 wool 13 
+setblock ~17 ~5 ~25 stone_brick_stairs 7 
+setblock ~18 ~5 ~6 stone_brick_stairs 1 
+setblock ~18 ~5 ~7 stone_brick_stairs 6 
+setblock ~18 ~5 ~8 stone_slab 5 
+setblock ~18 ~5 ~12 wooden_slab 8 
+setblock ~18 ~5 ~13 wool 13 
+setblock ~18 ~5 ~17 wool 13 
+setblock ~18 ~5 ~18 wooden_slab 8 
+setblock ~18 ~5 ~22 stone_slab 5 
+setblock ~18 ~5 ~23 stone_brick_stairs 7 
+setblock ~18 ~5 ~24 stone_brick_stairs 1 
+setblock ~19 ~5 ~13 wooden_slab 0  
+fill ~19 ~5 ~14 ~21 ~5 ~14 wool 13  
+fill ~19 ~5 ~16 ~21 ~5 ~16 wool 13 
+setblock ~19 ~5 ~17 wooden_slab 0 
+setblock ~20 ~5 ~13 stone_slab 5 
+setblock ~20 ~5 ~17 stone_slab 5 
+setblock ~21 ~5 ~13 stone_brick_stairs 5 
+setblock ~21 ~5 ~17 stone_brick_stairs 5 
+setblock ~22 ~5 ~12 wooden_slab 8  
+fill ~22 ~5 ~13 ~24 ~5 ~13 wool 13  
+fill ~22 ~5 ~17 ~24 ~5 ~17 wool 13 
+setblock ~23 ~5 ~12 stone_slab 5 
+setblock ~23 ~5 ~18 stone_slab 5 
+setblock ~24 ~5 ~12 stone_brick_stairs 5 
+setblock ~24 ~5 ~18 stone_brick_stairs 5 
+setblock ~26 ~5 ~12 wool 13 
+setblock ~26 ~5 ~13 stone_stairs 5 
+setblock ~26 ~5 ~14 iron_bars 0  
+fill ~26 ~5 ~15 ~26 ~6 ~15 fence 0 
+setblock ~26 ~5 ~16 iron_bars 0 
+setblock ~26 ~5 ~17 stone_stairs 5 
+setblock ~26 ~5 ~18 wool 13 
+setblock ~27 ~5 ~12 stone_brick_stairs 5 
+setblock ~27 ~5 ~18 stone_brick_stairs 5 
+setblock ~5 ~6 ~13 stone_brick_stairs 2 
+setblock ~5 ~6 ~14 stone_brick_stairs 4 
+setblock ~5 ~6 ~16 stone_brick_stairs 4 
+setblock ~5 ~6 ~17 stone_brick_stairs 3 
+setblock ~6 ~6 ~13 fence 0  
+fill ~6 ~6 ~14 ~9 ~6 ~14 wool 13 
+setblock ~6 ~6 ~15 cobblestone_wall 0  
+fill ~6 ~6 ~16 ~9 ~6 ~16 wool 13 
+setblock ~6 ~6 ~17 fence 0 
+setblock ~7 ~6 ~13 wooden_slab 0 
+setblock ~7 ~6 ~17 wooden_slab 0 
+setblock ~8 ~6 ~13 iron_bars 0 
+setblock ~8 ~6 ~17 iron_bars 0 
+setblock ~9 ~6 ~13 wooden_button 4 
+setblock ~9 ~6 ~17 wooden_button 3 
+setblock ~10 ~6 ~14 stone_brick_stairs 4  
+fill ~10 ~6 ~15 ~11 ~6 ~15 wool 13 
+setblock ~10 ~6 ~16 stone_brick_stairs 4 
+setblock ~11 ~6 ~14 stone_slab 5 
+setblock ~11 ~6 ~16 stone_slab 5 
+setblock ~12 ~6 ~13 anvil 3  
+fill ~12 ~6 ~14 ~12 ~7 ~14 wool 13  
+fill ~12 ~6 ~16 ~12 ~7 ~16 wool 13 
+setblock ~12 ~6 ~17 anvil 1 
+setblock ~13 ~6 ~5 stone_brick_stairs 0 
+setblock ~13 ~6 ~6 fence 0 
+setblock ~13 ~6 ~7 wooden_slab 0 
+setblock ~13 ~6 ~8 iron_bars 0 
+setblock ~13 ~6 ~9 wooden_button 2 
+setblock ~13 ~6 ~12 anvil 2  
+fill ~13 ~6 ~13 ~13 ~14 ~13 log 1  
+fill ~13 ~6 ~17 ~13 ~14 ~17 log 1 
+setblock ~13 ~6 ~18 anvil 2 
+setblock ~13 ~6 ~21 wooden_button 2 
+setblock ~13 ~6 ~22 iron_bars 0 
+setblock ~13 ~6 ~23 wooden_slab 0 
+setblock ~13 ~6 ~24 fence 0 
+setblock ~13 ~6 ~25 stone_brick_stairs 0 
+setblock ~14 ~6 ~5 stone_brick_stairs 6  
+fill ~14 ~6 ~6 ~14 ~7 ~6 wool 13  
+fill ~14 ~6 ~7 ~14 ~7 ~7 wool 13  
+fill ~14 ~6 ~8 ~14 ~6 ~6 wool 13 
+setblock ~14 ~6 ~10 stone_brick_stairs 6 
+setblock ~14 ~6 ~11 stone_slab 5  
+fill ~14 ~6 ~12 ~14 ~7 ~12 wool 13  
+fill ~14 ~6 ~14 ~14 ~7 ~14 planks 1  
+fill ~14 ~6 ~16 ~14 ~7 ~16 planks 1  
+fill ~14 ~6 ~18 ~14 ~7 ~18 wool 13 
+setblock ~14 ~6 ~19 stone_slab 5 
+setblock ~14 ~6 ~20 stone_brick_stairs 7  
+fill ~14 ~6 ~21 ~14 ~6 ~24 wool 13 
+setblock ~14 ~6 ~25 stone_brick_stairs 7 
+setblock ~15 ~6 ~6 cobblestone_wall 0  
+fill ~15 ~6 ~10 ~15 ~7 ~10 wool 13  
+fill ~15 ~6 ~11 ~15 ~8 ~11 wool 13 
+setblock ~15 ~6 ~13 planks 1 
+setblock ~15 ~6 ~14 web 0  
+summon Painting ~6.9375 ~3.5 ~15.5  
+setblock ~15 ~6 ~17 planks 1  
+fill ~15 ~6 ~19 ~15 ~8 ~19 wool 13  
+fill ~15 ~6 ~20 ~15 ~7 ~20 wool 13 
+setblock ~15 ~6 ~24 cobblestone_wall 0 
+setblock ~16 ~6 ~5 stone_brick_stairs 6  
+fill ~16 ~6 ~6 ~16 ~7 ~6 wool 13  
+fill ~16 ~6 ~7 ~16 ~7 ~7 wool 13  
+fill ~16 ~6 ~8 ~16 ~6 ~6 wool 13 
+setblock ~16 ~6 ~10 stone_brick_stairs 6 
+setblock ~16 ~6 ~11 stone_slab 5  
+fill ~16 ~6 ~12 ~16 ~7 ~12 wool 13  
+fill ~16 ~6 ~14 ~16 ~7 ~14 planks 1  
+fill ~16 ~6 ~16 ~16 ~7 ~16 planks 1  
+fill ~16 ~6 ~18 ~16 ~7 ~18 wool 13 
+setblock ~16 ~6 ~19 stone_slab 5 
+setblock ~16 ~6 ~20 stone_brick_stairs 7  
+fill ~16 ~6 ~21 ~16 ~6 ~24 wool 13 
+setblock ~16 ~6 ~25 stone_brick_stairs 7 
+setblock ~17 ~6 ~5 stone_brick_stairs 1 
+setblock ~17 ~6 ~6 fence 0 
+setblock ~17 ~6 ~7 wooden_slab 0 
+setblock ~17 ~6 ~8 iron_bars 0 
+setblock ~17 ~6 ~9 wooden_button 1 
+setblock ~17 ~6 ~12 anvil 0  
+fill ~17 ~6 ~13 ~17 ~14 ~13 log 1  
+fill ~17 ~6 ~17 ~17 ~14 ~17 log 1 
+setblock ~17 ~6 ~18 anvil 0 
+setblock ~17 ~6 ~21 wooden_button 1 
+setblock ~17 ~6 ~22 iron_bars 0 
+setblock ~17 ~6 ~23 wooden_slab 0 
+setblock ~17 ~6 ~24 fence 0 
+setblock ~17 ~6 ~25 stone_brick_stairs 1 
+setblock ~18 ~6 ~13 anvil 3  
+fill ~18 ~6 ~14 ~18 ~7 ~14 wool 13  
+fill ~18 ~6 ~16 ~18 ~7 ~16 wool 13 
+setblock ~18 ~6 ~17 anvil 1 
+setblock ~19 ~6 ~14 anvil 3  
+fill ~19 ~6 ~15 ~20 ~6 ~15 wool 13 
+setblock ~19 ~6 ~16 anvil 1 
+setblock ~20 ~6 ~14 wooden_slab 0 
+setblock ~20 ~6 ~16 wooden_slab 0  
+fill ~21 ~6 ~14 ~23 ~6 ~14 wool 13  
+fill ~21 ~6 ~16 ~23 ~6 ~16 wool 13 
+setblock ~22 ~6 ~13 stone_slab 5 
+setblock ~22 ~6 ~17 stone_slab 5 
+setblock ~23 ~6 ~13 stone_brick_stairs 5 
+setblock ~23 ~6 ~17 stone_brick_stairs 5 
+setblock ~24 ~6 ~12 stone_button 4  
+fill ~24 ~6 ~13 ~26 ~6 ~13 wool 13  
+fill ~24 ~6 ~17 ~26 ~6 ~17 wool 13 
+setblock ~24 ~6 ~18 stone_button 3  
+fill ~25 ~6 ~12 ~26 ~6 ~12 stone_slab 5  
+fill ~25 ~6 ~18 ~26 ~6 ~18 stone_slab 5 
+setblock ~26 ~6 ~14 stone_slab 13 
+setblock ~26 ~6 ~16 stone_slab 13 
+setblock ~27 ~6 ~12 stone_brick_stairs 2 
+setblock ~27 ~6 ~13 stone_brick_stairs 5 
+setblock ~27 ~6 ~17 stone_brick_stairs 5 
+setblock ~27 ~6 ~18 stone_brick_stairs 3 
+setblock ~4 ~7 ~14 stone_brick_stairs 4 
+setblock ~4 ~7 ~16 stone_brick_stairs 4 
+setblock ~5 ~7 ~13 wooden_button 4  
+fill ~5 ~7 ~14 ~7 ~7 ~14 wool 13  
+fill ~5 ~7 ~16 ~7 ~7 ~16 wool 13 
+setblock ~5 ~7 ~17 wooden_button 3 
+setblock ~6 ~7 ~13 trapdoor 0 
+setblock ~6 ~7 ~15 stone_stairs 4 
+setblock ~6 ~7 ~17 trapdoor 1 
+setblock ~7 ~7 ~13 stone_button 4 
+setblock ~7 ~7 ~17 stone_button 3 
+setblock ~8 ~7 ~14 stone_brick_stairs 4  
+fill ~8 ~7 ~15 ~11 ~7 ~15 wool 13 
+setblock ~8 ~7 ~16 stone_brick_stairs 4 
+setblock ~9 ~7 ~14 stone_slab 5 
+setblock ~9 ~7 ~16 stone_slab 5 
+setblock ~10 ~7 ~14 wooden_button 4 
+setblock ~10 ~7 ~16 wooden_button 3 
+setblock ~11 ~7 ~14 ladder 2 
+setblock ~11 ~7 ~16 ladder 3 
+setblock ~12 ~7 ~13 fence 0 
+setblock ~12 ~7 ~17 fence 0 
+setblock ~13 ~7 ~5 wooden_button 2 
+setblock ~13 ~7 ~6 trapdoor 2 
+setblock ~13 ~7 ~7 stone_button 2 
+setblock ~13 ~7 ~12 fence 0  
+fill ~13 ~7 ~14 ~13 ~9 ~14 wool 13  
+fill ~13 ~7 ~16 ~13 ~9 ~16 wool 13 
+setblock ~13 ~7 ~18 fence 0 
+setblock ~13 ~7 ~23 stone_button 2 
+setblock ~13 ~7 ~24 trapdoor 2 
+setblock ~13 ~7 ~25 wooden_button 2 
+setblock ~14 ~7 ~4 stone_brick_stairs 6 
+setblock ~14 ~7 ~5 wool 13 
+setblock ~14 ~7 ~8 stone_brick_stairs 6 
+setblock ~14 ~7 ~9 stone_slab 5 
+setblock ~14 ~7 ~10 wooden_button 2 
+setblock ~14 ~7 ~11 ladder 4  
+fill ~14 ~7 ~13 ~14 ~9 ~13 wool 13  
+fill ~14 ~7 ~15 ~14 ~17 ~15 planks 1  
+fill ~14 ~7 ~17 ~14 ~9 ~17 wool 13 
+setblock ~14 ~7 ~19 ladder 4 
+setblock ~14 ~7 ~20 wooden_button 2 
+setblock ~14 ~7 ~21 stone_slab 5 
+setblock ~14 ~7 ~22 stone_brick_stairs 7  
+fill ~14 ~7 ~23 ~14 ~7 ~25 wool 13 
+setblock ~14 ~7 ~26 stone_brick_stairs 7 
+setblock ~15 ~7 ~6 stone_stairs 6  
+fill ~15 ~7 ~8 ~15 ~8 ~8 wool 13  
+fill ~15 ~7 ~9 ~15 ~7 ~8 wool 13  
+fill ~15 ~7 ~14 ~15 ~17 ~14 planks 1  
+fill ~15 ~7 ~16 ~15 ~17 ~16 planks 1  
+fill ~15 ~7 ~21 ~15 ~7 ~22 wool 13 
+setblock ~15 ~7 ~24 stone_stairs 7 
+setblock ~16 ~7 ~4 stone_brick_stairs 6 
+setblock ~16 ~7 ~5 wool 13 
+setblock ~16 ~7 ~8 stone_brick_stairs 6 
+setblock ~16 ~7 ~9 stone_slab 5 
+setblock ~16 ~7 ~11 ladder 5  
+fill ~16 ~7 ~13 ~16 ~9 ~13 wool 13  
+fill ~16 ~7 ~15 ~16 ~17 ~15 planks 1  
+fill ~16 ~7 ~17 ~16 ~9 ~17 wool 13 
+setblock ~16 ~7 ~19 ladder 5 
+setblock ~16 ~7 ~20 wooden_button 1 
+setblock ~16 ~7 ~21 stone_slab 5 
+setblock ~16 ~7 ~22 stone_brick_stairs 7  
+fill ~16 ~7 ~23 ~16 ~7 ~25 wool 13 
+setblock ~16 ~7 ~26 stone_brick_stairs 7 
+setblock ~17 ~7 ~5 wooden_button 1 
+setblock ~17 ~7 ~6 trapdoor 3 
+setblock ~17 ~7 ~7 stone_button 1 
+setblock ~17 ~7 ~12 fence 0  
+fill ~17 ~7 ~14 ~17 ~9 ~14 wool 13  
+fill ~17 ~7 ~16 ~17 ~9 ~16 wool 13 
+setblock ~17 ~7 ~18 fence 0 
+setblock ~17 ~7 ~23 stone_button 1 
+setblock ~17 ~7 ~24 trapdoor 3 
+setblock ~17 ~7 ~25 wooden_button 1 
+setblock ~18 ~7 ~13 fence 0 
+setblock ~18 ~7 ~17 fence 0 
+setblock ~19 ~7 ~14 fence 0  
+fill ~19 ~7 ~15 ~22 ~7 ~15 wool 13 
+setblock ~19 ~7 ~16 fence 0 
+setblock ~20 ~7 ~14 ladder 2 
+setblock ~20 ~7 ~16 ladder 3 
+setblock ~21 ~7 ~14 iron_bars 0 
+setblock ~21 ~7 ~16 iron_bars 0 
+setblock ~22 ~7 ~14 wooden_slab 0 
+setblock ~22 ~7 ~16 wooden_slab 0 
+setblock ~23 ~7 ~13 trapdoor 12  
+fill ~23 ~7 ~14 ~25 ~7 ~14 wool 13  
+fill ~23 ~7 ~16 ~25 ~7 ~16 wool 13 
+setblock ~23 ~7 ~17 trapdoor 13 
+setblock ~24 ~7 ~13 stone_slab 5 
+setblock ~24 ~7 ~17 stone_slab 5 
+setblock ~25 ~7 ~13 stone_brick_stairs 5 
+setblock ~25 ~7 ~17 stone_brick_stairs 5  
+fill ~26 ~7 ~13 ~27 ~7 ~13 wool 13 
+setblock ~26 ~7 ~14 iron_bars 0 
+setblock ~26 ~7 ~15 cobblestone_wall 0 
+setblock ~26 ~7 ~16 iron_bars 0  
+fill ~26 ~7 ~17 ~27 ~7 ~17 wool 13 
+setblock ~27 ~7 ~12 trapdoor 4 
+setblock ~27 ~7 ~18 trapdoor 5 
+setblock ~28 ~7 ~13 stone_brick_stairs 5 
+setblock ~28 ~7 ~17 stone_brick_stairs 5 
+setblock ~3 ~8 ~15 stone_brick_stairs 4 
+setblock ~4 ~8 ~14 stone_brick_stairs 2  
+fill ~4 ~8 ~15 ~8 ~8 ~15 wool 13 
+setblock ~4 ~8 ~16 stone_brick_stairs 3 
+setblock ~5 ~8 ~14 stone_brick_stairs 4 
+setblock ~5 ~8 ~16 stone_brick_stairs 4  
+fill ~6 ~8 ~14 ~7 ~8 ~14 stone_slab 5  
+fill ~6 ~8 ~16 ~7 ~8 ~16 stone_slab 5 
+setblock ~8 ~8 ~14 wooden_button 4 
+setblock ~8 ~8 ~16 wooden_button 3 
+setblock ~9 ~8 ~15 cobblestone_wall 0 
+setblock ~10 ~8 ~15 wooden_slab 0  
+fill ~11 ~8 ~15 ~12 ~8 ~15 wool 13 
+setblock ~12 ~8 ~13 cobblestone_wall 0 
+setblock ~12 ~8 ~14 fence 0 
+setblock ~12 ~8 ~16 fence 0 
+setblock ~12 ~8 ~17 cobblestone_wall 0 
+setblock ~13 ~8 ~12 cobblestone_wall 0 
+setblock ~13 ~8 ~18 cobblestone_wall 0 
+setblock ~14 ~8 ~4 stone_brick_stairs 0 
+setblock ~14 ~8 ~5 stone_brick_stairs 6  
+fill ~14 ~8 ~6 ~14 ~8 ~7 stone_slab 5 
+setblock ~14 ~8 ~8 wooden_button 2 
+setblock ~14 ~8 ~12 fence 0 
+setblock ~14 ~8 ~18 fence 0 
+setblock ~14 ~8 ~22 wooden_button 2  
+fill ~14 ~8 ~23 ~14 ~8 ~24 stone_slab 5 
+setblock ~14 ~8 ~25 stone_brick_stairs 7 
+setblock ~14 ~8 ~26 stone_brick_stairs 0 
+setblock ~15 ~8 ~3 stone_brick_stairs 6  
+fill ~15 ~8 ~4 ~15 ~9 ~4 wool 13  
+fill ~15 ~8 ~5 ~15 ~9 ~5 wool 13  
+fill ~15 ~8 ~6 ~15 ~9 ~6 wool 13  
+fill ~15 ~8 ~7 ~15 ~8 ~4 wool 13 
+setblock ~15 ~8 ~9 cobblestone_wall 0 
+setblock ~15 ~8 ~10 wooden_slab 0  
+fill ~15 ~8 ~12 ~15 ~10 ~12 wool 13  
+fill ~15 ~8 ~18 ~15 ~10 ~18 wool 13 
+setblock ~15 ~8 ~20 wooden_slab 0 
+setblock ~15 ~8 ~21 cobblestone_wall 0  
+fill ~15 ~8 ~22 ~15 ~8 ~26 wool 13 
+setblock ~15 ~8 ~27 stone_brick_stairs 7 
+setblock ~16 ~8 ~4 stone_brick_stairs 1 
+setblock ~16 ~8 ~5 stone_brick_stairs 6  
+fill ~16 ~8 ~6 ~16 ~8 ~7 stone_slab 5 
+setblock ~16 ~8 ~12 fence 0 
+setblock ~16 ~8 ~18 fence 0 
+setblock ~16 ~8 ~22 wooden_button 1  
+fill ~16 ~8 ~23 ~16 ~8 ~24 stone_slab 5 
+setblock ~16 ~8 ~25 stone_brick_stairs 7 
+setblock ~16 ~8 ~26 stone_brick_stairs 1 
+setblock ~17 ~8 ~12 cobblestone_wall 0 
+setblock ~17 ~8 ~18 cobblestone_wall 0 
+setblock ~18 ~8 ~13 cobblestone_wall 0 
+setblock ~18 ~8 ~14 fence 0  
+fill ~18 ~8 ~15 ~19 ~8 ~15 wool 13 
+setblock ~18 ~8 ~16 fence 0 
+setblock ~18 ~8 ~17 cobblestone_wall 0 
+setblock ~19 ~8 ~14 iron_bars 0 
+setblock ~19 ~8 ~16 iron_bars 0 
+setblock ~20 ~8 ~15 wooden_slab 0 
+setblock ~21 ~8 ~15 cobblestone_wall 0 
+setblock ~22 ~8 ~14 wooden_button 4  
+fill ~22 ~8 ~15 ~24 ~8 ~15 wool 13 
+setblock ~22 ~8 ~16 wooden_button 3 
+setblock ~23 ~8 ~14 iron_bars 0 
+setblock ~23 ~8 ~16 iron_bars 0 
+setblock ~24 ~8 ~14 wooden_slab 0 
+setblock ~24 ~8 ~16 wooden_slab 0  
+fill ~25 ~8 ~14 ~28 ~8 ~14 wool 13  
+fill ~25 ~8 ~16 ~28 ~8 ~16 wool 13 
+setblock ~26 ~8 ~13 stone_slab 5 
+setblock ~26 ~8 ~15 stone_stairs 5 
+setblock ~26 ~8 ~17 stone_slab 5 
+setblock ~27 ~8 ~13 stone_brick_stairs 5 
+setblock ~27 ~8 ~17 stone_brick_stairs 5 
+setblock ~28 ~8 ~13 stone_brick_stairs 2 
+setblock ~28 ~8 ~17 stone_brick_stairs 3 
+setblock ~29 ~8 ~14 stone_brick_stairs 5 
+setblock ~29 ~8 ~16 stone_brick_stairs 5 
+setblock ~2 ~9 ~15 stone_brick_stairs 4 
+setblock ~3 ~9 ~14 trapdoor 4  
+fill ~3 ~9 ~15 ~6 ~9 ~15 wool 13 
+setblock ~3 ~9 ~16 trapdoor 5 
+setblock ~4 ~9 ~14 wooden_button 4 
+setblock ~4 ~9 ~16 wooden_button 3 
+setblock ~5 ~9 ~14 iron_bars 0 
+setblock ~5 ~9 ~16 iron_bars 0 
+setblock ~6 ~9 ~14 stone_button 4 
+setblock ~6 ~9 ~16 stone_button 3 
+setblock ~7 ~9 ~15 cobblestone_wall 0 
+setblock ~8 ~9 ~15 trapdoor 2 
+setblock ~9 ~9 ~15 stone_slab 5 
+setblock ~11 ~9 ~15 cobblestone_wall 0 
+setblock ~12 ~9 ~13 stone_slab 5 
+setblock ~12 ~9 ~14 stone_slab 13  
+fill ~12 ~9 ~15 ~12 ~10 ~15 wool 13 
+setblock ~12 ~9 ~16 stone_slab 13 
+setblock ~12 ~9 ~17 stone_slab 5 
+setblock ~13 ~9 ~12 stone_slab 5 
+setblock ~13 ~9 ~18 stone_slab 5 
+setblock ~14 ~9 ~3 trapdoor 6 
+setblock ~14 ~9 ~4 wooden_button 2 
+setblock ~14 ~9 ~5 iron_bars 0 
+setblock ~14 ~9 ~6 stone_button 2 
+setblock ~14 ~9 ~12 stone_slab 13 
+setblock ~14 ~9 ~18 stone_slab 13 
+setblock ~14 ~9 ~24 stone_button 2 
+setblock ~14 ~9 ~25 iron_bars 0 
+setblock ~14 ~9 ~26 wooden_button 2 
+setblock ~14 ~9 ~27 trapdoor 6 
+setblock ~15 ~9 ~2 stone_brick_stairs 6 
+setblock ~15 ~9 ~3 wool 13 
+setblock ~15 ~9 ~7 cobblestone_wall 0 
+setblock ~15 ~9 ~8 trapdoor 0 
+setblock ~15 ~9 ~9 stone_slab 5 
+setblock ~15 ~9 ~11 cobblestone_wall 0 
+setblock ~15 ~9 ~19 cobblestone_wall 0 
+setblock ~15 ~9 ~21 stone_slab 5 
+setblock ~15 ~9 ~22 trapdoor 1 
+setblock ~15 ~9 ~23 cobblestone_wall 0  
+fill ~15 ~9 ~24 ~15 ~9 ~27 wool 13 
+setblock ~15 ~9 ~28 stone_brick_stairs 7 
+setblock ~16 ~9 ~3 trapdoor 7 
+setblock ~16 ~9 ~4 wooden_button 1 
+setblock ~16 ~9 ~5 iron_bars 0 
+setblock ~16 ~9 ~6 stone_button 1 
+setblock ~16 ~9 ~12 stone_slab 13 
+setblock ~16 ~9 ~18 stone_slab 13 
+setblock ~16 ~9 ~24 stone_button 1 
+setblock ~16 ~9 ~26 wooden_button 1 
+setblock ~16 ~9 ~27 trapdoor 7 
+setblock ~17 ~9 ~12 stone_slab 5 
+setblock ~17 ~9 ~18 stone_slab 5 
+setblock ~18 ~9 ~13 stone_slab 5 
+setblock ~18 ~9 ~14 stone_slab 13  
+fill ~18 ~9 ~15 ~18 ~10 ~15 wool 13 
+setblock ~18 ~9 ~16 stone_slab 13 
+setblock ~18 ~9 ~17 stone_slab 5 
+setblock ~19 ~9 ~15 cobblestone_wall 0 
+setblock ~21 ~9 ~15 stone_slab 5 
+setblock ~22 ~9 ~15 trapdoor 3 
+setblock ~23 ~9 ~15 cobblestone_wall 0 
+setblock ~24 ~9 ~14 stone_button 4  
+fill ~24 ~9 ~15 ~27 ~9 ~15 wool 13 
+setblock ~24 ~9 ~16 stone_button 3 
+setblock ~25 ~9 ~14 iron_bars 0 
+setblock ~25 ~9 ~16 iron_bars 0 
+setblock ~26 ~9 ~14 wooden_slab 0 
+setblock ~26 ~9 ~16 wooden_slab 0 
+setblock ~27 ~9 ~14 fence 0 
+setblock ~27 ~9 ~16 fence 0 
+setblock ~28 ~9 ~13 trapdoor 4  
+fill ~28 ~9 ~14 ~29 ~9 ~14 wool 13  
+fill ~28 ~9 ~16 ~29 ~9 ~16 wool 13 
+setblock ~28 ~9 ~17 trapdoor 5 
+setblock ~29 ~9 ~13 stone_button 4 
+setblock ~29 ~9 ~17 stone_button 3 
+setblock ~30 ~9 ~14 stone_brick_stairs 5 
+setblock ~30 ~9 ~16 stone_brick_stairs 5  
+fill ~1 ~10 ~15 ~1 ~11 ~15 stone_brick_stairs 4 
+setblock ~2 ~10 ~15 cobblestone_wall 0 
+setblock ~3 ~10 ~15 stone_brick_stairs 4 
+setblock ~4 ~10 ~15 stone_slab 13 
+setblock ~5 ~10 ~15 stone_brick_stairs 1 
+setblock ~6 ~10 ~15 trapdoor 3 
+setblock ~7 ~10 ~15 stone_slab 5 
+setblock ~11 ~10 ~15 stone_slab 5 
+setblock ~12 ~10 ~13 trapdoor 2 
+setblock ~12 ~10 ~17 trapdoor 2 
+setblock ~13 ~10 ~12 trapdoor 0 
+setblock ~13 ~10 ~14 stone_brick_stairs 0  
+fill ~13 ~10 ~15 ~13 ~11 ~15 wool 13 
+setblock ~13 ~10 ~16 stone_brick_stairs 0 
+setblock ~13 ~10 ~18 trapdoor 1 
+setblock ~14 ~10 ~13 stone_brick_stairs 2 
+setblock ~14 ~10 ~17 stone_brick_stairs 3  
+fill ~15 ~10 ~1 ~15 ~11 ~1 stone_brick_stairs 6 
+setblock ~15 ~10 ~2 cobblestone_wall 0 
+setblock ~15 ~10 ~3 stone_brick_stairs 6 
+setblock ~15 ~10 ~4 stone_slab 13 
+setblock ~15 ~10 ~5 stone_brick_stairs 3 
+setblock ~15 ~10 ~6 trapdoor 0 
+setblock ~15 ~10 ~7 stone_slab 5 
+setblock ~15 ~10 ~11 stone_slab 5  
+fill ~15 ~10 ~13 ~15 ~11 ~13 wool 13  
+fill ~15 ~10 ~17 ~15 ~11 ~17 wool 13 
+setblock ~15 ~10 ~19 stone_slab 5 
+setblock ~15 ~10 ~23 stone_slab 5 
+setblock ~15 ~10 ~25 stone_brick_stairs 2 
+setblock ~15 ~10 ~26 stone_slab 13 
+setblock ~15 ~10 ~27 stone_brick_stairs 7 
+setblock ~15 ~10 ~28 cobblestone_wall 0  
+fill ~15 ~10 ~29 ~15 ~11 ~29 stone_brick_stairs 7 
+setblock ~16 ~10 ~13 stone_brick_stairs 2 
+setblock ~16 ~10 ~17 stone_brick_stairs 3 
+setblock ~17 ~10 ~12 trapdoor 0 
+setblock ~17 ~10 ~14 stone_brick_stairs 1  
+fill ~17 ~10 ~15 ~17 ~11 ~15 wool 13 
+setblock ~17 ~10 ~16 stone_brick_stairs 1 
+setblock ~17 ~10 ~18 trapdoor 1 
+setblock ~18 ~10 ~13 trapdoor 3 
+setblock ~18 ~10 ~17 trapdoor 3 
+setblock ~19 ~10 ~15 stone_slab 5 
+setblock ~23 ~10 ~15 stone_slab 5 
+setblock ~24 ~10 ~15 trapdoor 3 
+setblock ~25 ~10 ~15 cobblestone_wall 0 
+setblock ~26 ~10 ~14 wooden_button 4  
+fill ~26 ~10 ~15 ~30 ~10 ~15 wool 13 
+setblock ~26 ~10 ~16 wooden_button 3 
+setblock ~27 ~10 ~14 trapdoor 0 
+setblock ~27 ~10 ~16 trapdoor 1 
+setblock ~28 ~10 ~14 stone_slab 5 
+setblock ~28 ~10 ~16 stone_slab 5 
+setblock ~29 ~10 ~14 stone_brick_stairs 5 
+setblock ~29 ~10 ~16 stone_brick_stairs 5 
+setblock ~30 ~10 ~14 stone_brick_stairs 2 
+setblock ~30 ~10 ~16 stone_brick_stairs 3  
+fill ~31 ~10 ~15 ~31 ~11 ~15 stone_brick_stairs 5 
+setblock ~2 ~11 ~15 double_stone_slab 5 
+setblock ~3 ~11 ~15 stone_slab 5  
+fill ~12 ~11 ~13 ~12 ~12 ~13 fence 0 
+setblock ~12 ~11 ~15 iron_bars 0  
+fill ~12 ~11 ~17 ~12 ~12 ~17 fence 0  
+fill ~13 ~11 ~12 ~13 ~12 ~12 fence 0 
+setblock ~13 ~11 ~14 cobblestone_wall 0 
+setblock ~13 ~11 ~16 cobblestone_wall 0  
+fill ~13 ~11 ~18 ~13 ~12 ~18 fence 0 
+setblock ~14 ~11 ~13 cobblestone_wall 0 
+setblock ~14 ~11 ~17 cobblestone_wall 0 
+setblock ~15 ~11 ~2 double_stone_slab 5 
+setblock ~15 ~11 ~3 stone_slab 5 
+setblock ~15 ~11 ~12 iron_bars 0 
+setblock ~15 ~11 ~18 iron_bars 0 
+setblock ~15 ~11 ~27 stone_slab 5 
+setblock ~15 ~11 ~28 stonebrick 0 
+setblock ~16 ~11 ~13 cobblestone_wall 0 
+setblock ~16 ~11 ~17 cobblestone_wall 0  
+fill ~17 ~11 ~12 ~17 ~12 ~12 fence 0 
+setblock ~17 ~11 ~14 cobblestone_wall 0 
+setblock ~17 ~11 ~16 cobblestone_wall 0  
+fill ~17 ~11 ~18 ~17 ~12 ~18 fence 0  
+fill ~18 ~11 ~13 ~18 ~12 ~13 fence 0 
+setblock ~18 ~11 ~15 iron_bars 0  
+fill ~18 ~11 ~17 ~18 ~12 ~17 fence 0 
+setblock ~25 ~11 ~15 stone_slab 5 
+setblock ~26 ~11 ~15 trapdoor 3 
+setblock ~27 ~11 ~15 stone_brick_stairs 0 
+setblock ~28 ~11 ~15 stone_slab 5 
+setblock ~29 ~11 ~15 stone_brick_stairs 4 
+setblock ~30 ~11 ~14 trapdoor 4 
+setblock ~30 ~11 ~15 wool 13 
+setblock ~30 ~11 ~16 trapdoor 5 
+setblock ~1 ~12 ~15 stone_brick_stairs 1 
+setblock ~12 ~12 ~15 trapdoor 2 
+setblock ~13 ~12 ~14 stone_brick_stairs 4 
+setblock ~13 ~12 ~15 stone_stairs 0 
+setblock ~13 ~12 ~16 stone_brick_stairs 4 
+setblock ~14 ~12 ~13 stone_brick_stairs 6 
+setblock ~14 ~12 ~17 stone_brick_stairs 7 
+setblock ~15 ~12 ~1 stone_brick_stairs 3 
+setblock ~15 ~12 ~12 trapdoor 0 
+setblock ~15 ~12 ~13 stone_stairs 2 
+setblock ~15 ~12 ~17 stone_stairs 3 
+setblock ~15 ~12 ~18 trapdoor 1 
+setblock ~15 ~12 ~29 stone_brick_stairs 2 
+setblock ~16 ~12 ~13 stone_brick_stairs 6 
+setblock ~16 ~12 ~17 stone_brick_stairs 7 
+setblock ~17 ~12 ~14 stone_brick_stairs 5 
+setblock ~17 ~12 ~15 stone_stairs 1 
+setblock ~17 ~12 ~16 stone_brick_stairs 5 
+setblock ~18 ~12 ~15 trapdoor 3 
+setblock ~29 ~12 ~15 cobblestone_wall 0 
+setblock ~30 ~12 ~15 stone_brick_stairs 0 
+setblock ~31 ~12 ~15 cobblestone_wall 0 
+setblock ~32 ~12 ~15 stone_brick_stairs 5 
+setblock ~12 ~13 ~13 cobblestone_wall 0 
+setblock ~12 ~13 ~17 cobblestone_wall 0 
+setblock ~13 ~13 ~12 cobblestone_wall 0 
+setblock ~13 ~13 ~14 anvil 2 
+setblock ~13 ~13 ~15 stone_brick_stairs 4 
+setblock ~13 ~13 ~16 anvil 2 
+setblock ~13 ~13 ~18 cobblestone_wall 0 
+setblock ~14 ~13 ~13 anvil 3 
+setblock ~14 ~13 ~17 anvil 1 
+setblock ~15 ~13 ~13 stone_brick_stairs 6 
+setblock ~15 ~13 ~17 stone_brick_stairs 7 
+setblock ~16 ~13 ~13 anvil 3 
+setblock ~16 ~13 ~17 anvil 1 
+setblock ~17 ~13 ~12 cobblestone_wall 0 
+setblock ~17 ~13 ~14 anvil 0 
+setblock ~17 ~13 ~15 stone_brick_stairs 5 
+setblock ~17 ~13 ~16 anvil 0 
+setblock ~17 ~13 ~18 cobblestone_wall 0 
+setblock ~18 ~13 ~13 cobblestone_wall 0 
+setblock ~18 ~13 ~17 cobblestone_wall 0 
+setblock ~29 ~13 ~15 stone_slab 5 
+setblock ~30 ~13 ~15 stone_slab 13 
+setblock ~31 ~13 ~15 stone_slab 5 
+setblock ~32 ~13 ~15 stone_brick_stairs 1 
+setblock ~11 ~14 ~13 stone_button 2 
+setblock ~11 ~14 ~17 stone_button 2 
+setblock ~12 ~14 ~12 stone_slab 13 
+setblock ~12 ~14 ~13 log 5 
+setblock ~12 ~14 ~15 ladder 4 
+setblock ~12 ~14 ~17 log 5 
+setblock ~12 ~14 ~18 stone_slab 13 
+setblock ~13 ~14 ~11 stone_button 4 
+setblock ~13 ~14 ~12 log 9  
+fill ~13 ~14 ~14 ~13 ~14 ~16 log 9 
+setblock ~13 ~14 ~18 log 9 
+setblock ~13 ~14 ~19 stone_button 3  
+fill ~14 ~14 ~13 ~16 ~14 ~13 log 5  
+fill ~14 ~14 ~17 ~16 ~14 ~17 log 5 
+setblock ~15 ~14 ~12 ladder 2 
+setblock ~15 ~14 ~18 ladder 3 
+setblock ~17 ~14 ~11 stone_button 4 
+setblock ~17 ~14 ~12 log 9  
+fill ~17 ~14 ~14 ~17 ~14 ~16 log 9 
+setblock ~17 ~14 ~18 log 9 
+setblock ~17 ~14 ~19 stone_button 3 
+setblock ~18 ~14 ~13 log 5 
+setblock ~18 ~14 ~15 ladder 5 
+setblock ~18 ~14 ~17 log 5 
+setblock ~19 ~14 ~13 stone_button 1 
+setblock ~19 ~14 ~17 stone_button 1 
+setblock ~12 ~15 ~13 stone_brick_stairs 2 
+setblock ~12 ~15 ~14 stone_brick_stairs 7 
+setblock ~12 ~15 ~15 iron_bars 0 
+setblock ~12 ~15 ~16 stone_brick_stairs 6 
+setblock ~12 ~15 ~17 stone_brick_stairs 3 
+setblock ~13 ~15 ~12 stone_brick_stairs 0 
+setblock ~13 ~15 ~13 wool 13  
+fill ~13 ~15 ~14 ~13 ~15 ~16 planks 1 
+setblock ~13 ~15 ~17 wool 13 
+setblock ~13 ~15 ~18 stone_brick_stairs 0 
+setblock ~14 ~15 ~12 stone_brick_stairs 5  
+fill ~14 ~15 ~13 ~16 ~15 ~13 planks 1  
+fill ~14 ~15 ~17 ~16 ~15 ~17 planks 1 
+setblock ~14 ~15 ~18 stone_brick_stairs 5 
+setblock ~15 ~15 ~12 iron_bars 0 
+setblock ~15 ~15 ~18 iron_bars 0 
+setblock ~16 ~15 ~12 stone_brick_stairs 4 
+setblock ~16 ~15 ~18 stone_brick_stairs 4 
+setblock ~17 ~15 ~12 stone_brick_stairs 1 
+setblock ~17 ~15 ~13 wool 13  
+fill ~17 ~15 ~14 ~17 ~15 ~16 planks 1 
+setblock ~17 ~15 ~17 wool 13 
+setblock ~17 ~15 ~18 stone_brick_stairs 1 
+setblock ~18 ~15 ~13 stone_brick_stairs 2 
+setblock ~18 ~15 ~14 stone_brick_stairs 7 
+setblock ~18 ~15 ~15 iron_bars 0 
+setblock ~18 ~15 ~16 stone_brick_stairs 6 
+setblock ~18 ~15 ~17 stone_brick_stairs 3 
+setblock ~12 ~16 ~14 stone_brick_stairs 2 
+setblock ~12 ~16 ~15 fence 0 
+setblock ~12 ~16 ~16 stone_brick_stairs 3 
+setblock ~13 ~16 ~13 wooden_slab 0 
+setblock ~13 ~16 ~14 wool 13 
+setblock ~13 ~16 ~15 planks 1 
+setblock ~13 ~16 ~16 wool 13 
+setblock ~13 ~16 ~17 wooden_slab 0 
+setblock ~14 ~16 ~12 stone_brick_stairs 0 
+setblock ~14 ~16 ~13 wool 13 
+setblock ~14 ~16 ~17 wool 13 
+setblock ~14 ~16 ~18 stone_brick_stairs 0 
+setblock ~15 ~16 ~12 fence 0 
+setblock ~15 ~16 ~13 planks 1 
+setblock ~15 ~16 ~17 planks 1 
+setblock ~15 ~16 ~18 fence 0 
+setblock ~16 ~16 ~12 stone_brick_stairs 1 
+setblock ~16 ~16 ~13 wool 13 
+setblock ~16 ~16 ~17 wool 13 
+setblock ~16 ~16 ~18 stone_brick_stairs 1 
+setblock ~17 ~16 ~13 wooden_slab 0 
+setblock ~17 ~16 ~14 wool 13 
+setblock ~17 ~16 ~15 planks 1 
+setblock ~17 ~16 ~16 wool 13 
+setblock ~17 ~16 ~17 wooden_slab 0 
+setblock ~18 ~16 ~14 stone_brick_stairs 2 
+setblock ~18 ~16 ~15 fence 0 
+setblock ~18 ~16 ~16 stone_brick_stairs 3 
+setblock ~12 ~17 ~15 stonebrick 0 
+setblock ~13 ~17 ~14 anvil 3  
+fill ~13 ~17 ~15 ~13 ~18 ~15 wool 13 
+setblock ~13 ~17 ~16 anvil 1 
+setblock ~14 ~17 ~13 anvil 2 
+setblock ~14 ~17 ~14 wool 13 
+setblock ~14 ~17 ~16 wool 13 
+setblock ~14 ~17 ~17 anvil 2 
+setblock ~15 ~17 ~12 stonebrick 0  
+fill ~15 ~17 ~13 ~15 ~18 ~13 wool 13  
+fill ~15 ~17 ~17 ~15 ~18 ~17 wool 13 
+setblock ~15 ~17 ~18 stonebrick 0 
+setblock ~16 ~17 ~13 anvil 0 
+setblock ~16 ~17 ~14 wool 13 
+setblock ~16 ~17 ~16 wool 13 
+setblock ~16 ~17 ~17 anvil 0 
+setblock ~17 ~17 ~14 anvil 3  
+fill ~17 ~17 ~15 ~17 ~18 ~15 wool 13 
+setblock ~17 ~17 ~16 anvil 1 
+setblock ~18 ~17 ~15 stonebrick 0 
+setblock ~11 ~18 ~15 stone_brick_stairs 4 
+setblock ~12 ~18 ~15 stone_brick_stairs 1 
+setblock ~13 ~18 ~14 stone_stairs 2 
+setblock ~13 ~18 ~16 stone_stairs 3 
+setblock ~14 ~18 ~13 stone_stairs 0 
+setblock ~14 ~18 ~14 fence 0  
+fill ~14 ~18 ~15 ~14 ~19 ~15 wool 13 
+setblock ~14 ~18 ~16 fence 0 
+setblock ~14 ~18 ~17 stone_stairs 0 
+setblock ~15 ~18 ~11 stone_brick_stairs 6 
+setblock ~15 ~18 ~12 stone_brick_stairs 3  
+fill ~15 ~18 ~14 ~15 ~19 ~14 wool 13  
+fill ~15 ~18 ~16 ~15 ~19 ~16 wool 13 
+setblock ~15 ~18 ~18 stone_brick_stairs 2 
+setblock ~15 ~18 ~19 stone_brick_stairs 7 
+setblock ~16 ~18 ~13 stone_stairs 1 
+setblock ~16 ~18 ~14 fence 0  
+fill ~16 ~18 ~15 ~16 ~19 ~15 wool 13 
+setblock ~16 ~18 ~16 fence 0 
+setblock ~16 ~18 ~17 stone_stairs 1 
+setblock ~17 ~18 ~14 stone_stairs 2 
+setblock ~17 ~18 ~16 stone_stairs 3 
+setblock ~18 ~18 ~15 stone_brick_stairs 0 
+setblock ~19 ~18 ~15 stone_brick_stairs 5 
+setblock ~11 ~19 ~15 stone_slab 5 
+setblock ~13 ~19 ~15 cobblestone_wall 0 
+setblock ~14 ~19 ~14 iron_bars 0 
+setblock ~14 ~19 ~16 iron_bars 0 
+setblock ~15 ~19 ~11 stone_slab 5 
+setblock ~15 ~19 ~13 cobblestone_wall 0 
+setblock ~15 ~19 ~17 cobblestone_wall 0 
+setblock ~15 ~19 ~19 stone_slab 5 
+setblock ~16 ~19 ~14 iron_bars 0 
+setblock ~16 ~19 ~16 iron_bars 0 
+setblock ~17 ~19 ~15 cobblestone_wall 0 
+setblock ~19 ~19 ~15 stone_slab 5 
+setblock ~13 ~20 ~15 stone_brick_stairs 1 
+setblock ~14 ~20 ~14 stone_slab 13 
+setblock ~14 ~20 ~15 stone_slab 5 
+setblock ~14 ~20 ~16 stone_slab 13 
+setblock ~15 ~20 ~13 stone_brick_stairs 3 
+setblock ~15 ~20 ~14 stone_slab 5  
+fill ~15 ~20 ~15 ~15 ~21 ~15 web 0 
+setblock ~15 ~20 ~16 stone_slab 5 
+setblock ~15 ~20 ~17 stone_brick_stairs 2 
+setblock ~16 ~20 ~14 stone_slab 13 
+setblock ~16 ~20 ~15 stone_slab 5 
+setblock ~16 ~20 ~16 stone_slab 13 
+setblock ~17 ~20 ~15 stone_brick_stairs 0 
+setblock ~14 ~21 ~14 cobblestone_wall 0 
+setblock ~14 ~21 ~16 cobblestone_wall 0  
+fill ~15 ~21 ~13 ~16 ~21 ~13 web 0  
+fill ~15 ~21 ~14 ~15 ~21 ~13 web 0  
+fill ~16 ~21 ~12 ~16 ~22 ~12 web 0 
+setblock ~16 ~21 ~14 cobblestone_wall 0 
+setblock ~16 ~21 ~16 cobblestone_wall 0 
+setblock ~14 ~22 ~14 stone_slab 5 
+setblock ~14 ~22 ~15 stone_brick_stairs 4 
+setblock ~14 ~22 ~16 stone_slab 5 
+setblock ~15 ~22 ~14 stone_brick_stairs 6 
+setblock ~15 ~22 ~16 stone_brick_stairs 7 
+setblock ~16 ~22 ~14 stone_slab 5 
+setblock ~16 ~22 ~15 stone_brick_stairs 5 
+setblock ~16 ~22 ~16 stone_slab 5  
+fill ~17 ~22 ~11 ~17 ~23 ~11 web 0  
+fill ~17 ~22 ~12 ~17 ~22 ~11 web 0 
+setblock ~14 ~23 ~15 cobblestone_wall 0 
+setblock ~15 ~23 ~14 cobblestone_wall 0 
+setblock ~15 ~23 ~16 cobblestone_wall 0 
+setblock ~16 ~23 ~15 cobblestone_wall 0  
+fill ~18 ~23 ~10 ~18 ~24 ~10 web 0  
+fill ~18 ~23 ~11 ~18 ~23 ~10 web 0 
+setblock ~14 ~24 ~15 stone_stairs 0 
+setblock ~15 ~24 ~14 stone_stairs 2 
+setblock ~15 ~24 ~15 stone_slab 13 
+setblock ~15 ~24 ~16 stone_stairs 3 
+setblock ~16 ~24 ~15 stone_stairs 1  
+fill ~19 ~24 ~9 ~19 ~25 ~9 web 0  
+fill ~19 ~24 ~10 ~19 ~25 ~10 web 0 
+setblock ~14 ~25 ~15 iron_bars 0 
+setblock ~15 ~25 ~14 iron_bars 0 
+setblock ~15 ~25 ~15 stonebrick 0 
+setblock ~15 ~25 ~16 iron_bars 0 
+setblock ~16 ~25 ~15 iron_bars 0  
+fill ~19 ~25 ~8 ~20 ~25 ~8 web 0  
+fill ~20 ~25 ~9 ~20 ~26 ~9 web 0 
+setblock ~15 ~26 ~15 cobblestone_wall 0  
+fill ~19 ~26 ~8 ~21 ~26 ~8 web 0  
+fill ~20 ~26 ~7 ~21 ~26 ~7 web 0 
+setblock ~15 ~27 ~15 iron_bars 0  
+fill ~20 ~27 ~6 ~22 ~27 ~6 web 0  
+fill ~20 ~27 ~7 ~22 ~27 ~7 web 0  
+fill ~20 ~27 ~8 ~21 ~27 ~8 web 0 
+setblock ~15 ~28 ~15 fence 0  
+fill ~20 ~28 ~7 ~21 ~28 ~7 web 0 
+setblock ~21 ~28 ~6 web 0  
+setblock ~14 ~0 ~21 wall_sign 4  
+setblock ~16 ~0 ~21 wall_sign 5    

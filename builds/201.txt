@@ -1,0 +1,2769 @@
+fill ~2~0~1 ~185~0~85 minecraft:quartz_block 0
+fill ~4~1~2 ~183~1~83 minecraft:quartz_block 0
+fill ~5~30~3 ~182~30~3 minecraft:stone_block_slab 5
+fill ~5~30~4 ~5~30~5 minecraft:stone_block_slab 13
+fill ~6~2~4 ~181~2~39 minecraft:quartz_block 0
+fill ~6~29~4 ~181~29~81 minecraft:quartz_block 0
+fill ~6~30~4 ~8~30~4 minecraft:double_stone_block_slab 6
+fill ~6~31~4 ~8~32~4 minecraft:nether_brick_fence
+fill ~6~33~4 ~8~33~4 minecraft:stone_block_slab 6
+fill ~7~24~4 ~7~24~5 minecraft:quartz_stairs 4
+fill ~8~24~4 ~11~24~4 minecraft:quartz_stairs 6
+fill ~9~30~4 ~178~30~4 minecraft:stone_block_slab 6
+fill ~12~24~4 ~12~24~5 minecraft:quartz_stairs 5
+fill ~21~24~4 ~21~24~5 minecraft:quartz_stairs 4
+fill ~22~24~4 ~25~24~4 minecraft:quartz_stairs 6
+setblock ~26~24~4 minecraft:quartz_stairs 5
+fill ~35~24~4 ~35~24~5 minecraft:quartz_stairs 4
+fill ~36~24~4 ~39~24~4 minecraft:quartz_stairs 6
+setblock ~40~24~4 minecraft:quartz_stairs 5
+fill ~49~24~4 ~49~24~5 minecraft:quartz_stairs 4
+fill ~50~24~4 ~53~24~4 minecraft:quartz_stairs 6
+setblock ~54~24~4 minecraft:quartz_stairs 5
+fill ~63~24~4 ~63~24~5 minecraft:quartz_stairs 4
+fill ~64~24~4 ~67~24~4 minecraft:quartz_stairs 6
+setblock ~68~24~4 minecraft:quartz_stairs 5
+fill ~77~24~4 ~77~24~5 minecraft:quartz_stairs 4
+fill ~78~24~4 ~81~24~4 minecraft:quartz_stairs 6
+setblock ~82~24~4 minecraft:quartz_stairs 5
+fill ~91~24~4 ~91~24~5 minecraft:quartz_stairs 4
+fill ~92~24~4 ~95~24~4 minecraft:quartz_stairs 6
+setblock ~96~24~4 minecraft:quartz_stairs 5
+fill ~105~24~4 ~105~24~5 minecraft:quartz_stairs 4
+fill ~106~24~4 ~109~24~4 minecraft:quartz_stairs 6
+setblock ~110~24~4 minecraft:quartz_stairs 5
+fill ~119~24~4 ~119~24~5 minecraft:quartz_stairs 4
+fill ~120~24~4 ~123~24~4 minecraft:quartz_stairs 6
+setblock ~124~24~4 minecraft:quartz_stairs 5
+fill ~133~24~4 ~133~24~5 minecraft:quartz_stairs 4
+fill ~134~24~4 ~137~24~4 minecraft:quartz_stairs 6
+setblock ~138~24~4 minecraft:quartz_stairs 5
+fill ~147~24~4 ~147~24~5 minecraft:quartz_stairs 4
+fill ~148~24~4 ~151~24~4 minecraft:quartz_stairs 6
+setblock ~152~24~4 minecraft:quartz_stairs 5
+fill ~161~24~4 ~161~24~5 minecraft:quartz_stairs 4
+fill ~162~24~4 ~165~24~4 minecraft:quartz_stairs 6
+setblock ~166~24~4 minecraft:quartz_stairs 5
+fill ~175~24~4 ~179~24~4 minecraft:quartz_stairs 6
+fill ~179~30~4 ~181~30~5 minecraft:double_stone_block_slab 6
+fill ~179~31~4 ~181~32~4 minecraft:nether_brick_fence
+fill ~179~33~4 ~181~33~4 minecraft:stone_block_slab 6
+setblock ~180~24~4 minecraft:quartz_stairs 5
+setblock ~182~30~4 minecraft:double_stone_block_slab 5
+setblock ~5~31~5 minecraft:stone_block_slab 5
+setblock ~6~24~5 minecraft:quartz_stairs 6
+setblock ~6~30~5 minecraft:quartz_block 0
+fill ~6~31~5 ~6~32~5 minecraft:nether_brick_fence
+fill ~6~33~5 ~6~33~6 minecraft:stone_block_slab 6
+fill ~7~25~5 ~180~25~80 minecraft:quartz_block 0
+fill ~7~26~5 ~8~27~5 minecraft:stained_hardened_clay 11
+fill ~7~28~5 ~180~28~80 minecraft:quartz_block 0
+setblock ~7~30~5 minecraft:double_stone_block_slab 6
+fill ~7~31~5 ~7~32~5 minecraft:netherrack
+setblock ~7~33~5 minecraft:fire 15
+fill ~8~23~5 ~8~23~6 minecraft:quartz_stairs 4
+fill ~8~24~5 ~11~24~6 minecraft:quartz_block 2
+setblock ~8~30~5 minecraft:quartz_block 0
+fill ~8~31~5 ~8~32~5 minecraft:nether_brick_fence
+fill ~8~33~5 ~8~33~6 minecraft:stone_block_slab 6
+fill ~9~23~5 ~10~23~5 minecraft:quartz_stairs 6
+fill ~9~26~5 ~11~27~80 minecraft:quartz_block 0
+fill ~9~30~5 ~178~30~5 minecraft:double_stone_block_slab 6
+setblock ~11~23~5 minecraft:quartz_stairs 5
+fill ~12~26~5 ~13~27~5 minecraft:stained_hardened_clay 11
+setblock ~13~24~5 minecraft:quartz_stairs 6
+fill ~14~26~5 ~16~27~80 minecraft:quartz_block 0
+fill ~17~26~5 ~18~27~5 minecraft:stained_hardened_clay 11
+fill ~19~26~5 ~21~27~80 minecraft:quartz_block 0
+setblock ~20~24~5 minecraft:quartz_stairs 6
+setblock ~22~23~5 minecraft:quartz_stairs 4
+fill ~22~24~5 ~25~24~6 minecraft:quartz_block 2
+fill ~22~26~5 ~23~27~5 minecraft:stained_hardened_clay 11
+fill ~23~23~5 ~24~23~5 minecraft:quartz_stairs 6
+fill ~24~26~5 ~26~27~80 minecraft:quartz_block 0
+setblock ~25~23~5 minecraft:quartz_stairs 5
+fill ~26~24~5 ~27~24~5 minecraft:quartz_stairs 6
+fill ~27~26~5 ~28~27~5 minecraft:stained_hardened_clay 11
+fill ~29~26~5 ~31~27~80 minecraft:quartz_block 0
+fill ~32~26~5 ~33~27~5 minecraft:stained_hardened_clay 11
+setblock ~34~24~5 minecraft:quartz_stairs 6
+fill ~34~26~5 ~36~27~80 minecraft:quartz_block 0
+setblock ~36~23~5 minecraft:quartz_stairs 4
+fill ~36~24~5 ~39~24~6 minecraft:quartz_block 2
+fill ~37~23~5 ~38~23~5 minecraft:quartz_stairs 6
+fill ~37~26~5 ~38~27~5 minecraft:stained_hardened_clay 11
+setblock ~39~23~5 minecraft:quartz_stairs 5
+fill ~39~26~5 ~41~27~80 minecraft:quartz_block 0
+fill ~40~24~5 ~41~24~5 minecraft:quartz_stairs 6
+fill ~42~26~5 ~43~27~5 minecraft:stained_hardened_clay 11
+fill ~44~26~5 ~46~27~80 minecraft:quartz_block 0
+fill ~47~26~5 ~48~27~5 minecraft:stained_hardened_clay 11
+setblock ~48~24~5 minecraft:quartz_stairs 6
+fill ~49~26~5 ~51~27~80 minecraft:quartz_block 0
+setblock ~50~23~5 minecraft:quartz_stairs 4
+fill ~50~24~5 ~53~24~6 minecraft:quartz_block 2
+fill ~51~23~5 ~52~23~5 minecraft:quartz_stairs 6
+fill ~52~26~5 ~53~27~5 minecraft:stained_hardened_clay 11
+setblock ~53~23~5 minecraft:quartz_stairs 5
+fill ~54~24~5 ~55~24~5 minecraft:quartz_stairs 6
+fill ~54~26~5 ~56~27~80 minecraft:quartz_block 0
+fill ~57~26~5 ~58~27~5 minecraft:stained_hardened_clay 11
+fill ~59~26~5 ~61~27~80 minecraft:quartz_block 0
+setblock ~62~24~5 minecraft:quartz_stairs 6
+fill ~62~26~5 ~63~27~5 minecraft:stained_hardened_clay 11
+setblock ~64~23~5 minecraft:quartz_stairs 4
+fill ~64~24~5 ~67~24~6 minecraft:quartz_block 2
+fill ~64~26~5 ~66~27~80 minecraft:quartz_block 0
+fill ~65~23~5 ~66~23~5 minecraft:quartz_stairs 6
+setblock ~67~23~5 minecraft:quartz_stairs 5
+fill ~67~26~5 ~68~27~5 minecraft:stained_hardened_clay 11
+fill ~68~24~5 ~69~24~5 minecraft:quartz_stairs 6
+fill ~69~26~5 ~71~27~80 minecraft:quartz_block 0
+fill ~72~26~5 ~73~27~5 minecraft:stained_hardened_clay 11
+fill ~74~26~5 ~76~27~80 minecraft:quartz_block 0
+setblock ~76~24~5 minecraft:quartz_stairs 6
+fill ~77~26~5 ~78~27~5 minecraft:stained_hardened_clay 11
+setblock ~78~23~5 minecraft:quartz_stairs 4
+fill ~78~24~5 ~81~24~6 minecraft:quartz_block 2
+fill ~79~23~5 ~80~23~5 minecraft:quartz_stairs 6
+fill ~79~26~5 ~81~27~80 minecraft:quartz_block 0
+setblock ~81~23~5 minecraft:quartz_stairs 5
+fill ~82~24~5 ~83~24~5 minecraft:quartz_stairs 6
+fill ~82~26~5 ~83~27~5 minecraft:stained_hardened_clay 11
+fill ~84~26~5 ~86~27~80 minecraft:quartz_block 0
+fill ~87~26~5 ~88~27~5 minecraft:stained_hardened_clay 11
+fill ~89~26~5 ~91~27~80 minecraft:quartz_block 0
+setblock ~90~24~5 minecraft:quartz_stairs 6
+setblock ~92~23~5 minecraft:quartz_stairs 4
+fill ~92~24~5 ~95~24~6 minecraft:quartz_block 2
+fill ~92~26~5 ~95~27~5 minecraft:stained_hardened_clay 11
+fill ~93~23~5 ~94~23~5 minecraft:quartz_stairs 6
+setblock ~95~23~5 minecraft:quartz_stairs 5
+fill ~96~24~5 ~97~24~5 minecraft:quartz_stairs 6
+fill ~96~26~5 ~98~27~80 minecraft:quartz_block 0
+fill ~99~26~5 ~100~27~5 minecraft:stained_hardened_clay 11
+fill ~101~26~5 ~103~27~80 minecraft:quartz_block 0
+setblock ~104~24~5 minecraft:quartz_stairs 6
+fill ~104~26~5 ~105~27~5 minecraft:stained_hardened_clay 11
+setblock ~106~23~5 minecraft:quartz_stairs 4
+fill ~106~24~5 ~109~24~6 minecraft:quartz_block 2
+fill ~106~26~5 ~108~27~80 minecraft:quartz_block 0
+fill ~107~23~5 ~108~23~5 minecraft:quartz_stairs 6
+setblock ~109~23~5 minecraft:quartz_stairs 5
+fill ~109~26~5 ~110~27~5 minecraft:stained_hardened_clay 11
+fill ~110~24~5 ~111~24~5 minecraft:quartz_stairs 6
+fill ~111~26~5 ~113~26~80 minecraft:quartz_block 0
+fill ~111~27~5 ~113~27~5 minecraft:quartz_block 0
+fill ~114~26~5 ~115~27~5 minecraft:stained_hardened_clay 11
+fill ~116~26~5 ~118~27~80 minecraft:quartz_block 0
+setblock ~118~24~5 minecraft:quartz_stairs 6
+fill ~119~26~5 ~120~27~5 minecraft:stained_hardened_clay 11
+setblock ~120~23~5 minecraft:quartz_stairs 4
+fill ~120~24~5 ~123~24~6 minecraft:quartz_block 2
+fill ~121~23~5 ~122~23~5 minecraft:quartz_stairs 6
+fill ~121~26~5 ~123~27~80 minecraft:quartz_block 0
+setblock ~123~23~5 minecraft:quartz_stairs 5
+fill ~124~24~5 ~125~24~5 minecraft:quartz_stairs 6
+fill ~124~26~5 ~125~27~5 minecraft:stained_hardened_clay 11
+fill ~126~26~5 ~128~27~80 minecraft:quartz_block 0
+fill ~129~26~5 ~130~27~5 minecraft:stained_hardened_clay 11
+fill ~131~26~5 ~133~27~80 minecraft:quartz_block 0
+setblock ~132~24~5 minecraft:quartz_stairs 6
+setblock ~134~23~5 minecraft:quartz_stairs 4
+fill ~134~24~5 ~137~24~6 minecraft:quartz_block 2
+fill ~134~26~5 ~135~27~5 minecraft:stained_hardened_clay 11
+fill ~135~23~5 ~136~23~5 minecraft:quartz_stairs 6
+fill ~136~26~5 ~138~27~80 minecraft:quartz_block 0
+setblock ~137~23~5 minecraft:quartz_stairs 5
+fill ~138~24~5 ~139~24~5 minecraft:quartz_stairs 6
+fill ~139~26~5 ~140~27~5 minecraft:stained_hardened_clay 11
+fill ~141~26~5 ~143~27~80 minecraft:quartz_block 0
+fill ~144~26~5 ~145~27~5 minecraft:stained_hardened_clay 11
+setblock ~146~24~5 minecraft:quartz_stairs 6
+fill ~146~26~5 ~148~27~80 minecraft:quartz_block 0
+setblock ~148~23~5 minecraft:quartz_stairs 4
+fill ~148~24~5 ~151~24~6 minecraft:quartz_block 2
+fill ~149~23~5 ~150~23~5 minecraft:quartz_stairs 6
+fill ~149~26~5 ~150~27~5 minecraft:stained_hardened_clay 11
+setblock ~151~23~5 minecraft:quartz_stairs 5
+fill ~151~26~5 ~153~27~80 minecraft:quartz_block 0
+fill ~152~24~5 ~153~24~5 minecraft:quartz_stairs 6
+fill ~154~26~5 ~155~27~5 minecraft:stained_hardened_clay 11
+fill ~156~26~5 ~158~27~80 minecraft:quartz_block 0
+fill ~159~26~5 ~160~27~5 minecraft:stained_hardened_clay 11
+setblock ~160~24~5 minecraft:quartz_stairs 6
+fill ~161~26~5 ~163~27~80 minecraft:quartz_block 0
+setblock ~162~23~5 minecraft:quartz_stairs 4
+fill ~162~24~5 ~165~24~6 minecraft:quartz_block 2
+fill ~163~23~5 ~164~23~5 minecraft:quartz_stairs 6
+fill ~164~26~5 ~165~27~5 minecraft:stained_hardened_clay 11
+setblock ~165~23~5 minecraft:quartz_stairs 5
+fill ~166~24~5 ~167~24~5 minecraft:quartz_stairs 6
+fill ~166~26~5 ~168~27~80 minecraft:quartz_block 0
+fill ~169~26~5 ~170~27~5 minecraft:stained_hardened_clay 11
+fill ~171~26~5 ~173~27~80 minecraft:quartz_block 0
+setblock ~174~24~5 minecraft:quartz_stairs 6
+fill ~174~26~5 ~175~27~5 minecraft:stained_hardened_clay 11
+setblock ~175~24~5 minecraft:quartz_stairs 4
+setblock ~176~23~5 minecraft:quartz_stairs 4
+fill ~176~24~5 ~179~24~6 minecraft:quartz_block 2
+fill ~176~26~5 ~178~27~80 minecraft:quartz_block 0
+fill ~177~23~5 ~178~23~5 minecraft:quartz_stairs 6
+fill ~179~23~5 ~179~23~6 minecraft:quartz_stairs 5
+fill ~179~26~5 ~180~27~5 minecraft:stained_hardened_clay 11
+fill ~179~31~5 ~179~32~5 minecraft:nether_brick_fence
+fill ~179~33~5 ~179~33~6 minecraft:stone_block_slab 6
+fill ~180~24~5 ~181~24~5 minecraft:quartz_stairs 6
+fill ~180~31~5 ~180~32~5 minecraft:netherrack
+setblock ~180~33~5 minecraft:fire 15
+fill ~181~31~5 ~181~32~5 minecraft:nether_brick_fence
+fill ~181~33~5 ~181~33~6 minecraft:stone_block_slab 6
+setblock ~182~30~5 minecraft:stone_block_slab 13
+setblock ~182~31~5 minecraft:stone_block_slab 5
+setblock ~5~31~6 minecraft:double_stone_block_slab 5
+fill ~6~24~6 ~6~24~9 minecraft:quartz_stairs 4
+setblock ~6~30~6 minecraft:stone_block_slab 14
+fill ~6~31~6 ~8~31~6 minecraft:double_stone_block_slab 6
+fill ~6~32~6 ~8~32~6 minecraft:nether_brick_fence
+setblock ~7~23~6 minecraft:quartz_stairs 6
+fill ~7~24~6 ~7~24~9 minecraft:quartz_block 2
+fill ~7~26~6 ~7~27~6 minecraft:stained_hardened_clay 11
+fill ~7~30~6 ~7~30~79 minecraft:stained_hardened_clay 11
+setblock ~7~33~6 minecraft:stone_block_slab 6
+fill ~8~26~6 ~8~26~79 minecraft:quartz_block 0
+fill ~8~27~6 ~8~27~52 minecraft:quartz_block 0
+fill ~8~30~6 ~179~30~6 minecraft:stone_block_slab 14
+fill ~9~3~6 ~10~23~6 minecraft:quartz_block 2
+fill ~9~31~6 ~178~31~6 minecraft:stone_block_slab 6
+setblock ~11~23~6 minecraft:quartz_stairs 6
+fill ~12~23~6 ~12~23~8 minecraft:quartz_stairs 5
+fill ~12~24~6 ~12~24~9 minecraft:quartz_block 2
+fill ~12~26~6 ~13~27~79 minecraft:quartz_block 0
+fill ~13~24~6 ~13~24~9 minecraft:quartz_stairs 5
+fill ~17~26~6 ~18~27~79 minecraft:quartz_block 0
+fill ~20~24~6 ~20~24~10 minecraft:quartz_stairs 4
+fill ~21~23~6 ~22~23~6 minecraft:quartz_stairs 6
+fill ~21~24~6 ~21~24~9 minecraft:quartz_block 2
+fill ~22~26~6 ~23~27~79 minecraft:quartz_block 0
+fill ~23~3~6 ~24~23~6 minecraft:quartz_block 2
+fill ~25~23~6 ~26~23~6 minecraft:quartz_stairs 6
+fill ~26~24~6 ~26~24~9 minecraft:quartz_block 2
+fill ~27~24~6 ~27~24~9 minecraft:quartz_stairs 5
+fill ~27~26~6 ~28~27~79 minecraft:quartz_block 0
+fill ~32~26~6 ~33~27~79 minecraft:quartz_block 0
+fill ~34~24~6 ~34~24~10 minecraft:quartz_stairs 4
+fill ~35~23~6 ~36~23~6 minecraft:quartz_stairs 6
+fill ~35~24~6 ~35~24~9 minecraft:quartz_block 2
+fill ~37~3~6 ~38~23~6 minecraft:quartz_block 2
+fill ~37~26~6 ~38~27~79 minecraft:quartz_block 0
+fill ~39~23~6 ~40~23~6 minecraft:quartz_stairs 6
+fill ~40~24~6 ~40~24~9 minecraft:quartz_block 2
+fill ~41~24~6 ~41~24~9 minecraft:quartz_stairs 5
+fill ~42~26~6 ~43~27~79 minecraft:quartz_block 0
+fill ~47~26~6 ~48~26~79 minecraft:quartz_block 0
+fill ~47~27~6 ~47~27~79 minecraft:quartz_block 0
+fill ~48~24~6 ~48~24~10 minecraft:quartz_stairs 4
+fill ~49~23~6 ~50~23~6 minecraft:quartz_stairs 6
+fill ~49~24~6 ~49~24~9 minecraft:quartz_block 2
+fill ~51~3~6 ~52~23~6 minecraft:quartz_block 2
+fill ~52~26~6 ~53~27~79 minecraft:quartz_block 0
+fill ~53~23~6 ~54~23~6 minecraft:quartz_stairs 6
+fill ~54~24~6 ~54~24~9 minecraft:quartz_block 2
+fill ~55~24~6 ~55~24~9 minecraft:quartz_stairs 5
+fill ~57~26~6 ~58~27~79 minecraft:quartz_block 0
+fill ~62~24~6 ~62~24~10 minecraft:quartz_stairs 4
+fill ~62~26~6 ~63~27~79 minecraft:quartz_block 0
+fill ~63~23~6 ~64~23~6 minecraft:quartz_stairs 6
+fill ~63~24~6 ~63~24~9 minecraft:quartz_block 2
+fill ~65~3~6 ~66~23~6 minecraft:quartz_block 2
+fill ~67~23~6 ~68~23~6 minecraft:quartz_stairs 6
+fill ~67~26~6 ~68~27~79 minecraft:quartz_block 0
+fill ~68~24~6 ~68~24~9 minecraft:quartz_block 2
+fill ~69~24~6 ~69~24~9 minecraft:quartz_stairs 5
+fill ~72~26~6 ~73~27~79 minecraft:quartz_block 0
+fill ~76~24~6 ~76~24~10 minecraft:quartz_stairs 4
+fill ~77~23~6 ~78~23~6 minecraft:quartz_stairs 6
+fill ~77~24~6 ~77~24~9 minecraft:quartz_block 2
+fill ~77~26~6 ~78~27~79 minecraft:quartz_block 0
+fill ~79~3~6 ~80~23~6 minecraft:quartz_block 2
+fill ~81~23~6 ~82~23~6 minecraft:quartz_stairs 6
+fill ~82~24~6 ~82~24~9 minecraft:quartz_block 2
+fill ~82~26~6 ~83~27~79 minecraft:quartz_block 0
+fill ~83~24~6 ~83~24~9 minecraft:quartz_stairs 5
+fill ~87~26~6 ~88~27~79 minecraft:quartz_block 0
+fill ~90~24~6 ~90~24~10 minecraft:quartz_stairs 4
+fill ~91~23~6 ~92~23~6 minecraft:quartz_stairs 6
+fill ~91~24~6 ~91~24~9 minecraft:quartz_block 2
+fill ~92~26~6 ~95~27~79 minecraft:quartz_block 0
+fill ~93~3~6 ~94~23~6 minecraft:quartz_block 2
+fill ~95~23~6 ~96~23~6 minecraft:quartz_stairs 6
+fill ~96~24~6 ~96~24~9 minecraft:quartz_block 2
+fill ~97~24~6 ~97~24~9 minecraft:quartz_stairs 5
+fill ~99~26~6 ~100~27~79 minecraft:quartz_block 0
+fill ~104~24~6 ~104~24~10 minecraft:quartz_stairs 4
+fill ~104~26~6 ~105~27~79 minecraft:quartz_block 0
+fill ~105~23~6 ~106~23~6 minecraft:quartz_stairs 6
+fill ~105~24~6 ~105~24~9 minecraft:quartz_block 2
+fill ~107~3~6 ~108~23~6 minecraft:quartz_block 2
+fill ~109~23~6 ~110~23~6 minecraft:quartz_stairs 6
+fill ~109~26~6 ~110~27~79 minecraft:quartz_block 0
+fill ~110~24~6 ~110~24~9 minecraft:quartz_block 2
+fill ~111~24~6 ~111~24~9 minecraft:quartz_stairs 5
+fill ~111~27~6 ~112~27~80 minecraft:quartz_block 0
+fill ~114~26~6 ~115~27~79 minecraft:quartz_block 0
+fill ~118~24~6 ~118~24~10 minecraft:quartz_stairs 4
+fill ~119~23~6 ~120~23~6 minecraft:quartz_stairs 6
+fill ~119~24~6 ~119~24~9 minecraft:quartz_block 2
+fill ~119~26~6 ~120~27~79 minecraft:quartz_block 0
+fill ~121~3~6 ~122~23~6 minecraft:quartz_block 2
+fill ~123~23~6 ~124~23~6 minecraft:quartz_stairs 6
+fill ~124~24~6 ~124~24~9 minecraft:quartz_block 2
+fill ~124~26~6 ~125~27~79 minecraft:quartz_block 0
+fill ~125~24~6 ~125~24~9 minecraft:quartz_stairs 5
+fill ~129~26~6 ~130~27~79 minecraft:quartz_block 0
+fill ~132~24~6 ~132~24~10 minecraft:quartz_stairs 4
+fill ~133~23~6 ~134~23~6 minecraft:quartz_stairs 6
+fill ~133~24~6 ~133~24~9 minecraft:quartz_block 2
+fill ~134~26~6 ~135~27~79 minecraft:quartz_block 0
+fill ~135~3~6 ~136~23~6 minecraft:quartz_block 2
+fill ~137~23~6 ~138~23~6 minecraft:quartz_stairs 6
+fill ~138~24~6 ~138~24~9 minecraft:quartz_block 2
+fill ~139~24~6 ~139~24~9 minecraft:quartz_stairs 5
+fill ~139~26~6 ~140~27~79 minecraft:quartz_block 0
+fill ~144~26~6 ~145~27~79 minecraft:quartz_block 0
+fill ~146~24~6 ~146~24~10 minecraft:quartz_stairs 4
+fill ~147~23~6 ~148~23~6 minecraft:quartz_stairs 6
+fill ~147~24~6 ~147~24~9 minecraft:quartz_block 2
+fill ~149~3~6 ~150~23~6 minecraft:quartz_block 2
+fill ~149~26~6 ~150~27~79 minecraft:quartz_block 0
+fill ~151~23~6 ~152~23~6 minecraft:quartz_stairs 6
+fill ~152~24~6 ~152~24~9 minecraft:quartz_block 2
+fill ~153~24~6 ~153~24~9 minecraft:quartz_stairs 5
+fill ~154~26~6 ~155~27~79 minecraft:quartz_block 0
+fill ~159~26~6 ~160~27~79 minecraft:quartz_block 0
+fill ~160~24~6 ~160~24~10 minecraft:quartz_stairs 4
+fill ~161~23~6 ~162~23~6 minecraft:quartz_stairs 6
+fill ~161~24~6 ~161~24~9 minecraft:quartz_block 2
+fill ~163~3~6 ~164~23~6 minecraft:quartz_block 2
+fill ~164~26~6 ~165~27~79 minecraft:quartz_block 0
+fill ~165~23~6 ~166~23~6 minecraft:quartz_stairs 6
+fill ~166~24~6 ~166~24~9 minecraft:quartz_block 2
+fill ~167~24~6 ~167~24~9 minecraft:quartz_stairs 5
+fill ~169~26~6 ~170~27~79 minecraft:quartz_block 0
+fill ~174~24~6 ~174~24~9 minecraft:quartz_stairs 4
+fill ~174~26~6 ~175~27~79 minecraft:quartz_block 0
+fill ~175~23~6 ~176~23~6 minecraft:quartz_stairs 6
+fill ~175~24~6 ~175~24~9 minecraft:quartz_block 2
+fill ~177~3~6 ~178~23~6 minecraft:quartz_block 2
+fill ~179~26~6 ~179~27~79 minecraft:quartz_block 0
+fill ~179~31~6 ~181~31~7 minecraft:double_stone_block_slab 6
+fill ~179~32~6 ~181~32~6 minecraft:nether_brick_fence
+setblock ~180~23~6 minecraft:quartz_stairs 6
+fill ~180~24~6 ~180~24~9 minecraft:quartz_block 2
+fill ~180~26~6 ~180~27~6 minecraft:stained_hardened_clay 11
+fill ~180~30~6 ~180~30~79 minecraft:stained_hardened_clay 11
+setblock ~180~33~6 minecraft:stone_block_slab 6
+fill ~181~24~6 ~181~24~9 minecraft:quartz_stairs 5
+setblock ~181~30~6 minecraft:stone_block_slab 14
+setblock ~182~31~6 minecraft:double_stone_block_slab 5
+setblock ~5~31~7 minecraft:stone_block_slab 13
+setblock ~5~32~7 minecraft:stone_block_slab 5
+setblock ~6~31~7 minecraft:quartz_block 0
+fill ~7~23~7 ~7~23~8 minecraft:quartz_stairs 4
+fill ~7~26~7 ~7~27~9 minecraft:quartz_block 0
+setblock ~7~31~7 minecraft:double_stone_block_slab 6
+fill ~8~3~7 ~8~24~8 minecraft:quartz_block 2
+setblock ~8~31~7 minecraft:quartz_block 0
+fill ~9~31~7 ~178~31~7 minecraft:double_stone_block_slab 6
+fill ~11~3~7 ~11~24~8 minecraft:quartz_block 2
+fill ~21~23~7 ~21~23~8 minecraft:quartz_stairs 4
+fill ~22~3~7 ~22~24~8 minecraft:quartz_block 2
+fill ~25~3~7 ~25~24~8 minecraft:quartz_block 2
+fill ~26~23~7 ~26~23~8 minecraft:quartz_stairs 5
+fill ~35~23~7 ~35~23~8 minecraft:quartz_stairs 4
+fill ~36~3~7 ~36~24~8 minecraft:quartz_block 2
+fill ~39~3~7 ~39~24~8 minecraft:quartz_block 2
+fill ~40~23~7 ~40~23~8 minecraft:quartz_stairs 5
+fill ~48~27~7 ~48~27~79 minecraft:quartz_block 0
+fill ~49~23~7 ~49~23~8 minecraft:quartz_stairs 4
+fill ~50~3~7 ~50~24~8 minecraft:quartz_block 2
+fill ~53~3~7 ~53~24~8 minecraft:quartz_block 2
+fill ~54~23~7 ~54~23~8 minecraft:quartz_stairs 5
+fill ~63~23~7 ~63~23~8 minecraft:quartz_stairs 4
+fill ~64~3~7 ~64~24~8 minecraft:quartz_block 2
+fill ~67~3~7 ~67~24~8 minecraft:quartz_block 2
+fill ~68~23~7 ~68~23~8 minecraft:quartz_stairs 5
+fill ~77~23~7 ~77~23~8 minecraft:quartz_stairs 4
+fill ~78~3~7 ~78~24~8 minecraft:quartz_block 2
+fill ~81~3~7 ~81~24~8 minecraft:quartz_block 2
+fill ~82~23~7 ~82~23~8 minecraft:quartz_stairs 5
+fill ~91~23~7 ~91~23~8 minecraft:quartz_stairs 4
+fill ~92~3~7 ~92~24~8 minecraft:quartz_block 2
+fill ~95~3~7 ~95~24~8 minecraft:quartz_block 2
+fill ~96~23~7 ~96~23~8 minecraft:quartz_stairs 5
+fill ~105~23~7 ~105~23~8 minecraft:quartz_stairs 4
+fill ~106~3~7 ~106~24~8 minecraft:quartz_block 2
+fill ~109~3~7 ~109~24~8 minecraft:quartz_block 2
+fill ~110~23~7 ~110~23~8 minecraft:quartz_stairs 5
+fill ~113~27~7 ~113~27~80 minecraft:quartz_block 0
+fill ~119~23~7 ~119~23~8 minecraft:quartz_stairs 4
+fill ~120~3~7 ~120~24~8 minecraft:quartz_block 2
+fill ~123~3~7 ~123~24~8 minecraft:quartz_block 2
+fill ~124~23~7 ~124~23~8 minecraft:quartz_stairs 5
+fill ~133~23~7 ~133~23~8 minecraft:quartz_stairs 4
+fill ~134~3~7 ~134~24~8 minecraft:quartz_block 2
+fill ~137~3~7 ~137~24~8 minecraft:quartz_block 2
+fill ~138~23~7 ~138~23~8 minecraft:quartz_stairs 5
+fill ~147~23~7 ~147~23~8 minecraft:quartz_stairs 4
+fill ~148~3~7 ~148~24~8 minecraft:quartz_block 2
+fill ~151~3~7 ~151~24~8 minecraft:quartz_block 2
+fill ~152~23~7 ~152~23~8 minecraft:quartz_stairs 5
+fill ~161~23~7 ~161~23~8 minecraft:quartz_stairs 4
+fill ~162~3~7 ~162~24~8 minecraft:quartz_block 2
+fill ~165~3~7 ~165~24~8 minecraft:quartz_block 2
+fill ~166~23~7 ~166~23~8 minecraft:quartz_stairs 5
+fill ~175~23~7 ~175~23~9 minecraft:quartz_stairs 4
+fill ~176~3~7 ~176~24~8 minecraft:quartz_block 2
+fill ~179~3~7 ~179~24~8 minecraft:quartz_block 2
+fill ~180~23~7 ~180~23~8 minecraft:quartz_stairs 5
+fill ~180~26~7 ~180~27~9 minecraft:quartz_block 0
+setblock ~182~31~7 minecraft:stone_block_slab 13
+setblock ~182~32~7 minecraft:stone_block_slab 5
+setblock ~5~32~8 minecraft:double_stone_block_slab 5
+setblock ~6~31~8 minecraft:stone_block_slab 14
+fill ~6~32~8 ~181~32~8 minecraft:stone_block_slab 6
+fill ~7~31~8 ~7~31~77 minecraft:stained_hardened_clay 11
+fill ~8~31~8 ~179~31~8 minecraft:stone_block_slab 14
+fill ~180~31~8 ~180~31~77 minecraft:stained_hardened_clay 11
+setblock ~181~31~8 minecraft:stone_block_slab 14
+setblock ~182~32~8 minecraft:double_stone_block_slab 5
+setblock ~5~32~9 minecraft:stone_block_slab 13
+setblock ~5~33~9 minecraft:stone_block_slab 5
+setblock ~6~32~9 minecraft:quartz_block 0
+setblock ~7~23~9 minecraft:quartz_stairs 7
+setblock ~7~32~9 minecraft:double_stone_block_slab 6
+fill ~8~23~9 ~8~23~10 minecraft:quartz_stairs 4
+fill ~8~24~9 ~11~24~10 minecraft:quartz_block 2
+fill ~8~32~9 ~179~32~9 minecraft:quartz_block 0
+fill ~9~3~9 ~10~23~9 minecraft:quartz_block 2
+fill ~11~23~9 ~12~23~9 minecraft:quartz_stairs 7
+setblock ~21~23~9 minecraft:quartz_stairs 7
+fill ~22~23~9 ~22~23~10 minecraft:quartz_stairs 4
+fill ~22~24~9 ~25~24~10 minecraft:quartz_block 2
+fill ~23~3~9 ~24~23~9 minecraft:quartz_block 2
+setblock ~25~23~9 minecraft:quartz_stairs 5
+setblock ~26~23~9 minecraft:quartz_stairs 7
+setblock ~35~23~9 minecraft:quartz_stairs 7
+fill ~36~23~9 ~36~23~10 minecraft:quartz_stairs 4
+fill ~36~24~9 ~39~24~10 minecraft:quartz_block 2
+fill ~37~3~9 ~38~23~9 minecraft:quartz_block 2
+setblock ~39~23~9 minecraft:quartz_stairs 5
+setblock ~40~23~9 minecraft:quartz_stairs 7
+setblock ~49~23~9 minecraft:quartz_stairs 7
+fill ~50~23~9 ~50~23~10 minecraft:quartz_stairs 4
+fill ~50~24~9 ~53~24~10 minecraft:quartz_block 2
+fill ~51~3~9 ~52~23~9 minecraft:quartz_block 2
+setblock ~53~23~9 minecraft:quartz_stairs 5
+setblock ~54~23~9 minecraft:quartz_stairs 7
+setblock ~63~23~9 minecraft:quartz_stairs 7
+fill ~64~23~9 ~64~23~10 minecraft:quartz_stairs 4
+fill ~64~24~9 ~67~24~10 minecraft:quartz_block 2
+fill ~65~3~9 ~66~23~9 minecraft:quartz_block 2
+setblock ~67~23~9 minecraft:quartz_stairs 5
+setblock ~68~23~9 minecraft:quartz_stairs 7
+setblock ~77~23~9 minecraft:quartz_stairs 7
+fill ~78~23~9 ~78~23~10 minecraft:quartz_stairs 4
+fill ~78~24~9 ~81~24~10 minecraft:quartz_block 2
+fill ~79~3~9 ~80~23~9 minecraft:quartz_block 2
+setblock ~81~23~9 minecraft:quartz_stairs 5
+setblock ~82~23~9 minecraft:quartz_stairs 7
+setblock ~91~23~9 minecraft:quartz_stairs 7
+fill ~92~23~9 ~92~23~10 minecraft:quartz_stairs 4
+fill ~92~24~9 ~95~24~10 minecraft:quartz_block 2
+fill ~93~3~9 ~94~23~9 minecraft:quartz_block 2
+setblock ~95~23~9 minecraft:quartz_stairs 5
+setblock ~96~23~9 minecraft:quartz_stairs 7
+setblock ~105~23~9 minecraft:quartz_stairs 7
+fill ~106~23~9 ~106~23~10 minecraft:quartz_stairs 4
+fill ~106~24~9 ~109~24~10 minecraft:quartz_block 2
+fill ~107~3~9 ~108~23~9 minecraft:quartz_block 2
+setblock ~109~23~9 minecraft:quartz_stairs 5
+setblock ~110~23~9 minecraft:quartz_stairs 7
+setblock ~119~23~9 minecraft:quartz_stairs 7
+fill ~120~23~9 ~120~23~10 minecraft:quartz_stairs 4
+fill ~120~24~9 ~123~24~10 minecraft:quartz_block 2
+fill ~121~3~9 ~122~23~9 minecraft:quartz_block 2
+setblock ~123~23~9 minecraft:quartz_stairs 5
+setblock ~124~23~9 minecraft:quartz_stairs 7
+setblock ~133~23~9 minecraft:quartz_stairs 7
+fill ~134~23~9 ~134~23~10 minecraft:quartz_stairs 4
+fill ~134~24~9 ~137~24~10 minecraft:quartz_block 2
+fill ~135~3~9 ~136~23~9 minecraft:quartz_block 2
+setblock ~137~23~9 minecraft:quartz_stairs 5
+setblock ~138~23~9 minecraft:quartz_stairs 7
+setblock ~147~23~9 minecraft:quartz_stairs 7
+fill ~148~23~9 ~148~23~10 minecraft:quartz_stairs 4
+fill ~148~24~9 ~151~24~10 minecraft:quartz_block 2
+fill ~149~3~9 ~150~23~9 minecraft:quartz_block 2
+setblock ~151~23~9 minecraft:quartz_stairs 5
+setblock ~152~23~9 minecraft:quartz_stairs 7
+setblock ~161~23~9 minecraft:quartz_stairs 7
+fill ~162~23~9 ~162~23~10 minecraft:quartz_stairs 4
+fill ~162~24~9 ~165~24~10 minecraft:quartz_block 2
+fill ~163~3~9 ~164~23~9 minecraft:quartz_block 2
+setblock ~165~23~9 minecraft:quartz_stairs 5
+setblock ~166~23~9 minecraft:quartz_stairs 7
+setblock ~176~23~9 minecraft:quartz_stairs 7
+fill ~176~24~9 ~179~24~10 minecraft:quartz_block 2
+fill ~177~3~9 ~178~23~9 minecraft:quartz_block 2
+fill ~179~23~9 ~179~23~10 minecraft:quartz_stairs 5
+setblock ~180~23~9 minecraft:quartz_stairs 7
+setblock ~180~32~9 minecraft:double_stone_block_slab 6
+setblock ~181~32~9 minecraft:quartz_block 0
+setblock ~182~32~9 minecraft:stone_block_slab 13
+setblock ~182~33~9 minecraft:stone_block_slab 5
+setblock ~5~33~10 minecraft:double_stone_block_slab 5
+fill ~6~24~10 ~7~24~10 minecraft:quartz_stairs 7
+setblock ~6~32~10 minecraft:stone_block_slab 14
+fill ~6~33~10 ~181~33~10 minecraft:stone_block_slab 6
+fill ~7~26~10 ~7~27~11 minecraft:stained_hardened_clay 11
+fill ~7~32~10 ~7~32~75 minecraft:stained_hardened_clay 11
+fill ~8~32~10 ~179~32~10 minecraft:stone_block_slab 14
+fill ~9~23~10 ~10~23~10 minecraft:quartz_stairs 7
+setblock ~11~23~10 minecraft:quartz_stairs 5
+setblock ~12~24~10 minecraft:quartz_stairs 5
+setblock ~13~24~10 minecraft:quartz_stairs 7
+setblock ~21~24~10 minecraft:quartz_stairs 7
+fill ~23~23~10 ~25~23~10 minecraft:quartz_stairs 7
+fill ~26~24~10 ~27~24~10 minecraft:quartz_stairs 7
+setblock ~35~24~10 minecraft:quartz_stairs 7
+fill ~37~23~10 ~39~23~10 minecraft:quartz_stairs 7
+fill ~40~24~10 ~41~24~10 minecraft:quartz_stairs 7
+setblock ~49~24~10 minecraft:quartz_stairs 7
+fill ~51~23~10 ~53~23~10 minecraft:quartz_stairs 7
+fill ~54~24~10 ~55~24~10 minecraft:quartz_stairs 7
+setblock ~63~24~10 minecraft:quartz_stairs 7
+fill ~65~23~10 ~67~23~10 minecraft:quartz_stairs 7
+fill ~68~24~10 ~69~24~10 minecraft:quartz_stairs 7
+setblock ~77~24~10 minecraft:quartz_stairs 7
+fill ~79~23~10 ~81~23~10 minecraft:quartz_stairs 7
+fill ~82~24~10 ~83~24~10 minecraft:quartz_stairs 7
+setblock ~91~24~10 minecraft:quartz_stairs 7
+fill ~93~23~10 ~95~23~10 minecraft:quartz_stairs 7
+fill ~96~24~10 ~97~24~10 minecraft:quartz_stairs 7
+setblock ~105~24~10 minecraft:quartz_stairs 7
+fill ~107~23~10 ~109~23~10 minecraft:quartz_stairs 7
+fill ~110~24~10 ~111~24~10 minecraft:quartz_stairs 7
+setblock ~119~24~10 minecraft:quartz_stairs 7
+fill ~121~23~10 ~123~23~10 minecraft:quartz_stairs 7
+fill ~124~24~10 ~125~24~10 minecraft:quartz_stairs 7
+setblock ~133~24~10 minecraft:quartz_stairs 7
+fill ~135~23~10 ~137~23~10 minecraft:quartz_stairs 7
+fill ~138~24~10 ~139~24~10 minecraft:quartz_stairs 7
+setblock ~147~24~10 minecraft:quartz_stairs 7
+fill ~149~23~10 ~151~23~10 minecraft:quartz_stairs 7
+fill ~152~24~10 ~153~24~10 minecraft:quartz_stairs 7
+setblock ~161~24~10 minecraft:quartz_stairs 7
+fill ~163~23~10 ~165~23~10 minecraft:quartz_stairs 7
+fill ~166~24~10 ~167~24~10 minecraft:quartz_stairs 7
+setblock ~174~24~10 minecraft:quartz_stairs 7
+fill ~175~24~10 ~175~24~11 minecraft:quartz_stairs 4
+setblock ~176~23~10 minecraft:quartz_stairs 4
+fill ~177~23~10 ~178~23~10 minecraft:quartz_stairs 7
+fill ~180~24~10 ~180~24~11 minecraft:quartz_stairs 5
+fill ~180~26~10 ~180~27~11 minecraft:stained_hardened_clay 11
+fill ~180~32~10 ~180~32~75 minecraft:stained_hardened_clay 11
+setblock ~181~24~10 minecraft:quartz_stairs 7
+setblock ~181~32~10 minecraft:stone_block_slab 14
+setblock ~182~33~10 minecraft:double_stone_block_slab 5
+setblock ~5~33~11 minecraft:stone_block_slab 13
+setblock ~5~34~11 minecraft:stone_block_slab 5
+setblock ~6~33~11 minecraft:quartz_block 0
+setblock ~7~24~11 minecraft:quartz_stairs 4
+setblock ~7~33~11 minecraft:double_stone_block_slab 6
+fill ~8~24~11 ~12~24~11 minecraft:quartz_stairs 7
+fill ~8~33~11 ~179~33~11 minecraft:quartz_block 0
+setblock ~21~24~11 minecraft:quartz_stairs 4
+fill ~22~24~11 ~25~24~11 minecraft:quartz_stairs 7
+setblock ~26~24~11 minecraft:quartz_stairs 5
+setblock ~35~24~11 minecraft:quartz_stairs 4
+fill ~36~24~11 ~39~24~11 minecraft:quartz_stairs 7
+setblock ~40~24~11 minecraft:quartz_stairs 5
+setblock ~49~24~11 minecraft:quartz_stairs 4
+fill ~50~24~11 ~53~24~11 minecraft:quartz_stairs 7
+setblock ~54~24~11 minecraft:quartz_stairs 5
+setblock ~63~24~11 minecraft:quartz_stairs 4
+fill ~64~24~11 ~67~24~11 minecraft:quartz_stairs 7
+setblock ~68~24~11 minecraft:quartz_stairs 5
+setblock ~77~24~11 minecraft:quartz_stairs 4
+fill ~78~24~11 ~81~24~11 minecraft:quartz_stairs 7
+setblock ~82~24~11 minecraft:quartz_stairs 5
+setblock ~91~24~11 minecraft:quartz_stairs 4
+fill ~92~24~11 ~95~24~11 minecraft:quartz_stairs 7
+setblock ~96~24~11 minecraft:quartz_stairs 5
+setblock ~105~24~11 minecraft:quartz_stairs 4
+fill ~106~24~11 ~109~24~11 minecraft:quartz_stairs 7
+setblock ~110~24~11 minecraft:quartz_stairs 5
+setblock ~119~24~11 minecraft:quartz_stairs 4
+fill ~120~24~11 ~123~24~11 minecraft:quartz_stairs 7
+setblock ~124~24~11 minecraft:quartz_stairs 5
+setblock ~133~24~11 minecraft:quartz_stairs 4
+fill ~134~24~11 ~137~24~11 minecraft:quartz_stairs 7
+setblock ~138~24~11 minecraft:quartz_stairs 5
+setblock ~147~24~11 minecraft:quartz_stairs 4
+fill ~148~24~11 ~151~24~11 minecraft:quartz_stairs 7
+setblock ~152~24~11 minecraft:quartz_stairs 5
+setblock ~161~24~11 minecraft:quartz_stairs 4
+fill ~162~24~11 ~165~24~11 minecraft:quartz_stairs 7
+setblock ~166~24~11 minecraft:quartz_stairs 5
+fill ~176~24~11 ~179~24~11 minecraft:quartz_stairs 7
+setblock ~180~33~11 minecraft:double_stone_block_slab 6
+setblock ~181~33~11 minecraft:quartz_block 0
+setblock ~182~33~11 minecraft:stone_block_slab 13
+setblock ~182~34~11 minecraft:stone_block_slab 5
+setblock ~5~34~12 minecraft:double_stone_block_slab 5
+setblock ~6~33~12 minecraft:stone_block_slab 14
+fill ~6~34~12 ~181~34~12 minecraft:stone_block_slab 6
+fill ~7~26~12 ~7~27~14 minecraft:quartz_block 0
+fill ~7~33~12 ~7~33~73 minecraft:stained_hardened_clay 11
+fill ~8~33~12 ~179~33~12 minecraft:stone_block_slab 14
+fill ~180~26~12 ~180~27~14 minecraft:quartz_block 0
+fill ~180~33~12 ~180~33~73 minecraft:stained_hardened_clay 11
+setblock ~181~33~12 minecraft:stone_block_slab 14
+setblock ~182~34~12 minecraft:double_stone_block_slab 5
+setblock ~5~34~13 minecraft:stone_block_slab 13
+setblock ~5~35~13 minecraft:stone_block_slab 5
+setblock ~6~34~13 minecraft:quartz_block 0
+setblock ~7~34~13 minecraft:double_stone_block_slab 6
+fill ~8~34~13 ~179~34~13 minecraft:quartz_block 0
+setblock ~180~34~13 minecraft:double_stone_block_slab 6
+setblock ~181~34~13 minecraft:quartz_block 0
+setblock ~182~34~13 minecraft:stone_block_slab 13
+setblock ~182~35~13 minecraft:stone_block_slab 5
+setblock ~5~35~14 minecraft:double_stone_block_slab 5
+setblock ~6~34~14 minecraft:stone_block_slab 14
+fill ~6~35~14 ~181~35~14 minecraft:stone_block_slab 6
+fill ~7~34~14 ~7~34~71 minecraft:stained_hardened_clay 11
+fill ~8~34~14 ~179~34~14 minecraft:stone_block_slab 14
+fill ~180~34~14 ~180~34~71 minecraft:stained_hardened_clay 11
+setblock ~181~34~14 minecraft:stone_block_slab 14
+setblock ~182~35~14 minecraft:double_stone_block_slab 5
+setblock ~5~35~15 minecraft:stone_block_slab 13
+setblock ~5~36~15 minecraft:stone_block_slab 5
+setblock ~6~35~15 minecraft:quartz_block 0
+fill ~7~26~15 ~7~27~16 minecraft:stained_hardened_clay 11
+setblock ~7~35~15 minecraft:double_stone_block_slab 6
+fill ~8~35~15 ~179~35~15 minecraft:quartz_block 0
+fill ~180~26~15 ~180~27~16 minecraft:stained_hardened_clay 11
+setblock ~180~35~15 minecraft:double_stone_block_slab 6
+setblock ~181~35~15 minecraft:quartz_block 0
+setblock ~182~35~15 minecraft:stone_block_slab 13
+setblock ~182~36~15 minecraft:stone_block_slab 5
+setblock ~5~36~16 minecraft:double_stone_block_slab 5
+setblock ~6~35~16 minecraft:stone_block_slab 14
+fill ~6~36~16 ~181~36~16 minecraft:stone_block_slab 6
+fill ~7~35~16 ~7~35~69 minecraft:stained_hardened_clay 11
+fill ~8~35~16 ~179~35~16 minecraft:stone_block_slab 14
+fill ~180~35~16 ~180~35~69 minecraft:stained_hardened_clay 11
+setblock ~181~35~16 minecraft:stone_block_slab 14
+setblock ~182~36~16 minecraft:double_stone_block_slab 5
+setblock ~5~36~17 minecraft:stone_block_slab 13
+setblock ~5~37~17 minecraft:stone_block_slab 5
+setblock ~6~36~17 minecraft:quartz_block 0
+fill ~7~26~17 ~7~27~19 minecraft:quartz_block 0
+setblock ~7~36~17 minecraft:double_stone_block_slab 6
+setblock ~8~36~17 minecraft:quartz_block 0
+fill ~9~36~17 ~181~36~17 minecraft:double_stone_block_slab 6
+fill ~180~26~17 ~180~27~19 minecraft:quartz_block 0
+setblock ~182~36~17 minecraft:stone_block_slab 13
+setblock ~182~37~17 minecraft:stone_block_slab 5
+setblock ~5~37~18 minecraft:double_stone_block_slab 5
+setblock ~6~36~18 minecraft:stone_block_slab 14
+fill ~6~37~18 ~181~37~18 minecraft:stone_block_slab 6
+fill ~7~24~18 ~7~24~19 minecraft:quartz_stairs 4
+fill ~7~36~18 ~7~36~67 minecraft:stained_hardened_clay 11
+fill ~8~24~18 ~11~24~18 minecraft:quartz_stairs 6
+fill ~8~36~18 ~179~36~18 minecraft:stone_block_slab 14
+fill ~12~24~18 ~12~24~19 minecraft:quartz_stairs 5
+fill ~175~24~18 ~179~24~18 minecraft:quartz_stairs 6
+setblock ~180~24~18 minecraft:quartz_stairs 5
+fill ~180~36~18 ~180~36~67 minecraft:stained_hardened_clay 11
+setblock ~181~36~18 minecraft:stone_block_slab 14
+setblock ~182~37~18 minecraft:double_stone_block_slab 5
+setblock ~5~37~19 minecraft:stone_block_slab 13
+setblock ~5~38~19 minecraft:stone_block_slab 5
+setblock ~6~24~19 minecraft:quartz_stairs 6
+setblock ~6~37~19 minecraft:quartz_block 0
+setblock ~7~37~19 minecraft:double_stone_block_slab 6
+fill ~8~23~19 ~8~23~20 minecraft:quartz_stairs 4
+fill ~8~24~19 ~11~24~20 minecraft:quartz_block 2
+setblock ~8~37~19 minecraft:quartz_block 0
+fill ~9~23~19 ~10~23~19 minecraft:quartz_stairs 6
+fill ~9~37~19 ~181~37~19 minecraft:double_stone_block_slab 6
+setblock ~11~23~19 minecraft:quartz_stairs 5
+setblock ~13~24~19 minecraft:quartz_stairs 6
+setblock ~174~24~19 minecraft:quartz_stairs 6
+setblock ~175~24~19 minecraft:quartz_stairs 4
+setblock ~176~23~19 minecraft:quartz_stairs 4
+fill ~176~24~19 ~179~24~20 minecraft:quartz_block 2
+fill ~177~23~19 ~178~23~19 minecraft:quartz_stairs 6
+fill ~179~23~19 ~179~23~20 minecraft:quartz_stairs 5
+fill ~180~24~19 ~181~24~19 minecraft:quartz_stairs 6
+setblock ~182~37~19 minecraft:stone_block_slab 13
+setblock ~182~38~19 minecraft:stone_block_slab 5
+setblock ~5~38~20 minecraft:double_stone_block_slab 5
+fill ~6~24~20 ~6~24~23 minecraft:quartz_stairs 4
+setblock ~6~37~20 minecraft:stone_block_slab 14
+fill ~6~38~20 ~181~38~20 minecraft:stone_block_slab 6
+setblock ~7~23~20 minecraft:quartz_stairs 6
+fill ~7~24~20 ~7~24~23 minecraft:quartz_block 2
+fill ~7~26~20 ~7~27~21 minecraft:stained_hardened_clay 11
+fill ~7~37~20 ~7~37~65 minecraft:stained_hardened_clay 11
+fill ~8~37~20 ~179~37~20 minecraft:stone_block_slab 14
+fill ~9~3~20 ~10~23~20 minecraft:quartz_block 2
+setblock ~11~23~20 minecraft:quartz_stairs 6
+fill ~12~23~20 ~12~23~22 minecraft:quartz_stairs 5
+fill ~12~24~20 ~12~24~23 minecraft:quartz_block 2
+fill ~13~24~20 ~13~24~23 minecraft:quartz_stairs 5
+fill ~174~24~20 ~174~24~23 minecraft:quartz_stairs 4
+fill ~175~23~20 ~176~23~20 minecraft:quartz_stairs 6
+fill ~175~24~20 ~175~24~23 minecraft:quartz_block 2
+fill ~177~3~20 ~178~23~20 minecraft:quartz_block 2
+setblock ~180~23~20 minecraft:quartz_stairs 6
+fill ~180~24~20 ~180~24~23 minecraft:quartz_block 2
+fill ~180~26~20 ~180~27~21 minecraft:stained_hardened_clay 11
+fill ~180~37~20 ~180~37~65 minecraft:stained_hardened_clay 11
+fill ~181~24~20 ~181~24~23 minecraft:quartz_stairs 5
+setblock ~181~37~20 minecraft:stone_block_slab 14
+setblock ~182~38~20 minecraft:double_stone_block_slab 5
+setblock ~5~38~21 minecraft:stone_block_slab 13
+setblock ~5~39~21 minecraft:stone_block_slab 5
+setblock ~6~38~21 minecraft:quartz_block 0
+fill ~7~23~21 ~7~23~22 minecraft:quartz_stairs 4
+setblock ~7~38~21 minecraft:double_stone_block_slab 6
+fill ~8~3~21 ~8~24~22 minecraft:quartz_block 2
+setblock ~8~38~21 minecraft:quartz_block 0
+fill ~9~38~21 ~181~38~21 minecraft:double_stone_block_slab 6
+fill ~11~3~21 ~11~24~22 minecraft:quartz_block 2
+fill ~30~3~21 ~157~24~22 minecraft:quartz_block 0
+fill ~175~23~21 ~175~23~23 minecraft:quartz_stairs 4
+fill ~176~3~21 ~176~24~22 minecraft:quartz_block 2
+fill ~179~3~21 ~179~24~22 minecraft:quartz_block 2
+fill ~180~23~21 ~180~23~22 minecraft:quartz_stairs 5
+setblock ~182~38~21 minecraft:stone_block_slab 13
+setblock ~182~39~21 minecraft:stone_block_slab 5
+setblock ~5~39~22 minecraft:double_stone_block_slab 5
+setblock ~6~38~22 minecraft:stone_block_slab 14
+fill ~6~39~22 ~181~39~22 minecraft:stone_block_slab 6
+fill ~7~26~22 ~7~27~24 minecraft:quartz_block 0
+fill ~7~38~22 ~7~38~63 minecraft:stained_hardened_clay 11
+fill ~8~38~22 ~179~38~22 minecraft:stone_block_slab 14
+fill ~180~26~22 ~180~27~24 minecraft:quartz_block 0
+fill ~180~38~22 ~180~38~63 minecraft:stained_hardened_clay 11
+setblock ~181~38~22 minecraft:stone_block_slab 14
+setblock ~182~39~22 minecraft:double_stone_block_slab 5
+setblock ~5~39~23 minecraft:stone_block_slab 13
+setblock ~5~40~23 minecraft:stone_block_slab 5
+setblock ~6~39~23 minecraft:quartz_block 0
+setblock ~7~23~23 minecraft:quartz_stairs 7
+setblock ~7~39~23 minecraft:double_stone_block_slab 6
+fill ~8~23~23 ~8~23~24 minecraft:quartz_stairs 4
+fill ~8~24~23 ~11~24~24 minecraft:quartz_block 2
+setblock ~8~39~23 minecraft:quartz_block 0
+fill ~9~3~23 ~10~23~23 minecraft:quartz_block 2
+fill ~9~39~23 ~181~39~23 minecraft:double_stone_block_slab 6
+fill ~11~23~23 ~12~23~23 minecraft:quartz_stairs 7
+fill ~30~3~23 ~31~24~25 minecraft:quartz_block 0
+fill ~51~3~23 ~52~24~64 minecraft:quartz_block 0
+fill ~135~3~23 ~136~24~34 minecraft:quartz_block 0
+fill ~156~3~23 ~157~24~25 minecraft:quartz_block 0
+setblock ~176~23~23 minecraft:quartz_stairs 7
+fill ~176~24~23 ~179~24~24 minecraft:quartz_block 2
+fill ~177~3~23 ~178~23~23 minecraft:quartz_block 2
+fill ~179~23~23 ~179~23~24 minecraft:quartz_stairs 5
+setblock ~180~23~23 minecraft:quartz_stairs 7
+setblock ~182~39~23 minecraft:stone_block_slab 13
+setblock ~182~40~23 minecraft:stone_block_slab 5
+setblock ~5~40~24 minecraft:double_stone_block_slab 5
+fill ~6~24~24 ~7~24~24 minecraft:quartz_stairs 7
+setblock ~6~39~24 minecraft:stone_block_slab 14
+fill ~6~40~24 ~181~40~24 minecraft:stone_block_slab 6
+fill ~7~39~24 ~7~39~61 minecraft:stained_hardened_clay 11
+fill ~8~39~24 ~179~39~24 minecraft:stone_block_slab 14
+fill ~9~23~24 ~10~23~24 minecraft:quartz_stairs 7
+setblock ~11~23~24 minecraft:quartz_stairs 5
+setblock ~12~24~24 minecraft:quartz_stairs 5
+setblock ~13~24~24 minecraft:quartz_stairs 7
+setblock ~174~24~24 minecraft:quartz_stairs 7
+fill ~175~24~24 ~175~24~25 minecraft:quartz_stairs 4
+setblock ~176~23~24 minecraft:quartz_stairs 4
+fill ~177~23~24 ~178~23~24 minecraft:quartz_stairs 7
+fill ~180~24~24 ~180~24~25 minecraft:quartz_stairs 5
+fill ~180~39~24 ~180~39~61 minecraft:stained_hardened_clay 11
+setblock ~181~24~24 minecraft:quartz_stairs 7
+setblock ~181~39~24 minecraft:stone_block_slab 14
+setblock ~182~40~24 minecraft:double_stone_block_slab 5
+setblock ~5~40~25 minecraft:stone_block_slab 13
+setblock ~5~41~25 minecraft:stone_block_slab 5
+setblock ~6~40~25 minecraft:quartz_block 0
+setblock ~7~24~25 minecraft:quartz_stairs 4
+fill ~7~26~25 ~7~27~26 minecraft:stained_hardened_clay 11
+setblock ~7~40~25 minecraft:stone_block_slab 14
+fill ~8~24~25 ~12~24~25 minecraft:quartz_stairs 7
+setblock ~8~40~25 minecraft:quartz_block 0
+fill ~9~40~25 ~181~40~25 minecraft:double_stone_block_slab 6
+fill ~176~24~25 ~179~24~25 minecraft:quartz_stairs 7
+fill ~180~26~25 ~180~27~26 minecraft:stained_hardened_clay 11
+setblock ~182~40~25 minecraft:stone_block_slab 13
+setblock ~182~41~25 minecraft:stone_block_slab 5
+setblock ~5~41~26 minecraft:double_stone_block_slab 5
+setblock ~6~40~26 minecraft:stone_block_slab 14
+fill ~6~41~26 ~181~41~26 minecraft:stone_block_slab 6
+fill ~7~40~26 ~7~40~59 minecraft:stained_hardened_clay 11
+fill ~8~40~26 ~179~40~26 minecraft:stone_block_slab 14
+fill ~180~40~26 ~180~40~59 minecraft:stained_hardened_clay 11
+setblock ~181~40~26 minecraft:stone_block_slab 14
+setblock ~182~41~26 minecraft:double_stone_block_slab 5
+setblock ~5~41~27 minecraft:stone_block_slab 13
+setblock ~5~42~27 minecraft:stone_block_slab 5
+setblock ~6~41~27 minecraft:quartz_block 0
+fill ~7~26~27 ~7~27~29 minecraft:quartz_block 0
+setblock ~7~41~27 minecraft:double_stone_block_slab 6
+setblock ~8~41~27 minecraft:quartz_block 0
+fill ~9~41~27 ~181~41~27 minecraft:double_stone_block_slab 6
+fill ~180~26~27 ~180~27~29 minecraft:quartz_block 0
+setblock ~182~41~27 minecraft:stone_block_slab 13
+setblock ~182~42~27 minecraft:stone_block_slab 5
+setblock ~5~42~28 minecraft:double_stone_block_slab 5
+setblock ~6~41~28 minecraft:stone_block_slab 14
+fill ~6~42~28 ~181~42~28 minecraft:stone_block_slab 6
+fill ~7~41~28 ~7~41~57 minecraft:stained_hardened_clay 11
+fill ~8~41~28 ~179~41~28 minecraft:stone_block_slab 14
+setblock ~63~24~28 minecraft:quartz_stairs 4
+fill ~64~24~28 ~66~24~28 minecraft:quartz_stairs 6
+setblock ~67~24~28 minecraft:quartz_stairs 5
+setblock ~71~24~28 minecraft:quartz_stairs 4
+fill ~72~24~28 ~74~24~28 minecraft:quartz_stairs 6
+setblock ~75~24~28 minecraft:quartz_stairs 5
+setblock ~79~24~28 minecraft:quartz_stairs 4
+fill ~80~24~28 ~82~24~28 minecraft:quartz_stairs 6
+setblock ~83~24~28 minecraft:quartz_stairs 5
+setblock ~87~24~28 minecraft:quartz_stairs 4
+fill ~88~24~28 ~90~24~28 minecraft:quartz_stairs 6
+setblock ~91~24~28 minecraft:quartz_stairs 5
+setblock ~95~24~28 minecraft:quartz_stairs 4
+fill ~96~24~28 ~98~24~28 minecraft:quartz_stairs 6
+setblock ~99~24~28 minecraft:quartz_stairs 5
+setblock ~103~24~28 minecraft:quartz_stairs 4
+fill ~104~24~28 ~106~24~28 minecraft:quartz_stairs 6
+setblock ~107~24~28 minecraft:quartz_stairs 5
+setblock ~111~24~28 minecraft:quartz_stairs 4
+fill ~112~24~28 ~114~24~28 minecraft:quartz_stairs 6
+setblock ~115~24~28 minecraft:quartz_stairs 5
+setblock ~119~24~28 minecraft:quartz_stairs 4
+fill ~120~24~28 ~122~24~28 minecraft:quartz_stairs 6
+setblock ~123~24~28 minecraft:quartz_stairs 5
+fill ~180~41~28 ~180~41~57 minecraft:stained_hardened_clay 11
+setblock ~181~41~28 minecraft:stone_block_slab 14
+setblock ~182~42~28 minecraft:double_stone_block_slab 5
+setblock ~5~42~29 minecraft:stone_block_slab 13
+setblock ~5~43~29 minecraft:stone_block_slab 5
+fill ~6~42~29 ~181~42~29 minecraft:double_stone_block_slab 6
+fill ~62~24~29 ~63~24~29 minecraft:quartz_stairs 6
+setblock ~64~23~29 minecraft:quartz_stairs 4
+fill ~64~24~29 ~66~24~29 minecraft:quartz_block 0
+fill ~65~23~29 ~66~23~29 minecraft:quartz_stairs 6
+fill ~67~24~29 ~68~24~29 minecraft:quartz_stairs 6
+fill ~70~24~29 ~71~24~29 minecraft:quartz_stairs 6
+setblock ~72~23~29 minecraft:quartz_stairs 4
+fill ~72~24~29 ~74~24~29 minecraft:quartz_block 0
+fill ~73~23~29 ~74~23~29 minecraft:quartz_stairs 6
+fill ~75~24~29 ~76~24~29 minecraft:quartz_stairs 6
+fill ~78~24~29 ~79~24~29 minecraft:quartz_stairs 6
+setblock ~80~23~29 minecraft:quartz_stairs 4
+fill ~80~24~29 ~82~24~29 minecraft:quartz_block 0
+fill ~81~23~29 ~82~23~29 minecraft:quartz_stairs 6
+fill ~83~24~29 ~84~24~29 minecraft:quartz_stairs 6
+fill ~86~24~29 ~87~24~29 minecraft:quartz_stairs 6
+setblock ~88~23~29 minecraft:quartz_stairs 4
+fill ~88~24~29 ~90~24~29 minecraft:quartz_block 0
+fill ~89~23~29 ~90~23~29 minecraft:quartz_stairs 6
+fill ~91~24~29 ~92~24~29 minecraft:quartz_stairs 6
+fill ~94~24~29 ~95~24~29 minecraft:quartz_stairs 6
+setblock ~96~23~29 minecraft:quartz_stairs 4
+fill ~96~24~29 ~98~24~29 minecraft:quartz_block 0
+fill ~97~23~29 ~98~23~29 minecraft:quartz_stairs 6
+fill ~99~24~29 ~100~24~29 minecraft:quartz_stairs 6
+fill ~102~24~29 ~103~24~29 minecraft:quartz_stairs 6
+setblock ~104~23~29 minecraft:quartz_stairs 4
+fill ~104~24~29 ~106~24~29 minecraft:quartz_block 0
+fill ~105~23~29 ~106~23~29 minecraft:quartz_stairs 6
+fill ~107~24~29 ~108~24~29 minecraft:quartz_stairs 6
+fill ~110~24~29 ~111~24~29 minecraft:quartz_stairs 6
+setblock ~112~23~29 minecraft:quartz_stairs 4
+fill ~112~24~29 ~114~24~29 minecraft:quartz_block 0
+fill ~113~23~29 ~114~23~29 minecraft:quartz_stairs 6
+fill ~115~24~29 ~116~24~29 minecraft:quartz_stairs 6
+fill ~118~24~29 ~119~24~29 minecraft:quartz_stairs 6
+setblock ~120~23~29 minecraft:quartz_stairs 4
+fill ~120~24~29 ~122~24~29 minecraft:quartz_block 0
+fill ~121~23~29 ~122~23~29 minecraft:quartz_stairs 6
+fill ~123~24~29 ~124~24~29 minecraft:quartz_stairs 6
+setblock ~182~42~29 minecraft:stone_block_slab 13
+setblock ~182~43~29 minecraft:stone_block_slab 5
+setblock ~5~43~30 minecraft:double_stone_block_slab 5
+setblock ~6~42~30 minecraft:stone_block_slab 14
+fill ~6~43~30 ~181~43~30 minecraft:stone_block_slab 6
+fill ~7~26~30 ~7~27~31 minecraft:stained_hardened_clay 11
+fill ~7~42~30 ~7~42~55 minecraft:stained_hardened_clay 11
+fill ~8~42~30 ~179~42~30 minecraft:stone_block_slab 14
+fill ~53~3~30 ~54~24~32 minecraft:quartz_block 0
+fill ~62~24~30 ~62~24~32 minecraft:quartz_stairs 4
+fill ~63~23~30 ~63~23~31 minecraft:quartz_stairs 4
+fill ~63~24~30 ~63~24~32 minecraft:quartz_block 0
+setblock ~64~23~30 minecraft:quartz_stairs 6
+fill ~65~3~30 ~65~24~30 minecraft:quartz_block 2
+setblock ~66~23~30 minecraft:quartz_stairs 5
+setblock ~67~23~30 minecraft:quartz_stairs 6
+fill ~67~24~30 ~67~24~32 minecraft:quartz_block 0
+fill ~68~24~30 ~68~24~32 minecraft:quartz_stairs 5
+fill ~70~24~30 ~70~24~32 minecraft:quartz_stairs 4
+fill ~71~23~30 ~71~23~31 minecraft:quartz_stairs 4
+fill ~71~24~30 ~71~24~32 minecraft:quartz_block 0
+setblock ~72~23~30 minecraft:quartz_stairs 6
+fill ~73~3~30 ~73~24~30 minecraft:quartz_block 2
+setblock ~74~23~30 minecraft:quartz_stairs 5
+setblock ~75~23~30 minecraft:quartz_stairs 6
+fill ~75~24~30 ~75~24~32 minecraft:quartz_block 0
+fill ~76~24~30 ~76~24~32 minecraft:quartz_stairs 5
+fill ~78~24~30 ~78~24~32 minecraft:quartz_stairs 4
+fill ~79~23~30 ~79~23~31 minecraft:quartz_stairs 4
+fill ~79~24~30 ~79~24~32 minecraft:quartz_block 0
+setblock ~80~23~30 minecraft:quartz_stairs 6
+fill ~81~3~30 ~81~24~30 minecraft:quartz_block 2
+setblock ~82~23~30 minecraft:quartz_stairs 5
+setblock ~83~23~30 minecraft:quartz_stairs 6
+fill ~83~24~30 ~83~24~32 minecraft:quartz_block 0
+fill ~84~24~30 ~84~24~32 minecraft:quartz_stairs 5
+fill ~86~24~30 ~86~24~32 minecraft:quartz_stairs 4
+fill ~87~23~30 ~87~23~31 minecraft:quartz_stairs 4
+fill ~87~24~30 ~87~24~32 minecraft:quartz_block 0
+setblock ~88~23~30 minecraft:quartz_stairs 6
+fill ~89~3~30 ~89~24~30 minecraft:quartz_block 2
+setblock ~90~23~30 minecraft:quartz_stairs 5
+setblock ~91~23~30 minecraft:quartz_stairs 6
+fill ~91~24~30 ~91~24~32 minecraft:quartz_block 0
+fill ~92~24~30 ~92~24~32 minecraft:quartz_stairs 5
+fill ~94~24~30 ~94~24~32 minecraft:quartz_stairs 4
+fill ~95~23~30 ~95~23~31 minecraft:quartz_stairs 4
+fill ~95~24~30 ~95~24~32 minecraft:quartz_block 0
+setblock ~96~23~30 minecraft:quartz_stairs 6
+fill ~97~3~30 ~97~24~30 minecraft:quartz_block 2
+setblock ~98~23~30 minecraft:quartz_stairs 5
+setblock ~99~23~30 minecraft:quartz_stairs 6
+fill ~99~24~30 ~99~24~32 minecraft:quartz_block 0
+fill ~100~24~30 ~100~24~32 minecraft:quartz_stairs 5
+fill ~102~24~30 ~102~24~32 minecraft:quartz_stairs 4
+fill ~103~23~30 ~103~23~31 minecraft:quartz_stairs 4
+fill ~103~24~30 ~103~24~32 minecraft:quartz_block 0
+setblock ~104~23~30 minecraft:quartz_stairs 6
+fill ~105~3~30 ~105~24~30 minecraft:quartz_block 2
+setblock ~106~23~30 minecraft:quartz_stairs 5
+setblock ~107~23~30 minecraft:quartz_stairs 6
+fill ~107~24~30 ~107~24~32 minecraft:quartz_block 0
+fill ~108~24~30 ~108~24~32 minecraft:quartz_stairs 5
+fill ~110~24~30 ~110~24~32 minecraft:quartz_stairs 4
+fill ~111~23~30 ~111~23~31 minecraft:quartz_stairs 4
+fill ~111~24~30 ~111~24~32 minecraft:quartz_block 0
+setblock ~112~23~30 minecraft:quartz_stairs 6
+fill ~113~3~30 ~113~24~30 minecraft:quartz_block 2
+setblock ~114~23~30 minecraft:quartz_stairs 5
+setblock ~115~23~30 minecraft:quartz_stairs 6
+fill ~115~24~30 ~115~24~32 minecraft:quartz_block 0
+fill ~116~24~30 ~116~24~32 minecraft:quartz_stairs 5
+fill ~118~24~30 ~118~24~32 minecraft:quartz_stairs 4
+fill ~119~23~30 ~119~23~31 minecraft:quartz_stairs 4
+fill ~119~24~30 ~119~24~32 minecraft:quartz_block 0
+setblock ~120~23~30 minecraft:quartz_stairs 6
+fill ~121~3~30 ~121~24~30 minecraft:quartz_block 2
+setblock ~122~23~30 minecraft:quartz_stairs 5
+setblock ~123~23~30 minecraft:quartz_stairs 6
+fill ~123~24~30 ~123~24~32 minecraft:quartz_block 0
+fill ~124~24~30 ~124~24~32 minecraft:quartz_stairs 5
+fill ~132~3~30 ~134~24~32 minecraft:quartz_block 0
+fill ~180~26~30 ~180~27~31 minecraft:stained_hardened_clay 11
+fill ~180~42~30 ~180~42~55 minecraft:stained_hardened_clay 11
+setblock ~181~42~30 minecraft:stone_block_slab 14
+setblock ~182~43~30 minecraft:double_stone_block_slab 5
+setblock ~5~43~31 minecraft:stone_block_slab 13
+setblock ~5~44~31 minecraft:stone_block_slab 5
+fill ~6~43~31 ~181~43~31 minecraft:double_stone_block_slab 6
+fill ~64~3~31 ~64~24~31 minecraft:quartz_block 2
+fill ~66~3~31 ~66~24~31 minecraft:quartz_block 2
+setblock ~67~23~31 minecraft:quartz_stairs 5
+fill ~72~3~31 ~72~24~31 minecraft:quartz_block 2
+fill ~74~3~31 ~74~24~31 minecraft:quartz_block 2
+setblock ~75~23~31 minecraft:quartz_stairs 5
+fill ~80~3~31 ~80~24~31 minecraft:quartz_block 2
+fill ~82~3~31 ~82~24~31 minecraft:quartz_block 2
+setblock ~83~23~31 minecraft:quartz_stairs 5
+fill ~88~3~31 ~88~24~31 minecraft:quartz_block 2
+fill ~90~3~31 ~90~24~31 minecraft:quartz_block 2
+setblock ~91~23~31 minecraft:quartz_stairs 5
+fill ~96~3~31 ~96~24~31 minecraft:quartz_block 2
+fill ~98~3~31 ~98~24~31 minecraft:quartz_block 2
+setblock ~99~23~31 minecraft:quartz_stairs 5
+fill ~104~3~31 ~104~24~31 minecraft:quartz_block 2
+fill ~106~3~31 ~106~24~31 minecraft:quartz_block 2
+setblock ~107~23~31 minecraft:quartz_stairs 5
+fill ~112~3~31 ~112~24~31 minecraft:quartz_block 2
+fill ~114~3~31 ~114~24~31 minecraft:quartz_block 2
+setblock ~115~23~31 minecraft:quartz_stairs 5
+fill ~120~3~31 ~120~24~31 minecraft:quartz_block 2
+fill ~122~3~31 ~122~24~31 minecraft:quartz_block 2
+setblock ~123~23~31 minecraft:quartz_stairs 5
+setblock ~182~43~31 minecraft:stone_block_slab 13
+setblock ~182~44~31 minecraft:stone_block_slab 5
+setblock ~5~44~32 minecraft:double_stone_block_slab 5
+setblock ~6~43~32 minecraft:stone_block_slab 14
+fill ~6~44~32 ~181~44~32 minecraft:stone_block_slab 6
+fill ~7~24~32 ~7~24~33 minecraft:quartz_stairs 4
+fill ~7~26~32 ~7~27~34 minecraft:quartz_block 0
+fill ~7~43~32 ~7~43~53 minecraft:stained_hardened_clay 11
+fill ~8~24~32 ~11~24~32 minecraft:quartz_stairs 6
+fill ~8~43~32 ~179~43~32 minecraft:stone_block_slab 14
+fill ~12~24~32 ~12~24~33 minecraft:quartz_stairs 5
+fill ~28~24~32 ~32~24~32 minecraft:quartz_stairs 6
+setblock ~33~24~32 minecraft:quartz_stairs 5
+fill ~63~23~32 ~64~23~32 minecraft:quartz_stairs 7
+fill ~65~3~32 ~65~24~32 minecraft:quartz_block 2
+fill ~66~23~32 ~67~23~32 minecraft:quartz_stairs 7
+fill ~71~23~32 ~72~23~32 minecraft:quartz_stairs 7
+fill ~73~3~32 ~73~24~32 minecraft:quartz_block 2
+fill ~74~23~32 ~75~23~32 minecraft:quartz_stairs 7
+fill ~79~23~32 ~80~23~32 minecraft:quartz_stairs 7
+fill ~81~3~32 ~81~24~32 minecraft:quartz_block 2
+fill ~82~23~32 ~83~23~32 minecraft:quartz_stairs 7
+fill ~87~23~32 ~88~23~32 minecraft:quartz_stairs 7
+fill ~89~3~32 ~89~24~32 minecraft:quartz_block 2
+fill ~90~23~32 ~91~23~32 minecraft:quartz_stairs 7
+fill ~95~23~32 ~96~23~32 minecraft:quartz_stairs 7
+fill ~97~3~32 ~97~24~32 minecraft:quartz_block 2
+fill ~98~23~32 ~99~23~32 minecraft:quartz_stairs 7
+fill ~103~23~32 ~104~23~32 minecraft:quartz_stairs 7
+fill ~105~3~32 ~105~24~32 minecraft:quartz_block 2
+fill ~106~23~32 ~107~23~32 minecraft:quartz_stairs 7
+fill ~111~23~32 ~112~23~32 minecraft:quartz_stairs 7
+fill ~113~3~32 ~113~24~32 minecraft:quartz_block 2
+fill ~114~23~32 ~115~23~32 minecraft:quartz_stairs 7
+fill ~119~23~32 ~120~23~32 minecraft:quartz_stairs 7
+fill ~121~3~32 ~121~24~32 minecraft:quartz_block 2
+fill ~122~23~32 ~123~23~32 minecraft:quartz_stairs 7
+fill ~154~24~32 ~158~24~32 minecraft:quartz_stairs 6
+setblock ~159~24~32 minecraft:quartz_stairs 5
+fill ~175~24~32 ~179~24~32 minecraft:quartz_stairs 6
+setblock ~180~24~32 minecraft:quartz_stairs 5
+fill ~180~26~32 ~180~27~34 minecraft:quartz_block 0
+fill ~180~43~32 ~180~43~53 minecraft:stained_hardened_clay 11
+setblock ~181~43~32 minecraft:stone_block_slab 14
+setblock ~182~44~32 minecraft:double_stone_block_slab 5
+setblock ~5~44~33 minecraft:stone_block_slab 13
+setblock ~5~45~33 minecraft:stone_block_slab 5
+setblock ~6~24~33 minecraft:quartz_stairs 6
+fill ~6~44~33 ~181~44~33 minecraft:double_stone_block_slab 6
+fill ~8~23~33 ~8~23~34 minecraft:quartz_stairs 4
+fill ~8~24~33 ~11~24~34 minecraft:quartz_block 2
+fill ~9~23~33 ~10~23~33 minecraft:quartz_stairs 6
+setblock ~11~23~33 minecraft:quartz_stairs 5
+setblock ~13~24~33 minecraft:quartz_stairs 6
+setblock ~27~24~33 minecraft:quartz_stairs 6
+setblock ~28~24~33 minecraft:quartz_stairs 4
+setblock ~29~23~33 minecraft:quartz_stairs 4
+fill ~29~24~33 ~32~24~34 minecraft:quartz_block 2
+fill ~30~23~33 ~31~23~33 minecraft:quartz_stairs 6
+fill ~32~23~33 ~32~23~34 minecraft:quartz_stairs 5
+fill ~33~24~33 ~34~24~33 minecraft:quartz_stairs 6
+setblock ~62~24~33 minecraft:quartz_stairs 7
+fill ~63~24~33 ~63~24~34 minecraft:quartz_stairs 4
+setblock ~64~23~33 minecraft:quartz_stairs 4
+fill ~64~24~33 ~66~24~33 minecraft:quartz_block 0
+setblock ~65~23~33 minecraft:quartz_stairs 7
+setblock ~66~23~33 minecraft:quartz_stairs 5
+fill ~67~24~33 ~68~24~33 minecraft:quartz_stairs 7
+fill ~68~3~33 ~70~4~33 minecraft:nether_brick_fence
+fill ~68~5~33 ~70~5~33 minecraft:stone_block_slab 6
+setblock ~70~24~33 minecraft:quartz_stairs 7
+fill ~71~24~33 ~71~24~34 minecraft:quartz_stairs 4
+setblock ~72~23~33 minecraft:quartz_stairs 4
+fill ~72~24~33 ~74~24~33 minecraft:quartz_block 0
+setblock ~73~23~33 minecraft:quartz_stairs 7
+setblock ~74~23~33 minecraft:quartz_stairs 5
+fill ~75~24~33 ~76~24~33 minecraft:quartz_stairs 7
+fill ~76~3~33 ~78~4~33 minecraft:nether_brick_fence
+fill ~76~5~33 ~78~5~33 minecraft:stone_block_slab 6
+setblock ~78~24~33 minecraft:quartz_stairs 7
+fill ~79~24~33 ~79~24~34 minecraft:quartz_stairs 4
+setblock ~80~23~33 minecraft:quartz_stairs 4
+fill ~80~24~33 ~82~24~33 minecraft:quartz_block 0
+setblock ~81~23~33 minecraft:quartz_stairs 7
+setblock ~82~23~33 minecraft:quartz_stairs 5
+fill ~83~24~33 ~84~24~33 minecraft:quartz_stairs 7
+fill ~84~3~33 ~86~4~33 minecraft:nether_brick_fence
+fill ~84~5~33 ~86~5~33 minecraft:stone_block_slab 6
+setblock ~86~24~33 minecraft:quartz_stairs 7
+fill ~87~24~33 ~87~24~34 minecraft:quartz_stairs 4
+setblock ~88~23~33 minecraft:quartz_stairs 4
+fill ~88~24~33 ~90~24~33 minecraft:quartz_block 0
+setblock ~89~23~33 minecraft:quartz_stairs 7
+setblock ~90~23~33 minecraft:quartz_stairs 5
+fill ~91~24~33 ~92~24~33 minecraft:quartz_stairs 7
+fill ~92~3~33 ~94~4~33 minecraft:nether_brick_fence
+fill ~92~5~33 ~94~5~33 minecraft:stone_block_slab 6
+setblock ~94~24~33 minecraft:quartz_stairs 7
+fill ~95~24~33 ~95~24~34 minecraft:quartz_stairs 4
+setblock ~96~23~33 minecraft:quartz_stairs 4
+fill ~96~24~33 ~98~24~33 minecraft:quartz_block 0
+setblock ~97~23~33 minecraft:quartz_stairs 7
+setblock ~98~23~33 minecraft:quartz_stairs 5
+fill ~99~24~33 ~100~24~33 minecraft:quartz_stairs 7
+fill ~100~3~33 ~102~4~33 minecraft:nether_brick_fence
+fill ~100~5~33 ~102~5~33 minecraft:stone_block_slab 6
+setblock ~102~24~33 minecraft:quartz_stairs 7
+fill ~103~24~33 ~103~24~34 minecraft:quartz_stairs 4
+setblock ~104~23~33 minecraft:quartz_stairs 4
+fill ~104~24~33 ~106~24~33 minecraft:quartz_block 0
+setblock ~105~23~33 minecraft:quartz_stairs 7
+setblock ~106~23~33 minecraft:quartz_stairs 5
+fill ~107~24~33 ~108~24~33 minecraft:quartz_stairs 7
+fill ~108~3~33 ~110~4~33 minecraft:nether_brick_fence
+fill ~108~5~33 ~110~5~33 minecraft:stone_block_slab 6
+setblock ~110~24~33 minecraft:quartz_stairs 7
+fill ~111~24~33 ~111~24~34 minecraft:quartz_stairs 4
+setblock ~112~23~33 minecraft:quartz_stairs 4
+fill ~112~24~33 ~114~24~33 minecraft:quartz_block 0
+setblock ~113~23~33 minecraft:quartz_stairs 7
+setblock ~114~23~33 minecraft:quartz_stairs 5
+fill ~115~24~33 ~116~24~33 minecraft:quartz_stairs 7
+fill ~116~3~33 ~118~4~33 minecraft:nether_brick_fence
+fill ~116~5~33 ~118~5~33 minecraft:stone_block_slab 6
+setblock ~118~24~33 minecraft:quartz_stairs 7
+fill ~119~24~33 ~119~24~34 minecraft:quartz_stairs 4
+setblock ~120~23~33 minecraft:quartz_stairs 4
+fill ~120~24~33 ~122~24~33 minecraft:quartz_block 0
+setblock ~121~23~33 minecraft:quartz_stairs 7
+setblock ~122~23~33 minecraft:quartz_stairs 5
+fill ~123~24~33 ~124~24~33 minecraft:quartz_stairs 7
+fill ~124~3~33 ~126~4~33 minecraft:nether_brick_fence
+fill ~124~5~33 ~126~5~33 minecraft:stone_block_slab 6
+setblock ~153~24~33 minecraft:quartz_stairs 6
+setblock ~154~24~33 minecraft:quartz_stairs 4
+setblock ~155~23~33 minecraft:quartz_stairs 4
+fill ~155~24~33 ~158~24~34 minecraft:quartz_block 2
+fill ~156~23~33 ~157~23~33 minecraft:quartz_stairs 6
+fill ~158~23~33 ~158~23~34 minecraft:quartz_stairs 5
+fill ~159~24~33 ~160~24~33 minecraft:quartz_stairs 6
+setblock ~174~24~33 minecraft:quartz_stairs 6
+setblock ~175~24~33 minecraft:quartz_stairs 4
+setblock ~176~23~33 minecraft:quartz_stairs 4
+fill ~176~24~33 ~179~24~34 minecraft:quartz_block 2
+fill ~177~23~33 ~178~23~33 minecraft:quartz_stairs 6
+fill ~179~23~33 ~179~23~34 minecraft:quartz_stairs 5
+fill ~180~24~33 ~181~24~33 minecraft:quartz_stairs 6
+setblock ~182~44~33 minecraft:stone_block_slab 13
+setblock ~182~45~33 minecraft:stone_block_slab 5
+setblock ~5~45~34 minecraft:double_stone_block_slab 5
+fill ~6~24~34 ~6~24~37 minecraft:quartz_stairs 4
+setblock ~6~44~34 minecraft:stone_block_slab 14
+fill ~6~45~34 ~181~45~34 minecraft:stone_block_slab 6
+setblock ~7~23~34 minecraft:quartz_stairs 6
+fill ~7~24~34 ~7~24~37 minecraft:quartz_block 2
+fill ~7~44~34 ~7~44~51 minecraft:stained_hardened_clay 11
+fill ~8~44~34 ~179~44~34 minecraft:stone_block_slab 14
+fill ~9~3~34 ~10~23~34 minecraft:quartz_block 2
+setblock ~11~23~34 minecraft:quartz_stairs 6
+fill ~12~23~34 ~12~23~36 minecraft:quartz_stairs 5
+fill ~12~24~34 ~12~24~37 minecraft:quartz_block 2
+fill ~13~24~34 ~13~24~37 minecraft:quartz_stairs 5
+fill ~27~24~34 ~27~24~37 minecraft:quartz_stairs 4
+fill ~28~23~34 ~29~23~34 minecraft:quartz_stairs 6
+fill ~28~24~34 ~28~24~37 minecraft:quartz_block 2
+fill ~30~3~34 ~31~23~34 minecraft:quartz_block 2
+setblock ~33~23~34 minecraft:quartz_stairs 6
+fill ~33~24~34 ~33~24~37 minecraft:quartz_block 2
+fill ~34~24~34 ~34~24~37 minecraft:quartz_stairs 5
+fill ~64~24~34 ~66~24~34 minecraft:quartz_stairs 7
+setblock ~67~24~34 minecraft:quartz_stairs 5
+fill ~68~3~34 ~68~4~35 minecraft:nether_brick_fence
+fill ~68~5~34 ~68~5~35 minecraft:stone_block_slab 6
+fill ~69~3~34 ~69~4~34 minecraft:netherrack
+setblock ~69~5~34 minecraft:fire 15
+fill ~70~3~34 ~70~4~35 minecraft:nether_brick_fence
+fill ~70~5~34 ~70~5~35 minecraft:stone_block_slab 6
+fill ~72~24~34 ~74~24~34 minecraft:quartz_stairs 7
+setblock ~75~24~34 minecraft:quartz_stairs 5
+fill ~76~3~34 ~76~4~35 minecraft:nether_brick_fence
+fill ~76~5~34 ~76~5~35 minecraft:stone_block_slab 6
+fill ~77~3~34 ~77~4~34 minecraft:netherrack
+setblock ~77~5~34 minecraft:fire 15
+fill ~78~3~34 ~78~4~35 minecraft:nether_brick_fence
+fill ~78~5~34 ~78~5~35 minecraft:stone_block_slab 6
+fill ~80~24~34 ~82~24~34 minecraft:quartz_stairs 7
+setblock ~83~24~34 minecraft:quartz_stairs 5
+fill ~84~3~34 ~84~4~35 minecraft:nether_brick_fence
+fill ~84~5~34 ~84~5~35 minecraft:stone_block_slab 6
+fill ~85~3~34 ~85~4~34 minecraft:netherrack
+setblock ~85~5~34 minecraft:fire 15
+fill ~86~3~34 ~86~4~35 minecraft:nether_brick_fence
+fill ~86~5~34 ~86~5~35 minecraft:stone_block_slab 6
+fill ~88~24~34 ~90~24~34 minecraft:quartz_stairs 7
+setblock ~91~24~34 minecraft:quartz_stairs 5
+fill ~92~3~34 ~92~4~35 minecraft:nether_brick_fence
+fill ~92~5~34 ~92~5~35 minecraft:stone_block_slab 6
+fill ~93~3~34 ~93~4~34 minecraft:netherrack
+setblock ~93~5~34 minecraft:fire 15
+fill ~94~3~34 ~94~4~35 minecraft:nether_brick_fence
+fill ~94~5~34 ~94~5~35 minecraft:stone_block_slab 6
+fill ~96~24~34 ~98~24~34 minecraft:quartz_stairs 7
+setblock ~99~24~34 minecraft:quartz_stairs 5
+fill ~100~3~34 ~100~4~35 minecraft:nether_brick_fence
+fill ~100~5~34 ~100~5~35 minecraft:stone_block_slab 6
+fill ~101~3~34 ~101~4~34 minecraft:netherrack
+setblock ~101~5~34 minecraft:fire 15
+fill ~102~3~34 ~102~4~35 minecraft:nether_brick_fence
+fill ~102~5~34 ~102~5~35 minecraft:stone_block_slab 6
+fill ~104~24~34 ~106~24~34 minecraft:quartz_stairs 7
+setblock ~107~24~34 minecraft:quartz_stairs 5
+fill ~108~3~34 ~108~4~35 minecraft:nether_brick_fence
+fill ~108~5~34 ~108~5~35 minecraft:stone_block_slab 6
+fill ~109~3~34 ~109~4~34 minecraft:netherrack
+setblock ~109~5~34 minecraft:fire 15
+fill ~110~3~34 ~110~4~35 minecraft:nether_brick_fence
+fill ~110~5~34 ~110~5~35 minecraft:stone_block_slab 6
+fill ~112~24~34 ~114~24~34 minecraft:quartz_stairs 7
+setblock ~115~24~34 minecraft:quartz_stairs 5
+fill ~116~3~34 ~116~4~35 minecraft:nether_brick_fence
+fill ~116~5~34 ~116~5~35 minecraft:stone_block_slab 6
+fill ~117~3~34 ~117~4~34 minecraft:netherrack
+setblock ~117~5~34 minecraft:fire 15
+fill ~118~3~34 ~118~4~35 minecraft:nether_brick_fence
+fill ~118~5~34 ~118~5~35 minecraft:stone_block_slab 6
+fill ~120~24~34 ~122~24~34 minecraft:quartz_stairs 7
+setblock ~123~24~34 minecraft:quartz_stairs 5
+fill ~124~3~34 ~124~4~35 minecraft:nether_brick_fence
+fill ~124~5~34 ~124~5~35 minecraft:stone_block_slab 6
+fill ~125~3~34 ~125~4~34 minecraft:netherrack
+setblock ~125~5~34 minecraft:fire 15
+fill ~126~3~34 ~126~4~35 minecraft:nether_brick_fence
+fill ~126~5~34 ~126~5~35 minecraft:stone_block_slab 6
+fill ~153~24~34 ~153~24~37 minecraft:quartz_stairs 4
+fill ~154~23~34 ~155~23~34 minecraft:quartz_stairs 6
+fill ~154~24~34 ~154~24~37 minecraft:quartz_block 2
+fill ~156~3~34 ~157~23~34 minecraft:quartz_block 2
+setblock ~159~23~34 minecraft:quartz_stairs 6
+fill ~159~24~34 ~159~24~37 minecraft:quartz_block 2
+fill ~160~24~34 ~160~24~37 minecraft:quartz_stairs 5
+fill ~174~24~34 ~174~24~37 minecraft:quartz_stairs 4
+fill ~175~23~34 ~176~23~34 minecraft:quartz_stairs 6
+fill ~175~24~34 ~175~24~37 minecraft:quartz_block 2
+fill ~177~3~34 ~178~23~34 minecraft:quartz_block 2
+setblock ~180~23~34 minecraft:quartz_stairs 6
+fill ~180~24~34 ~180~24~37 minecraft:quartz_block 2
+fill ~180~44~34 ~180~44~51 minecraft:stained_hardened_clay 11
+fill ~181~24~34 ~181~24~37 minecraft:quartz_stairs 5
+setblock ~181~44~34 minecraft:stone_block_slab 14
+setblock ~182~45~34 minecraft:double_stone_block_slab 5
+setblock ~5~45~35 minecraft:stone_block_slab 13
+setblock ~5~46~35 minecraft:stone_block_slab 5
+fill ~6~45~35 ~181~45~35 minecraft:double_stone_block_slab 6
+fill ~7~23~35 ~7~23~36 minecraft:quartz_stairs 4
+fill ~7~26~35 ~7~27~36 minecraft:stained_hardened_clay 11
+fill ~8~3~35 ~8~24~36 minecraft:quartz_block 2
+fill ~11~3~35 ~11~24~36 minecraft:quartz_block 2
+fill ~28~23~35 ~28~23~37 minecraft:quartz_stairs 4
+fill ~29~3~35 ~29~24~36 minecraft:quartz_block 2
+fill ~32~3~35 ~32~24~36 minecraft:quartz_block 2
+fill ~33~23~35 ~33~23~36 minecraft:quartz_stairs 5
+fill ~69~3~35 ~69~4~35 minecraft:nether_brick_fence
+setblock ~69~5~35 minecraft:stone_block_slab 6
+fill ~77~3~35 ~77~4~35 minecraft:nether_brick_fence
+setblock ~77~5~35 minecraft:stone_block_slab 6
+fill ~85~3~35 ~85~4~35 minecraft:nether_brick_fence
+setblock ~85~5~35 minecraft:stone_block_slab 6
+fill ~93~3~35 ~93~4~35 minecraft:nether_brick_fence
+setblock ~93~5~35 minecraft:stone_block_slab 6
+fill ~101~3~35 ~101~4~35 minecraft:nether_brick_fence
+setblock ~101~5~35 minecraft:stone_block_slab 6
+fill ~109~3~35 ~109~4~35 minecraft:nether_brick_fence
+setblock ~109~5~35 minecraft:stone_block_slab 6
+fill ~117~3~35 ~117~4~35 minecraft:nether_brick_fence
+setblock ~117~5~35 minecraft:stone_block_slab 6
+fill ~125~3~35 ~125~4~35 minecraft:nether_brick_fence
+setblock ~125~5~35 minecraft:stone_block_slab 6
+fill ~154~23~35 ~154~23~37 minecraft:quartz_stairs 4
+fill ~155~3~35 ~155~24~36 minecraft:quartz_block 2
+fill ~158~3~35 ~158~24~36 minecraft:quartz_block 2
+fill ~159~23~35 ~159~23~36 minecraft:quartz_stairs 5
+fill ~175~23~35 ~175~23~37 minecraft:quartz_stairs 4
+fill ~176~3~35 ~176~24~36 minecraft:quartz_block 2
+fill ~179~3~35 ~179~24~36 minecraft:quartz_block 2
+fill ~180~23~35 ~180~23~36 minecraft:quartz_stairs 5
+fill ~180~26~35 ~180~27~36 minecraft:stained_hardened_clay 11
+setblock ~182~45~35 minecraft:stone_block_slab 13
+setblock ~182~46~35 minecraft:stone_block_slab 5
+setblock ~5~46~36 minecraft:double_stone_block_slab 5
+setblock ~6~45~36 minecraft:stone_block_slab 14
+fill ~6~46~36 ~181~46~36 minecraft:stone_block_slab 6
+fill ~7~45~36 ~7~45~49 minecraft:stained_hardened_clay 11
+fill ~8~45~36 ~179~45~36 minecraft:stone_block_slab 14
+fill ~180~45~36 ~180~45~49 minecraft:stained_hardened_clay 11
+setblock ~181~45~36 minecraft:stone_block_slab 14
+setblock ~182~46~36 minecraft:double_stone_block_slab 5
+setblock ~5~46~37 minecraft:stone_block_slab 13
+setblock ~5~47~37 minecraft:stone_block_slab 5
+setblock ~6~46~37 minecraft:double_stone_block_slab 6
+setblock ~7~23~37 minecraft:quartz_stairs 7
+fill ~7~26~37 ~7~27~39 minecraft:quartz_block 0
+setblock ~7~46~37 minecraft:stone_block_slab 14
+fill ~8~23~37 ~8~23~38 minecraft:quartz_stairs 4
+fill ~8~24~37 ~11~24~38 minecraft:quartz_block 2
+fill ~8~46~37 ~181~46~37 minecraft:double_stone_block_slab 6
+fill ~9~3~37 ~10~23~37 minecraft:quartz_block 2
+fill ~11~23~37 ~12~23~37 minecraft:quartz_stairs 7
+setblock ~29~23~37 minecraft:quartz_stairs 7
+fill ~29~24~37 ~32~24~38 minecraft:quartz_block 2
+fill ~30~3~37 ~31~23~37 minecraft:quartz_block 2
+fill ~32~23~37 ~32~23~38 minecraft:quartz_stairs 5
+setblock ~33~23~37 minecraft:quartz_stairs 7
+setblock ~155~23~37 minecraft:quartz_stairs 7
+fill ~155~24~37 ~158~24~38 minecraft:quartz_block 2
+fill ~156~3~37 ~157~23~37 minecraft:quartz_block 2
+fill ~158~23~37 ~158~23~38 minecraft:quartz_stairs 5
+setblock ~159~23~37 minecraft:quartz_stairs 7
+setblock ~176~23~37 minecraft:quartz_stairs 7
+fill ~176~24~37 ~179~24~38 minecraft:quartz_block 2
+fill ~177~3~37 ~178~23~37 minecraft:quartz_block 2
+fill ~179~23~37 ~179~23~38 minecraft:quartz_stairs 5
+setblock ~180~23~37 minecraft:quartz_stairs 7
+fill ~180~26~37 ~180~27~39 minecraft:quartz_block 0
+setblock ~182~46~37 minecraft:stone_block_slab 13
+setblock ~182~47~37 minecraft:stone_block_slab 5
+setblock ~5~47~38 minecraft:double_stone_block_slab 5
+fill ~6~24~38 ~7~24~38 minecraft:quartz_stairs 7
+setblock ~6~46~38 minecraft:stone_block_slab 14
+fill ~6~47~38 ~181~47~38 minecraft:stone_block_slab 6
+fill ~7~46~38 ~7~46~47 minecraft:stained_hardened_clay 11
+fill ~8~46~38 ~179~46~38 minecraft:stone_block_slab 14
+fill ~9~23~38 ~10~23~38 minecraft:quartz_stairs 7
+setblock ~11~23~38 minecraft:quartz_stairs 5
+setblock ~12~24~38 minecraft:quartz_stairs 5
+setblock ~13~24~38 minecraft:quartz_stairs 7
+setblock ~27~24~38 minecraft:quartz_stairs 7
+fill ~28~24~38 ~28~24~39 minecraft:quartz_stairs 4
+setblock ~29~23~38 minecraft:quartz_stairs 4
+fill ~30~23~38 ~31~23~38 minecraft:quartz_stairs 7
+fill ~33~24~38 ~33~24~39 minecraft:quartz_stairs 5
+setblock ~34~24~38 minecraft:quartz_stairs 7
+setblock ~153~24~38 minecraft:quartz_stairs 7
+fill ~154~24~38 ~154~24~39 minecraft:quartz_stairs 4
+setblock ~155~23~38 minecraft:quartz_stairs 4
+fill ~156~23~38 ~157~23~38 minecraft:quartz_stairs 7
+fill ~159~24~38 ~159~24~39 minecraft:quartz_stairs 5
+setblock ~160~24~38 minecraft:quartz_stairs 7
+setblock ~174~24~38 minecraft:quartz_stairs 7
+fill ~175~24~38 ~175~24~39 minecraft:quartz_stairs 4
+setblock ~176~23~38 minecraft:quartz_stairs 4
+fill ~177~23~38 ~178~23~38 minecraft:quartz_stairs 7
+fill ~180~24~38 ~180~24~39 minecraft:quartz_stairs 5
+fill ~180~46~38 ~180~46~47 minecraft:stained_hardened_clay 11
+setblock ~181~24~38 minecraft:quartz_stairs 7
+setblock ~181~46~38 minecraft:stone_block_slab 14
+setblock ~182~47~38 minecraft:double_stone_block_slab 5
+setblock ~5~47~39 minecraft:stone_block_slab 13
+setblock ~5~48~39 minecraft:stone_block_slab 5
+fill ~6~47~39 ~181~47~39 minecraft:double_stone_block_slab 6
+setblock ~7~24~39 minecraft:quartz_stairs 4
+fill ~8~24~39 ~12~24~39 minecraft:quartz_stairs 7
+fill ~29~24~39 ~32~24~39 minecraft:quartz_stairs 7
+fill ~155~24~39 ~158~24~39 minecraft:quartz_stairs 7
+fill ~176~24~39 ~179~24~39 minecraft:quartz_stairs 7
+setblock ~182~47~39 minecraft:stone_block_slab 13
+setblock ~182~48~39 minecraft:stone_block_slab 5
+setblock ~5~48~40 minecraft:double_stone_block_slab 5
+fill ~6~2~40 ~52~2~81 minecraft:quartz_block 0
+setblock ~6~47~40 minecraft:stone_block_slab 14
+fill ~6~48~40 ~181~48~40 minecraft:stone_block_slab 6
+fill ~7~26~40 ~7~27~45 minecraft:stained_hardened_clay 11
+fill ~7~47~40 ~7~47~45 minecraft:stained_hardened_clay 11
+fill ~8~47~40 ~179~47~40 minecraft:stone_block_slab 14
+fill ~53~2~40 ~138~2~45 minecraft:stained_hardened_clay 14
+fill ~56~22~40 ~58~22~40 minecraft:stone_block_slab 14
+fill ~72~22~40 ~74~22~40 minecraft:stone_block_slab 14
+fill ~88~22~40 ~90~22~40 minecraft:stone_block_slab 14
+fill ~104~22~40 ~106~22~40 minecraft:stone_block_slab 14
+fill ~120~22~40 ~122~22~40 minecraft:stone_block_slab 14
+fill ~134~22~40 ~136~22~40 minecraft:stone_block_slab 14
+fill ~139~2~40 ~181~2~40 minecraft:quartz_block 0
+fill ~180~26~40 ~180~27~45 minecraft:stained_hardened_clay 11
+fill ~180~47~40 ~180~47~45 minecraft:stained_hardened_clay 11
+setblock ~181~47~40 minecraft:stone_block_slab 14
+setblock ~182~48~40 minecraft:double_stone_block_slab 5
+setblock ~5~48~41 minecraft:stone_block_slab 13
+setblock ~5~49~41 minecraft:stone_block_slab 5
+fill ~6~48~41 ~181~48~41 minecraft:double_stone_block_slab 6
+fill ~56~22~41 ~56~22~45 minecraft:stone_block_slab 14
+fill ~57~21~41 ~57~21~44 minecraft:nether_brick_fence
+setblock ~57~22~41 minecraft:netherrack
+setblock ~57~23~41 minecraft:fire 15
+fill ~58~22~41 ~58~22~45 minecraft:stone_block_slab 14
+fill ~72~22~41 ~72~22~45 minecraft:stone_block_slab 14
+fill ~73~21~41 ~73~21~44 minecraft:nether_brick_fence
+setblock ~73~22~41 minecraft:netherrack
+setblock ~73~23~41 minecraft:fire 15
+fill ~74~22~41 ~74~22~45 minecraft:stone_block_slab 14
+fill ~88~22~41 ~88~22~45 minecraft:stone_block_slab 14
+fill ~89~21~41 ~89~21~44 minecraft:nether_brick_fence
+setblock ~89~22~41 minecraft:netherrack
+setblock ~89~23~41 minecraft:fire 15
+fill ~90~22~41 ~90~22~45 minecraft:stone_block_slab 14
+fill ~104~22~41 ~104~22~45 minecraft:stone_block_slab 14
+fill ~105~21~41 ~105~21~44 minecraft:nether_brick_fence
+setblock ~105~22~41 minecraft:netherrack
+setblock ~105~23~41 minecraft:fire 15
+fill ~106~22~41 ~106~22~45 minecraft:stone_block_slab 14
+fill ~120~22~41 ~120~22~45 minecraft:stone_block_slab 14
+fill ~121~21~41 ~121~21~44 minecraft:nether_brick_fence
+setblock ~121~22~41 minecraft:netherrack
+setblock ~121~23~41 minecraft:fire 15
+fill ~122~22~41 ~122~22~45 minecraft:stone_block_slab 14
+fill ~134~22~41 ~134~22~45 minecraft:stone_block_slab 14
+fill ~135~21~41 ~135~21~44 minecraft:nether_brick_fence
+setblock ~135~22~41 minecraft:netherrack
+setblock ~135~23~41 minecraft:fire 15
+fill ~136~22~41 ~136~22~45 minecraft:stone_block_slab 14
+fill ~139~2~41 ~139~2~44 minecraft:stained_hardened_clay 14
+fill ~140~2~41 ~181~2~41 minecraft:quartz_block 0
+setblock ~182~48~41 minecraft:stone_block_slab 13
+setblock ~182~49~41 minecraft:stone_block_slab 5
+fill ~5~49~42 ~5~49~43 minecraft:double_stone_block_slab 5
+fill ~6~48~42 ~6~48~43 minecraft:stone_block_slab 14
+fill ~6~49~42 ~181~49~43 minecraft:stone_block_slab 5
+fill ~7~48~42 ~7~48~43 minecraft:stained_hardened_clay 11
+fill ~8~48~42 ~179~48~43 minecraft:stone_block_slab 14
+fill ~57~22~42 ~57~24~43 minecraft:nether_brick_fence
+fill ~73~22~42 ~73~24~43 minecraft:nether_brick_fence
+fill ~89~22~42 ~89~24~43 minecraft:nether_brick_fence
+fill ~105~22~42 ~105~24~43 minecraft:nether_brick_fence
+fill ~121~22~42 ~121~24~43 minecraft:nether_brick_fence
+fill ~135~22~42 ~135~24~43 minecraft:nether_brick_fence
+fill ~140~2~42 ~140~2~43 minecraft:stained_hardened_clay 14
+fill ~141~2~42 ~181~2~81 minecraft:quartz_block 0
+fill ~180~48~42 ~180~48~43 minecraft:stained_hardened_clay 11
+fill ~181~48~42 ~181~48~43 minecraft:stone_block_slab 14
+fill ~182~49~42 ~182~49~43 minecraft:double_stone_block_slab 5
+setblock ~5~48~44 minecraft:stone_block_slab 13
+setblock ~5~49~44 minecraft:stone_block_slab 5
+fill ~6~48~44 ~181~48~44 minecraft:double_stone_block_slab 6
+setblock ~57~22~44 minecraft:netherrack
+setblock ~57~23~44 minecraft:fire 15
+setblock ~73~22~44 minecraft:netherrack
+setblock ~73~23~44 minecraft:fire 15
+setblock ~89~22~44 minecraft:netherrack
+setblock ~89~23~44 minecraft:fire 15
+setblock ~105~22~44 minecraft:netherrack
+setblock ~105~23~44 minecraft:fire 15
+setblock ~121~22~44 minecraft:netherrack
+setblock ~121~23~44 minecraft:fire 15
+setblock ~135~22~44 minecraft:netherrack
+setblock ~135~23~44 minecraft:fire 15
+fill ~140~2~44 ~140~2~81 minecraft:quartz_block 0
+setblock ~182~48~44 minecraft:stone_block_slab 13
+setblock ~182~49~44 minecraft:stone_block_slab 5
+setblock ~5~48~45 minecraft:double_stone_block_slab 5
+setblock ~6~47~45 minecraft:stone_block_slab 14
+fill ~6~48~45 ~181~48~45 minecraft:stone_block_slab 6
+fill ~8~47~45 ~179~47~45 minecraft:stone_block_slab 14
+setblock ~57~22~45 minecraft:stone_block_slab 14
+setblock ~73~22~45 minecraft:stone_block_slab 14
+setblock ~89~22~45 minecraft:stone_block_slab 14
+setblock ~105~22~45 minecraft:stone_block_slab 14
+setblock ~121~22~45 minecraft:stone_block_slab 14
+setblock ~135~22~45 minecraft:stone_block_slab 14
+fill ~139~2~45 ~139~2~81 minecraft:quartz_block 0
+setblock ~181~47~45 minecraft:stone_block_slab 14
+setblock ~182~48~45 minecraft:double_stone_block_slab 5
+setblock ~5~47~46 minecraft:stone_block_slab 13
+setblock ~5~48~46 minecraft:stone_block_slab 5
+fill ~6~47~46 ~181~47~46 minecraft:double_stone_block_slab 6
+fill ~7~24~46 ~7~24~47 minecraft:quartz_stairs 4
+fill ~7~26~46 ~7~27~48 minecraft:quartz_block 0
+fill ~8~24~46 ~11~24~46 minecraft:quartz_stairs 6
+fill ~12~24~46 ~12~24~47 minecraft:quartz_stairs 5
+fill ~28~24~46 ~32~24~46 minecraft:quartz_stairs 6
+setblock ~33~24~46 minecraft:quartz_stairs 5
+fill ~53~2~46 ~138~2~81 minecraft:quartz_block 0
+fill ~154~24~46 ~158~24~46 minecraft:quartz_stairs 6
+setblock ~159~24~46 minecraft:quartz_stairs 5
+fill ~175~24~46 ~179~24~46 minecraft:quartz_stairs 6
+setblock ~180~24~46 minecraft:quartz_stairs 5
+fill ~180~26~46 ~180~27~48 minecraft:quartz_block 0
+setblock ~182~47~46 minecraft:stone_block_slab 13
+setblock ~182~48~46 minecraft:stone_block_slab 5
+setblock ~5~47~47 minecraft:double_stone_block_slab 5
+setblock ~6~24~47 minecraft:quartz_stairs 6
+setblock ~6~46~47 minecraft:stone_block_slab 14
+fill ~6~47~47 ~181~47~47 minecraft:stone_block_slab 6
+fill ~8~23~47 ~8~23~48 minecraft:quartz_stairs 4
+fill ~8~24~47 ~11~24~48 minecraft:quartz_block 2
+fill ~8~46~47 ~179~46~47 minecraft:stone_block_slab 14
+fill ~9~23~47 ~10~23~47 minecraft:quartz_stairs 6
+setblock ~11~23~47 minecraft:quartz_stairs 5
+setblock ~13~24~47 minecraft:quartz_stairs 6
+setblock ~27~24~47 minecraft:quartz_stairs 6
+setblock ~28~24~47 minecraft:quartz_stairs 4
+setblock ~29~23~47 minecraft:quartz_stairs 4
+fill ~29~24~47 ~32~24~48 minecraft:quartz_block 2
+fill ~30~23~47 ~31~23~47 minecraft:quartz_stairs 6
+fill ~32~23~47 ~32~23~48 minecraft:quartz_stairs 5
+fill ~33~24~47 ~34~24~47 minecraft:quartz_stairs 6
+setblock ~153~24~47 minecraft:quartz_stairs 6
+setblock ~154~24~47 minecraft:quartz_stairs 4
+setblock ~155~23~47 minecraft:quartz_stairs 4
+fill ~155~24~47 ~158~24~48 minecraft:quartz_block 2
+fill ~156~23~47 ~157~23~47 minecraft:quartz_stairs 6
+fill ~158~23~47 ~158~23~48 minecraft:quartz_stairs 5
+fill ~159~24~47 ~160~24~47 minecraft:quartz_stairs 6
+setblock ~174~24~47 minecraft:quartz_stairs 6
+setblock ~175~24~47 minecraft:quartz_stairs 4
+setblock ~176~23~47 minecraft:quartz_stairs 4
+fill ~176~24~47 ~179~24~48 minecraft:quartz_block 2
+fill ~177~23~47 ~178~23~47 minecraft:quartz_stairs 6
+fill ~179~23~47 ~179~23~48 minecraft:quartz_stairs 5
+fill ~180~24~47 ~181~24~47 minecraft:quartz_stairs 6
+setblock ~181~46~47 minecraft:stone_block_slab 14
+setblock ~182~47~47 minecraft:double_stone_block_slab 5
+setblock ~5~46~48 minecraft:stone_block_slab 13
+setblock ~5~47~48 minecraft:stone_block_slab 5
+fill ~6~24~48 ~6~24~51 minecraft:quartz_stairs 4
+fill ~6~46~48 ~181~46~48 minecraft:double_stone_block_slab 6
+setblock ~7~23~48 minecraft:quartz_stairs 6
+fill ~7~24~48 ~7~24~51 minecraft:quartz_block 2
+fill ~9~3~48 ~10~23~48 minecraft:quartz_block 2
+setblock ~11~23~48 minecraft:quartz_stairs 6
+fill ~12~23~48 ~12~23~50 minecraft:quartz_stairs 5
+fill ~12~24~48 ~12~24~51 minecraft:quartz_block 2
+fill ~13~24~48 ~13~24~51 minecraft:quartz_stairs 5
+fill ~27~24~48 ~27~24~51 minecraft:quartz_stairs 4
+fill ~28~23~48 ~29~23~48 minecraft:quartz_stairs 6
+fill ~28~24~48 ~28~24~51 minecraft:quartz_block 2
+fill ~30~3~48 ~31~23~48 minecraft:quartz_block 2
+setblock ~33~23~48 minecraft:quartz_stairs 6
+fill ~33~24~48 ~33~24~51 minecraft:quartz_block 2
+fill ~34~24~48 ~34~24~51 minecraft:quartz_stairs 5
+fill ~153~24~48 ~153~24~51 minecraft:quartz_stairs 4
+fill ~154~23~48 ~155~23~48 minecraft:quartz_stairs 6
+fill ~154~24~48 ~154~24~51 minecraft:quartz_block 2
+fill ~156~3~48 ~157~23~48 minecraft:quartz_block 2
+setblock ~159~23~48 minecraft:quartz_stairs 6
+fill ~159~24~48 ~159~24~51 minecraft:quartz_block 2
+fill ~160~24~48 ~160~24~51 minecraft:quartz_stairs 5
+fill ~174~24~48 ~174~24~51 minecraft:quartz_stairs 4
+fill ~175~23~48 ~176~23~48 minecraft:quartz_stairs 6
+fill ~175~24~48 ~175~24~51 minecraft:quartz_block 2
+fill ~177~3~48 ~178~23~48 minecraft:quartz_block 2
+setblock ~180~23~48 minecraft:quartz_stairs 6
+fill ~180~24~48 ~180~24~51 minecraft:quartz_block 2
+fill ~181~24~48 ~181~24~51 minecraft:quartz_stairs 5
+setblock ~182~46~48 minecraft:stone_block_slab 13
+setblock ~182~47~48 minecraft:stone_block_slab 5
+setblock ~5~46~49 minecraft:double_stone_block_slab 5
+setblock ~6~45~49 minecraft:stone_block_slab 14
+fill ~6~46~49 ~181~46~49 minecraft:stone_block_slab 6
+fill ~7~23~49 ~7~23~50 minecraft:quartz_stairs 4
+fill ~7~26~49 ~7~27~50 minecraft:stained_hardened_clay 11
+fill ~8~3~49 ~8~24~50 minecraft:quartz_block 2
+fill ~8~45~49 ~179~45~49 minecraft:stone_block_slab 14
+fill ~11~3~49 ~11~24~50 minecraft:quartz_block 2
+fill ~28~23~49 ~28~23~51 minecraft:quartz_stairs 4
+fill ~29~3~49 ~29~24~50 minecraft:quartz_block 2
+fill ~32~3~49 ~32~24~50 minecraft:quartz_block 2
+fill ~33~23~49 ~33~23~50 minecraft:quartz_stairs 5
+fill ~154~23~49 ~154~23~51 minecraft:quartz_stairs 4
+fill ~155~3~49 ~155~24~50 minecraft:quartz_block 2
+fill ~158~3~49 ~158~24~50 minecraft:quartz_block 2
+fill ~159~23~49 ~159~23~50 minecraft:quartz_stairs 5
+fill ~175~23~49 ~175~23~51 minecraft:quartz_stairs 4
+fill ~176~3~49 ~176~24~50 minecraft:quartz_block 2
+fill ~179~3~49 ~179~24~50 minecraft:quartz_block 2
+fill ~180~23~49 ~180~23~50 minecraft:quartz_stairs 5
+fill ~180~26~49 ~180~27~50 minecraft:stained_hardened_clay 11
+setblock ~181~45~49 minecraft:stone_block_slab 14
+setblock ~182~46~49 minecraft:double_stone_block_slab 5
+setblock ~5~45~50 minecraft:stone_block_slab 13
+setblock ~5~46~50 minecraft:stone_block_slab 5
+fill ~6~45~50 ~181~45~50 minecraft:double_stone_block_slab 6
+fill ~68~3~50 ~70~4~50 minecraft:nether_brick_fence
+fill ~68~5~50 ~70~5~50 minecraft:stone_block_slab 6
+fill ~76~3~50 ~78~4~50 minecraft:nether_brick_fence
+fill ~76~5~50 ~78~5~50 minecraft:stone_block_slab 6
+fill ~84~3~50 ~86~4~50 minecraft:nether_brick_fence
+fill ~84~5~50 ~86~5~50 minecraft:stone_block_slab 6
+fill ~92~3~50 ~94~4~50 minecraft:nether_brick_fence
+fill ~92~5~50 ~94~5~50 minecraft:stone_block_slab 6
+fill ~100~3~50 ~102~4~50 minecraft:nether_brick_fence
+fill ~100~5~50 ~102~5~50 minecraft:stone_block_slab 6
+fill ~108~3~50 ~110~4~50 minecraft:nether_brick_fence
+fill ~108~5~50 ~110~5~50 minecraft:stone_block_slab 6
+fill ~116~3~50 ~118~4~50 minecraft:nether_brick_fence
+fill ~116~5~50 ~118~5~50 minecraft:stone_block_slab 6
+fill ~124~3~50 ~126~4~50 minecraft:nether_brick_fence
+fill ~124~5~50 ~126~5~50 minecraft:stone_block_slab 6
+setblock ~182~45~50 minecraft:stone_block_slab 13
+setblock ~182~46~50 minecraft:stone_block_slab 5
+setblock ~5~45~51 minecraft:double_stone_block_slab 5
+setblock ~6~44~51 minecraft:stone_block_slab 14
+fill ~6~45~51 ~181~45~51 minecraft:stone_block_slab 6
+setblock ~7~23~51 minecraft:quartz_stairs 7
+fill ~7~26~51 ~7~27~53 minecraft:quartz_block 0
+fill ~8~23~51 ~8~23~52 minecraft:quartz_stairs 4
+fill ~8~24~51 ~11~24~52 minecraft:quartz_block 2
+fill ~8~44~51 ~179~44~51 minecraft:stone_block_slab 14
+fill ~9~3~51 ~10~23~51 minecraft:quartz_block 2
+fill ~11~23~51 ~12~23~51 minecraft:quartz_stairs 7
+setblock ~29~23~51 minecraft:quartz_stairs 7
+fill ~29~24~51 ~32~24~52 minecraft:quartz_block 2
+fill ~30~3~51 ~31~23~51 minecraft:quartz_block 2
+fill ~32~23~51 ~32~23~52 minecraft:quartz_stairs 5
+setblock ~33~23~51 minecraft:quartz_stairs 7
+setblock ~63~24~51 minecraft:quartz_stairs 4
+fill ~64~24~51 ~66~24~51 minecraft:quartz_stairs 6
+setblock ~67~24~51 minecraft:quartz_stairs 5
+fill ~68~3~51 ~68~4~52 minecraft:nether_brick_fence
+fill ~68~5~51 ~68~5~52 minecraft:stone_block_slab 6
+fill ~69~3~51 ~69~4~51 minecraft:netherrack
+setblock ~69~5~51 minecraft:fire 15
+fill ~70~3~51 ~70~4~52 minecraft:nether_brick_fence
+fill ~70~5~51 ~70~5~52 minecraft:stone_block_slab 6
+setblock ~71~24~51 minecraft:quartz_stairs 4
+fill ~72~24~51 ~74~24~51 minecraft:quartz_stairs 6
+setblock ~75~24~51 minecraft:quartz_stairs 5
+fill ~76~3~51 ~76~4~52 minecraft:nether_brick_fence
+fill ~76~5~51 ~76~5~52 minecraft:stone_block_slab 6
+fill ~77~3~51 ~77~4~51 minecraft:netherrack
+setblock ~77~5~51 minecraft:fire 15
+fill ~78~3~51 ~78~4~52 minecraft:nether_brick_fence
+fill ~78~5~51 ~78~5~52 minecraft:stone_block_slab 6
+setblock ~79~24~51 minecraft:quartz_stairs 4
+fill ~80~24~51 ~82~24~51 minecraft:quartz_stairs 6
+setblock ~83~24~51 minecraft:quartz_stairs 5
+fill ~84~3~51 ~84~4~52 minecraft:nether_brick_fence
+fill ~84~5~51 ~84~5~52 minecraft:stone_block_slab 6
+fill ~85~3~51 ~85~4~51 minecraft:netherrack
+setblock ~85~5~51 minecraft:fire 15
+fill ~86~3~51 ~86~4~52 minecraft:nether_brick_fence
+fill ~86~5~51 ~86~5~52 minecraft:stone_block_slab 6
+setblock ~87~24~51 minecraft:quartz_stairs 4
+fill ~88~24~51 ~90~24~51 minecraft:quartz_stairs 6
+setblock ~91~24~51 minecraft:quartz_stairs 5
+fill ~92~3~51 ~92~4~52 minecraft:nether_brick_fence
+fill ~92~5~51 ~92~5~52 minecraft:stone_block_slab 6
+fill ~93~3~51 ~93~4~51 minecraft:netherrack
+setblock ~93~5~51 minecraft:fire 15
+fill ~94~3~51 ~94~4~52 minecraft:nether_brick_fence
+fill ~94~5~51 ~94~5~52 minecraft:stone_block_slab 6
+setblock ~95~24~51 minecraft:quartz_stairs 4
+fill ~96~24~51 ~98~24~51 minecraft:quartz_stairs 6
+setblock ~99~24~51 minecraft:quartz_stairs 5
+fill ~100~3~51 ~100~4~52 minecraft:nether_brick_fence
+fill ~100~5~51 ~100~5~52 minecraft:stone_block_slab 6
+fill ~101~3~51 ~101~4~51 minecraft:netherrack
+setblock ~101~5~51 minecraft:fire 15
+fill ~102~3~51 ~102~4~52 minecraft:nether_brick_fence
+fill ~102~5~51 ~102~5~52 minecraft:stone_block_slab 6
+setblock ~103~24~51 minecraft:quartz_stairs 4
+fill ~104~24~51 ~106~24~51 minecraft:quartz_stairs 6
+setblock ~107~24~51 minecraft:quartz_stairs 5
+fill ~108~3~51 ~108~4~52 minecraft:nether_brick_fence
+fill ~108~5~51 ~108~5~52 minecraft:stone_block_slab 6
+fill ~109~3~51 ~109~4~51 minecraft:netherrack
+setblock ~109~5~51 minecraft:fire 15
+fill ~110~3~51 ~110~4~52 minecraft:nether_brick_fence
+fill ~110~5~51 ~110~5~52 minecraft:stone_block_slab 6
+setblock ~111~24~51 minecraft:quartz_stairs 4
+fill ~112~24~51 ~114~24~51 minecraft:quartz_stairs 6
+setblock ~115~24~51 minecraft:quartz_stairs 5
+fill ~116~3~51 ~116~4~52 minecraft:nether_brick_fence
+fill ~116~5~51 ~116~5~52 minecraft:stone_block_slab 6
+fill ~117~3~51 ~117~4~51 minecraft:netherrack
+setblock ~117~5~51 minecraft:fire 15
+fill ~118~3~51 ~118~4~52 minecraft:nether_brick_fence
+fill ~118~5~51 ~118~5~52 minecraft:stone_block_slab 6
+setblock ~119~24~51 minecraft:quartz_stairs 4
+fill ~120~24~51 ~122~24~51 minecraft:quartz_stairs 6
+setblock ~123~24~51 minecraft:quartz_stairs 5
+fill ~124~3~51 ~124~4~52 minecraft:nether_brick_fence
+fill ~124~5~51 ~124~5~52 minecraft:stone_block_slab 6
+fill ~125~3~51 ~125~4~51 minecraft:netherrack
+setblock ~125~5~51 minecraft:fire 15
+fill ~126~3~51 ~126~4~52 minecraft:nether_brick_fence
+fill ~126~5~51 ~126~5~52 minecraft:stone_block_slab 6
+fill ~135~3~51 ~136~24~64 minecraft:quartz_block 0
+setblock ~155~23~51 minecraft:quartz_stairs 7
+fill ~155~24~51 ~158~24~52 minecraft:quartz_block 2
+fill ~156~3~51 ~157~23~51 minecraft:quartz_block 2
+fill ~158~23~51 ~158~23~52 minecraft:quartz_stairs 5
+setblock ~159~23~51 minecraft:quartz_stairs 7
+setblock ~176~23~51 minecraft:quartz_stairs 7
+fill ~176~24~51 ~179~24~52 minecraft:quartz_block 2
+fill ~177~3~51 ~178~23~51 minecraft:quartz_block 2
+fill ~179~23~51 ~179~23~52 minecraft:quartz_stairs 5
+setblock ~180~23~51 minecraft:quartz_stairs 7
+fill ~180~26~51 ~180~27~53 minecraft:quartz_block 0
+setblock ~181~44~51 minecraft:stone_block_slab 14
+setblock ~182~45~51 minecraft:double_stone_block_slab 5
+setblock ~5~44~52 minecraft:stone_block_slab 13
+setblock ~5~45~52 minecraft:stone_block_slab 5
+fill ~6~24~52 ~7~24~52 minecraft:quartz_stairs 7
+fill ~6~44~52 ~181~44~52 minecraft:double_stone_block_slab 6
+fill ~9~23~52 ~10~23~52 minecraft:quartz_stairs 7
+setblock ~11~23~52 minecraft:quartz_stairs 5
+setblock ~12~24~52 minecraft:quartz_stairs 5
+setblock ~13~24~52 minecraft:quartz_stairs 7
+setblock ~27~24~52 minecraft:quartz_stairs 7
+fill ~28~24~52 ~28~24~53 minecraft:quartz_stairs 4
+setblock ~29~23~52 minecraft:quartz_stairs 4
+fill ~30~23~52 ~31~23~52 minecraft:quartz_stairs 7
+fill ~33~24~52 ~33~24~53 minecraft:quartz_stairs 5
+setblock ~34~24~52 minecraft:quartz_stairs 7
+fill ~62~24~52 ~63~24~52 minecraft:quartz_stairs 6
+setblock ~64~23~52 minecraft:quartz_stairs 4
+fill ~64~24~52 ~66~24~52 minecraft:quartz_block 0
+fill ~65~23~52 ~66~23~52 minecraft:quartz_stairs 6
+fill ~67~24~52 ~68~24~52 minecraft:quartz_stairs 6
+fill ~69~3~52 ~69~4~52 minecraft:nether_brick_fence
+setblock ~69~5~52 minecraft:stone_block_slab 6
+fill ~70~24~52 ~71~24~52 minecraft:quartz_stairs 6
+setblock ~72~23~52 minecraft:quartz_stairs 4
+fill ~72~24~52 ~74~24~52 minecraft:quartz_block 0
+fill ~73~23~52 ~74~23~52 minecraft:quartz_stairs 6
+fill ~75~24~52 ~76~24~52 minecraft:quartz_stairs 6
+fill ~77~3~52 ~77~4~52 minecraft:nether_brick_fence
+setblock ~77~5~52 minecraft:stone_block_slab 6
+fill ~78~24~52 ~79~24~52 minecraft:quartz_stairs 6
+setblock ~80~23~52 minecraft:quartz_stairs 4
+fill ~80~24~52 ~82~24~52 minecraft:quartz_block 0
+fill ~81~23~52 ~82~23~52 minecraft:quartz_stairs 6
+fill ~83~24~52 ~84~24~52 minecraft:quartz_stairs 6
+fill ~85~3~52 ~85~4~52 minecraft:nether_brick_fence
+setblock ~85~5~52 minecraft:stone_block_slab 6
+fill ~86~24~52 ~87~24~52 minecraft:quartz_stairs 6
+setblock ~88~23~52 minecraft:quartz_stairs 4
+fill ~88~24~52 ~90~24~52 minecraft:quartz_block 0
+fill ~89~23~52 ~90~23~52 minecraft:quartz_stairs 6
+fill ~91~24~52 ~92~24~52 minecraft:quartz_stairs 6
+fill ~93~3~52 ~93~4~52 minecraft:nether_brick_fence
+setblock ~93~5~52 minecraft:stone_block_slab 6
+fill ~94~24~52 ~95~24~52 minecraft:quartz_stairs 6
+setblock ~96~23~52 minecraft:quartz_stairs 4
+fill ~96~24~52 ~98~24~52 minecraft:quartz_block 0
+fill ~97~23~52 ~98~23~52 minecraft:quartz_stairs 6
+fill ~99~24~52 ~100~24~52 minecraft:quartz_stairs 6
+fill ~101~3~52 ~101~4~52 minecraft:nether_brick_fence
+setblock ~101~5~52 minecraft:stone_block_slab 6
+fill ~102~24~52 ~103~24~52 minecraft:quartz_stairs 6
+setblock ~104~23~52 minecraft:quartz_stairs 4
+fill ~104~24~52 ~106~24~52 minecraft:quartz_block 0
+fill ~105~23~52 ~106~23~52 minecraft:quartz_stairs 6
+fill ~107~24~52 ~108~24~52 minecraft:quartz_stairs 6
+fill ~109~3~52 ~109~4~52 minecraft:nether_brick_fence
+setblock ~109~5~52 minecraft:stone_block_slab 6
+fill ~110~24~52 ~111~24~52 minecraft:quartz_stairs 6
+setblock ~112~23~52 minecraft:quartz_stairs 4
+fill ~112~24~52 ~114~24~52 minecraft:quartz_block 0
+fill ~113~23~52 ~114~23~52 minecraft:quartz_stairs 6
+fill ~115~24~52 ~116~24~52 minecraft:quartz_stairs 6
+fill ~117~3~52 ~117~4~52 minecraft:nether_brick_fence
+setblock ~117~5~52 minecraft:stone_block_slab 6
+fill ~118~24~52 ~119~24~52 minecraft:quartz_stairs 6
+setblock ~120~23~52 minecraft:quartz_stairs 4
+fill ~120~24~52 ~122~24~52 minecraft:quartz_block 0
+fill ~121~23~52 ~122~23~52 minecraft:quartz_stairs 6
+fill ~123~24~52 ~124~24~52 minecraft:quartz_stairs 6
+fill ~125~3~52 ~125~4~52 minecraft:nether_brick_fence
+setblock ~125~5~52 minecraft:stone_block_slab 6
+setblock ~153~24~52 minecraft:quartz_stairs 7
+fill ~154~24~52 ~154~24~53 minecraft:quartz_stairs 4
+setblock ~155~23~52 minecraft:quartz_stairs 4
+fill ~156~23~52 ~157~23~52 minecraft:quartz_stairs 7
+fill ~159~24~52 ~159~24~53 minecraft:quartz_stairs 5
+setblock ~160~24~52 minecraft:quartz_stairs 7
+setblock ~174~24~52 minecraft:quartz_stairs 7
+fill ~175~24~52 ~175~24~53 minecraft:quartz_stairs 4
+setblock ~176~23~52 minecraft:quartz_stairs 4
+fill ~177~23~52 ~178~23~52 minecraft:quartz_stairs 7
+fill ~180~24~52 ~180~24~53 minecraft:quartz_stairs 5
+setblock ~181~24~52 minecraft:quartz_stairs 7
+setblock ~182~44~52 minecraft:stone_block_slab 13
+setblock ~182~45~52 minecraft:stone_block_slab 5
+setblock ~5~44~53 minecraft:double_stone_block_slab 5
+setblock ~6~43~53 minecraft:stone_block_slab 14
+fill ~6~44~53 ~181~44~53 minecraft:stone_block_slab 6
+setblock ~7~24~53 minecraft:quartz_stairs 4
+fill ~8~24~53 ~12~24~53 minecraft:quartz_stairs 7
+fill ~8~43~53 ~179~43~53 minecraft:stone_block_slab 14
+fill ~29~24~53 ~32~24~53 minecraft:quartz_stairs 7
+fill ~53~3~53 ~54~24~55 minecraft:quartz_block 0
+fill ~62~24~53 ~62~24~55 minecraft:quartz_stairs 4
+fill ~63~23~53 ~63~23~54 minecraft:quartz_stairs 4
+fill ~63~24~53 ~63~24~55 minecraft:quartz_block 0
+setblock ~64~23~53 minecraft:quartz_stairs 6
+fill ~65~3~53 ~65~24~53 minecraft:quartz_block 2
+setblock ~66~23~53 minecraft:quartz_stairs 5
+setblock ~67~23~53 minecraft:quartz_stairs 6
+fill ~67~24~53 ~67~24~55 minecraft:quartz_block 0
+fill ~68~24~53 ~68~24~55 minecraft:quartz_stairs 5
+fill ~70~24~53 ~70~24~55 minecraft:quartz_stairs 4
+fill ~71~23~53 ~71~23~54 minecraft:quartz_stairs 4
+fill ~71~24~53 ~71~24~55 minecraft:quartz_block 0
+setblock ~72~23~53 minecraft:quartz_stairs 6
+fill ~73~3~53 ~73~24~53 minecraft:quartz_block 2
+setblock ~74~23~53 minecraft:quartz_stairs 5
+setblock ~75~23~53 minecraft:quartz_stairs 6
+fill ~75~24~53 ~75~24~55 minecraft:quartz_block 0
+fill ~76~24~53 ~76~24~55 minecraft:quartz_stairs 5
+fill ~78~24~53 ~78~24~55 minecraft:quartz_stairs 4
+fill ~79~23~53 ~79~23~54 minecraft:quartz_stairs 4
+fill ~79~24~53 ~79~24~55 minecraft:quartz_block 0
+setblock ~80~23~53 minecraft:quartz_stairs 6
+fill ~81~3~53 ~81~24~53 minecraft:quartz_block 2
+setblock ~82~23~53 minecraft:quartz_stairs 5
+setblock ~83~23~53 minecraft:quartz_stairs 6
+fill ~83~24~53 ~83~24~55 minecraft:quartz_block 0
+fill ~84~24~53 ~84~24~55 minecraft:quartz_stairs 5
+fill ~86~24~53 ~86~24~55 minecraft:quartz_stairs 4
+fill ~87~23~53 ~87~23~54 minecraft:quartz_stairs 4
+fill ~87~24~53 ~87~24~55 minecraft:quartz_block 0
+setblock ~88~23~53 minecraft:quartz_stairs 6
+fill ~89~3~53 ~89~24~53 minecraft:quartz_block 2
+setblock ~90~23~53 minecraft:quartz_stairs 5
+setblock ~91~23~53 minecraft:quartz_stairs 6
+fill ~91~24~53 ~91~24~55 minecraft:quartz_block 0
+fill ~92~24~53 ~92~24~55 minecraft:quartz_stairs 5
+fill ~94~24~53 ~94~24~55 minecraft:quartz_stairs 4
+fill ~95~23~53 ~95~23~54 minecraft:quartz_stairs 4
+fill ~95~24~53 ~95~24~55 minecraft:quartz_block 0
+setblock ~96~23~53 minecraft:quartz_stairs 6
+fill ~97~3~53 ~97~24~53 minecraft:quartz_block 2
+setblock ~98~23~53 minecraft:quartz_stairs 5
+setblock ~99~23~53 minecraft:quartz_stairs 6
+fill ~99~24~53 ~99~24~55 minecraft:quartz_block 0
+fill ~100~24~53 ~100~24~55 minecraft:quartz_stairs 5
+fill ~102~24~53 ~102~24~55 minecraft:quartz_stairs 4
+fill ~103~23~53 ~103~23~54 minecraft:quartz_stairs 4
+fill ~103~24~53 ~103~24~55 minecraft:quartz_block 0
+setblock ~104~23~53 minecraft:quartz_stairs 6
+fill ~105~3~53 ~105~24~53 minecraft:quartz_block 2
+setblock ~106~23~53 minecraft:quartz_stairs 5
+setblock ~107~23~53 minecraft:quartz_stairs 6
+fill ~107~24~53 ~107~24~55 minecraft:quartz_block 0
+fill ~108~24~53 ~108~24~55 minecraft:quartz_stairs 5
+fill ~110~24~53 ~110~24~55 minecraft:quartz_stairs 4
+fill ~111~23~53 ~111~23~54 minecraft:quartz_stairs 4
+fill ~111~24~53 ~111~24~55 minecraft:quartz_block 0
+setblock ~112~23~53 minecraft:quartz_stairs 6
+fill ~113~3~53 ~113~24~53 minecraft:quartz_block 2
+setblock ~114~23~53 minecraft:quartz_stairs 5
+setblock ~115~23~53 minecraft:quartz_stairs 6
+fill ~115~24~53 ~115~24~55 minecraft:quartz_block 0
+fill ~116~24~53 ~116~24~55 minecraft:quartz_stairs 5
+fill ~118~24~53 ~118~24~55 minecraft:quartz_stairs 4
+fill ~119~23~53 ~119~23~54 minecraft:quartz_stairs 4
+fill ~119~24~53 ~119~24~55 minecraft:quartz_block 0
+setblock ~120~23~53 minecraft:quartz_stairs 6
+fill ~121~3~53 ~121~24~53 minecraft:quartz_block 2
+setblock ~122~23~53 minecraft:quartz_stairs 5
+setblock ~123~23~53 minecraft:quartz_stairs 6
+fill ~123~24~53 ~123~24~55 minecraft:quartz_block 0
+fill ~124~24~53 ~124~24~55 minecraft:quartz_stairs 5
+fill ~132~3~53 ~134~24~55 minecraft:quartz_block 0
+fill ~155~24~53 ~158~24~53 minecraft:quartz_stairs 7
+fill ~176~24~53 ~179~24~53 minecraft:quartz_stairs 7
+setblock ~181~43~53 minecraft:stone_block_slab 14
+setblock ~182~44~53 minecraft:double_stone_block_slab 5
+setblock ~5~43~54 minecraft:stone_block_slab 13
+setblock ~5~44~54 minecraft:stone_block_slab 5
+fill ~6~43~54 ~181~43~54 minecraft:double_stone_block_slab 6
+fill ~7~26~54 ~7~27~55 minecraft:stained_hardened_clay 11
+fill ~8~27~54 ~8~27~79 minecraft:quartz_block 0
+fill ~64~3~54 ~64~24~54 minecraft:quartz_block 2
+fill ~66~3~54 ~66~24~54 minecraft:quartz_block 2
+setblock ~67~23~54 minecraft:quartz_stairs 5
+fill ~72~3~54 ~72~24~54 minecraft:quartz_block 2
+fill ~74~3~54 ~74~24~54 minecraft:quartz_block 2
+setblock ~75~23~54 minecraft:quartz_stairs 5
+fill ~80~3~54 ~80~24~54 minecraft:quartz_block 2
+fill ~82~3~54 ~82~24~54 minecraft:quartz_block 2
+setblock ~83~23~54 minecraft:quartz_stairs 5
+fill ~88~3~54 ~88~24~54 minecraft:quartz_block 2
+fill ~90~3~54 ~90~24~54 minecraft:quartz_block 2
+setblock ~91~23~54 minecraft:quartz_stairs 5
+fill ~96~3~54 ~96~24~54 minecraft:quartz_block 2
+fill ~98~3~54 ~98~24~54 minecraft:quartz_block 2
+setblock ~99~23~54 minecraft:quartz_stairs 5
+fill ~104~3~54 ~104~24~54 minecraft:quartz_block 2
+fill ~106~3~54 ~106~24~54 minecraft:quartz_block 2
+setblock ~107~23~54 minecraft:quartz_stairs 5
+fill ~112~3~54 ~112~24~54 minecraft:quartz_block 2
+fill ~114~3~54 ~114~24~54 minecraft:quartz_block 2
+setblock ~115~23~54 minecraft:quartz_stairs 5
+fill ~120~3~54 ~120~24~54 minecraft:quartz_block 2
+fill ~122~3~54 ~122~24~54 minecraft:quartz_block 2
+setblock ~123~23~54 minecraft:quartz_stairs 5
+fill ~180~26~54 ~180~27~55 minecraft:stained_hardened_clay 11
+setblock ~182~43~54 minecraft:stone_block_slab 13
+setblock ~182~44~54 minecraft:stone_block_slab 5
+setblock ~5~43~55 minecraft:double_stone_block_slab 5
+setblock ~6~42~55 minecraft:stone_block_slab 14
+fill ~6~43~55 ~181~43~55 minecraft:stone_block_slab 6
+fill ~8~42~55 ~179~42~55 minecraft:stone_block_slab 14
+fill ~63~23~55 ~64~23~55 minecraft:quartz_stairs 7
+fill ~65~3~55 ~65~24~55 minecraft:quartz_block 2
+fill ~66~23~55 ~67~23~55 minecraft:quartz_stairs 7
+fill ~71~23~55 ~72~23~55 minecraft:quartz_stairs 7
+fill ~73~3~55 ~73~24~55 minecraft:quartz_block 2
+fill ~74~23~55 ~75~23~55 minecraft:quartz_stairs 7
+fill ~79~23~55 ~80~23~55 minecraft:quartz_stairs 7
+fill ~81~3~55 ~81~24~55 minecraft:quartz_block 2
+fill ~82~23~55 ~83~23~55 minecraft:quartz_stairs 7
+fill ~87~23~55 ~88~23~55 minecraft:quartz_stairs 7
+fill ~89~3~55 ~89~24~55 minecraft:quartz_block 2
+fill ~90~23~55 ~91~23~55 minecraft:quartz_stairs 7
+fill ~95~23~55 ~96~23~55 minecraft:quartz_stairs 7
+fill ~97~3~55 ~97~24~55 minecraft:quartz_block 2
+fill ~98~23~55 ~99~23~55 minecraft:quartz_stairs 7
+fill ~103~23~55 ~104~23~55 minecraft:quartz_stairs 7
+fill ~105~3~55 ~105~24~55 minecraft:quartz_block 2
+fill ~106~23~55 ~107~23~55 minecraft:quartz_stairs 7
+fill ~111~23~55 ~112~23~55 minecraft:quartz_stairs 7
+fill ~113~3~55 ~113~24~55 minecraft:quartz_block 2
+fill ~114~23~55 ~115~23~55 minecraft:quartz_stairs 7
+fill ~119~23~55 ~120~23~55 minecraft:quartz_stairs 7
+fill ~121~3~55 ~121~24~55 minecraft:quartz_block 2
+fill ~122~23~55 ~123~23~55 minecraft:quartz_stairs 7
+setblock ~181~42~55 minecraft:stone_block_slab 14
+setblock ~182~43~55 minecraft:double_stone_block_slab 5
+setblock ~5~42~56 minecraft:stone_block_slab 13
+setblock ~5~43~56 minecraft:stone_block_slab 5
+fill ~6~42~56 ~181~42~56 minecraft:double_stone_block_slab 6
+fill ~7~26~56 ~7~27~58 minecraft:quartz_block 0
+setblock ~62~24~56 minecraft:quartz_stairs 7
+fill ~63~24~56 ~63~24~57 minecraft:quartz_stairs 4
+setblock ~64~23~56 minecraft:quartz_stairs 4
+fill ~64~24~56 ~66~24~56 minecraft:quartz_block 0
+setblock ~65~23~56 minecraft:quartz_stairs 7
+setblock ~66~23~56 minecraft:quartz_stairs 5
+fill ~67~24~56 ~68~24~56 minecraft:quartz_stairs 7
+setblock ~70~24~56 minecraft:quartz_stairs 7
+fill ~71~24~56 ~71~24~57 minecraft:quartz_stairs 4
+setblock ~72~23~56 minecraft:quartz_stairs 4
+fill ~72~24~56 ~74~24~56 minecraft:quartz_block 0
+setblock ~73~23~56 minecraft:quartz_stairs 7
+setblock ~74~23~56 minecraft:quartz_stairs 5
+fill ~75~24~56 ~76~24~56 minecraft:quartz_stairs 7
+setblock ~78~24~56 minecraft:quartz_stairs 7
+fill ~79~24~56 ~79~24~57 minecraft:quartz_stairs 4
+setblock ~80~23~56 minecraft:quartz_stairs 4
+fill ~80~24~56 ~82~24~56 minecraft:quartz_block 0
+setblock ~81~23~56 minecraft:quartz_stairs 7
+setblock ~82~23~56 minecraft:quartz_stairs 5
+fill ~83~24~56 ~84~24~56 minecraft:quartz_stairs 7
+setblock ~86~24~56 minecraft:quartz_stairs 7
+fill ~87~24~56 ~87~24~57 minecraft:quartz_stairs 4
+setblock ~88~23~56 minecraft:quartz_stairs 4
+fill ~88~24~56 ~90~24~56 minecraft:quartz_block 0
+setblock ~89~23~56 minecraft:quartz_stairs 7
+setblock ~90~23~56 minecraft:quartz_stairs 5
+fill ~91~24~56 ~92~24~56 minecraft:quartz_stairs 7
+setblock ~94~24~56 minecraft:quartz_stairs 7
+fill ~95~24~56 ~95~24~57 minecraft:quartz_stairs 4
+setblock ~96~23~56 minecraft:quartz_stairs 4
+fill ~96~24~56 ~98~24~56 minecraft:quartz_block 0
+setblock ~97~23~56 minecraft:quartz_stairs 7
+setblock ~98~23~56 minecraft:quartz_stairs 5
+fill ~99~24~56 ~100~24~56 minecraft:quartz_stairs 7
+setblock ~102~24~56 minecraft:quartz_stairs 7
+fill ~103~24~56 ~103~24~57 minecraft:quartz_stairs 4
+setblock ~104~23~56 minecraft:quartz_stairs 4
+fill ~104~24~56 ~106~24~56 minecraft:quartz_block 0
+setblock ~105~23~56 minecraft:quartz_stairs 7
+setblock ~106~23~56 minecraft:quartz_stairs 5
+fill ~107~24~56 ~108~24~56 minecraft:quartz_stairs 7
+setblock ~110~24~56 minecraft:quartz_stairs 7
+fill ~111~24~56 ~111~24~57 minecraft:quartz_stairs 4
+setblock ~112~23~56 minecraft:quartz_stairs 4
+fill ~112~24~56 ~114~24~56 minecraft:quartz_block 0
+setblock ~113~23~56 minecraft:quartz_stairs 7
+setblock ~114~23~56 minecraft:quartz_stairs 5
+fill ~115~24~56 ~116~24~56 minecraft:quartz_stairs 7
+setblock ~118~24~56 minecraft:quartz_stairs 7
+fill ~119~24~56 ~119~24~57 minecraft:quartz_stairs 4
+setblock ~120~23~56 minecraft:quartz_stairs 4
+fill ~120~24~56 ~122~24~56 minecraft:quartz_block 0
+setblock ~121~23~56 minecraft:quartz_stairs 7
+setblock ~122~23~56 minecraft:quartz_stairs 5
+fill ~123~24~56 ~124~24~56 minecraft:quartz_stairs 7
+fill ~180~26~56 ~180~27~58 minecraft:quartz_block 0
+setblock ~182~42~56 minecraft:stone_block_slab 13
+setblock ~182~43~56 minecraft:stone_block_slab 5
+setblock ~5~42~57 minecraft:double_stone_block_slab 5
+setblock ~6~41~57 minecraft:stone_block_slab 14
+fill ~6~42~57 ~181~42~57 minecraft:stone_block_slab 6
+fill ~8~41~57 ~179~41~57 minecraft:stone_block_slab 14
+fill ~64~24~57 ~66~24~57 minecraft:quartz_stairs 7
+setblock ~67~24~57 minecraft:quartz_stairs 5
+fill ~72~24~57 ~74~24~57 minecraft:quartz_stairs 7
+setblock ~75~24~57 minecraft:quartz_stairs 5
+fill ~80~24~57 ~82~24~57 minecraft:quartz_stairs 7
+setblock ~83~24~57 minecraft:quartz_stairs 5
+fill ~88~24~57 ~90~24~57 minecraft:quartz_stairs 7
+setblock ~91~24~57 minecraft:quartz_stairs 5
+fill ~96~24~57 ~98~24~57 minecraft:quartz_stairs 7
+setblock ~99~24~57 minecraft:quartz_stairs 5
+fill ~104~24~57 ~106~24~57 minecraft:quartz_stairs 7
+setblock ~107~24~57 minecraft:quartz_stairs 5
+fill ~112~24~57 ~114~24~57 minecraft:quartz_stairs 7
+setblock ~115~24~57 minecraft:quartz_stairs 5
+fill ~120~24~57 ~122~24~57 minecraft:quartz_stairs 7
+setblock ~123~24~57 minecraft:quartz_stairs 5
+setblock ~181~41~57 minecraft:stone_block_slab 14
+setblock ~182~42~57 minecraft:double_stone_block_slab 5
+setblock ~5~41~58 minecraft:stone_block_slab 13
+setblock ~5~42~58 minecraft:stone_block_slab 5
+fill ~6~41~58 ~8~41~58 minecraft:double_stone_block_slab 6
+fill ~9~41~58 ~179~41~58 minecraft:quartz_block 0
+setblock ~180~41~58 minecraft:double_stone_block_slab 6
+setblock ~181~41~58 minecraft:quartz_block 0
+setblock ~182~41~58 minecraft:stone_block_slab 13
+setblock ~182~42~58 minecraft:stone_block_slab 5
+setblock ~5~41~59 minecraft:double_stone_block_slab 5
+setblock ~6~40~59 minecraft:stone_block_slab 14
+fill ~6~41~59 ~181~41~59 minecraft:stone_block_slab 6
+fill ~7~26~59 ~7~27~60 minecraft:stained_hardened_clay 11
+fill ~8~40~59 ~179~40~59 minecraft:stone_block_slab 14
+fill ~180~26~59 ~180~27~60 minecraft:stained_hardened_clay 11
+setblock ~181~40~59 minecraft:stone_block_slab 14
+setblock ~182~41~59 minecraft:double_stone_block_slab 5
+setblock ~5~40~60 minecraft:stone_block_slab 13
+setblock ~5~41~60 minecraft:stone_block_slab 5
+fill ~6~40~60 ~8~40~60 minecraft:double_stone_block_slab 6
+fill ~7~24~60 ~7~24~61 minecraft:quartz_stairs 4
+fill ~8~24~60 ~11~24~60 minecraft:quartz_stairs 6
+fill ~9~40~60 ~179~40~60 minecraft:quartz_block 0
+fill ~12~24~60 ~12~24~61 minecraft:quartz_stairs 5
+fill ~30~3~60 ~31~24~64 minecraft:quartz_block 0
+fill ~156~3~60 ~157~24~64 minecraft:quartz_block 0
+fill ~175~24~60 ~179~24~60 minecraft:quartz_stairs 6
+setblock ~180~24~60 minecraft:quartz_stairs 5
+setblock ~180~40~60 minecraft:stone_block_slab 14
+setblock ~181~40~60 minecraft:quartz_block 0
+setblock ~182~40~60 minecraft:stone_block_slab 13
+setblock ~182~41~60 minecraft:stone_block_slab 5
+setblock ~5~40~61 minecraft:double_stone_block_slab 5
+setblock ~6~24~61 minecraft:quartz_stairs 6
+setblock ~6~39~61 minecraft:stone_block_slab 14
+fill ~6~40~61 ~181~40~61 minecraft:stone_block_slab 6
+fill ~7~26~61 ~7~27~63 minecraft:quartz_block 0
+fill ~8~23~61 ~8~23~62 minecraft:quartz_stairs 4
+fill ~8~24~61 ~11~24~62 minecraft:quartz_block 2
+fill ~8~39~61 ~179~39~61 minecraft:stone_block_slab 14
+fill ~9~23~61 ~10~23~61 minecraft:quartz_stairs 6
+setblock ~11~23~61 minecraft:quartz_stairs 5
+setblock ~13~24~61 minecraft:quartz_stairs 6
+setblock ~174~24~61 minecraft:quartz_stairs 6
+setblock ~175~24~61 minecraft:quartz_stairs 4
+setblock ~176~23~61 minecraft:quartz_stairs 4
+fill ~176~24~61 ~179~24~62 minecraft:quartz_block 2
+fill ~177~23~61 ~178~23~61 minecraft:quartz_stairs 6
+fill ~179~23~61 ~179~23~62 minecraft:quartz_stairs 5
+fill ~180~24~61 ~181~24~61 minecraft:quartz_stairs 6
+fill ~180~26~61 ~180~27~63 minecraft:quartz_block 0
+setblock ~181~39~61 minecraft:stone_block_slab 14
+setblock ~182~40~61 minecraft:double_stone_block_slab 5
+setblock ~5~39~62 minecraft:stone_block_slab 13
+setblock ~5~40~62 minecraft:stone_block_slab 5
+fill ~6~24~62 ~6~24~65 minecraft:quartz_stairs 4
+fill ~6~39~62 ~8~39~62 minecraft:double_stone_block_slab 6
+setblock ~7~23~62 minecraft:quartz_stairs 6
+fill ~7~24~62 ~7~24~65 minecraft:quartz_block 2
+fill ~9~3~62 ~10~23~62 minecraft:quartz_block 2
+fill ~9~39~62 ~179~39~62 minecraft:quartz_block 0
+setblock ~11~23~62 minecraft:quartz_stairs 6
+fill ~12~23~62 ~12~23~64 minecraft:quartz_stairs 5
+fill ~12~24~62 ~12~24~65 minecraft:quartz_block 2
+fill ~13~24~62 ~13~24~65 minecraft:quartz_stairs 5
+fill ~174~24~62 ~174~24~65 minecraft:quartz_stairs 4
+fill ~175~23~62 ~176~23~62 minecraft:quartz_stairs 6
+fill ~175~24~62 ~175~24~65 minecraft:quartz_block 2
+fill ~177~3~62 ~178~23~62 minecraft:quartz_block 2
+setblock ~180~23~62 minecraft:quartz_stairs 6
+fill ~180~24~62 ~180~24~65 minecraft:quartz_block 2
+setblock ~180~39~62 minecraft:stone_block_slab 14
+fill ~181~24~62 ~181~24~65 minecraft:quartz_stairs 5
+setblock ~181~39~62 minecraft:quartz_block 0
+setblock ~182~39~62 minecraft:stone_block_slab 13
+setblock ~182~40~62 minecraft:stone_block_slab 5
+setblock ~5~39~63 minecraft:double_stone_block_slab 5
+setblock ~6~38~63 minecraft:stone_block_slab 14
+fill ~6~39~63 ~181~39~63 minecraft:stone_block_slab 6
+fill ~7~23~63 ~7~23~64 minecraft:quartz_stairs 4
+fill ~8~3~63 ~8~24~64 minecraft:quartz_block 2
+fill ~8~38~63 ~179~38~63 minecraft:stone_block_slab 14
+fill ~11~3~63 ~11~24~64 minecraft:quartz_block 2
+fill ~32~3~63 ~50~24~64 minecraft:quartz_block 0
+fill ~53~3~63 ~134~24~64 minecraft:quartz_block 0
+fill ~137~3~63 ~155~24~64 minecraft:quartz_block 0
+fill ~175~23~63 ~175~23~65 minecraft:quartz_stairs 4
+fill ~176~3~63 ~176~24~64 minecraft:quartz_block 2
+fill ~179~3~63 ~179~24~64 minecraft:quartz_block 2
+fill ~180~23~63 ~180~23~64 minecraft:quartz_stairs 5
+setblock ~181~38~63 minecraft:stone_block_slab 14
+setblock ~182~39~63 minecraft:double_stone_block_slab 5
+setblock ~5~38~64 minecraft:stone_block_slab 13
+setblock ~5~39~64 minecraft:stone_block_slab 5
+fill ~6~38~64 ~8~38~64 minecraft:double_stone_block_slab 6
+fill ~7~26~64 ~7~27~65 minecraft:stained_hardened_clay 11
+fill ~9~38~64 ~179~38~64 minecraft:quartz_block 0
+fill ~180~26~64 ~180~27~65 minecraft:stained_hardened_clay 11
+setblock ~180~38~64 minecraft:stone_block_slab 14
+setblock ~181~38~64 minecraft:quartz_block 0
+setblock ~182~38~64 minecraft:stone_block_slab 13
+setblock ~182~39~64 minecraft:stone_block_slab 5
+setblock ~5~38~65 minecraft:double_stone_block_slab 5
+setblock ~6~37~65 minecraft:stone_block_slab 14
+fill ~6~38~65 ~181~38~65 minecraft:stone_block_slab 6
+setblock ~7~23~65 minecraft:quartz_stairs 7
+fill ~8~23~65 ~8~23~66 minecraft:quartz_stairs 4
+fill ~8~24~65 ~11~24~66 minecraft:quartz_block 2
+fill ~8~37~65 ~179~37~65 minecraft:stone_block_slab 14
+fill ~9~3~65 ~10~23~65 minecraft:quartz_block 2
+fill ~11~23~65 ~12~23~65 minecraft:quartz_stairs 7
+setblock ~176~23~65 minecraft:quartz_stairs 7
+fill ~176~24~65 ~179~24~66 minecraft:quartz_block 2
+fill ~177~3~65 ~178~23~65 minecraft:quartz_block 2
+fill ~179~23~65 ~179~23~66 minecraft:quartz_stairs 5
+setblock ~180~23~65 minecraft:quartz_stairs 7
+setblock ~181~37~65 minecraft:stone_block_slab 14
+setblock ~182~38~65 minecraft:double_stone_block_slab 5
+setblock ~5~37~66 minecraft:stone_block_slab 13
+setblock ~5~38~66 minecraft:stone_block_slab 5
+fill ~6~24~66 ~7~24~66 minecraft:quartz_stairs 7
+fill ~6~37~66 ~8~37~66 minecraft:double_stone_block_slab 6
+fill ~7~26~66 ~7~27~68 minecraft:quartz_block 0
+fill ~9~23~66 ~10~23~66 minecraft:quartz_stairs 7
+fill ~9~37~66 ~179~37~66 minecraft:quartz_block 0
+setblock ~11~23~66 minecraft:quartz_stairs 5
+setblock ~12~24~66 minecraft:quartz_stairs 5
+setblock ~13~24~66 minecraft:quartz_stairs 7
+setblock ~174~24~66 minecraft:quartz_stairs 7
+fill ~175~24~66 ~175~24~67 minecraft:quartz_stairs 4
+setblock ~176~23~66 minecraft:quartz_stairs 4
+fill ~177~23~66 ~178~23~66 minecraft:quartz_stairs 7
+fill ~180~24~66 ~180~24~67 minecraft:quartz_stairs 5
+fill ~180~26~66 ~180~27~68 minecraft:quartz_block 0
+setblock ~180~37~66 minecraft:double_stone_block_slab 6
+setblock ~181~24~66 minecraft:quartz_stairs 7
+setblock ~181~37~66 minecraft:quartz_block 0
+setblock ~182~37~66 minecraft:stone_block_slab 13
+setblock ~182~38~66 minecraft:stone_block_slab 5
+setblock ~5~37~67 minecraft:double_stone_block_slab 5
+setblock ~6~36~67 minecraft:stone_block_slab 14
+fill ~6~37~67 ~181~37~67 minecraft:stone_block_slab 6
+setblock ~7~24~67 minecraft:quartz_stairs 4
+fill ~8~24~67 ~12~24~67 minecraft:quartz_stairs 7
+fill ~8~36~67 ~179~36~67 minecraft:stone_block_slab 14
+fill ~176~24~67 ~179~24~67 minecraft:quartz_stairs 7
+setblock ~181~36~67 minecraft:stone_block_slab 14
+setblock ~182~37~67 minecraft:double_stone_block_slab 5
+setblock ~5~36~68 minecraft:stone_block_slab 13
+setblock ~5~37~68 minecraft:stone_block_slab 5
+fill ~6~36~68 ~8~36~68 minecraft:double_stone_block_slab 6
+fill ~9~36~68 ~179~36~68 minecraft:quartz_block 0
+setblock ~180~36~68 minecraft:double_stone_block_slab 6
+setblock ~181~36~68 minecraft:quartz_block 0
+setblock ~182~36~68 minecraft:stone_block_slab 13
+setblock ~182~37~68 minecraft:stone_block_slab 5
+setblock ~5~36~69 minecraft:double_stone_block_slab 5
+setblock ~6~35~69 minecraft:stone_block_slab 14
+fill ~6~36~69 ~181~36~69 minecraft:stone_block_slab 6
+fill ~7~26~69 ~7~27~70 minecraft:stained_hardened_clay 11
+fill ~8~35~69 ~179~35~69 minecraft:stone_block_slab 14
+fill ~180~26~69 ~180~27~70 minecraft:stained_hardened_clay 11
+setblock ~181~35~69 minecraft:stone_block_slab 14
+setblock ~182~36~69 minecraft:double_stone_block_slab 5
+setblock ~5~35~70 minecraft:stone_block_slab 13
+setblock ~5~36~70 minecraft:stone_block_slab 5
+setblock ~6~35~70 minecraft:quartz_block 0
+setblock ~7~35~70 minecraft:double_stone_block_slab 6
+fill ~8~35~70 ~179~35~70 minecraft:quartz_block 0
+setblock ~180~35~70 minecraft:stone_block_slab 14
+setblock ~181~35~70 minecraft:quartz_block 0
+setblock ~182~35~70 minecraft:stone_block_slab 13
+setblock ~182~36~70 minecraft:stone_block_slab 5
+setblock ~5~35~71 minecraft:double_stone_block_slab 5
+setblock ~6~34~71 minecraft:stone_block_slab 14
+fill ~6~35~71 ~181~35~71 minecraft:stone_block_slab 6
+fill ~7~26~71 ~7~27~73 minecraft:quartz_block 0
+fill ~8~34~71 ~179~34~71 minecraft:stone_block_slab 14
+fill ~180~26~71 ~180~27~73 minecraft:quartz_block 0
+setblock ~181~34~71 minecraft:stone_block_slab 14
+setblock ~182~35~71 minecraft:double_stone_block_slab 5
+setblock ~5~34~72 minecraft:stone_block_slab 13
+setblock ~5~35~72 minecraft:stone_block_slab 5
+setblock ~6~34~72 minecraft:quartz_block 0
+setblock ~7~34~72 minecraft:double_stone_block_slab 6
+fill ~8~34~72 ~179~34~72 minecraft:quartz_block 0
+setblock ~180~34~72 minecraft:double_stone_block_slab 6
+setblock ~181~34~72 minecraft:quartz_block 0
+setblock ~182~34~72 minecraft:stone_block_slab 13
+setblock ~182~35~72 minecraft:stone_block_slab 5
+setblock ~5~34~73 minecraft:double_stone_block_slab 5
+setblock ~6~33~73 minecraft:stone_block_slab 14
+fill ~6~34~73 ~181~34~73 minecraft:stone_block_slab 6
+fill ~8~33~73 ~179~33~73 minecraft:stone_block_slab 14
+setblock ~181~33~73 minecraft:stone_block_slab 14
+setblock ~182~34~73 minecraft:double_stone_block_slab 5
+setblock ~5~33~74 minecraft:stone_block_slab 13
+setblock ~5~34~74 minecraft:stone_block_slab 5
+setblock ~6~33~74 minecraft:quartz_block 0
+fill ~7~24~74 ~7~24~75 minecraft:quartz_stairs 4
+fill ~7~26~74 ~7~27~75 minecraft:stained_hardened_clay 11
+setblock ~7~33~74 minecraft:double_stone_block_slab 6
+fill ~8~24~74 ~11~24~74 minecraft:quartz_stairs 6
+fill ~8~33~74 ~179~33~74 minecraft:quartz_block 0
+fill ~12~24~74 ~12~24~75 minecraft:quartz_stairs 5
+fill ~21~24~74 ~21~24~75 minecraft:quartz_stairs 4
+fill ~22~24~74 ~25~24~74 minecraft:quartz_stairs 6
+setblock ~26~24~74 minecraft:quartz_stairs 5
+fill ~35~24~74 ~35~24~75 minecraft:quartz_stairs 4
+fill ~36~24~74 ~39~24~74 minecraft:quartz_stairs 6
+setblock ~40~24~74 minecraft:quartz_stairs 5
+fill ~49~24~74 ~49~24~75 minecraft:quartz_stairs 4
+fill ~50~24~74 ~53~24~74 minecraft:quartz_stairs 6
+setblock ~54~24~74 minecraft:quartz_stairs 5
+fill ~63~24~74 ~63~24~75 minecraft:quartz_stairs 4
+fill ~64~24~74 ~67~24~74 minecraft:quartz_stairs 6
+setblock ~68~24~74 minecraft:quartz_stairs 5
+fill ~77~24~74 ~77~24~75 minecraft:quartz_stairs 4
+fill ~78~24~74 ~81~24~74 minecraft:quartz_stairs 6
+setblock ~82~24~74 minecraft:quartz_stairs 5
+fill ~91~24~74 ~91~24~75 minecraft:quartz_stairs 4
+fill ~92~24~74 ~95~24~74 minecraft:quartz_stairs 6
+setblock ~96~24~74 minecraft:quartz_stairs 5
+fill ~105~24~74 ~105~24~75 minecraft:quartz_stairs 4
+fill ~106~24~74 ~109~24~74 minecraft:quartz_stairs 6
+setblock ~110~24~74 minecraft:quartz_stairs 5
+fill ~119~24~74 ~119~24~75 minecraft:quartz_stairs 4
+fill ~120~24~74 ~123~24~74 minecraft:quartz_stairs 6
+setblock ~124~24~74 minecraft:quartz_stairs 5
+fill ~133~24~74 ~133~24~75 minecraft:quartz_stairs 4
+fill ~134~24~74 ~137~24~74 minecraft:quartz_stairs 6
+setblock ~138~24~74 minecraft:quartz_stairs 5
+fill ~147~24~74 ~147~24~75 minecraft:quartz_stairs 4
+fill ~148~24~74 ~151~24~74 minecraft:quartz_stairs 6
+setblock ~152~24~74 minecraft:quartz_stairs 5
+fill ~161~24~74 ~161~24~75 minecraft:quartz_stairs 4
+fill ~162~24~74 ~165~24~74 minecraft:quartz_stairs 6
+setblock ~166~24~74 minecraft:quartz_stairs 5
+fill ~175~24~74 ~179~24~74 minecraft:quartz_stairs 6
+setblock ~180~24~74 minecraft:quartz_stairs 5
+fill ~180~26~74 ~180~27~75 minecraft:stained_hardened_clay 11
+setblock ~180~33~74 minecraft:double_stone_block_slab 6
+setblock ~181~33~74 minecraft:quartz_block 0
+setblock ~182~33~74 minecraft:stone_block_slab 13
+setblock ~182~34~74 minecraft:stone_block_slab 5
+setblock ~5~33~75 minecraft:double_stone_block_slab 5
+setblock ~6~24~75 minecraft:quartz_stairs 6
+setblock ~6~32~75 minecraft:stone_block_slab 14
+fill ~6~33~75 ~181~33~75 minecraft:stone_block_slab 6
+fill ~8~23~75 ~8~23~76 minecraft:quartz_stairs 4
+fill ~8~24~75 ~11~24~76 minecraft:quartz_block 2
+fill ~8~32~75 ~179~32~75 minecraft:stone_block_slab 14
+fill ~9~23~75 ~10~23~75 minecraft:quartz_stairs 6
+setblock ~11~23~75 minecraft:quartz_stairs 5
+setblock ~13~24~75 minecraft:quartz_stairs 6
+setblock ~20~24~75 minecraft:quartz_stairs 6
+setblock ~22~23~75 minecraft:quartz_stairs 4
+fill ~22~24~75 ~25~24~76 minecraft:quartz_block 2
+fill ~23~23~75 ~24~23~75 minecraft:quartz_stairs 6
+setblock ~25~23~75 minecraft:quartz_stairs 5
+fill ~26~24~75 ~27~24~75 minecraft:quartz_stairs 6
+setblock ~34~24~75 minecraft:quartz_stairs 6
+setblock ~36~23~75 minecraft:quartz_stairs 4
+fill ~36~24~75 ~39~24~76 minecraft:quartz_block 2
+fill ~37~23~75 ~38~23~75 minecraft:quartz_stairs 6
+setblock ~39~23~75 minecraft:quartz_stairs 5
+fill ~40~24~75 ~41~24~75 minecraft:quartz_stairs 6
+setblock ~48~24~75 minecraft:quartz_stairs 6
+setblock ~50~23~75 minecraft:quartz_stairs 4
+fill ~50~24~75 ~53~24~76 minecraft:quartz_block 2
+fill ~51~23~75 ~52~23~75 minecraft:quartz_stairs 6
+setblock ~53~23~75 minecraft:quartz_stairs 5
+fill ~54~24~75 ~55~24~75 minecraft:quartz_stairs 6
+setblock ~62~24~75 minecraft:quartz_stairs 6
+setblock ~64~23~75 minecraft:quartz_stairs 4
+fill ~64~24~75 ~67~24~76 minecraft:quartz_block 2
+fill ~65~23~75 ~66~23~75 minecraft:quartz_stairs 6
+setblock ~67~23~75 minecraft:quartz_stairs 5
+fill ~68~24~75 ~69~24~75 minecraft:quartz_stairs 6
+setblock ~76~24~75 minecraft:quartz_stairs 6
+setblock ~78~23~75 minecraft:quartz_stairs 4
+fill ~78~24~75 ~81~24~76 minecraft:quartz_block 2
+fill ~79~23~75 ~80~23~75 minecraft:quartz_stairs 6
+setblock ~81~23~75 minecraft:quartz_stairs 5
+fill ~82~24~75 ~83~24~75 minecraft:quartz_stairs 6
+setblock ~90~24~75 minecraft:quartz_stairs 6
+setblock ~92~23~75 minecraft:quartz_stairs 4
+fill ~92~24~75 ~95~24~76 minecraft:quartz_block 2
+fill ~93~23~75 ~94~23~75 minecraft:quartz_stairs 6
+setblock ~95~23~75 minecraft:quartz_stairs 5
+fill ~96~24~75 ~97~24~75 minecraft:quartz_stairs 6
+setblock ~104~24~75 minecraft:quartz_stairs 6
+setblock ~106~23~75 minecraft:quartz_stairs 4
+fill ~106~24~75 ~109~24~76 minecraft:quartz_block 2
+fill ~107~23~75 ~108~23~75 minecraft:quartz_stairs 6
+setblock ~109~23~75 minecraft:quartz_stairs 5
+fill ~110~24~75 ~111~24~75 minecraft:quartz_stairs 6
+setblock ~118~24~75 minecraft:quartz_stairs 6
+setblock ~120~23~75 minecraft:quartz_stairs 4
+fill ~120~24~75 ~123~24~76 minecraft:quartz_block 2
+fill ~121~23~75 ~122~23~75 minecraft:quartz_stairs 6
+setblock ~123~23~75 minecraft:quartz_stairs 5
+fill ~124~24~75 ~125~24~75 minecraft:quartz_stairs 6
+setblock ~132~24~75 minecraft:quartz_stairs 6
+setblock ~134~23~75 minecraft:quartz_stairs 4
+fill ~134~24~75 ~137~24~76 minecraft:quartz_block 2
+fill ~135~23~75 ~136~23~75 minecraft:quartz_stairs 6
+setblock ~137~23~75 minecraft:quartz_stairs 5
+fill ~138~24~75 ~139~24~75 minecraft:quartz_stairs 6
+setblock ~146~24~75 minecraft:quartz_stairs 6
+setblock ~148~23~75 minecraft:quartz_stairs 4
+fill ~148~24~75 ~151~24~76 minecraft:quartz_block 2
+fill ~149~23~75 ~150~23~75 minecraft:quartz_stairs 6
+setblock ~151~23~75 minecraft:quartz_stairs 5
+fill ~152~24~75 ~153~24~75 minecraft:quartz_stairs 6
+setblock ~160~24~75 minecraft:quartz_stairs 6
+setblock ~162~23~75 minecraft:quartz_stairs 4
+fill ~162~24~75 ~165~24~76 minecraft:quartz_block 2
+fill ~163~23~75 ~164~23~75 minecraft:quartz_stairs 6
+setblock ~165~23~75 minecraft:quartz_stairs 5
+fill ~166~24~75 ~167~24~75 minecraft:quartz_stairs 6
+setblock ~174~24~75 minecraft:quartz_stairs 6
+setblock ~175~24~75 minecraft:quartz_stairs 4
+setblock ~176~23~75 minecraft:quartz_stairs 4
+fill ~176~24~75 ~179~24~76 minecraft:quartz_block 2
+fill ~177~23~75 ~178~23~75 minecraft:quartz_stairs 6
+fill ~179~23~75 ~179~23~76 minecraft:quartz_stairs 5
+fill ~180~24~75 ~181~24~75 minecraft:quartz_stairs 6
+setblock ~181~32~75 minecraft:stone_block_slab 14
+setblock ~182~33~75 minecraft:double_stone_block_slab 5
+setblock ~5~32~76 minecraft:stone_block_slab 13
+setblock ~5~33~76 minecraft:stone_block_slab 5
+fill ~6~24~76 ~6~24~79 minecraft:quartz_stairs 4
+setblock ~6~32~76 minecraft:quartz_block 0
+setblock ~7~23~76 minecraft:quartz_stairs 6
+fill ~7~24~76 ~7~24~79 minecraft:quartz_block 2
+fill ~7~26~76 ~7~27~78 minecraft:quartz_block 0
+setblock ~7~32~76 minecraft:double_stone_block_slab 6
+fill ~8~32~76 ~179~32~76 minecraft:quartz_block 0
+fill ~9~3~76 ~10~23~76 minecraft:quartz_block 2
+setblock ~11~23~76 minecraft:quartz_stairs 6
+fill ~12~23~76 ~12~23~78 minecraft:quartz_stairs 5
+fill ~12~24~76 ~12~24~79 minecraft:quartz_block 2
+fill ~13~24~76 ~13~24~79 minecraft:quartz_stairs 5
+fill ~20~24~76 ~20~24~80 minecraft:quartz_stairs 4
+fill ~21~23~76 ~22~23~76 minecraft:quartz_stairs 6
+fill ~21~24~76 ~21~24~79 minecraft:quartz_block 2
+fill ~23~3~76 ~24~23~76 minecraft:quartz_block 2
+fill ~25~23~76 ~26~23~76 minecraft:quartz_stairs 6
+fill ~26~24~76 ~26~24~79 minecraft:quartz_block 2
+fill ~27~24~76 ~27~24~79 minecraft:quartz_stairs 5
+fill ~34~24~76 ~34~24~80 minecraft:quartz_stairs 4
+fill ~35~23~76 ~36~23~76 minecraft:quartz_stairs 6
+fill ~35~24~76 ~35~24~79 minecraft:quartz_block 2
+fill ~37~3~76 ~38~23~76 minecraft:quartz_block 2
+fill ~39~23~76 ~40~23~76 minecraft:quartz_stairs 6
+fill ~40~24~76 ~40~24~79 minecraft:quartz_block 2
+fill ~41~24~76 ~41~24~79 minecraft:quartz_stairs 5
+fill ~48~24~76 ~48~24~80 minecraft:quartz_stairs 4
+fill ~49~23~76 ~50~23~76 minecraft:quartz_stairs 6
+fill ~49~24~76 ~49~24~79 minecraft:quartz_block 2
+fill ~51~3~76 ~52~23~76 minecraft:quartz_block 2
+fill ~53~23~76 ~54~23~76 minecraft:quartz_stairs 6
+fill ~54~24~76 ~54~24~79 minecraft:quartz_block 2
+fill ~55~24~76 ~55~24~79 minecraft:quartz_stairs 5
+fill ~62~24~76 ~62~24~80 minecraft:quartz_stairs 4
+fill ~63~23~76 ~64~23~76 minecraft:quartz_stairs 6
+fill ~63~24~76 ~63~24~79 minecraft:quartz_block 2
+fill ~65~3~76 ~66~23~76 minecraft:quartz_block 2
+fill ~67~23~76 ~68~23~76 minecraft:quartz_stairs 6
+fill ~68~24~76 ~68~24~79 minecraft:quartz_block 2
+fill ~69~24~76 ~69~24~79 minecraft:quartz_stairs 5
+fill ~76~24~76 ~76~24~80 minecraft:quartz_stairs 4
+fill ~77~23~76 ~78~23~76 minecraft:quartz_stairs 6
+fill ~77~24~76 ~77~24~79 minecraft:quartz_block 2
+fill ~79~3~76 ~80~23~76 minecraft:quartz_block 2
+fill ~81~23~76 ~82~23~76 minecraft:quartz_stairs 6
+fill ~82~24~76 ~82~24~79 minecraft:quartz_block 2
+fill ~83~24~76 ~83~24~79 minecraft:quartz_stairs 5
+fill ~90~24~76 ~90~24~80 minecraft:quartz_stairs 4
+fill ~91~23~76 ~92~23~76 minecraft:quartz_stairs 6
+fill ~91~24~76 ~91~24~79 minecraft:quartz_block 2
+fill ~93~3~76 ~94~23~76 minecraft:quartz_block 2
+fill ~95~23~76 ~96~23~76 minecraft:quartz_stairs 6
+fill ~96~24~76 ~96~24~79 minecraft:quartz_block 2
+fill ~97~24~76 ~97~24~79 minecraft:quartz_stairs 5
+fill ~104~24~76 ~104~24~80 minecraft:quartz_stairs 4
+fill ~105~23~76 ~106~23~76 minecraft:quartz_stairs 6
+fill ~105~24~76 ~105~24~79 minecraft:quartz_block 2
+fill ~107~3~76 ~108~23~76 minecraft:quartz_block 2
+fill ~109~23~76 ~110~23~76 minecraft:quartz_stairs 6
+fill ~110~24~76 ~110~24~79 minecraft:quartz_block 2
+fill ~111~24~76 ~111~24~79 minecraft:quartz_stairs 5
+fill ~118~24~76 ~118~24~80 minecraft:quartz_stairs 4
+fill ~119~23~76 ~120~23~76 minecraft:quartz_stairs 6
+fill ~119~24~76 ~119~24~79 minecraft:quartz_block 2
+fill ~121~3~76 ~122~23~76 minecraft:quartz_block 2
+fill ~123~23~76 ~124~23~76 minecraft:quartz_stairs 6
+fill ~124~24~76 ~124~24~79 minecraft:quartz_block 2
+fill ~125~24~76 ~125~24~79 minecraft:quartz_stairs 5
+fill ~132~24~76 ~132~24~80 minecraft:quartz_stairs 4
+fill ~133~23~76 ~134~23~76 minecraft:quartz_stairs 6
+fill ~133~24~76 ~133~24~79 minecraft:quartz_block 2
+fill ~135~3~76 ~136~23~76 minecraft:quartz_block 2
+fill ~137~23~76 ~138~23~76 minecraft:quartz_stairs 6
+fill ~138~24~76 ~138~24~79 minecraft:quartz_block 2
+fill ~139~24~76 ~139~24~79 minecraft:quartz_stairs 5
+fill ~146~24~76 ~146~24~80 minecraft:quartz_stairs 4
+fill ~147~23~76 ~148~23~76 minecraft:quartz_stairs 6
+fill ~147~24~76 ~147~24~79 minecraft:quartz_block 2
+fill ~149~3~76 ~150~23~76 minecraft:quartz_block 2
+fill ~151~23~76 ~152~23~76 minecraft:quartz_stairs 6
+fill ~152~24~76 ~152~24~79 minecraft:quartz_block 2
+fill ~153~24~76 ~153~24~79 minecraft:quartz_stairs 5
+fill ~160~24~76 ~160~24~80 minecraft:quartz_stairs 4
+fill ~161~23~76 ~162~23~76 minecraft:quartz_stairs 6
+fill ~161~24~76 ~161~24~79 minecraft:quartz_block 2
+fill ~163~3~76 ~164~23~76 minecraft:quartz_block 2
+fill ~165~23~76 ~166~23~76 minecraft:quartz_stairs 6
+fill ~166~24~76 ~166~24~79 minecraft:quartz_block 2
+fill ~167~24~76 ~167~24~79 minecraft:quartz_stairs 5
+fill ~174~24~76 ~174~24~79 minecraft:quartz_stairs 4
+fill ~175~23~76 ~176~23~76 minecraft:quartz_stairs 6
+fill ~175~24~76 ~175~24~79 minecraft:quartz_block 2
+fill ~177~3~76 ~178~23~76 minecraft:quartz_block 2
+setblock ~180~23~76 minecraft:quartz_stairs 6
+fill ~180~24~76 ~180~24~79 minecraft:quartz_block 2
+fill ~180~26~76 ~180~27~78 minecraft:quartz_block 0
+setblock ~180~32~76 minecraft:double_stone_block_slab 6
+fill ~181~24~76 ~181~24~79 minecraft:quartz_stairs 5
+setblock ~181~32~76 minecraft:quartz_block 0
+setblock ~182~32~76 minecraft:stone_block_slab 13
+setblock ~182~33~76 minecraft:stone_block_slab 5
+setblock ~5~32~77 minecraft:double_stone_block_slab 5
+setblock ~6~31~77 minecraft:stone_block_slab 14
+fill ~6~32~77 ~181~32~77 minecraft:stone_block_slab 6
+fill ~7~23~77 ~7~23~78 minecraft:quartz_stairs 4
+fill ~8~3~77 ~8~24~78 minecraft:quartz_block 2
+fill ~8~31~77 ~179~31~77 minecraft:stone_block_slab 14
+fill ~11~3~77 ~11~24~78 minecraft:quartz_block 2
+fill ~21~23~77 ~21~23~78 minecraft:quartz_stairs 4
+fill ~22~3~77 ~22~24~78 minecraft:quartz_block 2
+fill ~25~3~77 ~25~24~78 minecraft:quartz_block 2
+fill ~26~23~77 ~26~23~78 minecraft:quartz_stairs 5
+fill ~35~23~77 ~35~23~78 minecraft:quartz_stairs 4
+fill ~36~3~77 ~36~24~78 minecraft:quartz_block 2
+fill ~39~3~77 ~39~24~78 minecraft:quartz_block 2
+fill ~40~23~77 ~40~23~78 minecraft:quartz_stairs 5
+fill ~49~23~77 ~49~23~78 minecraft:quartz_stairs 4
+fill ~50~3~77 ~50~24~78 minecraft:quartz_block 2
+fill ~53~3~77 ~53~24~78 minecraft:quartz_block 2
+fill ~54~23~77 ~54~23~78 minecraft:quartz_stairs 5
+fill ~63~23~77 ~63~23~78 minecraft:quartz_stairs 4
+fill ~64~3~77 ~64~24~78 minecraft:quartz_block 2
+fill ~67~3~77 ~67~24~78 minecraft:quartz_block 2
+fill ~68~23~77 ~68~23~78 minecraft:quartz_stairs 5
+fill ~77~23~77 ~77~23~78 minecraft:quartz_stairs 4
+fill ~78~3~77 ~78~24~78 minecraft:quartz_block 2
+fill ~81~3~77 ~81~24~78 minecraft:quartz_block 2
+fill ~82~23~77 ~82~23~78 minecraft:quartz_stairs 5
+fill ~91~23~77 ~91~23~78 minecraft:quartz_stairs 4
+fill ~92~3~77 ~92~24~78 minecraft:quartz_block 2
+fill ~95~3~77 ~95~24~78 minecraft:quartz_block 2
+fill ~96~23~77 ~96~23~78 minecraft:quartz_stairs 5
+fill ~105~23~77 ~105~23~78 minecraft:quartz_stairs 4
+fill ~106~3~77 ~106~24~78 minecraft:quartz_block 2
+fill ~109~3~77 ~109~24~78 minecraft:quartz_block 2
+fill ~110~23~77 ~110~23~78 minecraft:quartz_stairs 5
+fill ~119~23~77 ~119~23~78 minecraft:quartz_stairs 4
+fill ~120~3~77 ~120~24~78 minecraft:quartz_block 2
+fill ~123~3~77 ~123~24~78 minecraft:quartz_block 2
+fill ~124~23~77 ~124~23~78 minecraft:quartz_stairs 5
+fill ~133~23~77 ~133~23~78 minecraft:quartz_stairs 4
+fill ~134~3~77 ~134~24~78 minecraft:quartz_block 2
+fill ~137~3~77 ~137~24~78 minecraft:quartz_block 2
+fill ~138~23~77 ~138~23~78 minecraft:quartz_stairs 5
+fill ~147~23~77 ~147~23~78 minecraft:quartz_stairs 4
+fill ~148~3~77 ~148~24~78 minecraft:quartz_block 2
+fill ~151~3~77 ~151~24~78 minecraft:quartz_block 2
+fill ~152~23~77 ~152~23~78 minecraft:quartz_stairs 5
+fill ~161~23~77 ~161~23~78 minecraft:quartz_stairs 4
+fill ~162~3~77 ~162~24~78 minecraft:quartz_block 2
+fill ~165~3~77 ~165~24~78 minecraft:quartz_block 2
+fill ~166~23~77 ~166~23~78 minecraft:quartz_stairs 5
+fill ~175~23~77 ~175~23~79 minecraft:quartz_stairs 4
+fill ~176~3~77 ~176~24~78 minecraft:quartz_block 2
+fill ~179~3~77 ~179~24~78 minecraft:quartz_block 2
+fill ~180~23~77 ~180~23~78 minecraft:quartz_stairs 5
+setblock ~181~31~77 minecraft:stone_block_slab 14
+setblock ~182~32~77 minecraft:double_stone_block_slab 5
+setblock ~5~31~78 minecraft:stone_block_slab 13
+setblock ~5~32~78 minecraft:stone_block_slab 5
+fill ~6~31~78 ~8~31~79 minecraft:double_stone_block_slab 6
+fill ~9~31~78 ~179~31~78 minecraft:quartz_block 0
+fill ~180~31~78 ~180~31~79 minecraft:double_stone_block_slab 6
+setblock ~181~31~78 minecraft:quartz_block 0
+setblock ~182~31~78 minecraft:stone_block_slab 13
+setblock ~182~32~78 minecraft:stone_block_slab 5
+setblock ~5~31~79 minecraft:double_stone_block_slab 5
+setblock ~6~30~79 minecraft:stone_block_slab 14
+fill ~6~32~79 ~8~32~79 minecraft:nether_brick_fence
+fill ~6~33~79 ~8~33~79 minecraft:stone_block_slab 6
+setblock ~7~23~79 minecraft:quartz_stairs 7
+fill ~7~26~79 ~7~27~80 minecraft:stained_hardened_clay 11
+fill ~8~23~79 ~8~23~80 minecraft:quartz_stairs 4
+fill ~8~24~79 ~11~24~80 minecraft:quartz_block 2
+fill ~8~30~79 ~179~30~79 minecraft:stone_block_slab 14
+fill ~9~3~79 ~10~23~79 minecraft:quartz_block 2
+fill ~9~31~79 ~178~31~79 minecraft:stone_block_slab 6
+fill ~11~23~79 ~12~23~79 minecraft:quartz_stairs 7
+setblock ~21~23~79 minecraft:quartz_stairs 7
+fill ~22~23~79 ~22~23~80 minecraft:quartz_stairs 4
+fill ~22~24~79 ~25~24~80 minecraft:quartz_block 2
+fill ~23~3~79 ~24~23~79 minecraft:quartz_block 2
+setblock ~25~23~79 minecraft:quartz_stairs 5
+setblock ~26~23~79 minecraft:quartz_stairs 7
+setblock ~35~23~79 minecraft:quartz_stairs 7
+fill ~36~23~79 ~36~23~80 minecraft:quartz_stairs 4
+fill ~36~24~79 ~39~24~80 minecraft:quartz_block 2
+fill ~37~3~79 ~38~23~79 minecraft:quartz_block 2
+setblock ~39~23~79 minecraft:quartz_stairs 5
+setblock ~40~23~79 minecraft:quartz_stairs 7
+setblock ~49~23~79 minecraft:quartz_stairs 7
+fill ~50~23~79 ~50~23~80 minecraft:quartz_stairs 4
+fill ~50~24~79 ~53~24~80 minecraft:quartz_block 2
+fill ~51~3~79 ~52~23~79 minecraft:quartz_block 2
+setblock ~53~23~79 minecraft:quartz_stairs 5
+setblock ~54~23~79 minecraft:quartz_stairs 7
+setblock ~63~23~79 minecraft:quartz_stairs 7
+fill ~64~23~79 ~64~23~80 minecraft:quartz_stairs 4
+fill ~64~24~79 ~67~24~80 minecraft:quartz_block 2
+fill ~65~3~79 ~66~23~79 minecraft:quartz_block 2
+setblock ~67~23~79 minecraft:quartz_stairs 5
+setblock ~68~23~79 minecraft:quartz_stairs 7
+setblock ~77~23~79 minecraft:quartz_stairs 7
+fill ~78~23~79 ~78~23~80 minecraft:quartz_stairs 4
+fill ~78~24~79 ~81~24~80 minecraft:quartz_block 2
+fill ~79~3~79 ~80~23~79 minecraft:quartz_block 2
+setblock ~81~23~79 minecraft:quartz_stairs 5
+setblock ~82~23~79 minecraft:quartz_stairs 7
+setblock ~91~23~79 minecraft:quartz_stairs 7
+fill ~92~23~79 ~92~23~80 minecraft:quartz_stairs 4
+fill ~92~24~79 ~95~24~80 minecraft:quartz_block 2
+fill ~93~3~79 ~94~23~79 minecraft:quartz_block 2
+setblock ~95~23~79 minecraft:quartz_stairs 5
+setblock ~96~23~79 minecraft:quartz_stairs 7
+setblock ~105~23~79 minecraft:quartz_stairs 7
+fill ~106~23~79 ~106~23~80 minecraft:quartz_stairs 4
+fill ~106~24~79 ~109~24~80 minecraft:quartz_block 2
+fill ~107~3~79 ~108~23~79 minecraft:quartz_block 2
+setblock ~109~23~79 minecraft:quartz_stairs 5
+setblock ~110~23~79 minecraft:quartz_stairs 7
+setblock ~119~23~79 minecraft:quartz_stairs 7
+fill ~120~23~79 ~120~23~80 minecraft:quartz_stairs 4
+fill ~120~24~79 ~123~24~80 minecraft:quartz_block 2
+fill ~121~3~79 ~122~23~79 minecraft:quartz_block 2
+setblock ~123~23~79 minecraft:quartz_stairs 5
+setblock ~124~23~79 minecraft:quartz_stairs 7
+setblock ~133~23~79 minecraft:quartz_stairs 7
+fill ~134~23~79 ~134~23~80 minecraft:quartz_stairs 4
+fill ~134~24~79 ~137~24~80 minecraft:quartz_block 2
+fill ~135~3~79 ~136~23~79 minecraft:quartz_block 2
+setblock ~137~23~79 minecraft:quartz_stairs 5
+setblock ~138~23~79 minecraft:quartz_stairs 7
+setblock ~147~23~79 minecraft:quartz_stairs 7
+fill ~148~23~79 ~148~23~80 minecraft:quartz_stairs 4
+fill ~148~24~79 ~151~24~80 minecraft:quartz_block 2
+fill ~149~3~79 ~150~23~79 minecraft:quartz_block 2
+setblock ~151~23~79 minecraft:quartz_stairs 5
+setblock ~152~23~79 minecraft:quartz_stairs 7
+setblock ~161~23~79 minecraft:quartz_stairs 7
+fill ~162~23~79 ~162~23~80 minecraft:quartz_stairs 4
+fill ~162~24~79 ~165~24~80 minecraft:quartz_block 2
+fill ~163~3~79 ~164~23~79 minecraft:quartz_block 2
+setblock ~165~23~79 minecraft:quartz_stairs 5
+setblock ~166~23~79 minecraft:quartz_stairs 7
+setblock ~176~23~79 minecraft:quartz_stairs 7
+fill ~176~24~79 ~179~24~80 minecraft:quartz_block 2
+fill ~177~3~79 ~178~23~79 minecraft:quartz_block 2
+fill ~179~23~79 ~179~23~80 minecraft:quartz_stairs 5
+setblock ~179~31~79 minecraft:double_stone_block_slab 6
+fill ~179~32~79 ~181~32~79 minecraft:nether_brick_fence
+fill ~179~33~79 ~181~33~79 minecraft:stone_block_slab 6
+setblock ~180~23~79 minecraft:quartz_stairs 7
+fill ~180~26~79 ~180~27~80 minecraft:stained_hardened_clay 11
+setblock ~181~30~79 minecraft:stone_block_slab 14
+setblock ~181~31~79 minecraft:double_stone_block_slab 6
+setblock ~182~31~79 minecraft:double_stone_block_slab 5
+setblock ~5~30~80 minecraft:stone_block_slab 13
+setblock ~5~31~80 minecraft:stone_block_slab 5
+fill ~6~24~80 ~7~24~80 minecraft:quartz_stairs 7
+fill ~6~30~80 ~8~30~81 minecraft:double_stone_block_slab 6
+fill ~6~31~80 ~6~32~81 minecraft:nether_brick_fence
+fill ~6~33~80 ~6~33~81 minecraft:stone_block_slab 6
+fill ~7~31~80 ~7~32~80 minecraft:netherrack
+setblock ~7~33~80 minecraft:fire 15
+fill ~8~26~80 ~8~27~80 minecraft:stained_hardened_clay 11
+fill ~8~31~80 ~8~32~81 minecraft:nether_brick_fence
+fill ~8~33~80 ~8~33~81 minecraft:stone_block_slab 6
+fill ~9~23~80 ~10~23~80 minecraft:quartz_stairs 7
+fill ~9~30~80 ~179~30~80 minecraft:quartz_block 0
+setblock ~11~23~80 minecraft:quartz_stairs 5
+setblock ~12~24~80 minecraft:quartz_stairs 5
+fill ~12~26~80 ~13~27~80 minecraft:stained_hardened_clay 11
+setblock ~13~24~80 minecraft:quartz_stairs 7
+fill ~17~26~80 ~18~27~80 minecraft:stained_hardened_clay 11
+setblock ~21~24~80 minecraft:quartz_stairs 7
+fill ~22~26~80 ~23~27~80 minecraft:stained_hardened_clay 11
+fill ~23~23~80 ~25~23~80 minecraft:quartz_stairs 7
+fill ~26~24~80 ~27~24~80 minecraft:quartz_stairs 7
+fill ~27~26~80 ~28~27~80 minecraft:stained_hardened_clay 11
+fill ~32~26~80 ~33~27~80 minecraft:stained_hardened_clay 11
+setblock ~35~24~80 minecraft:quartz_stairs 7
+fill ~37~23~80 ~39~23~80 minecraft:quartz_stairs 7
+fill ~37~26~80 ~38~27~80 minecraft:stained_hardened_clay 11
+fill ~40~24~80 ~41~24~80 minecraft:quartz_stairs 7
+fill ~42~26~80 ~43~27~80 minecraft:stained_hardened_clay 11
+fill ~47~26~80 ~48~27~80 minecraft:stained_hardened_clay 11
+setblock ~49~24~80 minecraft:quartz_stairs 7
+fill ~51~23~80 ~53~23~80 minecraft:quartz_stairs 7
+fill ~52~26~80 ~53~27~80 minecraft:stained_hardened_clay 11
+fill ~54~24~80 ~55~24~80 minecraft:quartz_stairs 7
+fill ~57~26~80 ~58~27~80 minecraft:stained_hardened_clay 11
+fill ~62~26~80 ~63~27~80 minecraft:stained_hardened_clay 11
+setblock ~63~24~80 minecraft:quartz_stairs 7
+fill ~65~23~80 ~67~23~80 minecraft:quartz_stairs 7
+fill ~67~26~80 ~68~27~80 minecraft:stained_hardened_clay 11
+fill ~68~24~80 ~69~24~80 minecraft:quartz_stairs 7
+fill ~72~26~80 ~73~27~80 minecraft:stained_hardened_clay 11
+setblock ~77~24~80 minecraft:quartz_stairs 7
+fill ~77~26~80 ~78~27~80 minecraft:stained_hardened_clay 11
+fill ~79~23~80 ~81~23~80 minecraft:quartz_stairs 7
+fill ~82~24~80 ~83~24~80 minecraft:quartz_stairs 7
+fill ~82~26~80 ~83~27~80 minecraft:stained_hardened_clay 11
+fill ~87~26~80 ~88~27~80 minecraft:stained_hardened_clay 11
+setblock ~91~24~80 minecraft:quartz_stairs 7
+fill ~92~26~80 ~95~27~80 minecraft:stained_hardened_clay 11
+fill ~93~23~80 ~95~23~80 minecraft:quartz_stairs 7
+fill ~96~24~80 ~97~24~80 minecraft:quartz_stairs 7
+fill ~99~26~80 ~100~27~80 minecraft:stained_hardened_clay 11
+fill ~104~26~80 ~105~27~80 minecraft:stained_hardened_clay 11
+setblock ~105~24~80 minecraft:quartz_stairs 7
+fill ~107~23~80 ~109~23~80 minecraft:quartz_stairs 7
+fill ~109~26~80 ~110~27~80 minecraft:stained_hardened_clay 11
+fill ~110~24~80 ~111~24~80 minecraft:quartz_stairs 7
+fill ~114~26~80 ~115~27~80 minecraft:stained_hardened_clay 11
+setblock ~119~24~80 minecraft:quartz_stairs 7
+fill ~119~26~80 ~120~27~80 minecraft:stained_hardened_clay 11
+fill ~121~23~80 ~123~23~80 minecraft:quartz_stairs 7
+fill ~124~24~80 ~125~24~80 minecraft:quartz_stairs 7
+fill ~124~26~80 ~125~27~80 minecraft:stained_hardened_clay 11
+fill ~129~26~80 ~130~27~80 minecraft:stained_hardened_clay 11
+setblock ~133~24~80 minecraft:quartz_stairs 7
+fill ~134~26~80 ~135~27~80 minecraft:stained_hardened_clay 11
+fill ~135~23~80 ~137~23~80 minecraft:quartz_stairs 7
+fill ~138~24~80 ~139~24~80 minecraft:quartz_stairs 7
+fill ~139~26~80 ~140~27~80 minecraft:stained_hardened_clay 11
+fill ~144~26~80 ~145~27~80 minecraft:stained_hardened_clay 11
+setblock ~147~24~80 minecraft:quartz_stairs 7
+fill ~149~23~80 ~151~23~80 minecraft:quartz_stairs 7
+fill ~149~26~80 ~150~27~80 minecraft:stained_hardened_clay 11
+fill ~152~24~80 ~153~24~80 minecraft:quartz_stairs 7
+fill ~154~26~80 ~155~27~80 minecraft:stained_hardened_clay 11
+fill ~159~26~80 ~160~27~80 minecraft:stained_hardened_clay 11
+setblock ~161~24~80 minecraft:quartz_stairs 7
+fill ~163~23~80 ~165~23~80 minecraft:quartz_stairs 7
+fill ~164~26~80 ~165~27~80 minecraft:stained_hardened_clay 11
+fill ~166~24~80 ~167~24~80 minecraft:quartz_stairs 7
+fill ~169~26~80 ~170~27~80 minecraft:stained_hardened_clay 11
+setblock ~174~24~80 minecraft:quartz_stairs 7
+fill ~174~26~80 ~175~27~80 minecraft:stained_hardened_clay 11
+fill ~175~24~80 ~175~24~81 minecraft:quartz_stairs 4
+setblock ~176~23~80 minecraft:quartz_stairs 4
+fill ~177~23~80 ~178~23~80 minecraft:quartz_stairs 7
+fill ~179~26~80 ~179~27~80 minecraft:stained_hardened_clay 11
+fill ~179~31~80 ~179~32~81 minecraft:nether_brick_fence
+fill ~179~33~80 ~179~33~81 minecraft:stone_block_slab 6
+fill ~180~24~80 ~180~24~81 minecraft:quartz_stairs 5
+fill ~180~30~80 ~180~30~81 minecraft:double_stone_block_slab 6
+fill ~180~31~80 ~180~32~80 minecraft:netherrack
+setblock ~180~33~80 minecraft:fire 15
+setblock ~181~24~80 minecraft:quartz_stairs 7
+setblock ~181~30~80 minecraft:quartz_block 0
+fill ~181~31~80 ~181~32~81 minecraft:nether_brick_fence
+fill ~181~33~80 ~181~33~81 minecraft:stone_block_slab 6
+fill ~182~30~80 ~182~30~81 minecraft:stone_block_slab 13
+setblock ~182~31~80 minecraft:stone_block_slab 5
+setblock ~5~30~81 minecraft:double_stone_block_slab 5
+setblock ~7~24~81 minecraft:quartz_stairs 4
+fill ~7~31~81 ~7~32~81 minecraft:nether_brick_fence
+setblock ~7~33~81 minecraft:stone_block_slab 6
+fill ~8~24~81 ~12~24~81 minecraft:quartz_stairs 7
+fill ~9~30~81 ~178~30~81 minecraft:stone_block_slab 6
+setblock ~21~24~81 minecraft:quartz_stairs 4
+fill ~22~24~81 ~25~24~81 minecraft:quartz_stairs 7
+setblock ~26~24~81 minecraft:quartz_stairs 5
+setblock ~35~24~81 minecraft:quartz_stairs 4
+fill ~36~24~81 ~39~24~81 minecraft:quartz_stairs 7
+setblock ~40~24~81 minecraft:quartz_stairs 5
+setblock ~49~24~81 minecraft:quartz_stairs 4
+fill ~50~24~81 ~53~24~81 minecraft:quartz_stairs 7
+setblock ~54~24~81 minecraft:quartz_stairs 5
+setblock ~63~24~81 minecraft:quartz_stairs 4
+fill ~64~24~81 ~67~24~81 minecraft:quartz_stairs 7
+setblock ~68~24~81 minecraft:quartz_stairs 5
+setblock ~77~24~81 minecraft:quartz_stairs 4
+fill ~78~24~81 ~81~24~81 minecraft:quartz_stairs 7
+setblock ~82~24~81 minecraft:quartz_stairs 5
+setblock ~91~24~81 minecraft:quartz_stairs 4
+fill ~92~24~81 ~95~24~81 minecraft:quartz_stairs 7
+setblock ~96~24~81 minecraft:quartz_stairs 5
+setblock ~105~24~81 minecraft:quartz_stairs 4
+fill ~106~24~81 ~109~24~81 minecraft:quartz_stairs 7
+setblock ~110~24~81 minecraft:quartz_stairs 5
+setblock ~119~24~81 minecraft:quartz_stairs 4
+fill ~120~24~81 ~123~24~81 minecraft:quartz_stairs 7
+setblock ~124~24~81 minecraft:quartz_stairs 5
+setblock ~133~24~81 minecraft:quartz_stairs 4
+fill ~134~24~81 ~137~24~81 minecraft:quartz_stairs 7
+setblock ~138~24~81 minecraft:quartz_stairs 5
+setblock ~147~24~81 minecraft:quartz_stairs 4
+fill ~148~24~81 ~151~24~81 minecraft:quartz_stairs 7
+setblock ~152~24~81 minecraft:quartz_stairs 5
+setblock ~161~24~81 minecraft:quartz_stairs 4
+fill ~162~24~81 ~165~24~81 minecraft:quartz_stairs 7
+setblock ~166~24~81 minecraft:quartz_stairs 5
+fill ~176~24~81 ~179~24~81 minecraft:quartz_stairs 7
+setblock ~179~30~81 minecraft:double_stone_block_slab 6
+fill ~180~31~81 ~180~32~81 minecraft:nether_brick_fence
+setblock ~180~33~81 minecraft:stone_block_slab 6
+setblock ~181~30~81 minecraft:double_stone_block_slab 6
+fill ~5~30~82 ~182~30~82 minecraft:stone_block_slab 5

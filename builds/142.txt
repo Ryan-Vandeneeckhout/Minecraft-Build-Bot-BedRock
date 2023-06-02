@@ -1,0 +1,3602 @@
+fill ~11 ~1 ~10 ~11 ~10 ~10 red_nether_brick 0  
+fill ~12 ~1 ~9 ~14 ~1 ~9 wool 0  
+fill ~12 ~1 ~10 ~12 ~1 ~11 wool 0  
+fill ~13 ~1 ~8 ~13 ~10 ~8 red_nether_brick 0  
+fill ~13 ~1 ~10 ~13 ~120 ~10 lava 8  
+fill ~13 ~1 ~11 ~14 ~1 ~11 wool 0  
+fill ~13 ~1 ~12 ~13 ~10 ~12 red_nether_brick 0 
+setblock ~14 ~1 ~10 wool 0  
+fill ~15 ~1 ~10 ~15 ~10 ~10 red_nether_brick 0  
+fill ~12 ~2 ~10 ~12 ~10 ~10 grass_path 4  
+fill ~13 ~2 ~9 ~13 ~10 ~9 grass_path 2  
+fill ~13 ~2 ~11 ~13 ~10 ~11 grass_path 3  
+fill ~14 ~2 ~10 ~14 ~10 ~10 grass_path 5 
+setblock ~10 ~9 ~10 nether_brick_stairs 4 
+setblock ~13 ~9 ~7 nether_brick_stairs 6 
+setblock ~13 ~9 ~13 nether_brick_stairs 7 
+setblock ~16 ~9 ~10 nether_brick_stairs 5  
+fill ~10 ~10 ~10 ~10 ~19 ~10 red_nether_brick 0  
+fill ~13 ~10 ~7 ~13 ~19 ~7 red_nether_brick 0  
+fill ~13 ~10 ~13 ~13 ~19 ~13 red_nether_brick 0  
+fill ~16 ~10 ~10 ~16 ~19 ~10 red_nether_brick 0 
+setblock ~11 ~11 ~10 nether_brick_stairs 1 
+setblock ~13 ~11 ~8 nether_brick_stairs 3 
+setblock ~13 ~11 ~12 nether_brick_stairs 2 
+setblock ~15 ~11 ~10 nether_brick_stairs 0  
+fill ~11 ~12 ~10 ~11 ~19 ~10 grass_path 4  
+fill ~13 ~12 ~8 ~13 ~19 ~8 grass_path 2  
+fill ~13 ~12 ~12 ~13 ~19 ~12 grass_path 3  
+fill ~15 ~12 ~10 ~15 ~19 ~10 grass_path 5 
+setblock ~9 ~18 ~10 nether_brick_stairs 4 
+setblock ~13 ~18 ~6 nether_brick_stairs 6 
+setblock ~13 ~18 ~14 nether_brick_stairs 7 
+setblock ~17 ~18 ~10 nether_brick_stairs 5  
+fill ~9 ~19 ~10 ~9 ~27 ~10 red_nether_brick 0  
+fill ~13 ~19 ~6 ~13 ~27 ~6 red_nether_brick 0  
+fill ~13 ~19 ~14 ~13 ~27 ~14 red_nether_brick 0  
+fill ~17 ~19 ~10 ~17 ~27 ~10 red_nether_brick 0 
+setblock ~10 ~20 ~10 nether_brick_stairs 1 
+setblock ~13 ~20 ~7 nether_brick_stairs 3 
+setblock ~13 ~20 ~13 nether_brick_stairs 2 
+setblock ~16 ~20 ~10 nether_brick_stairs 0  
+fill ~10 ~21 ~10 ~10 ~27 ~10 grass_path 4  
+fill ~13 ~21 ~7 ~13 ~27 ~7 grass_path 2  
+fill ~13 ~21 ~13 ~13 ~27 ~13 grass_path 3  
+fill ~16 ~21 ~10 ~16 ~27 ~10 grass_path 5 
+setblock ~8 ~23 ~10 nether_brick_stairs 4 
+setblock ~13 ~23 ~5 nether_brick_stairs 6 
+setblock ~13 ~23 ~15 nether_brick_stairs 7 
+setblock ~18 ~23 ~10 nether_brick_stairs 5 
+setblock ~8 ~24 ~10 magma 0 
+setblock ~13 ~24 ~5 magma 0 
+setblock ~13 ~24 ~15 magma 0 
+setblock ~18 ~24 ~10 magma 0 
+setblock ~7 ~25 ~10 nether_brick_stairs 4  
+fill ~8 ~25 ~10 ~8 ~38 ~10 red_nether_brick 0 
+setblock ~13 ~25 ~4 nether_brick_stairs 6  
+fill ~13 ~25 ~5 ~13 ~38 ~5 red_nether_brick 0  
+fill ~13 ~25 ~15 ~13 ~38 ~15 red_nether_brick 0 
+setblock ~13 ~25 ~16 nether_brick_stairs 7  
+fill ~18 ~25 ~10 ~18 ~38 ~10 red_nether_brick 0 
+setblock ~19 ~25 ~10 nether_brick_stairs 5  
+fill ~7 ~26 ~10 ~7 ~31 ~10 magma 0  
+fill ~13 ~26 ~4 ~13 ~31 ~4 magma 0  
+fill ~13 ~26 ~16 ~13 ~31 ~16 magma 0  
+fill ~19 ~26 ~10 ~19 ~31 ~10 magma 0 
+setblock ~9 ~28 ~10 nether_brick_stairs 1 
+setblock ~13 ~28 ~6 nether_brick_stairs 3 
+setblock ~13 ~28 ~14 nether_brick_stairs 2 
+setblock ~17 ~28 ~10 nether_brick_stairs 0  
+fill ~9 ~29 ~10 ~9 ~38 ~10 grass_path 4  
+fill ~13 ~29 ~6 ~13 ~38 ~6 grass_path 2  
+fill ~13 ~29 ~14 ~13 ~38 ~14 grass_path 3  
+fill ~17 ~29 ~10 ~17 ~38 ~10 grass_path 5 
+setblock ~6 ~32 ~10 nether_brick_stairs 4  
+fill ~7 ~32 ~10 ~7 ~43 ~10 red_nether_brick 0 
+setblock ~13 ~32 ~3 nether_brick_stairs 6  
+fill ~13 ~32 ~4 ~13 ~43 ~4 red_nether_brick 0  
+fill ~13 ~32 ~16 ~13 ~43 ~16 red_nether_brick 0 
+setblock ~13 ~32 ~17 nether_brick_stairs 7  
+fill ~19 ~32 ~10 ~19 ~43 ~10 red_nether_brick 0 
+setblock ~20 ~32 ~10 nether_brick_stairs 5  
+fill ~6 ~33 ~10 ~6 ~34 ~10 magma 0 
+setblock ~7 ~33 ~9 nether_brick_stairs 6 
+setblock ~7 ~33 ~11 nether_brick_stairs 7 
+setblock ~12 ~33 ~4 nether_brick_stairs 4 
+setblock ~12 ~33 ~16 nether_brick_stairs 4  
+fill ~13 ~33 ~3 ~13 ~34 ~3 magma 0  
+fill ~13 ~33 ~17 ~13 ~34 ~17 magma 0 
+setblock ~14 ~33 ~4 nether_brick_stairs 5 
+setblock ~14 ~33 ~16 nether_brick_stairs 5 
+setblock ~19 ~33 ~9 nether_brick_stairs 6 
+setblock ~19 ~33 ~11 nether_brick_stairs 7  
+fill ~20 ~33 ~10 ~20 ~34 ~10 magma 0  
+fill ~7 ~34 ~9 ~7 ~37 ~9 red_nether_brick 0  
+fill ~7 ~34 ~11 ~7 ~37 ~11 red_nether_brick 0  
+fill ~8 ~34 ~9 ~8 ~37 ~9 stone_slab 7  
+fill ~8 ~34 ~11 ~8 ~37 ~11 stone_slab 7  
+fill ~12 ~34 ~4 ~12 ~37 ~4 red_nether_brick 0  
+fill ~12 ~34 ~5 ~12 ~37 ~5 stone_slab 7  
+fill ~12 ~34 ~15 ~12 ~37 ~15 stone_slab 7  
+fill ~12 ~34 ~16 ~12 ~37 ~16 red_nether_brick 0  
+fill ~14 ~34 ~4 ~14 ~37 ~4 red_nether_brick 0  
+fill ~14 ~34 ~5 ~14 ~37 ~5 stone_slab 7  
+fill ~14 ~34 ~16 ~14 ~37 ~16 red_nether_brick 0  
+fill ~18 ~34 ~9 ~18 ~37 ~9 stone_slab 7  
+fill ~18 ~34 ~11 ~18 ~37 ~11 stone_slab 7  
+fill ~19 ~34 ~9 ~19 ~37 ~9 red_nether_brick 0  
+fill ~19 ~34 ~11 ~19 ~37 ~11 red_nether_brick 0 
+setblock ~5 ~35 ~10 nether_brick_stairs 4  
+fill ~6 ~35 ~10 ~6 ~52 ~10 red_nether_brick 0 
+setblock ~6 ~35 ~11 nether_brick_stairs 4 
+setblock ~12 ~35 ~3 nether_brick_stairs 6 
+setblock ~13 ~35 ~2 nether_brick_stairs 6  
+fill ~13 ~35 ~3 ~13 ~52 ~3 red_nether_brick 0  
+fill ~13 ~35 ~17 ~13 ~52 ~17 red_nether_brick 0 
+setblock ~13 ~35 ~18 nether_brick_stairs 7 
+setblock ~14 ~35 ~17 nether_brick_stairs 7 
+setblock ~20 ~35 ~9 nether_brick_stairs 5  
+fill ~20 ~35 ~10 ~20 ~52 ~10 red_nether_brick 0 
+setblock ~21 ~35 ~10 nether_brick_stairs 5  
+fill ~5 ~36 ~10 ~5 ~40 ~10 magma 0 
+setblock ~6 ~36 ~9 nether_brick_stairs 4  
+fill ~6 ~36 ~11 ~6 ~42 ~11 red_nether_brick 0  
+fill ~12 ~36 ~3 ~12 ~42 ~3 red_nether_brick 0 
+setblock ~12 ~36 ~17 nether_brick_stairs 7  
+fill ~13 ~36 ~2 ~13 ~40 ~2 magma 0  
+fill ~13 ~36 ~18 ~13 ~40 ~18 magma 0 
+setblock ~14 ~36 ~3 nether_brick_stairs 6  
+fill ~14 ~36 ~17 ~14 ~42 ~17 red_nether_brick 0  
+fill ~20 ~36 ~9 ~20 ~42 ~9 red_nether_brick 0 
+setblock ~20 ~36 ~11 nether_brick_stairs 5  
+fill ~21 ~36 ~10 ~21 ~40 ~10 magma 0  
+fill ~6 ~37 ~9 ~6 ~42 ~9 red_nether_brick 0  
+fill ~12 ~37 ~17 ~12 ~42 ~17 red_nether_brick 0  
+fill ~14 ~37 ~3 ~14 ~42 ~3 red_nether_brick 0  
+fill ~20 ~37 ~11 ~20 ~42 ~11 red_nether_brick 0 
+setblock ~7 ~38 ~9 nether_brick_stairs 1 
+setblock ~7 ~38 ~11 nether_brick_stairs 1 
+setblock ~12 ~38 ~4 nether_brick_stairs 3 
+setblock ~12 ~38 ~16 nether_brick_stairs 2 
+setblock ~14 ~38 ~4 nether_brick_stairs 3 
+setblock ~14 ~38 ~16 nether_brick_stairs 2 
+setblock ~19 ~38 ~9 nether_brick_stairs 0 
+setblock ~19 ~38 ~11 nether_brick_stairs 0  
+fill ~7 ~39 ~11 ~7 ~42 ~11 stone_slab 7 
+setblock ~8 ~39 ~10 nether_brick_stairs 1  
+fill ~12 ~39 ~4 ~12 ~42 ~4 stone_slab 7 
+setblock ~13 ~39 ~5 nether_brick_stairs 3 
+setblock ~13 ~39 ~15 nether_brick_stairs 2 
+setblock ~18 ~39 ~10 nether_brick_stairs 0  
+fill ~19 ~39 ~9 ~19 ~42 ~9 stone_slab 7  
+fill ~7 ~40 ~9 ~7 ~42 ~9 stone_slab 7  
+fill ~8 ~40 ~10 ~8 ~43 ~10 grass_path 4  
+fill ~12 ~40 ~16 ~12 ~42 ~16 stone_slab 7  
+fill ~13 ~40 ~5 ~13 ~43 ~5 grass_path 2  
+fill ~13 ~40 ~15 ~13 ~43 ~15 grass_path 3  
+fill ~14 ~40 ~4 ~14 ~42 ~4 stone_slab 7  
+fill ~18 ~40 ~10 ~18 ~43 ~10 grass_path 5  
+fill ~19 ~40 ~11 ~19 ~42 ~11 stone_slab 7 
+setblock ~4 ~41 ~10 nether_brick_stairs 4  
+fill ~5 ~41 ~10 ~5 ~62 ~10 red_nether_brick 0 
+setblock ~13 ~41 ~1 nether_brick_stairs 6  
+fill ~13 ~41 ~2 ~13 ~62 ~2 red_nether_brick 0  
+fill ~13 ~41 ~18 ~13 ~62 ~18 red_nether_brick 0 
+setblock ~13 ~41 ~19 nether_brick_stairs 7  
+fill ~21 ~41 ~10 ~21 ~62 ~10 red_nether_brick 0 
+setblock ~22 ~41 ~10 nether_brick_stairs 5  
+fill ~4 ~42 ~10 ~4 ~50 ~10 magma 0 
+setblock ~5 ~42 ~9 nether_brick_stairs 4 
+setblock ~5 ~42 ~11 nether_brick_stairs 4 
+setblock ~12 ~42 ~2 nether_brick_stairs 6 
+setblock ~12 ~42 ~18 nether_brick_stairs 7  
+fill ~13 ~42 ~1 ~13 ~50 ~1 magma 0  
+fill ~13 ~42 ~19 ~13 ~50 ~19 magma 0 
+setblock ~14 ~42 ~2 nether_brick_stairs 6 
+setblock ~14 ~42 ~18 nether_brick_stairs 7 
+setblock ~21 ~42 ~9 nether_brick_stairs 5 
+setblock ~21 ~42 ~11 nether_brick_stairs 5  
+fill ~22 ~42 ~10 ~22 ~50 ~10 magma 0  
+fill ~5 ~43 ~9 ~5 ~51 ~9 red_nether_brick 0  
+fill ~5 ~43 ~11 ~5 ~51 ~11 red_nether_brick 0 
+setblock ~6 ~43 ~9 nether_brick_stairs 1 
+setblock ~6 ~43 ~11 nether_brick_stairs 1  
+fill ~12 ~43 ~2 ~12 ~51 ~2 red_nether_brick 0 
+setblock ~12 ~43 ~3 nether_brick_stairs 3 
+setblock ~12 ~43 ~17 nether_brick_stairs 2  
+fill ~12 ~43 ~18 ~12 ~51 ~18 red_nether_brick 0  
+fill ~14 ~43 ~2 ~14 ~51 ~2 red_nether_brick 0 
+setblock ~14 ~43 ~3 nether_brick_stairs 3 
+setblock ~14 ~43 ~17 nether_brick_stairs 2  
+fill ~14 ~43 ~18 ~14 ~51 ~18 red_nether_brick 0 
+setblock ~20 ~43 ~9 nether_brick_stairs 0 
+setblock ~20 ~43 ~11 nether_brick_stairs 0  
+fill ~21 ~43 ~9 ~21 ~51 ~9 red_nether_brick 0  
+fill ~21 ~43 ~11 ~21 ~51 ~11 red_nether_brick 0  
+fill ~6 ~44 ~9 ~6 ~51 ~9 stone_slab 7 
+setblock ~7 ~44 ~10 nether_brick_stairs 1  
+fill ~12 ~44 ~17 ~12 ~51 ~17 stone_slab 7 
+setblock ~13 ~44 ~4 nether_brick_stairs 3 
+setblock ~13 ~44 ~16 nether_brick_stairs 2  
+fill ~14 ~44 ~3 ~14 ~51 ~3 stone_slab 7 
+setblock ~19 ~44 ~10 nether_brick_stairs 0  
+fill ~20 ~44 ~11 ~20 ~51 ~11 stone_slab 7  
+fill ~6 ~45 ~11 ~6 ~51 ~11 stone_slab 7  
+fill ~7 ~45 ~10 ~7 ~52 ~10 grass_path 4  
+fill ~12 ~45 ~3 ~12 ~51 ~3 stone_slab 7  
+fill ~13 ~45 ~4 ~13 ~52 ~4 grass_path 2  
+fill ~13 ~45 ~16 ~13 ~52 ~16 grass_path 3  
+fill ~19 ~45 ~10 ~19 ~52 ~10 grass_path 5  
+fill ~20 ~45 ~9 ~20 ~51 ~9 stone_slab 7 
+setblock ~3 ~51 ~10 nether_brick_stairs 4 
+setblock ~4 ~51 ~9 nether_brick_stairs 4  
+fill ~4 ~51 ~10 ~4 ~73 ~10 red_nether_brick 0 
+setblock ~4 ~51 ~11 nether_brick_stairs 4 
+setblock ~12 ~51 ~1 nether_brick_stairs 6 
+setblock ~12 ~51 ~19 nether_brick_stairs 7 
+setblock ~13 ~51 ~0 nether_brick_stairs 6  
+fill ~13 ~51 ~1 ~13 ~73 ~1 red_nether_brick 0  
+fill ~13 ~51 ~19 ~13 ~73 ~19 red_nether_brick 0 
+setblock ~13 ~51 ~20 nether_brick_stairs 7 
+setblock ~14 ~51 ~1 nether_brick_stairs 6 
+setblock ~14 ~51 ~19 nether_brick_stairs 7 
+setblock ~22 ~51 ~9 nether_brick_stairs 5  
+fill ~22 ~51 ~10 ~22 ~73 ~10 red_nether_brick 0 
+setblock ~22 ~51 ~11 nether_brick_stairs 5 
+setblock ~23 ~51 ~10 nether_brick_stairs 5  
+fill ~3 ~52 ~10 ~3 ~60 ~10 magma 0  
+fill ~4 ~52 ~9 ~4 ~61 ~9 red_nether_brick 0  
+fill ~4 ~52 ~11 ~4 ~61 ~11 red_nether_brick 0 
+setblock ~5 ~52 ~9 nether_brick_stairs 1 
+setblock ~5 ~52 ~11 nether_brick_stairs 1  
+fill ~12 ~52 ~1 ~12 ~61 ~1 red_nether_brick 0 
+setblock ~12 ~52 ~2 nether_brick_stairs 3 
+setblock ~12 ~52 ~18 nether_brick_stairs 2  
+fill ~12 ~52 ~19 ~12 ~61 ~19 red_nether_brick 0  
+fill ~13 ~52 ~0 ~13 ~60 ~0 magma 0  
+fill ~13 ~52 ~20 ~13 ~60 ~20 magma 0  
+fill ~14 ~52 ~1 ~14 ~61 ~1 red_nether_brick 0 
+setblock ~14 ~52 ~2 nether_brick_stairs 3 
+setblock ~14 ~52 ~18 nether_brick_stairs 2  
+fill ~14 ~52 ~19 ~14 ~61 ~19 red_nether_brick 0 
+setblock ~21 ~52 ~9 nether_brick_stairs 0 
+setblock ~21 ~52 ~11 nether_brick_stairs 0  
+fill ~22 ~52 ~9 ~22 ~61 ~9 red_nether_brick 0  
+fill ~22 ~52 ~11 ~22 ~61 ~11 red_nether_brick 0  
+fill ~23 ~52 ~10 ~23 ~60 ~10 magma 0  
+fill ~5 ~53 ~11 ~5 ~61 ~11 stone_slab 7 
+setblock ~6 ~53 ~10 nether_brick_stairs 1  
+fill ~12 ~53 ~2 ~12 ~61 ~2 stone_slab 7 
+setblock ~13 ~53 ~3 nether_brick_stairs 3 
+setblock ~13 ~53 ~17 nether_brick_stairs 2  
+fill ~14 ~53 ~18 ~14 ~61 ~18 stone_slab 7 
+setblock ~20 ~53 ~10 nether_brick_stairs 0  
+fill ~21 ~53 ~9 ~21 ~61 ~9 stone_slab 7  
+fill ~5 ~54 ~9 ~5 ~61 ~9 stone_slab 7  
+fill ~6 ~54 ~10 ~6 ~62 ~10 grass_path 4  
+fill ~12 ~54 ~18 ~12 ~61 ~18 stone_slab 7  
+fill ~13 ~54 ~3 ~13 ~62 ~3 grass_path 2  
+fill ~13 ~54 ~17 ~13 ~62 ~17 grass_path 3  
+fill ~14 ~54 ~2 ~14 ~61 ~2 stone_slab 7  
+fill ~20 ~54 ~10 ~20 ~62 ~10 grass_path 5  
+fill ~21 ~54 ~11 ~21 ~61 ~11 stone_slab 7 
+setblock ~2 ~61 ~10 nether_brick_stairs 4 
+setblock ~3 ~61 ~9 nether_brick_stairs 4  
+fill ~3 ~61 ~10 ~3 ~79 ~10 red_nether_brick 0 
+setblock ~3 ~61 ~11 nether_brick_stairs 4 
+setblock ~12 ~61 ~0 nether_brick_stairs 6 
+setblock ~12 ~61 ~20 nether_brick_stairs 7 
+setblock ~13 ~61 ~-1 nether_brick_stairs 6  
+fill ~13 ~61 ~0 ~13 ~79 ~0 red_nether_brick 0  
+fill ~13 ~61 ~20 ~13 ~79 ~20 red_nether_brick 0 
+setblock ~13 ~61 ~21 nether_brick_stairs 7 
+setblock ~14 ~61 ~0 nether_brick_stairs 6 
+setblock ~14 ~61 ~20 nether_brick_stairs 7 
+setblock ~23 ~61 ~9 nether_brick_stairs 5  
+fill ~23 ~61 ~10 ~23 ~79 ~10 red_nether_brick 0 
+setblock ~23 ~61 ~11 nether_brick_stairs 5 
+setblock ~24 ~61 ~10 nether_brick_stairs 5  
+fill ~2 ~62 ~10 ~2 ~70 ~10 magma 0  
+fill ~3 ~62 ~9 ~3 ~72 ~9 red_nether_brick 0  
+fill ~3 ~62 ~11 ~3 ~72 ~11 red_nether_brick 0 
+setblock ~4 ~62 ~9 nether_brick_stairs 1 
+setblock ~4 ~62 ~11 nether_brick_stairs 1  
+fill ~12 ~62 ~0 ~12 ~72 ~0 red_nether_brick 0 
+setblock ~12 ~62 ~1 nether_brick_stairs 3 
+setblock ~12 ~62 ~19 nether_brick_stairs 2  
+fill ~12 ~62 ~20 ~12 ~72 ~20 red_nether_brick 0  
+fill ~13 ~62 ~-1 ~13 ~70 ~-1 magma 0  
+fill ~13 ~62 ~21 ~13 ~70 ~21 magma 0  
+fill ~14 ~62 ~0 ~14 ~72 ~0 red_nether_brick 0 
+setblock ~14 ~62 ~1 nether_brick_stairs 3 
+setblock ~14 ~62 ~19 nether_brick_stairs 2  
+fill ~14 ~62 ~20 ~14 ~72 ~20 red_nether_brick 0 
+setblock ~22 ~62 ~9 nether_brick_stairs 0 
+setblock ~22 ~62 ~11 nether_brick_stairs 0  
+fill ~23 ~62 ~9 ~23 ~72 ~9 red_nether_brick 0  
+fill ~23 ~62 ~11 ~23 ~72 ~11 red_nether_brick 0  
+fill ~24 ~62 ~10 ~24 ~70 ~10 magma 0  
+fill ~4 ~63 ~11 ~4 ~72 ~11 stone_slab 7 
+setblock ~5 ~63 ~10 nether_brick_stairs 1  
+fill ~12 ~63 ~1 ~12 ~72 ~1 stone_slab 7 
+setblock ~13 ~63 ~2 nether_brick_stairs 3 
+setblock ~13 ~63 ~18 nether_brick_stairs 2  
+fill ~14 ~63 ~19 ~14 ~72 ~19 stone_slab 7 
+setblock ~21 ~63 ~10 nether_brick_stairs 0  
+fill ~22 ~63 ~9 ~22 ~72 ~9 stone_slab 7  
+fill ~4 ~64 ~9 ~4 ~72 ~9 stone_slab 7  
+fill ~5 ~64 ~10 ~5 ~73 ~10 grass_path 4  
+fill ~12 ~64 ~19 ~12 ~72 ~19 stone_slab 7  
+fill ~13 ~64 ~2 ~13 ~73 ~2 grass_path 2  
+fill ~13 ~64 ~18 ~13 ~73 ~18 grass_path 3  
+fill ~14 ~64 ~1 ~14 ~72 ~1 stone_slab 7  
+fill ~21 ~64 ~10 ~21 ~73 ~10 grass_path 5  
+fill ~22 ~64 ~11 ~22 ~72 ~11 stone_slab 7 
+setblock ~1 ~71 ~10 nether_brick_stairs 4  
+fill ~2 ~71 ~10 ~2 ~89 ~10 red_nether_brick 0 
+setblock ~13 ~71 ~-2 nether_brick_stairs 6  
+fill ~13 ~71 ~-1 ~13 ~89 ~-1 red_nether_brick 0  
+fill ~13 ~71 ~21 ~13 ~89 ~21 red_nether_brick 0 
+setblock ~13 ~71 ~22 nether_brick_stairs 7  
+fill ~24 ~71 ~10 ~24 ~89 ~10 red_nether_brick 0 
+setblock ~25 ~71 ~10 nether_brick_stairs 5  
+fill ~1 ~72 ~10 ~1 ~76 ~10 magma 0 
+setblock ~2 ~72 ~9 nether_brick_stairs 4 
+setblock ~2 ~72 ~11 nether_brick_stairs 4 
+setblock ~12 ~72 ~-1 nether_brick_stairs 6 
+setblock ~12 ~72 ~21 nether_brick_stairs 7  
+fill ~13 ~72 ~-2 ~13 ~76 ~-2 magma 0  
+fill ~13 ~72 ~22 ~13 ~76 ~22 magma 0 
+setblock ~14 ~72 ~-1 nether_brick_stairs 6 
+setblock ~14 ~72 ~21 nether_brick_stairs 7 
+setblock ~24 ~72 ~9 nether_brick_stairs 5 
+setblock ~24 ~72 ~11 nether_brick_stairs 5  
+fill ~25 ~72 ~10 ~25 ~76 ~10 magma 0  
+fill ~2 ~73 ~9 ~2 ~78 ~9 red_nether_brick 0  
+fill ~2 ~73 ~11 ~2 ~78 ~11 red_nether_brick 0 
+setblock ~3 ~73 ~9 nether_brick_stairs 1 
+setblock ~3 ~73 ~11 nether_brick_stairs 1  
+fill ~12 ~73 ~-1 ~12 ~78 ~-1 red_nether_brick 0 
+setblock ~12 ~73 ~0 nether_brick_stairs 3 
+setblock ~12 ~73 ~20 nether_brick_stairs 2  
+fill ~12 ~73 ~21 ~12 ~78 ~21 red_nether_brick 0  
+fill ~14 ~73 ~-1 ~14 ~78 ~-1 red_nether_brick 0 
+setblock ~14 ~73 ~0 nether_brick_stairs 3 
+setblock ~14 ~73 ~20 nether_brick_stairs 2  
+fill ~14 ~73 ~21 ~14 ~78 ~21 red_nether_brick 0 
+setblock ~23 ~73 ~9 nether_brick_stairs 0 
+setblock ~23 ~73 ~11 nether_brick_stairs 0  
+fill ~24 ~73 ~9 ~24 ~78 ~9 red_nether_brick 0  
+fill ~24 ~73 ~11 ~24 ~78 ~11 red_nether_brick 0  
+fill ~3 ~74 ~9 ~3 ~78 ~9 stone_slab 7  
+fill ~3 ~74 ~11 ~3 ~78 ~11 stone_slab 7 
+setblock ~4 ~74 ~10 nether_brick_stairs 1  
+fill ~12 ~74 ~0 ~12 ~78 ~0 stone_slab 7  
+fill ~12 ~74 ~20 ~12 ~78 ~20 stone_slab 7 
+setblock ~13 ~74 ~1 nether_brick_stairs 3 
+setblock ~13 ~74 ~19 nether_brick_stairs 2  
+fill ~14 ~74 ~0 ~14 ~78 ~0 stone_slab 7  
+fill ~14 ~74 ~20 ~14 ~78 ~20 stone_slab 7 
+setblock ~22 ~74 ~10 nether_brick_stairs 0  
+fill ~23 ~74 ~9 ~23 ~78 ~9 stone_slab 7  
+fill ~23 ~74 ~11 ~23 ~78 ~11 stone_slab 7  
+fill ~4 ~75 ~10 ~4 ~79 ~10 grass_path 4  
+fill ~13 ~75 ~1 ~13 ~79 ~1 grass_path 2  
+fill ~13 ~75 ~19 ~13 ~79 ~19 grass_path 3  
+fill ~22 ~75 ~10 ~22 ~79 ~10 grass_path 5 
+setblock ~0 ~77 ~10 nether_brick_stairs 4  
+fill ~1 ~77 ~10 ~1 ~96 ~10 red_nether_brick 0 
+setblock ~13 ~77 ~-3 nether_brick_stairs 6  
+fill ~13 ~77 ~-2 ~13 ~96 ~-2 red_nether_brick 0  
+fill ~13 ~77 ~22 ~13 ~96 ~22 red_nether_brick 0 
+setblock ~13 ~77 ~23 nether_brick_stairs 7  
+fill ~25 ~77 ~10 ~25 ~96 ~10 red_nether_brick 0 
+setblock ~26 ~77 ~10 nether_brick_stairs 5  
+fill ~0 ~78 ~10 ~0 ~86 ~10 magma 0 
+setblock ~1 ~78 ~9 nether_brick_stairs 4 
+setblock ~1 ~78 ~11 nether_brick_stairs 4 
+setblock ~12 ~78 ~-2 nether_brick_stairs 6 
+setblock ~12 ~78 ~22 nether_brick_stairs 7  
+fill ~13 ~78 ~-3 ~13 ~86 ~-3 magma 0  
+fill ~13 ~78 ~23 ~13 ~86 ~23 magma 0 
+setblock ~14 ~78 ~-2 nether_brick_stairs 6 
+setblock ~14 ~78 ~22 nether_brick_stairs 7 
+setblock ~25 ~78 ~9 nether_brick_stairs 5 
+setblock ~25 ~78 ~11 nether_brick_stairs 5  
+fill ~26 ~78 ~10 ~26 ~86 ~10 magma 0  
+fill ~1 ~79 ~9 ~1 ~88 ~9 red_nether_brick 0  
+fill ~1 ~79 ~11 ~1 ~88 ~11 red_nether_brick 0 
+setblock ~2 ~79 ~9 nether_brick_stairs 1 
+setblock ~2 ~79 ~11 nether_brick_stairs 1  
+fill ~12 ~79 ~-2 ~12 ~88 ~-2 red_nether_brick 0 
+setblock ~12 ~79 ~-1 nether_brick_stairs 3 
+setblock ~12 ~79 ~21 nether_brick_stairs 2  
+fill ~12 ~79 ~22 ~12 ~88 ~22 red_nether_brick 0  
+fill ~14 ~79 ~-2 ~14 ~88 ~-2 red_nether_brick 0 
+setblock ~14 ~79 ~-1 nether_brick_stairs 3 
+setblock ~14 ~79 ~21 nether_brick_stairs 2  
+fill ~14 ~79 ~22 ~14 ~88 ~22 red_nether_brick 0 
+setblock ~24 ~79 ~9 nether_brick_stairs 0 
+setblock ~24 ~79 ~11 nether_brick_stairs 0  
+fill ~25 ~79 ~9 ~25 ~88 ~9 red_nether_brick 0  
+fill ~25 ~79 ~11 ~25 ~88 ~11 red_nether_brick 0  
+fill ~2 ~80 ~9 ~2 ~88 ~9 stone_slab 7  
+fill ~2 ~80 ~11 ~2 ~88 ~11 stone_slab 7 
+setblock ~3 ~80 ~10 nether_brick_stairs 1  
+fill ~12 ~80 ~-1 ~12 ~88 ~-1 stone_slab 7  
+fill ~12 ~80 ~21 ~12 ~88 ~21 stone_slab 7 
+setblock ~13 ~80 ~0 nether_brick_stairs 3 
+setblock ~13 ~80 ~20 nether_brick_stairs 2  
+fill ~14 ~80 ~-1 ~14 ~88 ~-1 stone_slab 7  
+fill ~14 ~80 ~21 ~14 ~88 ~21 stone_slab 7 
+setblock ~23 ~80 ~10 nether_brick_stairs 0  
+fill ~24 ~80 ~9 ~24 ~88 ~9 stone_slab 7  
+fill ~24 ~80 ~11 ~24 ~88 ~11 stone_slab 7  
+fill ~3 ~81 ~10 ~3 ~89 ~10 grass_path 4  
+fill ~13 ~81 ~0 ~13 ~89 ~0 grass_path 2  
+fill ~13 ~81 ~20 ~13 ~89 ~20 grass_path 3  
+fill ~23 ~81 ~10 ~23 ~89 ~10 grass_path 5 
+setblock ~-1 ~87 ~10 nether_brick_stairs 4  
+fill ~0 ~87 ~10 ~0 ~103 ~10 red_nether_brick 0 
+setblock ~13 ~87 ~-4 nether_brick_stairs 6  
+fill ~13 ~87 ~-3 ~13 ~103 ~-3 red_nether_brick 0  
+fill ~13 ~87 ~23 ~13 ~103 ~23 red_nether_brick 0 
+setblock ~13 ~87 ~24 nether_brick_stairs 7  
+fill ~26 ~87 ~10 ~26 ~103 ~10 red_nether_brick 0 
+setblock ~27 ~87 ~10 nether_brick_stairs 5  
+fill ~-1 ~88 ~10 ~-1 ~93 ~10 magma 0 
+setblock ~0 ~88 ~9 nether_brick_stairs 4 
+setblock ~0 ~88 ~11 nether_brick_stairs 4 
+setblock ~12 ~88 ~-3 nether_brick_stairs 6 
+setblock ~12 ~88 ~23 nether_brick_stairs 7  
+fill ~13 ~88 ~-4 ~13 ~93 ~-4 magma 0  
+fill ~13 ~88 ~24 ~13 ~93 ~24 magma 0 
+setblock ~14 ~88 ~-3 nether_brick_stairs 6 
+setblock ~14 ~88 ~23 nether_brick_stairs 7 
+setblock ~26 ~88 ~9 nether_brick_stairs 5 
+setblock ~26 ~88 ~11 nether_brick_stairs 5  
+fill ~27 ~88 ~10 ~27 ~93 ~10 magma 0  
+fill ~0 ~89 ~9 ~0 ~95 ~9 red_nether_brick 0  
+fill ~0 ~89 ~11 ~0 ~95 ~11 red_nether_brick 0 
+setblock ~1 ~89 ~9 nether_brick_stairs 1 
+setblock ~1 ~89 ~11 nether_brick_stairs 1  
+fill ~12 ~89 ~-3 ~12 ~95 ~-3 red_nether_brick 0 
+setblock ~12 ~89 ~-2 nether_brick_stairs 3 
+setblock ~12 ~89 ~22 nether_brick_stairs 2  
+fill ~12 ~89 ~23 ~12 ~95 ~23 red_nether_brick 0  
+fill ~14 ~89 ~-3 ~14 ~95 ~-3 red_nether_brick 0 
+setblock ~14 ~89 ~-2 nether_brick_stairs 3 
+setblock ~14 ~89 ~22 nether_brick_stairs 2  
+fill ~14 ~89 ~23 ~14 ~95 ~23 red_nether_brick 0 
+setblock ~25 ~89 ~9 nether_brick_stairs 0 
+setblock ~25 ~89 ~11 nether_brick_stairs 0  
+fill ~26 ~89 ~9 ~26 ~95 ~9 red_nether_brick 0  
+fill ~26 ~89 ~11 ~26 ~95 ~11 red_nether_brick 0  
+fill ~1 ~90 ~9 ~1 ~95 ~9 stone_slab 7  
+fill ~1 ~90 ~11 ~1 ~95 ~11 stone_slab 7 
+setblock ~2 ~90 ~10 nether_brick_stairs 1  
+fill ~12 ~90 ~-2 ~12 ~95 ~-2 stone_slab 7  
+fill ~12 ~90 ~22 ~12 ~95 ~22 stone_slab 7 
+setblock ~13 ~90 ~-1 nether_brick_stairs 3 
+setblock ~13 ~90 ~21 nether_brick_stairs 2  
+fill ~14 ~90 ~-2 ~14 ~95 ~-2 stone_slab 7  
+fill ~14 ~90 ~22 ~14 ~95 ~22 stone_slab 7 
+setblock ~24 ~90 ~10 nether_brick_stairs 0  
+fill ~25 ~90 ~9 ~25 ~95 ~9 stone_slab 7  
+fill ~25 ~90 ~11 ~25 ~95 ~11 stone_slab 7  
+fill ~2 ~91 ~10 ~2 ~96 ~10 grass_path 4  
+fill ~13 ~91 ~-1 ~13 ~96 ~-1 grass_path 2  
+fill ~13 ~91 ~21 ~13 ~96 ~21 grass_path 3  
+fill ~24 ~91 ~10 ~24 ~96 ~10 grass_path 5 
+setblock ~-2 ~94 ~10 nether_brick_stairs 4  
+fill ~-1 ~94 ~10 ~-1 ~108 ~10 red_nether_brick 0 
+setblock ~13 ~94 ~-5 nether_brick_stairs 6  
+fill ~13 ~94 ~-4 ~13 ~108 ~-4 red_nether_brick 0  
+fill ~13 ~94 ~24 ~13 ~108 ~24 red_nether_brick 0 
+setblock ~13 ~94 ~25 nether_brick_stairs 7  
+fill ~27 ~94 ~10 ~27 ~108 ~10 red_nether_brick 0 
+setblock ~28 ~94 ~10 nether_brick_stairs 5  
+fill ~-2 ~95 ~10 ~-2 ~100 ~10 magma 0 
+setblock ~-1 ~95 ~9 nether_brick_stairs 4 
+setblock ~-1 ~95 ~11 nether_brick_stairs 4 
+setblock ~12 ~95 ~-4 nether_brick_stairs 6 
+setblock ~12 ~95 ~24 nether_brick_stairs 7  
+fill ~13 ~95 ~-5 ~13 ~100 ~-5 magma 0  
+fill ~13 ~95 ~25 ~13 ~100 ~25 magma 0 
+setblock ~14 ~95 ~-4 nether_brick_stairs 6 
+setblock ~14 ~95 ~24 nether_brick_stairs 7 
+setblock ~27 ~95 ~9 nether_brick_stairs 5 
+setblock ~27 ~95 ~11 nether_brick_stairs 5  
+fill ~28 ~95 ~10 ~28 ~100 ~10 magma 0  
+fill ~-1 ~96 ~9 ~-1 ~102 ~9 red_nether_brick 0  
+fill ~-1 ~96 ~11 ~-1 ~102 ~11 red_nether_brick 0 
+setblock ~0 ~96 ~9 nether_brick_stairs 1 
+setblock ~0 ~96 ~11 nether_brick_stairs 1  
+fill ~12 ~96 ~-4 ~12 ~102 ~-4 red_nether_brick 0 
+setblock ~12 ~96 ~-3 nether_brick_stairs 3 
+setblock ~12 ~96 ~23 nether_brick_stairs 2  
+fill ~12 ~96 ~24 ~12 ~102 ~24 red_nether_brick 0  
+fill ~14 ~96 ~-4 ~14 ~102 ~-4 red_nether_brick 0 
+setblock ~14 ~96 ~-3 nether_brick_stairs 3 
+setblock ~14 ~96 ~23 nether_brick_stairs 2  
+fill ~14 ~96 ~24 ~14 ~102 ~24 red_nether_brick 0 
+setblock ~26 ~96 ~9 nether_brick_stairs 0 
+setblock ~26 ~96 ~11 nether_brick_stairs 0  
+fill ~27 ~96 ~9 ~27 ~102 ~9 red_nether_brick 0  
+fill ~27 ~96 ~11 ~27 ~102 ~11 red_nether_brick 0  
+fill ~0 ~97 ~9 ~0 ~102 ~9 stone_slab 7 
+setblock ~1 ~97 ~10 nether_brick_stairs 1  
+fill ~12 ~97 ~23 ~12 ~102 ~23 stone_slab 7 
+setblock ~13 ~97 ~-2 nether_brick_stairs 3 
+setblock ~13 ~97 ~22 nether_brick_stairs 2  
+fill ~14 ~97 ~-3 ~14 ~102 ~-3 stone_slab 7 
+setblock ~25 ~97 ~10 nether_brick_stairs 0  
+fill ~26 ~97 ~11 ~26 ~102 ~11 stone_slab 7  
+fill ~0 ~98 ~11 ~0 ~102 ~11 stone_slab 7  
+fill ~1 ~98 ~10 ~1 ~103 ~10 grass_path 4  
+fill ~12 ~98 ~-3 ~12 ~102 ~-3 stone_slab 7  
+fill ~13 ~98 ~-2 ~13 ~103 ~-2 grass_path 2  
+fill ~13 ~98 ~22 ~13 ~103 ~22 grass_path 3  
+fill ~14 ~98 ~23 ~14 ~102 ~23 stone_slab 7  
+fill ~25 ~98 ~10 ~25 ~103 ~10 grass_path 5  
+fill ~26 ~98 ~9 ~26 ~102 ~9 stone_slab 7 
+setblock ~-3 ~101 ~10 nether_brick_stairs 4  
+fill ~-2 ~101 ~10 ~-2 ~113 ~10 red_nether_brick 0 
+setblock ~13 ~101 ~-6 nether_brick_stairs 6  
+fill ~13 ~101 ~-5 ~13 ~113 ~-5 red_nether_brick 0  
+fill ~13 ~101 ~25 ~13 ~113 ~25 red_nether_brick 0 
+setblock ~13 ~101 ~26 nether_brick_stairs 7  
+fill ~28 ~101 ~10 ~28 ~113 ~10 red_nether_brick 0 
+setblock ~29 ~101 ~10 nether_brick_stairs 5  
+fill ~-3 ~102 ~10 ~-3 ~104 ~10 magma 0 
+setblock ~-2 ~102 ~9 nether_brick_stairs 4 
+setblock ~-2 ~102 ~11 nether_brick_stairs 4 
+setblock ~12 ~102 ~-5 nether_brick_stairs 6 
+setblock ~12 ~102 ~25 nether_brick_stairs 7  
+fill ~13 ~102 ~-6 ~13 ~104 ~-6 magma 0  
+fill ~13 ~102 ~26 ~13 ~104 ~26 magma 0 
+setblock ~14 ~102 ~-5 nether_brick_stairs 6 
+setblock ~14 ~102 ~25 nether_brick_stairs 7 
+setblock ~28 ~102 ~9 nether_brick_stairs 5 
+setblock ~28 ~102 ~11 nether_brick_stairs 5  
+fill ~29 ~102 ~10 ~29 ~104 ~10 magma 0  
+fill ~-2 ~103 ~9 ~-2 ~108 ~9 red_nether_brick 0  
+fill ~-2 ~103 ~11 ~-2 ~108 ~11 red_nether_brick 0 
+setblock ~-1 ~103 ~9 nether_brick_stairs 1 
+setblock ~-1 ~103 ~11 nether_brick_stairs 1  
+fill ~12 ~103 ~-5 ~12 ~108 ~-5 red_nether_brick 0 
+setblock ~12 ~103 ~-4 nether_brick_stairs 3 
+setblock ~12 ~103 ~24 nether_brick_stairs 2  
+fill ~12 ~103 ~25 ~12 ~108 ~25 red_nether_brick 0  
+fill ~14 ~103 ~-5 ~14 ~108 ~-5 red_nether_brick 0 
+setblock ~14 ~103 ~-4 nether_brick_stairs 3 
+setblock ~14 ~103 ~24 nether_brick_stairs 2  
+fill ~14 ~103 ~25 ~14 ~108 ~25 red_nether_brick 0 
+setblock ~27 ~103 ~9 nether_brick_stairs 0 
+setblock ~27 ~103 ~11 nether_brick_stairs 0  
+fill ~28 ~103 ~9 ~28 ~108 ~9 red_nether_brick 0  
+fill ~28 ~103 ~11 ~28 ~108 ~11 red_nether_brick 0  
+fill ~-1 ~104 ~9 ~-1 ~108 ~9 stone_slab 7  
+fill ~-1 ~104 ~11 ~-1 ~108 ~11 stone_slab 7 
+setblock ~0 ~104 ~10 nether_brick_stairs 1  
+fill ~12 ~104 ~-4 ~12 ~108 ~-4 stone_slab 7  
+fill ~12 ~104 ~24 ~12 ~108 ~24 stone_slab 7 
+setblock ~13 ~104 ~-3 nether_brick_stairs 3 
+setblock ~13 ~104 ~23 nether_brick_stairs 2  
+fill ~14 ~104 ~-4 ~14 ~108 ~-4 stone_slab 7  
+fill ~14 ~104 ~24 ~14 ~108 ~24 stone_slab 7 
+setblock ~26 ~104 ~10 nether_brick_stairs 0  
+fill ~27 ~104 ~9 ~27 ~108 ~9 stone_slab 7  
+fill ~27 ~104 ~11 ~27 ~108 ~11 stone_slab 7 
+setblock ~-4 ~105 ~10 nether_brick_stairs 4 
+setblock ~-3 ~105 ~10 red_nether_brick 0  
+fill ~0 ~105 ~10 ~0 ~109 ~10 grass_path 4 
+setblock ~13 ~105 ~-7 nether_brick_stairs 6 
+setblock ~13 ~105 ~-6 red_nether_brick 0  
+fill ~13 ~105 ~-3 ~13 ~109 ~-3 grass_path 2  
+fill ~13 ~105 ~23 ~13 ~109 ~23 grass_path 3 
+setblock ~13 ~105 ~26 red_nether_brick 0 
+setblock ~13 ~105 ~27 nether_brick_stairs 7  
+fill ~26 ~105 ~10 ~26 ~109 ~10 grass_path 5 
+setblock ~29 ~105 ~10 red_nether_brick 0 
+setblock ~30 ~105 ~10 nether_brick_stairs 5 
+setblock ~-5 ~106 ~10 nether_brick_stairs 4  
+fill ~-4 ~106 ~10 ~-4 ~135 ~10 red_nether_brick 0 
+setblock ~-3 ~106 ~10 magma 0 
+setblock ~13 ~106 ~-8 nether_brick_stairs 6  
+fill ~13 ~106 ~-7 ~13 ~135 ~-7 red_nether_brick 0 
+setblock ~13 ~106 ~-6 magma 0 
+setblock ~13 ~106 ~26 magma 0  
+fill ~13 ~106 ~27 ~13 ~135 ~27 red_nether_brick 0 
+setblock ~13 ~106 ~28 nether_brick_stairs 7 
+setblock ~29 ~106 ~10 magma 0  
+fill ~30 ~106 ~10 ~30 ~135 ~10 red_nether_brick 0 
+setblock ~31 ~106 ~10 nether_brick_stairs 5  
+fill ~-8 ~107 ~-4 ~-8 ~114 ~-4 nether_brick_fence 0  
+fill ~-8 ~107 ~24 ~-8 ~114 ~24 nether_brick_fence 0  
+fill ~-5 ~107 ~10 ~-5 ~110 ~10 magma 0 
+setblock ~-3 ~107 ~9 nether_brick_stairs 4  
+fill ~-3 ~107 ~10 ~-3 ~115 ~10 red_nether_brick 0 
+setblock ~-3 ~107 ~11 nether_brick_stairs 4  
+fill ~-1 ~107 ~-11 ~-1 ~114 ~-11 nether_brick_fence 0  
+fill ~-1 ~107 ~31 ~-1 ~114 ~31 nether_brick_fence 0 
+setblock ~12 ~107 ~-6 nether_brick_stairs 6 
+setblock ~12 ~107 ~26 nether_brick_stairs 7  
+fill ~13 ~107 ~-8 ~13 ~110 ~-8 magma 0  
+fill ~13 ~107 ~-6 ~13 ~115 ~-6 red_nether_brick 0  
+fill ~13 ~107 ~26 ~13 ~115 ~26 red_nether_brick 0  
+fill ~13 ~107 ~28 ~13 ~110 ~28 magma 0 
+setblock ~14 ~107 ~-6 nether_brick_stairs 6 
+setblock ~14 ~107 ~26 nether_brick_stairs 7  
+fill ~27 ~107 ~-11 ~27 ~114 ~-11 nether_brick_fence 0  
+fill ~27 ~107 ~31 ~27 ~114 ~31 nether_brick_fence 0 
+setblock ~29 ~107 ~9 nether_brick_stairs 5  
+fill ~29 ~107 ~10 ~29 ~115 ~10 red_nether_brick 0 
+setblock ~29 ~107 ~11 nether_brick_stairs 5  
+fill ~31 ~107 ~10 ~31 ~110 ~10 magma 0  
+fill ~34 ~107 ~-4 ~34 ~114 ~-4 nether_brick_fence 0  
+fill ~34 ~107 ~24 ~34 ~114 ~24 nether_brick_fence 0  
+fill ~-3 ~108 ~9 ~-3 ~112 ~9 red_nether_brick 0  
+fill ~-3 ~108 ~11 ~-3 ~112 ~11 red_nether_brick 0  
+fill ~12 ~108 ~-6 ~12 ~112 ~-6 red_nether_brick 0  
+fill ~12 ~108 ~26 ~12 ~112 ~26 red_nether_brick 0  
+fill ~14 ~108 ~-6 ~14 ~112 ~-6 red_nether_brick 0  
+fill ~14 ~108 ~26 ~14 ~112 ~26 red_nether_brick 0  
+fill ~29 ~108 ~9 ~29 ~112 ~9 red_nether_brick 0  
+fill ~29 ~108 ~11 ~29 ~112 ~11 red_nether_brick 0 
+setblock ~-4 ~109 ~9 nether_brick_stairs 4 
+setblock ~-4 ~109 ~11 nether_brick_stairs 4 
+setblock ~-2 ~109 ~9 nether_brick_stairs 1 
+setblock ~-2 ~109 ~11 nether_brick_stairs 1 
+setblock ~-1 ~109 ~10 magma 0 
+setblock ~12 ~109 ~-7 nether_brick_stairs 6 
+setblock ~12 ~109 ~-5 nether_brick_stairs 3 
+setblock ~12 ~109 ~25 nether_brick_stairs 2 
+setblock ~12 ~109 ~27 nether_brick_stairs 7 
+setblock ~13 ~109 ~-4 magma 0 
+setblock ~13 ~109 ~24 magma 0 
+setblock ~14 ~109 ~-7 nether_brick_stairs 6 
+setblock ~14 ~109 ~-5 nether_brick_stairs 3 
+setblock ~14 ~109 ~25 nether_brick_stairs 2 
+setblock ~14 ~109 ~27 nether_brick_stairs 7 
+setblock ~27 ~109 ~10 magma 0 
+setblock ~28 ~109 ~9 nether_brick_stairs 0 
+setblock ~28 ~109 ~11 nether_brick_stairs 0 
+setblock ~30 ~109 ~9 nether_brick_stairs 5 
+setblock ~30 ~109 ~11 nether_brick_stairs 5  
+fill ~-4 ~110 ~9 ~-4 ~112 ~9 red_nether_brick 0 
+setblock ~-4 ~110 ~11 red_nether_brick 0  
+fill ~-2 ~110 ~9 ~-2 ~113 ~9 stone_slab 7  
+fill ~-2 ~110 ~11 ~-2 ~113 ~11 stone_slab 7 
+setblock ~-1 ~110 ~10 nether_brick_stairs 1 
+setblock ~12 ~110 ~-7 red_nether_brick 0  
+fill ~12 ~110 ~-5 ~12 ~113 ~-5 stone_slab 7  
+fill ~12 ~110 ~25 ~12 ~113 ~25 stone_slab 7  
+fill ~12 ~110 ~27 ~12 ~112 ~27 red_nether_brick 0 
+setblock ~13 ~110 ~-4 nether_brick_stairs 3 
+setblock ~13 ~110 ~24 nether_brick_stairs 2  
+fill ~14 ~110 ~-7 ~14 ~112 ~-7 red_nether_brick 0  
+fill ~14 ~110 ~-5 ~14 ~113 ~-5 stone_slab 7  
+fill ~14 ~110 ~25 ~14 ~113 ~25 stone_slab 7 
+setblock ~14 ~110 ~27 red_nether_brick 0 
+setblock ~27 ~110 ~10 nether_brick_stairs 0  
+fill ~28 ~110 ~9 ~28 ~113 ~9 stone_slab 7  
+fill ~28 ~110 ~11 ~28 ~113 ~11 stone_slab 7 
+setblock ~30 ~110 ~9 red_nether_brick 0  
+fill ~30 ~110 ~11 ~30 ~112 ~11 red_nether_brick 0 
+setblock ~-6 ~111 ~10 nether_brick_stairs 4  
+fill ~-5 ~111 ~10 ~-5 ~135 ~10 red_nether_brick 0 
+setblock ~-4 ~111 ~11 magma 0  
+fill ~-1 ~111 ~10 ~-1 ~113 ~10 grass_path 4 
+setblock ~12 ~111 ~-7 magma 0 
+setblock ~13 ~111 ~-9 nether_brick_stairs 6  
+fill ~13 ~111 ~-8 ~13 ~135 ~-8 red_nether_brick 0  
+fill ~13 ~111 ~-4 ~13 ~113 ~-4 grass_path 2  
+fill ~13 ~111 ~24 ~13 ~113 ~24 grass_path 3  
+fill ~13 ~111 ~28 ~13 ~135 ~28 red_nether_brick 0 
+setblock ~13 ~111 ~29 nether_brick_stairs 7 
+setblock ~14 ~111 ~27 magma 0  
+fill ~27 ~111 ~10 ~27 ~113 ~10 grass_path 5 
+setblock ~30 ~111 ~9 magma 0  
+fill ~31 ~111 ~10 ~31 ~135 ~10 red_nether_brick 0 
+setblock ~32 ~111 ~10 nether_brick_stairs 5  
+fill ~-6 ~112 ~10 ~-6 ~115 ~10 magma 0 
+setblock ~-5 ~112 ~9 nether_brick_stairs 4 
+setblock ~-5 ~112 ~11 nether_brick_stairs 4  
+fill ~-4 ~112 ~11 ~-4 ~114 ~11 red_nether_brick 0 
+setblock ~12 ~112 ~-8 nether_brick_stairs 6  
+fill ~12 ~112 ~-7 ~12 ~114 ~-7 red_nether_brick 0 
+setblock ~12 ~112 ~28 nether_brick_stairs 7  
+fill ~13 ~112 ~-9 ~13 ~115 ~-9 magma 0  
+fill ~13 ~112 ~29 ~13 ~115 ~29 magma 0 
+setblock ~14 ~112 ~-8 nether_brick_stairs 6  
+fill ~14 ~112 ~27 ~14 ~114 ~27 red_nether_brick 0 
+setblock ~14 ~112 ~28 nether_brick_stairs 7  
+fill ~30 ~112 ~9 ~30 ~114 ~9 red_nether_brick 0 
+setblock ~31 ~112 ~9 nether_brick_stairs 5 
+setblock ~31 ~112 ~11 nether_brick_stairs 5  
+fill ~32 ~112 ~10 ~32 ~115 ~10 magma 0 
+setblock ~-9 ~113 ~-4 nether_brick_fence 0 
+setblock ~-9 ~113 ~24 nether_brick_fence 0  
+fill ~-5 ~113 ~9 ~-5 ~133 ~9 red_nether_brick 0  
+fill ~-5 ~113 ~11 ~-5 ~133 ~11 red_nether_brick 0 
+setblock ~-4 ~113 ~9 magma 0 
+setblock ~-3 ~113 ~9 nether_brick_stairs 1 
+setblock ~-3 ~113 ~11 nether_brick_stairs 1 
+setblock ~-1 ~113 ~-12 nether_brick_fence 0 
+setblock ~-1 ~113 ~32 nether_brick_fence 0  
+fill ~12 ~113 ~-8 ~12 ~133 ~-8 red_nether_brick 0 
+setblock ~12 ~113 ~-6 nether_brick_stairs 3 
+setblock ~12 ~113 ~26 nether_brick_stairs 2 
+setblock ~12 ~113 ~27 magma 0  
+fill ~12 ~113 ~28 ~12 ~133 ~28 red_nether_brick 0  
+fill ~14 ~113 ~-8 ~14 ~133 ~-8 red_nether_brick 0 
+setblock ~14 ~113 ~-7 magma 0   
+
+KittysCommands:  
+setblock ~14 ~113 ~-6 nether_brick_stairs 3 
+setblock ~14 ~113 ~26 nether_brick_stairs 2  
+fill ~14 ~113 ~28 ~14 ~133 ~28 red_nether_brick 0 
+setblock ~27 ~113 ~-12 nether_brick_fence 0 
+setblock ~27 ~113 ~32 nether_brick_fence 0 
+setblock ~29 ~113 ~9 nether_brick_stairs 0 
+setblock ~29 ~113 ~11 nether_brick_stairs 0 
+setblock ~30 ~113 ~11 magma 0  
+fill ~31 ~113 ~9 ~31 ~133 ~9 red_nether_brick 0  
+fill ~31 ~113 ~11 ~31 ~133 ~11 red_nether_brick 0 
+setblock ~35 ~113 ~-4 nether_brick_fence 0 
+setblock ~35 ~113 ~24 nether_brick_fence 0 
+setblock ~-9 ~114 ~-4 nether_brick_stairs 4 
+setblock ~-9 ~114 ~24 nether_brick_stairs 4  
+fill ~-4 ~114 ~9 ~-4 ~117 ~9 red_nether_brick 0  
+fill ~-3 ~114 ~9 ~-3 ~128 ~9 stone_slab 15  
+fill ~-3 ~114 ~11 ~-3 ~129 ~11 stone_slab 15 
+setblock ~-2 ~114 ~10 nether_brick_stairs 1 
+setblock ~-1 ~114 ~-12 nether_brick_stairs 6 
+setblock ~-1 ~114 ~32 nether_brick_stairs 7  
+fill ~12 ~114 ~-6 ~12 ~129 ~-6 stone_slab 15  
+fill ~12 ~114 ~26 ~12 ~128 ~26 stone_slab 15  
+fill ~12 ~114 ~27 ~12 ~117 ~27 red_nether_brick 0 
+setblock ~13 ~114 ~-5 nether_brick_stairs 3 
+setblock ~13 ~114 ~25 nether_brick_stairs 2  
+fill ~14 ~114 ~-7 ~14 ~117 ~-7 red_nether_brick 0  
+fill ~14 ~114 ~-6 ~14 ~128 ~-6 stone_slab 15  
+fill ~14 ~114 ~26 ~14 ~129 ~26 stone_slab 15 
+setblock ~27 ~114 ~-12 nether_brick_stairs 6 
+setblock ~27 ~114 ~32 nether_brick_stairs 7 
+setblock ~28 ~114 ~10 nether_brick_stairs 0  
+fill ~29 ~114 ~9 ~29 ~129 ~9 stone_slab 15  
+fill ~29 ~114 ~11 ~29 ~128 ~11 stone_slab 15  
+fill ~30 ~114 ~11 ~30 ~117 ~11 red_nether_brick 0 
+setblock ~35 ~114 ~-4 nether_brick_stairs 5 
+setblock ~35 ~114 ~24 nether_brick_stairs 5  
+fill ~-10 ~115 ~-4 ~-10 ~122 ~-4 stone_slab 7  
+fill ~-10 ~115 ~24 ~-10 ~121 ~24 stone_slab 7  
+fill ~-9 ~115 ~-4 ~-9 ~123 ~-4 red_nether_brick 0  
+fill ~-9 ~115 ~24 ~-9 ~123 ~24 red_nether_brick 0  
+fill ~-8 ~115 ~-4 ~-8 ~123 ~-4 grass_path 4  
+fill ~-8 ~115 ~24 ~-8 ~123 ~24 grass_path 4 
+setblock ~-7 ~115 ~10 nether_brick_stairs 4 
+setblock ~-4 ~115 ~11 magma 0  
+fill ~-2 ~115 ~10 ~-2 ~127 ~10 grass_path 4  
+fill ~-1 ~115 ~-13 ~-1 ~121 ~-13 stone_slab 7  
+fill ~-1 ~115 ~-12 ~-1 ~123 ~-12 red_nether_brick 0  
+fill ~-1 ~115 ~-11 ~-1 ~123 ~-11 grass_path 2  
+fill ~-1 ~115 ~31 ~-1 ~123 ~31 grass_path 3  
+fill ~-1 ~115 ~32 ~-1 ~123 ~32 red_nether_brick 0 
+setblock ~12 ~115 ~-7 magma 0 
+setblock ~13 ~115 ~-10 nether_brick_stairs 6  
+fill ~13 ~115 ~-5 ~13 ~127 ~-5 grass_path 2  
+fill ~13 ~115 ~25 ~13 ~127 ~25 grass_path 3 
+setblock ~13 ~115 ~30 nether_brick_stairs 7 
+setblock ~14 ~115 ~27 magma 0  
+fill ~27 ~115 ~-13 ~27 ~122 ~-13 stone_slab 7  
+fill ~27 ~115 ~-12 ~27 ~123 ~-12 red_nether_brick 0  
+fill ~27 ~115 ~-11 ~27 ~123 ~-11 grass_path 2  
+fill ~27 ~115 ~31 ~27 ~123 ~31 grass_path 3  
+fill ~27 ~115 ~32 ~27 ~123 ~32 red_nether_brick 0  
+fill ~27 ~115 ~33 ~27 ~121 ~33 stone_slab 7  
+fill ~28 ~115 ~10 ~28 ~127 ~10 grass_path 5 
+setblock ~30 ~115 ~9 magma 0 
+setblock ~33 ~115 ~10 nether_brick_stairs 5  
+fill ~34 ~115 ~-4 ~34 ~123 ~-4 grass_path 5  
+fill ~34 ~115 ~24 ~34 ~123 ~24 grass_path 5  
+fill ~35 ~115 ~-4 ~35 ~123 ~-4 red_nether_brick 0  
+fill ~35 ~115 ~24 ~35 ~123 ~24 red_nether_brick 0  
+fill ~36 ~115 ~-4 ~36 ~121 ~-4 stone_slab 7  
+fill ~36 ~115 ~24 ~36 ~121 ~24 stone_slab 7  
+fill ~-7 ~116 ~10 ~-7 ~117 ~10 magma 0 
+setblock ~-6 ~116 ~9 nether_brick_stairs 4  
+fill ~-6 ~116 ~10 ~-6 ~123 ~10 red_nether_brick 0 
+setblock ~-6 ~116 ~11 nether_brick_stairs 4 
+setblock ~-5 ~116 ~8 nether_brick_stairs 6  
+fill ~-4 ~116 ~11 ~-4 ~121 ~11 red_nether_brick 0 
+setblock ~-3 ~116 ~10 magma 0 
+setblock ~11 ~116 ~28 nether_brick_stairs 4 
+setblock ~12 ~116 ~-9 nether_brick_stairs 6  
+fill ~12 ~116 ~-7 ~12 ~121 ~-7 red_nether_brick 0 
+setblock ~12 ~116 ~29 nether_brick_stairs 7  
+fill ~13 ~116 ~-10 ~13 ~117 ~-10 magma 0  
+fill ~13 ~116 ~-9 ~13 ~123 ~-9 red_nether_brick 0 
+setblock ~13 ~116 ~-6 magma 0 
+setblock ~13 ~116 ~26 magma 0  
+fill ~13 ~116 ~29 ~13 ~123 ~29 red_nether_brick 0  
+fill ~13 ~116 ~30 ~13 ~117 ~30 magma 0 
+setblock ~14 ~116 ~-9 nether_brick_stairs 6  
+fill ~14 ~116 ~27 ~14 ~121 ~27 red_nether_brick 0 
+setblock ~14 ~116 ~29 nether_brick_stairs 7 
+setblock ~15 ~116 ~-8 nether_brick_stairs 5 
+setblock ~15 ~116 ~28 nether_brick_stairs 5 
+setblock ~29 ~116 ~10 magma 0  
+fill ~30 ~116 ~9 ~30 ~121 ~9 red_nether_brick 0 
+setblock ~31 ~116 ~12 nether_brick_stairs 7 
+setblock ~32 ~116 ~9 nether_brick_stairs 5  
+fill ~32 ~116 ~10 ~32 ~123 ~10 red_nether_brick 0 
+setblock ~32 ~116 ~11 nether_brick_stairs 5  
+fill ~33 ~116 ~10 ~33 ~117 ~10 magma 0 
+setblock ~-8 ~117 ~10 nether_brick_stairs 4 
+setblock ~-6 ~117 ~8 nether_brick_stairs 4  
+fill ~-6 ~117 ~9 ~-6 ~122 ~9 red_nether_brick 0  
+fill ~-6 ~117 ~11 ~-6 ~122 ~11 red_nether_brick 0 
+setblock ~-6 ~117 ~12 nether_brick_stairs 4  
+fill ~-5 ~117 ~8 ~-5 ~119 ~8 red_nether_brick 0  
+fill ~-5 ~117 ~12 ~-5 ~122 ~12 red_nether_brick 0  
+fill ~-4 ~117 ~8 ~-4 ~122 ~8 stone_slab 15  
+fill ~-3 ~117 ~10 ~-3 ~120 ~10 red_nether_brick 0 
+setblock ~11 ~117 ~-9 nether_brick_stairs 6  
+fill ~11 ~117 ~-8 ~11 ~122 ~-8 red_nether_brick 0  
+fill ~11 ~117 ~27 ~11 ~122 ~27 stone_slab 15  
+fill ~11 ~117 ~28 ~11 ~119 ~28 red_nether_brick 0 
+setblock ~11 ~117 ~29 nether_brick_stairs 7  
+fill ~12 ~117 ~-9 ~12 ~122 ~-9 red_nether_brick 0  
+fill ~12 ~117 ~29 ~12 ~122 ~29 red_nether_brick 0 
+setblock ~13 ~117 ~-11 nether_brick_stairs 6  
+fill ~13 ~117 ~-6 ~13 ~120 ~-6 red_nether_brick 0  
+fill ~13 ~117 ~26 ~13 ~120 ~26 red_nether_brick 0 
+setblock ~13 ~117 ~31 nether_brick_stairs 7  
+fill ~14 ~117 ~-9 ~14 ~122 ~-9 red_nether_brick 0  
+fill ~14 ~117 ~29 ~14 ~122 ~29 red_nether_brick 0 
+setblock ~15 ~117 ~-9 nether_brick_stairs 6  
+fill ~15 ~117 ~-8 ~15 ~119 ~-8 red_nether_brick 0  
+fill ~15 ~117 ~-7 ~15 ~122 ~-7 stone_slab 15  
+fill ~15 ~117 ~27 ~15 ~122 ~27 stone_slab 15  
+fill ~15 ~117 ~28 ~15 ~122 ~28 red_nether_brick 0 
+setblock ~15 ~117 ~29 nether_brick_stairs 7  
+fill ~29 ~117 ~10 ~29 ~120 ~10 red_nether_brick 0  
+fill ~30 ~117 ~12 ~30 ~122 ~12 stone_slab 15  
+fill ~31 ~117 ~8 ~31 ~122 ~8 red_nether_brick 0  
+fill ~31 ~117 ~12 ~31 ~119 ~12 red_nether_brick 0 
+setblock ~32 ~117 ~8 nether_brick_stairs 5  
+fill ~32 ~117 ~9 ~32 ~122 ~9 red_nether_brick 0  
+fill ~32 ~117 ~11 ~32 ~122 ~11 red_nether_brick 0 
+setblock ~32 ~117 ~12 nether_brick_stairs 5 
+setblock ~34 ~117 ~10 nether_brick_stairs 5 
+setblock ~-9 ~118 ~10 nether_brick_stairs 4 
+setblock ~-8 ~118 ~10 magma 0 
+setblock ~-7 ~118 ~9 nether_brick_stairs 4  
+fill ~-7 ~118 ~10 ~-7 ~123 ~10 red_nether_brick 0 
+setblock ~-7 ~118 ~11 nether_brick_stairs 4  
+fill ~-6 ~118 ~8 ~-6 ~121 ~8 red_nether_brick 0  
+fill ~-6 ~118 ~12 ~-6 ~121 ~12 red_nether_brick 0 
+setblock ~-4 ~118 ~9 magma 0  
+fill ~11 ~118 ~-9 ~11 ~121 ~-9 red_nether_brick 0  
+fill ~11 ~118 ~29 ~11 ~121 ~29 red_nether_brick 0 
+setblock ~12 ~118 ~-10 nether_brick_stairs 6 
+setblock ~12 ~118 ~27 magma 0 
+setblock ~12 ~118 ~30 nether_brick_stairs 7 
+setblock ~13 ~118 ~-12 nether_brick_stairs 6 
+setblock ~13 ~118 ~-11 magma 0  
+fill ~13 ~118 ~-10 ~13 ~123 ~-10 red_nether_brick 0  
+fill ~13 ~118 ~30 ~13 ~123 ~30 red_nether_brick 0 
+setblock ~13 ~118 ~31 magma 0 
+setblock ~13 ~118 ~32 nether_brick_stairs 7 
+setblock ~14 ~118 ~-10 nether_brick_stairs 6 
+setblock ~14 ~118 ~-7 magma 0 
+setblock ~14 ~118 ~30 nether_brick_stairs 7  
+fill ~15 ~118 ~-9 ~15 ~121 ~-9 red_nether_brick 0  
+fill ~15 ~118 ~29 ~15 ~120 ~29 red_nether_brick 0 
+setblock ~30 ~118 ~11 magma 0  
+fill ~32 ~118 ~8 ~32 ~121 ~8 red_nether_brick 0  
+fill ~32 ~118 ~12 ~32 ~121 ~12 red_nether_brick 0 
+setblock ~33 ~118 ~9 nether_brick_stairs 5  
+fill ~33 ~118 ~10 ~33 ~123 ~10 red_nether_brick 0 
+setblock ~33 ~118 ~11 nether_brick_stairs 5 
+setblock ~34 ~118 ~10 magma 0 
+setblock ~35 ~118 ~10 nether_brick_stairs 5 
+setblock ~-24 ~119 ~10 nether_brick_stairs 4  
+fill ~-23 ~119 ~10 ~-19 ~119 ~10 red_nether_brick 0 
+setblock ~-18 ~119 ~10 nether_brick_stairs 5 
+setblock ~-13 ~119 ~10 nether_brick_stairs 4  
+fill ~-12 ~119 ~10 ~-9 ~119 ~10 magma 0 
+setblock ~-8 ~119 ~9 nether_brick_stairs 4  
+fill ~-8 ~119 ~10 ~-8 ~122 ~10 red_nether_brick 0 
+setblock ~-8 ~119 ~11 nether_brick_stairs 4  
+fill ~-7 ~119 ~9 ~-7 ~122 ~9 red_nether_brick 0  
+fill ~-7 ~119 ~11 ~-7 ~122 ~11 red_nether_brick 0 
+setblock ~-4 ~119 ~9 red_nether_brick 0 
+setblock ~12 ~119 ~-11 nether_brick_stairs 6  
+fill ~12 ~119 ~-10 ~12 ~122 ~-10 red_nether_brick 0 
+setblock ~12 ~119 ~27 red_nether_brick 0  
+fill ~12 ~119 ~30 ~12 ~122 ~30 red_nether_brick 0 
+setblock ~12 ~119 ~31 nether_brick_stairs 7  
+fill ~13 ~119 ~-25 ~13 ~119 ~-22 red_nether_brick 0 
+setblock ~13 ~119 ~-21 nether_brick_stairs 7 
+setblock ~13 ~119 ~-16 nether_brick_stairs 6  
+fill ~13 ~119 ~-15 ~13 ~119 ~-12 magma 0  
+fill ~13 ~119 ~-11 ~13 ~122 ~-11 red_nether_brick 0  
+fill ~13 ~119 ~31 ~13 ~122 ~31 red_nether_brick 0  
+fill ~13 ~119 ~32 ~13 ~119 ~35 magma 0 
+setblock ~13 ~119 ~36 nether_brick_stairs 7 
+setblock ~13 ~119 ~41 nether_brick_stairs 6  
+fill ~13 ~119 ~42 ~13 ~120 ~42 red_nether_brick 0  
+fill ~13 ~119 ~43 ~13 ~119 ~46 red_nether_brick 0 
+setblock ~13 ~119 ~47 nether_brick_stairs 7 
+setblock ~14 ~119 ~-11 nether_brick_stairs 6  
+fill ~14 ~119 ~-10 ~14 ~122 ~-10 red_nether_brick 0 
+setblock ~14 ~119 ~-7 red_nether_brick 0  
+fill ~14 ~119 ~30 ~14 ~122 ~30 red_nether_brick 0 
+setblock ~14 ~119 ~31 nether_brick_stairs 7 
+setblock ~30 ~119 ~11 red_nether_brick 0  
+fill ~33 ~119 ~9 ~33 ~122 ~9 red_nether_brick 0  
+fill ~33 ~119 ~11 ~33 ~122 ~11 red_nether_brick 0 
+setblock ~34 ~119 ~9 nether_brick_stairs 5  
+fill ~34 ~119 ~10 ~34 ~122 ~10 red_nether_brick 0 
+setblock ~34 ~119 ~11 nether_brick_stairs 5  
+fill ~35 ~119 ~10 ~38 ~119 ~10 magma 0 
+setblock ~39 ~119 ~10 nether_brick_stairs 5 
+setblock ~44 ~119 ~10 nether_brick_stairs 4  
+fill ~45 ~119 ~10 ~49 ~119 ~10 red_nether_brick 0 
+setblock ~50 ~119 ~10 nether_brick_stairs 5 
+setblock ~-20 ~120 ~10 nether_brick_stairs 0  
+fill ~-19 ~120 ~10 ~-3 ~120 ~10 red_nether_brick 0  
+fill ~-11 ~120 ~9 ~-5 ~120 ~9 red_nether_brick 0  
+fill ~-11 ~120 ~11 ~-4 ~120 ~11 red_nether_brick 0 
+setblock ~-7 ~120 ~8 nether_brick_stairs 4 
+setblock ~-7 ~120 ~12 nether_brick_stairs 4 
+setblock ~-5 ~120 ~8 magma 0 
+setblock ~-4 ~120 ~9 magma 0 
+setblock ~11 ~120 ~-10 nether_brick_stairs 6 
+setblock ~11 ~120 ~28 magma 0 
+setblock ~11 ~120 ~30 nether_brick_stairs 7  
+fill ~12 ~120 ~-14 ~14 ~120 ~-14 red_nether_brick 0  
+fill ~12 ~120 ~-13 ~14 ~120 ~-13 red_nether_brick 0  
+fill ~12 ~120 ~-12 ~14 ~120 ~-12 red_nether_brick 0  
+fill ~12 ~120 ~-11 ~12 ~121 ~-11 red_nether_brick 0  
+fill ~12 ~120 ~9 ~12 ~123 ~9 glowstone 0 
+setblock ~12 ~120 ~10 grass_path 0 
+setblock ~12 ~120 ~27 magma 0  
+fill ~12 ~120 ~31 ~12 ~121 ~31 red_nether_brick 0  
+fill ~12 ~120 ~32 ~14 ~120 ~32 red_nether_brick 0  
+fill ~12 ~120 ~33 ~14 ~120 ~33 red_nether_brick 0  
+fill ~12 ~120 ~34 ~14 ~120 ~34 red_nether_brick 0 
+setblock ~13 ~120 ~-23 nether_brick_stairs 2  
+fill ~13 ~120 ~-22 ~13 ~120 ~-6 red_nether_brick 0 
+setblock ~13 ~120 ~9 grass_path 0 
+setblock ~13 ~120 ~11 grass_path 0  
+fill ~13 ~120 ~12 ~13 ~123 ~12 glowstone 0  
+fill ~13 ~120 ~15 ~13 ~123 ~15 glowstone 0  
+fill ~13 ~120 ~35 ~13 ~121 ~35 red_nether_brick 0  
+fill ~13 ~120 ~36 ~13 ~121 ~36 red_nether_brick 0  
+fill ~13 ~120 ~37 ~13 ~121 ~37 red_nether_brick 0  
+fill ~13 ~120 ~38 ~13 ~121 ~38 red_nether_brick 0  
+fill ~13 ~120 ~39 ~13 ~120 ~42 red_nether_brick 0 
+setblock ~13 ~120 ~43 nether_brick_stairs 3  
+fill ~14 ~120 ~-11 ~14 ~121 ~-11 red_nether_brick 0 
+setblock ~14 ~120 ~-7 magma 0 
+setblock ~14 ~120 ~10 grass_path 0  
+fill ~14 ~120 ~31 ~14 ~121 ~31 red_nether_brick 0 
+setblock ~15 ~120 ~-10 nether_brick_stairs 6 
+setblock ~15 ~120 ~-8 magma 0 
+setblock ~15 ~120 ~30 nether_brick_stairs 7 
+setblock ~30 ~120 ~11 magma 0 
+setblock ~31 ~120 ~12 magma 0 
+setblock ~33 ~120 ~8 nether_brick_stairs 5 
+setblock ~33 ~120 ~12 nether_brick_stairs 5  
+fill ~34 ~120 ~9 ~37 ~120 ~9 red_nether_brick 0  
+fill ~34 ~120 ~11 ~37 ~120 ~11 red_nether_brick 0  
+fill ~35 ~120 ~10 ~45 ~120 ~10 red_nether_brick 0 
+setblock ~46 ~120 ~10 nether_brick_stairs 1 
+setblock ~-16 ~121 ~10 nether_brick_stairs 0  
+fill ~-15 ~121 ~10 ~-4 ~121 ~10 red_nether_brick 0  
+fill ~-11 ~121 ~9 ~-10 ~121 ~9 nether_brick_stairs 2  
+fill ~-11 ~121 ~11 ~-10 ~121 ~11 nether_brick_stairs 3  
+fill ~-9 ~121 ~9 ~-4 ~121 ~9 red_nether_brick 0  
+fill ~-9 ~121 ~11 ~-4 ~121 ~11 red_nether_brick 0 
+setblock ~-7 ~121 ~8 red_nether_brick 0 
+setblock ~-7 ~121 ~12 red_nether_brick 0  
+fill ~-5 ~121 ~8 ~-5 ~122 ~8 red_nether_brick 0 
+setblock ~-3 ~121 ~10 magma 0  
+fill ~7 ~121 ~10 ~8 ~121 ~10 glowstone 0 
+setblock ~11 ~121 ~-10 red_nether_brick 0  
+fill ~11 ~121 ~8 ~11 ~123 ~8 glowstone 0  
+fill ~11 ~121 ~9 ~11 ~123 ~9 glowstone 0  
+fill ~11 ~121 ~12 ~13 ~121 ~12 glowstone 0  
+fill ~11 ~121 ~28 ~11 ~122 ~28 red_nether_brick 0 
+setblock ~11 ~121 ~30 red_nether_brick 0  
+fill ~12 ~121 ~-14 ~12 ~121 ~-13 nether_brick_stairs 0  
+fill ~12 ~121 ~-12 ~14 ~121 ~-12 red_nether_brick 0  
+fill ~12 ~121 ~10 ~12 ~123 ~10 glowstone 0  
+fill ~12 ~121 ~27 ~12 ~124 ~27 red_nether_brick 0  
+fill ~12 ~121 ~32 ~14 ~121 ~32 red_nether_brick 0  
+fill ~12 ~121 ~33 ~12 ~121 ~34 nether_brick_stairs 0 
+setblock ~13 ~121 ~-19 nether_brick_stairs 2  
+fill ~13 ~121 ~-18 ~13 ~121 ~-7 red_nether_brick 0 
+setblock ~13 ~121 ~-6 magma 0  
+fill ~13 ~121 ~6 ~13 ~123 ~6 glowstone 0  
+fill ~13 ~121 ~9 ~13 ~123 ~9 glowstone 0 
+setblock ~13 ~121 ~10 lava 0  
+fill ~13 ~121 ~11 ~14 ~121 ~11 glowstone 0 
+setblock ~13 ~121 ~26 magma 0  
+fill ~13 ~121 ~33 ~13 ~121 ~38 red_nether_brick 0 
+setblock ~13 ~121 ~39 nether_brick_stairs 3  
+fill ~14 ~121 ~-14 ~14 ~121 ~-13 nether_brick_stairs 1  
+fill ~14 ~121 ~-7 ~14 ~124 ~-7 red_nether_brick 0  
+fill ~14 ~121 ~10 ~16 ~121 ~10 glowstone 0  
+fill ~14 ~121 ~33 ~14 ~121 ~34 nether_brick_stairs 1 
+setblock ~15 ~121 ~-10 red_nether_brick 0  
+fill ~15 ~121 ~-8 ~15 ~122 ~-8 red_nether_brick 0 
+setblock ~15 ~121 ~29 magma 0 
+setblock ~15 ~121 ~30 red_nether_brick 0  
+fill ~16 ~121 ~7 ~16 ~123 ~7 glowstone 0  
+fill ~20 ~121 ~10 ~20 ~123 ~10 glowstone 0 
+setblock ~29 ~121 ~10 magma 0  
+fill ~30 ~121 ~11 ~30 ~124 ~11 red_nether_brick 0  
+fill ~31 ~121 ~12 ~31 ~122 ~12 red_nether_brick 0 
+setblock ~33 ~121 ~8 red_nether_brick 0 
+setblock ~33 ~121 ~12 red_nether_brick 0  
+fill ~34 ~121 ~9 ~35 ~121 ~9 red_nether_brick 0  
+fill ~34 ~121 ~11 ~35 ~121 ~11 red_nether_brick 0  
+fill ~35 ~121 ~10 ~41 ~121 ~10 red_nether_brick 0  
+fill ~36 ~121 ~9 ~37 ~121 ~9 nether_brick_stairs 2  
+fill ~36 ~121 ~11 ~37 ~121 ~11 nether_brick_stairs 3 
+setblock ~42 ~121 ~10 nether_brick_stairs 1 
+setblock ~-11 ~122 ~10 nether_brick_stairs 0 
+setblock ~-10 ~122 ~10 magma 0 
+setblock ~-10 ~122 ~24 nether_brick_stairs 4 
+setblock ~-9 ~122 ~9 nether_brick_stairs 2 
+setblock ~-9 ~122 ~10 red_nether_brick 0 
+setblock ~-9 ~122 ~11 nether_brick_stairs 3 
+setblock ~-8 ~122 ~9 nether_brick_stairs 0 
+setblock ~-8 ~122 ~11 nether_brick_stairs 0 
+setblock ~-7 ~122 ~8 nether_brick_stairs 2  
+fill ~-7 ~122 ~12 ~-6 ~122 ~12 nether_brick_stairs 3 
+setblock ~-6 ~122 ~8 nether_brick_stairs 0  
+fill ~-4 ~122 ~9 ~-4 ~124 ~9 red_nether_brick 0 
+setblock ~-4 ~122 ~11 magma 0  
+fill ~-3 ~122 ~10 ~-3 ~141 ~10 red_nether_brick 0 
+setblock ~-1 ~122 ~-13 nether_brick_stairs 6 
+setblock ~-1 ~122 ~33 nether_brick_stairs 7  
+fill ~5 ~122 ~9 ~5 ~123 ~9 glowstone 0  
+fill ~6 ~122 ~10 ~12 ~122 ~10 glowstone 0  
+fill ~10 ~122 ~7 ~10 ~123 ~7 glowstone 0  
+fill ~10 ~122 ~13 ~10 ~123 ~13 glowstone 0  
+fill ~11 ~122 ~-10 ~11 ~122 ~-9 nether_brick_stairs 0  
+fill ~11 ~122 ~11 ~15 ~122 ~11 glowstone 0  
+fill ~11 ~122 ~12 ~15 ~122 ~12 glowstone 0 
+setblock ~11 ~122 ~29 nether_brick_stairs 3 
+setblock ~11 ~122 ~30 nether_brick_stairs 0 
+setblock ~12 ~122 ~-12 nether_brick_stairs 0 
+setblock ~12 ~122 ~-11 nether_brick_stairs 2 
+setblock ~12 ~122 ~-7 magma 0  
+fill ~12 ~122 ~8 ~15 ~122 ~8 glowstone 0 
+setblock ~12 ~122 ~31 nether_brick_stairs 3 
+setblock ~12 ~122 ~32 nether_brick_stairs 0 
+setblock ~13 ~122 ~-14 nether_brick_stairs 2 
+setblock ~13 ~122 ~-13 magma 0 
+setblock ~13 ~122 ~-12 red_nether_brick 0  
+fill ~13 ~122 ~-6 ~13 ~141 ~-6 red_nether_brick 0  
+fill ~13 ~122 ~3 ~13 ~123 ~3 glowstone 0  
+fill ~13 ~122 ~4 ~13 ~123 ~4 glowstone 0  
+fill ~13 ~122 ~5 ~13 ~123 ~5 glowstone 0  
+fill ~13 ~122 ~7 ~13 ~123 ~7 glowstone 0  
+fill ~13 ~122 ~10 ~13 ~124 ~10 redstone_block 0  
+fill ~13 ~122 ~13 ~13 ~123 ~13 glowstone 0  
+fill ~13 ~122 ~14 ~13 ~123 ~14 glowstone 0  
+fill ~13 ~122 ~16 ~13 ~123 ~16 glowstone 0  
+fill ~13 ~122 ~17 ~13 ~123 ~17 glowstone 0  
+fill ~13 ~122 ~26 ~13 ~141 ~26 red_nether_brick 0 
+setblock ~13 ~122 ~32 red_nether_brick 0 
+setblock ~13 ~122 ~33 magma 0 
+setblock ~13 ~122 ~34 nether_brick_stairs 3 
+setblock ~14 ~122 ~-12 nether_brick_stairs 1 
+setblock ~14 ~122 ~-11 nether_brick_stairs 2  
+fill ~14 ~122 ~9 ~15 ~122 ~9 glowstone 0  
+fill ~14 ~122 ~10 ~20 ~122 ~10 glowstone 0 
+setblock ~14 ~122 ~27 magma 0 
+setblock ~14 ~122 ~31 nether_brick_stairs 3 
+setblock ~14 ~122 ~32 nether_brick_stairs 1 
+setblock ~15 ~122 ~-10 nether_brick_stairs 1 
+setblock ~15 ~122 ~-9 nether_brick_stairs 2  
+fill ~15 ~122 ~29 ~15 ~122 ~30 nether_brick_stairs 1  
+fill ~16 ~122 ~13 ~16 ~123 ~13 glowstone 0  
+fill ~17 ~122 ~5 ~17 ~123 ~5 glowstone 0 
+setblock ~18 ~122 ~11 glowstone 0 
+setblock ~27 ~122 ~33 nether_brick_stairs 7  
+fill ~29 ~122 ~10 ~29 ~141 ~10 red_nether_brick 0 
+setblock ~30 ~122 ~9 magma 0  
+fill ~32 ~122 ~8 ~33 ~122 ~8 nether_brick_stairs 2 
+setblock ~32 ~122 ~12 nether_brick_stairs 1 
+setblock ~33 ~122 ~12 nether_brick_stairs 3 
+setblock ~34 ~122 ~9 nether_brick_stairs 1 
+setblock ~34 ~122 ~11 nether_brick_stairs 1 
+setblock ~35 ~122 ~9 nether_brick_stairs 2  
+fill ~35 ~122 ~10 ~35 ~120 ~10 red_nether_brick 0 
+setblock ~35 ~122 ~11 nether_brick_stairs 3 
+setblock ~36 ~122 ~-4 nether_brick_stairs 5 
+setblock ~36 ~122 ~10 magma 0 
+setblock ~36 ~122 ~24 nether_brick_stairs 5 
+setblock ~37 ~122 ~10 nether_brick_stairs 1  
+fill ~-11 ~123 ~24 ~-11 ~131 ~24 stone_slab 7 
+setblock ~-10 ~123 ~-4 nether_brick_stairs 4  
+fill ~-10 ~123 ~24 ~-10 ~131 ~24 red_nether_brick 0 
+setblock ~-9 ~123 ~10 nether_brick_stairs 0 
+setblock ~-8 ~123 ~10 magma 0 
+setblock ~-7 ~123 ~9 nether_brick_stairs 2  
+fill ~-7 ~123 ~11 ~-6 ~123 ~11 nether_brick_stairs 3 
+setblock ~-6 ~123 ~9 nether_brick_stairs 0 
+setblock ~-5 ~123 ~8 nether_brick_stairs 2 
+setblock ~-5 ~123 ~12 nether_brick_stairs 3  
+fill ~-4 ~123 ~11 ~-4 ~124 ~11 red_nether_brick 0  
+fill ~-1 ~123 ~-14 ~-1 ~131 ~-14 stone_slab 7  
+fill ~-1 ~123 ~-13 ~-1 ~131 ~-13 red_nether_brick 0  
+fill ~-1 ~123 ~33 ~-1 ~131 ~33 red_nether_brick 0  
+fill ~-1 ~123 ~34 ~-1 ~131 ~34 stone_slab 7  
+fill ~3 ~123 ~7 ~8 ~123 ~7 stone_slab 15  
+fill ~3 ~123 ~8 ~3 ~123 ~13 stone_slab 15  
+fill ~4 ~123 ~5 ~7 ~123 ~5 stone_slab 15  
+fill ~4 ~123 ~6 ~7 ~123 ~6 stone_slab 15  
+fill ~4 ~123 ~8 ~5 ~123 ~8 glowstone 0  
+fill ~4 ~123 ~9 ~4 ~123 ~8 glowstone 0 
+setblock ~4 ~123 ~10 stone_slab 15  
+fill ~4 ~123 ~11 ~7 ~123 ~11 glowstone 0  
+fill ~4 ~123 ~12 ~5 ~123 ~12 glowstone 0  
+fill ~4 ~123 ~13 ~8 ~123 ~13 stone_slab 15  
+fill ~4 ~123 ~14 ~7 ~123 ~14 stone_slab 15  
+fill ~4 ~123 ~15 ~7 ~123 ~15 stone_slab 15  
+fill ~5 ~123 ~4 ~11 ~123 ~4 stone_slab 15  
+fill ~5 ~123 ~10 ~12 ~123 ~10 glowstone 0  
+fill ~5 ~123 ~16 ~11 ~123 ~16 stone_slab 15  
+fill ~6 ~123 ~3 ~11 ~123 ~3 stone_slab 15  
+fill ~6 ~123 ~8 ~9 ~123 ~8 stone_slab 15  
+fill ~6 ~123 ~9 ~7 ~123 ~9 glowstone 0  
+fill ~6 ~123 ~12 ~10 ~123 ~12 stone_slab 15  
+fill ~6 ~123 ~17 ~11 ~123 ~17 stone_slab 15  
+fill ~7 ~123 ~2 ~8 ~123 ~2 stone_slab 15  
+fill ~7 ~123 ~18 ~10 ~123 ~18 stone_slab 15  
+fill ~8 ~123 ~1 ~10 ~123 ~1 stone_slab 15  
+fill ~8 ~123 ~5 ~9 ~123 ~5 glowstone 0  
+fill ~8 ~123 ~6 ~10 ~123 ~6 glowstone 0  
+fill ~8 ~123 ~9 ~10 ~123 ~9 stone_slab 15  
+fill ~8 ~123 ~11 ~10 ~123 ~11 stone_slab 15  
+fill ~8 ~123 ~14 ~10 ~123 ~14 glowstone 0  
+fill ~8 ~123 ~15 ~9 ~123 ~15 glowstone 0  
+fill ~8 ~123 ~19 ~10 ~123 ~19 stone_slab 15 
+setblock ~9 ~123 ~2 double_stone_slab 7 
+setblock ~9 ~123 ~7 glowstone 0 
+setblock ~9 ~123 ~13 glowstone 0  
+fill ~10 ~123 ~0 ~16 ~123 ~0 stone_slab 15 
+setblock ~10 ~123 ~2 stone_slab 15  
+fill ~10 ~123 ~5 ~12 ~123 ~5 stone_slab 15 
+setblock ~10 ~123 ~8 glowstone 0  
+fill ~10 ~123 ~15 ~12 ~123 ~15 stone_slab 15  
+fill ~10 ~123 ~20 ~16 ~123 ~20 stone_slab 15 
+setblock ~11 ~123 ~-8 nether_brick_stairs 0  
+fill ~11 ~123 ~1 ~12 ~123 ~1 glowstone 0  
+fill ~11 ~123 ~2 ~15 ~123 ~2 glowstone 0  
+fill ~11 ~123 ~6 ~12 ~123 ~6 stone_slab 15 
+setblock ~11 ~123 ~7 glowstone 0  
+fill ~11 ~123 ~11 ~15 ~123 ~11 glowstone 0  
+fill ~11 ~123 ~12 ~15 ~123 ~12 glowstone 0  
+fill ~11 ~123 ~13 ~12 ~123 ~13 stone_slab 15  
+fill ~11 ~123 ~14 ~12 ~123 ~14 stone_slab 15  
+fill ~11 ~123 ~18 ~15 ~123 ~18 glowstone 0  
+fill ~11 ~123 ~19 ~12 ~123 ~19 glowstone 0 
+setblock ~11 ~123 ~28 nether_brick_stairs 0  
+fill ~12 ~123 ~-10 ~12 ~123 ~-9 nether_brick_stairs 0  
+fill ~12 ~123 ~-7 ~12 ~124 ~-7 red_nether_brick 0  
+fill ~12 ~123 ~3 ~12 ~123 ~4 glowstone 0 
+setblock ~12 ~123 ~7 stone_slab 15  
+fill ~12 ~123 ~8 ~15 ~123 ~8 glowstone 0  
+fill ~12 ~123 ~16 ~12 ~123 ~19 glowstone 0 
+setblock ~12 ~123 ~29 nether_brick_stairs 3 
+setblock ~12 ~123 ~30 nether_brick_stairs 0 
+setblock ~13 ~123 ~-12 nether_brick_stairs 2 
+setblock ~13 ~123 ~-11 magma 0 
+setblock ~13 ~123 ~1 stone_slab 15 
+setblock ~13 ~123 ~19 stone_slab 15 
+setblock ~13 ~123 ~31 magma 0 
+setblock ~13 ~123 ~32 nether_brick_stairs 3 
+setblock ~14 ~123 ~-10 nether_brick_stairs 1 
+setblock ~14 ~123 ~-9 nether_brick_stairs 2  
+fill ~14 ~123 ~1 ~15 ~123 ~1 glowstone 0  
+fill ~14 ~123 ~3 ~14 ~123 ~4 glowstone 0  
+fill ~14 ~123 ~5 ~16 ~123 ~5 stone_slab 15  
+fill ~14 ~123 ~6 ~15 ~123 ~6 stone_slab 15  
+fill ~14 ~123 ~7 ~15 ~123 ~7 stone_slab 15  
+fill ~14 ~123 ~9 ~15 ~123 ~9 glowstone 0  
+fill ~14 ~123 ~10 ~21 ~123 ~10 glowstone 0  
+fill ~14 ~123 ~13 ~14 ~123 ~15 stone_slab 15  
+fill ~14 ~123 ~16 ~14 ~123 ~19 glowstone 0  
+fill ~14 ~123 ~27 ~14 ~124 ~27 red_nether_brick 0  
+fill ~14 ~123 ~29 ~14 ~123 ~30 nether_brick_stairs 1 
+setblock ~15 ~123 ~-8 nether_brick_stairs 1  
+fill ~15 ~123 ~3 ~20 ~123 ~3 stone_slab 15  
+fill ~15 ~123 ~4 ~21 ~123 ~4 stone_slab 15 
+setblock ~15 ~123 ~13 glowstone 0  
+fill ~15 ~123 ~14 ~15 ~123 ~17 stone_slab 15 
+setblock ~15 ~123 ~19 glowstone 0 
+setblock ~15 ~123 ~28 nether_brick_stairs 1  
+fill ~16 ~123 ~1 ~18 ~123 ~1 stone_slab 15  
+fill ~16 ~123 ~2 ~19 ~123 ~2 stone_slab 15  
+fill ~16 ~123 ~6 ~18 ~123 ~6 glowstone 0  
+fill ~16 ~123 ~8 ~20 ~123 ~8 stone_slab 15  
+fill ~16 ~123 ~9 ~18 ~123 ~9 stone_slab 15  
+fill ~16 ~123 ~11 ~18 ~123 ~11 stone_slab 15  
+fill ~16 ~123 ~12 ~20 ~123 ~12 stone_slab 15  
+fill ~16 ~123 ~14 ~18 ~123 ~14 glowstone 0  
+fill ~16 ~123 ~15 ~16 ~123 ~20 stone_slab 15 
+setblock ~17 ~123 ~7 glowstone 0 
+setblock ~17 ~123 ~13 glowstone 0  
+fill ~17 ~123 ~15 ~18 ~123 ~15 glowstone 0  
+fill ~17 ~123 ~16 ~21 ~123 ~16 stone_slab 15  
+fill ~17 ~123 ~17 ~20 ~123 ~17 stone_slab 15  
+fill ~17 ~123 ~18 ~19 ~123 ~18 stone_slab 15  
+fill ~17 ~123 ~19 ~18 ~123 ~19 stone_slab 15 
+setblock ~18 ~123 ~5 glowstone 0  
+fill ~18 ~123 ~7 ~23 ~123 ~7 stone_slab 15  
+fill ~18 ~123 ~13 ~23 ~123 ~13 stone_slab 15  
+fill ~19 ~123 ~5 ~22 ~123 ~5 stone_slab 15  
+fill ~19 ~123 ~6 ~22 ~123 ~6 stone_slab 15  
+fill ~19 ~123 ~9 ~22 ~123 ~9 glowstone 0  
+fill ~19 ~123 ~11 ~22 ~123 ~11 glowstone 0  
+fill ~19 ~123 ~14 ~22 ~123 ~14 stone_slab 15  
+fill ~19 ~123 ~15 ~22 ~123 ~15 stone_slab 15  
+fill ~21 ~123 ~8 ~22 ~123 ~8 glowstone 0  
+fill ~21 ~123 ~12 ~22 ~123 ~12 glowstone 0  
+fill ~22 ~123 ~10 ~23 ~123 ~10 stone_slab 15  
+fill ~23 ~123 ~8 ~23 ~123 ~13 stone_slab 15 
+setblock ~27 ~123 ~-13 nether_brick_stairs 6  
+fill ~27 ~123 ~33 ~27 ~131 ~33 red_nether_brick 0  
+fill ~27 ~123 ~34 ~27 ~131 ~34 stone_slab 7  
+fill ~30 ~123 ~9 ~30 ~124 ~9 red_nether_brick 0 
+setblock ~31 ~123 ~8 nether_brick_stairs 2 
+setblock ~31 ~123 ~12 nether_brick_stairs 3  
+fill ~32 ~123 ~9 ~33 ~123 ~9 nether_brick_stairs 2 
+setblock ~32 ~123 ~11 nether_brick_stairs 1 
+setblock ~33 ~123 ~11 nether_brick_stairs 3 
+setblock ~34 ~123 ~10 magma 0 
+setblock ~35 ~123 ~10 nether_brick_stairs 1  
+fill ~36 ~123 ~-4 ~36 ~131 ~-4 red_nether_brick 0  
+fill ~36 ~123 ~24 ~36 ~131 ~24 red_nether_brick 0  
+fill ~37 ~123 ~-4 ~37 ~131 ~-4 stone_slab 7  
+fill ~37 ~123 ~24 ~37 ~131 ~24 stone_slab 7  
+fill ~-11 ~124 ~-4 ~-11 ~131 ~-4 stone_slab 7  
+fill ~-10 ~124 ~-4 ~-10 ~131 ~-4 red_nether_brick 0 
+setblock ~-9 ~124 ~-4 nether_brick_stairs 1 
+setblock ~-9 ~124 ~24 nether_brick_stairs 1 
+setblock ~-7 ~124 ~10 nether_brick_stairs 0 
+setblock ~-6 ~124 ~10 magma 0 
+setblock ~-1 ~124 ~-12 nether_brick_stairs 3 
+setblock ~-1 ~124 ~32 nether_brick_stairs 2 
+setblock ~2 ~124 ~6 nether_brick_stairs 6  
+fill ~2 ~124 ~7 ~2 ~125 ~7 nether_brick_stairs 4  
+fill ~2 ~124 ~8 ~2 ~125 ~8 nether_brick_stairs 4  
+fill ~2 ~124 ~9 ~2 ~125 ~9 nether_brick_stairs 4  
+fill ~2 ~124 ~10 ~2 ~125 ~10 nether_brick_stairs 4  
+fill ~2 ~124 ~11 ~2 ~125 ~11 nether_brick_stairs 4  
+fill ~2 ~124 ~12 ~2 ~125 ~12 nether_brick_stairs 4  
+fill ~2 ~124 ~13 ~2 ~125 ~13 nether_brick_stairs 4  
+fill ~2 ~124 ~14 ~2 ~124 ~7 nether_brick_stairs 4 
+setblock ~3 ~124 ~4 nether_brick_stairs 6  
+fill ~3 ~124 ~5 ~3 ~125 ~5 nether_brick_stairs 4  
+fill ~3 ~124 ~6 ~3 ~124 ~5 nether_brick_stairs 4  
+fill ~3 ~124 ~7 ~23 ~124 ~7 bedrock 0  
+fill ~3 ~124 ~8 ~23 ~124 ~8 bedrock 0  
+fill ~3 ~124 ~9 ~12 ~124 ~9 bedrock 0  
+fill ~3 ~124 ~10 ~11 ~124 ~10 bedrock 0  
+fill ~3 ~124 ~11 ~12 ~124 ~11 bedrock 0  
+fill ~3 ~124 ~12 ~23 ~124 ~12 bedrock 0  
+fill ~3 ~124 ~13 ~23 ~124 ~13 bedrock 0 
+setblock ~3 ~124 ~14 nether_brick_stairs 7  
+fill ~3 ~124 ~15 ~3 ~125 ~15 nether_brick_stairs 4  
+fill ~3 ~124 ~16 ~3 ~124 ~15 nether_brick_stairs 4 
+setblock ~4 ~124 ~3 nether_brick_stairs 6 
+setblock ~4 ~124 ~4 nether_brick_stairs 4  
+fill ~4 ~124 ~5 ~22 ~124 ~5 bedrock 0  
+fill ~4 ~124 ~6 ~22 ~124 ~6 bedrock 0  
+fill ~4 ~124 ~14 ~22 ~124 ~14 bedrock 0  
+fill ~4 ~124 ~15 ~22 ~124 ~15 bedrock 0 
+setblock ~4 ~124 ~16 nether_brick_stairs 3 
+setblock ~4 ~124 ~17 nether_brick_stairs 4 
+setblock ~5 ~124 ~2 nether_brick_stairs 6 
+setblock ~5 ~124 ~3 nether_brick_stairs 4  
+fill ~5 ~124 ~4 ~21 ~124 ~4 bedrock 0  
+fill ~5 ~124 ~16 ~21 ~124 ~16 bedrock 0 
+setblock ~5 ~124 ~17 nether_brick_stairs 7 
+setblock ~5 ~124 ~18 nether_brick_stairs 4 
+setblock ~6 ~124 ~1 nether_brick_stairs 6 
+setblock ~6 ~124 ~2 nether_brick_stairs 4  
+fill ~6 ~124 ~3 ~20 ~124 ~3 bedrock 0  
+fill ~6 ~124 ~17 ~20 ~124 ~17 bedrock 0 
+setblock ~6 ~124 ~18 nether_brick_stairs 7 
+setblock ~6 ~124 ~19 nether_brick_stairs 4  
+fill ~7 ~124 ~0 ~8 ~124 ~0 nether_brick_stairs 6 
+setblock ~7 ~124 ~1 nether_brick_stairs 0  
+fill ~7 ~124 ~2 ~19 ~124 ~2 bedrock 0  
+fill ~7 ~124 ~18 ~19 ~124 ~18 bedrock 0 
+setblock ~7 ~124 ~19 nether_brick_stairs 7 
+setblock ~7 ~124 ~20 nether_brick_stairs 4  
+fill ~8 ~124 ~1 ~18 ~124 ~1 bedrock 0  
+fill ~8 ~124 ~19 ~18 ~124 ~19 bedrock 0  
+fill ~8 ~124 ~20 ~9 ~124 ~20 nether_brick_stairs 7  
+fill ~9 ~124 ~-1 ~16 ~124 ~-1 nether_brick_stairs 6 
+setblock ~9 ~124 ~0 nether_brick_stairs 4 
+setblock ~9 ~124 ~21 nether_brick_stairs 4  
+fill ~10 ~124 ~0 ~16 ~124 ~0 bedrock 0  
+fill ~10 ~124 ~20 ~16 ~124 ~20 bedrock 0  
+fill ~10 ~124 ~21 ~17 ~124 ~21 nether_brick_stairs 7 
+setblock ~12 ~124 ~10 redstone_block 0 
+setblock ~13 ~124 ~-10 nether_brick_stairs 2 
+setblock ~13 ~124 ~-9 magma 0 
+setblock ~13 ~124 ~9 redstone_block 0 
+setblock ~13 ~124 ~11 redstone_block 0 
+setblock ~13 ~124 ~29 magma 0 
+setblock ~13 ~124 ~30 nether_brick_stairs 3  
+fill ~14 ~124 ~9 ~23 ~124 ~9 bedrock 0 
+setblock ~14 ~124 ~10 redstone_block 0  
+fill ~14 ~124 ~11 ~23 ~124 ~11 bedrock 0  
+fill ~15 ~124 ~10 ~23 ~124 ~10 bedrock 0 
+setblock ~17 ~124 ~-1 nether_brick_stairs 5  
+fill ~17 ~124 ~0 ~18 ~124 ~0 nether_brick_stairs 6 
+setblock ~17 ~124 ~20 nether_brick_stairs 5  
+fill ~18 ~124 ~20 ~19 ~124 ~20 nether_brick_stairs 7 
+setblock ~19 ~124 ~0 nether_brick_stairs 5 
+setblock ~19 ~124 ~1 nether_brick_stairs 6 
+setblock ~19 ~124 ~19 nether_brick_stairs 1 
+setblock ~20 ~124 ~1 nether_brick_stairs 5 
+setblock ~20 ~124 ~2 nether_brick_stairs 6 
+setblock ~20 ~124 ~18 nether_brick_stairs 5 
+setblock ~20 ~124 ~19 nether_brick_stairs 7 
+setblock ~21 ~124 ~2 nether_brick_stairs 5 
+setblock ~21 ~124 ~3 nether_brick_stairs 6 
+setblock ~21 ~124 ~17 nether_brick_stairs 5 
+setblock ~21 ~124 ~18 nether_brick_stairs 7 
+setblock ~22 ~124 ~3 nether_brick_stairs 5 
+setblock ~22 ~124 ~4 nether_brick_stairs 2 
+setblock ~22 ~124 ~16 nether_brick_stairs 5 
+setblock ~22 ~124 ~17 nether_brick_stairs 7  
+fill ~23 ~124 ~4 ~23 ~124 ~5 nether_brick_stairs 5 
+setblock ~23 ~124 ~6 nether_brick_stairs 6  
+fill ~23 ~124 ~14 ~23 ~124 ~15 nether_brick_stairs 5 
+setblock ~23 ~124 ~16 nether_brick_stairs 7  
+fill ~24 ~124 ~6 ~24 ~124 ~13 nether_brick_stairs 5 
+setblock ~24 ~124 ~14 nether_brick_stairs 7  
+fill ~27 ~124 ~-14 ~27 ~131 ~-14 stone_slab 7  
+fill ~27 ~124 ~-13 ~27 ~131 ~-13 red_nether_brick 0 
+setblock ~27 ~124 ~-12 nether_brick_stairs 3 
+setblock ~27 ~124 ~32 nether_brick_stairs 2 
+setblock ~32 ~124 ~10 magma 0 
+setblock ~33 ~124 ~10 nether_brick_stairs 1 
+setblock ~35 ~124 ~-4 nether_brick_stairs 0 
+setblock ~35 ~124 ~24 nether_brick_stairs 0  
+fill ~-9 ~125 ~-4 ~-9 ~129 ~-4 grass_path 4  
+fill ~-9 ~125 ~24 ~-9 ~129 ~24 grass_path 4 
+setblock ~-8 ~125 ~10 nether_brick_stairs 4 
+setblock ~-7 ~125 ~9 nether_brick_stairs 4 
+setblock ~-7 ~125 ~10 magma 0 
+setblock ~-7 ~125 ~11 nether_brick_stairs 4  
+fill ~-6 ~125 ~9 ~-6 ~132 ~9 red_nether_brick 0  
+fill ~-6 ~125 ~10 ~-6 ~132 ~10 red_nether_brick 0  
+fill ~-6 ~125 ~11 ~-6 ~132 ~11 red_nether_brick 0  
+fill ~-5 ~125 ~-6 ~3 ~125 ~-6 stone_slab 15  
+fill ~-5 ~125 ~-5 ~3 ~125 ~-5 stone_slab 15  
+fill ~-5 ~125 ~-4 ~3 ~125 ~-4 stone_slab 15  
+fill ~-5 ~125 ~-3 ~2 ~125 ~-3 stone_slab 15  
+fill ~-5 ~125 ~-2 ~2 ~125 ~-2 stone_slab 15  
+fill ~-5 ~125 ~22 ~2 ~125 ~22 stone_slab 15  
+fill ~-5 ~125 ~23 ~3 ~125 ~23 stone_slab 15  
+fill ~-5 ~125 ~24 ~3 ~125 ~24 stone_slab 15  
+fill ~-5 ~125 ~25 ~3 ~125 ~25 stone_slab 15  
+fill ~-5 ~125 ~26 ~3 ~125 ~26 stone_slab 15  
+fill ~-4 ~125 ~-7 ~2 ~125 ~-7 stone_slab 15  
+fill ~-4 ~125 ~-1 ~2 ~125 ~-1 stone_slab 15 
+setblock ~-4 ~125 ~9 magma 0 
+setblock ~-4 ~125 ~11 magma 0  
+fill ~-4 ~125 ~21 ~2 ~125 ~21 stone_slab 15  
+fill ~-4 ~125 ~27 ~2 ~125 ~27 stone_slab 15  
+fill ~-3 ~125 ~-8 ~1 ~125 ~-8 stone_slab 15  
+fill ~-3 ~125 ~0 ~0 ~125 ~0 stone_slab 15  
+fill ~-3 ~125 ~20 ~-1 ~125 ~20 stone_slab 15  
+fill ~-3 ~125 ~28 ~1 ~125 ~28 stone_slab 15  
+fill ~-1 ~125 ~-12 ~-1 ~129 ~-12 grass_path 2  
+fill ~-1 ~125 ~32 ~-1 ~129 ~32 grass_path 3 
+setblock ~2 ~125 ~6 nether_brick_stairs 4 
+setblock ~2 ~125 ~14 nether_brick_stairs 7 
+setblock ~3 ~125 ~4 nether_brick_stairs 4 
+setblock ~3 ~125 ~6 nether_brick_stairs 6  
+fill ~3 ~125 ~7 ~3 ~125 ~13 red_nether_brick 0 
+setblock ~3 ~125 ~14 nether_brick_stairs 4 
+setblock ~3 ~125 ~16 nether_brick_stairs 7 
+setblock ~4 ~125 ~2 stone_slab 15 
+setblock ~4 ~125 ~3 nether_brick_stairs 4 
+setblock ~4 ~125 ~4 nether_brick_stairs 6  
+fill ~4 ~125 ~5 ~4 ~125 ~6 red_nether_brick 0  
+fill ~4 ~125 ~7 ~6 ~125 ~7 nether_wart_block 0  
+fill ~4 ~125 ~8 ~10 ~125 ~8 nether_wart_block 0  
+fill ~4 ~125 ~9 ~4 ~125 ~12 nether_wart_block 0  
+fill ~4 ~125 ~13 ~4 ~125 ~15 red_nether_brick 0 
+setblock ~4 ~125 ~16 nether_brick_stairs 4 
+setblock ~4 ~125 ~17 nether_brick_stairs 7 
+setblock ~4 ~125 ~18 stone_slab 15 
+setblock ~5 ~125 ~1 stone_slab 15 
+setblock ~5 ~125 ~2 nether_brick_stairs 4 
+setblock ~5 ~125 ~3 nether_brick_stairs 6 
+setblock ~5 ~125 ~4 red_nether_brick 0  
+fill ~5 ~125 ~5 ~8 ~125 ~5 nether_wart_block 0 
+setblock ~5 ~125 ~6 red_nether_brick 0  
+fill ~5 ~125 ~10 ~6 ~125 ~10 red_nether_brick 0  
+fill ~5 ~125 ~11 ~6 ~125 ~11 nether_wart_block 0 
+fill ~5 ~125 ~12 ~5 ~125 ~15 nether_wart_block 0 
+setblock ~5 ~125 ~16 red_nether_brick 0 
+setblock ~5 ~125 ~17 nether_brick_stairs 4 
+setblock ~5 ~125 ~18 nether_brick_stairs 7 
+setblock ~5 ~125 ~19 stone_slab 15 
+setblock ~6 ~125 ~1 nether_brick_stairs 4 
+setblock ~6 ~125 ~2 nether_brick_stairs 6 
+setblock ~6 ~125 ~3 red_nether_brick 0 
+setblock ~6 ~125 ~4 nether_wart_block 0  
+fill ~6 ~125 ~6 ~7 ~125 ~6 nether_wart_block 0 
+setblock ~6 ~125 ~9 nether_wart_block 0 
+setblock ~6 ~125 ~12 red_nether_brick 0  
+fill ~6 ~125 ~13 ~7 ~125 ~13 nether_wart_block 0  
+fill ~6 ~125 ~14 ~8 ~125 ~14 red_nether_brick 0  
+fill ~6 ~125 ~15 ~9 ~125 ~15 nether_wart_block 0  
+fill ~6 ~125 ~16 ~6 ~125 ~15 nether_wart_block 0 
+setblock ~6 ~125 ~17 red_nether_brick 0 
+setblock ~6 ~125 ~18 nether_brick_stairs 4 
+setblock ~6 ~125 ~19 nether_brick_stairs 7 
+setblock ~7 ~125 ~0 nether_brick_stairs 4 
+setblock ~7 ~125 ~1 nether_brick_stairs 6 
+setblock ~7 ~125 ~2 red_nether_brick 0  
+fill ~7 ~125 ~3 ~8 ~125 ~3 nether_wart_block 0 
+setblock ~7 ~125 ~4 red_nether_brick 0  
+fill ~7 ~125 ~7 ~8 ~125 ~7 red_nether_brick 0 
+setblock ~7 ~125 ~9 red_nether_brick 0 
+setblock ~7 ~125 ~10 nether_wart_block 0  
+fill ~7 ~125 ~11 ~8 ~125 ~11 red_nether_brick 0  
+fill ~7 ~125 ~12 ~11 ~125 ~12 nether_wart_block 0 
+setblock ~7 ~125 ~16 red_nether_brick 0  
+fill ~7 ~125 ~17 ~8 ~125 ~17 nether_wart_block 0 
+setblock ~7 ~125 ~18 red_nether_brick 0 
+setblock ~7 ~125 ~19 nether_brick_stairs 4  
+fill ~7 ~125 ~20 ~8 ~125 ~20 nether_brick_stairs 7  
+fill ~8 ~125 ~0 ~9 ~125 ~0 nether_brick_stairs 6  
+fill ~8 ~125 ~1 ~10 ~125 ~1 red_nether_brick 0  
+fill ~8 ~125 ~2 ~10 ~125 ~2 nether_wart_block 0  
+fill ~8 ~125 ~4 ~10 ~125 ~4 nether_wart_block 0 
+setblock ~8 ~125 ~6 red_nether_brick 0 
+setblock ~8 ~125 ~9 nether_wart_block 0 
+setblock ~8 ~125 ~10 red_nether_brick 0 
+setblock ~8 ~125 ~13 red_nether_brick 0 
+setblock ~8 ~125 ~16 nether_wart_block 0  
+fill ~8 ~125 ~18 ~12 ~125 ~18 nether_wart_block 0  
+fill ~8 ~125 ~19 ~11 ~125 ~19 red_nether_brick 0 
+setblock ~9 ~125 ~-1 nether_brick_stairs 4 
+setblock ~9 ~125 ~3 red_nether_brick 0 
+setblock ~9 ~125 ~5 red_nether_brick 0  
+fill ~9 ~125 ~6 ~10 ~125 ~6 nether_wart_block 0  
+fill ~9 ~125 ~7 ~9 ~125 ~6 nether_wart_block 0 
+setblock ~9 ~125 ~9 red_nether_brick 0 
+setblock ~9 ~125 ~10 sea_lantern 0  
+fill ~9 ~125 ~11 ~10 ~125 ~11 nether_wart_block 0  
+fill ~9 ~125 ~13 ~9 ~125 ~15 nether_wart_block 0  
+fill ~9 ~125 ~16 ~9 ~125 ~17 red_nether_brick 0 
+setblock ~9 ~125 ~20 nether_brick_stairs 4  
+fill ~9 ~125 ~21 ~16 ~125 ~21 nether_brick_stairs 7  
+fill ~10 ~125 ~-1 ~17 ~125 ~-1 nether_brick_stairs 6  
+fill ~10 ~125 ~0 ~16 ~125 ~0 red_nether_brick 0  
+fill ~10 ~125 ~3 ~12 ~125 ~3 nether_wart_block 0  
+fill ~10 ~125 ~5 ~12 ~125 ~5 nether_wart_block 0 
+setblock ~10 ~125 ~7 sea_lantern 0  
+fill ~10 ~125 ~9 ~11 ~125 ~9 nether_wart_block 0  
+fill ~10 ~125 ~10 ~12 ~125 ~10 nether_wart_block 0 
+setblock ~10 ~125 ~13 sea_lantern 0 
+setblock ~10 ~125 ~14 nether_wart_block 0 
+setblock ~10 ~125 ~15 red_nether_brick 0  
+fill ~10 ~125 ~16 ~11 ~125 ~16 nether_wart_block 0  
+fill ~10 ~125 ~17 ~10 ~125 ~16 nether_wart_block 0  
+fill ~10 ~125 ~20 ~16 ~125 ~20 red_nether_brick 0  
+fill ~11 ~125 ~1 ~16 ~125 ~1 nether_wart_block 0 
+setblock ~11 ~125 ~2 red_nether_brick 0  
+fill ~11 ~125 ~4 ~12 ~125 ~4 red_nether_brick 0 
+setblock ~11 ~125 ~6 red_nether_brick 0  
+fill ~11 ~125 ~7 ~15 ~125 ~7 nether_wart_block 0 
+setblock ~11 ~125 ~8 red_nether_brick 0 
+setblock ~11 ~125 ~11 red_nether_brick 0  
+fill ~11 ~125 ~13 ~13 ~125 ~13 nether_wart_block 0 
+setblock ~11 ~125 ~14 red_nether_brick 0  
+fill ~11 ~125 ~15 ~12 ~125 ~15 nether_wart_block 0 
+setblock ~11 ~125 ~17 red_nether_brick 0 
+setblock ~12 ~125 ~-10 nether_brick_stairs 6  
+fill ~12 ~125 ~-9 ~14 ~125 ~-9 red_nether_brick 0 
+setblock ~12 ~125 ~-7 magma 0 
+setblock ~12 ~125 ~2 nether_wart_block 0 
+setblock ~12 ~125 ~6 nether_wart_block 0 
+setblock ~12 ~125 ~8 nether_wart_block 0 
+setblock ~12 ~125 ~9 red_nether_brick 0  
+fill ~12 ~125 ~11 ~15 ~125 ~11 nether_wart_block 0  
+fill ~12 ~125 ~12 ~13 ~125 ~12 red_nether_brick 0 
+setblock ~12 ~125 ~14 nether_wart_block 0  
+fill ~12 ~125 ~16 ~14 ~125 ~16 red_nether_brick 0 
+setblock ~12 ~125 ~17 nether_wart_block 0  
+fill ~12 ~125 ~19 ~14 ~125 ~19 nether_wart_block 0 
+setblock ~12 ~125 ~27 magma 0  
+fill ~12 ~125 ~29 ~14 ~125 ~29 red_nether_brick 0 
+setblock ~12 ~125 ~30 nether_brick_stairs 7 
+setblock ~13 ~125 ~-11 nether_brick_stairs 6 
+setblock ~13 ~125 ~-10 magma 0  
+fill ~13 ~125 ~2 ~13 ~125 ~3 red_nether_brick 0 
+setblock ~13 ~125 ~4 nether_wart_block 0 
+setblock ~13 ~125 ~5 red_nether_brick 0 
+setblock ~13 ~125 ~6 sea_lantern 0 
+setblock ~13 ~125 ~8 red_nether_brick 0  
+fill ~13 ~125 ~9 ~14 ~125 ~9 nether_wart_block 0 
+setblock ~13 ~125 ~10 ender_chest 3 
+setblock ~13 ~125 ~14 sea_lantern 0 
+setblock ~13 ~125 ~15 red_nether_brick 0  
+fill ~13 ~125 ~17 ~14 ~125 ~17 red_nether_brick 0  
+fill ~13 ~125 ~18 ~13 ~125 ~15 red_nether_brick 0 
+setblock ~13 ~125 ~30 magma 0 
+setblock ~13 ~125 ~31 nether_brick_stairs 7 
+setblock ~14 ~125 ~-10 nether_brick_stairs 6 
+setblock ~14 ~125 ~-7 magma 0  
+fill ~14 ~125 ~2 ~15 ~125 ~2 nether_wart_block 0  
+fill ~14 ~125 ~3 ~14 ~125 ~1 nether_wart_block 0 
+setblock ~14 ~125 ~4 red_nether_brick 0  
+fill ~14 ~125 ~5 ~14 ~125 ~12 nether_wart_block 0 
+setblock ~14 ~125 ~13 red_nether_brick 0  
+fill ~14 ~125 ~14 ~15 ~125 ~14 nether_wart_block 0  
+fill ~14 ~125 ~15 ~14 ~125 ~14 nether_wart_block 0  
+fill ~14 ~125 ~18 ~18 ~125 ~18 nether_wart_block 0 
+setblock ~14 ~125 ~27 magma 0 
+setblock ~14 ~125 ~30 nether_brick_stairs 7 
+setblock ~15 ~125 ~3 red_nether_brick 0  
+fill ~15 ~125 ~4 ~17 ~125 ~4 nether_wart_block 0  
+fill ~15 ~125 ~5 ~15 ~125 ~6 red_nether_brick 0 
+setblock ~15 ~125 ~8 nether_wart_block 0 
+setblock ~15 ~125 ~9 red_nether_brick 0  
+fill ~15 ~125 ~10 ~16 ~125 ~10 nether_wart_block 0  
+fill ~15 ~125 ~12 ~17 ~125 ~12 nether_wart_block 0  
+fill ~15 ~125 ~13 ~15 ~125 ~10 nether_wart_block 0 
+setblock ~15 ~125 ~15 red_nether_brick 0  
+fill ~15 ~125 ~16 ~15 ~125 ~18 nether_wart_block 0  
+fill ~15 ~125 ~19 ~18 ~125 ~19 red_nether_brick 0 
+setblock ~16 ~125 ~2 red_nether_brick 0  
+fill ~16 ~125 ~3 ~19 ~125 ~3 nether_wart_block 0  
+fill ~16 ~125 ~5 ~16 ~125 ~6 nether_wart_block 0 
+setblock ~16 ~125 ~7 sea_lantern 0 
+setblock ~16 ~125 ~8 red_nether_brick 0  
+fill ~16 ~125 ~9 ~18 ~125 ~9 nether_wart_block 0 
+setblock ~16 ~125 ~11 red_nether_brick 0 
+setblock ~16 ~125 ~13 sea_lantern 0 
+setblock ~16 ~125 ~14 red_nether_brick 0  
+fill ~16 ~125 ~15 ~17 ~125 ~15 nether_wart_block 0 
+setblock ~16 ~125 ~16 red_nether_brick 0 
+setblock ~16 ~125 ~17 nether_wart_block 0 
+setblock ~17 ~125 ~0 nether_brick_stairs 5  
+fill ~17 ~125 ~1 ~18 ~125 ~1 red_nether_brick 0  
+fill ~17 ~125 ~2 ~18 ~125 ~2 nether_wart_block 0  
+fill ~17 ~125 ~5 ~18 ~125 ~5 red_nether_brick 0  
+fill ~17 ~125 ~6 ~18 ~125 ~6 nether_wart_block 0 
+setblock ~17 ~125 ~7 red_nether_brick 0  
+fill ~17 ~125 ~8 ~19 ~125 ~8 nether_wart_block 0 
+setblock ~17 ~125 ~10 sea_lantern 0  
+fill ~17 ~125 ~11 ~18 ~125 ~11 nether_wart_block 0  
+fill ~17 ~125 ~13 ~20 ~125 ~13 nether_wart_block 0  
+fill ~17 ~125 ~14 ~18 ~125 ~14 nether_wart_block 0  
+fill ~17 ~125 ~16 ~20 ~125 ~16 nether_wart_block 0 
+setblock ~17 ~125 ~17 red_nether_brick 0  
+fill ~17 ~125 ~20 ~18 ~125 ~20 nether_brick_stairs 7 
+setblock ~17 ~125 ~21 nether_brick_stairs 5  
+fill ~18 ~125 ~0 ~19 ~125 ~0 nether_brick_stairs 6 
+setblock ~18 ~125 ~4 red_nether_brick 0  
+fill ~18 ~125 ~7 ~19 ~125 ~7 nether_wart_block 0 
+setblock ~18 ~125 ~10 red_nether_brick 0 
+setblock ~18 ~125 ~12 red_nether_brick 0 
+setblock ~18 ~125 ~15 red_nether_brick 0 
+setblock ~18 ~125 ~17 nether_wart_block 0 
+setblock ~19 ~125 ~1 nether_brick_stairs 5 
+setblock ~19 ~125 ~2 red_nether_brick 0  
+fill ~19 ~125 ~4 ~20 ~125 ~4 nether_wart_block 0  
+fill ~19 ~125 ~5 ~21 ~125 ~5 nether_wart_block 0 
+setblock ~19 ~125 ~6 red_nether_brick 0 
+setblock ~19 ~125 ~9 red_nether_brick 0 
+setblock ~19 ~125 ~10 nether_wart_block 0 
+setblock ~19 ~125 ~11 red_nether_brick 0 
+setblock ~19 ~125 ~12 nether_wart_block 0 
+setblock ~19 ~125 ~14 red_nether_brick 0  
+fill ~19 ~125 ~15 ~21 ~125 ~15 nether_wart_block 0  
+fill ~19 ~125 ~17 ~20 ~125 ~17 red_nether_brick 0  
+fill ~19 ~125 ~18 ~19 ~125 ~17 red_nether_brick 0 
+setblock ~19 ~125 ~19 nether_brick_stairs 7 
+setblock ~19 ~125 ~20 nether_brick_stairs 5 
+setblock ~20 ~125 ~1 nether_brick_stairs 6 
+setblock ~20 ~125 ~2 nether_brick_stairs 5 
+setblock ~20 ~125 ~3 red_nether_brick 0  
+fill ~20 ~125 ~6 ~21 ~125 ~6 nether_wart_block 0  
+fill ~20 ~125 ~7 ~20 ~125 ~8 red_nether_brick 0  
+fill ~20 ~125 ~9 ~22 ~125 ~9 nether_wart_block 0  
+fill ~20 ~125 ~10 ~21 ~125 ~10 red_nether_brick 0  
+fill ~20 ~125 ~11 ~22 ~125 ~11 nether_wart_block 0 
+setblock ~20 ~125 ~12 red_nether_brick 0  
+fill ~20 ~125 ~14 ~21 ~125 ~14 nether_wart_block 0 
+setblock ~20 ~125 ~18 nether_brick_stairs 7 
+setblock ~20 ~125 ~19 nether_brick_stairs 5 
+setblock ~21 ~125 ~1 stone_slab 15 
+setblock ~21 ~125 ~2 nether_brick_stairs 6 
+setblock ~21 ~125 ~3 nether_brick_stairs 5 
+setblock ~21 ~125 ~4 red_nether_brick 0  
+fill ~21 ~125 ~7 ~21 ~125 ~9 nether_wart_block 0  
+fill ~21 ~125 ~12 ~22 ~125 ~12 nether_wart_block 0 
+setblock ~21 ~125 ~13 red_nether_brick 0 
+setblock ~21 ~125 ~16 red_nether_brick 0 
+setblock ~21 ~125 ~17 nether_brick_stairs 7 
+setblock ~21 ~125 ~18 nether_brick_stairs 5 
+setblock ~21 ~125 ~19 stone_slab 15 
+setblock ~22 ~125 ~2 stone_slab 15 
+setblock ~22 ~125 ~3 nether_brick_stairs 6 
+setblock ~22 ~125 ~4 nether_brick_stairs 5  
+fill ~22 ~125 ~5 ~22 ~125 ~7 red_nether_brick 0 
+setblock ~22 ~125 ~8 nether_wart_block 0 
+setblock ~22 ~125 ~10 nether_wart_block 0 
+setblock ~22 ~125 ~13 nether_wart_block 0  
+fill ~22 ~125 ~14 ~22 ~125 ~15 red_nether_brick 0 
+setblock ~22 ~125 ~16 nether_brick_stairs 7 
+setblock ~22 ~125 ~17 nether_brick_stairs 5 
+setblock ~22 ~125 ~18 stone_slab 15  
+fill ~23 ~125 ~-6 ~31 ~125 ~-6 stone_slab 15  
+fill ~23 ~125 ~-5 ~31 ~125 ~-5 stone_slab 15  
+fill ~23 ~125 ~-4 ~31 ~125 ~-4 stone_slab 15  
+fill ~23 ~125 ~-3 ~31 ~125 ~-3 stone_slab 15 
+setblock ~23 ~125 ~4 nether_brick_stairs 6  
+fill ~23 ~125 ~5 ~23 ~125 ~6 nether_brick_stairs 5  
+fill ~23 ~125 ~7 ~23 ~125 ~13 red_nether_brick 0 
+setblock ~23 ~125 ~14 nether_brick_stairs 7  
+fill ~23 ~125 ~15 ~23 ~125 ~16 nether_brick_stairs 5  
+fill ~23 ~125 ~24 ~31 ~125 ~24 stone_slab 15  
+fill ~23 ~125 ~25 ~31 ~125 ~25 stone_slab 15  
+fill ~23 ~125 ~26 ~31 ~125 ~26 stone_slab 15  
+fill ~24 ~125 ~-7 ~30 ~125 ~-7 stone_slab 15  
+fill ~24 ~125 ~-2 ~31 ~125 ~-2 stone_slab 15  
+fill ~24 ~125 ~-1 ~30 ~125 ~-1 stone_slab 15 
+setblock ~24 ~125 ~6 nether_brick_stairs 6  
+fill ~24 ~125 ~7 ~24 ~125 ~14 nether_brick_stairs 5  
+fill ~24 ~125 ~21 ~30 ~125 ~21 stone_slab 15  
+fill ~24 ~125 ~22 ~31 ~125 ~22 stone_slab 15  
+fill ~24 ~125 ~23 ~31 ~125 ~23 stone_slab 15  
+fill ~24 ~125 ~27 ~30 ~125 ~27 stone_slab 15  
+fill ~25 ~125 ~-8 ~29 ~125 ~-8 stone_slab 15  
+fill ~25 ~125 ~28 ~29 ~125 ~28 stone_slab 15  
+fill ~26 ~125 ~20 ~29 ~125 ~20 stone_slab 15  
+fill ~27 ~125 ~-12 ~27 ~129 ~-12 grass_path 2  
+fill ~27 ~125 ~0 ~29 ~125 ~0 stone_slab 15  
+fill ~27 ~125 ~32 ~27 ~129 ~32 grass_path 3 
+setblock ~30 ~125 ~9 magma 0 
+setblock ~30 ~125 ~11 magma 0  
+fill ~32 ~125 ~9 ~32 ~132 ~9 red_nether_brick 0  
+fill ~32 ~125 ~10 ~32 ~132 ~10 red_nether_brick 0  
+fill ~32 ~125 ~11 ~32 ~132 ~11 red_nether_brick 0 
+setblock ~33 ~125 ~9 nether_brick_stairs 5 
+setblock ~33 ~125 ~10 magma 0 
+setblock ~33 ~125 ~11 nether_brick_stairs 5 
+setblock ~34 ~125 ~10 nether_brick_stairs 5  
+fill ~35 ~125 ~-4 ~35 ~129 ~-4 grass_path 5  
+fill ~35 ~125 ~24 ~35 ~129 ~24 grass_path 5 
+setblock ~-10 ~126 ~10 nether_brick_stairs 4  
+fill ~-9 ~126 ~10 ~-8 ~126 ~10 magma 0 
+setblock ~-8 ~126 ~9 nether_brick_stairs 4 
+setblock ~-8 ~126 ~11 nether_brick_stairs 4  
+fill ~-7 ~126 ~9 ~-7 ~129 ~9 red_nether_brick 0  
+fill ~-7 ~126 ~10 ~-7 ~130 ~10 red_nether_brick 0  
+fill ~-7 ~126 ~11 ~-7 ~129 ~11 red_nether_brick 0  
+fill ~-6 ~126 ~-7 ~-6 ~127 ~-7 nether_brick_stairs 4  
+fill ~-6 ~126 ~-6 ~-6 ~126 ~-2 nether_brick_stairs 4 
+setblock ~-6 ~126 ~-1 nether_brick_stairs 7  
+fill ~-6 ~126 ~8 ~-5 ~126 ~8 nether_brick_stairs 6  
+fill ~-6 ~126 ~12 ~-5 ~126 ~12 nether_brick_stairs 7  
+fill ~-6 ~126 ~21 ~-6 ~126 ~26 nether_brick_stairs 4  
+fill ~-6 ~126 ~27 ~-6 ~127 ~27 nether_brick_stairs 7  
+fill ~-5 ~126 ~-8 ~-5 ~127 ~-8 nether_brick_stairs 4 
+setblock ~-5 ~126 ~-7 nether_brick_stairs 6  
+fill ~-5 ~126 ~-6 ~3 ~126 ~-6 stone 0  
+fill ~-5 ~126 ~-5 ~3 ~126 ~-5 stone 0  
+fill ~-5 ~126 ~-4 ~3 ~126 ~-4 stone 0  
+fill ~-5 ~126 ~-3 ~1 ~126 ~-3 stone 0  
+fill ~-5 ~126 ~-2 ~2 ~126 ~-2 stone 0 
+setblock ~-5 ~126 ~-1 nether_brick_stairs 4  
+fill ~-5 ~126 ~0 ~-5 ~127 ~0 nether_brick_stairs 7 
+setblock ~-5 ~126 ~20 nether_brick_stairs 4 
+setblock ~-5 ~126 ~21 nether_brick_stairs 6  
+fill ~-5 ~126 ~22 ~2 ~126 ~22 stone 0  
+fill ~-5 ~126 ~23 ~3 ~126 ~23 stone 0  
+fill ~-5 ~126 ~24 ~3 ~126 ~24 stone 0  
+fill ~-5 ~126 ~25 ~3 ~126 ~25 stone 0  
+fill ~-5 ~126 ~26 ~3 ~126 ~26 stone 0 
+setblock ~-5 ~126 ~27 nether_brick_stairs 4  
+fill ~-5 ~126 ~28 ~-5 ~127 ~28 nether_brick_stairs 7  
+fill ~-4 ~126 ~-9 ~-4 ~127 ~-9 nether_brick_stairs 4 
+setblock ~-4 ~126 ~-8 nether_brick_stairs 6  
+fill ~-4 ~126 ~-7 ~2 ~126 ~-7 stone 0  
+fill ~-4 ~126 ~-1 ~2 ~126 ~-1 stone 0 
+setblock ~-4 ~126 ~0 nether_brick_stairs 4  
+fill ~-4 ~126 ~1 ~1 ~126 ~1 nether_brick_stairs 7  
+fill ~-4 ~126 ~9 ~-4 ~136 ~9 red_nether_brick 0  
+fill ~-4 ~126 ~11 ~-4 ~128 ~11 red_nether_brick 0 
+setblock ~-4 ~126 ~19 nether_brick_stairs 4 
+setblock ~-4 ~126 ~20 nether_brick_stairs 6  
+fill ~-4 ~126 ~21 ~-1 ~126 ~21 stone 0  
+fill ~-4 ~126 ~27 ~2 ~126 ~27 stone 0 
+setblock ~-4 ~126 ~28 nether_brick_stairs 4  
+fill ~-4 ~126 ~29 ~1 ~126 ~29 nether_brick_stairs 7  
+fill ~-3 ~126 ~-9 ~2 ~126 ~-9 nether_brick_stairs 6  
+fill ~-3 ~126 ~-8 ~1 ~126 ~-8 stone 0  
+fill ~-3 ~126 ~0 ~0 ~126 ~0 stone 0  
+fill ~-3 ~126 ~19 ~1 ~126 ~19 nether_brick_stairs 6  
+fill ~-3 ~126 ~20 ~-1 ~126 ~20 stone 0  
+fill ~-3 ~126 ~28 ~1 ~126 ~28 stone 0  
+fill ~0 ~126 ~20 ~1 ~126 ~20 nether_brick_stairs 5 
+setblock ~0 ~126 ~21 double_stone_slab 7 
+setblock ~1 ~126 ~0 nether_brick_stairs 5  
+fill ~1 ~126 ~21 ~2 ~126 ~21 stone 0 
+setblock ~2 ~126 ~-8 nether_brick_stairs 5 
+setblock ~2 ~126 ~-3 double_stone_slab 7 
+setblock ~2 ~126 ~0 nether_brick_stairs 7 
+setblock ~2 ~126 ~1 stone_slab 15  
+fill ~2 ~126 ~6 ~3 ~126 ~6 stone_slab 7  
+fill ~2 ~126 ~7 ~2 ~126 ~14 stone_slab 7 
+setblock ~2 ~126 ~19 stone_slab 15 
+setblock ~2 ~126 ~20 nether_brick_stairs 6 
+setblock ~2 ~126 ~28 nether_brick_stairs 7 
+setblock ~2 ~126 ~29 nether_brick_stairs 5 
+setblock ~3 ~126 ~-8 nether_brick_stairs 6 
+setblock ~3 ~126 ~-7 nether_brick_stairs 5  
+fill ~3 ~126 ~-3 ~3 ~126 ~-2 nether_brick_stairs 7 
+setblock ~3 ~126 ~-1 nether_brick_stairs 5 
+setblock ~3 ~126 ~0 double_stone_slab 7  
+fill ~3 ~126 ~1 ~7 ~126 ~1 stone_slab 7  
+fill ~3 ~126 ~2 ~6 ~126 ~2 stone_slab 7  
+fill ~3 ~126 ~4 ~4 ~126 ~4 stone_slab 7  
+fill ~3 ~126 ~5 ~3 ~126 ~4 stone_slab 7  
+fill ~3 ~126 ~14 ~3 ~126 ~16 stone_slab 7  
+fill ~3 ~126 ~18 ~6 ~126 ~18 stone_slab 7  
+fill ~3 ~126 ~19 ~7 ~126 ~19 stone_slab 7 
+setblock ~3 ~126 ~20 double_stone_slab 7 
+setblock ~3 ~126 ~21 nether_brick_stairs 5 
+setblock ~3 ~126 ~22 nether_brick_stairs 6 
+setblock ~3 ~126 ~27 nether_brick_stairs 7  
+fill ~3 ~126 ~28 ~3 ~127 ~28 nether_brick_stairs 5 
+setblock ~4 ~126 ~-7 nether_brick_stairs 6  
+fill ~4 ~126 ~-6 ~4 ~126 ~-2 nether_brick_stairs 5 
+setblock ~4 ~126 ~-1 stone_slab 15  
+fill ~4 ~126 ~0 ~5 ~126 ~0 stone_slab 7  
+fill ~4 ~126 ~3 ~5 ~126 ~3 stone_slab 7  
+fill ~4 ~126 ~16 ~4 ~126 ~20 stone_slab 7 
+setblock ~4 ~126 ~21 stone_slab 15  
+fill ~4 ~126 ~22 ~4 ~126 ~27 nether_brick_stairs 5 
+setblock ~5 ~126 ~17 stone_slab 7 
+setblock ~5 ~126 ~20 stone_slab 7  
+fill ~7 ~126 ~0 ~9 ~126 ~0 stone_slab 7  
+fill ~7 ~126 ~20 ~9 ~126 ~20 stone_slab 7  
+fill ~9 ~126 ~-1 ~17 ~126 ~-1 stone_slab 7  
+fill ~9 ~126 ~21 ~17 ~126 ~21 stone_slab 7  
+fill ~11 ~126 ~-9 ~11 ~126 ~-8 nether_brick_stairs 4  
+fill ~11 ~126 ~28 ~11 ~126 ~29 nether_brick_stairs 4 
+setblock ~12 ~126 ~-11 nether_brick_stairs 6  
+fill ~12 ~126 ~-10 ~14 ~126 ~-10 red_nether_brick 0  
+fill ~12 ~126 ~-9 ~14 ~126 ~-9 red_nether_brick 0  
+fill ~12 ~126 ~-7 ~12 ~128 ~-7 red_nether_brick 0  
+fill ~12 ~126 ~27 ~12 ~136 ~27 red_nether_brick 0  
+fill ~12 ~126 ~29 ~14 ~126 ~29 red_nether_brick 0  
+fill ~12 ~126 ~30 ~14 ~126 ~30 red_nether_brick 0 
+setblock ~12 ~126 ~31 nether_brick_stairs 7 
+setblock ~13 ~126 ~-13 nether_brick_stairs 6  
+fill ~13 ~126 ~-12 ~13 ~126 ~-11 magma 0 
+setblock ~13 ~126 ~10 carpet 14  
+fill ~13 ~126 ~31 ~13 ~126 ~32 magma 0 
+setblock ~13 ~126 ~33 nether_brick_stairs 7 
+setblock ~14 ~126 ~-11 nether_brick_stairs 6  
+fill ~14 ~126 ~-7 ~14 ~136 ~-7 red_nether_brick 0  
+fill ~14 ~126 ~27 ~14 ~128 ~27 red_nether_brick 0 
+setblock ~14 ~126 ~31 nether_brick_stairs 7  
+fill ~15 ~126 ~-9 ~15 ~126 ~-8 nether_brick_stairs 5  
+fill ~15 ~126 ~28 ~15 ~126 ~29 nether_brick_stairs 5  
+fill ~17 ~126 ~0 ~19 ~126 ~0 stone_slab 7  
+fill ~17 ~126 ~20 ~19 ~126 ~20 stone_slab 7  
+fill ~19 ~126 ~1 ~23 ~126 ~1 stone_slab 7  
+fill ~19 ~126 ~19 ~23 ~126 ~19 stone_slab 7  
+fill ~20 ~126 ~2 ~23 ~126 ~2 stone_slab 7  
+fill ~20 ~126 ~18 ~23 ~126 ~18 stone_slab 7  
+fill ~21 ~126 ~0 ~22 ~126 ~0 stone_slab 7  
+fill ~21 ~126 ~3 ~22 ~126 ~3 stone_slab 7  
+fill ~21 ~126 ~17 ~22 ~126 ~17 stone_slab 7  
+fill ~21 ~126 ~20 ~22 ~126 ~20 stone_slab 7  
+fill ~22 ~126 ~-7 ~22 ~127 ~-7 nether_brick_stairs 4  
+fill ~22 ~126 ~-6 ~22 ~126 ~-2 nether_brick_stairs 4 
+setblock ~22 ~126 ~-1 stone_slab 15  
+fill ~22 ~126 ~4 ~23 ~126 ~4 stone_slab 7  
+fill ~22 ~126 ~16 ~23 ~126 ~16 stone_slab 7 
+setblock ~22 ~126 ~21 stone_slab 15  
+fill ~22 ~126 ~22 ~22 ~126 ~26 nether_brick_stairs 4 
+setblock ~22 ~126 ~27 nether_brick_stairs 7  
+fill ~23 ~126 ~-8 ~23 ~127 ~-8 nether_brick_stairs 4 
+setblock ~23 ~126 ~-7 nether_brick_stairs 6  
+fill ~23 ~126 ~-6 ~31 ~126 ~-6 stone 0  
+fill ~23 ~126 ~-5 ~31 ~126 ~-5 stone 0  
+fill ~23 ~126 ~-4 ~31 ~126 ~-4 stone 0  
+fill ~23 ~126 ~-3 ~31 ~126 ~-3 stone 0 
+setblock ~23 ~126 ~-2 nether_brick_stairs 7 
+setblock ~23 ~126 ~-1 nether_brick_stairs 4 
+setblock ~23 ~126 ~0 double_stone_slab 7  
+fill ~23 ~126 ~5 ~23 ~126 ~6 stone_slab 7  
+fill ~23 ~126 ~14 ~24 ~126 ~14 stone_slab 7  
+fill ~23 ~126 ~15 ~23 ~126 ~14 stone_slab 7 
+setblock ~23 ~126 ~20 double_stone_slab 7 
+setblock ~23 ~126 ~21 nether_brick_stairs 4  
+fill ~23 ~126 ~22 ~23 ~126 ~23 nether_brick_stairs 6  
+fill ~23 ~126 ~24 ~31 ~126 ~24 stone 0  
+fill ~23 ~126 ~25 ~31 ~126 ~25 stone 0  
+fill ~23 ~126 ~26 ~31 ~126 ~26 stone 0 
+setblock ~23 ~126 ~27 nether_brick_stairs 4 
+setblock ~23 ~126 ~28 nether_brick_stairs 7 
+setblock ~24 ~126 ~-9 nether_brick_stairs 4 
+setblock ~24 ~126 ~-8 nether_brick_stairs 6  
+fill ~24 ~126 ~-7 ~30 ~126 ~-7 stone 0  
+fill ~24 ~126 ~-2 ~31 ~126 ~-2 stone 0  
+fill ~24 ~126 ~-1 ~25 ~126 ~-1 stone 0 
+setblock ~24 ~126 ~0 nether_brick_stairs 7 
+setblock ~24 ~126 ~1 stone_slab 15  
+fill ~24 ~126 ~6 ~24 ~126 ~14 stone_slab 7 
+setblock ~24 ~126 ~19 stone_slab 15 
+setblock ~24 ~126 ~20 nether_brick_stairs 6  
+fill ~24 ~126 ~21 ~30 ~126 ~21 stone 0  
+fill ~24 ~126 ~22 ~31 ~126 ~22 stone 0 
+setblock ~24 ~126 ~23 double_stone_slab 7  
+fill ~24 ~126 ~27 ~30 ~126 ~27 stone 0 
+setblock ~24 ~126 ~28 nether_brick_stairs 4  
+fill ~24 ~126 ~29 ~29 ~126 ~29 nether_brick_stairs 7  
+fill ~25 ~126 ~-9 ~30 ~126 ~-9 nether_brick_stairs 6  
+fill ~25 ~126 ~-8 ~29 ~126 ~-8 stone 0  
+fill ~25 ~126 ~0 ~26 ~126 ~0 nether_brick_stairs 4  
+fill ~25 ~126 ~1 ~29 ~126 ~1 nether_brick_stairs 7  
+fill ~25 ~126 ~19 ~30 ~126 ~19 nether_brick_stairs 6 
+setblock ~25 ~126 ~20 nether_brick_stairs 4  
+fill ~25 ~126 ~23 ~31 ~126 ~23 stone 0  
+fill ~25 ~126 ~28 ~29 ~126 ~28 stone 0 
+setblock ~26 ~126 ~-1 double_stone_slab 7  
+fill ~26 ~126 ~20 ~29 ~126 ~20 stone 0  
+fill ~27 ~126 ~-1 ~30 ~126 ~-1 stone 0  
+fill ~27 ~126 ~0 ~29 ~126 ~0 stone 0 
+setblock ~30 ~126 ~-8 nether_brick_stairs 5 
+setblock ~30 ~126 ~0 nether_brick_stairs 7 
+setblock ~30 ~126 ~1 nether_brick_stairs 5  
+fill ~30 ~126 ~9 ~30 ~128 ~9 red_nether_brick 0  
+fill ~30 ~126 ~11 ~30 ~136 ~11 red_nether_brick 0 
+setblock ~30 ~126 ~20 nether_brick_stairs 5 
+setblock ~30 ~126 ~28 nether_brick_stairs 7  
+fill ~30 ~126 ~29 ~30 ~127 ~29 nether_brick_stairs 5  
+fill ~31 ~126 ~-8 ~31 ~127 ~-8 nether_brick_stairs 6 
+setblock ~31 ~126 ~-7 nether_brick_stairs 5 
+setblock ~31 ~126 ~-1 nether_brick_stairs 7 
+setblock ~31 ~126 ~0 nether_brick_stairs 5  
+fill ~31 ~126 ~8 ~32 ~126 ~8 nether_brick_stairs 6  
+fill ~31 ~126 ~12 ~32 ~126 ~12 nether_brick_stairs 7  
+fill ~31 ~126 ~20 ~31 ~127 ~20 nether_brick_stairs 6 
+setblock ~31 ~126 ~21 nether_brick_stairs 5 
+setblock ~31 ~126 ~27 nether_brick_stairs 7  
+fill ~31 ~126 ~28 ~31 ~127 ~28 nether_brick_stairs 5  
+fill ~32 ~126 ~-7 ~32 ~127 ~-7 nether_brick_stairs 6  
+fill ~32 ~126 ~-6 ~32 ~126 ~-1 nether_brick_stairs 5 
+setblock ~32 ~126 ~21 nether_brick_stairs 6  
+fill ~32 ~126 ~22 ~32 ~126 ~27 nether_brick_stairs 5  
+fill ~33 ~126 ~9 ~33 ~129 ~9 red_nether_brick 0  
+fill ~33 ~126 ~10 ~33 ~130 ~10 red_nether_brick 0  
+fill ~33 ~126 ~11 ~33 ~129 ~11 red_nether_brick 0 
+setblock ~34 ~126 ~9 nether_brick_stairs 5  
+fill ~34 ~126 ~10 ~35 ~126 ~10 magma 0 
+setblock ~34 ~126 ~11 nether_brick_stairs 5 
+setblock ~36 ~126 ~10 nether_brick_stairs 5 
+setblock ~-12 ~127 ~10 nether_brick_stairs 4  
+fill ~-11 ~127 ~10 ~-10 ~127 ~10 magma 0 
+setblock ~-10 ~127 ~9 nether_brick_stairs 4 
+setblock ~-10 ~127 ~11 nether_brick_stairs 4  
+fill ~-9 ~127 ~9 ~-4 ~127 ~9 red_nether_brick 0  
+fill ~-9 ~127 ~10 ~-3 ~127 ~10 red_nether_brick 0  
+fill ~-9 ~127 ~11 ~-4 ~127 ~11 red_nether_brick 0 
+setblock ~-7 ~127 ~-7 nether_brick_stairs 6  
+fill ~-7 ~127 ~-6 ~-7 ~127 ~-2 nether_brick_stairs 4 
+setblock ~-7 ~127 ~-1 nether_brick_stairs 7 
+setblock ~-7 ~127 ~8 nether_brick_stairs 4 
+setblock ~-7 ~127 ~12 nether_brick_stairs 4  
+fill ~-7 ~127 ~21 ~-7 ~127 ~27 nether_brick_stairs 4 
+setblock ~-6 ~127 ~-8 nether_brick_stairs 6  
+fill ~-6 ~127 ~-6 ~-5 ~127 ~-6 red_nether_brick 0  
+fill ~-6 ~127 ~-5 ~4 ~127 ~-5 red_nether_brick 0  
+fill ~-6 ~127 ~-4 ~-2 ~127 ~-4 red_nether_brick 0  
+fill ~-6 ~127 ~-3 ~3 ~127 ~-3 red_nether_brick 0  
+fill ~-6 ~127 ~-2 ~-5 ~127 ~-2 red_nether_brick 0 
+setblock ~-6 ~127 ~-1 nether_brick_stairs 4 
+setblock ~-6 ~127 ~0 nether_brick_stairs 7  
+fill ~-6 ~127 ~8 ~-5 ~127 ~8 red_nether_brick 0  
+fill ~-6 ~127 ~12 ~-5 ~127 ~12 red_nether_brick 0 
+setblock ~-6 ~127 ~20 nether_brick_stairs 4 
+setblock ~-6 ~127 ~21 nether_brick_stairs 6  
+fill ~-6 ~127 ~22 ~-5 ~127 ~22 red_nether_brick 0  
+fill ~-6 ~127 ~23 ~3 ~127 ~23 red_nether_brick 0  
+fill ~-6 ~127 ~24 ~-2 ~127 ~24 red_nether_brick 0  
+fill ~-6 ~127 ~25 ~4 ~127 ~25 red_nether_brick 0  
+fill ~-6 ~127 ~26 ~-5 ~127 ~26 red_nether_brick 0 
+setblock ~-6 ~127 ~28 nether_brick_stairs 4 
+setblock ~-5 ~127 ~-9 nether_brick_stairs 6  
+fill ~-5 ~127 ~-7 ~-4 ~127 ~-7 red_nether_brick 0  
+fill ~-5 ~127 ~-1 ~-4 ~127 ~-1 red_nether_brick 0 
+setblock ~-5 ~127 ~1 nether_brick_stairs 4 
+setblock ~-5 ~127 ~19 nether_brick_stairs 4 
+setblock ~-5 ~127 ~20 nether_brick_stairs 6  
+fill ~-5 ~127 ~21 ~-4 ~127 ~21 red_nether_brick 0  
+fill ~-5 ~127 ~27 ~-4 ~127 ~27 red_nether_brick 0 
+setblock ~-5 ~127 ~29 nether_brick_stairs 4  
+fill ~-4 ~127 ~-10 ~2 ~127 ~-10 nether_brick_stairs 6  
+fill ~-4 ~127 ~-8 ~2 ~127 ~-8 red_nether_brick 0 
+setblock ~-4 ~127 ~-6 sea_lantern 0 
+setblock ~-4 ~127 ~-2 sea_lantern 0  
+fill ~-4 ~127 ~0 ~0 ~127 ~0 red_nether_brick 0  
+fill ~-4 ~127 ~1 ~-4 ~126 ~1 nether_brick_stairs 7 
+setblock ~-4 ~127 ~2 nether_brick_stairs 4  
+fill ~-4 ~127 ~8 ~-4 ~129 ~8 stone_slab 15 
+setblock ~-4 ~127 ~18 nether_brick_stairs 4 
+setblock ~-4 ~127 ~19 nether_brick_stairs 6  
+fill ~-4 ~127 ~20 ~0 ~127 ~20 red_nether_brick 0 
+setblock ~-4 ~127 ~22 sea_lantern 0 
+setblock ~-4 ~127 ~26 sea_lantern 0  
+fill ~-4 ~127 ~28 ~2 ~127 ~28 red_nether_brick 0  
+fill ~-4 ~127 ~29 ~-4 ~126 ~29 nether_brick_stairs 7 
+setblock ~-4 ~127 ~30 nether_brick_stairs 4  
+fill ~-3 ~127 ~-9 ~1 ~127 ~-9 red_nether_brick 0 
+setblock ~-3 ~127 ~-7 sea_lantern 0  
+fill ~-3 ~127 ~-6 ~1 ~127 ~-6 red_nether_brick 0  
+fill ~-3 ~127 ~-2 ~1 ~127 ~-2 red_nether_brick 0 
+setblock ~-3 ~127 ~-1 sea_lantern 0  
+fill ~-3 ~127 ~1 ~-1 ~127 ~1 red_nether_brick 0  
+fill ~-3 ~127 ~2 ~0 ~127 ~2 nether_brick_stairs 7  
+fill ~-3 ~127 ~18 ~0 ~127 ~18 nether_brick_stairs 6  
+fill ~-3 ~127 ~19 ~-1 ~127 ~19 red_nether_brick 0 
+setblock ~-3 ~127 ~21 sea_lantern 0  
+fill ~-3 ~127 ~22 ~1 ~127 ~22 red_nether_brick 0  
+fill ~-3 ~127 ~26 ~1 ~127 ~26 red_nether_brick 0 
+setblock ~-3 ~127 ~27 sea_lantern 0  
+fill ~-3 ~127 ~29 ~1 ~127 ~29 red_nether_brick 0  
+fill ~-3 ~127 ~30 ~1 ~127 ~30 nether_brick_stairs 7  
+fill ~-2 ~127 ~-7 ~0 ~127 ~-7 red_nether_brick 0  
+fill ~-2 ~127 ~-1 ~0 ~127 ~-1 red_nether_brick 0  
+fill ~-2 ~127 ~21 ~0 ~127 ~21 red_nether_brick 0  
+fill ~-2 ~127 ~27 ~0 ~127 ~27 red_nether_brick 0 
+setblock ~-1 ~127 ~-4 glowstone 0 
+setblock ~-1 ~127 ~24 glowstone 0  
+fill ~0 ~127 ~-4 ~4 ~127 ~-4 red_nether_brick 0 
+setblock ~0 ~127 ~1 double_stone_slab 7 
+setblock ~0 ~127 ~19 double_stone_slab 7  
+fill ~0 ~127 ~24 ~4 ~127 ~24 red_nether_brick 0 
+setblock ~1 ~127 ~-7 sea_lantern 0  
+fill ~1 ~127 ~-1 ~1 ~127 ~0 double_stone_slab 7 
+setblock ~1 ~127 ~1 stone_slab 7 
+setblock ~1 ~127 ~19 stone_slab 7  
+fill ~1 ~127 ~20 ~1 ~127 ~21 double_stone_slab 7 
+setblock ~1 ~127 ~27 sea_lantern 0 
+setblock ~2 ~127 ~-9 nether_brick_stairs 5  
+fill ~2 ~127 ~-7 ~3 ~127 ~-7 red_nether_brick 0 
+setblock ~2 ~127 ~-6 sea_lantern 0  
+fill ~2 ~127 ~-2 ~3 ~127 ~-2 double_stone_slab 7  
+fill ~2 ~127 ~-1 ~3 ~127 ~-1 stone_slab 7  
+fill ~2 ~127 ~0 ~2 ~127 ~-1 stone_slab 7  
+fill ~2 ~127 ~20 ~2 ~127 ~21 stone_slab 7  
+fill ~2 ~127 ~22 ~3 ~127 ~22 double_stone_slab 7 
+setblock ~2 ~127 ~26 sea_lantern 0  
+fill ~2 ~127 ~27 ~3 ~127 ~27 red_nether_brick 0 
+setblock ~2 ~127 ~29 nether_brick_stairs 7 
+setblock ~2 ~127 ~30 nether_brick_stairs 5 
+setblock ~3 ~127 ~-9 nether_brick_stairs 6 
+setblock ~3 ~127 ~-8 nether_brick_stairs 5  
+fill ~3 ~127 ~-6 ~4 ~127 ~-6 red_nether_brick 0 
+setblock ~3 ~127 ~21 stone_slab 7  
+fill ~3 ~127 ~26 ~4 ~127 ~26 red_nether_brick 0 
+setblock ~3 ~127 ~29 nether_brick_stairs 5 
+setblock ~4 ~127 ~-8 nether_brick_stairs 6 
+setblock ~4 ~127 ~-7 nether_brick_stairs 5 
+setblock ~4 ~127 ~-3 double_stone_slab 7 
+setblock ~4 ~127 ~-2 stone_slab 7 
+setblock ~4 ~127 ~22 stone_slab 7 
+setblock ~4 ~127 ~23 double_stone_slab 7 
+setblock ~4 ~127 ~27 nether_brick_stairs 5 
+setblock ~4 ~127 ~28 nether_brick_stairs 7 
+setblock ~5 ~127 ~-7 nether_brick_stairs 6  
+fill ~5 ~127 ~-6 ~5 ~127 ~-3 nether_brick_stairs 5  
+fill ~5 ~127 ~23 ~5 ~127 ~26 nether_brick_stairs 5 
+setblock ~5 ~127 ~27 nether_brick_stairs 7 
+setblock ~11 ~127 ~-10 nether_brick_stairs 6  
+fill ~11 ~127 ~-9 ~15 ~127 ~-9 red_nether_brick 0  
+fill ~11 ~127 ~-8 ~11 ~131 ~-8 red_nether_brick 0  
+fill ~11 ~127 ~27 ~11 ~129 ~27 stone_slab 15  
+fill ~11 ~127 ~28 ~11 ~131 ~28 red_nether_brick 0  
+fill ~11 ~127 ~29 ~15 ~127 ~29 red_nether_brick 0 
+setblock ~11 ~127 ~30 nether_brick_stairs 7 
+setblock ~12 ~127 ~-13 nether_brick_stairs 6  
+fill ~12 ~127 ~-12 ~14 ~127 ~-12 red_nether_brick 0  
+fill ~12 ~127 ~-11 ~14 ~127 ~-11 red_nether_brick 0  
+fill ~12 ~127 ~-10 ~14 ~127 ~-10 red_nether_brick 0  
+fill ~12 ~127 ~30 ~14 ~127 ~30 red_nether_brick 0  
+fill ~12 ~127 ~31 ~14 ~127 ~31 red_nether_brick 0  
+fill ~12 ~127 ~32 ~14 ~127 ~32 red_nether_brick 0 
+setblock ~12 ~127 ~33 nether_brick_stairs 7 
+setblock ~13 ~127 ~-15 nether_brick_stairs 6  
+fill ~13 ~127 ~-14 ~13 ~127 ~-13 magma 0  
+fill ~13 ~127 ~33 ~13 ~127 ~34 magma 0 
+setblock ~13 ~127 ~35 nether_brick_stairs 7 
+setblock ~14 ~127 ~-13 nether_brick_stairs 6 
+setblock ~14 ~127 ~33 nether_brick_stairs 7 
+setblock ~15 ~127 ~-10 nether_brick_stairs 6  
+fill ~15 ~127 ~-8 ~15 ~131 ~-8 red_nether_brick 0  
+fill ~15 ~127 ~-7 ~15 ~129 ~-7 stone_slab 15  
+fill ~15 ~127 ~27 ~15 ~129 ~27 stone_slab 15 
+setblock ~15 ~127 ~28 red_nether_brick 0 
+setblock ~15 ~127 ~30 nether_brick_stairs 7 
+setblock ~21 ~127 ~-7 nether_brick_stairs 6  
+fill ~21 ~127 ~-6 ~21 ~127 ~-3 nether_brick_stairs 4  
+fill ~21 ~127 ~23 ~21 ~127 ~26 nether_brick_stairs 4 
+setblock ~21 ~127 ~27 nether_brick_stairs 7 
+setblock ~22 ~127 ~-8 nether_brick_stairs 6  
+fill ~22 ~127 ~-6 ~23 ~127 ~-6 red_nether_brick 0  
+fill ~22 ~127 ~-5 ~32 ~127 ~-5 red_nether_brick 0  
+fill ~22 ~127 ~-4 ~26 ~127 ~-4 red_nether_brick 0 
+setblock ~22 ~127 ~-3 double_stone_slab 7 
+setblock ~22 ~127 ~-2 stone_slab 7 
+setblock ~22 ~127 ~22 stone_slab 7 
+setblock ~22 ~127 ~23 double_stone_slab 7  
+fill ~22 ~127 ~24 ~26 ~127 ~24 red_nether_brick 0  
+fill ~22 ~127 ~25 ~32 ~127 ~25 red_nether_brick 0  
+fill ~22 ~127 ~26 ~23 ~127 ~26 red_nether_brick 0 
+setblock ~22 ~127 ~27 nether_brick_stairs 4 
+setblock ~22 ~127 ~28 nether_brick_stairs 7 
+setblock ~23 ~127 ~-9 nether_brick_stairs 4  
+fill ~23 ~127 ~-7 ~24 ~127 ~-7 red_nether_brick 0  
+fill ~23 ~127 ~-3 ~32 ~127 ~-3 red_nether_brick 0  
+fill ~23 ~127 ~-2 ~24 ~127 ~-2 double_stone_slab 7  
+fill ~23 ~127 ~-1 ~24 ~127 ~-1 stone_slab 7  
+fill ~23 ~127 ~21 ~24 ~127 ~21 stone_slab 7  
+fill ~23 ~127 ~22 ~24 ~127 ~22 double_stone_slab 7  
+fill ~23 ~127 ~23 ~32 ~127 ~23 red_nether_brick 0  
+fill ~23 ~127 ~27 ~24 ~127 ~27 red_nether_brick 0 
+setblock ~23 ~127 ~28 nether_brick_stairs 4 
+setblock ~23 ~127 ~29 nether_brick_stairs 7 
+setblock ~24 ~127 ~-10 nether_brick_stairs 4 
+setblock ~24 ~127 ~-9 nether_brick_stairs 6  
+fill ~24 ~127 ~-8 ~30 ~127 ~-8 red_nether_brick 0 
+setblock ~24 ~127 ~-6 sea_lantern 0 
+setblock ~24 ~127 ~0 stone_slab 7 
+setblock ~24 ~127 ~20 stone_slab 7 
+setblock ~24 ~127 ~26 sea_lantern 0  
+fill ~24 ~127 ~28 ~30 ~127 ~28 red_nether_brick 0 
+setblock ~24 ~127 ~29 nether_brick_stairs 4  
+fill ~24 ~127 ~30 ~30 ~127 ~30 nether_brick_stairs 7  
+fill ~25 ~127 ~-10 ~29 ~127 ~-10 nether_brick_stairs 6  
+fill ~25 ~127 ~-9 ~29 ~127 ~-9 red_nether_brick 0 
+setblock ~25 ~127 ~-7 sea_lantern 0  
+fill ~25 ~127 ~-6 ~29 ~127 ~-6 red_nether_brick 0  
+fill ~25 ~127 ~-2 ~29 ~127 ~-2 red_nether_brick 0  
+fill ~25 ~127 ~-1 ~25 ~127 ~0 double_stone_slab 7 
+setblock ~25 ~127 ~1 stone_slab 7 
+setblock ~25 ~127 ~19 stone_slab 7  
+fill ~25 ~127 ~20 ~25 ~127 ~21 double_stone_slab 7  
+fill ~25 ~127 ~22 ~29 ~127 ~22 red_nether_brick 0  
+fill ~25 ~127 ~26 ~29 ~127 ~26 red_nether_brick 0 
+setblock ~25 ~127 ~27 sea_lantern 0  
+fill ~25 ~127 ~29 ~29 ~127 ~29 red_nether_brick 0  
+fill ~26 ~127 ~-7 ~28 ~127 ~-7 red_nether_brick 0  
+fill ~26 ~127 ~-1 ~28 ~127 ~-1 red_nether_brick 0  
+fill ~26 ~127 ~0 ~30 ~127 ~0 red_nether_brick 0 
+setblock ~26 ~127 ~1 double_stone_slab 7  
+fill ~26 ~127 ~2 ~29 ~127 ~2 nether_brick_stairs 7  
+fill ~26 ~127 ~18 ~29 ~127 ~18 nether_brick_stairs 6 
+setblock ~26 ~127 ~19 double_stone_slab 7  
+fill ~26 ~127 ~20 ~30 ~127 ~20 red_nether_brick 0  
+fill ~26 ~127 ~21 ~28 ~127 ~21 red_nether_brick 0  
+fill ~26 ~127 ~27 ~28 ~127 ~27 red_nether_brick 0 
+setblock ~27 ~127 ~-4 glowstone 0  
+fill ~27 ~127 ~1 ~29 ~127 ~1 red_nether_brick 0  
+fill ~27 ~127 ~19 ~29 ~127 ~19 red_nether_brick 0 
+setblock ~27 ~127 ~24 glowstone 0  
+fill ~28 ~127 ~-4 ~32 ~127 ~-4 red_nether_brick 0  
+fill ~28 ~127 ~24 ~32 ~127 ~24 red_nether_brick 0 
+setblock ~29 ~127 ~-7 sea_lantern 0 
+setblock ~29 ~127 ~-1 sea_lantern 0 
+setblock ~29 ~127 ~21 sea_lantern 0 
+setblock ~29 ~127 ~27 sea_lantern 0 
+setblock ~30 ~127 ~-10 nether_brick_stairs 5 
+setblock ~30 ~127 ~-9 nether_brick_stairs 6  
+fill ~30 ~127 ~-7 ~31 ~127 ~-7 red_nether_brick 0 
+setblock ~30 ~127 ~-6 sea_lantern 0 
+setblock ~30 ~127 ~-2 sea_lantern 0  
+fill ~30 ~127 ~-1 ~31 ~127 ~-1 red_nether_brick 0   
+
+KittysCommands:  
+setblock ~30 ~127 ~1 nether_brick_stairs 7 
+setblock ~30 ~127 ~2 nether_brick_stairs 5  
+fill ~30 ~127 ~12 ~30 ~129 ~12 stone_slab 15 
+setblock ~30 ~127 ~18 nether_brick_stairs 5 
+setblock ~30 ~127 ~19 nether_brick_stairs 6  
+fill ~30 ~127 ~21 ~31 ~127 ~21 red_nether_brick 0 
+setblock ~30 ~127 ~22 sea_lantern 0 
+setblock ~30 ~127 ~26 sea_lantern 0  
+fill ~30 ~127 ~27 ~31 ~127 ~27 red_nether_brick 0 
+setblock ~31 ~127 ~-9 nether_brick_stairs 5  
+fill ~31 ~127 ~-6 ~32 ~127 ~-6 red_nether_brick 0  
+fill ~31 ~127 ~-2 ~32 ~127 ~-2 red_nether_brick 0 
+setblock ~31 ~127 ~0 nether_brick_stairs 7 
+setblock ~31 ~127 ~1 nether_brick_stairs 5  
+fill ~31 ~127 ~8 ~32 ~127 ~8 red_nether_brick 0  
+fill ~31 ~127 ~12 ~32 ~127 ~12 red_nether_brick 0 
+setblock ~31 ~127 ~19 nether_brick_stairs 5  
+fill ~31 ~127 ~22 ~32 ~127 ~22 red_nether_brick 0  
+fill ~31 ~127 ~26 ~32 ~127 ~26 red_nether_brick 0 
+setblock ~31 ~127 ~29 nether_brick_stairs 7 
+setblock ~32 ~127 ~-8 nether_brick_stairs 5 
+setblock ~32 ~127 ~-1 nether_brick_stairs 7 
+setblock ~32 ~127 ~0 nether_brick_stairs 5 
+setblock ~32 ~127 ~20 nether_brick_stairs 6 
+setblock ~32 ~127 ~21 nether_brick_stairs 5 
+setblock ~32 ~127 ~27 nether_brick_stairs 5 
+setblock ~32 ~127 ~28 nether_brick_stairs 7  
+fill ~33 ~127 ~-7 ~33 ~127 ~-1 nether_brick_stairs 5 
+setblock ~33 ~127 ~8 nether_brick_stairs 5 
+setblock ~33 ~127 ~12 nether_brick_stairs 5 
+setblock ~33 ~127 ~21 nether_brick_stairs 6  
+fill ~33 ~127 ~22 ~33 ~127 ~26 nether_brick_stairs 5 
+setblock ~33 ~127 ~27 nether_brick_stairs 7  
+fill ~34 ~127 ~9 ~35 ~127 ~9 red_nether_brick 0  
+fill ~34 ~127 ~10 ~35 ~127 ~10 red_nether_brick 0  
+fill ~34 ~127 ~11 ~35 ~127 ~11 red_nether_brick 0 
+setblock ~36 ~127 ~9 nether_brick_stairs 5  
+fill ~36 ~127 ~10 ~37 ~127 ~10 magma 0 
+setblock ~36 ~127 ~11 nether_brick_stairs 5 
+setblock ~38 ~127 ~10 nether_brick_stairs 5 
+setblock ~-16 ~128 ~10 nether_brick_stairs 4  
+fill ~-15 ~128 ~10 ~-13 ~128 ~10 magma 0 
+setblock ~-12 ~128 ~9 nether_brick_stairs 4  
+fill ~-12 ~128 ~10 ~-3 ~128 ~10 red_nether_brick 0 
+setblock ~-12 ~128 ~11 nether_brick_stairs 4  
+fill ~-11 ~128 ~9 ~-4 ~128 ~9 red_nether_brick 0  
+fill ~-11 ~128 ~11 ~-4 ~128 ~11 red_nether_brick 0 
+setblock ~-8 ~128 ~8 nether_brick_stairs 4 
+setblock ~-8 ~128 ~12 nether_brick_stairs 4  
+fill ~-7 ~128 ~-7 ~-6 ~128 ~-7 stone_slab 7  
+fill ~-7 ~128 ~-6 ~-7 ~128 ~-2 double_stone_slab 7  
+fill ~-7 ~128 ~-1 ~-6 ~128 ~-1 stone_slab 7 
+setblock ~-7 ~128 ~8 red_nether_brick 0  
+fill ~-7 ~128 ~12 ~-5 ~128 ~12 red_nether_brick 0  
+fill ~-7 ~128 ~21 ~-6 ~128 ~21 stone_slab 7  
+fill ~-7 ~128 ~22 ~-7 ~128 ~26 double_stone_slab 7  
+fill ~-7 ~128 ~27 ~-6 ~128 ~27 stone_slab 7 
+setblock ~-6 ~128 ~-8 double_stone_slab 7 
+setblock ~-6 ~128 ~0 double_stone_slab 7 
+setblock ~-6 ~128 ~8 magma 0 
+setblock ~-6 ~128 ~20 double_stone_slab 7 
+setblock ~-6 ~128 ~28 double_stone_slab 7 
+setblock ~-5 ~128 ~-9 double_stone_slab 7 
+setblock ~-5 ~128 ~-8 stone_slab 7 
+setblock ~-5 ~128 ~0 stone_slab 7 
+setblock ~-5 ~128 ~1 double_stone_slab 7  
+fill ~-5 ~128 ~8 ~-5 ~131 ~8 red_nether_brick 0 
+setblock ~-5 ~128 ~19 double_stone_slab 7 
+setblock ~-5 ~128 ~20 stone_slab 7 
+setblock ~-5 ~128 ~28 stone_slab 7 
+setblock ~-5 ~128 ~29 double_stone_slab 7  
+fill ~-4 ~128 ~-10 ~-4 ~128 ~-9 stone_slab 7  
+fill ~-4 ~128 ~1 ~-4 ~128 ~2 stone_slab 7  
+fill ~-4 ~128 ~18 ~-4 ~128 ~19 stone_slab 7  
+fill ~-4 ~128 ~29 ~-4 ~128 ~30 stone_slab 7  
+fill ~-3 ~128 ~-10 ~1 ~128 ~-10 double_stone_slab 7  
+fill ~-3 ~128 ~2 ~0 ~128 ~2 double_stone_slab 7  
+fill ~-3 ~128 ~18 ~0 ~128 ~18 double_stone_slab 7  
+fill ~-3 ~128 ~30 ~1 ~128 ~30 double_stone_slab 7 
+setblock ~-2 ~128 ~10 nether_brick_stairs 5  
+fill ~2 ~128 ~-10 ~2 ~128 ~-9 stone_slab 7  
+fill ~2 ~128 ~29 ~2 ~128 ~30 stone_slab 7 
+setblock ~3 ~128 ~-9 double_stone_slab 7 
+setblock ~3 ~128 ~-8 stone_slab 7 
+setblock ~3 ~128 ~28 stone_slab 7 
+setblock ~3 ~128 ~29 double_stone_slab 7 
+setblock ~4 ~128 ~-8 double_stone_slab 7  
+fill ~4 ~128 ~-7 ~5 ~128 ~-7 stone_slab 7  
+fill ~4 ~128 ~27 ~5 ~128 ~27 stone_slab 7 
+setblock ~4 ~128 ~28 double_stone_slab 7  
+fill ~5 ~128 ~-6 ~5 ~128 ~-3 double_stone_slab 7  
+fill ~5 ~128 ~23 ~5 ~128 ~26 double_stone_slab 7 
+setblock ~11 ~128 ~-11 nether_brick_stairs 6  
+fill ~11 ~128 ~-10 ~15 ~128 ~-10 red_nether_brick 0  
+fill ~11 ~128 ~-9 ~14 ~128 ~-9 red_nether_brick 0 
+setblock ~11 ~128 ~29 magma 0  
+fill ~11 ~128 ~30 ~15 ~128 ~30 red_nether_brick 0 
+setblock ~11 ~128 ~31 nether_brick_stairs 7 
+setblock ~12 ~128 ~-15 nether_brick_stairs 6  
+fill ~12 ~128 ~-14 ~14 ~128 ~-14 red_nether_brick 0  
+fill ~12 ~128 ~-13 ~14 ~128 ~-13 red_nether_brick 0  
+fill ~12 ~128 ~-12 ~14 ~128 ~-12 red_nether_brick 0  
+fill ~12 ~128 ~-11 ~14 ~128 ~-11 red_nether_brick 0  
+fill ~12 ~128 ~29 ~15 ~128 ~29 red_nether_brick 0  
+fill ~12 ~128 ~31 ~14 ~128 ~31 red_nether_brick 0  
+fill ~12 ~128 ~32 ~14 ~128 ~32 red_nether_brick 0  
+fill ~12 ~128 ~33 ~14 ~128 ~33 red_nether_brick 0  
+fill ~12 ~128 ~34 ~14 ~128 ~34 red_nether_brick 0 
+setblock ~12 ~128 ~35 nether_brick_stairs 7 
+setblock ~13 ~128 ~-19 nether_brick_stairs 6  
+fill ~13 ~128 ~-18 ~13 ~128 ~-16 magma 0  
+fill ~13 ~128 ~-15 ~13 ~129 ~-15 red_nether_brick 0 
+setblock ~13 ~128 ~-5 nether_brick_stairs 7 
+setblock ~13 ~128 ~25 nether_brick_stairs 6  
+fill ~13 ~128 ~35 ~13 ~129 ~35 red_nether_brick 0  
+fill ~13 ~128 ~36 ~13 ~128 ~38 magma 0 
+setblock ~13 ~128 ~39 nether_brick_stairs 7 
+setblock ~14 ~128 ~-15 nether_brick_stairs 6 
+setblock ~14 ~128 ~35 nether_brick_stairs 7 
+setblock ~15 ~128 ~-11 nether_brick_stairs 6 
+setblock ~15 ~128 ~-9 magma 0 
+setblock ~15 ~128 ~28 magma 0 
+setblock ~15 ~128 ~31 nether_brick_stairs 7  
+fill ~21 ~128 ~-7 ~22 ~128 ~-7 stone_slab 7  
+fill ~21 ~128 ~-6 ~21 ~128 ~-3 double_stone_slab 7  
+fill ~21 ~128 ~23 ~21 ~128 ~26 double_stone_slab 7  
+fill ~21 ~128 ~27 ~22 ~128 ~27 stone_slab 7 
+setblock ~22 ~128 ~-8 double_stone_slab 7 
+setblock ~22 ~128 ~28 double_stone_slab 7 
+setblock ~23 ~128 ~-9 double_stone_slab 7 
+setblock ~23 ~128 ~-8 stone_slab 7 
+setblock ~23 ~128 ~28 stone_slab 7 
+setblock ~23 ~128 ~29 double_stone_slab 7  
+fill ~24 ~128 ~-10 ~24 ~128 ~-9 stone_slab 7  
+fill ~24 ~128 ~29 ~24 ~128 ~30 stone_slab 7  
+fill ~25 ~128 ~-10 ~29 ~128 ~-10 double_stone_slab 7  
+fill ~25 ~128 ~30 ~29 ~128 ~30 double_stone_slab 7  
+fill ~26 ~128 ~2 ~29 ~128 ~2 double_stone_slab 7  
+fill ~26 ~128 ~18 ~29 ~128 ~18 double_stone_slab 7 
+setblock ~28 ~128 ~10 nether_brick_stairs 4  
+fill ~30 ~128 ~-10 ~30 ~128 ~-9 stone_slab 7  
+fill ~30 ~128 ~1 ~30 ~128 ~2 stone_slab 7  
+fill ~30 ~128 ~18 ~30 ~128 ~19 stone_slab 7  
+fill ~30 ~128 ~29 ~30 ~128 ~30 stone_slab 7 
+setblock ~31 ~128 ~-9 double_stone_slab 7 
+setblock ~31 ~128 ~-8 stone_slab 7 
+setblock ~31 ~128 ~0 stone_slab 7 
+setblock ~31 ~128 ~1 double_stone_slab 7  
+fill ~31 ~128 ~8 ~33 ~128 ~8 red_nether_brick 0  
+fill ~31 ~128 ~12 ~31 ~131 ~12 red_nether_brick 0 
+setblock ~31 ~128 ~19 double_stone_slab 7 
+setblock ~31 ~128 ~20 stone_slab 7 
+setblock ~31 ~128 ~28 stone_slab 7 
+setblock ~31 ~128 ~29 double_stone_slab 7 
+setblock ~32 ~128 ~-8 double_stone_slab 7  
+fill ~32 ~128 ~-7 ~33 ~128 ~-7 stone_slab 7  
+fill ~32 ~128 ~-1 ~33 ~128 ~-1 stone_slab 7 
+setblock ~32 ~128 ~0 double_stone_slab 7 
+setblock ~32 ~128 ~12 magma 0 
+setblock ~32 ~128 ~20 double_stone_slab 7  
+fill ~32 ~128 ~21 ~33 ~128 ~21 stone_slab 7  
+fill ~32 ~128 ~27 ~33 ~128 ~27 stone_slab 7 
+setblock ~32 ~128 ~28 double_stone_slab 7  
+fill ~33 ~128 ~-6 ~33 ~128 ~-2 double_stone_slab 7 
+setblock ~33 ~128 ~12 red_nether_brick 0  
+fill ~33 ~128 ~22 ~33 ~128 ~26 double_stone_slab 7 
+setblock ~34 ~128 ~8 nether_brick_stairs 5  
+fill ~34 ~128 ~9 ~37 ~128 ~9 red_nether_brick 0  
+fill ~34 ~128 ~10 ~38 ~128 ~10 red_nether_brick 0  
+fill ~34 ~128 ~11 ~37 ~128 ~11 red_nether_brick 0 
+setblock ~34 ~128 ~12 nether_brick_stairs 5 
+setblock ~38 ~128 ~9 nether_brick_stairs 5 
+setblock ~38 ~128 ~11 nether_brick_stairs 5  
+fill ~39 ~128 ~10 ~41 ~128 ~10 magma 0 
+setblock ~42 ~128 ~10 nether_brick_stairs 5 
+setblock ~-18 ~129 ~10 nether_brick_stairs 4  
+fill ~-17 ~129 ~10 ~-2 ~129 ~10 red_nether_brick 0  
+fill ~-16 ~129 ~9 ~-4 ~129 ~9 red_nether_brick 0  
+fill ~-16 ~129 ~11 ~-11 ~129 ~11 red_nether_brick 0 
+setblock ~-10 ~129 ~11 magma 0  
+fill ~-9 ~129 ~11 ~-5 ~129 ~11 red_nether_brick 0  
+fill ~-7 ~129 ~-6 ~-7 ~129 ~-2 grass_path 0  
+fill ~-7 ~129 ~22 ~-7 ~129 ~26 grass_path 0 
+setblock ~-6 ~129 ~8 nether_brick_stairs 0 
+setblock ~-6 ~129 ~12 nether_brick_stairs 0  
+fill ~-5 ~129 ~12 ~-5 ~131 ~12 red_nether_brick 0 
+setblock ~-4 ~129 ~11 magma 0  
+fill ~-3 ~129 ~-10 ~1 ~129 ~-10 grass_path 0  
+fill ~-3 ~129 ~2 ~0 ~129 ~2 grass_path 0 
+setblock ~-3 ~129 ~9 nether_brick_stairs 5  
+fill ~-3 ~129 ~18 ~0 ~129 ~18 grass_path 0  
+fill ~-3 ~129 ~30 ~1 ~129 ~30 grass_path 0  
+fill ~-2 ~129 ~9 ~-2 ~132 ~9 stone_slab 15  
+fill ~-2 ~129 ~11 ~-2 ~132 ~11 stone_slab 15  
+fill ~-1 ~129 ~10 ~-1 ~131 ~10 grass_path 4  
+fill ~5 ~129 ~-6 ~5 ~129 ~-3 grass_path 0  
+fill ~5 ~129 ~23 ~5 ~129 ~26 grass_path 0 
+setblock ~11 ~129 ~-9 nether_brick_stairs 2 
+setblock ~11 ~129 ~29 nether_brick_stairs 3  
+fill ~12 ~129 ~-19 ~14 ~129 ~-19 red_nether_brick 0  
+fill ~12 ~129 ~-18 ~14 ~129 ~-18 red_nether_brick 0  
+fill ~12 ~129 ~-17 ~14 ~129 ~-17 red_nether_brick 0  
+fill ~12 ~129 ~-16 ~14 ~129 ~-16 red_nether_brick 0  
+fill ~12 ~129 ~-15 ~12 ~129 ~-14 red_nether_brick 0 
+setblock ~12 ~129 ~-13 magma 0  
+fill ~12 ~129 ~-12 ~14 ~129 ~-12 red_nether_brick 0  
+fill ~12 ~129 ~-11 ~14 ~129 ~-11 red_nether_brick 0  
+fill ~12 ~129 ~-10 ~14 ~129 ~-10 red_nether_brick 0  
+fill ~12 ~129 ~-9 ~14 ~129 ~-9 red_nether_brick 0 
+setblock ~12 ~129 ~-7 magma 0  
+fill ~12 ~129 ~-5 ~12 ~132 ~-5 stone_slab 15  
+fill ~12 ~129 ~25 ~12 ~132 ~25 stone_slab 15 
+setblock ~12 ~129 ~26 nether_brick_stairs 6  
+fill ~12 ~129 ~29 ~14 ~129 ~29 red_nether_brick 0  
+fill ~12 ~129 ~30 ~14 ~129 ~30 red_nether_brick 0  
+fill ~12 ~129 ~31 ~14 ~129 ~31 red_nether_brick 0  
+fill ~12 ~129 ~32 ~14 ~129 ~32 red_nether_brick 0  
+fill ~12 ~129 ~33 ~13 ~129 ~33 red_nether_brick 0  
+fill ~12 ~129 ~34 ~14 ~129 ~34 red_nether_brick 0  
+fill ~12 ~129 ~35 ~12 ~129 ~39 red_nether_brick 0 
+setblock ~13 ~129 ~-21 nether_brick_stairs 6  
+fill ~13 ~129 ~-20 ~13 ~130 ~-20 red_nether_brick 0  
+fill ~13 ~129 ~-14 ~14 ~129 ~-14 red_nether_brick 0  
+fill ~13 ~129 ~-13 ~14 ~129 ~-13 red_nether_brick 0  
+fill ~13 ~129 ~-5 ~13 ~145 ~-5 red_nether_brick 0  
+fill ~13 ~129 ~-4 ~13 ~131 ~-4 grass_path 2  
+fill ~13 ~129 ~24 ~13 ~131 ~24 grass_path 3  
+fill ~13 ~129 ~25 ~13 ~145 ~25 red_nether_brick 0  
+fill ~13 ~129 ~36 ~14 ~129 ~36 red_nether_brick 0  
+fill ~13 ~129 ~37 ~14 ~129 ~37 red_nether_brick 0  
+fill ~13 ~129 ~38 ~14 ~129 ~38 red_nether_brick 0  
+fill ~13 ~129 ~39 ~14 ~129 ~39 red_nether_brick 0  
+fill ~13 ~129 ~40 ~13 ~130 ~40 red_nether_brick 0 
+setblock ~13 ~129 ~41 nether_brick_stairs 7 
+setblock ~14 ~129 ~-15 red_nether_brick 0 
+setblock ~14 ~129 ~-6 nether_brick_stairs 7  
+fill ~14 ~129 ~-5 ~14 ~132 ~-5 stone_slab 15  
+fill ~14 ~129 ~25 ~14 ~132 ~25 stone_slab 15 
+setblock ~14 ~129 ~27 magma 0 
+setblock ~14 ~129 ~33 magma 0 
+setblock ~14 ~129 ~35 red_nether_brick 0 
+setblock ~15 ~129 ~-9 nether_brick_stairs 2  
+fill ~15 ~129 ~28 ~15 ~131 ~28 red_nether_brick 0 
+setblock ~15 ~129 ~29 nether_brick_stairs 3  
+fill ~21 ~129 ~-6 ~21 ~129 ~-3 grass_path 0  
+fill ~21 ~129 ~23 ~21 ~129 ~26 grass_path 0  
+fill ~25 ~129 ~-10 ~29 ~129 ~-10 grass_path 0  
+fill ~25 ~129 ~30 ~29 ~129 ~30 grass_path 0  
+fill ~26 ~129 ~2 ~29 ~129 ~2 grass_path 0  
+fill ~26 ~129 ~18 ~29 ~129 ~18 grass_path 0  
+fill ~27 ~129 ~10 ~27 ~131 ~10 grass_path 5  
+fill ~28 ~129 ~9 ~28 ~132 ~9 stone_slab 15  
+fill ~28 ~129 ~10 ~28 ~145 ~10 red_nether_brick 0  
+fill ~28 ~129 ~11 ~28 ~132 ~11 stone_slab 15 
+setblock ~29 ~129 ~11 nether_brick_stairs 4 
+setblock ~30 ~129 ~9 magma 0  
+fill ~31 ~129 ~8 ~31 ~131 ~8 red_nether_brick 0 
+setblock ~32 ~129 ~8 nether_brick_stairs 1 
+setblock ~32 ~129 ~12 nether_brick_stairs 1  
+fill ~33 ~129 ~-6 ~33 ~129 ~-2 grass_path 0  
+fill ~33 ~129 ~22 ~33 ~129 ~26 grass_path 0  
+fill ~34 ~129 ~9 ~35 ~129 ~9 red_nether_brick 0  
+fill ~34 ~129 ~10 ~43 ~129 ~10 red_nether_brick 0  
+fill ~34 ~129 ~11 ~42 ~129 ~11 red_nether_brick 0 
+setblock ~36 ~129 ~9 magma 0  
+fill ~37 ~129 ~9 ~42 ~129 ~9 red_nether_brick 0 
+setblock ~44 ~129 ~10 nether_brick_stairs 5 
+setblock ~-25 ~130 ~10 nether_brick_stairs 4  
+fill ~-24 ~130 ~10 ~-17 ~130 ~10 red_nether_brick 0 
+setblock ~-16 ~130 ~9 nether_brick_stairs 2 
+setblock ~-16 ~130 ~10 magma 0  
+fill ~-16 ~130 ~11 ~-15 ~130 ~11 nether_brick_stairs 3  
+fill ~-15 ~130 ~9 ~-15 ~130 ~10 nether_brick_stairs 1  
+fill ~-13 ~130 ~9 ~-13 ~130 ~11 nether_brick_stairs 0  
+fill ~-12 ~130 ~9 ~-8 ~130 ~9 nether_brick_stairs 2  
+fill ~-12 ~130 ~10 ~-9 ~130 ~10 netherrack 0  
+fill ~-12 ~130 ~11 ~-8 ~130 ~11 nether_brick_stairs 3 
+setblock ~-9 ~130 ~-4 nether_brick_stairs 5 
+setblock ~-9 ~130 ~24 nether_brick_stairs 5 
+setblock ~-8 ~130 ~10 red_nether_brick 0 
+setblock ~-7 ~130 ~9 nether_brick_stairs 0 
+setblock ~-7 ~130 ~11 nether_brick_stairs 0 
+setblock ~-4 ~130 ~8 nether_brick_stairs 5  
+fill ~-4 ~130 ~11 ~-3 ~130 ~11 red_nether_brick 0 
+setblock ~-4 ~130 ~12 nether_brick_stairs 5  
+fill ~-3 ~130 ~9 ~-3 ~132 ~9 red_nether_brick 0  
+fill ~-2 ~130 ~10 ~-2 ~145 ~10 red_nether_brick 0 
+setblock ~-1 ~130 ~-12 nether_brick_stairs 7 
+setblock ~-1 ~130 ~32 nether_brick_stairs 6 
+setblock ~11 ~130 ~-7 nether_brick_stairs 7 
+setblock ~11 ~130 ~27 nether_brick_stairs 6  
+fill ~12 ~130 ~-19 ~12 ~130 ~-18 nether_brick_stairs 0  
+fill ~12 ~130 ~-16 ~14 ~130 ~-16 nether_brick_stairs 2  
+fill ~12 ~130 ~-15 ~12 ~130 ~-11 nether_brick_stairs 0 
+setblock ~12 ~130 ~-10 nether_brick_stairs 2  
+fill ~12 ~130 ~-9 ~14 ~130 ~-9 red_nether_brick 0  
+fill ~12 ~130 ~-7 ~12 ~135 ~-7 red_nether_brick 0  
+fill ~12 ~130 ~-6 ~12 ~139 ~-6 red_nether_brick 0 
+setblock ~12 ~130 ~26 red_nether_brick 0  
+fill ~12 ~130 ~29 ~14 ~130 ~29 red_nether_brick 0 
+setblock ~12 ~130 ~30 nether_brick_stairs 3  
+fill ~12 ~130 ~31 ~12 ~130 ~35 nether_brick_stairs 0  
+fill ~12 ~130 ~36 ~14 ~130 ~36 nether_brick_stairs 3  
+fill ~12 ~130 ~38 ~13 ~130 ~38 nether_brick_stairs 2 
+setblock ~12 ~130 ~39 nether_brick_stairs 0  
+fill ~13 ~130 ~-25 ~13 ~130 ~-20 red_nether_brick 0 
+setblock ~13 ~130 ~-19 magma 0  
+fill ~13 ~130 ~-18 ~14 ~130 ~-18 nether_brick_stairs 3  
+fill ~13 ~130 ~-15 ~13 ~130 ~-12 netherrack 0  
+fill ~13 ~130 ~-11 ~13 ~130 ~-5 red_nether_brick 0  
+fill ~13 ~130 ~30 ~13 ~130 ~31 red_nether_brick 0  
+fill ~13 ~130 ~32 ~13 ~130 ~35 netherrack 0 
+setblock ~13 ~130 ~39 magma 0  
+fill ~13 ~130 ~41 ~13 ~130 ~47 red_nether_brick 0 
+setblock ~13 ~130 ~48 nether_brick_stairs 7 
+setblock ~14 ~130 ~-19 nether_brick_stairs 1  
+fill ~14 ~130 ~-15 ~14 ~130 ~-11 nether_brick_stairs 1 
+setblock ~14 ~130 ~-10 nether_brick_stairs 2  
+fill ~14 ~130 ~-6 ~14 ~139 ~-6 red_nether_brick 0  
+fill ~14 ~130 ~26 ~14 ~139 ~26 red_nether_brick 0  
+fill ~14 ~130 ~27 ~14 ~135 ~27 red_nether_brick 0 
+setblock ~14 ~130 ~30 nether_brick_stairs 3  
+fill ~14 ~130 ~31 ~14 ~130 ~35 nether_brick_stairs 1  
+fill ~14 ~130 ~38 ~14 ~130 ~39 nether_brick_stairs 1 
+setblock ~15 ~130 ~-7 nether_brick_stairs 7 
+setblock ~15 ~130 ~27 nether_brick_stairs 6 
+setblock ~27 ~130 ~-12 nether_brick_stairs 7 
+setblock ~27 ~130 ~32 nether_brick_stairs 6  
+fill ~29 ~130 ~9 ~32 ~130 ~9 red_nether_brick 0 
+setblock ~29 ~130 ~11 red_nether_brick 0 
+setblock ~30 ~130 ~8 nether_brick_stairs 4 
+setblock ~30 ~130 ~12 nether_brick_stairs 4 
+setblock ~33 ~130 ~9 nether_brick_stairs 1 
+setblock ~33 ~130 ~11 nether_brick_stairs 1  
+fill ~34 ~130 ~9 ~38 ~130 ~9 nether_brick_stairs 2  
+fill ~34 ~130 ~10 ~34 ~127 ~10 red_nether_brick 0  
+fill ~34 ~130 ~11 ~38 ~130 ~11 nether_brick_stairs 3 
+setblock ~35 ~130 ~-4 nether_brick_stairs 4  
+fill ~35 ~130 ~10 ~38 ~130 ~10 netherrack 0 
+setblock ~35 ~130 ~24 nether_brick_stairs 4  
+fill ~39 ~130 ~9 ~39 ~130 ~11 nether_brick_stairs 1  
+fill ~41 ~130 ~9 ~42 ~130 ~9 nether_brick_stairs 2  
+fill ~41 ~130 ~10 ~41 ~130 ~11 nether_brick_stairs 0 
+setblock ~42 ~130 ~10 magma 0 
+setblock ~42 ~130 ~11 nether_brick_stairs 3  
+fill ~43 ~130 ~10 ~50 ~130 ~10 red_nether_brick 0 
+setblock ~51 ~130 ~10 nether_brick_stairs 5  
+fill ~-12 ~131 ~10 ~-9 ~131 ~10 fire 15  
+fill ~-9 ~131 ~-4 ~-9 ~136 ~-4 red_nether_brick 0  
+fill ~-9 ~131 ~24 ~-9 ~136 ~24 red_nether_brick 0  
+fill ~-8 ~131 ~-4 ~-8 ~134 ~-4 grass_path 4 
+setblock ~-8 ~131 ~10 nether_brick_stairs 0  
+fill ~-8 ~131 ~24 ~-8 ~134 ~24 grass_path 4  
+fill ~-7 ~131 ~10 ~-7 ~132 ~10 magma 0  
+fill ~-4 ~131 ~8 ~-4 ~132 ~8 red_nether_brick 0  
+fill ~-4 ~131 ~11 ~-3 ~131 ~11 red_nether_brick 0  
+fill ~-4 ~131 ~12 ~-4 ~132 ~12 red_nether_brick 0  
+fill ~-3 ~131 ~8 ~-3 ~132 ~8 stone_slab 15  
+fill ~-1 ~131 ~-12 ~-1 ~136 ~-12 red_nether_brick 0  
+fill ~-1 ~131 ~-11 ~-1 ~134 ~-11 grass_path 2  
+fill ~-1 ~131 ~31 ~-1 ~134 ~31 grass_path 3  
+fill ~-1 ~131 ~32 ~-1 ~136 ~32 red_nether_brick 0  
+fill ~11 ~131 ~-7 ~11 ~132 ~-7 red_nether_brick 0  
+fill ~11 ~131 ~26 ~11 ~132 ~26 stone_slab 15 
+setblock ~11 ~131 ~27 magma 0  
+fill ~12 ~131 ~-9 ~14 ~131 ~-9 red_nether_brick 0  
+fill ~12 ~131 ~9 ~14 ~131 ~9 wool 0  
+fill ~12 ~131 ~10 ~14 ~131 ~10 wool 0  
+fill ~12 ~131 ~11 ~14 ~131 ~11 wool 0 
+setblock ~12 ~131 ~26 magma 0  
+fill ~12 ~131 ~29 ~14 ~131 ~29 red_nether_brick 0  
+fill ~13 ~131 ~-15 ~13 ~131 ~-12 fire 15 
+setblock ~13 ~131 ~-11 nether_brick_stairs 2  
+fill ~13 ~131 ~-10 ~13 ~132 ~-10 magma 0  
+fill ~13 ~131 ~30 ~13 ~132 ~30 magma 0 
+setblock ~13 ~131 ~31 nether_brick_stairs 3  
+fill ~13 ~131 ~32 ~13 ~131 ~35 fire 15  
+fill ~15 ~131 ~-7 ~15 ~132 ~-7 red_nether_brick 0  
+fill ~15 ~131 ~-6 ~15 ~132 ~-6 stone_slab 15  
+fill ~15 ~131 ~26 ~15 ~132 ~26 stone_slab 15 
+setblock ~15 ~131 ~27 red_nether_brick 0  
+fill ~27 ~131 ~-12 ~27 ~136 ~-12 red_nether_brick 0  
+fill ~27 ~131 ~-11 ~27 ~134 ~-11 grass_path 2  
+fill ~27 ~131 ~31 ~27 ~134 ~31 grass_path 3  
+fill ~27 ~131 ~32 ~27 ~136 ~32 red_nether_brick 0  
+fill ~29 ~131 ~9 ~32 ~131 ~9 red_nether_brick 0 
+setblock ~29 ~131 ~11 magma 0  
+fill ~29 ~131 ~12 ~29 ~132 ~12 stone_slab 15  
+fill ~30 ~131 ~8 ~30 ~132 ~8 red_nether_brick 0  
+fill ~30 ~131 ~12 ~30 ~132 ~12 red_nether_brick 0  
+fill ~33 ~131 ~10 ~33 ~132 ~10 magma 0  
+fill ~34 ~131 ~-4 ~34 ~134 ~-4 grass_path 5 
+setblock ~34 ~131 ~10 nether_brick_stairs 1  
+fill ~34 ~131 ~24 ~34 ~134 ~24 grass_path 5  
+fill ~35 ~131 ~-4 ~35 ~136 ~-4 red_nether_brick 0  
+fill ~35 ~131 ~10 ~38 ~131 ~10 fire 15  
+fill ~35 ~131 ~24 ~35 ~136 ~24 red_nether_brick 0 
+setblock ~-10 ~132 ~-4 nether_brick_stairs 0 
+setblock ~-10 ~132 ~24 nether_brick_stairs 0 
+setblock ~-5 ~132 ~8 nether_brick_stairs 2 
+setblock ~-5 ~132 ~12 nether_brick_stairs 3  
+fill ~-4 ~132 ~11 ~-3 ~132 ~11 red_nether_brick 0 
+setblock ~-1 ~132 ~-13 nether_brick_stairs 2 
+setblock ~-1 ~132 ~10 nether_brick_stairs 5 
+setblock ~-1 ~132 ~33 nether_brick_stairs 3 
+setblock ~11 ~132 ~-8 nether_brick_stairs 0  
+fill ~11 ~132 ~8 ~15 ~132 ~8 wool 0  
+fill ~11 ~132 ~9 ~11 ~132 ~12 wool 0 
+setblock ~11 ~132 ~27 red_nether_brick 0 
+setblock ~11 ~132 ~28 nether_brick_stairs 0  
+fill ~12 ~132 ~-9 ~14 ~132 ~-9 red_nether_brick 0  
+fill ~12 ~132 ~9 ~14 ~132 ~9 lava 0  
+fill ~12 ~132 ~10 ~14 ~132 ~10 lava 0  
+fill ~12 ~132 ~11 ~14 ~132 ~11 lava 0  
+fill ~12 ~132 ~12 ~15 ~132 ~12 wool 0  
+fill ~12 ~132 ~26 ~12 ~139 ~26 red_nether_brick 0  
+fill ~12 ~132 ~29 ~14 ~132 ~29 red_nether_brick 0 
+setblock ~13 ~132 ~-4 nether_brick_stairs 7 
+setblock ~13 ~132 ~24 nether_brick_stairs 6 
+setblock ~15 ~132 ~-8 nether_brick_stairs 1  
+fill ~15 ~132 ~9 ~15 ~132 ~12 wool 0 
+setblock ~15 ~132 ~27 magma 0 
+setblock ~15 ~132 ~28 nether_brick_stairs 1 
+setblock ~27 ~132 ~-13 nether_brick_stairs 2 
+setblock ~27 ~132 ~10 nether_brick_stairs 4 
+setblock ~27 ~132 ~33 nether_brick_stairs 3  
+fill ~29 ~132 ~9 ~32 ~132 ~9 red_nether_brick 0  
+fill ~29 ~132 ~11 ~29 ~139 ~11 red_nether_brick 0 
+setblock ~31 ~132 ~8 nether_brick_stairs 2 
+setblock ~31 ~132 ~12 nether_brick_stairs 3 
+setblock ~36 ~132 ~-4 nether_brick_stairs 1 
+setblock ~36 ~132 ~24 nether_brick_stairs 1  
+fill ~-10 ~133 ~-4 ~-10 ~136 ~-4 stone_slab 7  
+fill ~-10 ~133 ~24 ~-10 ~136 ~24 stone_slab 7 
+setblock ~-7 ~133 ~10 nether_brick_stairs 0 
+setblock ~-6 ~133 ~9 nether_brick_stairs 0  
+fill ~-6 ~133 ~10 ~-6 ~134 ~10 magma 0 
+setblock ~-6 ~133 ~11 nether_brick_stairs 0 
+setblock ~-4 ~133 ~8 nether_brick_stairs 2  
+fill ~-4 ~133 ~11 ~-3 ~133 ~11 red_nether_brick 0 
+setblock ~-4 ~133 ~12 nether_brick_stairs 3 
+setblock ~-3 ~133 ~9 magma 0 
+setblock ~-2 ~133 ~9 nether_brick_stairs 5 
+setblock ~-2 ~133 ~11 nether_brick_stairs 5  
+fill ~-1 ~133 ~-13 ~-1 ~136 ~-13 stone_slab 7  
+fill ~-1 ~133 ~10 ~-1 ~148 ~10 red_nether_brick 0  
+fill ~-1 ~133 ~33 ~-1 ~136 ~33 stone_slab 7  
+fill ~0 ~133 ~10 ~0 ~135 ~10 grass_path 4  
+fill ~10 ~133 ~7 ~16 ~133 ~7 wool 0  
+fill ~10 ~133 ~8 ~10 ~137 ~8 wool 0  
+fill ~10 ~133 ~9 ~10 ~133 ~12 wool 0 
+setblock ~11 ~133 ~-7 nether_brick_stairs 0  
+fill ~11 ~133 ~8 ~15 ~133 ~8 lava 0  
+fill ~11 ~133 ~9 ~15 ~133 ~9 lava 0  
+fill ~11 ~133 ~10 ~15 ~133 ~10 lava 0  
+fill ~11 ~133 ~11 ~15 ~133 ~11 lava 0  
+fill ~11 ~133 ~12 ~15 ~133 ~12 lava 0  
+fill ~11 ~133 ~13 ~16 ~133 ~13 wool 0 
+setblock ~11 ~133 ~27 nether_brick_stairs 0 
+setblock ~12 ~133 ~-9 nether_brick_stairs 2 
+setblock ~12 ~133 ~-5 nether_brick_stairs 7 
+setblock ~12 ~133 ~25 nether_brick_stairs 6 
+setblock ~12 ~133 ~29 nether_brick_stairs 3 
+setblock ~13 ~133 ~-10 nether_brick_stairs 2  
+fill ~13 ~133 ~-9 ~13 ~134 ~-9 magma 0 
+setblock ~13 ~133 ~-4 red_nether_brick 0  
+fill ~13 ~133 ~-3 ~13 ~135 ~-3 grass_path 2  
+fill ~13 ~133 ~23 ~13 ~135 ~23 grass_path 3  
+fill ~13 ~133 ~24 ~13 ~148 ~24 red_nether_brick 0  
+fill ~13 ~133 ~29 ~13 ~134 ~29 magma 0 
+setblock ~13 ~133 ~30 nether_brick_stairs 3 
+setblock ~14 ~133 ~-9 nether_brick_stairs 2 
+setblock ~14 ~133 ~-5 nether_brick_stairs 7 
+setblock ~14 ~133 ~25 nether_brick_stairs 6 
+setblock ~14 ~133 ~29 nether_brick_stairs 3 
+setblock ~15 ~133 ~-7 nether_brick_stairs 1 
+setblock ~15 ~133 ~27 nether_brick_stairs 1  
+fill ~16 ~133 ~8 ~16 ~137 ~8 wool 0  
+fill ~16 ~133 ~9 ~16 ~133 ~13 wool 0  
+fill ~26 ~133 ~10 ~26 ~135 ~10 grass_path 5  
+fill ~27 ~133 ~-13 ~27 ~136 ~-13 stone_slab 7  
+fill ~27 ~133 ~10 ~27 ~148 ~10 red_nether_brick 0  
+fill ~27 ~133 ~33 ~27 ~136 ~33 stone_slab 7 
+setblock ~28 ~133 ~9 nether_brick_stairs 4 
+setblock ~28 ~133 ~11 nether_brick_stairs 4  
+fill ~29 ~133 ~9 ~31 ~133 ~9 red_nether_brick 0 
+setblock ~30 ~133 ~8 nether_brick_stairs 2 
+setblock ~30 ~133 ~12 nether_brick_stairs 3 
+setblock ~32 ~133 ~9 nether_brick_stairs 1  
+fill ~32 ~133 ~10 ~32 ~134 ~10 magma 0 
+setblock ~32 ~133 ~11 nether_brick_stairs 1 
+setblock ~33 ~133 ~10 nether_brick_stairs 1  
+fill ~36 ~133 ~-4 ~36 ~136 ~-4 stone_slab 7  
+fill ~36 ~133 ~24 ~36 ~136 ~24 stone_slab 7 
+setblock ~-5 ~134 ~9 nether_brick_stairs 0 
+setblock ~-5 ~134 ~11 nether_brick_stairs 0  
+fill ~-4 ~134 ~11 ~-2 ~134 ~11 red_nether_brick 0 
+setblock ~-3 ~134 ~8 nether_brick_stairs 6  
+fill ~-3 ~134 ~9 ~-2 ~134 ~9 red_nether_brick 0  
+fill ~-1 ~134 ~9 ~-1 ~136 ~9 stone_slab 7  
+fill ~-1 ~134 ~11 ~-1 ~136 ~11 stone_slab 7  
+fill ~6 ~134 ~7 ~7 ~134 ~7 nether_brick_stairs 6  
+fill ~6 ~134 ~8 ~6 ~134 ~12 nether_brick_stairs 4 
+setblock ~6 ~134 ~13 nether_brick_stairs 7  
+fill ~7 ~134 ~5 ~7 ~134 ~6 nether_brick_stairs 4  
+fill ~7 ~134 ~8 ~7 ~134 ~12 red_nether_brick 0  
+fill ~7 ~134 ~13 ~7 ~134 ~14 nether_brick_stairs 4 
+setblock ~7 ~134 ~15 nether_brick_stairs 7 
+setblock ~8 ~134 ~4 nether_brick_stairs 4 
+setblock ~8 ~134 ~5 nether_brick_stairs 6  
+fill ~8 ~134 ~6 ~8 ~134 ~7 red_nether_brick 0 
+setblock ~8 ~134 ~8 nether_brick_stairs 7  
+fill ~8 ~134 ~9 ~8 ~134 ~12 nether_brick_stairs 5  
+fill ~8 ~134 ~13 ~8 ~134 ~14 red_nether_brick 0  
+fill ~8 ~134 ~15 ~8 ~134 ~16 nether_brick_stairs 4  
+fill ~9 ~134 ~4 ~10 ~134 ~4 nether_brick_stairs 6  
+fill ~9 ~134 ~5 ~10 ~134 ~5 red_nether_brick 0  
+fill ~9 ~134 ~6 ~10 ~134 ~6 nether_brick_stairs 7  
+fill ~9 ~134 ~7 ~9 ~134 ~8 nether_brick_stairs 5  
+fill ~9 ~134 ~9 ~9 ~134 ~11 wool 0 
+setblock ~9 ~134 ~12 nether_brick_stairs 6  
+fill ~9 ~134 ~13 ~9 ~134 ~14 nether_brick_stairs 5  
+fill ~9 ~134 ~15 ~10 ~134 ~15 red_nether_brick 0  
+fill ~9 ~134 ~16 ~10 ~134 ~16 nether_brick_stairs 7 
+setblock ~10 ~134 ~3 nether_brick_stairs 4  
+fill ~10 ~134 ~9 ~16 ~134 ~9 lava 0  
+fill ~10 ~134 ~10 ~16 ~134 ~10 lava 0  
+fill ~10 ~134 ~11 ~16 ~134 ~11 lava 0  
+fill ~10 ~134 ~12 ~10 ~137 ~12 wool 0 
+setblock ~10 ~134 ~14 nether_brick_stairs 6 
+setblock ~10 ~134 ~17 nether_brick_stairs 4  
+fill ~11 ~134 ~3 ~16 ~134 ~3 nether_brick_stairs 6  
+fill ~11 ~134 ~4 ~15 ~134 ~4 red_nether_brick 0  
+fill ~11 ~134 ~5 ~15 ~134 ~5 nether_brick_stairs 7 
+setblock ~11 ~134 ~6 nether_brick_stairs 5  
+fill ~11 ~134 ~7 ~11 ~137 ~7 wool 0  
+fill ~11 ~134 ~8 ~15 ~134 ~8 lava 0  
+fill ~11 ~134 ~12 ~15 ~134 ~12 lava 0  
+fill ~11 ~134 ~13 ~11 ~137 ~13 wool 0 
+setblock ~11 ~134 ~14 nether_brick_stairs 5  
+fill ~11 ~134 ~15 ~15 ~134 ~15 nether_brick_stairs 6  
+fill ~11 ~134 ~16 ~15 ~134 ~16 red_nether_brick 0  
+fill ~11 ~134 ~17 ~15 ~134 ~17 nether_brick_stairs 7 
+setblock ~11 ~134 ~26 nether_brick_stairs 4 
+setblock ~12 ~134 ~-8 nether_brick_stairs 2  
+fill ~12 ~134 ~-5 ~12 ~138 ~-5 red_nether_brick 0  
+fill ~12 ~134 ~-4 ~12 ~136 ~-4 stone_slab 7  
+fill ~12 ~134 ~6 ~14 ~134 ~6 wool 0  
+fill ~12 ~134 ~7 ~14 ~134 ~7 lava 0  
+fill ~12 ~134 ~13 ~14 ~134 ~13 lava 0  
+fill ~12 ~134 ~14 ~14 ~134 ~14 wool 0  
+fill ~12 ~134 ~24 ~12 ~136 ~24 stone_slab 7  
+fill ~12 ~134 ~25 ~12 ~138 ~25 red_nether_brick 0 
+setblock ~12 ~134 ~28 nether_brick_stairs 3 
+setblock ~13 ~134 ~-4 magma 0 
+setblock ~14 ~134 ~-8 nether_brick_stairs 2  
+fill ~14 ~134 ~-5 ~14 ~138 ~-5 red_nether_brick 0  
+fill ~14 ~134 ~-4 ~14 ~136 ~-4 stone_slab 7  
+fill ~14 ~134 ~24 ~14 ~136 ~24 stone_slab 7  
+fill ~14 ~134 ~25 ~14 ~138 ~25 red_nether_brick 0 
+setblock ~14 ~134 ~28 nether_brick_stairs 3 
+setblock ~15 ~134 ~-6 nether_brick_stairs 5 
+setblock ~15 ~134 ~6 nether_brick_stairs 4  
+fill ~15 ~134 ~7 ~15 ~137 ~7 wool 0  
+fill ~15 ~134 ~13 ~15 ~137 ~13 wool 0 
+setblock ~15 ~134 ~14 nether_brick_stairs 4 
+setblock ~15 ~134 ~26 nether_brick_stairs 5 
+setblock ~16 ~134 ~4 nether_brick_stairs 5  
+fill ~16 ~134 ~5 ~17 ~134 ~5 red_nether_brick 0 
+setblock ~16 ~134 ~6 nether_brick_stairs 7  
+fill ~16 ~134 ~12 ~16 ~137 ~12 wool 0  
+fill ~16 ~134 ~14 ~17 ~134 ~14 nether_brick_stairs 6  
+fill ~16 ~134 ~15 ~17 ~134 ~15 red_nether_brick 0  
+fill ~16 ~134 ~16 ~17 ~134 ~16 nether_brick_stairs 7 
+setblock ~16 ~134 ~17 nether_brick_stairs 5  
+fill ~17 ~134 ~4 ~18 ~134 ~4 nether_brick_stairs 6  
+fill ~17 ~134 ~6 ~17 ~134 ~7 nether_brick_stairs 4 
+setblock ~17 ~134 ~8 nether_brick_stairs 7  
+fill ~17 ~134 ~9 ~17 ~136 ~9 wool 0  
+fill ~17 ~134 ~10 ~17 ~136 ~10 wool 0  
+fill ~17 ~134 ~11 ~17 ~136 ~11 wool 0  
+fill ~17 ~134 ~12 ~18 ~134 ~12 nether_brick_stairs 6 
+setblock ~17 ~134 ~13 nether_brick_stairs 4 
+setblock ~18 ~134 ~5 nether_brick_stairs 5  
+fill ~18 ~134 ~6 ~18 ~134 ~7 red_nether_brick 0  
+fill ~18 ~134 ~8 ~18 ~134 ~11 nether_brick_stairs 4  
+fill ~18 ~134 ~13 ~18 ~134 ~14 red_nether_brick 0 
+setblock ~18 ~134 ~15 nether_brick_stairs 7 
+setblock ~18 ~134 ~16 nether_brick_stairs 5 
+setblock ~19 ~134 ~5 nether_brick_stairs 6 
+setblock ~19 ~134 ~6 nether_brick_stairs 5  
+fill ~19 ~134 ~8 ~19 ~134 ~12 red_nether_brick 0  
+fill ~19 ~134 ~13 ~20 ~134 ~13 nether_brick_stairs 7  
+fill ~19 ~134 ~14 ~19 ~134 ~15 nether_brick_stairs 5 
+setblock ~20 ~134 ~6 nether_brick_stairs 6  
+fill ~20 ~134 ~7 ~20 ~134 ~12 nether_brick_stairs 5  
+fill ~27 ~134 ~9 ~27 ~136 ~9 stone_slab 7  
+fill ~27 ~134 ~11 ~27 ~136 ~11 stone_slab 7  
+fill ~28 ~134 ~9 ~30 ~134 ~9 red_nether_brick 0  
+fill ~28 ~134 ~11 ~28 ~138 ~11 red_nether_brick 0 
+setblock ~29 ~134 ~12 nether_brick_stairs 7 
+setblock ~31 ~134 ~9 nether_brick_stairs 1 
+setblock ~31 ~134 ~11 nether_brick_stairs 1 
+setblock ~-8 ~135 ~-4 nether_brick_stairs 5 
+setblock ~-8 ~135 ~24 nether_brick_stairs 5 
+setblock ~-6 ~135 ~10 nether_brick_stairs 0  
+fill ~-4 ~135 ~11 ~-2 ~135 ~11 red_nether_brick 0  
+fill ~-3 ~135 ~8 ~-3 ~135 ~12 red_nether_brick 0  
+fill ~-2 ~135 ~8 ~-2 ~137 ~8 stone_slab 7  
+fill ~-2 ~135 ~9 ~-2 ~138 ~9 red_nether_brick 0 
+setblock ~-1 ~135 ~-11 nether_brick_stairs 7 
+setblock ~-1 ~135 ~31 nether_brick_stairs 6  
+fill ~6 ~135 ~8 ~6 ~135 ~12 nether_wart_block 0  
+fill ~7 ~135 ~6 ~7 ~135 ~7 nether_wart_block 0  
+fill ~7 ~135 ~8 ~7 ~135 ~12 magma 0  
+fill ~7 ~135 ~13 ~7 ~135 ~14 nether_wart_block 0 
+setblock ~8 ~135 ~5 nether_wart_block 0  
+fill ~8 ~135 ~6 ~8 ~135 ~7 magma 0  
+fill ~8 ~135 ~13 ~8 ~135 ~14 magma 0 
+setblock ~8 ~135 ~15 nether_wart_block 0  
+fill ~9 ~135 ~4 ~10 ~135 ~4 nether_wart_block 0  
+fill ~9 ~135 ~5 ~10 ~135 ~5 magma 0  
+fill ~9 ~135 ~15 ~10 ~135 ~15 magma 0  
+fill ~9 ~135 ~16 ~10 ~135 ~16 nether_wart_block 0  
+fill ~10 ~135 ~9 ~16 ~135 ~9 lava 0  
+fill ~10 ~135 ~10 ~16 ~135 ~10 lava 0  
+fill ~10 ~135 ~11 ~16 ~135 ~11 lava 0  
+fill ~11 ~135 ~-6 ~11 ~137 ~-6 red_nether_brick 0  
+fill ~11 ~135 ~3 ~15 ~135 ~3 nether_wart_block 0  
+fill ~11 ~135 ~4 ~15 ~135 ~4 magma 0  
+fill ~11 ~135 ~8 ~15 ~135 ~8 lava 0  
+fill ~11 ~135 ~12 ~15 ~135 ~12 lava 0  
+fill ~11 ~135 ~16 ~15 ~135 ~16 magma 0  
+fill ~11 ~135 ~17 ~15 ~135 ~17 nether_wart_block 0  
+fill ~11 ~135 ~25 ~11 ~137 ~25 stone_slab 7 
+setblock ~11 ~135 ~26 red_nether_brick 0  
+fill ~12 ~135 ~7 ~14 ~135 ~7 lava 0  
+fill ~12 ~135 ~13 ~14 ~135 ~13 lava 0 
+setblock ~13 ~135 ~-9 nether_brick_stairs 2  
+fill ~13 ~135 ~-4 ~13 ~148 ~-4 red_nether_brick 0  
+fill ~13 ~135 ~6 ~13 ~136 ~6 wool 0 
+setblock ~13 ~135 ~29 nether_brick_stairs 3 
+setblock ~15 ~135 ~-6 red_nether_brick 0  
+fill ~15 ~135 ~-5 ~15 ~137 ~-5 stone_slab 7  
+fill ~15 ~135 ~25 ~15 ~137 ~25 stone_slab 7  
+fill ~15 ~135 ~26 ~15 ~137 ~26 red_nether_brick 0  
+fill ~16 ~135 ~4 ~17 ~135 ~4 nether_wart_block 0  
+fill ~16 ~135 ~5 ~17 ~135 ~5 magma 0  
+fill ~16 ~135 ~15 ~17 ~135 ~15 magma 0  
+fill ~16 ~135 ~16 ~17 ~135 ~16 nether_wart_block 0 
+setblock ~18 ~135 ~5 nether_wart_block 0  
+fill ~18 ~135 ~6 ~18 ~135 ~7 magma 0  
+fill ~18 ~135 ~13 ~18 ~135 ~14 magma 0 
+setblock ~18 ~135 ~15 nether_wart_block 0  
+fill ~19 ~135 ~6 ~19 ~135 ~7 nether_wart_block 0  
+fill ~19 ~135 ~8 ~19 ~135 ~12 magma 0  
+fill ~19 ~135 ~13 ~19 ~135 ~14 nether_wart_block 0  
+fill ~20 ~135 ~8 ~20 ~135 ~12 nether_wart_block 0 
+setblock ~27 ~135 ~-11 nether_brick_stairs 7 
+setblock ~27 ~135 ~31 nether_brick_stairs 6  
+fill ~28 ~135 ~9 ~30 ~135 ~9 red_nether_brick 0  
+fill ~28 ~135 ~12 ~28 ~137 ~12 stone_slab 7  
+fill ~29 ~135 ~8 ~29 ~137 ~8 red_nether_brick 0 
+setblock ~29 ~135 ~12 red_nether_brick 0 
+setblock ~32 ~135 ~10 nether_brick_stairs 1 
+setblock ~34 ~135 ~-4 nether_brick_stairs 4 
+setblock ~34 ~135 ~24 nether_brick_stairs 4  
+fill ~-8 ~136 ~-4 ~-8 ~142 ~-4 red_nether_brick 0  
+fill ~-8 ~136 ~24 ~-8 ~142 ~24 red_nether_brick 0  
+fill ~-7 ~136 ~-4 ~-7 ~142 ~-4 grass_path 4  
+fill ~-7 ~136 ~24 ~-7 ~142 ~24 grass_path 4  
+fill ~-5 ~136 ~10 ~-5 ~138 ~10 magma 0 
+setblock ~-4 ~136 ~11 magma 0 
+setblock ~-3 ~136 ~8 magma 0  
+fill ~-3 ~136 ~9 ~-3 ~139 ~9 red_nether_brick 0  
+fill ~-3 ~136 ~11 ~-2 ~136 ~11 red_nether_brick 0  
+fill ~-3 ~136 ~12 ~-3 ~137 ~12 red_nether_brick 0  
+fill ~-1 ~136 ~-11 ~-1 ~142 ~-11 red_nether_brick 0  
+fill ~-1 ~136 ~-10 ~-1 ~142 ~-10 grass_path 2  
+fill ~-1 ~136 ~30 ~-1 ~142 ~30 grass_path 3  
+fill ~-1 ~136 ~31 ~-1 ~142 ~31 red_nether_brick 0 
+setblock ~0 ~136 ~10 nether_brick_stairs 5  
+fill ~6 ~136 ~7 ~6 ~136 ~12 nether_brick_stairs 0 
+setblock ~6 ~136 ~13 nether_brick_stairs 3  
+fill ~7 ~136 ~5 ~7 ~136 ~6 nether_brick_stairs 0 
+setblock ~7 ~136 ~7 nether_brick_stairs 2  
+fill ~7 ~136 ~8 ~7 ~136 ~12 red_nether_brick 0  
+fill ~7 ~136 ~13 ~7 ~136 ~14 nether_brick_stairs 0   
+
+KittysCommands:  
+setblock ~7 ~136 ~15 nether_brick_stairs 3 
+setblock ~8 ~136 ~4 nether_brick_stairs 0 
+setblock ~8 ~136 ~5 nether_brick_stairs 2  
+fill ~8 ~136 ~6 ~8 ~136 ~7 red_nether_brick 0  
+fill ~8 ~136 ~8 ~8 ~136 ~12 nether_brick_stairs 1  
+fill ~8 ~136 ~13 ~8 ~136 ~14 red_nether_brick 0 
+setblock ~8 ~136 ~15 nether_brick_stairs 0  
+fill ~8 ~136 ~16 ~9 ~136 ~16 nether_brick_stairs 3  
+fill ~9 ~136 ~4 ~10 ~136 ~4 nether_brick_stairs 2  
+fill ~9 ~136 ~5 ~10 ~136 ~5 red_nether_brick 0  
+fill ~9 ~136 ~6 ~9 ~136 ~7 nether_brick_stairs 1 
+setblock ~9 ~136 ~8 nether_brick_stairs 3  
+fill ~9 ~136 ~9 ~9 ~136 ~11 wool 0 
+setblock ~9 ~136 ~12 nether_brick_stairs 2 
+setblock ~9 ~136 ~13 nether_brick_stairs 1  
+fill ~9 ~136 ~14 ~10 ~136 ~14 nether_brick_stairs 2  
+fill ~9 ~136 ~15 ~10 ~136 ~15 red_nether_brick 0 
+setblock ~10 ~136 ~3 nether_brick_stairs 0 
+setblock ~10 ~136 ~6 nether_brick_stairs 3  
+fill ~10 ~136 ~9 ~16 ~136 ~9 lava 0  
+fill ~10 ~136 ~10 ~12 ~136 ~10 lava 0  
+fill ~10 ~136 ~11 ~16 ~136 ~11 lava 0 
+setblock ~10 ~136 ~16 nether_brick_stairs 0  
+fill ~10 ~136 ~17 ~15 ~136 ~17 nether_brick_stairs 3  
+fill ~11 ~136 ~3 ~16 ~136 ~3 nether_brick_stairs 2  
+fill ~11 ~136 ~4 ~15 ~136 ~4 red_nether_brick 0  
+fill ~11 ~136 ~5 ~15 ~136 ~5 nether_brick_stairs 3 
+setblock ~11 ~136 ~6 nether_brick_stairs 1  
+fill ~11 ~136 ~8 ~15 ~136 ~8 lava 0  
+fill ~11 ~136 ~12 ~15 ~136 ~12 lava 0 
+setblock ~11 ~136 ~14 nether_brick_stairs 1  
+fill ~11 ~136 ~15 ~15 ~136 ~15 nether_brick_stairs 2  
+fill ~11 ~136 ~16 ~15 ~136 ~16 red_nether_brick 0 
+setblock ~11 ~136 ~26 magma 0 
+setblock ~12 ~136 ~-7 magma 0 
+setblock ~12 ~136 ~6 wool 0  
+fill ~12 ~136 ~7 ~14 ~136 ~7 lava 0  
+fill ~12 ~136 ~13 ~14 ~136 ~13 lava 0  
+fill ~12 ~136 ~14 ~14 ~136 ~14 wool 0  
+fill ~13 ~136 ~-8 ~13 ~138 ~-8 magma 0 
+setblock ~13 ~136 ~-3 nether_brick_stairs 7 
+setblock ~13 ~136 ~23 nether_brick_stairs 6  
+fill ~13 ~136 ~28 ~13 ~138 ~28 magma 0 
+setblock ~14 ~136 ~6 wool 0  
+fill ~14 ~136 ~10 ~16 ~136 ~10 lava 0 
+setblock ~14 ~136 ~27 magma 0 
+setblock ~15 ~136 ~-6 magma 0 
+setblock ~15 ~136 ~6 nether_brick_stairs 0 
+setblock ~15 ~136 ~14 nether_brick_stairs 0 
+setblock ~16 ~136 ~4 nether_brick_stairs 1  
+fill ~16 ~136 ~5 ~17 ~136 ~5 red_nether_brick 0  
+fill ~16 ~136 ~6 ~17 ~136 ~6 nether_brick_stairs 3 
+setblock ~16 ~136 ~14 nether_brick_stairs 2  
+fill ~16 ~136 ~15 ~17 ~136 ~15 red_nether_brick 0  
+fill ~16 ~136 ~16 ~17 ~136 ~16 nether_brick_stairs 3 
+setblock ~16 ~136 ~17 nether_brick_stairs 1  
+fill ~17 ~136 ~4 ~18 ~136 ~4 nether_brick_stairs 2 
+setblock ~17 ~136 ~7 nether_brick_stairs 0 
+setblock ~17 ~136 ~8 nether_brick_stairs 3 
+setblock ~17 ~136 ~12 nether_brick_stairs 2  
+fill ~17 ~136 ~13 ~17 ~136 ~14 nether_brick_stairs 0 
+setblock ~18 ~136 ~5 nether_brick_stairs 1  
+fill ~18 ~136 ~6 ~18 ~136 ~7 red_nether_brick 0  
+fill ~18 ~136 ~8 ~18 ~136 ~12 nether_brick_stairs 0  
+fill ~18 ~136 ~13 ~18 ~136 ~14 red_nether_brick 0 
+setblock ~18 ~136 ~15 nether_brick_stairs 3 
+setblock ~18 ~136 ~16 nether_brick_stairs 1 
+setblock ~19 ~136 ~5 nether_brick_stairs 2  
+fill ~19 ~136 ~6 ~19 ~136 ~7 nether_brick_stairs 1  
+fill ~19 ~136 ~8 ~19 ~136 ~12 red_nether_brick 0  
+fill ~19 ~136 ~13 ~19 ~136 ~15 nether_brick_stairs 1 
+setblock ~20 ~136 ~7 nether_brick_stairs 2  
+fill ~20 ~136 ~8 ~20 ~136 ~12 nether_brick_stairs 1 
+setblock ~20 ~136 ~13 nether_brick_stairs 3 
+setblock ~26 ~136 ~10 nether_brick_stairs 4  
+fill ~27 ~136 ~-11 ~27 ~142 ~-11 red_nether_brick 0  
+fill ~27 ~136 ~-10 ~27 ~142 ~-10 grass_path 2  
+fill ~27 ~136 ~30 ~27 ~142 ~30 grass_path 3  
+fill ~27 ~136 ~31 ~27 ~142 ~31 red_nether_brick 0  
+fill ~28 ~136 ~9 ~29 ~136 ~9 red_nether_brick 0 
+setblock ~29 ~136 ~12 magma 0 
+setblock ~30 ~136 ~9 magma 0  
+fill ~31 ~136 ~10 ~31 ~138 ~10 magma 0  
+fill ~33 ~136 ~-4 ~33 ~142 ~-4 grass_path 5  
+fill ~33 ~136 ~24 ~33 ~142 ~24 grass_path 5  
+fill ~34 ~136 ~-4 ~34 ~142 ~-4 red_nether_brick 0  
+fill ~34 ~136 ~24 ~34 ~142 ~24 red_nether_brick 0 
+setblock ~-9 ~137 ~-4 nether_brick_stairs 0 
+setblock ~-9 ~137 ~24 nether_brick_stairs 0 
+setblock ~-4 ~137 ~9 nether_brick_stairs 0  
+fill ~-4 ~137 ~10 ~-4 ~139 ~10 red_nether_brick 0 
+setblock ~-4 ~137 ~11 nether_brick_stairs 0 
+setblock ~-3 ~137 ~8 red_nether_brick 0  
+fill ~-3 ~137 ~11 ~-2 ~137 ~11 red_nether_brick 0 
+setblock ~-1 ~137 ~-12 nether_brick_stairs 2 
+setblock ~-1 ~137 ~9 nether_brick_stairs 5 
+setblock ~-1 ~137 ~11 nether_brick_stairs 5 
+setblock ~-1 ~137 ~32 nether_brick_stairs 3  
+fill ~0 ~137 ~10 ~0 ~150 ~10 red_nether_brick 0  
+fill ~1 ~137 ~10 ~1 ~138 ~10 grass_path 4  
+fill ~10 ~137 ~9 ~10 ~137 ~12 wool 0  
+fill ~11 ~137 ~8 ~15 ~137 ~8 lava 0  
+fill ~11 ~137 ~9 ~15 ~137 ~9 lava 0  
+fill ~11 ~137 ~10 ~12 ~137 ~10 lava 0  
+fill ~11 ~137 ~11 ~15 ~137 ~11 lava 0  
+fill ~11 ~137 ~12 ~15 ~137 ~12 lava 0 
+setblock ~11 ~137 ~26 red_nether_brick 0 
+setblock ~12 ~137 ~-7 nether_brick_stairs 2 
+setblock ~12 ~137 ~-4 nether_brick_stairs 7  
+fill ~12 ~137 ~7 ~16 ~137 ~7 wool 0  
+fill ~12 ~137 ~13 ~15 ~137 ~13 wool 0 
+setblock ~12 ~137 ~24 nether_brick_stairs 6 
+setblock ~12 ~137 ~27 nether_brick_stairs 3  
+fill ~13 ~137 ~-7 ~13 ~139 ~-7 red_nether_brick 0  
+fill ~13 ~137 ~-3 ~13 ~150 ~-3 red_nether_brick 0  
+fill ~13 ~137 ~-2 ~13 ~138 ~-2 grass_path 2  
+fill ~13 ~137 ~22 ~13 ~138 ~22 grass_path 3  
+fill ~13 ~137 ~23 ~13 ~150 ~23 red_nether_brick 0  
+fill ~13 ~137 ~27 ~13 ~139 ~27 red_nether_brick 0 
+setblock ~14 ~137 ~-7 nether_brick_stairs 2 
+setblock ~14 ~137 ~-4 nether_brick_stairs 7  
+fill ~14 ~137 ~10 ~15 ~137 ~10 lava 0 
+setblock ~14 ~137 ~24 nether_brick_stairs 6 
+setblock ~14 ~137 ~27 nether_brick_stairs 3 
+setblock ~15 ~137 ~-6 red_nether_brick 0  
+fill ~16 ~137 ~9 ~16 ~137 ~12 wool 0  
+fill ~25 ~137 ~10 ~25 ~138 ~10 grass_path 5  
+fill ~26 ~137 ~10 ~26 ~150 ~10 red_nether_brick 0 
+setblock ~27 ~137 ~-12 nether_brick_stairs 2 
+setblock ~27 ~137 ~9 nether_brick_stairs 4 
+setblock ~27 ~137 ~11 nether_brick_stairs 4 
+setblock ~27 ~137 ~32 nether_brick_stairs 3  
+fill ~28 ~137 ~9 ~29 ~137 ~9 red_nether_brick 0 
+setblock ~29 ~137 ~12 red_nether_brick 0 
+setblock ~30 ~137 ~9 nether_brick_stairs 1  
+fill ~30 ~137 ~10 ~30 ~139 ~10 red_nether_brick 0 
+setblock ~30 ~137 ~11 nether_brick_stairs 1 
+setblock ~35 ~137 ~-4 nether_brick_stairs 1 
+setblock ~35 ~137 ~24 nether_brick_stairs 1  
+fill ~-9 ~138 ~-4 ~-9 ~142 ~-4 stone_slab 7  
+fill ~-9 ~138 ~24 ~-9 ~142 ~24 stone_slab 7 
+setblock ~-3 ~138 ~8 nether_brick_stairs 2  
+fill ~-3 ~138 ~11 ~-1 ~138 ~11 red_nether_brick 0 
+setblock ~-3 ~138 ~12 nether_brick_stairs 3  
+fill ~-1 ~138 ~-12 ~-1 ~142 ~-12 stone_slab 7  
+fill ~-1 ~138 ~9 ~-1 ~143 ~9 red_nether_brick 0  
+fill ~-1 ~138 ~32 ~-1 ~142 ~32 stone_slab 7  
+fill ~0 ~138 ~9 ~0 ~139 ~9 stone_slab 7  
+fill ~0 ~138 ~11 ~0 ~139 ~11 stone_slab 7 
+setblock ~11 ~138 ~-6 nether_brick_stairs 0  
+fill ~11 ~138 ~8 ~15 ~138 ~8 wool 0  
+fill ~11 ~138 ~9 ~11 ~138 ~12 wool 0 
+setblock ~11 ~138 ~26 nether_brick_stairs 0  
+fill ~12 ~138 ~-4 ~12 ~144 ~-4 red_nether_brick 0  
+fill ~12 ~138 ~-3 ~12 ~139 ~-3 stone_slab 7  
+fill ~12 ~138 ~9 ~14 ~138 ~9 lava 0  
+fill ~12 ~138 ~10 ~12 ~138 ~11 lava 0  
+fill ~12 ~138 ~12 ~15 ~138 ~12 wool 0  
+fill ~12 ~138 ~23 ~12 ~139 ~23 stone_slab 7  
+fill ~12 ~138 ~24 ~12 ~143 ~24 red_nether_brick 0  
+fill ~13 ~138 ~11 ~14 ~138 ~11 lava 0  
+fill ~14 ~138 ~-4 ~14 ~143 ~-4 red_nether_brick 0  
+fill ~14 ~138 ~-3 ~14 ~139 ~-3 stone_slab 7  
+fill ~14 ~138 ~10 ~14 ~132 ~10 lava 0  
+fill ~14 ~138 ~23 ~14 ~139 ~23 stone_slab 7  
+fill ~14 ~138 ~24 ~14 ~144 ~24 red_nether_brick 0 
+setblock ~15 ~138 ~-6 nether_brick_stairs 1  
+fill ~15 ~138 ~9 ~15 ~138 ~12 wool 0 
+setblock ~15 ~138 ~26 nether_brick_stairs 1  
+fill ~26 ~138 ~9 ~26 ~139 ~9 stone_slab 7  
+fill ~26 ~138 ~11 ~26 ~139 ~11 stone_slab 7  
+fill ~27 ~138 ~-12 ~27 ~142 ~-12 stone_slab 7  
+fill ~27 ~138 ~9 ~29 ~138 ~9 red_nether_brick 0  
+fill ~27 ~138 ~11 ~27 ~143 ~11 red_nether_brick 0  
+fill ~27 ~138 ~32 ~27 ~142 ~32 stone_slab 7 
+setblock ~29 ~138 ~8 nether_brick_stairs 2 
+setblock ~29 ~138 ~12 nether_brick_stairs 3  
+fill ~35 ~138 ~-4 ~35 ~142 ~-4 stone_slab 7  
+fill ~35 ~138 ~24 ~35 ~142 ~24 stone_slab 7 
+setblock ~-5 ~139 ~10 nether_brick_stairs 0  
+fill ~-3 ~139 ~11 ~-3 ~130 ~11 red_nether_brick 0 
+setblock ~-2 ~139 ~9 magma 0 
+setblock ~-2 ~139 ~11 magma 0  
+fill ~-1 ~139 ~11 ~-1 ~144 ~11 red_nether_brick 0 
+setblock ~1 ~139 ~10 nether_brick_stairs 5 
+setblock ~12 ~139 ~-5 magma 0  
+fill ~12 ~139 ~9 ~14 ~139 ~9 wool 0  
+fill ~12 ~139 ~10 ~12 ~139 ~11 wool 0 
+setblock ~12 ~139 ~25 magma 0 
+setblock ~13 ~139 ~-8 nether_brick_stairs 2 
+setblock ~13 ~139 ~-2 nether_brick_stairs 7 
+setblock ~13 ~139 ~10 magma 0  
+fill ~13 ~139 ~11 ~14 ~139 ~11 wool 0  
+fill ~13 ~139 ~12 ~13 ~139 ~11 wool 0 
+setblock ~13 ~139 ~22 nether_brick_stairs 6 
+setblock ~13 ~139 ~28 nether_brick_stairs 3 
+setblock ~14 ~139 ~-5 magma 0 
+setblock ~14 ~139 ~10 wool 0 
+setblock ~14 ~139 ~25 magma 0 
+setblock ~25 ~139 ~10 nether_brick_stairs 4  
+fill ~27 ~139 ~9 ~27 ~144 ~9 red_nether_brick 0 
+setblock ~28 ~139 ~9 magma 0 
+setblock ~28 ~139 ~11 magma 0 
+setblock ~29 ~139 ~9 red_nether_brick 0 
+setblock ~31 ~139 ~10 nether_brick_stairs 1 
+setblock ~-4 ~140 ~10 magma 0 
+setblock ~-3 ~140 ~9 nether_brick_stairs 0 
+setblock ~-3 ~140 ~11 nether_brick_stairs 0  
+fill ~-2 ~140 ~9 ~-2 ~143 ~9 red_nether_brick 0  
+fill ~-2 ~140 ~11 ~-2 ~143 ~11 red_nether_brick 0 
+setblock ~0 ~140 ~9 nether_brick_stairs 5 
+setblock ~0 ~140 ~11 nether_brick_stairs 5  
+fill ~1 ~140 ~10 ~1 ~153 ~10 red_nether_brick 0  
+fill ~2 ~140 ~10 ~2 ~141 ~10 grass_path 4 
+setblock ~12 ~140 ~-6 nether_brick_stairs 2  
+fill ~12 ~140 ~-5 ~12 ~143 ~-5 red_nether_brick 0 
+setblock ~12 ~140 ~-3 nether_brick_stairs 7 
+setblock ~12 ~140 ~23 nether_brick_stairs 6  
+fill ~12 ~140 ~25 ~12 ~143 ~25 red_nether_brick 0 
+setblock ~12 ~140 ~26 nether_brick_stairs 3 
+setblock ~13 ~140 ~-7 magma 0  
+fill ~13 ~140 ~-2 ~13 ~153 ~-2 red_nether_brick 0  
+fill ~13 ~140 ~-1 ~13 ~141 ~-1 grass_path 2  
+fill ~13 ~140 ~21 ~13 ~141 ~21 grass_path 3  
+fill ~13 ~140 ~22 ~13 ~153 ~22 red_nether_brick 0 
+setblock ~13 ~140 ~27 magma 0 
+setblock ~14 ~140 ~-6 nether_brick_stairs 2  
+fill ~14 ~140 ~-5 ~14 ~143 ~-5 red_nether_brick 0 
+setblock ~14 ~140 ~-3 nether_brick_stairs 7 
+setblock ~14 ~140 ~23 nether_brick_stairs 6  
+fill ~14 ~140 ~25 ~14 ~143 ~25 red_nether_brick 0 
+setblock ~14 ~140 ~26 nether_brick_stairs 3  
+fill ~24 ~140 ~10 ~24 ~141 ~10 grass_path 5  
+fill ~25 ~140 ~10 ~25 ~153 ~10 red_nether_brick 0 
+setblock ~26 ~140 ~9 nether_brick_stairs 4 
+setblock ~26 ~140 ~11 nether_brick_stairs 4  
+fill ~28 ~140 ~9 ~28 ~143 ~9 red_nether_brick 0  
+fill ~28 ~140 ~11 ~28 ~143 ~11 red_nether_brick 0 
+setblock ~29 ~140 ~9 nether_brick_stairs 1 
+setblock ~29 ~140 ~11 nether_brick_stairs 1 
+setblock ~30 ~140 ~10 magma 0 
+setblock ~-4 ~141 ~10 nether_brick_stairs 0 
+setblock ~-1 ~141 ~8 nether_brick_stairs 5 
+setblock ~-1 ~141 ~12 nether_brick_stairs 5  
+fill ~0 ~141 ~9 ~0 ~148 ~9 red_nether_brick 0 
+setblock ~0 ~141 ~11 magma 0  
+fill ~1 ~141 ~9 ~1 ~142 ~9 stone_slab 7  
+fill ~1 ~141 ~11 ~1 ~142 ~11 stone_slab 7 
+setblock ~11 ~141 ~-4 nether_brick_stairs 7 
+setblock ~11 ~141 ~24 nether_brick_stairs 6 
+setblock ~12 ~141 ~-3 magma 0  
+fill ~12 ~141 ~-2 ~12 ~142 ~-2 stone_slab 7  
+fill ~12 ~141 ~22 ~12 ~142 ~22 stone_slab 7  
+fill ~12 ~141 ~23 ~12 ~148 ~23 red_nether_brick 0 
+setblock ~13 ~141 ~-7 nether_brick_stairs 2 
+setblock ~13 ~141 ~27 nether_brick_stairs 3  
+fill ~14 ~141 ~-3 ~14 ~148 ~-3 red_nether_brick 0  
+fill ~14 ~141 ~-2 ~14 ~142 ~-2 stone_slab 7  
+fill ~14 ~141 ~22 ~14 ~142 ~22 stone_slab 7 
+setblock ~14 ~141 ~23 magma 0 
+setblock ~15 ~141 ~-4 nether_brick_stairs 7 
+setblock ~15 ~141 ~24 nether_brick_stairs 6  
+fill ~25 ~141 ~9 ~25 ~142 ~9 stone_slab 7  
+fill ~25 ~141 ~11 ~25 ~142 ~11 stone_slab 7 
+setblock ~26 ~141 ~9 magma 0  
+fill ~26 ~141 ~11 ~26 ~148 ~11 red_nether_brick 0 
+setblock ~27 ~141 ~8 nether_brick_stairs 4 
+setblock ~27 ~141 ~12 nether_brick_stairs 4 
+setblock ~30 ~141 ~10 nether_brick_stairs 1  
+fill ~-3 ~142 ~10 ~-3 ~144 ~10 magma 0  
+fill ~-1 ~142 ~8 ~-1 ~143 ~8 red_nether_brick 0  
+fill ~-1 ~142 ~12 ~-1 ~143 ~12 red_nether_brick 0 
+setblock ~0 ~142 ~8 stone_slab 7  
+fill ~0 ~142 ~11 ~0 ~148 ~11 red_nether_brick 0 
+setblock ~2 ~142 ~10 nether_brick_stairs 5  
+fill ~11 ~142 ~-4 ~11 ~143 ~-4 red_nether_brick 0 
+setblock ~11 ~142 ~23 stone_slab 7  
+fill ~11 ~142 ~24 ~11 ~143 ~24 red_nether_brick 0  
+fill ~12 ~142 ~-3 ~12 ~148 ~-3 red_nether_brick 0  
+fill ~13 ~142 ~-6 ~13 ~144 ~-6 magma 0 
+setblock ~13 ~142 ~-1 nether_brick_stairs 7 
+setblock ~13 ~142 ~21 nether_brick_stairs 6  
+fill ~13 ~142 ~26 ~13 ~144 ~26 magma 0  
+fill ~14 ~142 ~23 ~14 ~148 ~23 red_nether_brick 0  
+fill ~15 ~142 ~-4 ~15 ~143 ~-4 red_nether_brick 0 
+setblock ~15 ~142 ~-3 stone_slab 7 
+setblock ~15 ~142 ~23 stone_slab 7  
+fill ~15 ~142 ~24 ~15 ~143 ~24 red_nether_brick 0 
+setblock ~24 ~142 ~10 nether_brick_stairs 4  
+fill ~26 ~142 ~9 ~26 ~148 ~9 red_nether_brick 0 
+setblock ~26 ~142 ~12 stone_slab 7  
+fill ~27 ~142 ~8 ~27 ~143 ~8 red_nether_brick 0  
+fill ~27 ~142 ~12 ~27 ~143 ~12 red_nether_brick 0  
+fill ~29 ~142 ~10 ~29 ~144 ~10 magma 0 
+setblock ~-8 ~143 ~-4 nether_brick_stairs 0 
+setblock ~-8 ~143 ~24 nether_brick_stairs 0  
+fill ~-7 ~143 ~-4 ~-7 ~152 ~-4 nether_brick_fence 0  
+fill ~-7 ~143 ~24 ~-7 ~152 ~24 nether_brick_fence 0 
+setblock ~-1 ~143 ~-11 nether_brick_stairs 2  
+fill ~-1 ~143 ~-10 ~-1 ~152 ~-10 nether_brick_fence 0  
+fill ~-1 ~143 ~30 ~-1 ~152 ~30 nether_brick_fence 0 
+setblock ~-1 ~143 ~31 nether_brick_stairs 3 
+setblock ~0 ~143 ~8 nether_brick_stairs 5 
+setblock ~0 ~143 ~12 nether_brick_stairs 5 
+setblock ~1 ~143 ~9 nether_brick_stairs 5 
+setblock ~1 ~143 ~11 nether_brick_stairs 5  
+fill ~2 ~143 ~10 ~2 ~156 ~10 red_nether_brick 0  
+fill ~3 ~143 ~10 ~3 ~146 ~10 grass_path 4 
+setblock ~11 ~143 ~-3 nether_brick_stairs 7 
+setblock ~11 ~143 ~23 nether_brick_stairs 6 
+setblock ~12 ~143 ~-2 nether_brick_stairs 7 
+setblock ~12 ~143 ~22 nether_brick_stairs 6  
+fill ~13 ~143 ~-1 ~13 ~156 ~-1 red_nether_brick 0  
+fill ~13 ~143 ~0 ~13 ~146 ~0 grass_path 2  
+fill ~13 ~143 ~20 ~13 ~146 ~20 grass_path 3  
+fill ~13 ~143 ~21 ~13 ~156 ~21 red_nether_brick 0 
+setblock ~14 ~143 ~-2 nether_brick_stairs 7 
+setblock ~14 ~143 ~22 nether_brick_stairs 6 
+setblock ~15 ~143 ~-3 nether_brick_stairs 7 
+setblock ~15 ~143 ~23 nether_brick_stairs 6  
+fill ~23 ~143 ~10 ~23 ~146 ~10 grass_path 5  
+fill ~24 ~143 ~10 ~24 ~156 ~10 red_nether_brick 0 
+setblock ~25 ~143 ~9 nether_brick_stairs 4 
+setblock ~25 ~143 ~11 nether_brick_stairs 4 
+setblock ~26 ~143 ~8 nether_brick_stairs 4 
+setblock ~26 ~143 ~12 nether_brick_stairs 4 
+setblock ~27 ~143 ~-11 nether_brick_stairs 2  
+fill ~27 ~143 ~-10 ~27 ~152 ~-10 nether_brick_fence 0  
+fill ~27 ~143 ~30 ~27 ~152 ~30 nether_brick_fence 0 
+setblock ~27 ~143 ~31 nether_brick_stairs 3  
+fill ~33 ~143 ~-4 ~33 ~152 ~-4 nether_brick_fence 0  
+fill ~33 ~143 ~24 ~33 ~152 ~24 nether_brick_fence 0 
+setblock ~34 ~143 ~-4 nether_brick_stairs 1 
+setblock ~34 ~143 ~24 nether_brick_stairs 1 
+setblock ~-8 ~144 ~-4 nether_brick_fence 0 
+setblock ~-8 ~144 ~24 nether_brick_fence 0 
+setblock ~-2 ~144 ~9 nether_brick_stairs 0 
+setblock ~-2 ~144 ~11 nether_brick_stairs 0 
+setblock ~-1 ~144 ~-11 nether_brick_fence 0 
+setblock ~-1 ~144 ~8 nether_brick_stairs 0 
+setblock ~-1 ~144 ~9 magma 0 
+setblock ~-1 ~144 ~12 nether_brick_stairs 0 
+setblock ~-1 ~144 ~31 nether_brick_fence 0  
+fill ~0 ~144 ~8 ~0 ~145 ~8 red_nether_brick 0  
+fill ~0 ~144 ~12 ~0 ~145 ~12 red_nether_brick 0  
+fill ~1 ~144 ~8 ~1 ~146 ~8 stone_slab 7  
+fill ~1 ~144 ~9 ~1 ~148 ~9 red_nether_brick 0  
+fill ~1 ~144 ~11 ~1 ~151 ~11 red_nether_brick 0  
+fill ~2 ~144 ~9 ~2 ~147 ~9 stone_slab 7  
+fill ~2 ~144 ~11 ~2 ~147 ~11 stone_slab 7 
+setblock ~11 ~144 ~-4 nether_brick_stairs 2  
+fill ~11 ~144 ~-3 ~11 ~145 ~-3 red_nether_brick 0  
+fill ~11 ~144 ~22 ~11 ~146 ~22 stone_slab 7  
+fill ~11 ~144 ~23 ~11 ~145 ~23 red_nether_brick 0 
+setblock ~11 ~144 ~24 nether_brick_stairs 3 
+setblock ~12 ~144 ~-5 nether_brick_stairs 2  
+fill ~12 ~144 ~-2 ~12 ~151 ~-2 red_nether_brick 0  
+fill ~12 ~144 ~-1 ~12 ~147 ~-1 stone_slab 7  
+fill ~12 ~144 ~21 ~12 ~147 ~21 stone_slab 7  
+fill ~12 ~144 ~22 ~12 ~148 ~22 red_nether_brick 0 
+setblock ~12 ~144 ~24 magma 0 
+setblock ~12 ~144 ~25 nether_brick_stairs 3 
+setblock ~14 ~144 ~-5 nether_brick_stairs 2 
+setblock ~14 ~144 ~-4 magma 0  
+fill ~14 ~144 ~-2 ~14 ~148 ~-2 red_nether_brick 0  
+fill ~14 ~144 ~-1 ~14 ~147 ~-1 stone_slab 7  
+fill ~14 ~144 ~21 ~14 ~147 ~21 stone_slab 7  
+fill ~14 ~144 ~22 ~14 ~151 ~22 red_nether_brick 0 
+setblock ~14 ~144 ~25 nether_brick_stairs 3 
+setblock ~15 ~144 ~-4 nether_brick_stairs 2  
+fill ~15 ~144 ~-3 ~15 ~145 ~-3 red_nether_brick 0  
+fill ~15 ~144 ~-2 ~15 ~146 ~-2 stone_slab 7  
+fill ~15 ~144 ~22 ~15 ~145 ~22 stone_slab 7  
+fill ~15 ~144 ~23 ~15 ~145 ~23 red_nether_brick 0 
+setblock ~15 ~144 ~24 nether_brick_stairs 3  
+fill ~24 ~144 ~9 ~24 ~147 ~9 stone_slab 7  
+fill ~24 ~144 ~11 ~24 ~147 ~11 stone_slab 7  
+fill ~25 ~144 ~9 ~25 ~151 ~9 red_nether_brick 0  
+fill ~25 ~144 ~11 ~25 ~148 ~11 red_nether_brick 0  
+fill ~25 ~144 ~12 ~25 ~146 ~12 stone_slab 7  
+fill ~26 ~144 ~8 ~26 ~145 ~8 red_nether_brick 0  
+fill ~26 ~144 ~12 ~26 ~145 ~12 red_nether_brick 0 
+setblock ~27 ~144 ~-11 nether_brick_fence 0 
+setblock ~27 ~144 ~8 nether_brick_stairs 1 
+setblock ~27 ~144 ~11 magma 0 
+setblock ~27 ~144 ~12 nether_brick_stairs 1 
+setblock ~27 ~144 ~31 nether_brick_fence 0 
+setblock ~28 ~144 ~9 nether_brick_stairs 1 
+setblock ~28 ~144 ~11 nether_brick_stairs 1 
+setblock ~34 ~144 ~-4 nether_brick_fence 0 
+setblock ~34 ~144 ~24 nether_brick_fence 0 
+setblock ~-3 ~145 ~10 nether_brick_stairs 0  
+fill ~-1 ~145 ~9 ~-1 ~146 ~9 red_nether_brick 0 
+setblock ~-1 ~145 ~11 magma 0 
+setblock ~12 ~145 ~-4 magma 0  
+fill ~12 ~145 ~24 ~12 ~146 ~24 red_nether_brick 0 
+setblock ~13 ~145 ~-6 nether_brick_stairs 2 
+setblock ~13 ~145 ~26 nether_brick_stairs 3  
+fill ~14 ~145 ~-4 ~14 ~146 ~-4 red_nether_brick 0 
+setblock ~14 ~145 ~24 magma 0 
+setblock ~27 ~145 ~9 magma 0  
+fill ~27 ~145 ~11 ~27 ~146 ~11 red_nether_brick 0 
+setblock ~29 ~145 ~10 nether_brick_stairs 1  
+fill ~-2 ~146 ~10 ~-2 ~147 ~10 magma 0 
+setblock ~-1 ~146 ~11 red_nether_brick 0 
+setblock ~0 ~146 ~8 nether_brick_stairs 2 
+setblock ~0 ~146 ~12 nether_brick_stairs 3 
+setblock ~11 ~146 ~-3 nether_brick_stairs 0 
+setblock ~11 ~146 ~23 nether_brick_stairs 0 
+setblock ~12 ~146 ~-4 red_nether_brick 0  
+fill ~13 ~146 ~-5 ~13 ~147 ~-5 magma 0  
+fill ~13 ~146 ~25 ~13 ~147 ~25 magma 0 
+setblock ~14 ~146 ~24 red_nether_brick 0 
+setblock ~15 ~146 ~-3 nether_brick_stairs 1 
+setblock ~15 ~146 ~23 nether_brick_stairs 1 
+setblock ~26 ~146 ~12 nether_brick_stairs 3 
+setblock ~27 ~146 ~9 red_nether_brick 0  
+fill ~28 ~146 ~10 ~28 ~147 ~10 magma 0 
+setblock ~-1 ~147 ~9 nether_brick_stairs 0 
+setblock ~-1 ~147 ~11 nether_brick_stairs 0 
+setblock ~3 ~147 ~10 nether_brick_stairs 5 
+setblock ~12 ~147 ~-4 nether_brick_stairs 2 
+setblock ~12 ~147 ~24 nether_brick_stairs 3 
+setblock ~13 ~147 ~0 nether_brick_stairs 7 
+setblock ~13 ~147 ~20 nether_brick_stairs 6 
+setblock ~14 ~147 ~-4 nether_brick_stairs 2 
+setblock ~14 ~147 ~24 nether_brick_stairs 3 
+setblock ~23 ~147 ~10 nether_brick_stairs 4 
+setblock ~27 ~147 ~9 nether_brick_stairs 1 
+setblock ~27 ~147 ~11 nether_brick_stairs 1 
+setblock ~-2 ~148 ~10 nether_brick_stairs 0 
+setblock ~2 ~148 ~9 nether_brick_stairs 5 
+setblock ~2 ~148 ~11 nether_brick_stairs 5  
+fill ~3 ~148 ~9 ~3 ~153 ~9 stone_slab 15  
+fill ~3 ~148 ~10 ~3 ~163 ~10 red_nether_brick 0  
+fill ~3 ~148 ~11 ~3 ~153 ~11 stone_slab 15  
+fill ~4 ~148 ~10 ~4 ~152 ~10 grass_path 4 
+setblock ~12 ~148 ~-1 nether_brick_stairs 7  
+fill ~12 ~148 ~0 ~12 ~153 ~0 stone_slab 15  
+fill ~12 ~148 ~20 ~12 ~153 ~20 stone_slab 15 
+setblock ~12 ~148 ~21 nether_brick_stairs 6 
+setblock ~13 ~148 ~-5 nether_brick_stairs 2  
+fill ~13 ~148 ~0 ~13 ~163 ~0 red_nether_brick 0  
+fill ~13 ~148 ~1 ~13 ~152 ~1 grass_path 2  
+fill ~13 ~148 ~19 ~13 ~152 ~19 grass_path 3  
+fill ~13 ~148 ~20 ~13 ~163 ~20 red_nether_brick 0 
+setblock ~13 ~148 ~25 nether_brick_stairs 3 
+setblock ~14 ~148 ~-1 nether_brick_stairs 7  
+fill ~14 ~148 ~0 ~14 ~153 ~0 stone_slab 15  
+fill ~14 ~148 ~20 ~14 ~153 ~20 stone_slab 15 
+setblock ~14 ~148 ~21 nether_brick_stairs 6  
+fill ~22 ~148 ~10 ~22 ~152 ~10 grass_path 5  
+fill ~23 ~148 ~9 ~23 ~153 ~9 stone_slab 15  
+fill ~23 ~148 ~10 ~23 ~163 ~10 red_nether_brick 0  
+fill ~23 ~148 ~11 ~23 ~153 ~11 stone_slab 15 
+setblock ~24 ~148 ~9 nether_brick_stairs 4 
+setblock ~24 ~148 ~11 nether_brick_stairs 4 
+setblock ~28 ~148 ~10 nether_brick_stairs 1 
+setblock ~-1 ~149 ~10 magma 0 
+setblock ~0 ~149 ~9 nether_brick_stairs 0 
+setblock ~0 ~149 ~11 nether_brick_stairs 0 
+setblock ~1 ~149 ~9 magma 0  
+fill ~2 ~149 ~9 ~2 ~155 ~9 red_nether_brick 0 
+setblock ~2 ~149 ~11 magma 0 
+setblock ~12 ~149 ~-3 nether_brick_stairs 2 
+setblock ~12 ~149 ~-1 magma 0  
+fill ~12 ~149 ~21 ~12 ~155 ~21 red_nether_brick 0 
+setblock ~12 ~149 ~22 magma 0 
+setblock ~12 ~149 ~23 nether_brick_stairs 3 
+setblock ~13 ~149 ~-4 magma 0 
+setblock ~13 ~149 ~24 magma 0 
+setblock ~14 ~149 ~-3 nether_brick_stairs 2 
+setblock ~14 ~149 ~-2 magma 0  
+fill ~14 ~149 ~-1 ~14 ~155 ~-1 red_nether_brick 0 
+setblock ~14 ~149 ~21 magma 0 
+setblock ~14 ~149 ~23 nether_brick_stairs 3 
+setblock ~24 ~149 ~9 magma 0  
+fill ~24 ~149 ~11 ~24 ~155 ~11 red_nether_brick 0 
+setblock ~25 ~149 ~11 magma 0 
+setblock ~26 ~149 ~9 nether_brick_stairs 1 
+setblock ~26 ~149 ~11 nether_brick_stairs 1 
+setblock ~27 ~149 ~10 magma 0 
+setblock ~-1 ~150 ~10 nether_brick_stairs 0  
+fill ~1 ~150 ~9 ~1 ~151 ~9 red_nether_brick 0  
+fill ~2 ~150 ~11 ~2 ~155 ~11 red_nether_brick 0  
+fill ~12 ~150 ~-1 ~12 ~155 ~-1 red_nether_brick 0  
+fill ~12 ~150 ~22 ~12 ~151 ~22 red_nether_brick 0 
+setblock ~13 ~150 ~-4 nether_brick_stairs 2 
+setblock ~13 ~150 ~24 nether_brick_stairs 3  
+fill ~14 ~150 ~-2 ~14 ~151 ~-2 red_nether_brick 0  
+fill ~14 ~150 ~21 ~14 ~155 ~21 red_nether_brick 0  
+fill ~24 ~150 ~9 ~24 ~155 ~9 red_nether_brick 0  
+fill ~25 ~150 ~11 ~25 ~151 ~11 red_nether_brick 0 
+setblock ~27 ~150 ~10 nether_brick_stairs 1  
+fill ~0 ~151 ~10 ~0 ~152 ~10 magma 0  
+fill ~13 ~151 ~-3 ~13 ~152 ~-3 magma 0  
+fill ~13 ~151 ~23 ~13 ~152 ~23 magma 0  
+fill ~26 ~151 ~10 ~26 ~152 ~10 magma 0 
+setblock ~1 ~152 ~9 nether_brick_stairs 0 
+setblock ~1 ~152 ~11 nether_brick_stairs 0 
+setblock ~12 ~152 ~-2 nether_brick_stairs 2 
+setblock ~12 ~152 ~22 nether_brick_stairs 3 
+setblock ~14 ~152 ~-2 nether_brick_stairs 2 
+setblock ~14 ~152 ~22 nether_brick_stairs 3 
+setblock ~25 ~152 ~9 nether_brick_stairs 1 
+setblock ~25 ~152 ~11 nether_brick_stairs 1 
+setblock ~0 ~153 ~10 nether_brick_stairs 0 
+setblock ~4 ~153 ~10 nether_brick_stairs 5 
+setblock ~13 ~153 ~-3 nether_brick_stairs 2 
+setblock ~13 ~153 ~1 nether_brick_stairs 7 
+setblock ~13 ~153 ~19 nether_brick_stairs 6 
+setblock ~13 ~153 ~23 nether_brick_stairs 3 
+setblock ~22 ~153 ~10 nether_brick_stairs 4 
+setblock ~26 ~153 ~10 nether_brick_stairs 1  
+fill ~1 ~154 ~10 ~1 ~156 ~10 magma 0 
+setblock ~3 ~154 ~9 nether_brick_stairs 5 
+setblock ~3 ~154 ~11 nether_brick_stairs 5  
+fill ~4 ~154 ~10 ~4 ~181 ~10 red_nether_brick 0  
+fill ~5 ~154 ~10 ~5 ~161 ~10 grass_path 4 
+setblock ~12 ~154 ~0 nether_brick_stairs 7 
+setblock ~12 ~154 ~20 nether_brick_stairs 6  
+fill ~13 ~154 ~-2 ~13 ~156 ~-2 magma 0  
+fill ~13 ~154 ~1 ~13 ~181 ~1 red_nether_brick 0  
+fill ~13 ~154 ~2 ~13 ~161 ~2 grass_path 2  
+fill ~13 ~154 ~18 ~13 ~161 ~18 grass_path 3  
+fill ~13 ~154 ~19 ~13 ~181 ~19 red_nether_brick 0  
+fill ~13 ~154 ~22 ~13 ~156 ~22 magma 0 
+setblock ~14 ~154 ~0 nether_brick_stairs 7 
+setblock ~14 ~154 ~20 nether_brick_stairs 6  
+fill ~21 ~154 ~10 ~21 ~161 ~10 grass_path 5  
+fill ~22 ~154 ~10 ~22 ~181 ~10 red_nether_brick 0 
+setblock ~23 ~154 ~9 nether_brick_stairs 4 
+setblock ~23 ~154 ~11 nether_brick_stairs 4  
+fill ~25 ~154 ~10 ~25 ~156 ~10 magma 0  
+fill ~3 ~155 ~9 ~3 ~165 ~9 red_nether_brick 0  
+fill ~3 ~155 ~11 ~3 ~165 ~11 red_nether_brick 0  
+fill ~4 ~155 ~9 ~4 ~162 ~9 stone_slab 7  
+fill ~4 ~155 ~11 ~4 ~162 ~11 stone_slab 7  
+fill ~12 ~155 ~0 ~12 ~165 ~0 red_nether_brick 0  
+fill ~12 ~155 ~1 ~12 ~162 ~1 stone_slab 7  
+fill ~12 ~155 ~19 ~12 ~162 ~19 stone_slab 7  
+fill ~12 ~155 ~20 ~12 ~165 ~20 red_nether_brick 0  
+fill ~14 ~155 ~0 ~14 ~165 ~0 red_nether_brick 0  
+fill ~14 ~155 ~1 ~14 ~162 ~1 stone_slab 7  
+fill ~14 ~155 ~19 ~14 ~162 ~19 stone_slab 7  
+fill ~14 ~155 ~20 ~14 ~165 ~20 red_nether_brick 0  
+fill ~22 ~155 ~9 ~22 ~162 ~9 stone_slab 7  
+fill ~22 ~155 ~11 ~22 ~162 ~11 stone_slab 7  
+fill ~23 ~155 ~9 ~23 ~165 ~9 red_nether_brick 0  
+fill ~23 ~155 ~11 ~23 ~165 ~11 red_nether_brick 0 
+setblock ~2 ~156 ~9 nether_brick_stairs 0 
+setblock ~2 ~156 ~11 nether_brick_stairs 0 
+setblock ~12 ~156 ~-1 nether_brick_stairs 2 
+setblock ~12 ~156 ~21 nether_brick_stairs 3 
+setblock ~14 ~156 ~-1 nether_brick_stairs 2 
+setblock ~14 ~156 ~21 nether_brick_stairs 3 
+setblock ~24 ~156 ~9 nether_brick_stairs 1 
+setblock ~24 ~156 ~11 nether_brick_stairs 1 
+setblock ~1 ~157 ~10 nether_brick_stairs 0  
+fill ~2 ~157 ~10 ~2 ~166 ~10 magma 0 
+setblock ~13 ~157 ~-2 nether_brick_stairs 2  
+fill ~13 ~157 ~-1 ~13 ~166 ~-1 magma 0  
+fill ~13 ~157 ~21 ~13 ~166 ~21 magma 0 
+setblock ~13 ~157 ~22 nether_brick_stairs 3  
+fill ~24 ~157 ~10 ~24 ~166 ~10 magma 0 
+setblock ~25 ~157 ~10 nether_brick_stairs 1 
+setblock ~5 ~162 ~10 nether_brick_stairs 5 
+setblock ~13 ~162 ~2 nether_brick_stairs 7 
+setblock ~13 ~162 ~18 nether_brick_stairs 6 
+setblock ~21 ~162 ~10 nether_brick_stairs 4 
+setblock ~4 ~163 ~9 nether_brick_stairs 5 
+setblock ~4 ~163 ~11 nether_brick_stairs 5  
+fill ~5 ~163 ~10 ~5 ~182 ~10 red_nether_brick 0  
+fill ~6 ~163 ~10 ~6 ~176 ~10 grass_path 4 
+setblock ~12 ~163 ~1 nether_brick_stairs 7 
+setblock ~12 ~163 ~19 nether_brick_stairs 6  
+fill ~13 ~163 ~2 ~13 ~182 ~2 red_nether_brick 0  
+fill ~13 ~163 ~3 ~13 ~176 ~3 grass_path 2  
+fill ~13 ~163 ~17 ~13 ~176 ~17 grass_path 3  
+fill ~13 ~163 ~18 ~13 ~182 ~18 red_nether_brick 0 
+setblock ~14 ~163 ~1 nether_brick_stairs 7 
+setblock ~14 ~163 ~19 nether_brick_stairs 6  
+fill ~20 ~163 ~10 ~20 ~176 ~10 grass_path 5  
+fill ~21 ~163 ~10 ~21 ~182 ~10 red_nether_brick 0 
+setblock ~22 ~163 ~9 nether_brick_stairs 4 
+setblock ~22 ~163 ~11 nether_brick_stairs 4 
+setblock ~3 ~164 ~10 magma 0  
+fill ~4 ~164 ~9 ~4 ~179 ~9 red_nether_brick 0  
+fill ~4 ~164 ~11 ~4 ~179 ~11 red_nether_brick 0  
+fill ~5 ~164 ~9 ~5 ~177 ~9 stone_slab 7  
+fill ~5 ~164 ~11 ~5 ~177 ~11 stone_slab 7  
+fill ~12 ~164 ~1 ~12 ~179 ~1 red_nether_brick 0  
+fill ~12 ~164 ~2 ~12 ~177 ~2 stone_slab 7  
+fill ~12 ~164 ~18 ~12 ~177 ~18 stone_slab 7  
+fill ~12 ~164 ~19 ~12 ~179 ~19 red_nether_brick 0 
+setblock ~13 ~164 ~0 magma 0 
+setblock ~13 ~164 ~20 magma 0  
+fill ~14 ~164 ~1 ~14 ~179 ~1 red_nether_brick 0  
+fill ~14 ~164 ~2 ~14 ~177 ~2 stone_slab 7  
+fill ~14 ~164 ~18 ~14 ~177 ~18 stone_slab 7  
+fill ~14 ~164 ~19 ~14 ~179 ~19 red_nether_brick 0  
+fill ~21 ~164 ~9 ~21 ~177 ~9 stone_slab 7  
+fill ~21 ~164 ~11 ~21 ~177 ~11 stone_slab 7  
+fill ~22 ~164 ~9 ~22 ~179 ~9 red_nether_brick 0  
+fill ~22 ~164 ~11 ~22 ~179 ~11 red_nether_brick 0 
+setblock ~23 ~164 ~10 magma 0  
+fill ~3 ~165 ~10 ~3 ~167 ~10 red_nether_brick 0  
+fill ~13 ~165 ~0 ~13 ~167 ~0 red_nether_brick 0  
+fill ~13 ~165 ~20 ~13 ~167 ~20 red_nether_brick 0  
+fill ~23 ~165 ~10 ~23 ~167 ~10 red_nether_brick 0 
+setblock ~3 ~166 ~9 nether_brick_stairs 0 
+setblock ~3 ~166 ~11 nether_brick_stairs 0 
+setblock ~12 ~166 ~0 nether_brick_stairs 2 
+setblock ~12 ~166 ~20 nether_brick_stairs 3 
+setblock ~14 ~166 ~0 nether_brick_stairs 2 
+setblock ~14 ~166 ~20 nether_brick_stairs 3 
+setblock ~23 ~166 ~9 nether_brick_stairs 1 
+setblock ~23 ~166 ~11 nether_brick_stairs 1 
+setblock ~2 ~167 ~10 nether_brick_stairs 0 
+setblock ~13 ~167 ~-1 nether_brick_stairs 2 
+setblock ~13 ~167 ~21 nether_brick_stairs 3 
+setblock ~24 ~167 ~10 nether_brick_stairs 1  
+fill ~3 ~168 ~10 ~3 ~180 ~10 magma 0  
+fill ~13 ~168 ~0 ~13 ~180 ~0 magma 0  
+fill ~13 ~168 ~20 ~13 ~180 ~20 magma 0  
+fill ~23 ~168 ~10 ~23 ~180 ~10 magma 0 
+setblock ~6 ~177 ~10 nether_brick_stairs 5 
+setblock ~13 ~177 ~3 nether_brick_stairs 7 
+setblock ~13 ~177 ~17 nether_brick_stairs 6 
+setblock ~20 ~177 ~10 nether_brick_stairs 4 
+setblock ~5 ~178 ~9 nether_brick_stairs 5 
+setblock ~5 ~178 ~11 nether_brick_stairs 5  
+fill ~6 ~178 ~10 ~6 ~202 ~10 red_nether_brick 0  
+fill ~7 ~178 ~10 ~7 ~183 ~10 grass_path 4 
+setblock ~12 ~178 ~2 nether_brick_stairs 7 
+setblock ~12 ~178 ~18 nether_brick_stairs 6  
+fill ~13 ~178 ~3 ~13 ~202 ~3 red_nether_brick 0  
+fill ~13 ~178 ~4 ~13 ~183 ~4 grass_path 2  
+fill ~13 ~178 ~16 ~13 ~183 ~16 grass_path 3  
+fill ~13 ~178 ~17 ~13 ~202 ~17 red_nether_brick 0 
+setblock ~14 ~178 ~2 nether_brick_stairs 7 
+setblock ~14 ~178 ~18 nether_brick_stairs 6  
+fill ~19 ~178 ~10 ~19 ~183 ~10 grass_path 5  
+fill ~20 ~178 ~10 ~20 ~202 ~10 red_nether_brick 0 
+setblock ~21 ~178 ~9 nether_brick_stairs 4 
+setblock ~21 ~178 ~11 nether_brick_stairs 4  
+fill ~5 ~179 ~9 ~5 ~192 ~9 red_nether_brick 0  
+fill ~5 ~179 ~11 ~5 ~192 ~11 red_nether_brick 0  
+fill ~6 ~179 ~9 ~6 ~189 ~9 stone_slab 7  
+fill ~6 ~179 ~11 ~6 ~189 ~11 stone_slab 7  
+fill ~12 ~179 ~2 ~12 ~192 ~2 red_nether_brick 0  
+fill ~12 ~179 ~3 ~12 ~189 ~3 stone_slab 7  
+fill ~12 ~179 ~17 ~12 ~189 ~17 stone_slab 7  
+fill ~12 ~179 ~18 ~12 ~192 ~18 red_nether_brick 0  
+fill ~14 ~179 ~2 ~14 ~192 ~2 red_nether_brick 0  
+fill ~14 ~179 ~3 ~14 ~189 ~3 stone_slab 7  
+fill ~14 ~179 ~18 ~14 ~192 ~18 red_nether_brick 0  
+fill ~20 ~179 ~9 ~20 ~189 ~9 stone_slab 7  
+fill ~20 ~179 ~11 ~20 ~189 ~11 stone_slab 7  
+fill ~21 ~179 ~9 ~21 ~192 ~9 red_nether_brick 0  
+fill ~21 ~179 ~11 ~21 ~192 ~11 red_nether_brick 0 
+setblock ~4 ~180 ~9 nether_brick_stairs 0 
+setblock ~4 ~180 ~11 nether_brick_stairs 0 
+setblock ~12 ~180 ~1 nether_brick_stairs 2 
+setblock ~12 ~180 ~19 nether_brick_stairs 3 
+setblock ~14 ~180 ~1 nether_brick_stairs 2 
+setblock ~14 ~180 ~19 nether_brick_stairs 3 
+setblock ~22 ~180 ~9 nether_brick_stairs 1 
+setblock ~22 ~180 ~11 nether_brick_stairs 1 
+setblock ~3 ~181 ~10 nether_brick_stairs 0 
+setblock ~13 ~181 ~0 nether_brick_stairs 2 
+setblock ~13 ~181 ~20 nether_brick_stairs 3 
+setblock ~23 ~181 ~10 nether_brick_stairs 1  
+fill ~4 ~182 ~10 ~4 ~193 ~10 magma 0  
+fill ~13 ~182 ~1 ~13 ~193 ~1 magma 0  
+fill ~13 ~182 ~19 ~13 ~193 ~19 magma 0  
+fill ~22 ~182 ~10 ~22 ~193 ~10 magma 0 
+setblock ~5 ~183 ~10 magma 0 
+setblock ~13 ~183 ~2 magma 0 
+setblock ~13 ~183 ~18 magma 0 
+setblock ~21 ~183 ~10 magma 0  
+fill ~5 ~184 ~10 ~5 ~194 ~10 red_nether_brick 0  
+fill ~13 ~184 ~2 ~13 ~194 ~2 red_nether_brick 0  
+fill ~13 ~184 ~18 ~13 ~194 ~18 red_nether_brick 0  
+fill ~21 ~184 ~10 ~21 ~194 ~10 red_nether_brick 0  
+fill ~7 ~185 ~10 ~7 ~188 ~10 grass_path 4  
+fill ~13 ~185 ~4 ~13 ~188 ~4 grass_path 2  
+fill ~13 ~185 ~16 ~13 ~188 ~16 grass_path 3  
+fill ~19 ~185 ~10 ~19 ~188 ~10 grass_path 5 
+setblock ~7 ~189 ~10 nether_brick_stairs 5 
+setblock ~13 ~189 ~4 nether_brick_stairs 7 
+setblock ~13 ~189 ~16 nether_brick_stairs 6 
+setblock ~19 ~189 ~10 nether_brick_stairs 4 
+setblock ~6 ~190 ~9 nether_brick_stairs 5 
+setblock ~6 ~190 ~11 nether_brick_stairs 5  
+fill ~7 ~190 ~10 ~7 ~211 ~10 red_nether_brick 0  
+fill ~8 ~190 ~10 ~8 ~207 ~10 grass_path 4 
+setblock ~12 ~190 ~3 nether_brick_stairs 7 
+setblock ~12 ~190 ~17 nether_brick_stairs 6  
+fill ~13 ~190 ~4 ~13 ~211 ~4 red_nether_brick 0  
+fill ~13 ~190 ~5 ~13 ~207 ~5 grass_path 2  
+fill ~13 ~190 ~15 ~13 ~207 ~15 grass_path 3  
+fill ~13 ~190 ~16 ~13 ~211 ~16 red_nether_brick 0 
+setblock ~14 ~190 ~3 nether_brick_stairs 7 
+setblock ~14 ~190 ~17 nether_brick_stairs 6  
+fill ~18 ~190 ~10 ~18 ~207 ~10 grass_path 5  
+fill ~19 ~190 ~10 ~19 ~211 ~10 red_nether_brick 0 
+setblock ~20 ~190 ~9 nether_brick_stairs 4   
+
+KittysCommands:  
+setblock ~20 ~190 ~11 nether_brick_stairs 4  
+fill ~6 ~191 ~9 ~6 ~199 ~9 red_nether_brick 0  
+fill ~6 ~191 ~11 ~6 ~199 ~11 red_nether_brick 0  
+fill ~7 ~191 ~9 ~7 ~200 ~9 stone_slab 7  
+fill ~7 ~191 ~11 ~7 ~200 ~11 stone_slab 7  
+fill ~12 ~191 ~3 ~12 ~199 ~3 red_nether_brick 0  
+fill ~12 ~191 ~4 ~12 ~200 ~4 stone_slab 7  
+fill ~12 ~191 ~16 ~12 ~200 ~16 stone_slab 7  
+fill ~12 ~191 ~17 ~12 ~199 ~17 red_nether_brick 0  
+fill ~14 ~191 ~3 ~14 ~199 ~3 red_nether_brick 0  
+fill ~14 ~191 ~4 ~14 ~200 ~4 stone_slab 7  
+fill ~14 ~191 ~17 ~14 ~199 ~17 red_nether_brick 0  
+fill ~19 ~191 ~9 ~19 ~200 ~9 stone_slab 7  
+fill ~19 ~191 ~11 ~19 ~200 ~11 stone_slab 7  
+fill ~20 ~191 ~9 ~20 ~199 ~9 red_nether_brick 0  
+fill ~20 ~191 ~11 ~20 ~199 ~11 red_nether_brick 0 
+setblock ~5 ~193 ~9 nether_brick_stairs 0 
+setblock ~5 ~193 ~11 nether_brick_stairs 0 
+setblock ~12 ~193 ~2 nether_brick_stairs 2 
+setblock ~12 ~193 ~18 nether_brick_stairs 3 
+setblock ~14 ~193 ~2 nether_brick_stairs 2 
+setblock ~14 ~193 ~18 nether_brick_stairs 3 
+setblock ~21 ~193 ~9 nether_brick_stairs 1 
+setblock ~21 ~193 ~11 nether_brick_stairs 1 
+setblock ~4 ~194 ~10 nether_brick_stairs 0 
+setblock ~13 ~194 ~1 nether_brick_stairs 2 
+setblock ~13 ~194 ~19 nether_brick_stairs 3 
+setblock ~22 ~194 ~10 nether_brick_stairs 1  
+fill ~5 ~195 ~10 ~5 ~201 ~10 magma 0  
+fill ~13 ~195 ~2 ~13 ~201 ~2 magma 0  
+fill ~13 ~195 ~18 ~13 ~201 ~18 magma 0  
+fill ~21 ~195 ~10 ~21 ~201 ~10 magma 0 
+setblock ~6 ~200 ~9 nether_brick_stairs 2 
+setblock ~6 ~200 ~11 nether_brick_stairs 3 
+setblock ~12 ~200 ~3 nether_brick_stairs 0 
+setblock ~12 ~200 ~17 nether_brick_stairs 0 
+setblock ~14 ~200 ~3 nether_brick_stairs 1 
+setblock ~14 ~200 ~17 nether_brick_stairs 1 
+setblock ~20 ~200 ~9 nether_brick_stairs 2 
+setblock ~20 ~200 ~11 nether_brick_stairs 3 
+setblock ~5 ~202 ~10 nether_brick_stairs 0 
+setblock ~13 ~202 ~2 nether_brick_stairs 2 
+setblock ~13 ~202 ~18 nether_brick_stairs 3 
+setblock ~21 ~202 ~10 nether_brick_stairs 1  
+fill ~6 ~203 ~10 ~6 ~210 ~10 magma 0  
+fill ~13 ~203 ~3 ~13 ~210 ~3 magma 0  
+fill ~13 ~203 ~17 ~13 ~210 ~17 magma 0  
+fill ~20 ~203 ~10 ~20 ~210 ~10 magma 0 
+setblock ~8 ~208 ~10 nether_brick_stairs 5 
+setblock ~13 ~208 ~5 nether_brick_stairs 7 
+setblock ~13 ~208 ~15 nether_brick_stairs 6 
+setblock ~18 ~208 ~10 nether_brick_stairs 4  
+fill ~8 ~209 ~10 ~8 ~222 ~10 red_nether_brick 0  
+fill ~9 ~209 ~10 ~9 ~218 ~10 grass_path 4  
+fill ~13 ~209 ~5 ~13 ~222 ~5 red_nether_brick 0  
+fill ~13 ~209 ~6 ~13 ~218 ~6 grass_path 2  
+fill ~13 ~209 ~14 ~13 ~218 ~14 grass_path 3  
+fill ~13 ~209 ~15 ~13 ~222 ~15 red_nether_brick 0  
+fill ~17 ~209 ~10 ~17 ~218 ~10 grass_path 5  
+fill ~18 ~209 ~10 ~18 ~222 ~10 red_nether_brick 0 
+setblock ~6 ~211 ~10 nether_brick_stairs 0 
+setblock ~13 ~211 ~3 nether_brick_stairs 2 
+setblock ~13 ~211 ~17 nether_brick_stairs 3 
+setblock ~20 ~211 ~10 nether_brick_stairs 1  
+fill ~7 ~212 ~10 ~7 ~221 ~10 magma 0  
+fill ~13 ~212 ~4 ~13 ~221 ~4 magma 0  
+fill ~13 ~212 ~16 ~13 ~221 ~16 magma 0  
+fill ~19 ~212 ~10 ~19 ~221 ~10 magma 0 
+setblock ~9 ~219 ~10 nether_brick_stairs 5 
+setblock ~13 ~219 ~6 nether_brick_stairs 7 
+setblock ~13 ~219 ~14 nether_brick_stairs 6 
+setblock ~17 ~219 ~10 nether_brick_stairs 4  
+fill ~9 ~220 ~10 ~9 ~230 ~10 red_nether_brick 0  
+fill ~10 ~220 ~10 ~10 ~230 ~10 grass_path 4  
+fill ~13 ~220 ~6 ~13 ~230 ~6 red_nether_brick 0  
+fill ~13 ~220 ~7 ~13 ~230 ~7 grass_path 2  
+fill ~13 ~220 ~13 ~13 ~230 ~13 grass_path 3  
+fill ~13 ~220 ~14 ~13 ~230 ~14 red_nether_brick 0  
+fill ~16 ~220 ~10 ~16 ~230 ~10 grass_path 5  
+fill ~17 ~220 ~10 ~17 ~230 ~10 red_nether_brick 0 
+setblock ~7 ~222 ~10 nether_brick_stairs 0 
+setblock ~13 ~222 ~4 nether_brick_stairs 2 
+setblock ~13 ~222 ~16 nether_brick_stairs 3 
+setblock ~19 ~222 ~10 nether_brick_stairs 1  
+fill ~8 ~223 ~10 ~8 ~229 ~10 magma 0  
+fill ~13 ~223 ~5 ~13 ~229 ~5 magma 0  
+fill ~13 ~223 ~15 ~13 ~229 ~15 magma 0  
+fill ~18 ~223 ~10 ~18 ~229 ~10 magma 0 
+setblock ~8 ~230 ~10 nether_brick_stairs 0 
+setblock ~13 ~230 ~5 nether_brick_stairs 2 
+setblock ~13 ~230 ~15 nether_brick_stairs 3 
+setblock ~18 ~230 ~10 nether_brick_stairs 1    

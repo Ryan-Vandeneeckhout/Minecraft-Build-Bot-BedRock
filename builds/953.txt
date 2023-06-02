@@ -1,0 +1,3423 @@
+fill ~8 ~-3 ~7 ~8 ~-3 ~150 wool 15
+fill ~9 ~-3 ~7 ~152 ~-3 ~7 wool 0
+fill ~9 ~-3 ~8 ~144 ~-3 ~8 wool 0
+fill ~9 ~-3 ~9 ~43 ~-3 ~9 wool 0
+fill ~9 ~-3 ~10 ~17 ~-3 ~10 wool 0
+fill ~9 ~-3 ~11 ~12 ~-3 ~11 wool 0
+fill ~9 ~-3 ~12 ~12 ~-3 ~12 wool 0
+fill ~9 ~-3 ~13 ~12 ~-3 ~13 wool 0
+fill ~9 ~-3 ~14 ~12 ~-3 ~14 wool 0
+fill ~9 ~-3 ~15 ~11 ~-3 ~15 wool 0
+fill ~9 ~-3 ~16 ~11 ~-3 ~16 wool 0
+fill ~9 ~-3 ~17 ~11 ~-3 ~17 wool 0
+fill ~9 ~-3 ~18 ~11 ~-3 ~18 wool 0
+fill ~9 ~-3 ~19 ~11 ~-3 ~19 wool 0
+fill ~9 ~-3 ~20 ~11 ~-3 ~20 wool 0
+fill ~9 ~-3 ~21 ~12 ~-3 ~21 wool 0
+fill ~9 ~-3 ~22 ~12 ~-3 ~22 wool 0
+fill ~9 ~-3 ~23 ~12 ~-3 ~23 wool 0
+fill ~9 ~-3 ~24 ~12 ~-3 ~24 wool 0
+fill ~9 ~-3 ~25 ~21 ~-3 ~25 wool 0
+fill ~9 ~-3 ~26 ~21 ~-3 ~26 wool 0
+fill ~9 ~-3 ~27 ~19 ~-3 ~27 wool 0
+fill ~9 ~-3 ~28 ~17 ~-3 ~28 wool 0
+fill ~9 ~-3 ~29 ~17 ~-3 ~29 wool 0
+fill ~9 ~-3 ~30 ~17 ~-3 ~30 wool 0
+fill ~9 ~-3 ~31 ~17 ~-3 ~31 wool 0
+fill ~9 ~-3 ~32 ~17 ~-3 ~32 wool 0
+fill ~9 ~-3 ~33 ~17 ~-3 ~33 wool 0
+fill ~9 ~-3 ~34 ~19 ~-3 ~34 wool 0
+fill ~9 ~-3 ~35 ~21 ~-3 ~35 wool 0
+fill ~9 ~-3 ~36 ~21 ~-3 ~36 wool 0
+fill ~9 ~-3 ~37 ~21 ~-3 ~37 wool 0
+fill ~9 ~-3 ~38 ~21 ~-3 ~38 wool 0
+fill ~9 ~-3 ~39 ~21 ~-3 ~39 wool 0
+fill ~9 ~-3 ~40 ~17 ~-3 ~40 wool 0
+fill ~9 ~-3 ~41 ~17 ~-3 ~41 wool 0
+fill ~9 ~-3 ~42 ~17 ~-3 ~42 wool 0
+fill ~9 ~-3 ~43 ~17 ~-3 ~43 wool 0
+fill ~9 ~-3 ~44 ~17 ~-3 ~44 wool 0
+fill ~9 ~-3 ~45 ~17 ~-3 ~45 wool 0
+fill ~9 ~-3 ~46 ~21 ~-3 ~46 wool 0
+fill ~9 ~-3 ~47 ~21 ~-3 ~47 wool 0
+fill ~9 ~-3 ~48 ~21 ~-3 ~48 wool 0
+fill ~9 ~-3 ~49 ~37 ~-3 ~49 wool 0
+fill ~9 ~-3 ~50 ~38 ~-3 ~50 wool 0
+fill ~9 ~-3 ~51 ~39 ~-3 ~51 wool 0
+fill ~9 ~-3 ~52 ~17 ~-3 ~52 wool 0
+fill ~9 ~-3 ~53 ~13 ~-3 ~53 wool 0
+fill ~9 ~-3 ~54 ~9 ~-3 ~150 wool 0
+fill ~10 ~-3 ~54 ~11 ~-3 ~54 wool 2
+fill ~10 ~-3 ~55 ~10 ~-3 ~136 wool 0
+fill ~10 ~-3 ~137 ~11 ~-3 ~137 wool 14
+fill ~10 ~-3 ~138 ~11 ~-3 ~138 wool 14
+fill ~10 ~-3 ~139 ~13 ~-3 ~139 wool 0
+fill ~10 ~-3 ~140 ~12 ~-3 ~140 wool 0
+fill ~10 ~-3 ~141 ~11 ~-3 ~141 wool 0
+fill ~10 ~-3 ~142 ~11 ~-3 ~142 wool 0
+fill ~10 ~-3 ~143 ~12 ~-3 ~143 wool 0
+fill ~10 ~-3 ~144 ~13 ~-3 ~144 wool 0
+fill ~10 ~-3 ~145 ~15 ~-3 ~145 wool 0
+fill ~10 ~-3 ~146 ~11 ~-3 ~146 wool 14
+fill ~10 ~-3 ~147 ~11 ~-3 ~147 wool 14
+fill ~10 ~-3 ~148 ~11 ~-3 ~148 wool 14
+fill ~10 ~-3 ~149 ~41 ~-3 ~149 wool 0
+fill ~10 ~-3 ~150 ~152 ~-3 ~150 wool 0
+setblock ~11 ~-3 ~55 wool 2
+fill ~11 ~-3 ~56 ~16 ~-3 ~56 wool 0
+fill ~11 ~-3 ~57 ~17 ~-3 ~57 wool 0
+fill ~11 ~-3 ~58 ~46 ~-3 ~58 wool 0
+fill ~11 ~-3 ~59 ~47 ~-3 ~59 wool 0
+fill ~11 ~-3 ~60 ~48 ~-3 ~60 wool 0
+fill ~11 ~-3 ~61 ~21 ~-3 ~61 wool 0
+fill ~11 ~-3 ~62 ~21 ~-3 ~62 wool 0
+fill ~11 ~-3 ~63 ~21 ~-3 ~63 wool 0
+fill ~11 ~-3 ~64 ~17 ~-3 ~64 wool 0
+fill ~11 ~-3 ~65 ~17 ~-3 ~65 wool 0
+fill ~11 ~-3 ~66 ~17 ~-3 ~66 wool 0
+fill ~11 ~-3 ~67 ~17 ~-3 ~67 wool 0
+fill ~11 ~-3 ~68 ~17 ~-3 ~68 wool 0
+fill ~11 ~-3 ~69 ~17 ~-3 ~69 wool 0
+fill ~11 ~-3 ~70 ~21 ~-3 ~70 wool 0
+fill ~11 ~-3 ~71 ~21 ~-3 ~71 wool 0
+fill ~11 ~-3 ~72 ~21 ~-3 ~72 wool 0
+fill ~11 ~-3 ~73 ~61 ~-3 ~73 wool 0
+fill ~11 ~-3 ~74 ~11 ~-3 ~75 wool 15
+fill ~11 ~-3 ~76 ~11 ~-3 ~77 wool 0
+fill ~11 ~-3 ~78 ~15 ~-3 ~78 wool 15
+fill ~11 ~-3 ~79 ~11 ~-3 ~80 wool 0
+fill ~11 ~-3 ~81 ~18 ~-3 ~81 wool 15
+fill ~11 ~-3 ~82 ~18 ~-3 ~82 wool 15
+fill ~11 ~-3 ~83 ~12 ~-3 ~83 wool 0
+fill ~11 ~-3 ~84 ~72 ~-3 ~84 wool 0
+fill ~11 ~-3 ~85 ~73 ~-3 ~85 wool 0
+fill ~11 ~-3 ~86 ~74 ~-3 ~86 wool 0
+fill ~11 ~-3 ~87 ~20 ~-3 ~87 wool 0
+fill ~11 ~-3 ~88 ~20 ~-3 ~88 wool 0
+fill ~11 ~-3 ~89 ~18 ~-3 ~89 wool 0
+fill ~11 ~-3 ~90 ~15 ~-3 ~90 wool 0
+fill ~11 ~-3 ~91 ~15 ~-3 ~91 wool 0
+fill ~11 ~-3 ~92 ~18 ~-3 ~92 wool 0
+fill ~11 ~-3 ~93 ~20 ~-3 ~93 wool 0
+fill ~11 ~-3 ~94 ~20 ~-3 ~94 wool 0
+fill ~11 ~-3 ~95 ~44 ~-3 ~95 wool 0
+fill ~11 ~-3 ~96 ~43 ~-3 ~96 wool 0
+fill ~11 ~-3 ~97 ~21 ~-3 ~97 wool 0
+fill ~11 ~-3 ~98 ~21 ~-3 ~98 wool 0
+fill ~11 ~-3 ~99 ~21 ~-3 ~99 wool 0
+fill ~11 ~-3 ~100 ~17 ~-3 ~100 wool 0
+fill ~11 ~-3 ~101 ~17 ~-3 ~101 wool 0
+fill ~11 ~-3 ~102 ~17 ~-3 ~102 wool 0
+fill ~11 ~-3 ~103 ~17 ~-3 ~103 wool 0
+fill ~11 ~-3 ~104 ~17 ~-3 ~104 wool 0
+fill ~11 ~-3 ~105 ~17 ~-3 ~105 wool 0
+fill ~11 ~-3 ~106 ~21 ~-3 ~106 wool 0
+fill ~11 ~-3 ~107 ~21 ~-3 ~107 wool 0
+fill ~11 ~-3 ~108 ~21 ~-3 ~108 wool 0
+fill ~11 ~-3 ~109 ~37 ~-3 ~109 wool 0
+fill ~11 ~-3 ~110 ~15 ~-3 ~110 wool 0
+fill ~11 ~-3 ~111 ~14 ~-3 ~111 wool 0
+fill ~11 ~-3 ~112 ~14 ~-3 ~112 wool 0
+fill ~11 ~-3 ~113 ~13 ~-3 ~113 wool 0
+fill ~11 ~-3 ~114 ~13 ~-3 ~114 wool 0
+fill ~11 ~-3 ~115 ~13 ~-3 ~115 wool 0
+fill ~11 ~-3 ~116 ~13 ~-3 ~116 wool 0
+fill ~11 ~-3 ~117 ~15 ~-3 ~117 wool 0
+fill ~11 ~-3 ~118 ~16 ~-3 ~118 wool 0
+fill ~11 ~-3 ~119 ~47 ~-3 ~119 wool 0
+fill ~11 ~-3 ~120 ~48 ~-3 ~120 wool 0
+fill ~11 ~-3 ~121 ~21 ~-3 ~121 wool 0
+fill ~11 ~-3 ~122 ~21 ~-3 ~122 wool 0
+fill ~11 ~-3 ~123 ~21 ~-3 ~123 wool 0
+fill ~11 ~-3 ~124 ~16 ~-3 ~124 wool 0
+fill ~11 ~-3 ~125 ~16 ~-3 ~125 wool 0
+fill ~11 ~-3 ~126 ~16 ~-3 ~126 wool 0
+fill ~11 ~-3 ~127 ~16 ~-3 ~127 wool 0
+fill ~11 ~-3 ~128 ~16 ~-3 ~128 wool 0
+fill ~11 ~-3 ~129 ~16 ~-3 ~129 wool 0
+fill ~11 ~-3 ~130 ~21 ~-3 ~130 wool 0
+fill ~11 ~-3 ~131 ~21 ~-3 ~131 wool 0
+fill ~11 ~-3 ~132 ~21 ~-3 ~132 wool 0
+fill ~11 ~-3 ~133 ~26 ~-3 ~133 wool 0
+fill ~11 ~-3 ~134 ~17 ~-3 ~134 wool 0
+fill ~11 ~-3 ~135 ~18 ~-3 ~135 wool 0
+fill ~11 ~-3 ~136 ~16 ~-3 ~136 wool 0
+fill ~12 ~-3 ~15 ~13 ~-3 ~15 wool 15
+fill ~12 ~-3 ~16 ~13 ~-3 ~16 wool 15
+fill ~12 ~-3 ~17 ~13 ~-3 ~17 wool 15
+fill ~12 ~-3 ~18 ~14 ~-3 ~18 wool 15
+fill ~12 ~-3 ~19 ~13 ~-3 ~19 wool 15
+fill ~12 ~-3 ~20 ~13 ~-3 ~20 wool 15
+fill ~12 ~-3 ~54 ~12 ~-3 ~74 wool 0
+fill ~12 ~-3 ~75 ~12 ~-3 ~79 wool 15
+setblock ~12 ~-3 ~80 wool 0
+fill ~12 ~-3 ~137 ~15 ~-3 ~137 wool 0
+fill ~12 ~-3 ~138 ~14 ~-3 ~138 wool 0
+fill ~12 ~-3 ~141 ~13 ~-3 ~141 wool 14
+fill ~12 ~-3 ~142 ~13 ~-3 ~142 wool 14
+fill ~12 ~-3 ~146 ~15 ~-3 ~146 wool 0
+fill ~12 ~-3 ~147 ~16 ~-3 ~147 wool 0
+fill ~12 ~-3 ~148 ~17 ~-3 ~148 wool 0
+fill ~13 ~-3 ~11 ~26 ~-3 ~11 wool 15
+fill ~13 ~-3 ~12 ~13 ~-3 ~24 wool 15
+fill ~13 ~-3 ~54 ~13 ~-3 ~55 wool 2
+fill ~13 ~-3 ~74 ~62 ~-3 ~74 wool 0
+fill ~13 ~-3 ~75 ~13 ~-3 ~56 wool 0
+fill ~13 ~-3 ~76 ~18 ~-3 ~76 wool 15
+fill ~13 ~-3 ~77 ~15 ~-3 ~77 wool 15
+fill ~13 ~-3 ~79 ~15 ~-3 ~79 wool 15
+fill ~13 ~-3 ~80 ~15 ~-3 ~80 wool 15
+setblock ~13 ~-3 ~83 wool 15
+fill ~13 ~-3 ~140 ~14 ~-3 ~140 wool 14
+fill ~13 ~-3 ~143 ~16 ~-3 ~143 wool 14
+fill ~14 ~-3 ~12 ~19 ~-3 ~12 wool 14
+fill ~14 ~-3 ~13 ~15 ~-3 ~13 wool 14
+fill ~14 ~-3 ~14 ~14 ~-3 ~17 wool 14
+fill ~14 ~-3 ~19 ~14 ~-3 ~24 wool 14
+setblock ~14 ~-3 ~53 wool 2
+fill ~14 ~-3 ~54 ~14 ~-3 ~74 wool 0
+fill ~14 ~-3 ~75 ~15 ~-3 ~75 wool 15
+fill ~14 ~-3 ~83 ~16 ~-3 ~83 wool 0
+setblock ~14 ~-3 ~113 wool 15
+fill ~14 ~-3 ~114 ~14 ~-3 ~116 wool 11
+fill ~14 ~-3 ~139 ~15 ~-3 ~139 wool 14
+fill ~14 ~-3 ~141 ~14 ~-3 ~142 wool 0
+fill ~14 ~-3 ~144 ~15 ~-3 ~144 wool 14
+fill ~15 ~-3 ~14 ~16 ~-3 ~14 wool 15
+fill ~15 ~-3 ~15 ~15 ~-3 ~14 wool 15
+setblock ~15 ~-3 ~16 wool 14
+fill ~15 ~-3 ~17 ~16 ~-3 ~17 wool 15
+fill ~15 ~-3 ~18 ~16 ~-3 ~18 wool 0
+setblock ~15 ~-3 ~19 wool 15
+fill ~15 ~-3 ~20 ~15 ~-3 ~24 wool 14
+fill ~15 ~-3 ~53 ~16 ~-3 ~53 wool 0
+setblock ~15 ~-3 ~54 wool 2
+setblock ~15 ~-3 ~55 wool 0
+setblock ~15 ~-3 ~111 wool 15
+setblock ~15 ~-3 ~112 wool 11
+fill ~15 ~-3 ~113 ~16 ~-3 ~113 wool 3
+fill ~15 ~-3 ~114 ~15 ~-3 ~113 wool 3
+setblock ~15 ~-3 ~115 wool 11
+setblock ~15 ~-3 ~116 wool 3
+fill ~15 ~-3 ~138 ~17 ~-3 ~138 wool 14
+fill ~15 ~-3 ~140 ~17 ~-3 ~140 wool 0
+fill ~15 ~-3 ~141 ~16 ~-3 ~141 wool 14
+setblock ~15 ~-3 ~142 wool 0
+fill ~16 ~-3 ~13 ~17 ~-3 ~13 wool 15
+setblock ~16 ~-3 ~15 wool 14
+setblock ~16 ~-3 ~16 wool 15
+fill ~16 ~-3 ~19 ~17 ~-3 ~19 wool 0
+setblock ~16 ~-3 ~20 wool 15
+fill ~16 ~-3 ~21 ~16 ~-3 ~24 wool 14
+fill ~16 ~-3 ~54 ~20 ~-3 ~54 wool 0
+setblock ~16 ~-3 ~55 wool 2
+fill ~16 ~-3 ~75 ~17 ~-3 ~75 wool 0
+fill ~16 ~-3 ~77 ~16 ~-3 ~80 wool 0
+fill ~16 ~-3 ~90 ~16 ~-3 ~91 wool 15
+fill ~16 ~-3 ~110 ~17 ~-3 ~110 wool 15
+fill ~16 ~-3 ~111 ~17 ~-3 ~111 wool 3
+fill ~16 ~-3 ~112 ~16 ~-3 ~111 wool 3
+fill ~16 ~-3 ~114 ~16 ~-3 ~117 wool 15
+setblock ~16 ~-3 ~137 wool 14
+setblock ~16 ~-3 ~139 wool 0
+fill ~16 ~-3 ~142 ~17 ~-3 ~142 wool 14
+setblock ~16 ~-3 ~144 wool 0
+fill ~16 ~-3 ~145 ~17 ~-3 ~145 wool 14
+fill ~16 ~-3 ~146 ~17 ~-3 ~146 wool 14
+setblock ~17 ~-3 ~14 wool 14
+setblock ~17 ~-3 ~15 wool 15
+fill ~17 ~-3 ~16 ~17 ~-3 ~17 wool 0
+setblock ~17 ~-3 ~18 wool 15
+fill ~17 ~-3 ~20 ~18 ~-3 ~20 wool 0
+setblock ~17 ~-3 ~21 wool 15
+fill ~17 ~-3 ~22 ~17 ~-3 ~24 wool 14
+setblock ~17 ~-3 ~53 wool 2
+fill ~17 ~-3 ~55 ~20 ~-3 ~55 wool 0
+setblock ~17 ~-3 ~56 wool 2
+fill ~17 ~-3 ~77 ~18 ~-3 ~77 wool 15
+fill ~17 ~-3 ~78 ~21 ~-3 ~78 wool 0
+fill ~17 ~-3 ~79 ~21 ~-3 ~79 wool 0
+fill ~17 ~-3 ~80 ~18 ~-3 ~80 wool 15
+fill ~17 ~-3 ~83 ~18 ~-3 ~83 wool 15
+fill ~17 ~-3 ~90 ~18 ~-3 ~90 wool 0
+fill ~17 ~-3 ~91 ~18 ~-3 ~91 wool 0
+fill ~17 ~-3 ~112 ~18 ~-3 ~112 wool 15
+fill ~17 ~-3 ~113 ~18 ~-3 ~113 wool 15
+setblock ~17 ~-3 ~114 wool 4
+setblock ~17 ~-3 ~115 wool 15
+fill ~17 ~-3 ~116 ~18 ~-3 ~116 wool 3
+fill ~17 ~-3 ~117 ~18 ~-3 ~117 wool 3
+setblock ~17 ~-3 ~118 wool 15
+fill ~17 ~-3 ~124 ~18 ~-3 ~124 wool 15
+fill ~17 ~-3 ~125 ~18 ~-3 ~125 wool 15
+fill ~17 ~-3 ~126 ~18 ~-3 ~126 wool 15
+fill ~17 ~-3 ~127 ~18 ~-3 ~127 wool 15
+fill ~17 ~-3 ~128 ~18 ~-3 ~128 wool 15
+fill ~17 ~-3 ~129 ~18 ~-3 ~129 wool 15
+fill ~17 ~-3 ~136 ~18 ~-3 ~136 wool 15
+setblock ~17 ~-3 ~137 wool 0
+fill ~17 ~-3 ~139 ~18 ~-3 ~139 wool 14
+fill ~17 ~-3 ~141 ~19 ~-3 ~141 wool 0
+setblock ~17 ~-3 ~143 wool 0
+fill ~17 ~-3 ~144 ~18 ~-3 ~144 wool 14
+fill ~17 ~-3 ~147 ~20 ~-3 ~147 wool 14
+fill ~18 ~-3 ~10 ~21 ~-3 ~10 wool 15
+setblock ~18 ~-3 ~13 wool 14
+fill ~18 ~-3 ~14 ~19 ~-3 ~14 wool 15
+fill ~18 ~-3 ~15 ~19 ~-3 ~15 wool 0
+setblock ~18 ~-3 ~16 wool 15
+fill ~18 ~-3 ~17 ~18 ~-3 ~18 wool 0
+setblock ~18 ~-3 ~19 wool 15
+fill ~18 ~-3 ~21 ~19 ~-3 ~21 wool 0
+setblock ~18 ~-3 ~22 wool 15
+fill ~18 ~-3 ~23 ~18 ~-3 ~24 wool 14
+fill ~18 ~-3 ~28 ~18 ~-3 ~33 wool 15
+fill ~18 ~-3 ~40 ~18 ~-3 ~45 wool 15
+fill ~18 ~-3 ~52 ~20 ~-3 ~52 wool 2
+fill ~18 ~-3 ~53 ~20 ~-3 ~53 wool 0
+fill ~18 ~-3 ~56 ~20 ~-3 ~56 wool 0
+fill ~18 ~-3 ~57 ~20 ~-3 ~57 wool 2
+fill ~18 ~-3 ~64 ~18 ~-3 ~69 wool 15
+setblock ~18 ~-3 ~75 wool 15
+fill ~18 ~-3 ~100 ~18 ~-3 ~105 wool 15
+fill ~18 ~-3 ~110 ~38 ~-3 ~110 wool 0
+fill ~18 ~-3 ~111 ~23 ~-3 ~111 wool 0
+fill ~18 ~-3 ~114 ~18 ~-3 ~117 wool 3
+setblock ~18 ~-3 ~118 wool 11
+setblock ~18 ~-3 ~134 wool 15
+fill ~18 ~-3 ~137 ~19 ~-3 ~137 wool 15
+setblock ~18 ~-3 ~138 wool 0
+fill ~18 ~-3 ~140 ~19 ~-3 ~140 wool 14
+setblock ~18 ~-3 ~142 wool 0
+fill ~18 ~-3 ~143 ~19 ~-3 ~143 wool 14
+fill ~18 ~-3 ~145 ~20 ~-3 ~145 wool 0
+fill ~18 ~-3 ~146 ~19 ~-3 ~146 wool 0
+fill ~18 ~-3 ~148 ~19 ~-3 ~148 wool 14
+setblock ~19 ~-3 ~13 wool 15
+fill ~19 ~-3 ~16 ~20 ~-3 ~16 wool 0
+setblock ~19 ~-3 ~17 wool 15
+fill ~19 ~-3 ~18 ~19 ~-3 ~19 wool 0
+setblock ~19 ~-3 ~20 wool 15
+fill ~19 ~-3 ~22 ~20 ~-3 ~22 wool 0
+fill ~19 ~-3 ~23 ~20 ~-3 ~23 wool 15
+fill ~19 ~-3 ~24 ~26 ~-3 ~24 wool 14
+fill ~19 ~-3 ~28 ~19 ~-3 ~51 wool 0
+fill ~19 ~-3 ~64 ~19 ~-3 ~88 wool 0
+fill ~19 ~-3 ~89 ~19 ~-3 ~92 wool 15
+fill ~19 ~-3 ~100 ~21 ~-3 ~100 wool 0
+fill ~19 ~-3 ~101 ~19 ~-3 ~113 wool 0
+setblock ~19 ~-3 ~114 wool 11
+setblock ~19 ~-3 ~115 wool 3
+setblock ~19 ~-3 ~116 wool 11
+setblock ~19 ~-3 ~117 wool 15
+fill ~19 ~-3 ~118 ~23 ~-3 ~118 wool 0
+fill ~19 ~-3 ~124 ~19 ~-3 ~134 wool 0
+setblock ~19 ~-3 ~135 wool 15
+setblock ~19 ~-3 ~136 wool 0
+fill ~19 ~-3 ~138 ~20 ~-3 ~138 wool 15
+setblock ~19 ~-3 ~139 wool 0
+fill ~19 ~-3 ~142 ~21 ~-3 ~142 wool 14
+fill ~19 ~-3 ~144 ~21 ~-3 ~144 wool 0
+setblock ~20 ~-3 ~12 wool 15
+fill ~20 ~-3 ~13 ~20 ~-3 ~14 wool 0
+setblock ~20 ~-3 ~15 wool 15
+fill ~20 ~-3 ~17 ~21 ~-3 ~17 wool 0
+setblock ~20 ~-3 ~18 wool 15
+fill ~20 ~-3 ~19 ~20 ~-3 ~20 wool 0
+setblock ~20 ~-3 ~21 wool 15
+fill ~20 ~-3 ~27 ~20 ~-3 ~34 wool 15
+fill ~20 ~-3 ~40 ~20 ~-3 ~45 wool 15
+fill ~20 ~-3 ~64 ~20 ~-3 ~69 wool 15
+fill ~20 ~-3 ~75 ~21 ~-3 ~75 wool 0
+fill ~20 ~-3 ~76 ~21 ~-3 ~76 wool 0
+fill ~20 ~-3 ~77 ~21 ~-3 ~77 wool 0
+fill ~20 ~-3 ~80 ~21 ~-3 ~80 wool 0
+fill ~20 ~-3 ~81 ~21 ~-3 ~81 wool 0
+fill ~20 ~-3 ~82 ~21 ~-3 ~82 wool 0
+fill ~20 ~-3 ~83 ~71 ~-3 ~83 wool 0
+fill ~20 ~-3 ~89 ~20 ~-3 ~100 wool 0
+fill ~20 ~-3 ~101 ~20 ~-3 ~104 wool 15
+fill ~20 ~-3 ~105 ~21 ~-3 ~105 wool 0
+fill ~20 ~-3 ~112 ~23 ~-3 ~112 wool 0
+fill ~20 ~-3 ~113 ~21 ~-3 ~113 wool 0
+fill ~20 ~-3 ~114 ~21 ~-3 ~114 wool 0
+setblock ~20 ~-3 ~115 wool 15
+fill ~20 ~-3 ~116 ~21 ~-3 ~116 wool 0
+fill ~20 ~-3 ~117 ~23 ~-3 ~117 wool 0
+fill ~20 ~-3 ~124 ~20 ~-3 ~129 wool 15
+fill ~20 ~-3 ~134 ~20 ~-3 ~135 wool 0
+setblock ~20 ~-3 ~136 wool 15
+setblock ~20 ~-3 ~137 wool 0
+fill ~20 ~-3 ~139 ~21 ~-3 ~139 wool 15
+setblock ~20 ~-3 ~140 wool 0
+setblock ~20 ~-3 ~141 wool 14
+setblock ~20 ~-3 ~143 wool 0
+fill ~20 ~-3 ~146 ~21 ~-3 ~146 wool 14
+fill ~20 ~-3 ~148 ~67 ~-3 ~148 wool 0
+fill ~21 ~-3 ~12 ~26 ~-3 ~12 wool 14
+setblock ~21 ~-3 ~13 wool 15
+fill ~21 ~-3 ~14 ~21 ~-3 ~15 wool 0
+setblock ~21 ~-3 ~16 wool 15
+fill ~21 ~-3 ~18 ~22 ~-3 ~18 wool 0
+setblock ~21 ~-3 ~19 wool 15
+fill ~21 ~-3 ~20 ~21 ~-3 ~21 wool 0
+setblock ~21 ~-3 ~22 wool 15
+fill ~21 ~-3 ~23 ~26 ~-3 ~23 wool 14
+fill ~21 ~-3 ~27 ~21 ~-3 ~52 wool 0
+fill ~21 ~-3 ~53 ~21 ~-3 ~56 wool 2
+fill ~21 ~-3 ~57 ~23 ~-3 ~57 wool 0
+fill ~21 ~-3 ~64 ~21 ~-3 ~86 wool 0
+fill ~21 ~-3 ~87 ~22 ~-3 ~87 wool 15
+fill ~21 ~-3 ~88 ~22 ~-3 ~88 wool 15
+fill ~21 ~-3 ~89 ~22 ~-3 ~89 wool 15
+fill ~21 ~-3 ~90 ~22 ~-3 ~90 wool 15
+fill ~21 ~-3 ~91 ~22 ~-3 ~91 wool 15
+fill ~21 ~-3 ~92 ~22 ~-3 ~92 wool 15
+fill ~21 ~-3 ~93 ~22 ~-3 ~93 wool 15
+fill ~21 ~-3 ~94 ~22 ~-3 ~94 wool 15
+fill ~21 ~-3 ~101 ~21 ~-3 ~133 wool 0
+fill ~21 ~-3 ~134 ~21 ~-3 ~135 wool 15
+setblock ~21 ~-3 ~136 wool 0
+setblock ~21 ~-3 ~137 wool 15
+setblock ~21 ~-3 ~138 wool 0
+fill ~21 ~-3 ~140 ~22 ~-3 ~140 wool 15
+setblock ~21 ~-3 ~141 wool 0
+fill ~21 ~-3 ~143 ~22 ~-3 ~143 wool 14
+fill ~21 ~-3 ~145 ~22 ~-3 ~145 wool 14
+fill ~21 ~-3 ~147 ~41 ~-3 ~147 wool 0
+fill ~22 ~-3 ~10 ~43 ~-3 ~10 wool 0
+fill ~22 ~-3 ~13 ~26 ~-3 ~13 wool 14
+setblock ~22 ~-3 ~14 wool 15
+fill ~22 ~-3 ~15 ~22 ~-3 ~16 wool 0
+setblock ~22 ~-3 ~17 wool 15
+fill ~22 ~-3 ~19 ~23 ~-3 ~19 wool 0
+fill ~22 ~-3 ~20 ~23 ~-3 ~20 wool 15
+fill ~22 ~-3 ~21 ~22 ~-3 ~20 wool 15
+setblock ~22 ~-3 ~22 wool 14
+fill ~22 ~-3 ~25 ~22 ~-3 ~48 wool 15
+fill ~22 ~-3 ~52 ~23 ~-3 ~52 wool 0
+fill ~22 ~-3 ~53 ~23 ~-3 ~53 wool 0
+fill ~22 ~-3 ~54 ~22 ~-3 ~55 wool 2
+fill ~22 ~-3 ~56 ~23 ~-3 ~56 wool 0
+fill ~22 ~-3 ~61 ~22 ~-3 ~72 wool 15
+fill ~22 ~-3 ~75 ~22 ~-3 ~82 wool 15
+fill ~22 ~-3 ~97 ~22 ~-3 ~108 wool 15
+fill ~22 ~-3 ~113 ~22 ~-3 ~116 wool 15
+fill ~22 ~-3 ~121 ~22 ~-3 ~132 wool 15
+fill ~22 ~-3 ~134 ~26 ~-3 ~134 wool 0
+fill ~22 ~-3 ~135 ~22 ~-3 ~136 wool 15
+setblock ~22 ~-3 ~137 wool 0
+setblock ~22 ~-3 ~138 wool 15
+setblock ~22 ~-3 ~139 wool 0
+fill ~22 ~-3 ~141 ~23 ~-3 ~141 wool 15
+setblock ~22 ~-3 ~142 wool 0
+fill ~22 ~-3 ~144 ~23 ~-3 ~144 wool 14
+fill ~22 ~-3 ~146 ~40 ~-3 ~146 wool 0
+fill ~23 ~-3 ~14 ~26 ~-3 ~14 wool 14
+setblock ~23 ~-3 ~15 wool 15
+fill ~23 ~-3 ~16 ~23 ~-3 ~17 wool 0
+setblock ~23 ~-3 ~18 wool 15
+setblock ~23 ~-3 ~21 wool 14
+fill ~23 ~-3 ~22 ~24 ~-3 ~22 wool 15
+fill ~23 ~-3 ~25 ~26 ~-3 ~25 wool 3
+fill ~23 ~-3 ~26 ~26 ~-3 ~26 wool 3
+fill ~23 ~-3 ~27 ~26 ~-3 ~27 wool 3
+fill ~23 ~-3 ~28 ~26 ~-3 ~28 wool 3
+fill ~23 ~-3 ~29 ~26 ~-3 ~29 wool 3
+fill ~23 ~-3 ~30 ~26 ~-3 ~30 wool 3
+fill ~23 ~-3 ~31 ~26 ~-3 ~31 wool 3
+fill ~23 ~-3 ~32 ~26 ~-3 ~32 wool 3
+fill ~23 ~-3 ~33 ~26 ~-3 ~33 wool 3
+fill ~23 ~-3 ~34 ~26 ~-3 ~34 wool 3
+fill ~23 ~-3 ~35 ~26 ~-3 ~35 wool 3
+fill ~23 ~-3 ~36 ~26 ~-3 ~36 wool 3
+fill ~23 ~-3 ~37 ~26 ~-3 ~37 wool 3
+fill ~23 ~-3 ~38 ~26 ~-3 ~38 wool 3
+fill ~23 ~-3 ~39 ~26 ~-3 ~39 wool 3
+fill ~23 ~-3 ~40 ~26 ~-3 ~40 wool 3
+fill ~23 ~-3 ~41 ~26 ~-3 ~41 wool 3
+fill ~23 ~-3 ~42 ~26 ~-3 ~42 wool 3
+fill ~23 ~-3 ~43 ~26 ~-3 ~43 wool 3
+fill ~23 ~-3 ~44 ~26 ~-3 ~44 wool 3
+fill ~23 ~-3 ~45 ~26 ~-3 ~45 wool 3
+fill ~23 ~-3 ~46 ~26 ~-3 ~46 wool 3
+fill ~23 ~-3 ~47 ~26 ~-3 ~47 wool 3
+fill ~23 ~-3 ~48 ~26 ~-3 ~48 wool 3
+fill ~23 ~-3 ~54 ~23 ~-3 ~60 wool 0
+fill ~23 ~-3 ~61 ~26 ~-3 ~61 wool 3
+fill ~23 ~-3 ~62 ~26 ~-3 ~62 wool 3
+fill ~23 ~-3 ~63 ~26 ~-3 ~63 wool 3
+fill ~23 ~-3 ~64 ~26 ~-3 ~64 wool 3
+fill ~23 ~-3 ~65 ~26 ~-3 ~65 wool 3
+fill ~23 ~-3 ~66 ~26 ~-3 ~66 wool 3
+fill ~23 ~-3 ~67 ~26 ~-3 ~67 wool 3
+fill ~23 ~-3 ~68 ~26 ~-3 ~68 wool 3
+fill ~23 ~-3 ~69 ~26 ~-3 ~69 wool 3
+fill ~23 ~-3 ~70 ~26 ~-3 ~70 wool 3
+fill ~23 ~-3 ~71 ~26 ~-3 ~71 wool 3
+fill ~23 ~-3 ~72 ~26 ~-3 ~72 wool 3
+fill ~23 ~-3 ~75 ~63 ~-3 ~75 wool 0
+fill ~23 ~-3 ~76 ~23 ~-3 ~96 wool 0
+fill ~23 ~-3 ~97 ~26 ~-3 ~97 wool 10
+fill ~23 ~-3 ~98 ~26 ~-3 ~98 wool 10
+fill ~23 ~-3 ~99 ~26 ~-3 ~99 wool 10
+fill ~23 ~-3 ~100 ~26 ~-3 ~100 wool 10
+fill ~23 ~-3 ~101 ~26 ~-3 ~101 wool 10
+fill ~23 ~-3 ~102 ~26 ~-3 ~102 wool 10
+fill ~23 ~-3 ~103 ~26 ~-3 ~103 wool 10
+fill ~23 ~-3 ~104 ~26 ~-3 ~104 wool 10
+fill ~23 ~-3 ~105 ~26 ~-3 ~105 wool 10
+fill ~23 ~-3 ~106 ~26 ~-3 ~106 wool 10
+fill ~23 ~-3 ~107 ~26 ~-3 ~107 wool 10
+fill ~23 ~-3 ~108 ~26 ~-3 ~108 wool 10
+fill ~23 ~-3 ~113 ~23 ~-3 ~120 wool 0
+fill ~23 ~-3 ~121 ~26 ~-3 ~121 wool 10
+fill ~23 ~-3 ~122 ~26 ~-3 ~122 wool 10
+fill ~23 ~-3 ~123 ~26 ~-3 ~123 wool 10
+fill ~23 ~-3 ~124 ~26 ~-3 ~124 wool 10
+fill ~23 ~-3 ~125 ~26 ~-3 ~125 wool 10
+fill ~23 ~-3 ~126 ~26 ~-3 ~126 wool 10
+fill ~23 ~-3 ~127 ~26 ~-3 ~127 wool 10
+fill ~23 ~-3 ~128 ~26 ~-3 ~128 wool 10
+fill ~23 ~-3 ~129 ~26 ~-3 ~129 wool 10
+fill ~23 ~-3 ~130 ~26 ~-3 ~130 wool 10
+fill ~23 ~-3 ~131 ~26 ~-3 ~131 wool 10
+fill ~23 ~-3 ~132 ~26 ~-3 ~132 wool 10
+fill ~23 ~-3 ~135 ~26 ~-3 ~135 wool 0
+fill ~23 ~-3 ~136 ~23 ~-3 ~137 wool 15
+setblock ~23 ~-3 ~138 wool 0
+setblock ~23 ~-3 ~139 wool 15
+setblock ~23 ~-3 ~140 wool 0
+setblock ~23 ~-3 ~142 wool 15
+fill ~23 ~-3 ~143 ~40 ~-3 ~143 wool 0
+fill ~23 ~-3 ~145 ~39 ~-3 ~145 wool 0
+fill ~24 ~-3 ~15 ~26 ~-3 ~15 wool 14
+setblock ~24 ~-3 ~16 wool 15
+fill ~24 ~-3 ~17 ~24 ~-3 ~18 wool 0
+setblock ~24 ~-3 ~19 wool 15
+fill ~24 ~-3 ~20 ~26 ~-3 ~20 wool 14
+setblock ~24 ~-3 ~21 wool 15
+fill ~24 ~-3 ~52 ~24 ~-3 ~57 wool 15
+fill ~24 ~-3 ~76 ~24 ~-3 ~81 wool 15
+fill ~24 ~-3 ~82 ~70 ~-3 ~82 wool 0
+fill ~24 ~-3 ~87 ~75 ~-3 ~87 wool 0
+fill ~24 ~-3 ~88 ~76 ~-3 ~88 wool 0
+fill ~24 ~-3 ~89 ~77 ~-3 ~89 wool 0
+fill ~24 ~-3 ~90 ~78 ~-3 ~90 wool 0
+fill ~24 ~-3 ~91 ~79 ~-3 ~91 wool 0
+fill ~24 ~-3 ~92 ~80 ~-3 ~92 wool 0
+fill ~24 ~-3 ~93 ~46 ~-3 ~93 wool 0
+fill ~24 ~-3 ~94 ~45 ~-3 ~94 wool 0
+fill ~24 ~-3 ~111 ~24 ~-3 ~118 wool 15
+fill ~24 ~-3 ~136 ~26 ~-3 ~136 wool 0
+fill ~24 ~-3 ~137 ~24 ~-3 ~138 wool 15
+fill ~24 ~-3 ~139 ~54 ~-3 ~139 wool 0
+setblock ~24 ~-3 ~140 wool 15
+fill ~24 ~-3 ~141 ~24 ~-3 ~150 wool 0
+fill ~25 ~-3 ~16 ~26 ~-3 ~16 wool 14
+fill ~25 ~-3 ~17 ~25 ~-3 ~18 wool 15
+fill ~25 ~-3 ~19 ~26 ~-3 ~19 wool 14
+fill ~25 ~-3 ~21 ~26 ~-3 ~21 wool 14
+fill ~25 ~-3 ~22 ~26 ~-3 ~22 wool 14
+fill ~25 ~-3 ~52 ~40 ~-3 ~52 wool 0
+fill ~25 ~-3 ~53 ~41 ~-3 ~53 wool 0
+fill ~25 ~-3 ~54 ~42 ~-3 ~54 wool 0
+fill ~25 ~-3 ~55 ~43 ~-3 ~55 wool 0
+fill ~25 ~-3 ~56 ~44 ~-3 ~56 wool 0
+fill ~25 ~-3 ~57 ~45 ~-3 ~57 wool 0
+fill ~25 ~-3 ~76 ~64 ~-3 ~76 wool 0
+fill ~25 ~-3 ~77 ~65 ~-3 ~77 wool 0
+fill ~25 ~-3 ~78 ~66 ~-3 ~78 wool 0
+fill ~25 ~-3 ~79 ~67 ~-3 ~79 wool 0
+fill ~25 ~-3 ~80 ~68 ~-3 ~80 wool 0
+fill ~25 ~-3 ~81 ~69 ~-3 ~81 wool 0
+fill ~25 ~-3 ~111 ~39 ~-3 ~111 wool 0
+fill ~25 ~-3 ~112 ~40 ~-3 ~112 wool 0
+fill ~25 ~-3 ~113 ~41 ~-3 ~113 wool 0
+fill ~25 ~-3 ~114 ~42 ~-3 ~114 wool 0
+fill ~25 ~-3 ~115 ~43 ~-3 ~115 wool 0
+fill ~25 ~-3 ~116 ~44 ~-3 ~116 wool 0
+fill ~25 ~-3 ~117 ~45 ~-3 ~117 wool 0
+fill ~25 ~-3 ~118 ~46 ~-3 ~118 wool 0
+fill ~25 ~-3 ~137 ~26 ~-3 ~137 wool 0
+setblock ~25 ~-3 ~138 wool 15
+fill ~25 ~-3 ~140 ~28 ~-3 ~140 wool 0
+setblock ~25 ~-3 ~141 wool 15
+fill ~25 ~-3 ~142 ~41 ~-3 ~142 wool 0
+fill ~25 ~-3 ~144 ~39 ~-3 ~144 wool 0
+fill ~26 ~-3 ~17 ~26 ~-3 ~24 wool 14
+fill ~26 ~-3 ~138 ~66 ~-3 ~138 wool 0
+fill ~26 ~-3 ~141 ~43 ~-3 ~141 wool 0
+fill ~27 ~-3 ~11 ~42 ~-3 ~11 wool 0
+fill ~27 ~-3 ~12 ~42 ~-3 ~12 wool 0
+fill ~27 ~-3 ~13 ~42 ~-3 ~13 wool 0
+fill ~27 ~-3 ~14 ~41 ~-3 ~14 wool 0
+fill ~27 ~-3 ~15 ~41 ~-3 ~15 wool 0
+fill ~27 ~-3 ~16 ~30 ~-3 ~16 wool 0
+fill ~27 ~-3 ~17 ~41 ~-3 ~17 wool 0
+fill ~27 ~-3 ~18 ~28 ~-3 ~18 wool 0
+fill ~27 ~-3 ~19 ~138 ~-3 ~19 wool 0
+fill ~27 ~-3 ~20 ~38 ~-3 ~20 wool 15
+fill ~27 ~-3 ~21 ~38 ~-3 ~21 wool 2
+fill ~27 ~-3 ~22 ~38 ~-3 ~22 wool 2
+fill ~27 ~-3 ~23 ~38 ~-3 ~23 wool 2
+fill ~27 ~-3 ~24 ~38 ~-3 ~24 wool 2
+fill ~27 ~-3 ~25 ~134 ~-3 ~25 wool 0
+fill ~27 ~-3 ~26 ~134 ~-3 ~26 wool 0
+fill ~27 ~-3 ~27 ~134 ~-3 ~27 wool 0
+fill ~27 ~-3 ~28 ~134 ~-3 ~28 wool 0
+fill ~27 ~-3 ~29 ~134 ~-3 ~29 wool 0
+fill ~27 ~-3 ~30 ~134 ~-3 ~30 wool 0
+fill ~27 ~-3 ~31 ~134 ~-3 ~31 wool 0
+fill ~27 ~-3 ~32 ~134 ~-3 ~32 wool 0
+fill ~27 ~-3 ~33 ~106 ~-3 ~33 wool 0
+fill ~27 ~-3 ~34 ~105 ~-3 ~34 wool 0
+fill ~27 ~-3 ~35 ~47 ~-3 ~35 wool 0
+fill ~27 ~-3 ~36 ~46 ~-3 ~36 wool 0
+fill ~27 ~-3 ~37 ~45 ~-3 ~37 wool 0
+fill ~27 ~-3 ~38 ~44 ~-3 ~38 wool 0
+fill ~27 ~-3 ~39 ~43 ~-3 ~39 wool 0
+fill ~27 ~-3 ~40 ~42 ~-3 ~40 wool 0
+fill ~27 ~-3 ~41 ~41 ~-3 ~41 wool 0
+fill ~27 ~-3 ~42 ~40 ~-3 ~42 wool 0
+fill ~27 ~-3 ~43 ~39 ~-3 ~43 wool 0
+fill ~27 ~-3 ~44 ~38 ~-3 ~44 wool 0
+fill ~27 ~-3 ~45 ~37 ~-3 ~45 wool 0
+fill ~27 ~-3 ~46 ~36 ~-3 ~46 wool 0
+fill ~27 ~-3 ~47 ~36 ~-3 ~47 wool 0
+fill ~27 ~-3 ~48 ~36 ~-3 ~48 wool 0
+fill ~27 ~-3 ~61 ~49 ~-3 ~61 wool 0
+fill ~27 ~-3 ~62 ~50 ~-3 ~62 wool 0
+fill ~27 ~-3 ~63 ~51 ~-3 ~63 wool 0
+fill ~27 ~-3 ~64 ~52 ~-3 ~64 wool 0
+fill ~27 ~-3 ~65 ~53 ~-3 ~65 wool 0
+fill ~27 ~-3 ~66 ~54 ~-3 ~66 wool 0
+fill ~27 ~-3 ~67 ~55 ~-3 ~67 wool 0
+fill ~27 ~-3 ~68 ~56 ~-3 ~68 wool 0
+fill ~27 ~-3 ~69 ~57 ~-3 ~69 wool 0
+fill ~27 ~-3 ~70 ~58 ~-3 ~70 wool 0
+fill ~27 ~-3 ~71 ~59 ~-3 ~71 wool 0
+fill ~27 ~-3 ~72 ~60 ~-3 ~72 wool 0
+fill ~27 ~-3 ~97 ~42 ~-3 ~97 wool 0
+fill ~27 ~-3 ~98 ~41 ~-3 ~98 wool 0
+fill ~27 ~-3 ~99 ~40 ~-3 ~99 wool 0
+fill ~27 ~-3 ~100 ~39 ~-3 ~100 wool 0
+fill ~27 ~-3 ~101 ~38 ~-3 ~101 wool 0
+fill ~27 ~-3 ~102 ~37 ~-3 ~102 wool 0
+fill ~27 ~-3 ~103 ~36 ~-3 ~103 wool 0
+fill ~27 ~-3 ~104 ~35 ~-3 ~104 wool 0
+fill ~27 ~-3 ~105 ~34 ~-3 ~105 wool 0
+fill ~27 ~-3 ~106 ~34 ~-3 ~106 wool 0
+fill ~27 ~-3 ~107 ~35 ~-3 ~107 wool 0
+fill ~27 ~-3 ~108 ~36 ~-3 ~108 wool 0
+fill ~27 ~-3 ~121 ~49 ~-3 ~121 wool 0
+fill ~27 ~-3 ~122 ~50 ~-3 ~122 wool 0
+fill ~27 ~-3 ~123 ~51 ~-3 ~123 wool 0
+fill ~27 ~-3 ~124 ~52 ~-3 ~124 wool 0
+fill ~27 ~-3 ~125 ~134 ~-3 ~125 wool 0
+fill ~27 ~-3 ~126 ~134 ~-3 ~126 wool 0
+fill ~27 ~-3 ~127 ~134 ~-3 ~127 wool 0
+fill ~27 ~-3 ~128 ~134 ~-3 ~128 wool 0
+fill ~27 ~-3 ~129 ~134 ~-3 ~129 wool 0
+fill ~27 ~-3 ~130 ~134 ~-3 ~130 wool 0
+fill ~27 ~-3 ~131 ~134 ~-3 ~131 wool 0
+fill ~27 ~-3 ~132 ~134 ~-3 ~132 wool 0
+fill ~27 ~-3 ~133 ~38 ~-3 ~133 wool 11
+fill ~27 ~-3 ~134 ~38 ~-3 ~134 wool 11
+fill ~27 ~-3 ~135 ~38 ~-3 ~135 wool 11
+fill ~27 ~-3 ~136 ~38 ~-3 ~136 wool 11
+fill ~27 ~-3 ~137 ~38 ~-3 ~137 wool 15
+fill ~29 ~-3 ~18 ~36 ~-3 ~18 wool 15
+fill ~29 ~-3 ~140 ~36 ~-3 ~140 wool 15
+fill ~31 ~-3 ~16 ~34 ~-3 ~16 wool 15
+fill ~35 ~-3 ~16 ~41 ~-3 ~16 wool 0
+fill ~35 ~-3 ~105 ~35 ~-3 ~106 wool 7
+setblock ~36 ~-3 ~104 wool 7
+fill ~36 ~-3 ~105 ~59 ~-3 ~105 wool 0
+fill ~36 ~-3 ~106 ~60 ~-3 ~106 wool 0
+setblock ~36 ~-3 ~107 wool 7
+fill ~37 ~-3 ~18 ~42 ~-3 ~18 wool 0
+fill ~37 ~-3 ~46 ~37 ~-3 ~48 wool 6
+setblock ~37 ~-3 ~103 wool 7
+fill ~37 ~-3 ~104 ~58 ~-3 ~104 wool 0
+fill ~37 ~-3 ~107 ~61 ~-3 ~107 wool 0
+setblock ~37 ~-3 ~108 wool 7
+fill ~37 ~-3 ~140 ~41 ~-3 ~140 wool 0
+setblock ~38 ~-3 ~45 wool 6
+setblock ~38 ~-3 ~46 wool 1
+fill ~38 ~-3 ~47 ~39 ~-3 ~47 wool 14
+setblock ~38 ~-3 ~48 wool 1
+setblock ~38 ~-3 ~49 wool 6
+setblock ~38 ~-3 ~102 wool 7
+fill ~38 ~-3 ~103 ~57 ~-3 ~103 wool 0
+fill ~38 ~-3 ~108 ~62 ~-3 ~108 wool 0
+setblock ~38 ~-3 ~109 wool 7
+fill ~39 ~-3 ~20 ~50 ~-3 ~20 wool 0
+fill ~39 ~-3 ~21 ~40 ~-3 ~21 wool 0
+fill ~39 ~-3 ~22 ~50 ~-3 ~22 wool 0
+fill ~39 ~-3 ~23 ~41 ~-3 ~23 wool 0
+fill ~39 ~-3 ~24 ~50 ~-3 ~24 wool 0
+setblock ~39 ~-3 ~44 wool 6
+setblock ~39 ~-3 ~45 wool 1
+fill ~39 ~-3 ~46 ~40 ~-3 ~46 wool 14
+fill ~39 ~-3 ~48 ~40 ~-3 ~48 wool 14
+fill ~39 ~-3 ~49 ~45 ~-3 ~49 wool 14
+setblock ~39 ~-3 ~50 wool 6
+setblock ~39 ~-3 ~101 wool 7
+fill ~39 ~-3 ~102 ~56 ~-3 ~102 wool 0
+fill ~39 ~-3 ~109 ~63 ~-3 ~109 wool 0
+setblock ~39 ~-3 ~110 wool 7
+fill ~39 ~-3 ~133 ~50 ~-3 ~133 wool 0
+fill ~39 ~-3 ~134 ~40 ~-3 ~134 wool 0
+fill ~39 ~-3 ~135 ~40 ~-3 ~135 wool 0
+fill ~39 ~-3 ~136 ~50 ~-3 ~136 wool 0
+fill ~39 ~-3 ~137 ~42 ~-3 ~137 wool 0
+setblock ~40 ~-3 ~43 wool 6
+setblock ~40 ~-3 ~44 wool 1
+fill ~40 ~-3 ~45 ~42 ~-3 ~45 wool 14
+setblock ~40 ~-3 ~47 wool 1
+fill ~40 ~-3 ~50 ~45 ~-3 ~50 wool 14
+setblock ~40 ~-3 ~51 wool 6
+setblock ~40 ~-3 ~100 wool 7
+fill ~40 ~-3 ~101 ~55 ~-3 ~101 wool 0
+fill ~40 ~-3 ~110 ~64 ~-3 ~110 wool 0
+setblock ~40 ~-3 ~111 wool 7
+fill ~40 ~-3 ~144 ~40 ~-3 ~145 wool 15
+fill ~41 ~-3 ~21 ~48 ~-3 ~21 wool 15
+setblock ~41 ~-3 ~42 wool 6
+setblock ~41 ~-3 ~43 wool 1
+fill ~41 ~-3 ~44 ~43 ~-3 ~44 wool 14
+setblock ~41 ~-3 ~46 wool 1
+fill ~41 ~-3 ~47 ~42 ~-3 ~47 wool 0
+fill ~41 ~-3 ~48 ~41 ~-3 ~47 wool 0
+fill ~41 ~-3 ~51 ~45 ~-3 ~51 wool 14
+setblock ~41 ~-3 ~52 wool 6
+setblock ~41 ~-3 ~99 wool 7
+fill ~41 ~-3 ~100 ~54 ~-3 ~100 wool 0
+fill ~41 ~-3 ~111 ~65 ~-3 ~111 wool 0
+setblock ~41 ~-3 ~112 wool 7
+fill ~41 ~-3 ~134 ~48 ~-3 ~134 wool 15
+fill ~41 ~-3 ~135 ~48 ~-3 ~135 wool 15
+setblock ~41 ~-3 ~143 wool 15
+setblock ~41 ~-3 ~144 wool 4
+setblock ~41 ~-3 ~145 wool 15
+setblock ~41 ~-3 ~146 wool 4
+fill ~42 ~-3 ~14 ~42 ~-3 ~15 wool 15
+setblock ~42 ~-3 ~16 wool 4
+setblock ~42 ~-3 ~17 wool 15
+fill ~42 ~-3 ~23 ~47 ~-3 ~23 wool 15
+setblock ~42 ~-3 ~41 wool 6
+setblock ~42 ~-3 ~42 wool 1
+fill ~42 ~-3 ~43 ~44 ~-3 ~43 wool 14
+fill ~42 ~-3 ~46 ~43 ~-3 ~46 wool 0
+setblock ~42 ~-3 ~48 wool 1
+fill ~42 ~-3 ~52 ~44 ~-3 ~52 wool 14
+setblock ~42 ~-3 ~53 wool 6
+setblock ~42 ~-3 ~98 wool 7
+fill ~42 ~-3 ~99 ~53 ~-3 ~99 wool 0
+fill ~42 ~-3 ~112 ~65 ~-3 ~112 wool 0
+setblock ~42 ~-3 ~113 wool 7
+setblock ~42 ~-3 ~140 wool 15
+setblock ~42 ~-3 ~142 wool 15
+fill ~42 ~-3 ~143 ~43 ~-3 ~143 wool 4
+setblock ~42 ~-3 ~144 wool 15
+fill ~42 ~-3 ~145 ~47 ~-3 ~145 wool 0
+setblock ~42 ~-3 ~146 wool 1
+setblock ~42 ~-3 ~147 wool 15
+fill ~42 ~-3 ~149 ~47 ~-3 ~149 wool 15
+fill ~43 ~-3 ~11 ~43 ~-3 ~12 wool 15
+fill ~43 ~-3 ~13 ~44 ~-3 ~13 wool 4
+fill ~43 ~-3 ~14 ~46 ~-3 ~14 wool 4
+fill ~43 ~-3 ~15 ~43 ~-3 ~13 wool 4
+setblock ~43 ~-3 ~16 wool 15
+fill ~43 ~-3 ~17 ~46 ~-3 ~17 wool 4
+fill ~43 ~-3 ~18 ~46 ~-3 ~18 wool 4
+setblock ~43 ~-3 ~40 wool 6
+setblock ~43 ~-3 ~41 wool 1
+fill ~43 ~-3 ~42 ~45 ~-3 ~42 wool 14
+fill ~43 ~-3 ~45 ~44 ~-3 ~45 wool 0
+setblock ~43 ~-3 ~47 wool 6
+fill ~43 ~-3 ~48 ~45 ~-3 ~48 wool 14
+fill ~43 ~-3 ~53 ~51 ~-3 ~53 wool 14
+setblock ~43 ~-3 ~54 wool 6
+setblock ~43 ~-3 ~97 wool 7
+fill ~43 ~-3 ~98 ~52 ~-3 ~98 wool 0
+fill ~43 ~-3 ~113 ~64 ~-3 ~113 wool 0
+setblock ~43 ~-3 ~114 wool 7
+fill ~43 ~-3 ~137 ~46 ~-3 ~137 wool 15
+fill ~43 ~-3 ~140 ~46 ~-3 ~140 wool 0
+setblock ~43 ~-3 ~142 wool 4
+fill ~43 ~-3 ~144 ~46 ~-3 ~144 wool 0
+fill ~43 ~-3 ~146 ~46 ~-3 ~146 wool 15
+fill ~43 ~-3 ~147 ~46 ~-3 ~147 wool 4
+fill ~44 ~-3 ~9 ~45 ~-3 ~9 wool 15
+fill ~44 ~-3 ~10 ~45 ~-3 ~10 wool 15
+fill ~44 ~-3 ~11 ~45 ~-3 ~11 wool 4
+fill ~44 ~-3 ~12 ~45 ~-3 ~12 wool 4
+setblock ~44 ~-3 ~15 wool 15
+fill ~44 ~-3 ~16 ~47 ~-3 ~16 wool 4
+setblock ~44 ~-3 ~39 wool 6
+setblock ~44 ~-3 ~40 wool 1
+fill ~44 ~-3 ~41 ~46 ~-3 ~41 wool 14
+setblock ~44 ~-3 ~44 wool 6
+setblock ~44 ~-3 ~46 wool 6
+fill ~44 ~-3 ~47 ~45 ~-3 ~47 wool 14
+fill ~44 ~-3 ~54 ~50 ~-3 ~54 wool 14
+setblock ~44 ~-3 ~55 wool 6
+setblock ~44 ~-3 ~96 wool 7
+fill ~44 ~-3 ~97 ~51 ~-3 ~97 wool 0
+fill ~44 ~-3 ~114 ~63 ~-3 ~114 wool 0
+setblock ~44 ~-3 ~115 wool 7
+fill ~44 ~-3 ~141 ~45 ~-3 ~141 wool 15
+fill ~44 ~-3 ~142 ~45 ~-3 ~142 wool 3
+fill ~44 ~-3 ~143 ~45 ~-3 ~143 wool 15
+setblock ~45 ~-3 ~13 wool 15
+fill ~45 ~-3 ~15 ~46 ~-3 ~15 wool 4
+setblock ~45 ~-3 ~38 wool 6
+setblock ~45 ~-3 ~39 wool 1
+fill ~45 ~-3 ~40 ~48 ~-3 ~40 wool 14
+setblock ~45 ~-3 ~43 wool 6
+fill ~45 ~-3 ~44 ~48 ~-3 ~44 wool 0
+setblock ~45 ~-3 ~45 wool 6
+fill ~45 ~-3 ~46 ~46 ~-3 ~46 wool 14
+setblock ~45 ~-3 ~52 wool 1
+fill ~45 ~-3 ~55 ~49 ~-3 ~55 wool 14
+setblock ~45 ~-3 ~56 wool 6
+setblock ~45 ~-3 ~95 wool 7
+fill ~45 ~-3 ~96 ~50 ~-3 ~96 wool 0
+fill ~45 ~-3 ~115 ~62 ~-3 ~115 wool 0
+setblock ~45 ~-3 ~116 wool 7
+fill ~46 ~-3 ~9 ~76 ~-3 ~9 wool 0
+fill ~46 ~-3 ~10 ~76 ~-3 ~10 wool 0
+fill ~46 ~-3 ~11 ~46 ~-3 ~12 wool 15
+setblock ~46 ~-3 ~13 wool 4
+setblock ~46 ~-3 ~37 wool 6
+setblock ~46 ~-3 ~38 wool 1
+fill ~46 ~-3 ~39 ~49 ~-3 ~39 wool 14
+setblock ~46 ~-3 ~42 wool 1
+fill ~46 ~-3 ~43 ~48 ~-3 ~43 wool 0
+setblock ~46 ~-3 ~45 wool 1
+fill ~46 ~-3 ~47 ~46 ~-3 ~48 wool 1
+setblock ~46 ~-3 ~49 wool 6
+fill ~46 ~-3 ~50 ~47 ~-3 ~50 wool 0
+fill ~46 ~-3 ~51 ~50 ~-3 ~51 wool 0
+fill ~46 ~-3 ~52 ~47 ~-3 ~52 wool 6
+fill ~46 ~-3 ~56 ~49 ~-3 ~56 wool 14
+setblock ~46 ~-3 ~57 wool 6
+setblock ~46 ~-3 ~94 wool 7
+fill ~46 ~-3 ~95 ~49 ~-3 ~95 wool 0
+fill ~46 ~-3 ~116 ~61 ~-3 ~116 wool 0
+setblock ~46 ~-3 ~117 wool 7
+fill ~46 ~-3 ~141 ~54 ~-3 ~141 wool 0
+fill ~46 ~-3 ~142 ~46 ~-3 ~143 wool 4
+fill ~47 ~-3 ~11 ~75 ~-3 ~11 wool 0
+fill ~47 ~-3 ~12 ~76 ~-3 ~12 wool 0
+fill ~47 ~-3 ~13 ~76 ~-3 ~13 wool 0
+fill ~47 ~-3 ~14 ~47 ~-3 ~15 wool 15
+setblock ~47 ~-3 ~17 wool 15
+fill ~47 ~-3 ~18 ~54 ~-3 ~18 wool 0
+setblock ~47 ~-3 ~36 wool 6
+setblock ~47 ~-3 ~37 wool 1
+fill ~47 ~-3 ~38 ~51 ~-3 ~38 wool 14
+setblock ~47 ~-3 ~41 wool 1
+fill ~47 ~-3 ~42 ~49 ~-3 ~42 wool 0
+setblock ~47 ~-3 ~45 wool 6
+fill ~47 ~-3 ~46 ~48 ~-3 ~46 wool 0
+fill ~47 ~-3 ~47 ~47 ~-3 ~51 wool 0
+fill ~47 ~-3 ~57 ~49 ~-3 ~57 wool 14
+setblock ~47 ~-3 ~58 wool 6
+fill ~47 ~-3 ~93 ~48 ~-3 ~93 wool 7
+fill ~47 ~-3 ~94 ~48 ~-3 ~94 wool 0
+fill ~47 ~-3 ~117 ~60 ~-3 ~117 wool 0
+setblock ~47 ~-3 ~118 wool 7
+fill ~47 ~-3 ~137 ~50 ~-3 ~137 wool 0
+setblock ~47 ~-3 ~140 wool 15
+setblock ~47 ~-3 ~142 wool 15
+setblock ~47 ~-3 ~143 wool 4
+setblock ~47 ~-3 ~144 wool 15
+setblock ~47 ~-3 ~146 wool 1
+setblock ~47 ~-3 ~147 wool 15
+fill ~48 ~-3 ~14 ~76 ~-3 ~14 wool 0
+fill ~48 ~-3 ~15 ~75 ~-3 ~15 wool 0
+fill ~48 ~-3 ~16 ~53 ~-3 ~16 wool 0
+fill ~48 ~-3 ~17 ~101 ~-3 ~17 wool 0
+fill ~48 ~-3 ~23 ~50 ~-3 ~23 wool 0
+fill ~48 ~-3 ~35 ~50 ~-3 ~35 wool 6
+setblock ~48 ~-3 ~36 wool 1
+fill ~48 ~-3 ~37 ~50 ~-3 ~37 wool 14
+fill ~48 ~-3 ~41 ~49 ~-3 ~41 wool 0
+setblock ~48 ~-3 ~45 wool 0
+fill ~48 ~-3 ~47 ~48 ~-3 ~48 wool 6
+setblock ~48 ~-3 ~49 wool 1
+setblock ~48 ~-3 ~50 wool 6
+setblock ~48 ~-3 ~52 wool 1
+fill ~48 ~-3 ~58 ~53 ~-3 ~58 wool 14
+setblock ~48 ~-3 ~59 wool 6
+fill ~48 ~-3 ~118 ~59 ~-3 ~118 wool 0
+setblock ~48 ~-3 ~119 wool 7
+fill ~48 ~-3 ~140 ~65 ~-3 ~140 wool 0
+fill ~48 ~-3 ~142 ~66 ~-3 ~142 wool 0
+setblock ~48 ~-3 ~143 wool 15
+setblock ~48 ~-3 ~144 wool 4
+fill ~48 ~-3 ~145 ~49 ~-3 ~145 wool 15
+setblock ~48 ~-3 ~146 wool 4
+fill ~48 ~-3 ~147 ~76 ~-3 ~147 wool 0
+fill ~48 ~-3 ~149 ~67 ~-3 ~149 wool 0
+fill ~49 ~-3 ~21 ~50 ~-3 ~21 wool 0
+setblock ~49 ~-3 ~36 wool 14
+fill ~49 ~-3 ~40 ~50 ~-3 ~40 wool 6
+fill ~49 ~-3 ~43 ~49 ~-3 ~44 wool 6
+setblock ~49 ~-3 ~45 wool 1
+fill ~49 ~-3 ~46 ~59 ~-3 ~46 wool 14
+fill ~49 ~-3 ~47 ~60 ~-3 ~47 wool 14
+fill ~49 ~-3 ~48 ~54 ~-3 ~48 wool 14
+fill ~49 ~-3 ~49 ~50 ~-3 ~49 wool 14
+fill ~49 ~-3 ~50 ~56 ~-3 ~50 wool 0
+fill ~49 ~-3 ~52 ~52 ~-3 ~52 wool 14
+fill ~49 ~-3 ~59 ~53 ~-3 ~59 wool 14
+setblock ~49 ~-3 ~60 wool 6
+fill ~49 ~-3 ~93 ~81 ~-3 ~93 wool 0
+setblock ~49 ~-3 ~94 wool 7
+fill ~49 ~-3 ~119 ~58 ~-3 ~119 wool 0
+setblock ~49 ~-3 ~120 wool 7
+fill ~49 ~-3 ~134 ~50 ~-3 ~134 wool 0
+fill ~49 ~-3 ~135 ~50 ~-3 ~135 wool 0
+fill ~49 ~-3 ~143 ~68 ~-3 ~143 wool 0
+setblock ~49 ~-3 ~144 wool 15
+fill ~49 ~-3 ~146 ~67 ~-3 ~146 wool 0
+setblock ~50 ~-3 ~36 wool 1
+setblock ~50 ~-3 ~39 wool 1
+setblock ~50 ~-3 ~41 wool 1
+fill ~50 ~-3 ~42 ~55 ~-3 ~42 wool 14
+fill ~50 ~-3 ~43 ~56 ~-3 ~43 wool 14
+fill ~50 ~-3 ~44 ~57 ~-3 ~44 wool 14
+fill ~50 ~-3 ~45 ~58 ~-3 ~45 wool 14
+setblock ~50 ~-3 ~55 wool 1
+fill ~50 ~-3 ~56 ~51 ~-3 ~56 wool 0
+fill ~50 ~-3 ~57 ~50 ~-3 ~56 wool 0
+fill ~50 ~-3 ~60 ~53 ~-3 ~60 wool 14
+setblock ~50 ~-3 ~61 wool 6
+fill ~50 ~-3 ~94 ~82 ~-3 ~94 wool 0
+setblock ~50 ~-3 ~95 wool 7
+fill ~50 ~-3 ~120 ~57 ~-3 ~120 wool 0
+setblock ~50 ~-3 ~121 wool 7
+fill ~50 ~-3 ~144 ~67 ~-3 ~144 wool 0
+fill ~50 ~-3 ~145 ~66 ~-3 ~145 wool 0
+fill ~51 ~-3 ~20 ~74 ~-3 ~20 wool 15
+fill ~51 ~-3 ~21 ~74 ~-3 ~21 wool 2
+fill ~51 ~-3 ~22 ~74 ~-3 ~22 wool 2
+fill ~51 ~-3 ~23 ~74 ~-3 ~23 wool 2
+fill ~51 ~-3 ~24 ~74 ~-3 ~24 wool 2
+fill ~51 ~-3 ~35 ~104 ~-3 ~35 wool 0
+setblock ~51 ~-3 ~36 wool 6
+setblock ~51 ~-3 ~37 wool 1
+fill ~51 ~-3 ~39 ~52 ~-3 ~39 wool 14
+fill ~51 ~-3 ~40 ~53 ~-3 ~40 wool 14
+fill ~51 ~-3 ~41 ~54 ~-3 ~41 wool 14
+setblock ~51 ~-3 ~49 wool 1
+fill ~51 ~-3 ~51 ~52 ~-3 ~51 wool 6
+setblock ~51 ~-3 ~54 wool 6
+fill ~51 ~-3 ~55 ~52 ~-3 ~55 wool 0
+setblock ~51 ~-3 ~57 wool 6
+fill ~51 ~-3 ~61 ~53 ~-3 ~61 wool 14
+setblock ~51 ~-3 ~62 wool 6
+fill ~51 ~-3 ~95 ~83 ~-3 ~95 wool 0
+setblock ~51 ~-3 ~96 wool 7
+fill ~51 ~-3 ~121 ~56 ~-3 ~121 wool 0
+setblock ~51 ~-3 ~122 wool 7
+fill ~51 ~-3 ~133 ~62 ~-3 ~133 wool 11
+fill ~51 ~-3 ~134 ~62 ~-3 ~134 wool 11
+fill ~51 ~-3 ~135 ~62 ~-3 ~135 wool 11
+fill ~51 ~-3 ~136 ~62 ~-3 ~136 wool 11
+fill ~51 ~-3 ~137 ~62 ~-3 ~137 wool 15
+fill ~52 ~-3 ~36 ~103 ~-3 ~36 wool 0
+setblock ~52 ~-3 ~37 wool 6
+setblock ~52 ~-3 ~38 wool 1
+fill ~52 ~-3 ~49 ~53 ~-3 ~49 wool 6
+setblock ~52 ~-3 ~53 wool 6
+fill ~52 ~-3 ~54 ~53 ~-3 ~54 wool 0
+setblock ~52 ~-3 ~56 wool 1
+fill ~52 ~-3 ~57 ~53 ~-3 ~57 wool 14
+fill ~52 ~-3 ~62 ~54 ~-3 ~62 wool 14
+setblock ~52 ~-3 ~63 wool 6
+fill ~52 ~-3 ~96 ~84 ~-3 ~96 wool 0
+setblock ~52 ~-3 ~97 wool 7
+fill ~52 ~-3 ~122 ~55 ~-3 ~122 wool 0
+setblock ~52 ~-3 ~123 wool 7
+fill ~53 ~-3 ~37 ~102 ~-3 ~37 wool 0
+setblock ~53 ~-3 ~38 wool 6
+setblock ~53 ~-3 ~39 wool 1
+setblock ~53 ~-3 ~51 wool 1
+setblock ~53 ~-3 ~52 wool 6
+setblock ~53 ~-3 ~53 wool 0
+setblock ~53 ~-3 ~55 wool 1
+fill ~53 ~-3 ~56 ~54 ~-3 ~56 wool 14
+fill ~53 ~-3 ~63 ~54 ~-3 ~63 wool 14
+setblock ~53 ~-3 ~64 wool 6
+fill ~53 ~-3 ~97 ~85 ~-3 ~97 wool 0
+setblock ~53 ~-3 ~98 wool 7
+fill ~53 ~-3 ~123 ~54 ~-3 ~123 wool 0
+fill ~53 ~-3 ~124 ~54 ~-3 ~124 wool 7
+fill ~54 ~-3 ~16 ~59 ~-3 ~16 wool 15
+fill ~54 ~-3 ~38 ~101 ~-3 ~38 wool 0
+setblock ~54 ~-3 ~39 wool 6
+setblock ~54 ~-3 ~40 wool 1
+fill ~54 ~-3 ~49 ~57 ~-3 ~49 wool 0
+fill ~54 ~-3 ~51 ~55 ~-3 ~51 wool 0
+fill ~54 ~-3 ~52 ~54 ~-3 ~49 wool 0
+setblock ~54 ~-3 ~53 wool 6
+fill ~54 ~-3 ~54 ~55 ~-3 ~54 wool 14
+fill ~54 ~-3 ~55 ~54 ~-3 ~54 wool 14
+setblock ~54 ~-3 ~57 wool 1
+fill ~54 ~-3 ~58 ~54 ~-3 ~60 wool 6
+setblock ~54 ~-3 ~61 wool 1
+fill ~54 ~-3 ~64 ~55 ~-3 ~64 wool 14
+setblock ~54 ~-3 ~65 wool 6
+fill ~54 ~-3 ~98 ~86 ~-3 ~98 wool 0
+setblock ~54 ~-3 ~99 wool 7
+fill ~55 ~-3 ~18 ~58 ~-3 ~18 wool 15
+fill ~55 ~-3 ~39 ~100 ~-3 ~39 wool 0
+setblock ~55 ~-3 ~40 wool 6
+setblock ~55 ~-3 ~41 wool 1
+setblock ~55 ~-3 ~48 wool 1
+setblock ~55 ~-3 ~52 wool 6
+fill ~55 ~-3 ~53 ~56 ~-3 ~53 wool 14
+setblock ~55 ~-3 ~55 wool 1
+fill ~55 ~-3 ~56 ~56 ~-3 ~56 wool 0
+fill ~55 ~-3 ~57 ~55 ~-3 ~62 wool 0
+setblock ~55 ~-3 ~63 wool 1
+fill ~55 ~-3 ~65 ~56 ~-3 ~65 wool 14
+setblock ~55 ~-3 ~66 wool 6
+fill ~55 ~-3 ~99 ~87 ~-3 ~99 wool 0
+setblock ~55 ~-3 ~100 wool 7
+setblock ~55 ~-3 ~123 wool 7
+fill ~55 ~-3 ~124 ~134 ~-3 ~124 wool 0
+fill ~55 ~-3 ~139 ~58 ~-3 ~139 wool 15
+fill ~55 ~-3 ~141 ~58 ~-3 ~141 wool 15
+fill ~56 ~-3 ~40 ~99 ~-3 ~40 wool 0
+setblock ~56 ~-3 ~41 wool 6
+setblock ~56 ~-3 ~42 wool 1
+fill ~56 ~-3 ~48 ~58 ~-3 ~48 wool 6
+setblock ~56 ~-3 ~51 wool 6
+fill ~56 ~-3 ~52 ~59 ~-3 ~52 wool 14
+setblock ~56 ~-3 ~54 wool 6
+fill ~56 ~-3 ~55 ~57 ~-3 ~55 wool 0
+fill ~56 ~-3 ~57 ~56 ~-3 ~58 wool 6
+fill ~56 ~-3 ~59 ~56 ~-3 ~60 wool 1
+setblock ~56 ~-3 ~61 wool 6
+fill ~56 ~-3 ~62 ~56 ~-3 ~63 wool 0
+setblock ~56 ~-3 ~64 wool 6
+fill ~56 ~-3 ~66 ~59 ~-3 ~66 wool 14
+setblock ~56 ~-3 ~67 wool 6
+fill ~56 ~-3 ~100 ~88 ~-3 ~100 wool 0
+setblock ~56 ~-3 ~101 wool 7
+setblock ~56 ~-3 ~122 wool 7
+fill ~56 ~-3 ~123 ~134 ~-3 ~123 wool 0
+fill ~57 ~-3 ~41 ~98 ~-3 ~41 wool 0
+setblock ~57 ~-3 ~42 wool 6
+setblock ~57 ~-3 ~43 wool 1
+setblock ~57 ~-3 ~50 wool 1
+fill ~57 ~-3 ~51 ~64 ~-3 ~51 wool 14
+setblock ~57 ~-3 ~53 wool 1
+fill ~57 ~-3 ~54 ~59 ~-3 ~54 wool 0
+setblock ~57 ~-3 ~56 wool 1
+fill ~57 ~-3 ~57 ~64 ~-3 ~57 wool 14
+fill ~57 ~-3 ~58 ~65 ~-3 ~58 wool 14
+fill ~57 ~-3 ~59 ~65 ~-3 ~59 wool 14
+fill ~57 ~-3 ~60 ~65 ~-3 ~60 wool 14
+fill ~57 ~-3 ~61 ~64 ~-3 ~61 wool 14
+setblock ~57 ~-3 ~62 wool 1
+fill ~57 ~-3 ~63 ~57 ~-3 ~64 wool 0
+setblock ~57 ~-3 ~65 wool 1
+fill ~57 ~-3 ~67 ~64 ~-3 ~67 wool 14
+setblock ~57 ~-3 ~68 wool 6
+fill ~57 ~-3 ~101 ~89 ~-3 ~101 wool 0
+setblock ~57 ~-3 ~102 wool 7
+setblock ~57 ~-3 ~121 wool 7
+fill ~57 ~-3 ~122 ~110 ~-3 ~122 wool 0
+fill ~58 ~-3 ~42 ~97 ~-3 ~42 wool 0
+setblock ~58 ~-3 ~43 wool 6
+setblock ~58 ~-3 ~44 wool 1
+fill ~58 ~-3 ~49 ~62 ~-3 ~49 wool 14
+fill ~58 ~-3 ~50 ~63 ~-3 ~50 wool 14
+fill ~58 ~-3 ~53 ~63 ~-3 ~53 wool 0
+setblock ~58 ~-3 ~55 wool 1
+fill ~58 ~-3 ~56 ~64 ~-3 ~56 wool 14
+fill ~58 ~-3 ~62 ~64 ~-3 ~62 wool 14
+setblock ~58 ~-3 ~63 wool 8
+fill ~58 ~-3 ~64 ~59 ~-3 ~64 wool 0
+fill ~58 ~-3 ~65 ~63 ~-3 ~65 wool 0
+fill ~58 ~-3 ~68 ~63 ~-3 ~68 wool 14
+setblock ~58 ~-3 ~69 wool 6
+fill ~58 ~-3 ~102 ~90 ~-3 ~102 wool 0
+setblock ~58 ~-3 ~103 wool 7
+setblock ~58 ~-3 ~120 wool 7
+fill ~58 ~-3 ~121 ~109 ~-3 ~121 wool 0
+fill ~59 ~-3 ~18 ~65 ~-3 ~18 wool 0
+fill ~59 ~-3 ~43 ~96 ~-3 ~43 wool 0
+setblock ~59 ~-3 ~44 wool 6
+setblock ~59 ~-3 ~45 wool 1
+fill ~59 ~-3 ~48 ~61 ~-3 ~48 wool 14
+fill ~59 ~-3 ~55 ~62 ~-3 ~55 wool 14
+fill ~59 ~-3 ~63 ~62 ~-3 ~63 wool 14
+fill ~59 ~-3 ~69 ~62 ~-3 ~69 wool 14
+setblock ~59 ~-3 ~70 wool 6
+fill ~59 ~-3 ~103 ~91 ~-3 ~103 wool 0
+setblock ~59 ~-3 ~104 wool 7
+setblock ~59 ~-3 ~119 wool 7
+fill ~59 ~-3 ~120 ~108 ~-3 ~120 wool 0
+fill ~59 ~-3 ~139 ~65 ~-3 ~139 wool 0
+fill ~59 ~-3 ~141 ~65 ~-3 ~141 wool 0
+fill ~60 ~-3 ~16 ~65 ~-3 ~16 wool 0
+fill ~60 ~-3 ~44 ~95 ~-3 ~44 wool 0
+setblock ~60 ~-3 ~45 wool 6
+setblock ~60 ~-3 ~46 wool 1
+fill ~60 ~-3 ~52 ~62 ~-3 ~52 wool 1
+fill ~60 ~-3 ~54 ~62 ~-3 ~54 wool 6
+fill ~60 ~-3 ~64 ~61 ~-3 ~64 wool 6
+fill ~60 ~-3 ~66 ~61 ~-3 ~66 wool 1
+fill ~60 ~-3 ~70 ~62 ~-3 ~70 wool 14
+setblock ~60 ~-3 ~71 wool 6
+fill ~60 ~-3 ~104 ~92 ~-3 ~104 wool 0
+setblock ~60 ~-3 ~105 wool 7
+setblock ~60 ~-3 ~118 wool 7
+fill ~60 ~-3 ~119 ~107 ~-3 ~119 wool 0
+fill ~61 ~-3 ~45 ~94 ~-3 ~45 wool 0
+setblock ~61 ~-3 ~46 wool 6
+setblock ~61 ~-3 ~47 wool 1
+fill ~61 ~-3 ~71 ~69 ~-3 ~71 wool 14
+setblock ~61 ~-3 ~72 wool 6
+fill ~61 ~-3 ~105 ~93 ~-3 ~105 wool 0
+setblock ~61 ~-3 ~106 wool 7
+setblock ~61 ~-3 ~117 wool 7
+fill ~61 ~-3 ~118 ~106 ~-3 ~118 wool 0
+fill ~62 ~-3 ~46 ~94 ~-3 ~46 wool 0
+setblock ~62 ~-3 ~47 wool 6
+setblock ~62 ~-3 ~48 wool 1
+fill ~62 ~-3 ~64 ~64 ~-3 ~64 wool 0
+fill ~62 ~-3 ~66 ~65 ~-3 ~66 wool 14
+fill ~62 ~-3 ~72 ~69 ~-3 ~72 wool 14
+setblock ~62 ~-3 ~73 wool 6
+fill ~62 ~-3 ~106 ~94 ~-3 ~106 wool 0
+setblock ~62 ~-3 ~107 wool 7
+setblock ~62 ~-3 ~116 wool 7
+fill ~62 ~-3 ~117 ~105 ~-3 ~117 wool 0
+fill ~63 ~-3 ~47 ~95 ~-3 ~47 wool 0
+setblock ~63 ~-3 ~48 wool 6
+setblock ~63 ~-3 ~49 wool 1
+fill ~63 ~-3 ~52 ~65 ~-3 ~52 wool 14
+fill ~63 ~-3 ~54 ~64 ~-3 ~54 wool 0
+setblock ~63 ~-3 ~55 wool 1
+setblock ~63 ~-3 ~63 wool 1
+setblock ~63 ~-3 ~69 wool 6
+fill ~63 ~-3 ~70 ~64 ~-3 ~70 wool 0
+fill ~63 ~-3 ~73 ~69 ~-3 ~73 wool 14
+setblock ~63 ~-3 ~74 wool 6
+fill ~63 ~-3 ~107 ~95 ~-3 ~107 wool 0
+setblock ~63 ~-3 ~108 wool 7
+setblock ~63 ~-3 ~115 wool 7
+fill ~63 ~-3 ~116 ~104 ~-3 ~116 wool 0
+fill ~63 ~-3 ~133 ~86 ~-3 ~133 wool 0
+fill ~63 ~-3 ~134 ~86 ~-3 ~134 wool 0
+fill ~63 ~-3 ~135 ~65 ~-3 ~135 wool 0
+fill ~63 ~-3 ~136 ~86 ~-3 ~136 wool 0
+fill ~63 ~-3 ~137 ~67 ~-3 ~137 wool 0
+fill ~64 ~-3 ~48 ~96 ~-3 ~48 wool 0
+setblock ~64 ~-3 ~49 wool 6
+setblock ~64 ~-3 ~50 wool 1
+setblock ~64 ~-3 ~53 wool 6
+setblock ~64 ~-3 ~55 wool 6
+fill ~64 ~-3 ~63 ~65 ~-3 ~63 wool 0
+setblock ~64 ~-3 ~65 wool 1
+setblock ~64 ~-3 ~68 wool 6
+fill ~64 ~-3 ~69 ~65 ~-3 ~69 wool 0
+fill ~64 ~-3 ~74 ~69 ~-3 ~74 wool 14
+setblock ~64 ~-3 ~75 wool 6
+fill ~64 ~-3 ~108 ~96 ~-3 ~108 wool 0
+setblock ~64 ~-3 ~109 wool 7
+setblock ~64 ~-3 ~114 wool 7
+fill ~64 ~-3 ~115 ~103 ~-3 ~115 wool 0
+fill ~65 ~-3 ~49 ~97 ~-3 ~49 wool 0
+setblock ~65 ~-3 ~50 wool 6
+setblock ~65 ~-3 ~51 wool 1
+fill ~65 ~-3 ~53 ~66 ~-3 ~53 wool 14
+setblock ~65 ~-3 ~54 wool 6
+fill ~65 ~-3 ~55 ~65 ~-3 ~56 wool 0
+setblock ~65 ~-3 ~57 wool 1
+setblock ~65 ~-3 ~61 wool 1
+fill ~65 ~-3 ~62 ~66 ~-3 ~62 wool 0
+setblock ~65 ~-3 ~64 wool 6
+fill ~65 ~-3 ~65 ~66 ~-3 ~65 wool 14
+setblock ~65 ~-3 ~67 wool 6
+fill ~65 ~-3 ~68 ~66 ~-3 ~68 wool 0
+fill ~65 ~-3 ~70 ~69 ~-3 ~70 wool 14
+fill ~65 ~-3 ~75 ~69 ~-3 ~75 wool 14
+setblock ~65 ~-3 ~76 wool 6
+fill ~65 ~-3 ~109 ~97 ~-3 ~109 wool 0
+setblock ~65 ~-3 ~110 wool 7
+setblock ~65 ~-3 ~113 wool 7
+fill ~65 ~-3 ~114 ~102 ~-3 ~114 wool 0
+fill ~66 ~-3 ~16 ~71 ~-3 ~16 wool 15
+fill ~66 ~-3 ~18 ~71 ~-3 ~18 wool 15
+fill ~66 ~-3 ~50 ~98 ~-3 ~50 wool 0
+setblock ~66 ~-3 ~51 wool 6
+setblock ~66 ~-3 ~52 wool 1
+fill ~66 ~-3 ~54 ~67 ~-3 ~54 wool 14
+setblock ~66 ~-3 ~55 wool 6
+fill ~66 ~-3 ~56 ~66 ~-3 ~62 wool 0
+setblock ~66 ~-3 ~63 wool 6
+fill ~66 ~-3 ~64 ~67 ~-3 ~64 wool 14
+setblock ~66 ~-3 ~66 wool 6
+fill ~66 ~-3 ~67 ~67 ~-3 ~67 wool 0
+fill ~66 ~-3 ~69 ~69 ~-3 ~69 wool 14
+fill ~66 ~-3 ~76 ~69 ~-3 ~76 wool 14
+setblock ~66 ~-3 ~77 wool 6
+fill ~66 ~-3 ~110 ~98 ~-3 ~110 wool 0
+fill ~66 ~-3 ~111 ~66 ~-3 ~112 wool 7
+fill ~66 ~-3 ~113 ~101 ~-3 ~113 wool 0
+fill ~66 ~-3 ~135 ~71 ~-3 ~135 wool 15
+fill ~66 ~-3 ~139 ~66 ~-3 ~141 wool 14
+fill ~67 ~-3 ~51 ~99 ~-3 ~51 wool 0
+setblock ~67 ~-3 ~52 wool 6
+setblock ~67 ~-3 ~53 wool 1
+fill ~67 ~-3 ~55 ~68 ~-3 ~55 wool 14
+setblock ~67 ~-3 ~56 wool 1
+setblock ~67 ~-3 ~57 wool 6
+fill ~67 ~-3 ~58 ~67 ~-3 ~60 wool 0
+setblock ~67 ~-3 ~61 wool 6
+setblock ~67 ~-3 ~62 wool 1
+fill ~67 ~-3 ~63 ~68 ~-3 ~63 wool 14
+setblock ~67 ~-3 ~65 wool 6
+fill ~67 ~-3 ~66 ~68 ~-3 ~66 wool 0
+fill ~67 ~-3 ~68 ~69 ~-3 ~68 wool 14
+fill ~67 ~-3 ~77 ~69 ~-3 ~77 wool 14
+setblock ~67 ~-3 ~78 wool 6
+fill ~67 ~-3 ~111 ~99 ~-3 ~111 wool 0
+fill ~67 ~-3 ~112 ~100 ~-3 ~112 wool 0
+fill ~67 ~-3 ~138 ~70 ~-3 ~138 wool 14
+fill ~67 ~-3 ~139 ~70 ~-3 ~139 wool 0
+fill ~67 ~-3 ~140 ~70 ~-3 ~140 wool 0
+fill ~67 ~-3 ~141 ~70 ~-3 ~141 wool 0
+setblock ~67 ~-3 ~142 wool 14
+setblock ~67 ~-3 ~145 wool 14
+fill ~68 ~-3 ~52 ~100 ~-3 ~52 wool 0
+setblock ~68 ~-3 ~53 wool 6
+setblock ~68 ~-3 ~54 wool 1
+fill ~68 ~-3 ~56 ~69 ~-3 ~56 wool 14
+fill ~68 ~-3 ~57 ~70 ~-3 ~57 wool 14
+fill ~68 ~-3 ~58 ~71 ~-3 ~58 wool 14
+fill ~68 ~-3 ~59 ~72 ~-3 ~59 wool 14
+fill ~68 ~-3 ~60 ~73 ~-3 ~60 wool 14
+fill ~68 ~-3 ~61 ~70 ~-3 ~61 wool 14
+fill ~68 ~-3 ~62 ~69 ~-3 ~62 wool 14
+setblock ~68 ~-3 ~64 wool 6
+fill ~68 ~-3 ~65 ~71 ~-3 ~65 wool 0
+fill ~68 ~-3 ~67 ~69 ~-3 ~67 wool 14
+fill ~68 ~-3 ~78 ~73 ~-3 ~78 wool 14
+setblock ~68 ~-3 ~79 wool 6
+fill ~68 ~-3 ~137 ~69 ~-3 ~137 wool 14
+fill ~68 ~-3 ~142 ~69 ~-3 ~142 wool 0
+setblock ~68 ~-3 ~144 wool 14
+fill ~68 ~-3 ~145 ~76 ~-3 ~145 wool 0
+fill ~68 ~-3 ~146 ~69 ~-3 ~146 wool 14
+fill ~68 ~-3 ~148 ~69 ~-3 ~148 wool 14
+fill ~68 ~-3 ~149 ~68 ~-3 ~148 wool 14
+fill ~69 ~-3 ~53 ~101 ~-3 ~53 wool 0
+setblock ~69 ~-3 ~54 wool 6
+setblock ~69 ~-3 ~55 wool 1
+setblock ~69 ~-3 ~63 wool 6
+fill ~69 ~-3 ~64 ~71 ~-3 ~64 wool 0
+setblock ~69 ~-3 ~66 wool 1
+fill ~69 ~-3 ~79 ~73 ~-3 ~79 wool 14
+setblock ~69 ~-3 ~80 wool 6
+setblock ~69 ~-3 ~143 wool 14
+fill ~69 ~-3 ~144 ~76 ~-3 ~144 wool 0
+fill ~69 ~-3 ~149 ~147 ~-3 ~149 wool 0
+fill ~70 ~-3 ~54 ~102 ~-3 ~54 wool 0
+setblock ~70 ~-3 ~55 wool 6
+setblock ~70 ~-3 ~56 wool 1
+setblock ~70 ~-3 ~62 wool 6
+setblock ~70 ~-3 ~63 wool 0
+fill ~70 ~-3 ~66 ~71 ~-3 ~66 wool 0
+fill ~70 ~-3 ~67 ~71 ~-3 ~67 wool 0
+fill ~70 ~-3 ~68 ~71 ~-3 ~68 wool 0
+fill ~70 ~-3 ~69 ~71 ~-3 ~69 wool 0
+fill ~70 ~-3 ~70 ~71 ~-3 ~70 wool 0
+fill ~70 ~-3 ~71 ~71 ~-3 ~71 wool 0
+fill ~70 ~-3 ~72 ~71 ~-3 ~72 wool 0
+fill ~70 ~-3 ~73 ~73 ~-3 ~73 wool 0
+fill ~70 ~-3 ~74 ~72 ~-3 ~74 wool 0
+fill ~70 ~-3 ~75 ~71 ~-3 ~75 wool 0
+fill ~70 ~-3 ~76 ~70 ~-3 ~63 wool 0
+setblock ~70 ~-3 ~77 wool 1
+fill ~70 ~-3 ~80 ~73 ~-3 ~80 wool 14
+setblock ~70 ~-3 ~81 wool 6
+fill ~70 ~-3 ~137 ~79 ~-3 ~137 wool 0
+setblock ~70 ~-3 ~142 wool 14
+fill ~70 ~-3 ~143 ~77 ~-3 ~143 wool 0
+fill ~70 ~-3 ~146 ~77 ~-3 ~146 wool 0
+fill ~70 ~-3 ~148 ~75 ~-3 ~148 wool 0
+fill ~71 ~-3 ~55 ~103 ~-3 ~55 wool 0
+setblock ~71 ~-3 ~56 wool 6
+setblock ~71 ~-3 ~57 wool 1
+setblock ~71 ~-3 ~61 wool 6
+fill ~71 ~-3 ~62 ~71 ~-3 ~63 wool 7
+setblock ~71 ~-3 ~76 wool 1
+fill ~71 ~-3 ~77 ~73 ~-3 ~77 wool 14
+fill ~71 ~-3 ~81 ~73 ~-3 ~81 wool 14
+setblock ~71 ~-3 ~82 wool 6
+fill ~71 ~-3 ~138 ~135 ~-3 ~138 wool 0
+fill ~71 ~-3 ~139 ~71 ~-3 ~141 wool 14
+fill ~71 ~-3 ~142 ~77 ~-3 ~142 wool 0
+fill ~72 ~-3 ~16 ~75 ~-3 ~16 wool 0
+fill ~72 ~-3 ~18 ~89 ~-3 ~18 wool 0
+fill ~72 ~-3 ~56 ~104 ~-3 ~56 wool 0
+setblock ~72 ~-3 ~57 wool 6
+setblock ~72 ~-3 ~58 wool 1
+fill ~72 ~-3 ~61 ~74 ~-3 ~61 wool 14
+fill ~72 ~-3 ~62 ~72 ~-3 ~63 wool 8
+setblock ~72 ~-3 ~64 wool 12
+fill ~72 ~-3 ~65 ~73 ~-3 ~65 wool 14
+fill ~72 ~-3 ~66 ~74 ~-3 ~66 wool 14
+fill ~72 ~-3 ~67 ~74 ~-3 ~67 wool 14
+fill ~72 ~-3 ~68 ~74 ~-3 ~68 wool 14
+fill ~72 ~-3 ~69 ~74 ~-3 ~69 wool 14
+fill ~72 ~-3 ~70 ~73 ~-3 ~70 wool 14
+fill ~72 ~-3 ~71 ~72 ~-3 ~65 wool 14
+setblock ~72 ~-3 ~72 wool 6
+setblock ~72 ~-3 ~75 wool 1
+fill ~72 ~-3 ~76 ~73 ~-3 ~76 wool 14
+fill ~72 ~-3 ~82 ~74 ~-3 ~82 wool 14
+setblock ~72 ~-3 ~83 wool 6
+fill ~72 ~-3 ~135 ~78 ~-3 ~135 wool 0
+fill ~72 ~-3 ~139 ~87 ~-3 ~139 wool 0
+fill ~72 ~-3 ~140 ~103 ~-3 ~140 wool 0
+fill ~72 ~-3 ~141 ~76 ~-3 ~141 wool 0
+fill ~73 ~-3 ~57 ~105 ~-3 ~57 wool 0
+setblock ~73 ~-3 ~58 wool 6
+setblock ~73 ~-3 ~59 wool 1
+fill ~73 ~-3 ~62 ~74 ~-3 ~62 wool 7
+setblock ~73 ~-3 ~63 wool 8
+setblock ~73 ~-3 ~64 wool 7
+setblock ~73 ~-3 ~71 wool 6
+fill ~73 ~-3 ~72 ~74 ~-3 ~72 wool 0
+setblock ~73 ~-3 ~74 wool 1
+fill ~73 ~-3 ~75 ~74 ~-3 ~75 wool 14
+fill ~73 ~-3 ~83 ~74 ~-3 ~83 wool 14
+setblock ~73 ~-3 ~84 wool 6
+fill ~74 ~-3 ~58 ~106 ~-3 ~58 wool 0
+setblock ~74 ~-3 ~59 wool 6
+setblock ~74 ~-3 ~60 wool 1
+fill ~74 ~-3 ~63 ~75 ~-3 ~63 wool 0
+setblock ~74 ~-3 ~64 wool 8
+setblock ~74 ~-3 ~65 wool 12
+setblock ~74 ~-3 ~70 wool 6
+fill ~74 ~-3 ~71 ~75 ~-3 ~71 wool 0
+setblock ~74 ~-3 ~73 wool 1
+fill ~74 ~-3 ~74 ~75 ~-3 ~74 wool 14
+setblock ~74 ~-3 ~76 wool 1
+setblock ~74 ~-3 ~77 wool 6
+fill ~74 ~-3 ~78 ~75 ~-3 ~78 wool 0
+fill ~74 ~-3 ~79 ~75 ~-3 ~79 wool 0
+fill ~74 ~-3 ~80 ~74 ~-3 ~81 wool 6
+fill ~74 ~-3 ~84 ~75 ~-3 ~84 wool 14
+setblock ~74 ~-3 ~85 wool 6
+fill ~75 ~-3 ~20 ~76 ~-3 ~20 wool 0
+fill ~75 ~-3 ~21 ~86 ~-3 ~21 wool 0
+fill ~75 ~-3 ~22 ~75 ~-3 ~59 wool 0
+setblock ~75 ~-3 ~60 wool 6
+setblock ~75 ~-3 ~61 wool 1
+setblock ~75 ~-3 ~62 wool 12
+fill ~75 ~-3 ~64 ~76 ~-3 ~64 wool 0
+fill ~75 ~-3 ~65 ~76 ~-3 ~65 wool 8
+setblock ~75 ~-3 ~66 wool 12
+fill ~75 ~-3 ~67 ~78 ~-3 ~67 wool 15
+fill ~75 ~-3 ~68 ~78 ~-3 ~68 wool 15
+setblock ~75 ~-3 ~69 wool 7
+setblock ~75 ~-3 ~70 wool 0
+setblock ~75 ~-3 ~72 wool 1
+fill ~75 ~-3 ~73 ~76 ~-3 ~73 wool 14
+setblock ~75 ~-3 ~75 wool 6
+fill ~75 ~-3 ~76 ~76 ~-3 ~76 wool 0
+fill ~75 ~-3 ~77 ~75 ~-3 ~76 wool 0
+fill ~75 ~-3 ~80 ~75 ~-3 ~82 wool 0
+setblock ~75 ~-3 ~83 wool 6
+fill ~75 ~-3 ~85 ~77 ~-3 ~85 wool 14
+setblock ~75 ~-3 ~86 wool 6
+fill ~76 ~-3 ~11 ~83 ~-3 ~11 wool 15
+fill ~76 ~-3 ~15 ~79 ~-3 ~15 wool 15
+fill ~76 ~-3 ~16 ~79 ~-3 ~16 wool 15
+fill ~76 ~-3 ~22 ~85 ~-3 ~22 wool 15
+fill ~76 ~-3 ~23 ~86 ~-3 ~23 wool 0
+fill ~76 ~-3 ~24 ~86 ~-3 ~24 wool 0
+fill ~76 ~-3 ~59 ~107 ~-3 ~59 wool 0
+fill ~76 ~-3 ~60 ~108 ~-3 ~60 wool 0
+setblock ~76 ~-3 ~61 wool 6
+fill ~76 ~-3 ~62 ~77 ~-3 ~62 wool 7
+fill ~76 ~-3 ~63 ~76 ~-3 ~62 wool 7
+setblock ~76 ~-3 ~66 wool 7
+fill ~76 ~-3 ~69 ~79 ~-3 ~69 wool 15
+fill ~76 ~-3 ~70 ~79 ~-3 ~70 wool 15
+setblock ~76 ~-3 ~71 wool 7
+setblock ~76 ~-3 ~72 wool 14
+fill ~76 ~-3 ~74 ~77 ~-3 ~74 wool 0
+fill ~76 ~-3 ~75 ~77 ~-3 ~75 wool 0
+setblock ~76 ~-3 ~77 wool 8
+setblock ~76 ~-3 ~78 wool 12
+fill ~76 ~-3 ~79 ~77 ~-3 ~79 wool 15
+setblock ~76 ~-3 ~80 wool 7
+setblock ~76 ~-3 ~81 wool 8
+fill ~76 ~-3 ~82 ~76 ~-3 ~83 wool 0
+setblock ~76 ~-3 ~84 wool 6
+fill ~76 ~-3 ~86 ~84 ~-3 ~86 wool 14
+setblock ~76 ~-3 ~87 wool 6
+fill ~76 ~-3 ~148 ~77 ~-3 ~148 wool 15
+fill ~77 ~-3 ~9 ~78 ~-3 ~9 wool 15
+fill ~77 ~-3 ~10 ~78 ~-3 ~10 wool 15
+fill ~77 ~-3 ~12 ~84 ~-3 ~12 wool 15
+fill ~77 ~-3 ~13 ~84 ~-3 ~13 wool 15
+fill ~77 ~-3 ~14 ~78 ~-3 ~14 wool 15
+fill ~77 ~-3 ~20 ~84 ~-3 ~20 wool 15
+fill ~77 ~-3 ~61 ~109 ~-3 ~61 wool 0
+fill ~77 ~-3 ~63 ~78 ~-3 ~63 wool 8
+fill ~77 ~-3 ~64 ~77 ~-3 ~65 wool 7
+setblock ~77 ~-3 ~66 wool 15
+fill ~77 ~-3 ~71 ~80 ~-3 ~71 wool 15
+fill ~77 ~-3 ~72 ~81 ~-3 ~72 wool 15
+setblock ~77 ~-3 ~73 wool 8
+setblock ~77 ~-3 ~76 wool 14
+setblock ~77 ~-3 ~77 wool 12
+fill ~77 ~-3 ~78 ~78 ~-3 ~78 wool 15
+fill ~77 ~-3 ~80 ~77 ~-3 ~81 wool 15
+setblock ~77 ~-3 ~82 wool 7
+fill ~77 ~-3 ~83 ~77 ~-3 ~84 wool 0
+fill ~77 ~-3 ~87 ~83 ~-3 ~87 wool 14
+setblock ~77 ~-3 ~88 wool 6
+fill ~77 ~-3 ~141 ~79 ~-3 ~141 wool 15
+fill ~77 ~-3 ~144 ~84 ~-3 ~144 wool 15
+fill ~77 ~-3 ~145 ~84 ~-3 ~145 wool 15
+fill ~77 ~-3 ~147 ~81 ~-3 ~147 wool 15
+setblock ~78 ~-3 ~62 wool 8
+setblock ~78 ~-3 ~64 wool 1
+setblock ~78 ~-3 ~65 wool 14
+setblock ~78 ~-3 ~66 wool 12
+fill ~78 ~-3 ~73 ~81 ~-3 ~73 wool 15
+setblock ~78 ~-3 ~74 wool 8
+setblock ~78 ~-3 ~75 wool 1
+setblock ~78 ~-3 ~76 wool 12
+fill ~78 ~-3 ~77 ~80 ~-3 ~77 wool 15
+fill ~78 ~-3 ~79 ~78 ~-3 ~80 wool 7
+fill ~78 ~-3 ~81 ~78 ~-3 ~82 wool 15
+setblock ~78 ~-3 ~83 wool 8
+fill ~78 ~-3 ~84 ~84 ~-3 ~84 wool 0
+setblock ~78 ~-3 ~85 wool 6
+fill ~78 ~-3 ~88 ~82 ~-3 ~88 wool 14
+setblock ~78 ~-3 ~89 wool 6
+fill ~78 ~-3 ~142 ~79 ~-3 ~142 wool 15
+fill ~78 ~-3 ~143 ~78 ~-3 ~141 wool 15
+fill ~78 ~-3 ~146 ~85 ~-3 ~146 wool 15
+fill ~78 ~-3 ~148 ~79 ~-3 ~148 wool 0
+fill ~79 ~-3 ~9 ~80 ~-3 ~9 wool 0
+fill ~79 ~-3 ~10 ~79 ~-3 ~7 wool 0
+fill ~79 ~-3 ~14 ~82 ~-3 ~14 wool 0
+fill ~79 ~-3 ~62 ~110 ~-3 ~62 wool 0
+fill ~79 ~-3 ~63 ~85 ~-3 ~63 wool 0
+setblock ~79 ~-3 ~64 wool 6
+setblock ~79 ~-3 ~65 wool 1
+fill ~79 ~-3 ~66 ~80 ~-3 ~66 wool 14
+fill ~79 ~-3 ~67 ~82 ~-3 ~67 wool 14
+fill ~79 ~-3 ~68 ~82 ~-3 ~68 wool 14
+fill ~79 ~-3 ~74 ~82 ~-3 ~74 wool 15
+setblock ~79 ~-3 ~75 wool 12
+fill ~79 ~-3 ~76 ~81 ~-3 ~76 wool 15
+setblock ~79 ~-3 ~78 wool 7
+fill ~79 ~-3 ~79 ~81 ~-3 ~79 wool 0
+fill ~79 ~-3 ~80 ~80 ~-3 ~80 wool 0
+setblock ~79 ~-3 ~81 wool 7
+setblock ~79 ~-3 ~82 wool 15
+setblock ~79 ~-3 ~83 wool 7
+fill ~79 ~-3 ~85 ~82 ~-3 ~85 wool 0
+fill ~79 ~-3 ~89 ~81 ~-3 ~89 wool 14
+setblock ~79 ~-3 ~90 wool 6
+fill ~79 ~-3 ~135 ~82 ~-3 ~135 wool 15
+fill ~79 ~-3 ~143 ~82 ~-3 ~143 wool 0
+fill ~80 ~-3 ~10 ~84 ~-3 ~10 wool 15
+fill ~80 ~-3 ~15 ~81 ~-3 ~15 wool 0
+fill ~80 ~-3 ~16 ~81 ~-3 ~16 wool 0
+fill ~80 ~-3 ~64 ~83 ~-3 ~64 wool 0
+setblock ~80 ~-3 ~65 wool 6
+fill ~80 ~-3 ~69 ~81 ~-3 ~69 wool 14
+fill ~80 ~-3 ~70 ~80 ~-3 ~66 wool 14
+fill ~80 ~-3 ~75 ~82 ~-3 ~75 wool 15
+setblock ~80 ~-3 ~78 wool 6
+fill ~80 ~-3 ~81 ~80 ~-3 ~82 wool 8
+fill ~80 ~-3 ~83 ~81 ~-3 ~83 wool 15
+fill ~80 ~-3 ~90 ~82 ~-3 ~90 wool 14
+setblock ~80 ~-3 ~91 wool 6
+fill ~80 ~-3 ~137 ~81 ~-3 ~137 wool 15
+fill ~80 ~-3 ~141 ~81 ~-3 ~141 wool 0
+fill ~80 ~-3 ~142 ~81 ~-3 ~142 wool 0
+setblock ~80 ~-3 ~148 wool 15
+setblock ~81 ~-3 ~9 wool 15
+fill ~81 ~-3 ~65 ~84 ~-3 ~65 wool 8
+fill ~81 ~-3 ~66 ~82 ~-3 ~66 wool 1
+fill ~81 ~-3 ~70 ~81 ~-3 ~71 wool 7
+setblock ~81 ~-3 ~77 wool 8
+setblock ~81 ~-3 ~78 wool 0
+setblock ~81 ~-3 ~80 wool 8
+fill ~81 ~-3 ~81 ~83 ~-3 ~81 wool 0
+fill ~81 ~-3 ~82 ~82 ~-3 ~82 wool 0
+fill ~81 ~-3 ~91 ~92 ~-3 ~91 wool 14
+setblock ~81 ~-3 ~92 wool 6
+fill ~81 ~-3 ~148 ~82 ~-3 ~148 wool 0
+fill ~82 ~-3 ~9 ~83 ~-3 ~9 wool 0
+fill ~82 ~-3 ~15 ~83 ~-3 ~15 wool 15
+fill ~82 ~-3 ~16 ~84 ~-3 ~16 wool 15
+setblock ~82 ~-3 ~69 wool 7
+setblock ~82 ~-3 ~70 wool 8
+setblock ~82 ~-3 ~71 wool 15
+fill ~82 ~-3 ~72 ~82 ~-3 ~73 wool 6
+setblock ~82 ~-3 ~76 wool 8
+setblock ~82 ~-3 ~77 wool 0
+setblock ~82 ~-3 ~78 wool 7
+fill ~82 ~-3 ~79 ~85 ~-3 ~79 wool 8
+setblock ~82 ~-3 ~80 wool 7
+setblock ~82 ~-3 ~83 wool 7
+setblock ~82 ~-3 ~89 wool 1
+fill ~82 ~-3 ~92 ~91 ~-3 ~92 wool 14
+setblock ~82 ~-3 ~93 wool 6
+fill ~82 ~-3 ~137 ~86 ~-3 ~137 wool 0
+fill ~82 ~-3 ~141 ~85 ~-3 ~141 wool 15
+fill ~82 ~-3 ~142 ~85 ~-3 ~142 wool 15
+setblock ~82 ~-3 ~147 wool 0
+setblock ~83 ~-3 ~14 wool 15
+setblock ~83 ~-3 ~66 wool 7
+fill ~83 ~-3 ~67 ~83 ~-3 ~68 wool 12
+fill ~83 ~-3 ~69 ~84 ~-3 ~69 wool 8
+fill ~83 ~-3 ~70 ~84 ~-3 ~70 wool 7
+fill ~83 ~-3 ~71 ~84 ~-3 ~71 wool 8
+fill ~83 ~-3 ~72 ~91 ~-3 ~72 wool 0
+fill ~83 ~-3 ~73 ~86 ~-3 ~73 wool 0
+fill ~83 ~-3 ~74 ~83 ~-3 ~72 wool 0
+fill ~83 ~-3 ~75 ~84 ~-3 ~75 wool 8
+setblock ~83 ~-3 ~76 wool 6
+fill ~83 ~-3 ~77 ~83 ~-3 ~79 wool 8
+setblock ~83 ~-3 ~80 wool 6
+setblock ~83 ~-3 ~82 wool 8
+setblock ~83 ~-3 ~83 wool 6
+setblock ~83 ~-3 ~85 wool 6
+setblock ~83 ~-3 ~88 wool 1
+fill ~83 ~-3 ~89 ~84 ~-3 ~89 wool 0
+fill ~83 ~-3 ~90 ~84 ~-3 ~90 wool 6
+fill ~83 ~-3 ~93 ~91 ~-3 ~93 wool 14
+setblock ~83 ~-3 ~94 wool 6
+fill ~83 ~-3 ~135 ~86 ~-3 ~135 wool 0
+fill ~83 ~-3 ~143 ~84 ~-3 ~143 wool 15
+fill ~83 ~-3 ~147 ~84 ~-3 ~147 wool 15
+fill ~83 ~-3 ~148 ~84 ~-3 ~148 wool 15
+fill ~84 ~-3 ~9 ~85 ~-3 ~9 wool 15
+fill ~84 ~-3 ~11 ~141 ~-3 ~11 wool 0
+fill ~84 ~-3 ~14 ~101 ~-3 ~14 wool 0
+fill ~84 ~-3 ~15 ~100 ~-3 ~15 wool 0
+setblock ~84 ~-3 ~64 wool 7
+fill ~84 ~-3 ~66 ~84 ~-3 ~69 wool 8
+setblock ~84 ~-3 ~74 wool 6
+fill ~84 ~-3 ~76 ~88 ~-3 ~76 wool 8
+setblock ~84 ~-3 ~77 wool 7
+fill ~84 ~-3 ~78 ~85 ~-3 ~78 wool 8
+fill ~84 ~-3 ~80 ~86 ~-3 ~80 wool 8
+fill ~84 ~-3 ~81 ~85 ~-3 ~81 wool 8
+setblock ~84 ~-3 ~82 wool 7
+fill ~84 ~-3 ~83 ~85 ~-3 ~83 wool 0
+fill ~84 ~-3 ~85 ~85 ~-3 ~85 wool 14
+setblock ~84 ~-3 ~87 wool 1
+fill ~84 ~-3 ~88 ~85 ~-3 ~88 wool 0
+fill ~84 ~-3 ~94 ~90 ~-3 ~94 wool 14
+setblock ~84 ~-3 ~95 wool 6
+fill ~85 ~-3 ~10 ~146 ~-3 ~10 wool 0
+fill ~85 ~-3 ~12 ~102 ~-3 ~12 wool 0
+fill ~85 ~-3 ~13 ~102 ~-3 ~13 wool 0
+fill ~85 ~-3 ~16 ~90 ~-3 ~16 wool 0
+fill ~85 ~-3 ~20 ~86 ~-3 ~20 wool 0
+fill ~85 ~-3 ~64 ~87 ~-3 ~64 wool 15
+fill ~85 ~-3 ~65 ~87 ~-3 ~65 wool 15
+fill ~85 ~-3 ~66 ~87 ~-3 ~66 wool 15
+fill ~85 ~-3 ~67 ~87 ~-3 ~67 wool 15
+fill ~85 ~-3 ~68 ~87 ~-3 ~68 wool 7
+fill ~85 ~-3 ~69 ~87 ~-3 ~69 wool 7
+fill ~85 ~-3 ~70 ~88 ~-3 ~70 wool 8
+fill ~85 ~-3 ~71 ~86 ~-3 ~71 wool 0
+fill ~85 ~-3 ~74 ~91 ~-3 ~74 wool 0
+fill ~85 ~-3 ~75 ~88 ~-3 ~75 wool 0
+fill ~85 ~-3 ~77 ~89 ~-3 ~77 wool 0
+setblock ~85 ~-3 ~82 wool 8
+setblock ~85 ~-3 ~84 wool 1
+setblock ~85 ~-3 ~86 wool 1
+fill ~85 ~-3 ~87 ~86 ~-3 ~87 wool 0
+setblock ~85 ~-3 ~89 wool 6
+fill ~85 ~-3 ~90 ~93 ~-3 ~90 wool 14
+fill ~85 ~-3 ~95 ~90 ~-3 ~95 wool 14
+setblock ~85 ~-3 ~96 wool 6
+fill ~85 ~-3 ~143 ~99 ~-3 ~143 wool 0
+fill ~85 ~-3 ~144 ~100 ~-3 ~144 wool 0
+fill ~85 ~-3 ~145 ~102 ~-3 ~145 wool 0
+fill ~85 ~-3 ~147 ~142 ~-3 ~147 wool 0
+fill ~85 ~-3 ~148 ~142 ~-3 ~148 wool 0
+fill ~86 ~-3 ~9 ~145 ~-3 ~9 wool 0
+setblock ~86 ~-3 ~22 wool 0
+setblock ~86 ~-3 ~63 wool 8
+fill ~86 ~-3 ~78 ~87 ~-3 ~78 wool 7
+fill ~86 ~-3 ~79 ~87 ~-3 ~79 wool 0
+setblock ~86 ~-3 ~81 wool 7
+setblock ~86 ~-3 ~82 wool 6
+setblock ~86 ~-3 ~83 wool 1
+setblock ~86 ~-3 ~84 wool 14
+setblock ~86 ~-3 ~85 wool 1
+fill ~86 ~-3 ~86 ~88 ~-3 ~86 wool 0
+setblock ~86 ~-3 ~88 wool 6
+fill ~86 ~-3 ~89 ~88 ~-3 ~89 wool 14
+fill ~86 ~-3 ~96 ~90 ~-3 ~96 wool 14
+setblock ~86 ~-3 ~97 wool 6
+fill ~86 ~-3 ~141 ~89 ~-3 ~141 wool 0
+fill ~86 ~-3 ~142 ~99 ~-3 ~142 wool 0
+fill ~86 ~-3 ~146 ~141 ~-3 ~146 wool 0
+fill ~87 ~-3 ~20 ~98 ~-3 ~20 wool 15
+fill ~87 ~-3 ~21 ~98 ~-3 ~21 wool 1
+fill ~87 ~-3 ~22 ~98 ~-3 ~22 wool 1
+fill ~87 ~-3 ~23 ~98 ~-3 ~23 wool 1
+fill ~87 ~-3 ~24 ~98 ~-3 ~24 wool 1
+setblock ~87 ~-3 ~63 wool 6
+setblock ~87 ~-3 ~71 wool 8
+setblock ~87 ~-3 ~73 wool 8
+fill ~87 ~-3 ~80 ~95 ~-3 ~80 wool 15
+setblock ~87 ~-3 ~81 wool 12
+fill ~87 ~-3 ~82 ~88 ~-3 ~82 wool 14
+fill ~87 ~-3 ~83 ~87 ~-3 ~82 wool 14
+setblock ~87 ~-3 ~84 wool 1
+fill ~87 ~-3 ~85 ~88 ~-3 ~85 wool 0
+setblock ~87 ~-3 ~87 wool 6
+setblock ~87 ~-3 ~88 wool 14
+fill ~87 ~-3 ~97 ~90 ~-3 ~97 wool 14
+setblock ~87 ~-3 ~98 wool 6
+fill ~87 ~-3 ~133 ~98 ~-3 ~133 wool 13
+fill ~87 ~-3 ~134 ~98 ~-3 ~134 wool 13
+fill ~87 ~-3 ~135 ~98 ~-3 ~135 wool 13
+fill ~87 ~-3 ~136 ~98 ~-3 ~136 wool 13
+fill ~87 ~-3 ~137 ~98 ~-3 ~137 wool 15
+fill ~88 ~-3 ~63 ~88 ~-3 ~65 wool 8
+setblock ~88 ~-3 ~66 wool 6
+setblock ~88 ~-3 ~67 wool 8
+fill ~88 ~-3 ~68 ~88 ~-3 ~69 wool 0
+setblock ~88 ~-3 ~71 wool 7
+fill ~88 ~-3 ~73 ~91 ~-3 ~73 wool 0
+setblock ~88 ~-3 ~78 wool 8
+setblock ~88 ~-3 ~79 wool 7
+fill ~88 ~-3 ~81 ~95 ~-3 ~81 wool 15
+setblock ~88 ~-3 ~83 wool 1
+fill ~88 ~-3 ~84 ~89 ~-3 ~84 wool 0
+fill ~88 ~-3 ~87 ~89 ~-3 ~87 wool 0
+setblock ~88 ~-3 ~88 wool 1
+fill ~88 ~-3 ~98 ~90 ~-3 ~98 wool 14
+setblock ~88 ~-3 ~99 wool 6
+fill ~88 ~-3 ~139 ~97 ~-3 ~139 wool 15
+fill ~89 ~-3 ~63 ~111 ~-3 ~63 wool 0
+setblock ~89 ~-3 ~64 wool 8
+fill ~89 ~-3 ~65 ~91 ~-3 ~65 wool 0
+fill ~89 ~-3 ~66 ~91 ~-3 ~66 wool 0
+fill ~89 ~-3 ~67 ~90 ~-3 ~67 wool 0
+fill ~89 ~-3 ~68 ~90 ~-3 ~68 wool 8
+fill ~89 ~-3 ~69 ~90 ~-3 ~69 wool 0
+setblock ~89 ~-3 ~70 wool 7
+setblock ~89 ~-3 ~71 wool 0
+setblock ~89 ~-3 ~75 wool 8
+setblock ~89 ~-3 ~76 wool 7
+setblock ~89 ~-3 ~78 wool 0
+fill ~89 ~-3 ~79 ~91 ~-3 ~79 wool 8
+fill ~89 ~-3 ~82 ~90 ~-3 ~82 wool 7
+fill ~89 ~-3 ~83 ~90 ~-3 ~83 wool 0
+setblock ~89 ~-3 ~85 wool 6
+fill ~89 ~-3 ~86 ~92 ~-3 ~86 wool 14
+fill ~89 ~-3 ~88 ~93 ~-3 ~88 wool 0
+setblock ~89 ~-3 ~89 wool 1
+fill ~89 ~-3 ~99 ~91 ~-3 ~99 wool 14
+setblock ~89 ~-3 ~100 wool 6
+fill ~90 ~-3 ~18 ~95 ~-3 ~18 wool 15
+setblock ~90 ~-3 ~64 wool 7
+setblock ~90 ~-3 ~70 wool 0
+fill ~90 ~-3 ~71 ~91 ~-3 ~71 wool 7
+fill ~90 ~-3 ~75 ~90 ~-3 ~76 wool 0
+fill ~90 ~-3 ~77 ~91 ~-3 ~77 wool 8
+fill ~90 ~-3 ~78 ~90 ~-3 ~77 wool 8
+setblock ~90 ~-3 ~84 wool 6
+fill ~90 ~-3 ~85 ~92 ~-3 ~85 wool 14
+fill ~90 ~-3 ~87 ~92 ~-3 ~87 wool 14
+fill ~90 ~-3 ~89 ~92 ~-3 ~89 wool 6
+fill ~90 ~-3 ~100 ~91 ~-3 ~100 wool 14
+setblock ~90 ~-3 ~101 wool 6
+fill ~90 ~-3 ~141 ~95 ~-3 ~141 wool 15
+fill ~91 ~-3 ~16 ~94 ~-3 ~16 wool 15
+setblock ~91 ~-3 ~64 wool 8
+setblock ~91 ~-3 ~67 wool 8
+setblock ~91 ~-3 ~68 wool 7
+setblock ~91 ~-3 ~69 wool 8
+setblock ~91 ~-3 ~70 wool 7
+fill ~91 ~-3 ~75 ~93 ~-3 ~75 wool 8
+setblock ~91 ~-3 ~76 wool 0
+setblock ~91 ~-3 ~78 wool 15
+fill ~91 ~-3 ~82 ~95 ~-3 ~82 wool 15
+setblock ~91 ~-3 ~83 wool 8
+fill ~91 ~-3 ~84 ~92 ~-3 ~84 wool 14
+setblock ~91 ~-3 ~94 wool 1
+fill ~91 ~-3 ~95 ~91 ~-3 ~97 wool 6
+setblock ~91 ~-3 ~98 wool 1
+fill ~91 ~-3 ~101 ~92 ~-3 ~101 wool 14
+setblock ~91 ~-3 ~102 wool 6
+fill ~92 ~-3 ~64 ~112 ~-3 ~64 wool 0
+setblock ~92 ~-3 ~65 wool 7
+fill ~92 ~-3 ~66 ~92 ~-3 ~71 wool 15
+fill ~92 ~-3 ~72 ~94 ~-3 ~72 wool 7
+fill ~92 ~-3 ~73 ~92 ~-3 ~72 wool 7
+fill ~92 ~-3 ~74 ~93 ~-3 ~74 wool 8
+setblock ~92 ~-3 ~76 wool 7
+setblock ~92 ~-3 ~77 wool 14
+fill ~92 ~-3 ~78 ~92 ~-3 ~79 wool 12
+fill ~92 ~-3 ~83 ~94 ~-3 ~83 wool 7
+setblock ~92 ~-3 ~92 wool 1
+setblock ~92 ~-3 ~93 wool 6
+fill ~92 ~-3 ~94 ~92 ~-3 ~99 wool 0
+setblock ~92 ~-3 ~100 wool 1
+fill ~92 ~-3 ~102 ~93 ~-3 ~102 wool 14
+setblock ~92 ~-3 ~103 wool 6
+setblock ~93 ~-3 ~65 wool 8
+fill ~93 ~-3 ~66 ~93 ~-3 ~67 wool 7
+setblock ~93 ~-3 ~68 wool 8
+fill ~93 ~-3 ~69 ~134 ~-3 ~69 wool 0
+fill ~93 ~-3 ~70 ~134 ~-3 ~70 wool 0
+fill ~93 ~-3 ~71 ~98 ~-3 ~71 wool 0
+setblock ~93 ~-3 ~73 wool 8
+fill ~93 ~-3 ~76 ~93 ~-3 ~77 wool 1
+setblock ~93 ~-3 ~78 wool 14
+setblock ~93 ~-3 ~79 wool 12
+setblock ~93 ~-3 ~84 wool 6
+fill ~93 ~-3 ~85 ~93 ~-3 ~86 wool 1
+fill ~93 ~-3 ~87 ~94 ~-3 ~87 wool 0
+setblock ~93 ~-3 ~89 wool 1
+setblock ~93 ~-3 ~91 wool 1
+fill ~93 ~-3 ~92 ~94 ~-3 ~92 wool 0
+fill ~93 ~-3 ~93 ~93 ~-3 ~92 wool 0
+fill ~93 ~-3 ~94 ~93 ~-3 ~95 wool 6
+setblock ~93 ~-3 ~96 wool 1
+setblock ~93 ~-3 ~97 wool 6
+fill ~93 ~-3 ~98 ~93 ~-3 ~100 wool 0
+setblock ~93 ~-3 ~101 wool 6
+fill ~93 ~-3 ~103 ~96 ~-3 ~103 wool 14
+setblock ~93 ~-3 ~104 wool 6
+fill ~94 ~-3 ~65 ~134 ~-3 ~65 wool 0
+fill ~94 ~-3 ~66 ~134 ~-3 ~66 wool 0
+fill ~94 ~-3 ~67 ~134 ~-3 ~67 wool 0
+fill ~94 ~-3 ~68 ~134 ~-3 ~68 wool 0
+fill ~94 ~-3 ~73 ~97 ~-3 ~73 wool 0
+fill ~94 ~-3 ~74 ~97 ~-3 ~74 wool 0
+fill ~94 ~-3 ~75 ~97 ~-3 ~75 wool 0
+fill ~94 ~-3 ~76 ~94 ~-3 ~78 wool 8
+setblock ~94 ~-3 ~79 wool 6
+fill ~94 ~-3 ~84 ~94 ~-3 ~87 wool 0
+setblock ~94 ~-3 ~88 wool 1
+fill ~94 ~-3 ~89 ~96 ~-3 ~89 wool 14
+setblock ~94 ~-3 ~90 wool 1
+fill ~94 ~-3 ~91 ~96 ~-3 ~91 wool 0
+setblock ~94 ~-3 ~93 wool 6
+fill ~94 ~-3 ~94 ~101 ~-3 ~94 wool 14
+fill ~94 ~-3 ~95 ~102 ~-3 ~95 wool 14
+fill ~94 ~-3 ~96 ~102 ~-3 ~96 wool 14
+fill ~94 ~-3 ~97 ~102 ~-3 ~97 wool 14
+fill ~94 ~-3 ~98 ~101 ~-3 ~98 wool 14
+setblock ~94 ~-3 ~99 wool 1
+fill ~94 ~-3 ~100 ~94 ~-3 ~101 wool 0
+setblock ~94 ~-3 ~102 wool 1
+fill ~94 ~-3 ~104 ~101 ~-3 ~104 wool 14
+setblock ~94 ~-3 ~105 wool 6
+fill ~95 ~-3 ~16 ~100 ~-3 ~16 wool 0
+fill ~95 ~-3 ~45 ~95 ~-3 ~46 wool 7
+setblock ~95 ~-3 ~72 wool 8
+fill ~95 ~-3 ~76 ~97 ~-3 ~76 wool 0
+fill ~95 ~-3 ~77 ~97 ~-3 ~77 wool 0
+fill ~95 ~-3 ~78 ~97 ~-3 ~78 wool 0
+fill ~95 ~-3 ~79 ~97 ~-3 ~79 wool 0
+setblock ~95 ~-3 ~83 wool 15
+fill ~95 ~-3 ~84 ~97 ~-3 ~84 wool 14
+fill ~95 ~-3 ~85 ~95 ~-3 ~86 wool 1
+fill ~95 ~-3 ~87 ~98 ~-3 ~87 wool 14
+fill ~95 ~-3 ~88 ~98 ~-3 ~88 wool 14
+setblock ~95 ~-3 ~90 wool 6
+setblock ~95 ~-3 ~92 wool 6
+fill ~95 ~-3 ~93 ~101 ~-3 ~93 wool 14
+fill ~95 ~-3 ~99 ~101 ~-3 ~99 wool 14
+setblock ~95 ~-3 ~100 wool 8
+fill ~95 ~-3 ~101 ~96 ~-3 ~101 wool 0
+fill ~95 ~-3 ~102 ~100 ~-3 ~102 wool 0
+fill ~95 ~-3 ~105 ~100 ~-3 ~105 wool 14
+setblock ~95 ~-3 ~106 wool 6
+fill ~96 ~-3 ~18 ~103 ~-3 ~18 wool 0
+setblock ~96 ~-3 ~44 wool 7
+fill ~96 ~-3 ~45 ~119 ~-3 ~45 wool 0
+fill ~96 ~-3 ~46 ~120 ~-3 ~46 wool 0
+setblock ~96 ~-3 ~47 wool 7
+fill ~96 ~-3 ~72 ~97 ~-3 ~72 wool 0
+fill ~96 ~-3 ~80 ~97 ~-3 ~80 wool 7
+fill ~96 ~-3 ~81 ~97 ~-3 ~81 wool 8
+fill ~96 ~-3 ~82 ~96 ~-3 ~81 wool 8
+fill ~96 ~-3 ~83 ~97 ~-3 ~83 wool 12
+fill ~96 ~-3 ~85 ~98 ~-3 ~85 wool 14
+fill ~96 ~-3 ~86 ~98 ~-3 ~86 wool 14
+fill ~96 ~-3 ~90 ~98 ~-3 ~90 wool 0
+fill ~96 ~-3 ~92 ~99 ~-3 ~92 wool 14
+fill ~96 ~-3 ~100 ~99 ~-3 ~100 wool 14
+fill ~96 ~-3 ~106 ~99 ~-3 ~106 wool 14
+setblock ~96 ~-3 ~107 wool 6
+fill ~96 ~-3 ~141 ~101 ~-3 ~141 wool 0
+setblock ~97 ~-3 ~43 wool 7
+fill ~97 ~-3 ~44 ~118 ~-3 ~44 wool 0
+fill ~97 ~-3 ~47 ~121 ~-3 ~47 wool 0
+setblock ~97 ~-3 ~48 wool 7
+setblock ~97 ~-3 ~82 wool 6
+fill ~97 ~-3 ~89 ~98 ~-3 ~89 wool 1
+fill ~97 ~-3 ~91 ~98 ~-3 ~91 wool 6
+fill ~97 ~-3 ~101 ~99 ~-3 ~101 wool 6
+fill ~97 ~-3 ~103 ~99 ~-3 ~103 wool 1
+fill ~97 ~-3 ~107 ~99 ~-3 ~107 wool 14
+setblock ~97 ~-3 ~108 wool 6
+setblock ~98 ~-3 ~42 wool 7
+fill ~98 ~-3 ~43 ~117 ~-3 ~43 wool 0
+fill ~98 ~-3 ~48 ~122 ~-3 ~48 wool 0
+setblock ~98 ~-3 ~49 wool 7
+fill ~98 ~-3 ~72 ~102 ~-3 ~72 wool 8
+fill ~98 ~-3 ~73 ~102 ~-3 ~73 wool 8
+fill ~98 ~-3 ~74 ~99 ~-3 ~74 wool 8
+fill ~98 ~-3 ~75 ~99 ~-3 ~75 wool 8
+fill ~98 ~-3 ~76 ~99 ~-3 ~76 wool 8
+fill ~98 ~-3 ~77 ~99 ~-3 ~77 wool 8
+fill ~98 ~-3 ~78 ~99 ~-3 ~78 wool 8
+fill ~98 ~-3 ~79 ~99 ~-3 ~79 wool 7
+setblock ~98 ~-3 ~80 wool 6
+setblock ~98 ~-3 ~81 wool 7
+fill ~98 ~-3 ~82 ~100 ~-3 ~82 wool 8
+fill ~98 ~-3 ~83 ~99 ~-3 ~83 wool 7
+setblock ~98 ~-3 ~84 wool 12
+fill ~98 ~-3 ~108 ~100 ~-3 ~108 wool 14
+setblock ~98 ~-3 ~109 wool 6
+fill ~98 ~-3 ~139 ~104 ~-3 ~139 wool 0
+fill ~99 ~-3 ~20 ~102 ~-3 ~20 wool 0
+fill ~99 ~-3 ~21 ~110 ~-3 ~21 wool 0
+fill ~99 ~-3 ~22 ~100 ~-3 ~22 wool 0
+fill ~99 ~-3 ~23 ~110 ~-3 ~23 wool 0
+fill ~99 ~-3 ~24 ~110 ~-3 ~24 wool 0
+setblock ~99 ~-3 ~41 wool 7
+fill ~99 ~-3 ~42 ~116 ~-3 ~42 wool 0
+fill ~99 ~-3 ~49 ~123 ~-3 ~49 wool 0
+setblock ~99 ~-3 ~50 wool 7
+setblock ~99 ~-3 ~71 wool 6
+fill ~99 ~-3 ~80 ~99 ~-3 ~82 wool 8
+fill ~99 ~-3 ~84 ~100 ~-3 ~84 wool 8
+fill ~99 ~-3 ~85 ~100 ~-3 ~85 wool 8
+fill ~99 ~-3 ~86 ~99 ~-3 ~90 wool 8
+setblock ~99 ~-3 ~91 wool 7
+fill ~99 ~-3 ~109 ~101 ~-3 ~109 wool 14
+setblock ~99 ~-3 ~110 wool 6
+fill ~99 ~-3 ~133 ~110 ~-3 ~133 wool 0
+fill ~99 ~-3 ~134 ~110 ~-3 ~134 wool 0
+fill ~99 ~-3 ~135 ~100 ~-3 ~135 wool 0
+fill ~99 ~-3 ~136 ~110 ~-3 ~136 wool 0
+fill ~99 ~-3 ~137 ~102 ~-3 ~137 wool 0
+setblock ~100 ~-3 ~40 wool 7
+fill ~100 ~-3 ~41 ~115 ~-3 ~41 wool 0
+fill ~100 ~-3 ~50 ~124 ~-3 ~50 wool 0
+setblock ~100 ~-3 ~51 wool 7
+setblock ~100 ~-3 ~71 wool 8
+fill ~100 ~-3 ~74 ~142 ~-3 ~74 wool 0
+fill ~100 ~-3 ~75 ~138 ~-3 ~75 wool 0
+fill ~100 ~-3 ~76 ~138 ~-3 ~76 wool 0
+fill ~100 ~-3 ~77 ~136 ~-3 ~77 wool 0
+fill ~100 ~-3 ~78 ~136 ~-3 ~78 wool 0
+setblock ~100 ~-3 ~79 wool 6
+setblock ~100 ~-3 ~80 wool 7
+setblock ~100 ~-3 ~81 wool 0
+setblock ~100 ~-3 ~83 wool 8
+setblock ~100 ~-3 ~86 wool 7
+setblock ~100 ~-3 ~87 wool 12
+fill ~100 ~-3 ~88 ~101 ~-3 ~88 wool 14
+setblock ~100 ~-3 ~89 wool 12
+fill ~100 ~-3 ~90 ~100 ~-3 ~91 wool 8
+setblock ~100 ~-3 ~92 wool 1
+setblock ~100 ~-3 ~100 wool 1
+fill ~100 ~-3 ~101 ~102 ~-3 ~101 wool 0
+fill ~100 ~-3 ~103 ~102 ~-3 ~103 wool 14
+setblock ~100 ~-3 ~106 wool 6
+fill ~100 ~-3 ~107 ~102 ~-3 ~107 wool 0
+fill ~100 ~-3 ~110 ~102 ~-3 ~110 wool 14
+setblock ~100 ~-3 ~111 wool 6
+fill ~100 ~-3 ~142 ~100 ~-3 ~143 wool 15
+setblock ~101 ~-3 ~15 wool 15
+setblock ~101 ~-3 ~16 wool 11
+fill ~101 ~-3 ~22 ~108 ~-3 ~22 wool 15
+setblock ~101 ~-3 ~39 wool 7
+fill ~101 ~-3 ~40 ~114 ~-3 ~40 wool 0
+fill ~101 ~-3 ~51 ~125 ~-3 ~51 wool 0
+setblock ~101 ~-3 ~52 wool 7
+setblock ~101 ~-3 ~71 wool 6
+fill ~101 ~-3 ~79 ~136 ~-3 ~79 wool 0
+setblock ~101 ~-3 ~80 wool 6
+setblock ~101 ~-3 ~81 wool 8
+fill ~101 ~-3 ~82 ~138 ~-3 ~82 wool 0
+fill ~101 ~-3 ~83 ~149 ~-3 ~83 wool 0
+fill ~101 ~-3 ~84 ~152 ~-3 ~84 wool 0
+fill ~101 ~-3 ~85 ~134 ~-3 ~85 wool 0
+setblock ~101 ~-3 ~86 wool 6
+setblock ~101 ~-3 ~87 wool 1
+fill ~101 ~-3 ~89 ~102 ~-3 ~89 wool 14
+setblock ~101 ~-3 ~90 wool 6
+setblock ~101 ~-3 ~91 wool 0
+setblock ~101 ~-3 ~92 wool 6
+setblock ~101 ~-3 ~100 wool 6
+setblock ~101 ~-3 ~102 wool 6
+setblock ~101 ~-3 ~105 wool 6
+fill ~101 ~-3 ~106 ~102 ~-3 ~106 wool 0
+fill ~101 ~-3 ~108 ~102 ~-3 ~108 wool 0
+fill ~101 ~-3 ~111 ~103 ~-3 ~111 wool 14
+setblock ~101 ~-3 ~112 wool 6
+fill ~101 ~-3 ~135 ~108 ~-3 ~135 wool 15
+fill ~101 ~-3 ~142 ~101 ~-3 ~143 wool 3
+setblock ~101 ~-3 ~144 wool 15
+fill ~102 ~-3 ~14 ~105 ~-3 ~14 wool 15
+fill ~102 ~-3 ~15 ~103 ~-3 ~15 wool 3
+fill ~102 ~-3 ~16 ~105 ~-3 ~16 wool 3
+setblock ~102 ~-3 ~17 wool 15
+setblock ~102 ~-3 ~38 wool 7
+fill ~102 ~-3 ~39 ~113 ~-3 ~39 wool 0
+fill ~102 ~-3 ~52 ~125 ~-3 ~52 wool 0
+setblock ~102 ~-3 ~53 wool 7
+fill ~102 ~-3 ~71 ~134 ~-3 ~71 wool 0
+fill ~102 ~-3 ~80 ~136 ~-3 ~80 wool 0
+fill ~102 ~-3 ~81 ~138 ~-3 ~81 wool 0
+fill ~102 ~-3 ~86 ~134 ~-3 ~86 wool 0
+setblock ~102 ~-3 ~87 wool 6
+setblock ~102 ~-3 ~88 wool 1
+fill ~102 ~-3 ~90 ~103 ~-3 ~90 wool 14
+setblock ~102 ~-3 ~91 wool 6
+fill ~102 ~-3 ~92 ~102 ~-3 ~93 wool 0
+setblock ~102 ~-3 ~94 wool 1
+setblock ~102 ~-3 ~98 wool 1
+fill ~102 ~-3 ~99 ~103 ~-3 ~99 wool 0
+fill ~102 ~-3 ~100 ~102 ~-3 ~99 wool 0
+fill ~102 ~-3 ~102 ~103 ~-3 ~102 wool 14
+setblock ~102 ~-3 ~104 wool 6
+fill ~102 ~-3 ~105 ~103 ~-3 ~105 wool 0
+fill ~102 ~-3 ~109 ~103 ~-3 ~109 wool 0
+fill ~102 ~-3 ~112 ~111 ~-3 ~112 wool 14
+setblock ~102 ~-3 ~113 wool 6
+fill ~102 ~-3 ~141 ~103 ~-3 ~141 wool 15
+fill ~102 ~-3 ~142 ~103 ~-3 ~142 wool 15
+fill ~102 ~-3 ~143 ~103 ~-3 ~143 wool 3
+setblock ~102 ~-3 ~144 wool 11
+fill ~103 ~-3 ~12 ~105 ~-3 ~12 wool 11
+setblock ~103 ~-3 ~13 wool 3
+setblock ~103 ~-3 ~17 wool 11
+fill ~103 ~-3 ~20 ~106 ~-3 ~20 wool 15
+setblock ~103 ~-3 ~37 wool 7
+fill ~103 ~-3 ~38 ~112 ~-3 ~38 wool 0
+fill ~103 ~-3 ~53 ~124 ~-3 ~53 wool 0
+setblock ~103 ~-3 ~54 wool 7
+fill ~103 ~-3 ~72 ~134 ~-3 ~72 wool 0
+fill ~103 ~-3 ~73 ~152 ~-3 ~73 wool 0
+fill ~103 ~-3 ~87 ~134 ~-3 ~87 wool 0
+setblock ~103 ~-3 ~88 wool 6
+setblock ~103 ~-3 ~89 wool 1
+fill ~103 ~-3 ~91 ~104 ~-3 ~91 wool 14
+setblock ~103 ~-3 ~92 wool 6
+fill ~103 ~-3 ~93 ~103 ~-3 ~99 wool 0
+setblock ~103 ~-3 ~100 wool 6
+fill ~103 ~-3 ~101 ~104 ~-3 ~101 wool 14
+setblock ~103 ~-3 ~103 wool 6
+fill ~103 ~-3 ~104 ~104 ~-3 ~104 wool 0
+setblock ~103 ~-3 ~106 wool 1
+fill ~103 ~-3 ~107 ~112 ~-3 ~107 wool 14
+setblock ~103 ~-3 ~108 wool 6
+fill ~103 ~-3 ~110 ~104 ~-3 ~110 wool 0
+fill ~103 ~-3 ~113 ~109 ~-3 ~113 wool 14
+setblock ~103 ~-3 ~114 wool 6
+fill ~103 ~-3 ~137 ~106 ~-3 ~137 wool 15
+fill ~103 ~-3 ~144 ~104 ~-3 ~144 wool 3
+setblock ~103 ~-3 ~145 wool 15
+setblock ~104 ~-3 ~13 wool 11
+setblock ~104 ~-3 ~15 wool 15
+setblock ~104 ~-3 ~17 wool 3
+setblock ~104 ~-3 ~18 wool 15
+setblock ~104 ~-3 ~36 wool 7
+fill ~104 ~-3 ~37 ~111 ~-3 ~37 wool 0
+fill ~104 ~-3 ~54 ~123 ~-3 ~54 wool 0
+setblock ~104 ~-3 ~55 wool 7
+fill ~104 ~-3 ~88 ~134 ~-3 ~88 wool 0
+setblock ~104 ~-3 ~89 wool 6
+setblock ~104 ~-3 ~90 wool 1
+fill ~104 ~-3 ~92 ~105 ~-3 ~92 wool 14
+setblock ~104 ~-3 ~93 wool 1
+setblock ~104 ~-3 ~94 wool 6
+fill ~104 ~-3 ~95 ~104 ~-3 ~97 wool 0
+setblock ~104 ~-3 ~98 wool 6
+setblock ~104 ~-3 ~99 wool 1
+fill ~104 ~-3 ~100 ~105 ~-3 ~100 wool 14
+setblock ~104 ~-3 ~102 wool 6
+fill ~104 ~-3 ~103 ~105 ~-3 ~103 wool 0
+setblock ~104 ~-3 ~105 wool 1
+fill ~104 ~-3 ~106 ~112 ~-3 ~106 wool 14
+fill ~104 ~-3 ~108 ~112 ~-3 ~108 wool 14
+setblock ~104 ~-3 ~109 wool 6
+fill ~104 ~-3 ~111 ~105 ~-3 ~111 wool 0
+fill ~104 ~-3 ~114 ~106 ~-3 ~114 wool 14
+setblock ~104 ~-3 ~115 wool 6
+setblock ~104 ~-3 ~140 wool 11
+fill ~104 ~-3 ~141 ~107 ~-3 ~141 wool 3
+setblock ~104 ~-3 ~142 wool 4
+fill ~104 ~-3 ~143 ~107 ~-3 ~143 wool 15
+fill ~104 ~-3 ~145 ~106 ~-3 ~145 wool 11
+fill ~105 ~-3 ~13 ~106 ~-3 ~13 wool 3
+setblock ~105 ~-3 ~15 wool 4
+setblock ~105 ~-3 ~17 wool 11
+fill ~105 ~-3 ~18 ~112 ~-3 ~18 wool 0
+setblock ~105 ~-3 ~35 wool 7
+fill ~105 ~-3 ~36 ~110 ~-3 ~36 wool 0
+fill ~105 ~-3 ~55 ~122 ~-3 ~55 wool 0
+setblock ~105 ~-3 ~56 wool 7
+fill ~105 ~-3 ~89 ~134 ~-3 ~89 wool 0
+setblock ~105 ~-3 ~90 wool 6
+setblock ~105 ~-3 ~91 wool 1
+fill ~105 ~-3 ~93 ~106 ~-3 ~93 wool 14
+fill ~105 ~-3 ~94 ~107 ~-3 ~94 wool 14
+fill ~105 ~-3 ~95 ~108 ~-3 ~95 wool 14
+fill ~105 ~-3 ~96 ~109 ~-3 ~96 wool 14
+fill ~105 ~-3 ~97 ~110 ~-3 ~97 wool 14
+fill ~105 ~-3 ~98 ~107 ~-3 ~98 wool 14
+fill ~105 ~-3 ~99 ~106 ~-3 ~99 wool 14
+setblock ~105 ~-3 ~101 wool 6
+fill ~105 ~-3 ~102 ~106 ~-3 ~102 wool 0
+setblock ~105 ~-3 ~104 wool 1
+fill ~105 ~-3 ~105 ~112 ~-3 ~105 wool 14
+fill ~105 ~-3 ~109 ~112 ~-3 ~109 wool 14
+setblock ~105 ~-3 ~110 wool 6
+fill ~105 ~-3 ~115 ~107 ~-3 ~115 wool 14
+setblock ~105 ~-3 ~116 wool 6
+setblock ~105 ~-3 ~139 wool 15
+setblock ~105 ~-3 ~140 wool 3
+setblock ~105 ~-3 ~142 wool 15
+setblock ~105 ~-3 ~144 wool 11
+setblock ~106 ~-3 ~12 wool 15
+fill ~106 ~-3 ~14 ~108 ~-3 ~14 wool 3
+fill ~106 ~-3 ~15 ~107 ~-3 ~15 wool 15
+fill ~106 ~-3 ~16 ~107 ~-3 ~16 wool 15
+fill ~106 ~-3 ~17 ~137 ~-3 ~17 wool 0
+setblock ~106 ~-3 ~34 wool 7
+fill ~106 ~-3 ~35 ~109 ~-3 ~35 wool 0
+fill ~106 ~-3 ~56 ~121 ~-3 ~56 wool 0
+setblock ~106 ~-3 ~57 wool 7
+fill ~106 ~-3 ~90 ~134 ~-3 ~90 wool 0
+setblock ~106 ~-3 ~91 wool 6
+setblock ~106 ~-3 ~92 wool 1
+setblock ~106 ~-3 ~100 wool 6
+fill ~106 ~-3 ~101 ~107 ~-3 ~101 wool 0
+setblock ~106 ~-3 ~103 wool 1
+fill ~106 ~-3 ~104 ~113 ~-3 ~104 wool 14
+fill ~106 ~-3 ~110 ~112 ~-3 ~110 wool 14
+setblock ~106 ~-3 ~111 wool 6
+fill ~106 ~-3 ~116 ~118 ~-3 ~116 wool 14
+setblock ~106 ~-3 ~117 wool 6
+fill ~106 ~-3 ~139 ~114 ~-3 ~139 wool 0
+setblock ~106 ~-3 ~140 wool 11
+fill ~106 ~-3 ~142 ~107 ~-3 ~142 wool 3
+setblock ~106 ~-3 ~144 wool 3
+fill ~107 ~-3 ~12 ~141 ~-3 ~12 wool 0
+setblock ~107 ~-3 ~13 wool 11
+fill ~107 ~-3 ~20 ~110 ~-3 ~20 wool 0
+fill ~107 ~-3 ~33 ~108 ~-3 ~33 wool 7
+fill ~107 ~-3 ~34 ~108 ~-3 ~34 wool 0
+fill ~107 ~-3 ~57 ~120 ~-3 ~57 wool 0
+setblock ~107 ~-3 ~58 wool 7
+fill ~107 ~-3 ~91 ~134 ~-3 ~91 wool 0
+setblock ~107 ~-3 ~92 wool 6
+setblock ~107 ~-3 ~93 wool 1
+setblock ~107 ~-3 ~99 wool 6
+fill ~107 ~-3 ~100 ~108 ~-3 ~100 wool 0
+setblock ~107 ~-3 ~102 wool 1
+fill ~107 ~-3 ~103 ~116 ~-3 ~103 wool 14
+fill ~107 ~-3 ~111 ~112 ~-3 ~111 wool 14
+setblock ~107 ~-3 ~114 wool 1
+fill ~107 ~-3 ~117 ~117 ~-3 ~117 wool 14
+setblock ~107 ~-3 ~118 wool 6
+fill ~107 ~-3 ~137 ~110 ~-3 ~137 wool 0
+setblock ~107 ~-3 ~140 wool 15
+fill ~107 ~-3 ~144 ~139 ~-3 ~144 wool 0
+fill ~107 ~-3 ~145 ~138 ~-3 ~145 wool 0
+setblock ~108 ~-3 ~13 wool 15
+setblock ~108 ~-3 ~15 wool 3
+fill ~108 ~-3 ~16 ~112 ~-3 ~16 wool 0
+fill ~108 ~-3 ~58 ~119 ~-3 ~58 wool 0
+setblock ~108 ~-3 ~59 wool 7
+fill ~108 ~-3 ~92 ~134 ~-3 ~92 wool 0
+setblock ~108 ~-3 ~93 wool 6
+setblock ~108 ~-3 ~94 wool 1
+fill ~108 ~-3 ~98 ~109 ~-3 ~98 wool 1
+fill ~108 ~-3 ~99 ~109 ~-3 ~99 wool 0
+setblock ~108 ~-3 ~101 wool 1
+fill ~108 ~-3 ~102 ~115 ~-3 ~102 wool 14
+fill ~108 ~-3 ~114 ~111 ~-3 ~114 wool 0
+fill ~108 ~-3 ~115 ~109 ~-3 ~115 wool 0
+fill ~108 ~-3 ~118 ~116 ~-3 ~118 wool 14
+setblock ~108 ~-3 ~119 wool 6
+fill ~108 ~-3 ~140 ~137 ~-3 ~140 wool 0
+setblock ~108 ~-3 ~141 wool 11
+setblock ~108 ~-3 ~142 wool 15
+fill ~108 ~-3 ~143 ~138 ~-3 ~143 wool 0
+fill ~109 ~-3 ~13 ~141 ~-3 ~13 wool 0
+fill ~109 ~-3 ~14 ~109 ~-3 ~15 wool 15
+fill ~109 ~-3 ~22 ~110 ~-3 ~22 wool 0
+fill ~109 ~-3 ~33 ~134 ~-3 ~33 wool 0
+setblock ~109 ~-3 ~34 wool 7
+fill ~109 ~-3 ~59 ~118 ~-3 ~59 wool 0
+setblock ~109 ~-3 ~60 wool 7
+fill ~109 ~-3 ~93 ~134 ~-3 ~93 wool 0
+setblock ~109 ~-3 ~94 wool 6
+setblock ~109 ~-3 ~95 wool 1
+setblock ~109 ~-3 ~100 wool 1
+fill ~109 ~-3 ~101 ~114 ~-3 ~101 wool 14
+fill ~109 ~-3 ~119 ~115 ~-3 ~119 wool 14
+setblock ~109 ~-3 ~120 wool 6
+fill ~109 ~-3 ~135 ~110 ~-3 ~135 wool 0
+fill ~109 ~-3 ~141 ~113 ~-3 ~141 wool 0
+fill ~109 ~-3 ~142 ~114 ~-3 ~142 wool 0
+fill ~110 ~-3 ~14 ~139 ~-3 ~14 wool 0
+fill ~110 ~-3 ~15 ~138 ~-3 ~15 wool 0
+fill ~110 ~-3 ~34 ~134 ~-3 ~34 wool 0
+setblock ~110 ~-3 ~35 wool 7
+fill ~110 ~-3 ~60 ~117 ~-3 ~60 wool 0
+setblock ~110 ~-3 ~61 wool 7
+fill ~110 ~-3 ~94 ~134 ~-3 ~94 wool 0
+setblock ~110 ~-3 ~95 wool 6
+setblock ~110 ~-3 ~96 wool 1
+fill ~110 ~-3 ~98 ~111 ~-3 ~98 wool 14
+fill ~110 ~-3 ~99 ~112 ~-3 ~99 wool 14
+fill ~110 ~-3 ~100 ~113 ~-3 ~100 wool 14
+setblock ~110 ~-3 ~113 wool 6
+setblock ~110 ~-3 ~115 wool 6
+fill ~110 ~-3 ~120 ~114 ~-3 ~120 wool 14
+setblock ~110 ~-3 ~121 wool 6
+fill ~111 ~-3 ~20 ~134 ~-3 ~20 wool 15
+fill ~111 ~-3 ~21 ~134 ~-3 ~21 wool 1
+fill ~111 ~-3 ~22 ~134 ~-3 ~22 wool 1
+fill ~111 ~-3 ~23 ~134 ~-3 ~23 wool 1
+fill ~111 ~-3 ~24 ~134 ~-3 ~24 wool 1
+fill ~111 ~-3 ~35 ~134 ~-3 ~35 wool 0
+setblock ~111 ~-3 ~36 wool 7
+fill ~111 ~-3 ~61 ~116 ~-3 ~61 wool 0
+setblock ~111 ~-3 ~62 wool 7
+fill ~111 ~-3 ~95 ~134 ~-3 ~95 wool 0
+setblock ~111 ~-3 ~96 wool 6
+setblock ~111 ~-3 ~97 wool 1
+fill ~111 ~-3 ~113 ~114 ~-3 ~113 wool 0
+setblock ~111 ~-3 ~115 wool 1
+fill ~111 ~-3 ~121 ~113 ~-3 ~121 wool 14
+fill ~111 ~-3 ~122 ~113 ~-3 ~122 wool 6
+fill ~111 ~-3 ~133 ~134 ~-3 ~133 wool 13
+fill ~111 ~-3 ~134 ~134 ~-3 ~134 wool 13
+fill ~111 ~-3 ~135 ~134 ~-3 ~135 wool 13
+fill ~111 ~-3 ~136 ~134 ~-3 ~136 wool 13
+fill ~111 ~-3 ~137 ~134 ~-3 ~137 wool 15
+fill ~112 ~-3 ~36 ~134 ~-3 ~36 wool 0
+setblock ~112 ~-3 ~37 wool 7
+fill ~112 ~-3 ~62 ~115 ~-3 ~62 wool 0
+setblock ~112 ~-3 ~63 wool 7
+fill ~112 ~-3 ~96 ~134 ~-3 ~96 wool 0
+setblock ~112 ~-3 ~97 wool 6
+setblock ~112 ~-3 ~98 wool 1
+setblock ~112 ~-3 ~112 wool 1
+fill ~112 ~-3 ~114 ~113 ~-3 ~114 wool 6
+fill ~112 ~-3 ~115 ~119 ~-3 ~115 wool 14
+fill ~113 ~-3 ~16 ~120 ~-3 ~16 wool 15
+fill ~113 ~-3 ~18 ~120 ~-3 ~18 wool 15
+fill ~113 ~-3 ~37 ~152 ~-3 ~37 wool 0
+setblock ~113 ~-3 ~38 wool 7
+fill ~113 ~-3 ~63 ~114 ~-3 ~63 wool 0
+fill ~113 ~-3 ~64 ~114 ~-3 ~64 wool 7
+fill ~113 ~-3 ~97 ~134 ~-3 ~97 wool 0
+setblock ~113 ~-3 ~98 wool 6
+setblock ~113 ~-3 ~99 wool 1
+setblock ~113 ~-3 ~105 wool 1
+fill ~113 ~-3 ~106 ~113 ~-3 ~109 wool 6
+fill ~113 ~-3 ~110 ~114 ~-3 ~110 wool 0
+fill ~113 ~-3 ~111 ~114 ~-3 ~111 wool 0
+fill ~113 ~-3 ~112 ~117 ~-3 ~112 wool 0
+fill ~114 ~-3 ~38 ~152 ~-3 ~38 wool 0
+setblock ~114 ~-3 ~39 wool 7
+fill ~114 ~-3 ~98 ~134 ~-3 ~98 wool 0
+setblock ~114 ~-3 ~99 wool 6
+setblock ~114 ~-3 ~100 wool 1
+fill ~114 ~-3 ~104 ~115 ~-3 ~104 wool 1
+fill ~114 ~-3 ~105 ~114 ~-3 ~113 wool 0
+fill ~114 ~-3 ~114 ~120 ~-3 ~114 wool 14
+setblock ~114 ~-3 ~121 wool 6
+fill ~114 ~-3 ~122 ~134 ~-3 ~122 wool 0
+fill ~114 ~-3 ~141 ~119 ~-3 ~141 wool 15
+fill ~115 ~-3 ~39 ~152 ~-3 ~39 wool 0
+setblock ~115 ~-3 ~40 wool 7
+setblock ~115 ~-3 ~63 wool 7
+fill ~115 ~-3 ~64 ~134 ~-3 ~64 wool 0
+fill ~115 ~-3 ~99 ~134 ~-3 ~99 wool 0
+setblock ~115 ~-3 ~100 wool 6
+setblock ~115 ~-3 ~101 wool 1
+fill ~115 ~-3 ~105 ~115 ~-3 ~106 wool 6
+fill ~115 ~-3 ~107 ~115 ~-3 ~109 wool 1
+fill ~115 ~-3 ~110 ~117 ~-3 ~110 wool 14
+setblock ~115 ~-3 ~111 wool 6
+setblock ~115 ~-3 ~113 wool 6
+setblock ~115 ~-3 ~120 wool 6
+fill ~115 ~-3 ~121 ~134 ~-3 ~121 wool 0
+fill ~115 ~-3 ~139 ~118 ~-3 ~139 wool 15
+fill ~115 ~-3 ~142 ~118 ~-3 ~142 wool 15
+fill ~116 ~-3 ~40 ~136 ~-3 ~40 wool 0
+setblock ~116 ~-3 ~41 wool 7
+setblock ~116 ~-3 ~62 wool 7
+fill ~116 ~-3 ~63 ~134 ~-3 ~63 wool 0
+fill ~116 ~-3 ~100 ~134 ~-3 ~100 wool 0
+setblock ~116 ~-3 ~101 wool 6
+setblock ~116 ~-3 ~102 wool 1
+fill ~116 ~-3 ~104 ~117 ~-3 ~104 wool 14
+fill ~116 ~-3 ~105 ~118 ~-3 ~105 wool 14
+fill ~116 ~-3 ~106 ~119 ~-3 ~106 wool 14
+fill ~116 ~-3 ~107 ~120 ~-3 ~107 wool 14
+fill ~116 ~-3 ~108 ~121 ~-3 ~108 wool 14
+fill ~116 ~-3 ~109 ~119 ~-3 ~109 wool 14
+fill ~116 ~-3 ~111 ~119 ~-3 ~111 wool 0
+setblock ~116 ~-3 ~113 wool 1
+setblock ~116 ~-3 ~119 wool 6
+fill ~116 ~-3 ~120 ~152 ~-3 ~120 wool 0
+fill ~117 ~-3 ~41 ~136 ~-3 ~41 wool 0
+setblock ~117 ~-3 ~42 wool 7
+setblock ~117 ~-3 ~61 wool 7
+fill ~117 ~-3 ~62 ~134 ~-3 ~62 wool 0
+fill ~117 ~-3 ~101 ~134 ~-3 ~101 wool 0
+setblock ~117 ~-3 ~102 wool 6
+setblock ~117 ~-3 ~103 wool 1
+fill ~117 ~-3 ~113 ~121 ~-3 ~113 wool 14
+setblock ~117 ~-3 ~118 wool 6
+fill ~117 ~-3 ~119 ~145 ~-3 ~119 wool 0
+fill ~118 ~-3 ~42 ~136 ~-3 ~42 wool 0
+setblock ~118 ~-3 ~43 wool 7
+setblock ~118 ~-3 ~60 wool 7
+fill ~118 ~-3 ~61 ~134 ~-3 ~61 wool 0
+fill ~118 ~-3 ~102 ~134 ~-3 ~102 wool 0
+setblock ~118 ~-3 ~103 wool 6
+setblock ~118 ~-3 ~104 wool 1
+setblock ~118 ~-3 ~110 wool 6
+setblock ~118 ~-3 ~112 wool 6
+setblock ~118 ~-3 ~117 wool 6
+fill ~118 ~-3 ~118 ~148 ~-3 ~118 wool 0
+fill ~119 ~-3 ~43 ~136 ~-3 ~43 wool 0
+setblock ~119 ~-3 ~44 wool 7
+setblock ~119 ~-3 ~59 wool 7
+fill ~119 ~-3 ~60 ~134 ~-3 ~60 wool 0
+fill ~119 ~-3 ~103 ~134 ~-3 ~103 wool 0
+setblock ~119 ~-3 ~104 wool 6
+setblock ~119 ~-3 ~105 wool 1
+fill ~119 ~-3 ~110 ~120 ~-3 ~110 wool 0
+setblock ~119 ~-3 ~112 wool 1
+setblock ~119 ~-3 ~116 wool 6
+fill ~119 ~-3 ~117 ~137 ~-3 ~117 wool 0
+fill ~119 ~-3 ~139 ~125 ~-3 ~139 wool 0
+fill ~119 ~-3 ~142 ~136 ~-3 ~142 wool 0
+fill ~120 ~-3 ~44 ~136 ~-3 ~44 wool 0
+setblock ~120 ~-3 ~45 wool 7
+setblock ~120 ~-3 ~58 wool 7
+fill ~120 ~-3 ~59 ~134 ~-3 ~59 wool 0
+fill ~120 ~-3 ~104 ~134 ~-3 ~104 wool 0
+setblock ~120 ~-3 ~105 wool 6
+setblock ~120 ~-3 ~106 wool 1
+setblock ~120 ~-3 ~109 wool 1
+setblock ~120 ~-3 ~111 wool 6
+fill ~120 ~-3 ~112 ~122 ~-3 ~112 wool 14
+setblock ~120 ~-3 ~115 wool 6
+fill ~120 ~-3 ~116 ~137 ~-3 ~116 wool 0
+fill ~120 ~-3 ~141 ~125 ~-3 ~141 wool 0
+fill ~121 ~-3 ~16 ~125 ~-3 ~16 wool 0
+fill ~121 ~-3 ~18 ~124 ~-3 ~18 wool 0
+fill ~121 ~-3 ~45 ~136 ~-3 ~45 wool 0
+setblock ~121 ~-3 ~46 wool 7
+setblock ~121 ~-3 ~57 wool 7
+fill ~121 ~-3 ~58 ~134 ~-3 ~58 wool 0
+fill ~121 ~-3 ~105 ~134 ~-3 ~105 wool 0
+setblock ~121 ~-3 ~106 wool 6
+setblock ~121 ~-3 ~107 wool 1
+fill ~121 ~-3 ~109 ~122 ~-3 ~109 wool 14
+fill ~121 ~-3 ~110 ~123 ~-3 ~110 wool 14
+fill ~121 ~-3 ~111 ~123 ~-3 ~111 wool 14
+setblock ~121 ~-3 ~114 wool 6
+fill ~121 ~-3 ~115 ~137 ~-3 ~115 wool 0
+fill ~122 ~-3 ~46 ~152 ~-3 ~46 wool 0
+setblock ~122 ~-3 ~47 wool 7
+setblock ~122 ~-3 ~56 wool 7
+fill ~122 ~-3 ~57 ~134 ~-3 ~57 wool 0
+fill ~122 ~-3 ~106 ~134 ~-3 ~106 wool 0
+setblock ~122 ~-3 ~107 wool 6
+setblock ~122 ~-3 ~108 wool 1
+setblock ~122 ~-3 ~113 wool 6
+fill ~122 ~-3 ~114 ~137 ~-3 ~114 wool 0
+fill ~123 ~-3 ~47 ~152 ~-3 ~47 wool 0
+setblock ~123 ~-3 ~48 wool 7
+setblock ~123 ~-3 ~55 wool 7
+fill ~123 ~-3 ~56 ~134 ~-3 ~56 wool 0
+fill ~123 ~-3 ~107 ~134 ~-3 ~107 wool 0
+setblock ~123 ~-3 ~108 wool 6
+setblock ~123 ~-3 ~109 wool 1
+setblock ~123 ~-3 ~112 wool 6
+fill ~123 ~-3 ~113 ~137 ~-3 ~113 wool 0
+fill ~124 ~-3 ~48 ~152 ~-3 ~48 wool 0
+setblock ~124 ~-3 ~49 wool 7
+setblock ~124 ~-3 ~54 wool 7
+fill ~124 ~-3 ~55 ~134 ~-3 ~55 wool 0
+fill ~124 ~-3 ~108 ~134 ~-3 ~108 wool 0
+fill ~124 ~-3 ~109 ~124 ~-3 ~111 wool 6
+fill ~124 ~-3 ~112 ~137 ~-3 ~112 wool 0
+fill ~125 ~-3 ~18 ~132 ~-3 ~18 wool 15
+fill ~125 ~-3 ~49 ~134 ~-3 ~49 wool 0
+setblock ~125 ~-3 ~50 wool 7
+setblock ~125 ~-3 ~53 wool 7
+fill ~125 ~-3 ~54 ~134 ~-3 ~54 wool 0
+fill ~125 ~-3 ~109 ~152 ~-3 ~109 wool 0
+fill ~125 ~-3 ~110 ~146 ~-3 ~110 wool 0
+fill ~125 ~-3 ~111 ~145 ~-3 ~111 wool 0
+fill ~126 ~-3 ~16 ~131 ~-3 ~16 wool 15
+fill ~126 ~-3 ~50 ~134 ~-3 ~50 wool 0
+fill ~126 ~-3 ~51 ~126 ~-3 ~52 wool 7
+fill ~126 ~-3 ~53 ~134 ~-3 ~53 wool 0
+fill ~126 ~-3 ~139 ~131 ~-3 ~139 wool 15
+fill ~126 ~-3 ~141 ~131 ~-3 ~141 wool 15
+fill ~127 ~-3 ~51 ~134 ~-3 ~51 wool 0
+fill ~127 ~-3 ~52 ~134 ~-3 ~52 wool 0
+fill ~132 ~-3 ~16 ~137 ~-3 ~16 wool 0
+fill ~132 ~-3 ~139 ~138 ~-3 ~139 wool 0
+fill ~132 ~-3 ~141 ~137 ~-3 ~141 wool 0
+fill ~133 ~-3 ~18 ~137 ~-3 ~18 wool 0
+fill ~135 ~-3 ~20 ~136 ~-3 ~20 wool 0
+fill ~135 ~-3 ~21 ~136 ~-3 ~21 wool 0
+fill ~135 ~-3 ~22 ~137 ~-3 ~22 wool 0
+fill ~135 ~-3 ~23 ~152 ~-3 ~23 wool 0
+fill ~135 ~-3 ~24 ~152 ~-3 ~24 wool 0
+fill ~135 ~-3 ~25 ~138 ~-3 ~25 wool 14
+fill ~135 ~-3 ~26 ~138 ~-3 ~26 wool 14
+fill ~135 ~-3 ~27 ~138 ~-3 ~27 wool 14
+fill ~135 ~-3 ~28 ~138 ~-3 ~28 wool 14
+fill ~135 ~-3 ~29 ~138 ~-3 ~29 wool 14
+fill ~135 ~-3 ~30 ~138 ~-3 ~30 wool 14
+fill ~135 ~-3 ~31 ~138 ~-3 ~31 wool 14
+fill ~135 ~-3 ~32 ~138 ~-3 ~32 wool 14
+fill ~135 ~-3 ~33 ~138 ~-3 ~33 wool 14
+fill ~135 ~-3 ~34 ~138 ~-3 ~34 wool 14
+fill ~135 ~-3 ~35 ~138 ~-3 ~35 wool 14
+fill ~135 ~-3 ~36 ~138 ~-3 ~36 wool 14
+fill ~135 ~-3 ~49 ~138 ~-3 ~49 wool 14
+fill ~135 ~-3 ~50 ~138 ~-3 ~50 wool 14
+fill ~135 ~-3 ~51 ~138 ~-3 ~51 wool 14
+fill ~135 ~-3 ~52 ~138 ~-3 ~52 wool 14
+fill ~135 ~-3 ~53 ~138 ~-3 ~53 wool 14
+fill ~135 ~-3 ~54 ~138 ~-3 ~54 wool 14
+fill ~135 ~-3 ~55 ~138 ~-3 ~55 wool 14
+fill ~135 ~-3 ~56 ~138 ~-3 ~56 wool 14
+fill ~135 ~-3 ~57 ~138 ~-3 ~57 wool 14
+fill ~135 ~-3 ~58 ~138 ~-3 ~58 wool 14
+fill ~135 ~-3 ~59 ~138 ~-3 ~59 wool 14
+fill ~135 ~-3 ~60 ~138 ~-3 ~60 wool 14
+fill ~135 ~-3 ~61 ~138 ~-3 ~61 wool 14
+fill ~135 ~-3 ~62 ~138 ~-3 ~62 wool 14
+fill ~135 ~-3 ~63 ~138 ~-3 ~63 wool 14
+fill ~135 ~-3 ~64 ~138 ~-3 ~64 wool 14
+fill ~135 ~-3 ~65 ~138 ~-3 ~65 wool 14
+fill ~135 ~-3 ~66 ~138 ~-3 ~66 wool 14
+fill ~135 ~-3 ~67 ~138 ~-3 ~67 wool 14
+fill ~135 ~-3 ~68 ~138 ~-3 ~68 wool 14
+fill ~135 ~-3 ~69 ~138 ~-3 ~69 wool 14
+fill ~135 ~-3 ~70 ~138 ~-3 ~70 wool 14
+fill ~135 ~-3 ~71 ~138 ~-3 ~71 wool 14
+fill ~135 ~-3 ~72 ~138 ~-3 ~72 wool 14
+fill ~135 ~-3 ~85 ~138 ~-3 ~85 wool 4
+fill ~135 ~-3 ~86 ~138 ~-3 ~86 wool 4
+fill ~135 ~-3 ~87 ~138 ~-3 ~87 wool 4
+fill ~135 ~-3 ~88 ~138 ~-3 ~88 wool 4
+fill ~135 ~-3 ~89 ~138 ~-3 ~89 wool 4
+fill ~135 ~-3 ~90 ~138 ~-3 ~90 wool 4
+fill ~135 ~-3 ~91 ~138 ~-3 ~91 wool 4
+fill ~135 ~-3 ~92 ~138 ~-3 ~92 wool 4
+fill ~135 ~-3 ~93 ~138 ~-3 ~93 wool 4
+fill ~135 ~-3 ~94 ~138 ~-3 ~94 wool 4
+fill ~135 ~-3 ~95 ~138 ~-3 ~95 wool 4
+fill ~135 ~-3 ~96 ~138 ~-3 ~96 wool 4
+fill ~135 ~-3 ~97 ~138 ~-3 ~97 wool 4
+fill ~135 ~-3 ~98 ~138 ~-3 ~98 wool 4
+fill ~135 ~-3 ~99 ~138 ~-3 ~99 wool 4
+fill ~135 ~-3 ~100 ~138 ~-3 ~100 wool 4
+fill ~135 ~-3 ~101 ~138 ~-3 ~101 wool 4
+fill ~135 ~-3 ~102 ~138 ~-3 ~102 wool 4
+fill ~135 ~-3 ~103 ~138 ~-3 ~103 wool 4
+fill ~135 ~-3 ~104 ~138 ~-3 ~104 wool 4
+fill ~135 ~-3 ~105 ~138 ~-3 ~105 wool 4
+fill ~135 ~-3 ~106 ~138 ~-3 ~106 wool 4
+fill ~135 ~-3 ~107 ~138 ~-3 ~107 wool 4
+fill ~135 ~-3 ~108 ~138 ~-3 ~108 wool 4
+fill ~135 ~-3 ~121 ~138 ~-3 ~121 wool 4
+fill ~135 ~-3 ~122 ~138 ~-3 ~122 wool 4
+fill ~135 ~-3 ~123 ~138 ~-3 ~123 wool 4
+fill ~135 ~-3 ~124 ~138 ~-3 ~124 wool 4
+fill ~135 ~-3 ~125 ~138 ~-3 ~125 wool 4
+fill ~135 ~-3 ~126 ~138 ~-3 ~126 wool 4
+fill ~135 ~-3 ~127 ~138 ~-3 ~127 wool 4
+fill ~135 ~-3 ~128 ~138 ~-3 ~128 wool 4
+fill ~135 ~-3 ~129 ~138 ~-3 ~129 wool 4
+fill ~135 ~-3 ~130 ~138 ~-3 ~130 wool 4
+fill ~135 ~-3 ~131 ~138 ~-3 ~131 wool 4
+fill ~135 ~-3 ~132 ~138 ~-3 ~132 wool 4
+fill ~135 ~-3 ~133 ~152 ~-3 ~133 wool 0
+fill ~135 ~-3 ~134 ~138 ~-3 ~134 wool 0
+fill ~135 ~-3 ~135 ~137 ~-3 ~135 wool 0
+fill ~135 ~-3 ~136 ~136 ~-3 ~136 wool 0
+fill ~135 ~-3 ~137 ~135 ~-3 ~133 wool 0
+fill ~136 ~-3 ~137 ~138 ~-3 ~137 wool 15
+fill ~136 ~-3 ~138 ~137 ~-3 ~138 wool 15
+fill ~137 ~-3 ~20 ~137 ~-3 ~21 wool 15
+fill ~137 ~-3 ~40 ~137 ~-3 ~45 wool 15
+fill ~137 ~-3 ~77 ~137 ~-3 ~80 wool 15
+fill ~137 ~-3 ~136 ~139 ~-3 ~136 wool 15
+setblock ~137 ~-3 ~142 wool 15
+fill ~138 ~-3 ~16 ~141 ~-3 ~16 wool 14
+fill ~138 ~-3 ~17 ~139 ~-3 ~17 wool 14
+setblock ~138 ~-3 ~18 wool 15
+setblock ~138 ~-3 ~20 wool 0
+fill ~138 ~-3 ~21 ~138 ~-3 ~22 wool 15
+fill ~138 ~-3 ~40 ~140 ~-3 ~40 wool 0
+fill ~138 ~-3 ~41 ~139 ~-3 ~41 wool 0
+fill ~138 ~-3 ~42 ~138 ~-3 ~48 wool 0
+fill ~138 ~-3 ~77 ~138 ~-3 ~84 wool 0
+fill ~138 ~-3 ~112 ~139 ~-3 ~112 wool 15
+fill ~138 ~-3 ~113 ~139 ~-3 ~113 wool 15
+fill ~138 ~-3 ~114 ~139 ~-3 ~114 wool 15
+fill ~138 ~-3 ~115 ~139 ~-3 ~115 wool 15
+fill ~138 ~-3 ~116 ~139 ~-3 ~116 wool 15
+fill ~138 ~-3 ~117 ~139 ~-3 ~117 wool 15
+fill ~138 ~-3 ~135 ~140 ~-3 ~135 wool 15
+setblock ~138 ~-3 ~138 wool 0
+setblock ~138 ~-3 ~140 wool 11
+setblock ~138 ~-3 ~141 wool 15
+fill ~138 ~-3 ~142 ~142 ~-3 ~142 wool 0
+setblock ~139 ~-3 ~15 wool 15
+fill ~139 ~-3 ~18 ~139 ~-3 ~19 wool 14
+setblock ~139 ~-3 ~20 wool 15
+fill ~139 ~-3 ~21 ~140 ~-3 ~21 wool 0
+setblock ~139 ~-3 ~22 wool 15
+fill ~139 ~-3 ~25 ~139 ~-3 ~36 wool 15
+fill ~139 ~-3 ~42 ~140 ~-3 ~42 wool 11
+fill ~139 ~-3 ~43 ~140 ~-3 ~43 wool 11
+fill ~139 ~-3 ~44 ~139 ~-3 ~48 wool 0
+fill ~139 ~-3 ~49 ~139 ~-3 ~72 wool 15
+fill ~139 ~-3 ~75 ~139 ~-3 ~82 wool 15
+fill ~139 ~-3 ~85 ~139 ~-3 ~108 wool 15
+fill ~139 ~-3 ~121 ~139 ~-3 ~132 wool 15
+fill ~139 ~-3 ~134 ~140 ~-3 ~134 wool 15
+setblock ~139 ~-3 ~137 wool 0
+setblock ~139 ~-3 ~138 wool 15
+setblock ~139 ~-3 ~139 wool 11
+setblock ~139 ~-3 ~140 wool 15
+fill ~139 ~-3 ~141 ~140 ~-3 ~141 wool 0
+setblock ~139 ~-3 ~143 wool 15
+setblock ~139 ~-3 ~145 wool 15
+setblock ~140 ~-3 ~14 wool 15
+fill ~140 ~-3 ~15 ~141 ~-3 ~15 wool 14
+fill ~140 ~-3 ~17 ~141 ~-3 ~17 wool 15
+fill ~140 ~-3 ~18 ~140 ~-3 ~17 wool 15
+fill ~140 ~-3 ~19 ~140 ~-3 ~20 wool 14
+fill ~140 ~-3 ~22 ~152 ~-3 ~22 wool 0
+fill ~140 ~-3 ~25 ~152 ~-3 ~25 wool 0
+fill ~140 ~-3 ~26 ~152 ~-3 ~26 wool 0
+fill ~140 ~-3 ~27 ~152 ~-3 ~27 wool 0
+fill ~140 ~-3 ~28 ~140 ~-3 ~40 wool 0
+setblock ~140 ~-3 ~41 wool 11
+setblock ~140 ~-3 ~44 wool 11
+setblock ~140 ~-3 ~45 wool 0
+fill ~140 ~-3 ~49 ~152 ~-3 ~49 wool 0
+fill ~140 ~-3 ~50 ~152 ~-3 ~50 wool 0
+fill ~140 ~-3 ~51 ~152 ~-3 ~51 wool 0
+fill ~140 ~-3 ~52 ~140 ~-3 ~133 wool 0
+fill ~140 ~-3 ~136 ~145 ~-3 ~136 wool 0
+setblock ~140 ~-3 ~137 wool 15
+setblock ~140 ~-3 ~138 wool 11
+fill ~140 ~-3 ~139 ~141 ~-3 ~139 wool 15
+fill ~140 ~-3 ~140 ~147 ~-3 ~140 wool 0
+fill ~140 ~-3 ~143 ~143 ~-3 ~143 wool 0
+setblock ~140 ~-3 ~144 wool 15
+fill ~140 ~-3 ~145 ~141 ~-3 ~145 wool 0
+fill ~141 ~-3 ~14 ~142 ~-3 ~14 wool 14
+setblock ~141 ~-3 ~18 wool 0
+fill ~141 ~-3 ~19 ~142 ~-3 ~19 wool 15
+fill ~141 ~-3 ~20 ~143 ~-3 ~20 wool 14
+setblock ~141 ~-3 ~21 wool 15
+fill ~141 ~-3 ~28 ~141 ~-3 ~33 wool 15
+fill ~141 ~-3 ~34 ~152 ~-3 ~34 wool 0
+fill ~141 ~-3 ~35 ~152 ~-3 ~35 wool 0
+fill ~141 ~-3 ~36 ~152 ~-3 ~36 wool 0
+fill ~141 ~-3 ~40 ~143 ~-3 ~40 wool 11
+fill ~141 ~-3 ~41 ~143 ~-3 ~41 wool 0
+fill ~141 ~-3 ~42 ~144 ~-3 ~42 wool 0
+fill ~141 ~-3 ~43 ~145 ~-3 ~43 wool 0
+fill ~141 ~-3 ~44 ~143 ~-3 ~44 wool 0
+fill ~141 ~-3 ~45 ~143 ~-3 ~45 wool 11
+fill ~141 ~-3 ~52 ~141 ~-3 ~57 wool 15
+fill ~141 ~-3 ~58 ~152 ~-3 ~58 wool 0
+fill ~141 ~-3 ~59 ~152 ~-3 ~59 wool 0
+fill ~141 ~-3 ~60 ~152 ~-3 ~60 wool 0
+fill ~141 ~-3 ~61 ~152 ~-3 ~61 wool 0
+fill ~141 ~-3 ~62 ~152 ~-3 ~62 wool 0
+fill ~141 ~-3 ~63 ~152 ~-3 ~63 wool 0
+fill ~141 ~-3 ~64 ~141 ~-3 ~69 wool 15
+fill ~141 ~-3 ~70 ~152 ~-3 ~70 wool 0
+fill ~141 ~-3 ~71 ~152 ~-3 ~71 wool 0
+fill ~141 ~-3 ~72 ~152 ~-3 ~72 wool 0
+fill ~141 ~-3 ~75 ~142 ~-3 ~75 wool 0
+fill ~141 ~-3 ~76 ~142 ~-3 ~76 wool 0
+fill ~141 ~-3 ~77 ~142 ~-3 ~77 wool 0
+fill ~141 ~-3 ~78 ~145 ~-3 ~78 wool 0
+fill ~141 ~-3 ~79 ~145 ~-3 ~79 wool 0
+fill ~141 ~-3 ~80 ~142 ~-3 ~80 wool 0
+fill ~141 ~-3 ~81 ~142 ~-3 ~81 wool 0
+fill ~141 ~-3 ~82 ~142 ~-3 ~82 wool 0
+fill ~141 ~-3 ~85 ~152 ~-3 ~85 wool 0
+fill ~141 ~-3 ~86 ~152 ~-3 ~86 wool 0
+fill ~141 ~-3 ~87 ~152 ~-3 ~87 wool 0
+fill ~141 ~-3 ~88 ~141 ~-3 ~93 wool 15
+fill ~141 ~-3 ~94 ~152 ~-3 ~94 wool 0
+fill ~141 ~-3 ~95 ~152 ~-3 ~95 wool 0
+fill ~141 ~-3 ~96 ~152 ~-3 ~96 wool 0
+fill ~141 ~-3 ~97 ~152 ~-3 ~97 wool 0
+fill ~141 ~-3 ~98 ~152 ~-3 ~98 wool 0
+fill ~141 ~-3 ~99 ~152 ~-3 ~99 wool 0
+fill ~141 ~-3 ~100 ~141 ~-3 ~105 wool 15
+fill ~141 ~-3 ~106 ~152 ~-3 ~106 wool 0
+fill ~141 ~-3 ~107 ~152 ~-3 ~107 wool 0
+fill ~141 ~-3 ~108 ~152 ~-3 ~108 wool 0
+fill ~141 ~-3 ~112 ~146 ~-3 ~112 wool 0
+fill ~141 ~-3 ~113 ~141 ~-3 ~123 wool 0
+fill ~141 ~-3 ~124 ~141 ~-3 ~129 wool 15
+fill ~141 ~-3 ~130 ~152 ~-3 ~130 wool 0
+fill ~141 ~-3 ~131 ~152 ~-3 ~131 wool 0
+fill ~141 ~-3 ~132 ~152 ~-3 ~132 wool 0
+fill ~141 ~-3 ~134 ~145 ~-3 ~134 wool 0
+fill ~141 ~-3 ~135 ~145 ~-3 ~135 wool 0
+fill ~141 ~-3 ~137 ~152 ~-3 ~137 wool 0
+fill ~141 ~-3 ~138 ~145 ~-3 ~138 wool 0
+setblock ~141 ~-3 ~141 wool 15
+fill ~141 ~-3 ~144 ~144 ~-3 ~144 wool 0
+fill ~142 ~-3 ~11 ~142 ~-3 ~12 wool 14
+setblock ~142 ~-3 ~13 wool 15
+fill ~142 ~-3 ~15 ~142 ~-3 ~16 wool 15
+setblock ~142 ~-3 ~17 wool 14
+setblock ~142 ~-3 ~18 wool 15
+fill ~142 ~-3 ~21 ~143 ~-3 ~21 wool 14
+fill ~142 ~-3 ~28 ~142 ~-3 ~39 wool 0
+fill ~142 ~-3 ~52 ~142 ~-3 ~112 wool 0
+fill ~142 ~-3 ~113 ~143 ~-3 ~113 wool 15
+fill ~142 ~-3 ~114 ~144 ~-3 ~114 wool 0
+fill ~142 ~-3 ~115 ~144 ~-3 ~115 wool 0
+fill ~142 ~-3 ~116 ~143 ~-3 ~116 wool 15
+fill ~142 ~-3 ~117 ~144 ~-3 ~117 wool 0
+fill ~142 ~-3 ~121 ~152 ~-3 ~121 wool 0
+fill ~142 ~-3 ~122 ~152 ~-3 ~122 wool 0
+fill ~142 ~-3 ~123 ~152 ~-3 ~123 wool 0
+fill ~142 ~-3 ~124 ~142 ~-3 ~144 wool 0
+fill ~142 ~-3 ~145 ~143 ~-3 ~145 wool 15
+fill ~142 ~-3 ~146 ~147 ~-3 ~146 wool 11
+fill ~143 ~-3 ~11 ~147 ~-3 ~11 wool 0
+fill ~143 ~-3 ~12 ~143 ~-3 ~13 wool 14
+fill ~143 ~-3 ~14 ~144 ~-3 ~14 wool 15
+fill ~143 ~-3 ~15 ~144 ~-3 ~15 wool 0
+fill ~143 ~-3 ~16 ~144 ~-3 ~16 wool 0
+fill ~143 ~-3 ~17 ~144 ~-3 ~17 wool 15
+fill ~143 ~-3 ~18 ~145 ~-3 ~18 wool 14
+fill ~143 ~-3 ~19 ~144 ~-3 ~19 wool 14
+fill ~143 ~-3 ~28 ~143 ~-3 ~33 wool 15
+fill ~143 ~-3 ~52 ~143 ~-3 ~57 wool 15
+fill ~143 ~-3 ~64 ~143 ~-3 ~69 wool 15
+fill ~143 ~-3 ~74 ~144 ~-3 ~74 wool 15
+fill ~143 ~-3 ~75 ~150 ~-3 ~75 wool 15
+fill ~143 ~-3 ~76 ~150 ~-3 ~76 wool 15
+fill ~143 ~-3 ~77 ~144 ~-3 ~77 wool 15
+fill ~143 ~-3 ~80 ~144 ~-3 ~80 wool 15
+fill ~143 ~-3 ~81 ~149 ~-3 ~81 wool 15
+fill ~143 ~-3 ~82 ~143 ~-3 ~80 wool 15
+fill ~143 ~-3 ~88 ~143 ~-3 ~93 wool 15
+fill ~143 ~-3 ~100 ~143 ~-3 ~105 wool 15
+fill ~143 ~-3 ~124 ~143 ~-3 ~129 wool 15
+fill ~143 ~-3 ~139 ~147 ~-3 ~139 wool 0
+fill ~143 ~-3 ~141 ~143 ~-3 ~142 wool 15
+fill ~143 ~-3 ~147 ~143 ~-3 ~148 wool 11
+fill ~144 ~-3 ~12 ~148 ~-3 ~12 wool 0
+setblock ~144 ~-3 ~13 wool 14
+setblock ~144 ~-3 ~20 wool 15
+fill ~144 ~-3 ~21 ~152 ~-3 ~21 wool 0
+fill ~144 ~-3 ~28 ~152 ~-3 ~28 wool 0
+fill ~144 ~-3 ~29 ~152 ~-3 ~29 wool 0
+fill ~144 ~-3 ~30 ~152 ~-3 ~30 wool 0
+fill ~144 ~-3 ~31 ~152 ~-3 ~31 wool 0
+fill ~144 ~-3 ~32 ~152 ~-3 ~32 wool 0
+fill ~144 ~-3 ~33 ~152 ~-3 ~33 wool 0
+fill ~144 ~-3 ~40 ~152 ~-3 ~40 wool 0
+setblock ~144 ~-3 ~41 wool 11
+setblock ~144 ~-3 ~44 wool 11
+fill ~144 ~-3 ~45 ~152 ~-3 ~45 wool 0
+fill ~144 ~-3 ~52 ~152 ~-3 ~52 wool 0
+fill ~144 ~-3 ~53 ~152 ~-3 ~53 wool 0
+fill ~144 ~-3 ~54 ~152 ~-3 ~54 wool 0
+fill ~144 ~-3 ~55 ~152 ~-3 ~55 wool 0
+fill ~144 ~-3 ~56 ~152 ~-3 ~56 wool 0
+fill ~144 ~-3 ~57 ~152 ~-3 ~57 wool 0
+fill ~144 ~-3 ~64 ~152 ~-3 ~64 wool 0
+fill ~144 ~-3 ~65 ~152 ~-3 ~65 wool 0
+fill ~144 ~-3 ~66 ~152 ~-3 ~66 wool 0
+fill ~144 ~-3 ~67 ~152 ~-3 ~67 wool 0
+fill ~144 ~-3 ~68 ~152 ~-3 ~68 wool 0
+fill ~144 ~-3 ~69 ~152 ~-3 ~69 wool 0
+fill ~144 ~-3 ~82 ~145 ~-3 ~82 wool 0
+fill ~144 ~-3 ~88 ~152 ~-3 ~88 wool 0
+fill ~144 ~-3 ~89 ~152 ~-3 ~89 wool 0
+fill ~144 ~-3 ~90 ~152 ~-3 ~90 wool 0
+fill ~144 ~-3 ~91 ~152 ~-3 ~91 wool 0
+fill ~144 ~-3 ~92 ~152 ~-3 ~92 wool 0
+fill ~144 ~-3 ~93 ~152 ~-3 ~93 wool 0
+fill ~144 ~-3 ~100 ~152 ~-3 ~100 wool 0
+fill ~144 ~-3 ~101 ~152 ~-3 ~101 wool 0
+fill ~144 ~-3 ~102 ~152 ~-3 ~102 wool 0
+fill ~144 ~-3 ~103 ~152 ~-3 ~103 wool 0
+fill ~144 ~-3 ~104 ~152 ~-3 ~104 wool 0
+fill ~144 ~-3 ~105 ~152 ~-3 ~105 wool 0
+fill ~144 ~-3 ~113 ~146 ~-3 ~113 wool 0
+fill ~144 ~-3 ~116 ~146 ~-3 ~116 wool 0
+fill ~144 ~-3 ~124 ~152 ~-3 ~124 wool 0
+fill ~144 ~-3 ~125 ~152 ~-3 ~125 wool 0
+fill ~144 ~-3 ~126 ~152 ~-3 ~126 wool 0
+fill ~144 ~-3 ~127 ~152 ~-3 ~127 wool 0
+fill ~144 ~-3 ~128 ~152 ~-3 ~128 wool 0
+fill ~144 ~-3 ~129 ~152 ~-3 ~129 wool 0
+setblock ~144 ~-3 ~141 wool 0
+fill ~144 ~-3 ~142 ~144 ~-3 ~143 wool 15
+fill ~144 ~-3 ~145 ~148 ~-3 ~145 wool 11
+fill ~144 ~-3 ~147 ~145 ~-3 ~147 wool 15
+fill ~144 ~-3 ~148 ~145 ~-3 ~148 wool 11
+setblock ~145 ~-3 ~8 wool 15
+fill ~145 ~-3 ~13 ~149 ~-3 ~13 wool 0
+setblock ~145 ~-3 ~14 wool 14
+fill ~145 ~-3 ~15 ~145 ~-3 ~16 wool 15
+setblock ~145 ~-3 ~17 wool 14
+setblock ~145 ~-3 ~19 wool 15
+fill ~145 ~-3 ~20 ~152 ~-3 ~20 wool 0
+fill ~145 ~-3 ~41 ~152 ~-3 ~41 wool 0
+setblock ~145 ~-3 ~42 wool 11
+fill ~145 ~-3 ~44 ~146 ~-3 ~44 wool 0
+fill ~145 ~-3 ~74 ~147 ~-3 ~74 wool 0
+setblock ~145 ~-3 ~77 wool 0
+setblock ~145 ~-3 ~80 wool 0
+fill ~145 ~-3 ~114 ~145 ~-3 ~115 wool 15
+setblock ~145 ~-3 ~117 wool 15
+setblock ~145 ~-3 ~141 wool 15
+fill ~145 ~-3 ~142 ~146 ~-3 ~142 wool 0
+fill ~145 ~-3 ~143 ~145 ~-3 ~142 wool 0
+fill ~145 ~-3 ~144 ~146 ~-3 ~144 wool 15
+fill ~146 ~-3 ~8 ~152 ~-3 ~8 wool 0
+setblock ~146 ~-3 ~9 wool 15
+fill ~146 ~-3 ~14 ~150 ~-3 ~14 wool 0
+fill ~146 ~-3 ~15 ~146 ~-3 ~16 wool 14
+setblock ~146 ~-3 ~17 wool 15
+fill ~146 ~-3 ~18 ~152 ~-3 ~18 wool 0
+fill ~146 ~-3 ~19 ~152 ~-3 ~19 wool 0
+fill ~146 ~-3 ~42 ~147 ~-3 ~42 wool 0
+setblock ~146 ~-3 ~43 wool 11
+fill ~146 ~-3 ~77 ~148 ~-3 ~77 wool 15
+fill ~146 ~-3 ~78 ~149 ~-3 ~78 wool 15
+fill ~146 ~-3 ~79 ~150 ~-3 ~79 wool 15
+fill ~146 ~-3 ~80 ~149 ~-3 ~80 wool 15
+fill ~146 ~-3 ~82 ~147 ~-3 ~82 wool 15
+setblock ~146 ~-3 ~111 wool 15
+fill ~146 ~-3 ~114 ~152 ~-3 ~114 wool 0
+fill ~146 ~-3 ~115 ~152 ~-3 ~115 wool 0
+setblock ~146 ~-3 ~117 wool 0
+fill ~146 ~-3 ~119 ~147 ~-3 ~119 wool 15
+fill ~146 ~-3 ~134 ~147 ~-3 ~134 wool 15
+fill ~146 ~-3 ~135 ~147 ~-3 ~135 wool 15
+fill ~146 ~-3 ~136 ~147 ~-3 ~136 wool 15
+setblock ~146 ~-3 ~138 wool 15
+setblock ~146 ~-3 ~141 wool 0
+setblock ~146 ~-3 ~143 wool 15
+setblock ~146 ~-3 ~147 wool 11
+fill ~146 ~-3 ~148 ~147 ~-3 ~148 wool 0
+fill ~147 ~-3 ~9 ~152 ~-3 ~9 wool 0
+setblock ~147 ~-3 ~10 wool 15
+fill ~147 ~-3 ~15 ~152 ~-3 ~15 wool 0
+fill ~147 ~-3 ~16 ~147 ~-3 ~17 wool 14
+setblock ~147 ~-3 ~43 wool 0
+setblock ~147 ~-3 ~44 wool 11
+fill ~147 ~-3 ~110 ~149 ~-3 ~110 wool 15
+fill ~147 ~-3 ~111 ~152 ~-3 ~111 wool 0
+fill ~147 ~-3 ~112 ~147 ~-3 ~113 wool 15
+fill ~147 ~-3 ~116 ~147 ~-3 ~117 wool 15
+fill ~147 ~-3 ~138 ~152 ~-3 ~138 wool 0
+fill ~147 ~-3 ~141 ~148 ~-3 ~141 wool 11
+fill ~147 ~-3 ~142 ~148 ~-3 ~142 wool 11
+fill ~147 ~-3 ~143 ~148 ~-3 ~143 wool 11
+fill ~147 ~-3 ~144 ~148 ~-3 ~144 wool 11
+fill ~147 ~-3 ~147 ~148 ~-3 ~147 wool 0
+fill ~148 ~-3 ~10 ~152 ~-3 ~10 wool 0
+setblock ~148 ~-3 ~11 wool 15
+fill ~148 ~-3 ~16 ~152 ~-3 ~16 wool 0
+setblock ~148 ~-3 ~17 wool 14
+fill ~148 ~-3 ~42 ~148 ~-3 ~43 wool 11
+fill ~148 ~-3 ~44 ~152 ~-3 ~44 wool 0
+setblock ~148 ~-3 ~74 wool 15
+setblock ~148 ~-3 ~82 wool 0
+fill ~148 ~-3 ~112 ~152 ~-3 ~112 wool 0
+fill ~148 ~-3 ~113 ~152 ~-3 ~113 wool 0
+fill ~148 ~-3 ~116 ~152 ~-3 ~116 wool 0
+fill ~148 ~-3 ~117 ~152 ~-3 ~117 wool 0
+fill ~148 ~-3 ~119 ~152 ~-3 ~119 wool 0
+fill ~148 ~-3 ~134 ~152 ~-3 ~134 wool 0
+fill ~148 ~-3 ~135 ~152 ~-3 ~135 wool 0
+fill ~148 ~-3 ~136 ~152 ~-3 ~136 wool 0
+fill ~148 ~-3 ~139 ~148 ~-3 ~140 wool 15
+fill ~148 ~-3 ~146 ~149 ~-3 ~146 wool 0
+fill ~148 ~-3 ~148 ~150 ~-3 ~148 wool 15
+fill ~148 ~-3 ~149 ~149 ~-3 ~149 wool 15
+fill ~149 ~-3 ~11 ~152 ~-3 ~11 wool 0
+setblock ~149 ~-3 ~12 wool 15
+fill ~149 ~-3 ~17 ~152 ~-3 ~17 wool 0
+fill ~149 ~-3 ~42 ~149 ~-3 ~74 wool 0
+fill ~149 ~-3 ~77 ~152 ~-3 ~77 wool 0
+fill ~149 ~-3 ~82 ~150 ~-3 ~82 wool 15
+setblock ~149 ~-3 ~118 wool 15
+fill ~149 ~-3 ~139 ~152 ~-3 ~139 wool 0
+fill ~149 ~-3 ~140 ~152 ~-3 ~140 wool 0
+fill ~149 ~-3 ~141 ~152 ~-3 ~141 wool 0
+fill ~149 ~-3 ~142 ~152 ~-3 ~142 wool 0
+fill ~149 ~-3 ~143 ~152 ~-3 ~143 wool 0
+fill ~149 ~-3 ~144 ~152 ~-3 ~144 wool 0
+fill ~149 ~-3 ~145 ~152 ~-3 ~145 wool 0
+fill ~149 ~-3 ~147 ~151 ~-3 ~147 wool 15
+fill ~150 ~-3 ~12 ~152 ~-3 ~12 wool 0
+setblock ~150 ~-3 ~13 wool 15
+fill ~150 ~-3 ~42 ~150 ~-3 ~43 wool 11
+fill ~150 ~-3 ~74 ~152 ~-3 ~74 wool 0
+fill ~150 ~-3 ~78 ~152 ~-3 ~78 wool 0
+fill ~150 ~-3 ~80 ~152 ~-3 ~80 wool 0
+fill ~150 ~-3 ~81 ~152 ~-3 ~81 wool 0
+setblock ~150 ~-3 ~83 wool 15
+fill ~150 ~-3 ~110 ~152 ~-3 ~110 wool 0
+fill ~150 ~-3 ~118 ~152 ~-3 ~118 wool 0
+fill ~150 ~-3 ~146 ~151 ~-3 ~146 wool 15
+fill ~150 ~-3 ~149 ~152 ~-3 ~149 wool 0
+fill ~151 ~-3 ~13 ~152 ~-3 ~13 wool 0
+setblock ~151 ~-3 ~14 wool 15
+fill ~151 ~-3 ~42 ~152 ~-3 ~42 wool 0
+setblock ~151 ~-3 ~43 wool 11
+fill ~151 ~-3 ~75 ~152 ~-3 ~75 wool 0
+fill ~151 ~-3 ~76 ~152 ~-3 ~76 wool 0
+fill ~151 ~-3 ~79 ~152 ~-3 ~79 wool 0
+fill ~151 ~-3 ~82 ~152 ~-3 ~82 wool 0
+fill ~151 ~-3 ~83 ~152 ~-3 ~83 wool 0
+fill ~151 ~-3 ~148 ~152 ~-3 ~148 wool 0
+setblock ~152 ~-3 ~14 wool 0
+setblock ~152 ~-3 ~43 wool 0
+fill ~152 ~-3 ~146 ~152 ~-3 ~150 wool 0
+fill ~23 ~-2 ~29 ~26 ~-2 ~29 wool 14
+fill ~23 ~-2 ~30 ~23 ~1 ~30 wool 14
+fill ~23 ~-2 ~31 ~23 ~1 ~31 wool 14
+fill ~23 ~-2 ~32 ~23 ~1 ~32 wool 14
+fill ~23 ~-2 ~33 ~26 ~-2 ~33 wool 14
+fill ~23 ~-2 ~41 ~26 ~-2 ~41 wool 14
+fill ~23 ~-2 ~42 ~23 ~1 ~42 wool 14
+fill ~23 ~-2 ~43 ~23 ~1 ~43 wool 14
+fill ~23 ~-2 ~44 ~23 ~1 ~44 wool 14
+fill ~23 ~-2 ~45 ~26 ~-2 ~45 wool 14
+fill ~23 ~-2 ~65 ~26 ~-2 ~65 wool 14
+fill ~23 ~-2 ~66 ~23 ~1 ~66 wool 14
+fill ~23 ~-2 ~67 ~23 ~1 ~67 wool 14
+fill ~23 ~-2 ~68 ~23 ~1 ~68 wool 14
+fill ~23 ~-2 ~69 ~26 ~-2 ~69 wool 14
+fill ~23 ~-2 ~100 ~26 ~-2 ~100 wool 13
+fill ~23 ~-2 ~101 ~23 ~0 ~101 wool 13
+fill ~23 ~-2 ~102 ~26 ~-2 ~102 wool 13
+fill ~23 ~-2 ~103 ~26 ~-2 ~103 wool 13
+fill ~23 ~-2 ~104 ~23 ~0 ~104 wool 13
+fill ~23 ~-2 ~105 ~23 ~0 ~105 wool 13
+fill ~23 ~-2 ~124 ~26 ~-2 ~124 wool 13
+fill ~23 ~-2 ~125 ~23 ~0 ~125 wool 13
+fill ~23 ~-2 ~126 ~26 ~-2 ~126 wool 13
+fill ~23 ~-2 ~127 ~26 ~-2 ~127 wool 13
+fill ~23 ~-2 ~128 ~23 ~0 ~128 wool 13
+fill ~23 ~-2 ~129 ~23 ~0 ~129 wool 13
+fill ~24 ~-2 ~31 ~24 ~-2 ~32 bed 1
+fill ~24 ~-2 ~43 ~24 ~-2 ~44 bed 1
+fill ~24 ~-2 ~67 ~24 ~-2 ~68 bed 1
+fill ~25 ~-2 ~31 ~25 ~-2 ~32 bed 3
+fill ~25 ~-2 ~43 ~25 ~-2 ~44 bed 3
+fill ~25 ~-2 ~67 ~25 ~-2 ~68 bed 3
+fill ~26 ~-2 ~30 ~26 ~1 ~30 wool 14
+fill ~26 ~-2 ~31 ~26 ~1 ~31 wool 14
+fill ~26 ~-2 ~32 ~26 ~1 ~32 wool 14
+fill ~26 ~-2 ~42 ~26 ~1 ~42 wool 14
+fill ~26 ~-2 ~43 ~26 ~1 ~43 wool 14
+fill ~26 ~-2 ~44 ~26 ~1 ~44 wool 14
+fill ~26 ~-2 ~66 ~26 ~1 ~66 wool 14
+fill ~26 ~-2 ~67 ~26 ~1 ~67 wool 14
+fill ~26 ~-2 ~68 ~26 ~1 ~68 wool 14
+fill ~26 ~-2 ~101 ~26 ~0 ~101 wool 13
+fill ~26 ~-2 ~104 ~26 ~0 ~104 wool 13
+fill ~26 ~-2 ~105 ~26 ~0 ~105 wool 13
+fill ~26 ~-2 ~125 ~26 ~0 ~125 wool 13
+fill ~26 ~-2 ~128 ~26 ~0 ~128 wool 13
+fill ~26 ~-2 ~129 ~26 ~0 ~129 wool 13
+fill ~27 ~-2 ~21 ~38 ~-2 ~21 wool 13
+fill ~27 ~-2 ~22 ~27 ~1 ~22 wool 13
+fill ~27 ~-2 ~23 ~27 ~1 ~23 wool 13
+fill ~27 ~-2 ~24 ~38 ~-2 ~24 wool 13
+fill ~28 ~-2 ~133 ~30 ~-2 ~133 wool 13
+fill ~28 ~-2 ~134 ~28 ~1 ~134 wool 13
+fill ~28 ~-2 ~135 ~28 ~1 ~135 wool 13
+fill ~28 ~-2 ~136 ~30 ~-2 ~136 wool 13
+fill ~29 ~-2 ~22 ~30 ~-2 ~22 wool 13
+fill ~29 ~-2 ~23 ~30 ~-2 ~23 wool 13
+fill ~32 ~-2 ~22 ~33 ~-2 ~22 wool 13
+fill ~32 ~-2 ~23 ~33 ~-2 ~23 wool 13
+fill ~32 ~-2 ~133 ~37 ~-2 ~133 wool 13
+fill ~32 ~-2 ~134 ~32 ~-2 ~136 wool 13
+fill ~33 ~-2 ~136 ~37 ~-2 ~136 wool 13
+fill ~34 ~-2 ~71 ~39 ~-2 ~71 wool 14
+fill ~34 ~-2 ~72 ~39 ~-2 ~72 wool 14
+fill ~34 ~-2 ~73 ~39 ~-2 ~73 wool 14
+fill ~34 ~-2 ~74 ~39 ~-2 ~74 wool 14
+fill ~34 ~-2 ~75 ~39 ~-2 ~75 wool 14
+fill ~34 ~-2 ~76 ~39 ~-2 ~76 wool 14
+fill ~34 ~-2 ~134 ~35 ~-2 ~134 wool 13
+fill ~34 ~-2 ~135 ~35 ~-2 ~135 wool 13
+fill ~35 ~-2 ~22 ~36 ~-2 ~22 wool 13
+fill ~35 ~-2 ~23 ~36 ~-2 ~23 wool 13
+fill ~38 ~-2 ~22 ~38 ~-2 ~24 wool 13
+fill ~38 ~-2 ~105 ~58 ~-2 ~105 wool 1
+fill ~38 ~-2 ~106 ~59 ~-2 ~106 wool 1
+fill ~39 ~-2 ~104 ~57 ~-2 ~104 wool 1
+fill ~39 ~-2 ~107 ~60 ~-2 ~107 wool 1
+fill ~40 ~-2 ~103 ~56 ~-2 ~103 wool 1
+fill ~40 ~-2 ~108 ~61 ~-2 ~108 wool 1
+fill ~41 ~-2 ~102 ~55 ~-2 ~102 wool 1
+fill ~41 ~-2 ~109 ~62 ~-2 ~109 wool 1
+fill ~42 ~-2 ~101 ~54 ~-2 ~101 wool 1
+fill ~42 ~-2 ~110 ~63 ~-2 ~110 wool 1
+fill ~43 ~-2 ~100 ~53 ~-2 ~100 wool 1
+fill ~43 ~-2 ~111 ~64 ~-2 ~111 wool 1
+fill ~44 ~-2 ~99 ~52 ~-2 ~99 wool 1
+fill ~44 ~-2 ~112 ~64 ~-2 ~112 wool 1
+fill ~45 ~-2 ~81 ~50 ~-2 ~81 wool 14
+fill ~45 ~-2 ~82 ~50 ~-2 ~82 wool 14
+fill ~45 ~-2 ~83 ~50 ~-2 ~83 wool 14
+fill ~45 ~-2 ~84 ~50 ~-2 ~84 wool 14
+fill ~45 ~-2 ~85 ~50 ~-2 ~85 wool 14
+fill ~45 ~-2 ~86 ~50 ~-2 ~86 wool 14
+fill ~45 ~-2 ~98 ~51 ~-2 ~98 wool 1
+fill ~45 ~-2 ~113 ~63 ~-2 ~113 wool 1
+fill ~46 ~-2 ~97 ~50 ~-2 ~97 wool 1
+fill ~46 ~-2 ~114 ~62 ~-2 ~114 wool 1
+fill ~47 ~-2 ~96 ~49 ~-2 ~96 wool 1
+fill ~47 ~-2 ~115 ~61 ~-2 ~115 wool 1
+fill ~48 ~-2 ~95 ~48 ~-1 ~95 wool 1
+fill ~48 ~-2 ~116 ~60 ~-2 ~116 wool 1
+fill ~49 ~-2 ~117 ~59 ~-2 ~117 wool 1
+fill ~50 ~-2 ~118 ~58 ~-2 ~118 wool 1
+fill ~51 ~-2 ~119 ~57 ~-2 ~119 wool 1
+fill ~52 ~-2 ~21 ~57 ~-2 ~21 wool 13
+fill ~52 ~-2 ~24 ~57 ~-2 ~24 wool 13
+fill ~52 ~-2 ~120 ~56 ~-2 ~120 wool 1
+fill ~53 ~-2 ~121 ~55 ~-2 ~121 wool 1
+fill ~54 ~-2 ~22 ~55 ~-2 ~22 wool 13
+fill ~54 ~-2 ~23 ~55 ~-2 ~23 wool 13
+fill ~54 ~-2 ~122 ~54 ~-1 ~122 wool 1
+fill ~54 ~-2 ~133 ~59 ~-2 ~133 wool 13
+fill ~54 ~-2 ~134 ~54 ~-2 ~136 wool 13
+fill ~55 ~-2 ~136 ~59 ~-2 ~136 wool 13
+fill ~56 ~-2 ~134 ~57 ~-2 ~134 wool 13
+fill ~56 ~-2 ~135 ~57 ~-2 ~135 wool 13
+fill ~57 ~-2 ~22 ~57 ~-2 ~24 wool 13
+fill ~59 ~-2 ~21 ~61 ~-2 ~21 wool 13
+fill ~59 ~-2 ~24 ~61 ~-2 ~24 wool 13
+fill ~61 ~-2 ~22 ~61 ~1 ~22 wool 13
+fill ~61 ~-2 ~23 ~61 ~1 ~23 wool 13
+fill ~64 ~-2 ~21 ~69 ~-2 ~21 wool 13
+fill ~64 ~-2 ~24 ~69 ~-2 ~24 wool 13
+fill ~66 ~-2 ~22 ~67 ~-2 ~22 wool 13
+fill ~66 ~-2 ~23 ~67 ~-2 ~23 wool 13
+fill ~69 ~-2 ~22 ~69 ~-2 ~24 wool 13
+fill ~71 ~-2 ~21 ~73 ~-2 ~21 wool 13
+fill ~71 ~-2 ~24 ~73 ~-2 ~24 wool 13
+fill ~73 ~-2 ~22 ~73 ~1 ~22 wool 13
+fill ~73 ~-2 ~23 ~73 ~1 ~23 wool 13
+fill ~91 ~-2 ~21 ~93 ~-2 ~21 wool 13
+fill ~91 ~-2 ~22 ~91 ~1 ~22 wool 13
+fill ~91 ~-2 ~23 ~91 ~1 ~23 wool 13
+fill ~91 ~-2 ~24 ~93 ~-2 ~24 wool 13
+fill ~93 ~-2 ~22 ~93 ~-2 ~24 wool 13
+fill ~97 ~-2 ~45 ~117 ~-2 ~45 wool 4
+fill ~97 ~-2 ~46 ~118 ~-2 ~46 wool 4
+fill ~98 ~-2 ~44 ~116 ~-2 ~44 wool 4
+fill ~98 ~-2 ~47 ~119 ~-2 ~47 wool 4
+fill ~99 ~-2 ~43 ~115 ~-2 ~43 wool 4
+fill ~99 ~-2 ~48 ~120 ~-2 ~48 wool 4
+fill ~100 ~-2 ~42 ~114 ~-2 ~42 wool 4
+fill ~100 ~-2 ~49 ~121 ~-2 ~49 wool 4
+fill ~101 ~-2 ~41 ~113 ~-2 ~41 wool 4
+fill ~101 ~-2 ~50 ~122 ~-2 ~50 wool 4
+fill ~102 ~-2 ~40 ~112 ~-2 ~40 wool 4
+fill ~102 ~-2 ~51 ~123 ~-2 ~51 wool 4
+fill ~103 ~-2 ~39 ~111 ~-2 ~39 wool 4
+fill ~103 ~-2 ~52 ~123 ~-2 ~52 wool 4
+fill ~104 ~-2 ~38 ~110 ~-2 ~38 wool 4
+fill ~104 ~-2 ~53 ~122 ~-2 ~53 wool 4
+fill ~105 ~-2 ~37 ~109 ~-2 ~37 wool 4
+fill ~105 ~-2 ~54 ~121 ~-2 ~54 wool 4
+fill ~106 ~-2 ~36 ~108 ~-2 ~36 wool 4
+fill ~106 ~-2 ~55 ~120 ~-2 ~55 wool 4
+fill ~107 ~-2 ~35 ~107 ~-1 ~35 wool 4
+fill ~107 ~-2 ~56 ~119 ~-2 ~56 wool 4
+fill ~108 ~-2 ~57 ~118 ~-2 ~57 wool 4
+fill ~109 ~-2 ~58 ~117 ~-2 ~58 wool 4
+fill ~110 ~-2 ~59 ~116 ~-2 ~59 wool 4
+fill ~111 ~-2 ~60 ~115 ~-2 ~60 wool 4
+fill ~112 ~-2 ~61 ~114 ~-2 ~61 wool 4
+fill ~113 ~-2 ~62 ~113 ~-1 ~62 wool 4
+fill ~114 ~-2 ~21 ~119 ~-2 ~21 wool 13
+fill ~114 ~-2 ~24 ~119 ~-2 ~24 wool 13
+fill ~116 ~-2 ~22 ~117 ~-2 ~22 wool 13
+fill ~116 ~-2 ~23 ~117 ~-2 ~23 wool 13
+fill ~119 ~-2 ~22 ~119 ~-2 ~24 wool 13
+fill ~126 ~-2 ~21 ~131 ~-2 ~21 wool 13
+fill ~126 ~-2 ~24 ~131 ~-2 ~24 wool 13
+fill ~128 ~-2 ~22 ~129 ~-2 ~22 wool 13
+fill ~128 ~-2 ~23 ~129 ~-2 ~23 wool 13
+fill ~131 ~-2 ~22 ~131 ~-2 ~24 wool 13
+fill ~135 ~-2 ~29 ~138 ~-2 ~29 wool 13
+fill ~135 ~-2 ~30 ~135 ~0 ~30 wool 13
+fill ~135 ~-2 ~31 ~138 ~-2 ~31 wool 13
+fill ~135 ~-2 ~53 ~138 ~-2 ~53 wool 13
+fill ~135 ~-2 ~54 ~135 ~0 ~54 wool 13
+fill ~135 ~-2 ~55 ~138 ~-2 ~55 wool 13
+fill ~135 ~-2 ~64 ~135 ~0 ~64 wool 13
+fill ~135 ~-2 ~65 ~135 ~0 ~65 wool 13
+fill ~135 ~-2 ~66 ~138 ~-2 ~66 wool 13
+fill ~135 ~-2 ~67 ~138 ~-2 ~67 wool 13
+fill ~135 ~-2 ~68 ~135 ~0 ~68 wool 13
+fill ~135 ~-2 ~69 ~138 ~-2 ~69 wool 13
+fill ~135 ~-2 ~88 ~138 ~-2 ~88 wool 14
+fill ~135 ~-2 ~89 ~135 ~1 ~89 wool 14
+fill ~135 ~-2 ~90 ~135 ~1 ~90 wool 14
+fill ~135 ~-2 ~91 ~135 ~1 ~91 wool 14
+fill ~135 ~-2 ~92 ~138 ~-2 ~92 wool 14
+fill ~135 ~-2 ~100 ~138 ~-2 ~100 wool 14
+fill ~135 ~-2 ~101 ~135 ~1 ~101 wool 14
+fill ~135 ~-2 ~102 ~135 ~1 ~102 wool 14
+fill ~135 ~-2 ~103 ~135 ~1 ~103 wool 14
+fill ~135 ~-2 ~104 ~138 ~-2 ~104 wool 14
+fill ~135 ~-2 ~124 ~138 ~-2 ~124 wool 14
+fill ~135 ~-2 ~125 ~135 ~1 ~125 wool 14
+fill ~135 ~-2 ~126 ~135 ~1 ~126 wool 14
+fill ~135 ~-2 ~127 ~135 ~1 ~127 wool 14
+fill ~135 ~-2 ~128 ~138 ~-2 ~128 wool 14
+fill ~136 ~-2 ~89 ~136 ~-2 ~90 bed 3
+fill ~136 ~-2 ~101 ~136 ~-2 ~102 bed 3
+fill ~136 ~-2 ~125 ~136 ~-2 ~126 bed 3
+fill ~137 ~-2 ~89 ~137 ~-2 ~90 bed 1
+fill ~137 ~-2 ~101 ~137 ~-2 ~102 bed 1
+fill ~137 ~-2 ~125 ~137 ~-2 ~126 bed 1
+fill ~138 ~-2 ~30 ~138 ~0 ~30 wool 13
+fill ~138 ~-2 ~54 ~138 ~0 ~54 wool 13
+fill ~138 ~-2 ~64 ~138 ~0 ~64 wool 13
+fill ~138 ~-2 ~65 ~138 ~0 ~65 wool 13
+fill ~138 ~-2 ~68 ~138 ~0 ~68 wool 13
+fill ~138 ~-2 ~89 ~138 ~1 ~89 wool 14
+fill ~138 ~-2 ~90 ~138 ~1 ~90 wool 14
+fill ~138 ~-2 ~91 ~138 ~1 ~91 wool 14
+fill ~138 ~-2 ~101 ~138 ~1 ~101 wool 14
+fill ~138 ~-2 ~102 ~138 ~1 ~102 wool 14
+fill ~138 ~-2 ~103 ~138 ~1 ~103 wool 14
+fill ~138 ~-2 ~125 ~138 ~1 ~125 wool 14
+fill ~138 ~-2 ~126 ~138 ~1 ~126 wool 14
+fill ~138 ~-2 ~127 ~138 ~1 ~127 wool 14
+fill ~23 ~-1 ~29 ~23 ~1 ~29 wool 14
+fill ~23 ~-1 ~33 ~26 ~-1 ~33 wool 14
+fill ~23 ~-1 ~41 ~23 ~1 ~41 wool 14
+fill ~23 ~-1 ~45 ~26 ~-1 ~45 wool 14
+fill ~23 ~-1 ~65 ~23 ~1 ~65 wool 14
+fill ~23 ~-1 ~69 ~26 ~-1 ~69 wool 14
+fill ~23 ~-1 ~100 ~23 ~0 ~100 wool 13
+fill ~23 ~-1 ~102 ~26 ~-1 ~102 wool 13
+fill ~23 ~-1 ~103 ~26 ~-1 ~103 wool 13
+fill ~23 ~-1 ~124 ~23 ~0 ~124 wool 13
+fill ~23 ~-1 ~126 ~26 ~-1 ~126 wool 13
+fill ~23 ~-1 ~127 ~26 ~-1 ~127 wool 13
+setblock ~24 ~-1 ~101 trapdoor 2
+fill ~24 ~-1 ~104 ~24 ~-1 ~105 trapdoor 2
+setblock ~24 ~-1 ~125 trapdoor 2
+fill ~24 ~-1 ~128 ~24 ~-1 ~129 trapdoor 2
+setblock ~25 ~-1 ~101 trapdoor 3
+fill ~25 ~-1 ~104 ~25 ~-1 ~105 trapdoor 3
+setblock ~25 ~-1 ~125 trapdoor 3
+fill ~25 ~-1 ~128 ~25 ~-1 ~129 trapdoor 3
+fill ~26 ~-1 ~29 ~26 ~1 ~29 wool 14
+fill ~26 ~-1 ~41 ~26 ~1 ~41 wool 14
+fill ~26 ~-1 ~65 ~26 ~1 ~65 wool 14
+fill ~26 ~-1 ~100 ~26 ~0 ~100 wool 13
+fill ~26 ~-1 ~124 ~26 ~0 ~124 wool 13
+fill ~27 ~-1 ~21 ~38 ~-1 ~21 wool 13
+fill ~27 ~-1 ~24 ~38 ~-1 ~24 wool 13
+setblock ~28 ~-1 ~22 trapdoor 2
+setblock ~28 ~-1 ~23 trapdoor 3
+fill ~28 ~-1 ~133 ~30 ~-1 ~133 wool 13
+fill ~28 ~-1 ~136 ~30 ~-1 ~136 wool 13
+fill ~29 ~-1 ~134 ~30 ~-1 ~134 trapdoor 3
+fill ~29 ~-1 ~135 ~30 ~-1 ~135 trapdoor 2
+fill ~30 ~-1 ~22 ~30 ~1 ~22 wool 13
+fill ~30 ~-1 ~23 ~30 ~1 ~23 wool 13
+setblock ~31 ~-1 ~22 trapdoor 2
+setblock ~31 ~-1 ~23 trapdoor 3
+fill ~32 ~-1 ~133 ~37 ~-1 ~133 wool 13
+fill ~32 ~-1 ~136 ~37 ~-1 ~136 wool 13
+fill ~33 ~-1 ~22 ~33 ~1 ~22 wool 13
+fill ~33 ~-1 ~23 ~33 ~1 ~23 wool 13
+setblock ~33 ~-1 ~134 trapdoor 3
+setblock ~33 ~-1 ~135 trapdoor 2
+setblock ~34 ~-1 ~22 trapdoor 2
+setblock ~34 ~-1 ~23 trapdoor 3
+fill ~34 ~-1 ~71 ~39 ~-1 ~71 wool 14
+setblock ~34 ~-1 ~72 wool 0
+fill ~34 ~-1 ~73 ~39 ~-1 ~73 wool 14
+fill ~34 ~-1 ~74 ~39 ~-1 ~74 wool 14
+setblock ~34 ~-1 ~75 wool 0
+fill ~34 ~-1 ~76 ~39 ~-1 ~76 wool 14
+fill ~34 ~-1 ~134 ~35 ~-1 ~134 wool 13
+fill ~34 ~-1 ~135 ~35 ~-1 ~135 wool 13
+fill ~35 ~-1 ~72 ~39 ~-1 ~72 wool 14
+fill ~35 ~-1 ~75 ~39 ~-1 ~75 wool 14
+fill ~36 ~-1 ~22 ~36 ~1 ~22 wool 13
+fill ~36 ~-1 ~23 ~36 ~1 ~23 wool 13
+fill ~36 ~-1 ~134 ~37 ~-1 ~134 trapdoor 3
+fill ~36 ~-1 ~135 ~37 ~-1 ~135 trapdoor 2
+setblock ~37 ~-1 ~22 trapdoor 2
+setblock ~37 ~-1 ~23 trapdoor 3
+fill ~38 ~-1 ~105 ~58 ~-1 ~105 wool 1
+fill ~38 ~-1 ~106 ~59 ~-1 ~106 wool 1
+fill ~39 ~-1 ~104 ~57 ~-1 ~104 wool 1
+fill ~39 ~-1 ~107 ~60 ~-1 ~107 wool 1
+fill ~40 ~-1 ~103 ~56 ~-1 ~103 wool 1
+fill ~40 ~-1 ~108 ~61 ~-1 ~108 wool 1
+fill ~41 ~-1 ~102 ~55 ~-1 ~102 wool 1
+fill ~41 ~-1 ~109 ~62 ~-1 ~109 wool 1
+fill ~42 ~-1 ~101 ~54 ~-1 ~101 wool 1
+fill ~42 ~-1 ~110 ~63 ~-1 ~110 wool 1
+fill ~43 ~-1 ~100 ~53 ~-1 ~100 wool 1
+fill ~43 ~-1 ~111 ~64 ~-1 ~111 wool 1
+fill ~44 ~-1 ~99 ~52 ~-1 ~99 wool 1
+fill ~44 ~-1 ~112 ~64 ~-1 ~112 wool 1
+fill ~45 ~-1 ~81 ~45 ~3 ~81 wool 14
+fill ~45 ~-1 ~82 ~49 ~-1 ~82 wool 14
+fill ~45 ~-1 ~83 ~50 ~-1 ~83 wool 14
+fill ~45 ~-1 ~84 ~50 ~-1 ~84 wool 14
+fill ~45 ~-1 ~85 ~49 ~-1 ~85 wool 14
+fill ~45 ~-1 ~86 ~50 ~-1 ~86 wool 14
+fill ~45 ~-1 ~98 ~51 ~-1 ~98 wool 1
+fill ~45 ~-1 ~113 ~63 ~-1 ~113 wool 1
+fill ~46 ~-1 ~81 ~46 ~0 ~81 wool 0
+fill ~46 ~-1 ~97 ~50 ~-1 ~97 wool 1
+fill ~46 ~-1 ~114 ~62 ~-1 ~114 wool 1
+fill ~47 ~-1 ~81 ~48 ~-1 ~81 wool 14
+fill ~47 ~-1 ~96 ~49 ~-1 ~96 wool 1
+fill ~47 ~-1 ~115 ~61 ~-1 ~115 wool 1
+fill ~48 ~-1 ~116 ~60 ~-1 ~116 wool 1
+fill ~49 ~-1 ~81 ~49 ~0 ~81 wool 0
+fill ~49 ~-1 ~117 ~59 ~-1 ~117 wool 1
+fill ~50 ~-1 ~81 ~50 ~3 ~81 wool 14
+setblock ~50 ~-1 ~82 wool 0
+setblock ~50 ~-1 ~85 wool 0
+fill ~50 ~-1 ~118 ~58 ~-1 ~118 wool 1
+fill ~51 ~-1 ~119 ~57 ~-1 ~119 wool 1
+fill ~52 ~-1 ~21 ~57 ~-1 ~21 wool 13
+fill ~52 ~-1 ~22 ~53 ~-1 ~22 trapdoor 2
+fill ~52 ~-1 ~23 ~53 ~-1 ~23 trapdoor 3
+fill ~52 ~-1 ~24 ~57 ~-1 ~24 wool 13
+fill ~52 ~-1 ~120 ~56 ~-1 ~120 wool 1
+fill ~53 ~-1 ~121 ~55 ~-1 ~121 wool 1
+fill ~54 ~-1 ~22 ~55 ~-1 ~22 wool 13
+fill ~54 ~-1 ~23 ~55 ~-1 ~23 wool 13
+fill ~54 ~-1 ~133 ~59 ~-1 ~133 wool 13
+fill ~54 ~-1 ~136 ~59 ~-1 ~136 wool 13
+setblock ~55 ~-1 ~134 trapdoor 3
+setblock ~55 ~-1 ~135 trapdoor 2
+setblock ~56 ~-1 ~22 trapdoor 2
+setblock ~56 ~-1 ~23 trapdoor 3
+fill ~56 ~-1 ~134 ~57 ~-1 ~134 wool 13
+fill ~56 ~-1 ~135 ~57 ~-1 ~135 wool 13
+fill ~58 ~-1 ~134 ~59 ~-1 ~134 trapdoor 3
+fill ~58 ~-1 ~135 ~59 ~-1 ~135 trapdoor 2
+fill ~59 ~-1 ~21 ~61 ~-1 ~21 wool 13
+fill ~59 ~-1 ~22 ~60 ~-1 ~22 trapdoor 2
+fill ~59 ~-1 ~23 ~60 ~-1 ~23 trapdoor 3
+fill ~59 ~-1 ~24 ~61 ~-1 ~24 wool 13
+fill ~64 ~-1 ~21 ~69 ~-1 ~21 wool 13
+fill ~64 ~-1 ~22 ~65 ~-1 ~22 trapdoor 2
+fill ~64 ~-1 ~23 ~65 ~-1 ~23 trapdoor 3
+fill ~64 ~-1 ~24 ~69 ~-1 ~24 wool 13
+fill ~66 ~-1 ~22 ~67 ~-1 ~22 wool 13
+fill ~66 ~-1 ~23 ~67 ~-1 ~23 wool 13
+setblock ~68 ~-1 ~22 trapdoor 2
+setblock ~68 ~-1 ~23 trapdoor 3
+fill ~71 ~-1 ~21 ~73 ~-1 ~21 wool 13
+fill ~71 ~-1 ~22 ~72 ~-1 ~22 trapdoor 2
+fill ~71 ~-1 ~23 ~72 ~-1 ~23 trapdoor 3
+fill ~71 ~-1 ~24 ~73 ~-1 ~24 wool 13
+fill ~91 ~-1 ~21 ~93 ~-1 ~21 wool 13
+fill ~91 ~-1 ~24 ~93 ~-1 ~24 wool 13
+setblock ~92 ~-1 ~22 trapdoor 2
+setblock ~92 ~-1 ~23 trapdoor 3
+fill ~97 ~-1 ~45 ~117 ~-1 ~45 wool 4
+fill ~97 ~-1 ~46 ~118 ~-1 ~46 wool 4
+fill ~98 ~-1 ~44 ~116 ~-1 ~44 wool 4
+fill ~98 ~-1 ~47 ~119 ~-1 ~47 wool 4
+fill ~99 ~-1 ~43 ~115 ~-1 ~43 wool 4
+fill ~99 ~-1 ~48 ~120 ~-1 ~48 wool 4
+fill ~100 ~-1 ~42 ~114 ~-1 ~42 wool 4
+fill ~100 ~-1 ~49 ~121 ~-1 ~49 wool 4
+fill ~101 ~-1 ~41 ~113 ~-1 ~41 wool 4
+fill ~101 ~-1 ~50 ~122 ~-1 ~50 wool 4
+fill ~102 ~-1 ~40 ~112 ~-1 ~40 wool 4
+fill ~102 ~-1 ~51 ~123 ~-1 ~51 wool 4
+fill ~103 ~-1 ~39 ~111 ~-1 ~39 wool 4
+fill ~103 ~-1 ~52 ~123 ~-1 ~52 wool 4
+fill ~104 ~-1 ~38 ~110 ~-1 ~38 wool 4
+fill ~104 ~-1 ~53 ~122 ~-1 ~53 wool 4
+fill ~105 ~-1 ~37 ~109 ~-1 ~37 wool 4
+fill ~105 ~-1 ~54 ~121 ~-1 ~54 wool 4
+fill ~106 ~-1 ~36 ~108 ~-1 ~36 wool 4
+fill ~106 ~-1 ~55 ~120 ~-1 ~55 wool 4
+fill ~107 ~-1 ~56 ~119 ~-1 ~56 wool 4
+fill ~108 ~-1 ~57 ~118 ~-1 ~57 wool 4
+fill ~109 ~-1 ~58 ~117 ~-1 ~58 wool 4
+fill ~110 ~-1 ~59 ~116 ~-1 ~59 wool 4
+fill ~111 ~-1 ~60 ~115 ~-1 ~60 wool 4
+fill ~112 ~-1 ~61 ~114 ~-1 ~61 wool 4
+fill ~114 ~-1 ~21 ~119 ~-1 ~21 wool 13
+fill ~114 ~-1 ~22 ~115 ~-1 ~22 trapdoor 2
+fill ~114 ~-1 ~23 ~115 ~-1 ~23 trapdoor 3
+fill ~114 ~-1 ~24 ~119 ~-1 ~24 wool 13
+fill ~116 ~-1 ~22 ~117 ~-1 ~22 wool 13
+fill ~116 ~-1 ~23 ~117 ~-1 ~23 wool 13
+setblock ~118 ~-1 ~22 trapdoor 2
+setblock ~118 ~-1 ~23 trapdoor 3
+fill ~126 ~-1 ~21 ~131 ~-1 ~21 wool 13
+fill ~126 ~-1 ~22 ~127 ~-1 ~22 trapdoor 2
+fill ~126 ~-1 ~23 ~127 ~-1 ~23 trapdoor 3
+fill ~126 ~-1 ~24 ~131 ~-1 ~24 wool 13
+fill ~128 ~-1 ~22 ~129 ~-1 ~22 wool 13
+fill ~128 ~-1 ~23 ~129 ~-1 ~23 wool 13
+setblock ~130 ~-1 ~22 trapdoor 2
+setblock ~130 ~-1 ~23 trapdoor 3
+fill ~135 ~-1 ~29 ~138 ~-1 ~29 wool 13
+fill ~135 ~-1 ~31 ~135 ~0 ~31 wool 13
+fill ~135 ~-1 ~53 ~138 ~-1 ~53 wool 13
+fill ~135 ~-1 ~55 ~135 ~0 ~55 wool 13
+fill ~135 ~-1 ~66 ~138 ~-1 ~66 wool 13
+fill ~135 ~-1 ~67 ~138 ~-1 ~67 wool 13
+fill ~135 ~-1 ~69 ~135 ~0 ~69 wool 13
+fill ~135 ~-1 ~88 ~138 ~-1 ~88 wool 14
+fill ~135 ~-1 ~92 ~135 ~1 ~92 wool 14
+fill ~135 ~-1 ~100 ~138 ~-1 ~100 wool 14
+fill ~135 ~-1 ~104 ~135 ~1 ~104 wool 14
+fill ~135 ~-1 ~124 ~138 ~-1 ~124 wool 14
+fill ~135 ~-1 ~128 ~135 ~1 ~128 wool 14
+setblock ~136 ~-1 ~30 trapdoor 3
+setblock ~136 ~-1 ~54 trapdoor 3
+fill ~136 ~-1 ~64 ~136 ~-1 ~65 trapdoor 3
+setblock ~136 ~-1 ~68 trapdoor 3
+setblock ~137 ~-1 ~30 trapdoor 2
+setblock ~137 ~-1 ~54 trapdoor 2
+fill ~137 ~-1 ~64 ~137 ~-1 ~65 trapdoor 2
+setblock ~137 ~-1 ~68 trapdoor 2
+fill ~138 ~-1 ~31 ~138 ~0 ~31 wool 13
+fill ~138 ~-1 ~55 ~138 ~0 ~55 wool 13
+fill ~138 ~-1 ~69 ~138 ~0 ~69 wool 13
+fill ~138 ~-1 ~92 ~138 ~1 ~92 wool 14
+fill ~138 ~-1 ~104 ~138 ~1 ~104 wool 14
+fill ~138 ~-1 ~128 ~138 ~1 ~128 wool 14
+fill ~23 ~0 ~33 ~26 ~0 ~33 wool 14
+fill ~23 ~0 ~45 ~26 ~0 ~45 wool 14
+fill ~23 ~0 ~69 ~26 ~0 ~69 wool 14
+fill ~23 ~0 ~102 ~26 ~0 ~102 wool 13
+fill ~23 ~0 ~103 ~26 ~0 ~103 wool 13
+fill ~23 ~0 ~126 ~26 ~0 ~126 wool 13
+fill ~23 ~0 ~127 ~26 ~0 ~127 wool 13
+fill ~27 ~0 ~21 ~38 ~0 ~21 wool 13
+fill ~27 ~0 ~24 ~38 ~0 ~24 wool 13
+fill ~28 ~0 ~133 ~30 ~0 ~133 wool 13
+fill ~28 ~0 ~136 ~30 ~0 ~136 wool 13
+fill ~32 ~0 ~133 ~37 ~0 ~133 wool 13
+fill ~32 ~0 ~136 ~37 ~0 ~136 wool 13
+fill ~34 ~0 ~71 ~36 ~0 ~71 wool 14
+fill ~34 ~0 ~72 ~39 ~0 ~72 wool 14
+fill ~34 ~0 ~73 ~39 ~0 ~73 wool 14
+setblock ~34 ~0 ~74 wool 0
+fill ~34 ~0 ~75 ~39 ~0 ~75 wool 14
+fill ~34 ~0 ~76 ~39 ~0 ~76 wool 14
+fill ~34 ~0 ~134 ~35 ~0 ~134 wool 13
+fill ~34 ~0 ~135 ~35 ~0 ~135 wool 13
+fill ~35 ~0 ~74 ~39 ~0 ~74 wool 14
+setblock ~37 ~0 ~71 wool 0
+fill ~38 ~0 ~71 ~39 ~0 ~71 wool 14
+fill ~45 ~0 ~82 ~50 ~0 ~82 wool 14
+fill ~45 ~0 ~83 ~50 ~0 ~83 wool 14
+fill ~45 ~0 ~84 ~49 ~0 ~84 wool 14
+fill ~45 ~0 ~85 ~50 ~0 ~85 wool 14
+fill ~45 ~0 ~86 ~50 ~0 ~86 wool 14
+fill ~47 ~0 ~81 ~48 ~0 ~81 wool 14
+setblock ~50 ~0 ~84 wool 0
+fill ~52 ~0 ~21 ~57 ~0 ~21 wool 13
+fill ~52 ~0 ~24 ~57 ~0 ~24 wool 13
+fill ~54 ~0 ~22 ~55 ~0 ~22 wool 13
+fill ~54 ~0 ~23 ~55 ~0 ~23 wool 13
+fill ~54 ~0 ~133 ~59 ~0 ~133 wool 13
+fill ~54 ~0 ~136 ~59 ~0 ~136 wool 13
+fill ~56 ~0 ~134 ~57 ~0 ~134 wool 13
+fill ~56 ~0 ~135 ~57 ~0 ~135 wool 13
+fill ~59 ~0 ~21 ~61 ~0 ~21 wool 13
+fill ~59 ~0 ~24 ~61 ~0 ~24 wool 13
+fill ~64 ~0 ~21 ~69 ~0 ~21 wool 13
+fill ~64 ~0 ~24 ~69 ~0 ~24 wool 13
+fill ~66 ~0 ~22 ~67 ~0 ~22 wool 13
+fill ~66 ~0 ~23 ~67 ~0 ~23 wool 13
+fill ~71 ~0 ~21 ~73 ~0 ~21 wool 13
+fill ~71 ~0 ~24 ~73 ~0 ~24 wool 13
+fill ~91 ~0 ~21 ~93 ~0 ~21 wool 13
+fill ~91 ~0 ~24 ~93 ~0 ~24 wool 13
+fill ~114 ~0 ~21 ~119 ~0 ~21 wool 13
+fill ~114 ~0 ~24 ~119 ~0 ~24 wool 13
+fill ~116 ~0 ~22 ~117 ~0 ~22 wool 13
+fill ~116 ~0 ~23 ~117 ~0 ~23 wool 13
+fill ~126 ~0 ~21 ~131 ~0 ~21 wool 13
+fill ~126 ~0 ~24 ~131 ~0 ~24 wool 13
+fill ~128 ~0 ~22 ~129 ~0 ~22 wool 13
+fill ~128 ~0 ~23 ~129 ~0 ~23 wool 13
+fill ~135 ~0 ~29 ~138 ~0 ~29 wool 13
+fill ~135 ~0 ~53 ~138 ~0 ~53 wool 13
+fill ~135 ~0 ~66 ~138 ~0 ~66 wool 13
+fill ~135 ~0 ~67 ~138 ~0 ~67 wool 13
+fill ~135 ~0 ~88 ~138 ~0 ~88 wool 14
+fill ~135 ~0 ~100 ~138 ~0 ~100 wool 14
+fill ~135 ~0 ~124 ~138 ~0 ~124 wool 14
+fill ~23 ~1 ~33 ~26 ~1 ~33 wool 14
+fill ~23 ~1 ~45 ~26 ~1 ~45 wool 14
+fill ~23 ~1 ~69 ~26 ~1 ~69 wool 14
+fill ~24 ~1 ~29 ~26 ~1 ~29 wool 14
+fill ~24 ~1 ~30 ~26 ~1 ~30 wool 14
+fill ~24 ~1 ~31 ~26 ~1 ~31 wool 14
+fill ~24 ~1 ~32 ~26 ~1 ~32 wool 14
+fill ~24 ~1 ~41 ~26 ~1 ~41 wool 14
+fill ~24 ~1 ~42 ~26 ~1 ~42 wool 14
+fill ~24 ~1 ~43 ~26 ~1 ~43 wool 14
+fill ~24 ~1 ~44 ~26 ~1 ~44 wool 14
+fill ~24 ~1 ~65 ~26 ~1 ~65 wool 14
+fill ~24 ~1 ~66 ~26 ~1 ~66 wool 14
+fill ~24 ~1 ~67 ~26 ~1 ~67 wool 14
+fill ~24 ~1 ~68 ~26 ~1 ~68 wool 14
+fill ~24 ~1 ~100 ~25 ~1 ~100 wool 13
+fill ~24 ~1 ~101 ~25 ~1 ~101 wool 13
+fill ~24 ~1 ~102 ~25 ~1 ~102 wool 13
+fill ~24 ~1 ~103 ~25 ~1 ~103 wool 13
+fill ~24 ~1 ~104 ~25 ~1 ~104 wool 13
+fill ~24 ~1 ~105 ~25 ~1 ~105 wool 13
+fill ~24 ~1 ~124 ~25 ~1 ~124 wool 13
+fill ~24 ~1 ~125 ~25 ~1 ~125 wool 13
+fill ~24 ~1 ~126 ~25 ~1 ~126 wool 13
+fill ~24 ~1 ~127 ~25 ~1 ~127 wool 13
+fill ~24 ~1 ~128 ~25 ~1 ~128 wool 13
+fill ~24 ~1 ~129 ~25 ~1 ~129 wool 13
+fill ~28 ~1 ~22 ~38 ~1 ~22 wool 13
+fill ~28 ~1 ~23 ~38 ~1 ~23 wool 13
+fill ~29 ~1 ~134 ~30 ~1 ~134 wool 13
+fill ~29 ~1 ~135 ~30 ~1 ~135 wool 13
+fill ~32 ~1 ~134 ~37 ~1 ~134 wool 13
+fill ~32 ~1 ~135 ~37 ~1 ~135 wool 13
+fill ~34 ~1 ~71 ~39 ~1 ~71 wool 14
+fill ~34 ~1 ~72 ~39 ~1 ~72 wool 14
+fill ~34 ~1 ~73 ~39 ~1 ~73 wool 14
+fill ~34 ~1 ~74 ~39 ~1 ~74 wool 14
+fill ~34 ~1 ~75 ~39 ~1 ~75 wool 14
+fill ~34 ~1 ~76 ~39 ~1 ~76 wool 14
+fill ~45 ~1 ~82 ~50 ~1 ~82 wool 14
+fill ~45 ~1 ~83 ~50 ~1 ~83 wool 14
+fill ~45 ~1 ~84 ~50 ~1 ~84 wool 14
+fill ~45 ~1 ~85 ~50 ~1 ~85 wool 14
+fill ~45 ~1 ~86 ~50 ~1 ~86 wool 14
+fill ~46 ~1 ~81 ~50 ~1 ~81 wool 14
+fill ~52 ~1 ~22 ~57 ~1 ~22 wool 13
+fill ~52 ~1 ~23 ~57 ~1 ~23 wool 13
+fill ~54 ~1 ~134 ~59 ~1 ~134 wool 13
+fill ~54 ~1 ~135 ~59 ~1 ~135 wool 13
+fill ~59 ~1 ~22 ~61 ~1 ~22 wool 13
+fill ~59 ~1 ~23 ~61 ~1 ~23 wool 13
+fill ~64 ~1 ~22 ~69 ~1 ~22 wool 13
+fill ~64 ~1 ~23 ~69 ~1 ~23 wool 13
+fill ~71 ~1 ~22 ~73 ~1 ~22 wool 13
+fill ~71 ~1 ~23 ~73 ~1 ~23 wool 13
+fill ~92 ~1 ~22 ~93 ~1 ~22 wool 13
+fill ~92 ~1 ~23 ~93 ~1 ~23 wool 13
+fill ~114 ~1 ~22 ~119 ~1 ~22 wool 13
+fill ~114 ~1 ~23 ~119 ~1 ~23 wool 13
+fill ~126 ~1 ~22 ~131 ~1 ~22 wool 13
+fill ~126 ~1 ~23 ~131 ~1 ~23 wool 13
+fill ~135 ~1 ~88 ~138 ~1 ~88 wool 14
+fill ~135 ~1 ~100 ~138 ~1 ~100 wool 14
+fill ~135 ~1 ~124 ~138 ~1 ~124 wool 14
+fill ~136 ~1 ~29 ~137 ~1 ~29 wool 13
+fill ~136 ~1 ~30 ~137 ~1 ~30 wool 13
+fill ~136 ~1 ~31 ~137 ~1 ~31 wool 13
+fill ~136 ~1 ~53 ~137 ~1 ~53 wool 13
+fill ~136 ~1 ~54 ~137 ~1 ~54 wool 13
+fill ~136 ~1 ~55 ~137 ~1 ~55 wool 13
+fill ~136 ~1 ~64 ~137 ~1 ~64 wool 13
+fill ~136 ~1 ~65 ~137 ~1 ~65 wool 13
+fill ~136 ~1 ~66 ~137 ~1 ~66 wool 13
+fill ~136 ~1 ~67 ~137 ~1 ~67 wool 13
+fill ~136 ~1 ~68 ~137 ~1 ~68 wool 13
+fill ~136 ~1 ~69 ~137 ~1 ~69 wool 13
+fill ~136 ~1 ~89 ~138 ~1 ~89 wool 14
+fill ~136 ~1 ~90 ~138 ~1 ~90 wool 14
+fill ~136 ~1 ~91 ~138 ~1 ~91 wool 14
+fill ~136 ~1 ~92 ~138 ~1 ~92 wool 14
+fill ~136 ~1 ~101 ~138 ~1 ~101 wool 14
+fill ~136 ~1 ~102 ~138 ~1 ~102 wool 14
+fill ~136 ~1 ~103 ~138 ~1 ~103 wool 14
+fill ~136 ~1 ~104 ~138 ~1 ~104 wool 14
+fill ~136 ~1 ~125 ~138 ~1 ~125 wool 14
+fill ~136 ~1 ~126 ~138 ~1 ~126 wool 14
+fill ~136 ~1 ~127 ~138 ~1 ~127 wool 14
+fill ~136 ~1 ~128 ~138 ~1 ~128 wool 14
+fill ~24 ~2 ~29 ~25 ~2 ~29 wool 14
+fill ~24 ~2 ~30 ~25 ~2 ~30 wool 14
+fill ~24 ~2 ~31 ~25 ~2 ~31 wool 14
+fill ~24 ~2 ~32 ~25 ~2 ~32 wool 14
+fill ~24 ~2 ~33 ~25 ~2 ~33 wool 14
+fill ~24 ~2 ~41 ~25 ~2 ~41 wool 14
+fill ~24 ~2 ~42 ~25 ~2 ~42 wool 14
+fill ~24 ~2 ~43 ~25 ~2 ~43 wool 14
+fill ~24 ~2 ~44 ~25 ~2 ~44 wool 14
+fill ~24 ~2 ~45 ~25 ~2 ~45 wool 14
+fill ~24 ~2 ~65 ~25 ~2 ~65 wool 14
+fill ~24 ~2 ~66 ~25 ~2 ~66 wool 14
+fill ~24 ~2 ~67 ~25 ~2 ~67 wool 14
+fill ~24 ~2 ~68 ~25 ~2 ~68 wool 14
+fill ~24 ~2 ~69 ~25 ~2 ~69 wool 14
+fill ~24 ~2 ~101 ~24 ~1 ~101 wool 13
+fill ~24 ~2 ~104 ~24 ~1 ~104 wool 13
+fill ~24 ~2 ~125 ~24 ~1 ~125 wool 13
+fill ~24 ~2 ~128 ~24 ~1 ~128 wool 13
+fill ~28 ~2 ~22 ~28 ~1 ~22 wool 13
+fill ~29 ~2 ~135 ~29 ~1 ~135 wool 13
+setblock ~31 ~2 ~22 wool 13
+setblock ~33 ~2 ~135 wool 13
+setblock ~34 ~2 ~22 wool 13
+fill ~34 ~2 ~71 ~39 ~2 ~71 wool 14
+setblock ~34 ~2 ~72 wool 0
+fill ~34 ~2 ~73 ~39 ~2 ~73 wool 14
+fill ~34 ~2 ~74 ~39 ~2 ~74 wool 14
+setblock ~34 ~2 ~75 wool 0
+fill ~34 ~2 ~76 ~39 ~2 ~76 wool 14
+fill ~35 ~2 ~72 ~39 ~2 ~72 wool 14
+fill ~35 ~2 ~75 ~39 ~2 ~75 wool 14
+setblock ~36 ~2 ~135 wool 13
+setblock ~37 ~2 ~22 wool 13
+fill ~45 ~2 ~82 ~49 ~2 ~82 wool 14
+fill ~45 ~2 ~83 ~50 ~2 ~83 wool 14
+fill ~45 ~2 ~84 ~50 ~2 ~84 wool 14
+fill ~45 ~2 ~85 ~49 ~2 ~85 wool 14
+fill ~45 ~2 ~86 ~50 ~2 ~86 wool 14
+setblock ~46 ~2 ~81 wool 0
+fill ~47 ~2 ~81 ~48 ~2 ~81 wool 14
+setblock ~49 ~2 ~81 wool 0
+setblock ~50 ~2 ~82 wool 0
+setblock ~50 ~2 ~85 wool 0
+setblock ~53 ~2 ~22 wool 13
+setblock ~55 ~2 ~135 wool 13
+setblock ~56 ~2 ~22 wool 13
+setblock ~58 ~2 ~135 wool 13
+setblock ~60 ~2 ~22 wool 13
+setblock ~65 ~2 ~22 wool 13
+setblock ~68 ~2 ~22 wool 13
+setblock ~72 ~2 ~22 wool 13
+fill ~92 ~2 ~22 ~92 ~1 ~22 wool 13
+setblock ~115 ~2 ~22 wool 13
+setblock ~118 ~2 ~22 wool 13
+setblock ~127 ~2 ~22 wool 13
+setblock ~130 ~2 ~22 wool 13
+fill ~136 ~2 ~88 ~137 ~2 ~88 wool 14
+fill ~136 ~2 ~89 ~137 ~2 ~89 wool 14
+fill ~136 ~2 ~90 ~137 ~2 ~90 wool 14
+fill ~136 ~2 ~91 ~137 ~2 ~91 wool 14
+fill ~136 ~2 ~92 ~137 ~2 ~92 wool 14
+fill ~136 ~2 ~100 ~137 ~2 ~100 wool 14
+fill ~136 ~2 ~101 ~137 ~2 ~101 wool 14
+fill ~136 ~2 ~102 ~137 ~2 ~102 wool 14
+fill ~136 ~2 ~103 ~137 ~2 ~103 wool 14
+fill ~136 ~2 ~104 ~137 ~2 ~104 wool 14
+fill ~136 ~2 ~124 ~137 ~2 ~124 wool 14
+fill ~136 ~2 ~125 ~137 ~2 ~125 wool 14
+fill ~136 ~2 ~126 ~137 ~2 ~126 wool 14
+fill ~136 ~2 ~127 ~137 ~2 ~127 wool 14
+fill ~136 ~2 ~128 ~137 ~2 ~128 wool 14
+setblock ~137 ~2 ~30 wool 13
+setblock ~137 ~2 ~54 wool 13
+setblock ~137 ~2 ~65 wool 13
+setblock ~137 ~2 ~68 wool 13
+fill ~24 ~3 ~31 ~24 ~1 ~31 wool 14
+fill ~24 ~3 ~43 ~24 ~1 ~43 wool 14
+fill ~24 ~3 ~67 ~24 ~1 ~67 wool 14
+fill ~34 ~3 ~71 ~39 ~3 ~71 wool 14
+fill ~34 ~3 ~72 ~37 ~3 ~72 wool 14
+fill ~34 ~3 ~73 ~39 ~3 ~73 wool 14
+fill ~34 ~3 ~74 ~36 ~3 ~74 wool 14
+fill ~34 ~3 ~75 ~34 ~3 ~76 wool 14
+setblock ~35 ~3 ~75 wool 0
+fill ~35 ~3 ~76 ~39 ~3 ~76 wool 14
+fill ~36 ~3 ~75 ~39 ~3 ~75 wool 14
+setblock ~37 ~3 ~74 wool 0
+setblock ~38 ~3 ~72 wool 0
+fill ~38 ~3 ~74 ~39 ~3 ~74 wool 14
+setblock ~39 ~3 ~72 wool 14
+fill ~45 ~3 ~82 ~45 ~-2 ~82 wool 14
+fill ~45 ~3 ~83 ~50 ~3 ~83 wool 14
+fill ~45 ~3 ~84 ~50 ~3 ~84 wool 14
+fill ~45 ~3 ~85 ~45 ~-2 ~85 wool 14
+fill ~45 ~3 ~86 ~50 ~3 ~86 wool 14
+fill ~46 ~3 ~81 ~50 ~3 ~81 wool 14
+setblock ~46 ~3 ~82 wool 0
+setblock ~46 ~3 ~85 wool 0
+fill ~47 ~3 ~82 ~48 ~3 ~82 wool 14
+fill ~47 ~3 ~85 ~48 ~3 ~85 wool 14
+setblock ~49 ~3 ~82 wool 0
+setblock ~49 ~3 ~85 wool 0
+setblock ~50 ~3 ~82 wool 14
+setblock ~50 ~3 ~85 wool 14
+setblock ~137 ~3 ~90 wool 14
+setblock ~137 ~3 ~102 wool 14
+setblock ~137 ~3 ~126 wool 14

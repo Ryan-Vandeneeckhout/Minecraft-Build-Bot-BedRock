@@ -1,0 +1,254 @@
+fill ~0~36~0 ~1~36~1 minecraft:wool 3
+fill ~0~37~0 ~0~38~1 minecraft:wool 3
+fill ~1~34~0 ~2~34~1 minecraft:wool 3
+fill ~1~35~0 ~1~35~1 minecraft:wool 3
+fill ~1~37~0 ~2~37~1 minecraft:wool
+fill ~1~38~0 ~3~39~1 minecraft:wool 3
+fill ~2~32~0 ~3~32~1 minecraft:wool 3
+fill ~2~33~0 ~2~33~1 minecraft:wool 3
+fill ~2~35~0 ~3~35~1 minecraft:wool
+fill ~2~36~0 ~2~36~1 minecraft:wool
+fill ~3~31~0 ~4~31~1 minecraft:wool 3
+fill ~3~33~0 ~4~33~1 minecraft:wool
+fill ~3~34~0 ~3~34~1 minecraft:wool
+fill ~3~36~0 ~4~37~1 minecraft:wool 3
+fill ~4~30~0 ~13~30~1 minecraft:wool 3
+fill ~4~32~0 ~7~32~1 minecraft:wool
+fill ~4~34~0 ~4~35~1 minecraft:wool 3
+fill ~4~38~0 ~4~38~1 minecraft:concrete
+fill ~4~39~0 ~4~40~1 minecraft:wool 3
+fill ~5~29~0 ~6~29~1 minecraft:wool 3
+fill ~5~31~0 ~7~31~1 minecraft:wool
+fill ~5~33~0 ~5~33~1 minecraft:wool 3
+fill ~5~34~0 ~7~36~1 minecraft:wool
+fill ~5~37~0 ~6~39~1 minecraft:wool
+fill ~5~40~0 ~8~40~1 minecraft:wool 3
+fill ~5~41~0 ~6~41~1 minecraft:wool 3
+fill ~6~33~0 ~7~33~1 minecraft:wool
+fill ~7~37~0 ~7~37~1 minecraft:wool 3
+fill ~7~38~0 ~10~38~1 minecraft:wool
+fill ~7~39~0 ~7~39~1 minecraft:wool
+fill ~8~31~0 ~10~31~1 minecraft:wool 3
+fill ~8~32~0 ~9~35~1 minecraft:wool 3
+fill ~8~36~0 ~8~36~1 minecraft:wool 3
+fill ~8~37~0 ~11~37~1 minecraft:wool
+fill ~8~39~0 ~8~39~1 minecraft:wool 3
+fill ~8~41~0 ~18~41~1 minecraft:wool 3
+fill ~9~36~0 ~11~36~1 minecraft:wool
+fill ~9~39~0 ~10~40~1 minecraft:wool
+fill ~10~29~0 ~11~29~1 minecraft:wool 3
+fill ~10~32~0 ~12~35~1 minecraft:wool
+fill ~11~31~0 ~12~31~1 minecraft:wool
+fill ~11~38~0 ~12~40~1 minecraft:wool 3
+fill ~12~29~0 ~12~29~1 minecraft:wool 9
+fill ~12~36~0 ~12~37~1 minecraft:wool 3
+fill ~13~31~0 ~15~31~1 minecraft:wool 3
+fill ~13~32~0 ~14~32~1 minecraft:wool 3
+fill ~13~33~0 ~17~33~1 minecraft:wool
+fill ~13~34~0 ~14~34~1 minecraft:wool
+fill ~13~35~0 ~13~35~1 minecraft:wool 3
+fill ~13~36~0 ~13~40~1 minecraft:wool
+fill ~14~35~0 ~14~35~1 minecraft:wool
+fill ~14~36~0 ~16~37~1 minecraft:wool 3
+fill ~14~38~0 ~15~38~1 minecraft:wool 3
+fill ~14~39~0 ~14~39~1 minecraft:wool 3
+fill ~14~40~0 ~15~40~1 minecraft:wool
+fill ~15~30~0 ~30~30~1 minecraft:wool 3
+fill ~15~32~0 ~16~32~1 minecraft:wool
+fill ~15~34~0 ~15~35~1 minecraft:wool 3
+fill ~15~39~0 ~18~39~1 minecraft:wool
+fill ~16~31~0 ~20~31~1 minecraft:wool
+fill ~16~34~0 ~21~34~1 minecraft:wool
+fill ~16~35~0 ~16~35~1 minecraft:wool 3
+fill ~16~38~0 ~19~38~1 minecraft:wool
+fill ~16~40~0 ~21~40~1 minecraft:wool 3
+fill ~17~29~0 ~17~29~1 minecraft:wool 9
+fill ~17~32~0 ~18~32~1 minecraft:wool 3
+fill ~17~35~0 ~21~35~1 minecraft:wool
+fill ~17~36~0 ~20~37~1 minecraft:wool
+fill ~18~29~0 ~19~29~1 minecraft:wool 3
+fill ~18~33~0 ~18~33~1 minecraft:wool 3
+fill ~19~32~0 ~29~32~1 minecraft:wool
+fill ~19~33~0 ~19~33~1 minecraft:concrete_powder
+fill ~19~39~0 ~19~39~1 minecraft:concrete
+fill ~19~43~0 ~20~44~1 minecraft:wool 3
+fill ~20~33~0 ~21~33~1 minecraft:wool
+fill ~20~38~0 ~21~39~1 minecraft:wool 3
+fill ~20~41~0 ~21~41~1 minecraft:wool 3
+fill ~20~42~0 ~20~42~1 minecraft:wool 3
+fill ~20~45~0 ~24~45~1 minecraft:wool 3
+fill ~21~31~0 ~21~31~1 minecraft:wool 3
+fill ~21~36~0 ~21~36~1 minecraft:concrete
+fill ~21~37~0 ~21~37~1 minecraft:wool 3
+fill ~21~42~0 ~23~44~1 minecraft:wool
+fill ~21~46~0 ~23~46~1 minecraft:wool 3
+fill ~22~29~0 ~24~29~1 minecraft:wool 3
+fill ~22~31~0 ~24~31~1 minecraft:wool
+fill ~22~33~0 ~22~36~1 minecraft:wool 3
+fill ~22~37~0 ~24~39~1 minecraft:wool
+fill ~22~40~0 ~23~40~1 minecraft:wool
+fill ~22~41~0 ~22~41~1 minecraft:wool
+fill ~23~33~0 ~26~33~1 minecraft:wool
+fill ~23~34~0 ~25~35~1 minecraft:wool
+fill ~23~36~0 ~24~36~1 minecraft:wool
+fill ~23~41~0 ~24~41~1 minecraft:wool 3
+fill ~24~40~0 ~25~40~1 minecraft:wool 3
+fill ~24~42~0 ~24~44~1 minecraft:wool 3
+fill ~25~31~0 ~26~31~1 minecraft:wool 3
+fill ~25~36~0 ~26~39~1 minecraft:wool 3
+fill ~26~34~0 ~26~35~1 minecraft:wool 3
+fill ~27~29~0 ~28~29~1 minecraft:wool 3
+fill ~27~31~0 ~29~31~1 minecraft:wool
+fill ~27~33~0 ~27~33~1 minecraft:wool 3
+fill ~27~34~0 ~29~38~1 minecraft:wool
+fill ~27~39~0 ~28~41~1 minecraft:wool 3
+fill ~28~33~0 ~29~33~1 minecraft:wool
+fill ~28~42~0 ~32~42~1 minecraft:wool 3
+fill ~29~39~0 ~31~41~1 minecraft:wool
+fill ~29~43~0 ~31~43~1 minecraft:wool 3
+fill ~30~31~0 ~30~35~1 minecraft:wool 3
+fill ~30~36~0 ~31~36~1 minecraft:wool
+fill ~30~37~0 ~30~38~1 minecraft:wool
+fill ~31~33~0 ~32~33~1 minecraft:wool 3
+fill ~31~34~0 ~31~34~1 minecraft:wool 3
+fill ~31~35~0 ~31~35~1 minecraft:wool
+fill ~31~37~0 ~32~37~1 minecraft:wool 3
+fill ~31~38~0 ~31~38~1 minecraft:wool
+fill ~32~32~0 ~34~32~1 minecraft:wool 3
+fill ~32~34~0 ~34~34~1 minecraft:wool
+fill ~32~35~0 ~32~36~1 minecraft:wool 3
+fill ~32~38~0 ~32~41~1 minecraft:wool 3
+fill ~33~33~0 ~37~33~1 minecraft:wool
+fill ~33~35~0 ~34~35~1 minecraft:wool
+fill ~33~36~0 ~33~40~1 minecraft:wool
+fill ~33~41~0 ~38~41~1 minecraft:wool 3
+fill ~34~31~0 ~35~31~1 minecraft:wool 3
+fill ~34~36~0 ~36~36~1 minecraft:wool 3
+fill ~34~37~0 ~35~38~1 minecraft:wool 3
+fill ~34~39~0 ~34~39~1 minecraft:wool 3
+fill ~34~40~0 ~35~40~1 minecraft:wool
+fill ~35~30~0 ~41~30~1 minecraft:wool 3
+fill ~35~32~0 ~36~32~1 minecraft:wool
+fill ~35~34~0 ~35~35~1 minecraft:wool 3
+fill ~35~39~0 ~38~39~1 minecraft:wool
+fill ~36~31~0 ~40~31~1 minecraft:wool
+fill ~36~34~0 ~41~34~1 minecraft:wool
+fill ~36~35~0 ~36~35~1 minecraft:concrete
+fill ~36~37~0 ~40~37~1 minecraft:wool
+fill ~36~38~0 ~39~38~1 minecraft:wool
+fill ~36~40~0 ~40~40~1 minecraft:wool 3
+fill ~37~29~0 ~39~29~1 minecraft:wool 3
+fill ~37~32~0 ~38~32~1 minecraft:wool 3
+fill ~37~35~0 ~41~35~1 minecraft:wool
+fill ~37~36~0 ~40~36~1 minecraft:wool
+fill ~37~48~0 ~38~49~1 minecraft:wool 3
+fill ~38~33~0 ~38~33~1 minecraft:wool 3
+fill ~38~46~0 ~39~46~1 minecraft:wool 3
+fill ~38~47~0 ~38~47~1 minecraft:wool 3
+fill ~38~50~0 ~39~50~1 minecraft:wool 3
+fill ~39~32~0 ~40~33~1 minecraft:wool
+fill ~39~39~0 ~42~39~1 minecraft:wool 3
+fill ~39~44~0 ~40~44~1 minecraft:wool 3
+fill ~39~45~0 ~39~45~1 minecraft:wool 3
+fill ~39~47~0 ~42~47~1 minecraft:wool
+fill ~39~48~0 ~41~49~1 minecraft:wool
+fill ~39~51~0 ~42~51~1 minecraft:wool 3
+fill ~40~38~0 ~42~38~1 minecraft:wool 3
+fill ~40~41~0 ~41~42~1 minecraft:wool 3
+fill ~40~43~0 ~40~43~1 minecraft:wool 3
+fill ~40~45~0 ~43~45~1 minecraft:wool
+fill ~40~46~0 ~42~46~1 minecraft:wool
+fill ~40~50~0 ~40~50~1 minecraft:wool
+fill ~40~52~0 ~41~52~1 minecraft:wool 3
+fill ~41~31~0 ~43~32~1 minecraft:wool 3
+fill ~41~33~0 ~41~33~1 minecraft:wool
+fill ~41~36~0 ~42~37~1 minecraft:wool 3
+fill ~41~40~0 ~54~40~1 minecraft:wool
+fill ~41~43~0 ~43~44~1 minecraft:wool
+fill ~41~50~0 ~42~50~1 minecraft:wool 3
+fill ~42~33~0 ~43~34~1 minecraft:wool 3
+fill ~42~35~0 ~42~35~1 minecraft:wool 3
+fill ~42~41~0 ~44~42~1 minecraft:wool
+fill ~42~48~0 ~43~48~1 minecraft:wool 3
+fill ~42~49~0 ~42~49~1 minecraft:wool 3
+fill ~43~26~0 ~44~27~1 minecraft:wool 3
+fill ~43~28~0 ~43~30~1 minecraft:wool 3
+fill ~43~35~0 ~46~35~1 minecraft:wool
+fill ~43~36~0 ~45~39~1 minecraft:wool
+fill ~43~46~0 ~44~46~1 minecraft:wool 3
+fill ~43~47~0 ~43~47~1 minecraft:wool 3
+fill ~44~28~0 ~45~34~1 minecraft:wool
+fill ~44~43~0 ~45~43~1 minecraft:wool 3
+fill ~44~44~0 ~44~45~1 minecraft:wool 3
+fill ~45~27~0 ~46~27~1 minecraft:wool 3
+fill ~45~41~0 ~50~41~1 minecraft:wool 3
+fill ~45~42~0 ~46~42~1 minecraft:wool 3
+fill ~46~28~0 ~47~28~1 minecraft:wool 3
+fill ~46~29~0 ~46~34~1 minecraft:wool
+fill ~46~36~0 ~47~38~1 minecraft:wool 3
+fill ~46~39~0 ~46~39~1 minecraft:concrete
+fill ~47~29~0 ~47~35~1 minecraft:wool 3
+fill ~47~39~0 ~54~39~1 minecraft:wool
+fill ~47~48~0 ~48~49~1 minecraft:wool 3
+fill ~47~50~0 ~47~51~1 minecraft:wool 3
+fill ~48~38~0 ~51~38~1 minecraft:wool 3
+fill ~48~45~0 ~49~46~1 minecraft:wool 3
+fill ~48~47~0 ~48~47~1 minecraft:wool 3
+fill ~48~50~0 ~54~50~1 minecraft:wool
+fill ~48~51~0 ~48~52~1 minecraft:wool 3
+fill ~49~42~0 ~50~42~1 minecraft:wool 3
+fill ~49~43~0 ~49~44~1 minecraft:wool 3
+fill ~49~47~0 ~52~47~1 minecraft:wool
+fill ~49~48~0 ~51~49~1 minecraft:wool
+fill ~49~51~0 ~49~51~1 minecraft:concrete_powder
+fill ~49~52~0 ~52~52~1 minecraft:wool 3
+fill ~50~37~0 ~51~37~1 minecraft:wool 3
+fill ~50~43~0 ~50~43~1 minecraft:concrete
+fill ~50~44~0 ~53~44~1 minecraft:wool
+fill ~50~45~0 ~52~46~1 minecraft:wool
+fill ~50~51~0 ~50~51~1 minecraft:wool
+fill ~51~35~0 ~52~36~1 minecraft:wool 3
+fill ~51~41~0 ~54~41~1 minecraft:wool
+fill ~51~42~0 ~53~43~1 minecraft:wool
+fill ~51~51~0 ~51~51~1 minecraft:concrete
+fill ~52~29~0 ~53~31~1 minecraft:wool 3
+fill ~52~32~0 ~52~34~1 minecraft:wool 3
+fill ~52~37~0 ~57~38~1 minecraft:wool
+fill ~52~48~0 ~53~48~1 minecraft:wool 3
+fill ~52~49~0 ~58~49~1 minecraft:wool
+fill ~52~51~0 ~56~51~1 minecraft:wool 3
+fill ~53~28~0 ~55~28~1 minecraft:wool 3
+fill ~53~32~0 ~55~36~1 minecraft:wool
+fill ~53~45~0 ~54~45~1 minecraft:wool 3
+fill ~53~46~0 ~53~47~1 minecraft:wool 3
+fill ~54~29~0 ~54~31~1 minecraft:wool
+fill ~54~42~0 ~55~42~1 minecraft:wool 3
+fill ~54~43~0 ~54~44~1 minecraft:wool 3
+fill ~54~47~0 ~55~47~1 minecraft:wool 3
+fill ~54~48~0 ~54~48~1 minecraft:concrete
+fill ~55~29~0 ~56~29~1 minecraft:wool 3
+fill ~55~30~0 ~55~31~1 minecraft:wool
+fill ~55~39~0 ~58~39~1 minecraft:wool 3
+fill ~55~40~0 ~56~40~1 minecraft:wool 3
+fill ~55~41~0 ~55~41~1 minecraft:wool 3
+fill ~55~46~0 ~62~46~1 minecraft:wool 3
+fill ~55~48~0 ~61~48~1 minecraft:wool
+fill ~55~50~0 ~61~50~1 minecraft:wool 3
+fill ~56~30~0 ~57~30~1 minecraft:wool 3
+fill ~56~31~0 ~56~31~1 minecraft:wool
+fill ~56~32~0 ~56~32~1 minecraft:concrete
+fill ~56~33~0 ~57~36~1 minecraft:wool 3
+fill ~56~47~0 ~61~47~1 minecraft:wool
+fill ~57~31~0 ~57~32~1 minecraft:wool 3
+fill ~57~45~0 ~57~45~1 minecraft:concrete 3
+fill ~58~35~0 ~59~35~1 minecraft:wool 3
+fill ~58~36~0 ~58~36~1 minecraft:wool
+fill ~58~37~0 ~59~38~1 minecraft:wool 3
+fill ~58~45~0 ~60~45~1 minecraft:wool 3
+fill ~59~36~0 ~59~36~1 minecraft:wool 3
+fill ~59~49~0 ~59~49~1 minecraft:concrete_powder
+fill ~60~49~0 ~62~49~1 minecraft:wool
+fill ~61~51~0 ~63~51~1 minecraft:wool 3
+fill ~62~47~0 ~63~48~1 minecraft:wool 3
+fill ~62~50~0 ~62~50~1 minecraft:wool
+fill ~63~49~0 ~63~50~1 minecraft:wool 3

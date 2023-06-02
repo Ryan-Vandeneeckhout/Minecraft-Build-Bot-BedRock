@@ -1,0 +1,1024 @@
+fill ~21~7~0 ~22~7~0 minecraft:iron_bars
+fill ~23~5~0 ~27~7~0 minecraft:leaves 1
+fill ~23~9~0 ~24~9~0 minecraft:glass_pane
+fill ~24~8~0 ~27~8~0 minecraft:leaves 1
+fill ~24~12~0 ~25~12~0 minecraft:iron_bars
+setblock ~25~9~0 minecraft:glowstone
+fill ~25~10~0 ~27~10~0 minecraft:glass_pane
+setblock ~26~9~0 minecraft:wool 14
+fill ~28~5~0 ~30~5~0 minecraft:glass_pane
+setblock ~28~6~0 minecraft:glowstone
+fill ~28~8~0 ~29~8~0 minecraft:iron_bars
+fill ~14~0~1 ~15~3~1 minecraft:redstone_block
+fill ~16~0~1 ~16~3~1 minecraft:gold_block
+fill ~17~0~1 ~18~3~1 minecraft:redstone_block
+fill ~20~7~1 ~20~7~2 minecraft:iron_bars
+fill ~21~5~1 ~22~7~1 minecraft:leaves 1
+setblock ~21~8~1 minecraft:glowstone
+fill ~21~9~1 ~22~9~1 minecraft:glass_pane
+fill ~22~8~1 ~23~8~1 minecraft:leaves 1
+fill ~22~12~1 ~23~12~1 minecraft:iron_bars
+fill ~23~6~1 ~30~6~3 minecraft:leaves 1
+setblock ~23~7~1 minecraft:leaves 1
+fill ~23~9~1 ~28~9~1 minecraft:leaves 1
+fill ~23~10~1 ~27~10~1 minecraft:leaves 1
+setblock ~23~11~1 minecraft:glowstone
+fill ~24~11~1 ~27~12~1 minecraft:leaves 1
+fill ~25~0~1 ~26~0~17 minecraft:log 1
+setblock ~25~13~1 minecraft:snow_layer 0
+setblock ~25~14~1 minecraft:wool 14
+fill ~26~13~1 ~27~13~1 minecraft:iron_bars
+fill ~28~5~1 ~30~5~1 minecraft:leaves 1
+fill ~28~7~1 ~30~7~1 minecraft:leaves 1
+fill ~28~8~1 ~29~8~1 minecraft:leaves 1
+fill ~28~10~1 ~30~10~1 minecraft:glass_pane
+fill ~28~11~1 ~30~12~1 minecraft:vine 1
+setblock ~29~9~1 minecraft:snow_layer 0
+setblock ~30~8~1 minecraft:iron_bars
+setblock ~31~5~1 minecraft:glass_pane
+fill ~14~0~2 ~14~3~2 minecraft:redstone_block
+setblock ~15~3~2 minecraft:redstone_block
+fill ~16~3~2 ~16~3~5 minecraft:gold_block
+fill ~17~3~2 ~18~3~2 minecraft:redstone_block
+fill ~18~0~2 ~18~2~2 minecraft:redstone_block
+setblock ~19~6~2 minecraft:iron_bars
+fill ~20~5~2 ~20~6~2 minecraft:leaves 1
+setblock ~20~9~2 minecraft:glass_pane
+fill ~21~6~2 ~22~6~5 minecraft:leaves 1
+fill ~21~7~2 ~21~10~2 minecraft:leaves 1
+setblock ~21~11~2 minecraft:wool 14
+setblock ~21~12~2 minecraft:iron_bars
+fill ~22~9~2 ~23~12~2 minecraft:leaves 1
+fill ~23~13~2 ~27~13~2 minecraft:leaves 1
+setblock ~23~16~2 minecraft:glass_pane
+fill ~24~14~2 ~27~14~2 minecraft:leaves 1
+fill ~24~15~2 ~25~15~2 minecraft:leaves 1
+fill ~24~17~2 ~27~17~2 minecraft:glass_pane
+setblock ~25~16~2 minecraft:leaves 1
+setblock ~25~18~2 minecraft:wool 14
+fill ~26~15~2 ~26~16~2 minecraft:leaves 1
+setblock ~27~15~2 minecraft:glowstone
+fill ~27~18~2 ~27~18~3 minecraft:vine 1
+setblock ~27~19~2 minecraft:vine 1
+fill ~28~9~2 ~30~10~2 minecraft:leaves 1
+fill ~28~11~2 ~29~11~2 minecraft:leaves 1
+setblock ~28~12~2 minecraft:leaves 1
+fill ~28~13~2 ~30~13~2 minecraft:iron_bars
+setblock ~29~12~2 minecraft:glowstone
+setblock ~30~8~2 minecraft:leaves 1
+setblock ~30~12~2 minecraft:wool 14
+fill ~31~5~2 ~31~7~2 minecraft:leaves 1
+setblock ~31~8~2 minecraft:glowstone
+fill ~31~10~2 ~31~10~3 minecraft:glass_pane
+setblock ~32~5~2 minecraft:glass_pane
+fill ~14~0~3 ~14~3~3 minecraft:gold_block
+fill ~15~3~3 ~15~4~3 minecraft:gold_block
+fill ~17~3~3 ~18~3~3 minecraft:gold_block
+setblock ~17~4~3 minecraft:gold_block
+fill ~18~0~3 ~18~2~3 minecraft:gold_block
+setblock ~18~6~3 minecraft:iron_bars
+fill ~19~5~3 ~19~6~3 minecraft:leaves 1
+setblock ~19~7~3 minecraft:wool 14
+setblock ~19~9~3 minecraft:glass_pane
+fill ~20~6~3 ~20~6~8 minecraft:leaves 1
+fill ~20~7~3 ~20~10~3 minecraft:leaves 1
+setblock ~20~11~3 minecraft:iron_bars
+fill ~21~11~3 ~21~12~3 minecraft:leaves 1
+setblock ~21~13~3 minecraft:glowstone
+setblock ~21~14~3 minecraft:wool 14
+setblock ~21~15~3 minecraft:snow_layer 0
+fill ~22~13~3 ~23~14~3 minecraft:leaves 1
+setblock ~22~16~3 minecraft:glass_pane
+fill ~23~15~3 ~24~16~3 minecraft:leaves 1
+setblock ~23~17~3 minecraft:glowstone
+fill ~24~17~3 ~25~18~3 minecraft:leaves 1
+fill ~25~19~3 ~26~20~3 minecraft:leaves 1
+fill ~25~21~3 ~26~21~3 minecraft:iron_bars
+setblock ~25~22~3 minecraft:glowstone
+fill ~26~17~3 ~27~17~3 minecraft:leaves 1
+setblock ~26~18~3 minecraft:leaves 1
+fill ~27~15~3 ~28~15~3 minecraft:leaves 1
+setblock ~27~16~3 minecraft:leaves 1
+setblock ~27~19~3 minecraft:glowstone
+fill ~28~13~3 ~30~13~3 minecraft:leaves 1
+fill ~28~14~3 ~29~14~3 minecraft:leaves 1
+fill ~28~16~3 ~30~16~3 minecraft:vine 1
+setblock ~28~17~3 minecraft:glass_pane
+fill ~28~18~3 ~28~19~3 minecraft:vine 2
+fill ~29~12~3 ~30~12~3 minecraft:leaves 1
+fill ~29~15~3 ~30~15~3 minecraft:vine 1
+fill ~30~10~3 ~30~11~3 minecraft:leaves 1
+setblock ~30~14~3 minecraft:vine 1
+fill ~31~6~3 ~32~6~8 minecraft:leaves 1
+fill ~31~8~3 ~31~9~3 minecraft:leaves 1
+setblock ~31~13~3 minecraft:iron_bars
+setblock ~32~5~3 minecraft:leaves 1
+setblock ~32~7~3 minecraft:leaves 1
+setblock ~32~8~3 minecraft:iron_bars
+setblock ~32~9~3 minecraft:wool 14
+setblock ~32~10~3 minecraft:glass_pane
+setblock ~33~5~3 minecraft:glass_pane
+fill ~14~0~4 ~14~3~5 minecraft:redstone_block
+fill ~15~3~4 ~15~3~5 minecraft:redstone_block
+fill ~17~3~4 ~18~3~5 minecraft:redstone_block
+setblock ~17~6~4 minecraft:iron_bars
+fill ~18~0~4 ~18~2~5 minecraft:redstone_block
+fill ~18~5~4 ~18~6~4 minecraft:leaves 1
+setblock ~18~7~4 minecraft:glowstone
+setblock ~18~8~4 minecraft:glass_pane
+fill ~19~6~4 ~19~6~16 minecraft:leaves 1
+fill ~19~7~4 ~19~10~4 minecraft:leaves 1
+setblock ~19~11~4 minecraft:iron_bars
+setblock ~20~0~4 minecraft:log 1
+setblock ~20~11~4 minecraft:leaves 1
+setblock ~20~12~4 minecraft:leaves 1
+fill ~21~13~4 ~21~14~4 minecraft:leaves 1
+setblock ~21~16~4 minecraft:glass_pane
+fill ~22~15~4 ~22~16~4 minecraft:leaves 1
+setblock ~22~20~4 minecraft:glowstone
+fill ~23~6~4 ~24~6~4 minecraft:leaves 1
+fill ~23~17~4 ~24~19~4 minecraft:leaves 1
+fill ~23~21~4 ~24~21~4 minecraft:iron_bars
+setblock ~24~20~4 minecraft:leaves 1
+fill ~24~25~4 ~26~25~4 minecraft:glass_pane
+fill ~25~1~4 ~26~1~15 minecraft:log 1
+fill ~25~7~4 ~26~7~7 minecraft:leaves 1
+fill ~25~21~4 ~26~24~4 minecraft:leaves 1
+fill ~25~26~4 ~26~26~4 minecraft:vine 1
+fill ~25~28~4 ~26~28~4 minecraft:iron_bars
+setblock ~26~27~4 minecraft:vine 1
+fill ~27~6~4 ~30~6~4 minecraft:leaves 1
+fill ~27~17~4 ~28~17~4 minecraft:leaves 1
+fill ~27~18~4 ~27~20~4 minecraft:leaves 1
+setblock ~27~21~4 minecraft:iron_bars
+fill ~27~22~4 ~28~22~4 minecraft:vine 1
+fill ~27~23~4 ~27~24~4 minecraft:vine 1
+fill ~28~15~4 ~30~15~4 minecraft:leaves 1
+fill ~28~16~4 ~29~16~4 minecraft:leaves 1
+fill ~28~18~4 ~28~20~4 minecraft:vine 3
+setblock ~28~21~4 minecraft:vine 1
+setblock ~29~17~4 minecraft:glass_pane
+fill ~30~13~4 ~30~14~4 minecraft:leaves 1
+setblock ~30~16~4 minecraft:glowstone
+setblock ~31~0~4 minecraft:log 1
+fill ~31~10~4 ~32~10~4 minecraft:leaves 1
+fill ~31~11~4 ~31~12~4 minecraft:leaves 1
+setblock ~31~14~4 minecraft:iron_bars
+fill ~32~8~4 ~32~9~4 minecraft:leaves 1
+setblock ~32~12~4 minecraft:glowstone
+fill ~33~5~4 ~33~7~4 minecraft:leaves 1
+setblock ~33~8~4 minecraft:iron_bars
+setblock ~33~10~4 minecraft:glass_pane
+setblock ~34~5~4 minecraft:glass_pane
+fill ~15~0~5 ~15~2~5 minecraft:redstone_block
+fill ~16~0~5 ~16~2~5 minecraft:gold_block
+fill ~16~6~5 ~16~6~6 minecraft:iron_bars
+fill ~17~0~5 ~17~2~5 minecraft:redstone_block
+fill ~17~5~5 ~17~7~6 minecraft:leaves 1
+setblock ~17~8~5 minecraft:glass_pane
+fill ~18~6~5 ~18~6~15 minecraft:leaves 1
+fill ~18~7~5 ~18~10~5 minecraft:leaves 1
+setblock ~18~11~5 minecraft:glowstone
+setblock ~19~11~5 minecraft:leaves 1
+setblock ~19~12~5 minecraft:leaves 1
+setblock ~20~13~5 minecraft:leaves 1
+setblock ~20~14~5 minecraft:leaves 1
+setblock ~20~16~5 minecraft:glowstone
+setblock ~21~0~5 minecraft:log 1
+fill ~21~15~5 ~21~16~5 minecraft:leaves 1
+setblock ~21~20~5 minecraft:iron_bars
+fill ~22~17~5 ~22~20~5 minecraft:leaves 1
+setblock ~22~22~5 minecraft:wool 14
+fill ~23~7~5 ~24~7~8 minecraft:leaves 1
+fill ~23~20~5 ~23~23~5 minecraft:leaves 1
+setblock ~23~24~5 minecraft:glass_pane
+fill ~24~21~5 ~24~25~5 minecraft:leaves 1
+setblock ~24~26~5 minecraft:glowstone
+setblock ~24~27~5 minecraft:wool 14
+setblock ~24~28~5 minecraft:iron_bars
+fill ~25~25~5 ~26~28~5 minecraft:leaves 1
+fill ~25~29~5 ~25~30~5 minecraft:vine 1
+fill ~25~32~5 ~26~32~5 minecraft:glass_pane
+setblock ~26~29~5 minecraft:glowstone
+fill ~26~30~5 ~26~31~5 minecraft:vine 1
+fill ~27~7~5 ~28~7~6 minecraft:leaves 1
+fill ~27~21~5 ~27~24~5 minecraft:leaves 1
+setblock ~27~26~5 minecraft:glass_pane
+fill ~27~27~5 ~27~28~5 minecraft:vine 2
+fill ~28~17~5 ~29~18~5 minecraft:leaves 1
+fill ~28~19~5 ~28~20~5 minecraft:leaves 1
+setblock ~28~22~5 minecraft:glowstone
+fill ~28~23~5 ~28~24~5 minecraft:vine 2
+fill ~29~6~5 ~30~6~5 minecraft:leaves 1
+fill ~29~19~5 ~29~22~5 minecraft:vine 2
+setblock ~30~0~5 minecraft:log 1
+setblock ~30~16~5 minecraft:leaves 1
+setblock ~30~17~5 minecraft:glass_pane
+setblock ~30~18~5 minecraft:wool 14
+fill ~31~13~5 ~32~13~5 minecraft:leaves 1
+fill ~31~14~5 ~31~15~5 minecraft:leaves 1
+fill ~32~11~5 ~33~11~5 minecraft:leaves 1
+setblock ~32~12~5 minecraft:leaves 1
+setblock ~32~14~5 minecraft:iron_bars
+fill ~33~6~5 ~34~6~14 minecraft:leaves 1
+fill ~33~8~5 ~33~10~5 minecraft:leaves 1
+fill ~34~5~5 ~34~5~7 minecraft:leaves 1
+fill ~34~7~5 ~34~7~7 minecraft:leaves 1
+setblock ~34~8~5 minecraft:glowstone
+fill ~34~11~5 ~34~11~6 minecraft:glass_pane
+fill ~35~5~5 ~35~5~7 minecraft:glass_pane
+setblock ~35~7~5 minecraft:wool 14
+fill ~16~8~6 ~16~8~7 minecraft:glass_pane
+fill ~17~8~6 ~17~8~7 minecraft:leaves 1
+setblock ~17~10~6 minecraft:wool 14
+fill ~17~11~6 ~17~11~7 minecraft:iron_bars
+fill ~18~9~6 ~18~11~7 minecraft:leaves 1
+setblock ~18~12~6 minecraft:leaves 1
+setblock ~18~13~6 minecraft:wool 14
+fill ~19~13~6 ~19~14~6 minecraft:leaves 1
+setblock ~19~16~6 minecraft:glass_pane
+fill ~20~15~6 ~20~16~6 minecraft:leaves 1
+setblock ~20~17~6 minecraft:wool 14
+setblock ~20~20~6 minecraft:iron_bars
+setblock ~21~6~6 minecraft:leaves 1
+fill ~21~17~6 ~21~20~6 minecraft:leaves 1
+setblock ~21~23~6 minecraft:glass_pane
+fill ~22~0~6 ~24~0~13 minecraft:log 1
+fill ~22~7~6 ~22~7~9 minecraft:leaves 1
+fill ~22~21~6 ~22~23~6 minecraft:leaves 1
+setblock ~22~24~6 minecraft:glowstone
+fill ~23~24~6 ~23~26~6 minecraft:leaves 1
+setblock ~23~28~6 minecraft:iron_bars
+fill ~24~25~6 ~24~29~6 minecraft:leaves 1
+setblock ~24~30~6 minecraft:vine 8
+setblock ~24~32~6 minecraft:glass_pane
+fill ~25~29~6 ~26~32~6 minecraft:leaves 1
+fill ~25~33~6 ~25~37~6 minecraft:vine 1
+setblock ~26~33~6 minecraft:wool 14
+fill ~26~34~6 ~26~35~6 minecraft:vine 1
+fill ~27~0~6 ~29~0~13 minecraft:log 1
+fill ~27~25~6 ~27~28~6 minecraft:leaves 1
+setblock ~27~29~6 minecraft:iron_bars
+fill ~27~30~6 ~28~31~6 minecraft:vine 1
+setblock ~27~32~6 minecraft:glass_pane
+fill ~28~21~6 ~28~24~6 minecraft:leaves 1
+setblock ~28~25~6 minecraft:wool 14
+setblock ~28~26~6 minecraft:glass_pane
+setblock ~28~28~6 minecraft:glowstone
+setblock ~28~29~6 minecraft:vine 1
+setblock ~29~7~6 minecraft:leaves 1
+fill ~29~19~6 ~29~20~6 minecraft:leaves 1
+setblock ~29~22~6 minecraft:iron_bars
+setblock ~30~6~6 minecraft:leaves 1
+fill ~30~17~6 ~30~18~7 minecraft:leaves 1
+setblock ~30~20~6 minecraft:glowstone
+fill ~31~15~6 ~31~16~7 minecraft:leaves 1
+fill ~31~18~6 ~31~18~7 minecraft:glass_pane
+fill ~32~13~6 ~32~14~7 minecraft:leaves 1
+setblock ~32~15~6 minecraft:glowstone
+fill ~33~9~6 ~33~12~7 minecraft:leaves 1
+fill ~33~14~6 ~33~14~7 minecraft:iron_bars
+fill ~34~8~6 ~34~8~7 minecraft:leaves 1
+setblock ~34~12~6 minecraft:wool 14
+fill ~35~8~6 ~35~8~7 minecraft:iron_bars
+fill ~15~6~7 ~15~6~12 minecraft:iron_bars
+fill ~16~5~7 ~16~7~12 minecraft:leaves 1
+setblock ~16~9~7 minecraft:glowstone
+fill ~17~6~7 ~17~6~14 minecraft:leaves 1
+setblock ~17~7~7 minecraft:leaves 1
+fill ~17~9~7 ~17~10~12 minecraft:leaves 1
+fill ~18~12~7 ~18~13~7 minecraft:leaves 1
+setblock ~18~15~7 minecraft:glass_pane
+fill ~19~13~7 ~19~16~7 minecraft:leaves 1
+fill ~19~19~7 ~19~19~8 minecraft:iron_bars
+fill ~20~17~7 ~20~19~8 minecraft:leaves 1
+setblock ~20~21~7 minecraft:glowstone
+fill ~20~23~7 ~20~23~8 minecraft:glass_pane
+fill ~21~7~7 ~21~7~9 minecraft:leaves 1
+fill ~21~20~7 ~21~23~7 minecraft:leaves 1
+fill ~22~24~7 ~22~26~7 minecraft:leaves 1
+setblock ~22~27~7 minecraft:iron_bars
+setblock ~22~28~7 minecraft:glowstone
+fill ~23~27~7 ~23~29~7 minecraft:leaves 1
+setblock ~23~31~7 minecraft:glass_pane
+fill ~23~32~7 ~23~36~7 minecraft:vine 1
+fill ~24~1~7 ~24~1~12 minecraft:log 1
+fill ~24~29~7 ~24~32~7 minecraft:leaves 1
+setblock ~24~35~7 minecraft:wool 14
+setblock ~24~36~7 minecraft:glass_pane
+setblock ~24~37~7 minecraft:vine 8
+fill ~25~2~7 ~26~2~12 minecraft:log 1
+fill ~25~3~7 ~25~6~7 minecraft:vine 1
+fill ~25~33~7 ~26~36~7 minecraft:leaves 1
+setblock ~25~37~7 minecraft:glowstone
+fill ~25~38~7 ~26~38~7 minecraft:iron_bars
+setblock ~26~5~7 minecraft:glowstone
+setblock ~26~37~7 minecraft:glass_pane
+fill ~27~1~7 ~27~1~12 minecraft:log 1
+fill ~27~7~7 ~27~7~8 minecraft:leaves 1
+fill ~27~29~7 ~27~32~7 minecraft:leaves 1
+setblock ~27~33~7 minecraft:glass_pane
+setblock ~27~35~7 minecraft:iron_bars
+fill ~28~7~7 ~30~7~7 minecraft:leaves 1
+fill ~28~25~7 ~28~28~7 minecraft:leaves 1
+setblock ~28~29~7 minecraft:iron_bars
+setblock ~28~31~7 minecraft:glowstone
+fill ~29~21~7 ~29~24~7 minecraft:leaves 1
+setblock ~29~26~7 minecraft:glass_pane
+fill ~30~19~7 ~30~20~7 minecraft:leaves 1
+setblock ~30~22~7 minecraft:iron_bars
+setblock ~30~24~7 minecraft:glowstone
+fill ~31~17~7 ~31~17~8 minecraft:leaves 1
+fill ~32~15~7 ~32~15~8 minecraft:leaves 1
+fill ~34~9~7 ~34~9~12 minecraft:leaves 1
+setblock ~34~11~7 minecraft:glowstone
+setblock ~35~6~7 minecraft:glowstone
+fill ~15~8~8 ~15~8~11 minecraft:glass_pane
+fill ~16~8~8 ~16~8~11 minecraft:leaves 1
+fill ~16~11~8 ~16~11~11 minecraft:iron_bars
+fill ~17~11~8 ~17~12~11 minecraft:leaves 1
+setblock ~17~14~8 minecraft:wool 14
+fill ~17~15~8 ~17~15~11 minecraft:glass_pane
+fill ~18~13~8 ~18~13~12 minecraft:leaves 1
+fill ~18~14~8 ~18~15~11 minecraft:leaves 1
+setblock ~18~16~8 minecraft:glowstone
+fill ~19~15~8 ~19~18~8 minecraft:leaves 1
+fill ~20~20~8 ~20~21~8 minecraft:leaves 1
+setblock ~20~24~8 minecraft:glowstone
+fill ~21~21~8 ~21~25~8 minecraft:leaves 1
+setblock ~21~26~8 minecraft:vine 1
+setblock ~21~27~8 minecraft:iron_bars
+fill ~22~25~8 ~22~29~8 minecraft:leaves 1
+setblock ~22~30~8 minecraft:glass_pane
+setblock ~22~31~8 minecraft:glowstone
+setblock ~22~32~8 minecraft:iron_bars
+fill ~23~1~8 ~23~1~12 minecraft:log 1
+fill ~23~29~8 ~23~33~8 minecraft:leaves 1
+setblock ~23~35~8 minecraft:glass_pane
+setblock ~23~36~8 minecraft:glowstone
+fill ~24~2~8 ~24~2~11 minecraft:log 1
+setblock ~24~3~8 minecraft:glowstone
+fill ~24~33~8 ~24~35~8 minecraft:leaves 1
+setblock ~24~38~8 minecraft:iron_bars
+setblock ~24~40~8 minecraft:glass_pane
+fill ~25~3~8 ~26~12~11 minecraft:log 1
+fill ~25~37~8 ~26~40~8 minecraft:leaves 1
+fill ~25~41~8 ~26~41~8 minecraft:glass_pane
+fill ~27~2~8 ~27~2~11 minecraft:log 1
+setblock ~27~3~8 minecraft:glowstone
+fill ~27~4~8 ~27~6~8 minecraft:vine 2
+fill ~27~33~8 ~27~36~8 minecraft:leaves 1
+setblock ~27~37~8 minecraft:glass_pane
+setblock ~27~38~8 minecraft:iron_bars
+setblock ~27~39~8 minecraft:glowstone
+fill ~28~1~8 ~28~1~12 minecraft:log 1
+fill ~28~7~8 ~28~7~9 minecraft:leaves 1
+fill ~28~29~8 ~28~32~8 minecraft:leaves 1
+setblock ~28~33~8 minecraft:glass_pane
+setblock ~28~35~8 minecraft:iron_bars
+setblock ~28~36~8 minecraft:wool 14
+fill ~29~25~8 ~29~28~8 minecraft:leaves 1
+setblock ~29~29~8 minecraft:iron_bars
+setblock ~29~30~8 minecraft:wool 14
+fill ~30~7~8 ~30~7~9 minecraft:leaves 1
+fill ~30~21~8 ~30~24~8 minecraft:leaves 1
+setblock ~30~25~8 minecraft:wool 14
+setblock ~30~26~8 minecraft:glass_pane
+setblock ~30~27~8 minecraft:glowstone
+fill ~31~18~8 ~31~20~8 minecraft:leaves 1
+setblock ~31~22~8 minecraft:iron_bars
+setblock ~32~16~8 minecraft:leaves 1
+setblock ~32~18~8 minecraft:glowstone
+setblock ~32~19~8 minecraft:glass_pane
+fill ~33~13~8 ~33~14~11 minecraft:leaves 1
+fill ~34~10~8 ~34~12~11 minecraft:leaves 1
+setblock ~34~14~8 minecraft:iron_bars
+fill ~35~5~8 ~35~8~11 minecraft:leaves 1
+setblock ~35~9~8 minecraft:snow_layer 0
+fill ~35~11~8 ~35~11~11 minecraft:glass_pane
+fill ~36~5~8 ~36~5~11 minecraft:glass_pane
+fill ~36~8~8 ~36~8~11 minecraft:iron_bars
+setblock ~15~7~9 minecraft:glowstone
+setblock ~17~13~9 minecraft:glowstone
+fill ~18~0~9 ~21~0~10 minecraft:log 1
+fill ~18~16~9 ~18~16~10 minecraft:leaves 1
+fill ~18~19~9 ~18~19~10 minecraft:iron_bars
+fill ~19~17~9 ~19~18~11 minecraft:leaves 1
+fill ~19~19~9 ~19~20~10 minecraft:leaves 1
+fill ~19~23~9 ~19~23~10 minecraft:glass_pane
+fill ~20~1~9 ~22~1~10 minecraft:log 1
+setblock ~20~7~9 minecraft:leaves 1
+fill ~20~21~9 ~20~21~11 minecraft:leaves 1
+fill ~20~22~9 ~20~24~10 minecraft:leaves 1
+setblock ~20~25~9 minecraft:wool 14
+fill ~20~26~9 ~20~26~10 minecraft:vine 8
+fill ~20~27~9 ~20~27~10 minecraft:iron_bars
+fill ~21~25~9 ~21~25~11 minecraft:leaves 1
+fill ~21~26~9 ~21~28~10 minecraft:leaves 1
+setblock ~21~30~9 minecraft:glass_pane
+setblock ~21~31~9 minecraft:wool 14
+fill ~21~32~9 ~21~32~10 minecraft:iron_bars
+fill ~22~29~9 ~22~29~11 minecraft:leaves 1
+fill ~22~30~9 ~22~32~10 minecraft:leaves 1
+fill ~22~35~9 ~22~35~10 minecraft:glass_pane
+fill ~23~2~9 ~23~2~10 minecraft:log 1
+setblock ~23~5~9 minecraft:glowstone
+setblock ~23~6~9 minecraft:vine 0
+fill ~23~7~9 ~23~7~14 minecraft:leaves 1
+fill ~23~33~9 ~23~33~11 minecraft:leaves 1
+fill ~23~34~9 ~23~36~10 minecraft:leaves 1
+fill ~23~37~9 ~23~37~10 minecraft:iron_bars
+fill ~23~40~9 ~23~40~10 minecraft:glass_pane
+fill ~24~3~9 ~24~12~10 minecraft:log 1
+fill ~24~37~9 ~24~40~10 minecraft:leaves 1
+setblock ~24~42~9 minecraft:iron_bars
+fill ~25~13~9 ~26~32~10 minecraft:log 1
+fill ~25~41~9 ~26~42~10 minecraft:leaves 1
+fill ~27~3~9 ~27~12~10 minecraft:log 1
+fill ~27~37~9 ~27~40~10 minecraft:leaves 1
+fill ~28~2~9 ~28~2~10 minecraft:log 1
+fill ~28~3~9 ~28~6~9 minecraft:vine 2
+fill ~28~33~9 ~28~36~10 minecraft:leaves 1
+fill ~28~38~9 ~28~38~10 minecraft:glass_pane
+fill ~28~39~9 ~28~39~10 minecraft:iron_bars
+fill ~29~1~9 ~31~1~10 minecraft:log 1
+setblock ~29~7~9 minecraft:leaves 1
+fill ~29~29~9 ~29~32~10 minecraft:leaves 1
+fill ~29~33~9 ~29~33~10 minecraft:glass_pane
+fill ~29~35~9 ~29~35~10 minecraft:iron_bars
+fill ~30~0~9 ~33~0~10 minecraft:log 1
+fill ~30~25~9 ~30~28~10 minecraft:leaves 1
+fill ~30~29~9 ~30~29~10 minecraft:iron_bars
+fill ~30~30~9 ~30~31~10 minecraft:vine 2
+fill ~31~7~9 ~31~7~10 minecraft:leaves 1
+fill ~31~21~9 ~31~24~10 minecraft:leaves 1
+setblock ~31~26~9 minecraft:glass_pane
+fill ~32~6~9 ~32~6~15 minecraft:leaves 1
+fill ~32~17~9 ~32~20~10 minecraft:leaves 1
+fill ~32~23~9 ~32~23~10 minecraft:iron_bars
+fill ~33~15~9 ~33~16~10 minecraft:leaves 1
+fill ~33~19~9 ~33~19~10 minecraft:glass_pane
+setblock ~34~13~9 minecraft:glowstone
+fill ~34~15~9 ~34~15~10 minecraft:iron_bars
+setblock ~36~7~9 minecraft:glowstone
+setblock ~19~21~10 minecraft:glowstone
+fill ~20~7~10 ~22~7~10 minecraft:leaves 1
+setblock ~20~25~10 minecraft:vine 8
+fill ~21~29~10 ~21~29~11 minecraft:glass_pane
+setblock ~28~5~10 minecraft:glowstone
+fill ~28~7~10 ~30~7~12 minecraft:leaves 1
+setblock ~31~27~10 minecraft:glass_pane
+setblock ~32~22~10 minecraft:wool 14
+setblock ~33~17~10 minecraft:glowstone
+setblock ~35~9~10 minecraft:snow_layer 0
+setblock ~35~10~10 minecraft:wool 14
+setblock ~16~10~11 minecraft:wool 14
+setblock ~18~18~11 minecraft:wool 14
+setblock ~18~19~11 minecraft:snow_layer 0
+fill ~19~16~11 ~19~16~12 minecraft:leaves 1
+setblock ~19~19~11 minecraft:iron_bars
+setblock ~20~6~11 minecraft:leaves 1
+fill ~20~19~11 ~20~19~12 minecraft:leaves 1
+setblock ~20~20~11 minecraft:leaves 1
+fill ~20~22~11 ~20~22~12 minecraft:glass_pane
+setblock ~20~24~11 minecraft:glowstone
+fill ~21~7~11 ~22~7~12 minecraft:leaves 1
+fill ~21~22~11 ~21~22~12 minecraft:leaves 1
+fill ~21~23~11 ~21~24~11 minecraft:leaves 1
+setblock ~21~26~11 minecraft:vine 4
+setblock ~21~27~11 minecraft:iron_bars
+setblock ~21~28~11 minecraft:vine 8
+fill ~22~26~11 ~22~28~11 minecraft:leaves 1
+setblock ~22~32~11 minecraft:iron_bars
+setblock ~22~33~11 minecraft:wool 14
+fill ~23~29~11 ~23~32~11 minecraft:leaves 1
+setblock ~23~34~11 minecraft:glass_pane
+setblock ~23~35~11 minecraft:glowstone
+setblock ~24~3~11 minecraft:glowstone
+fill ~24~4~11 ~24~5~11 minecraft:vine 12
+setblock ~24~6~11 minecraft:vine 8
+fill ~24~7~11 ~24~7~14 minecraft:leaves 1
+fill ~24~33~11 ~24~36~11 minecraft:leaves 1
+setblock ~24~37~11 minecraft:iron_bars
+setblock ~24~38~11 minecraft:glowstone
+setblock ~24~39~11 minecraft:glass_pane
+setblock ~24~40~11 minecraft:wool 14
+fill ~25~37~11 ~26~40~11 minecraft:leaves 1
+fill ~25~41~11 ~26~41~11 minecraft:iron_bars
+setblock ~27~3~11 minecraft:glowstone
+fill ~27~4~11 ~27~6~11 minecraft:vine 4
+fill ~27~7~11 ~27~7~14 minecraft:leaves 1
+fill ~27~33~11 ~27~36~11 minecraft:leaves 1
+setblock ~27~37~11 minecraft:vine 0
+setblock ~27~38~11 minecraft:glowstone
+setblock ~27~39~11 minecraft:glass_pane
+setblock ~27~40~11 minecraft:iron_bars
+fill ~28~29~11 ~28~32~11 minecraft:leaves 1
+setblock ~28~33~11 minecraft:glass_pane
+setblock ~28~34~11 minecraft:wool 14
+setblock ~28~36~11 minecraft:iron_bars
+fill ~29~25~11 ~29~28~11 minecraft:leaves 1
+setblock ~29~29~11 minecraft:iron_bars
+setblock ~29~32~11 minecraft:glowstone
+fill ~30~21~11 ~30~24~11 minecraft:leaves 1
+setblock ~30~27~11 minecraft:glowstone
+fill ~31~6~11 ~31~6~17 minecraft:leaves 1
+fill ~31~17~11 ~31~20~11 minecraft:leaves 1
+setblock ~31~24~11 minecraft:iron_bars
+fill ~32~15~11 ~32~16~11 minecraft:leaves 1
+setblock ~32~19~11 minecraft:glass_pane
+setblock ~32~20~11 minecraft:glowstone
+setblock ~33~15~11 minecraft:iron_bars
+setblock ~34~14~11 minecraft:wool 14
+setblock ~15~7~12 minecraft:wool 14
+fill ~16~8~12 ~16~8~13 minecraft:glass_pane
+fill ~17~8~12 ~17~8~13 minecraft:leaves 1
+fill ~17~11~12 ~17~11~13 minecraft:iron_bars
+setblock ~17~12~12 minecraft:glowstone
+fill ~18~11~12 ~18~12~13 minecraft:leaves 1
+fill ~18~15~12 ~18~15~13 minecraft:glass_pane
+fill ~19~14~12 ~19~14~13 minecraft:leaves 1
+setblock ~19~15~12 minecraft:leaves 1
+setblock ~19~17~12 minecraft:glowstone
+setblock ~19~18~12 minecraft:iron_bars
+fill ~20~6~12 ~20~6~17 minecraft:leaves 1
+fill ~20~17~12 ~20~18~12 minecraft:leaves 1
+setblock ~20~21~12 minecraft:wool 14
+fill ~21~20~12 ~21~21~12 minecraft:leaves 1
+fill ~22~23~12 ~22~25~12 minecraft:leaves 1
+setblock ~22~26~12 minecraft:iron_bars
+fill ~22~27~12 ~22~29~12 minecraft:vine 4
+fill ~23~26~12 ~23~28~12 minecraft:leaves 1
+setblock ~23~29~12 minecraft:glass_pane
+setblock ~23~30~12 minecraft:glowstone
+setblock ~23~32~12 minecraft:iron_bars
+fill ~24~29~12 ~24~32~12 minecraft:leaves 1
+setblock ~24~34~12 minecraft:glass_pane
+setblock ~24~36~12 minecraft:iron_bars
+setblock ~25~5~12 minecraft:glowstone
+fill ~25~7~12 ~26~7~15 minecraft:leaves 1
+fill ~25~33~12 ~26~36~12 minecraft:leaves 1
+fill ~25~39~12 ~26~39~12 minecraft:glass_pane
+fill ~26~3~12 ~26~6~12 minecraft:vine 4
+setblock ~26~37~12 minecraft:wool 14
+fill ~27~29~12 ~27~32~12 minecraft:leaves 1
+setblock ~27~33~12 minecraft:glass_pane
+setblock ~27~35~12 minecraft:glowstone
+setblock ~27~36~12 minecraft:iron_bars
+fill ~28~25~12 ~28~28~12 minecraft:leaves 1
+setblock ~28~30~12 minecraft:iron_bars
+fill ~28~31~12 ~28~35~12 minecraft:vine 2
+fill ~29~21~12 ~29~24~12 minecraft:leaves 1
+setblock ~29~26~12 minecraft:wool 14
+setblock ~29~27~12 minecraft:glass_pane
+fill ~30~17~12 ~30~20~12 minecraft:leaves 1
+setblock ~30~23~12 minecraft:glowstone
+setblock ~30~24~12 minecraft:iron_bars
+fill ~31~15~12 ~31~16~12 minecraft:leaves 1
+setblock ~31~18~12 minecraft:wool 14
+setblock ~31~20~12 minecraft:glass_pane
+fill ~32~0~12 ~33~3~12 minecraft:gold_block
+fill ~32~13~12 ~32~14~12 minecraft:leaves 1
+setblock ~32~15~12 minecraft:glowstone
+fill ~33~9~12 ~33~11~13 minecraft:leaves 1
+setblock ~33~12~12 minecraft:leaves 1
+fill ~34~0~12 ~34~3~12 minecraft:redstone_block
+fill ~34~5~12 ~34~5~14 minecraft:leaves 1
+fill ~34~7~12 ~34~7~14 minecraft:leaves 1
+fill ~34~8~12 ~34~8~13 minecraft:leaves 1
+setblock ~34~10~12 minecraft:glowstone
+fill ~34~11~12 ~34~11~13 minecraft:glass_pane
+fill ~35~0~12 ~36~3~12 minecraft:gold_block
+setblock ~35~5~12 minecraft:glowstone
+setblock ~35~6~12 minecraft:wool 14
+setblock ~35~8~12 minecraft:iron_bars
+fill ~16~6~13 ~16~6~14 minecraft:iron_bars
+fill ~17~5~13 ~17~5~14 minecraft:leaves 1
+fill ~17~7~13 ~17~7~14 minecraft:leaves 1
+setblock ~17~9~13 minecraft:glowstone
+fill ~18~9~13 ~18~10~14 minecraft:leaves 1
+setblock ~19~13~13 minecraft:leaves 1
+setblock ~19~15~13 minecraft:glowstone
+fill ~20~15~13 ~20~16~13 minecraft:leaves 1
+setblock ~20~18~13 minecraft:iron_bars
+fill ~21~6~13 ~21~6~18 minecraft:leaves 1
+fill ~21~17~13 ~21~19~13 minecraft:leaves 1
+setblock ~21~20~13 minecraft:glowstone
+setblock ~21~21~13 minecraft:glass_pane
+setblock ~22~7~13 minecraft:leaves 1
+setblock ~22~20~13 minecraft:leaves 1
+setblock ~22~22~13 minecraft:leaves 1
+setblock ~22~23~13 minecraft:wool 14
+setblock ~22~25~13 minecraft:glowstone
+fill ~23~23~13 ~23~25~13 minecraft:leaves 1
+setblock ~23~26~13 minecraft:iron_bars
+fill ~24~25~13 ~24~25~14 minecraft:leaves 1
+fill ~24~26~13 ~24~28~13 minecraft:leaves 1
+setblock ~24~29~13 minecraft:glass_pane
+setblock ~24~30~13 minecraft:wool 14
+setblock ~24~31~13 minecraft:iron_bars
+fill ~25~29~13 ~26~32~13 minecraft:leaves 1
+fill ~25~34~13 ~26~34~13 minecraft:glass_pane
+fill ~25~36~13 ~26~36~13 minecraft:iron_bars
+fill ~26~33~13 ~27~33~13 minecraft:vine 4
+fill ~26~35~13 ~27~35~13 minecraft:vine 4
+fill ~27~25~13 ~27~28~13 minecraft:leaves 1
+setblock ~27~29~13 minecraft:wool 14
+setblock ~27~30~13 minecraft:glowstone
+fill ~27~31~13 ~27~32~13 minecraft:vine 4
+setblock ~27~34~13 minecraft:vine 4
+fill ~28~7~13 ~29~7~13 minecraft:leaves 1
+fill ~28~21~13 ~28~24~13 minecraft:leaves 1
+setblock ~28~25~13 minecraft:iron_bars
+setblock ~28~27~13 minecraft:glowstone
+fill ~29~17~13 ~29~20~13 minecraft:leaves 1
+setblock ~29~24~13 minecraft:iron_bars
+fill ~30~6~13 ~30~6~18 minecraft:leaves 1
+fill ~30~15~13 ~30~16~13 minecraft:leaves 1
+setblock ~30~19~13 minecraft:glowstone
+setblock ~30~20~13 minecraft:glass_pane
+fill ~31~13~13 ~31~14~13 minecraft:leaves 1
+setblock ~31~15~13 minecraft:iron_bars
+fill ~32~0~13 ~32~3~13 minecraft:gold_block
+fill ~32~11~13 ~32~12~13 minecraft:leaves 1
+setblock ~33~3~13 minecraft:gold_block
+setblock ~33~12~13 minecraft:glowstone
+fill ~34~3~13 ~34~3~16 minecraft:redstone_block
+setblock ~34~9~13 minecraft:iron_bars
+fill ~35~3~13 ~36~3~13 minecraft:gold_block
+setblock ~35~5~13 minecraft:glass_pane
+fill ~36~0~13 ~36~2~13 minecraft:gold_block
+setblock ~7~19~14 minecraft:wooden_slab 13
+setblock ~17~8~14 minecraft:glass_pane
+fill ~18~7~14 ~18~8~14 minecraft:leaves 1
+setblock ~18~11~14 minecraft:iron_bars
+fill ~19~10~14 ~19~12~14 minecraft:leaves 1
+setblock ~19~14~14 minecraft:wool 14
+fill ~20~13~14 ~20~14~14 minecraft:leaves 1
+setblock ~20~15~14 minecraft:glass_pane
+setblock ~21~0~14 minecraft:log 1
+fill ~21~15~14 ~21~16~14 minecraft:leaves 1
+setblock ~21~18~14 minecraft:iron_bars
+fill ~22~6~14 ~22~6~18 minecraft:leaves 1
+fill ~22~17~14 ~22~19~14 minecraft:leaves 1
+setblock ~22~21~14 minecraft:glass_pane
+fill ~23~20~14 ~23~22~14 minecraft:leaves 1
+fill ~24~22~14 ~24~24~14 minecraft:leaves 1
+setblock ~24~26~14 minecraft:iron_bars
+setblock ~24~28~14 minecraft:glowstone
+fill ~25~25~14 ~26~28~14 minecraft:leaves 1
+setblock ~25~29~14 minecraft:glass_pane
+fill ~25~31~14 ~26~31~14 minecraft:iron_bars
+fill ~27~21~14 ~27~24~14 minecraft:leaves 1
+setblock ~27~25~14 minecraft:iron_bars
+setblock ~27~28~14 minecraft:glass_pane
+setblock ~28~7~14 minecraft:leaves 1
+fill ~28~17~14 ~28~18~14 minecraft:leaves 1
+fill ~28~19~14 ~28~20~14 minecraft:leaves 1
+setblock ~28~24~14 minecraft:glowstone
+fill ~29~6~14 ~29~6~18 minecraft:leaves 1
+setblock ~29~15~14 minecraft:leaves 1
+setblock ~29~16~14 minecraft:leaves 1
+setblock ~29~20~14 minecraft:glass_pane
+setblock ~30~0~14 minecraft:log 1
+fill ~30~13~14 ~30~14~14 minecraft:leaves 1
+setblock ~30~15~14 minecraft:iron_bars
+setblock ~30~16~14 minecraft:glowstone
+fill ~31~10~14 ~32~10~14 minecraft:leaves 1
+fill ~31~11~14 ~31~12~14 minecraft:leaves 1
+setblock ~31~13~14 minecraft:glowstone
+fill ~32~0~14 ~32~3~14 minecraft:redstone_block
+fill ~32~8~14 ~33~8~14 minecraft:leaves 1
+setblock ~32~9~14 minecraft:leaves 1
+fill ~32~11~14 ~33~11~14 minecraft:glass_pane
+setblock ~32~12~14 minecraft:wool 14
+fill ~33~3~14 ~33~4~14 minecraft:redstone_block
+setblock ~33~7~14 minecraft:leaves 1
+setblock ~33~9~14 minecraft:iron_bars
+fill ~35~3~14 ~36~3~14 minecraft:redstone_block
+setblock ~35~4~14 minecraft:redstone_block
+setblock ~35~6~14 minecraft:glass_pane
+fill ~36~0~14 ~36~2~14 minecraft:redstone_block
+setblock ~3~20~15 minecraft:wooden_slab 5
+setblock ~6~18~15 minecraft:dark_oak_stairs 5
+setblock ~6~19~15 minecraft:dark_oak_stairs 0
+setblock ~6~20~15 minecraft:dark_oak_stairs 4
+setblock ~17~6~15 minecraft:iron_bars
+setblock ~18~5~15 minecraft:leaves 1
+setblock ~18~8~15 minecraft:glass_pane
+fill ~19~7~15 ~19~9~15 minecraft:leaves 1
+setblock ~19~10~15 minecraft:iron_bars
+setblock ~20~0~15 minecraft:log 1
+fill ~20~10~15 ~20~12~15 minecraft:leaves 1
+setblock ~20~14~15 minecraft:glass_pane
+fill ~21~13~15 ~21~14~15 minecraft:leaves 1
+setblock ~21~15~15 minecraft:glowstone
+fill ~22~15~15 ~22~16~15 minecraft:leaves 1
+setblock ~22~17~15 minecraft:iron_bars
+setblock ~22~18~15 minecraft:glowstone
+fill ~23~6~15 ~24~6~19 minecraft:leaves 1
+fill ~23~17~15 ~23~19~15 minecraft:leaves 1
+setblock ~23~21~15 minecraft:glass_pane
+fill ~24~18~15 ~24~18~16 minecraft:leaves 1
+fill ~24~19~15 ~24~21~15 minecraft:leaves 1
+setblock ~24~22~15 minecraft:wool 14
+setblock ~24~24~15 minecraft:glowstone
+fill ~25~21~15 ~26~24~15 minecraft:leaves 1
+fill ~25~25~15 ~26~25~15 minecraft:iron_bars
+setblock ~26~28~15 minecraft:glass_pane
+fill ~27~6~15 ~28~6~19 minecraft:leaves 1
+fill ~27~17~15 ~27~18~15 minecraft:leaves 1
+fill ~27~19~15 ~27~20~15 minecraft:leaves 1
+setblock ~28~15~15 minecraft:leaves 1
+setblock ~28~16~15 minecraft:leaves 1
+setblock ~28~19~15 minecraft:wool 14
+setblock ~28~20~15 minecraft:glowstone
+fill ~29~13~15 ~29~14~15 minecraft:leaves 1
+setblock ~29~16~15 minecraft:iron_bars
+fill ~30~10~15 ~30~10~16 minecraft:leaves 1
+setblock ~30~11~15 minecraft:leaves 1
+setblock ~30~12~15 minecraft:leaves 1
+setblock ~31~0~15 minecraft:log 1
+fill ~31~8~15 ~31~9~15 minecraft:leaves 1
+setblock ~31~11~15 minecraft:glass_pane
+fill ~32~0~15 ~32~3~16 minecraft:gold_block
+setblock ~32~7~15 minecraft:leaves 1
+setblock ~32~9~15 minecraft:glowstone
+fill ~33~3~15 ~33~3~16 minecraft:gold_block
+fill ~33~5~15 ~33~6~15 minecraft:leaves 1
+setblock ~33~7~15 minecraft:glowstone
+setblock ~34~6~15 minecraft:glass_pane
+fill ~35~3~15 ~36~3~16 minecraft:gold_block
+fill ~36~0~15 ~36~2~16 minecraft:gold_block
+setblock ~4~18~16 minecraft:dark_oak_stairs 6
+setblock ~4~19~16 minecraft:dark_oak_stairs 4
+setblock ~5~17~16 minecraft:wooden_slab 13
+setblock ~5~18~16 minecraft:wooden_slab 5
+setblock ~18~5~16 minecraft:iron_bars
+setblock ~19~5~16 minecraft:leaves 1
+setblock ~19~7~16 minecraft:glowstone
+setblock ~19~8~16 minecraft:glass_pane
+setblock ~19~9~16 minecraft:wool 14
+fill ~20~0~16 ~21~0~17 minecraft:lapis_block
+fill ~20~1~16 ~21~3~16 minecraft:lapis_block
+fill ~20~7~16 ~20~9~16 minecraft:leaves 1
+fill ~20~10~16 ~20~10~17 minecraft:iron_bars
+setblock ~20~12~16 minecraft:glowstone
+fill ~21~10~16 ~21~10~17 minecraft:leaves 1
+fill ~21~11~16 ~21~12~16 minecraft:leaves 1
+setblock ~21~14~16 minecraft:glass_pane
+fill ~22~0~16 ~22~3~16 minecraft:gold_block
+fill ~22~13~16 ~22~14~16 minecraft:leaves 1
+setblock ~22~17~16 minecraft:wool 14
+fill ~23~0~16 ~24~0~17 minecraft:lapis_block
+fill ~23~1~16 ~24~3~16 minecraft:lapis_block
+fill ~23~14~16 ~23~16~16 minecraft:leaves 1
+setblock ~23~17~16 minecraft:iron_bars
+fill ~24~16~16 ~24~17~16 minecraft:leaves 1
+setblock ~24~20~16 minecraft:glowstone
+fill ~24~21~16 ~26~21~16 minecraft:glass_pane
+fill ~25~6~16 ~26~6~19 minecraft:leaves 1
+fill ~25~17~16 ~26~20~16 minecraft:leaves 1
+setblock ~26~22~16 minecraft:glowstone
+setblock ~27~15~16 minecraft:leaves 1
+setblock ~27~16~16 minecraft:leaves 1
+setblock ~27~17~16 minecraft:iron_bars
+setblock ~27~20~16 minecraft:glass_pane
+setblock ~28~13~16 minecraft:leaves 1
+setblock ~28~14~16 minecraft:leaves 1
+setblock ~28~16~16 minecraft:iron_bars
+fill ~29~11~16 ~29~11~17 minecraft:leaves 1
+setblock ~29~12~16 minecraft:leaves 1
+setblock ~29~14~16 minecraft:wool 14
+fill ~30~8~16 ~30~8~17 minecraft:leaves 1
+setblock ~30~9~16 minecraft:leaves 1
+setblock ~30~12~16 minecraft:glass_pane
+setblock ~31~7~16 minecraft:leaves 1
+setblock ~31~9~16 minecraft:iron_bars
+setblock ~32~5~16 minecraft:leaves 1
+setblock ~32~7~16 minecraft:wool 14
+fill ~33~0~16 ~33~2~16 minecraft:gold_block
+setblock ~33~6~16 minecraft:glass_pane
+fill ~34~0~16 ~34~2~16 minecraft:redstone_block
+fill ~35~0~16 ~35~2~16 minecraft:gold_block
+setblock ~1~10~17 minecraft:spruce_stairs 4
+setblock ~1~11~17 minecraft:spruce_stairs 0
+setblock ~1~18~17 minecraft:dark_oak_stairs 0
+setblock ~2~9~17 minecraft:spruce_stairs 4
+setblock ~2~10~17 minecraft:spruce_stairs 1
+fill ~2~11~17 ~6~11~17 minecraft:planks 1
+setblock ~2~17~17 minecraft:wooden_slab 13
+setblock ~2~18~17 minecraft:wooden_slab 5
+setblock ~3~9~17 minecraft:planks 5
+setblock ~3~17~17 minecraft:double_wooden_slab 5
+fill ~4~12~17 ~7~12~17 minecraft:planks 1
+setblock ~4~17~17 minecraft:planks 5
+setblock ~4~18~17 minecraft:dark_oak_stairs 3
+setblock ~5~13~17 minecraft:spruce_stairs 0
+fill ~6~0~17 ~7~0~17 minecraft:planks 5
+setblock ~6~1~17 minecraft:wooden_slab 1
+fill ~6~13~17 ~6~13~21 minecraft:planks 1
+fill ~7~1~17 ~8~1~17 minecraft:planks 1
+setblock ~7~11~17 minecraft:spruce_stairs 5
+setblock ~7~13~17 minecraft:spruce_stairs 1
+fill ~8~2~17 ~10~2~17 minecraft:planks 1
+setblock ~9~1~17 minecraft:wooden_slab 9
+setblock ~9~3~17 minecraft:spruce_stairs 0
+setblock ~9~4~17 minecraft:spruce_stairs 4
+fill ~9~5~17 ~12~6~17 minecraft:planks 1
+fill ~10~3~17 ~11~4~17 minecraft:planks 1
+fill ~10~7~17 ~11~7~21 minecraft:planks 1
+setblock ~12~4~17 minecraft:spruce_stairs 5
+setblock ~19~5~17 minecraft:iron_bars
+fill ~20~1~17 ~20~3~17 minecraft:lapis_block
+setblock ~20~5~17 minecraft:leaves 1
+setblock ~20~8~17 minecraft:glass_pane
+setblock ~21~3~17 minecraft:lapis_block
+fill ~21~7~17 ~21~7~18 minecraft:leaves 1
+fill ~21~8~17 ~21~9~17 minecraft:leaves 1
+fill ~22~0~17 ~22~0~19 minecraft:lapis_block
+fill ~22~3~17 ~22~3~20 minecraft:gold_block
+fill ~22~9~17 ~22~12~17 minecraft:leaves 1
+setblock ~22~14~17 minecraft:glass_pane
+fill ~23~3~17 ~24~3~17 minecraft:lapis_block
+fill ~23~11~17 ~23~13~17 minecraft:leaves 1
+setblock ~23~14~17 minecraft:glowstone
+fill ~24~1~17 ~24~2~17 minecraft:lapis_block
+fill ~24~13~17 ~27~14~17 minecraft:leaves 1
+fill ~24~15~17 ~26~15~17 minecraft:leaves 1
+fill ~24~17~17 ~26~17~17 minecraft:iron_bars
+fill ~25~16~17 ~26~16~17 minecraft:leaves 1
+setblock ~25~18~17 minecraft:wool 14
+setblock ~27~15~17 minecraft:glowstone
+fill ~28~9~17 ~29~10~17 minecraft:leaves 1
+setblock ~28~11~17 minecraft:leaves 1
+setblock ~28~12~17 minecraft:leaves 1
+setblock ~29~12~17 minecraft:glowstone
+fill ~30~7~17 ~30~7~18 minecraft:leaves 1
+setblock ~30~9~17 minecraft:iron_bars
+setblock ~31~5~17 minecraft:leaves 1
+fill ~4~11~18 ~4~12~18 minecraft:quartz_block 0
+setblock ~4~16~18 minecraft:dark_oak_stairs 4
+setblock ~4~17~18 minecraft:wooden_slab 5
+setblock ~5~10~18 minecraft:spruce_stairs 4
+fill ~5~11~18 ~9~11~19 minecraft:planks 1
+fill ~5~12~18 ~8~12~20 minecraft:planks 1
+fill ~5~13~18 ~5~13~20 minecraft:planks 1
+setblock ~5~14~18 minecraft:wooden_slab 1
+fill ~6~10~18 ~9~10~20 minecraft:planks 1
+fill ~6~14~18 ~6~14~20 minecraft:planks 1
+setblock ~7~9~18 minecraft:spruce_stairs 4
+fill ~7~13~18 ~7~13~20 minecraft:planks 1
+setblock ~7~14~18 minecraft:wooden_slab 1
+setblock ~8~7~18 minecraft:spruce_stairs 4
+fill ~8~8~18 ~11~8~20 minecraft:planks 1
+fill ~8~9~18 ~9~9~20 minecraft:planks 1
+setblock ~8~13~18 minecraft:spruce_stairs 1
+setblock ~9~6~18 minecraft:spruce_stairs 4
+fill ~9~7~18 ~9~7~20 minecraft:planks 1
+setblock ~10~5~18 minecraft:spruce_stairs 4
+fill ~10~6~18 ~13~6~20 minecraft:planks 1
+setblock ~10~9~18 minecraft:spruce_stairs 1
+fill ~11~5~18 ~12~5~18 minecraft:quartz_block 0
+fill ~12~7~18 ~12~7~20 minecraft:planks 1
+setblock ~12~8~18 minecraft:wooden_slab 1
+setblock ~13~5~18 minecraft:wooden_slab 9
+setblock ~13~7~18 minecraft:wooden_slab 1
+fill ~20~0~18 ~20~3~18 minecraft:gold_block
+setblock ~20~5~18 minecraft:iron_bars
+setblock ~20~7~18 minecraft:glass_pane
+fill ~21~0~18 ~21~0~20 minecraft:lapis_block
+fill ~21~3~18 ~21~4~18 minecraft:gold_block
+fill ~21~5~18 ~22~5~18 minecraft:leaves 1
+fill ~21~10~18 ~22~10~18 minecraft:iron_bars
+fill ~22~7~18 ~22~8~18 minecraft:leaves 1
+fill ~23~0~18 ~23~0~20 minecraft:lapis_block
+fill ~23~3~18 ~24~3~18 minecraft:gold_block
+setblock ~23~4~18 minecraft:gold_block
+fill ~23~8~18 ~23~10~18 minecraft:leaves 1
+setblock ~23~11~18 minecraft:snow_layer 0
+setblock ~23~13~18 minecraft:wool 14
+fill ~24~0~18 ~24~2~18 minecraft:gold_block
+fill ~24~9~18 ~28~9~18 minecraft:leaves 1
+fill ~24~10~18 ~27~12~18 minecraft:leaves 1
+setblock ~24~14~18 minecraft:glass_pane
+fill ~25~13~18 ~27~13~18 minecraft:glass_pane
+fill ~28~5~18 ~30~5~18 minecraft:leaves 1
+fill ~28~7~18 ~29~8~18 minecraft:leaves 1
+setblock ~28~10~18 minecraft:wool 14
+setblock ~28~12~18 minecraft:glass_pane
+setblock ~29~9~18 minecraft:iron_bars
+setblock ~30~8~18 minecraft:glowstone
+setblock ~31~5~18 minecraft:glowstone
+setblock ~31~6~18 minecraft:glass_pane
+setblock ~1~14~19 minecraft:dark_oak_stairs 4
+setblock ~1~15~19 minecraft:dark_oak_stairs 0
+setblock ~2~14~19 minecraft:wooden_slab 13
+fill ~2~15~19 ~6~15~19 minecraft:planks 1
+setblock ~2~16~19 minecraft:spruce_stairs 0
+setblock ~3~11~19 minecraft:quartz_stairs 4
+setblock ~3~12~19 minecraft:quartz_stairs 0
+fill ~3~16~19 ~5~16~19 minecraft:planks 1
+setblock ~3~17~19 minecraft:wooden_slab 1
+setblock ~4~10~19 minecraft:quartz_stairs 4
+fill ~4~11~19 ~4~12~19 minecraft:planks 1
+setblock ~4~13~19 minecraft:quartz_stairs 0
+setblock ~4~14~19 minecraft:spruce_stairs 4
+setblock ~4~17~19 minecraft:planks 1
+setblock ~5~9~19 minecraft:stone_block_slab 14
+setblock ~5~10~19 minecraft:quartz_block 0
+setblock ~5~14~19 minecraft:planks 1
+setblock ~5~17~19 minecraft:spruce_stairs 1
+fill ~6~9~19 ~7~9~19 minecraft:planks 1
+setblock ~6~16~19 minecraft:spruce_stairs 1
+setblock ~7~8~19 minecraft:spruce_stairs 4
+setblock ~7~14~19 minecraft:planks 1
+setblock ~7~15~19 minecraft:wooden_slab 1
+setblock ~8~6~19 minecraft:spruce_stairs 4
+setblock ~8~7~19 minecraft:planks 1
+setblock ~8~13~19 minecraft:planks 1
+setblock ~9~5~19 minecraft:wooden_slab 9
+setblock ~9~6~19 minecraft:planks 1
+setblock ~9~12~19 minecraft:spruce_stairs 1
+setblock ~10~5~19 minecraft:quartz_block 0
+fill ~10~9~19 ~10~10~19 minecraft:planks 1
+setblock ~10~11~19 minecraft:wooden_slab 1
+setblock ~11~9~19 minecraft:spruce_stairs 1
+fill ~12~5~19 ~12~5~20 minecraft:quartz_block 0
+setblock ~12~8~19 minecraft:planks 1
+setblock ~13~7~19 minecraft:planks 1
+setblock ~14~5~19 minecraft:quartz_stairs 5
+setblock ~14~6~19 minecraft:quartz_stairs 1
+fill ~20~0~19 ~20~3~20 minecraft:lapis_block
+fill ~21~3~19 ~21~3~20 minecraft:lapis_block
+fill ~21~5~19 ~22~5~19 minecraft:iron_bars
+fill ~21~7~19 ~22~7~19 minecraft:glass_pane
+setblock ~22~6~19 minecraft:glowstone
+fill ~23~3~19 ~24~3~20 minecraft:lapis_block
+fill ~23~5~19 ~28~5~19 minecraft:leaves 1
+fill ~23~7~19 ~28~7~19 minecraft:leaves 1
+setblock ~23~8~19 minecraft:wool 14
+fill ~23~10~19 ~25~10~19 minecraft:iron_bars
+fill ~24~0~19 ~24~2~20 minecraft:lapis_block
+fill ~24~8~19 ~27~8~19 minecraft:leaves 1
+setblock ~26~10~19 minecraft:glowstone
+setblock ~27~10~19 minecraft:iron_bars
+setblock ~28~9~19 minecraft:iron_bars
+setblock ~29~7~19 minecraft:glass_pane
+setblock ~30~6~19 minecraft:glass_pane
+fill ~4~11~20 ~4~12~20 minecraft:quartz_block 0
+setblock ~4~16~20 minecraft:dark_oak_stairs 4
+setblock ~4~17~20 minecraft:wooden_slab 5
+setblock ~5~10~20 minecraft:spruce_stairs 4
+fill ~5~11~20 ~8~11~20 minecraft:planks 1
+setblock ~5~14~20 minecraft:wooden_slab 1
+setblock ~7~9~20 minecraft:spruce_stairs 4
+setblock ~7~14~20 minecraft:wooden_slab 1
+setblock ~8~7~20 minecraft:spruce_stairs 4
+setblock ~8~13~20 minecraft:spruce_stairs 1
+setblock ~9~6~20 minecraft:spruce_stairs 4
+setblock ~9~11~20 minecraft:double_wooden_slab 1
+setblock ~10~5~20 minecraft:spruce_stairs 4
+setblock ~10~9~20 minecraft:spruce_stairs 1
+setblock ~11~5~20 minecraft:quartz_block 0
+setblock ~12~8~20 minecraft:wooden_slab 1
+setblock ~13~5~20 minecraft:wooden_slab 9
+setblock ~13~7~20 minecraft:wooden_slab 1
+fill ~21~1~20 ~21~2~20 minecraft:lapis_block
+fill ~22~0~20 ~22~2~20 minecraft:gold_block
+fill ~23~1~20 ~23~2~20 minecraft:lapis_block
+fill ~23~5~20 ~28~5~20 minecraft:iron_bars
+fill ~23~7~20 ~28~7~20 minecraft:glass_pane
+setblock ~26~6~20 minecraft:glowstone
+setblock ~0~9~21 minecraft:planks 5
+setblock ~0~10~21 minecraft:spruce_stairs 0
+setblock ~1~10~21 minecraft:spruce_stairs 5
+setblock ~1~11~21 minecraft:spruce_stairs 0
+setblock ~1~18~21 minecraft:dark_oak_stairs 0
+fill ~2~11~21 ~6~11~21 minecraft:planks 1
+setblock ~2~17~21 minecraft:wooden_slab 13
+setblock ~2~18~21 minecraft:wooden_slab 5
+setblock ~3~17~21 minecraft:double_wooden_slab 5
+fill ~4~12~21 ~7~12~21 minecraft:planks 1
+setblock ~4~17~21 minecraft:planks 5
+setblock ~4~18~21 minecraft:dark_oak_stairs 2
+setblock ~5~13~21 minecraft:spruce_stairs 0
+setblock ~7~11~21 minecraft:spruce_stairs 5
+setblock ~7~13~21 minecraft:spruce_stairs 1
+fill ~9~0~21 ~10~0~21 minecraft:planks 5
+setblock ~9~1~21 minecraft:spruce_stairs 0
+setblock ~9~2~21 minecraft:spruce_stairs 4
+setblock ~9~3~21 minecraft:spruce_stairs 0
+setblock ~9~4~21 minecraft:spruce_stairs 4
+fill ~9~5~21 ~12~6~21 minecraft:planks 1
+fill ~10~1~21 ~10~4~21 minecraft:planks 1
+fill ~11~3~21 ~11~4~21 minecraft:planks 1
+setblock ~4~18~22 minecraft:dark_oak_stairs 7
+setblock ~4~19~22 minecraft:dark_oak_stairs 4
+setblock ~5~17~22 minecraft:wooden_slab 13
+setblock ~5~18~22 minecraft:wooden_slab 5
+setblock ~3~20~23 minecraft:wooden_slab 5
+setblock ~6~18~23 minecraft:dark_oak_stairs 5
+setblock ~6~19~23 minecraft:dark_oak_stairs 0
+setblock ~6~20~23 minecraft:dark_oak_stairs 4
+setblock ~7~19~24 minecraft:wooden_slab 13

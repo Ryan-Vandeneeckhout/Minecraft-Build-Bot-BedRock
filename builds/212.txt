@@ -1,0 +1,3261 @@
+fill ~28~3~2 ~32~3~2 minecraft:quartz_block 2
+fill ~28~4~2 ~29~9~2 minecraft:quartz_block 0
+fill ~28~10~2 ~32~10~2 minecraft:quartz_block 2
+fill ~30~4~2 ~30~9~2 minecraft:quartz_block 2
+setblock ~30~11~2 minecraft:quartz_block 2
+fill ~31~4~2 ~32~9~2 minecraft:quartz_block 0
+fill ~27~3~3 ~27~3~4 minecraft:quartz_block 2
+fill ~27~4~3 ~27~8~3 minecraft:quartz_block 0
+fill ~27~9~3 ~27~9~4 minecraft:quartz_block 2
+fill ~28~2~3 ~32~2~3 minecraft:quartz_block 0
+fill ~28~3~3 ~32~9~3 minecraft:water 0
+setblock ~28~10~3 minecraft:quartz_block 0
+fill ~29~10~3 ~31~10~3 minecraft:water 0
+setblock ~29~11~3 minecraft:quartz_block 0
+setblock ~30~11~3 minecraft:quartz_block 2
+setblock ~31~11~3 minecraft:quartz_block 0
+setblock ~32~10~3 minecraft:quartz_block 0
+fill ~33~3~3 ~33~3~4 minecraft:quartz_block 2
+fill ~33~4~3 ~33~9~3 minecraft:quartz_block 0
+setblock ~33~10~3 minecraft:quartz_block 2
+fill ~3~3~4 ~26~3~4 minecraft:quartz_block 0
+fill ~3~4~4 ~3~13~4 minecraft:quartz_block 2
+setblock ~3~14~4 minecraft:quartz_block 0
+fill ~4~4~4 ~26~4~4 minecraft:double_stone_block_slab 0
+fill ~4~5~4 ~4~7~4 minecraft:monster_egg 2
+setblock ~4~8~4 minecraft:stonebrick 3
+fill ~4~9~4 ~4~11~4 minecraft:monster_egg 2
+fill ~4~12~4 ~26~12~4 minecraft:double_stone_block_slab 0
+fill ~4~13~4 ~56~14~4 minecraft:quartz_block 2
+fill ~5~5~4 ~5~11~4 minecraft:quartz_block 2
+setblock ~6~5~4 minecraft:quartz_stairs 3
+setblock ~6~6~4 minecraft:monster_egg 2
+setblock ~6~7~4 minecraft:quartz_stairs 3
+fill ~6~8~4 ~8~8~4 minecraft:stonebrick 3
+setblock ~6~9~4 minecraft:quartz_stairs 3
+setblock ~6~10~4 minecraft:monster_egg 2
+setblock ~6~11~4 minecraft:quartz_stairs 3
+setblock ~7~5~4 minecraft:monster_egg 2
+setblock ~7~6~4 minecraft:sea_lantern
+setblock ~7~7~4 minecraft:monster_egg 2
+setblock ~7~9~4 minecraft:monster_egg 2
+setblock ~7~10~4 minecraft:sea_lantern
+setblock ~7~11~4 minecraft:monster_egg 2
+setblock ~8~5~4 minecraft:quartz_stairs 3
+setblock ~8~6~4 minecraft:monster_egg 2
+setblock ~8~7~4 minecraft:quartz_stairs 3
+setblock ~8~9~4 minecraft:quartz_stairs 3
+setblock ~8~10~4 minecraft:monster_egg 2
+setblock ~8~11~4 minecraft:quartz_stairs 3
+fill ~9~5~4 ~9~11~4 minecraft:quartz_block 2
+setblock ~10~5~4 minecraft:quartz_stairs 3
+setblock ~10~6~4 minecraft:monster_egg 2
+setblock ~10~7~4 minecraft:quartz_stairs 3
+fill ~10~8~4 ~12~8~4 minecraft:stonebrick 3
+setblock ~10~9~4 minecraft:quartz_stairs 3
+setblock ~10~10~4 minecraft:monster_egg 2
+setblock ~10~11~4 minecraft:quartz_stairs 3
+setblock ~11~5~4 minecraft:monster_egg 2
+setblock ~11~6~4 minecraft:sea_lantern
+setblock ~11~7~4 minecraft:monster_egg 2
+setblock ~11~9~4 minecraft:monster_egg 2
+setblock ~11~10~4 minecraft:sea_lantern
+setblock ~11~11~4 minecraft:monster_egg 2
+setblock ~12~5~4 minecraft:quartz_stairs 3
+setblock ~12~6~4 minecraft:monster_egg 2
+setblock ~12~7~4 minecraft:quartz_stairs 3
+setblock ~12~9~4 minecraft:quartz_stairs 3
+setblock ~12~10~4 minecraft:monster_egg 2
+setblock ~12~11~4 minecraft:quartz_stairs 3
+fill ~13~5~4 ~13~11~4 minecraft:quartz_block 2
+setblock ~14~5~4 minecraft:quartz_stairs 3
+setblock ~14~6~4 minecraft:monster_egg 2
+setblock ~14~7~4 minecraft:quartz_stairs 3
+fill ~14~8~4 ~16~8~4 minecraft:stonebrick 3
+setblock ~14~9~4 minecraft:quartz_stairs 3
+setblock ~14~10~4 minecraft:monster_egg 2
+setblock ~14~11~4 minecraft:quartz_stairs 3
+setblock ~15~5~4 minecraft:monster_egg 2
+setblock ~15~6~4 minecraft:sea_lantern
+setblock ~15~7~4 minecraft:monster_egg 2
+setblock ~15~9~4 minecraft:monster_egg 2
+setblock ~15~10~4 minecraft:sea_lantern
+setblock ~15~11~4 minecraft:monster_egg 2
+setblock ~16~5~4 minecraft:quartz_stairs 3
+setblock ~16~6~4 minecraft:monster_egg 2
+setblock ~16~7~4 minecraft:quartz_stairs 3
+setblock ~16~9~4 minecraft:quartz_stairs 3
+setblock ~16~10~4 minecraft:monster_egg 2
+setblock ~16~11~4 minecraft:quartz_stairs 3
+fill ~17~5~4 ~17~11~4 minecraft:quartz_block 2
+setblock ~18~5~4 minecraft:quartz_stairs 3
+setblock ~18~6~4 minecraft:monster_egg 2
+setblock ~18~7~4 minecraft:quartz_stairs 3
+fill ~18~8~4 ~20~8~4 minecraft:stonebrick 3
+setblock ~18~9~4 minecraft:quartz_stairs 3
+setblock ~18~10~4 minecraft:monster_egg 2
+setblock ~18~11~4 minecraft:quartz_stairs 3
+setblock ~19~5~4 minecraft:monster_egg 2
+setblock ~19~6~4 minecraft:sea_lantern
+setblock ~19~7~4 minecraft:monster_egg 2
+setblock ~19~9~4 minecraft:monster_egg 2
+setblock ~19~10~4 minecraft:sea_lantern
+setblock ~19~11~4 minecraft:monster_egg 2
+setblock ~20~5~4 minecraft:quartz_stairs 3
+setblock ~20~6~4 minecraft:monster_egg 2
+setblock ~20~7~4 minecraft:quartz_stairs 3
+setblock ~20~9~4 minecraft:quartz_stairs 3
+setblock ~20~10~4 minecraft:monster_egg 2
+setblock ~20~11~4 minecraft:quartz_stairs 3
+fill ~21~5~4 ~21~11~4 minecraft:quartz_block 2
+setblock ~22~5~4 minecraft:quartz_stairs 3
+setblock ~22~6~4 minecraft:monster_egg 2
+setblock ~22~7~4 minecraft:quartz_stairs 3
+fill ~22~8~4 ~24~8~4 minecraft:stonebrick 3
+setblock ~22~9~4 minecraft:quartz_stairs 3
+setblock ~22~10~4 minecraft:monster_egg 2
+setblock ~22~11~4 minecraft:quartz_stairs 3
+setblock ~23~5~4 minecraft:monster_egg 2
+setblock ~23~6~4 minecraft:sea_lantern
+setblock ~23~7~4 minecraft:monster_egg 2
+setblock ~23~9~4 minecraft:monster_egg 2
+setblock ~23~10~4 minecraft:sea_lantern
+setblock ~23~11~4 minecraft:monster_egg 2
+setblock ~24~5~4 minecraft:quartz_stairs 3
+setblock ~24~6~4 minecraft:monster_egg 2
+setblock ~24~7~4 minecraft:quartz_stairs 3
+setblock ~24~9~4 minecraft:quartz_stairs 3
+setblock ~24~10~4 minecraft:monster_egg 2
+setblock ~24~11~4 minecraft:quartz_stairs 3
+fill ~25~5~4 ~25~11~4 minecraft:quartz_block 2
+fill ~26~5~4 ~26~7~4 minecraft:monster_egg 2
+setblock ~26~8~4 minecraft:stonebrick 3
+fill ~26~9~4 ~26~11~4 minecraft:monster_egg 2
+fill ~27~4~4 ~27~5~4 minecraft:quartz_block 2
+setblock ~27~6~4 minecraft:sea_lantern
+fill ~27~7~4 ~27~8~4 minecraft:quartz_block 2
+setblock ~27~10~4 minecraft:monster_egg 2
+setblock ~27~11~4 minecraft:stonebrick 3
+fill ~27~12~4 ~33~12~4 minecraft:monster_egg 2
+setblock ~28~2~4 minecraft:quartz_block 2
+fill ~28~3~4 ~32~3~4 minecraft:quartz_stairs 3
+setblock ~28~10~4 minecraft:quartz_block 2
+setblock ~28~11~4 minecraft:monster_egg 2
+fill ~29~2~4 ~31~2~4 minecraft:quartz_block 0
+setblock ~29~11~4 minecraft:quartz_block 2
+setblock ~30~11~4 minecraft:quartz_block 2
+setblock ~31~11~4 minecraft:quartz_block 2
+setblock ~32~2~4 minecraft:quartz_block 2
+setblock ~32~10~4 minecraft:quartz_block 2
+setblock ~32~11~4 minecraft:monster_egg 2
+fill ~33~4~4 ~33~5~4 minecraft:quartz_block 2
+setblock ~33~6~4 minecraft:sea_lantern
+fill ~33~7~4 ~33~9~4 minecraft:quartz_block 2
+fill ~33~10~4 ~34~10~4 minecraft:monster_egg 2
+setblock ~33~11~4 minecraft:stonebrick 3
+fill ~34~3~4 ~57~3~4 minecraft:quartz_block 0
+fill ~34~4~4 ~56~4~4 minecraft:double_stone_block_slab 0
+fill ~34~5~4 ~34~7~4 minecraft:monster_egg 2
+setblock ~34~8~4 minecraft:stonebrick 3
+setblock ~34~9~4 minecraft:monster_egg 2
+setblock ~34~11~4 minecraft:monster_egg 2
+fill ~34~12~4 ~56~12~4 minecraft:double_stone_block_slab 0
+fill ~35~5~4 ~35~11~4 minecraft:quartz_block 2
+setblock ~36~5~4 minecraft:quartz_stairs 3
+setblock ~36~6~4 minecraft:monster_egg 2
+setblock ~36~7~4 minecraft:quartz_stairs 3
+fill ~36~8~4 ~38~8~4 minecraft:stonebrick 3
+setblock ~36~9~4 minecraft:quartz_stairs 3
+setblock ~36~10~4 minecraft:monster_egg 2
+setblock ~36~11~4 minecraft:quartz_stairs 3
+setblock ~37~5~4 minecraft:monster_egg 2
+setblock ~37~6~4 minecraft:sea_lantern
+setblock ~37~7~4 minecraft:monster_egg 2
+setblock ~37~9~4 minecraft:monster_egg 2
+setblock ~37~10~4 minecraft:sea_lantern
+setblock ~37~11~4 minecraft:monster_egg 2
+setblock ~38~5~4 minecraft:quartz_stairs 3
+setblock ~38~6~4 minecraft:monster_egg 2
+setblock ~38~7~4 minecraft:quartz_stairs 3
+setblock ~38~9~4 minecraft:quartz_stairs 3
+setblock ~38~10~4 minecraft:monster_egg 2
+setblock ~38~11~4 minecraft:quartz_stairs 3
+fill ~39~5~4 ~39~11~4 minecraft:quartz_block 2
+setblock ~40~5~4 minecraft:quartz_stairs 3
+setblock ~40~6~4 minecraft:monster_egg 2
+setblock ~40~7~4 minecraft:quartz_stairs 3
+fill ~40~8~4 ~42~8~4 minecraft:stonebrick 3
+setblock ~40~9~4 minecraft:quartz_stairs 3
+setblock ~40~10~4 minecraft:monster_egg 2
+setblock ~40~11~4 minecraft:quartz_stairs 3
+setblock ~41~5~4 minecraft:monster_egg 2
+setblock ~41~6~4 minecraft:sea_lantern
+setblock ~41~7~4 minecraft:monster_egg 2
+setblock ~41~9~4 minecraft:monster_egg 2
+setblock ~41~10~4 minecraft:sea_lantern
+setblock ~41~11~4 minecraft:monster_egg 2
+setblock ~42~5~4 minecraft:quartz_stairs 3
+setblock ~42~6~4 minecraft:monster_egg 2
+setblock ~42~7~4 minecraft:quartz_stairs 3
+setblock ~42~9~4 minecraft:quartz_stairs 3
+setblock ~42~10~4 minecraft:monster_egg 2
+setblock ~42~11~4 minecraft:quartz_stairs 3
+fill ~43~5~4 ~43~11~4 minecraft:quartz_block 2
+setblock ~44~5~4 minecraft:quartz_stairs 3
+setblock ~44~6~4 minecraft:monster_egg 2
+setblock ~44~7~4 minecraft:quartz_stairs 3
+fill ~44~8~4 ~46~8~4 minecraft:stonebrick 3
+setblock ~44~9~4 minecraft:quartz_stairs 3
+setblock ~44~10~4 minecraft:monster_egg 2
+setblock ~44~11~4 minecraft:quartz_stairs 3
+setblock ~45~5~4 minecraft:monster_egg 2
+setblock ~45~6~4 minecraft:sea_lantern
+setblock ~45~7~4 minecraft:monster_egg 2
+setblock ~45~9~4 minecraft:monster_egg 2
+setblock ~45~10~4 minecraft:sea_lantern
+setblock ~45~11~4 minecraft:monster_egg 2
+setblock ~46~5~4 minecraft:quartz_stairs 3
+setblock ~46~6~4 minecraft:monster_egg 2
+setblock ~46~7~4 minecraft:quartz_stairs 3
+setblock ~46~9~4 minecraft:quartz_stairs 3
+setblock ~46~10~4 minecraft:monster_egg 2
+setblock ~46~11~4 minecraft:quartz_stairs 3
+fill ~47~5~4 ~47~11~4 minecraft:quartz_block 2
+setblock ~48~5~4 minecraft:quartz_stairs 3
+setblock ~48~6~4 minecraft:monster_egg 2
+setblock ~48~7~4 minecraft:quartz_stairs 3
+fill ~48~8~4 ~50~8~4 minecraft:stonebrick 3
+setblock ~48~9~4 minecraft:quartz_stairs 3
+setblock ~48~10~4 minecraft:monster_egg 2
+setblock ~48~11~4 minecraft:quartz_stairs 3
+setblock ~49~5~4 minecraft:monster_egg 2
+setblock ~49~6~4 minecraft:sea_lantern
+setblock ~49~7~4 minecraft:monster_egg 2
+setblock ~49~9~4 minecraft:monster_egg 2
+setblock ~49~10~4 minecraft:sea_lantern
+setblock ~49~11~4 minecraft:monster_egg 2
+setblock ~50~5~4 minecraft:quartz_stairs 3
+setblock ~50~6~4 minecraft:monster_egg 2
+setblock ~50~7~4 minecraft:quartz_stairs 3
+setblock ~50~9~4 minecraft:quartz_stairs 3
+setblock ~50~10~4 minecraft:monster_egg 2
+setblock ~50~11~4 minecraft:quartz_stairs 3
+fill ~51~5~4 ~51~11~4 minecraft:quartz_block 2
+setblock ~52~5~4 minecraft:quartz_stairs 3
+setblock ~52~6~4 minecraft:monster_egg 2
+setblock ~52~7~4 minecraft:quartz_stairs 3
+fill ~52~8~4 ~54~8~4 minecraft:stonebrick 3
+setblock ~52~9~4 minecraft:quartz_stairs 3
+setblock ~52~10~4 minecraft:monster_egg 2
+setblock ~52~11~4 minecraft:quartz_stairs 3
+setblock ~53~5~4 minecraft:monster_egg 2
+setblock ~53~6~4 minecraft:sea_lantern
+setblock ~53~7~4 minecraft:monster_egg 2
+setblock ~53~9~4 minecraft:monster_egg 2
+setblock ~53~10~4 minecraft:sea_lantern
+setblock ~53~11~4 minecraft:monster_egg 2
+setblock ~54~5~4 minecraft:quartz_stairs 3
+setblock ~54~6~4 minecraft:monster_egg 2
+setblock ~54~7~4 minecraft:quartz_stairs 3
+setblock ~54~9~4 minecraft:quartz_stairs 3
+setblock ~54~10~4 minecraft:monster_egg 2
+setblock ~54~11~4 minecraft:quartz_stairs 3
+fill ~55~5~4 ~55~11~4 minecraft:quartz_block 2
+fill ~56~5~4 ~56~7~4 minecraft:monster_egg 2
+setblock ~56~8~4 minecraft:stonebrick 3
+fill ~56~9~4 ~56~11~4 minecraft:monster_egg 2
+fill ~57~4~4 ~57~13~4 minecraft:quartz_block 0
+setblock ~57~14~4 minecraft:quartz_block 2
+fill ~3~3~5 ~25~3~5 minecraft:quartz_block 0
+fill ~3~4~5 ~3~4~27 minecraft:double_stone_block_slab 0
+fill ~3~5~5 ~3~7~5 minecraft:monster_egg 2
+setblock ~3~8~5 minecraft:stonebrick 3
+fill ~3~9~5 ~3~11~5 minecraft:monster_egg 2
+fill ~3~12~5 ~3~12~27 minecraft:double_stone_block_slab 0
+fill ~3~13~5 ~3~14~57 minecraft:quartz_block 2
+fill ~4~14~5 ~7~14~5 minecraft:quartz_block 0
+fill ~8~14~5 ~11~14~5 minecraft:glowstone
+fill ~12~14~5 ~16~14~5 minecraft:quartz_block 0
+fill ~17~14~5 ~20~14~5 minecraft:glowstone
+fill ~21~14~5 ~24~14~5 minecraft:quartz_block 0
+fill ~25~14~5 ~28~14~5 minecraft:glowstone
+setblock ~26~3~5 minecraft:sea_lantern
+fill ~27~2~5 ~27~2~21 minecraft:quartz_block 0
+fill ~27~3~5 ~27~3~21 minecraft:stone_block_slab 0
+fill ~28~2~5 ~28~2~21 minecraft:quartz_stairs 0
+fill ~29~2~5 ~29~2~22 minecraft:stained_hardened_clay 10
+fill ~29~14~5 ~39~14~5 minecraft:quartz_block 0
+setblock ~30~2~5 minecraft:sea_lantern
+fill ~31~2~5 ~31~2~22 minecraft:stained_hardened_clay 10
+fill ~32~2~5 ~32~2~21 minecraft:quartz_stairs 1
+fill ~33~2~5 ~33~2~21 minecraft:quartz_block 0
+fill ~33~3~5 ~33~3~21 minecraft:stone_block_slab 0
+setblock ~34~3~5 minecraft:sea_lantern
+fill ~35~3~5 ~57~3~5 minecraft:quartz_block 0
+fill ~40~14~5 ~43~14~5 minecraft:glowstone
+fill ~44~14~5 ~56~14~5 minecraft:quartz_block 0
+fill ~57~4~5 ~57~4~27 minecraft:double_stone_block_slab 0
+fill ~57~5~5 ~57~7~5 minecraft:monster_egg 2
+setblock ~57~8~5 minecraft:stonebrick 3
+fill ~57~9~5 ~57~11~5 minecraft:monster_egg 2
+fill ~57~12~5 ~57~12~27 minecraft:double_stone_block_slab 0
+fill ~57~13~5 ~57~13~58 minecraft:quartz_block 2
+fill ~57~14~5 ~57~14~57 minecraft:quartz_block 2
+fill ~3~3~6 ~4~3~26 minecraft:quartz_block 0
+fill ~3~5~6 ~3~11~6 minecraft:quartz_block 2
+fill ~4~14~6 ~6~14~19 minecraft:quartz_block 0
+fill ~5~3~6 ~10~3~6 minecraft:stained_hardened_clay 11
+fill ~7~14~6 ~7~14~8 minecraft:glowstone
+fill ~8~14~6 ~11~14~6 minecraft:quartz_block 0
+setblock ~11~3~6 minecraft:quartz_block 0
+fill ~12~3~6 ~18~3~6 minecraft:stained_hardened_clay 11
+setblock ~12~14~6 minecraft:glowstone
+fill ~13~14~6 ~15~14~6 minecraft:quartz_block 0
+fill ~16~14~6 ~16~14~8 minecraft:glowstone
+fill ~17~14~6 ~20~14~6 minecraft:quartz_block 0
+setblock ~19~3~6 minecraft:quartz_block 0
+fill ~20~3~6 ~25~3~6 minecraft:stained_hardened_clay 11
+setblock ~21~14~6 minecraft:glowstone
+fill ~22~14~6 ~23~14~6 minecraft:quartz_block 0
+fill ~24~14~6 ~24~14~8 minecraft:glowstone
+fill ~25~14~6 ~28~14~6 minecraft:quartz_block 0
+fill ~26~3~6 ~26~3~11 minecraft:quartz_block 0
+setblock ~29~14~6 minecraft:glowstone
+fill ~30~2~6 ~30~2~7 minecraft:stained_hardened_clay 3
+fill ~30~14~6 ~38~14~6 minecraft:quartz_block 0
+fill ~34~3~6 ~34~3~15 minecraft:quartz_block 0
+fill ~35~3~6 ~40~3~6 minecraft:stained_hardened_clay 11
+fill ~39~14~6 ~39~14~8 minecraft:glowstone
+fill ~40~14~6 ~43~14~6 minecraft:quartz_block 0
+setblock ~41~3~6 minecraft:quartz_block 0
+fill ~42~3~6 ~48~3~6 minecraft:stained_hardened_clay 11
+setblock ~44~14~6 minecraft:glowstone
+fill ~45~14~6 ~56~14~6 minecraft:quartz_block 0
+setblock ~49~3~6 minecraft:quartz_block 0
+fill ~50~3~6 ~55~3~6 minecraft:stained_hardened_clay 11
+fill ~56~3~6 ~57~3~26 minecraft:quartz_block 0
+fill ~57~5~6 ~57~11~6 minecraft:quartz_block 2
+setblock ~3~5~7 minecraft:quartz_stairs 1
+setblock ~3~6~7 minecraft:monster_egg 2
+setblock ~3~7~7 minecraft:quartz_stairs 1
+fill ~3~8~7 ~3~8~9 minecraft:stonebrick 3
+setblock ~3~9~7 minecraft:quartz_stairs 1
+setblock ~3~10~7 minecraft:monster_egg 2
+setblock ~3~11~7 minecraft:quartz_stairs 1
+fill ~5~3~7 ~5~3~11 minecraft:stained_hardened_clay 11
+fill ~6~3~7 ~7~3~7 minecraft:stained_hardened_clay 6
+setblock ~8~3~7 minecraft:sea_lantern
+fill ~8~14~7 ~9~14~8 minecraft:quartz_block 0
+setblock ~9~3~7 minecraft:stained_hardened_clay 11
+setblock ~10~3~7 minecraft:sea_lantern
+setblock ~10~14~7 minecraft:glowstone
+setblock ~11~3~7 minecraft:stained_hardened_clay 11
+fill ~11~14~7 ~12~14~7 minecraft:quartz_block 0
+fill ~12~3~7 ~13~3~8 minecraft:stained_hardened_clay 3
+fill ~13~14~7 ~13~14~9 minecraft:glowstone
+setblock ~14~3~7 minecraft:sea_lantern
+fill ~14~14~7 ~15~14~13 minecraft:quartz_block 0
+fill ~15~3~7 ~17~3~7 minecraft:stained_hardened_clay 3
+fill ~17~14~7 ~18~14~8 minecraft:quartz_block 0
+setblock ~18~3~7 minecraft:sea_lantern
+setblock ~19~3~7 minecraft:stained_hardened_clay 11
+setblock ~19~14~7 minecraft:glowstone
+setblock ~20~3~7 minecraft:quartz_block 0
+fill ~20~14~7 ~21~14~7 minecraft:quartz_block 0
+setblock ~21~3~7 minecraft:stained_hardened_clay 11
+setblock ~22~3~7 minecraft:sea_lantern
+fill ~22~14~7 ~22~14~9 minecraft:glowstone
+fill ~23~3~7 ~24~3~7 minecraft:stained_hardened_clay 6
+fill ~23~14~7 ~23~14~19 minecraft:quartz_block 0
+fill ~25~3~7 ~25~3~11 minecraft:stained_hardened_clay 11
+fill ~25~14~7 ~26~14~8 minecraft:quartz_block 0
+setblock ~27~14~7 minecraft:glowstone
+fill ~28~14~7 ~29~14~7 minecraft:quartz_block 0
+fill ~30~14~7 ~30~14~9 minecraft:glowstone
+fill ~31~14~7 ~38~14~9 minecraft:quartz_block 0
+fill ~35~3~7 ~35~3~11 minecraft:stained_hardened_clay 11
+fill ~36~3~7 ~37~3~7 minecraft:stained_hardened_clay 6
+setblock ~38~3~7 minecraft:stained_hardened_clay 3
+setblock ~39~3~7 minecraft:stained_hardened_clay 11
+setblock ~40~3~7 minecraft:quartz_block 0
+fill ~40~14~7 ~41~14~8 minecraft:quartz_block 0
+setblock ~41~3~7 minecraft:stained_hardened_clay 11
+fill ~42~3~7 ~48~3~7 minecraft:stained_hardened_clay 3
+setblock ~42~14~7 minecraft:glowstone
+fill ~43~6~7 ~43~8~7 minecraft:quartz_block 0
+setblock ~43~9~7 minecraft:stone_block_slab 6
+fill ~43~14~7 ~44~14~7 minecraft:quartz_block 0
+fill ~45~8~7 ~45~10~7 minecraft:quartz_block 0
+setblock ~45~11~7 minecraft:stone_block_slab 6
+fill ~45~14~7 ~45~14~9 minecraft:glowstone
+fill ~46~14~7 ~56~14~7 minecraft:quartz_block 0
+setblock ~49~3~7 minecraft:stained_hardened_clay 11
+setblock ~50~3~7 minecraft:quartz_block 0
+setblock ~51~3~7 minecraft:stained_hardened_clay 11
+setblock ~52~3~7 minecraft:stained_hardened_clay 3
+fill ~53~3~7 ~54~3~7 minecraft:stained_hardened_clay 6
+fill ~55~3~7 ~55~3~11 minecraft:stained_hardened_clay 11
+setblock ~57~5~7 minecraft:quartz_stairs 0
+setblock ~57~6~7 minecraft:monster_egg 2
+setblock ~57~7~7 minecraft:quartz_stairs 0
+fill ~57~8~7 ~57~8~9 minecraft:stonebrick 3
+setblock ~57~9~7 minecraft:quartz_stairs 0
+setblock ~57~10~7 minecraft:monster_egg 2
+setblock ~57~11~7 minecraft:quartz_stairs 0
+setblock ~3~5~8 minecraft:monster_egg 2
+setblock ~3~6~8 minecraft:sea_lantern
+setblock ~3~7~8 minecraft:monster_egg 2
+setblock ~3~9~8 minecraft:monster_egg 2
+setblock ~3~10~8 minecraft:sea_lantern
+setblock ~3~11~8 minecraft:monster_egg 2
+setblock ~6~3~8 minecraft:stained_hardened_clay 6
+setblock ~7~3~8 minecraft:stained_hardened_clay 3
+fill ~8~3~8 ~8~3~9 minecraft:stained_hardened_clay 11
+fill ~9~3~8 ~9~3~10 minecraft:quartz_block 0
+fill ~10~3~8 ~10~3~10 minecraft:stained_hardened_clay 11
+fill ~10~14~8 ~10~14~9 minecraft:quartz_block 0
+fill ~11~3~8 ~11~3~10 minecraft:stained_hardened_clay 3
+fill ~11~14~8 ~11~14~9 minecraft:glowstone
+fill ~12~14~8 ~12~14~11 minecraft:quartz_block 0
+fill ~14~3~8 ~16~3~8 minecraft:stained_hardened_clay 6
+fill ~17~3~8 ~19~3~8 minecraft:stained_hardened_clay 3
+fill ~19~14~8 ~19~14~9 minecraft:quartz_block 0
+fill ~20~3~8 ~20~3~10 minecraft:stained_hardened_clay 11
+fill ~20~14~8 ~20~14~9 minecraft:glowstone
+fill ~21~3~8 ~21~3~10 minecraft:quartz_block 0
+fill ~21~14~8 ~21~14~12 minecraft:quartz_block 0
+fill ~22~3~8 ~22~3~9 minecraft:stained_hardened_clay 11
+setblock ~23~3~8 minecraft:stained_hardened_clay 3
+setblock ~24~3~8 minecraft:stained_hardened_clay 6
+fill ~27~14~8 ~27~14~9 minecraft:quartz_block 0
+fill ~28~14~8 ~28~14~9 minecraft:glowstone
+fill ~29~14~8 ~29~14~13 minecraft:quartz_block 0
+setblock ~30~2~8 minecraft:sea_lantern
+setblock ~36~3~8 minecraft:stained_hardened_clay 6
+setblock ~37~3~8 minecraft:stained_hardened_clay 3
+fill ~38~3~8 ~38~3~9 minecraft:stained_hardened_clay 11
+fill ~39~3~8 ~39~3~10 minecraft:quartz_block 0
+fill ~40~3~8 ~40~3~10 minecraft:stained_hardened_clay 11
+fill ~41~3~8 ~43~3~8 minecraft:stained_hardened_clay 3
+fill ~42~14~8 ~42~14~9 minecraft:quartz_block 0
+fill ~43~6~8 ~43~7~8 minecraft:ladder 3
+fill ~43~14~8 ~43~14~9 minecraft:glowstone
+fill ~44~3~8 ~46~3~8 minecraft:stained_hardened_clay 6
+fill ~44~14~8 ~44~14~24 minecraft:quartz_block 0
+fill ~45~8~8 ~45~9~8 minecraft:ladder 3
+fill ~46~14~8 ~49~14~8 minecraft:quartz_block 0
+fill ~47~3~8 ~49~3~8 minecraft:stained_hardened_clay 3
+setblock ~49~9~8 minecraft:stone_block_slab 14
+fill ~50~3~8 ~50~3~10 minecraft:stained_hardened_clay 11
+fill ~50~14~8 ~52~14~8 minecraft:glowstone
+fill ~51~3~8 ~51~3~10 minecraft:quartz_block 0
+fill ~52~3~8 ~52~3~9 minecraft:stained_hardened_clay 11
+setblock ~53~3~8 minecraft:stained_hardened_clay 3
+fill ~53~14~8 ~56~14~9 minecraft:quartz_block 0
+setblock ~54~3~8 minecraft:stained_hardened_clay 6
+setblock ~57~5~8 minecraft:monster_egg 2
+setblock ~57~6~8 minecraft:sea_lantern
+setblock ~57~7~8 minecraft:monster_egg 2
+setblock ~57~9~8 minecraft:monster_egg 2
+setblock ~57~10~8 minecraft:sea_lantern
+setblock ~57~11~8 minecraft:monster_egg 2
+setblock ~3~5~9 minecraft:quartz_stairs 1
+setblock ~3~6~9 minecraft:monster_egg 2
+setblock ~3~7~9 minecraft:quartz_stairs 1
+setblock ~3~9~9 minecraft:quartz_stairs 1
+setblock ~3~10~9 minecraft:monster_egg 2
+setblock ~3~11~9 minecraft:quartz_stairs 1
+setblock ~6~3~9 minecraft:stained_hardened_clay 3
+setblock ~7~3~9 minecraft:stained_hardened_clay 11
+fill ~7~14~9 ~7~14~19 minecraft:quartz_block 0
+setblock ~8~14~9 minecraft:glowstone
+setblock ~9~14~9 minecraft:quartz_block 0
+setblock ~12~3~9 minecraft:stained_hardened_clay 3
+fill ~13~3~9 ~13~3~10 minecraft:stained_hardened_clay 6
+setblock ~14~3~9 minecraft:stained_hardened_clay 3
+setblock ~15~3~9 minecraft:stained_hardened_clay 10
+setblock ~16~3~9 minecraft:stained_hardened_clay 3
+fill ~16~14~9 ~16~14~12 minecraft:quartz_block 0
+fill ~17~3~9 ~17~3~10 minecraft:stained_hardened_clay 6
+setblock ~17~14~9 minecraft:glowstone
+fill ~18~3~9 ~19~3~9 minecraft:stained_hardened_clay 3
+setblock ~18~14~9 minecraft:quartz_block 0
+setblock ~23~3~9 minecraft:stained_hardened_clay 11
+setblock ~24~3~9 minecraft:stained_hardened_clay 3
+fill ~24~14~9 ~24~14~13 minecraft:quartz_block 0
+setblock ~25~14~9 minecraft:glowstone
+setblock ~26~14~9 minecraft:quartz_block 0
+fill ~30~2~9 ~30~2~11 minecraft:stained_hardened_clay 3
+setblock ~36~3~9 minecraft:stained_hardened_clay 3
+setblock ~37~3~9 minecraft:stained_hardened_clay 11
+fill ~39~14~9 ~39~14~16 minecraft:quartz_block 0
+setblock ~40~14~9 minecraft:glowstone
+fill ~41~3~9 ~42~3~9 minecraft:stained_hardened_clay 3
+setblock ~41~14~9 minecraft:quartz_block 0
+fill ~43~3~9 ~43~3~10 minecraft:stained_hardened_clay 6
+setblock ~44~3~9 minecraft:stained_hardened_clay 3
+setblock ~45~3~9 minecraft:stained_hardened_clay 10
+setblock ~46~3~9 minecraft:stained_hardened_clay 3
+fill ~46~14~9 ~48~14~9 minecraft:quartz_block 0
+fill ~47~3~9 ~47~3~10 minecraft:stained_hardened_clay 6
+fill ~48~3~9 ~49~3~9 minecraft:stained_hardened_clay 3
+setblock ~49~14~9 minecraft:glowstone
+fill ~50~14~9 ~51~14~10 minecraft:quartz_block 0
+setblock ~52~14~9 minecraft:glowstone
+setblock ~53~3~9 minecraft:stained_hardened_clay 11
+setblock ~54~3~9 minecraft:stained_hardened_clay 3
+setblock ~57~5~9 minecraft:quartz_stairs 0
+setblock ~57~6~9 minecraft:monster_egg 2
+setblock ~57~7~9 minecraft:quartz_stairs 0
+setblock ~57~9~9 minecraft:quartz_stairs 0
+setblock ~57~10~9 minecraft:monster_egg 2
+setblock ~57~11~9 minecraft:quartz_stairs 0
+fill ~3~5~10 ~3~11~10 minecraft:quartz_block 2
+setblock ~6~3~10 minecraft:stained_hardened_clay 11
+fill ~7~3~10 ~8~3~10 minecraft:quartz_block 0
+fill ~8~14~10 ~8~14~12 minecraft:quartz_block 0
+fill ~9~14~10 ~10~14~10 minecraft:glowstone
+fill ~11~14~10 ~11~14~11 minecraft:quartz_block 0
+setblock ~12~3~10 minecraft:stained_hardened_clay 6
+fill ~13~14~10 ~13~14~12 minecraft:quartz_block 0
+setblock ~14~3~10 minecraft:stained_hardened_clay 10
+setblock ~15~3~10 minecraft:sea_lantern
+setblock ~16~3~10 minecraft:stained_hardened_clay 10
+fill ~17~14~10 ~17~14~11 minecraft:quartz_block 0
+setblock ~18~3~10 minecraft:stained_hardened_clay 6
+fill ~18~14~10 ~19~14~10 minecraft:glowstone
+setblock ~19~3~10 minecraft:stained_hardened_clay 3
+fill ~20~14~10 ~20~14~11 minecraft:quartz_block 0
+fill ~22~3~10 ~23~3~10 minecraft:quartz_block 0
+fill ~22~14~10 ~22~14~13 minecraft:quartz_block 0
+setblock ~24~3~10 minecraft:stained_hardened_clay 11
+fill ~25~14~10 ~25~14~12 minecraft:quartz_block 0
+fill ~26~14~10 ~27~14~10 minecraft:glowstone
+fill ~28~14~10 ~28~14~12 minecraft:quartz_block 0
+fill ~30~14~10 ~32~14~10 minecraft:quartz_block 0
+fill ~33~14~10 ~36~14~10 minecraft:glowstone
+setblock ~36~3~10 minecraft:stained_hardened_clay 11
+fill ~37~3~10 ~38~3~10 minecraft:quartz_block 0
+fill ~37~14~10 ~38~14~10 minecraft:quartz_block 0
+fill ~40~14~10 ~40~14~16 minecraft:quartz_block 0
+setblock ~41~3~10 minecraft:stained_hardened_clay 3
+fill ~41~14~10 ~42~14~10 minecraft:glowstone
+setblock ~42~3~10 minecraft:stained_hardened_clay 6
+fill ~43~14~10 ~43~14~24 minecraft:quartz_block 0
+setblock ~44~3~10 minecraft:stained_hardened_clay 10
+setblock ~45~3~10 minecraft:sea_lantern
+fill ~45~14~10 ~47~14~15 minecraft:quartz_block 0
+setblock ~46~3~10 minecraft:stained_hardened_clay 10
+setblock ~48~3~10 minecraft:stained_hardened_clay 6
+fill ~48~14~10 ~48~14~11 minecraft:glowstone
+setblock ~49~3~10 minecraft:stained_hardened_clay 3
+fill ~49~14~10 ~49~14~11 minecraft:quartz_block 0
+fill ~52~3~10 ~53~3~10 minecraft:quartz_block 0
+fill ~52~14~10 ~52~14~13 minecraft:quartz_block 0
+fill ~53~14~10 ~53~14~11 minecraft:glowstone
+setblock ~54~3~10 minecraft:stained_hardened_clay 11
+fill ~54~14~10 ~56~14~11 minecraft:quartz_block 0
+fill ~57~5~10 ~57~11~10 minecraft:quartz_block 2
+setblock ~3~5~11 minecraft:quartz_stairs 1
+setblock ~3~6~11 minecraft:monster_egg 2
+setblock ~3~7~11 minecraft:quartz_stairs 1
+fill ~3~8~11 ~3~8~13 minecraft:stonebrick 3
+setblock ~3~9~11 minecraft:quartz_stairs 1
+setblock ~3~10~11 minecraft:monster_egg 2
+setblock ~3~11~11 minecraft:quartz_stairs 1
+setblock ~6~3~11 minecraft:quartz_block 0
+setblock ~7~3~11 minecraft:stained_hardened_clay 11
+setblock ~8~3~11 minecraft:sea_lantern
+setblock ~9~3~11 minecraft:stained_hardened_clay 11
+fill ~9~14~11 ~10~14~11 minecraft:quartz_block 0
+setblock ~10~3~11 minecraft:stained_hardened_clay 3
+setblock ~11~3~11 minecraft:stained_hardened_clay 6
+fill ~12~3~11 ~13~3~11 minecraft:stained_hardened_clay 11
+setblock ~14~3~11 minecraft:stained_hardened_clay 3
+fill ~15~3~11 ~15~3~12 minecraft:stained_hardened_clay 10
+setblock ~16~3~11 minecraft:stained_hardened_clay 3
+fill ~17~3~11 ~18~3~11 minecraft:stained_hardened_clay 11
+fill ~18~14~11 ~19~14~11 minecraft:quartz_block 0
+setblock ~19~3~11 minecraft:stained_hardened_clay 6
+setblock ~20~3~11 minecraft:stained_hardened_clay 3
+fill ~21~3~11 ~23~3~11 minecraft:stained_hardened_clay 11
+setblock ~24~3~11 minecraft:quartz_block 0
+fill ~26~14~11 ~27~14~12 minecraft:quartz_block 0
+fill ~30~14~11 ~31~14~14 minecraft:quartz_block 0
+fill ~32~14~11 ~32~14~13 minecraft:glowstone
+fill ~33~14~11 ~36~14~11 minecraft:quartz_block 0
+setblock ~36~3~11 minecraft:quartz_block 0
+fill ~37~3~11 ~39~3~11 minecraft:stained_hardened_clay 11
+setblock ~37~14~11 minecraft:glowstone
+setblock ~38~14~11 minecraft:quartz_block 0
+setblock ~40~3~11 minecraft:stained_hardened_clay 3
+setblock ~41~3~11 minecraft:stained_hardened_clay 6
+fill ~41~14~11 ~42~14~17 minecraft:quartz_block 0
+fill ~42~3~11 ~43~3~11 minecraft:stained_hardened_clay 11
+setblock ~43~5~11 minecraft:sea_lantern
+setblock ~44~3~11 minecraft:stained_hardened_clay 3
+fill ~45~3~11 ~45~3~12 minecraft:stained_hardened_clay 10
+setblock ~46~3~11 minecraft:stained_hardened_clay 3
+fill ~47~3~11 ~48~3~11 minecraft:stained_hardened_clay 11
+setblock ~49~3~11 minecraft:stained_hardened_clay 6
+setblock ~50~3~11 minecraft:stained_hardened_clay 3
+setblock ~50~14~11 minecraft:quartz_block 0
+fill ~51~3~11 ~53~3~11 minecraft:stained_hardened_clay 11
+fill ~51~14~11 ~51~14~12 minecraft:glowstone
+setblock ~52~9~11 minecraft:fence 0
+setblock ~54~3~11 minecraft:quartz_block 0
+fill ~55~10~11 ~56~10~16 minecraft:quartz_block 0
+fill ~55~11~11 ~56~11~11 minecraft:quartz_block 0
+setblock ~57~5~11 minecraft:quartz_stairs 0
+setblock ~57~6~11 minecraft:monster_egg 2
+setblock ~57~7~11 minecraft:quartz_stairs 0
+fill ~57~8~11 ~57~8~13 minecraft:stonebrick 3
+setblock ~57~9~11 minecraft:quartz_stairs 0
+setblock ~57~10~11 minecraft:monster_egg 2
+setblock ~57~11~11 minecraft:quartz_stairs 0
+setblock ~3~5~12 minecraft:monster_egg 2
+setblock ~3~6~12 minecraft:sea_lantern
+setblock ~3~7~12 minecraft:monster_egg 2
+setblock ~3~9~12 minecraft:monster_egg 2
+setblock ~3~10~12 minecraft:sea_lantern
+setblock ~3~11~12 minecraft:monster_egg 2
+setblock ~5~3~12 minecraft:quartz_block 0
+setblock ~6~3~12 minecraft:stained_hardened_clay 11
+fill ~7~3~12 ~9~3~12 minecraft:stained_hardened_clay 3
+fill ~9~14~12 ~12~14~12 minecraft:glowstone
+setblock ~10~3~12 minecraft:stained_hardened_clay 6
+setblock ~11~3~12 minecraft:stained_hardened_clay 11
+fill ~12~3~12 ~13~3~12 minecraft:stained_hardened_clay 3
+fill ~14~3~12 ~14~3~13 minecraft:stained_hardened_clay 11
+fill ~16~3~12 ~16~3~13 minecraft:stained_hardened_clay 11
+fill ~17~3~12 ~18~3~12 minecraft:stained_hardened_clay 3
+fill ~17~14~12 ~20~14~12 minecraft:glowstone
+setblock ~19~3~12 minecraft:stained_hardened_clay 11
+setblock ~20~3~12 minecraft:stained_hardened_clay 6
+fill ~21~3~12 ~23~3~12 minecraft:stained_hardened_clay 3
+setblock ~24~3~12 minecraft:stained_hardened_clay 11
+setblock ~25~3~12 minecraft:quartz_block 0
+setblock ~26~3~12 minecraft:sea_lantern
+setblock ~30~2~12 minecraft:sea_lantern
+fill ~33~14~12 ~34~14~13 minecraft:quartz_block 0
+setblock ~35~3~12 minecraft:quartz_block 0
+setblock ~35~14~12 minecraft:glowstone
+setblock ~36~3~12 minecraft:stained_hardened_clay 11
+fill ~36~14~12 ~37~14~12 minecraft:quartz_block 0
+fill ~37~3~12 ~39~3~12 minecraft:stained_hardened_clay 3
+fill ~38~14~12 ~38~14~14 minecraft:glowstone
+setblock ~40~3~12 minecraft:stained_hardened_clay 6
+setblock ~41~3~12 minecraft:stained_hardened_clay 11
+fill ~42~3~12 ~43~3~12 minecraft:stained_hardened_clay 3
+fill ~44~3~12 ~44~3~13 minecraft:stained_hardened_clay 11
+fill ~46~3~12 ~46~3~13 minecraft:stained_hardened_clay 11
+fill ~47~3~12 ~48~3~12 minecraft:stained_hardened_clay 3
+fill ~48~14~12 ~48~14~15 minecraft:quartz_block 0
+setblock ~49~3~12 minecraft:stained_hardened_clay 11
+fill ~49~14~12 ~50~14~12 minecraft:glowstone
+setblock ~50~3~12 minecraft:stained_hardened_clay 6
+fill ~51~3~12 ~53~3~12 minecraft:stained_hardened_clay 3
+fill ~53~14~12 ~53~14~13 minecraft:quartz_block 0
+setblock ~54~3~12 minecraft:stained_hardened_clay 11
+fill ~54~10~12 ~54~11~14 minecraft:quartz_block 0
+fill ~54~14~12 ~54~14~13 minecraft:glowstone
+setblock ~55~3~12 minecraft:quartz_block 0
+fill ~55~11~12 ~56~11~12 minecraft:redstone_wire 0
+fill ~55~12~12 ~56~12~15 minecraft:stone_block_slab 6
+fill ~55~14~12 ~56~14~24 minecraft:quartz_block 0
+setblock ~57~5~12 minecraft:monster_egg 2
+setblock ~57~6~12 minecraft:sea_lantern
+setblock ~57~7~12 minecraft:monster_egg 2
+setblock ~57~9~12 minecraft:monster_egg 2
+setblock ~57~10~12 minecraft:sea_lantern
+setblock ~57~11~12 minecraft:monster_egg 2
+setblock ~3~5~13 minecraft:quartz_stairs 1
+setblock ~3~6~13 minecraft:monster_egg 2
+setblock ~3~7~13 minecraft:quartz_stairs 1
+setblock ~3~9~13 minecraft:quartz_stairs 1
+setblock ~3~10~13 minecraft:monster_egg 2
+setblock ~3~11~13 minecraft:quartz_stairs 1
+fill ~5~3~13 ~5~3~19 minecraft:stained_hardened_clay 11
+fill ~6~3~13 ~7~3~14 minecraft:stained_hardened_clay 3
+setblock ~8~3~13 minecraft:sea_lantern
+fill ~8~14~13 ~8~14~15 minecraft:glowstone
+fill ~9~3~13 ~9~3~14 minecraft:stained_hardened_clay 6
+fill ~9~14~13 ~12~14~13 minecraft:quartz_block 0
+fill ~10~3~13 ~10~3~14 minecraft:stained_hardened_clay 11
+fill ~11~3~13 ~11~3~14 minecraft:stained_hardened_clay 3
+setblock ~12~3~13 minecraft:stained_hardened_clay 11
+setblock ~13~3~13 minecraft:stained_hardened_clay 3
+setblock ~13~14~13 minecraft:glowstone
+setblock ~15~3~13 minecraft:stained_hardened_clay 6
+fill ~16~14~13 ~16~14~15 minecraft:glowstone
+setblock ~17~3~13 minecraft:stained_hardened_clay 3
+fill ~17~14~13 ~20~14~13 minecraft:quartz_block 0
+setblock ~18~3~13 minecraft:stained_hardened_clay 11
+fill ~19~3~13 ~19~3~14 minecraft:stained_hardened_clay 3
+fill ~20~3~13 ~20~3~14 minecraft:stained_hardened_clay 11
+fill ~21~3~13 ~21~3~14 minecraft:stained_hardened_clay 6
+setblock ~21~14~13 minecraft:glowstone
+fill ~22~3~13 ~24~3~13 minecraft:stained_hardened_clay 3
+fill ~25~3~13 ~25~3~19 minecraft:stained_hardened_clay 11
+fill ~25~14~13 ~28~14~13 minecraft:glowstone
+fill ~26~3~13 ~26~3~15 minecraft:quartz_block 0
+fill ~30~2~13 ~30~2~15 minecraft:stained_hardened_clay 3
+fill ~35~3~13 ~35~3~19 minecraft:stained_hardened_clay 11
+fill ~35~14~13 ~35~14~14 minecraft:quartz_block 0
+fill ~36~3~13 ~38~3~13 minecraft:stained_hardened_clay 3
+fill ~36~14~13 ~36~14~14 minecraft:glowstone
+fill ~37~14~13 ~37~14~16 minecraft:quartz_block 0
+fill ~39~3~13 ~39~3~14 minecraft:stained_hardened_clay 6
+fill ~40~3~13 ~40~3~14 minecraft:stained_hardened_clay 11
+fill ~41~3~13 ~41~3~14 minecraft:stained_hardened_clay 3
+setblock ~42~3~13 minecraft:stained_hardened_clay 11
+setblock ~43~3~13 minecraft:stained_hardened_clay 3
+setblock ~45~3~13 minecraft:stained_hardened_clay 6
+setblock ~47~3~13 minecraft:stained_hardened_clay 3
+setblock ~48~3~13 minecraft:stained_hardened_clay 11
+fill ~49~3~13 ~49~3~14 minecraft:stained_hardened_clay 3
+fill ~49~14~13 ~51~14~13 minecraft:quartz_block 0
+fill ~50~3~13 ~50~3~14 minecraft:stained_hardened_clay 11
+fill ~51~3~13 ~51~3~14 minecraft:stained_hardened_clay 6
+fill ~52~3~13 ~54~3~13 minecraft:stained_hardened_clay 3
+setblock ~53~11~13 minecraft:stone_button 4
+fill ~55~3~13 ~55~3~19 minecraft:stained_hardened_clay 11
+setblock ~55~11~13 minecraft:redstone_wire 0
+setblock ~56~11~13 minecraft:unpowered_repeater 2
+setblock ~57~5~13 minecraft:quartz_stairs 0
+setblock ~57~6~13 minecraft:monster_egg 2
+setblock ~57~7~13 minecraft:quartz_stairs 0
+setblock ~57~9~13 minecraft:quartz_stairs 0
+setblock ~57~10~13 minecraft:monster_egg 2
+setblock ~57~11~13 minecraft:quartz_stairs 0
+fill ~3~5~14 ~3~11~14 minecraft:quartz_block 2
+setblock ~8~3~14 minecraft:stained_hardened_clay 6
+fill ~9~14~14 ~10~14~15 minecraft:quartz_block 0
+setblock ~11~14~14 minecraft:glowstone
+setblock ~12~3~14 minecraft:stained_hardened_clay 3
+fill ~12~14~14 ~13~14~14 minecraft:quartz_block 0
+setblock ~13~3~14 minecraft:stained_hardened_clay 11
+setblock ~14~3~14 minecraft:stained_hardened_clay 6
+fill ~14~14~14 ~14~14~16 minecraft:glowstone
+setblock ~15~3~14 minecraft:stained_hardened_clay 10
+fill ~15~14~14 ~15~14~19 minecraft:quartz_block 0
+setblock ~16~3~14 minecraft:stained_hardened_clay 6
+setblock ~17~3~14 minecraft:stained_hardened_clay 11
+fill ~17~14~14 ~18~14~15 minecraft:quartz_block 0
+setblock ~18~3~14 minecraft:stained_hardened_clay 3
+setblock ~19~14~14 minecraft:glowstone
+fill ~20~14~14 ~21~14~14 minecraft:quartz_block 0
+setblock ~22~3~14 minecraft:stained_hardened_clay 6
+fill ~22~14~14 ~22~14~16 minecraft:glowstone
+fill ~23~3~14 ~24~3~14 minecraft:stained_hardened_clay 3
+fill ~24~14~14 ~24~14~16 minecraft:glowstone
+fill ~25~14~14 ~28~14~14 minecraft:quartz_block 0
+setblock ~29~14~14 minecraft:glowstone
+fill ~32~14~14 ~32~14~19 minecraft:quartz_block 0
+setblock ~33~14~14 minecraft:glowstone
+setblock ~34~14~14 minecraft:quartz_block 0
+fill ~36~3~14 ~37~3~14 minecraft:stained_hardened_clay 3
+setblock ~38~3~14 minecraft:stained_hardened_clay 6
+setblock ~42~3~14 minecraft:stained_hardened_clay 3
+setblock ~43~3~14 minecraft:stained_hardened_clay 11
+setblock ~44~3~14 minecraft:stained_hardened_clay 6
+setblock ~45~3~14 minecraft:stained_hardened_clay 10
+setblock ~46~3~14 minecraft:stained_hardened_clay 6
+setblock ~47~3~14 minecraft:stained_hardened_clay 11
+setblock ~48~3~14 minecraft:stained_hardened_clay 3
+fill ~49~14~14 ~50~14~15 minecraft:quartz_block 0
+fill ~51~14~14 ~53~14~14 minecraft:glowstone
+setblock ~52~3~14 minecraft:stained_hardened_clay 6
+fill ~53~3~14 ~54~3~14 minecraft:stained_hardened_clay 3
+fill ~54~14~14 ~54~14~21 minecraft:quartz_block 0
+setblock ~56~11~14 minecraft:unpowered_repeater 2
+fill ~57~5~14 ~57~11~14 minecraft:quartz_block 2
+setblock ~3~5~15 minecraft:quartz_stairs 1
+setblock ~3~6~15 minecraft:monster_egg 2
+setblock ~3~7~15 minecraft:quartz_stairs 1
+fill ~3~8~15 ~3~8~17 minecraft:stonebrick 3
+setblock ~3~9~15 minecraft:quartz_stairs 1
+setblock ~3~10~15 minecraft:monster_egg 2
+setblock ~3~11~15 minecraft:quartz_stairs 1
+fill ~6~3~15 ~6~3~19 minecraft:stained_hardened_clay 3
+fill ~7~3~15 ~7~3~17 minecraft:stained_hardened_clay 6
+setblock ~8~3~15 minecraft:stained_hardened_clay 3
+setblock ~9~3~15 minecraft:stained_hardened_clay 10
+setblock ~10~3~15 minecraft:stained_hardened_clay 3
+fill ~11~3~15 ~12~3~15 minecraft:stained_hardened_clay 11
+fill ~11~14~15 ~11~14~16 minecraft:quartz_block 0
+fill ~12~14~15 ~12~14~16 minecraft:glowstone
+setblock ~13~3~15 minecraft:stained_hardened_clay 6
+fill ~13~14~15 ~13~14~19 minecraft:quartz_block 0
+setblock ~14~3~15 minecraft:stained_hardened_clay 10
+setblock ~15~3~15 minecraft:stained_hardened_clay 11
+setblock ~16~3~15 minecraft:stained_hardened_clay 10
+setblock ~17~3~15 minecraft:stained_hardened_clay 6
+fill ~18~3~15 ~19~3~15 minecraft:stained_hardened_clay 11
+fill ~19~14~15 ~19~14~16 minecraft:quartz_block 0
+setblock ~20~3~15 minecraft:stained_hardened_clay 3
+fill ~20~14~15 ~20~14~16 minecraft:glowstone
+setblock ~21~3~15 minecraft:stained_hardened_clay 10
+fill ~21~14~15 ~21~14~19 minecraft:quartz_block 0
+setblock ~22~3~15 minecraft:stained_hardened_clay 3
+fill ~23~3~15 ~23~3~17 minecraft:stained_hardened_clay 6
+fill ~24~3~15 ~24~3~19 minecraft:stained_hardened_clay 3
+fill ~25~14~15 ~26~14~16 minecraft:quartz_block 0
+setblock ~27~14~15 minecraft:glowstone
+fill ~28~14~15 ~29~14~15 minecraft:quartz_block 0
+fill ~30~14~15 ~30~14~17 minecraft:glowstone
+fill ~31~14~15 ~31~14~19 minecraft:quartz_block 0
+fill ~33~14~15 ~33~14~20 minecraft:quartz_block 0
+fill ~34~14~15 ~35~14~15 minecraft:glowstone
+fill ~36~3~15 ~36~3~19 minecraft:stained_hardened_clay 3
+fill ~36~14~15 ~36~14~17 minecraft:quartz_block 0
+fill ~37~3~15 ~37~3~17 minecraft:stained_hardened_clay 6
+setblock ~38~3~15 minecraft:stained_hardened_clay 3
+fill ~38~14~15 ~38~14~16 minecraft:quartz_block 0
+setblock ~39~3~15 minecraft:stained_hardened_clay 10
+setblock ~40~3~15 minecraft:stained_hardened_clay 3
+fill ~41~3~15 ~42~3~15 minecraft:stained_hardened_clay 11
+setblock ~42~4~15 minecraft:fence 0
+setblock ~43~3~15 minecraft:stained_hardened_clay 6
+setblock ~44~3~15 minecraft:stained_hardened_clay 10
+setblock ~45~3~15 minecraft:stained_hardened_clay 11
+setblock ~46~3~15 minecraft:stained_hardened_clay 10
+setblock ~47~3~15 minecraft:stained_hardened_clay 6
+setblock ~47~11~15 minecraft:stone_block_slab 6
+fill ~48~3~15 ~49~3~15 minecraft:stained_hardened_clay 11
+setblock ~50~3~15 minecraft:stained_hardened_clay 3
+setblock ~51~3~15 minecraft:stained_hardened_clay 10
+fill ~51~14~15 ~53~14~17 minecraft:quartz_block 0
+setblock ~52~3~15 minecraft:stained_hardened_clay 3
+fill ~53~3~15 ~53~3~17 minecraft:stained_hardened_clay 6
+setblock ~53~10~15 minecraft:ice
+fill ~54~3~15 ~54~3~19 minecraft:stained_hardened_clay 3
+setblock ~54~10~15 minecraft:sticky_piston 5
+setblock ~54~11~15 minecraft:quartz_block 0
+fill ~55~11~15 ~56~11~15 minecraft:redstone_wire 0
+setblock ~57~5~15 minecraft:quartz_stairs 0
+setblock ~57~6~15 minecraft:monster_egg 2
+setblock ~57~7~15 minecraft:quartz_stairs 0
+fill ~57~8~15 ~57~8~17 minecraft:stonebrick 3
+setblock ~57~9~15 minecraft:quartz_stairs 0
+setblock ~57~10~15 minecraft:monster_egg 2
+setblock ~57~11~15 minecraft:quartz_stairs 0
+setblock ~3~5~16 minecraft:monster_egg 2
+setblock ~3~6~16 minecraft:sea_lantern
+setblock ~3~7~16 minecraft:monster_egg 2
+setblock ~3~9~16 minecraft:monster_egg 2
+setblock ~3~10~16 minecraft:sea_lantern
+setblock ~3~11~16 minecraft:monster_egg 2
+setblock ~8~3~16 minecraft:stained_hardened_clay 10
+fill ~8~14~16 ~8~14~19 minecraft:quartz_block 0
+setblock ~9~3~16 minecraft:sea_lantern
+setblock ~9~14~16 minecraft:glowstone
+fill ~10~3~16 ~11~3~16 minecraft:stained_hardened_clay 10
+setblock ~10~14~16 minecraft:quartz_block 0
+setblock ~12~3~16 minecraft:stained_hardened_clay 6
+setblock ~13~3~16 minecraft:stained_hardened_clay 10
+setblock ~14~3~16 minecraft:stained_hardened_clay 11
+setblock ~15~3~16 minecraft:sea_lantern
+setblock ~16~3~16 minecraft:stained_hardened_clay 11
+fill ~16~14~16 ~16~14~20 minecraft:quartz_block 0
+setblock ~17~3~16 minecraft:stained_hardened_clay 10
+setblock ~17~14~16 minecraft:glowstone
+setblock ~18~3~16 minecraft:stained_hardened_clay 6
+setblock ~18~14~16 minecraft:quartz_block 0
+fill ~19~3~16 ~20~3~16 minecraft:stained_hardened_clay 10
+setblock ~21~3~16 minecraft:sea_lantern
+setblock ~22~3~16 minecraft:stained_hardened_clay 10
+setblock ~26~3~16 minecraft:sea_lantern
+fill ~27~14~16 ~27~14~17 minecraft:quartz_block 0
+fill ~28~14~16 ~28~14~17 minecraft:glowstone
+fill ~29~14~16 ~29~14~19 minecraft:quartz_block 0
+setblock ~30~2~16 minecraft:sea_lantern
+setblock ~34~3~16 minecraft:sea_lantern
+fill ~34~14~16 ~35~14~21 minecraft:quartz_block 0
+setblock ~38~3~16 minecraft:stained_hardened_clay 10
+setblock ~39~3~16 minecraft:sea_lantern
+fill ~40~3~16 ~41~3~16 minecraft:stained_hardened_clay 10
+setblock ~42~3~16 minecraft:stained_hardened_clay 6
+setblock ~43~3~16 minecraft:stained_hardened_clay 10
+setblock ~44~3~16 minecraft:stained_hardened_clay 11
+setblock ~45~3~16 minecraft:sea_lantern
+fill ~45~14~16 ~46~14~16 minecraft:quartz_block 0
+setblock ~46~3~16 minecraft:stained_hardened_clay 11
+setblock ~46~11~16 minecraft:stone_block_slab 6
+setblock ~47~3~16 minecraft:stained_hardened_clay 10
+setblock ~47~10~16 minecraft:sea_lantern
+fill ~47~14~16 ~49~14~16 minecraft:glowstone
+setblock ~48~3~16 minecraft:stained_hardened_clay 6
+setblock ~48~11~16 minecraft:stone_block_slab 6
+fill ~49~3~16 ~50~3~16 minecraft:stained_hardened_clay 10
+setblock ~50~14~16 minecraft:quartz_block 0
+setblock ~51~3~16 minecraft:sea_lantern
+setblock ~52~3~16 minecraft:stained_hardened_clay 10
+fill ~55~11~16 ~56~11~16 minecraft:quartz_block 0
+setblock ~57~5~16 minecraft:monster_egg 2
+setblock ~57~6~16 minecraft:sea_lantern
+setblock ~57~7~16 minecraft:monster_egg 2
+setblock ~57~9~16 minecraft:monster_egg 2
+setblock ~57~10~16 minecraft:sea_lantern
+setblock ~57~11~16 minecraft:monster_egg 2
+setblock ~3~5~17 minecraft:quartz_stairs 1
+setblock ~3~6~17 minecraft:monster_egg 2
+setblock ~3~7~17 minecraft:quartz_stairs 1
+setblock ~3~9~17 minecraft:quartz_stairs 1
+setblock ~3~10~17 minecraft:monster_egg 2
+setblock ~3~11~17 minecraft:quartz_stairs 1
+setblock ~8~3~17 minecraft:sea_lantern
+setblock ~9~3~17 minecraft:stained_hardened_clay 10
+fill ~9~14~17 ~9~14~20 minecraft:quartz_block 0
+setblock ~10~3~17 minecraft:stained_hardened_clay 3
+fill ~10~14~17 ~11~14~17 minecraft:glowstone
+fill ~11~3~17 ~12~3~17 minecraft:stained_hardened_clay 11
+fill ~12~14~17 ~12~14~19 minecraft:quartz_block 0
+setblock ~13~3~17 minecraft:stained_hardened_clay 6
+setblock ~14~3~17 minecraft:stained_hardened_clay 10
+fill ~14~14~17 ~14~14~19 minecraft:quartz_block 0
+setblock ~15~3~17 minecraft:stained_hardened_clay 11
+setblock ~16~3~17 minecraft:stained_hardened_clay 10
+setblock ~17~3~17 minecraft:stained_hardened_clay 6
+fill ~17~14~17 ~17~14~21 minecraft:quartz_block 0
+fill ~18~3~17 ~19~3~17 minecraft:stained_hardened_clay 11
+fill ~18~14~17 ~19~14~17 minecraft:glowstone
+setblock ~20~3~17 minecraft:stained_hardened_clay 3
+fill ~20~14~17 ~20~14~19 minecraft:quartz_block 0
+setblock ~21~3~17 minecraft:stained_hardened_clay 10
+setblock ~22~3~17 minecraft:stained_hardened_clay 3
+fill ~22~14~17 ~22~14~19 minecraft:quartz_block 0
+fill ~24~14~17 ~24~14~20 minecraft:quartz_block 0
+setblock ~25~14~17 minecraft:glowstone
+fill ~26~3~17 ~26~3~19 minecraft:quartz_block 0
+setblock ~26~14~17 minecraft:quartz_block 0
+fill ~30~2~17 ~30~2~19 minecraft:stained_hardened_clay 3
+fill ~34~3~17 ~34~3~19 minecraft:quartz_block 0
+fill ~37~14~17 ~40~14~17 minecraft:glowstone
+setblock ~38~3~17 minecraft:stained_hardened_clay 3
+setblock ~39~3~17 minecraft:stained_hardened_clay 10
+setblock ~40~3~17 minecraft:stained_hardened_clay 3
+fill ~41~3~17 ~42~3~17 minecraft:stained_hardened_clay 11
+setblock ~43~3~17 minecraft:stained_hardened_clay 6
+setblock ~44~3~17 minecraft:stained_hardened_clay 10
+setblock ~45~3~17 minecraft:stained_hardened_clay 11
+setblock ~45~14~17 minecraft:quartz_block 0
+setblock ~46~3~17 minecraft:stained_hardened_clay 10
+setblock ~46~14~17 minecraft:glowstone
+setblock ~47~3~17 minecraft:stained_hardened_clay 6
+setblock ~47~11~17 minecraft:stone_block_slab 6
+fill ~47~14~17 ~49~14~17 minecraft:quartz_block 0
+fill ~48~3~17 ~49~3~17 minecraft:stained_hardened_clay 11
+setblock ~50~3~17 minecraft:stained_hardened_clay 3
+setblock ~50~14~17 minecraft:glowstone
+setblock ~51~3~17 minecraft:stained_hardened_clay 10
+setblock ~52~3~17 minecraft:stained_hardened_clay 3
+setblock ~57~5~17 minecraft:quartz_stairs 0
+setblock ~57~6~17 minecraft:monster_egg 2
+setblock ~57~7~17 minecraft:quartz_stairs 0
+setblock ~57~9~17 minecraft:quartz_stairs 0
+setblock ~57~10~17 minecraft:monster_egg 2
+setblock ~57~11~17 minecraft:quartz_stairs 0
+fill ~3~5~18 ~3~11~18 minecraft:quartz_block 2
+fill ~7~3~18 ~7~3~20 minecraft:stained_hardened_clay 3
+fill ~8~3~18 ~9~3~18 minecraft:stained_hardened_clay 6
+fill ~10~3~18 ~10~3~19 minecraft:stained_hardened_clay 11
+fill ~10~14~18 ~11~14~20 minecraft:quartz_block 0
+fill ~11~3~18 ~12~3~18 minecraft:stained_hardened_clay 3
+setblock ~13~3~18 minecraft:stained_hardened_clay 11
+setblock ~14~3~18 minecraft:stained_hardened_clay 6
+setblock ~15~3~18 minecraft:stained_hardened_clay 10
+setblock ~16~3~18 minecraft:stained_hardened_clay 6
+setblock ~17~3~18 minecraft:stained_hardened_clay 11
+fill ~18~3~18 ~19~3~18 minecraft:stained_hardened_clay 3
+fill ~18~14~18 ~19~14~20 minecraft:quartz_block 0
+fill ~20~3~18 ~20~3~19 minecraft:stained_hardened_clay 11
+fill ~21~3~18 ~22~3~18 minecraft:stained_hardened_clay 6
+fill ~23~3~18 ~23~3~20 minecraft:stained_hardened_clay 3
+fill ~25~14~18 ~25~14~21 minecraft:quartz_block 0
+fill ~26~14~18 ~27~14~18 minecraft:glowstone
+fill ~28~14~18 ~28~14~20 minecraft:quartz_block 0
+fill ~30~14~18 ~30~14~19 minecraft:quartz_block 0
+fill ~36~14~18 ~36~14~20 minecraft:glowstone
+fill ~37~3~18 ~37~3~20 minecraft:stained_hardened_clay 3
+fill ~37~14~18 ~40~14~18 minecraft:quartz_block 0
+fill ~38~3~18 ~39~3~18 minecraft:stained_hardened_clay 6
+fill ~40~3~18 ~40~3~19 minecraft:stained_hardened_clay 11
+fill ~41~3~18 ~42~3~18 minecraft:stained_hardened_clay 3
+setblock ~41~14~18 minecraft:glowstone
+setblock ~42~4~18 minecraft:stone_block_slab 6
+setblock ~42~14~18 minecraft:quartz_block 0
+setblock ~43~3~18 minecraft:stained_hardened_clay 11
+setblock ~44~3~18 minecraft:stained_hardened_clay 6
+setblock ~45~3~18 minecraft:stained_hardened_clay 10
+fill ~45~14~18 ~45~14~20 minecraft:glowstone
+setblock ~46~3~18 minecraft:stained_hardened_clay 6
+fill ~46~14~18 ~46~14~20 minecraft:quartz_block 0
+setblock ~47~3~18 minecraft:stained_hardened_clay 11
+fill ~47~14~18 ~48~14~18 minecraft:glowstone
+fill ~48~3~18 ~49~3~18 minecraft:stained_hardened_clay 3
+fill ~49~14~18 ~50~14~18 minecraft:quartz_block 0
+fill ~50~3~18 ~50~3~19 minecraft:stained_hardened_clay 11
+fill ~51~3~18 ~52~3~18 minecraft:stained_hardened_clay 6
+fill ~51~14~18 ~51~14~20 minecraft:glowstone
+setblock ~52~10~18 minecraft:soul_sand
+fill ~52~14~18 ~53~14~21 minecraft:quartz_block 0
+fill ~53~3~18 ~53~3~20 minecraft:stained_hardened_clay 3
+fill ~57~5~18 ~57~11~18 minecraft:quartz_block 2
+setblock ~3~5~19 minecraft:quartz_stairs 1
+setblock ~3~6~19 minecraft:monster_egg 2
+setblock ~3~7~19 minecraft:quartz_stairs 1
+fill ~3~8~19 ~3~8~21 minecraft:stonebrick 3
+setblock ~3~9~19 minecraft:quartz_stairs 1
+setblock ~3~10~19 minecraft:monster_egg 2
+setblock ~3~11~19 minecraft:quartz_stairs 1
+setblock ~8~3~19 minecraft:sea_lantern
+setblock ~9~3~19 minecraft:stained_hardened_clay 6
+setblock ~11~3~19 minecraft:stained_hardened_clay 3
+setblock ~12~3~19 minecraft:stained_hardened_clay 11
+fill ~13~3~19 ~13~3~20 minecraft:stained_hardened_clay 3
+fill ~14~3~19 ~14~3~20 minecraft:stained_hardened_clay 11
+setblock ~15~3~19 minecraft:stained_hardened_clay 6
+fill ~16~3~19 ~16~3~20 minecraft:stained_hardened_clay 11
+fill ~17~3~19 ~17~3~20 minecraft:stained_hardened_clay 3
+setblock ~18~3~19 minecraft:stained_hardened_clay 11
+setblock ~19~3~19 minecraft:stained_hardened_clay 3
+setblock ~21~3~19 minecraft:stained_hardened_clay 6
+fill ~22~3~19 ~22~3~20 minecraft:stained_hardened_clay 3
+fill ~26~14~19 ~27~14~26 minecraft:quartz_block 0
+fill ~37~14~19 ~38~14~20 minecraft:quartz_block 0
+fill ~38~3~19 ~38~3~20 minecraft:stained_hardened_clay 3
+setblock ~39~3~19 minecraft:stained_hardened_clay 6
+setblock ~39~14~19 minecraft:glowstone
+fill ~40~14~19 ~41~14~19 minecraft:quartz_block 0
+setblock ~41~3~19 minecraft:stained_hardened_clay 3
+setblock ~42~3~19 minecraft:stained_hardened_clay 11
+fill ~42~14~19 ~42~14~21 minecraft:glowstone
+fill ~43~3~19 ~43~3~20 minecraft:stained_hardened_clay 3
+fill ~44~3~19 ~44~3~20 minecraft:stained_hardened_clay 11
+setblock ~45~3~19 minecraft:stained_hardened_clay 6
+fill ~46~3~19 ~46~3~20 minecraft:stained_hardened_clay 11
+fill ~47~3~19 ~47~3~20 minecraft:stained_hardened_clay 3
+fill ~47~14~19 ~48~14~21 minecraft:quartz_block 0
+setblock ~48~3~19 minecraft:stained_hardened_clay 11
+setblock ~49~3~19 minecraft:stained_hardened_clay 3
+fill ~49~14~19 ~49~14~21 minecraft:glowstone
+fill ~50~14~19 ~50~14~23 minecraft:quartz_block 0
+setblock ~51~3~19 minecraft:stained_hardened_clay 6
+fill ~52~3~19 ~52~3~20 minecraft:stained_hardened_clay 3
+setblock ~57~5~19 minecraft:quartz_stairs 0
+setblock ~57~6~19 minecraft:monster_egg 2
+setblock ~57~7~19 minecraft:quartz_stairs 0
+fill ~57~8~19 ~57~8~21 minecraft:stonebrick 3
+setblock ~57~9~19 minecraft:quartz_stairs 0
+setblock ~57~10~19 minecraft:monster_egg 2
+setblock ~57~11~19 minecraft:quartz_stairs 0
+setblock ~3~5~20 minecraft:monster_egg 2
+setblock ~3~6~20 minecraft:sea_lantern
+setblock ~3~7~20 minecraft:monster_egg 2
+setblock ~3~9~20 minecraft:monster_egg 2
+setblock ~3~10~20 minecraft:sea_lantern
+setblock ~3~11~20 minecraft:monster_egg 2
+setblock ~4~14~20 minecraft:quartz_block 0
+setblock ~5~3~20 minecraft:quartz_block 0
+fill ~5~14~20 ~8~14~20 minecraft:glowstone
+setblock ~6~3~20 minecraft:stained_hardened_clay 11
+fill ~8~3~20 ~9~3~20 minecraft:stained_hardened_clay 3
+setblock ~10~3~20 minecraft:stained_hardened_clay 6
+setblock ~11~3~20 minecraft:stained_hardened_clay 11
+setblock ~12~3~20 minecraft:stained_hardened_clay 3
+fill ~12~14~20 ~15~14~20 minecraft:glowstone
+fill ~15~3~20 ~15~3~21 minecraft:stained_hardened_clay 10
+setblock ~18~3~20 minecraft:stained_hardened_clay 3
+setblock ~19~3~20 minecraft:stained_hardened_clay 11
+setblock ~20~3~20 minecraft:stained_hardened_clay 6
+fill ~20~14~20 ~23~14~20 minecraft:glowstone
+setblock ~21~3~20 minecraft:stained_hardened_clay 3
+setblock ~24~3~20 minecraft:stained_hardened_clay 11
+setblock ~25~3~20 minecraft:quartz_block 0
+setblock ~26~3~20 minecraft:sea_lantern
+fill ~29~14~20 ~32~14~20 minecraft:glowstone
+setblock ~30~2~20 minecraft:sea_lantern
+setblock ~34~3~20 minecraft:sea_lantern
+setblock ~35~3~20 minecraft:quartz_block 0
+setblock ~36~3~20 minecraft:stained_hardened_clay 11
+setblock ~39~3~20 minecraft:stained_hardened_clay 3
+fill ~39~14~20 ~39~14~21 minecraft:quartz_block 0
+setblock ~40~3~20 minecraft:stained_hardened_clay 6
+fill ~40~14~20 ~40~14~21 minecraft:glowstone
+setblock ~41~3~20 minecraft:stained_hardened_clay 11
+fill ~41~14~20 ~41~14~24 minecraft:quartz_block 0
+setblock ~42~3~20 minecraft:stained_hardened_clay 3
+fill ~45~3~20 ~45~3~21 minecraft:stained_hardened_clay 10
+setblock ~46~10~20 minecraft:stone_block_slab 14
+setblock ~48~3~20 minecraft:stained_hardened_clay 3
+setblock ~49~3~20 minecraft:stained_hardened_clay 11
+setblock ~49~9~20 minecraft:fence 0
+setblock ~50~3~20 minecraft:stained_hardened_clay 6
+setblock ~51~3~20 minecraft:stained_hardened_clay 3
+setblock ~54~3~20 minecraft:stained_hardened_clay 11
+setblock ~55~3~20 minecraft:quartz_block 0
+setblock ~57~5~20 minecraft:monster_egg 2
+setblock ~57~6~20 minecraft:sea_lantern
+setblock ~57~7~20 minecraft:monster_egg 2
+setblock ~57~9~20 minecraft:monster_egg 2
+setblock ~57~10~20 minecraft:sea_lantern
+setblock ~57~11~20 minecraft:monster_egg 2
+setblock ~3~5~21 minecraft:quartz_stairs 1
+setblock ~3~6~21 minecraft:monster_egg 2
+setblock ~3~7~21 minecraft:quartz_stairs 1
+setblock ~3~9~21 minecraft:quartz_stairs 1
+setblock ~3~10~21 minecraft:monster_egg 2
+setblock ~3~11~21 minecraft:quartz_stairs 1
+fill ~4~14~21 ~4~14~23 minecraft:glowstone
+fill ~5~3~21 ~5~3~26 minecraft:stained_hardened_clay 11
+fill ~5~14~21 ~8~14~21 minecraft:quartz_block 0
+setblock ~6~3~21 minecraft:quartz_block 0
+fill ~7~3~21 ~9~3~21 minecraft:stained_hardened_clay 11
+fill ~9~14~21 ~9~14~23 minecraft:glowstone
+setblock ~10~3~21 minecraft:stained_hardened_clay 3
+fill ~10~14~21 ~10~14~25 minecraft:quartz_block 0
+setblock ~11~3~21 minecraft:stained_hardened_clay 6
+fill ~11~14~21 ~11~14~23 minecraft:glowstone
+fill ~12~3~21 ~13~3~21 minecraft:stained_hardened_clay 11
+fill ~12~14~21 ~15~14~21 minecraft:quartz_block 0
+setblock ~14~3~21 minecraft:stained_hardened_clay 3
+setblock ~16~3~21 minecraft:stained_hardened_clay 3
+setblock ~16~14~21 minecraft:glowstone
+fill ~17~3~21 ~18~3~21 minecraft:stained_hardened_clay 11
+fill ~18~14~21 ~18~14~25 minecraft:quartz_block 0
+setblock ~19~3~21 minecraft:stained_hardened_clay 6
+fill ~19~14~21 ~19~14~23 minecraft:glowstone
+setblock ~20~3~21 minecraft:stained_hardened_clay 3
+fill ~20~14~21 ~23~14~21 minecraft:quartz_block 0
+fill ~21~3~21 ~23~3~21 minecraft:stained_hardened_clay 11
+setblock ~24~3~21 minecraft:quartz_block 0
+setblock ~24~14~21 minecraft:glowstone
+fill ~25~3~21 ~26~3~21 minecraft:stone_block_slab 0
+setblock ~26~2~21 minecraft:quartz_block 0
+fill ~28~14~21 ~28~14~23 minecraft:glowstone
+fill ~29~14~21 ~32~14~21 minecraft:quartz_block 0
+fill ~30~2~21 ~30~2~22 minecraft:stained_hardened_clay 3
+setblock ~33~14~21 minecraft:glowstone
+fill ~34~2~21 ~35~2~21 minecraft:quartz_block 0
+fill ~34~3~21 ~35~3~21 minecraft:stone_block_slab 0
+setblock ~36~3~21 minecraft:quartz_block 0
+fill ~36~14~21 ~36~14~26 minecraft:quartz_block 0
+fill ~37~3~21 ~39~3~21 minecraft:stained_hardened_clay 11
+setblock ~37~14~21 minecraft:glowstone
+setblock ~38~14~21 minecraft:quartz_block 0
+setblock ~40~3~21 minecraft:stained_hardened_clay 3
+setblock ~41~3~21 minecraft:stained_hardened_clay 6
+fill ~42~3~21 ~43~3~21 minecraft:stained_hardened_clay 11
+setblock ~44~3~21 minecraft:stained_hardened_clay 3
+fill ~45~14~21 ~45~14~25 minecraft:quartz_block 0
+setblock ~46~3~21 minecraft:stained_hardened_clay 3
+setblock ~46~14~21 minecraft:glowstone
+fill ~47~3~21 ~48~3~21 minecraft:stained_hardened_clay 11
+setblock ~49~3~21 minecraft:stained_hardened_clay 6
+setblock ~50~3~21 minecraft:stained_hardened_clay 3
+fill ~51~3~21 ~53~3~21 minecraft:stained_hardened_clay 11
+fill ~51~14~21 ~51~14~22 minecraft:quartz_block 0
+setblock ~54~3~21 minecraft:quartz_block 0
+fill ~55~3~21 ~55~3~26 minecraft:stained_hardened_clay 11
+setblock ~57~5~21 minecraft:quartz_stairs 0
+setblock ~57~6~21 minecraft:monster_egg 2
+setblock ~57~7~21 minecraft:quartz_stairs 0
+setblock ~57~9~21 minecraft:quartz_stairs 0
+setblock ~57~10~21 minecraft:monster_egg 2
+setblock ~57~11~21 minecraft:quartz_stairs 0
+fill ~3~5~22 ~3~11~22 minecraft:quartz_block 2
+fill ~5~14~22 ~6~14~23 minecraft:quartz_block 0
+setblock ~6~3~22 minecraft:stained_hardened_clay 11
+fill ~7~3~22 ~9~3~22 minecraft:quartz_block 0
+fill ~7~14~22 ~7~14~23 minecraft:glowstone
+fill ~8~14~22 ~8~14~25 minecraft:quartz_block 0
+fill ~10~3~22 ~10~3~24 minecraft:stained_hardened_clay 11
+fill ~11~3~22 ~11~3~24 minecraft:stained_hardened_clay 3
+fill ~12~3~22 ~13~3~22 minecraft:stained_hardened_clay 6
+fill ~12~14~22 ~13~14~23 minecraft:quartz_block 0
+setblock ~14~3~22 minecraft:stained_hardened_clay 10
+setblock ~14~14~22 minecraft:glowstone
+setblock ~15~3~22 minecraft:sea_lantern
+fill ~15~14~22 ~16~14~22 minecraft:quartz_block 0
+setblock ~16~3~22 minecraft:stained_hardened_clay 10
+fill ~17~3~22 ~18~3~22 minecraft:stained_hardened_clay 6
+fill ~17~14~22 ~17~14~24 minecraft:glowstone
+fill ~19~3~22 ~19~3~24 minecraft:stained_hardened_clay 3
+fill ~20~3~22 ~20~3~24 minecraft:stained_hardened_clay 11
+fill ~20~14~22 ~21~14~23 minecraft:quartz_block 0
+setblock ~21~3~22 minecraft:sea_lantern
+fill ~22~3~22 ~23~3~22 minecraft:quartz_block 0
+setblock ~22~14~22 minecraft:glowstone
+fill ~23~14~22 ~24~14~22 minecraft:quartz_block 0
+setblock ~24~3~22 minecraft:sea_lantern
+fill ~25~2~22 ~25~2~23 minecraft:quartz_block 0
+fill ~25~3~22 ~25~3~23 minecraft:stone_block_slab 0
+fill ~25~14~22 ~25~14~24 minecraft:glowstone
+fill ~26~2~22 ~28~2~22 minecraft:quartz_stairs 2
+fill ~29~14~22 ~30~14~23 minecraft:quartz_block 0
+setblock ~31~14~22 minecraft:glowstone
+fill ~32~2~22 ~34~2~22 minecraft:quartz_stairs 2
+fill ~32~14~22 ~33~14~22 minecraft:quartz_block 0
+fill ~34~14~22 ~34~14~24 minecraft:glowstone
+fill ~35~2~22 ~35~2~23 minecraft:quartz_block 0
+fill ~35~3~22 ~35~3~23 minecraft:stone_block_slab 0
+fill ~35~14~22 ~35~14~26 minecraft:quartz_block 0
+setblock ~36~3~22 minecraft:sea_lantern
+fill ~37~3~22 ~38~3~22 minecraft:quartz_block 0
+fill ~37~14~22 ~37~14~27 minecraft:quartz_block 0
+fill ~38~14~22 ~39~14~22 minecraft:glowstone
+setblock ~39~3~22 minecraft:sea_lantern
+fill ~40~3~22 ~40~3~24 minecraft:stained_hardened_clay 11
+fill ~40~14~22 ~40~14~25 minecraft:quartz_block 0
+fill ~41~3~22 ~41~3~24 minecraft:stained_hardened_clay 3
+fill ~42~3~22 ~43~3~22 minecraft:stained_hardened_clay 6
+fill ~42~14~22 ~42~14~24 minecraft:quartz_block 0
+setblock ~44~3~22 minecraft:stained_hardened_clay 10
+setblock ~45~3~22 minecraft:sea_lantern
+setblock ~46~3~22 minecraft:stained_hardened_clay 10
+fill ~46~14~22 ~46~14~26 minecraft:quartz_block 0
+fill ~47~3~22 ~48~3~22 minecraft:stained_hardened_clay 6
+fill ~47~14~22 ~48~14~22 minecraft:glowstone
+fill ~49~3~22 ~49~3~24 minecraft:stained_hardened_clay 3
+fill ~49~14~22 ~49~14~57 minecraft:quartz_block 0
+fill ~50~3~22 ~50~3~24 minecraft:stained_hardened_clay 11
+fill ~51~3~22 ~53~3~22 minecraft:quartz_block 0
+fill ~52~14~22 ~54~14~22 minecraft:glowstone
+setblock ~54~3~22 minecraft:stained_hardened_clay 11
+fill ~57~5~22 ~57~11~22 minecraft:quartz_block 2
+setblock ~3~5~23 minecraft:quartz_stairs 1
+setblock ~3~6~23 minecraft:monster_egg 2
+setblock ~3~7~23 minecraft:quartz_stairs 1
+fill ~3~8~23 ~3~8~25 minecraft:stonebrick 3
+setblock ~3~9~23 minecraft:quartz_stairs 1
+setblock ~3~10~23 minecraft:monster_egg 2
+setblock ~3~11~23 minecraft:quartz_stairs 1
+setblock ~6~3~23 minecraft:stained_hardened_clay 3
+setblock ~7~3~23 minecraft:stained_hardened_clay 11
+setblock ~8~3~23 minecraft:sea_lantern
+fill ~9~3~23 ~9~3~24 minecraft:quartz_block 0
+fill ~12~3~23 ~12~3~25 minecraft:stained_hardened_clay 3
+setblock ~13~3~23 minecraft:stained_hardened_clay 6
+setblock ~14~3~23 minecraft:stained_hardened_clay 3
+fill ~14~14~23 ~14~14~24 minecraft:quartz_block 0
+setblock ~15~3~23 minecraft:stained_hardened_clay 10
+fill ~15~14~23 ~15~14~24 minecraft:glowstone
+setblock ~16~3~23 minecraft:stained_hardened_clay 3
+fill ~16~14~23 ~16~14~25 minecraft:quartz_block 0
+setblock ~17~3~23 minecraft:stained_hardened_clay 6
+fill ~18~3~23 ~18~3~25 minecraft:stained_hardened_clay 3
+fill ~21~3~23 ~21~3~24 minecraft:quartz_block 0
+fill ~22~3~23 ~24~3~23 minecraft:stone_block_slab 0
+fill ~22~14~23 ~22~14~24 minecraft:quartz_block 0
+fill ~23~14~23 ~23~14~24 minecraft:glowstone
+fill ~24~14~23 ~24~14~26 minecraft:quartz_block 0
+fill ~26~2~23 ~26~2~25 minecraft:quartz_stairs 0
+fill ~27~2~23 ~27~2~25 minecraft:stained_hardened_clay 10
+fill ~28~2~23 ~29~2~23 minecraft:stained_hardened_clay 3
+setblock ~30~2~23 minecraft:glass
+fill ~31~2~23 ~32~2~23 minecraft:stained_hardened_clay 3
+fill ~31~14~23 ~31~14~24 minecraft:quartz_block 0
+fill ~32~14~23 ~32~14~24 minecraft:glowstone
+fill ~33~2~23 ~33~2~25 minecraft:stained_hardened_clay 10
+fill ~33~14~23 ~33~14~26 minecraft:quartz_block 0
+fill ~34~2~23 ~34~2~25 minecraft:quartz_stairs 1
+fill ~36~3~23 ~38~3~23 minecraft:stone_block_slab 0
+fill ~38~14~23 ~39~14~28 minecraft:quartz_block 0
+fill ~39~3~23 ~39~3~24 minecraft:quartz_block 0
+fill ~42~3~23 ~42~3~25 minecraft:stained_hardened_clay 3
+setblock ~43~3~23 minecraft:stained_hardened_clay 6
+setblock ~44~3~23 minecraft:stained_hardened_clay 3
+setblock ~45~3~23 minecraft:stained_hardened_clay 10
+setblock ~46~3~23 minecraft:stained_hardened_clay 3
+setblock ~47~3~23 minecraft:stained_hardened_clay 6
+fill ~47~14~23 ~48~14~33 minecraft:quartz_block 0
+fill ~48~3~23 ~48~3~25 minecraft:stained_hardened_clay 3
+fill ~51~3~23 ~51~3~24 minecraft:quartz_block 0
+setblock ~51~14~23 minecraft:glowstone
+fill ~52~3~23 ~53~3~23 minecraft:stained_hardened_clay 11
+fill ~52~14~23 ~54~14~23 minecraft:quartz_block 0
+setblock ~54~3~23 minecraft:stained_hardened_clay 3
+setblock ~57~5~23 minecraft:quartz_stairs 0
+setblock ~57~6~23 minecraft:monster_egg 2
+setblock ~57~7~23 minecraft:quartz_stairs 0
+fill ~57~8~23 ~57~8~25 minecraft:stonebrick 3
+setblock ~57~9~23 minecraft:quartz_stairs 0
+setblock ~57~10~23 minecraft:monster_egg 2
+setblock ~57~11~23 minecraft:quartz_stairs 0
+setblock ~3~5~24 minecraft:monster_egg 2
+setblock ~3~6~24 minecraft:sea_lantern
+setblock ~3~7~24 minecraft:monster_egg 2
+setblock ~3~9~24 minecraft:monster_egg 2
+setblock ~3~10~24 minecraft:sea_lantern
+setblock ~3~11~24 minecraft:monster_egg 2
+fill ~4~14~24 ~4~14~57 minecraft:quartz_block 0
+fill ~5~14~24 ~6~14~24 minecraft:glowstone
+fill ~6~3~24 ~6~3~25 minecraft:stained_hardened_clay 6
+setblock ~7~3~24 minecraft:stained_hardened_clay 3
+fill ~7~14~24 ~7~14~26 minecraft:quartz_block 0
+setblock ~8~3~24 minecraft:stained_hardened_clay 11
+fill ~9~14~24 ~9~14~25 minecraft:quartz_block 0
+fill ~11~14~24 ~11~14~25 minecraft:quartz_block 0
+setblock ~12~14~24 minecraft:glowstone
+fill ~13~3~24 ~13~3~25 minecraft:stained_hardened_clay 3
+setblock ~13~14~24 minecraft:quartz_block 0
+fill ~14~3~24 ~16~3~24 minecraft:stained_hardened_clay 6
+fill ~17~3~24 ~17~3~25 minecraft:stained_hardened_clay 3
+fill ~19~14~24 ~19~14~26 minecraft:quartz_block 0
+setblock ~20~14~24 minecraft:glowstone
+setblock ~21~14~24 minecraft:quartz_block 0
+fill ~22~3~24 ~22~3~26 minecraft:stone_block_slab 0
+fill ~23~2~24 ~23~2~26 minecraft:quartz_stairs 1
+fill ~24~2~24 ~25~2~24 minecraft:quartz_stairs 3
+fill ~28~2~24 ~28~2~25 minecraft:stained_hardened_clay 3
+fill ~28~14~24 ~28~14~27 minecraft:quartz_block 0
+setblock ~29~2~24 minecraft:glass
+setblock ~29~14~24 minecraft:glowstone
+setblock ~30~2~24 minecraft:quartz_stairs 3
+setblock ~30~14~24 minecraft:quartz_block 0
+setblock ~31~2~24 minecraft:glass
+fill ~32~2~24 ~32~2~25 minecraft:stained_hardened_clay 3
+fill ~35~2~24 ~37~2~24 minecraft:quartz_stairs 3
+fill ~38~3~24 ~38~3~26 minecraft:stone_block_slab 0
+fill ~43~3~24 ~43~3~25 minecraft:stained_hardened_clay 3
+fill ~44~3~24 ~46~3~24 minecraft:stained_hardened_clay 6
+fill ~47~3~24 ~47~3~25 minecraft:stained_hardened_clay 3
+fill ~50~14~24 ~50~14~27 minecraft:glowstone
+fill ~51~14~24 ~52~14~24 minecraft:quartz_block 0
+setblock ~52~3~24 minecraft:stained_hardened_clay 11
+setblock ~53~3~24 minecraft:stained_hardened_clay 3
+fill ~53~14~24 ~54~14~24 minecraft:glowstone
+fill ~54~3~24 ~54~3~25 minecraft:stained_hardened_clay 6
+setblock ~57~5~24 minecraft:monster_egg 2
+setblock ~57~6~24 minecraft:sea_lantern
+setblock ~57~7~24 minecraft:monster_egg 2
+setblock ~57~9~24 minecraft:monster_egg 2
+setblock ~57~10~24 minecraft:sea_lantern
+setblock ~57~11~24 minecraft:monster_egg 2
+setblock ~3~5~25 minecraft:quartz_stairs 1
+setblock ~3~6~25 minecraft:monster_egg 2
+setblock ~3~7~25 minecraft:quartz_stairs 1
+setblock ~3~9~25 minecraft:quartz_stairs 1
+setblock ~3~10~25 minecraft:monster_egg 2
+setblock ~3~11~25 minecraft:quartz_stairs 1
+fill ~5~14~25 ~6~14~33 minecraft:quartz_block 0
+setblock ~7~3~25 minecraft:stained_hardened_clay 6
+setblock ~8~3~25 minecraft:stained_hardened_clay 3
+fill ~9~3~25 ~9~3~26 minecraft:stained_hardened_clay 11
+setblock ~10~3~25 minecraft:quartz_block 0
+setblock ~11~3~25 minecraft:stained_hardened_clay 11
+fill ~12~14~25 ~12~14~26 minecraft:quartz_block 0
+fill ~13~14~25 ~14~14~25 minecraft:glowstone
+fill ~14~3~25 ~16~3~25 minecraft:stained_hardened_clay 3
+setblock ~15~14~25 minecraft:quartz_block 0
+setblock ~17~14~25 minecraft:quartz_block 0
+setblock ~19~3~25 minecraft:stained_hardened_clay 11
+setblock ~20~3~25 minecraft:quartz_block 0
+fill ~20~14~25 ~20~14~27 minecraft:quartz_block 0
+setblock ~21~3~25 minecraft:sea_lantern
+fill ~21~14~25 ~22~14~25 minecraft:glowstone
+fill ~23~14~25 ~23~14~27 minecraft:quartz_block 0
+fill ~24~2~25 ~25~2~25 minecraft:stained_hardened_clay 6
+fill ~25~14~25 ~25~14~26 minecraft:quartz_block 0
+setblock ~29~2~25 minecraft:quartz_stairs 1
+fill ~29~14~25 ~29~14~28 minecraft:quartz_block 0
+setblock ~30~2~25 minecraft:beacon
+fill ~30~14~25 ~31~14~25 minecraft:glowstone
+setblock ~31~2~25 minecraft:quartz_stairs 0
+fill ~32~14~25 ~32~14~27 minecraft:quartz_block 0
+fill ~34~14~25 ~34~14~26 minecraft:quartz_block 0
+fill ~35~2~25 ~36~2~25 minecraft:stained_hardened_clay 6
+fill ~37~2~25 ~37~2~26 minecraft:quartz_stairs 0
+setblock ~39~3~25 minecraft:sea_lantern
+setblock ~40~3~25 minecraft:quartz_block 0
+setblock ~41~3~25 minecraft:stained_hardened_clay 11
+fill ~41~14~25 ~44~14~25 minecraft:glowstone
+fill ~44~3~25 ~46~3~25 minecraft:stained_hardened_clay 3
+setblock ~49~3~25 minecraft:stained_hardened_clay 11
+setblock ~50~3~25 minecraft:quartz_block 0
+fill ~51~3~25 ~51~3~26 minecraft:stained_hardened_clay 11
+fill ~51~14~25 ~51~14~27 minecraft:quartz_block 0
+setblock ~52~3~25 minecraft:stained_hardened_clay 3
+setblock ~52~14~25 minecraft:glowstone
+setblock ~53~3~25 minecraft:stained_hardened_clay 6
+fill ~53~14~25 ~54~14~26 minecraft:quartz_block 0
+fill ~55~14~25 ~55~14~26 minecraft:glowstone
+fill ~56~14~25 ~56~14~57 minecraft:quartz_block 0
+setblock ~57~5~25 minecraft:quartz_stairs 0
+setblock ~57~6~25 minecraft:monster_egg 2
+setblock ~57~7~25 minecraft:quartz_stairs 0
+setblock ~57~9~25 minecraft:quartz_stairs 0
+setblock ~57~10~25 minecraft:monster_egg 2
+setblock ~57~11~25 minecraft:quartz_stairs 0
+fill ~3~5~26 ~3~11~26 minecraft:quartz_block 2
+fill ~6~3~26 ~8~3~26 minecraft:stained_hardened_clay 11
+fill ~8~14~26 ~11~14~26 minecraft:glowstone
+setblock ~10~3~26 minecraft:stained_hardened_clay 11
+setblock ~11~3~26 minecraft:quartz_block 0
+fill ~12~3~26 ~18~3~26 minecraft:stained_hardened_clay 11
+fill ~13~14~26 ~14~14~27 minecraft:quartz_block 0
+fill ~15~14~26 ~18~14~26 minecraft:glowstone
+setblock ~19~3~26 minecraft:quartz_block 0
+fill ~20~2~26 ~22~2~26 minecraft:quartz_block 0
+fill ~20~3~26 ~21~3~26 minecraft:stone_block_slab 0
+fill ~21~14~26 ~22~14~34 minecraft:quartz_block 0
+setblock ~24~2~26 minecraft:stained_hardened_clay 6
+setblock ~25~2~26 minecraft:sea_lantern
+fill ~26~2~26 ~26~2~27 minecraft:stained_hardened_clay 6
+setblock ~27~2~26 minecraft:quartz_stairs 3
+fill ~28~2~26 ~28~2~27 minecraft:stained_hardened_clay 10
+setblock ~29~2~26 minecraft:glass
+setblock ~30~2~26 minecraft:quartz_stairs 2
+fill ~30~14~26 ~31~14~50 minecraft:quartz_block 0
+setblock ~31~2~26 minecraft:glass
+fill ~32~2~26 ~32~2~27 minecraft:stained_hardened_clay 10
+fill ~33~2~26 ~33~2~27 minecraft:quartz_stairs 1
+fill ~34~2~26 ~34~2~27 minecraft:stained_hardened_clay 6
+setblock ~35~2~26 minecraft:sea_lantern
+setblock ~36~2~26 minecraft:stained_hardened_clay 6
+fill ~38~2~26 ~39~2~26 minecraft:quartz_block 0
+fill ~39~3~26 ~40~3~26 minecraft:stone_block_slab 0
+fill ~40~14~26 ~40~14~28 minecraft:glowstone
+setblock ~41~3~26 minecraft:quartz_block 0
+fill ~41~14~26 ~44~14~26 minecraft:quartz_block 0
+fill ~42~3~26 ~48~3~26 minecraft:stained_hardened_clay 11
+setblock ~45~14~26 minecraft:glowstone
+setblock ~49~3~26 minecraft:quartz_block 0
+setblock ~50~3~26 minecraft:stained_hardened_clay 11
+fill ~52~3~26 ~54~3~26 minecraft:stained_hardened_clay 11
+fill ~52~14~26 ~52~14~27 minecraft:quartz_block 0
+fill ~57~5~26 ~57~11~26 minecraft:quartz_block 2
+setblock ~3~3~27 minecraft:quartz_block 0
+fill ~3~5~27 ~3~7~27 minecraft:monster_egg 2
+setblock ~3~8~27 minecraft:stonebrick 3
+fill ~3~9~27 ~3~11~27 minecraft:monster_egg 2
+setblock ~4~3~27 minecraft:sea_lantern
+fill ~5~3~27 ~10~3~27 minecraft:quartz_block 0
+fill ~7~14~27 ~7~14~29 minecraft:glowstone
+fill ~8~14~27 ~11~14~27 minecraft:quartz_block 0
+setblock ~11~3~27 minecraft:sea_lantern
+fill ~12~3~27 ~14~3~27 minecraft:quartz_block 0
+setblock ~12~14~27 minecraft:glowstone
+setblock ~15~3~27 minecraft:sea_lantern
+fill ~15~14~27 ~18~14~27 minecraft:quartz_block 0
+fill ~16~3~27 ~18~3~27 minecraft:quartz_block 0
+setblock ~19~3~27 minecraft:sea_lantern
+setblock ~19~14~27 minecraft:glowstone
+fill ~20~2~27 ~20~2~28 minecraft:quartz_block 0
+fill ~20~3~27 ~20~3~28 minecraft:stone_block_slab 0
+fill ~21~2~27 ~21~2~29 minecraft:quartz_stairs 0
+fill ~22~2~27 ~24~2~27 minecraft:quartz_stairs 2
+fill ~24~14~27 ~27~14~27 minecraft:glowstone
+setblock ~25~2~27 minecraft:stained_hardened_clay 6
+setblock ~27~2~27 minecraft:quartz_stairs 0
+setblock ~29~2~27 minecraft:stained_hardened_clay 3
+setblock ~30~2~27 minecraft:glass
+setblock ~31~2~27 minecraft:stained_hardened_clay 3
+fill ~33~14~27 ~36~14~27 minecraft:glowstone
+setblock ~35~2~27 minecraft:stained_hardened_clay 6
+fill ~36~2~27 ~38~2~27 minecraft:quartz_stairs 2
+fill ~39~2~27 ~39~2~29 minecraft:quartz_stairs 1
+fill ~40~2~27 ~40~2~28 minecraft:quartz_block 0
+fill ~40~3~27 ~40~3~28 minecraft:stone_block_slab 0
+setblock ~41~3~27 minecraft:sea_lantern
+fill ~41~14~27 ~42~14~28 minecraft:quartz_block 0
+fill ~42~3~27 ~44~3~27 minecraft:quartz_block 0
+setblock ~43~14~27 minecraft:glowstone
+fill ~44~14~27 ~45~14~27 minecraft:quartz_block 0
+setblock ~45~3~27 minecraft:sea_lantern
+fill ~46~3~27 ~48~3~27 minecraft:quartz_block 0
+fill ~46~14~27 ~46~14~29 minecraft:glowstone
+setblock ~49~3~27 minecraft:sea_lantern
+fill ~50~3~27 ~55~3~27 minecraft:quartz_block 0
+setblock ~53~14~27 minecraft:quartz_block 0
+setblock ~54~14~27 minecraft:glowstone
+fill ~55~14~27 ~55~14~32 minecraft:quartz_block 0
+setblock ~56~3~27 minecraft:sea_lantern
+setblock ~57~3~27 minecraft:quartz_block 0
+fill ~57~5~27 ~57~7~27 minecraft:monster_egg 2
+setblock ~57~8~27 minecraft:stonebrick 3
+fill ~57~9~27 ~57~11~27 minecraft:monster_egg 2
+fill ~2~3~28 ~3~3~28 minecraft:quartz_block 2
+fill ~2~4~28 ~2~9~28 minecraft:quartz_block 0
+setblock ~2~10~28 minecraft:quartz_block 2
+fill ~3~4~28 ~3~5~28 minecraft:quartz_block 2
+setblock ~3~6~28 minecraft:sea_lantern
+fill ~3~7~28 ~3~9~28 minecraft:quartz_block 2
+setblock ~3~10~28 minecraft:monster_egg 2
+setblock ~3~11~28 minecraft:monster_egg 0
+fill ~3~12~28 ~3~12~34 minecraft:monster_egg 2
+fill ~4~2~28 ~19~2~28 minecraft:quartz_block 0
+fill ~4~3~28 ~19~3~28 minecraft:stone_block_slab 0
+fill ~8~14~28 ~9~14~29 minecraft:quartz_block 0
+setblock ~10~14~28 minecraft:glowstone
+fill ~11~14~28 ~12~14~28 minecraft:quartz_block 0
+fill ~13~14~28 ~13~14~30 minecraft:glowstone
+fill ~14~14~28 ~16~14~29 minecraft:quartz_block 0
+setblock ~17~14~28 minecraft:glowstone
+fill ~18~14~28 ~19~14~28 minecraft:quartz_block 0
+fill ~20~14~28 ~20~14~30 minecraft:glowstone
+fill ~22~2~28 ~24~2~28 minecraft:stained_hardened_clay 10
+fill ~23~14~28 ~23~14~30 minecraft:glowstone
+fill ~24~14~28 ~27~14~28 minecraft:quartz_block 0
+fill ~25~2~28 ~26~2~28 minecraft:quartz_stairs 2
+setblock ~27~2~28 minecraft:stained_hardened_clay 6
+setblock ~28~2~28 minecraft:quartz_stairs 0
+setblock ~28~14~28 minecraft:glowstone
+setblock ~29~2~28 minecraft:stained_hardened_clay 10
+setblock ~30~2~28 minecraft:stained_hardened_clay 3
+setblock ~31~2~28 minecraft:stained_hardened_clay 10
+setblock ~32~2~28 minecraft:quartz_stairs 1
+fill ~32~14~28 ~32~14~30 minecraft:glowstone
+setblock ~33~2~28 minecraft:stained_hardened_clay 6
+fill ~33~14~28 ~36~14~28 minecraft:quartz_block 0
+setblock ~34~2~28 minecraft:quartz_stairs 2
+setblock ~35~2~28 minecraft:quartz_stairs 0
+fill ~36~2~28 ~38~2~28 minecraft:stained_hardened_clay 10
+setblock ~37~14~28 minecraft:glowstone
+fill ~41~2~28 ~57~2~28 minecraft:quartz_block 0
+fill ~41~3~28 ~56~3~28 minecraft:stone_block_slab 0
+fill ~43~14~28 ~43~14~29 minecraft:quartz_block 0
+fill ~44~14~28 ~44~14~29 minecraft:glowstone
+fill ~45~14~28 ~45~14~31 minecraft:quartz_block 0
+fill ~50~14~28 ~50~14~31 minecraft:quartz_block 0
+fill ~51~14~28 ~53~14~28 minecraft:glowstone
+fill ~54~14~28 ~54~14~29 minecraft:quartz_block 0
+fill ~57~3~28 ~58~3~28 minecraft:quartz_block 2
+fill ~57~4~28 ~57~5~28 minecraft:quartz_block 2
+setblock ~57~6~28 minecraft:sea_lantern
+fill ~57~7~28 ~57~9~28 minecraft:quartz_block 2
+setblock ~57~10~28 minecraft:monster_egg 2
+setblock ~57~11~28 minecraft:stonebrick 3
+fill ~57~12~28 ~57~12~34 minecraft:monster_egg 2
+fill ~58~4~28 ~58~8~28 minecraft:quartz_block 0
+setblock ~58~9~28 minecraft:quartz_block 2
+fill ~1~3~29 ~1~3~33 minecraft:quartz_block 2
+fill ~1~4~29 ~1~9~30 minecraft:quartz_block 0
+fill ~1~10~29 ~1~10~33 minecraft:quartz_block 2
+fill ~2~2~29 ~2~2~33 minecraft:quartz_block 0
+fill ~2~3~29 ~2~9~33 minecraft:water 0
+setblock ~2~10~29 minecraft:quartz_block 0
+setblock ~3~2~29 minecraft:quartz_block 2
+fill ~3~3~29 ~3~3~33 minecraft:quartz_stairs 1
+setblock ~3~10~29 minecraft:quartz_block 2
+setblock ~3~11~29 minecraft:monster_egg 2
+fill ~4~2~29 ~20~2~29 minecraft:quartz_stairs 2
+fill ~10~14~29 ~10~14~30 minecraft:quartz_block 0
+fill ~11~14~29 ~11~14~30 minecraft:glowstone
+fill ~12~14~29 ~12~14~34 minecraft:quartz_block 0
+fill ~17~14~29 ~17~14~30 minecraft:quartz_block 0
+fill ~18~14~29 ~18~14~30 minecraft:glowstone
+fill ~19~14~29 ~19~14~32 minecraft:quartz_block 0
+fill ~22~2~29 ~24~2~29 minecraft:stained_hardened_clay 3
+fill ~24~14~29 ~25~14~30 minecraft:quartz_block 0
+fill ~25~2~29 ~26~2~29 minecraft:stained_hardened_clay 10
+setblock ~26~14~29 minecraft:glowstone
+setblock ~27~2~29 minecraft:quartz_stairs 2
+fill ~27~14~29 ~28~14~29 minecraft:quartz_block 0
+setblock ~28~2~29 minecraft:quartz_block 0
+fill ~28~3~29 ~28~4~29 minecraft:quartz_block 2
+setblock ~28~5~29 minecraft:cobblestone_wall 0
+fill ~28~6~29 ~28~7~29 minecraft:quartz_block 2
+setblock ~28~8~29 minecraft:cobblestone_wall 0
+fill ~29~2~29 ~31~2~29 minecraft:quartz_stairs 3
+setblock ~29~8~29 minecraft:quartz_block 2
+fill ~29~14~29 ~29~14~31 minecraft:glowstone
+setblock ~30~9~29 minecraft:quartz_block 2
+setblock ~31~8~29 minecraft:quartz_block 2
+setblock ~32~2~29 minecraft:quartz_block 0
+fill ~32~3~29 ~32~4~29 minecraft:quartz_block 2
+setblock ~32~5~29 minecraft:cobblestone_wall 0
+fill ~32~6~29 ~32~7~29 minecraft:quartz_block 2
+setblock ~32~8~29 minecraft:cobblestone_wall 0
+setblock ~33~2~29 minecraft:quartz_stairs 2
+fill ~33~14~29 ~34~14~30 minecraft:quartz_block 0
+fill ~34~2~29 ~35~2~29 minecraft:stained_hardened_clay 10
+setblock ~35~14~29 minecraft:glowstone
+fill ~36~2~29 ~38~2~29 minecraft:stained_hardened_clay 3
+fill ~36~14~29 ~37~14~29 minecraft:quartz_block 0
+fill ~38~14~29 ~38~14~31 minecraft:glowstone
+fill ~39~14~29 ~40~14~51 minecraft:quartz_block 0
+fill ~40~2~29 ~56~2~29 minecraft:quartz_stairs 2
+setblock ~41~14~29 minecraft:glowstone
+setblock ~42~14~29 minecraft:quartz_block 0
+fill ~51~14~29 ~53~14~29 minecraft:quartz_block 0
+setblock ~57~2~29 minecraft:quartz_block 2
+fill ~57~3~29 ~57~3~33 minecraft:quartz_stairs 0
+setblock ~57~10~29 minecraft:quartz_block 2
+setblock ~57~11~29 minecraft:monster_egg 2
+fill ~58~2~29 ~58~2~33 minecraft:quartz_block 0
+fill ~58~3~29 ~58~9~33 minecraft:water 0
+setblock ~58~10~29 minecraft:quartz_block 0
+fill ~59~3~29 ~59~3~33 minecraft:quartz_block 2
+fill ~59~4~29 ~59~9~30 minecraft:quartz_block 0
+fill ~59~10~29 ~59~10~33 minecraft:quartz_block 2
+fill ~2~10~30 ~2~10~32 minecraft:water 0
+setblock ~2~11~30 minecraft:quartz_block 2
+fill ~3~2~30 ~3~2~32 minecraft:quartz_block 0
+setblock ~3~11~30 minecraft:quartz_block 2
+fill ~4~2~30 ~21~2~30 minecraft:stained_hardened_clay 10
+fill ~7~14~30 ~7~14~32 minecraft:quartz_block 0
+setblock ~8~14~30 minecraft:glowstone
+setblock ~9~14~30 minecraft:quartz_block 0
+fill ~14~14~30 ~14~14~48 minecraft:quartz_block 0
+setblock ~15~14~30 minecraft:glowstone
+setblock ~16~14~30 minecraft:quartz_block 0
+setblock ~22~2~30 minecraft:stained_hardened_clay 3
+setblock ~23~2~30 minecraft:glass
+setblock ~24~2~30 minecraft:quartz_stairs 3
+setblock ~25~2~30 minecraft:glass
+setblock ~26~2~30 minecraft:stained_hardened_clay 3
+fill ~26~14~30 ~26~14~31 minecraft:quartz_block 0
+setblock ~27~2~30 minecraft:stained_hardened_clay 10
+fill ~27~14~30 ~27~14~31 minecraft:glowstone
+fill ~28~2~30 ~28~2~32 minecraft:quartz_stairs 1
+setblock ~28~8~30 minecraft:quartz_block 2
+fill ~28~14~30 ~28~14~34 minecraft:quartz_block 0
+setblock ~29~2~30 minecraft:sea_lantern
+setblock ~30~2~30 minecraft:quartz_block 1
+setblock ~30~10~30 minecraft:quartz_block 2
+setblock ~31~2~30 minecraft:sea_lantern
+fill ~32~2~30 ~32~2~32 minecraft:quartz_stairs 0
+setblock ~32~8~30 minecraft:quartz_block 2
+setblock ~33~2~30 minecraft:stained_hardened_clay 10
+setblock ~34~2~30 minecraft:stained_hardened_clay 3
+setblock ~35~2~30 minecraft:glass
+fill ~35~14~30 ~35~14~31 minecraft:quartz_block 0
+setblock ~36~2~30 minecraft:quartz_stairs 3
+fill ~36~14~30 ~36~14~31 minecraft:glowstone
+setblock ~37~2~30 minecraft:glass
+fill ~37~14~30 ~37~14~34 minecraft:quartz_block 0
+setblock ~38~2~30 minecraft:stained_hardened_clay 3
+fill ~39~2~30 ~56~2~30 minecraft:stained_hardened_clay 10
+fill ~41~14~30 ~41~14~32 minecraft:quartz_block 0
+fill ~42~14~30 ~43~14~30 minecraft:glowstone
+fill ~44~14~30 ~44~14~31 minecraft:quartz_block 0
+fill ~46~14~30 ~46~14~32 minecraft:quartz_block 0
+setblock ~51~14~30 minecraft:quartz_block 0
+fill ~52~14~30 ~54~14~30 minecraft:glowstone
+fill ~57~2~30 ~57~2~32 minecraft:quartz_block 0
+setblock ~57~11~30 minecraft:quartz_block 2
+fill ~58~10~30 ~58~10~32 minecraft:water 0
+setblock ~58~11~30 minecraft:quartz_block 0
+fill ~1~4~31 ~1~9~31 minecraft:quartz_block 2
+setblock ~1~11~31 minecraft:quartz_block 2
+setblock ~2~11~31 minecraft:quartz_block 2
+setblock ~3~11~31 minecraft:quartz_block 2
+setblock ~4~2~31 minecraft:sea_lantern
+fill ~5~2~31 ~8~2~31 minecraft:stained_hardened_clay 3
+fill ~8~14~31 ~8~14~32 minecraft:quartz_block 0
+setblock ~9~2~31 minecraft:sea_lantern
+fill ~9~14~31 ~10~14~31 minecraft:glowstone
+fill ~10~2~31 ~13~2~31 minecraft:stained_hardened_clay 3
+fill ~11~14~31 ~11~14~33 minecraft:quartz_block 0
+fill ~13~14~31 ~13~14~43 minecraft:quartz_block 0
+setblock ~14~2~31 minecraft:sea_lantern
+fill ~15~2~31 ~17~2~31 minecraft:stained_hardened_clay 3
+fill ~15~14~31 ~15~14~33 minecraft:quartz_block 0
+fill ~16~14~31 ~17~14~31 minecraft:glowstone
+setblock ~18~2~31 minecraft:sea_lantern
+fill ~18~14~31 ~18~14~32 minecraft:quartz_block 0
+fill ~19~2~31 ~21~2~31 minecraft:stained_hardened_clay 3
+fill ~20~14~31 ~20~14~33 minecraft:quartz_block 0
+setblock ~22~2~31 minecraft:glass
+setblock ~23~2~31 minecraft:quartz_stairs 1
+fill ~23~14~31 ~23~14~34 minecraft:quartz_block 0
+setblock ~24~2~31 minecraft:beacon
+setblock ~24~14~31 minecraft:glowstone
+setblock ~25~2~31 minecraft:quartz_stairs 0
+setblock ~25~14~31 minecraft:quartz_block 0
+setblock ~26~2~31 minecraft:glass
+setblock ~27~2~31 minecraft:stained_hardened_clay 3
+setblock ~28~9~31 minecraft:quartz_block 2
+setblock ~29~2~31 minecraft:quartz_block 1
+setblock ~29~10~31 minecraft:quartz_block 2
+setblock ~30~2~31 minecraft:beacon
+setblock ~30~10~31 minecraft:sea_lantern
+setblock ~31~2~31 minecraft:quartz_block 1
+setblock ~31~10~31 minecraft:quartz_block 2
+setblock ~32~9~31 minecraft:quartz_block 2
+fill ~32~14~31 ~32~14~34 minecraft:quartz_block 0
+setblock ~33~2~31 minecraft:stained_hardened_clay 3
+setblock ~33~14~31 minecraft:glowstone
+setblock ~34~2~31 minecraft:glass
+setblock ~34~14~31 minecraft:quartz_block 0
+setblock ~35~2~31 minecraft:quartz_stairs 1
+setblock ~36~2~31 minecraft:beacon
+setblock ~37~2~31 minecraft:quartz_stairs 0
+setblock ~38~2~31 minecraft:glass
+fill ~39~2~31 ~40~2~31 minecraft:stained_hardened_clay 3
+setblock ~41~2~31 minecraft:sea_lantern
+fill ~42~2~31 ~44~2~31 minecraft:stained_hardened_clay 3
+fill ~42~14~31 ~43~14~31 minecraft:quartz_block 0
+setblock ~45~2~31 minecraft:sea_lantern
+fill ~46~2~31 ~48~2~31 minecraft:stained_hardened_clay 3
+setblock ~49~2~31 minecraft:sea_lantern
+fill ~50~2~31 ~51~2~31 minecraft:stained_hardened_clay 3
+setblock ~51~14~31 minecraft:glowstone
+setblock ~52~2~31 minecraft:sea_lantern
+fill ~52~14~31 ~54~14~31 minecraft:quartz_block 0
+fill ~53~2~31 ~55~2~31 minecraft:stained_hardened_clay 3
+setblock ~56~2~31 minecraft:sea_lantern
+setblock ~57~11~31 minecraft:quartz_block 2
+setblock ~58~11~31 minecraft:quartz_block 2
+fill ~59~4~31 ~59~9~31 minecraft:quartz_block 2
+setblock ~59~11~31 minecraft:quartz_block 2
+fill ~1~4~32 ~1~9~33 minecraft:quartz_block 0
+setblock ~2~11~32 minecraft:quartz_block 0
+setblock ~3~11~32 minecraft:quartz_block 2
+fill ~4~2~32 ~21~2~32 minecraft:stained_hardened_clay 10
+fill ~9~14~32 ~10~14~32 minecraft:quartz_block 0
+fill ~16~14~32 ~17~14~32 minecraft:quartz_block 0
+fill ~22~2~32 ~22~2~33 minecraft:stained_hardened_clay 3
+setblock ~23~2~32 minecraft:glass
+setblock ~24~2~32 minecraft:quartz_stairs 2
+fill ~24~14~32 ~24~14~33 minecraft:quartz_block 0
+setblock ~25~2~32 minecraft:glass
+fill ~25~14~32 ~26~14~32 minecraft:glowstone
+setblock ~26~2~32 minecraft:stained_hardened_clay 3
+setblock ~27~2~32 minecraft:stained_hardened_clay 10
+fill ~27~14~32 ~27~14~33 minecraft:quartz_block 0
+setblock ~28~8~32 minecraft:quartz_block 2
+setblock ~29~2~32 minecraft:sea_lantern
+fill ~29~14~32 ~29~14~35 minecraft:quartz_block 0
+setblock ~30~2~32 minecraft:quartz_block 1
+setblock ~30~10~32 minecraft:quartz_block 2
+setblock ~31~2~32 minecraft:sea_lantern
+setblock ~32~8~32 minecraft:quartz_block 2
+setblock ~33~2~32 minecraft:stained_hardened_clay 10
+fill ~33~14~32 ~33~14~33 minecraft:quartz_block 0
+setblock ~34~2~32 minecraft:stained_hardened_clay 3
+fill ~34~14~32 ~35~14~32 minecraft:glowstone
+setblock ~35~2~32 minecraft:glass
+setblock ~36~2~32 minecraft:quartz_stairs 2
+fill ~36~14~32 ~36~14~33 minecraft:quartz_block 0
+setblock ~37~2~32 minecraft:glass
+fill ~38~2~32 ~38~2~33 minecraft:stained_hardened_clay 3
+fill ~38~14~32 ~38~14~35 minecraft:quartz_block 0
+fill ~39~2~32 ~56~2~32 minecraft:stained_hardened_clay 10
+fill ~42~14~32 ~45~14~32 minecraft:glowstone
+fill ~50~14~32 ~50~14~35 minecraft:glowstone
+fill ~51~14~32 ~52~14~32 minecraft:quartz_block 0
+fill ~53~14~32 ~54~14~32 minecraft:glowstone
+setblock ~57~11~32 minecraft:quartz_block 2
+setblock ~58~11~32 minecraft:quartz_block 0
+fill ~59~4~32 ~59~9~33 minecraft:quartz_block 0
+setblock ~2~10~33 minecraft:quartz_block 0
+setblock ~3~2~33 minecraft:quartz_block 2
+setblock ~3~10~33 minecraft:quartz_block 2
+setblock ~3~11~33 minecraft:monster_egg 2
+fill ~4~2~33 ~20~2~33 minecraft:quartz_stairs 3
+fill ~7~14~33 ~10~14~33 minecraft:glowstone
+fill ~16~14~33 ~19~14~33 minecraft:glowstone
+fill ~21~2~33 ~21~2~35 minecraft:quartz_stairs 0
+fill ~23~2~33 ~24~2~33 minecraft:stained_hardened_clay 3
+fill ~25~2~33 ~26~2~33 minecraft:stained_hardened_clay 10
+fill ~25~14~33 ~26~14~33 minecraft:quartz_block 0
+setblock ~27~2~33 minecraft:quartz_stairs 3
+setblock ~28~2~33 minecraft:quartz_block 0
+fill ~28~3~33 ~28~4~33 minecraft:quartz_block 2
+setblock ~28~5~33 minecraft:cobblestone_wall 0
+fill ~28~6~33 ~28~7~33 minecraft:quartz_block 2
+setblock ~28~8~33 minecraft:cobblestone_wall 0
+fill ~29~2~33 ~31~2~33 minecraft:quartz_stairs 2
+setblock ~29~8~33 minecraft:quartz_block 2
+setblock ~30~9~33 minecraft:quartz_block 2
+setblock ~31~8~33 minecraft:quartz_block 2
+setblock ~32~2~33 minecraft:quartz_block 0
+fill ~32~3~33 ~32~4~33 minecraft:quartz_block 2
+setblock ~32~5~33 minecraft:cobblestone_wall 0
+fill ~32~6~33 ~32~7~33 minecraft:quartz_block 2
+setblock ~32~8~33 minecraft:cobblestone_wall 0
+setblock ~33~2~33 minecraft:quartz_stairs 3
+fill ~34~2~33 ~35~2~33 minecraft:stained_hardened_clay 10
+fill ~34~14~33 ~35~14~33 minecraft:quartz_block 0
+fill ~36~2~33 ~37~2~33 minecraft:stained_hardened_clay 3
+fill ~39~2~33 ~39~2~35 minecraft:quartz_stairs 1
+fill ~40~2~33 ~56~2~33 minecraft:quartz_stairs 3
+fill ~41~14~33 ~41~14~35 minecraft:glowstone
+fill ~42~14~33 ~45~14~33 minecraft:quartz_block 0
+setblock ~46~14~33 minecraft:glowstone
+fill ~51~14~33 ~51~14~35 minecraft:quartz_block 0
+setblock ~52~14~33 minecraft:glowstone
+fill ~53~14~33 ~54~14~34 minecraft:quartz_block 0
+fill ~55~14~33 ~55~14~34 minecraft:glowstone
+setblock ~57~2~33 minecraft:quartz_block 2
+setblock ~57~10~33 minecraft:quartz_block 2
+setblock ~57~11~33 minecraft:monster_egg 2
+setblock ~58~10~33 minecraft:quartz_block 0
+fill ~2~3~34 ~3~3~34 minecraft:quartz_block 2
+fill ~2~4~34 ~2~8~34 minecraft:quartz_block 0
+fill ~2~9~34 ~3~9~34 minecraft:quartz_block 2
+fill ~3~4~34 ~3~5~34 minecraft:quartz_block 2
+setblock ~3~6~34 minecraft:sea_lantern
+fill ~3~7~34 ~3~8~34 minecraft:quartz_block 2
+fill ~3~10~34 ~3~10~35 minecraft:monster_egg 2
+setblock ~3~11~34 minecraft:monster_egg 0
+fill ~4~2~34 ~20~2~34 minecraft:quartz_block 0
+fill ~4~3~34 ~20~3~34 minecraft:stone_block_slab 0
+fill ~5~14~34 ~5~14~57 minecraft:quartz_block 0
+fill ~6~14~34 ~6~14~36 minecraft:glowstone
+fill ~7~14~34 ~10~14~34 minecraft:quartz_block 0
+setblock ~11~14~34 minecraft:glowstone
+fill ~15~14~34 ~15~14~36 minecraft:glowstone
+fill ~16~14~34 ~19~14~34 minecraft:quartz_block 0
+setblock ~20~14~34 minecraft:glowstone
+fill ~22~2~34 ~24~2~34 minecraft:stained_hardened_clay 10
+fill ~24~14~34 ~27~14~34 minecraft:glowstone
+setblock ~25~2~34 minecraft:quartz_stairs 1
+setblock ~26~2~34 minecraft:quartz_stairs 3
+setblock ~27~2~34 minecraft:stained_hardened_clay 6
+setblock ~28~2~34 minecraft:quartz_stairs 0
+setblock ~29~2~34 minecraft:stained_hardened_clay 10
+setblock ~30~2~34 minecraft:stained_hardened_clay 3
+setblock ~31~2~34 minecraft:stained_hardened_clay 10
+setblock ~32~2~34 minecraft:quartz_stairs 1
+setblock ~33~2~34 minecraft:stained_hardened_clay 6
+fill ~33~14~34 ~36~14~34 minecraft:glowstone
+fill ~34~2~34 ~35~2~34 minecraft:quartz_stairs 3
+fill ~36~2~34 ~38~2~34 minecraft:stained_hardened_clay 10
+fill ~40~2~34 ~57~2~34 minecraft:quartz_block 0
+fill ~40~3~34 ~56~3~34 minecraft:stone_block_slab 0
+fill ~42~14~34 ~43~14~35 minecraft:quartz_block 0
+setblock ~44~14~34 minecraft:glowstone
+fill ~45~14~34 ~46~14~34 minecraft:quartz_block 0
+fill ~47~14~34 ~47~14~36 minecraft:glowstone
+fill ~48~14~34 ~48~14~52 minecraft:quartz_block 0
+fill ~52~14~34 ~52~14~35 minecraft:quartz_block 0
+fill ~57~3~34 ~58~3~34 minecraft:quartz_block 2
+fill ~57~4~34 ~57~5~34 minecraft:quartz_block 2
+setblock ~57~6~34 minecraft:sea_lantern
+fill ~57~7~34 ~57~9~34 minecraft:quartz_block 2
+fill ~57~10~34 ~57~10~35 minecraft:monster_egg 2
+setblock ~57~11~34 minecraft:stonebrick 3
+fill ~58~4~34 ~58~9~34 minecraft:quartz_block 0
+setblock ~58~10~34 minecraft:quartz_block 2
+fill ~3~3~35 ~3~3~57 minecraft:quartz_block 0
+fill ~3~4~35 ~3~4~57 minecraft:double_stone_block_slab 0
+fill ~3~5~35 ~3~7~35 minecraft:monster_egg 2
+setblock ~3~8~35 minecraft:stonebrick 3
+setblock ~3~9~35 minecraft:monster_egg 2
+setblock ~3~11~35 minecraft:monster_egg 2
+fill ~3~12~35 ~3~12~57 minecraft:double_stone_block_slab 0
+setblock ~4~3~35 minecraft:sea_lantern
+fill ~5~3~35 ~10~3~35 minecraft:quartz_block 0
+fill ~7~14~35 ~8~14~36 minecraft:quartz_block 0
+setblock ~9~14~35 minecraft:glowstone
+fill ~10~14~35 ~11~14~35 minecraft:quartz_block 0
+setblock ~11~3~35 minecraft:sea_lantern
+fill ~12~3~35 ~14~3~35 minecraft:quartz_block 0
+fill ~12~14~35 ~12~14~37 minecraft:glowstone
+setblock ~15~3~35 minecraft:sea_lantern
+fill ~16~3~35 ~18~3~35 minecraft:quartz_block 0
+fill ~16~14~35 ~17~14~36 minecraft:quartz_block 0
+setblock ~18~14~35 minecraft:glowstone
+setblock ~19~3~35 minecraft:sea_lantern
+fill ~19~14~35 ~20~14~35 minecraft:quartz_block 0
+setblock ~20~2~35 minecraft:quartz_block 0
+fill ~20~3~35 ~20~3~36 minecraft:stone_block_slab 0
+fill ~21~14~35 ~21~14~37 minecraft:glowstone
+fill ~22~2~35 ~24~2~35 minecraft:quartz_stairs 3
+fill ~22~14~35 ~22~14~57 minecraft:quartz_block 0
+fill ~23~14~35 ~23~14~37 minecraft:glowstone
+fill ~24~14~35 ~27~14~35 minecraft:quartz_block 0
+fill ~25~2~35 ~26~2~35 minecraft:stained_hardened_clay 6
+fill ~27~2~35 ~27~2~36 minecraft:quartz_stairs 0
+fill ~28~2~35 ~28~2~36 minecraft:stained_hardened_clay 10
+setblock ~28~14~35 minecraft:glowstone
+setblock ~29~2~35 minecraft:stained_hardened_clay 3
+setblock ~30~2~35 minecraft:glass
+setblock ~31~2~35 minecraft:stained_hardened_clay 3
+fill ~32~2~35 ~32~2~36 minecraft:stained_hardened_clay 10
+fill ~32~14~35 ~32~14~37 minecraft:glowstone
+setblock ~33~2~35 minecraft:quartz_stairs 1
+fill ~33~14~35 ~36~14~35 minecraft:quartz_block 0
+fill ~34~2~35 ~35~2~35 minecraft:stained_hardened_clay 6
+fill ~36~2~35 ~38~2~35 minecraft:quartz_stairs 3
+setblock ~37~14~35 minecraft:glowstone
+fill ~40~2~35 ~40~2~36 minecraft:quartz_block 0
+fill ~40~3~35 ~40~3~36 minecraft:stone_block_slab 0
+setblock ~41~3~35 minecraft:sea_lantern
+fill ~42~3~35 ~44~3~35 minecraft:quartz_block 0
+fill ~44~14~35 ~44~14~36 minecraft:quartz_block 0
+setblock ~45~3~35 minecraft:sea_lantern
+fill ~45~14~35 ~45~14~36 minecraft:glowstone
+fill ~46~3~35 ~55~3~35 minecraft:quartz_block 0
+fill ~46~14~35 ~46~14~42 minecraft:quartz_block 0
+setblock ~53~14~35 minecraft:quartz_block 0
+setblock ~54~14~35 minecraft:glowstone
+fill ~55~14~35 ~55~14~40 minecraft:quartz_block 0
+setblock ~56~3~35 minecraft:sea_lantern
+fill ~57~3~35 ~57~3~57 minecraft:quartz_block 0
+fill ~57~4~35 ~57~4~57 minecraft:double_stone_block_slab 0
+fill ~57~5~35 ~57~7~35 minecraft:monster_egg 2
+setblock ~57~8~35 minecraft:stonebrick 3
+setblock ~57~9~35 minecraft:monster_egg 2
+setblock ~57~11~35 minecraft:monster_egg 2
+fill ~57~12~35 ~57~12~57 minecraft:double_stone_block_slab 0
+fill ~3~5~36 ~3~11~36 minecraft:quartz_block 2
+fill ~4~3~36 ~4~3~58 minecraft:quartz_block 0
+fill ~5~3~36 ~10~3~36 minecraft:stained_hardened_clay 11
+fill ~9~14~36 ~9~14~37 minecraft:quartz_block 0
+fill ~10~14~36 ~10~14~37 minecraft:glowstone
+setblock ~11~3~36 minecraft:quartz_block 0
+fill ~11~14~36 ~11~14~41 minecraft:quartz_block 0
+fill ~12~3~36 ~18~3~36 minecraft:stained_hardened_clay 11
+fill ~18~14~36 ~18~14~37 minecraft:quartz_block 0
+setblock ~19~3~36 minecraft:quartz_block 0
+fill ~19~14~36 ~19~14~37 minecraft:glowstone
+fill ~20~14~36 ~20~14~40 minecraft:quartz_block 0
+fill ~21~2~36 ~22~2~36 minecraft:quartz_block 0
+fill ~21~3~36 ~22~3~36 minecraft:stone_block_slab 0
+fill ~23~2~36 ~23~2~37 minecraft:quartz_stairs 1
+fill ~24~2~36 ~24~2~37 minecraft:stained_hardened_clay 6
+fill ~24~14~36 ~25~14~37 minecraft:quartz_block 0
+setblock ~25~2~36 minecraft:sea_lantern
+setblock ~26~2~36 minecraft:stained_hardened_clay 6
+setblock ~26~14~36 minecraft:glowstone
+fill ~27~14~36 ~28~14~36 minecraft:quartz_block 0
+setblock ~29~2~36 minecraft:glass
+fill ~29~14~36 ~29~14~38 minecraft:glowstone
+setblock ~30~2~36 minecraft:quartz_stairs 3
+setblock ~31~2~36 minecraft:glass
+setblock ~33~2~36 minecraft:quartz_stairs 2
+fill ~33~14~36 ~34~14~37 minecraft:quartz_block 0
+setblock ~34~2~36 minecraft:stained_hardened_clay 6
+setblock ~35~2~36 minecraft:sea_lantern
+setblock ~35~14~36 minecraft:glowstone
+fill ~36~2~36 ~36~2~37 minecraft:stained_hardened_clay 6
+fill ~36~14~36 ~37~14~36 minecraft:quartz_block 0
+fill ~37~2~36 ~37~2~38 minecraft:quartz_stairs 0
+fill ~38~2~36 ~39~2~36 minecraft:quartz_block 0
+fill ~38~3~36 ~39~3~36 minecraft:stone_block_slab 0
+fill ~38~14~36 ~38~14~38 minecraft:glowstone
+setblock ~41~3~36 minecraft:quartz_block 0
+fill ~41~14~36 ~41~14~42 minecraft:quartz_block 0
+fill ~42~3~36 ~48~3~36 minecraft:stained_hardened_clay 11
+setblock ~42~14~36 minecraft:glowstone
+setblock ~43~14~36 minecraft:quartz_block 0
+setblock ~49~3~36 minecraft:quartz_block 0
+fill ~50~3~36 ~55~3~36 minecraft:stained_hardened_clay 11
+fill ~50~14~36 ~50~14~39 minecraft:quartz_block 0
+fill ~51~14~36 ~53~14~36 minecraft:glowstone
+fill ~54~14~36 ~54~14~37 minecraft:quartz_block 0
+fill ~56~3~36 ~56~3~58 minecraft:quartz_block 0
+fill ~57~5~36 ~57~11~36 minecraft:quartz_block 2
+setblock ~3~5~37 minecraft:quartz_stairs 1
+setblock ~3~6~37 minecraft:monster_egg 2
+setblock ~3~7~37 minecraft:quartz_stairs 1
+fill ~3~8~37 ~3~8~39 minecraft:stonebrick 3
+setblock ~3~9~37 minecraft:quartz_stairs 1
+setblock ~3~10~37 minecraft:monster_egg 2
+setblock ~3~11~37 minecraft:quartz_stairs 1
+fill ~5~3~37 ~5~3~41 minecraft:stained_hardened_clay 11
+fill ~6~3~37 ~7~3~37 minecraft:stained_hardened_clay 6
+fill ~6~14~37 ~6~14~57 minecraft:quartz_block 0
+setblock ~7~14~37 minecraft:glowstone
+setblock ~8~3~37 minecraft:stained_hardened_clay 3
+setblock ~8~14~37 minecraft:quartz_block 0
+setblock ~9~3~37 minecraft:stained_hardened_clay 11
+setblock ~10~3~37 minecraft:quartz_block 0
+setblock ~11~3~37 minecraft:stained_hardened_clay 11
+fill ~12~3~37 ~18~3~37 minecraft:stained_hardened_clay 3
+fill ~15~14~37 ~15~14~40 minecraft:quartz_block 0
+setblock ~16~14~37 minecraft:glowstone
+setblock ~17~14~37 minecraft:quartz_block 0
+setblock ~19~3~37 minecraft:stained_hardened_clay 11
+setblock ~20~3~37 minecraft:quartz_block 0
+setblock ~21~3~37 minecraft:sea_lantern
+fill ~22~3~37 ~22~3~39 minecraft:stone_block_slab 0
+setblock ~25~2~37 minecraft:stained_hardened_clay 6
+fill ~26~2~37 ~26~2~39 minecraft:quartz_stairs 0
+fill ~26~14~37 ~26~14~38 minecraft:quartz_block 0
+fill ~27~2~37 ~27~2~39 minecraft:stained_hardened_clay 10
+fill ~27~14~37 ~27~14~38 minecraft:glowstone
+fill ~28~2~37 ~28~2~39 minecraft:stained_hardened_clay 3
+fill ~28~14~37 ~28~14~42 minecraft:quartz_block 0
+setblock ~29~2~37 minecraft:quartz_stairs 1
+setblock ~30~2~37 minecraft:beacon
+setblock ~31~2~37 minecraft:quartz_stairs 0
+fill ~32~2~37 ~32~2~39 minecraft:stained_hardened_clay 3
+fill ~33~2~37 ~33~2~39 minecraft:stained_hardened_clay 10
+fill ~34~2~37 ~34~2~39 minecraft:quartz_stairs 1
+setblock ~35~2~37 minecraft:stained_hardened_clay 6
+fill ~35~14~37 ~35~14~38 minecraft:quartz_block 0
+fill ~36~14~37 ~36~14~38 minecraft:glowstone
+fill ~37~14~37 ~37~14~41 minecraft:quartz_block 0
+fill ~38~3~37 ~38~3~39 minecraft:stone_block_slab 0
+setblock ~39~3~37 minecraft:sea_lantern
+setblock ~40~3~37 minecraft:quartz_block 0
+setblock ~41~3~37 minecraft:stained_hardened_clay 11
+fill ~42~3~37 ~48~3~37 minecraft:stained_hardened_clay 3
+fill ~42~14~37 ~42~14~41 minecraft:quartz_block 0
+fill ~43~14~37 ~44~14~37 minecraft:glowstone
+fill ~45~14~37 ~45~14~41 minecraft:quartz_block 0
+fill ~47~14~37 ~47~14~43 minecraft:quartz_block 0
+setblock ~49~3~37 minecraft:stained_hardened_clay 11
+setblock ~50~3~37 minecraft:quartz_block 0
+setblock ~51~3~37 minecraft:stained_hardened_clay 11
+fill ~51~14~37 ~53~14~37 minecraft:quartz_block 0
+setblock ~52~3~37 minecraft:stained_hardened_clay 3
+fill ~53~3~37 ~54~3~37 minecraft:stained_hardened_clay 6
+fill ~55~3~37 ~55~3~41 minecraft:stained_hardened_clay 11
+setblock ~57~5~37 minecraft:quartz_stairs 0
+setblock ~57~6~37 minecraft:monster_egg 2
+setblock ~57~7~37 minecraft:quartz_stairs 0
+fill ~57~8~37 ~57~8~39 minecraft:stonebrick 3
+setblock ~57~9~37 minecraft:quartz_stairs 0
+setblock ~57~10~37 minecraft:monster_egg 2
+setblock ~57~11~37 minecraft:quartz_stairs 0
+setblock ~3~5~38 minecraft:monster_egg 2
+setblock ~3~6~38 minecraft:sea_lantern
+setblock ~3~7~38 minecraft:monster_egg 2
+setblock ~3~9~38 minecraft:monster_egg 2
+setblock ~3~10~38 minecraft:sea_lantern
+setblock ~3~11~38 minecraft:monster_egg 2
+setblock ~6~3~38 minecraft:stained_hardened_clay 6
+setblock ~7~3~38 minecraft:stained_hardened_clay 3
+fill ~7~14~38 ~7~14~42 minecraft:quartz_block 0
+fill ~8~3~38 ~8~3~39 minecraft:stained_hardened_clay 11
+fill ~8~14~38 ~9~14~38 minecraft:glowstone
+fill ~9~3~38 ~9~3~40 minecraft:quartz_block 0
+fill ~10~3~38 ~10~3~40 minecraft:stained_hardened_clay 11
+fill ~10~14~38 ~10~14~41 minecraft:quartz_block 0
+fill ~11~3~38 ~13~3~38 minecraft:stained_hardened_clay 3
+fill ~12~14~38 ~12~14~42 minecraft:quartz_block 0
+fill ~14~3~38 ~16~3~38 minecraft:stained_hardened_clay 6
+fill ~16~14~38 ~16~14~39 minecraft:quartz_block 0
+fill ~17~3~38 ~19~3~38 minecraft:stained_hardened_clay 3
+fill ~17~14~38 ~18~14~38 minecraft:glowstone
+fill ~19~14~38 ~19~14~39 minecraft:quartz_block 0
+fill ~20~3~38 ~20~3~40 minecraft:stained_hardened_clay 11
+fill ~21~3~38 ~21~3~39 minecraft:quartz_block 0
+fill ~21~14~38 ~21~14~41 minecraft:quartz_block 0
+fill ~23~2~38 ~25~2~38 minecraft:quartz_stairs 2
+fill ~23~14~38 ~23~14~42 minecraft:quartz_block 0
+setblock ~24~14~38 minecraft:glowstone
+setblock ~25~14~38 minecraft:quartz_block 0
+setblock ~29~2~38 minecraft:glass
+setblock ~30~2~38 minecraft:quartz_stairs 2
+setblock ~31~2~38 minecraft:glass
+fill ~32~14~38 ~32~14~41 minecraft:quartz_block 0
+setblock ~33~14~38 minecraft:glowstone
+setblock ~34~14~38 minecraft:quartz_block 0
+fill ~35~2~38 ~36~2~38 minecraft:quartz_stairs 2
+fill ~39~3~38 ~39~3~39 minecraft:quartz_block 0
+fill ~40~3~38 ~40~3~40 minecraft:stained_hardened_clay 11
+fill ~41~3~38 ~43~3~38 minecraft:stained_hardened_clay 3
+fill ~43~14~38 ~44~14~41 minecraft:quartz_block 0
+fill ~44~3~38 ~46~3~38 minecraft:stained_hardened_clay 6
+fill ~47~3~38 ~49~3~38 minecraft:stained_hardened_clay 3
+fill ~50~3~38 ~50~3~40 minecraft:stained_hardened_clay 11
+fill ~51~3~38 ~51~3~40 minecraft:quartz_block 0
+setblock ~51~14~38 minecraft:quartz_block 0
+fill ~52~3~38 ~52~3~39 minecraft:stained_hardened_clay 11
+fill ~52~14~38 ~54~14~38 minecraft:glowstone
+setblock ~53~3~38 minecraft:stained_hardened_clay 3
+setblock ~54~3~38 minecraft:stained_hardened_clay 6
+setblock ~57~5~38 minecraft:monster_egg 2
+setblock ~57~6~38 minecraft:sea_lantern
+setblock ~57~7~38 minecraft:monster_egg 2
+setblock ~57~9~38 minecraft:monster_egg 2
+setblock ~57~10~38 minecraft:sea_lantern
+setblock ~57~11~38 minecraft:monster_egg 2
+setblock ~3~5~39 minecraft:quartz_stairs 1
+setblock ~3~6~39 minecraft:monster_egg 2
+setblock ~3~7~39 minecraft:quartz_stairs 1
+setblock ~3~9~39 minecraft:quartz_stairs 1
+setblock ~3~10~39 minecraft:monster_egg 2
+setblock ~3~11~39 minecraft:quartz_stairs 1
+setblock ~6~3~39 minecraft:stained_hardened_clay 3
+setblock ~7~3~39 minecraft:stained_hardened_clay 11
+fill ~8~14~39 ~9~14~41 minecraft:quartz_block 0
+fill ~11~3~39 ~12~3~39 minecraft:stained_hardened_clay 3
+fill ~13~3~39 ~13~3~40 minecraft:stained_hardened_clay 6
+setblock ~14~3~39 minecraft:stained_hardened_clay 3
+setblock ~15~3~39 minecraft:stained_hardened_clay 10
+setblock ~16~3~39 minecraft:stained_hardened_clay 3
+fill ~17~3~39 ~17~3~40 minecraft:stained_hardened_clay 6
+fill ~17~14~39 ~18~14~39 minecraft:quartz_block 0
+fill ~18~3~39 ~19~3~39 minecraft:stained_hardened_clay 3
+fill ~23~3~39 ~25~3~39 minecraft:stone_block_slab 0
+fill ~24~14~39 ~24~14~41 minecraft:quartz_block 0
+fill ~25~2~39 ~25~2~41 minecraft:quartz_block 0
+fill ~25~14~39 ~26~14~39 minecraft:glowstone
+fill ~27~14~39 ~27~14~41 minecraft:quartz_block 0
+setblock ~29~2~39 minecraft:stained_hardened_clay 3
+fill ~29~14~39 ~29~14~43 minecraft:quartz_block 0
+setblock ~30~2~39 minecraft:glass
+setblock ~31~2~39 minecraft:stained_hardened_clay 3
+fill ~33~14~39 ~33~14~40 minecraft:quartz_block 0
+fill ~34~14~39 ~35~14~39 minecraft:glowstone
+fill ~35~2~39 ~35~2~40 minecraft:quartz_block 0
+fill ~35~3~39 ~37~3~39 minecraft:stone_block_slab 0
+fill ~36~14~39 ~36~14~40 minecraft:quartz_block 0
+fill ~38~14~39 ~38~14~42 minecraft:quartz_block 0
+fill ~41~3~39 ~42~3~39 minecraft:stained_hardened_clay 3
+fill ~43~3~39 ~43~3~40 minecraft:stained_hardened_clay 6
+setblock ~44~3~39 minecraft:stained_hardened_clay 3
+setblock ~45~3~39 minecraft:stained_hardened_clay 10
+setblock ~46~3~39 minecraft:stained_hardened_clay 3
+fill ~47~3~39 ~47~3~40 minecraft:stained_hardened_clay 6
+fill ~48~3~39 ~49~3~39 minecraft:stained_hardened_clay 3
+setblock ~51~14~39 minecraft:glowstone
+fill ~52~14~39 ~54~14~39 minecraft:quartz_block 0
+setblock ~53~3~39 minecraft:stained_hardened_clay 11
+setblock ~54~3~39 minecraft:stained_hardened_clay 3
+setblock ~57~5~39 minecraft:quartz_stairs 0
+setblock ~57~6~39 minecraft:monster_egg 2
+setblock ~57~7~39 minecraft:quartz_stairs 0
+setblock ~57~9~39 minecraft:quartz_stairs 0
+setblock ~57~10~39 minecraft:monster_egg 2
+setblock ~57~11~39 minecraft:quartz_stairs 0
+fill ~3~5~40 ~3~11~40 minecraft:quartz_block 2
+setblock ~6~3~40 minecraft:stained_hardened_clay 11
+fill ~7~3~40 ~8~3~40 minecraft:quartz_block 0
+setblock ~11~3~40 minecraft:stained_hardened_clay 3
+setblock ~12~3~40 minecraft:stained_hardened_clay 6
+setblock ~14~3~40 minecraft:stained_hardened_clay 10
+setblock ~15~3~40 minecraft:sea_lantern
+setblock ~16~3~40 minecraft:stained_hardened_clay 10
+fill ~16~14~40 ~19~14~40 minecraft:glowstone
+setblock ~18~3~40 minecraft:stained_hardened_clay 6
+setblock ~19~3~40 minecraft:stained_hardened_clay 3
+setblock ~21~3~40 minecraft:sea_lantern
+fill ~22~3~40 ~23~3~40 minecraft:quartz_block 0
+setblock ~24~3~40 minecraft:sea_lantern
+fill ~25~3~40 ~25~3~41 minecraft:stone_block_slab 0
+fill ~25~14~40 ~26~14~41 minecraft:quartz_block 0
+fill ~26~2~40 ~28~2~40 minecraft:quartz_stairs 3
+fill ~29~2~40 ~29~2~57 minecraft:stained_hardened_clay 10
+fill ~30~2~40 ~30~2~42 minecraft:stained_hardened_clay 3
+fill ~31~2~40 ~31~2~57 minecraft:stained_hardened_clay 10
+fill ~32~2~40 ~34~2~40 minecraft:quartz_stairs 3
+fill ~34~14~40 ~35~14~40 minecraft:quartz_block 0
+fill ~35~3~40 ~35~3~41 minecraft:stone_block_slab 0
+setblock ~36~3~40 minecraft:sea_lantern
+fill ~37~3~40 ~38~3~40 minecraft:quartz_block 0
+setblock ~39~3~40 minecraft:sea_lantern
+setblock ~41~3~40 minecraft:stained_hardened_clay 3
+setblock ~42~3~40 minecraft:stained_hardened_clay 6
+setblock ~44~3~40 minecraft:stained_hardened_clay 10
+setblock ~45~3~40 minecraft:sea_lantern
+setblock ~46~3~40 minecraft:stained_hardened_clay 10
+setblock ~48~3~40 minecraft:stained_hardened_clay 6
+setblock ~49~3~40 minecraft:stained_hardened_clay 3
+fill ~50~14~40 ~50~14~43 minecraft:glowstone
+fill ~51~14~40 ~52~14~40 minecraft:quartz_block 0
+fill ~52~3~40 ~53~3~40 minecraft:quartz_block 0
+fill ~53~14~40 ~54~14~40 minecraft:glowstone
+setblock ~54~3~40 minecraft:stained_hardened_clay 11
+fill ~57~5~40 ~57~11~40 minecraft:quartz_block 2
+setblock ~3~5~41 minecraft:quartz_stairs 1
+setblock ~3~6~41 minecraft:monster_egg 2
+setblock ~3~7~41 minecraft:quartz_stairs 1
+fill ~3~8~41 ~3~8~43 minecraft:stonebrick 3
+setblock ~3~9~41 minecraft:quartz_stairs 1
+setblock ~3~10~41 minecraft:monster_egg 2
+setblock ~3~11~41 minecraft:quartz_stairs 1
+setblock ~6~3~41 minecraft:quartz_block 0
+fill ~7~3~41 ~9~3~41 minecraft:stained_hardened_clay 11
+setblock ~10~3~41 minecraft:stained_hardened_clay 3
+setblock ~11~3~41 minecraft:stained_hardened_clay 6
+fill ~12~3~41 ~13~3~41 minecraft:stained_hardened_clay 11
+setblock ~14~3~41 minecraft:stained_hardened_clay 3
+fill ~15~3~41 ~15~3~42 minecraft:stained_hardened_clay 10
+fill ~15~14~41 ~15~14~43 minecraft:glowstone
+setblock ~16~3~41 minecraft:stained_hardened_clay 3
+fill ~16~14~41 ~19~14~41 minecraft:quartz_block 0
+fill ~17~3~41 ~18~3~41 minecraft:stained_hardened_clay 11
+setblock ~19~3~41 minecraft:stained_hardened_clay 6
+setblock ~20~3~41 minecraft:stained_hardened_clay 3
+setblock ~20~14~41 minecraft:glowstone
+fill ~21~3~41 ~23~3~41 minecraft:stained_hardened_clay 11
+setblock ~24~3~41 minecraft:quartz_block 0
+fill ~26~2~41 ~27~2~41 minecraft:quartz_block 0
+fill ~26~3~41 ~27~3~41 minecraft:stone_block_slab 0
+fill ~28~2~41 ~28~2~57 minecraft:quartz_stairs 0
+fill ~32~2~41 ~32~2~57 minecraft:quartz_stairs 1
+fill ~33~2~41 ~34~2~41 minecraft:quartz_block 0
+fill ~33~3~41 ~34~3~41 minecraft:stone_block_slab 0
+fill ~33~14~41 ~36~14~41 minecraft:glowstone
+setblock ~36~3~41 minecraft:quartz_block 0
+fill ~37~3~41 ~39~3~41 minecraft:stained_hardened_clay 11
+setblock ~40~3~41 minecraft:stained_hardened_clay 3
+setblock ~41~3~41 minecraft:stained_hardened_clay 6
+fill ~42~3~41 ~43~3~41 minecraft:stained_hardened_clay 11
+setblock ~44~3~41 minecraft:stained_hardened_clay 3
+fill ~45~3~41 ~45~3~42 minecraft:stained_hardened_clay 10
+setblock ~46~3~41 minecraft:stained_hardened_clay 3
+fill ~47~3~41 ~48~3~41 minecraft:stained_hardened_clay 11
+setblock ~49~3~41 minecraft:stained_hardened_clay 6
+setblock ~50~3~41 minecraft:stained_hardened_clay 3
+fill ~51~3~41 ~53~3~41 minecraft:stained_hardened_clay 11
+fill ~51~14~41 ~51~14~43 minecraft:quartz_block 0
+setblock ~52~14~41 minecraft:glowstone
+fill ~53~14~41 ~54~14~42 minecraft:quartz_block 0
+setblock ~54~3~41 minecraft:quartz_block 0
+fill ~55~14~41 ~55~14~42 minecraft:glowstone
+setblock ~57~5~41 minecraft:quartz_stairs 0
+setblock ~57~6~41 minecraft:monster_egg 2
+setblock ~57~7~41 minecraft:quartz_stairs 0
+fill ~57~8~41 ~57~8~43 minecraft:stonebrick 3
+setblock ~57~9~41 minecraft:quartz_stairs 0
+setblock ~57~10~41 minecraft:monster_egg 2
+setblock ~57~11~41 minecraft:quartz_stairs 0
+setblock ~3~5~42 minecraft:monster_egg 2
+setblock ~3~6~42 minecraft:sea_lantern
+setblock ~3~7~42 minecraft:monster_egg 2
+setblock ~3~9~42 minecraft:monster_egg 2
+setblock ~3~10~42 minecraft:sea_lantern
+setblock ~3~11~42 minecraft:monster_egg 2
+setblock ~5~3~42 minecraft:quartz_block 0
+setblock ~6~3~42 minecraft:stained_hardened_clay 11
+fill ~7~3~42 ~9~3~42 minecraft:stained_hardened_clay 3
+fill ~8~14~42 ~11~14~42 minecraft:glowstone
+setblock ~10~3~42 minecraft:stained_hardened_clay 6
+setblock ~11~3~42 minecraft:stained_hardened_clay 11
+fill ~12~3~42 ~13~3~42 minecraft:stained_hardened_clay 3
+fill ~14~3~42 ~14~3~43 minecraft:stained_hardened_clay 11
+fill ~16~3~42 ~16~3~43 minecraft:stained_hardened_clay 11
+fill ~16~14~42 ~17~14~43 minecraft:quartz_block 0
+fill ~17~3~42 ~18~3~42 minecraft:stained_hardened_clay 3
+setblock ~18~14~42 minecraft:glowstone
+setblock ~19~3~42 minecraft:stained_hardened_clay 11
+fill ~19~14~42 ~20~14~42 minecraft:quartz_block 0
+setblock ~20~3~42 minecraft:stained_hardened_clay 6
+fill ~21~3~42 ~23~3~42 minecraft:stained_hardened_clay 3
+fill ~21~14~42 ~21~14~44 minecraft:glowstone
+setblock ~24~3~42 minecraft:stained_hardened_clay 11
+fill ~24~14~42 ~27~14~42 minecraft:glowstone
+setblock ~25~3~42 minecraft:quartz_block 0
+setblock ~26~3~42 minecraft:sea_lantern
+fill ~27~2~42 ~27~2~57 minecraft:quartz_block 0
+fill ~27~3~42 ~27~3~57 minecraft:stone_block_slab 0
+fill ~32~14~42 ~32~14~44 minecraft:glowstone
+fill ~33~2~42 ~33~2~57 minecraft:quartz_block 0
+fill ~33~3~42 ~33~3~57 minecraft:stone_block_slab 0
+fill ~33~14~42 ~36~14~42 minecraft:quartz_block 0
+setblock ~34~3~42 minecraft:sea_lantern
+setblock ~35~3~42 minecraft:quartz_block 0
+setblock ~36~3~42 minecraft:stained_hardened_clay 11
+fill ~37~3~42 ~39~3~42 minecraft:stained_hardened_clay 3
+setblock ~37~14~42 minecraft:glowstone
+setblock ~40~3~42 minecraft:stained_hardened_clay 6
+setblock ~41~3~42 minecraft:stained_hardened_clay 11
+fill ~42~3~42 ~43~3~42 minecraft:stained_hardened_clay 3
+fill ~42~14~42 ~45~14~42 minecraft:glowstone
+fill ~44~3~42 ~44~3~43 minecraft:stained_hardened_clay 11
+fill ~46~3~42 ~46~3~43 minecraft:stained_hardened_clay 11
+fill ~47~3~42 ~48~3~42 minecraft:stained_hardened_clay 3
+setblock ~49~3~42 minecraft:stained_hardened_clay 11
+setblock ~50~3~42 minecraft:stained_hardened_clay 6
+fill ~51~3~42 ~53~3~42 minecraft:stained_hardened_clay 3
+fill ~52~14~42 ~52~14~43 minecraft:quartz_block 0
+setblock ~54~3~42 minecraft:stained_hardened_clay 11
+setblock ~55~3~42 minecraft:quartz_block 0
+setblock ~57~5~42 minecraft:monster_egg 2
+setblock ~57~6~42 minecraft:sea_lantern
+setblock ~57~7~42 minecraft:monster_egg 2
+setblock ~57~9~42 minecraft:monster_egg 2
+setblock ~57~10~42 minecraft:sea_lantern
+setblock ~57~11~42 minecraft:monster_egg 2
+setblock ~3~5~43 minecraft:quartz_stairs 1
+setblock ~3~6~43 minecraft:monster_egg 2
+setblock ~3~7~43 minecraft:quartz_stairs 1
+setblock ~3~9~43 minecraft:quartz_stairs 1
+setblock ~3~10~43 minecraft:monster_egg 2
+setblock ~3~11~43 minecraft:quartz_stairs 1
+fill ~5~3~43 ~5~3~49 minecraft:stained_hardened_clay 11
+fill ~6~3~43 ~8~3~43 minecraft:stained_hardened_clay 3
+fill ~7~14~43 ~7~14~45 minecraft:glowstone
+fill ~8~14~43 ~11~14~43 minecraft:quartz_block 0
+fill ~9~3~43 ~9~3~44 minecraft:stained_hardened_clay 6
+fill ~10~3~43 ~10~3~44 minecraft:stained_hardened_clay 11
+fill ~11~3~43 ~11~3~44 minecraft:stained_hardened_clay 3
+setblock ~12~3~43 minecraft:stained_hardened_clay 11
+setblock ~12~14~43 minecraft:glowstone
+setblock ~13~3~43 minecraft:stained_hardened_clay 3
+setblock ~15~3~43 minecraft:stained_hardened_clay 6
+setblock ~17~3~43 minecraft:stained_hardened_clay 3
+setblock ~18~3~43 minecraft:stained_hardened_clay 11
+fill ~18~14~43 ~18~14~44 minecraft:quartz_block 0
+fill ~19~3~43 ~19~3~44 minecraft:stained_hardened_clay 3
+fill ~19~14~43 ~19~14~44 minecraft:glowstone
+fill ~20~3~43 ~20~3~44 minecraft:stained_hardened_clay 11
+fill ~20~14~43 ~20~14~48 minecraft:quartz_block 0
+fill ~21~3~43 ~21~3~44 minecraft:stained_hardened_clay 6
+fill ~22~3~43 ~24~3~43 minecraft:stained_hardened_clay 3
+fill ~23~14~43 ~23~14~45 minecraft:glowstone
+fill ~24~14~43 ~27~14~43 minecraft:quartz_block 0
+fill ~25~3~43 ~25~3~49 minecraft:stained_hardened_clay 11
+fill ~26~3~43 ~26~3~45 minecraft:quartz_block 0
+setblock ~28~14~43 minecraft:glowstone
+setblock ~30~2~43 minecraft:sea_lantern
+fill ~33~14~43 ~34~14~44 minecraft:quartz_block 0
+fill ~34~3~43 ~34~3~45 minecraft:quartz_block 0
+fill ~35~3~43 ~35~3~49 minecraft:stained_hardened_clay 11
+setblock ~35~14~43 minecraft:glowstone
+fill ~36~3~43 ~38~3~43 minecraft:stained_hardened_clay 3
+fill ~36~14~43 ~37~14~43 minecraft:quartz_block 0
+fill ~38~14~43 ~38~14~45 minecraft:glowstone
+fill ~39~3~43 ~39~3~44 minecraft:stained_hardened_clay 6
+fill ~40~3~43 ~40~3~44 minecraft:stained_hardened_clay 11
+fill ~41~3~43 ~41~3~44 minecraft:stained_hardened_clay 3
+fill ~41~14~43 ~41~14~45 minecraft:glowstone
+setblock ~42~3~43 minecraft:stained_hardened_clay 11
+fill ~42~14~43 ~45~14~43 minecraft:quartz_block 0
+setblock ~43~3~43 minecraft:stained_hardened_clay 3
+setblock ~45~3~43 minecraft:stained_hardened_clay 6
+setblock ~46~14~43 minecraft:glowstone
+setblock ~47~3~43 minecraft:stained_hardened_clay 3
+setblock ~48~3~43 minecraft:stained_hardened_clay 11
+fill ~49~3~43 ~49~3~44 minecraft:stained_hardened_clay 3
+fill ~50~3~43 ~50~3~44 minecraft:stained_hardened_clay 11
+fill ~51~3~43 ~51~3~44 minecraft:stained_hardened_clay 6
+fill ~52~3~43 ~54~3~43 minecraft:stained_hardened_clay 3
+setblock ~53~14~43 minecraft:quartz_block 0
+setblock ~54~14~43 minecraft:glowstone
+fill ~55~3~43 ~55~3~49 minecraft:stained_hardened_clay 11
+fill ~55~14~43 ~55~14~48 minecraft:quartz_block 0
+setblock ~57~5~43 minecraft:quartz_stairs 0
+setblock ~57~6~43 minecraft:monster_egg 2
+setblock ~57~7~43 minecraft:quartz_stairs 0
+setblock ~57~9~43 minecraft:quartz_stairs 0
+setblock ~57~10~43 minecraft:monster_egg 2
+setblock ~57~11~43 minecraft:quartz_stairs 0
+fill ~3~5~44 ~3~11~44 minecraft:quartz_block 2
+fill ~6~3~44 ~7~3~44 minecraft:stained_hardened_clay 3
+setblock ~8~3~44 minecraft:stained_hardened_clay 6
+fill ~8~14~44 ~9~14~45 minecraft:quartz_block 0
+setblock ~10~14~44 minecraft:glowstone
+fill ~11~14~44 ~12~14~44 minecraft:quartz_block 0
+setblock ~12~3~44 minecraft:stained_hardened_clay 3
+setblock ~13~3~44 minecraft:stained_hardened_clay 11
+fill ~13~14~44 ~13~14~46 minecraft:glowstone
+setblock ~14~3~44 minecraft:stained_hardened_clay 6
+setblock ~15~3~44 minecraft:stained_hardened_clay 10
+fill ~15~14~44 ~15~14~46 minecraft:quartz_block 0
+setblock ~16~3~44 minecraft:stained_hardened_clay 6
+setblock ~16~14~44 minecraft:glowstone
+setblock ~17~3~44 minecraft:stained_hardened_clay 11
+setblock ~17~14~44 minecraft:quartz_block 0
+setblock ~18~3~44 minecraft:stained_hardened_clay 3
+setblock ~22~3~44 minecraft:stained_hardened_clay 6
+fill ~23~3~44 ~24~3~44 minecraft:stained_hardened_clay 3
+fill ~24~14~44 ~25~14~45 minecraft:quartz_block 0
+setblock ~26~14~44 minecraft:glowstone
+fill ~27~14~44 ~28~14~44 minecraft:quartz_block 0
+fill ~29~14~44 ~29~14~46 minecraft:glowstone
+fill ~30~2~44 ~30~2~47 minecraft:stained_hardened_clay 3
+fill ~35~14~44 ~35~14~45 minecraft:quartz_block 0
+fill ~36~3~44 ~37~3~44 minecraft:stained_hardened_clay 3
+fill ~36~14~44 ~36~14~45 minecraft:glowstone
+fill ~37~14~44 ~37~14~49 minecraft:quartz_block 0
+setblock ~38~3~44 minecraft:stained_hardened_clay 6
+setblock ~42~3~44 minecraft:stained_hardened_clay 3
+fill ~42~14~44 ~43~14~45 minecraft:quartz_block 0
+setblock ~43~3~44 minecraft:stained_hardened_clay 11
+setblock ~44~3~44 minecraft:stained_hardened_clay 6
+setblock ~44~14~44 minecraft:glowstone
+setblock ~45~3~44 minecraft:stained_hardened_clay 10
+fill ~45~14~44 ~46~14~44 minecraft:quartz_block 0
+setblock ~46~3~44 minecraft:stained_hardened_clay 6
+setblock ~47~3~44 minecraft:stained_hardened_clay 11
+fill ~47~14~44 ~47~14~46 minecraft:glowstone
+setblock ~48~3~44 minecraft:stained_hardened_clay 3
+fill ~50~14~44 ~50~14~47 minecraft:quartz_block 0
+fill ~51~14~44 ~53~14~44 minecraft:glowstone
+setblock ~52~3~44 minecraft:stained_hardened_clay 6
+fill ~53~3~44 ~54~3~44 minecraft:stained_hardened_clay 3
+fill ~54~14~44 ~54~14~45 minecraft:quartz_block 0
+fill ~57~5~44 ~57~11~44 minecraft:quartz_block 2
+setblock ~3~5~45 minecraft:quartz_stairs 1
+setblock ~3~6~45 minecraft:monster_egg 2
+setblock ~3~7~45 minecraft:quartz_stairs 1
+fill ~3~8~45 ~3~8~47 minecraft:stonebrick 3
+setblock ~3~9~45 minecraft:quartz_stairs 1
+setblock ~3~10~45 minecraft:monster_egg 2
+setblock ~3~11~45 minecraft:quartz_stairs 1
+fill ~6~3~45 ~6~3~49 minecraft:stained_hardened_clay 3
+fill ~7~3~45 ~7~3~47 minecraft:stained_hardened_clay 6
+setblock ~8~3~45 minecraft:stained_hardened_clay 3
+setblock ~9~3~45 minecraft:stained_hardened_clay 10
+setblock ~10~3~45 minecraft:stained_hardened_clay 3
+setblock ~10~9~45 minecraft:stone_block_slab 14
+fill ~10~14~45 ~10~14~46 minecraft:quartz_block 0
+fill ~11~3~45 ~12~3~45 minecraft:stained_hardened_clay 11
+fill ~11~14~45 ~11~14~46 minecraft:glowstone
+fill ~12~14~45 ~12~14~51 minecraft:quartz_block 0
+setblock ~13~3~45 minecraft:stained_hardened_clay 6
+setblock ~14~3~45 minecraft:stained_hardened_clay 10
+setblock ~15~3~45 minecraft:stained_hardened_clay 11
+setblock ~15~10~45 minecraft:quartz_block 2
+setblock ~16~3~45 minecraft:stained_hardened_clay 10
+fill ~16~14~45 ~16~14~46 minecraft:quartz_block 0
+setblock ~17~3~45 minecraft:stained_hardened_clay 6
+fill ~17~14~45 ~18~14~45 minecraft:glowstone
+fill ~18~3~45 ~19~3~45 minecraft:stained_hardened_clay 11
+fill ~19~14~45 ~19~14~47 minecraft:quartz_block 0
+setblock ~20~3~45 minecraft:stained_hardened_clay 3
+setblock ~21~3~45 minecraft:stained_hardened_clay 10
+fill ~21~14~45 ~21~14~57 minecraft:quartz_block 0
+setblock ~22~3~45 minecraft:stained_hardened_clay 3
+fill ~23~3~45 ~23~3~47 minecraft:stained_hardened_clay 6
+fill ~24~3~45 ~24~3~49 minecraft:stained_hardened_clay 3
+fill ~26~14~45 ~26~14~46 minecraft:quartz_block 0
+fill ~27~14~45 ~27~14~46 minecraft:glowstone
+fill ~28~14~45 ~28~14~48 minecraft:quartz_block 0
+fill ~32~14~45 ~32~14~57 minecraft:quartz_block 0
+setblock ~33~14~45 minecraft:glowstone
+setblock ~34~14~45 minecraft:quartz_block 0
+fill ~36~3~45 ~36~3~49 minecraft:stained_hardened_clay 3
+fill ~37~3~45 ~37~3~47 minecraft:stained_hardened_clay 6
+setblock ~38~3~45 minecraft:stained_hardened_clay 3
+setblock ~39~3~45 minecraft:stained_hardened_clay 10
+setblock ~40~3~45 minecraft:stained_hardened_clay 3
+fill ~41~3~45 ~42~3~45 minecraft:stained_hardened_clay 11
+setblock ~43~3~45 minecraft:stained_hardened_clay 6
+setblock ~44~3~45 minecraft:stained_hardened_clay 10
+fill ~44~14~45 ~44~14~46 minecraft:quartz_block 0
+setblock ~45~3~45 minecraft:stained_hardened_clay 11
+fill ~45~14~45 ~45~14~46 minecraft:glowstone
+setblock ~46~3~45 minecraft:stained_hardened_clay 10
+fill ~46~14~45 ~46~14~50 minecraft:quartz_block 0
+setblock ~47~3~45 minecraft:stained_hardened_clay 6
+fill ~48~3~45 ~49~3~45 minecraft:stained_hardened_clay 11
+setblock ~50~3~45 minecraft:stained_hardened_clay 3
+setblock ~51~3~45 minecraft:stained_hardened_clay 10
+fill ~51~14~45 ~53~14~45 minecraft:quartz_block 0
+setblock ~52~3~45 minecraft:stained_hardened_clay 3
+fill ~53~3~45 ~53~3~47 minecraft:stained_hardened_clay 6
+fill ~54~3~45 ~54~3~49 minecraft:stained_hardened_clay 3
+setblock ~57~5~45 minecraft:quartz_stairs 0
+setblock ~57~6~45 minecraft:monster_egg 2
+setblock ~57~7~45 minecraft:quartz_stairs 0
+fill ~57~8~45 ~57~8~47 minecraft:stonebrick 3
+setblock ~57~9~45 minecraft:quartz_stairs 0
+setblock ~57~10~45 minecraft:monster_egg 2
+setblock ~57~11~45 minecraft:quartz_stairs 0
+setblock ~3~5~46 minecraft:monster_egg 2
+setblock ~3~6~46 minecraft:sea_lantern
+setblock ~3~7~46 minecraft:monster_egg 2
+setblock ~3~9~46 minecraft:monster_egg 2
+setblock ~3~10~46 minecraft:sea_lantern
+setblock ~3~11~46 minecraft:monster_egg 2
+fill ~7~14~46 ~7~14~51 minecraft:quartz_block 0
+setblock ~8~3~46 minecraft:stained_hardened_clay 10
+setblock ~8~14~46 minecraft:glowstone
+setblock ~9~3~46 minecraft:sea_lantern
+setblock ~9~14~46 minecraft:quartz_block 0
+fill ~10~3~46 ~11~3~46 minecraft:stained_hardened_clay 10
+setblock ~12~3~46 minecraft:stained_hardened_clay 6
+setblock ~13~3~46 minecraft:stained_hardened_clay 10
+setblock ~14~3~46 minecraft:stained_hardened_clay 11
+setblock ~14~10~46 minecraft:stone_block_slab 6
+setblock ~15~3~46 minecraft:sea_lantern
+setblock ~15~10~46 minecraft:beacon
+setblock ~16~3~46 minecraft:stained_hardened_clay 11
+setblock ~16~10~46 minecraft:quartz_block 2
+setblock ~17~3~46 minecraft:stained_hardened_clay 10
+fill ~17~14~46 ~18~14~46 minecraft:quartz_block 0
+setblock ~18~3~46 minecraft:stained_hardened_clay 6
+fill ~19~3~46 ~20~3~46 minecraft:stained_hardened_clay 10
+setblock ~19~4~46 minecraft:stone_block_slab 6
+setblock ~21~3~46 minecraft:sea_lantern
+setblock ~22~3~46 minecraft:stained_hardened_clay 10
+fill ~23~14~46 ~23~14~57 minecraft:quartz_block 0
+setblock ~24~14~46 minecraft:glowstone
+setblock ~25~14~46 minecraft:quartz_block 0
+setblock ~26~3~46 minecraft:sea_lantern
+fill ~33~14~46 ~33~14~50 minecraft:quartz_block 0
+setblock ~34~3~46 minecraft:sea_lantern
+fill ~34~14~46 ~35~14~46 minecraft:glowstone
+fill ~36~14~46 ~36~14~49 minecraft:quartz_block 0
+setblock ~38~3~46 minecraft:stained_hardened_clay 10
+fill ~38~14~46 ~38~14~50 minecraft:quartz_block 0
+setblock ~39~3~46 minecraft:sea_lantern
+fill ~40~3~46 ~41~3~46 minecraft:stained_hardened_clay 10
+fill ~41~14~46 ~41~14~57 minecraft:quartz_block 0
+setblock ~42~3~46 minecraft:stained_hardened_clay 6
+setblock ~42~14~46 minecraft:glowstone
+setblock ~43~3~46 minecraft:stained_hardened_clay 10
+setblock ~43~14~46 minecraft:quartz_block 0
+setblock ~44~3~46 minecraft:stained_hardened_clay 11
+setblock ~45~3~46 minecraft:sea_lantern
+setblock ~46~3~46 minecraft:stained_hardened_clay 11
+setblock ~47~3~46 minecraft:stained_hardened_clay 10
+setblock ~48~3~46 minecraft:stained_hardened_clay 6
+fill ~49~3~46 ~50~3~46 minecraft:stained_hardened_clay 10
+setblock ~51~3~46 minecraft:sea_lantern
+setblock ~51~14~46 minecraft:quartz_block 0
+setblock ~52~3~46 minecraft:stained_hardened_clay 10
+fill ~52~14~46 ~54~14~46 minecraft:glowstone
+setblock ~57~5~46 minecraft:monster_egg 2
+setblock ~57~6~46 minecraft:sea_lantern
+setblock ~57~7~46 minecraft:monster_egg 2
+setblock ~57~9~46 minecraft:monster_egg 2
+setblock ~57~10~46 minecraft:sea_lantern
+setblock ~57~11~46 minecraft:monster_egg 2
+setblock ~3~5~47 minecraft:quartz_stairs 1
+setblock ~3~6~47 minecraft:monster_egg 2
+setblock ~3~7~47 minecraft:quartz_stairs 1
+setblock ~3~9~47 minecraft:quartz_stairs 1
+setblock ~3~10~47 minecraft:monster_egg 2
+setblock ~3~11~47 minecraft:quartz_stairs 1
+setblock ~8~3~47 minecraft:stained_hardened_clay 3
+fill ~8~14~47 ~8~14~50 minecraft:quartz_block 0
+setblock ~9~3~47 minecraft:stained_hardened_clay 10
+fill ~9~14~47 ~10~14~47 minecraft:glowstone
+setblock ~10~3~47 minecraft:stained_hardened_clay 3
+fill ~11~3~47 ~12~3~47 minecraft:stained_hardened_clay 11
+fill ~11~14~47 ~11~14~50 minecraft:quartz_block 0
+setblock ~13~3~47 minecraft:stained_hardened_clay 6
+fill ~13~14~47 ~13~14~52 minecraft:quartz_block 0
+setblock ~14~3~47 minecraft:stained_hardened_clay 10
+setblock ~15~3~47 minecraft:stained_hardened_clay 11
+setblock ~15~10~47 minecraft:quartz_block 2
+fill ~15~14~47 ~18~14~47 minecraft:glowstone
+setblock ~16~3~47 minecraft:stained_hardened_clay 10
+setblock ~17~3~47 minecraft:stained_hardened_clay 6
+fill ~18~3~47 ~19~3~47 minecraft:stained_hardened_clay 11
+setblock ~20~3~47 minecraft:stained_hardened_clay 3
+setblock ~21~3~47 minecraft:stained_hardened_clay 10
+setblock ~22~3~47 minecraft:stained_hardened_clay 3
+fill ~24~14~47 ~24~14~49 minecraft:quartz_block 0
+fill ~25~14~47 ~26~14~47 minecraft:glowstone
+fill ~26~3~47 ~26~3~49 minecraft:quartz_block 0
+fill ~27~14~47 ~27~14~48 minecraft:quartz_block 0
+fill ~29~14~47 ~29~14~49 minecraft:quartz_block 0
+fill ~34~3~47 ~34~3~49 minecraft:quartz_block 0
+fill ~34~14~47 ~35~14~49 minecraft:quartz_block 0
+setblock ~38~3~47 minecraft:stained_hardened_clay 3
+setblock ~39~3~47 minecraft:stained_hardened_clay 10
+setblock ~40~3~47 minecraft:stained_hardened_clay 3
+fill ~41~3~47 ~42~3~47 minecraft:stained_hardened_clay 11
+fill ~42~14~47 ~42~14~51 minecraft:quartz_block 0
+setblock ~43~3~47 minecraft:stained_hardened_clay 6
+fill ~43~14~47 ~44~14~47 minecraft:glowstone
+setblock ~44~3~47 minecraft:stained_hardened_clay 10
+setblock ~45~3~47 minecraft:stained_hardened_clay 11
+fill ~45~14~47 ~45~14~50 minecraft:quartz_block 0
+setblock ~46~3~47 minecraft:stained_hardened_clay 10
+setblock ~47~3~47 minecraft:stained_hardened_clay 6
+fill ~47~14~47 ~47~14~51 minecraft:quartz_block 0
+fill ~48~3~47 ~49~3~47 minecraft:stained_hardened_clay 11
+setblock ~50~3~47 minecraft:stained_hardened_clay 3
+setblock ~51~3~47 minecraft:stained_hardened_clay 10
+setblock ~51~14~47 minecraft:glowstone
+setblock ~52~3~47 minecraft:stained_hardened_clay 3
+fill ~52~14~47 ~54~14~47 minecraft:quartz_block 0
+setblock ~57~5~47 minecraft:quartz_stairs 0
+setblock ~57~6~47 minecraft:monster_egg 2
+setblock ~57~7~47 minecraft:quartz_stairs 0
+setblock ~57~9~47 minecraft:quartz_stairs 0
+setblock ~57~10~47 minecraft:monster_egg 2
+setblock ~57~11~47 minecraft:quartz_stairs 0
+fill ~3~5~48 ~3~11~48 minecraft:quartz_block 2
+fill ~7~3~48 ~7~3~50 minecraft:stained_hardened_clay 3
+fill ~8~3~48 ~9~3~48 minecraft:stained_hardened_clay 6
+fill ~9~14~48 ~10~14~50 minecraft:quartz_block 0
+fill ~10~3~48 ~10~3~49 minecraft:stained_hardened_clay 11
+fill ~11~3~48 ~12~3~48 minecraft:stained_hardened_clay 3
+setblock ~13~3~48 minecraft:stained_hardened_clay 11
+setblock ~14~3~48 minecraft:stained_hardened_clay 6
+setblock ~15~3~48 minecraft:stained_hardened_clay 10
+fill ~15~14~48 ~18~14~48 minecraft:quartz_block 0
+setblock ~16~3~48 minecraft:stained_hardened_clay 6
+setblock ~17~3~48 minecraft:stained_hardened_clay 11
+fill ~18~3~48 ~19~3~48 minecraft:stained_hardened_clay 3
+setblock ~19~14~48 minecraft:glowstone
+fill ~20~3~48 ~20~3~49 minecraft:stained_hardened_clay 11
+fill ~21~3~48 ~22~3~48 minecraft:stained_hardened_clay 6
+fill ~23~3~48 ~23~3~50 minecraft:stained_hardened_clay 3
+fill ~25~14~48 ~26~14~48 minecraft:quartz_block 0
+setblock ~30~2~48 minecraft:sea_lantern
+fill ~37~3~48 ~37~3~50 minecraft:stained_hardened_clay 3
+fill ~38~3~48 ~39~3~48 minecraft:stained_hardened_clay 6
+fill ~40~3~48 ~40~3~49 minecraft:stained_hardened_clay 11
+fill ~41~3~48 ~42~3~48 minecraft:stained_hardened_clay 3
+setblock ~43~3~48 minecraft:stained_hardened_clay 11
+fill ~43~14~48 ~44~14~50 minecraft:quartz_block 0
+setblock ~44~3~48 minecraft:stained_hardened_clay 6
+setblock ~45~3~48 minecraft:stained_hardened_clay 10
+setblock ~46~3~48 minecraft:stained_hardened_clay 6
+setblock ~47~3~48 minecraft:stained_hardened_clay 11
+fill ~48~3~48 ~49~3~48 minecraft:stained_hardened_clay 3
+fill ~50~3~48 ~50~3~49 minecraft:stained_hardened_clay 11
+fill ~50~14~48 ~50~14~51 minecraft:glowstone
+fill ~51~3~48 ~52~3~48 minecraft:stained_hardened_clay 6
+fill ~51~14~48 ~52~14~48 minecraft:quartz_block 0
+fill ~53~3~48 ~53~3~50 minecraft:stained_hardened_clay 3
+fill ~53~14~48 ~54~14~48 minecraft:glowstone
+fill ~57~5~48 ~57~11~48 minecraft:quartz_block 2
+setblock ~3~5~49 minecraft:quartz_stairs 1
+setblock ~3~6~49 minecraft:monster_egg 2
+setblock ~3~7~49 minecraft:quartz_stairs 1
+fill ~3~8~49 ~3~8~51 minecraft:stonebrick 3
+setblock ~3~9~49 minecraft:quartz_stairs 1
+setblock ~3~10~49 minecraft:monster_egg 2
+setblock ~3~11~49 minecraft:quartz_stairs 1
+fill ~8~3~49 ~8~3~50 minecraft:stained_hardened_clay 3
+setblock ~9~3~49 minecraft:stained_hardened_clay 6
+setblock ~10~8~49 minecraft:stone_block_slab 14
+setblock ~11~3~49 minecraft:stained_hardened_clay 3
+setblock ~12~3~49 minecraft:stained_hardened_clay 11
+fill ~13~3~49 ~13~3~50 minecraft:stained_hardened_clay 3
+fill ~14~3~49 ~14~3~50 minecraft:stained_hardened_clay 11
+fill ~14~14~49 ~14~14~50 minecraft:glowstone
+setblock ~15~3~49 minecraft:stained_hardened_clay 6
+fill ~15~14~49 ~16~14~50 minecraft:quartz_block 0
+fill ~16~3~49 ~16~3~50 minecraft:stained_hardened_clay 11
+fill ~17~3~49 ~17~3~50 minecraft:stained_hardened_clay 3
+setblock ~17~14~49 minecraft:glowstone
+setblock ~18~3~49 minecraft:stained_hardened_clay 11
+fill ~18~14~49 ~19~14~49 minecraft:quartz_block 0
+setblock ~19~3~49 minecraft:stained_hardened_clay 3
+setblock ~19~4~49 minecraft:double_stone_block_slab 6
+fill ~20~14~49 ~20~14~51 minecraft:glowstone
+setblock ~21~3~49 minecraft:stained_hardened_clay 6
+fill ~22~3~49 ~22~3~50 minecraft:stained_hardened_clay 3
+fill ~25~14~49 ~28~14~49 minecraft:glowstone
+fill ~30~2~49 ~30~2~51 minecraft:stained_hardened_clay 3
+fill ~38~3~49 ~38~3~50 minecraft:stained_hardened_clay 3
+setblock ~39~3~49 minecraft:stained_hardened_clay 6
+setblock ~41~3~49 minecraft:stained_hardened_clay 3
+setblock ~42~3~49 minecraft:stained_hardened_clay 11
+fill ~43~3~49 ~43~3~50 minecraft:stained_hardened_clay 3
+fill ~44~3~49 ~44~3~50 minecraft:stained_hardened_clay 11
+setblock ~45~3~49 minecraft:stained_hardened_clay 6
+fill ~46~3~49 ~46~3~50 minecraft:stained_hardened_clay 11
+fill ~47~3~49 ~47~3~50 minecraft:stained_hardened_clay 3
+setblock ~48~3~49 minecraft:stained_hardened_clay 11
+setblock ~49~3~49 minecraft:stained_hardened_clay 3
+setblock ~51~3~49 minecraft:stained_hardened_clay 6
+fill ~51~14~49 ~51~14~51 minecraft:quartz_block 0
+fill ~52~3~49 ~52~3~50 minecraft:stained_hardened_clay 3
+setblock ~52~14~49 minecraft:glowstone
+fill ~53~14~49 ~54~14~50 minecraft:quartz_block 0
+fill ~55~14~49 ~55~14~50 minecraft:glowstone
+setblock ~57~5~49 minecraft:quartz_stairs 0
+setblock ~57~6~49 minecraft:monster_egg 2
+setblock ~57~7~49 minecraft:quartz_stairs 0
+fill ~57~8~49 ~57~8~51 minecraft:stonebrick 3
+setblock ~57~9~49 minecraft:quartz_stairs 0
+setblock ~57~10~49 minecraft:monster_egg 2
+setblock ~57~11~49 minecraft:quartz_stairs 0
+setblock ~3~5~50 minecraft:monster_egg 2
+setblock ~3~6~50 minecraft:sea_lantern
+setblock ~3~7~50 minecraft:monster_egg 2
+setblock ~3~9~50 minecraft:monster_egg 2
+setblock ~3~10~50 minecraft:sea_lantern
+setblock ~3~11~50 minecraft:monster_egg 2
+setblock ~5~3~50 minecraft:quartz_block 0
+setblock ~6~3~50 minecraft:stained_hardened_clay 11
+setblock ~9~3~50 minecraft:stained_hardened_clay 3
+setblock ~10~3~50 minecraft:stained_hardened_clay 6
+setblock ~11~3~50 minecraft:stained_hardened_clay 11
+setblock ~12~3~50 minecraft:stained_hardened_clay 3
+fill ~15~3~50 ~15~3~51 minecraft:stained_hardened_clay 10
+fill ~17~14~50 ~17~14~51 minecraft:quartz_block 0
+setblock ~18~3~50 minecraft:stained_hardened_clay 3
+fill ~18~14~50 ~18~14~51 minecraft:glowstone
+setblock ~19~3~50 minecraft:stained_hardened_clay 11
+fill ~19~14~50 ~19~14~57 minecraft:quartz_block 0
+setblock ~20~3~50 minecraft:stained_hardened_clay 6
+setblock ~21~3~50 minecraft:stained_hardened_clay 3
+setblock ~24~3~50 minecraft:stained_hardened_clay 11
+fill ~24~14~50 ~24~14~52 minecraft:glowstone
+setblock ~25~3~50 minecraft:quartz_block 0
+fill ~25~14~50 ~28~14~50 minecraft:quartz_block 0
+setblock ~26~3~50 minecraft:sea_lantern
+setblock ~29~14~50 minecraft:glowstone
+setblock ~34~3~50 minecraft:sea_lantern
+fill ~34~14~50 ~37~14~50 minecraft:glowstone
+setblock ~35~3~50 minecraft:quartz_block 0
+setblock ~36~3~50 minecraft:stained_hardened_clay 11
+setblock ~39~3~50 minecraft:stained_hardened_clay 3
+setblock ~40~3~50 minecraft:stained_hardened_clay 6
+setblock ~41~3~50 minecraft:stained_hardened_clay 11
+setblock ~42~3~50 minecraft:stained_hardened_clay 3
+fill ~45~3~50 ~45~3~51 minecraft:stained_hardened_clay 10
+setblock ~48~3~50 minecraft:stained_hardened_clay 3
+setblock ~49~3~50 minecraft:stained_hardened_clay 11
+setblock ~50~3~50 minecraft:stained_hardened_clay 6
+setblock ~51~3~50 minecraft:stained_hardened_clay 3
+fill ~52~14~50 ~52~14~51 minecraft:quartz_block 0
+setblock ~54~3~50 minecraft:stained_hardened_clay 11
+setblock ~55~3~50 minecraft:quartz_block 0
+setblock ~57~5~50 minecraft:monster_egg 2
+setblock ~57~6~50 minecraft:sea_lantern
+setblock ~57~7~50 minecraft:monster_egg 2
+setblock ~57~9~50 minecraft:monster_egg 2
+setblock ~57~10~50 minecraft:sea_lantern
+setblock ~57~11~50 minecraft:monster_egg 2
+setblock ~3~5~51 minecraft:quartz_stairs 1
+setblock ~3~6~51 minecraft:monster_egg 2
+setblock ~3~7~51 minecraft:quartz_stairs 1
+setblock ~3~9~51 minecraft:quartz_stairs 1
+setblock ~3~10~51 minecraft:monster_egg 2
+setblock ~3~11~51 minecraft:quartz_stairs 1
+fill ~5~3~51 ~5~3~56 minecraft:stained_hardened_clay 11
+setblock ~6~3~51 minecraft:quartz_block 0
+fill ~7~3~51 ~9~3~51 minecraft:stained_hardened_clay 11
+fill ~8~14~51 ~11~14~51 minecraft:glowstone
+setblock ~10~3~51 minecraft:stained_hardened_clay 3
+setblock ~11~3~51 minecraft:stained_hardened_clay 6
+fill ~12~3~51 ~13~3~51 minecraft:stained_hardened_clay 11
+setblock ~14~3~51 minecraft:stained_hardened_clay 3
+fill ~14~14~51 ~14~14~57 minecraft:quartz_block 0
+setblock ~15~14~51 minecraft:glowstone
+setblock ~16~3~51 minecraft:stained_hardened_clay 3
+setblock ~16~14~51 minecraft:quartz_block 0
+fill ~17~3~51 ~18~3~51 minecraft:stained_hardened_clay 11
+setblock ~19~3~51 minecraft:stained_hardened_clay 6
+setblock ~20~3~51 minecraft:stained_hardened_clay 3
+setblock ~20~5~51 minecraft:stone_block_slab 6
+fill ~21~3~51 ~23~3~51 minecraft:stained_hardened_clay 11
+setblock ~24~3~51 minecraft:quartz_block 0
+fill ~25~3~51 ~25~3~56 minecraft:stained_hardened_clay 11
+fill ~25~14~51 ~26~14~52 minecraft:quartz_block 0
+fill ~26~3~51 ~26~3~56 minecraft:quartz_block 0
+setblock ~27~14~51 minecraft:glowstone
+fill ~28~14~51 ~29~14~51 minecraft:quartz_block 0
+fill ~30~14~51 ~30~14~53 minecraft:glowstone
+fill ~31~14~51 ~31~14~57 minecraft:quartz_block 0
+fill ~33~14~51 ~33~14~53 minecraft:glowstone
+fill ~34~3~51 ~34~3~56 minecraft:quartz_block 0
+fill ~34~14~51 ~37~14~51 minecraft:quartz_block 0
+fill ~35~3~51 ~35~3~56 minecraft:stained_hardened_clay 11
+setblock ~36~3~51 minecraft:quartz_block 0
+fill ~37~3~51 ~39~3~51 minecraft:stained_hardened_clay 11
+setblock ~38~14~51 minecraft:glowstone
+setblock ~40~3~51 minecraft:stained_hardened_clay 3
+setblock ~41~3~51 minecraft:stained_hardened_clay 6
+fill ~42~3~51 ~43~3~51 minecraft:stained_hardened_clay 11
+fill ~43~14~51 ~46~14~51 minecraft:glowstone
+setblock ~44~3~51 minecraft:stained_hardened_clay 3
+setblock ~46~3~51 minecraft:stained_hardened_clay 3
+fill ~47~3~51 ~48~3~51 minecraft:stained_hardened_clay 11
+setblock ~49~3~51 minecraft:stained_hardened_clay 6
+setblock ~50~3~51 minecraft:stained_hardened_clay 3
+fill ~51~3~51 ~53~3~51 minecraft:stained_hardened_clay 11
+setblock ~53~14~51 minecraft:quartz_block 0
+setblock ~54~3~51 minecraft:quartz_block 0
+setblock ~54~14~51 minecraft:glowstone
+fill ~55~3~51 ~55~3~56 minecraft:stained_hardened_clay 11
+fill ~55~14~51 ~55~14~57 minecraft:quartz_block 0
+setblock ~57~5~51 minecraft:quartz_stairs 0
+setblock ~57~6~51 minecraft:monster_egg 2
+setblock ~57~7~51 minecraft:quartz_stairs 0
+setblock ~57~9~51 minecraft:quartz_stairs 0
+setblock ~57~10~51 minecraft:monster_egg 2
+setblock ~57~11~51 minecraft:quartz_stairs 0
+fill ~3~5~52 ~3~11~52 minecraft:quartz_block 2
+setblock ~6~3~52 minecraft:stained_hardened_clay 11
+fill ~7~3~52 ~9~3~52 minecraft:quartz_block 0
+fill ~7~14~52 ~7~14~54 minecraft:glowstone
+fill ~8~14~52 ~11~14~52 minecraft:quartz_block 0
+fill ~10~3~52 ~10~3~54 minecraft:stained_hardened_clay 11
+setblock ~10~7~52 minecraft:stone_block_slab 14
+fill ~11~3~52 ~11~3~54 minecraft:stained_hardened_clay 3
+setblock ~11~7~52 minecraft:ice
+fill ~12~3~52 ~13~3~52 minecraft:stained_hardened_clay 6
+setblock ~12~14~52 minecraft:glowstone
+setblock ~14~3~52 minecraft:stained_hardened_clay 10
+setblock ~14~7~52 minecraft:stone_block_slab 6
+setblock ~15~3~52 minecraft:sea_lantern
+fill ~15~14~52 ~15~14~57 minecraft:quartz_block 0
+setblock ~16~3~52 minecraft:stained_hardened_clay 10
+fill ~16~14~52 ~17~14~52 minecraft:glowstone
+fill ~17~3~52 ~18~3~52 minecraft:stained_hardened_clay 6
+setblock ~17~6~52 minecraft:stone_block_slab 6
+fill ~18~14~52 ~18~14~57 minecraft:quartz_block 0
+fill ~19~3~52 ~19~3~54 minecraft:stained_hardened_clay 3
+fill ~20~3~52 ~20~3~54 minecraft:stained_hardened_clay 11
+fill ~20~14~52 ~20~14~57 minecraft:quartz_block 0
+fill ~21~3~52 ~23~3~52 minecraft:quartz_block 0
+setblock ~24~3~52 minecraft:stained_hardened_clay 11
+fill ~27~14~52 ~27~14~53 minecraft:quartz_block 0
+fill ~28~14~52 ~28~14~53 minecraft:glowstone
+fill ~29~14~52 ~29~14~57 minecraft:quartz_block 0
+setblock ~30~2~52 minecraft:sea_lantern
+fill ~34~14~52 ~35~14~53 minecraft:quartz_block 0
+setblock ~36~3~52 minecraft:stained_hardened_clay 11
+setblock ~36~14~52 minecraft:glowstone
+fill ~37~3~52 ~39~3~52 minecraft:quartz_block 0
+fill ~37~14~52 ~38~14~52 minecraft:quartz_block 0
+fill ~39~14~52 ~39~14~54 minecraft:glowstone
+fill ~40~3~52 ~40~3~54 minecraft:stained_hardened_clay 11
+fill ~40~14~52 ~40~14~57 minecraft:quartz_block 0
+fill ~41~3~52 ~41~3~54 minecraft:stained_hardened_clay 3
+fill ~42~3~52 ~43~3~52 minecraft:stained_hardened_clay 6
+fill ~42~14~52 ~42~14~54 minecraft:glowstone
+fill ~43~14~52 ~46~14~52 minecraft:quartz_block 0
+setblock ~44~3~52 minecraft:stained_hardened_clay 10
+setblock ~45~3~52 minecraft:sea_lantern
+setblock ~46~3~52 minecraft:stained_hardened_clay 10
+fill ~47~3~52 ~48~3~52 minecraft:stained_hardened_clay 6
+setblock ~47~14~52 minecraft:glowstone
+fill ~49~3~52 ~49~3~54 minecraft:stained_hardened_clay 3
+fill ~50~3~52 ~50~3~54 minecraft:stained_hardened_clay 11
+fill ~50~14~52 ~50~14~57 minecraft:quartz_block 0
+fill ~51~3~52 ~53~3~52 minecraft:quartz_block 0
+fill ~51~14~52 ~53~14~52 minecraft:glowstone
+setblock ~54~3~52 minecraft:stained_hardened_clay 11
+fill ~54~14~52 ~54~14~57 minecraft:quartz_block 0
+fill ~57~5~52 ~57~11~52 minecraft:quartz_block 2
+setblock ~3~5~53 minecraft:quartz_stairs 1
+setblock ~3~6~53 minecraft:monster_egg 2
+setblock ~3~7~53 minecraft:quartz_stairs 1
+fill ~3~8~53 ~3~8~55 minecraft:stonebrick 3
+setblock ~3~9~53 minecraft:quartz_stairs 1
+setblock ~3~10~53 minecraft:monster_egg 2
+setblock ~3~11~53 minecraft:quartz_stairs 1
+setblock ~6~3~53 minecraft:stained_hardened_clay 3
+fill ~7~3~53 ~8~3~53 minecraft:stained_hardened_clay 11
+fill ~8~14~53 ~9~14~54 minecraft:quartz_block 0
+fill ~9~3~53 ~9~3~54 minecraft:quartz_block 0
+setblock ~10~14~53 minecraft:glowstone
+fill ~11~14~53 ~12~14~53 minecraft:quartz_block 0
+fill ~12~3~53 ~12~3~55 minecraft:stained_hardened_clay 3
+setblock ~13~3~53 minecraft:stained_hardened_clay 6
+fill ~13~14~53 ~13~14~55 minecraft:glowstone
+setblock ~14~3~53 minecraft:stained_hardened_clay 3
+setblock ~15~3~53 minecraft:stained_hardened_clay 10
+setblock ~16~3~53 minecraft:stained_hardened_clay 3
+fill ~16~14~53 ~17~14~57 minecraft:quartz_block 0
+setblock ~17~3~53 minecraft:stained_hardened_clay 6
+fill ~18~3~53 ~18~3~55 minecraft:stained_hardened_clay 3
+fill ~21~3~53 ~21~3~54 minecraft:quartz_block 0
+fill ~22~3~53 ~23~3~53 minecraft:stained_hardened_clay 11
+setblock ~24~3~53 minecraft:stained_hardened_clay 3
+fill ~24~14~53 ~24~14~57 minecraft:quartz_block 0
+setblock ~25~14~53 minecraft:glowstone
+setblock ~26~14~53 minecraft:quartz_block 0
+fill ~30~2~53 ~30~2~56 minecraft:stained_hardened_clay 3
+setblock ~36~3~53 minecraft:stained_hardened_clay 3
+fill ~36~14~53 ~36~14~54 minecraft:quartz_block 0
+fill ~37~3~53 ~38~3~53 minecraft:stained_hardened_clay 11
+fill ~37~14~53 ~37~14~54 minecraft:glowstone
+fill ~38~14~53 ~38~14~57 minecraft:quartz_block 0
+fill ~39~3~53 ~39~3~54 minecraft:quartz_block 0
+fill ~42~3~53 ~42~3~55 minecraft:stained_hardened_clay 3
+setblock ~43~3~53 minecraft:stained_hardened_clay 6
+fill ~43~14~53 ~44~14~54 minecraft:quartz_block 0
+setblock ~44~3~53 minecraft:stained_hardened_clay 3
+setblock ~45~3~53 minecraft:stained_hardened_clay 10
+setblock ~45~14~53 minecraft:glowstone
+setblock ~46~3~53 minecraft:stained_hardened_clay 3
+fill ~46~14~53 ~47~14~53 minecraft:quartz_block 0
+setblock ~47~3~53 minecraft:stained_hardened_clay 6
+fill ~48~3~53 ~48~3~55 minecraft:stained_hardened_clay 3
+fill ~48~14~53 ~48~14~55 minecraft:glowstone
+fill ~51~3~53 ~51~3~54 minecraft:quartz_block 0
+fill ~51~14~53 ~53~14~57 minecraft:quartz_block 0
+fill ~52~3~53 ~53~3~53 minecraft:stained_hardened_clay 11
+setblock ~54~3~53 minecraft:stained_hardened_clay 3
+setblock ~57~5~53 minecraft:quartz_stairs 0
+setblock ~57~6~53 minecraft:monster_egg 2
+setblock ~57~7~53 minecraft:quartz_stairs 0
+fill ~57~8~53 ~57~8~55 minecraft:stonebrick 3
+setblock ~57~9~53 minecraft:quartz_stairs 0
+setblock ~57~10~53 minecraft:monster_egg 2
+setblock ~57~11~53 minecraft:quartz_stairs 0
+setblock ~3~5~54 minecraft:monster_egg 2
+setblock ~3~6~54 minecraft:sea_lantern
+setblock ~3~7~54 minecraft:monster_egg 2
+setblock ~3~9~54 minecraft:monster_egg 2
+setblock ~3~10~54 minecraft:sea_lantern
+setblock ~3~11~54 minecraft:monster_egg 2
+fill ~6~3~54 ~6~3~55 minecraft:stained_hardened_clay 6
+setblock ~7~3~54 minecraft:stained_hardened_clay 3
+setblock ~8~3~54 minecraft:stained_hardened_clay 11
+fill ~10~14~54 ~10~14~55 minecraft:quartz_block 0
+fill ~11~14~54 ~11~14~55 minecraft:glowstone
+fill ~12~14~54 ~12~14~57 minecraft:quartz_block 0
+fill ~13~3~54 ~13~3~55 minecraft:stained_hardened_clay 3
+fill ~14~3~54 ~16~3~54 minecraft:stained_hardened_clay 6
+fill ~17~3~54 ~17~3~55 minecraft:stained_hardened_clay 3
+setblock ~22~3~54 minecraft:stained_hardened_clay 11
+setblock ~23~3~54 minecraft:stained_hardened_clay 3
+fill ~24~3~54 ~24~3~55 minecraft:stained_hardened_clay 6
+fill ~25~14~54 ~25~14~57 minecraft:quartz_block 0
+fill ~26~14~54 ~27~14~54 minecraft:glowstone
+fill ~28~14~54 ~28~14~57 minecraft:quartz_block 0
+fill ~30~14~54 ~30~14~57 minecraft:quartz_block 0
+fill ~33~14~54 ~33~14~57 minecraft:quartz_block 0
+setblock ~34~14~54 minecraft:glowstone
+setblock ~35~14~54 minecraft:quartz_block 0
+fill ~36~3~54 ~36~3~55 minecraft:stained_hardened_clay 6
+setblock ~37~3~54 minecraft:stained_hardened_clay 3
+setblock ~38~3~54 minecraft:stained_hardened_clay 11
+fill ~43~3~54 ~43~3~55 minecraft:stained_hardened_clay 3
+fill ~44~3~54 ~46~3~54 minecraft:stained_hardened_clay 6
+fill ~45~14~54 ~45~14~55 minecraft:quartz_block 0
+fill ~46~14~54 ~46~14~55 minecraft:glowstone
+fill ~47~3~54 ~47~3~55 minecraft:stained_hardened_clay 3
+fill ~47~14~54 ~47~14~57 minecraft:quartz_block 0
+setblock ~52~3~54 minecraft:stained_hardened_clay 11
+setblock ~53~3~54 minecraft:stained_hardened_clay 3
+fill ~54~3~54 ~54~3~55 minecraft:stained_hardened_clay 6
+setblock ~57~5~54 minecraft:monster_egg 2
+setblock ~57~6~54 minecraft:sea_lantern
+setblock ~57~7~54 minecraft:monster_egg 2
+setblock ~57~9~54 minecraft:monster_egg 2
+setblock ~57~10~54 minecraft:sea_lantern
+setblock ~57~11~54 minecraft:monster_egg 2
+setblock ~3~5~55 minecraft:quartz_stairs 1
+setblock ~3~6~55 minecraft:monster_egg 2
+setblock ~3~7~55 minecraft:quartz_stairs 1
+setblock ~3~9~55 minecraft:quartz_stairs 1
+setblock ~3~10~55 minecraft:monster_egg 2
+setblock ~3~11~55 minecraft:quartz_stairs 1
+setblock ~7~3~55 minecraft:stained_hardened_clay 6
+fill ~7~14~55 ~7~14~57 minecraft:quartz_block 0
+setblock ~8~3~55 minecraft:stained_hardened_clay 3
+setblock ~8~14~55 minecraft:glowstone
+fill ~9~3~55 ~9~3~56 minecraft:stained_hardened_clay 11
+setblock ~9~14~55 minecraft:quartz_block 0
+setblock ~10~3~55 minecraft:quartz_block 0
+setblock ~11~3~55 minecraft:stained_hardened_clay 11
+fill ~14~3~55 ~16~3~55 minecraft:stained_hardened_clay 3
+setblock ~19~3~55 minecraft:stained_hardened_clay 11
+setblock ~20~3~55 minecraft:quartz_block 0
+fill ~21~3~55 ~21~3~56 minecraft:stained_hardened_clay 11
+setblock ~22~3~55 minecraft:stained_hardened_clay 3
+setblock ~23~3~55 minecraft:stained_hardened_clay 6
+fill ~26~14~55 ~27~14~57 minecraft:quartz_block 0
+fill ~34~14~55 ~34~14~57 minecraft:quartz_block 0
+fill ~35~14~55 ~36~14~55 minecraft:glowstone
+setblock ~37~3~55 minecraft:stained_hardened_clay 6
+fill ~37~14~55 ~37~14~57 minecraft:quartz_block 0
+setblock ~38~3~55 minecraft:stained_hardened_clay 3
+fill ~39~3~55 ~39~3~56 minecraft:stained_hardened_clay 11
+fill ~39~14~55 ~39~14~57 minecraft:quartz_block 0
+setblock ~40~3~55 minecraft:quartz_block 0
+setblock ~41~3~55 minecraft:stained_hardened_clay 11
+fill ~42~14~55 ~42~14~57 minecraft:quartz_block 0
+setblock ~43~14~55 minecraft:glowstone
+fill ~44~3~55 ~46~3~55 minecraft:stained_hardened_clay 3
+setblock ~44~14~55 minecraft:quartz_block 0
+setblock ~49~3~55 minecraft:stained_hardened_clay 11
+setblock ~50~3~55 minecraft:quartz_block 0
+fill ~51~3~55 ~51~3~56 minecraft:stained_hardened_clay 11
+setblock ~52~3~55 minecraft:stained_hardened_clay 3
+setblock ~53~3~55 minecraft:stained_hardened_clay 6
+setblock ~57~5~55 minecraft:quartz_stairs 0
+setblock ~57~6~55 minecraft:monster_egg 2
+setblock ~57~7~55 minecraft:quartz_stairs 0
+setblock ~57~9~55 minecraft:quartz_stairs 0
+setblock ~57~10~55 minecraft:monster_egg 2
+setblock ~57~11~55 minecraft:quartz_stairs 0
+fill ~3~5~56 ~3~11~56 minecraft:quartz_block 2
+fill ~6~3~56 ~8~3~56 minecraft:stained_hardened_clay 11
+fill ~8~14~56 ~8~14~57 minecraft:quartz_block 0
+fill ~9~14~56 ~10~14~56 minecraft:glowstone
+setblock ~10~3~56 minecraft:stained_hardened_clay 11
+fill ~11~3~56 ~11~3~58 minecraft:quartz_block 0
+fill ~11~14~56 ~11~14~57 minecraft:quartz_block 0
+fill ~12~3~56 ~18~3~56 minecraft:stained_hardened_clay 11
+fill ~13~14~56 ~13~14~57 minecraft:quartz_block 0
+fill ~19~3~56 ~19~3~58 minecraft:quartz_block 0
+setblock ~20~3~56 minecraft:stained_hardened_clay 11
+fill ~22~3~56 ~24~3~56 minecraft:stained_hardened_clay 11
+fill ~35~14~56 ~36~14~57 minecraft:quartz_block 0
+fill ~36~3~56 ~38~3~56 minecraft:stained_hardened_clay 11
+setblock ~40~3~56 minecraft:stained_hardened_clay 11
+fill ~41~3~56 ~41~3~58 minecraft:quartz_block 0
+fill ~42~3~56 ~48~3~56 minecraft:stained_hardened_clay 11
+fill ~43~14~56 ~43~14~57 minecraft:quartz_block 0
+fill ~44~14~56 ~45~14~56 minecraft:glowstone
+fill ~46~14~56 ~46~14~57 minecraft:quartz_block 0
+fill ~48~14~56 ~48~14~57 minecraft:quartz_block 0
+fill ~49~3~56 ~49~3~58 minecraft:quartz_block 0
+setblock ~50~3~56 minecraft:stained_hardened_clay 11
+fill ~52~3~56 ~54~3~56 minecraft:stained_hardened_clay 11
+fill ~57~5~56 ~57~11~56 minecraft:quartz_block 2
+fill ~3~5~57 ~3~7~57 minecraft:monster_egg 2
+setblock ~3~8~57 minecraft:stonebrick 3
+fill ~3~9~57 ~3~11~57 minecraft:monster_egg 2
+fill ~5~3~57 ~10~3~58 minecraft:quartz_block 0
+fill ~9~14~57 ~10~14~57 minecraft:quartz_block 0
+fill ~12~3~57 ~18~3~58 minecraft:quartz_block 0
+fill ~20~3~57 ~25~3~58 minecraft:quartz_block 0
+setblock ~26~3~57 minecraft:sea_lantern
+setblock ~30~2~57 minecraft:sea_lantern
+setblock ~34~3~57 minecraft:sea_lantern
+fill ~35~3~57 ~40~3~58 minecraft:quartz_block 0
+fill ~42~3~57 ~48~3~58 minecraft:quartz_block 0
+fill ~44~14~57 ~45~14~57 minecraft:quartz_block 0
+fill ~50~3~57 ~55~3~58 minecraft:quartz_block 0
+fill ~57~5~57 ~57~7~57 minecraft:monster_egg 2
+setblock ~57~8~57 minecraft:stonebrick 3
+fill ~57~9~57 ~57~11~57 minecraft:monster_egg 2
+fill ~3~3~58 ~3~13~58 minecraft:quartz_block 2
+setblock ~3~14~58 minecraft:quartz_block 0
+fill ~4~4~58 ~26~4~58 minecraft:double_stone_block_slab 0
+fill ~4~5~58 ~4~7~58 minecraft:monster_egg 2
+setblock ~4~8~58 minecraft:stonebrick 3
+fill ~4~9~58 ~4~11~58 minecraft:monster_egg 2
+fill ~4~12~58 ~26~12~58 minecraft:double_stone_block_slab 0
+fill ~4~13~58 ~56~14~58 minecraft:quartz_block 2
+fill ~5~5~58 ~5~11~58 minecraft:quartz_block 2
+setblock ~6~5~58 minecraft:quartz_stairs 2
+setblock ~6~6~58 minecraft:monster_egg 2
+setblock ~6~7~58 minecraft:quartz_stairs 2
+fill ~6~8~58 ~8~8~58 minecraft:stonebrick 3
+setblock ~6~9~58 minecraft:quartz_stairs 2
+setblock ~6~10~58 minecraft:monster_egg 2
+setblock ~6~11~58 minecraft:quartz_stairs 2
+setblock ~7~5~58 minecraft:monster_egg 2
+setblock ~7~6~58 minecraft:sea_lantern
+setblock ~7~7~58 minecraft:monster_egg 2
+setblock ~7~9~58 minecraft:monster_egg 2
+setblock ~7~10~58 minecraft:sea_lantern
+setblock ~7~11~58 minecraft:monster_egg 2
+setblock ~8~5~58 minecraft:quartz_stairs 2
+setblock ~8~6~58 minecraft:monster_egg 2
+setblock ~8~7~58 minecraft:quartz_stairs 2
+setblock ~8~9~58 minecraft:quartz_stairs 2
+setblock ~8~10~58 minecraft:monster_egg 2
+setblock ~8~11~58 minecraft:quartz_stairs 2
+fill ~9~5~58 ~9~11~58 minecraft:quartz_block 2
+setblock ~10~5~58 minecraft:quartz_stairs 2
+setblock ~10~6~58 minecraft:monster_egg 2
+setblock ~10~7~58 minecraft:quartz_stairs 2
+fill ~10~8~58 ~12~8~58 minecraft:stonebrick 3
+setblock ~10~9~58 minecraft:quartz_stairs 2
+setblock ~10~10~58 minecraft:monster_egg 2
+setblock ~10~11~58 minecraft:quartz_stairs 2
+setblock ~11~5~58 minecraft:monster_egg 2
+setblock ~11~6~58 minecraft:sea_lantern
+setblock ~11~7~58 minecraft:monster_egg 2
+setblock ~11~9~58 minecraft:monster_egg 2
+setblock ~11~10~58 minecraft:sea_lantern
+setblock ~11~11~58 minecraft:monster_egg 2
+setblock ~12~5~58 minecraft:quartz_stairs 2
+setblock ~12~6~58 minecraft:monster_egg 2
+setblock ~12~7~58 minecraft:quartz_stairs 2
+setblock ~12~9~58 minecraft:quartz_stairs 2
+setblock ~12~10~58 minecraft:monster_egg 2
+setblock ~12~11~58 minecraft:quartz_stairs 2
+fill ~13~5~58 ~13~11~58 minecraft:quartz_block 2
+setblock ~14~5~58 minecraft:quartz_stairs 2
+setblock ~14~6~58 minecraft:monster_egg 2
+setblock ~14~7~58 minecraft:quartz_stairs 2
+fill ~14~8~58 ~16~8~58 minecraft:stonebrick 3
+setblock ~14~9~58 minecraft:quartz_stairs 2
+setblock ~14~10~58 minecraft:monster_egg 2
+setblock ~14~11~58 minecraft:quartz_stairs 2
+setblock ~15~5~58 minecraft:monster_egg 2
+setblock ~15~6~58 minecraft:sea_lantern
+setblock ~15~7~58 minecraft:monster_egg 2
+setblock ~15~9~58 minecraft:monster_egg 2
+setblock ~15~10~58 minecraft:sea_lantern
+setblock ~15~11~58 minecraft:monster_egg 2
+setblock ~16~5~58 minecraft:quartz_stairs 2
+setblock ~16~6~58 minecraft:monster_egg 2
+setblock ~16~7~58 minecraft:quartz_stairs 2
+setblock ~16~9~58 minecraft:quartz_stairs 2
+setblock ~16~10~58 minecraft:monster_egg 2
+setblock ~16~11~58 minecraft:quartz_stairs 2
+fill ~17~5~58 ~17~11~58 minecraft:quartz_block 2
+setblock ~18~5~58 minecraft:quartz_stairs 2
+setblock ~18~6~58 minecraft:monster_egg 2
+setblock ~18~7~58 minecraft:quartz_stairs 2
+fill ~18~8~58 ~20~8~58 minecraft:stonebrick 3
+setblock ~18~9~58 minecraft:quartz_stairs 2
+setblock ~18~10~58 minecraft:monster_egg 2
+setblock ~18~11~58 minecraft:quartz_stairs 2
+setblock ~19~5~58 minecraft:monster_egg 2
+setblock ~19~6~58 minecraft:sea_lantern
+setblock ~19~7~58 minecraft:monster_egg 2
+setblock ~19~9~58 minecraft:monster_egg 2
+setblock ~19~10~58 minecraft:sea_lantern
+setblock ~19~11~58 minecraft:monster_egg 2
+setblock ~20~5~58 minecraft:quartz_stairs 2
+setblock ~20~6~58 minecraft:monster_egg 2
+setblock ~20~7~58 minecraft:quartz_stairs 2
+setblock ~20~9~58 minecraft:quartz_stairs 2
+setblock ~20~10~58 minecraft:monster_egg 2
+setblock ~20~11~58 minecraft:quartz_stairs 2
+fill ~21~5~58 ~21~11~58 minecraft:quartz_block 2
+setblock ~22~5~58 minecraft:quartz_stairs 2
+setblock ~22~6~58 minecraft:monster_egg 2
+setblock ~22~7~58 minecraft:quartz_stairs 2
+fill ~22~8~58 ~24~8~58 minecraft:stonebrick 3
+setblock ~22~9~58 minecraft:quartz_stairs 2
+setblock ~22~10~58 minecraft:monster_egg 2
+setblock ~22~11~58 minecraft:quartz_stairs 2
+setblock ~23~5~58 minecraft:monster_egg 2
+setblock ~23~6~58 minecraft:sea_lantern
+setblock ~23~7~58 minecraft:monster_egg 2
+setblock ~23~9~58 minecraft:monster_egg 2
+setblock ~23~10~58 minecraft:sea_lantern
+setblock ~23~11~58 minecraft:monster_egg 2
+setblock ~24~5~58 minecraft:quartz_stairs 2
+setblock ~24~6~58 minecraft:monster_egg 2
+setblock ~24~7~58 minecraft:quartz_stairs 2
+setblock ~24~9~58 minecraft:quartz_stairs 2
+setblock ~24~10~58 minecraft:monster_egg 2
+setblock ~24~11~58 minecraft:quartz_stairs 2
+fill ~25~5~58 ~25~11~58 minecraft:quartz_block 2
+setblock ~26~3~58 minecraft:quartz_block 0
+fill ~26~5~58 ~26~7~58 minecraft:monster_egg 2
+setblock ~26~8~58 minecraft:stonebrick 3
+fill ~26~9~58 ~26~11~58 minecraft:monster_egg 2
+fill ~27~3~58 ~27~3~59 minecraft:quartz_block 2
+fill ~27~4~58 ~27~5~58 minecraft:quartz_block 2
+setblock ~27~6~58 minecraft:sea_lantern
+fill ~27~7~58 ~27~9~58 minecraft:quartz_block 2
+setblock ~27~10~58 minecraft:monster_egg 2
+setblock ~27~11~58 minecraft:stonebrick 3
+fill ~27~12~58 ~33~12~58 minecraft:monster_egg 2
+setblock ~28~2~58 minecraft:quartz_block 2
+fill ~28~3~58 ~32~3~58 minecraft:quartz_stairs 2
+setblock ~28~10~58 minecraft:quartz_block 2
+setblock ~28~11~58 minecraft:monster_egg 2
+fill ~29~2~58 ~31~2~59 minecraft:quartz_block 0
+setblock ~29~11~58 minecraft:quartz_block 2
+setblock ~30~11~58 minecraft:quartz_block 2
+setblock ~31~11~58 minecraft:quartz_block 2
+setblock ~32~2~58 minecraft:quartz_block 2
+setblock ~32~10~58 minecraft:quartz_block 2
+setblock ~32~11~58 minecraft:monster_egg 2
+fill ~33~3~58 ~33~3~59 minecraft:quartz_block 2
+fill ~33~4~58 ~33~5~58 minecraft:quartz_block 2
+setblock ~33~6~58 minecraft:sea_lantern
+fill ~33~7~58 ~33~9~58 minecraft:quartz_block 2
+fill ~33~10~58 ~34~10~58 minecraft:monster_egg 2
+setblock ~33~11~58 minecraft:stonebrick 3
+setblock ~34~3~58 minecraft:quartz_block 0
+fill ~34~4~58 ~56~4~58 minecraft:double_stone_block_slab 0
+fill ~34~5~58 ~34~7~58 minecraft:monster_egg 2
+setblock ~34~8~58 minecraft:stonebrick 3
+setblock ~34~9~58 minecraft:monster_egg 2
+setblock ~34~11~58 minecraft:monster_egg 2
+fill ~34~12~58 ~56~12~58 minecraft:double_stone_block_slab 0
+fill ~35~5~58 ~35~11~58 minecraft:quartz_block 2
+setblock ~36~5~58 minecraft:quartz_stairs 2
+setblock ~36~6~58 minecraft:monster_egg 2
+setblock ~36~7~58 minecraft:quartz_stairs 2
+fill ~36~8~58 ~38~8~58 minecraft:stonebrick 3
+setblock ~36~9~58 minecraft:quartz_stairs 2
+setblock ~36~10~58 minecraft:monster_egg 2
+setblock ~36~11~58 minecraft:quartz_stairs 2
+setblock ~37~5~58 minecraft:monster_egg 2
+setblock ~37~6~58 minecraft:sea_lantern
+setblock ~37~7~58 minecraft:monster_egg 2
+setblock ~37~9~58 minecraft:monster_egg 2
+setblock ~37~10~58 minecraft:sea_lantern
+setblock ~37~11~58 minecraft:monster_egg 2
+setblock ~38~5~58 minecraft:quartz_stairs 2
+setblock ~38~6~58 minecraft:monster_egg 2
+setblock ~38~7~58 minecraft:quartz_stairs 2
+setblock ~38~9~58 minecraft:quartz_stairs 2
+setblock ~38~10~58 minecraft:monster_egg 2
+setblock ~38~11~58 minecraft:quartz_stairs 2
+fill ~39~5~58 ~39~11~58 minecraft:quartz_block 2
+setblock ~40~5~58 minecraft:quartz_stairs 2
+setblock ~40~6~58 minecraft:monster_egg 2
+setblock ~40~7~58 minecraft:quartz_stairs 2
+fill ~40~8~58 ~42~8~58 minecraft:stonebrick 3
+setblock ~40~9~58 minecraft:quartz_stairs 2
+setblock ~40~10~58 minecraft:monster_egg 2
+setblock ~40~11~58 minecraft:quartz_stairs 2
+setblock ~41~5~58 minecraft:monster_egg 2
+setblock ~41~6~58 minecraft:sea_lantern
+setblock ~41~7~58 minecraft:monster_egg 2
+setblock ~41~9~58 minecraft:monster_egg 2
+setblock ~41~10~58 minecraft:sea_lantern
+setblock ~41~11~58 minecraft:monster_egg 2
+setblock ~42~5~58 minecraft:quartz_stairs 2
+setblock ~42~6~58 minecraft:monster_egg 2
+setblock ~42~7~58 minecraft:quartz_stairs 2
+setblock ~42~9~58 minecraft:quartz_stairs 2
+setblock ~42~10~58 minecraft:monster_egg 2
+setblock ~42~11~58 minecraft:quartz_stairs 2
+fill ~43~5~58 ~43~11~58 minecraft:quartz_block 2
+setblock ~44~5~58 minecraft:quartz_stairs 2
+setblock ~44~6~58 minecraft:monster_egg 2
+setblock ~44~7~58 minecraft:quartz_stairs 2
+fill ~44~8~58 ~46~8~58 minecraft:stonebrick 3
+setblock ~44~9~58 minecraft:quartz_stairs 2
+setblock ~44~10~58 minecraft:monster_egg 2
+setblock ~44~11~58 minecraft:quartz_stairs 2
+setblock ~45~5~58 minecraft:monster_egg 2
+setblock ~45~6~58 minecraft:sea_lantern
+setblock ~45~7~58 minecraft:monster_egg 2
+setblock ~45~9~58 minecraft:monster_egg 2
+setblock ~45~10~58 minecraft:sea_lantern
+setblock ~45~11~58 minecraft:monster_egg 2
+setblock ~46~5~58 minecraft:quartz_stairs 2
+setblock ~46~6~58 minecraft:monster_egg 2
+setblock ~46~7~58 minecraft:quartz_stairs 2
+setblock ~46~9~58 minecraft:quartz_stairs 2
+setblock ~46~10~58 minecraft:monster_egg 2
+setblock ~46~11~58 minecraft:quartz_stairs 2
+fill ~47~5~58 ~47~11~58 minecraft:quartz_block 2
+setblock ~48~5~58 minecraft:quartz_stairs 2
+setblock ~48~6~58 minecraft:monster_egg 2
+setblock ~48~7~58 minecraft:quartz_stairs 2
+fill ~48~8~58 ~50~8~58 minecraft:stonebrick 3
+setblock ~48~9~58 minecraft:quartz_stairs 2
+setblock ~48~10~58 minecraft:monster_egg 2
+setblock ~48~11~58 minecraft:quartz_stairs 2
+setblock ~49~5~58 minecraft:monster_egg 2
+setblock ~49~6~58 minecraft:sea_lantern
+setblock ~49~7~58 minecraft:monster_egg 2
+setblock ~49~9~58 minecraft:monster_egg 2
+setblock ~49~10~58 minecraft:sea_lantern
+setblock ~49~11~58 minecraft:monster_egg 2
+setblock ~50~5~58 minecraft:quartz_stairs 2
+setblock ~50~6~58 minecraft:monster_egg 2
+setblock ~50~7~58 minecraft:quartz_stairs 2
+setblock ~50~9~58 minecraft:quartz_stairs 2
+setblock ~50~10~58 minecraft:monster_egg 2
+setblock ~50~11~58 minecraft:quartz_stairs 2
+fill ~51~5~58 ~51~11~58 minecraft:quartz_block 2
+setblock ~52~5~58 minecraft:quartz_stairs 2
+setblock ~52~6~58 minecraft:monster_egg 2
+setblock ~52~7~58 minecraft:quartz_stairs 2
+fill ~52~8~58 ~54~8~58 minecraft:stonebrick 3
+setblock ~52~9~58 minecraft:quartz_stairs 2
+setblock ~52~10~58 minecraft:monster_egg 2
+setblock ~52~11~58 minecraft:quartz_stairs 2
+setblock ~53~5~58 minecraft:monster_egg 2
+setblock ~53~6~58 minecraft:sea_lantern
+setblock ~53~7~58 minecraft:monster_egg 2
+setblock ~53~9~58 minecraft:monster_egg 2
+setblock ~53~10~58 minecraft:sea_lantern
+setblock ~53~11~58 minecraft:monster_egg 2
+setblock ~54~5~58 minecraft:quartz_stairs 2
+setblock ~54~6~58 minecraft:monster_egg 2
+setblock ~54~7~58 minecraft:quartz_stairs 2
+setblock ~54~9~58 minecraft:quartz_stairs 2
+setblock ~54~10~58 minecraft:monster_egg 2
+setblock ~54~11~58 minecraft:quartz_stairs 2
+fill ~55~5~58 ~55~11~58 minecraft:quartz_block 2
+fill ~56~5~58 ~56~7~58 minecraft:monster_egg 2
+setblock ~56~8~58 minecraft:stonebrick 3
+fill ~56~9~58 ~56~11~58 minecraft:monster_egg 2
+fill ~57~3~58 ~57~12~58 minecraft:quartz_block 2
+setblock ~57~14~58 minecraft:quartz_block 0
+fill ~27~4~59 ~27~9~59 minecraft:quartz_block 0
+setblock ~27~10~59 minecraft:quartz_block 2
+setblock ~28~2~59 minecraft:quartz_block 0
+fill ~28~3~59 ~32~9~59 minecraft:water 0
+setblock ~28~10~59 minecraft:quartz_block 0
+fill ~29~10~59 ~31~10~59 minecraft:water 0
+setblock ~29~11~59 minecraft:quartz_block 0
+setblock ~30~11~59 minecraft:quartz_block 2
+setblock ~31~11~59 minecraft:quartz_block 0
+setblock ~32~2~59 minecraft:quartz_block 0
+setblock ~32~10~59 minecraft:quartz_block 0
+fill ~33~4~59 ~33~8~59 minecraft:quartz_block 0
+setblock ~33~9~59 minecraft:quartz_block 2
+fill ~28~3~60 ~32~3~60 minecraft:quartz_block 2
+fill ~28~4~60 ~29~9~60 minecraft:quartz_block 0
+fill ~28~10~60 ~32~10~60 minecraft:quartz_block 2
+fill ~30~4~60 ~30~9~60 minecraft:quartz_block 2
+setblock ~30~11~60 minecraft:quartz_block 2
+fill ~31~4~60 ~32~9~60 minecraft:quartz_block 0

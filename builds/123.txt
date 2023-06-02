@@ -1,0 +1,947 @@
+fill ~1~0~1 ~16~1~1 minecraft:dirt 0
+fill ~1~2~1 ~11~2~3 minecraft:grass
+setblock ~11~3~1 minecraft:tallgrass 0
+fill ~12~2~1 ~12~2~3 minecraft:dirt 0
+fill ~12~3~1 ~12~3~3 minecraft:stone_block_slab 0
+fill ~13~2~1 ~13~2~3 minecraft:log 0
+fill ~14~2~1 ~15~2~1 minecraft:sandstone 0
+fill ~16~2~1 ~16~2~2 minecraft:sandstone 1
+fill ~17~0~1 ~17~0~2 minecraft:redstone_block
+fill ~17~1~1 ~17~1~2 minecraft:lit_redstone_lamp
+fill ~17~2~1 ~17~2~2 minecraft:glass
+fill ~18~0~1 ~22~0~37 minecraft:dirt 0
+fill ~18~1~1 ~22~1~29 minecraft:dirt 0
+fill ~18~2~1 ~18~2~2 minecraft:sandstone 1
+fill ~19~2~1 ~21~2~8 minecraft:sandstone 0
+fill ~22~2~1 ~22~2~2 minecraft:sandstone 1
+fill ~23~0~1 ~23~0~2 minecraft:redstone_block
+fill ~23~1~1 ~23~1~2 minecraft:lit_redstone_lamp
+fill ~23~2~1 ~23~2~2 minecraft:glass
+fill ~24~0~1 ~37~1~1 minecraft:dirt 0
+fill ~24~2~1 ~24~2~2 minecraft:sandstone 1
+fill ~25~2~1 ~26~2~1 minecraft:sandstone 0
+fill ~27~2~1 ~27~2~3 minecraft:log 0
+fill ~28~2~1 ~28~2~3 minecraft:dirt 0
+fill ~28~3~1 ~28~3~3 minecraft:stone_block_slab 0
+fill ~29~2~1 ~37~2~7 minecraft:grass
+setblock ~31~3~1 minecraft:tallgrass 0
+setblock ~34~3~1 minecraft:tallgrass 0
+setblock ~37~3~1 minecraft:tallgrass 0
+fill ~1~0~2 ~13~0~3 minecraft:dirt 0
+fill ~1~1~2 ~13~1~2 minecraft:dirt 0
+fill ~4~3~2 ~5~3~2 minecraft:tallgrass 0
+fill ~14~0~2 ~15~2~2 minecraft:sandstone 1
+setblock ~16~0~2 minecraft:dirt 0
+setblock ~16~1~2 sandstone
+fill ~24~0~2 ~26~1~2 minecraft:sandstone 1
+fill ~25~2~2 ~26~2~2 minecraft:sandstone 1
+fill ~27~0~2 ~37~1~4 minecraft:dirt 0
+setblock ~29~3~2 minecraft:tallgrass 0
+setblock ~33~3~2 minecraft:tallgrass 0
+setblock ~36~3~2 minecraft:tallgrass 0
+fill ~1~1~3 ~12~1~3 minecraft:dirt 0
+setblock ~5~3~3 minecraft:tallgrass 0
+setblock ~7~3~3 minecraft:tallgrass 0
+setblock ~10~3~3 minecraft:tallgrass 0
+setblock ~13~1~3 sandstone
+fill ~14~0~3 ~16~0~3 minecraft:redstone_block
+fill ~14~1~3 ~16~1~3 minecraft:lit_redstone_lamp
+fill ~14~2~3 ~16~2~3 minecraft:glass
+fill ~17~0~3 ~17~0~37 minecraft:dirt 0
+setblock ~17~1~3 sandstone
+setblock ~17~2~3 minecraft:sandstone 1
+fill ~18~2~3 ~18~2~8 minecraft:sandstone 0
+fill ~22~2~3 ~22~2~8 minecraft:sandstone 0
+fill ~23~0~3 ~23~1~37 minecraft:dirt 0
+setblock ~23~2~3 minecraft:sandstone 1
+fill ~24~0~3 ~26~0~3 minecraft:redstone_block
+fill ~24~1~3 ~26~1~3 minecraft:lit_redstone_lamp
+fill ~24~2~3 ~26~2~3 minecraft:glass
+setblock ~32~3~3 minecraft:tallgrass 0
+setblock ~35~3~3 minecraft:tallgrass 0
+fill ~1~0~4 ~4~1~6 minecraft:dirt 0
+fill ~1~2~4 ~4~2~18 minecraft:grass
+fill ~3~3~4 ~11~3~4 minecraft:fence 0
+fill ~5~0~4 ~12~1~4 minecraft:sandstone 0
+fill ~5~2~4 ~11~2~4 minecraft:stonebrick 3
+setblock ~12~2~4 minecraft:double_stone_block_slab 0
+fill ~13~0~4 ~16~0~4 minecraft:dirt 0
+fill ~13~1~4 ~13~1~7 minecraft:sandstone 0
+fill ~13~2~4 ~13~2~7 minecraft:sandstone 1
+fill ~13~3~4 ~16~3~4 minecraft:sandstone 0
+fill ~13~4~4 ~13~6~4 minecraft:sandstone 0
+fill ~13~7~4 ~15~7~7 minecraft:stone_block_slab 1
+fill ~14~1~4 ~16~1~4 sandstone
+fill ~14~2~4 ~16~2~4 minecraft:log 0
+fill ~14~4~4 ~16~4~4 minecraft:sandstone 1
+fill ~14~5~4 ~16~6~4 minecraft:sandstone 0
+fill ~16~7~4 ~17~7~10 minecraft:sandstone 0
+fill ~17~1~4 ~17~1~37 minecraft:dirt 0
+setblock ~17~2~4 minecraft:dirt 0
+fill ~17~3~4 ~17~6~4 minecraft:log 0
+setblock ~18~7~4 minecraft:log 0
+setblock ~18~8~4 minecraft:double_stone_block_slab 1
+fill ~19~8~4 ~21~8~4 minecraft:log 0
+fill ~19~9~4 ~21~9~4 minecraft:stone_block_slab 1
+setblock ~22~7~4 minecraft:log 0
+setblock ~22~8~4 minecraft:double_stone_block_slab 1
+setblock ~23~2~4 minecraft:dirt 0
+fill ~23~3~4 ~23~6~4 minecraft:log 0
+fill ~23~7~4 ~24~7~12 minecraft:sandstone 0
+setblock ~23~8~4 minecraft:stone_block_slab 1
+fill ~24~0~4 ~26~0~37 minecraft:dirt 0
+fill ~24~1~4 ~26~1~10 minecraft:dirt 0
+fill ~24~2~4 ~26~2~4 minecraft:log 0
+fill ~24~3~4 ~27~3~4 minecraft:sandstone 0
+fill ~24~4~4 ~26~4~4 minecraft:sandstone 1
+fill ~24~5~4 ~27~6~4 minecraft:sandstone 0
+fill ~25~7~4 ~27~7~5 minecraft:stone_block_slab 1
+setblock ~27~2~4 minecraft:dirt 0
+fill ~27~4~4 ~27~4~7 minecraft:sandstone 0
+setblock ~28~2~4 minecraft:double_stone_block_slab 0
+fill ~3~3~5 ~3~3~22 minecraft:fence 0
+fill ~5~0~5 ~12~0~7 minecraft:cobblestone
+fill ~5~1~5 ~12~2~7 minecraft:air
+fill ~13~0~5 ~13~0~7 minecraft:sandstone 0
+fill ~13~3~5 ~13~3~10 minecraft:sandstone 0
+fill ~13~4~5 ~13~4~7 minecraft:sandstone 1
+fill ~13~5~5 ~13~6~8 minecraft:sandstone 0
+fill ~14~0~5 ~16~0~37 minecraft:dirt 0
+fill ~14~1~5 ~16~1~26 minecraft:dirt 0
+fill ~14~2~5 ~17~2~5 minecraft:sandstone 0
+fill ~14~3~5 ~14~5~5 minecraft:lapis_block
+setblock ~14~6~5 minecraft:sandstone 0
+fill ~18~7~5 ~18~7~10 minecraft:sandstone 0
+fill ~18~8~5 ~18~8~10 minecraft:stone_block_slab 1
+fill ~19~8~5 ~21~8~6 minecraft:sandstone 0
+fill ~22~7~5 ~22~7~10 minecraft:sandstone 0
+fill ~22~8~5 ~22~8~10 minecraft:stone_block_slab 1
+fill ~23~2~5 ~25~2~5 minecraft:sandstone 0
+fill ~25~3~5 ~25~5~5 minecraft:lapis_block
+fill ~25~6~5 ~27~6~5 minecraft:sandstone 0
+fill ~26~2~5 ~26~2~9 minecraft:dirt 0
+fill ~26~3~5 ~27~3~6 minecraft:sandstone 0
+fill ~26~4~5 ~26~4~10 minecraft:sandstone 1
+fill ~26~5~5 ~27~5~8 minecraft:sandstone 0
+fill ~27~0~5 ~27~2~8 minecraft:sandstone 0
+fill ~28~0~5 ~37~1~7 minecraft:dirt 0
+fill ~28~2~5 ~28~2~7 minecraft:grass
+fill ~14~2~6 ~14~2~7 minecraft:lapis_block
+fill ~14~6~6 ~14~6~7 minecraft:lapis_block
+fill ~15~2~6 ~17~2~9 minecraft:sandstone 0
+fill ~23~2~6 ~24~2~9 minecraft:sandstone 0
+fill ~25~2~6 ~25~2~7 minecraft:lapis_block
+fill ~25~6~6 ~25~6~7 minecraft:lapis_block
+fill ~25~7~6 ~25~7~14 minecraft:double_stone_block_slab 1
+fill ~26~6~6 ~27~6~8 minecraft:sandstone 0
+fill ~26~7~6 ~26~7~8 minecraft:sandstone 0
+fill ~27~7~6 ~27~7~7 minecraft:stone_block_slab 1
+fill ~1~0~7 ~0~0~30 minecraft:dirt 0
+fill ~1~1~7 ~4~1~11 minecraft:dirt 0
+setblock ~1~0~7 minecraft:grass
+fill ~2~0~7 ~4~0~14 minecraft:dirt 0
+fill ~10~9~7 ~12~9~7 minecraft:wool 7
+fill ~10~10~7 ~10~11~7 minecraft:wool 7
+setblock ~11~10~7 minecraft:glowstone
+setblock ~11~11~7 minecraft:wool 7
+setblock ~12~10~7 minecraft:wool 7
+fill ~12~11~7 ~13~12~7 minecraft:wool 12
+fill ~12~17~7 ~12~18~7 minecraft:wool 7
+fill ~13~13~7 ~14~13~7 minecraft:wool 12
+fill ~13~15~7 ~13~16~7 minecraft:wool 7
+setblock ~13~17~7 minecraft:wool 8
+fill ~13~18~7 ~14~18~7 minecraft:wool 7
+setblock ~14~12~7 minecraft:wool 12
+setblock ~14~14~7 minecraft:wool 7
+fill ~14~15~7 ~14~16~7 minecraft:wool 8
+setblock ~14~17~7 minecraft:wool 7
+setblock ~15~13~7 minecraft:wool 7
+setblock ~15~14~7 minecraft:wool 8
+fill ~15~15~7 ~15~16~7 minecraft:wool 7
+fill ~15~22~7 ~15~24~7 minecraft:wool 7
+fill ~16~12~7 ~17~12~7 minecraft:wool 7
+fill ~16~13~7 ~17~13~7 minecraft:wool 8
+fill ~16~14~7 ~17~14~7 minecraft:wool 7
+setblock ~16~15~7 minecraft:wool 8
+setblock ~16~16~7 minecraft:wool 0
+setblock ~16~17~7 minecraft:wool 7
+setblock ~16~21~7 minecraft:wool 7
+setblock ~16~22~7 minecraft:wool 0
+setblock ~16~23~7 minecraft:wool 8
+fill ~16~24~7 ~17~24~7 minecraft:wool 7
+setblock ~17~15~7 minecraft:wool 0
+setblock ~17~16~7 minecraft:wool 8
+setblock ~17~17~7 minecraft:wool 0
+setblock ~17~18~7 minecraft:wool 7
+setblock ~17~20~7 minecraft:wool 7
+setblock ~17~21~7 minecraft:wool 0
+setblock ~17~22~7 minecraft:wool 8
+setblock ~17~23~7 minecraft:wool 0
+fill ~18~11~7 ~19~11~7 minecraft:wool 7
+setblock ~18~12~7 minecraft:wool 8
+setblock ~18~13~7 minecraft:wool 7
+setblock ~18~15~7 minecraft:wool 7
+setblock ~18~16~7 minecraft:wool 0
+setblock ~18~17~7 minecraft:wool 8
+setblock ~18~18~7 minecraft:wool 0
+setblock ~18~19~7 minecraft:wool 7
+setblock ~18~20~7 minecraft:wool 0
+setblock ~18~21~7 minecraft:wool 8
+setblock ~18~22~7 minecraft:wool 0
+setblock ~18~23~7 minecraft:wool 7
+fill ~19~8~7 ~19~8~10 minecraft:sandstone 0
+setblock ~19~12~7 minecraft:wool 7
+setblock ~19~16~7 minecraft:wool 7
+setblock ~19~17~7 minecraft:wool 0
+setblock ~19~18~7 minecraft:wool 8
+setblock ~19~19~7 minecraft:wool 0
+setblock ~19~20~7 minecraft:wool 8
+setblock ~19~21~7 minecraft:wool 0
+setblock ~19~22~7 minecraft:wool 7
+setblock ~20~8~7 minecraft:glowstone
+setblock ~20~17~7 minecraft:wool 7
+setblock ~20~18~7 minecraft:wool 0
+setblock ~20~19~7 minecraft:wool 8
+setblock ~20~20~7 minecraft:wool 0
+setblock ~20~21~7 minecraft:wool 7
+fill ~21~8~7 ~21~8~10 minecraft:sandstone 0
+fill ~21~11~7 ~22~11~7 minecraft:wool 7
+setblock ~21~12~7 minecraft:wool 7
+setblock ~21~16~7 minecraft:wool 7
+setblock ~21~17~7 minecraft:wool 0
+setblock ~21~18~7 minecraft:wool 8
+setblock ~21~19~7 minecraft:wool 0
+setblock ~21~20~7 minecraft:wool 8
+setblock ~21~21~7 minecraft:wool 0
+setblock ~21~22~7 minecraft:wool 7
+setblock ~22~12~7 minecraft:wool 8
+setblock ~22~13~7 minecraft:wool 7
+setblock ~22~15~7 minecraft:wool 7
+setblock ~22~16~7 minecraft:wool 0
+setblock ~22~17~7 minecraft:wool 8
+setblock ~22~18~7 minecraft:wool 0
+setblock ~22~19~7 minecraft:wool 7
+setblock ~22~20~7 minecraft:wool 0
+setblock ~22~21~7 minecraft:wool 8
+setblock ~22~22~7 minecraft:wool 0
+setblock ~22~23~7 minecraft:wool 7
+fill ~23~12~7 ~24~12~7 minecraft:wool 7
+fill ~23~13~7 ~24~13~7 minecraft:wool 8
+fill ~23~14~7 ~24~14~7 minecraft:wool 7
+setblock ~23~15~7 minecraft:wool 0
+setblock ~23~16~7 minecraft:wool 8
+setblock ~23~17~7 minecraft:wool 0
+setblock ~23~18~7 minecraft:wool 7
+setblock ~23~20~7 minecraft:wool 7
+setblock ~23~21~7 minecraft:wool 0
+setblock ~23~22~7 minecraft:wool 8
+setblock ~23~23~7 minecraft:wool 0
+fill ~23~24~7 ~25~24~7 minecraft:wool 7
+setblock ~24~15~7 minecraft:wool 8
+setblock ~24~16~7 minecraft:wool 0
+setblock ~24~17~7 minecraft:wool 7
+setblock ~24~21~7 minecraft:wool 7
+setblock ~24~22~7 minecraft:wool 0
+setblock ~24~23~7 minecraft:wool 8
+setblock ~25~13~7 minecraft:wool 7
+setblock ~25~14~7 minecraft:wool 8
+fill ~25~15~7 ~25~16~7 minecraft:wool 7
+fill ~25~22~7 ~25~23~7 minecraft:wool 7
+fill ~26~3~7 ~27~3~7 minecraft:sandstone 1
+fill ~26~12~7 ~28~12~7 minecraft:wool 12
+fill ~26~13~7 ~27~13~7 minecraft:wool 12
+setblock ~26~14~7 minecraft:wool 7
+fill ~26~15~7 ~26~16~7 minecraft:wool 8
+setblock ~26~17~7 minecraft:wool 7
+fill ~27~11~7 ~28~11~7 minecraft:wool 12
+fill ~27~15~7 ~27~16~7 minecraft:wool 7
+setblock ~27~17~7 minecraft:wool 8
+fill ~27~18~7 ~28~18~7 minecraft:wool 7
+fill ~28~9~7 ~30~9~7 minecraft:wool 7
+setblock ~28~10~7 minecraft:wool 7
+setblock ~28~17~7 minecraft:wool 7
+setblock ~29~10~7 minecraft:glowstone
+fill ~29~11~7 ~30~11~7 minecraft:wool 7
+setblock ~30~10~7 minecraft:wool 7
+fill ~1~0~8 ~1~0~19 minecraft:dirt 0
+fill ~5~0~8 ~7~0~13 minecraft:cobblestone
+fill ~5~1~8 ~7~2~13 minecraft:air
+fill ~6~23~8 ~7~23~8 minecraft:glowstone
+setblock ~6~24~8 minecraft:glowstone
+fill ~6~25~8 ~6~32~8 minecraft:wool 15
+fill ~6~33~8 ~6~34~8 minecraft:glowstone
+fill ~7~24~8 ~33~24~8 minecraft:wool 0
+fill ~7~25~8 ~8~25~8 minecraft:wool 0
+fill ~7~26~8 ~7~33~8 minecraft:wool 0
+setblock ~7~34~8 minecraft:glowstone
+fill ~8~0~8 ~12~1~8 minecraft:sandstone 0
+fill ~8~2~8 ~12~2~8 minecraft:sandstone 1
+fill ~8~3~8 ~12~3~8 minecraft:sandstone 0
+fill ~8~4~8 ~12~4~8 minecraft:sandstone 1
+fill ~8~5~8 ~12~7~8 minecraft:sandstone 0
+fill ~8~8~8 ~8~11~15 minecraft:sandstone 0
+fill ~8~23~8 ~32~23~8 minecraft:wool 15
+fill ~8~26~8 ~9~26~8 minecraft:wool 14
+fill ~8~27~8 ~8~28~8 minecraft:wool 14
+setblock ~8~29~8 minecraft:wool 0
+fill ~8~30~8 ~8~31~8 minecraft:wool 14
+fill ~8~32~8 ~8~33~8 minecraft:wool 0
+fill ~8~34~8 ~32~34~8 minecraft:wool 15
+fill ~9~8~8 ~17~8~8 minecraft:fence 0
+fill ~9~11~8 ~32~11~15 minecraft:sandstone 0
+fill ~9~25~8 ~12~25~8 minecraft:wool 14
+fill ~9~27~8 ~11~28~8 minecraft:wool 0
+fill ~9~29~8 ~13~29~8 minecraft:wool 14
+fill ~9~30~8 ~11~31~8 minecraft:wool 0
+fill ~9~32~8 ~12~32~8 minecraft:wool 14
+fill ~9~33~8 ~33~33~8 minecraft:wool 0
+fill ~10~26~8 ~11~26~8 minecraft:wool 0
+fill ~12~26~8 ~13~28~8 minecraft:wool 14
+fill ~12~30~8 ~13~31~8 minecraft:wool 14
+fill ~13~0~8 ~13~0~37 minecraft:dirt 0
+fill ~13~1~8 ~13~1~21 minecraft:dirt 0
+fill ~13~2~8 ~13~2~9 minecraft:dirt 0
+setblock ~13~4~8 minecraft:sandstone 0
+fill ~13~7~8 ~14~7~8 minecraft:sandstone 0
+fill ~13~25~8 ~16~25~8 minecraft:wool 0
+fill ~13~32~8 ~16~32~8 minecraft:wool 0
+fill ~14~2~8 ~14~2~9 minecraft:sandstone 0
+fill ~14~3~8 ~14~5~8 minecraft:lapis_block
+setblock ~14~6~8 minecraft:sandstone 0
+fill ~14~26~8 ~15~26~8 minecraft:wool 0
+fill ~14~27~8 ~14~31~8 minecraft:wool 0
+fill ~15~7~8 ~15~7~11 minecraft:double_stone_block_slab 1
+fill ~15~27~8 ~16~30~8 minecraft:wool 14
+setblock ~15~31~8 minecraft:wool 0
+fill ~16~26~8 ~20~26~8 minecraft:wool 14
+fill ~16~31~8 ~20~31~8 minecraft:wool 14
+fill ~17~25~8 ~19~25~8 minecraft:wool 14
+fill ~17~27~8 ~19~30~8 minecraft:wool 0
+fill ~17~32~8 ~19~32~8 minecraft:wool 14
+setblock ~20~8~8 minecraft:sandstone 0
+fill ~20~25~8 ~22~25~8 minecraft:wool 0
+fill ~20~27~8 ~21~30~8 minecraft:wool 14
+fill ~20~32~8 ~22~32~8 minecraft:wool 0
+fill ~21~26~8 ~23~26~8 minecraft:wool 0
+fill ~21~31~8 ~23~31~8 minecraft:wool 0
+fill ~22~27~8 ~23~30~8 minecraft:wool 0
+fill ~23~8~8 ~31~8~8 minecraft:fence 0
+fill ~23~25~8 ~26~25~8 minecraft:wool 14
+fill ~23~32~8 ~25~32~8 minecraft:wool 14
+fill ~24~26~8 ~25~31~8 minecraft:wool 14
+fill ~25~2~8 ~25~2~9 minecraft:sandstone 0
+fill ~25~3~8 ~25~5~8 minecraft:lapis_block
+setblock ~25~6~8 minecraft:sandstone 0
+setblock ~26~3~8 minecraft:sandstone 1
+fill ~26~26~8 ~27~26~8 minecraft:wool 0
+fill ~26~27~8 ~26~28~8 minecraft:wool 0
+fill ~26~29~8 ~27~29~8 minecraft:wool 14
+fill ~26~30~8 ~26~31~8 minecraft:wool 14
+fill ~26~32~8 ~29~32~8 minecraft:wool 0
+fill ~27~3~8 ~32~3~8 minecraft:sandstone 0
+fill ~27~4~8 ~32~4~8 minecraft:sandstone 1
+fill ~27~7~8 ~32~7~8 minecraft:sandstone 0
+fill ~27~25~8 ~29~25~8 minecraft:wool 0
+fill ~27~27~8 ~29~28~8 minecraft:wool 14
+fill ~27~30~8 ~28~31~8 minecraft:wool 0
+fill ~28~0~8 ~32~2~8 minecraft:sandstone 0
+fill ~28~5~8 ~32~6~8 minecraft:sandstone 0
+setblock ~28~26~8 minecraft:wool 14
+setblock ~28~29~8 minecraft:wool 0
+fill ~29~26~8 ~30~26~8 minecraft:wool 0
+fill ~29~29~8 ~31~30~8 minecraft:wool 14
+setblock ~29~31~8 minecraft:wool 0
+fill ~30~25~8 ~32~25~8 minecraft:wool 14
+fill ~30~27~8 ~30~28~8 minecraft:wool 0
+fill ~30~31~8 ~31~32~8 minecraft:wool 14
+fill ~31~26~8 ~31~28~8 minecraft:wool 14
+fill ~32~8~8 ~32~10~15 minecraft:sandstone 0
+fill ~32~26~8 ~33~31~8 minecraft:wool 0
+setblock ~32~32~8 minecraft:wool 14
+fill ~33~0~8 ~34~1~13 minecraft:dirt 0
+fill ~33~2~8 ~37~2~13 minecraft:grass
+fill ~33~23~8 ~34~23~8 minecraft:glowstone
+setblock ~33~25~8 minecraft:wool 0
+setblock ~33~32~8 minecraft:wool 0
+fill ~33~34~8 ~34~34~8 minecraft:glowstone
+setblock ~34~24~8 minecraft:glowstone
+fill ~34~25~8 ~34~32~8 minecraft:wool 15
+setblock ~34~33~8 minecraft:glowstone
+setblock ~35~0~8 minecraft:grass
+fill ~35~1~8 ~37~1~16 minecraft:dirt 0
+fill ~36~0~8 ~37~0~18 minecraft:dirt 0
+fill ~8~0~9 ~8~1~13 minecraft:sandstone 0
+fill ~8~2~9 ~8~2~13 minecraft:sandstone 1
+fill ~8~3~9 ~8~3~14 minecraft:sandstone 0
+fill ~8~4~9 ~8~4~14 minecraft:sandstone 1
+fill ~8~5~9 ~8~7~14 minecraft:sandstone 0
+fill ~9~0~9 ~12~0~20 minecraft:dirt 0
+fill ~9~1~9 ~12~1~19 minecraft:dirt 0
+fill ~9~2~9 ~12~2~9 minecraft:grass
+fill ~9~6~9 ~9~7~13 minecraft:sandstone 0
+fill ~9~8~9 ~9~8~14 minecraft:fence 0
+setblock ~10~6~9 minecraft:stone_block_slab 1
+fill ~11~5~9 ~11~5~10 minecraft:sandstone 0
+setblock ~12~5~9 minecraft:stone_block_slab 1
+setblock ~13~4~9 minecraft:double_stone_block_slab 1
+fill ~14~3~9 ~15~3~10 minecraft:sandstone 0
+setblock ~14~4~9 minecraft:stone_block_slab 1
+setblock ~16~3~9 minecraft:stone_block_slab 1
+fill ~17~8~9 ~17~8~11 minecraft:fence 0
+fill ~18~2~9 ~18~2~10 minecraft:stonebrick 0
+setblock ~18~3~9 minecraft:log 0
+fill ~18~4~9 ~18~4~10 minecraft:sandstone 1
+fill ~19~2~9 ~21~2~9 minecraft:glowstone
+setblock ~19~3~9 minecraft:sandstone 1
+setblock ~20~3~9 minecraft:ender_chest 2
+setblock ~20~8~9 minecraft:glowstone
+setblock ~21~3~9 minecraft:sandstone 1
+fill ~22~2~9 ~22~2~10 minecraft:stonebrick 0
+setblock ~22~3~9 minecraft:log 0
+fill ~22~4~9 ~22~4~10 minecraft:sandstone 1
+fill ~23~8~9 ~23~8~11 minecraft:fence 0
+setblock ~24~3~9 minecraft:stone_block_slab 1
+fill ~25~3~9 ~25~3~15 minecraft:sandstone 0
+fill ~27~0~9 ~31~0~10 minecraft:dirt 0
+fill ~27~1~9 ~31~1~9 minecraft:dirt 0
+fill ~27~2~9 ~30~2~9 minecraft:grass
+setblock ~27~4~9 minecraft:sandstone 0
+setblock ~28~5~9 minecraft:stone_block_slab 1
+fill ~29~5~9 ~29~5~10 minecraft:sandstone 0
+setblock ~30~6~9 minecraft:stone_block_slab 1
+setblock ~31~2~9 minecraft:dirt 0
+setblock ~31~3~9 minecraft:sandstone 1
+fill ~31~6~9 ~32~6~13 minecraft:sandstone 0
+fill ~31~7~9 ~32~7~10 minecraft:sandstone 0
+fill ~31~8~9 ~31~8~14 minecraft:fence 0
+fill ~32~0~9 ~32~2~13 minecraft:sandstone 0
+fill ~32~3~9 ~32~3~12 minecraft:sandstone 0
+fill ~32~4~9 ~32~4~14 minecraft:sandstone 1
+fill ~32~5~9 ~32~5~14 minecraft:sandstone 0
+fill ~35~0~9 ~35~0~16 minecraft:dirt 0
+fill ~9~2~10 ~11~2~10 minecraft:sponge 0
+fill ~9~3~10 ~12~3~10 minecraft:sandstone 0
+fill ~9~4~10 ~11~4~10 minecraft:sandstone 1
+fill ~9~5~10 ~10~5~12 minecraft:sandstone 0
+fill ~10~6~10 ~19~6~10 minecraft:sandstone 0
+setblock ~11~7~10 minecraft:glowstone
+fill ~12~2~10 ~13~2~10 sandstone
+fill ~12~4~10 ~13~5~10 minecraft:sandstone 0
+fill ~12~7~10 ~14~7~11 minecraft:double_stone_block_slab 1
+fill ~14~2~10 ~17~2~10 minecraft:sponge 0
+fill ~14~4~10 ~17~4~10 minecraft:sandstone 1
+fill ~14~5~10 ~18~5~10 minecraft:sandstone 0
+fill ~16~3~10 ~24~3~10 minecraft:sandstone 0
+fill ~19~2~10 ~21~2~10 minecraft:sandstone 0
+fill ~19~4~10 ~21~5~10 minecraft:glass
+fill ~19~7~10 ~21~7~12 minecraft:sandstone 0
+setblock ~20~6~10 minecraft:glass
+setblock ~20~8~10 minecraft:sandstone 0
+fill ~21~6~10 ~30~6~10 minecraft:sandstone 0
+fill ~22~5~10 ~28~5~10 minecraft:sandstone 0
+fill ~23~2~10 ~25~2~10 minecraft:sponge 0
+fill ~23~4~10 ~25~4~10 minecraft:sandstone 1
+setblock ~26~2~10 minecraft:sponge 1
+setblock ~26~3~10 minecraft:sandstone 1
+fill ~26~7~10 ~28~7~14 minecraft:double_stone_block_slab 1
+fill ~27~1~10 ~28~1~12 sandstone
+fill ~27~2~10 ~28~2~10 sandstone
+fill ~27~3~10 ~31~3~10 minecraft:sandstone 0
+fill ~27~4~10 ~31~4~10 minecraft:sandstone 1
+fill ~29~1~10 ~31~1~10 minecraft:dirt 0
+fill ~29~2~10 ~31~2~10 minecraft:sponge 0
+setblock ~29~7~10 minecraft:glowstone
+fill ~30~5~10 ~31~5~12 minecraft:sandstone 0
+fill ~9~2~11 ~9~2~12 minecraft:dirt 0
+fill ~9~3~11 ~10~4~11 minecraft:sandstone 0
+fill ~10~2~11 ~10~2~14 minecraft:sandstone 0
+fill ~10~6~11 ~10~6~14 minecraft:sandstone 0
+setblock ~10~7~11 minecraft:stone_block_slab 1
+setblock ~11~2~11 minecraft:dirt 0
+fill ~11~3~11 ~11~6~11 minecraft:lapis_block
+fill ~11~7~11 ~11~7~14 minecraft:double_stone_block_slab 1
+fill ~12~2~11 ~13~2~11 minecraft:lapis_block
+fill ~12~3~11 ~13~5~11 minecraft:air
+fill ~12~6~11 ~14~6~11 minecraft:lapis_block
+setblock ~14~2~11 minecraft:dirt 0
+fill ~14~3~11 ~14~5~11 minecraft:lapis_block
+fill ~15~2~11 ~16~2~13 minecraft:sandstone 0
+fill ~15~3~11 ~16~3~12 minecraft:sandstone 0
+fill ~15~4~11 ~15~5~13 minecraft:sandstone 0
+fill ~15~6~11 ~17~6~13 minecraft:double_stone_block_slab 1
+fill ~16~4~11 ~16~4~13 minecraft:sandstone 1
+fill ~16~5~11 ~16~5~13 minecraft:sandstone 0
+fill ~16~7~11 ~18~7~11 minecraft:double_stone_block_slab 1
+fill ~17~2~11 ~23~2~13 sandstone
+fill ~18~6~11 ~18~6~13 minecraft:stone_block_slab 9
+fill ~18~8~11 ~22~8~11 minecraft:fence 0
+fill ~22~6~11 ~22~6~13 minecraft:stone_block_slab 9
+setblock ~22~7~11 minecraft:double_stone_block_slab 1
+fill ~23~6~11 ~25~6~13 minecraft:double_stone_block_slab 1
+fill ~24~1~11 ~25~1~37 minecraft:dirt 0
+fill ~24~2~11 ~24~3~13 minecraft:sandstone 0
+fill ~24~4~11 ~24~4~13 minecraft:sandstone 1
+fill ~24~5~11 ~25~5~13 minecraft:sandstone 0
+fill ~25~2~11 ~26~2~11 sandstone
+setblock ~25~4~11 minecraft:sandstone 0
+fill ~26~1~11 ~26~1~13 sandstone
+fill ~26~3~11 ~26~6~11 minecraft:lapis_block
+fill ~27~0~11 ~28~0~13 sandstone
+fill ~27~2~11 ~28~2~11 minecraft:lapis_block
+fill ~27~6~11 ~29~6~11 minecraft:lapis_block
+fill ~29~0~11 ~31~0~20 minecraft:dirt 0
+fill ~29~1~11 ~29~1~13 sandstone
+fill ~29~2~11 ~30~2~11 sandstone
+fill ~29~3~11 ~29~5~11 minecraft:lapis_block
+fill ~29~7~11 ~29~7~14 minecraft:double_stone_block_slab 1
+fill ~30~1~11 ~31~1~19 minecraft:dirt 0
+fill ~30~3~11 ~31~4~11 minecraft:sandstone 0
+fill ~30~6~11 ~30~6~14 minecraft:sandstone 0
+setblock ~30~7~11 minecraft:stone_block_slab 1
+fill ~31~2~11 ~31~2~12 minecraft:dirt 0
+fill ~31~7~11 ~31~7~12 minecraft:double_stone_block_slab 1
+fill ~32~7~11 ~32~7~15 minecraft:sandstone 0
+fill ~1~1~12 ~2~1~13 minecraft:dirt 0
+setblock ~3~1~12 minecraft:grass
+fill ~4~1~12 ~4~1~24 minecraft:dirt 0
+fill ~8~12~12 ~32~12~12 minecraft:stone_block_slab 1
+fill ~9~3~12 ~9~4~12 minecraft:double_stone_block_slab 0
+setblock ~10~4~12 minecraft:wall_sign 5
+fill ~10~7~12 ~10~7~14 minecraft:double_stone_block_slab 1
+fill ~11~2~12 ~14~2~15 minecraft:double_stone_block_slab 1
+setblock ~11~4~12 minecraft:wall_sign 3
+setblock ~12~7~12 minecraft:double_stone_block_slab 1
+fill ~13~7~12 ~18~7~12 minecraft:sandstone 0
+setblock ~22~7~12 minecraft:sandstone 0
+fill ~25~2~12 ~25~2~28 sandstone
+fill ~25~4~12 ~25~4~15 minecraft:sandstone 1
+fill ~26~2~12 ~30~2~14 minecraft:sandstone 0
+setblock ~29~4~12 minecraft:wall_sign 3
+setblock ~30~4~12 minecraft:wall_sign 4
+fill ~30~7~12 ~30~7~14 minecraft:double_stone_block_slab 1
+fill ~31~3~12 ~31~4~12 minecraft:double_stone_block_slab 0
+fill ~3~1~13 ~3~1~29 minecraft:dirt 0
+fill ~8~12~13 ~32~12~13 minecraft:glowstone
+setblock ~9~2~13 minecraft:sandstone 0
+setblock ~9~5~13 minecraft:double_stone_block_slab 0
+setblock ~10~5~13 minecraft:redstone_torch 1
+fill ~12~7~13 ~13~7~13 minecraft:sandstone 0
+fill ~14~7~13 ~24~7~13 minecraft:double_stone_block_slab 1
+setblock ~15~3~13 minecraft:double_stone_block_slab 1
+setblock ~16~3~13 minecraft:sandstone 0
+fill ~27~1~13 ~28~1~13 minecraft:sandstone 0
+setblock ~30~5~13 minecraft:redstone_torch 2
+setblock ~31~2~13 minecraft:sandstone 0
+setblock ~31~5~13 minecraft:double_stone_block_slab 0
+fill ~31~7~13 ~31~7~14 minecraft:sandstone 0
+fill ~32~3~13 ~32~3~14 minecraft:sandstone 1
+fill ~1~1~14 ~1~1~14 minecraft:dirt 0
+setblock ~2~1~14 minecraft:grass
+fill ~5~0~14 ~6~0~14 minecraft:cobblestone
+fill ~5~1~14 ~6~2~14 minecraft:air
+fill ~7~0~14 ~7~1~14 minecraft:sandstone 0
+fill ~7~2~14 ~7~2~15 minecraft:sandstone 1
+setblock ~7~3~14 minecraft:sandstone 0
+setblock ~7~4~14 minecraft:sandstone 1
+fill ~7~5~14 ~7~5~15 minecraft:sandstone 0
+fill ~8~0~14 ~8~0~20 minecraft:dirt 0
+setblock ~8~1~14 minecraft:sandstone 0
+setblock ~8~2~14 minecraft:dirt 0
+fill ~8~12~14 ~32~12~15 minecraft:sandstone 0
+fill ~8~13~14 ~32~13~14 minecraft:stone_block_slab 1
+setblock ~9~2~14 minecraft:sandstone 1
+fill ~9~3~14 ~9~4~15 minecraft:double_stone_block_slab 0
+fill ~9~5~14 ~10~5~14 minecraft:sandstone 0
+fill ~9~6~14 ~9~6~15 minecraft:log 0
+setblock ~9~7~14 minecraft:double_stone_block_slab 1
+setblock ~10~4~14 minecraft:wall_sign 5
+fill ~12~7~14 ~16~7~14 minecraft:double_stone_block_slab 1
+setblock ~15~3~14 minecraft:sandstone 0
+fill ~15~4~14 ~15~4~15 minecraft:double_stone_block_slab 1
+fill ~15~5~14 ~15~6~14 minecraft:sandstone 0
+fill ~16~2~14 ~19~2~33 sandstone
+fill ~16~3~14 ~16~6~15 minecraft:log 0
+fill ~17~4~14 ~17~7~14 minecraft:log 0
+fill ~17~8~14 ~23~10~14 minecraft:glass
+fill ~18~5~14 ~18~7~14 minecraft:log 0
+fill ~19~6~14 ~19~7~14 minecraft:log 0
+setblock ~20~2~14 minecraft:mob_spawner
+fill ~20~7~14 ~23~7~14 minecraft:log 0
+fill ~21~2~14 ~23~2~33 sandstone
+fill ~21~6~14 ~24~6~14 minecraft:log 0
+fill ~22~5~14 ~24~5~14 minecraft:log 0
+fill ~23~4~14 ~24~4~14 minecraft:log 0
+setblock ~24~2~14 minecraft:sandstone 1
+fill ~24~3~14 ~24~3~15 minecraft:log 0
+setblock ~24~7~14 minecraft:double_stone_block_slab 1
+fill ~25~5~14 ~25~5~15 minecraft:sandstone 0
+setblock ~25~6~14 minecraft:sandstone 0
+fill ~26~1~14 ~26~1~37 minecraft:dirt 0
+fill ~27~0~14 ~28~0~20 minecraft:dirt 0
+fill ~27~1~14 ~28~1~14 sandstone
+fill ~29~1~14 ~29~1~19 minecraft:dirt 0
+setblock ~30~4~14 minecraft:wall_sign 4
+fill ~30~5~14 ~31~5~14 minecraft:sandstone 0
+fill ~31~2~14 ~32~2~14 minecraft:dirt 0
+fill ~31~3~14 ~31~4~15 minecraft:double_stone_block_slab 0
+fill ~31~6~14 ~31~6~15 minecraft:log 0
+fill ~32~0~14 ~32~1~20 minecraft:dirt 0
+fill ~32~6~14 ~33~6~15 minecraft:sandstone 0
+fill ~33~0~14 ~33~3~14 minecraft:sandstone 0
+setblock ~33~4~14 minecraft:sandstone 1
+fill ~33~5~14 ~33~5~15 minecraft:sandstone 0
+fill ~34~0~14 ~34~1~14 minecraft:dirt 0
+fill ~34~2~14 ~37~2~14 minecraft:grass
+setblock ~0~1~15 minecraft:grass
+fill ~1~1~15 ~2~1~16 minecraft:dirt 0
+setblock ~2~0~15 minecraft:grass
+fill ~3~0~15 ~4~0~16 minecraft:dirt 0
+fill ~5~0~15 ~5~0~16 minecraft:cobblestone
+fill ~5~1~15 ~5~2~16 minecraft:air
+fill ~6~0~15 ~6~1~16 minecraft:sandstone 0
+fill ~6~2~15 ~6~2~16 minecraft:sandstone 1
+fill ~6~3~15 ~6~3~16 minecraft:sandstone 0
+fill ~6~4~15 ~6~4~16 minecraft:sandstone 1
+fill ~6~5~15 ~6~5~16 minecraft:sandstone 0
+fill ~7~0~15 ~7~0~37 minecraft:dirt 0
+fill ~7~1~15 ~8~1~20 minecraft:dirt 0
+fill ~7~3~15 ~7~4~15 minecraft:double_stone_block_slab 0
+fill ~7~6~15 ~8~7~15 minecraft:sandstone 0
+fill ~7~8~15 ~7~13~15 minecraft:sandstone 0
+setblock ~7~14~15 minecraft:glowstone
+setblock ~8~2~15 minecraft:sandstone 0
+setblock ~8~5~15 minecraft:double_stone_block_slab 0
+fill ~8~13~15 ~33~13~33 minecraft:sandstone 0
+fill ~9~2~15 ~9~2~33 sandstone
+setblock ~9~5~15 minecraft:log 0
+fill ~9~7~15 ~16~7~15 minecraft:log 0
+fill ~9~8~15 ~16~10~15 minecraft:glass
+setblock ~10~2~15 minecraft:double_stone_block_slab 1
+setblock ~10~3~15 minecraft:sandstone 0
+fill ~10~4~15 ~10~5~15 minecraft:double_stone_block_slab 1
+setblock ~10~6~15 minecraft:log 0
+fill ~11~3~15 ~14~4~15 minecraft:ladder 2
+setblock ~15~3~15 minecraft:double_stone_block_slab 1
+setblock ~15~5~15 minecraft:double_stone_block_slab 1
+setblock ~15~6~15 minecraft:log 0
+fill ~20~2~15 ~20~2~33 sandstone
+fill ~24~2~15 ~24~2~33 sandstone
+fill ~24~4~15 ~24~7~15 minecraft:log 0
+fill ~24~8~15 ~31~10~15 minecraft:glass
+fill ~25~6~15 ~25~7~15 minecraft:log 0
+fill ~26~2~15 ~29~2~15 minecraft:sandstone 0
+fill ~26~3~15 ~29~4~15 minecraft:ladder 2
+fill ~26~7~15 ~31~7~15 minecraft:log 0
+fill ~27~1~15 ~28~1~20 minecraft:dirt 0
+fill ~30~2~15 ~31~2~33 sandstone
+fill ~30~3~15 ~30~5~15 minecraft:sandstone 0
+setblock ~30~6~15 minecraft:log 0
+setblock ~31~5~15 minecraft:log 0
+setblock ~32~2~15 minecraft:sandstone 0
+setblock ~32~5~15 minecraft:double_stone_block_slab 0
+fill ~33~0~15 ~33~0~37 minecraft:dirt 0
+fill ~33~1~15 ~33~1~21 minecraft:dirt 0
+setblock ~33~2~15 minecraft:dirt 0
+fill ~33~3~15 ~33~4~15 minecraft:double_stone_block_slab 0
+fill ~33~7~15 ~33~12~15 minecraft:sandstone 0
+setblock ~33~14~15 minecraft:glowstone
+fill ~34~0~15 ~34~3~16 minecraft:sandstone 0
+fill ~34~4~15 ~34~4~16 minecraft:sandstone 1
+fill ~34~5~15 ~34~6~16 minecraft:sandstone 0
+fill ~35~2~15 ~37~2~16 minecraft:grass
+fill ~1~1~16 ~0~1~24 minecraft:dirt 0
+fill ~2~0~16 ~2~0~17 minecraft:dirt 0
+fill ~6~6~16 ~6~13~16 minecraft:sandstone 0
+setblock ~6~14~16 minecraft:glowstone
+fill ~7~2~16 ~8~2~33 sandstone
+setblock ~7~4~16 minecraft:wall_sign 3
+fill ~7~13~16 ~7~13~33 minecraft:sandstone 0
+setblock ~9~4~16 minecraft:wall_sign 3
+fill ~10~2~16 ~15~2~26 sandstone
+fill ~11~3~16 ~14~4~16 minecraft:double_stone_block_slab 1
+fill ~26~2~16 ~29~2~33 sandstone
+fill ~26~3~16 ~29~4~16 minecraft:sandstone 0
+setblock ~31~4~16 minecraft:wall_sign 3
+fill ~32~2~16 ~33~2~32 sandstone
+setblock ~33~4~16 minecraft:wall_sign 3
+fill ~34~7~16 ~34~13~16 minecraft:sandstone 0
+setblock ~34~14~16 minecraft:glowstone
+setblock ~1~1~17 minecraft:grass
+fill ~2~1~17 ~2~1~22 minecraft:dirt 0
+setblock ~3~0~17 minecraft:grass
+fill ~4~0~17 ~4~0~37 minecraft:dirt 0
+fill ~5~0~17 ~5~1~18 minecraft:sandstone 0
+fill ~5~2~17 ~5~2~18 minecraft:sandstone 1
+fill ~5~3~17 ~5~3~18 minecraft:sandstone 0
+fill ~5~4~17 ~5~4~18 minecraft:sandstone 1
+fill ~5~5~17 ~5~13~18 minecraft:sandstone 0
+fill ~5~14~17 ~5~14~18 minecraft:glowstone
+fill ~6~0~17 ~6~1~37 minecraft:dirt 0
+fill ~6~2~17 ~6~2~32 sandstone
+fill ~6~3~17 ~6~3~31 sandstone
+fill ~6~13~17 ~6~13~32 minecraft:sandstone 0
+fill ~34~0~17 ~34~1~37 minecraft:dirt 0
+fill ~34~2~17 ~34~2~31 sandstone
+fill ~34~13~17 ~35~13~31 minecraft:sandstone 0
+fill ~35~0~17 ~35~3~18 minecraft:sandstone 0
+fill ~35~4~17 ~35~4~18 minecraft:sandstone 1
+fill ~35~5~17 ~35~12~18 minecraft:sandstone 0
+fill ~35~14~17 ~35~14~18 minecraft:glowstone
+fill ~36~1~17 ~37~1~18 minecraft:dirt 0
+fill ~36~2~17 ~37~2~18 minecraft:grass
+fill ~1~1~18 ~1~1~37 minecraft:dirt 0
+setblock ~2~0~18 minecraft:grass
+fill ~3~0~18 ~3~0~22 minecraft:dirt 0
+fill ~7~3~18 ~7~3~32 sandstone
+fill ~1~2~19 ~3~2~37 minecraft:grass
+fill ~2~0~19 ~2~0~30 minecraft:dirt 0
+fill ~4~2~19 ~4~2~27 minecraft:dirt 0
+fill ~4~3~19 ~4~3~27 minecraft:sandstone 0
+fill ~4~4~19 ~4~4~27 minecraft:sandstone 1
+fill ~4~5~19 ~4~10~27 minecraft:sandstone 0
+fill ~4~11~19 ~4~13~19 minecraft:sandstone 0
+fill ~4~14~19 ~4~14~27 minecraft:glowstone
+fill ~5~0~19 ~5~1~37 minecraft:dirt 0
+fill ~5~2~19 ~5~2~31 sandstone
+fill ~5~3~19 ~5~3~29 sandstone
+fill ~5~13~19 ~5~13~31 minecraft:sandstone 0
+fill ~8~3~19 ~8~3~22 sandstone
+setblock ~23~3~19 sandstone
+fill ~35~0~19 ~35~0~26 minecraft:dirt 0
+fill ~35~1~19 ~35~2~19 sandstone
+fill ~36~0~19 ~36~3~29 minecraft:sandstone 0
+fill ~36~4~19 ~36~4~29 minecraft:sandstone 1
+fill ~36~5~19 ~36~10~29 minecraft:sandstone 0
+fill ~36~11~19 ~36~13~19 minecraft:sandstone 0
+fill ~36~14~19 ~36~14~29 minecraft:glowstone
+fill ~37~0~19 ~37~1~37 minecraft:dirt 0
+fill ~37~2~19 ~37~2~29 minecraft:grass
+setblock ~1~0~20 minecraft:grass
+setblock ~4~11~20 minecraft:glass
+fill ~4~12~20 ~4~13~27 minecraft:sandstone 0
+fill ~9~1~20 ~11~1~26 sandstone
+fill ~9~3~20 ~10~3~33 sandstone
+setblock ~12~1~20 minecraft:dirt 0
+fill ~29~1~20 ~31~1~26 sandstone
+fill ~35~1~20 ~35~1~28 minecraft:dirt 0
+fill ~35~2~20 ~35~2~30 sandstone
+setblock ~36~11~20 minecraft:glass
+fill ~36~12~20 ~36~13~29 minecraft:sandstone 0
+fill ~1~0~21 ~1~0~34 minecraft:dirt 0
+setblock ~4~11~21 minecraft:sandstone 0
+setblock ~7~1~21 minecraft:dirt 0
+fill ~8~0~21 ~12~0~25 sandstone
+fill ~8~1~21 ~8~1~25 sandstone
+fill ~11~3~21 ~12~3~23 sandstone
+fill ~12~1~21 ~12~1~25 sandstone
+fill ~27~0~21 ~27~0~37 minecraft:dirt 0
+setblock ~27~1~21 minecraft:dirt 0
+fill ~28~0~21 ~32~0~25 sandstone
+fill ~28~1~21 ~28~1~25 sandstone
+fill ~31~3~21 ~31~3~29 sandstone
+fill ~32~1~21 ~32~1~25 sandstone
+setblock ~36~11~21 minecraft:sandstone 0
+fill ~1~3~22 ~2~3~22 minecraft:fence 0
+setblock ~4~11~22 minecraft:glass
+fill ~7~1~22 ~7~1~24 sandstone
+fill ~13~1~22 ~13~1~24 sandstone
+setblock ~13~3~22 sandstone
+fill ~27~1~22 ~27~1~24 sandstone
+fill ~30~3~22 ~30~3~23 sandstone
+fill ~32~3~22 ~32~3~28 sandstone
+fill ~33~1~22 ~33~1~24 sandstone
+setblock ~36~11~22 minecraft:glass
+setblock ~2~1~23 minecraft:grass
+setblock ~3~0~23 minecraft:grass
+setblock ~4~11~23 minecraft:sandstone 0
+setblock ~8~3~23 minecraft:mob_spawner
+fill ~28~3~23 ~29~3~26 sandstone
+fill ~33~3~23 ~33~3~28 sandstone
+setblock ~36~11~23 minecraft:sandstone 0
+fill ~2~1~24 ~2~1~35 minecraft:dirt 0
+fill ~3~0~24 ~3~0~28 minecraft:dirt 0
+setblock ~4~11~24 minecraft:glass
+fill ~8~3~24 ~8~3~32 sandstone
+fill ~11~3~24 ~11~3~33 sandstone
+setblock ~13~3~24 sandstone
+setblock ~25~3~24 sandstone
+fill ~27~3~24 ~27~3~26 sandstone
+setblock ~30~3~24 minecraft:mob_spawner
+fill ~34~3~24 ~34~3~28 sandstone
+setblock ~36~11~24 minecraft:glass
+setblock ~0~1~25 minecraft:grass
+setblock ~4~1~25 minecraft:grass
+setblock ~4~11~25 minecraft:sandstone 0
+fill ~7~1~25 ~7~1~37 minecraft:dirt 0
+fill ~13~1~25 ~13~1~37 minecraft:dirt 0
+fill ~27~1~25 ~27~1~37 minecraft:dirt 0
+fill ~30~3~25 ~30~3~29 sandstone
+fill ~32~4~25 ~32~4~28 sandstone
+fill ~33~1~25 ~33~1~37 minecraft:dirt 0
+setblock ~36~11~25 minecraft:sandstone 0
+fill ~1~1~26 ~0~1~34 minecraft:dirt 0
+fill ~4~1~26 ~4~1~37 minecraft:dirt 0
+setblock ~4~11~26 minecraft:glass
+setblock ~7~4~26 sandstone
+fill ~8~0~26 ~12~0~37 minecraft:dirt 0
+fill ~8~1~26 ~8~1~37 minecraft:dirt 0
+fill ~12~1~26 ~12~1~37 minecraft:dirt 0
+setblock ~20~3~26 minecraft:mob_spawner
+fill ~21~3~26 ~21~3~32 sandstone
+setblock ~26~3~26 sandstone
+fill ~28~0~26 ~32~0~37 minecraft:dirt 0
+fill ~28~1~26 ~28~1~37 minecraft:dirt 0
+fill ~30~4~26 ~31~4~26 sandstone
+fill ~32~1~26 ~32~1~37 minecraft:dirt 0
+fill ~33~4~26 ~33~4~27 sandstone
+setblock ~36~11~26 minecraft:glass
+setblock ~4~11~27 minecraft:sandstone 0
+fill ~9~1~27 ~11~1~37 minecraft:dirt 0
+fill ~10~2~27 ~14~2~33 sandstone
+fill ~12~3~27 ~12~3~33 sandstone
+fill ~14~1~27 ~14~1~28 minecraft:dirt 0
+setblock ~15~1~27 sandstone
+setblock ~15~2~27 minecraft:mob_spawner
+fill ~16~1~27 ~16~1~37 minecraft:dirt 0
+fill ~19~3~27 ~20~3~31 sandstone
+fill ~22~3~27 ~23~3~28 sandstone
+fill ~29~1~27 ~31~1~28 minecraft:dirt 0
+fill ~29~3~27 ~29~3~28 sandstone
+fill ~31~4~27 ~31~4~28 sandstone
+setblock ~36~11~27 minecraft:sandstone 0
+fill ~4~2~28 ~4~2~37 minecraft:grass
+fill ~5~4~28 ~5~12~30 minecraft:sandstone 0
+fill ~5~14~28 ~5~14~31 minecraft:glowstone
+fill ~15~1~28 ~15~1~37 minecraft:dirt 0
+fill ~15~2~28 ~15~2~33 sandstone
+fill ~18~3~28 ~18~3~30 sandstone
+fill ~20~4~28 ~21~4~29 sandstone
+setblock ~30~4~28 sandstone
+fill ~35~0~28 ~35~0~37 minecraft:dirt 0
+setblock ~36~11~28 minecraft:glass
+setblock ~3~0~29 minecraft:grass
+fill ~6~4~29 ~8~4~31 sandstone
+fill ~6~5~29 ~6~5~31 sandstone
+setblock ~9~4~29 minecraft:sandstone 0
+setblock ~14~1~29 sandstone
+fill ~22~3~29 ~22~3~30 sandstone
+setblock ~25~2~29 minecraft:mob_spawner
+setblock ~29~1~29 minecraft:mob_spawner
+fill ~30~1~29 ~31~1~37 minecraft:dirt 0
+setblock ~35~1~29 sandstone
+setblock ~36~11~29 minecraft:sandstone 0
+fill ~3~0~30 ~3~0~37 minecraft:dirt 0
+setblock ~3~1~30 minecraft:grass
+fill ~5~3~30 ~5~3~31 minecraft:sandstone 0
+fill ~7~5~30 ~8~5~32 sandstone
+fill ~9~4~30 ~9~4~33 sandstone
+fill ~14~1~30 ~14~1~37 minecraft:dirt 0
+fill ~18~1~30 ~18~1~37 minecraft:dirt 0
+setblock ~19~1~30 minecraft:mob_spawner
+fill ~19~4~30 ~20~4~30 sandstone
+fill ~20~1~30 ~22~1~37 minecraft:dirt 0
+fill ~25~2~30 ~25~2~33 sandstone
+fill ~29~1~30 ~29~1~37 minecraft:dirt 0
+fill ~35~1~30 ~36~1~37 minecraft:dirt 0
+fill ~35~3~30 ~35~3~31 minecraft:sandstone 0
+fill ~35~4~30 ~35~4~31 minecraft:sandstone 1
+fill ~35~5~30 ~35~12~31 minecraft:sandstone 0
+fill ~35~14~30 ~35~14~31 minecraft:glowstone
+fill ~36~0~30 ~36~0~37 minecraft:dirt 0
+fill ~36~2~30 ~37~2~31 minecraft:dirt 0
+setblock ~0~0~31 minecraft:grass
+fill ~2~0~31 ~2~0~32 minecraft:grass
+fill ~3~1~31 ~3~1~37 minecraft:dirt 0
+setblock ~5~4~31 minecraft:sandstone 1
+fill ~5~5~31 ~5~12~31 minecraft:sandstone 0
+fill ~10~4~31 ~10~4~33 sandstone
+fill ~19~1~31 ~19~1~37 minecraft:dirt 0
+setblock ~35~2~31 minecraft:dirt 0
+fill ~1~0~32 ~0~0~37 minecraft:dirt 0
+setblock ~5~2~32 minecraft:dirt 0
+setblock ~6~3~32 minecraft:sandstone 0
+setblock ~6~4~32 minecraft:sandstone 1
+fill ~6~5~32 ~6~10~32 minecraft:sandstone 0
+setblock ~6~11~32 minecraft:glass
+setblock ~6~12~32 minecraft:sandstone 0
+setblock ~6~14~32 minecraft:glowstone
+fill ~7~4~32 ~8~4~32 sandstone
+fill ~9~5~32 ~9~5~33 sandstone
+fill ~18~3~32 ~18~3~33 sandstone
+setblock ~20~3~32 sandstone
+fill ~34~2~32 ~34~2~37 minecraft:dirt 0
+setblock ~34~3~32 minecraft:sandstone 0
+setblock ~34~4~32 minecraft:sandstone 1
+fill ~34~5~32 ~34~10~32 minecraft:sandstone 0
+setblock ~34~11~32 minecraft:glass
+fill ~34~12~32 ~34~13~32 minecraft:sandstone 0
+setblock ~34~14~32 minecraft:glowstone
+fill ~35~2~32 ~36~2~32 minecraft:grass
+fill ~37~2~32 ~37~2~37 minecraft:dirt 0
+fill ~2~0~33 ~2~0~37 minecraft:dirt 0
+fill ~5~2~33 ~6~2~36 minecraft:grass
+fill ~7~3~33 ~8~3~33 minecraft:sandstone 0
+fill ~7~4~33 ~8~4~33 minecraft:sandstone 1
+fill ~7~5~33 ~8~12~33 minecraft:sandstone 0
+fill ~7~14~33 ~8~14~33 minecraft:glowstone
+setblock ~11~4~33 sandstone
+setblock ~13~3~33 sandstone
+fill ~16~3~33 ~17~3~33 sandstone
+setblock ~16~4~33 sandstone
+setblock ~19~3~33 sandstone
+fill ~32~2~33 ~33~2~33 minecraft:dirt 0
+fill ~32~3~33 ~33~3~33 minecraft:sandstone 0
+fill ~32~4~33 ~33~4~33 minecraft:sandstone 1
+fill ~32~5~33 ~33~12~33 minecraft:sandstone 0
+fill ~32~14~33 ~33~14~33 minecraft:glowstone
+fill ~35~2~33 ~36~2~37 minecraft:dirt 0
+fill ~7~2~34 ~8~2~35 minecraft:grass
+setblock ~7~3~34 minecraft:tallgrass 0
+fill ~9~2~34 ~31~2~34 minecraft:dirt 0
+fill ~9~3~34 ~31~3~34 minecraft:sandstone 0
+fill ~9~4~34 ~27~4~34 minecraft:sandstone 1
+fill ~9~5~34 ~31~10~34 minecraft:sandstone 0
+fill ~9~11~34 ~9~13~34 minecraft:sandstone 0
+fill ~9~14~34 ~31~14~34 minecraft:glowstone
+setblock ~10~11~34 minecraft:glass
+fill ~10~12~34 ~31~13~34 minecraft:sandstone 0
+setblock ~11~11~34 minecraft:sandstone 0
+setblock ~12~11~34 minecraft:glass
+setblock ~13~11~34 minecraft:sandstone 0
+setblock ~14~11~34 minecraft:glass
+setblock ~15~11~34 minecraft:sandstone 0
+setblock ~16~11~34 minecraft:glass
+setblock ~17~11~34 minecraft:sandstone 0
+setblock ~18~11~34 minecraft:glass
+setblock ~19~11~34 minecraft:sandstone 0
+setblock ~20~11~34 minecraft:glass
+setblock ~21~11~34 minecraft:sandstone 0
+setblock ~22~11~34 minecraft:glass
+setblock ~23~11~34 minecraft:sandstone 0
+setblock ~24~11~34 minecraft:glass
+setblock ~25~11~34 minecraft:sandstone 0
+setblock ~26~11~34 minecraft:glass
+setblock ~27~11~34 minecraft:sandstone 0
+setblock ~28~4~34 minecraft:sandstone 0
+setblock ~28~11~34 minecraft:glass
+fill ~29~4~34 ~31~4~34 minecraft:sandstone 1
+setblock ~29~11~34 minecraft:sandstone 0
+setblock ~30~11~34 minecraft:glass
+setblock ~31~11~34 minecraft:sandstone 0
+setblock ~32~2~34 minecraft:grass
+fill ~33~2~34 ~33~2~37 minecraft:dirt 0
+setblock ~0~1~35 minecraft:grass
+setblock ~1~0~35 minecraft:grass
+fill ~9~2~35 ~31~2~37 minecraft:grass
+setblock ~32~2~35 minecraft:dirt 0
+fill ~1~1~36 ~0~1~37 minecraft:dirt 0
+fill ~1~0~36 ~1~0~37 minecraft:dirt 0
+setblock ~2~1~36 minecraft:grass
+setblock ~7~2~36 minecraft:dirt 0
+fill ~8~2~36 ~8~2~37 minecraft:grass
+setblock ~32~2~36 minecraft:grass
+setblock ~2~1~37 minecraft:dirt 0
+fill ~5~2~37 ~6~2~37 minecraft:dirt 0
+setblock ~7~2~37 minecraft:grass
+setblock ~8~3~37 minecraft:tallgrass 0
+setblock ~32~2~37 minecraft:dirt 0
